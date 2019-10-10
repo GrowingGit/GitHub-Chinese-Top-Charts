@@ -17,7 +17,7 @@
   - [CSS](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#CSS)
   - [HTML](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#HTML)
   - [Objective-C](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Objective-C)
-  - [Swift](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Swift)
+  - [Swift](#Swift)
   - [Jupyter Notebook](#Jupyter-Notebook)
   - [Shell](#Shell)
   - [C](#C)
@@ -27,6 +27,216 @@
   - [TeX](#TeX)
 
 <br/>
+
+## Swift
+
+| #    | Repository                                                   | Description                                                  | Stars | Language | Updated |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | -------- | ------- |
+| 1    | [yanue/V2rayU](https://github.com/yanue/V2rayU)              | V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift4.2编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等 | 3.3k  | Swift    | 10/08   |
+| 2    | [Lax/Learn-iOS-Swift-by-Examples](https://github.com/Lax/Learn-iOS-Swift-by-Examples) | 精心收集并分类整理的Swift开发学习资源，包括Apple官方提供的示例代码和文档，以及github上的项目和国内外开发者的技术博客。欢迎提交pull-request一起维护。https://t.me/SwiftCN QQ交流群 32958950 申请请注明开发经验 | 3.0k  | Swift    | 06/25   |
+| 3    | [Caldis/Mos](https://github.com/Caldis/Mos)                  | 一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  \|  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on MacOS | 2.9k  | Swift    | 09/24   |
+| 4    | [SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly) | 🇨🇳 老司机 iOS 周报                                           | 2.7k  | Swift    | 09/30   |
+| 5    | [hrscy/TodayNews](https://github.com/hrscy/TodayNews)        | Swift4 - 今日头条                                            | 2.1k  | Swift    | 07/03   |
+| 6    | [tid-kijyun/Kanna](https://github.com/tid-kijyun/Kanna)      | Kanna(鉋) is an XML/HTML parser for Swift.                   | 1.9k  | Swift    | 05/22   |
+| 7    | [wxxsw/SwiftTheme](https://github.com/wxxsw/SwiftTheme)      | 🎨 Powerful theme/skin manager for iOS 8+ 主题/换肤, 暗色模式 | 1.7k  | Swift    | 09/28   |
+| 8    | [Danie1s/Tiercel](https://github.com/Danie1s/Tiercel)        | 简单易用且功能丰富的纯Swift下载框架                          | 1.4k  | Swift    | 09/02   |
+| 9    | [ApolloZhu/Developing-iOS-11-Apps-with-Swift](https://github.com/ApolloZhu/Developing-iOS-11-Apps-with-Swift) | Stanford 公开课，Developing iOS 11 Apps with Swift 字幕翻译  | 1.1k  | Swift    | 03/22   |
+| 10   | [MxABC/swiftScan](https://github.com/MxABC/swiftScan)        | A barcode and qr code scanner( 二维码 各种码识别，生成，界面效果) | 1.1k  | Swift    | 09/21   |
+| 11   | [netyouli/WHC_ConfuseSoftware](https://github.com/netyouli/WHC_ConfuseSoftware) | u3d、cocos2dx、iOS代码混淆、自动翻新专家(WHC_ConfuseSoftware)是一款新一代运行在MAC OS平台的App、完美支持Objc和Swift、U3D、Cocos2dx项目代码的自动翻新(混淆)、支持文件夹名称、文件名、修改资源文件hash值、类名、方法名、属性名、添加混淆函数方法体、添加混淆属性、自动调用生成的混淆方法、字符串混淆加密等。。。功能强大而稳定。 | 869   | Swift    | 09/27   |
+| 12   | [honghaoz/Ji](https://github.com/honghaoz/Ji)                | Ji (戟) is an XML/HTML parser for Swift                      | 812   | Swift    | 09/22   |
+| 13   | [pujiaxin33/JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView) | A powerful and easy to use segmented view (segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图) | 797   | Swift    | 10/09   |
+| 14   | [dengzemiao/DZMeBookRead](https://github.com/dengzemiao/DZMeBookRead) | (支持项目使用)最完整小说阅读器Demo。(仿iReader(掌阅),QQ阅读等常用阅读器阅读页面),支持字体,翻页效果(无效果,覆盖,仿真,上下滚动),字体切换,书签功能,阅读记录,亮度调整,背景颜色切换 等等.. | 782   | Swift    | 09/10   |
+| 15   | [Harley-xk/MaLiang](https://github.com/Harley-xk/MaLiang)    | iOS painting library based on Metal. 神笔马良有一支神笔（基于 Metal 的涂鸦绘图库） | 738   | Swift    | 09/06   |
+| 16   | [jkpang/PPBadgeView](https://github.com/jkpang/PPBadgeView)  | iOS Custom Badge, Support UIView, UITabBarItem, UIBarButtonItem ,Support Objective-C/Swift; iOS自定义Badge组件, 支持UIView, UITabBarItem, UIBarButtonItem, 支持Objective-C/Swift | 704   | Swift    | 08/23   |
+| 17   | [L-Zephyr/Drafter](https://github.com/L-Zephyr/Drafter)      | 在iOS项目中自动生成类图和方法调用图 - Generate call graph in iOS project | 686   | Swift    | 06/01   |
+| 18   | [JiongXing/PhotoBrowser](https://github.com/JiongXing/PhotoBrowser) | Elegant photo browser in Swift. 图片浏览器，类似微信         | 657   | Swift    | 08/14   |
+| 19   | [spicyShrimp/U17](https://github.com/spicyShrimp/U17)        | 精仿有妖气漫画(Swift5)                                       | 639   | Swift    | 08/20   |
+| 20   | [SherlockQi/HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) | AR相册  Photo Album For AR                                   | 553   | Swift    | 05/06   |
+| 21   | [lb2281075105/LBXMLYFM-Swift](https://github.com/lb2281075105/LBXMLYFM-Swift) | Swift5项目仿写喜马拉雅App，采用MVC+MVVM设计模式，Moya+SwiftyJSON+HandyJSON网络框架和数据解析。数据来源抓包及部分本地json文件 | 538   | Swift    | 07/07   |
+| 22   | [zyphs21/HSStockChart](https://github.com/zyphs21/HSStockChart) | Stock Chart  include CandleStickChart,TimeLineChart. 股票走势图，包括 K 线图，分时图，手势缩放，拖动 | 532   | Swift    | 04/03   |
+| 23   | [LeoMobileDeveloper/PullToRefreshKit](https://github.com/LeoMobileDeveloper/PullToRefreshKit) | Pull to refresh in Swift, easy to use, easy to customize（下拉刷新/QQ/淘宝/优酷/雅虎天气/大众点评） | 472   | Swift    | 07/03   |
+| 24   | [ApolloZhu/Developing-iOS-10-Apps-with-Swift](https://github.com/ApolloZhu/Developing-iOS-10-Apps-with-Swift) | Stanford 公开课，Developing iOS 10 Apps with Swift 字幕翻译  | 389   | Swift    | 03/10   |
+| 25   | [MQZHot/ZLaunchAd](https://github.com/MQZHot/ZLaunchAd)      | 快速集成启动广告,支持LaunchImage和LaunchScreen,支持GIF,支持本地图片,支持视图过渡动画 | 366   | Swift    | 09/30   |
+| 26   | [zhiquan911/CHKLineChart](https://github.com/zhiquan911/CHKLineChart) | 纯Swift4.0代码编写的K线图表组件，支持：MA,EMA,BOLL,SAR,KDJ,MACD等技术指标显示。集成使用简单，二次开发扩展强大 | 358   | Swift    | 07/16   |
+| 27   | [LinXunFeng/LXFFM](https://github.com/LinXunFeng/LXFFM)      | 高仿喜马拉雅FM                                               | 340   | Swift    | 04/14   |
+| 28   | [Danie1s/DNSPageView](https://github.com/Danie1s/DNSPageView) | 一个纯Swift的轻量级、灵活且易于使用的pageView                | 328   | Swift    | 09/18   |
+| 29   | [mengxianliang/XLCardSwitch](https://github.com/mengxianliang/XLCardSwitch) | iOS 利用余弦函数特性实现可以居中放大的图片浏览工具           | 300   | Swift    | 09/11   |
+| 30   | [Vegetarians/Lotusoot](https://github.com/Vegetarians/Lotusoot) | 灵活的 Swift 组件解耦和通信工具                              | 298   | Swift    | 05/11   |
+| 31   | [mrriddler/MicroKernel](https://github.com/mrriddler/MicroKernel) | MicroKernel是一个客户端微内核架构                            | 293   | Swift    | 03/16   |
+| 32   | [dudongge/DDGScreenShot](https://github.com/dudongge/DDGScreenShot) | DDGScreenShot截屏图片处理，只需一句代码,复杂屏幕截屏（如view ScrollView webView wkwebView）,图片后期处理，拼图，裁剪等 | 285   | Swift    | 04/26   |
+| 33   | [liuyubobobo/Play-with-Swift-2](https://github.com/liuyubobobo/Play-with-Swift-2) | The code of my MOOC Course - <Play with Swift 2>(supporting for the newest Swift 2.2). 我在慕课网上的课程《玩儿转 Swift 2》示例代码及更新（支持最新的Swift2.2）。 | 277   | Swift    | 03/09   |
+| 34   | [mythkiven/DiffuseMenu_Swift](https://github.com/mythkiven/DiffuseMenu_Swift) | 点击菜单弹射选项的动画效果,Swift 语言版AwesomeMenu           | 264   | Swift    | 07/25   |
+| 35   | [LvJianfeng/LLCycleScrollView](https://github.com/LvJianfeng/LLCycleScrollView) | Swift - 轮播图，文本轮播，支持左右箭头                       | 251   | Swift    | 06/17   |
+| 36   | [mythkiven/AD_Fastlane](https://github.com/mythkiven/AD_Fastlane) | iOS App 自动化上传 AppStore ,一键部署 App。自动上传蒲公英    | 250   | Swift    | 07/25   |
+| 37   | [JavenZ/ZJTableViewManager](https://github.com/JavenZ/ZJTableViewManager) | 强大的数据驱动的TableView，构建复杂TableView从未如此轻松。   | 237   | Swift    | 09/04   |
+| 38   | [DarielChen/iOSTips](https://github.com/DarielChen/iOSTips)  | 记录iOS（Swift）开发中的一些知识点、小技巧                   | 233   | Swift    | 08/08   |
+| 39   | [lixiang1994/AutoInch](https://github.com/lixiang1994/AutoInch) | 优雅的iPhone全尺寸/等比例精准适配工具                        | 227   | Swift    | 07/10   |
+| 40   | [Xinguang/WechatKit](https://github.com/Xinguang/WechatKit)  | 一款快速实现微信第三方登录的框架(Swift版) SDK 1.8.5          | 220   | Swift    | 08/19   |
+| 41   | [chenjie1219/cartool](https://github.com/chenjie1219/cartool) | Mac上解压Assets.car文件的小工具(支持右键解压)                | 220   | Swift    | 01/14   |
+| 42   | [chenjie1219/SwiftScan](https://github.com/chenjie1219/SwiftScan) | A barcode and qr code scanner( 二维码/条形码扫描、生成，仿微信、支付宝) | 217   | Swift    | 04/01   |
+| 43   | [choiceyou/FWPopupView](https://github.com/choiceyou/FWPopupView) | 弹窗控件：支持AlertView、Sheet、自定义视图的PopupView。AlertView中可以嵌套自定义视图，各组件的显示隐藏可配置；Sheet仿微信样式；同时提供自定义弹出。更多配置请参考”可设置参数“，提供OC使用Demo。 | 216   | Swift    | 10/09   |
+| 44   | [ZzzM/HostsToolforMac](https://github.com/ZzzM/HostsToolforMac) | HostsToolforMac是Mac平台下的一个简易工具，来获取最新的hosts更新。 | 210   | Swift    | 04/01   |
+| 45   | [Code-T/salon-resources](https://github.com/Code-T/salon-resources) | 你可以在这里获取相关的资料。                                 | 207   | Swift    | 04/26   |
+| 46   | [zqqf16/SYM](https://github.com/zqqf16/SYM)                  | A crash log symbolicating Mac app \| 一个图形化的崩溃日志符号化工具 | 205   | Swift    | 10/08   |
+| 47   | [geek5nan/FanFanSwift](https://github.com/geek5nan/FanFanSwift) | 翻翻看 Swift 版                                              | 197   | Swift    | 07/30   |
+| 48   | [Sunnyyoung/AppleReserver](https://github.com/Sunnyyoung/AppleReserver) | Apple 官方预约监控助手                                       | 194   | Swift    | 09/21   |
+| 49   | [treastrain/TRETJapanNFCReader](https://github.com/treastrain/TRETJapanNFCReader) | 日本の NFC、FeliCa カード向けリーダーライブラリ（iOS 13.0 以降）Suica、PASMOなどの交通系ICカード、楽天Edy、nanaco、WAON、運転免許証の読み取り | 192   | Swift    | 10/07   |
+| 50   | [SunshineBrother/SwiftTools](https://github.com/SunshineBrother/SwiftTools) | 技术不够，努力来凑；封装不了一个伟大的开源框架，但是仍然想要有一个自己的开源项目，所以就准备把一些项目中的常用工具类给打出来，省的每一次写项目的时候都要重写一遍 | 186   | Swift    | 10/08   |
+| 51   | [GTMYang/GTMRefresh](https://github.com/GTMYang/GTMRefresh)  | Swift实现的下拉刷新和上拉加载组件                            | 177   | Swift    | 08/09   |
+| 52   | [xjbeta/iina-plus](https://github.com/xjbeta/iina-plus)      | Extra danmaku support for iina. (iina 弹幕支持               | 173   | Swift    | 09/27   |
+| 53   | [imeiju/iMeiJu_Mac](https://github.com/imeiju/iMeiJu_Mac)    | 爱美剧Mac客户端                                              | 172   | Swift    | 04/15   |
+| 54   | [andyRon/swift-algorithm-club-cn](https://github.com/andyRon/swift-algorithm-club-cn) | swift-algorithm-club的翻译。使用Swift学习算法和数据结构。    | 166   | Swift    | 09/26   |
+| 55   | [lb2281075105/LBU25-Swift](https://github.com/lb2281075105/LBU25-Swift) | Swift5 精仿漫画类App,Moya+SwiftyJSON+HandyJSON网络框架和数据解析。数据来源真实接口获得 | 162   | Swift    | 07/07   |
+| 56   | [iosyaowei/JSONConverter](https://github.com/iosyaowei/JSONConverter) | JSONConverter可以快速的把json数据转换生成OC/Swift/Flutter的属性,省去手动创建的麻烦，大大提高iOSer的开发效率 | 151   | Swift    | 07/25   |
+| 57   | [NoryCao/zhuishushenqi](https://github.com/NoryCao/zhuishushenqi) | 追书神器Swift版客户端（非官方）。 不断更新中......           | 148   | Swift    | 09/20   |
+| 58   | [wangrui460/WRCycleScrollView](https://github.com/wangrui460/WRCycleScrollView) | Swift 自动无限轮播用这个就够了 swift 4                       | 147   | Swift    | 01/25   |
+| 59   | [yimajo/MeetupTweet](https://github.com/yimajo/MeetupTweet)  | Macのウインドウ上に特定の用語に関するTweetをニコニコ動画風に表示します。Keynoteのフルスクリーン上にも表示ができるので発表時に使えます。 | 146   | Swift    | 09/05   |
+| 60   | [pujiaxin33/JXTheme](https://github.com/pujiaxin33/JXTheme)  | A powerful and lightweight and customization theme/skin library for iOS 9+ in swift. 主题、换肤、暗黑模式 | 139   | Swift    | 09/23   |
+| 61   | [Alexiuce/macOS-dev-basic-](https://github.com/Alexiuce/macOS-dev-basic-) | Mac  osx 开发基础视频项目工程                                | 139   | Swift    | 04/30   |
+| 62   | [Dzhijian/DouYuLive](https://github.com/Dzhijian/DouYuLive)  | 仿斗鱼直播-Swift4.0，不断更新中。。。                        | 120   | Swift    | 01/12   |
+| 63   | [huangboju/GesturePassword](https://github.com/huangboju/GesturePassword) | GesturePassword 是一个Swift的手势密码库                      | 119   | Swift    | 04/05   |
+| 64   | [AbuIOSDeveloper/Mac-Kline](https://github.com/AbuIOSDeveloper/Mac-Kline) | Swift 仿futu牛牛Mac版K线                                     | 117   | Swift    | 01/07   |
+| 65   | [cwwise/CWWeChat](https://github.com/cwwise/CWWeChat)        | swift仿写WeChat                                              | 116   | Swift    | 03/09   |
+| 66   | [Darren-chenchen/CLImagePickerTool](https://github.com/Darren-chenchen/CLImagePickerTool) | 这是一个多图片选择的控件                                     | 113   | Swift    | 09/18   |
+| 67   | [937447974/YJCocoa](https://github.com/937447974/YJCocoa)    | YJ 系列 Pod 开源库                                           | 112   | Swift    | 10/08   |
+| 68   | [PPHubApp/PPHub-Feedback](https://github.com/PPHubApp/PPHub-Feedback) | This repository is used to collect user feedback from PPHub (GitHub third-party client) - 此仓库用于收集PPHub(GitHub第三方客户端)的用户反馈信息 | 109   | Swift    | 10/07   |
+| 69   | [yourtion/YXWaveView](https://github.com/yourtion/YXWaveView) | A water wave animation view （类似百度外卖的头像波浪效果）   | 109   | Swift    | 08/27   |
+| 70   | [jasnig/UsefulPickerView](https://github.com/jasnig/UsefulPickerView) | 可以简单快速实现点击TextField或者按钮弹出单列, 多列, 多列关联,城市选择, 日期选择的pickerView | 109   | Swift    | 08/13   |
+| 71   | [Light413/dctt](https://github.com/Light413/dctt)            | xx头条【完整项目持续迭代中】(一款本地生活信息发布APP，分享新鲜事、找人找对象等生活服务)。已App Store上架，这里仅供学习交流 | 107   | Swift    | 10/08   |
+| 72   | [fengmingdev/SwiftWkWebView](https://github.com/fengmingdev/SwiftWkWebView) | Swift4.0 WkWebView 支持SB/XIB拖拽的 WkWebView                | 104   | Swift    | 07/11   |
+| 73   | [Tuluobo/Leiter](https://github.com/Tuluobo/Leiter)          | 一个基于 NEKit 的网络 Proxy App。                            | 103   | Swift    | 06/22   |
+| 74   | [shu223/ARKitBook](https://github.com/shu223/ARKitBook)      | ARKitの実践入門書「実践ARKit」のサンプルコードです。         | 102   | Swift    | 09/28   |
+| 75   | [CoderLinLee/LLSegmentViewController](https://github.com/CoderLinLee/LLSegmentViewController) | 可添加header的多控制器列表,主流APP分类切换滚动视图(京东，网易新闻，爱奇艺，QQ弹性小球等，可高度自定义,项目结构清晰);UIScrollView 嵌套,可做个人详情页，商品详情页，页面多tableView滑动悬停 | 100   | Swift    | 08/05   |
+| 76   | [pujiaxin33/JXPatternLock](https://github.com/pujiaxin33/JXPatternLock) | An easy-to-use, powerful, customizable pattern lock view in swift. 图形解锁／手势解锁 / 手势密码 / 图案密码 / 九宫格密码 | 100   | Swift    | 09/23   |
+| 77   | [CNKCQ/DigitalKeyboard](https://github.com/CNKCQ/DigitalKeyboard) | 手动实现简单的身份证数字键盘                                 | 99    | Swift    | 01/05   |
+| 78   | [we11cheng/WCPotatso](https://github.com/we11cheng/WCPotatso) | iOS Potatso源码(配置下自己的开发证书就能编译版本)            | 97    | Swift    | 04/17   |
+| 79   | [Habit21D/SwiftHttpRequest](https://github.com/Habit21D/SwiftHttpRequest) | Swift5.0:基于Alamofire的网络封装及基于Codable的model解析     | 96    | Swift    | 09/17   |
+| 80   | [ethanhuang13/blahker](https://github.com/ethanhuang13/blahker) | 巴拉剋 - Safari 蓋版廣告消除器                               | 96    | Swift    | 10/05   |
+| 81   | [Liaoworking/Advanced-Swift](https://github.com/Liaoworking/Advanced-Swift) | Notes of Advanced Swift. 《swift进阶》学习笔记 swift 5.0     | 95    | Swift    | 09/28   |
+| 82   | [heyode/HEPhotoPicker](https://github.com/heyode/HEPhotoPicker) | 自由定制支持视频，图片的相册选择器                           | 87    | Swift    | 09/01   |
+| 83   | [WangWenzhuang/ZKProgressHUD](https://github.com/WangWenzhuang/ZKProgressHUD) | iOS App 上极易于使用的 HUD                                   | 82    | Swift    | 06/18   |
+| 84   | [Darren-chenchen/IDealist](https://github.com/Darren-chenchen/IDealist) | IOS常用框架集合,避免重复造轮子                               | 81    | Swift    | 09/19   |
+| 85   | [manondidi/swiftArch](https://github.com/manondidi/swiftArch) | swift开发脚手架                                              | 80    | Swift    | 05/10   |
+| 86   | [choiceyou/FWSideMenu](https://github.com/choiceyou/FWSideMenu) | 侧滑控件：支持左、右滑动的侧滑菜单，可配置单侧滑动，同时可配置菜单宽度等，更多配置请参考”可设置参数“。参考了QQ用户体验：支持边缘侧滑，解决手势冲突问题（边缘范围可设置）。提供OC使用Demo。 | 78    | Swift    | 04/29   |
+| 87   | [choiceyou/FWSegmentedControl](https://github.com/choiceyou/FWSegmentedControl) | 分段控件：支持纯文字、纯图片、文字图片混排等方式的Segment，文字、图片排布顺序可选，同时有多重可选下标，更多配置请参考”可设置参数“。提供OC使用Demo。 | 78    | Swift    | 05/28   |
+| 88   | [TifaTsubasa/TTReflect](https://github.com/TifaTsubasa/TTReflect) | Swift Json-Model automatic mapping     Swift版JsonModel自动映射 | 76    | Swift    | 02/14   |
+| 89   | [pujiaxin33/JXPopupView](https://github.com/pujiaxin33/JXPopupView) | 一个轻量级的自定义视图弹出框架                               | 75    | Swift    | 06/19   |
+| 90   | [spicyShrimp/SnapKitExtend](https://github.com/spicyShrimp/SnapKitExtend) | SnapKit的扩展,SnapKit类似于Masonry,但是其没有对Arry的设置和对等间距排列的布局等,此扩展是类似Masonry的写法对SnapKit的补充,同时补充九宫格布局方式 | 72    | Swift    | 05/06   |
+| 91   | [MoyaMapper/MoyaMapper](https://github.com/MoyaMapper/MoyaMapper) | 快速解析模型工具，支持RxSwift。同时支持缓存功能 【相关手册 https://MoyaMapper.github.io 】 | 71    | Swift    | 07/06   |
+| 92   | [SilongLi/GuidePageView](https://github.com/SilongLi/GuidePageView) | 引导页，支持播放gif/png/jpg等类型的资源数组(Swift4.2)，简书：https://www.jianshu.com/p/afde7b6abf68 | 70    | Swift    | 04/07   |
+| 93   | [shu223/MetalBook](https://github.com/shu223/MetalBook)      | 「Metal入門」のサンプルコードです。                          | 69    | Swift    | 07/28   |
+| 94   | [FighterLightning/ZHFAlertView](https://github.com/FighterLightning/ZHFAlertView) | SWift 自定义AlertView，自定义提示框，自定义弹窗，弹窗，AlertView,提示框，侧滑框 思路。 | 68    | Swift    | 05/08   |
+| 95   | [youmyc/PageDemo](https://github.com/youmyc/PageDemo)        | 仿今日头条顶部分页效果                                       | 66    | Swift    | 01/18   |
+| 96   | [15617665365/Look](https://github.com/15617665365/Look)      | 仿看了吗                                                     | 64    | Swift    | 08/18   |
+| 97   | [iCell/Mozi](https://github.com/iCell/Mozi)                  | Mozi(墨子) - Image compression extension for iOS, swift version of Luban(鲁班) | 64    | Swift    | 01/16   |
+| 98   | [chenjie1219/ProcessDemo](https://github.com/chenjie1219/ProcessDemo) | 一个简单的克隆Git仓库的工程来熟悉NSOpenPanel和Process的使用  | 62    | Swift    | 01/29   |
+| 99   | [miliPolo/SwiftUI_Jike](https://github.com/miliPolo/SwiftUI_Jike) | 用SwiftUI仿即刻App界面(Build Jike App UI  with SwiftUI)      | 61    | Swift    | 06/18   |
+| 100  | [XanderXu/3D-iOS-Games-by-Tutorials-code](https://github.com/XanderXu/3D-iOS-Games-by-Tutorials-code) | <<3D iOS Games by Tutorials>>的配套代码                      | 61    | Swift    | 05/04   |
+| 101  | [parkingwang/vehicle-keyboard-ios](https://github.com/parkingwang/vehicle-keyboard-ios) | 停车王车牌号码专用键盘 - iOS                                 | 59    | Swift    | 02/11   |
+| 102  | [kingsic/SGPagingView-Swift](https://github.com/kingsic/SGPagingView-Swift) | A powerful and easy to use segment control【美团、淘宝、斗鱼、微博、腾讯、网易、今日头条等标题滚动视图】 | 59    | Swift    | 04/02   |
+| 103  | [maltsugar/RollingNotice-Swift](https://github.com/maltsugar/RollingNotice-Swift) | 滚动公告、广告，支持灵活自定义cell。淘宝、口碑、京东、美团、天猫等等一切滚动广告 Roll Notice or Advertising, customize cell as UITableViewCell supported, Swift version is also ready | 59    | Swift    | 09/24   |
+| 104  | [anonymity-du/ThreeStage-PanGesture](https://github.com/anonymity-du/ThreeStage-PanGesture) | 常规的三段式拖拽手势动画，主要用于部分视图从底部拖拽到屏幕中央，再到屏幕顶部等场景。Conventional three-stage drag gesture animation is mainly used to drag the view from the bottom to the center of the screen, and then to the top of the screen and other scenes. | 59    | Swift    | 04/11   |
+| 105  | [qyfeng009/QTimePicker](https://github.com/qyfeng009/QTimePicker) | 日期选择器                                                   | 58    | Swift    | 05/28   |
+| 106  | [lixiang1994/VideoTransitionDemo](https://github.com/lixiang1994/VideoTransitionDemo) | 视频过渡效果演示                                             | 57    | Swift    | 05/24   |
+| 107  | [Harley-xk/Chrysan](https://github.com/Harley-xk/Chrysan)    | Chrysan 是一个简单易用的 HUD 库，使用 iOS 自带的 UIBlurEffect 毛玻璃特效，支持自定义动画。 | 56    | Swift    | 07/23   |
+| 108  | [chenjie1219/StarRate](https://github.com/chenjie1219/StarRate) | swift电商五星评价，星星评分控件，支持自定义数量、拖拽、间隔、设置最小星星数等操作 | 56    | Swift    | 04/19   |
+| 109  | [LinXunFeng/LXFProtocolTool](https://github.com/LinXunFeng/LXFProtocolTool) | 由swift中协议方式实现功能的实用工具库【Refreshable、EmptyDataSetable 支持 Rx 】 | 56    | Swift    | 08/16   |
+| 110  | [Liaoworking/MoyaNetworkTool](https://github.com/Liaoworking/MoyaNetworkTool) | a robust networkTool based on Moya. Moya Demo   一个强健的基于moya二次封装的网络框架 | 55    | Swift    | 04/30   |
+| 111  | [zlyBear/BearFree](https://github.com/zlyBear/BearFree)      | iOS NetworkExtension ShadowSocket for iOS developer (swift 5) 支持系统小组件开关SS | 55    | Swift    | 05/22   |
+| 112  | [Jvaeyhcd/HcdSpecialField](https://github.com/Jvaeyhcd/HcdSpecialField) | A special field like mobike input bike number field.仿摩拜单车手动输入单车编号控件. | 54    | Swift    | 03/23   |
+| 113  | [fumiyasac/handMadeCalendarAdvance](https://github.com/fumiyasac/handMadeCalendarAdvance) | [ING]Swift版の日本の祝祭日判定コードとカレンダーサンプル（iOS Sample Study: Swift） | 53    | Swift    | 06/26   |
+| 114  | [netyouli/WHC_Layout](https://github.com/netyouli/WHC_Layout) | Swift iOS and Mac OS X platforms currently in use the fastest the simplest development to build the UI layout automatically open source library, strong dynamic layout constraint handling capacity，iOS/Mac OS X平台上目前使用最简单开发构建UI速度最快的自动布局开源库，强悍的动态布局约束处理能力 | 51    | Swift    | 09/24   |
+| 115  | [zhongjianfeipqy/VerificationCode](https://github.com/zhongjianfeipqy/VerificationCode) | 自定义多位验证码                                             | 49    | Swift    | 07/25   |
+| 116  | [choiceyou/FWCycleScrollView](https://github.com/choiceyou/FWCycleScrollView) | 轮播控件：支持本地图片、网络图片、自定义视图，轮播分页控件有多重可选方案，轮播次数、间隔时间也可设置，更多配置请参考”可设置参数“。提供OC使用Demo。 | 49    | Swift    | 06/12   |
+| 117  | [GesanTung/iFanfou](https://github.com/GesanTung/iFanfou)    | swift 版 iOS 饭否客户端                                      | 48    | Swift    | 02/11   |
+| 118  | [windstormeye/SwiftGame](https://github.com/windstormeye/SwiftGame) | 我的小专栏《Swift 游戏开发》代码集合，小专栏地址：https://xiaozhuanlan.com/pjhubs-swift-game | 47    | Swift    | 09/24   |
+| 119  | [lidong1665/Swift-BLE](https://github.com/lidong1665/Swift-BLE) | 本项目是通过Swift语言来实现IOS中蓝牙4.0的开发                | 47    | Swift    | 09/06   |
+| 120  | [Binlogo/iOS-Practice-Checklist](https://github.com/Binlogo/iOS-Practice-Checklist) | iOS 实践检查清单                                             | 46    | Swift    | 10/01   |
+| 121  | [rockname/ArchitectureSampleWithFirebase](https://github.com/rockname/ArchitectureSampleWithFirebase) | これは、iOSアプリを色々なアーキテクチャで実装してみたものです。 | 46    | Swift    | 03/09   |
+| 122  | [HanQiGod/DYLive](https://github.com/HanQiGod/DYLive)        | 🔥🔥🔥实战仿斗鱼TV(Swift版) - 帮助学习Swift基础语法             | 45    | Swift    | 04/29   |
+| 123  | [SilongLi/AdvertisementView](https://github.com/SilongLi/AdvertisementView) | 一行代码搞定APP启动广告页，支持播放Gif和图片(Swift4.2)。简书：https://www.jianshu.com/p/f1a8b2409a84 | 44    | Swift    | 03/21   |
+| 124  | [WangLiquan/EWAddressPicker-Swift](https://github.com/WangLiquan/EWAddressPicker-Swift) | A custom addressPicker.Swift.地址选择器,选择省市地区.        | 42    | Swift    | 07/11   |
+| 125  | [enums/Pjango](https://github.com/enums/Pjango)              | 一款基于Swift 3.x的服务端框架，使用MVC设计你的服务端软件。   | 41    | Swift    | 09/10   |
+| 126  | [Allen0828/AEAlertView](https://github.com/Allen0828/AEAlertView) | Custom AlertView supports multiple modes 自定义AlertView 支持多种模式弹窗 | 40    | Swift    | 07/09   |
+| 127  | [enums/Calatrava](https://github.com/enums/Calatrava)        | 基于 Pjango 的开源博客。                                     | 40    | Swift    | 07/05   |
+| 128  | [XanderXu/ARStack](https://github.com/XanderXu/ARStack)      | 3步制作AR版堆方块游戏make ARStack in 3 steps                 | 40    | Swift    | 08/09   |
+| 129  | [TonyReet/AutoSQLite.swift](https://github.com/TonyReet/AutoSQLite.swift) | SQLite.swift的封装，Model直接存储.获取. 无需再转换,增删改查. 脱离sql语句 | 40    | Swift    | 08/01   |
+| 130  | [wxxsw/GSCaptchaButton](https://github.com/wxxsw/GSCaptchaButton) | 为普通按钮增加验证码倒计时功能，不影响按钮样式               | 39    | Swift    | 08/29   |
+| 131  | [liucaide/CaamDau](https://github.com/liucaide/CaamDau)      | iOS  Swift 通用业务组件库 & Cocoa便利性扩展。Form流式模型化UI排版、Timer计时管理、RegEx更简易正则、AppDelegate解耦方案、HUD提示窗、Page分页导航、Indexes侧边索引、TopBar自定义导航栏、InputBox输入框扩展、Router组件化路由协议、IconFont阿里矢量图标管理、MJRefresh扩展、Alamofire扩展；附.功能组件、组件化示例、第三方库示例 | 39    | Swift    | 09/27   |
+| 132  | [fumiyasac/ios_ui_recipe_showcase](https://github.com/fumiyasac/ios_ui_recipe_showcase) | iOSアプリ開発 - UI実装であると嬉しいレシピブックに掲載するサンプル | 39    | Swift    | 08/12   |
+| 133  | [blurryssky/10000ui](https://github.com/blurryssky/10000ui)  | 一些有意思的UI，大部分是swift写的                            | 39    | Swift    | 05/31   |
+| 134  | [hxwxww/HXSuspendViewManager](https://github.com/hxwxww/HXSuspendViewManager) | iOS仿微信的悬浮窗，自定义转场动画，使用超级简单              | 38    | Swift    | 01/02   |
+| 135  | [SeongBrave/Twilight](https://github.com/SeongBrave/Twilight) | 模块化主工程                                                 | 37    | Swift    | 04/14   |
+| 136  | [577528249/StringCalculate](https://github.com/577528249/StringCalculate) | 一种更加方便和高效计算多行Label高度的新方法，A new way to calculate label height more convenient  and efficient。 | 37    | Swift    | 01/03   |
+| 137  | [xidian-rs/Ruisi_Ios](https://github.com/xidian-rs/Ruisi_Ios) | 西电睿思手机客户端[iOS]适用于discuz论坛                      | 36    | Swift    | 07/26   |
+| 138  | [hxwxww/HXNavigationController](https://github.com/hxwxww/HXNavigationController) | 仿微信导航栏平滑过渡                                         | 36    | Swift    | 05/13   |
+| 139  | [Harley-xk/Comet](https://github.com/Harley-xk/Comet)        | iOS 项目的 Swift 基础库，提供常用组件、便利方法等。支持 Swift 3.x、Swift 4.x，iOS 8.0+ | 36    | Swift    | 09/03   |
+| 140  | [Hurdery/App-Store](https://github.com/Hurdery/App-Store)    | 仿App-Store 基本框架                                         | 36    | Swift    | 01/30   |
+| 141  | [sulioppa/ChineseChess](https://github.com/sulioppa/ChineseChess) | Chinese Chess（中国象棋） - A Free iOS App（C & Obj-C & Swift） | 35    | Swift    | 08/23   |
+| 142  | [fengzhihao123/FZHKit](https://github.com/fengzhihao123/FZHKit) | iOS 常用的知识点总结                                         | 35    | Swift    | 08/29   |
+| 143  | [Insfgg99x/FGVideoEditor](https://github.com/Insfgg99x/FGVideoEditor) | swif版微信视屏裁剪，类似微信朋友圈视频裁剪方式的视频裁剪工具(video croping) | 35    | Swift    | 02/14   |
+| 144  | [FighterLightning/ZHFJDAddress](https://github.com/FighterLightning/ZHFJDAddress) | Swift 仿京东地址选择器，京东地址选择器（网络，本地数据。三级、四级、保证成功集成） | 34    | Swift    | 08/24   |
+| 145  | [mancongiOS/MCPageViewController](https://github.com/mancongiOS/MCPageViewController) | 切换滚动视图,MCPageViewController, UIPageViewController      | 34    | Swift    | 08/08   |
+| 146  | [shinnytech/shinny-futures-ios](https://github.com/shinnytech/shinny-futures-ios) | 一个开源的 ios 平台期货行情交易终端                          | 34    | Swift    | 06/25   |
+| 147  | [zhaofucheng1129/DouyinSwift](https://github.com/zhaofucheng1129/DouyinSwift) | 基于Swift5+Moya+RxSwift仿抖音App                             | 33    | Swift    | 06/08   |
+| 148  | [TangledHusky/SwiftPopMenu](https://github.com/TangledHusky/SwiftPopMenu) | swift语言实现的一款菜单弹出工具，适用于任何位置。            | 32    | Swift    | 09/23   |
+| 149  | [GitHubZebra/JCyclePictureView](https://github.com/GitHubZebra/JCyclePictureView) | 用 UICollectionView 写的无限滚动轮播图，支持自定义 cell、滚动方向等。 | 32    | Swift    | 02/13   |
+| 150  | [HsiangHo/Kaka](https://github.com/HsiangHo/Kaka)            | 去掉了瑞星无用的杀毒和防火墙功能，只保留小狮子。Kaka for macOS | 31    | Swift    | 01/21   |
+| 151  | [HuaZao/TC1-NG](https://github.com/HuaZao/TC1-NG)            | 斐讯TC1 DC1 A1 iOS客户端                                     | 30    | Swift    | 08/22   |
+| 152  | [V5zhou/ZZXcodeFormat](https://github.com/V5zhou/ZZXcodeFormat) | 支持OC与swift代码格式化                                      | 30    | Swift    | 07/04   |
+| 153  | [fumiyasac/handMadeCalendarOfSwift](https://github.com/fumiyasac/handMadeCalendarOfSwift) | [ING]ライブラリを使わないカレンダーサンプル（iOS Sample Study: Swift） | 29    | Swift    | 02/03   |
+| 154  | [zonble/MRTSwift](https://github.com/zonble/MRTSwift)        | iOS 台北捷運轉乘計算工具                                     | 29    | Swift    | 06/14   |
+| 155  | [shu223/DepthBook](https://github.com/shu223/DepthBook)      | iOSのデプス（深度）の解説書「Depth in Depth」のサンプルコードです。 | 29    | Swift    | 10/09   |
+| 156  | [William-Weng/Swift-4](https://github.com/William-Weng/Swift-4) | 一些Swift4的小小心得                                         | 29    | Swift    | 03/26   |
+| 157  | [wxxsw/GSPlayer](https://github.com/wxxsw/GSPlayer)          | ⏯ Video player, support for caching, preload, fullscreen transition and custom control view. 视频播放器，支持边下边播、预加载、全屏转场和自定义控制层 | 28    | Swift    | 09/19   |
+| 158  | [hite/YanxuanHD](https://github.com/hite/YanxuanHD)          | 用 SwiftUI 实现的严选 HD                                     | 28    | Swift    | 08/04   |
+| 159  | [fumiyasac/RxSwiftPracticeNote](https://github.com/fumiyasac/RxSwiftPracticeNote) | [ING]RxSwiftの練習記録ノート                                 | 28    | Swift    | 09/14   |
+| 160  | [kinsunlu/KSMediaPicker](https://github.com/kinsunlu/KSMediaPicker) | KSMediaPicker小红书，Instagram的媒体选取器                   | 27    | Swift    | 06/05   |
+| 161  | [RainManGO/ZYimagePickerPodDemo](https://github.com/RainManGO/ZYimagePickerPodDemo) | 微信选择图片  微信照片选择器  微信照片浏览                   | 27    | Swift    | 03/12   |
+| 162  | [fengzhihao123/UI-Swift](https://github.com/fengzhihao123/UI-Swift) | swift搭建UI                                                  | 27    | Swift    | 06/11   |
+| 163  | [hjcapple/LayoutKit](https://github.com/hjcapple/LayoutKit)  | 使用 swift 编写的 view 布局库                                | 26    | Swift    | 04/02   |
+| 164  | [SherlockQi/HKTabBar_QQ](https://github.com/SherlockQi/HKTabBar_QQ) | 仿QQtabbar                                                   | 26    | Swift    | 03/11   |
+| 165  | [anonymity-du/DoubleSliderView-swift](https://github.com/anonymity-du/DoubleSliderView-swift) | 双向滑动，滑块可以重叠, 左边滑块不能移动到右边滑块的右边。Two slider can overlap, and the left slider can not be moved to right of the right  slider | 26    | Swift    | 06/25   |
+| 166  | [TestEngineerFish/LoginSliderView](https://github.com/TestEngineerFish/LoginSliderView) | 滑动图形行为验证码                                           | 25    | Swift    | 09/19   |
+| 167  | [iOSPrincekin/PrincekinKlineFrame](https://github.com/iOSPrincekin/PrincekinKlineFrame) | 一款用Swift开发的K线图，具有轻量、敏捷等特点，可供金融行业和虚拟货币行业使用 | 25    | Swift    | 10/04   |
+| 168  | [loveway/MarqueeLabel](https://github.com/loveway/MarqueeLabel) | 一个用swift封装的跑马灯效果                                  | 25    | Swift    | 08/05   |
+| 169  | [JumeiRdGroup/JMRouter](https://github.com/JumeiRdGroup/JMRouter) | 一个轻量级，纯Swift，协议化的路由控件                        | 24    | Swift    | 04/30   |
+| 170  | [LwqDeveloper/DLMusicWaveView](https://github.com/LwqDeveloper/DLMusicWaveView) | 仿抖音/音乐片段截取显示/可拖动                               | 24    | Swift    | 08/22   |
+| 171  | [pcjbird/fbCharm](https://github.com/pcjbird/fbCharm)        | iOS 上利用 fallback 机制为不同语言的文字 (script) 设定字体，从而使得文本混排更为优雅。 | 24    | Swift    | 01/06   |
+| 172  | [InsectQY/GamerSky](https://github.com/InsectQY/GamerSky)    | 高仿游民星空 App                                             | 24    | Swift    | 07/14   |
+| 173  | [ios-zhouyu/ZYCycleViewSwift](https://github.com/ios-zhouyu/ZYCycleViewSwift) | ZYCycleViewSwift版轮播图                                     | 24    | Swift    | 09/25   |
+| 174  | [gl-lei/algorithm](https://github.com/gl-lei/algorithm)      | 数据结构与算法之美代码 ， 原始代码 https://github.com/wangzheng0822/algo | 24    | Swift    | 06/10   |
+| 175  | [tuxi/alpface](https://github.com/tuxi/alpface)              | 学习抖音的iOS项目                                            | 24    | Swift    | 08/19   |
+| 176  | [shevakuilin/SKArchCutter-Swift](https://github.com/shevakuilin/SKArchCutter-Swift) | SKArchCutter-Swift是一个基于 Swift 的可自选切割角的圆角切割工具，同时支持UIView、UIImageView、UIButton和UILabel的单角切圆/选角拱形切圆/全角切圆，并且避免了UIImageView使用系统圆角所导致的离屏渲染的问题，以及确保layer对象的masksToBounds属性始终为NO，从而使得项目中大量使用圆角时的性能得到很大程度的优化, 最重要的是使用简单、方便。 | 23    | Swift    | 01/31   |
+| 177  | [nick6969/AutoLayout](https://github.com/nick6969/AutoLayout) | 便利的 Extension                                             | 23    | Swift    | 09/22   |
+| 178  | [fumiyasac/TinderUISamples](https://github.com/fumiyasac/TinderUISamples) | [ING] - TinderのようなUIを様々な実装で実現してみる           | 22    | Swift    | 01/12   |
+| 179  | [wubianxiaoxian/Algorithm-swift](https://github.com/wubianxiaoxian/Algorithm-swift) | 记录一下，算法学习                                           | 22    | Swift    | 08/26   |
+| 180  | [GWesley/GWNewFile](https://github.com/GWesley/GWNewFile)    | A Finder extention for add new file on Mac OS X  (Finder新建文件扩展) | 22    | Swift    | 03/24   |
+| 181  | [821385843/MGJRouter_Swift](https://github.com/821385843/MGJRouter_Swift) | MGJRouter_Swift 是蘑菇街 MGJRouter 的 Swift 版，完全实现 MGJRouter 所有功能。 | 22    | Swift    | 06/18   |
+| 182  | [Alexiuce/macOStudy](https://github.com/Alexiuce/macOStudy)  | MacOS 进阶课程项目                                           | 22    | Swift    | 03/15   |
+| 183  | [WangLiquan/EWDatePicker](https://github.com/WangLiquan/EWDatePicker) | A custom datePicker.基于ViewController的从下方弹出日期选择器 | 22    | Swift    | 07/11   |
+| 184  | [omochi/SwiftTypeInferenceHandsOn](https://github.com/omochi/SwiftTypeInferenceHandsOn) | Swiftc合宿 2019/09/28                                        | 21    | Swift    | 10/02   |
+| 185  | [Boxzhi/HZNavigationBar](https://github.com/Boxzhi/HZNavigationBar) | A very simple to use, can be completely customized navigation bar.  一款使用非常简单，可以完全自定义的导航栏。 | 21    | Swift    | 09/28   |
+| 186  | [1c7/CrashCourse-iOS-App](https://github.com/1c7/CrashCourse-iOS-App) | iOS App - 速成课：Crash Course 中文字幕视频【无法过审】      | 21    | Swift    | 05/01   |
+| 187  | [GTMYang/GTMBarcodeScanner](https://github.com/GTMYang/GTMBarcodeScanner) | Swift 实现的条码扫描组件库                                   | 20    | Swift    | 05/20   |
+| 188  | [Weang/WLVideo](https://github.com/Weang/WLVideo)            | 仿照微信拍照拍视频的功能                                     | 20    | Swift    | 01/02   |
+| 189  | [yasasii-team/Stepippo-iOS](https://github.com/yasasii-team/Stepippo-iOS) | 初めての一歩を応援するアプリのiOS版                          | 20    | Swift    | 06/29   |
+| 190  | [gaoyanbin1314/GYPhotoAlbum](https://github.com/gaoyanbin1314/GYPhotoAlbum) | 打开相册的工具，通过获取相册数据，自定义相册的展示，类似朋友圈 | 20    | Swift    | 07/09   |
+| 191  | [wufeiyue/FYBannerView](https://github.com/wufeiyue/FYBannerView) | 可定制性非常高的轮播图                                       | 19    | Swift    | 04/03   |
+| 192  | [wh8817221/CoreML](https://github.com/wh8817221/CoreML)      | 机器学习仿微信实现二维码扫描放大功能(CoreML)                 | 19    | Swift    | 08/20   |
+| 193  | [hxwxww/HXImagePickerController](https://github.com/hxwxww/HXImagePickerController) | 仿微信图片选择器                                             | 19    | Swift    | 03/21   |
+| 194  | [WangWenzhuang/ZKSegment](https://github.com/WangWenzhuang/ZKSegment) | 分段选择控件，支持多种样式选择，功能强大                     | 18    | Swift    | 05/30   |
+| 195  | [hjcapple/AutoLayoutKit](https://github.com/hjcapple/AutoLayoutKit) | 使用 swift 编写的 AutoLayout 布局库                          | 18    | Swift    | 04/02   |
+| 196  | [CreatFish/DVActionSheetVC](https://github.com/CreatFish/DVActionSheetVC) | 一个仿微信的actionsheet，使用简单                            | 18    | Swift    | 03/25   |
+| 197  | [yiruchujian/modifyPositioning](https://github.com/yiruchujian/modifyPositioning) | 更改iOS定位 swift                                            | 18    | Swift    | 09/16   |
+| 198  | [dengzemiao/DZMTextView](https://github.com/dengzemiao/DZMTextView) | 常用小控件封装                                               | 18    | Swift    | 04/01   |
+| 199  | [Nemocdz/ImageCompress-iOS](https://github.com/Nemocdz/ImageCompress-iOS) | 基于 ImageIO 支持动静态的图片压缩库                          | 18    | Swift    | 09/07   |
+| 200  | [wxxsw/SwiftUI-WeChat](https://github.com/wxxsw/SwiftUI-WeChat) | SwiftUI & Combine 微信客户端 v7.0                            | 18    | Swift    | 09/21   |
+
+⬆ [回到目录](#目录)
+
+<br/>
+
 
 ## Jupyter Notebook
 
