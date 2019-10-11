@@ -1325,6 +1325,7 @@
 | 6    | [ustbhuangyi/vue-sell](https://github.com/ustbhuangyi/vue-sell) | :rice: Vue.js高仿饿了么外卖App课程源码 http://coding.imooc.com/class/74.html | 2.9k  | Vue      | 07/22   |
 | 7    | [ydcss/vue-ydui](https://github.com/ydcss/vue-ydui)          | A mobile components Library with Vue2.js. 一只基于Vue2.x的移动端组件库。 | 2.7k  | Vue      | 06/05   |
 | 8    | [bailichen/vue-weixin](https://github.com/bailichen/vue-weixin) | Vue2 全家桶仿 微信App 项目，支持多人在线聊天和机器人聊天     | 2.2k  | Vue      | 04/16   |
+| 8    | [didi/mand-mobile](https://github.com/didi/mand-mobile) | 滴滴金融前端团队开发的面向金融场景的基于Vuejs的UI组件库，提供了数十款金融特有组件以及便捷的主题定制工具    | 2.2k  | Vue      | 09/16   |
 | 9    | [wdlhao/vue2-element-touzi-admin](https://github.com/wdlhao/vue2-element-touzi-admin) | 基于vue2.0 +vuex+ element-ui后台管理系统                     | 2.0k  | Vue      | 09/05   |
 | 10   | [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) | 资源采集站在线播放                                           | 1.9k  | Vue      | 09/20   |
 | 11   | [bmfe/eros](https://github.com/bmfe/eros)                    | 📱一套 Vue 代码，两端原生应用 ，或许可以叫我 weex-native。    | 1.9k  | Vue      | 03/04   |
