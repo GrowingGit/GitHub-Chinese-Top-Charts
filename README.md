@@ -8,18 +8,17 @@
 
 #### 榜单设立范围
 
-- 设立1个总榜（所有语言项目汇总排名）、17个分榜（单个语言项目排名）；
+- 设立1个总榜（所有语言项目汇总排名）、18个分榜（单个语言项目排名）；
 
 #### 榜单入选规则
 
 - 一个小小的基础：项目的 Description 和 README.md 需要包含中文说明；
 - 更新越持续越好：最近一年内有更新过的项目才有机会入选（拥抱活跃，远离僵尸）；
 - Stars 越多越好：各榜根据 Stars 对项目进行排序 ，在满足持续更新条件的项目中，取前200名上榜；
-- 其他规则：后续会结合其他指标进行综合排名，有待优化；
 
 #### 榜单更新频率
 
-- 每周更新一次，最近更新时间为10月9日，上班快乐 :tada:；
+- 每周更新一次，最近更新时间为10月9日；
 
 #### License
 
@@ -50,6 +49,7 @@
   - [C#](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/blob/master/README-Part2.md#C-2)
   - [Dart](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/blob/master/README-Part2.md#Dart)
   - [TeX](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/blob/master/README-Part2.md#TeX)
+  - [Vim script](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts/blob/master/README-Part2.md#Vim-script)
 
 <br/>
 
