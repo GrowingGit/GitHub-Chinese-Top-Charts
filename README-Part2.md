@@ -10,7 +10,7 @@
 - 分榜
   - [Java](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Java)
   - [Python](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Python)
-  - [Go](hhttps://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Go)
+  - [Go](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Go)
   - [PHP](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#PHP)
   - [JavaScript](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#JavaScript)
   - [Vue](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#Vue)
