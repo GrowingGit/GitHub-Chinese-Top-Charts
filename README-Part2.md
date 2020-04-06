@@ -1623,45 +1623,46 @@
 | 8    | [TTWShell/legolas-vim](https://github.com/TTWShell/legolas-vim) | Vim配置，为python、go开发者打造的IDE。                       | 216   | Vim script | 02/28   |
 | 9    | [hotoo/vimrc](https://github.com/hotoo/vimrc)                | :v: 闲耘™ 的 Vim 配置。                                      | 79    | Vim script | 02/16   |
 | 10   | [mengchaobbbigrui/my-vimrc](https://github.com/mengchaobbbigrui/my-vimrc) | :bell:这是我的个人的vimrc的配置文件，一为备份，二为分享，欢迎访问和交流 | 79    | Vim script | 10/14   |
-| 11   | [adwpc/xvim](https://github.com/adwpc/xvim)                  | Powerfull vim configuration for C/C++/GO/JS coder（好用的vim插件集成包，支持C/C++/GO/JS） | 61    | Vim script | 11/30   |
-| 12   | [broqiang/vim-go-ide](https://github.com/broqiang/vim-go-ide) | Vim as the IDE for the go language 将 vim 打造成 go 语言的 ide | 57    | Vim script | 10/16   |
-| 13   | [FengShangWuQi/to-vim-tmux-zsh](https://github.com/FengShangWuQi/to-vim-tmux-zsh) | 如何让 vim，tmux，zsh 成为我们的神器                         | 54    | Vim script | 03/31   |
-| 14   | [xwjie/j2ee-study-path](https://github.com/xwjie/j2ee-study-path) | j2ee学习路径                                                 | 39    | Vim script | 04/04   |
-| 15   | [jayli/vim-easydebugger](https://github.com/jayli/vim-easydebugger) | VIM 调试器, A VIM multi-language debugger plugin             | 37    | Vim script | 02/24   |
-| 16   | [danishprakash/vim-yami](https://github.com/danishprakash/vim-yami) | Monochromatic dark(闇) theme for Vim                         | 29    | Vim script | 01/05   |
-| 17   | [jayli/vim](https://github.com/jayli/vim)                    | 我的vim配置文件                                              | 25    | Vim script | 03/20   |
-| 18   | [jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete) | 好用的代码补全插件 vim-easycomplete                          | 25    | Vim script | 03/19   |
-| 19   | [qiqiboy/q-vim](https://github.com/qiqiboy/q-vim)            | my vim config. 来自一个前端开发码农的vim配置方案             | 25    | Vim script | 03/13   |
-| 20   | [HaomingJu/.vim](https://github.com/HaomingJu/.vim)          | 使用Vim四年，整理的配置文件                                  | 21    | Vim script | 04/01   |
-| 21   | [EvanMeek/Vanilla](https://github.com/EvanMeek/Vanilla)      | 我常用软件的配置文件                                         | 21    | Vim script | 01/02   |
-| 22   | [FLHonker/vim-plus-plus](https://github.com/FLHonker/vim-plus-plus) | Frank的无敌至尊vim配置，基于vim-plus改造，一键部署。         | 16    | Vim script | 03/27   |
-| 23   | [skywind3000/vim-dict](https://github.com/skywind3000/vim-dict) | 没办法，被逼的，重新整理一个词典补全的数据库                 | 16    | Vim script | 03/12   |
-| 24   | [qw8880000/vim_config](https://github.com/qw8880000/vim_config) | :beginner: 好好编程的vim配置                                 | 15    | Vim script | 03/10   |
-| 25   | [cnsworder/crossvim](https://github.com/cnsworder/crossvim)  | 我的vim                                                      | 14    | Vim script | 01/17   |
-| 26   | [MDGSF/MyVim](https://github.com/MDGSF/MyVim)                | vim, vimrc, vimrc template, vim document, vim note, vim study, vimtutor, learn vim, vim practice, vim学习, vim笔记, vim训练营, vim教程, vim入门教程, vim简明教程, vim实操教程, vim入门文档, vimtutor中文版 | 13    | Vim script | 03/03   |
-| 27   | [voldikss/vim-hello-word](https://github.com/voldikss/vim-hello-word) | 一个用来背单词的 (Neo)Vim 插件                               | 11    | Vim script | 12/30   |
-| 28   | [gamegrd/grdvim](https://github.com/gamegrd/grdvim)          | 自己日常使用的vim配置                                        | 11    | Vim script | 03/19   |
-| 29   | [the5fire/myvim](https://github.com/the5fire/myvim)          | 我的vim配置                                                  | 10    | Vim script | 10/28   |
-| 30   | [leetking/dotfiles](https://github.com/leetking/dotfiles)    | 我的vim,bash等的配置文件                                     | 9     | Vim script | 04/02   |
-| 31   | [cnsworder/dev_init](https://github.com/cnsworder/dev_init)  | 开发环境初始化 vim+emacs+python                              | 9     | Vim script | 02/18   |
-| 32   | [mi2428/dotfiles](https://github.com/mi2428/dotfiles)        | 見ちゃダメよ                                                 | 8     | Vim script | 12/28   |
-| 33   | [feix760/yuan](https://github.com/feix760/yuan)              | 用户配置文件 vim                                             | 8     | Vim script | 02/10   |
-| 34   | [leisurelicht/.config_file](https://github.com/leisurelicht/.config_file) | 我的Mac 命令行环境配置文件，基本是围绕vim建立的              | 7     | Vim script | 01/10   |
-| 35   | [ChrisLee63/dotfiles](https://github.com/ChrisLee63/dotfiles) | 配置文件                                                     | 7     | Vim script | 01/17   |
-| 36   | [Campanula/dotfiles](https://github.com/Campanula/dotfiles)  | 使用 GNU Stow 管理的 linux 配置文件.                         | 7     | Vim script | 03/09   |
-| 37   | [liuyangc3/note-book](https://github.com/liuyangc3/note-book) | 个人笔记                                                     | 6     | Vim script | 03/25   |
-| 38   | [halsn/neovim-config](https://github.com/halsn/neovim-config) | neovim配置及安装脚本                                         | 6     | Vim script | 04/01   |
-| 39   | [yszou/env](https://github.com/yszou/env)                    | 我平时使用的环境的配置文件                                   | 5     | Vim script | 03/22   |
-| 40   | [tenfyzhong/jce-highlight](https://github.com/tenfyzhong/jce-highlight) | jce高亮，jce tags，jce语法检查。repo停止维护，有兴趣的tencent同学可以自己fork出来改。 | 5     | Vim script | 01/08   |
-| 41   | [jzwlqx/mytools](https://github.com/jzwlqx/mytools)          | 我的常用配置、脚本等                                         | 5     | Vim script | 12/07   |
-| 42   | [waruqi/vim](https://github.com/waruqi/vim)                  | 个人私用的vim配置                                            | 5     | Vim script | 11/18   |
-| 43   | [wkcn/MyVimConfig](https://github.com/wkcn/MyVimConfig)      | 我的Vim配置文件                                              | 5     | Vim script | 12/10   |
-| 44   | [yifengyou/learn-vim](https://github.com/yifengyou/learn-vim) | vim基本学习                                                  | 5     | Vim script | 10/23   |
-| 45   | [rongyi/dotfile](https://github.com/rongyi/dotfile)          | zsh/tmux/vim/mplayer配置文件                                 | 5     | Vim script | 03/25   |
-| 46   | [lymslive/wenyan-json](https://github.com/lymslive/wenyan-json) | May wenyan-lang subset for json 用文言的方式表达通用结构化数据 | 4     | Vim script | 01/19   |
-| 47   | [aGVsZWk/luke-dot-share](https://github.com/aGVsZWk/luke-dot-share) | arch的配置文件备份                                           | 4     | Vim script | 10/06   |
-| 48   | [richard-ma/personal-config](https://github.com/richard-ma/personal-config) | 用户配置文件                                                 | 4     | Vim script | 11/20   |
-| 49   | [graycatya/ansibles_spacevim](https://github.com/graycatya/ansibles_spacevim) | 自动化部署spacevim                                           | 4     | Vim script | 02/28   |
-| 50   | [Youthink/Vimrc](https://github.com/Youthink/Vimrc)          | web 工程师 的 vimrc                                          | 4     | Vim script | 03/20   |
+| 11   | [dofy/7th-vim](https://github.com/dofy/7th-vim) | 安装简单，轻量、易用、高可配置性。 The 7th Vim : Lightweight & Customizable Vim configuration options. | 75    | Vim script | 11/25   |
+| 12   | [adwpc/xvim](https://github.com/adwpc/xvim)                  | Powerfull vim configuration for C/C++/GO/JS coder（好用的vim插件集成包，支持C/C++/GO/JS） | 61    | Vim script | 11/30   |
+| 13   | [broqiang/vim-go-ide](https://github.com/broqiang/vim-go-ide) | Vim as the IDE for the go language 将 vim 打造成 go 语言的 ide | 57    | Vim script | 10/16   |
+| 14   | [FengShangWuQi/to-vim-tmux-zsh](https://github.com/FengShangWuQi/to-vim-tmux-zsh) | 如何让 vim，tmux，zsh 成为我们的神器                         | 54    | Vim script | 03/31   |
+| 15   | [xwjie/j2ee-study-path](https://github.com/xwjie/j2ee-study-path) | j2ee学习路径                                                 | 39    | Vim script | 04/04   |
+| 16   | [jayli/vim-easydebugger](https://github.com/jayli/vim-easydebugger) | VIM 调试器, A VIM multi-language debugger plugin             | 37    | Vim script | 02/24   |
+| 17   | [danishprakash/vim-yami](https://github.com/danishprakash/vim-yami) | Monochromatic dark(闇) theme for Vim                         | 29    | Vim script | 01/05   |
+| 18   | [jayli/vim](https://github.com/jayli/vim)                    | 我的vim配置文件                                              | 25    | Vim script | 03/20   |
+| 19   | [jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete) | 好用的代码补全插件 vim-easycomplete                          | 25    | Vim script | 03/19   |
+| 20   | [qiqiboy/q-vim](https://github.com/qiqiboy/q-vim)            | my vim config. 来自一个前端开发码农的vim配置方案             | 25    | Vim script | 03/13   |
+| 21   | [HaomingJu/.vim](https://github.com/HaomingJu/.vim)          | 使用Vim四年，整理的配置文件                                  | 21    | Vim script | 04/01   |
+| 22   | [EvanMeek/Vanilla](https://github.com/EvanMeek/Vanilla)      | 我常用软件的配置文件                                         | 21    | Vim script | 01/02   |
+| 23   | [FLHonker/vim-plus-plus](https://github.com/FLHonker/vim-plus-plus) | Frank的无敌至尊vim配置，基于vim-plus改造，一键部署。         | 16    | Vim script | 03/27   |
+| 24   | [skywind3000/vim-dict](https://github.com/skywind3000/vim-dict) | 没办法，被逼的，重新整理一个词典补全的数据库                 | 16    | Vim script | 03/12   |
+| 25   | [qw8880000/vim_config](https://github.com/qw8880000/vim_config) | :beginner: 好好编程的vim配置                                 | 15    | Vim script | 03/10   |
+| 26   | [cnsworder/crossvim](https://github.com/cnsworder/crossvim)  | 我的vim                                                      | 14    | Vim script | 01/17   |
+| 27   | [MDGSF/MyVim](https://github.com/MDGSF/MyVim)                | vim, vimrc, vimrc template, vim document, vim note, vim study, vimtutor, learn vim, vim practice, vim学习, vim笔记, vim训练营, vim教程, vim入门教程, vim简明教程, vim实操教程, vim入门文档, vimtutor中文版 | 13    | Vim script | 03/03   |
+| 28   | [voldikss/vim-hello-word](https://github.com/voldikss/vim-hello-word) | 一个用来背单词的 (Neo)Vim 插件                               | 11    | Vim script | 12/30   |
+| 29   | [gamegrd/grdvim](https://github.com/gamegrd/grdvim)          | 自己日常使用的vim配置                                        | 11    | Vim script | 03/19   |
+| 30   | [the5fire/myvim](https://github.com/the5fire/myvim)          | 我的vim配置                                                  | 10    | Vim script | 10/28   |
+| 31   | [leetking/dotfiles](https://github.com/leetking/dotfiles)    | 我的vim,bash等的配置文件                                     | 9     | Vim script | 04/02   |
+| 32   | [cnsworder/dev_init](https://github.com/cnsworder/dev_init)  | 开发环境初始化 vim+emacs+python                              | 9     | Vim script | 02/18   |
+| 33   | [mi2428/dotfiles](https://github.com/mi2428/dotfiles)        | 見ちゃダメよ                                                 | 8     | Vim script | 12/28   |
+| 34   | [feix760/yuan](https://github.com/feix760/yuan)              | 用户配置文件 vim                                             | 8     | Vim script | 02/10   |
+| 35   | [leisurelicht/.config_file](https://github.com/leisurelicht/.config_file) | 我的Mac 命令行环境配置文件，基本是围绕vim建立的              | 7     | Vim script | 01/10   |
+| 36   | [ChrisLee63/dotfiles](https://github.com/ChrisLee63/dotfiles) | 配置文件                                                     | 7     | Vim script | 01/17   |
+| 37   | [Campanula/dotfiles](https://github.com/Campanula/dotfiles)  | 使用 GNU Stow 管理的 linux 配置文件.                         | 7     | Vim script | 03/09   |
+| 38   | [liuyangc3/note-book](https://github.com/liuyangc3/note-book) | 个人笔记                                                     | 6     | Vim script | 03/25   |
+| 39   | [halsn/neovim-config](https://github.com/halsn/neovim-config) | neovim配置及安装脚本                                         | 6     | Vim script | 04/01   |
+| 40   | [yszou/env](https://github.com/yszou/env)                    | 我平时使用的环境的配置文件                                   | 5     | Vim script | 03/22   |
+| 41   | [tenfyzhong/jce-highlight](https://github.com/tenfyzhong/jce-highlight) | jce高亮，jce tags，jce语法检查。repo停止维护，有兴趣的tencent同学可以自己fork出来改。 | 5     | Vim script | 01/08   |
+| 42   | [jzwlqx/mytools](https://github.com/jzwlqx/mytools)          | 我的常用配置、脚本等                                         | 5     | Vim script | 12/07   |
+| 43   | [waruqi/vim](https://github.com/waruqi/vim)                  | 个人私用的vim配置                                            | 5     | Vim script | 11/18   |
+| 44   | [wkcn/MyVimConfig](https://github.com/wkcn/MyVimConfig)      | 我的Vim配置文件                                              | 5     | Vim script | 12/10   |
+| 45   | [yifengyou/learn-vim](https://github.com/yifengyou/learn-vim) | vim基本学习                                                  | 5     | Vim script | 10/23   |
+| 46   | [rongyi/dotfile](https://github.com/rongyi/dotfile)          | zsh/tmux/vim/mplayer配置文件                                 | 5     | Vim script | 03/25   |
+| 47   | [lymslive/wenyan-json](https://github.com/lymslive/wenyan-json) | May wenyan-lang subset for json 用文言的方式表达通用结构化数据 | 4     | Vim script | 01/19   |
+| 48   | [aGVsZWk/luke-dot-share](https://github.com/aGVsZWk/luke-dot-share) | arch的配置文件备份                                           | 4     | Vim script | 10/06   |
+| 49   | [richard-ma/personal-config](https://github.com/richard-ma/personal-config) | 用户配置文件                                                 | 4     | Vim script | 11/20   |
+| 50   | [graycatya/ansibles_spacevim](https://github.com/graycatya/ansibles_spacevim) | 自动化部署spacevim                                           | 4     | Vim script | 02/28   |
+| 51   | [Youthink/Vimrc](https://github.com/Youthink/Vimrc)          | web 工程师 的 vimrc                                          | 4     | Vim script | 03/20   |
 
 ⬆ [回到目录](#目录)
