@@ -1615,7 +1615,7 @@
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ----- | ---------- | ------- |
 | 1    | [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) | Vim 从入门到精通                                             | 5.7k  | Vim script | 02/21   |
 | 2    | [wklken/k-vim](https://github.com/wklken/k-vim)              | vim配置                                                      | 4.6k  | Vim script | 03/23   |
-| 3    | [dofy/learn-vim](https://github.com/dofy/learn-vim)          | Vim 实操教程（Learning Vim）Vim practical tutorial.          | 931   | Vim script | 03/10   |
+| 3    | [dofy/learn-vim](https://github.com/dofy/learn-vim)          | Vim 实操教程（Learning Vim）Vim practical tutorial.          | 930   | Vim script | 03/10   |
 | 4    | [mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx) | P站（Pixiv）的正确打开方式                                   | 705   | Vim script | 03/13   |
 | 5    | [bilibili/vim-vide](https://github.com/bilibili/vim-vide)    | Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！ | 474   | Vim script | 03/14   |
 | 6    | [skywind3000/vim-init](https://github.com/skywind3000/vim-init) | 轻量级 Vim 配置框架，全中文注释                              | 280   | Vim script | 03/26   |
