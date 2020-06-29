@@ -1,4 +1,4 @@
-![GitHub中文排行榜](/banner.png)
+![GitHub中文排行榜](https://i.v2ex.co/z752Ix5n.png)
 
 #### 榜单设立目的
 
