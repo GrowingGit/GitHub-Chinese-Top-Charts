@@ -24,10 +24,6 @@
 
 - 本仓库内容的定义、创建、更新维护均由本人发起与推进，在您引用本仓库内容、转载文章时，请在开头明显处标明作者及页面地址，谢谢；
 
-#### Recommendation
-
-[![banner](https://i.v2ex.co/9NeIc6ah.png)](https://www.bilibili.com/video/BV1nD4y1S7Vu/)
-
 <br/>
 
 ## 目录
