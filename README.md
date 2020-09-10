@@ -80,7 +80,7 @@
 |20|[proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down)|http下载工具，基于http代理，支持多连接分块下载|25.6k|Java|08/11|
 |21|[Alvin9999/new-pac](https://github.com/Alvin9999/new-pac)|科学上网/自由上网/翻墙/软件/方法，一键翻墙浏览器，免费shadowsocks/ss/ssr/v2ray/goflyway账号，vps一键搭建脚本/教程|25.5k|-|07/21|
 |22|[dcloudio/uni-app](https://github.com/dcloudio/uni-app)|uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架|25.3k|JavaScript|09/09|
-|23|[kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)|:cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！|24.8k|Java|08/31|
+|23|[kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)|:cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！|24.8k|Java|09/10|
 |24|[fighting41love/funNLP](https://github.com/fighting41love/funNLP)|中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名人词库、诗词词库、医学词库、饮食词库、法律词库、汽车词库、动物词库、中文聊天语料、中文谣言数据、百度中文问答数据集、句子相似度匹配算法集合、bert资源、文本生成&摘要相关工具、cocoNLP信息抽取 ...|24.1k|Python|08/29|
 |25|[fxsjy/jieba](https://github.com/fxsjy/jieba)|结巴中文分词|24.0k|Python|07/24|
 |26|[ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)|about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 |23.5k|Java|09/09|
@@ -373,7 +373,7 @@
 |4|[doocs/advanced-java](https://github.com/doocs/advanced-java)|😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习|47.1k|Java|09/07|
 |5|[macrozheng/mall](https://github.com/macrozheng/mall)|mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。|40.7k|Java|09/09|
 |6|[proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down)|http下载工具，基于http代理，支持多连接分块下载|25.6k|Java|08/11|
-|7|[kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)|:cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！|24.8k|Java|08/31|
+|7|[kon9chunkit/GitHub-Chinese-Top-Charts](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts)|:cn: GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！|24.8k|Java|09/10|
 |8|[ityouknow/spring-boot-examples](https://github.com/ityouknow/spring-boot-examples)|about learning Spring Boot via examples. Spring Boot 教程、技术栈示例代码，快速简单上手教程。 |23.5k|Java|09/09|
 |9|[alibaba/arthas](https://github.com/alibaba/arthas)|Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas|22.9k|Java|09/09|
 |10|[ctripcorp/apollo](https://github.com/ctripcorp/apollo)|Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。|22.2k|Java|09/10|
