@@ -20,6 +20,10 @@
 
 - 每周更新一次，最近更新时间为10月16日；
 
+#### Recommendation
+
+[![AWSL](https://i.v2ex.co/xmwq2Nu2.png)](https://www.bilibili.com/video/BV1Xa4y1579j/)
+
 #### License
 
 - 本仓库内容的定义、创建、更新维护均由本人发起与推进，在您引用本仓库内容、转载文章时，请在开头明显处标明作者及页面地址，谢谢；
