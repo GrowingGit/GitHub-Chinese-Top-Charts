@@ -567,6 +567,7 @@
 |198|[tianshiyeben/wgcloud](https://github.com/tianshiyeben/wgcloud)|linux运维监控工具|2.0k|Java|11/13|
 |199|[zhaojun1998/zfile](https://github.com/zhaojun1998/zfile)|在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai|2.0k|Java|10/07|
 |200|[EhsanTang/ApiManager](https://github.com/EhsanTang/ApiManager)|CRAP - 开源API接口管理平台   完全开源、免费使用的API接口管理系统、BUG管理系统：API接口管理、文档管理、数据库表管理、接口调试、浏览器调试插件、导出word&pdf接口…..，采用SpringMVC + MyBatis + Lucene + Bootstrap + Angularjs + Iconfont + Guava Cache ，线上使用地址：http://api.crap.cn|2.0k|Java|10/13|
+|201|[ObjectiveSQL](https://github.com/braisdom/ObjectiveSql)|ObjectiveSQL 是一个基于Active Record 模式的Java ORM 框架，零编码，无配置。基于已定义的数据模型，自动生成数据库访问逻辑代码，提升开发效率。针对复杂SQL，ObjectiveSQL 通过Java 运算符重载技术，实现了Java 代码与SQL 语句一致的编码体验。 |1k|Java|12/2|  
 
 ⬆ [回到目录](#目录)
 
