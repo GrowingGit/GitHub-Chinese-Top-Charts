@@ -567,6 +567,7 @@
 |198|[jianjunxiao/NiceVieoPlayer](https://github.com/jianjunxiao/NiceVieoPlayer)|IjkPlayer/MediaPlayer+TextureView，支持列表，完美切换全屏、小窗口的Android视频播放器 |2.0k|Java|02/04|
 |199|[EhsanTang/ApiManager](https://github.com/EhsanTang/ApiManager)|CRAP - 开源API接口管理平台   完全开源、免费使用的API接口管理系统、BUG管理系统：API接口管理、文档管理、数据库表管理、接口调试、浏览器调试插件、导出word&pdf接口…..，采用SpringMVC + MyBatis + Lucene + Bootstrap + Angularjs + Iconfont + Guava Cache ，线上使用地址：http://api.crap.cn|2.0k|Java|10/13|
 |200|[vivian8725118/TimeLine](https://github.com/vivian8725118/TimeLine)|瀑布流式的时间轴|2.0k|Java|09/01|
+|201|[ObjectiveSQL](https://github.com/braisdom/ObjectiveSql)|ObjectiveSQL 是一个基于Active Record 模式的Java ORM 框架，零编码，无配置。基于已定义的数据模型，自动生成数据库访问逻辑代码，提升开发效率。针对复杂SQL，ObjectiveSQL 通过Java 运算符重载技术，实现了Java 代码与SQL 语句一致的编码体验。 |1k|Java|12/2|               
 
 ⬆ [回到目录](#目录)
 
