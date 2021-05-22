@@ -985,6 +985,7 @@
 |198|[woodylan/go-websocket](https://github.com/woodylan/go-websocket)|基于Golang实现的分布式WebSocket服务、IM服务，仅依赖Etcd，简单易部署，支持高并发、单发、群发、广播，其它项目可以通过http与本项目通信。|374|Go|09/25|
 |199|[zc2638/go-standard](https://github.com/zc2638/go-standard)|Go常用规范定义，标准库方法使用示例，请注意这不是Go的中文版标准库(传送门)|373|Go|03/28|
 |200|[qit-team/snow](https://github.com/qit-team/snow)|简洁易用的Go业务框架|371|Go|08/31|
+|201|[roseduan/rosedb](https://github.com/roseduan/rosedb)|A simple k-v database in pure Golang, supports string, list, hash, set, sorted set. Go 语言实现的 k-v 数据库项目，简洁易懂，适合新手进阶，欢迎 Pr！|243|Go|05/22|
 
 ⬆ [回到目录](#目录)
 
