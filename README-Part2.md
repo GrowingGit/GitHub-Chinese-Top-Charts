@@ -48,7 +48,7 @@
 |12|[Harley-xk/MaLiang](https://github.com/Harley-xk/MaLiang)|iOS painting and drawing library based on Metal. 神笔马良有一支神笔（基于 Metal 的涂鸦绘图库）|1.2k|Swift|12/16|
 |13|[netyouli/WHC_ConfuseSoftware](https://github.com/netyouli/WHC_ConfuseSoftware)|iOS代码混淆工具，iOS代码混淆助手，过机器审核，过4.3审核，过other审核，u3d、cocos2dx、flutter、自动代码翻新(WHC_ConfuseSoftware)是一款新一代运行在MAC OS平台的App、完美支持Objc和Swift、U3D、Flutter、Cocos2dx项目代码的自动翻新(混淆)、支持文件夹名称、文件名、修改资源文件hash值、类名、方法名、属性名、添加混淆函数方法体、添加混淆属性、自动调用生成的混淆方法、字符串混淆加密等。。。功能强大而稳定。|1.1k|Swift|03/21|
 |14|[JiongXing/PhotoBrowser](https://github.com/JiongXing/PhotoBrowser)| Elegant photo browser in Swift. 图片与视频浏览器。|1.0k|Swift|06/19|
-|15|[dengzemiao/DZMeBookRead](https://github.com/dengzemiao/DZMeBookRead)|支持项目使用！最完整小说阅读器Demo！仿iReader(掌阅)，QQ阅读 ... 常用阅读器阅读页面，支持 翻页效果(仿真,覆盖,平移,滚动,无效果)、字体切换、书签功能、阅读记录、亮度调整、背景颜色切换 ...|996|Swift|04/14|
+|15|[dengzemiao/DZMeBookRead](https://github.com/dengzemiao/DZMeBookRead)|支持项目使用！最完整小说阅读器Demo！仿iReader(掌阅)，QQ阅读 ... 常用阅读器阅读页面，支持 翻页效果(仿真,覆盖,平移,滚动,无效果)、字体切换、书签功能、阅读记录、亮度调整、背景颜色切换 ...|997|Swift|04/14|
 |16|[saeipi/KSChart](https://github.com/saeipi/KSChart)|k线图/kline/kchart，已经集成MA/EMA/MACD/KDJ/BOLL/RSI/WR/AVG等指标，新增指标及其方便。适用于股票/区块链交易所等种类App。Swift5编写，CPU/内存占用率极低，60FPS稳定运行。示例集成websocket，并接入币安数据（需VPN）。|933|Swift|05/23|
 |17|[gltwy/LTScrollView](https://github.com/gltwy/LTScrollView)|ScrollView嵌套ScrolloView（UITableView 、UICollectionView）解决方案， 支持OC / Swift（持续更新中...）实现原理：http://blog.csdn.net/glt_code/article/details/78576628|930|Swift|08/22|
 |18|[spicyShrimp/U17](https://github.com/spicyShrimp/U17)|精仿有妖气漫画(Swift5)|882|Swift|01/29|
@@ -107,7 +107,7 @@
 |71|[Habit21D/SwiftHttpRequest](https://github.com/Habit21D/SwiftHttpRequest)|Swift5.0:基于Alamofire的网络封装及基于Codable的model解析|144|Swift|10/12|
 |72|[Dzhijian/DouYuLive](https://github.com/Dzhijian/DouYuLive)|仿斗鱼直播-Swift4.0，不断更新中。。。|142|Swift|09/13|
 |73|[Darren-chenchen/CLImagePickerTool](https://github.com/Darren-chenchen/CLImagePickerTool)|这是一个多图片选择的控件|142|Swift|03/27|
-|74|[Tuluobo/Leiter](https://github.com/Tuluobo/Leiter)|一个基于 NEKit 的网络 Proxy App。|137|Swift|08/10|
+|74|[Tuluobo/Leiter](https://github.com/Tuluobo/Leiter)|一个基于 NEKit 的网络 Proxy App。|138|Swift|08/10|
 |75|[cmushroom/redis-pro](https://github.com/cmushroom/redis-pro)|redis-pro redis 桌面管理工具|135|Swift|07/08|
 |76|[huzhiqin/U17](https://github.com/huzhiqin/U17)|仿最新V5.0有妖气漫画：Swift5(Moya+Alamofire/HandyJSON/Kingfisher/SnapKit/MJRefresh)|134|Swift|03/22|
 |77|[Liaoworking/MoyaNetworkTool](https://github.com/Liaoworking/MoyaNetworkTool)|a robust networkTool based on Moya. Moya Demo   一个强健的基于moya二次封装的网络框架|127|Swift|03/21|
@@ -173,7 +173,7 @@
 |28|[fengdu78/machine_learning_beginner](https://github.com/fengdu78/machine_learning_beginner)|机器学习初学者公众号作品|1.7k|Jupyter Notebook|03/21|
 |29|[AIZOOTech/FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection)|开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.|1.5k|Jupyter Notebook|03/24|
 |30|[xavier-zy/Awesome-pytorch-list-CNVersion](https://github.com/xavier-zy/Awesome-pytorch-list-CNVersion)|Awesome-pytorch-list 翻译工作进行中......|1.4k|Jupyter Notebook|03/27|
-|31|[wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)|🎓 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.|1.4k|Jupyter Notebook|07/08|
+|31|[wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)|🎓 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.|1.4k|Jupyter Notebook|07/09|
 |32|[hangsz/pandas-tutorial](https://github.com/hangsz/pandas-tutorial)|适合初级到中级晋升者，有了体系之后就看熟练度了。|1.3k|Jupyter Notebook|10/11|
 |33|[jm199504/Financial-Knowledge-Graphs](https://github.com/jm199504/Financial-Knowledge-Graphs)|小型金融知识图谱构建流程|1.2k|Jupyter Notebook|05/09|
 |34|[MachineLP/Tensorflow-](https://github.com/MachineLP/Tensorflow-)|Tensorflow实战学习笔记、代码、机器学习进阶系列|1.1k|Jupyter Notebook|09/30|
@@ -187,13 +187,13 @@
 |42|[zhulei227/ML_Notes](https://github.com/zhulei227/ML_Notes)|机器学习算法的公式推导以及numpy实现|721|Jupyter Notebook|01/11|
 |43|[wx-chevalier/AI-Series](https://github.com/wx-chevalier/AI-Series)|:books: [.md & .ipynb] Series of Artificial Intelligence & Deep Learning, including Mathematics Fundamentals, Python Practices, NLP Application, etc. 💫 人工智能与深度学习实战，数理统计篇   机器学习篇   深度学习篇   自然语言处理篇   工具实践 Scikit & Tensoflow & PyTorch 篇   行业应用 & 课程笔记|711|Jupyter Notebook|05/10|
 |44|[chocoluffy/deep-recommender-system](https://github.com/chocoluffy/deep-recommender-system)|深度学习在推荐系统中的应用及论文小结。|690|Jupyter Notebook|10/05|
-|45|[datawhalechina/team-learning-data-mining](https://github.com/datawhalechina/team-learning-data-mining)|主要存储Datawhale组队学习中“数据挖掘/机器学习”方向的资料。|684|Jupyter Notebook|06/27|
+|45|[datawhalechina/team-learning-data-mining](https://github.com/datawhalechina/team-learning-data-mining)|主要存储Datawhale组队学习中“数据挖掘/机器学习”方向的资料。|685|Jupyter Notebook|06/27|
 |46|[yuanxiaosc/Machine-Learning-Book](https://github.com/yuanxiaosc/Machine-Learning-Book)|《机器学习宝典》包含：谷歌机器学习速成课程（招式）+机器学习术语表（口诀）+机器学习规则（心得）+机器学习中的常识性问题 （内功）。该资源适用于机器学习、深度学习研究人员和爱好者参考！|638|Jupyter Notebook|06/07|
 |47|[Wasim37/deeplearning-assignment](https://github.com/Wasim37/deeplearning-assignment)|深度学习笔记|638|Jupyter Notebook|12/19|
 |48|[coldlarry/YOLOv3-complete-pruning](https://github.com/coldlarry/YOLOv3-complete-pruning)|提供对YOLOv3及Tiny的多种剪枝版本，以适应不同的需求。|634|Jupyter Notebook|02/25|
 |49|[zjunlp/deepke](https://github.com/zjunlp/deepke)|基于深度学习的开源中文关系抽取框架|624|Jupyter Notebook|07/02|
-|50|[eastmountyxz/ImageProcessing-Python](https://github.com/eastmountyxz/ImageProcessing-Python)|该资源为作者在CSDN的撰写Python图像处理文章的支撑，主要是Python实现图像处理、图像识别、图像分类等算法代码实现，希望该资源对您有所帮助，一起加油。|611|Jupyter Notebook|06/22|
-|51|[fly51fly/Practical_Python_Programming](https://github.com/fly51fly/Practical_Python_Programming)|北邮《Python编程与实践》课程资料|610|Jupyter Notebook|06/09|
+|50|[eastmountyxz/ImageProcessing-Python](https://github.com/eastmountyxz/ImageProcessing-Python)|该资源为作者在CSDN的撰写Python图像处理文章的支撑，主要是Python实现图像处理、图像识别、图像分类等算法代码实现，希望该资源对您有所帮助，一起加油。|612|Jupyter Notebook|06/22|
+|51|[fly51fly/Practical_Python_Programming](https://github.com/fly51fly/Practical_Python_Programming)|北邮《Python编程与实践》课程资料|609|Jupyter Notebook|06/09|
 |52|[ypwhs/dogs_vs_cats](https://github.com/ypwhs/dogs_vs_cats)|猫狗大战|580|Jupyter Notebook|09/22|
 |53|[zhouyanasd/or-pandas](https://github.com/zhouyanasd/or-pandas)|【运筹OR帷幄 数据科学】pandas教程系列电子书|573|Jupyter Notebook|06/06|
 |54|[ShusenTang/Deep-Learning-with-PyTorch-Chinese](https://github.com/ShusenTang/Deep-Learning-with-PyTorch-Chinese)|本仓库将PyTorch官方书籍《Deep learning with PyTorch》（基本摘录版）翻译成中文版并给出可运行的相关代码。|571|Jupyter Notebook|11/25|
@@ -202,7 +202,7 @@
 |57|[lxztju/pytorch_classification](https://github.com/lxztju/pytorch_classification)|利用pytorch实现图像分类的一个完整的代码，训练，预测，TTA，模型融合，模型部署，cnn提取特征，svm或者随机森林等进行分类，模型蒸馏，一个完整的代码|551|Jupyter Notebook|04/13|
 |58|[CNFeffery/DataScienceStudyNotes](https://github.com/CNFeffery/DataScienceStudyNotes)|这个仓库保管从（数据科学学习手札69）开始的所有代码、数据等相关附件内容|538|Jupyter Notebook|05/25|
 |59|[marsggbo/deeplearning.ai_JupyterNotebooks](https://github.com/marsggbo/deeplearning.ai_JupyterNotebooks)|DeepLearning.ai课程学习Jupyter Notebook作业|531|Jupyter Notebook|11/08|
-|60|[Fafa-DL/Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021春季机器学习课程课件及作业|527|Jupyter Notebook|06/23|
+|60|[Fafa-DL/Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021春季机器学习课程课件及作业|528|Jupyter Notebook|06/23|
 |61|[DataXujing/YOLO-v5](https://github.com/DataXujing/YOLO-v5)|:art: Pytorch YOLO v5 训练自己的数据集超详细教程！！！ :art: (提供PDF训练教程下载）|481|Jupyter Notebook|06/23|
 |62|[LYuhang/GNN_Review](https://github.com/LYuhang/GNN_Review)|GNN综述阅读报告|478|Jupyter Notebook|04/08|
 |63|[MemorialCheng/deep-learning-from-scratch](https://github.com/MemorialCheng/deep-learning-from-scratch)|深度学习入门-基于Python的理论与实现》，包含源代码和高清PDF(带书签)；慕课网imooc《深度学习之神经网络(CNN-RNN-GAN)算法原理-实战》|469|Jupyter Notebook|11/18|
@@ -213,12 +213,12 @@
 |68|[yenlung/Python-3-Data-Analysis-Basics](https://github.com/yenlung/Python-3-Data-Analysis-Basics)|Python 3 與數據分析概要|433|Jupyter Notebook|07/20|
 |69|[iphysresearch/TOP250movie_douban](https://github.com/iphysresearch/TOP250movie_douban)|TOP250豆瓣电影短评：Scrapy 爬虫+数据清理/分析+构建中文文本情感分析模型|432|Jupyter Notebook|06/29|
 |70|[ChileWang0228/Deep-Learning-With-Python](https://github.com/ChileWang0228/Deep-Learning-With-Python)|《Python深度学习》书籍代码|422|Jupyter Notebook|05/13|
-|71|[PaddlePaddle/awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning)|深度学习入门课、资深课、特色课、学术案例、产业实践案例、深度学习知识百科及面试题库The course, case and knowledge of Deep Learning and AI|412|Jupyter Notebook|07/08|
+|71|[PaddlePaddle/awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning)|深度学习入门课、资深课、特色课、学术案例、产业实践案例、深度学习知识百科及面试题库The course, case and knowledge of Deep Learning and AI|414|Jupyter Notebook|07/08|
 |72|[zkywsg/Daily-DeepLearning](https://github.com/zkywsg/Daily-DeepLearning)|🔥机器学习/深度学习/Python/算法面试/自然语言处理教程/剑指offer/machine learning/deeplearning/Python/Algorithm interview/NLP Tutorial|411|Jupyter Notebook|05/06|
 |73|[datawhalechina/team-learning-program](https://github.com/datawhalechina/team-learning-program)|主要存储Datawhale组队学习中“编程、数据结构与算法”方向的资料。|411|Jupyter Notebook|07/08|
 |74|[gengyanlei/fire-smoke-detect-yolov4](https://github.com/gengyanlei/fire-smoke-detect-yolov4)|fire-smoke-detect-yolov4-yolov5 and fire-smoke-detection-dataset 火灾检测，烟雾检测|407|Jupyter Notebook|07/08|
 |75|[DjangoPeng/tensorflow-101](https://github.com/DjangoPeng/tensorflow-101)|《TensorFlow 快速入门与实战》和《TensorFlow 2 项目进阶实战》课程代码与课件|404|Jupyter Notebook|05/07|
-|76|[bat67/pytorch-tutorials-examples-and-books](https://github.com/bat67/pytorch-tutorials-examples-and-books)|PyTorch1.x tutorials, examples and some books I found  【不定期更新】整理的PyTorch 1.x 最新版教程、例子和书籍|374|Jupyter Notebook|11/23|
+|76|[bat67/pytorch-tutorials-examples-and-books](https://github.com/bat67/pytorch-tutorials-examples-and-books)|PyTorch1.x tutorials, examples and some books I found  【不定期更新】整理的PyTorch 1.x 最新版教程、例子和书籍|375|Jupyter Notebook|11/23|
 |77|[ben1234560/AiLearning-Theory-Applying](https://github.com/ben1234560/AiLearning-Theory-Applying)|快速上手Ai理论及应用实战：基础知识Basic knowledge、机器学习MachineLearning、深度学习DeepLearning2、自然语言处理BERT，持续更新中。含大量注释及数据集，力求每一位能看懂并复现。|373|Jupyter Notebook|06/02|
 |78|[bobo0810/PytorchNetHub](https://github.com/bobo0810/PytorchNetHub)|项目注释+论文复现+算法竞赛+Pytorch指北|371|Jupyter Notebook|07/05|
 |79|[yizt/numpy_neural_network](https://github.com/yizt/numpy_neural_network)|仅使用numpy从头开始实现神经网络,包括反向传播公式推导过程; numpy构建全连接层、卷积层、池化层、Flatten层；以及图像分类案例及精调网络案例等,持续更新中... ...|364|Jupyter Notebook|11/28|
@@ -250,8 +250,8 @@
 |105|[YiranJing/Coronavirus-Epidemic-COVID-19](https://github.com/YiranJing/Coronavirus-Epidemic-COVID-19)|👩🏻‍⚕️Covid-19 estimation and forecast using statistical model; 新型冠状病毒肺炎统计模型预测 (Jan 2020)|237|Jupyter Notebook|02/23|
 |106|[JustDoPython/python-examples](https://github.com/JustDoPython/python-examples)|Python技术 公众号文章代码实例|234|Jupyter Notebook|06/30|
 |107|[LinXueyuanStdio/LaTeX_OCR](https://github.com/LinXueyuanStdio/LaTeX_OCR)|:gem: 数学公式识别|233|Jupyter Notebook|06/09|
-|108|[tsuirak/deeplearning.ai](https://github.com/tsuirak/deeplearning.ai)|该存储库包含由deeplearning.ai提供的相关课程的个人的笔记和实现代码。|229|Jupyter Notebook|01/26|
-|109|[ga642381/ML2021-Spring](https://github.com/ga642381/ML2021-Spring)|李宏毅 (Hung-Yi Lee) 機器學習 Machine Learning 2021 Spring|228|Jupyter Notebook|06/18|
+|108|[ga642381/ML2021-Spring](https://github.com/ga642381/ML2021-Spring)|李宏毅 (Hung-Yi Lee) 機器學習 Machine Learning 2021 Spring|229|Jupyter Notebook|06/18|
+|109|[tsuirak/deeplearning.ai](https://github.com/tsuirak/deeplearning.ai)|该存储库包含由deeplearning.ai提供的相关课程的个人的笔记和实现代码。|229|Jupyter Notebook|01/26|
 |110|[Qinbf/Deep-Learning-Tensorflow2](https://github.com/Qinbf/Deep-Learning-Tensorflow2)|基于Tensorflow2的深度学习开源书籍|227|Jupyter Notebook|09/07|
 |111|[allenlu2008/PythonDemo](https://github.com/allenlu2008/PythonDemo)|虾神的Python示例代码库|224|Jupyter Notebook|01/08|
 |112|[SharkFin-top/Statistics_Python_Codes](https://github.com/SharkFin-top/Statistics_Python_Codes)|《统计学原理实验教程（Python）》书中代码实现。尽可能加注释，力求代码的可复用性。|219|Jupyter Notebook|08/13|
@@ -289,7 +289,7 @@
 |144|[kingname/SourceCodeofMongoRedis](https://github.com/kingname/SourceCodeofMongoRedis)|《左手MongoDB，右手Redis——从入门到商业实战》书籍配套源代码。|146|Jupyter Notebook|03/20|
 |145|[PhilosopherZ/Meteorological-Books](https://github.com/PhilosopherZ/Meteorological-Books)|气象相关书籍合集（持续更新）|145|Jupyter Notebook|04/25|
 |146|[lsh1994/tianchiorgame](https://github.com/lsh1994/tianchiorgame)|天池比赛，kaggle等等（Keras/PyTorch实战）|144|Jupyter Notebook|08/09|
-|147|[zhongqiangwu960812/AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)|该仓库尝试整理推荐系统领域的一些经典算法模型|143|Jupyter Notebook|07/03|
+|147|[zhongqiangwu960812/AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)|该仓库尝试整理推荐系统领域的一些经典算法模型|144|Jupyter Notebook|07/03|
 |148|[zake7749/Gossiping-Chinese-Corpus](https://github.com/zake7749/Gossiping-Chinese-Corpus)|PTT 八卦版問答中文語料|143|Jupyter Notebook|01/18|
 |149|[Wakinguup/Underwater_detection](https://github.com/Wakinguup/Underwater_detection)|2020年全国水下机器人（湛江）大赛|140|Jupyter Notebook|04/14|
 |150|[wangyingsm/Python-Data-Science-Handbook](https://github.com/wangyingsm/Python-Data-Science-Handbook)|A Chinese translation of Jake Vanderplas' "Python Data Science Handbook". 《Python数据科学手册》在线Jupyter notebook中文翻译|137|Jupyter Notebook|05/18|
@@ -299,7 +299,7 @@
 |154|[GiantPandaCV/yolov3-point](https://github.com/GiantPandaCV/yolov3-point)|从零开始学习YOLOv3教程解读代码+注意力模块(SE,SPP,RFB etc)|133|Jupyter Notebook|12/10|
 |155|[Relph1119/deeplearning-with-tensorflow-notes](https://github.com/Relph1119/deeplearning-with-tensorflow-notes)|龙曲良《TensorFlow深度学习》学习笔记及代码，采用TensorFlow2.0.0版本|131|Jupyter Notebook|04/18|
 |156|[seaniezhao/torch_npss](https://github.com/seaniezhao/torch_npss)|pytorch implementation of Neural Parametric Singing Synthesizer 歌声合成|124|Jupyter Notebook|03/25|
-|157|[d2l-ai/d2l-zh-pytorch-slides](https://github.com/d2l-ai/d2l-zh-pytorch-slides)|Pytorch版代码幻灯片|124|Jupyter Notebook|07/08|
+|157|[d2l-ai/d2l-zh-pytorch-slides](https://github.com/d2l-ai/d2l-zh-pytorch-slides)|Pytorch版代码幻灯片|124|Jupyter Notebook|07/09|
 |158|[mepeichun/Efficient-Neural-Network-Bilibili](https://github.com/mepeichun/Efficient-Neural-Network-Bilibili)|B站Efficient-Neural-Network学习分享的配套代码|123|Jupyter Notebook|11/27|
 |159|[makelove/Programer_Log](https://github.com/makelove/Programer_Log)|最新动态在这里【我的程序员日志】|122|Jupyter Notebook|07/04|
 |160|[FontTian/hyperopt-doc-zh](https://github.com/FontTian/hyperopt-doc-zh)|Github开源项目hyperopt系列的中文文档,以及学习教程等|120|Jupyter Notebook|03/13|
@@ -315,15 +315,15 @@
 |170|[fancyerii/deep_learning_theory_and_practice](https://github.com/fancyerii/deep_learning_theory_and_practice)|《深度学习理论与实战：基础篇》代码|110|Jupyter Notebook|06/08|
 |171|[BackyardofAbela/EnsembleLearning](https://github.com/BackyardofAbela/EnsembleLearning)|包括决策树和随机森林进行离职人员预测，Xgboost和lightGBM的应用|109|Jupyter Notebook|04/17|
 |172|[Dylanin1999/Tensorflow2.0](https://github.com/Dylanin1999/Tensorflow2.0)|学习笔记代码|108|Jupyter Notebook|03/25|
-|173|[liuhuanshuo/zaoqi-data](https://github.com/liuhuanshuo/zaoqi-data)|公众号：可视化图鉴|107|Jupyter Notebook|05/17|
-|174|[JokerJohn/bilibli_notes2](https://github.com/JokerJohn/bilibli_notes2)|攻城狮之家B站视频课程课件合集2，1号仓库https://github.com/JokerJohn/bilibili_notes.git|107|Jupyter Notebook|10/14|
-|175|[BraveY/AI-with-code](https://github.com/BraveY/AI-with-code)|AI学习过程中的实操代码|107|Jupyter Notebook|07/18|
+|173|[BraveY/AI-with-code](https://github.com/BraveY/AI-with-code)|AI学习过程中的实操代码|108|Jupyter Notebook|07/18|
+|174|[liuhuanshuo/zaoqi-data](https://github.com/liuhuanshuo/zaoqi-data)|公众号：可视化图鉴|107|Jupyter Notebook|05/17|
+|175|[JokerJohn/bilibli_notes2](https://github.com/JokerJohn/bilibli_notes2)|攻城狮之家B站视频课程课件合集2，1号仓库https://github.com/JokerJohn/bilibili_notes.git|107|Jupyter Notebook|10/14|
 |176|[nmcdev/meteva](https://github.com/nmcdev/meteva)|提供气象产品检验相关程序|106|Jupyter Notebook|07/07|
 |177|[huanghao128/zh-nlp-demo](https://github.com/huanghao128/zh-nlp-demo)|自然语言处理NLP在中文文本上的一些应用，如文本分类、情感分析、命名实体识别等|105|Jupyter Notebook|04/30|
 |178|[JackonYang/paper-reading](https://github.com/JackonYang/paper-reading)|比做算法的懂工程落地，比做工程的懂算法模型。|103|Jupyter Notebook|06/09|
 |179|[azy1988/ML-CV](https://github.com/azy1988/ML-CV)|机器学习实战|100|Jupyter Notebook|06/09|
-|180|[fly51fly/Principle_of_Web_Search_2020](https://github.com/fly51fly/Principle_of_Web_Search_2020)|北邮《网络搜索原理》课程(2020)|94|Jupyter Notebook|12/16|
-|181|[hudengjunai/DeepEmbeding](https://github.com/hudengjunai/DeepEmbeding)|图像检索和向量搜索，similarity learning,compare deep metric and deep-hashing applying in image retrieval|93|Jupyter Notebook|05/03|
+|180|[hudengjunai/DeepEmbeding](https://github.com/hudengjunai/DeepEmbeding)|图像检索和向量搜索，similarity learning,compare deep metric and deep-hashing applying in image retrieval|94|Jupyter Notebook|05/03|
+|181|[fly51fly/Principle_of_Web_Search_2020](https://github.com/fly51fly/Principle_of_Web_Search_2020)|北邮《网络搜索原理》课程(2020)|94|Jupyter Notebook|12/16|
 |182|[wanyueli/DeepLizard-pytorch-](https://github.com/wanyueli/DeepLizard-pytorch-)|自己总结的DeepLizard的pytorch神经网络编程系列视频的笔记(非官方)|93|Jupyter Notebook|05/08|
 |183|[Bil369/MaskDetect-YOLOv4-PyTorch](https://github.com/Bil369/MaskDetect-YOLOv4-PyTorch)|基于PyTorch&YOLOv4实现的口罩佩戴检测  :star: 自建口罩数据集分享|92|Jupyter Notebook|12/02|
 |184|[dsh0416/quantum-i-ching](https://github.com/dsh0416/quantum-i-ching)|A Quantum 爻 System Implementation for Divination |92|Jupyter Notebook|05/18|
@@ -380,7 +380,7 @@
 |26|[looly/elasticsearch-definitive-guide-cn](https://github.com/looly/elasticsearch-definitive-guide-cn)|Elasticsearch权威指南中文版|2.0k|Shell|07/14|
 |27|[hijkpw/scripts](https://github.com/hijkpw/scripts)|Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程|1.9k|Shell|06/23|
 |28|[apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap)|ApacheCN AI 路线图（知识树）|1.8k|Shell|01/02|
-|29|[LCTT/TranslateProject](https://github.com/LCTT/TranslateProject)|Linux中国翻译项目|1.8k|Shell|07/08|
+|29|[LCTT/TranslateProject](https://github.com/LCTT/TranslateProject)|Linux中国翻译项目|1.8k|Shell|07/09|
 |30|[neoFelhz/neohosts](https://github.com/neoFelhz/neohosts)|自由·负责·克制 去广告 Hosts 项目|1.5k|Shell|06/14|
 |31|[P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf)|Aria2 配置文件   OneDrive & Google Drvive 离线下载   百度网盘转存|1.5k|Shell|07/04|
 |32|[P3TERX/aria2.sh](https://github.com/P3TERX/aria2.sh)|Aria2 一键安装管理脚本 增强版|1.5k|Shell|12/26|
@@ -395,33 +395,33 @@
 |41|[duguying/parsing-techniques](https://github.com/duguying/parsing-techniques)|📕 parsing techniques 中文译本——《解析技术》|1.2k|Shell|02/05|
 |42|[MvsCode/frps-onekey](https://github.com/MvsCode/frps-onekey)| Frps 一键安装脚本&管理脚本 A tool to auto-compile & install frps on Linux|1.2k|Shell|06/03|
 |43|[johnrosen1/vpstoolbox](https://github.com/johnrosen1/vpstoolbox)|最强一键脚本,一键安装Trojan-GFW代理,Hexo博客,Nextcloud等應用程式。|1.2k|Shell|07/08|
-|44|[lan-tianxiang/JS_TOOL](https://github.com/lan-tianxiang/JS_TOOL)|Node网页开发工具|1.1k|Shell|07/08|
+|44|[lan-tianxiang/JS_TOOL](https://github.com/lan-tianxiang/JS_TOOL)|Node网页开发工具|1.1k|Shell|07/09|
 |45|[liuyi01/kubernetes-starter](https://github.com/liuyi01/kubernetes-starter)|kubernetes入门，包括kubernetes概念，架构设计，集群环境搭建，认证授权等。|1.1k|Shell|05/07|
 |46|[huan/docker-wechat](https://github.com/huan/docker-wechat)|DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux|1.1k|Shell|04/13|
 |47|[yakumioto/YaHei-Consolas-Hybrid-1.12](https://github.com/yakumioto/YaHei-Consolas-Hybrid-1.12)|YaHei Consolas Hybrid 字体|1.0k|Shell|09/23|
 |48|[jinwyp/one_click_script](https://github.com/jinwyp/one_click_script)|一键安装 trojan v2ray xray. Install v2ray / xray (VLESS) and trojan (trojan-go) script|1.0k|Shell|07/01|
-|49|[ben1234560/k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)|如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker等。|949|Shell|05/20|
+|49|[ben1234560/k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)|如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker等。|950|Shell|05/20|
 |50|[ToyoDAdoubiBackup/doubi](https://github.com/ToyoDAdoubiBackup/doubi)|一个逗比写的各种逗比脚本~|875|Shell|05/18|
 |51|[liquanzhou/ops_doc](https://github.com/liquanzhou/ops_doc)|运维简洁实用手册|861|Shell|06/02|
 |52|[hellofwy/ss-bash](https://github.com/hellofwy/ss-bash)|Shadowsocks流量管理脚本|858|Shell|02/22|
 |53|[arloor/iptablesUtils](https://github.com/arloor/iptablesUtils)|iptables转发ddns域名|855|Shell|12/15|
 |54|[goreliu/zshguide](https://github.com/goreliu/zshguide)|Zsh 开发指南|803|Shell|06/02|
 |55|[gfw-breaker/nogfw](https://github.com/gfw-breaker/nogfw)|一键翻墙软件，包含自由门、无界、Shadowsocks等 翻墙教程|795|Shell|06/11|
-|56|[xiaoZ-hc/redtool](https://github.com/xiaoZ-hc/redtool)|日常积累的一些红队工具及自己写的脚本，更偏向于一些diy的好用的工具，并不是一些比较常用的msf/awvs/xray这种|783|Shell|06/01|
+|56|[xiaoZ-hc/redtool](https://github.com/xiaoZ-hc/redtool)|日常积累的一些红队工具及自己写的脚本，更偏向于一些diy的好用的工具，并不是一些比较常用的msf/awvs/xray这种|784|Shell|06/01|
 |57|[xuexb/learn-nginx](https://github.com/xuexb/learn-nginx)|Nginx 入门指南|737|Shell|08/10|
 |58|[tinyclub/open-c-book](https://github.com/tinyclub/open-c-book)|开源书籍:《C语言编程透视》，配套视频课程《360° 剖析 Linux ELF》已上线，视频讲解更为系统和深入，欢迎订阅：https://www.cctalk.com/m/group/88089283|726|Shell|03/10|
-|59|[esirplayground/AutoBuild-OpenWrt](https://github.com/esirplayground/AutoBuild-OpenWrt)|Build OpenWrt using GitHub Actions   使用 GitHub Actions 编译 OpenWrt   感谢P3TERX的项目源码 感谢KFERMercer的项目源码|708|Shell|07/07|
+|59|[esirplayground/AutoBuild-OpenWrt](https://github.com/esirplayground/AutoBuild-OpenWrt)|Build OpenWrt using GitHub Actions   使用 GitHub Actions 编译 OpenWrt   感谢P3TERX的项目源码 感谢KFERMercer的项目源码|710|Shell|07/07|
 |60|[RokasUrbelis/docker-wine-linux](https://github.com/RokasUrbelis/docker-wine-linux)|:boom::whale::fire:Linux运行wine应用(QQ/微信/百度网盘/TIM/迅雷极速版/Foxmail等)，适用于所有发行版------- Best wine-QQ/TIM/Wechat for all Linux distros|699|Shell|08/22|
 |61|[hongwenjun/vps_setup](https://github.com/hongwenjun/vps_setup)|linux  vim bash 脚本学习笔记 by 蘭雅sRGB   https://262235.xyz/|697|Shell|07/06|
 |62|[aikuyun/iterm2-zmodem](https://github.com/aikuyun/iterm2-zmodem)|在 Mac 下，实现与服务器进行便捷的文件上传和下载操作|680|Shell|11/17|
 |63|[godbasin/vue-ebook](https://github.com/godbasin/vue-ebook)|《深入理解Vue.js实战》- 介绍Vue.js框架的出现、设计和使用，结合实战让读者更深入理解Vue.js框架，掌握使用方法。|678|Shell|04/19|
-|64|[insightglacier/Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting)|Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。|661|Shell|06/24|
+|64|[insightglacier/Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting)|Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。|662|Shell|06/24|
 |65|[tonydeng/sdn-handbook](https://github.com/tonydeng/sdn-handbook)|SDN手册|655|Shell|06/26|
 |66|[IvanSolis1989/OpenWrt-DIY](https://github.com/IvanSolis1989/OpenWrt-DIY)|       多设备 OpenWrt Aciton 固件云编译——X86、竞斗云、极路由 B70、K2T、K2P、K3、N1、红米 AC2100、Newifi D2、树莓派、小娱 C5、R2S、R4S、小米 R3G、小米 R3P、小米 Mini、网件 R7800、星际宝盒 CM520、Amlogic S905X3、OrangePi Zero Plus、网件 3800、Linksys Wrt1900acs、Linksys Wrt3200acm、Linksys Wrt32x——（QQ群：1130190364）|652|Shell|07/04|
 |67|[rime/plum](https://github.com/rime/plum)|東風破 /plum/: Rime configuration manager and input schema repository|649|Shell|03/11|
 |68|[al0ne/LinuxCheck](https://github.com/al0ne/LinuxCheck)|linux系统自动化应急响应工具，支持基础配置/网络流量/任务计划/环境变量/用户信息/Services/bash/恶意文件/内核Rootkit/SSH/Webshell/挖矿文件/挖矿进程检查等12类70项检查|637|Shell|06/22|
-|69|[skyline75489/Heart-First-JavaWeb](https://github.com/skyline75489/Heart-First-JavaWeb)|一个走心的 Java Web 入门开发教程|616|Shell|03/20|
-|70|[YG-tsj/CFWarp-Pro](https://github.com/YG-tsj/CFWarp-Pro)|仅支持"内核集成"模式的WARP多功能脚本（支持ARM/X86）：纯IPV4、纯IPV6、双栈IPV4+IPV6 各种VPS都可用。目前已测试通过oracle（甲骨文云），gpc（谷歌云），buyvm，racknerd，virmach，vultr，aws（亚马逊云），azure（微软云），bandwagonhost（搬瓦工）……欢迎大家补充反馈！|614|Shell|07/08|
+|69|[YG-tsj/CFWarp-Pro](https://github.com/YG-tsj/CFWarp-Pro)|仅支持"内核集成"模式的WARP多功能脚本（支持ARM/X86）：纯IPV4、纯IPV6、双栈IPV4+IPV6 各种VPS都可用。目前已测试通过oracle（甲骨文云），gpc（谷歌云），buyvm，racknerd，virmach，vultr，aws（亚马逊云），azure（微软云），bandwagonhost（搬瓦工）……欢迎大家补充反馈！|617|Shell|07/08|
+|70|[skyline75489/Heart-First-JavaWeb](https://github.com/skyline75489/Heart-First-JavaWeb)|一个走心的 Java Web 入门开发教程|616|Shell|03/20|
 |71|[dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial)|:penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本|609|Shell|05/13|
 |72|[apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh)|独立开发/自由职业/远程工作资源列表|604|Shell|09/17|
 |73|[rehiy/dnspod-shell](https://github.com/rehiy/dnspod-shell)|基于DNSPod用户API实现的纯Shell动态域名客户端|604|Shell|06/29|
@@ -433,7 +433,7 @@
 |79|[Jactor-Sue/Deepin-Apps-Installation](https://github.com/Jactor-Sue/Deepin-Apps-Installation)|本仓库介绍如何在基于Ubuntu的系统上安装Deepin移植的软件。This repo shows how to install apps packaged by Deepin.|564|Shell|10/26|
 |80|[shgopher/GOFamily](https://github.com/shgopher/GOFamily)|🔥 大厂 BAT 面试高频知识点，后端技术体系。包含了 C GO Python, 网络，Redis ，MySQL ，消息队列 ，高并发，微服务，缓存，操作系统，算法，LeetCode 刷题等知识|545|Shell|07/06|
 |81|[V2RaySSR/Trojan](https://github.com/V2RaySSR/Trojan)|Trojan 一键安装脚本|544|Shell|11/23|
-|82|[zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial)|Java全栈知识架构体系总结|543|Shell|07/08|
+|82|[zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial)|Java全栈知识架构体系总结|543|Shell|07/09|
 |83|[Nick233333/phper-linux-gitbook](https://github.com/Nick233333/phper-linux-gitbook)|💡PHPer 必知必会的 Linux 命令|541|Shell|04/21|
 |84|[woniuzfb/iptv](https://github.com/woniuzfb/iptv)|一键安装管理 FFmpeg / nginx / openresty / xray / v2ray / armbian /  proxmox ve / cloudflare partner,workers / ibm cloud foundry 脚本|540|Shell|06/16|
 |85|[EtherDream/anti-portscan](https://github.com/EtherDream/anti-portscan)|使用 iptables 防止端口扫描|502|Shell|10/22|
@@ -453,8 +453,8 @@
 |99|[andyzhshg/syno-acme](https://github.com/andyzhshg/syno-acme)|通过acme协议更新群晖HTTPS泛域名证书的自动脚本|410|Shell|01/08|
 |100|[neodevpro/neodevhost](https://github.com/neodevpro/neodevhost)| The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告|405|Shell|06/08|
 |101|[sprov065/soga](https://github.com/sprov065/soga)|soga 后端，支持 VMess、VLESS、Trojan、ss、ssr，大幅优化内存占用，支持sspanel-uim、v2board、VNetPanel、WHMCS、ProxyPanel 等面板|403|Shell|07/07|
-|102|[1orz/My-action](https://github.com/1orz/My-action)|自动编译-无人值守Auto release base on Github actions|402|Shell|06/17|
-|103|[ffffffff0x/f8x](https://github.com/ffffffff0x/f8x)|红/蓝队环境自动化部署工具|402|Shell|07/05|
+|102|[ffffffff0x/f8x](https://github.com/ffffffff0x/f8x)|红/蓝队环境自动化部署工具|403|Shell|07/05|
+|103|[1orz/My-action](https://github.com/1orz/My-action)|自动编译-无人值守Auto release base on Github actions|402|Shell|06/17|
 |104|[lightyearvpn/LightyearVPN](https://github.com/lightyearvpn/LightyearVPN)|翻墙，科学上网，梯子，VPN，加速器，外网，代理，路由，防火墙，GFW，VPN下载。支持UDP，游戏必备。免费VPN试用，全球部署Trojan节点，Shadowsocks节点，V2ray节点。提供免费SS节点和。|400|Shell|06/27|
 |105|[csy512889371/learnDoc](https://github.com/csy512889371/learnDoc)|🔥:rocket:架构师的成长之路-博客-导图|400|Shell|08/13|
 |106|[rootsongjc/istio-handbook](https://github.com/rootsongjc/istio-handbook)|Istio Handbook（Istio 服务网格进阶实战）- https://jimmysong.io/istio-handbook|393|Shell|04/30|
@@ -479,20 +479,20 @@
 |125|[ericwang2006/docker_ttnode](https://github.com/ericwang2006/docker_ttnode)|甜糖星愿|294|Shell|06/26|
 |126|[haiwen/seafile-docs-cn](https://github.com/haiwen/seafile-docs-cn)|Seafile服务器用户手册|292|Shell|05/05|
 |127|[lxchuan12/blog](https://github.com/lxchuan12/blog)|若川的博客—学习源码整体架构系列多篇，前端面试高频源码，微信搜索「若川视野」关注我，长期交流学习~|288|Shell|06/18|
-|128|[cdk8s/cdk8s-team-style](https://github.com/cdk8s/cdk8s-team-style)|寻找志同道合的人，引发自身的思考|285|Shell|07/08|
+|128|[cdk8s/cdk8s-team-style](https://github.com/cdk8s/cdk8s-team-style)|寻找志同道合的人，引发自身的思考|285|Shell|07/09|
 |129|[cookcodeblog/k8s-deploy](https://github.com/cookcodeblog/k8s-deploy)|使用kubeadm一键部署kubernetes集群|282|Shell|11/09|
 |130|[Baiyuetribe/baiyue_onekey](https://github.com/Baiyuetribe/baiyue_onekey)|佰阅部落一键脚本合集工具箱，集合25+优质开源项目，一步到位，全程中文交互提示，不懂代码也可以轻松搭建很多程序|277|Shell|06/17|
 |131|[mixool/HiCnUnicom](https://github.com/mixool/HiCnUnicom)|登录 签到 会员任务|276|Shell|04/28|
 |132|[2moe/tmoe-linux](https://github.com/2moe/tmoe-linux)|🍭Without any basic knowledge of linux shell,you can easily install and configure a GNU/Linux graphical desktop environment on 📱Android termux and 💻WSL .🍰You can also run VSCode on your android phone.🍹Graphical qemu manager，🐋support running docker on Android.配置WSL和安卓手机的linux容器,桌面环境,主题美化,远程桌面,音频服务,镜像源 ...|270|Shell|07/07|
 |133|[shengqiangzhang/Drcom-GDUT-HC5661A-OpenWrt](https://github.com/shengqiangzhang/Drcom-GDUT-HC5661A-OpenWrt)|在Dr.COM下使用路由器上校园网WIFI(以广东工业大学、极路由1S HC5661A、OpenWrt为例)|269|Shell|10/17|
-|134|[al0ne/nginx_log_check](https://github.com/al0ne/nginx_log_check)|Nginx日志安全分析脚本|265|Shell|12/25|
+|134|[al0ne/nginx_log_check](https://github.com/al0ne/nginx_log_check)|Nginx日志安全分析脚本|266|Shell|12/25|
 |135|[wallace5303/dnnmmp](https://github.com/wallace5303/dnnmmp)|基于docker的开发者集成环境 （docker，nodejs，php，nginx，mongo，mysql，redis等）|263|Shell|08/14|
 |136|[swoole/swoole-wiki](https://github.com/swoole/swoole-wiki)|📖Swoole全量Markdown文档, Swoole-Doc, Swoole-Wiki|262|Shell|08/17|
 |137|[A-BenMao/pure-bash-bible-zh_CN](https://github.com/A-BenMao/pure-bash-bible-zh_CN)|📖 一个纯bash实现外部命令的脚本集合（中文版）【翻译自pure-bash-bible仓库】|259|Shell|05/06|
 |138|[lework/kainstall](https://github.com/lework/kainstall)|Use shell scripts to install kubernetes(k8s) high availability clusters and addon components based on kubeadmin with one click.使用shell脚本基于kubeadmin一键安装kubernetes 高可用集群和addon组件。|258|Shell|06/21|
 |139|[guanguans/dnmp-plus](https://github.com/guanguans/dnmp-plus)|🐳Docker的LNMP一键安装开发环境 + PHP非侵入式监控平台xhgui(优化系统性能、定位Bug神器)|254|Shell|06/26|
-|140|[Hyy2001X/AutoBuild-Actions](https://github.com/Hyy2001X/AutoBuild-Actions)|使用 Github Actions 编译 Openwrt   在线更新固件|251|Shell|07/08|
-|141|[KANIKIG/Multi-EasyGost](https://github.com/KANIKIG/Multi-EasyGost)|致力于最简单好用的GOST小白脚本|250|Shell|04/10|
+|140|[Hyy2001X/AutoBuild-Actions](https://github.com/Hyy2001X/AutoBuild-Actions)|使用 Github Actions 编译 Openwrt   在线更新固件|252|Shell|07/08|
+|141|[KANIKIG/Multi-EasyGost](https://github.com/KANIKIG/Multi-EasyGost)|致力于最简单好用的GOST小白脚本|249|Shell|04/10|
 |142|[a244573118/WeChatIntercept](https://github.com/a244573118/WeChatIntercept)|微信防撤回插件，一键安装，仅MAC可用，支持新版3.0微信|247|Shell|04/30|
 |143|[91yun/91yuntest](https://github.com/91yun/91yuntest)|91云服务器一键测试包|245|Shell|05/19|
 |144|[whunt1/onekeymakemtg](https://github.com/whunt1/onekeymakemtg)|编译安装最新版 mtproxy-go 一键脚本|244|Shell|06/22|
@@ -511,7 +511,7 @@
 |157|[aturl/awesome-anti-gfw](https://github.com/aturl/awesome-anti-gfw)|突破网络审查和封锁的开源工具清单。|212|Shell|04/02|
 |158|[PaddlePaddle/FleetX](https://github.com/PaddlePaddle/FleetX)|Paddle Distributed Training Extended. 飞桨分布式训练扩展包|211|Shell|07/08|
 |159|[wsydxiangwang/Note](https://github.com/wsydxiangwang/Note)|☔️  前端学习笔记，JavaScript，TypeScript，Vue，React，CSS，设计模式，数据结构，NodeJS等等。记录只是为了更好的摸鱼，从入门到放弃。|209|Shell|04/13|
-|160|[rime/rime-cantonese](https://github.com/rime/rime-cantonese)|Rime Cantonese input schema   粵語拼音輸入方案|209|Shell|07/08|
+|160|[rime/rime-cantonese](https://github.com/rime/rime-cantonese)|Rime Cantonese input schema   粵語拼音輸入方案|209|Shell|07/09|
 |161|[Lancger/opslinux](https://github.com/Lancger/opslinux)|Linux运维手册(基础+frp内网穿透+分布式锁+Redis+Kafka+安全+漏洞扫描+Docker+ELFK+LVM+监控+CI/CD+数据库+翻墙+LDAP+MQ+minio对象存储+命令录制审计+IP出口+gmail邮件安全校验+Jaeger 分布式追踪+苹果app安全审核+pps包转发率+网卡多队列均衡等)|205|Shell|06/23|
 |162|[tinyclub/elinux](https://github.com/tinyclub/elinux)|嵌入式 Linux 知识库 (elinux.org) 中文翻译计划；本项目发起人发布了《360° 剖析 Linux ELF》视频课程，欢迎订阅：https://www.cctalk.com/m/group/88089283|200|Shell|01/22|
 |163|[collabH/repository](https://github.com/collabH/repository)|个人学习知识库涉及到数据仓库建模、实时计算、大数据、Java、算法等。|199|Shell|07/08|
@@ -524,15 +524,15 @@
 |170|[Biulink/ShadowsocksTutorials](https://github.com/Biulink/ShadowsocksTutorials)|Shadowsocks教程|191|Shell|08/30|
 |171|[h46incon/AliDDNSBash](https://github.com/h46incon/AliDDNSBash)|阿里云域名解析动态更新（DDNS）的 Shell 脚本|188|Shell|07/18|
 |172|[tinyclub/cloud-lab](https://github.com/tinyclub/cloud-lab)|Docker based Cloud Lab Center, with noVNC and Gateone attachable LXDE Desktop and SSH Terminal. 本项目作者发布了《360° 剖析 Linux ELF》视频课程，欢迎订阅：https://www.cctalk.com/m/group/88089283|187|Shell|06/03|
-|173|[hoochanlon/helpdesk-guide](https://github.com/hoochanlon/helpdesk-guide)|📖《桌维网管实典》主机与程控终端信息安全运维，IT方向速成就业入职|186|Shell|05/18|
+|173|[hoochanlon/helpdesk-guide](https://github.com/hoochanlon/helpdesk-guide)|📖《桌维网管实典》主机与程控终端信息安全运维，IT方向速成就业入职|186|Shell|07/09|
 |174|[pssss/Security-Baseline](https://github.com/pssss/Security-Baseline)|Linux/Windows 安全加固脚本|185|Shell|01/07|
 |175|[zq99299/note-book](https://github.com/zq99299/note-book)|新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记。|185|Shell|06/23|
-|176|[ineo6/homebrew-install](https://github.com/ineo6/homebrew-install)|homebrew安装使用中科大镜像|182|Shell|06/25|
+|176|[ineo6/homebrew-install](https://github.com/ineo6/homebrew-install)|homebrew安装使用中科大镜像|183|Shell|06/25|
 |177|[xiaohouzivpn/xiaohouzi](https://github.com/xiaohouzivpn/xiaohouzi)|小猴子最新后台网站 www.xiaohouzilaaa.site   小猴子安卓版https://raw.githubusercontent.com/xiaohouzivpn/xiaohouzi/master/xiaohouzijiasuqi.apk  小猴子        pc版本 https://raw.githubusercontent.com/xiaohouzivpn/xiaohouzi/master/xiaohouzipc.rar|182|Shell|05/17|
 |178|[wangdoc/html-tutorial](https://github.com/wangdoc/html-tutorial)|HTML 语言教程|181|Shell|05/11|
 |179|[shenuiuin/LXD_GPU_SERVER](https://github.com/shenuiuin/LXD_GPU_SERVER)|实验室GPU服务器的LXD虚拟化|181|Shell|06/23|
 |180|[jinfeijie/yapi](https://github.com/jinfeijie/yapi)|Docker for YApi 一键部署YApi|179|Shell|04/30|
-|181|[V2RaySSR/Trojan_panel_web](https://github.com/V2RaySSR/Trojan_panel_web)|一键更改 Trojan-Panel 面板端口并设置伪装站点|177|Shell|09/01|
+|181|[V2RaySSR/Trojan_panel_web](https://github.com/V2RaySSR/Trojan_panel_web)|一键更改 Trojan-Panel 面板端口并设置伪装站点|178|Shell|09/01|
 |182|[yanhuacuo/98wubi-tables](https://github.com/yanhuacuo/98wubi-tables)|98五笔基础码表|175|Shell|06/17|
 |183|[idoop/docker-apollo](https://github.com/idoop/docker-apollo)|docker image for Ctrip/Apollo(携程Apollo) |174|Shell|01/27|
 |184|[minminmsn/k8s1.13](https://github.com/minminmsn/k8s1.13)|微服务容器化持续交付总体流程：开发代码提交到Gitlab；Rahcher设置代码库为Gitlab；Rahcher流水线配置编译源码；Rahcher流水线Build Docker镜像；Rancher流水线Push Docker镜像到私有镜像库Harbor；Rancher流水线根据k8s yaml部署文件部署容器。|170|Shell|09/10|
@@ -541,16 +541,16 @@
 |187|[wangdoc/webapi-tutorial](https://github.com/wangdoc/webapi-tutorial)|Web API 教程|166|Shell|04/09|
 |188|[iKubernetes/Kubernetes_Advanced_Practical](https://github.com/iKubernetes/Kubernetes_Advanced_Practical)|《kubernetes进阶实战》随书代码。另外，该书的第2版已经正式发售。|163|Shell|03/10|
 |189|[kirin10000/V2Ray-WebSocket-TLS-Web-setup-script](https://github.com/kirin10000/V2Ray-WebSocket-TLS-Web-setup-script)|V2Ray-WebSocket ws +TLS 1.3 +Web 搭建/管理脚本|163|Shell|12/20|
-|190|[NJUPT-ISL/login-shell](https://github.com/NJUPT-ISL/login-shell)|SSH登陆显示脚本|161|Shell|08/14|
-|191|[P3TERX/warp.sh](https://github.com/P3TERX/warp.sh)|Cloudflare WARP configuration script   Cloudflare WARP 一键配置脚本|161|Shell|07/08|
+|190|[P3TERX/warp.sh](https://github.com/P3TERX/warp.sh)|Cloudflare WARP configuration script   Cloudflare WARP 一键配置脚本|162|Shell|07/08|
+|191|[NJUPT-ISL/login-shell](https://github.com/NJUPT-ISL/login-shell)|SSH登陆显示脚本|161|Shell|08/14|
 |192|[maybe1229/jd-base](https://github.com/maybe1229/jd-base)|京东薅羊毛利器|157|-|02/07|
 |193|[analysys/argo-installer](https://github.com/analysys/argo-installer)|方舟Argo安装工具|157|Shell|05/26|
 |194|[M1Screw/Airport-toolkit](https://github.com/M1Screw/Airport-toolkit)|各類方便機場主進行安裝維護的shell腳本|157|Shell|06/14|
 |195|[imroc/kubernetes-practice-guide](https://github.com/imroc/kubernetes-practice-guide)|Kubernetes Practice Guide (Kubernetes 实践指南)|154|Shell|12/21|
 |196|[vcheckzen/FamilyCloudSpeederInShell](https://github.com/vcheckzen/FamilyCloudSpeederInShell)|[ 天翼家庭云/天翼云盘提速 Shell 版 ] A Shell Implementation of FamilyCloudSpeeder, ESurfing|154|Shell|05/31|
 |197|[fanck0605/openwrt-nanopi-r2s](https://github.com/fanck0605/openwrt-nanopi-r2s)|基于原生 OpenWrt 的 NanoPi R2s 固件|152|Shell|07/07|
-|198|[KingFalse/ohmyiterm2](https://github.com/KingFalse/ohmyiterm2)|快速安装一个漂亮且强大的iterm2|150|Shell|06/29|
-|199|[xiaoyunjie/Shell_Script](https://github.com/xiaoyunjie/Shell_Script)|Linux系统的安全，通过脚本对Linux系统进行一键检测和一键加固|150|Shell|05/06|
+|198|[xiaoyunjie/Shell_Script](https://github.com/xiaoyunjie/Shell_Script)|Linux系统的安全，通过脚本对Linux系统进行一键检测和一键加固|151|Shell|05/06|
+|199|[KingFalse/ohmyiterm2](https://github.com/KingFalse/ohmyiterm2)|快速安装一个漂亮且强大的iterm2|150|Shell|06/29|
 |200|[wangtunan/blog](https://github.com/wangtunan/blog)|:memo: 记录个人博客，见证成长之路  https://wangtunan.github.io/blog/|149|Shell|07/08|
 
 ⬆ [回到目录](#目录)
@@ -582,7 +582,7 @@
 |19|[microshow/RxFFmpeg](https://github.com/microshow/RxFFmpeg)|🔥💥RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac + opencore-amr + openssl ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，包含以下功能：视频拼接，转码，压缩，裁剪，片头片尾，分离音视频，变速，添加静态贴纸和gif动态贴纸，添加字幕，添加滤镜，添加背景音乐，加速减速视频，倒放音视频，音频裁剪，变声，混音，图片合成视频，视频解码图片，抖音首页，视频播放器及支持 OpenSSL https 等主流特色功能|3.1k|C|06/04|
 |20|[y123456yz/reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2)|nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，更新完毕|3.1k|C|03/27|
 |21|[chiakge/Linux-NetSpeed](https://github.com/chiakge/Linux-NetSpeed)|将Linux现常用的网络加速集成在一起|2.9k|C|07/10|
-|22|[xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid)|android端基于FFmpeg实现音频剪切、拼接、转码、编解码；视频剪切、水印、截图、转码、编解码、转Gif动图；音视频合成与分离；音视频解码、同步与播放；FFmpeg本地推流、H264与RTMP实时推流直播；FFmpeg滤镜：素描、色彩平衡、hue、lut、模糊、九宫格等；基于IjkPlayer修改支持RTSP超低延时直播；歌词解析与显示|2.6k|C|07/08|
+|22|[xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid)|android端基于FFmpeg实现音频剪切、拼接、转码、编解码；视频剪切、水印、截图、转码、编解码、转Gif动图；音视频合成与分离；音视频解码、同步与播放；FFmpeg本地推流、H264与RTMP实时推流直播；FFmpeg滤镜：素描、色彩平衡、hue、lut、模糊、九宫格等；基于IjkPlayer修改支持RTSP超低延时直播；歌词解析与显示|2.6k|C|07/09|
 |23|[firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One)|CTF竞赛权威指南|2.6k|C|03/29|
 |24|[ithewei/libhv](https://github.com/ithewei/libhv)|🔥 比libevent、libuv更易用的国产网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket client/server.|2.5k|C|07/05|
 |25|[Sunzxyong/Tiny](https://github.com/Sunzxyong/Tiny)|an image compression framework.（一个高保真、高压缩比的图片压缩框架）|2.5k|C|10/07|
@@ -592,7 +592,7 @@
 |29|[badafans/better-cloudflare-ip](https://github.com/badafans/better-cloudflare-ip)|查找适合自己当前网络环境的优选cloudflare anycast IP|2.3k|C|07/03|
 |30|[peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic)|带网络功能的伪全息透明显示桌面站|2.2k|C|06/08|
 |31|[ShadowsocksR-Live/shadowsocksr-native](https://github.com/ShadowsocksR-Live/shadowsocksr-native)|翻墙 从容穿越党国敏感日 ShadowsocksR (SSR) native implementation for all platforms, GFW terminator|2.2k|C|07/07|
-|32|[zlgopen/awtk](https://github.com/zlgopen/awtk)|AWTK = Toolkit AnyWhere(为嵌入式、手机和PC打造的通用GUI系统)|2.2k|C|07/08|
+|32|[zlgopen/awtk](https://github.com/zlgopen/awtk)|AWTK = Toolkit AnyWhere(为嵌入式、手机和PC打造的通用GUI系统)|2.2k|C|07/09|
 |33|[snooda/net-speeder](https://github.com/snooda/net-speeder)|net-speeder 在高延迟不稳定链路上优化单线程下载速度 |2.2k|C|11/22|
 |34|[zuoqing1988/ZQCNN](https://github.com/zuoqing1988/ZQCNN)|一款比mini-caffe更快的Forward库，觉得好用请点星啊，400星公布快速人脸检测模型，500星公布106点landmark，600星公布人头检测模型，700星公布人脸检测套餐（六种pnet,两种rnet随意混合使用满足各种速度/精度要求），800星公布更准的106点模型|2.1k|C|06/03|
 |35|[EZLippi/WebBench](https://github.com/EZLippi/WebBench)|Webbench是Radim Kolar在1997年写的一个在linux下使用的非常简单的网站压测工具。它使用fork()模拟多个客户端同时访问我们设定的URL，测试网站在压力下工作的性能，最多可以模拟3万个并发连接去测试网站的负载能力。官网地址:http://home.tiscali.cz/~cz210552/webbench.html|2.0k|C|06/19|
@@ -605,7 +605,7 @@
 |42|[Ewenwan/ShiYanLou](https://github.com/Ewenwan/ShiYanLou)|学习C & C++ & python&汇编语言 LLVM编译器 数据结构 算法 操作系统 单片机  linux  面试|1.7k|C|02/15|
 |43|[yangchaojiang/yjPlay](https://github.com/yangchaojiang/yjPlay)|一个支持自定义UI布局,流式API, 加密,直播  ,亮度,音量,快进等手势 ,广告视频预览,多种加载模式 ,多种分辨率切换 ,多种封面图, 自定义数据源,列表播放,倍数播放,边播变缓存<font color="red">不是使用AndroidVideoCache</font>,离线播放,神奇的播放器  |1.7k|C|08/24|
 |44|[alibaba/GCanvas](https://github.com/alibaba/GCanvas)|A lightweight cross-platform graphics rendering engine. (超轻量的跨平台图形引擎) https://alibaba.github.io/GCanvas|1.6k|C|02/23|
-|45|[Tencent/puerts](https://github.com/Tencent/puerts)|Write your game with TypeScript in UE4 or Unity. Puerts can be pronounced as pu-erh TS（普洱TS）|1.6k|C|07/08|
+|45|[Tencent/puerts](https://github.com/Tencent/puerts)|Write your game with TypeScript in UE4 or Unity. Puerts can be pronounced as pu-erh TS（普洱TS）|1.6k|C|07/09|
 |46|[loyinglin/LearnOpenGLES](https://github.com/loyinglin/LearnOpenGLES)|OpenGL ES的各种尝试，有详细的博客。|1.5k|C|03/17|
 |47|[liexusong/php-beast](https://github.com/liexusong/php-beast)|PHP source code encrypt module (PHP源码加密扩展)|1.4k|C|04/21|
 |48|[momotech/MLN](https://github.com/momotech/MLN)|高性能、小巧、易上手的移动跨平台开发框架. A framework for building Mobile cross-platform apps with Lua|1.4k|C|06/03|
@@ -619,21 +619,21 @@
 |56|[yianwillis/vimcdoc](https://github.com/yianwillis/vimcdoc)|Vim 中文文档计划|1.1k|C|04/22|
 |57|[cokemine/ServerStatus-Hotaru](https://github.com/cokemine/ServerStatus-Hotaru)|云探针、多服务器探针、云监控、多服务器云监控|1.0k|C|07/04|
 |58|[feiskyer/sdn-handbook](https://github.com/feiskyer/sdn-handbook)|SDN网络指南（SDN Handbook）|910|C|12/08|
-|59|[armink/FreeModbus_Slave-Master-RTT-STM32](https://github.com/armink/FreeModbus_Slave-Master-RTT-STM32)|Add master mode to FreeModbus.   在 FreeModbus 中添加主机模式|909|C|04/11|
-|60|[armink/CmBacktrace](https://github.com/armink/CmBacktrace)|Advanced fault backtrace library for ARM Cortex-M series MCU   ARM Cortex-M 系列 MCU 错误追踪库|892|C|02/03|
+|59|[armink/FreeModbus_Slave-Master-RTT-STM32](https://github.com/armink/FreeModbus_Slave-Master-RTT-STM32)|Add master mode to FreeModbus.   在 FreeModbus 中添加主机模式|908|C|04/11|
+|60|[armink/CmBacktrace](https://github.com/armink/CmBacktrace)|Advanced fault backtrace library for ARM Cortex-M series MCU   ARM Cortex-M 系列 MCU 错误追踪库|893|C|02/03|
 |61|[Exely/CSAPP-Labs](https://github.com/Exely/CSAPP-Labs)|Solutions and Notes for Labs of Computer Systems: A Programmer's Perspective 3rd Editon // 《深入理解计算机系统》第三版的实验文件、解答与笔记|891|C|03/22|
 |62|[destan19/OpenAppFilter](https://github.com/destan19/OpenAppFilter)|基于OpenWrt的App过滤(家长控制)模块，支持抖音、斗鱼、王者荣耀、腾讯视频等上百款App过滤|890|C|07/08|
 |63|[hurley25/hurlex-doc](https://github.com/hurley25/hurlex-doc)|hurlex 小内核分章节代码和文档|887|C|06/15|
 |64|[Tencent/TencentOS-kernel](https://github.com/Tencent/TencentOS-kernel)|腾讯针对云的场景研发的服务器操作系统|876|C|07/08|
 |65|[BruceWind/AESJniEncrypt](https://github.com/BruceWind/AESJniEncrypt)|Make safest code in Android. (基于libsodium实现chacha20算法,key在native中,防止被二次打包){长期维护,请star,勿fork}|870|C|06/28|
-|66|[y123456yz/Reading-and-comprehense-linux-Kernel-network-protocol-stack](https://github.com/y123456yz/Reading-and-comprehense-linux-Kernel-network-protocol-stack)|linux内核网络协议栈源码阅读分析注释--带详尽中文分析注释以及相关流程分析调用注释，对理解分析内核协议栈源码很有帮助|848|C|12/24|
+|66|[y123456yz/Reading-and-comprehense-linux-Kernel-network-protocol-stack](https://github.com/y123456yz/Reading-and-comprehense-linux-Kernel-network-protocol-stack)|linux内核网络协议栈源码阅读分析注释--带详尽中文分析注释以及相关流程分析调用注释，对理解分析内核协议栈源码很有帮助|849|C|12/24|
 |67|[kiukotsu/ucore](https://github.com/kiukotsu/ucore)|清华大学操作系统课程实验 (OS Kernel Labs)|844|C|08/30|
 |68|[vonzhou/CSAPP](https://github.com/vonzhou/CSAPP)|CSAPP,《深入理解计算机系统结构》2nd ，阅读与实践！|843|C|04/25|
 |69|[rock-app/fabu.love](https://github.com/rock-app/fabu.love)|应用发布平台类似fir.im/蒲公英,支持检查更新,灰度发布等等.Demo地址：https://fabu.apppills.com/|829|C|05/12|
 |70|[ustcwpz/USTC-CS-Courses-Resource](https://github.com/ustcwpz/USTC-CS-Courses-Resource)|USTC计算机学院课程资源|798|C|12/13|
 |71|[chenyahui/AnnotatedCode](https://github.com/chenyahui/AnnotatedCode)|知名开源代码库的注释版：C++、Golang等|749|C|03/17|
-|72|[ADD-SP/ngx_waf](https://github.com/ADD-SP/ngx_waf)|Handy, High performance Nginx firewall module & 方便且高性能的 Nginx 防火墙模块|695|C|07/08|
-|73|[armink/SFUD](https://github.com/armink/SFUD)|An using JEDEC's SFDP standard serial (SPI) flash universal driver library   一款使用 JEDEC SFDP 标准的串行 (SPI) Flash 通用驱动库|665|C|03/06|
+|72|[ADD-SP/ngx_waf](https://github.com/ADD-SP/ngx_waf)|Handy, High performance Nginx firewall module & 方便且高性能的 Nginx 防火墙模块|696|C|07/09|
+|73|[armink/SFUD](https://github.com/armink/SFUD)|An using JEDEC's SFDP standard serial (SPI) flash universal driver library   一款使用 JEDEC SFDP 标准的串行 (SPI) Flash 通用驱动库|666|C|03/06|
 |74|[yourtion/LearningMasteringAlgorithms-C](https://github.com/yourtion/LearningMasteringAlgorithms-C)|Mastering Algorithms with C 《算法精解：C语言描述》源码及Xcode工程、Linux工程|636|C|06/01|
 |75|[huaiyukeji/verification_code](https://github.com/huaiyukeji/verification_code)|验证码研究破解心得记录。包含网易易盾，阿里云验证码，极验验证码，通用汉字识别，梦幻西游验证等主流验证码破解。包含点按验证码、点选验证、语序点选等等。已更新极验验证码、企业公示网/工商/文书采集系统、极验打码接口。|632|C|04/08|
 |76|[jianfengye/nginx-1.0.14_comment](https://github.com/jianfengye/nginx-1.0.14_comment)|nginx源码中文注释版|626|C|12/16|
@@ -666,7 +666,7 @@
 |103|[armink/struct2json](https://github.com/armink/struct2json)|A fast convert library between the JSON and C structure. Implement structure serialization and deserialization for C.   C 结构体与 JSON 快速互转库，快速实现 C 结构体的序列化及反序列化|451|C|03/24|
 |104|[chenall/grub4dos](https://github.com/chenall/grub4dos)|外部命令和工具源码:https://github.com/chenall/grubutils 下载:|442|C|06/19|
 |105|[guanshuicheng/invoice](https://github.com/guanshuicheng/invoice)|增值税发票OCR识别，使用flask微服务架构，识别type：增值税电子普通发票，增值税普通发票，增值税专用发票；识别字段为：发票代码、发票号码、开票日期、校验码、税后金额等|441|C|05/21|
-|106|[timwhitez/Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts)|Cobalt Strike Aggressor 插件包|439|C|03/29|
+|106|[timwhitez/Cobalt-Strike-Aggressor-Scripts](https://github.com/timwhitez/Cobalt-Strike-Aggressor-Scripts)|Cobalt Strike Aggressor 插件包|440|C|03/29|
 |107|[mengzhidaren/Vlc-sdk-lib](https://github.com/mengzhidaren/Vlc-sdk-lib)|vlc-android The latest compilation video playback libraries 最新视频库支持录屏 欢迎star|437|C|09/25|
 |108|[konosubakonoakua/Various_MCU_Debugger_DIY](https://github.com/konosubakonoakua/Various_MCU_Debugger_DIY)|各种LInk大合集|426|C|04/30|
 |109|[czqasngit/objc_msgSend_hook](https://github.com/czqasngit/objc_msgSend_hook)|objc_msgSend之精简且完整的hook核心功能,并且还有详细注释|419|C|04/11|
@@ -674,7 +674,7 @@
 |111|[lcodecorex/KeepAlive](https://github.com/lcodecorex/KeepAlive)|Fighting against force-stop kill process on Android with binder ioctl / Android高级保活|411|C|05/30|
 |112|[hurley25/Hurlex-II](https://github.com/hurley25/Hurlex-II)|第二版重新设计和构思，参考一些优秀的实现进行补充设计和编码。|411|C|04/09|
 |113|[Lojii/Knot](https://github.com/Lojii/Knot)|一款iOS端基于MITM(中间人攻击技术)实现的HTTPS抓包工具，完整的App，核心代码使用SwiftNIO实现|410|C|12/23|
-|114|[idealclover/NJU-Review-Materials](https://github.com/idealclover/NJU-Review-Materials)|📝 南哪课程复习资料 Review materials for NJU|407|C|11/19|
+|114|[idealclover/NJU-Review-Materials](https://github.com/idealclover/NJU-Review-Materials)|📝 南哪课程复习资料 Review materials for NJU|408|C|11/19|
 |115|[figozhang/runninglinuxkernel_4.0](https://github.com/figozhang/runninglinuxkernel_4.0)|《奔跑吧Linux内核》配套实验平台和代码，白色入门酱香篇，蓝色进阶浓香篇|402|C|06/22|
 |116|[nauxliu/opencc4php](https://github.com/nauxliu/opencc4php)|简繁体转换 PHP 扩展|399|C|12/11|
 |117|[chronolaw/annotated_nginx](https://github.com/chronolaw/annotated_nginx)|Annotated Nginx Source（中文）|396|C|07/08|
@@ -686,9 +686,9 @@
 |123|[peng-zhihui/ONE-Robot](https://github.com/peng-zhihui/ONE-Robot)|2015年做的一个基于IMU和STM32的独轮自平衡机器人|380|C|02/15|
 |124|[mabDc/eso](https://github.com/mabDc/eso)|亦搜，亦看，亦闻  manga&novel reader, audio&video player in one app developed by flutter|375|C|04/12|
 |125|[osgochina/donkeyid](https://github.com/osgochina/donkeyid)|php扩展，64位自增id生成器|375|C|11/13|
-|126|[chexiongsheng/build_xlua_with_libs](https://github.com/chexiongsheng/build_xlua_with_libs)|为xLua集成几个常用库，方便使用|374|C|06/17|
-|127|[woai3c/MIT6.828](https://github.com/woai3c/MIT6.828)|实现一个操作系统内核|373|C|03/28|
-|128|[y123456yz/Reading-and-comprehense-redis-cluster](https://github.com/y123456yz/Reading-and-comprehense-redis-cluster)|分布式NOSQL redis源码阅读中文分析注释，带详尽注释以及相关流程调用注释，提出改造点，redis cluster集群功能、节点扩容、槽位迁移、failover故障切换、一致性选举完整分析，对理解redis源码很有帮助，解决了source insight中文注释乱码问题,更新完毕|373|C|12/24|
+|126|[y123456yz/Reading-and-comprehense-redis-cluster](https://github.com/y123456yz/Reading-and-comprehense-redis-cluster)|分布式NOSQL redis源码阅读中文分析注释，带详尽注释以及相关流程调用注释，提出改造点，redis cluster集群功能、节点扩容、槽位迁移、failover故障切换、一致性选举完整分析，对理解redis源码很有帮助，解决了source insight中文注释乱码问题,更新完毕|375|C|12/24|
+|127|[chexiongsheng/build_xlua_with_libs](https://github.com/chexiongsheng/build_xlua_with_libs)|为xLua集成几个常用库，方便使用|374|C|06/17|
+|128|[woai3c/MIT6.828](https://github.com/woai3c/MIT6.828)|实现一个操作系统内核|373|C|03/28|
 |129|[CreativeLau/Mini-DSO](https://github.com/CreativeLau/Mini-DSO)|用STC单片机制作的简易示波器 / DIY Mini Digital Storage Oscilloscopes(DSO) with STC MCU|367|C|05/16|
 |130|[scriptiot/evm](https://github.com/scriptiot/evm)|超轻量级物联网虚拟机|364|C|06/24|
 |131|[wangbojing/NtyTcp](https://github.com/wangbojing/NtyTcp)|单线程用户态TCP/IP协议栈，epoll实现，包含服务器案例，并发测试案例|356|C|07/04|
@@ -717,7 +717,7 @@
 |154|[Baidu-AIP/speech-vad-demo](https://github.com/Baidu-AIP/speech-vad-demo)|集成Webrtc的VAD，用于切分音频文件|270|C|08/26|
 |155|[MiEcosystem/miio_open](https://github.com/MiEcosystem/miio_open)|智能硬件接入文档|267|C|03/20|
 |156|[Al1ex/WindowsElevation](https://github.com/Al1ex/WindowsElevation)|Windows Elevation(持续更新)|266|C|04/19|
-|157|[hairrrrr/C-CrashCourse](https://github.com/hairrrrr/C-CrashCourse)|C语言教程+博客+代码演示+课程设计。 帮助初学者更好的理解 C 难点，提升代码量！ For beginners:C tuition/self-learning|261|C|04/25|
+|157|[hairrrrr/C-CrashCourse](https://github.com/hairrrrr/C-CrashCourse)|C语言教程+博客+代码演示+课程设计。 帮助初学者更好的理解 C 难点，提升代码量！ For beginners:C tuition/self-learning|262|C|04/25|
 |158|[OliverLew/PAT](https://github.com/OliverLew/PAT)|PAT OJ exercises in C language 浙江大学PAT纯C语言题解|260|C|04/01|
 |159|[AlexFanw/HUSTER-CS](https://github.com/AlexFanw/HUSTER-CS)|华中科技大学 计算机科学与技术学院 学习资料💯 以及 实验资料💾|257|C|02/04|
 |160|[gatieme/AderXCoding](https://github.com/gatieme/AderXCoding)|介绍各类语言，库，系统编程以及算法的学习|257|C|05/09|
@@ -729,19 +729,19 @@
 |166|[riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)|📘《TCP/IP网络编程》(韩-尹圣雨)学习笔记|251|C|04/29|
 |167|[alipay/mPaaS](https://github.com/alipay/mPaaS)|mPaaS Demo 合集，mPaaS 是源自于支付宝的移动开发平台。The collection of demos for mPaaS components. mPaaS is the Mobile Development Platform which oriented from Alipay.|247|C|02/17|
 |168|[dpull/skynet-mingw](https://github.com/dpull/skynet-mingw)|对skynet无任何改动的windows版|247|C|07/02|
-|169|[dreamsxin/cphalcon7](https://github.com/dreamsxin/cphalcon7)|Dao7 - Web framework for PHP7.x，QQ群 9970484|240|C|06/29|
-|170|[Wangzhike/HIT-Linux-0.11](https://github.com/Wangzhike/HIT-Linux-0.11)|网易云课堂选的操作系统课实验的代码及相关记录|240|C|04/14|
+|169|[Wangzhike/HIT-Linux-0.11](https://github.com/Wangzhike/HIT-Linux-0.11)|网易云课堂选的操作系统课实验的代码及相关记录|241|C|04/14|
+|170|[dreamsxin/cphalcon7](https://github.com/dreamsxin/cphalcon7)|Dao7 - Web framework for PHP7.x，QQ群 9970484|240|C|06/29|
 |171|[fool2fish/the-c-programming-language-exercise-answers](https://github.com/fool2fish/the-c-programming-language-exercise-answers)|The C programming language exercise answers. C 程序设计语言（第2版）习题答案.|237|C|10/01|
 |172|[xuhongv/StudyInEsp32](https://github.com/xuhongv/StudyInEsp32)|【深度开源】wiif+bt模块esp32学习之旅（持续更新，欢迎 Star...）|233|C|06/04|
 |173|[yangkun19921001/AVEditor](https://github.com/yangkun19921001/AVEditor)|这是一款短视频编辑 SDK，仿 DouYin 音视频处理。功能包含有美颜、滤镜、贴纸、特效、录制、分段录制、速率录制、变声、配乐、rtmp 直播推流、图片转视频、剪辑,mp4/flv 格式封装等功能。动态库用的我另一个项目编译好的 https://github.com/yangkun19921001/AVFFmpegLib|232|C|10/12|
 |174|[usbxyz/CAN-Bootloader](https://github.com/usbxyz/CAN-Bootloader)|使用USB2XXX实现的CAN Bootloader功能，实现CAN节点固件远程升级|231|C|06/29|
 |175|[notrynohigh/BabyOS](https://github.com/notrynohigh/BabyOS)|专为MCU项目开发提速的代码框架|231|C|06/27|
-|176|[MeiK2333/apue](https://github.com/MeiK2333/apue)|《UNIX环境高级编程》随书代码与课后习题|229|C|02/24|
-|177|[maxlicheng/stm32f4_ucosii_lwip_mqtt](https://github.com/maxlicheng/stm32f4_ucosii_lwip_mqtt)|基于正点原子STM32F4开发板和阿里云物联网平台的MQTT项目|229|C|08/06|
+|176|[maxlicheng/stm32f4_ucosii_lwip_mqtt](https://github.com/maxlicheng/stm32f4_ucosii_lwip_mqtt)|基于正点原子STM32F4开发板和阿里云物联网平台的MQTT项目|230|C|08/06|
+|177|[MeiK2333/apue](https://github.com/MeiK2333/apue)|《UNIX环境高级编程》随书代码与课后习题|229|C|02/24|
 |178|[MarioCrane/LeagueLobby](https://github.com/MarioCrane/LeagueLobby)|英雄联盟自定义房间创建工具，包括5V5训练营，(血月杀等轮换模式已被官方关闭)|227|C|05/29|
 |179|[fanchy/h2engine](https://github.com/fanchy/h2engine)|H2服务器引擎架构是轻量级的，与其说是引擎，个人觉得称之为平台更为合适。因为它封装的功能少之又少，但是提供了非常简洁方便的扩展机制，使得可以用C++、python、lua、js、php来开发具体的服务器功能。H2引擎的灵感来源于web服务器Apache。|225|C|11/12|
-|180|[rexbu/VisioninSDK](https://github.com/rexbu/VisioninSDK)|类似faceu的移动端视频美颜、视频滤镜、人脸实时关键点追踪、实时整形(瘦脸大眼睛等)、动态贴纸|223|C|11/10|
-|181|[fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony)|华为鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。|223|C|06/09|
+|180|[fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony)|华为鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。|224|C|06/09|
+|181|[rexbu/VisioninSDK](https://github.com/rexbu/VisioninSDK)|类似faceu的移动端视频美颜、视频滤镜、人脸实时关键点追踪、实时整形(瘦脸大眼睛等)、动态贴纸|223|C|11/10|
 |182|[yundiantech/VideoPlayer](https://github.com/yundiantech/VideoPlayer)|Qt+ffmpeg实现的视频播放器|221|C|05/11|
 |183|[kenzok8/small](https://github.com/kenzok8/small)|passwall基本依赖!|219|C|06/29|
 |184|[Kevincoooool/KS_DAP_Wireless](https://github.com/Kevincoooool/KS_DAP_Wireless)|STM32F103C8T6 无线有线DAP下载器，脱机（离线）烧录器，脱机下载器|217|C|07/02|
@@ -757,7 +757,7 @@
 |194|[404name/winter](https://github.com/404name/winter)|2020上半年超长寒假呆家学习了半年C语言(大一下)的时候写的一些小游戏/小程序，那时候觉得用C从零开始模拟一些东西挺有趣，就没有参考其他教程或者游戏，通过自己思考用基础语法写出了这些写代码，规范性只能说是相当于我大一的标准，欢迎分享，学习和交流|199|C|05/19|
 |195|[microshow/AiSound](https://github.com/microshow/AiSound)|🔥💥AiSound AI魔法声音 是一个结合AI的变声器，基于fmod实现，使用fmod来处理音频的变声效果， 支持试听和保存音效文件|197|C|10/26|
 |196|[DayBreak-u/darknet_face_with_landmark](https://github.com/DayBreak-u/darknet_face_with_landmark)|加入关键点的darknet训练框架，轻量级的人脸检测，支持ncnn推理|196|C|07/29|
-|197|[tsingsee/EasyPlayer-RTSP-Win](https://github.com/tsingsee/EasyPlayer-RTSP-Win)|An elegant, simple, fast windows RTSP Player.EasyPlayer support RTSP(RTP over TCP/UDP),video support H.264/H.265,audio support G.711/G.726/AAC！EasyPlayer RTSP是一款精炼、高效、稳定的RTSP流媒体播放器，视频支持H.264/H.265，音频支持G.711/G.726/AAC，支持RTP over UDP/TCP两种模式！|196|C|06/04|
+|197|[tsingsee/EasyPlayer-RTSP-Win](https://github.com/tsingsee/EasyPlayer-RTSP-Win)|An elegant, simple, fast windows RTSP Player.EasyPlayer support RTSP(RTP over TCP/UDP),video support H.264/H.265,audio support G.711/G.726/AAC！EasyPlayer RTSP是一款精炼、高效、稳定的RTSP流媒体播放器，视频支持H.264/H.265，音频支持G.711/G.726/AAC，支持RTP over UDP/TCP两种模式！|195|C|06/04|
 |198|[zxystd/AppleIntelWifiAdapter](https://github.com/zxystd/AppleIntelWifiAdapter)|苹果IO80211Controller调用|195|C|04/22|
 |199|[forthespada/MyPoorWebServer](https://github.com/forthespada/MyPoorWebServer)|基于tinyhttpd和《Linux高性能服务器编程》改编的个人破产版HTTP WebServer服务器，哈哈~|190|C|08/28|
 |200|[Embedfire/embed_linux_tutorial](https://github.com/Embedfire/embed_linux_tutorial)|野火《i.MX Linux开发实战指南》书籍及代码|185|C|04/25|
@@ -779,7 +779,7 @@
 |7|[ChenYilong/iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)|iOS interview questions;iOS面试题集锦（附答案）--学习qq群或 Telegram 群交流 https://github.com/ChenYilong/iOSBlog/issues/21|8.7k|C++|05/21|
 |8|[DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite)|超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M |6.9k|C++|06/15|
 |9|[Ewenwan/MVision](https://github.com/Ewenwan/MVision)|机器人视觉 移动机器人 VS-SLAM ORB-SLAM2 深度学习目标检测 yolov3 行为检测 opencv  PCL 机器学习 无人驾驶|5.7k|C++|12/13|
-|10|[PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite)|Multi-platform high performance  deep learning inference engine (『飞桨』多平台高性能深度学习预测引擎）|5.6k|C++|07/08|
+|10|[PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite)|Multi-platform high performance  deep learning inference engine (『飞桨』多平台高性能深度学习预测引擎）|5.6k|C++|07/09|
 |11|[me115/design_patterns](https://github.com/me115/design_patterns)|图说设计模式|5.3k|C++|07/06|
 |12|[weolar/miniblink49](https://github.com/weolar/miniblink49)|a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef|5.1k|C++|05/27|
 |13|[wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)|中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)|5.0k|C++|07/08|
@@ -789,7 +789,7 @@
 |17|[anyrtcIO-Community/anyRTC-RTMP-OpenSource](https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource)|RTMP 推流器，RTMP(HLS)秒开播放器，跨平台（Win,IOS,Android）开源代码|3.8k|C++|03/16|
 |18|[TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot)|PC版微信机器人|3.8k|C++|02/03|
 |19|[anhkgg/SuperWeChatPC](https://github.com/anhkgg/SuperWeChatPC)|超级微信电脑客户端，支持多开、防消息撤销、语音消息备份...开放WeChatSDK|3.7k|C++|02/27|
-|20|[yedf/handy](https://github.com/yedf/handy)|🔥简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework|3.6k|C++|07/03|
+|20|[yedf/handy](https://github.com/yedf/handy)|🔥简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework|3.6k|C++|07/09|
 |21|[qinguoyi/TinyWebServer](https://github.com/qinguoyi/TinyWebServer)|:fire: Linux下C++轻量级Web服务器|3.0k|C++|11/21|
 |22|[CtripMobile/DynamicAPK](https://github.com/CtripMobile/DynamicAPK)|Solution to implement multi apk dynamic loading and hot fixing for Android App. (实现Android App多apk插件化和动态加载，支持资源分包和热修复)|3.0k|C++|05/11|
 |23|[wang-bin/QtAV](https://github.com/wang-bin/QtAV)|A cross-platform multimedia framework based on Qt and FFmpeg(https://github.com/wang-bin/avbuild). High performance. User & developer friendly. Supports Android, iOS, Windows store and desktops. 基于Qt和FFmpeg的跨平台高性能音视频播放框架|2.9k|C++|04/27|
@@ -801,175 +801,175 @@
 |29|[huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms](https://github.com/huaxz1986/cplusplus-_Implementation_Of_Introduction_to_Algorithms)|《算法导论》第三版中算法的C++实现|2.3k|C++|06/17|
 |30|[AnkerLeng/Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)|C++ 匠心之作 从0到1入门资料|2.0k|C++|10/02|
 |31|[yanyiwu/cppjieba](https://github.com/yanyiwu/cppjieba)|"结巴"中文分词的C++版本|2.0k|C++|02/21|
-|32|[liuyubobobo/Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)|My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python. Multiple solutions will be given by most problems. Enjoy:) 我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言。近乎所有问题都会提供多个算法解决。大家加油！：）|2.0k|C++|07/05|
-|33|[rime/weasel](https://github.com/rime/weasel)|【小狼毫】Rime for Windows|1.9k|C++|04/22|
-|34|[HuTianQi/SmartOpenCV](https://github.com/HuTianQi/SmartOpenCV)|:fire: :fire: :fire: SmartOpenCV是一个OpenCV在Android端的增强库，解决了OpenCV Android SDK在图像预览方面存在的诸多问题，且无需修改OpenCV SDK源码，与OpenCV的SDK解耦|1.8k|C++|04/28|
-|35|[kyubotics/coolq-http-api](https://github.com/kyubotics/coolq-http-api)|为 酷Q 提供通过 HTTP 或 WebSocket 接收事件和调用 API 的能力|1.8k|C++|08/02|
-|36|[huangmingchuan/Cpp_Primer_Answers](https://github.com/huangmingchuan/Cpp_Primer_Answers)|《C++ Primer》第五版中文版习题答案|1.8k|C++|10/19|
-|37|[Tencent/plato](https://github.com/Tencent/plato)|腾讯高性能分布式图计算框架Plato|1.6k|C++|07/05|
-|38|[Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel)|Simple kernel for learning operating systems. 用于学习操作系统的简单内核|1.6k|C++|06/02|
-|39|[Jack-Cherish/LeetCode](https://github.com/Jack-Cherish/LeetCode)|:monkey:LeetCode、剑指Offer刷题笔记（C/C++、Python3实现）|1.5k|C++|11/22|
-|40|[scarsty/kys-cpp](https://github.com/scarsty/kys-cpp)|《金庸群侠传》c++复刻版，已完工|1.3k|C++|07/05|
-|41|[callmePicacho/Data-Structres](https://github.com/callmePicacho/Data-Structres)|浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解|1.2k|C++|04/02|
-|42|[km1994/nlp_paper_study](https://github.com/km1994/nlp_paper_study)|研读顶会论文，复现论文相关代码|1.2k|C++|07/01|
-|43|[senlinuc/caffe_ocr](https://github.com/senlinuc/caffe_ocr)|主流ocr算法研究实验性的项目，目前实现了CNN+BLSTM+CTC架构|1.2k|C++|06/13|
-|44|[19PDP/Bilibili-plus](https://github.com/19PDP/Bilibili-plus)|课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB|1.2k|C++|06/26|
-|45|[sylar-yin/sylar](https://github.com/sylar-yin/sylar)|C++高性能分布式服务器框架,webserver,websocket server,自定义tcp_server（包含日志模块，配置模块，线程模块，协程模块，协程调度模块，io协程调度模块，hook模块，socket模块，bytearray序列化，http模块，TcpServer模块，Websocket模块，Https模块等, Smtp邮件模块, MySQL, SQLite3, ORM,Redis,Zookeeper)|1.1k|C++|07/02|
-|46|[netease-im/NIM_Duilib_Framework](https://github.com/netease-im/NIM_Duilib_Framework)|网易云信Windows应用界面开发框架（基于Duilib）。招人招人，windows/mac/duilib/qt/electron http://mobile.bole.netease.com/bole/boleDetail?id=19904&employeeId=510064bce318835c&key=all&type=2&from=timeline|1.1k|C++|07/01|
-|47|[No-Github/1earn](https://github.com/No-Github/1earn)|个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup|1.1k|C++|05/16|
-|48|[qdtroy/DuiLib_Ultimate](https://github.com/qdtroy/DuiLib_Ultimate)|duilib 旗舰版-高分屏、多语言、样式表、资源管理器、异形窗口、窗口阴影、简单动画|1.0k|C++|06/28|
-|49|[Dev-XYS/Algorithms](https://github.com/Dev-XYS/Algorithms)|全面的算法代码仓库|1.0k|C++|10/04|
-|50|[githubhaohao/NDK_OpenGLES_3_0](https://github.com/githubhaohao/NDK_OpenGLES_3_0)|Android OpenGL ES 3.0 从入门到精通系统性学习教程|1.0k|C++|07/08|
+|32|[liuyubobobo/Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)|My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python. Multiple solutions will be given by most problems. Enjoy:) 我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言。近乎所有问题都会提供多个算法解决。大家加油！：）|2.0k|C++|07/09|
+|33|[HuTianQi/SmartOpenCV](https://github.com/HuTianQi/SmartOpenCV)|:fire: :fire: :fire: SmartOpenCV是一个OpenCV在Android端的增强库，解决了OpenCV Android SDK在图像预览方面存在的诸多问题，且无需修改OpenCV SDK源码，与OpenCV的SDK解耦|1.8k|C++|04/28|
+|34|[kyubotics/coolq-http-api](https://github.com/kyubotics/coolq-http-api)|为 酷Q 提供通过 HTTP 或 WebSocket 接收事件和调用 API 的能力|1.8k|C++|08/02|
+|35|[huangmingchuan/Cpp_Primer_Answers](https://github.com/huangmingchuan/Cpp_Primer_Answers)|《C++ Primer》第五版中文版习题答案|1.8k|C++|10/19|
+|36|[Tencent/plato](https://github.com/Tencent/plato)|腾讯高性能分布式图计算框架Plato|1.6k|C++|07/09|
+|37|[Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel)|Simple kernel for learning operating systems. 用于学习操作系统的简单内核|1.6k|C++|06/02|
+|38|[Jack-Cherish/LeetCode](https://github.com/Jack-Cherish/LeetCode)|:monkey:LeetCode、剑指Offer刷题笔记（C/C++、Python3实现）|1.5k|C++|11/22|
+|39|[scarsty/kys-cpp](https://github.com/scarsty/kys-cpp)|《金庸群侠传》c++复刻版，已完工|1.3k|C++|07/05|
+|40|[callmePicacho/Data-Structres](https://github.com/callmePicacho/Data-Structres)|浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解|1.2k|C++|04/02|
+|41|[km1994/nlp_paper_study](https://github.com/km1994/nlp_paper_study)|研读顶会论文，复现论文相关代码|1.2k|C++|07/01|
+|42|[senlinuc/caffe_ocr](https://github.com/senlinuc/caffe_ocr)|主流ocr算法研究实验性的项目，目前实现了CNN+BLSTM+CTC架构|1.2k|C++|06/13|
+|43|[19PDP/Bilibili-plus](https://github.com/19PDP/Bilibili-plus)|课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB|1.2k|C++|06/26|
+|44|[sylar-yin/sylar](https://github.com/sylar-yin/sylar)|C++高性能分布式服务器框架,webserver,websocket server,自定义tcp_server（包含日志模块，配置模块，线程模块，协程模块，协程调度模块，io协程调度模块，hook模块，socket模块，bytearray序列化，http模块，TcpServer模块，Websocket模块，Https模块等, Smtp邮件模块, MySQL, SQLite3, ORM,Redis,Zookeeper)|1.1k|C++|07/02|
+|45|[netease-im/NIM_Duilib_Framework](https://github.com/netease-im/NIM_Duilib_Framework)|网易云信Windows应用界面开发框架（基于Duilib）。招人招人，windows/mac/duilib/qt/electron http://mobile.bole.netease.com/bole/boleDetail?id=19904&employeeId=510064bce318835c&key=all&type=2&from=timeline|1.1k|C++|07/01|
+|46|[No-Github/1earn](https://github.com/No-Github/1earn)|个人维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup|1.1k|C++|05/16|
+|47|[qdtroy/DuiLib_Ultimate](https://github.com/qdtroy/DuiLib_Ultimate)|duilib 旗舰版-高分屏、多语言、样式表、资源管理器、异形窗口、窗口阴影、简单动画|1.0k|C++|06/28|
+|48|[Dev-XYS/Algorithms](https://github.com/Dev-XYS/Algorithms)|全面的算法代码仓库|1.0k|C++|10/04|
+|49|[githubhaohao/NDK_OpenGLES_3_0](https://github.com/githubhaohao/NDK_OpenGLES_3_0)|Android OpenGL ES 3.0 从入门到精通系统性学习教程|1.0k|C++|07/08|
+|50|[zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2)|这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。|1.0k|C++|07/08|
 |51|[netwarm007/GameEngineFromScratch](https://github.com/netwarm007/GameEngineFromScratch)|配合我的知乎专栏写的项目|1.0k|C++|05/24|
-|52|[zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2)|这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。|1.0k|C++|07/08|
-|53|[knightsj/awesome-algorithm-question-solution](https://github.com/knightsj/awesome-algorithm-question-solution)|LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法的实现|1.0k|C++|03/24|
-|54|[fasiondog/hikyuu](https://github.com/fasiondog/hikyuu)|Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架|1.0k|C++|07/01|
-|55|[188080501/JQTools](https://github.com/188080501/JQTools)|基于Qt开发的小工具包|990|C++|04/22|
-|56|[tencentyun/TRTCSDK](https://github.com/tencentyun/TRTCSDK)|腾讯云TRTC音视频服务，国内下载镜像：|974|C++|07/08|
-|57|[ZLMediaKit/ZLToolKit](https://github.com/ZLMediaKit/ZLToolKit)|一个基于C++11的轻量级网络框架，基于线程池技术可以实现大并发网络IO|923|C++|07/08|
-|58|[aiyaapp/AiyaEffectsAndroid](https://github.com/aiyaapp/AiyaEffectsAndroid)|宝宝特效Demo通过短视频SDK、直播SDK轻松实现特效与视频剪辑，为用户提供特效相机，拍摄辅助，自动美颜相机，抖音滤镜、直播礼物、直播贴纸等，超低占用空间，十秒大型场景仅100KB+， 精准人脸识别、人脸跟踪，支持3D特效，3D动画特效，2D特效、动画渲染、特效渲染等,  visual effects IOS demo, support 3D effect, 3D Animation, 2D effect|917|C++|01/12|
-|59|[CodePanda66/CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408)|💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源～✍🏻 更新中～欢迎Star！⭐️|913|C++|07/05|
-|60|[Making-It/Code](https://github.com/Making-It/Code)|面试高频算法题总结，个人博客|912|C++|02/04|
-|61|[yanyiwu/simhash](https://github.com/yanyiwu/simhash)|中文文档simhash值计算|897|C++|03/11|
-|62|[tkchu/Game-Programming-Patterns-CN](https://github.com/tkchu/Game-Programming-Patterns-CN)|《游戏编程模式》中文版|876|C++|11/25|
-|63|[bcosorg/bcos](https://github.com/bcosorg/bcos)|BCOS平台（Be Credible, Open & Secure）|873|C++|09/14|
-|64|[liu-jianhao/Cpp-Design-Patterns](https://github.com/liu-jianhao/Cpp-Design-Patterns)|C++设计模式|870|C++|02/01|
-|65|[hao14293/2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408)|💯✍备考2021年研究生-408 |857|C++|01/04|
-|66|[Ewenwan/ORB_SLAM2_SSD_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic)|动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库|831|C++|08/14|
-|67|[Walton1128/CPP-Templates-2nd--](https://github.com/Walton1128/CPP-Templates-2nd--)|《C++ Templates 第二版》中文翻译，和原书排版一致，第一部分（1至11章）以及第18，19，20，21、22、23、24、25章已完成，其余内容逐步更新中。 个人爱好，发现错误请指正|824|C++|03/22|
+|52|[knightsj/awesome-algorithm-question-solution](https://github.com/knightsj/awesome-algorithm-question-solution)|LeetCode，《剑指offer》中的算法题的题目和解法以及常见算法的实现|1.0k|C++|03/24|
+|53|[fasiondog/hikyuu](https://github.com/fasiondog/hikyuu)|Hikyuu Quant Framework 基于C++/Python的开源量化交易研究框架|1.0k|C++|07/01|
+|54|[188080501/JQTools](https://github.com/188080501/JQTools)|基于Qt开发的小工具包|990|C++|04/22|
+|55|[tencentyun/TRTCSDK](https://github.com/tencentyun/TRTCSDK)|腾讯云TRTC音视频服务，国内下载镜像：|974|C++|07/08|
+|56|[ZLMediaKit/ZLToolKit](https://github.com/ZLMediaKit/ZLToolKit)|一个基于C++11的轻量级网络框架，基于线程池技术可以实现大并发网络IO|923|C++|07/08|
+|57|[aiyaapp/AiyaEffectsAndroid](https://github.com/aiyaapp/AiyaEffectsAndroid)|宝宝特效Demo通过短视频SDK、直播SDK轻松实现特效与视频剪辑，为用户提供特效相机，拍摄辅助，自动美颜相机，抖音滤镜、直播礼物、直播贴纸等，超低占用空间，十秒大型场景仅100KB+， 精准人脸识别、人脸跟踪，支持3D特效，3D动画特效，2D特效、动画渲染、特效渲染等,  visual effects IOS demo, support 3D effect, 3D Animation, 2D effect|917|C++|07/09|
+|58|[CodePanda66/CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408)|💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源～✍🏻 更新中～欢迎Star！⭐️|914|C++|07/05|
+|59|[Making-It/Code](https://github.com/Making-It/Code)|面试高频算法题总结，个人博客|912|C++|02/04|
+|60|[yanyiwu/simhash](https://github.com/yanyiwu/simhash)|中文文档simhash值计算|897|C++|03/11|
+|61|[tkchu/Game-Programming-Patterns-CN](https://github.com/tkchu/Game-Programming-Patterns-CN)|《游戏编程模式》中文版|876|C++|11/25|
+|62|[bcosorg/bcos](https://github.com/bcosorg/bcos)|BCOS平台（Be Credible, Open & Secure）|873|C++|09/14|
+|63|[liu-jianhao/Cpp-Design-Patterns](https://github.com/liu-jianhao/Cpp-Design-Patterns)|C++设计模式|870|C++|02/01|
+|64|[hao14293/2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408)|💯✍备考2021年研究生-408 |858|C++|01/04|
+|65|[Ewenwan/ORB_SLAM2_SSD_Semantic](https://github.com/Ewenwan/ORB_SLAM2_SSD_Semantic)|动态语义SLAM 目标检测+VSLAM+光流/多视角几何动态物体检测+octomap地图+目标数据库|831|C++|08/14|
+|66|[Walton1128/CPP-Templates-2nd--](https://github.com/Walton1128/CPP-Templates-2nd--)|《C++ Templates 第二版》中文翻译，和原书排版一致，第一部分（1至11章）以及第18，19，20，21、22、23、24、25章已完成，其余内容逐步更新中。 个人爱好，发现错误请指正|824|C++|03/22|
+|67|[codefollower/OpenJDK-Research](https://github.com/codefollower/OpenJDK-Research)|OpenJDK(HotSpot JVM、Javac)源代码学习研究(包括代码注释、文档、用于代码分析的测试用例) |803|C++|10/03|
 |68|[Greedysky/TTKMusicplayer](https://github.com/Greedysky/TTKMusicplayer)|TTKMusicPlayer that imitation Kugou music, the music player uses of qmmp core library based on Qt for windows and linux.(支持网易云音乐、QQ音乐、酷我音乐、酷狗音乐等等)|803|C++|07/08|
-|69|[codefollower/OpenJDK-Research](https://github.com/codefollower/OpenJDK-Research)|OpenJDK(HotSpot JVM、Javac)源代码学习研究(包括代码注释、文档、用于代码分析的测试用例) |802|C++|10/03|
+|69|[Dr-Incognito/V2Ray-Desktop](https://github.com/Dr-Incognito/V2Ray-Desktop)|最优雅的跨平台代理客户端，支持Shadowsocks(R)，V2Ray和Trojan协议。The most elegant cross-platform proxy GUI client that supports Shadowsocks(R), V2Ray, and Trojan. Built with Qt5 and QML2.|786|C++|06/02|
 |70|[smilehao/xlua-framework](https://github.com/smilehao/xlua-framework)|Unity游戏纯lua客户端完整框架---基于xlua，整合tolua的proto-gen-lua以及各个lua库和工具类|785|C++|10/13|
-|71|[Dr-Incognito/V2Ray-Desktop](https://github.com/Dr-Incognito/V2Ray-Desktop)|最优雅的跨平台代理客户端，支持Shadowsocks(R)，V2Ray和Trojan协议。The most elegant cross-platform proxy GUI client that supports Shadowsocks(R), V2Ray, and Trojan. Built with Qt5 and QML2.|785|C++|06/02|
-|72|[Captain1986/CaptainBlackboard](https://github.com/Captain1986/CaptainBlackboard)|船长关于机器学习、计算机视觉和工程技术的总结和分享|783|C++|06/15|
-|73|[nwpuhq/AwesomeCpp](https://github.com/nwpuhq/AwesomeCpp)|---AWESOME--- C++学习笔记和常见面试知识点，C++11特性，包括智能指针、四种强制转换、function和bind、移动语义、完美转发、tuple、多态原理、虚表、友元函数、符号重载、函数指针、深浅拷贝、struct内存对齐、volatile以及union\static等各种关键字的用法等等，还新添了其他算法和计算机基础的难点，力求简洁清晰|774|C++|06/26|
-|74|[didi/AoE](https://github.com/didi/AoE)|AoE (AI on Edge，终端智能，边缘计算) 是一个终端侧AI集成运行时环境 (IRE)，帮助开发者提升效率。|773|C++|05/20|
-|75|[SFUMECJF/cmake-examples-Chinese](https://github.com/SFUMECJF/cmake-examples-Chinese)|快速入门CMake,通过例程学习语法。在线阅读地址：https://sfumecjf.github.io/cmake-examples-Chinese/|769|C++|06/22|
-|76|[Tencent/GameAISDK](https://github.com/Tencent/GameAISDK)|基于图像的游戏AI自动化框架|736|C++|05/17|
-|77|[limingfan2016/game_service_system](https://github.com/limingfan2016/game_service_system)|从0开始开发 基础库（配置文件读写、日志、多线程、多进程、锁、对象引用计数、内存池、免锁消息队列、免锁数据缓冲区、进程信号、共享内存、定时器等等基础功能组件），网络库（socket、TCP、UDP、epoll机制、连接自动收发消息等等），数据库操作库（mysql，redis、memcache API 封装可直接调用），开发框架库（消息调度处理、自动连接管理、服务开发、游戏框架、服务间消息收发、消息通信等等），消息中间件服务（不同网络节点间自动传递收发消息）等多个功能组件、服务，最后完成一套完整的服务器引擎，基于该框架引擎可开发任意的网络服务。  主体架构：N网关+N服务+N数据库代理+内存DB ...|732|C++|05/25|
-|78|[MKXJun/DirectX11-With-Windows-SDK](https://github.com/MKXJun/DirectX11-With-Windows-SDK)|现代DX11系列教程：使用Windows SDK(C++)开发Direct3D 11.x|723|C++|12/08|
-|79|[ylmbtm/GameProject3](https://github.com/ylmbtm/GameProject3)|游戏服务器框架，网络层分别用SocketAPI、Boost Asio、Libuv三种方式实现， 框架内使用共享内存，无锁队列，对象池，内存池来提高服务器性能。还包含一个不断完善的Unity 3D客户端，客户端含大量完整资源，坐骑，宠物，伙伴，装备, 这些均己实现上阵和穿戴, 并可进入副本战斗，多人玩法也己实现, 持续开发中。|721|C++|07/02|
-|80|[xmuli/QtExamples](https://github.com/xmuli/QtExamples)|Qt 的 GUI 控件使用和网络；DTK 重绘控件方式的框架架构解析；Qt 原理/运行机制理解；QtCrator 使用和一些小技巧；系列文章教程|692|C++|07/08|
-|81|[cmdbug/YOLOv5_NCNN](https://github.com/cmdbug/YOLOv5_NCNN)|🍅 Deploy NCNN on mobile phones. Support Android and iOS. 移动端NCNN部署，支持Android与iOS。|692|C++|04/25|
-|82|[zeusees/License-Plate-Detector](https://github.com/zeusees/License-Plate-Detector)|基于Retinaface车牌检测,全新模型仅1.8MB.|678|C++|06/17|
-|83|[Tencent/flare](https://github.com/Tencent/flare)| Flare是广泛投产于腾讯广告后台的现代化C++开发框架，包含了基础库、RPC、各种客户端等。主要特点为易用性强、长尾延迟低。 |646|C++|07/06|
-|84|[shuax/GreenChrome](https://github.com/shuax/GreenChrome)|增强Chrome的工具|617|C++|03/22|
-|85|[SOUI2/soui](https://github.com/SOUI2/soui)|SOUI是目前为数不多的轻量级可快速开发window桌面程序开源DirectUI库.其前身为Duiengine,更早期则是源自于金山卫士开源版本UI库Bkwin.经过多年持续更新方得此库|603|C++|07/02|
-|86|[aiyaapp/AiyaEffectsIOS](https://github.com/aiyaapp/AiyaEffectsIOS)|宝宝特效Demo通过短视频SDK、直播SDK轻松实现特效与视频剪辑，为用户提供特效相机，拍摄辅助，自动美颜相机，抖音滤镜、直播礼物、直播贴纸等，超低占用空间，十秒大型场景仅100KB+， 精准人脸识别、人脸跟踪，支持3D特效，3D动画特效，2D特效、动画渲染、特效渲染等，visual effects IOS demo, support 3D effect, 3D Animation, 2D effect|586|C++|02/02|
+|71|[Captain1986/CaptainBlackboard](https://github.com/Captain1986/CaptainBlackboard)|船长关于机器学习、计算机视觉和工程技术的总结和分享|783|C++|06/15|
+|72|[nwpuhq/AwesomeCpp](https://github.com/nwpuhq/AwesomeCpp)|---AWESOME--- C++学习笔记和常见面试知识点，C++11特性，包括智能指针、四种强制转换、function和bind、移动语义、完美转发、tuple、多态原理、虚表、友元函数、符号重载、函数指针、深浅拷贝、struct内存对齐、volatile以及union\static等各种关键字的用法等等，还新添了其他算法和计算机基础的难点，力求简洁清晰|774|C++|06/26|
+|73|[didi/AoE](https://github.com/didi/AoE)|AoE (AI on Edge，终端智能，边缘计算) 是一个终端侧AI集成运行时环境 (IRE)，帮助开发者提升效率。|773|C++|05/20|
+|74|[SFUMECJF/cmake-examples-Chinese](https://github.com/SFUMECJF/cmake-examples-Chinese)|快速入门CMake,通过例程学习语法。在线阅读地址：https://sfumecjf.github.io/cmake-examples-Chinese/|769|C++|06/22|
+|75|[Tencent/GameAISDK](https://github.com/Tencent/GameAISDK)|基于图像的游戏AI自动化框架|737|C++|05/17|
+|76|[limingfan2016/game_service_system](https://github.com/limingfan2016/game_service_system)|从0开始开发 基础库（配置文件读写、日志、多线程、多进程、锁、对象引用计数、内存池、免锁消息队列、免锁数据缓冲区、进程信号、共享内存、定时器等等基础功能组件），网络库（socket、TCP、UDP、epoll机制、连接自动收发消息等等），数据库操作库（mysql，redis、memcache API 封装可直接调用），开发框架库（消息调度处理、自动连接管理、服务开发、游戏框架、服务间消息收发、消息通信等等），消息中间件服务（不同网络节点间自动传递收发消息）等多个功能组件、服务，最后完成一套完整的服务器引擎，基于该框架引擎可开发任意的网络服务。  主体架构：N网关+N服务+N数据库代理+内存DB ...|732|C++|05/25|
+|77|[MKXJun/DirectX11-With-Windows-SDK](https://github.com/MKXJun/DirectX11-With-Windows-SDK)|现代DX11系列教程：使用Windows SDK(C++)开发Direct3D 11.x|723|C++|12/08|
+|78|[ylmbtm/GameProject3](https://github.com/ylmbtm/GameProject3)|游戏服务器框架，网络层分别用SocketAPI、Boost Asio、Libuv三种方式实现， 框架内使用共享内存，无锁队列，对象池，内存池来提高服务器性能。还包含一个不断完善的Unity 3D客户端，客户端含大量完整资源，坐骑，宠物，伙伴，装备, 这些均己实现上阵和穿戴, 并可进入副本战斗，多人玩法也己实现, 持续开发中。|722|C++|07/02|
+|79|[xmuli/QtExamples](https://github.com/xmuli/QtExamples)|Qt 的 GUI 控件使用和网络；DTK 重绘控件方式的框架架构解析；Qt 原理/运行机制理解；QtCrator 使用和一些小技巧；系列文章教程|693|C++|07/08|
+|80|[cmdbug/YOLOv5_NCNN](https://github.com/cmdbug/YOLOv5_NCNN)|🍅 Deploy NCNN on mobile phones. Support Android and iOS. 移动端NCNN部署，支持Android与iOS。|692|C++|04/25|
+|81|[zeusees/License-Plate-Detector](https://github.com/zeusees/License-Plate-Detector)|基于Retinaface车牌检测,全新模型仅1.8MB.|678|C++|06/17|
+|82|[Tencent/flare](https://github.com/Tencent/flare)| Flare是广泛投产于腾讯广告后台的现代化C++开发框架，包含了基础库、RPC、各种客户端等。主要特点为易用性强、长尾延迟低。 |647|C++|07/06|
+|83|[shuax/GreenChrome](https://github.com/shuax/GreenChrome)|增强Chrome的工具|617|C++|03/22|
+|84|[SOUI2/soui](https://github.com/SOUI2/soui)|SOUI是目前为数不多的轻量级可快速开发window桌面程序开源DirectUI库.其前身为Duiengine,更早期则是源自于金山卫士开源版本UI库Bkwin.经过多年持续更新方得此库|603|C++|07/02|
+|85|[aiyaapp/AiyaEffectsIOS](https://github.com/aiyaapp/AiyaEffectsIOS)|宝宝特效Demo通过短视频SDK、直播SDK轻松实现特效与视频剪辑，为用户提供特效相机，拍摄辅助，自动美颜相机，抖音滤镜、直播礼物、直播贴纸等，超低占用空间，十秒大型场景仅100KB+， 精准人脸识别、人脸跟踪，支持3D特效，3D动画特效，2D特效、动画渲染、特效渲染等，visual effects IOS demo, support 3D effect, 3D Animation, 2D effect|586|C++|02/02|
+|86|[KongKong20/WeChatPCHook](https://github.com/KongKong20/WeChatPCHook)|微信 电脑 机器人 入门教程 基于HOOK |571|C++|07/06|
 |87|[Mapaler/FastCopy-M](https://github.com/Mapaler/FastCopy-M)|FastCopy-Multilanguage，FastCopy完整支持多国语言版|570|C++|04/20|
 |88|[Rvn0xsy/Cooolis-ms](https://github.com/Rvn0xsy/Cooolis-ms)|Cooolis-ms是一个包含了Metasploit Payload Loader、Cobalt Strike External C2 Loader、Reflective DLL injection的代码执行工具，它的定位在于能够在静态查杀上规避一些我们将要执行且含有特征的代码，帮助红队人员更方便快捷的从Web容器环境切换到C2环境进一步进行工作。|557|C++|06/02|
 |89|[anhkgg/SuperDllHijack](https://github.com/anhkgg/SuperDllHijack)|SuperDllHijack：A general DLL hijack technology, don't need to manually export the same function interface of the DLL, so easy! 一种通用Dll劫持技术，不再需要手工导出Dll的函数接口了|557|C++|04/04|
-|90|[skywind3000/RenderHelp](https://github.com/skywind3000/RenderHelp)|:zap: 可编程渲染管线实现，帮助初学者学习渲染 |543|C++|09/01|
+|90|[skywind3000/RenderHelp](https://github.com/skywind3000/RenderHelp)|:zap: 可编程渲染管线实现，帮助初学者学习渲染 |545|C++|09/01|
 |91|[eritpchy/Fingerprint-pay-magisk-wechat](https://github.com/eritpchy/Fingerprint-pay-magisk-wechat)|微信指纹支付 (Fingerprint pay for WeChat)|540|C++|12/04|
-|92|[downdemo/Cpp-Templates-2ed](https://github.com/downdemo/Cpp-Templates-2ed)|📚 C++ Templates 2ed 笔记：C++11/14/17 模板技术|536|C++|05/09|
+|92|[downdemo/Cpp-Templates-2ed](https://github.com/downdemo/Cpp-Templates-2ed)|📚 C++ Templates 2ed 笔记：C++11/14/17 模板技术|538|C++|05/09|
 |93|[Waleon/DesignPatterns](https://github.com/Waleon/DesignPatterns)|趣味设计模式，小朋友也能学得会！|533|C++|03/17|
 |94|[wlgq2/uv-cpp](https://github.com/wlgq2/uv-cpp)|libuv wrapper in C++11 /libuv C++11网络库|533|C++|06/05|
 |95|[OAID/AutoKernel](https://github.com/OAID/AutoKernel)|AutoKernel 是一个简单易用，低门槛的自动算子优化工具，提高深度学习算法部署效率。|527|C++|07/08|
-|96|[yuanyuanxiang/SimpleRemoter](https://github.com/yuanyuanxiang/SimpleRemoter)|基于gh0st的远程控制器：实现了终端管理、进程管理、窗口管理、远程桌面、文件管理、语音管理、视频管理、服务管理、注册表管理等功能，优化全部代码及整理排版，修复内存泄漏缺陷，程序运行稳定。项目代码仅限于学习和交流用途。|526|C++|03/14|
+|96|[yuanyuanxiang/SimpleRemoter](https://github.com/yuanyuanxiang/SimpleRemoter)|基于gh0st的远程控制器：实现了终端管理、进程管理、窗口管理、远程桌面、文件管理、语音管理、视频管理、服务管理、注册表管理等功能，优化全部代码及整理排版，修复内存泄漏缺陷，程序运行稳定。项目代码仅限于学习和交流用途。|527|C++|03/14|
 |97|[aixiangfei/jack-compiler](https://github.com/aixiangfei/jack-compiler)|jack语言编译器|524|C++|09/15|
 |98|[szza/LearningNote](https://github.com/szza/LearningNote)|C++和Linux学习笔记|518|C++|03/26|
 |99|[czs108/Cpp-Primer-5th-Notes-CN](https://github.com/czs108/Cpp-Primer-5th-Notes-CN)|📚 《C++ Primer中文版（第5版）》笔记|518|C++|05/08|
-|100|[downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed)|📚 C++ Concurrency in Action 2ed 笔记：C++11/14/17 多线程技术|511|C++|05/12|
+|100|[downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed)|📚 C++ Concurrency in Action 2ed 笔记：C++11/14/17 多线程技术|512|C++|05/12|
 |101|[xiangweizeng/mobile-lpr](https://github.com/xiangweizeng/mobile-lpr)|Mobile-LPR 是一个面向移动端的准商业级车牌识别库，以NCNN作为推理后端，使用DNN作为算法核心，支持多种车牌检测算法，支持车牌识别和车牌颜色识别。|486|C++|02/24|
-|102|[Chen-and-Sim/ChordNova](https://github.com/Chen-and-Sim/ChordNova)|ChordNova is a powerful open-source chord progression analysis plus generation software with unprecedentedly detailed control over chord trait parameters, that is way above mainstream softwares. Runs on multiple OS (currently Windows and Linux).   智弦（ChordNova）是清华大学沈智云和星海音乐学院陈文戈共同开发的一款免费开源、功能强大的和弦进行 ...|473|C++|03/25|
-|103|[markparticle/WebServer](https://github.com/markparticle/WebServer)|C++  Linux WebServer服务器|462|C++|10/26|
-|104|[PaddlePaddle/Serving](https://github.com/PaddlePaddle/Serving)|A flexible, high-performance carrier for machine learning models（『飞桨』服务化部署框架）|458|C++|07/07|
-|105|[YYC572652645/QCoolPage](https://github.com/YYC572652645/QCoolPage)|Qt炫酷界面|453|C++|07/03|
-|106|[Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker)|清华大学计算机系课程攻略|448|C++|02/28|
-|107|[sukhoeing/aoapc-bac2nd-keys](https://github.com/sukhoeing/aoapc-bac2nd-keys)|算法竞赛入门经典第2版-习题选解|444|C++|07/10|
-|108|[Apriluestc/2020](https://github.com/Apriluestc/2020)|2020 😀😁😀😁😀 秋招笔试面试合集，以及2019届公司真题模拟题集 & 附上自己的后端指南，💻🎓包括（C/C++基础、数据结构、算法、操作系统💻、计算机网络、MySQL、shell（ps：sed、awk、grep））|443|C++|12/16|
-|109|[richenyunqi/CCF-CSP-and-PAT-solution](https://github.com/richenyunqi/CCF-CSP-and-PAT-solution)|CCF CSP和PAT考试题解（使用C++14语法）|441|C++|06/17|
-|110|[wangzuohuai/WebRunLocal](https://github.com/wangzuohuai/WebRunLocal)|PluginOK(牛插)中间件是一个实现网页浏览器(Web Browser)与本地程序(Local App)之间进行双向调用的低成本、强兼容、安全可控、轻量级、易集成、可扩展、跨浏览器的原生小程序系统。通过此中间件可实现网页前端JS脚本无障碍操作本地电脑各种硬件、调用本地系统API及相关组件功能，可彻底解决DLL模块、ActiveX控件及自动化程序(如微软Office、金山WPS、AutoCAD等)在Chrome、Edge、360、FireFox、IE、Opera、QQ、搜狗等浏览器各版本中的嵌入使用问题，媲美原Java Applet的效果|439|C++|06/10|
-|111|[ethan-li-coding/SemiGlobalMatching](https://github.com/ethan-li-coding/SemiGlobalMatching)|SGM，立体匹配最经典应用最广泛算法，4000+引用，兼顾效率和效果。完整实现，代码规范，注释清晰，博客教学，欢迎star！|433|C++|04/20|
-|112|[jaredtao/DesignPattern](https://github.com/jaredtao/DesignPattern)|C++11全套设计模式-23种指针的用法(a full DesignPattern implement with c++11)|430|C++|06/19|
-|113|[gloomyfish1998/opencv_tutorial](https://github.com/gloomyfish1998/opencv_tutorial)|基于OpenCV4.0 C++/Python SDK的案例代码演示程序与效果图像|430|C++|06/23|
-|114|[githubhaohao/OpenGLCamera2](https://github.com/githubhaohao/OpenGLCamera2)|🔥 Android OpenGL Camera 2.0  实现 30 种滤镜和抖音特效|421|C++|06/01|
-|115|[Gality369/CS-Loader](https://github.com/Gality369/CS-Loader)|CS免杀|419|C++|06/27|
-|116|[lesliefish/Qt](https://github.com/lesliefish/Qt)|Qt开发知识、经验总结。包括Qss,数据库,Excel,Model/View等。|418|C++|04/06|
-|117|[USTC-Hackergame/hackergame2020-writeups](https://github.com/USTC-Hackergame/hackergame2020-writeups)|中国科学技术大学第七届信息安全大赛的官方与非官方题解|411|C++|05/11|
-|118|[FengGuanxi/HDU-Experience](https://github.com/FengGuanxi/HDU-Experience)|用于向所有杭电学子分享在杭电的知识与经验|405|C++|07/01|
-|119|[KangLin/RabbitIm](https://github.com/KangLin/RabbitIm)|玉兔即时通讯。开源的跨平台的的即时通信系统。包括文本、音视频、白板、远程控制|400|C++|06/21|
-|120|[2013fangwentao/Multi_Sensor_Fusion](https://github.com/2013fangwentao/Multi_Sensor_Fusion)|Multi-Sensor Fusion (GNSS, IMU, Camera) 多源多传感器融合定位 GPS/INS组合导航  PPP/INS紧组合|398|C++|12/29|
-|121|[PHZ76/DesktopSharing](https://github.com/PHZ76/DesktopSharing)|桌面共享, 支持RTSP转发, RTSP推流, RTMP推流。|394|C++|03/06|
-|122|[district10/cmake-templates](https://github.com/district10/cmake-templates)|Some CMake Templates (examples). Qt, Boost, OpenCV, C++11, etc 一些栗子|388|C++|08/05|
-|123|[BrightXiaoHan/CMakeTutorial](https://github.com/BrightXiaoHan/CMakeTutorial)|CMake中文实战教程|386|C++|09/23|
-|124|[twomonkeyclub/BackEnd](https://github.com/twomonkeyclub/BackEnd)|后台开发相关知识|383|C++|05/06|
-|125|[imistyrain/MTCNN](https://github.com/imistyrain/MTCNN)|全平台实时人脸检测和姿态估计，提供无需任何框架实现Realtime Face Detection and Head pose estimation on Windows、Ubuntu、Mac、Android and iOS|383|C++|01/06|
-|126|[VelsonWang/HmiFuncDesigner](https://github.com/VelsonWang/HmiFuncDesigner)|HmiFuncDesigner是一款集HMI，数据采集于一体的软件。目前支持Modbus协议，JavaScript解析，画面功能编辑等。HmiFuncDesigner is a software integrating HMI and data collection.Now it supports Modbus protocol, JavaScript explain, graphic control edit etc.|381|C++|02/25|
-|127|[AngelMonica126/GraphicAlgorithm](https://github.com/AngelMonica126/GraphicAlgorithm)|:octopus: :octopus:图形学论文实现|379|C++|07/08|
-|128|[188080501/JQHttpServer](https://github.com/188080501/JQHttpServer)|基于Qt开发的轻量级HTTP/HTTPS服务器|378|C++|07/07|
-|129|[cc20110101/RedisView](https://github.com/cc20110101/RedisView)|RedisView implements open source, cross-platform and high performance Redis interface tools through self-written RESP protocol parsing, self-written tree model and thread pool.   RedisView业余爱好通过自写RESP协议解析、自写树模型、线程池实现开源、跨平台、高性能Redis界面图形化工具|378|C++|06/24|
-|130|[KikoPlayProject/KikoPlay](https://github.com/KikoPlayProject/KikoPlay)|KikoPlay - NOT ONLY A Full-Featured Danmu Player  不仅仅是全功能弹幕播放器|373|C++|06/18|
-|131|[Syencil/tensorRT](https://github.com/Syencil/tensorRT)|TensorRT-7 Network Lib 包括常用目标检测、关键点检测、人脸检测、OCR等 可训练自己数据|366|C++|01/26|
-|132|[balloonwj/TeamTalk](https://github.com/balloonwj/TeamTalk)|这是我维护的蘑菇街TeamTalk源码版本。|363|C++|07/05|
-|133|[liuchuo/Lanqiao](https://github.com/liuchuo/Lanqiao)|🍦 蓝桥杯竞赛练习题的题解(C/C++/Java)-努力成为萌萌的程序媛～|359|C++|05/22|
-|134|[githubhaohao/LearnFFmpeg](https://github.com/githubhaohao/LearnFFmpeg)|Android FFmpeg 音视频开发教程|352|C++|06/24|
-|135|[huoji120/DuckMemoryScan](https://github.com/huoji120/DuckMemoryScan)|检测绝大部分所谓的内存免杀马|352|C++|02/26|
-|136|[zeusees/HyperVID](https://github.com/zeusees/HyperVID)|开源移动端车型识别  Mobile Plateform Vehicle Identification Model|345|C++|07/09|
-|137|[VitoChueng/RegularNotes](https://github.com/VitoChueng/RegularNotes)|记录cpp知识点，面试题，网络编程，多线程编程|345|C++|05/23|
-|138|[chatopera/clause](https://github.com/chatopera/clause)|:horse_racing: 聊天机器人，自然语言理解，语义理解|344|C++|02/10|
-|139|[ray-cast/RabbitToolbox](https://github.com/ray-cast/RabbitToolbox)|🤸🏾‍♀️👗开源的动画渲染软件，提倡以简单、易用，高质量的物理演算以及渲染质量和性能，为喜爱二次元动画的用户降低视频制作门槛|331|C++|04/07|
-|140|[openvanilla/McBopomofo](https://github.com/openvanilla/McBopomofo)|小麥注音輸入法|329|C++|04/10|
-|141|[BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)|Wechat Chat History Exporter 微信聊天记录导出程序|329|C++|06/30|
-|142|[feiyangqingyun/qucsdk](https://github.com/feiyangqingyun/qucsdk)|Qt编写的自定义控件插件的sdk集合，包括了各个操作系统的动态库文件以及控件的头文件和sdk使用demo。心中有坐标，万物皆painter，欢迎各位咨询、购买、定制控件，QQ：517216493 微信：feiyangqingyun。|327|C++|04/16|
-|143|[itas109/CSerialPort](https://github.com/itas109/CSerialPort)|基于C++的轻量级开源跨平台串口类库Lightweight cross-platform serial port library based on C++|326|C++|06/10|
-|144|[lizhenghn123/zl_threadpool](https://github.com/lizhenghn123/zl_threadpool)|Linux平台下C++(C++98、C++03、C++11)实现的线程池|324|C++|05/01|
-|145|[XadillaX/nyaa-nodejs-demo](https://github.com/XadillaX/nyaa-nodejs-demo)|Source code of "Node.js: Let's Write a Dozen of C++ Add-ons". 《Node.js：来一打 C++ 扩展》随书源码。|322|C++|12/31|
-|146|[tearshark/librf](https://github.com/tearshark/librf)|基于C++ Coroutines编写的无栈协程库|317|C++|01/09|
-|147|[Rvn0xsy/BadCode](https://github.com/Rvn0xsy/BadCode)|恶意代码逃逸源代码 http://payloads.online|315|C++|02/08|
-|148|[zeusees/HyperFT](https://github.com/zeusees/HyperFT)|开源移动端快速视频人脸跟踪-移动端150FPS+|314|C++|06/30|
-|149|[y123456yz/reading-and-annotate-mongodb-3.6](https://github.com/y123456yz/reading-and-annotate-mongodb-3.6)|分布式文档数据库mongodb-3.6(mongos、mongod、wiredtiger存储引擎)源码中文注释分析，近期持续更新|311|C++|07/08|
-|150|[qinwf/jiebaR](https://github.com/qinwf/jiebaR)| Chinese text segmentation with R.  R语言中文分词 （文档已更新 🎉 ：https://qinwenfeng.com/jiebaR/ )|306|C++|07/13|
-|151|[WallBreaker2/op](https://github.com/WallBreaker2/op)|Windows消息模拟,gdi,dx,opengl截图，找图,找字(OCR)等功能|306|C++|07/08|
-|152|[BADBADBADBOY/pytorchOCR](https://github.com/BADBADBADBOY/pytorchOCR)|基于pytorch的ocr算法库，包括 psenet, pan, dbnet, sast , crnn|296|C++|05/19|
-|153|[php-extension-research/study](https://github.com/php-extension-research/study)|手把手教你写PHP协程扩展(teach you to write php coroutine extension by hand)|296|C++|01/20|
-|154|[Project-LemonLime/Project_LemonLime](https://github.com/Project-LemonLime/Project_LemonLime)|为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统   三大桌面系统支持|293|C++|07/08|
-|155|[lihangleo2/RichEditTextCopyToutiao](https://github.com/lihangleo2/RichEditTextCopyToutiao)|android高仿今日头条富文本编辑|291|C++|09/22|
-|156|[anbingxu666/WangDao-DataStructure](https://github.com/anbingxu666/WangDao-DataStructure)|王道《数据结构》2020考研算法代码|291|C++|06/22|
-|157|[Meituan-Dianping/octo-ns](https://github.com/Meituan-Dianping/octo-ns)|OCTO-NS是美团OCTO服务治理体系服务注册发现功能的套件, 包括SDK(Java/C++)、本地服务治理代理(SgAgent), 服务缓存(NSC), 云端健康检查(Scanner)等基础组件，目前已经在全公司大规模使用|290|C++|03/13|
-|158|[jiafeng5513/Evision](https://github.com/jiafeng5513/Evision)|计算机视觉实践和探索/Practice and explorations in computer vision.|289|C++|04/14|
-|159|[open-speech/speech-aligner](https://github.com/open-speech/speech-aligner)|speech-aligner，是一个从“人声语音”及其“语言文本”，产生音素级别时间对齐标注的工具。speech-aligner, is a tool that generate phoneme-level alignment between human speech and its transcription|287|C++|04/08|
-|160|[Beipy/Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover)|PC主机黑苹果引导驱动文件|285|C++|03/28|
-|161|[MegrezZhu/qmcdump](https://github.com/MegrezZhu/qmcdump)|一个简单的QQ音乐解码（qmcflac/qmc0/qmc3 转 flac/mp3），仅为个人学习参考用。|280|C++|02/20|
-|162|[ethan-li-coding/PatchMatchStereo](https://github.com/ethan-li-coding/PatchMatchStereo)|PatchMatchStereo，倾斜窗口经典，效果极佳，OpenMVS&Colmap稠密匹配算法。完整实现，代码规范，注释清晰，博客教学，欢迎star！|279|C++|02/26|
-|163|[Samuel-0-0/phicomm_dc1-esphome](https://github.com/Samuel-0-0/phicomm_dc1-esphome)|斐讯DC1插座自制固件方式接入开源智能家居平台|275|C++|02/25|
-|164|[czyt1988/sa](https://github.com/czyt1988/sa)|信号分析及数据可视化软件|275|C++|04/01|
-|165|[Dice-Developer-Team/Dice](https://github.com/Dice-Developer-Team/Dice)|QQ Dice Robot For TRPG QQ跑团掷骰机器人|274|C++|07/08|
-|166|[pegasusTrader/PandoraTrader](https://github.com/pegasusTrader/PandoraTrader)|CTP 高频量化交易平台 C++ Trade Platform for quant developer |274|C++|06/05|
-|167|[physercoe/starquant](https://github.com/physercoe/starquant)|a light-weighted, integrated trading/backtesting system/platform（综合量化交易回测系统/平台）|272|C++|12/14|
-|168|[mayerui/sudoku](https://github.com/mayerui/sudoku)|C++实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。|270|C++|05/28|
-|169|[iUIShop/LibUIDK](https://github.com/iUIShop/LibUIDK)|mfc skin ui，not directui。视频教程：https://v.youku.com/v_show/id_XNTczMzg5MDky.html  简单来说，LibUIDK是用来开发QQ、360安全卫士那样的漂亮软件界面的。 LibUIDK原来是商业界面库，2019年9月8号开源。是专业开发Windows平台下图形用户界面的开发包，该开发包基于Microsoft的MFC库。使用此开发工具包可轻易把美工制作的精美界面用Visual C++实现，由于LibUIDK采用所见即所得的方式创建产品界面，所以极大的提高了产品的开发速度，并大大增强图形用户界面(GUI)的亲和力。LibUIDK还 ...|263|C++|03/15|
-|170|[Tencent/deepx_core](https://github.com/Tencent/deepx_core)|deepx_core是一个专注于张量计算/深度学习的基础库|262|C++|07/06|
-|171|[GengGode/GenshinImpact_AutoMap](https://github.com/GengGode/GenshinImpact_AutoMap)|原神，基于小地图的自动标记资源地图|257|C++|07/06|
-|172|[xyz347/x2struct](https://github.com/xyz347/x2struct)|Convert between json string and c++ object.  json字符串和c++结构体之间互相转换|256|C++|12/21|
-|173|[Cc28256/CcRemote](https://github.com/Cc28256/CcRemote)|这是一个基于gh0st远程控制的项目，使自己更深入了解远控的原理，采用VS2017，默认分支hijack还在修改不能执行，master分支的项目可以正常的运行的，你可以切换到该分支查看可以执行的代码|255|C++|10/14|
-|174|[CandyConfident/HighPerformanceConcurrentServer](https://github.com/CandyConfident/HighPerformanceConcurrentServer)|基于C++11、部分C++14/17特性的一个高性能并发httpserver，包括日志、线程池、内存池、定时器、网络io、http、数据库连接等模块。模块间低耦合高内聚，可作为整体也可单独提供服务。对各模块提供单元测试，对httpserver整体提供性能测试。|254|C++|09/09|
-|175|[Qv2ray/QvPlugin-Trojan](https://github.com/Qv2ray/QvPlugin-Trojan)|在 Qv2ray 中使用 Trojan, 感谢 Trojan-Qt5 0.x|253|C++|01/27|
-|176|[eritpchy/Fingerprint-pay-magisk-alipay](https://github.com/eritpchy/Fingerprint-pay-magisk-alipay)|支付宝指纹支付 (Fingerprint pay for Alipay)|252|C++|02/02|
-|177|[ImSjt/RtspServer](https://github.com/ImSjt/RtspServer)|RTSP服务器，支持传输H.264和AAC格式的音视频|251|C++|01/16|
-|178|[armfly/H7-TOOL_STM32H7_App](https://github.com/armfly/H7-TOOL_STM32H7_App)|单片机APP程序|248|C++|03/25|
-|179|[oceancx/CXEngine](https://github.com/oceancx/CXEngine)|CXEngine是一个方便大家使用lua+imgui做游戏的游戏引擎,目前主要整合了vscode lua调试器，网络库，还有lua imgui，以及2D回合制MMORPG的框架|247|C++|03/23|
-|180|[tsingsee/EasyPlayerPro-Win](https://github.com/tsingsee/EasyPlayerPro-Win)|EasyPlayerPro是一款全功能的流媒体播放器，支持RTSP、RTMP、HTTP、HLS、UDP、RTP、File等多种流媒体协议播放、支持本地文件播放，支持本地抓拍、本地录像、播放旋转、多屏播放、倍数播放等多种功能特性，核心基于ffmpeg，稳定、高效、可靠、可控，支持Windows、Android、iOS三个平台，目前在多家教育、安防、行业型公司，都得到的应用，广受好评！|242|C++|06/04|
-|181|[AmazingPP/subVerison_GTAV_Hack](https://github.com/AmazingPP/subVerison_GTAV_Hack)|subVerison重置版——GTA5外置修改器|241|C++|04/10|
-|182|[kevinlq/SmartHome-Qt](https://github.com/kevinlq/SmartHome-Qt)|基于zigbee和stm32的智能家居系统，上位机使用Qt编写，实现了基本的监控。主要包括监控室内温度、湿度、烟雾浓度，用led灯模拟控制家中的灯。界面良好。|241|C++|06/24|
-|183|[SequoiaDB/SequoiaDB](https://github.com/SequoiaDB/SequoiaDB)|SequoiaDB 巨杉数据库是一款金融级分布式关系型数据库。 自研的原生分布式存储引擎支持完整 ACID，具备弹性扩展、高并发和高可用特性，支持 MySQL、PostgreSQL 和 SparkSQL 等多种 SQL 访问形式，适用于核心交易、数据中台、内容管理等应用场景。 |241|C++|06/08|
-|184|[Qv2ray/QvPlugin-SSR](https://github.com/Qv2ray/QvPlugin-SSR)|适用于 Qv2ray 的 ShadowSocksR 插件，使用此插件在 Qv2ray 中启用 SSR 功能|240|C++|12/14|
-|185|[chengyangkj/Ros_Qt5_Gui_App](https://github.com/chengyangkj/Ros_Qt5_Gui_App)|ROS human computer interface based on Qt5(基于Qt5的ROS人机交互界面)|239|C++|06/20|
-|186|[jing332/xmly-downloader-qt5](https://github.com/jing332/xmly-downloader-qt5)|喜马拉雅FM专辑下载器. 支持VIP与付费专辑. 使用Go+Qt5编写(Not Qt Binding).|234|C++|11/15|
-|187|[BesLyric-for-X/BesLyric-for-X](https://github.com/BesLyric-for-X/BesLyric-for-X)|本项目是 BesLyric 的跨平台版本。BesLyric 是一款 操作简单、功能实用的 专门用于制作网易云音乐滚动歌词的 歌词制作软件。基于Qt实现，主打歌词制作功能，以网易云风格界面，力图为云村村民提供一个良好的歌词制作体验！|233|C++|06/07|
-|188|[zhujisheng/Home-Assistant-DIY](https://github.com/zhujisheng/Home-Assistant-DIY)|Home Assistant智能家居实践篇|231|C++|06/26|
-|189|[acm-clan/algorithm-stone](https://github.com/acm-clan/algorithm-stone)|ACM/LeetCode算法竞赛路线图，最全的算法学习地图！|227|C++|07/02|
-|190|[TJ-CSCCG/TJCS-Course](https://github.com/TJ-CSCCG/TJCS-Course)|:bulb: 同济大学计算机科学与技术、信息安全专业课程资源共享仓库。含部分科目介绍、报告模板、实验工具等内容。期待更多课程加入……|225|C++|06/27|
-|191|[youngyangyang04/Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP)|A tiny KV storage based on skiplist written in C++ language   使用C++开发，基于跳表实现的轻量级键值数据库🔥🔥 🚀|222|C++|07/06|
-|192|[tsingsee/EasyScreenLive](https://github.com/tsingsee/EasyScreenLive)|Streaming media sdk tool：EasyScreenLive是一款简单、高效、稳定的集采集，编码，组播，推流和流媒体RTSP服务于一身的同屏功能组件，具低延时，高效能，低丢包等特点。目前支持Windows，Android平台，通过EasyScreenLive我们就可以避免接触到稍显复杂的音视频源采集，编码和流媒体推送以及RTSP/RTP/RTCP/RTMP服务流程，只需要调用EasyScreenLive的几个API接口，就能轻松、稳定地把流媒体音视频数据RTMP推送给EasyDSS服务器以及发布RTSPServer服务，RTSP同屏服务支持组播和单播两种模式。|220|C++|06/09|
-|193|[unlir/XDrive](https://github.com/unlir/XDrive)|Stepper motor with multi-function interface and closed loop function. 具有多功能接口和闭环功能的步进电机。|220|C++|04/14|
-|194|[Ubpa/Utopia](https://github.com/Ubpa/Utopia)|Utopia Game Engine 无境游戏引擎|216|C++|06/28|
-|195|[LeechanX/Ring-Log](https://github.com/LeechanX/Ring-Log)|Ring-Log是一个高效简洁的C++异步日志， 其特点是效率高（每秒支持至少125万+日志写入）、易拓展，尤其适用于频繁写日志的场景|216|C++|06/27|
-|196|[anyRTC-UseCase/SipRtcProxy](https://github.com/anyRTC-UseCase/SipRtcProxy)|网关服务：Sip与Rtc互通，实现Web，Android，iOS，小程序，SIP座机，PSTN电话，手机互通。|215|C++|12/04|
-|197|[Winnerhust/uthread](https://github.com/Winnerhust/uthread)|一个简单的用户级线程库|215|C++|09/29|
-|198|[ChunelFeng/caiss](https://github.com/ChunelFeng/caiss)|跨平台/多语言的 相似向量/相似词/相似句 高性能检索引擎。功能强大，使用方便。欢迎star & fork。Build together! Power another !|213|C++|05/19|
-|199|[EmyWong/PersonalUITech](https://github.com/EmyWong/PersonalUITech)|个人学习的一些技术Demo|212|C++|07/30|
-|200|[lengjibo/NetUser](https://github.com/lengjibo/NetUser)|使用windows api添加用户，可用于net无法使用时.分为nim版，c++版本，RDI版，BOF版。|210|C++|05/28|
+|102|[markparticle/WebServer](https://github.com/markparticle/WebServer)|C++  Linux WebServer服务器|462|C++|10/26|
+|103|[PaddlePaddle/Serving](https://github.com/PaddlePaddle/Serving)|A flexible, high-performance carrier for machine learning models（『飞桨』服务化部署框架）|458|C++|07/07|
+|104|[YYC572652645/QCoolPage](https://github.com/YYC572652645/QCoolPage)|Qt炫酷界面|453|C++|07/03|
+|105|[Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker)|清华大学计算机系课程攻略|448|C++|02/28|
+|106|[sukhoeing/aoapc-bac2nd-keys](https://github.com/sukhoeing/aoapc-bac2nd-keys)|算法竞赛入门经典第2版-习题选解|444|C++|07/10|
+|107|[Apriluestc/2020](https://github.com/Apriluestc/2020)|2020 😀😁😀😁😀 秋招笔试面试合集，以及2019届公司真题模拟题集 & 附上自己的后端指南，💻🎓包括（C/C++基础、数据结构、算法、操作系统💻、计算机网络、MySQL、shell（ps：sed、awk、grep））|443|C++|12/16|
+|108|[richenyunqi/CCF-CSP-and-PAT-solution](https://github.com/richenyunqi/CCF-CSP-and-PAT-solution)|CCF CSP和PAT考试题解（使用C++14语法）|441|C++|06/17|
+|109|[wangzuohuai/WebRunLocal](https://github.com/wangzuohuai/WebRunLocal)|PluginOK(牛插)中间件是一个实现网页浏览器(Web Browser)与本地程序(Local App)之间进行双向调用的低成本、强兼容、安全可控、轻量级、易集成、可扩展、跨浏览器的原生小程序系统。通过此中间件可实现网页前端JS脚本无障碍操作本地电脑各种硬件、调用本地系统API及相关组件功能，可彻底解决DLL模块、ActiveX控件及自动化程序(如微软Office、金山WPS、AutoCAD等)在Chrome、Edge、360、FireFox、IE、Opera、QQ、搜狗等浏览器各版本中的嵌入使用问题，媲美原Java Applet的效果|439|C++|06/10|
+|110|[ethan-li-coding/SemiGlobalMatching](https://github.com/ethan-li-coding/SemiGlobalMatching)|SGM，立体匹配最经典应用最广泛算法，4000+引用，兼顾效率和效果。完整实现，代码规范，注释清晰，博客教学，欢迎star！|433|C++|04/20|
+|111|[jaredtao/DesignPattern](https://github.com/jaredtao/DesignPattern)|C++11全套设计模式-23种指针的用法(a full DesignPattern implement with c++11)|430|C++|06/19|
+|112|[gloomyfish1998/opencv_tutorial](https://github.com/gloomyfish1998/opencv_tutorial)|基于OpenCV4.0 C++/Python SDK的案例代码演示程序与效果图像|430|C++|06/23|
+|113|[githubhaohao/OpenGLCamera2](https://github.com/githubhaohao/OpenGLCamera2)|🔥 Android OpenGL Camera 2.0  实现 30 种滤镜和抖音特效|421|C++|06/01|
+|114|[Gality369/CS-Loader](https://github.com/Gality369/CS-Loader)|CS免杀|419|C++|06/27|
+|115|[lesliefish/Qt](https://github.com/lesliefish/Qt)|Qt开发知识、经验总结。包括Qss,数据库,Excel,Model/View等。|418|C++|04/06|
+|116|[USTC-Hackergame/hackergame2020-writeups](https://github.com/USTC-Hackergame/hackergame2020-writeups)|中国科学技术大学第七届信息安全大赛的官方与非官方题解|411|C++|05/11|
+|117|[FengGuanxi/HDU-Experience](https://github.com/FengGuanxi/HDU-Experience)|用于向所有杭电学子分享在杭电的知识与经验|405|C++|07/01|
+|118|[KangLin/RabbitIm](https://github.com/KangLin/RabbitIm)|玉兔即时通讯。开源的跨平台的的即时通信系统。包括文本、音视频、白板、远程控制|401|C++|06/21|
+|119|[2013fangwentao/Multi_Sensor_Fusion](https://github.com/2013fangwentao/Multi_Sensor_Fusion)|Multi-Sensor Fusion (GNSS, IMU, Camera) 多源多传感器融合定位 GPS/INS组合导航  PPP/INS紧组合|398|C++|12/29|
+|120|[district10/cmake-templates](https://github.com/district10/cmake-templates)|Some CMake Templates (examples). Qt, Boost, OpenCV, C++11, etc 一些栗子|388|C++|08/05|
+|121|[BrightXiaoHan/CMakeTutorial](https://github.com/BrightXiaoHan/CMakeTutorial)|CMake中文实战教程|387|C++|09/23|
+|122|[twomonkeyclub/BackEnd](https://github.com/twomonkeyclub/BackEnd)|后台开发相关知识|383|C++|05/06|
+|123|[imistyrain/MTCNN](https://github.com/imistyrain/MTCNN)|全平台实时人脸检测和姿态估计，提供无需任何框架实现Realtime Face Detection and Head pose estimation on Windows、Ubuntu、Mac、Android and iOS|383|C++|01/06|
+|124|[VelsonWang/HmiFuncDesigner](https://github.com/VelsonWang/HmiFuncDesigner)|HmiFuncDesigner是一款集HMI，数据采集于一体的软件。目前支持Modbus协议，JavaScript解析，画面功能编辑等。HmiFuncDesigner is a software integrating HMI and data collection.Now it supports Modbus protocol, JavaScript explain, graphic control edit etc.|381|C++|02/25|
+|125|[AngelMonica126/GraphicAlgorithm](https://github.com/AngelMonica126/GraphicAlgorithm)|:octopus: :octopus:图形学论文实现|379|C++|07/08|
+|126|[188080501/JQHttpServer](https://github.com/188080501/JQHttpServer)|基于Qt开发的轻量级HTTP/HTTPS服务器|378|C++|07/07|
+|127|[cc20110101/RedisView](https://github.com/cc20110101/RedisView)|RedisView implements open source, cross-platform and high performance Redis interface tools through self-written RESP protocol parsing, self-written tree model and thread pool.   RedisView业余爱好通过自写RESP协议解析、自写树模型、线程池实现开源、跨平台、高性能Redis界面图形化工具|378|C++|06/24|
+|128|[KikoPlayProject/KikoPlay](https://github.com/KikoPlayProject/KikoPlay)|KikoPlay - NOT ONLY A Full-Featured Danmu Player  不仅仅是全功能弹幕播放器|373|C++|06/18|
+|129|[Syencil/tensorRT](https://github.com/Syencil/tensorRT)|TensorRT-7 Network Lib 包括常用目标检测、关键点检测、人脸检测、OCR等 可训练自己数据|366|C++|01/26|
+|130|[balloonwj/TeamTalk](https://github.com/balloonwj/TeamTalk)|这是我维护的蘑菇街TeamTalk源码版本。|363|C++|07/05|
+|131|[liuchuo/Lanqiao](https://github.com/liuchuo/Lanqiao)|🍦 蓝桥杯竞赛练习题的题解(C/C++/Java)-努力成为萌萌的程序媛～|359|C++|05/22|
+|132|[githubhaohao/LearnFFmpeg](https://github.com/githubhaohao/LearnFFmpeg)|Android FFmpeg 音视频开发教程|352|C++|06/24|
+|133|[huoji120/DuckMemoryScan](https://github.com/huoji120/DuckMemoryScan)|检测绝大部分所谓的内存免杀马|352|C++|02/26|
+|134|[zeusees/HyperVID](https://github.com/zeusees/HyperVID)|开源移动端车型识别  Mobile Plateform Vehicle Identification Model|345|C++|07/09|
+|135|[VitoChueng/RegularNotes](https://github.com/VitoChueng/RegularNotes)|记录cpp知识点，面试题，网络编程，多线程编程|345|C++|05/23|
+|136|[chatopera/clause](https://github.com/chatopera/clause)|:horse_racing: 聊天机器人，自然语言理解，语义理解|344|C++|02/10|
+|137|[ray-cast/RabbitToolbox](https://github.com/ray-cast/RabbitToolbox)|🤸🏾‍♀️👗开源的动画渲染软件，提倡以简单、易用，高质量的物理演算以及渲染质量和性能，为喜爱二次元动画的用户降低视频制作门槛|331|C++|04/07|
+|138|[BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)|Wechat Chat History Exporter 微信聊天记录导出程序|330|C++|06/30|
+|139|[openvanilla/McBopomofo](https://github.com/openvanilla/McBopomofo)|小麥注音輸入法|329|C++|04/10|
+|140|[feiyangqingyun/qucsdk](https://github.com/feiyangqingyun/qucsdk)|Qt编写的自定义控件插件的sdk集合，包括了各个操作系统的动态库文件以及控件的头文件和sdk使用demo。心中有坐标，万物皆painter，欢迎各位咨询、购买、定制控件，QQ：517216493 微信：feiyangqingyun。|327|C++|04/16|
+|141|[itas109/CSerialPort](https://github.com/itas109/CSerialPort)|基于C++的轻量级开源跨平台串口类库Lightweight cross-platform serial port library based on C++|326|C++|06/10|
+|142|[lizhenghn123/zl_threadpool](https://github.com/lizhenghn123/zl_threadpool)|Linux平台下C++(C++98、C++03、C++11)实现的线程池|324|C++|05/01|
+|143|[XadillaX/nyaa-nodejs-demo](https://github.com/XadillaX/nyaa-nodejs-demo)|Source code of "Node.js: Let's Write a Dozen of C++ Add-ons". 《Node.js：来一打 C++ 扩展》随书源码。|322|C++|12/31|
+|144|[tearshark/librf](https://github.com/tearshark/librf)|基于C++ Coroutines编写的无栈协程库|317|C++|01/09|
+|145|[Rvn0xsy/BadCode](https://github.com/Rvn0xsy/BadCode)|恶意代码逃逸源代码 http://payloads.online|315|C++|02/08|
+|146|[zeusees/HyperFT](https://github.com/zeusees/HyperFT)|开源移动端快速视频人脸跟踪-移动端150FPS+|314|C++|06/30|
+|147|[y123456yz/reading-and-annotate-mongodb-3.6](https://github.com/y123456yz/reading-and-annotate-mongodb-3.6)|分布式文档数据库mongodb-3.6(mongos、mongod、wiredtiger存储引擎)源码中文注释分析，近期持续更新|312|C++|07/08|
+|148|[WallBreaker2/op](https://github.com/WallBreaker2/op)|Windows消息模拟,gdi,dx,opengl截图，找图,找字(OCR)等功能|307|C++|07/08|
+|149|[qinwf/jiebaR](https://github.com/qinwf/jiebaR)| Chinese text segmentation with R.  R语言中文分词 （文档已更新 🎉 ：https://qinwenfeng.com/jiebaR/ )|306|C++|07/13|
+|150|[BADBADBADBOY/pytorchOCR](https://github.com/BADBADBADBOY/pytorchOCR)|基于pytorch的ocr算法库，包括 psenet, pan, dbnet, sast , crnn|296|C++|05/19|
+|151|[php-extension-research/study](https://github.com/php-extension-research/study)|手把手教你写PHP协程扩展(teach you to write php coroutine extension by hand)|296|C++|01/20|
+|152|[Project-LemonLime/Project_LemonLime](https://github.com/Project-LemonLime/Project_LemonLime)|为了 OI 比赛而生的基于 Lemon + LemonPlus 的轻量评测系统   三大桌面系统支持|293|C++|07/08|
+|153|[lihangleo2/RichEditTextCopyToutiao](https://github.com/lihangleo2/RichEditTextCopyToutiao)|android高仿今日头条富文本编辑|291|C++|09/22|
+|154|[anbingxu666/WangDao-DataStructure](https://github.com/anbingxu666/WangDao-DataStructure)|王道《数据结构》2020考研算法代码|291|C++|06/22|
+|155|[Meituan-Dianping/octo-ns](https://github.com/Meituan-Dianping/octo-ns)|OCTO-NS是美团OCTO服务治理体系服务注册发现功能的套件, 包括SDK(Java/C++)、本地服务治理代理(SgAgent), 服务缓存(NSC), 云端健康检查(Scanner)等基础组件，目前已经在全公司大规模使用|290|C++|03/13|
+|156|[jiafeng5513/Evision](https://github.com/jiafeng5513/Evision)|计算机视觉实践和探索/Practice and explorations in computer vision.|289|C++|04/14|
+|157|[open-speech/speech-aligner](https://github.com/open-speech/speech-aligner)|speech-aligner，是一个从“人声语音”及其“语言文本”，产生音素级别时间对齐标注的工具。speech-aligner, is a tool that generate phoneme-level alignment between human speech and its transcription|287|C++|04/08|
+|158|[Beipy/Mac-Hackintosh-Clover](https://github.com/Beipy/Mac-Hackintosh-Clover)|PC主机黑苹果引导驱动文件|285|C++|03/28|
+|159|[ethan-li-coding/PatchMatchStereo](https://github.com/ethan-li-coding/PatchMatchStereo)|PatchMatchStereo，倾斜窗口经典，效果极佳，OpenMVS&Colmap稠密匹配算法。完整实现，代码规范，注释清晰，博客教学，欢迎star！|280|C++|02/26|
+|160|[MegrezZhu/qmcdump](https://github.com/MegrezZhu/qmcdump)|一个简单的QQ音乐解码（qmcflac/qmc0/qmc3 转 flac/mp3），仅为个人学习参考用。|280|C++|02/20|
+|161|[Samuel-0-0/phicomm_dc1-esphome](https://github.com/Samuel-0-0/phicomm_dc1-esphome)|斐讯DC1插座自制固件方式接入开源智能家居平台|275|C++|02/25|
+|162|[czyt1988/sa](https://github.com/czyt1988/sa)|信号分析及数据可视化软件|275|C++|04/01|
+|163|[pegasusTrader/PandoraTrader](https://github.com/pegasusTrader/PandoraTrader)|CTP 高频量化交易平台 C++ Trade Platform for quant developer |275|C++|06/05|
+|164|[Dice-Developer-Team/Dice](https://github.com/Dice-Developer-Team/Dice)|QQ Dice Robot For TRPG QQ跑团掷骰机器人|274|C++|07/08|
+|165|[physercoe/starquant](https://github.com/physercoe/starquant)|a light-weighted, integrated trading/backtesting system/platform（综合量化交易回测系统/平台）|273|C++|12/14|
+|166|[mayerui/sudoku](https://github.com/mayerui/sudoku)|C++实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。|270|C++|05/28|
+|167|[iUIShop/LibUIDK](https://github.com/iUIShop/LibUIDK)|mfc skin ui，not directui。视频教程：https://v.youku.com/v_show/id_XNTczMzg5MDky.html  简单来说，LibUIDK是用来开发QQ、360安全卫士那样的漂亮软件界面的。 LibUIDK原来是商业界面库，2019年9月8号开源。是专业开发Windows平台下图形用户界面的开发包，该开发包基于Microsoft的MFC库。使用此开发工具包可轻易把美工制作的精美界面用Visual C++实现，由于LibUIDK采用所见即所得的方式创建产品界面，所以极大的提高了产品的开发速度，并大大增强图形用户界面(GUI)的亲和力。LibUIDK还 ...|263|C++|03/15|
+|168|[Tencent/deepx_core](https://github.com/Tencent/deepx_core)|deepx_core是一个专注于张量计算/深度学习的基础库|262|C++|07/06|
+|169|[GengGode/GenshinImpact_AutoMap](https://github.com/GengGode/GenshinImpact_AutoMap)|原神，基于小地图的自动标记资源地图|257|C++|07/06|
+|170|[xyz347/x2struct](https://github.com/xyz347/x2struct)|Convert between json string and c++ object.  json字符串和c++结构体之间互相转换|256|C++|12/21|
+|171|[Cc28256/CcRemote](https://github.com/Cc28256/CcRemote)|这是一个基于gh0st远程控制的项目，使自己更深入了解远控的原理，采用VS2017，默认分支hijack还在修改不能执行，master分支的项目可以正常的运行的，你可以切换到该分支查看可以执行的代码|256|C++|10/14|
+|172|[CandyConfident/HighPerformanceConcurrentServer](https://github.com/CandyConfident/HighPerformanceConcurrentServer)|基于C++11、部分C++14/17特性的一个高性能并发httpserver，包括日志、线程池、内存池、定时器、网络io、http、数据库连接等模块。模块间低耦合高内聚，可作为整体也可单独提供服务。对各模块提供单元测试，对httpserver整体提供性能测试。|254|C++|09/09|
+|173|[Qv2ray/QvPlugin-Trojan](https://github.com/Qv2ray/QvPlugin-Trojan)|在 Qv2ray 中使用 Trojan, 感谢 Trojan-Qt5 0.x|253|C++|01/27|
+|174|[eritpchy/Fingerprint-pay-magisk-alipay](https://github.com/eritpchy/Fingerprint-pay-magisk-alipay)|支付宝指纹支付 (Fingerprint pay for Alipay)|252|C++|02/02|
+|175|[ImSjt/RtspServer](https://github.com/ImSjt/RtspServer)|RTSP服务器，支持传输H.264和AAC格式的音视频|251|C++|01/16|
+|176|[armfly/H7-TOOL_STM32H7_App](https://github.com/armfly/H7-TOOL_STM32H7_App)|单片机APP程序|248|C++|03/25|
+|177|[oceancx/CXEngine](https://github.com/oceancx/CXEngine)|CXEngine是一个方便大家使用lua+imgui做游戏的游戏引擎,目前主要整合了vscode lua调试器，网络库，还有lua imgui，以及2D回合制MMORPG的框架|247|C++|03/23|
+|178|[tsingsee/EasyPlayerPro-Win](https://github.com/tsingsee/EasyPlayerPro-Win)|EasyPlayerPro是一款全功能的流媒体播放器，支持RTSP、RTMP、HTTP、HLS、UDP、RTP、File等多种流媒体协议播放、支持本地文件播放，支持本地抓拍、本地录像、播放旋转、多屏播放、倍数播放等多种功能特性，核心基于ffmpeg，稳定、高效、可靠、可控，支持Windows、Android、iOS三个平台，目前在多家教育、安防、行业型公司，都得到的应用，广受好评！|242|C++|06/04|
+|179|[AmazingPP/subVerison_GTAV_Hack](https://github.com/AmazingPP/subVerison_GTAV_Hack)|subVerison重置版——GTA5外置修改器|241|C++|04/10|
+|180|[kevinlq/SmartHome-Qt](https://github.com/kevinlq/SmartHome-Qt)|基于zigbee和stm32的智能家居系统，上位机使用Qt编写，实现了基本的监控。主要包括监控室内温度、湿度、烟雾浓度，用led灯模拟控制家中的灯。界面良好。|241|C++|06/24|
+|181|[SequoiaDB/SequoiaDB](https://github.com/SequoiaDB/SequoiaDB)|SequoiaDB 巨杉数据库是一款金融级分布式关系型数据库。 自研的原生分布式存储引擎支持完整 ACID，具备弹性扩展、高并发和高可用特性，支持 MySQL、PostgreSQL 和 SparkSQL 等多种 SQL 访问形式，适用于核心交易、数据中台、内容管理等应用场景。 |241|C++|06/08|
+|182|[Qv2ray/QvPlugin-SSR](https://github.com/Qv2ray/QvPlugin-SSR)|适用于 Qv2ray 的 ShadowSocksR 插件，使用此插件在 Qv2ray 中启用 SSR 功能|240|C++|12/14|
+|183|[chengyangkj/Ros_Qt5_Gui_App](https://github.com/chengyangkj/Ros_Qt5_Gui_App)|ROS human computer interface based on Qt5(基于Qt5的ROS人机交互界面)|239|C++|06/20|
+|184|[jing332/xmly-downloader-qt5](https://github.com/jing332/xmly-downloader-qt5)|喜马拉雅FM专辑下载器. 支持VIP与付费专辑. 使用Go+Qt5编写(Not Qt Binding).|234|C++|11/15|
+|185|[BesLyric-for-X/BesLyric-for-X](https://github.com/BesLyric-for-X/BesLyric-for-X)|本项目是 BesLyric 的跨平台版本。BesLyric 是一款 操作简单、功能实用的 专门用于制作网易云音乐滚动歌词的 歌词制作软件。基于Qt实现，主打歌词制作功能，以网易云风格界面，力图为云村村民提供一个良好的歌词制作体验！|233|C++|06/07|
+|186|[zhujisheng/Home-Assistant-DIY](https://github.com/zhujisheng/Home-Assistant-DIY)|Home Assistant智能家居实践篇|231|C++|06/26|
+|187|[acm-clan/algorithm-stone](https://github.com/acm-clan/algorithm-stone)|ACM/LeetCode算法竞赛路线图，最全的算法学习地图！|227|C++|07/02|
+|188|[TJ-CSCCG/TJCS-Course](https://github.com/TJ-CSCCG/TJCS-Course)|:bulb: 同济大学计算机科学与技术、信息安全专业课程资源共享仓库。含部分科目介绍、报告模板、实验工具等内容。期待更多课程加入……|225|C++|06/27|
+|189|[youngyangyang04/Skiplist-CPP](https://github.com/youngyangyang04/Skiplist-CPP)|A tiny KV storage based on skiplist written in C++ language   使用C++开发，基于跳表实现的轻量级键值数据库🔥🔥 🚀|222|C++|07/06|
+|190|[tsingsee/EasyScreenLive](https://github.com/tsingsee/EasyScreenLive)|Streaming media sdk tool：EasyScreenLive是一款简单、高效、稳定的集采集，编码，组播，推流和流媒体RTSP服务于一身的同屏功能组件，具低延时，高效能，低丢包等特点。目前支持Windows，Android平台，通过EasyScreenLive我们就可以避免接触到稍显复杂的音视频源采集，编码和流媒体推送以及RTSP/RTP/RTCP/RTMP服务流程，只需要调用EasyScreenLive的几个API接口，就能轻松、稳定地把流媒体音视频数据RTMP推送给EasyDSS服务器以及发布RTSPServer服务，RTSP同屏服务支持组播和单播两种模式。|220|C++|06/09|
+|191|[unlir/XDrive](https://github.com/unlir/XDrive)|Stepper motor with multi-function interface and closed loop function. 具有多功能接口和闭环功能的步进电机。|220|C++|04/14|
+|192|[LeechanX/Ring-Log](https://github.com/LeechanX/Ring-Log)|Ring-Log是一个高效简洁的C++异步日志， 其特点是效率高（每秒支持至少125万+日志写入）、易拓展，尤其适用于频繁写日志的场景|217|C++|06/27|
+|193|[Ubpa/Utopia](https://github.com/Ubpa/Utopia)|Utopia Game Engine 无境游戏引擎|216|C++|06/28|
+|194|[anyRTC-UseCase/SipRtcProxy](https://github.com/anyRTC-UseCase/SipRtcProxy)|网关服务：Sip与Rtc互通，实现Web，Android，iOS，小程序，SIP座机，PSTN电话，手机互通。|215|C++|12/04|
+|195|[Winnerhust/uthread](https://github.com/Winnerhust/uthread)|一个简单的用户级线程库|215|C++|09/29|
+|196|[ChunelFeng/caiss](https://github.com/ChunelFeng/caiss)|跨平台/多语言的 相似向量/相似词/相似句 高性能检索引擎。功能强大，使用方便。欢迎star & fork。Build together! Power another !|213|C++|05/19|
+|197|[EmyWong/PersonalUITech](https://github.com/EmyWong/PersonalUITech)|个人学习的一些技术Demo|212|C++|07/30|
+|198|[lengjibo/NetUser](https://github.com/lengjibo/NetUser)|使用windows api添加用户，可用于net无法使用时.分为nim版，c++版本，RDI版，BOF版。|211|C++|05/28|
+|199|[chengciming/wechatPc](https://github.com/chengciming/wechatPc)|PC微信hook源码，PC微信注入，逆向编程，可以制作微信机器人玩玩，仅供学习，请不要用于商业、违法途径，本人不对此源码造成的违法负责！|210|C++|07/08|
+|200|[FiYHer/EASY-HWID-SPOOFER](https://github.com/FiYHer/EASY-HWID-SPOOFER)|基于内核模式的硬件信息欺骗工具|208|C++|02/09|
 
 ⬆ [回到目录](#目录)
 
@@ -1000,185 +1000,185 @@
 |19|[ldqk/Masuit.Tools](https://github.com/ldqk/Masuit.Tools)|包含一些常用的操作类，大都是静态类，加密解密，反射操作，Excel简单导出，权重随机筛选算法，分布式短id，表达式树，linq扩展，文件压缩，多线程下载和FTP客户端，硬件信息，字符串扩展方法，日期时间扩展操作，中国农历，大文件拷贝，图像裁剪，验证码，断点续传，集合扩展等常用封装。任何性质的外包公司或996公司需要使用本类库，请联系作者进行商业授权，版权所有，违者必究！|2.1k|C#|07/08|
 |20|[cq-panda/Vue.NetCore](https://github.com/cq-panda/Vue.NetCore)|.NetCore+Vue，前后端分离，支持前后端业务代码扩展的快速开发框架，Vol.Vue为前端项目，Vue.Net后台项目|2.0k|C#|07/04|
 |21|[dotnetcore/osharp](https://github.com/dotnetcore/osharp)|OSharp是一个基于.NetCore的快速开发框架，框架对 AspNetCore 的配置、依赖注入、日志、缓存、实体框架、Mvc(WebApi)、身份认证、功能权限、数据权限等模块进行更高一级的自动化封装，并规范了一套业务实现的代码结构与操作流程，使 .Net Core 框架更易于应用到实际项目开发中。|2.0k|C#|06/30|
-|22|[jynew/jynew](https://github.com/jynew/jynew)|金庸群侠传3D重制版|1.8k|C#|07/08|
+|22|[jynew/jynew](https://github.com/jynew/jynew)|金庸群侠传3D重制版|1.8k|C#|07/09|
 |23|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|1.7k|C#|06/30|
 |24|[kenvix/USBCopyer](https://github.com/kenvix/USBCopyer)|😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）|1.7k|C#|03/27|
-|25|[GaoKaiHaHa/MyUnityFrameWork](https://github.com/GaoKaiHaHa/MyUnityFrameWork)|我的Unity框架，包含资源加载，配置加载，数据加载，UI管理，日志管理，动画系统，特效系统|1.2k|C#|10/13|
-|26|[zengzhan/qqzeng-ip](https://github.com/zengzhan/qqzeng-ip)|最新IP地址数据库-多语言解析以及导入数据库脚本|1.2k|C#|08/05|
-|27|[iamoldli/NetModular](https://github.com/iamoldli/NetModular)|NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架|1.2k|C#|05/31|
-|28|[FlySelfLog/downkyi](https://github.com/FlySelfLog/downkyi)|哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持4K，支持解除地区限制下载，提供工具箱（音视频提取、去水印等）。|1.2k|C#|06/12|
-|29|[1y0n/AV_Evasion_Tool](https://github.com/1y0n/AV_Evasion_Tool)|掩日 - 免杀执行器生成工具|1.2k|C#|03/31|
-|30|[lampo1024/DncZeus](https://github.com/lampo1024/DncZeus)|DncZeus 是一个基于ASP.NET Core 3 + Vue.js(iview-admin) 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET Core 3 + Entity Framework Core构建，UI则是目前流行的基于Vue.js的iView(iview-admin)。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。码云镜像:https://gitee.com/rector/DncZeus 。演示地址(demo):|1.1k|C#|05/19|
-|31|[neil3d/excel2json](https://github.com/neil3d/excel2json)|把Excel表转换成json对象，并保存到一个文本文件中。|1.1k|C#|10/08|
-|32|[JavScraper/Emby.Plugins.JavScraper](https://github.com/JavScraper/Emby.Plugins.JavScraper)|Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。|1.1k|C#|06/22|
-|33|[jasonhua95/awesome-dotnet-core](https://github.com/jasonhua95/awesome-dotnet-core)|.NET Core库、工具、框架和软件的中文收录大全。 内容包括：库、工具、框架、模板引擎、身份认证、数据库、ORM框架、图片处理、文本处理、机器学习、日志、代码分析、教程等。|1.1k|C#|02/08|
-|34|[essensoft/paylink](https://github.com/essensoft/paylink)|一套基于 .NET Core 开发的支付SDK集，它极大简化了API调用及通知的处理流程。|1.0k|C#|06/13|
-|35|[zhaopeiym/quartzui](https://github.com/zhaopeiym/quartzui)|基于Quartz.NET3.0的定时任务Web可视化管理。docker打包开箱即用、内置SQLite持久化、语言无关、业务代码零污染、支持 RESTful风格接口、傻瓜式配置|984|C#|05/27|
-|36|[Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP)|BiliBili的UWP客户端，当然，是第三方的了|942|C#|05/01|
-|37|[Meowv/Blog](https://github.com/Meowv/Blog)|🤣本项目有不同开发版本，最新版底层基于 abp vNext 搭建和免费开源跨平台框架 .NET5 进行开发，使用 MongoDB 存储数据，Redis 缓存数据。项目采用前后端分离的模式进行开发，API 遵循 RESTful 接口规范，页面使用 Blazor 进行开发，可作为 .NET Core 入门项目进行学习。If you liked `Blog` project or if it helped you, please give a star ⭐️ for this repository. 👍👍👍|934|C#|05/19|
-|38|[Bililive/BililiveRecorder](https://github.com/Bililive/BililiveRecorder)|B站录播姬   BiliBili Stream Recorder   哔哩哔哩直播录制|908|C#|07/08|
-|39|[Tangent-90/Coolapk-UWP](https://github.com/Tangent-90/Coolapk-UWP)|酷安第三方UWP客户端|902|C#|07/05|
-|40|[phorcys/Taiwu_mods](https://github.com/phorcys/Taiwu_mods)|太吾绘卷游戏Mod|882|C#|11/28|
-|41|[hemaju/Wireboy.Socket.P2PSocket](https://github.com/hemaju/Wireboy.Socket.P2PSocket)|P2P内网穿透，实现【公司】-【家】远程控制|873|C#|07/05|
-|42|[newbe36524/Newbe.Mahua.Framework](https://github.com/newbe36524/Newbe.Mahua.Framework)|本SDK为实现QQ机器人平台的大一统，支持多种机器人平台：酷Q、MyPCQQ、QQLight等|849|C#|08/02|
-|43|[anderscui/jieba.NET](https://github.com/anderscui/jieba.NET)|jieba中文分词的.NET版本（支持.NET Framework与.NET Core）|826|C#|07/06|
-|44|[Varorbc/PaySharp](https://github.com/Varorbc/PaySharp)|PaySharp是一个支持多商户多种支付方式的跨平台网关处理类库，使用PaySharp可以简化订单的创建、查询、退款和接收网关返回的支付通知等操作。|825|C#|12/09|
-|45|[huiyadanli/PasteEx](https://github.com/huiyadanli/PasteEx)|:clipboard: Paste As File 把剪贴板的内容直接粘贴为文件|815|C#|07/04|
-|46|[bing-framework/Bing.NetCore](https://github.com/bing-framework/Bing.NetCore)|Bing是基于 .net core 2.0 的框架，旨在提升团队的开发输出能力，由常用公共操作类（工具类、帮助类）、分层架构基类，第三方组件封装，第三方业务接口封装等组成。|797|C#|07/08|
-|47|[JasonXuDeveloper/JEngine](https://github.com/JasonXuDeveloper/JEngine)|JEngine是针对Unity开发者设计的开箱即用的框架，封装了强大的功能，小白也能快速上手，轻松制作可以热更新的游戏   JEngine is a streamlined and easy-to-use framework designed for Unity Programmers which contains powerful features, beginners can start up quickly and making hot update-able games easily|790|C#|07/08|
-|48|[dotnetcore/Alipay.AopSdk.Core](https://github.com/dotnetcore/Alipay.AopSdk.Core)|支付宝（Alipay）服务端SDK，采用.NET Standard 2.0，支持.NET Core >=2.0，与官方SDK接口完全相同。完全可以按照官方文档进行开发。除了支持支付以外，官方SDK支持的功能本SDK全部支持，比如生活号、服务窗、行业合作等，且用法几乎一样，代码都可参考官方文档代码。|776|C#|09/16|
-|49|[zsh2401/AutumnBox](https://github.com/zsh2401/AutumnBox)|图形化ADB工具箱|762|C#|02/22|
-|50|[EngTW/English-for-Programmers](https://github.com/EngTW/English-for-Programmers)|《程式英文》：用英文提昇程式可讀性|759|C#|05/21|
-|51|[dotnetcore/Natasha](https://github.com/dotnetcore/Natasha)|基于 Roslyn 的 C# 动态程序集构建库，该库允许开发者在运行时使用 C# 代码构建域 / 程序集 / 类 / 结构体 / 枚举 / 接口 / 方法等，使得程序在运行的时候可以增加新的模块及功能。Natasha 集成了域管理/插件管理，可以实现域隔离，域卸载，热拔插等功能。 该库遵循完整的编译流程，提供完整的错误提示， 可自动添加引用，完善的数据结构构建模板让开发者只专注于程序集脚本的编写，兼容 stanadard2.0 / netcoreapp3.0+, 跨平台，统一、简便的链式 API。 且我们会尽快修复您的问题及回复您的 issue.|754|C#|07/07|
-|52|[shack2/SuperSQLInjectionV1](https://github.com/shack2/SuperSQLInjectionV1)|超级SQL注入工具（SSQLInjection）是一款基于HTTP协议自组包的SQL注入工具,采用C#开发，直接操作TCP会话来进行HTTP交互，支持出现在HTTP协议任意位置的SQL注入，支持各种类型的SQL注入，支持HTTPS模式注入；支持以盲注、错误显示、Union注入等方式来获取数据；支持Access/MySQL/SQLServer/Oracle/PostgreSQL/DB2/SQLite/Informix等数据库；支持手动灵活的进行SQL注入绕过，可自定义进行字符替换等绕过注入防护。本工具为渗透测试人员、信息安全工程师等掌握SQL注入技能的人员设计，需要使用人员对SQL注入有一定了解 ...|742|C#|03/10|
-|53|[yhuse/SunnyUI](https://github.com/yhuse/SunnyUI)|SunnyUI.Net, 基于.Net Framework 4.0+、.Net Core3.1、.Net 5 框架的 C# WinForm 开源控件库、工具类库、扩展类库、多页面开发框架。|735|C#|07/08|
-|54|[2881099/im](https://github.com/2881099/im)|.NETCore websocket 实现简易、高性能、集群即时通讯组件，支持点对点通讯、群聊通讯、上线下线事件消息等众多实用性功能.|723|C#|01/04|
-|55|[VictorTzeng/Zxw.Framework.NetCore](https://github.com/VictorTzeng/Zxw.Framework.NetCore)|基于EF Core的Code First模式的DotNetCore快速开发框架，其中包括DBContext、IOC组件autofac和AspectCore.Injector、代码生成器（也支持DB First）、基于AspectCore的memcache和Redis缓存组件，以及基于ICanPay的支付库和一些日常用的方法和扩展，比如批量插入、更新、删除以及触发器支持，当然还有demo。欢迎提交各种建议、意见和pr~|711|C#|06/06|
-|56|[1217950746/Arthas-WPFUI](https://github.com/1217950746/Arthas-WPFUI)|WPF 控件库，支持 .Net Core 3 + & .Net 4.6.2 +|693|C#|03/30|
-|57|[Jimmey-Jiang/ABP-ASP.NET-Boilerplate-Project-CMS](https://github.com/Jimmey-Jiang/ABP-ASP.NET-Boilerplate-Project-CMS)|ABP module-zero +AdminLTE+Bootstrap Table+jQuery+Redis + sql server+quartz+hangfire权限管理系统|684|C#|04/22|
-|58|[wuxiongbin/XIL](https://github.com/wuxiongbin/XIL)|使用ILRuntime实现的类似XLUA功能的Unity3D下热修复BUG的解决方案|660|C#|06/02|
-|59|[QAX-A-Team/BrowserGhost](https://github.com/QAX-A-Team/BrowserGhost)|这是一个抓取浏览器密码的工具，后续会添加更多功能|655|C#|06/29|
-|60|[nilaoda/BBDown](https://github.com/nilaoda/BBDown)|Bilibili Downloader. 一款命令行式哔哩哔哩下载器.|654|C#|07/04|
-|61|[q315523275/FamilyBucket](https://github.com/q315523275/FamilyBucket)|集合.net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin、基础管理平台等构建的微服务一条龙应用|653|C#|02/18|
-|62|[cixingguangming55555/wechat-bot](https://github.com/cixingguangming55555/wechat-bot)|带二次开发接口的PC微信聊天机器人|636|C#|07/04|
-|63|[XiLife-OSPC/Masuit.Tools](https://github.com/XiLife-OSPC/Masuit.Tools)|一个常用的操作类的类库，汇集了加密解密，反射操作，硬件信息，字符串扩展方法，日期时间扩展操作，大文件拷贝，图像裁剪，验证码等功能，喜欢就给Star吧。|633|C#|07/03|
-|64|[RayTale/Ray](https://github.com/RayTale/Ray)|项目停止更新，新项目：https://github.com/RayTale/Vertex|629|C#|11/08|
-|65|[cyq1162/cyqdata](https://github.com/cyq1162/cyqdata)|cyq.data is a  high-performance and the most powerful orm.（.NET 最好用的ORM数据层框架，木有之一！支持.NET Core）Support：Txt、Xml、Access、Sqlite、Mssql、Mysql、Oracle、Sybase、Postgres、DB2、Redis、MemCache。|625|C#|07/01|
-|66|[ntminer/NtMiner](https://github.com/ntminer/NtMiner)|GPU miner. github不太慢，https://ntminer.coding.net/public/NtMiner/NtMiner/git/files|622|C#|05/30|
-|67|[chengderen/Smartflow-Sharp](https://github.com/chengderen/Smartflow-Sharp)|基于C#语言研发的Smartflow-Sharp工作流组件，该工作流组件的特点是简单易用、方便扩展、支持多种数据库访问、高度可定制化，支持用户按需求做功能的定制开发，节省用户的使用成本|609|C#|06/19|
-|68|[czz1233/CMWTAT_Digital_Edition](https://github.com/czz1233/CMWTAT_Digital_Edition)|win10激活工具，火绒不报错，开源工具。永久数字证书。😂原理好像是，先kms激活win10，👍再用用Win7兼容性模式运行官方的gatherosstate.exe数字权利激活工具。|595|C#|06/22|
-|69|[kklldog/AgileConfig](https://github.com/kklldog/AgileConfig)|基于.NET Core开发的轻量级分布式配置中心 / .NET  Core lightweight configuration server|591|C#|07/08|
-|70|[iccb1013/Sheng.WeixinConstruction](https://github.com/iccb1013/Sheng.WeixinConstruction)|升讯威微信营销系统（第三方微信平台）完整源代码。包括了面向线下商家的诸多营销功能。【吸粉】 投票、定期抽奖、聚人气抽奖、摇一摇抽奖、粉丝海报、1元夺宝、发红包、在线捐款 等  【持续变现】 微官网、微会员、积分商城、卡券、微信支付、分类信息、电影排片 等  【管理考核】 电脑手机双后台、营销二维码、后台用户管理、操作日志 等。|590|C#|03/15|
-|71|[tmoonlight/NSmartProxy](https://github.com/tmoonlight/NSmartProxy)|NSmartProxy是一款开源免费的内网穿透工具。采用.NET CORE的全异步模式打造。(NSmartProxy is an open source reverse proxy tool that creates a secure tunnel from a public endpoint to a locally service.)|586|C#|06/18|
-|72|[NewLifeX/NewLife.Redis](https://github.com/NewLifeX/NewLife.Redis)|高性能Redis客户端，支持.NETCore/.NET4.0/.NET4.5，为大数据与消息队列而特别优化，线上单应用日均100亿调用量|582|C#|07/08|
-|73|[fuluteam/fulusso](https://github.com/fuluteam/fulusso)|基于react+asp.net core开发的单点登录系统|557|C#|01/08|
-|74|[kengwang/BiliDuang](https://github.com/kengwang/BiliDuang)|Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV 支持4K 支持地区限制下载 支持互动视频 支持无水印 支持弹幕/字幕下载转换 支持课程下载|556|C#|06/13|
-|75|[the1812/Malware-Patch](https://github.com/the1812/Malware-Patch)|阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.|550|C#|05/28|
-|76|[mili-tan/AuroraDNS.GUI](https://github.com/mili-tan/AuroraDNS.GUI)|纯净抗污染，简单轻量级|548|C#|06/13|
-|77|[CHKZL/DDTV2](https://github.com/CHKZL/DDTV2)|DDTV2：可进行B站直播开播提醒.自动录制.在线播放。直播状态查看。DDTVLiveRec：多平台(bilibili live)自动录制工具。|547|C#|06/14|
-|78|[anjoy8/ChristDDD](https://github.com/anjoy8/ChristDDD)|🙌 ASP.NET Core 3.1 应用, 包含 DDD、CQRS、EDA 和ES事件回溯|545|C#|01/22|
-|79|[copyliu/bililive_dm](https://github.com/copyliu/bililive_dm)|B站直播彈幕工具|536|C#|05/31|
-|80|[coding2233/TextInlineSprite](https://github.com/coding2233/TextInlineSprite)|UGUI图文混排 unity version: 2017.2+|535|C#|06/27|
-|81|[xixixixixiao/mooc-downloader](https://github.com/xixixixixiao/mooc-downloader)|An icourse163.org MOOC downloader implemented by .NET. 一枚由 .NET 实现的中国大学 MOOC 下载器.|517|C#|04/16|
-|82|[gabrielxvx/zh-fiddler](https://github.com/gabrielxvx/zh-fiddler)|Fiddler Web Debugger 中文版|507|C#|10/29|
-|83|[jarjin/LuaFramework_UGUI_V2](https://github.com/jarjin/LuaFramework_UGUI_V2)|基于tolua的热更新框架V2|507|C#|09/10|
-|84|[qq576067421/cshotfix](https://github.com/qq576067421/cshotfix)|C# HotFix C#热更新 unity3d 热更新|503|C#|06/22|
-|85|[duyanming/Viper](https://github.com/duyanming/Viper)|Viper 是一个基于Anno微服务引擎开发的Dashboard项目、示例项目。Anno 底层通讯采用 grpc、thrift。自带服务发现、调用链追踪、Cron 调度、限流、事件总线等等|498|C#|07/08|
-|86|[JiepengTan/Lockstep-Tutorial](https://github.com/JiepengTan/Lockstep-Tutorial)|帧同步 教程|486|C#|03/23|
-|87|[YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)|🦸【C#/.NET/.NET Core学习、工作、面试指南】概述：C#/.NET/.NET Core基础知识，学习资料、文章、书籍，社区组织，工具和常见的面试题总结。以及面试时需要注意的事项和优秀简历编写技巧，希望能和大家一起成长进步👊。【让现在的自己不再迷茫✨】|483|C#|06/06|
-|88|[migomiddle/xms](https://github.com/migomiddle/xms)|基于.netcore的跨平台应用框架，包含众多常用模块，易上手、易扩展，xms可理解为x(可扩展的/任意的)m(管理)s(系统)|482|C#|02/19|
-|89|[jm33-m0/kms-activate](https://github.com/jm33-m0/kms-activate)|Microsoft Windows/Office 一键激活工具|473|C#|06/28|
-|90|[HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester)|测试当前网络的 NAT 类型（STUN）|460|C#|06/29|
-|91|[yomunsam/TinaX](https://github.com/yomunsam/TinaX)|TinaX Framework : Unity based Game Client Framework   基于 Unity 的游戏客户端开发框架|458|C#|07/01|
-|92|[iccfish/FSLib.App.SimpleUpdater](https://github.com/iccfish/FSLib.App.SimpleUpdater)|A simple automatic update library for .net. 一个炒鸡简单但是足够好用的自动更新库。|456|C#|01/28|
-|93|[luoyunchong/lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore)|😃A simple and practical CMS implemented by .NET 5 + FreeSql；前后端分离、Docker部署、OAtuh2授权登录、自动化部署DevOps、自动同步至Gitee、代码生成器、仿掘金专栏|449|C#|06/08|
-|94|[2881099/FightLandlord](https://github.com/2881099/FightLandlord)|.NETCore斗地主服务器 + HTML5前端|446|C#|11/15|
-|95|[zs9024/quick_psd2ugui](https://github.com/zs9024/quick_psd2ugui)|parse psd file and auto generate ui prefab（解析psd文件，一键生成ugui面板）|443|C#|05/21|
-|96|[CHKZL/DDTV](https://github.com/CHKZL/DDTV)|本项目已经停止维护，重构优化后项目发布为【DDTV2】|438|C#|11/28|
-|97|[dathlin/OpcUaHelper](https://github.com/dathlin/OpcUaHelper)|一个通用的opc ua客户端类库，基于.net 4.6.1创建，基于官方opc ua基金会跨平台库创建，封装了节点读写，批量节点读写，引用读取，特性读取，历史数据读取，方法调用，节点订阅，批量订阅等操作。还提供了一个节点浏览器工具。|430|C#|04/22|
-|98|[yuzd/AntData.ORM](https://github.com/yuzd/AntData.ORM)|特色：vs插件或者t4一键生成entity 支持配置非物理外键。分离linq转sql引擎(原生linq非扩展)和执行dal功能,支持异步,支持netcore2.0|429|C#|03/14|
-|99|[trueai-org/module-shop](https://github.com/trueai-org/module-shop)|一个基于 .NET Core构建的简单、跨平台、模块化的商城系统|426|C#|05/25|
-|100|[zhontai/Admin.Core](https://github.com/zhontai/Admin.Core)|Admin后端，前后端分离的权限管理系统，集成统一认证授权、多租户、缓存、Ip限流、全Api鉴权。支持国内外主流数据库自由切换和动态高级查询，基于.Net跨平台开发的WebApi|423|C#|07/07|
-|101|[YukiCoco/YukiDrive](https://github.com/YukiCoco/YukiDrive)|Onedrive & SharePoint 文件浏览网页程序|423|C#|01/06|
-|102|[real-zony/ZonyLrcToolsX](https://github.com/real-zony/ZonyLrcToolsX)|ZonyLrcToolsX 是一个能够方便地下载歌词的小软件。|422|C#|06/28|
-|103|[lysilver/KopSoftWms](https://github.com/lysilver/KopSoftWms)|KopSoft仓库管理系统|418|C#|06/20|
-|104|[feiyit/FytSoaCms](https://github.com/feiyit/FytSoaCms)|NetCore2.2开发， Vs2017 数据Mysql|416|C#|02/19|
-|105|[BeichenDream/BadPotato](https://github.com/BeichenDream/BadPotato)|Windows 权限提升 BadPotato|414|C#|05/10|
-|106|[foxofice/sub_share](https://github.com/foxofice/sub_share)|字幕共享计划|412|C#|07/08|
-|107|[QAX-A-Team/sharpwmi](https://github.com/QAX-A-Team/sharpwmi)|sharpwmi是一个基于rpc的横向移动工具，具有上传文件和执行命令功能。|406|C#|01/11|
-|108|[dathlin/HslControlsDemo](https://github.com/dathlin/HslControlsDemo)|HslControls控件库的使用demo，HslControls是一个工业物联网的控件库，基于C#开发，配套HslCommunication组件可以实现工业上位机软件的快速开发，支持常用的工业图形化控件，快速的集成界面开发。 主要包含了按钮，开关，进度条，信号灯，数码管，时钟，曲线显示控件，仪表盘控件，管道控件，瓶子控件，饼图控件，传送带控件，温度计控件，鼓风机控件，阀门控件，电池控件等等。|406|C#|05/24|
-|109|[yuzhengyang/Fork](https://github.com/yuzhengyang/Fork)|a c# utility library. C#工具包，C#工具类，常用方法，系统API，文件处理、加密解密、Winform美化（C# Tools）|405|C#|01/14|
-|110|[NewLifeX/NewLife.Cube](https://github.com/NewLifeX/NewLife.Cube)|魔方是一个快速Web开发平台，能够快速搭建系统原型，而又具有足够灵活的可扩展性！内部集成了用户权限管理、模板继承、SSO登录、OAuth服务端、数据导出与分享等多个功能模块，默认模板在真实项目中经历过单表100亿数据添删改查的考验。|403|C#|07/01|
-|111|[AlphaYu/Adnc](https://github.com/AlphaYu/Adnc)|微服务框架，同时也适用于单体架构系统的开发。支持经典三层与DDD架构开发模式、集成了一系列主流稳定的微服务配套技术栈。一个前后端分离的框架，前端基于Vue、后端基于.Net 5.0构建。|399|C#|07/02|
-|112|[yuzd/Hangfire.HttpJob](https://github.com/yuzd/Hangfire.HttpJob)|httpjob for Hangfire,restful api for Hangfire,job调度与业务分离|398|C#|07/01|
-|113|[91270/Meiam.System](https://github.com/91270/Meiam.System)|.NET 5 / .NET Core 3.1 WebAPI + Vue 2.0 + RBAC 企业级前后端分离权限框架|393|C#|07/05|
-|114|[zyzsdy/biliroku](https://github.com/zyzsdy/biliroku)|bilibili 生放送（直播）录制|392|C#|04/07|
-|115|[night-king/weixinSDK](https://github.com/night-king/weixinSDK)|微信SDK，一个轻量级的，极致简约的微信公众平台（服务号、订阅号）SDK.net版本，也支持dotnet core，作者QQ:2586662969，官方网站:|391|C#|02/01|
-|116|[XINCGer/UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick)|提供一些UnityEditor工具链开发的常用小技巧与示例(Provides some common tips and examples for developing the UnityEditor toolchain)|390|C#|07/04|
-|117|[m969/EGamePlay](https://github.com/m969/EGamePlay)|一个基于Entity-Component模式的灵活、通用、可扩展的轻量战斗（技能）框架，配置可选使用ScriptableObject或是Excel表格. A flexible, generic, easy to extend, lightweight combat (skills) framework based on Entity-Component pattern. Configuration can choose to use ScriptableObject or Excel tables.|389|C#|05/14|
-|118|[jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader)|一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐|388|C#|08/25|
-|119|[tylearymf/SETUNA2](https://github.com/tylearymf/SETUNA2)|A best screenshot small tool (support high dpi screenshots) 一款好用的截图小工具（支持高分屏截图）|387|C#|01/30|
-|120|[FastTunnel/FastTunnel](https://github.com/FastTunnel/FastTunnel)|开源免费跨平台的内网穿透工具 远程内网计算机 域名访问内网站点 反向代理内网服务 花生壳 端口转发 http代理 微信 小程序 like ngrok and frp. NAT ssh proxy tunnel reverse-proxy |386|C#|07/05|
-|121|[jerrytang67/SoMall](https://github.com/jerrytang67/SoMall)|社交电商商城开源项目.socail+mall即取名SoMall ,abp netcore 3.1 angular vue uni-app typescript docker mssql|386|C#|06/07|
-|122|[XINCGer/ColaFrameWork](https://github.com/XINCGer/ColaFrameWork)|ColaFrameWork 一个Unity客户端框架|379|C#|06/17|
-|123|[ctripcorp/apollo.net](https://github.com/ctripcorp/apollo.net)|Apollo配置中心.Net客户端|377|C#|05/17|
-|124|[Jie2GG/Native.Framework](https://github.com/Jie2GG/Native.Framework)|完全由 C# 语言编写的 QQ机器人插件 SDK|366|C#|07/09|
-|125|[pigLoveRabbit520/SalamanderWnmp](https://github.com/pigLoveRabbit520/SalamanderWnmp)|A beautiful Nginx PHP Mysql environment for windows（ windows下用WPF制作的nginx，php，mysql集成环境（免安装））|361|C#|08/14|
-|126|[dreamanlan/Cs2Lua](https://github.com/dreamanlan/Cs2Lua)|CSharp代码转lua，适用于使用lua实现热更新而又想有一个强类型检查的语言的场合|358|C#|07/08|
-|127|[GB28181/GB28181.Solution](https://github.com/GB28181/GB28181.Solution)|Linux/Win/Docker/kubernetes/Chart/Kustomize/GB28181/SIP/RTP/SDP/WebRTC/作为上下级域/平台级联互联|357|C#|04/24|
-|128|[anjoy8/Blog.IdentityServer](https://github.com/anjoy8/Blog.IdentityServer)|🥗 打造一个功能强大的通用型Ids4用户认证授权服务中心，配合之前的所有开源项目|353|C#|04/30|
-|129|[BladeMight/Mahou](https://github.com/BladeMight/Mahou)|Mahou(魔法) - The magic layout switcher.|352|C#|06/22|
-|130|[plummm/AntiRecall](https://github.com/plummm/AntiRecall)|Anti-Recall/Anti-Delete for Telegram, WeChat, and QQ（针对Telegram, QQ和微信的防撤回）|340|C#|03/13|
-|131|[noodle1983/UnityAndroidIl2cppPatchDemo](https://github.com/noodle1983/UnityAndroidIl2cppPatchDemo)|这是Unity Android APP il2cpp热更完美解决方案的Demo。更新build_demo_apk里的Unity路径，执行即可一键重build Patch和apk。因为文件libunity是没有热更的，如unity版本有变化则热更不适用。|339|C#|11/22|
-|132|[gemgin/WeChatTools](https://github.com/gemgin/WeChatTools)|微信域名检测接口:实时检测域名能否在微信中直接访问的技术;QQ管家域名检测接口;抖音域名检测;域名icp备案信息查询接口|336|C#|04/19|
-|133|[zhuxb711/RX-Explorer](https://github.com/zhuxb711/RX-Explorer)|一款优雅的UWP文件管理器   An elegant UWP Explorer|333|C#|07/08|
-|134|[hayasec/360SafeBrowsergetpass](https://github.com/hayasec/360SafeBrowsergetpass)|这是一个一键辅助抓取360安全浏览器密码的CobaltStrike脚本以及解密小工具，用于节省红队工作量，通过下载浏览器数据库、记录密钥来离线解密浏览器密码。|332|C#|04/04|
-|135|[sheng-jie/Design-Pattern](https://github.com/sheng-jie/Design-Pattern)|设计模式 C# 版（有系列文章讲解）|331|C#|02/24|
-|136|[yswenli/SAEA](https://github.com/yswenli/SAEA)|SAEA.Socket is a high-performance IOCP framework TCP based on dotnet standard 2.0; Src contains its application test scenarios, such as websocket,rpc, redis driver, MVC WebAPI, lightweight message server, ultra large file transmission, etc. SAEA.Socket是一个高性能IOCP框架的 TCP，基于dotnet standard 2.0；Src中含有其应 ...|330|C#|07/06|
-|137|[Baidu-AIP/dotnet-sdk](https://github.com/Baidu-AIP/dotnet-sdk)|百度AI开放平台 .Net SDK|328|C#|06/10|
-|138|[asxinyu/Stock](https://github.com/asxinyu/Stock)|中国2000年以来到2018年2月份的历史数据，包括股票基础信息和每支股票每天的基本交易信息|326|C#|02/04|
-|139|[giant-app/LiveWallpaper](https://github.com/giant-app/LiveWallpaper)|A tiny win10 (dynamic) wallpaper changer   巨应壁纸   动态壁纸|320|C#|06/22|
-|140|[NewLifeX/AntJob](https://github.com/NewLifeX/AntJob)|分布式任务调度系统，纯NET打造的重量级大数据实时计算平台，万亿级调度经验积累！面向中小企业大数据分析场景。|320|C#|05/07|
-|141|[KevinWG/OSS.Clients.Pay](https://github.com/KevinWG/OSS.Clients.Pay)|开源支付SDK(标准库)，主要打造微信支付，支付宝支付，标准库项目，同时支持.net framework和.net core|320|C#|05/10|
-|142|[KumoKyaku/KCP](https://github.com/KumoKyaku/KCP)|KCP C#版。线程安全，运行时无alloc，对gc无压力。|319|C#|05/10|
-|143|[SkyChenSky/Sikiro](https://github.com/SkyChenSky/Sikiro)|整合了社区主流开源框架（CAP、SkyAPM、WebAPIClient、Chloe等）的微服务项目示例|316|C#|04/09|
-|144|[yukuyoulei/ILRuntime_HotGames](https://github.com/yukuyoulei/ILRuntime_HotGames)|基于ILRuntime的热更新能力实现的可以直接使用的框架，友情赠送C# WebService + WebSocketServer服务器端。|314|C#|05/13|
-|145|[Senparc/Senparc.CO2NET](https://github.com/Senparc/Senparc.CO2NET)|支持 .NET Framework & .NET Core 的公共基础扩展库|302|C#|07/06|
-|146|[CatImmortal/Trinity](https://github.com/CatImmortal/Trinity)|基于Unity的纯C#（客户端+服务端+热更新）游戏开发整合方案|301|C#|06/04|
-|147|[xtqqksszml/zcode-AssetBundlePacker](https://github.com/xtqqksszml/zcode-AssetBundlePacker)|Unity的AssetBundle模块扩展插件，主要目的用于简化AssetBundle打包，提供AssetBundle管理，支持热更新、支持资源包下载、支持版本控制。|300|C#|09/08|
-|148|[GeorGeWzw/Sukt.Core](https://github.com/GeorGeWzw/Sukt.Core)|Sukt.Core 本项目是基于.Net Core开发的一个开源后台管理框架目前有以下模块      组织机构、菜单管理、按钮管理、用户管理、部门管理、角色管理、用户角色、角色权限、任务计划调度。|299|C#|07/01|
-|149|[SmallChi/JT808](https://github.com/SmallChi/JT808)|JT808协议、GB808协议、道路运输车辆卫星定位系统-北斗兼容车载终端通讯协议(支持2013、2019版本)|295|C#|07/01|
-|150|[cyq1162/Taurus.MVC](https://github.com/cyq1162/Taurus.MVC)|Taurus.mvc is a high-performance mvc and webapi framework for asp.net or asp.net core（适合场景：对性能和并发有较高要求的电商、站点、WebAPI等系统，支持.Net Core）|295|C#|06/30|
-|151|[jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics)|Windows 网易云音乐歌词获取|294|C#|03/07|
-|152|[uknowsec/SharpSQLTools](https://github.com/uknowsec/SharpSQLTools)|SharpSQLTools 和@Rcoil一起写的小工具，可上传下载文件，xp_cmdshell与sp_oacreate执行命令回显和clr加载程序集执行相应操作。|294|C#|06/22|
-|153|[ixre/cms](https://github.com/ixre/cms)|DDD 开源.NET CMS、跨平台,  兼容.NET Core和ASP.NET,支持Docker容器|290|C#|04/22|
-|154|[axzxs2001/Asp.NetCoreExperiment](https://github.com/axzxs2001/Asp.NetCoreExperiment)|原来所有项目都移动到**OleVersion**目录下进行保留。新的案例装以.net 5.0为主，一部分对以前案例进行升级，一部分将以前的工作经验总结出来，以供大家参考！|285|C#|07/08|
-|155|[HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer)|第三方网易云音乐播放器   A Netease Cloud Music Player|282|C#|07/05|
-|156|[liaozb/APIJSON.NET](https://github.com/liaozb/APIJSON.NET)|后端接口自动化 .NET CORE版本|282|C#|11/10|
-|157|[itdos/Dos.ORM](https://github.com/itdos/Dos.ORM)|Dos.ORM于2009年发布、2015年正式开源，该组件已在数百个成熟项目中应用。初期开发过程中吸取了NBear与MySoft的一些精华并加入新思想，之后参考EF Lambda语法进行大量扩展。经过数十个版本的更新迭代发布全新v2.0版本，支持动态列/表、分库/分表等。官方网站：https://www.itdos.com/dos/orm/Index.html 交流群：60831381|278|C#|12/07|
-|158|[Hzllaga/ShellcodeLoader](https://github.com/Hzllaga/ShellcodeLoader)|将shellcode用rsa加密并动态编译exe，自带几种反沙箱技术。|277|C#|07/09|
-|159|[qinyuanpei/HttpServer](https://github.com/qinyuanpei/HttpServer)|一个使用C#编写的简易Web服务器|277|C#|12/29|
-|160|[iccb1013/Sheng.Winform.Controls](https://github.com/iccb1013/Sheng.Winform.Controls)|升讯威 .Net WinForm 控件库提供了超过15种 Winform 控件，你可以直接使用本控件库，更可以通过本控件库学到 Winform 控件开发的方法和理念。|273|C#|03/15|
-|161|[Planshit/ProjectEye](https://github.com/Planshit/ProjectEye)|😎 一个基于20-20-20规则的用眼休息提醒Windows软件|268|C#|01/22|
-|162|[china-live/QQConnect](https://github.com/china-live/QQConnect)|asp.net core2.0 QQ和微信登录|265|C#|09/05|
-|163|[duyanming/Anno.Core](https://github.com/duyanming/Anno.Core)|Anno 是一个微服务快速开发框架，底层通讯可以随意切换 grpc、thrift。自带服务发现、调用链追踪、Cron 调度、限流、事件总线、CQRS 、DDD、类似MVC的开发体验，插件化开发。.  Anno is a microservices rapid development framework, the underlying communication can be arbitrary switch GRPC, thrift.Built-in service discovery, call chain tracking, Cron scheduling, current limitin ...|261|C#|07/07|
-|164|[pungin/Beanfun](https://github.com/pungin/Beanfun)|繽放 - 樂豆第三方客戶端|257|C#|06/24|
-|165|[MikeJinhua/UnitySocketProtobuf3Demo](https://github.com/MikeJinhua/UnitySocketProtobuf3Demo)|主要实现了用Unity对接了Leaf服务器。其次带了些小工具。|253|C#|03/05|
-|166|[yinghualuowu/GenshinDailyHelper](https://github.com/yinghualuowu/GenshinDailyHelper)|miHoYo APP Genshin Impact daily bonus by Github Action 利用.Net5 和 Github Action 自动执行 米游社原神每日签到福利|238|C#|06/04|
-|167|[EZhex1991/EZUnity](https://github.com/EZhex1991/EZUnity)|Unity3D工具集+API二次封装+编辑器扩展|238|C#|04/19|
-|168|[Hzllaga/JsLoader](https://github.com/Hzllaga/JsLoader)|js免杀shellcode，绕过杀毒添加自启|237|C#|03/17|
-|169|[anjoy8/Student.Achieve.Manager](https://github.com/anjoy8/Student.Achieve.Manager)|🎨学生教学教务管理系统：NetCore 3.1 + Vue + EleUI，（star100+，优化多表联查+录制视频+）|236|C#|01/30|
-|170|[liningit/Dapper.LnskyDB](https://github.com/liningit/Dapper.LnskyDB)|基于Dapper的LINQ扩展，支持Lambda表达式，支持按时间分库分表，也可以自定义分库分表方法，且实体类有T4模版自动生成.省去手写实体类的麻烦。已在实际项目使用|236|C#|05/06|
-|171|[WeihanLi/DbTool](https://github.com/WeihanLi/DbTool)|数据库工具，根据表结构文档生成创建表sql，根据数据库表信息导出Model和表结构文档，根据文档生成数据库表，根据已有Model文件生成创建数据库表sql|236|C#|06/13|
-|172|[xiaoyaocz/biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite)|哔哩哔哩UWP Lite|234|C#|06/15|
-|173|[overtly/core-grpc](https://github.com/overtly/core-grpc)|C# Grpc、Consul结合驱动封装，Overt.Core.Grpc基于Consul/Grpc实现服务注册服务发现，支持dotnetcore / framework，可快速实现基于Grpc的微服务；另外Overt.Core.Grpc.H2基于Consul/Grpc.Net实现服务注册服务发现，支持Net5.0， 内部有完整案例，包含服务端Server 客户端 Client，core+grpc, netcore+grpc, dotnetcore+grpc|232|C#|07/01|
-|174|[StarEliteCore/Destiny.Core.Flow](https://github.com/StarEliteCore/Destiny.Core.Flow)|Destiny.Core.Flow是基于.Net Core，VUE前后分离，开发的一个开源Admin管理框架目前有以下模块：菜单管理、用户管理、角色管理、用户角色、角色权限等功能。|232|C#|07/05|
-|175|[EdisonChou/DesignPattern.Samples.CSharp](https://github.com/EdisonChou/DesignPattern.Samples.CSharp)|23种面向对象设计模式示例代码（C#实现）|228|C#|06/16|
-|176|[chatop2020/AKStream](https://github.com/chatop2020/AKStream)|AKStream是一套全功能的流媒体管理控制接口平台。集成GB28181,RTSP,RTMP,HTTP等设备推拉流控制、PTZ控制、音视频文件录制管理、音视频文件裁剪合并等功能与一体|226|C#|07/08|
-|177|[atonasting/marysue-encoder](https://github.com/atonasting/marysue-encoder)|把任意文字和玛丽苏体的姓名进行加密转换|226|C#|09/13|
-|178|[PxGame/XMLib.AM](https://github.com/PxGame/XMLib.AM)|XMLib 动作游戏开发套件|224|C#|06/28|
-|179|[xin-lai/Magicodes.Pay](https://github.com/xin-lai/Magicodes.Pay)|Magicodes.Pay，是心莱科技团队提供的统一支付库，相关库均使用.NET标准库编写，支持.NET Framework以及.NET Core。目前已提供Abp模块的封装，支持开箱即用。|224|C#|09/09|
-|180|[View12138/ViewFaceCore](https://github.com/View12138/ViewFaceCore)|C# 超简单的人脸识别库。|224|C#|04/29|
-|181|[jinglikeblue/Zero](https://github.com/jinglikeblue/Zero)|Zero是Unity中的游戏开发框架，为游戏开发核心问题提供轻量高效的解决方案|223|C#|03/25|
-|182|[XIU2/TileTool](https://github.com/XIU2/TileTool)|🎨 Windows10 磁贴美化小工具|223|C#|12/18|
-|183|[Justin-sky/Nice-Lua](https://github.com/Justin-sky/Nice-Lua)|基于xlua的MVVM框架，支持Addressables, 统一渲染管线等Unity新特性|222|C#|10/28|
-|184|[ouyangzhaoxing/literec](https://github.com/ouyangzhaoxing/literec)|轻量、绿色便携的屏幕录制工具。(Lightweight portable screen recording tool.)|222|C#|11/19|
-|185|[hansquirrel/JyGameSilverlight](https://github.com/hansquirrel/JyGameSilverlight)|金庸群侠传X Silverlight版|222|C#|06/04|
-|186|[HuJinguang/CxFlatUI](https://github.com/HuJinguang/CxFlatUI)|winform控件|218|C#|12/07|
-|187|[NewLifeX/NewLife.Net](https://github.com/NewLifeX/NewLife.Net)|单机吞吐2266万tps的网络通信框架|216|C#|01/09|
-|188|[BeichenDream/MysqlT](https://github.com/BeichenDream/MysqlT)|伪造Myslq服务端,并利用Mysql逻辑漏洞来获取客户端的任意文件反击攻击者|213|C#|03/19|
-|189|[dreamanlan/CSharpGameFramework](https://github.com/dreamanlan/CSharpGameFramework)|基于unity3d引擎与c#语言的游戏框架/架构（包括客户端与服务器）。使用ServerPlatform作为服务端通信基础设施。|213|C#|05/10|
-|190|[akof1314/UnityParticleSystemPreview](https://github.com/akof1314/UnityParticleSystemPreview)|Unity ParticleSystem Preview 粒子预览插件|212|C#|03/26|
-|191|[NewLifeX/XCoder](https://github.com/NewLifeX/XCoder)|新生命码神工具，代码生成、网络工具、API工具、串口工具、正则工具、图标工具、加解密工具、地图接口。|209|C#|05/09|
-|192|[haifengat/pyctp](https://github.com/haifengat/pyctp)|上期技术期货交易api之python封装，实现接口调用。支持windows linux.|208|C#|01/19|
-|193|[360-Linton-Lab/Telemetry](https://github.com/360-Linton-Lab/Telemetry)|WINDOWS TELEMETRY权限维持|205|C#|07/02|
-|194|[aprilyush/EasyCMS](https://github.com/aprilyush/EasyCMS)|EasyCms基于Asp.net Core 的后台快速开发框架,内容管理系统|203|C#|06/24|
-|195|[YanZhiwei/MasterChief](https://github.com/YanZhiwei/MasterChief)|C# 开发辅助类库，和士官长一样身经百战且越战越勇的战争机器，能力无人能出其右。|201|C#|02/18|
-|196|[Tycx2ry/SweetPotato_CS](https://github.com/Tycx2ry/SweetPotato_CS)|修改的SweetPotato，使之可以用于CobaltStrike v4.0|198|C#|04/30|
-|197|[yswenli/WebRedisManager](https://github.com/yswenli/WebRedisManager)|WebRedis Manager is a simple management to implement Redis using SAEA. RedisSocket, SAEA.MVC and running speed quickly.WebRedisManager是使用的SAEA.RedisSocket、SAEA.MVC等实现Redis的简便管理功能，轻松运行~ |196|C#|04/23|
-|198|[flier268/ConvertZZ](https://github.com/flier268/ConvertZZ)|繼承自convertz，但更好用的簡繁轉換工具|195|C#|07/26|
-|199|[xyfll7/CV-translation](https://github.com/xyfll7/CV-translation)|我叫CV翻译，因为我的精髓就是Ctrl + c 不用v  （原名QTranser）|194|C#|05/09|
-|200|[qingfeng346/Scorpio-CSharp](https://github.com/qingfeng346/Scorpio-CSharp)|Unity游戏热更新脚本|191|C#|07/07|
+|25|[geffzhang/NanoFabric](https://github.com/geffzhang/NanoFabric)|基于Consul + .NET Core + Polly + Ocelot + Exceptionless + IdentityServer等开源项目的微服务开发框架|1.4k|C#|03/13|
+|26|[liukuo362573/YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin)|基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观。演示版 http://106.14.124.170/admin|1.4k|C#|05/20|
+|27|[NewLifeX/X](https://github.com/NewLifeX/X)|新生命X组件，数据中间件XCode、日志、网络、RPC、序列化、缓存、Windows服务|1.4k|C#|07/08|
+|28|[yimengfan/BDFramework.Core](https://github.com/yimengfan/BDFramework.Core)|Simple and powerful Unity3d game workflow!  简单、高效的商业级unity3d 工作流。（已被多个大厂借鉴使用）|1.4k|C#|07/05|
+|29|[shack2/SNETCracker](https://github.com/shack2/SNETCracker)|超级弱口令检查工具是一款Windows平台的弱口令审计工具，支持批量多线程检查，可快速发现弱密码、弱口令账号，密码支持和用户名结合进行检查，大大提高成功率，支持自定义服务端口和字典。|1.4k|C#|07/29|
+|30|[monitor1394/unity-ugui-XCharts](https://github.com/monitor1394/unity-ugui-XCharts)|A charting and data visualization library for Unity.   一款基于UGUI的数据可视化图表插件。|1.3k|C#|07/09|
+|31|[QianMo/X-PostProcessing-Library](https://github.com/QianMo/X-PostProcessing-Library)|Unity Post Processing Stack Library   Unity引擎的高品质后处理库|1.3k|C#|07/26|
+|32|[GaoKaiHaHa/MyUnityFrameWork](https://github.com/GaoKaiHaHa/MyUnityFrameWork)|我的Unity框架，包含资源加载，配置加载，数据加载，UI管理，日志管理，动画系统，特效系统|1.2k|C#|10/13|
+|33|[zengzhan/qqzeng-ip](https://github.com/zengzhan/qqzeng-ip)|最新IP地址数据库-多语言解析以及导入数据库脚本|1.2k|C#|08/05|
+|34|[iamoldli/NetModular](https://github.com/iamoldli/NetModular)|NetModular 是基于.Net Core 和 Vue.js 的业务模块化以及前后端分离的快速开发框架|1.2k|C#|05/31|
+|35|[FlySelfLog/downkyi](https://github.com/FlySelfLog/downkyi)|哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持4K，支持解除地区限制下载，提供工具箱（音视频提取、去水印等）。|1.2k|C#|06/12|
+|36|[1y0n/AV_Evasion_Tool](https://github.com/1y0n/AV_Evasion_Tool)|掩日 - 免杀执行器生成工具|1.2k|C#|03/31|
+|37|[lampo1024/DncZeus](https://github.com/lampo1024/DncZeus)|DncZeus 是一个基于ASP.NET Core 3 + Vue.js(iview-admin) 的前后端分离的通用后台权限(页面访问、操作按钮控制)管理系统框架。后端使用.NET Core 3 + Entity Framework Core构建，UI则是目前流行的基于Vue.js的iView(iview-admin)。项目实现了前后端的动态权限管理和控制以及基于JWT的用户令牌认证机制，让前后端的交互更流畅。码云镜像:https://gitee.com/rector/DncZeus 。演示地址(demo):|1.1k|C#|05/19|
+|38|[JavScraper/Emby.Plugins.JavScraper](https://github.com/JavScraper/Emby.Plugins.JavScraper)|Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。|1.1k|C#|06/22|
+|39|[neil3d/excel2json](https://github.com/neil3d/excel2json)|把Excel表转换成json对象，并保存到一个文本文件中。|1.1k|C#|10/08|
+|40|[jasonhua95/awesome-dotnet-core](https://github.com/jasonhua95/awesome-dotnet-core)|.NET Core库、工具、框架和软件的中文收录大全。 内容包括：库、工具、框架、模板引擎、身份认证、数据库、ORM框架、图片处理、文本处理、机器学习、日志、代码分析、教程等。|1.1k|C#|02/08|
+|41|[essensoft/paylink](https://github.com/essensoft/paylink)|一套基于 .NET Core 开发的支付SDK集，它极大简化了API调用及通知的处理流程。|1.0k|C#|06/13|
+|42|[zhaopeiym/quartzui](https://github.com/zhaopeiym/quartzui)|基于Quartz.NET3.0的定时任务Web可视化管理。docker打包开箱即用、内置SQLite持久化、语言无关、业务代码零污染、支持 RESTful风格接口、傻瓜式配置|984|C#|05/27|
+|43|[Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP)|BiliBili的UWP客户端，当然，是第三方的了|942|C#|05/01|
+|44|[Meowv/Blog](https://github.com/Meowv/Blog)|🤣本项目有不同开发版本，最新版底层基于 abp vNext 搭建和免费开源跨平台框架 .NET5 进行开发，使用 MongoDB 存储数据，Redis 缓存数据。项目采用前后端分离的模式进行开发，API 遵循 RESTful 接口规范，页面使用 Blazor 进行开发，可作为 .NET Core 入门项目进行学习。If you liked `Blog` project or if it helped you, please give a star ⭐️ for this repository. 👍👍👍|934|C#|05/19|
+|45|[Bililive/BililiveRecorder](https://github.com/Bililive/BililiveRecorder)|B站录播姬   BiliBili Stream Recorder   哔哩哔哩直播录制|910|C#|07/08|
+|46|[Tangent-90/Coolapk-UWP](https://github.com/Tangent-90/Coolapk-UWP)|酷安第三方UWP客户端|903|C#|07/05|
+|47|[phorcys/Taiwu_mods](https://github.com/phorcys/Taiwu_mods)|太吾绘卷游戏Mod|882|C#|11/28|
+|48|[hemaju/Wireboy.Socket.P2PSocket](https://github.com/hemaju/Wireboy.Socket.P2PSocket)|P2P内网穿透，实现【公司】-【家】远程控制|874|C#|07/05|
+|49|[newbe36524/Newbe.Mahua.Framework](https://github.com/newbe36524/Newbe.Mahua.Framework)|本SDK为实现QQ机器人平台的大一统，支持多种机器人平台：酷Q、MyPCQQ、QQLight等|849|C#|08/02|
+|50|[anderscui/jieba.NET](https://github.com/anderscui/jieba.NET)|jieba中文分词的.NET版本（支持.NET Framework与.NET Core）|826|C#|07/06|
+|51|[Varorbc/PaySharp](https://github.com/Varorbc/PaySharp)|PaySharp是一个支持多商户多种支付方式的跨平台网关处理类库，使用PaySharp可以简化订单的创建、查询、退款和接收网关返回的支付通知等操作。|825|C#|12/09|
+|52|[huiyadanli/PasteEx](https://github.com/huiyadanli/PasteEx)|:clipboard: Paste As File 把剪贴板的内容直接粘贴为文件|815|C#|07/04|
+|53|[bing-framework/Bing.NetCore](https://github.com/bing-framework/Bing.NetCore)|Bing是基于 .net core 2.0 的框架，旨在提升团队的开发输出能力，由常用公共操作类（工具类、帮助类）、分层架构基类，第三方组件封装，第三方业务接口封装等组成。|797|C#|07/08|
+|54|[JasonXuDeveloper/JEngine](https://github.com/JasonXuDeveloper/JEngine)|JEngine是针对Unity开发者设计的开箱即用的框架，封装了强大的功能，小白也能快速上手，轻松制作可以热更新的游戏   JEngine is a streamlined and easy-to-use framework designed for Unity Programmers which contains powerful features, beginners can start up quickly and making hot update-able games easily|790|C#|07/08|
+|55|[dotnetcore/Alipay.AopSdk.Core](https://github.com/dotnetcore/Alipay.AopSdk.Core)|支付宝（Alipay）服务端SDK，采用.NET Standard 2.0，支持.NET Core >=2.0，与官方SDK接口完全相同。完全可以按照官方文档进行开发。除了支持支付以外，官方SDK支持的功能本SDK全部支持，比如生活号、服务窗、行业合作等，且用法几乎一样，代码都可参考官方文档代码。|776|C#|09/16|
+|56|[zsh2401/AutumnBox](https://github.com/zsh2401/AutumnBox)|图形化ADB工具箱|763|C#|02/22|
+|57|[EngTW/English-for-Programmers](https://github.com/EngTW/English-for-Programmers)|《程式英文》：用英文提昇程式可讀性|759|C#|05/21|
+|58|[dotnetcore/Natasha](https://github.com/dotnetcore/Natasha)|基于 Roslyn 的 C# 动态程序集构建库，该库允许开发者在运行时使用 C# 代码构建域 / 程序集 / 类 / 结构体 / 枚举 / 接口 / 方法等，使得程序在运行的时候可以增加新的模块及功能。Natasha 集成了域管理/插件管理，可以实现域隔离，域卸载，热拔插等功能。 该库遵循完整的编译流程，提供完整的错误提示， 可自动添加引用，完善的数据结构构建模板让开发者只专注于程序集脚本的编写，兼容 stanadard2.0 / netcoreapp3.0+, 跨平台，统一、简便的链式 API。 且我们会尽快修复您的问题及回复您的 issue.|754|C#|07/07|
+|59|[shack2/SuperSQLInjectionV1](https://github.com/shack2/SuperSQLInjectionV1)|超级SQL注入工具（SSQLInjection）是一款基于HTTP协议自组包的SQL注入工具,采用C#开发，直接操作TCP会话来进行HTTP交互，支持出现在HTTP协议任意位置的SQL注入，支持各种类型的SQL注入，支持HTTPS模式注入；支持以盲注、错误显示、Union注入等方式来获取数据；支持Access/MySQL/SQLServer/Oracle/PostgreSQL/DB2/SQLite/Informix等数据库；支持手动灵活的进行SQL注入绕过，可自定义进行字符替换等绕过注入防护。本工具为渗透测试人员、信息安全工程师等掌握SQL注入技能的人员设计，需要使用人员对SQL注入有一定了解 ...|742|C#|03/10|
+|60|[yhuse/SunnyUI](https://github.com/yhuse/SunnyUI)|SunnyUI.Net, 基于.Net Framework 4.0+、.Net Core3.1、.Net 5 框架的 C# WinForm 开源控件库、工具类库、扩展类库、多页面开发框架。|735|C#|07/08|
+|61|[2881099/im](https://github.com/2881099/im)|.NETCore websocket 实现简易、高性能、集群即时通讯组件，支持点对点通讯、群聊通讯、上线下线事件消息等众多实用性功能.|723|C#|01/04|
+|62|[VictorTzeng/Zxw.Framework.NetCore](https://github.com/VictorTzeng/Zxw.Framework.NetCore)|基于EF Core的Code First模式的DotNetCore快速开发框架，其中包括DBContext、IOC组件autofac和AspectCore.Injector、代码生成器（也支持DB First）、基于AspectCore的memcache和Redis缓存组件，以及基于ICanPay的支付库和一些日常用的方法和扩展，比如批量插入、更新、删除以及触发器支持，当然还有demo。欢迎提交各种建议、意见和pr~|711|C#|06/06|
+|63|[1217950746/Arthas-WPFUI](https://github.com/1217950746/Arthas-WPFUI)|WPF 控件库，支持 .Net Core 3 + & .Net 4.6.2 +|693|C#|03/30|
+|64|[Jimmey-Jiang/ABP-ASP.NET-Boilerplate-Project-CMS](https://github.com/Jimmey-Jiang/ABP-ASP.NET-Boilerplate-Project-CMS)|ABP module-zero +AdminLTE+Bootstrap Table+jQuery+Redis + sql server+quartz+hangfire权限管理系统|684|C#|04/22|
+|65|[wuxiongbin/XIL](https://github.com/wuxiongbin/XIL)|使用ILRuntime实现的类似XLUA功能的Unity3D下热修复BUG的解决方案|661|C#|06/02|
+|66|[QAX-A-Team/BrowserGhost](https://github.com/QAX-A-Team/BrowserGhost)|这是一个抓取浏览器密码的工具，后续会添加更多功能|655|C#|06/29|
+|67|[nilaoda/BBDown](https://github.com/nilaoda/BBDown)|Bilibili Downloader. 一款命令行式哔哩哔哩下载器.|654|C#|07/09|
+|68|[q315523275/FamilyBucket](https://github.com/q315523275/FamilyBucket)|集合.net core、ocelot、consul、netty、rpc、eventbus、configserver、tracing、sqlsugar、vue-admin、基础管理平台等构建的微服务一条龙应用|653|C#|02/18|
+|69|[cixingguangming55555/wechat-bot](https://github.com/cixingguangming55555/wechat-bot)|带二次开发接口的PC微信聊天机器人|636|C#|07/04|
+|70|[XiLife-OSPC/Masuit.Tools](https://github.com/XiLife-OSPC/Masuit.Tools)|一个常用的操作类的类库，汇集了加密解密，反射操作，硬件信息，字符串扩展方法，日期时间扩展操作，大文件拷贝，图像裁剪，验证码等功能，喜欢就给Star吧。|633|C#|07/03|
+|71|[RayTale/Ray](https://github.com/RayTale/Ray)|项目停止更新，新项目：https://github.com/RayTale/Vertex|629|C#|11/08|
+|72|[cyq1162/cyqdata](https://github.com/cyq1162/cyqdata)|cyq.data is a  high-performance and the most powerful orm.（.NET 最好用的ORM数据层框架，木有之一！支持.NET Core）Support：Txt、Xml、Access、Sqlite、Mssql、Mysql、Oracle、Sybase、Postgres、DB2、Redis、MemCache。|625|C#|07/01|
+|73|[ntminer/NtMiner](https://github.com/ntminer/NtMiner)|GPU miner. github不太慢，https://ntminer.coding.net/public/NtMiner/NtMiner/git/files|622|C#|05/30|
+|74|[chengderen/Smartflow-Sharp](https://github.com/chengderen/Smartflow-Sharp)|基于C#语言研发的Smartflow-Sharp工作流组件，该工作流组件的特点是简单易用、方便扩展、支持多种数据库访问、高度可定制化，支持用户按需求做功能的定制开发，节省用户的使用成本|609|C#|06/19|
+|75|[czz1233/CMWTAT_Digital_Edition](https://github.com/czz1233/CMWTAT_Digital_Edition)|win10激活工具，火绒不报错，开源工具。永久数字证书。😂原理好像是，先kms激活win10，👍再用用Win7兼容性模式运行官方的gatherosstate.exe数字权利激活工具。|595|C#|06/22|
+|76|[kklldog/AgileConfig](https://github.com/kklldog/AgileConfig)|基于.NET Core开发的轻量级分布式配置中心 / .NET  Core lightweight configuration server|591|C#|07/08|
+|77|[iccb1013/Sheng.WeixinConstruction](https://github.com/iccb1013/Sheng.WeixinConstruction)|升讯威微信营销系统（第三方微信平台）完整源代码。包括了面向线下商家的诸多营销功能。【吸粉】 投票、定期抽奖、聚人气抽奖、摇一摇抽奖、粉丝海报、1元夺宝、发红包、在线捐款 等  【持续变现】 微官网、微会员、积分商城、卡券、微信支付、分类信息、电影排片 等  【管理考核】 电脑手机双后台、营销二维码、后台用户管理、操作日志 等。|590|C#|03/15|
+|78|[tmoonlight/NSmartProxy](https://github.com/tmoonlight/NSmartProxy)|NSmartProxy是一款开源免费的内网穿透工具。采用.NET CORE的全异步模式打造。(NSmartProxy is an open source reverse proxy tool that creates a secure tunnel from a public endpoint to a locally service.)|586|C#|06/18|
+|79|[NewLifeX/NewLife.Redis](https://github.com/NewLifeX/NewLife.Redis)|高性能Redis客户端，支持.NETCore/.NET4.0/.NET4.5，为大数据与消息队列而特别优化，线上单应用日均100亿调用量|582|C#|07/08|
+|80|[fuluteam/fulusso](https://github.com/fuluteam/fulusso)|基于react+asp.net core开发的单点登录系统|557|C#|01/08|
+|81|[kengwang/BiliDuang](https://github.com/kengwang/BiliDuang)|Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV 支持4K 支持地区限制下载 支持互动视频 支持无水印 支持弹幕/字幕下载转换 支持课程下载|556|C#|06/13|
+|82|[the1812/Malware-Patch](https://github.com/the1812/Malware-Patch)|阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.|550|C#|05/28|
+|83|[CHKZL/DDTV2](https://github.com/CHKZL/DDTV2)|DDTV2：可进行B站直播开播提醒.自动录制.在线播放。直播状态查看。DDTVLiveRec：多平台(bilibili live)自动录制工具。|548|C#|06/14|
+|84|[mili-tan/AuroraDNS.GUI](https://github.com/mili-tan/AuroraDNS.GUI)|纯净抗污染，简单轻量级|547|C#|06/13|
+|85|[anjoy8/ChristDDD](https://github.com/anjoy8/ChristDDD)|🙌 ASP.NET Core 3.1 应用, 包含 DDD、CQRS、EDA 和ES事件回溯|545|C#|01/22|
+|86|[copyliu/bililive_dm](https://github.com/copyliu/bililive_dm)|B站直播彈幕工具|536|C#|05/31|
+|87|[coding2233/TextInlineSprite](https://github.com/coding2233/TextInlineSprite)|UGUI图文混排 unity version: 2017.2+|535|C#|06/27|
+|88|[xixixixixiao/mooc-downloader](https://github.com/xixixixixiao/mooc-downloader)|An icourse163.org MOOC downloader implemented by .NET. 一枚由 .NET 实现的中国大学 MOOC 下载器.|517|C#|04/16|
+|89|[gabrielxvx/zh-fiddler](https://github.com/gabrielxvx/zh-fiddler)|Fiddler Web Debugger 中文版|507|C#|10/29|
+|90|[jarjin/LuaFramework_UGUI_V2](https://github.com/jarjin/LuaFramework_UGUI_V2)|基于tolua的热更新框架V2|507|C#|09/10|
+|91|[qq576067421/cshotfix](https://github.com/qq576067421/cshotfix)|C# HotFix C#热更新 unity3d 热更新|503|C#|06/22|
+|92|[duyanming/Viper](https://github.com/duyanming/Viper)|Viper 是一个基于Anno微服务引擎开发的Dashboard项目、示例项目。Anno 底层通讯采用 grpc、thrift。自带服务发现、调用链追踪、Cron 调度、限流、事件总线等等|498|C#|07/08|
+|93|[JiepengTan/Lockstep-Tutorial](https://github.com/JiepengTan/Lockstep-Tutorial)|帧同步 教程|486|C#|03/23|
+|94|[YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)|🦸【C#/.NET/.NET Core学习、工作、面试指南】概述：C#/.NET/.NET Core基础知识，学习资料、文章、书籍，社区组织，工具和常见的面试题总结。以及面试时需要注意的事项和优秀简历编写技巧，希望能和大家一起成长进步👊。【让现在的自己不再迷茫✨】|483|C#|06/06|
+|95|[migomiddle/xms](https://github.com/migomiddle/xms)|基于.netcore的跨平台应用框架，包含众多常用模块，易上手、易扩展，xms可理解为x(可扩展的/任意的)m(管理)s(系统)|482|C#|02/19|
+|96|[jm33-m0/kms-activate](https://github.com/jm33-m0/kms-activate)|Microsoft Windows/Office 一键激活工具|473|C#|06/28|
+|97|[HMBSbige/NatTypeTester](https://github.com/HMBSbige/NatTypeTester)|测试当前网络的 NAT 类型（STUN）|460|C#|06/29|
+|98|[yomunsam/TinaX](https://github.com/yomunsam/TinaX)|TinaX Framework : Unity based Game Client Framework   基于 Unity 的游戏客户端开发框架|458|C#|07/01|
+|99|[iccfish/FSLib.App.SimpleUpdater](https://github.com/iccfish/FSLib.App.SimpleUpdater)|A simple automatic update library for .net. 一个炒鸡简单但是足够好用的自动更新库。|457|C#|01/28|
+|100|[luoyunchong/lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore)|😃A simple and practical CMS implemented by .NET 5 + FreeSql；前后端分离、Docker部署、OAtuh2授权登录、自动化部署DevOps、自动同步至Gitee、代码生成器、仿掘金专栏|449|C#|06/08|
+|101|[2881099/FightLandlord](https://github.com/2881099/FightLandlord)|.NETCore斗地主服务器 + HTML5前端|446|C#|11/15|
+|102|[zs9024/quick_psd2ugui](https://github.com/zs9024/quick_psd2ugui)|parse psd file and auto generate ui prefab（解析psd文件，一键生成ugui面板）|443|C#|05/21|
+|103|[CHKZL/DDTV](https://github.com/CHKZL/DDTV)|本项目已经停止维护，重构优化后项目发布为【DDTV2】|438|C#|11/28|
+|104|[dathlin/OpcUaHelper](https://github.com/dathlin/OpcUaHelper)|一个通用的opc ua客户端类库，基于.net 4.6.1创建，基于官方opc ua基金会跨平台库创建，封装了节点读写，批量节点读写，引用读取，特性读取，历史数据读取，方法调用，节点订阅，批量订阅等操作。还提供了一个节点浏览器工具。|430|C#|04/22|
+|105|[yuzd/AntData.ORM](https://github.com/yuzd/AntData.ORM)|特色：vs插件或者t4一键生成entity 支持配置非物理外键。分离linq转sql引擎(原生linq非扩展)和执行dal功能,支持异步,支持netcore2.0|429|C#|03/14|
+|106|[trueai-org/module-shop](https://github.com/trueai-org/module-shop)|一个基于 .NET Core构建的简单、跨平台、模块化的商城系统|426|C#|05/25|
+|107|[zhontai/Admin.Core](https://github.com/zhontai/Admin.Core)|Admin后端，前后端分离的权限管理系统，集成统一认证授权、多租户、缓存、Ip限流、全Api鉴权。支持国内外主流数据库自由切换和动态高级查询，基于.Net跨平台开发的WebApi|423|C#|07/07|
+|108|[YukiCoco/YukiDrive](https://github.com/YukiCoco/YukiDrive)|Onedrive & SharePoint 文件浏览网页程序|423|C#|01/06|
+|109|[real-zony/ZonyLrcToolsX](https://github.com/real-zony/ZonyLrcToolsX)|ZonyLrcToolsX 是一个能够方便地下载歌词的小软件。|422|C#|06/28|
+|110|[lysilver/KopSoftWms](https://github.com/lysilver/KopSoftWms)|KopSoft仓库管理系统|418|C#|06/20|
+|111|[feiyit/FytSoaCms](https://github.com/feiyit/FytSoaCms)|NetCore2.2开发， Vs2017 数据Mysql|416|C#|02/19|
+|112|[BeichenDream/BadPotato](https://github.com/BeichenDream/BadPotato)|Windows 权限提升 BadPotato|415|C#|05/10|
+|113|[foxofice/sub_share](https://github.com/foxofice/sub_share)|字幕共享计划|412|C#|07/08|
+|114|[QAX-A-Team/sharpwmi](https://github.com/QAX-A-Team/sharpwmi)|sharpwmi是一个基于rpc的横向移动工具，具有上传文件和执行命令功能。|406|C#|01/11|
+|115|[dathlin/HslControlsDemo](https://github.com/dathlin/HslControlsDemo)|HslControls控件库的使用demo，HslControls是一个工业物联网的控件库，基于C#开发，配套HslCommunication组件可以实现工业上位机软件的快速开发，支持常用的工业图形化控件，快速的集成界面开发。 主要包含了按钮，开关，进度条，信号灯，数码管，时钟，曲线显示控件，仪表盘控件，管道控件，瓶子控件，饼图控件，传送带控件，温度计控件，鼓风机控件，阀门控件，电池控件等等。|406|C#|05/24|
+|116|[yuzhengyang/Fork](https://github.com/yuzhengyang/Fork)|a c# utility library. C#工具包，C#工具类，常用方法，系统API，文件处理、加密解密、Winform美化（C# Tools）|405|C#|01/14|
+|117|[NewLifeX/NewLife.Cube](https://github.com/NewLifeX/NewLife.Cube)|魔方是一个快速Web开发平台，能够快速搭建系统原型，而又具有足够灵活的可扩展性！内部集成了用户权限管理、模板继承、SSO登录、OAuth服务端、数据导出与分享等多个功能模块，默认模板在真实项目中经历过单表100亿数据添删改查的考验。|403|C#|07/01|
+|118|[AlphaYu/Adnc](https://github.com/AlphaYu/Adnc)|微服务框架，同时也适用于单体架构系统的开发。支持经典三层与DDD架构开发模式、集成了一系列主流稳定的微服务配套技术栈。一个前后端分离的框架，前端基于Vue、后端基于.Net 5.0构建。|399|C#|07/02|
+|119|[yuzd/Hangfire.HttpJob](https://github.com/yuzd/Hangfire.HttpJob)|httpjob for Hangfire,restful api for Hangfire,job调度与业务分离|398|C#|07/01|
+|120|[91270/Meiam.System](https://github.com/91270/Meiam.System)|.NET 5 / .NET Core 3.1 WebAPI + Vue 2.0 + RBAC 企业级前后端分离权限框架|393|C#|07/05|
+|121|[zyzsdy/biliroku](https://github.com/zyzsdy/biliroku)|bilibili 生放送（直播）录制|392|C#|04/07|
+|122|[night-king/weixinSDK](https://github.com/night-king/weixinSDK)|微信SDK，一个轻量级的，极致简约的微信公众平台（服务号、订阅号）SDK.net版本，也支持dotnet core，作者QQ:2586662969，官方网站:|391|C#|02/01|
+|123|[XINCGer/UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick)|提供一些UnityEditor工具链开发的常用小技巧与示例(Provides some common tips and examples for developing the UnityEditor toolchain)|390|C#|07/04|
+|124|[m969/EGamePlay](https://github.com/m969/EGamePlay)|一个基于Entity-Component模式的灵活、通用、可扩展的轻量战斗（技能）框架，配置可选使用ScriptableObject或是Excel表格. A flexible, generic, easy to extend, lightweight combat (skills) framework based on Entity-Component pattern. Configuration can choose to use ScriptableObject or Excel tables.|389|C#|05/14|
+|125|[jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader)|一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐|388|C#|08/25|
+|126|[tylearymf/SETUNA2](https://github.com/tylearymf/SETUNA2)|A best screenshot small tool (support high dpi screenshots) 一款好用的截图小工具（支持高分屏截图）|387|C#|01/30|
+|127|[FastTunnel/FastTunnel](https://github.com/FastTunnel/FastTunnel)|开源免费跨平台的内网穿透工具 远程内网计算机 域名访问内网站点 反向代理内网服务 花生壳 端口转发 http代理 微信 小程序 like ngrok and frp. NAT ssh proxy tunnel reverse-proxy |386|C#|07/09|
+|128|[jerrytang67/SoMall](https://github.com/jerrytang67/SoMall)|社交电商商城开源项目.socail+mall即取名SoMall ,abp netcore 3.1 angular vue uni-app typescript docker mssql|386|C#|06/07|
+|129|[XINCGer/ColaFrameWork](https://github.com/XINCGer/ColaFrameWork)|ColaFrameWork 一个Unity客户端框架|379|C#|06/17|
+|130|[ctripcorp/apollo.net](https://github.com/ctripcorp/apollo.net)|Apollo配置中心.Net客户端|377|C#|05/17|
+|131|[Jie2GG/Native.Framework](https://github.com/Jie2GG/Native.Framework)|完全由 C# 语言编写的 QQ机器人插件 SDK|366|C#|07/09|
+|132|[pigLoveRabbit520/SalamanderWnmp](https://github.com/pigLoveRabbit520/SalamanderWnmp)|A beautiful Nginx PHP Mysql environment for windows（ windows下用WPF制作的nginx，php，mysql集成环境（免安装））|361|C#|08/14|
+|133|[dreamanlan/Cs2Lua](https://github.com/dreamanlan/Cs2Lua)|CSharp代码转lua，适用于使用lua实现热更新而又想有一个强类型检查的语言的场合|358|C#|07/08|
+|134|[GB28181/GB28181.Solution](https://github.com/GB28181/GB28181.Solution)|Linux/Win/Docker/kubernetes/Chart/Kustomize/GB28181/SIP/RTP/SDP/WebRTC/作为上下级域/平台级联互联|357|C#|04/24|
+|135|[anjoy8/Blog.IdentityServer](https://github.com/anjoy8/Blog.IdentityServer)|🥗 打造一个功能强大的通用型Ids4用户认证授权服务中心，配合之前的所有开源项目|353|C#|04/30|
+|136|[BladeMight/Mahou](https://github.com/BladeMight/Mahou)|Mahou(魔法) - The magic layout switcher.|352|C#|06/22|
+|137|[plummm/AntiRecall](https://github.com/plummm/AntiRecall)|Anti-Recall/Anti-Delete for Telegram, WeChat, and QQ（针对Telegram, QQ和微信的防撤回）|340|C#|03/13|
+|138|[noodle1983/UnityAndroidIl2cppPatchDemo](https://github.com/noodle1983/UnityAndroidIl2cppPatchDemo)|这是Unity Android APP il2cpp热更完美解决方案的Demo。更新build_demo_apk里的Unity路径，执行即可一键重build Patch和apk。因为文件libunity是没有热更的，如unity版本有变化则热更不适用。|339|C#|11/22|
+|139|[gemgin/WeChatTools](https://github.com/gemgin/WeChatTools)|微信域名检测接口:实时检测域名能否在微信中直接访问的技术;QQ管家域名检测接口;抖音域名检测;域名icp备案信息查询接口|336|C#|04/19|
+|140|[zhuxb711/RX-Explorer](https://github.com/zhuxb711/RX-Explorer)|一款优雅的UWP文件管理器   An elegant UWP Explorer|333|C#|07/08|
+|141|[hayasec/360SafeBrowsergetpass](https://github.com/hayasec/360SafeBrowsergetpass)|这是一个一键辅助抓取360安全浏览器密码的CobaltStrike脚本以及解密小工具，用于节省红队工作量，通过下载浏览器数据库、记录密钥来离线解密浏览器密码。|332|C#|04/04|
+|142|[sheng-jie/Design-Pattern](https://github.com/sheng-jie/Design-Pattern)|设计模式 C# 版（有系列文章讲解）|331|C#|02/24|
+|143|[yswenli/SAEA](https://github.com/yswenli/SAEA)|SAEA.Socket is a high-performance IOCP framework TCP based on dotnet standard 2.0; Src contains its application test scenarios, such as websocket,rpc, redis driver, MVC WebAPI, lightweight message server, ultra large file transmission, etc. SAEA.Socket是一个高性能IOCP框架的 TCP，基于dotnet standard 2.0；Src中含有其应 ...|330|C#|07/06|
+|144|[Baidu-AIP/dotnet-sdk](https://github.com/Baidu-AIP/dotnet-sdk)|百度AI开放平台 .Net SDK|328|C#|06/10|
+|145|[asxinyu/Stock](https://github.com/asxinyu/Stock)|中国2000年以来到2018年2月份的历史数据，包括股票基础信息和每支股票每天的基本交易信息|326|C#|02/04|
+|146|[giant-app/LiveWallpaper](https://github.com/giant-app/LiveWallpaper)|A tiny win10 (dynamic) wallpaper changer   巨应壁纸   动态壁纸|320|C#|06/22|
+|147|[NewLifeX/AntJob](https://github.com/NewLifeX/AntJob)|分布式任务调度系统，纯NET打造的重量级大数据实时计算平台，万亿级调度经验积累！面向中小企业大数据分析场景。|320|C#|05/07|
+|148|[KevinWG/OSS.Clients.Pay](https://github.com/KevinWG/OSS.Clients.Pay)|开源支付SDK(标准库)，主要打造微信支付，支付宝支付，标准库项目，同时支持.net framework和.net core|320|C#|05/10|
+|149|[KumoKyaku/KCP](https://github.com/KumoKyaku/KCP)|KCP C#版。线程安全，运行时无alloc，对gc无压力。|319|C#|05/10|
+|150|[SkyChenSky/Sikiro](https://github.com/SkyChenSky/Sikiro)|整合了社区主流开源框架（CAP、SkyAPM、WebAPIClient、Chloe等）的微服务项目示例|316|C#|04/09|
+|151|[yukuyoulei/ILRuntime_HotGames](https://github.com/yukuyoulei/ILRuntime_HotGames)|基于ILRuntime的热更新能力实现的可以直接使用的框架，友情赠送C# WebService + WebSocketServer服务器端。|314|C#|05/13|
+|152|[CatImmortal/Trinity](https://github.com/CatImmortal/Trinity)|基于Unity的纯C#（客户端+服务端+热更新）游戏开发整合方案|302|C#|06/04|
+|153|[Senparc/Senparc.CO2NET](https://github.com/Senparc/Senparc.CO2NET)|支持 .NET Framework & .NET Core 的公共基础扩展库|302|C#|07/06|
+|154|[xtqqksszml/zcode-AssetBundlePacker](https://github.com/xtqqksszml/zcode-AssetBundlePacker)|Unity的AssetBundle模块扩展插件，主要目的用于简化AssetBundle打包，提供AssetBundle管理，支持热更新、支持资源包下载、支持版本控制。|300|C#|09/08|
+|155|[GeorGeWzw/Sukt.Core](https://github.com/GeorGeWzw/Sukt.Core)|Sukt.Core 本项目是基于.Net Core开发的一个开源后台管理框架目前有以下模块      组织机构、菜单管理、按钮管理、用户管理、部门管理、角色管理、用户角色、角色权限、任务计划调度。|299|C#|07/01|
+|156|[SmallChi/JT808](https://github.com/SmallChi/JT808)|JT808协议、GB808协议、道路运输车辆卫星定位系统-北斗兼容车载终端通讯协议(支持2013、2019版本)|295|C#|07/01|
+|157|[cyq1162/Taurus.MVC](https://github.com/cyq1162/Taurus.MVC)|Taurus.mvc is a high-performance mvc and webapi framework for asp.net or asp.net core（适合场景：对性能和并发有较高要求的电商、站点、WebAPI等系统，支持.Net Core）|295|C#|06/30|
+|158|[jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics)|Windows 网易云音乐歌词获取|294|C#|03/07|
+|159|[uknowsec/SharpSQLTools](https://github.com/uknowsec/SharpSQLTools)|SharpSQLTools 和@Rcoil一起写的小工具，可上传下载文件，xp_cmdshell与sp_oacreate执行命令回显和clr加载程序集执行相应操作。|294|C#|06/22|
+|160|[ixre/cms](https://github.com/ixre/cms)|DDD 开源.NET CMS、跨平台,  兼容.NET Core和ASP.NET,支持Docker容器|290|C#|04/22|
+|161|[axzxs2001/Asp.NetCoreExperiment](https://github.com/axzxs2001/Asp.NetCoreExperiment)|原来所有项目都移动到**OleVersion**目录下进行保留。新的案例装以.net 5.0为主，一部分对以前案例进行升级，一部分将以前的工作经验总结出来，以供大家参考！|285|C#|07/08|
+|162|[HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer)|第三方网易云音乐播放器   A Netease Cloud Music Player|282|C#|07/05|
+|163|[liaozb/APIJSON.NET](https://github.com/liaozb/APIJSON.NET)|后端接口自动化 .NET CORE版本|282|C#|11/10|
+|164|[itdos/Dos.ORM](https://github.com/itdos/Dos.ORM)|Dos.ORM于2009年发布、2015年正式开源，该组件已在数百个成熟项目中应用。初期开发过程中吸取了NBear与MySoft的一些精华并加入新思想，之后参考EF Lambda语法进行大量扩展。经过数十个版本的更新迭代发布全新v2.0版本，支持动态列/表、分库/分表等。官方网站：https://www.itdos.com/dos/orm/Index.html 交流群：60831381|278|C#|12/07|
+|165|[Hzllaga/ShellcodeLoader](https://github.com/Hzllaga/ShellcodeLoader)|将shellcode用rsa加密并动态编译exe，自带几种反沙箱技术。|278|C#|07/09|
+|166|[qinyuanpei/HttpServer](https://github.com/qinyuanpei/HttpServer)|一个使用C#编写的简易Web服务器|277|C#|12/29|
+|167|[iccb1013/Sheng.Winform.Controls](https://github.com/iccb1013/Sheng.Winform.Controls)|升讯威 .Net WinForm 控件库提供了超过15种 Winform 控件，你可以直接使用本控件库，更可以通过本控件库学到 Winform 控件开发的方法和理念。|273|C#|03/15|
+|168|[Planshit/ProjectEye](https://github.com/Planshit/ProjectEye)|😎 一个基于20-20-20规则的用眼休息提醒Windows软件|269|C#|01/22|
+|169|[china-live/QQConnect](https://github.com/china-live/QQConnect)|asp.net core2.0 QQ和微信登录|265|C#|09/05|
+|170|[duyanming/Anno.Core](https://github.com/duyanming/Anno.Core)|Anno 是一个微服务快速开发框架，底层通讯可以随意切换 grpc、thrift。自带服务发现、调用链追踪、Cron 调度、限流、事件总线、CQRS 、DDD、类似MVC的开发体验，插件化开发。.  Anno is a microservices rapid development framework, the underlying communication can be arbitrary switch GRPC, thrift.Built-in service discovery, call chain tracking, Cron scheduling, current limitin ...|261|C#|07/07|
+|171|[pungin/Beanfun](https://github.com/pungin/Beanfun)|繽放 - 樂豆第三方客戶端|257|C#|06/24|
+|172|[MikeJinhua/UnitySocketProtobuf3Demo](https://github.com/MikeJinhua/UnitySocketProtobuf3Demo)|主要实现了用Unity对接了Leaf服务器。其次带了些小工具。|253|C#|03/05|
+|173|[ldqk/Masuit.LuceneEFCore.SearchEngine](https://github.com/ldqk/Masuit.LuceneEFCore.SearchEngine)|基于EntityFrameworkCore和Lucene.NET实现的全文检索搜索引擎|242|C#|07/05|
+|174|[EZhex1991/EZUnity](https://github.com/EZhex1991/EZUnity)|Unity3D工具集+API二次封装+编辑器扩展|238|C#|04/19|
+|175|[Hzllaga/JsLoader](https://github.com/Hzllaga/JsLoader)|js免杀shellcode，绕过杀毒添加自启|237|C#|03/17|
+|176|[yinghualuowu/GenshinDailyHelper](https://github.com/yinghualuowu/GenshinDailyHelper)|miHoYo APP Genshin Impact daily bonus by Github Action 利用.Net5 和 Github Action 自动执行 米游社原神每日签到福利|237|C#|06/04|
+|177|[anjoy8/Student.Achieve.Manager](https://github.com/anjoy8/Student.Achieve.Manager)|🎨学生教学教务管理系统：NetCore 3.1 + Vue + EleUI，（star100+，优化多表联查+录制视频+）|236|C#|01/30|
+|178|[liningit/Dapper.LnskyDB](https://github.com/liningit/Dapper.LnskyDB)|基于Dapper的LINQ扩展，支持Lambda表达式，支持按时间分库分表，也可以自定义分库分表方法，且实体类有T4模版自动生成.省去手写实体类的麻烦。已在实际项目使用|236|C#|05/06|
+|179|[WeihanLi/DbTool](https://github.com/WeihanLi/DbTool)|数据库工具，根据表结构文档生成创建表sql，根据数据库表信息导出Model和表结构文档，根据文档生成数据库表，根据已有Model文件生成创建数据库表sql|236|C#|06/13|
+|180|[xiaoyaocz/biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite)|哔哩哔哩UWP Lite|235|C#|06/15|
+|181|[overtly/core-grpc](https://github.com/overtly/core-grpc)|C# Grpc、Consul结合驱动封装，Overt.Core.Grpc基于Consul/Grpc实现服务注册服务发现，支持dotnetcore / framework，可快速实现基于Grpc的微服务；另外Overt.Core.Grpc.H2基于Consul/Grpc.Net实现服务注册服务发现，支持Net5.0， 内部有完整案例，包含服务端Server 客户端 Client，core+grpc, netcore+grpc, dotnetcore+grpc|232|C#|07/01|
+|182|[StarEliteCore/Destiny.Core.Flow](https://github.com/StarEliteCore/Destiny.Core.Flow)|Destiny.Core.Flow是基于.Net Core，VUE前后分离，开发的一个开源Admin管理框架目前有以下模块：菜单管理、用户管理、角色管理、用户角色、角色权限等功能。|232|C#|07/05|
+|183|[EdisonChou/DesignPattern.Samples.CSharp](https://github.com/EdisonChou/DesignPattern.Samples.CSharp)|23种面向对象设计模式示例代码（C#实现）|228|C#|06/16|
+|184|[chatop2020/AKStream](https://github.com/chatop2020/AKStream)|AKStream是一套全功能的流媒体管理控制接口平台。集成GB28181,RTSP,RTMP,HTTP等设备推拉流控制、PTZ控制、音视频文件录制管理、音视频文件裁剪合并等功能与一体|226|C#|07/08|
+|185|[atonasting/marysue-encoder](https://github.com/atonasting/marysue-encoder)|把任意文字和玛丽苏体的姓名进行加密转换|226|C#|09/13|
+|186|[View12138/ViewFaceCore](https://github.com/View12138/ViewFaceCore)|C# 超简单的人脸识别库。|225|C#|04/29|
+|187|[PxGame/XMLib.AM](https://github.com/PxGame/XMLib.AM)|XMLib 动作游戏开发套件|224|C#|06/28|
+|188|[xin-lai/Magicodes.Pay](https://github.com/xin-lai/Magicodes.Pay)|Magicodes.Pay，是心莱科技团队提供的统一支付库，相关库均使用.NET标准库编写，支持.NET Framework以及.NET Core。目前已提供Abp模块的封装，支持开箱即用。|224|C#|09/09|
+|189|[jinglikeblue/Zero](https://github.com/jinglikeblue/Zero)|Zero是Unity中的游戏开发框架，为游戏开发核心问题提供轻量高效的解决方案|223|C#|03/25|
+|190|[XIU2/TileTool](https://github.com/XIU2/TileTool)|🎨 Windows10 磁贴美化小工具|223|C#|12/18|
+|191|[Justin-sky/Nice-Lua](https://github.com/Justin-sky/Nice-Lua)|基于xlua的MVVM框架，支持Addressables, 统一渲染管线等Unity新特性|222|C#|10/28|
+|192|[ouyangzhaoxing/literec](https://github.com/ouyangzhaoxing/literec)|轻量、绿色便携的屏幕录制工具。(Lightweight portable screen recording tool.)|222|C#|11/19|
+|193|[hansquirrel/JyGameSilverlight](https://github.com/hansquirrel/JyGameSilverlight)|金庸群侠传X Silverlight版|222|C#|06/04|
+|194|[HuJinguang/CxFlatUI](https://github.com/HuJinguang/CxFlatUI)|winform控件|218|C#|12/07|
+|195|[NewLifeX/NewLife.Net](https://github.com/NewLifeX/NewLife.Net)|单机吞吐2266万tps的网络通信框架|216|C#|01/09|
+|196|[BeichenDream/MysqlT](https://github.com/BeichenDream/MysqlT)|伪造Myslq服务端,并利用Mysql逻辑漏洞来获取客户端的任意文件反击攻击者|213|C#|03/19|
+|197|[dreamanlan/CSharpGameFramework](https://github.com/dreamanlan/CSharpGameFramework)|基于unity3d引擎与c#语言的游戏框架/架构（包括客户端与服务器）。使用ServerPlatform作为服务端通信基础设施。|213|C#|05/10|
+|198|[akof1314/UnityParticleSystemPreview](https://github.com/akof1314/UnityParticleSystemPreview)|Unity ParticleSystem Preview 粒子预览插件|212|C#|03/26|
+|199|[NewLifeX/XCoder](https://github.com/NewLifeX/XCoder)|新生命码神工具，代码生成、网络工具、API工具、串口工具、正则工具、图标工具、加解密工具、地图接口。|209|C#|05/09|
+|200|[haifengat/pyctp](https://github.com/haifengat/pyctp)|上期技术期货交易api之python封装，实现接口调用。支持windows linux.|208|C#|01/19|
 
 ⬆ [回到目录](#目录)
 
@@ -1259,14 +1259,14 @@
 |69|[bladeofgod/Bedrock](https://github.com/bladeofgod/Bedrock)|一款基于MVVM+Provider的快速开发框架。|263|Dart|06/26|
 |70|[best-flutter/flutter_amap_location](https://github.com/best-flutter/flutter_amap_location)|高德地图flutter定位组件|257|Dart|06/15|
 |71|[flutterchina/lpinyin](https://github.com/flutterchina/lpinyin)|Dart 汉字转拼音，Flutter, web, other|256|Dart|05/11|
-|72|[fmtjava/Flutter_Eyepetizer](https://github.com/fmtjava/Flutter_Eyepetizer)|Flutter + 组件化实现的一款精美的仿开眼视频(Eyepetizer )跨平台App,适合入门,快速掌握Dart语言以及上手flutter开发(提供Kotlin、React Native版本 😁 ),希望和大家共同成长,喜欢的话，欢迎start或fork!|254|Dart|06/25|
+|72|[fmtjava/Flutter_Eyepetizer](https://github.com/fmtjava/Flutter_Eyepetizer)|Flutter + 组件化实现的一款精美的仿开眼视频(Eyepetizer )跨平台App,适合入门,快速掌握Dart语言以及上手flutter开发(提供Kotlin、React Native版本 😁 ),希望和大家共同成长,喜欢的话，欢迎start或fork!|255|Dart|06/25|
 |73|[githubliruiyuan/HybridFlutter](https://github.com/githubliruiyuan/HybridFlutter)|Flutter + V8/JsCore 动态化|253|Dart|06/16|
 |74|[DiscoverForever/learn_flutter](https://github.com/DiscoverForever/learn_flutter)|Flutter仿京东APP|248|Dart|09/24|
 |75|[lizhuoyuan/flutter_study](https://github.com/lizhuoyuan/flutter_study)|flutter 学习记录|241|Dart|12/30|
 |76|[yxwandroid/flutter_plugin_record](https://github.com/yxwandroid/flutter_plugin_record)|flutter 仿微信录制语音功能 支持android和ios|240|Dart|04/01|
 |77|[2697a/bujuan-sixbugs](https://github.com/2697a/bujuan-sixbugs)|flutter仿网易云音乐|236|Dart|03/25|
-|78|[lishuhao/sy_flutter_widgets](https://github.com/lishuhao/sy_flutter_widgets)|纯flutter Widget组件库，不依赖Native及其它第三方package。包括省市区选择器，Rate评分，Stepper步进器，照片墙，地址编辑，自带加载更多的ListView和GridView|233|Dart|03/14|
-|79|[cairuoyu/flutter_admin](https://github.com/cairuoyu/flutter_admin)|Flutter Admin: 一个基于 Flutter 的后台管理系统、开发模板。A backend management system and development template based on Flutter|231|Dart|07/07|
+|78|[lishuhao/sy_flutter_widgets](https://github.com/lishuhao/sy_flutter_widgets)|纯flutter Widget组件库，不依赖Native及其它第三方package。包括省市区选择器，Rate评分，Stepper步进器，照片墙，地址编辑，自带加载更多的ListView和GridView|234|Dart|03/14|
+|79|[cairuoyu/flutter_admin](https://github.com/cairuoyu/flutter_admin)|Flutter Admin: 一个基于 Flutter 的后台管理系统、开发模板。A backend management system and development template based on Flutter|232|Dart|07/09|
 |80|[ducafecat/flutter_learn_news](https://github.com/ducafecat/flutter_learn_news)|flutter实战学习-新闻客户端|229|Dart|04/12|
 |81|[xieyezi/flutter-shopping-AiRi](https://github.com/xieyezi/flutter-shopping-AiRi)|一款基于Flutter开发的购物App，涵盖了购物App的常见功能|227|Dart|07/01|
 |82|[jiang111/flutter_code](https://github.com/jiang111/flutter_code)|b站视频教程： https://space.bilibili.com/480410119/ |222|Dart|05/05|
@@ -1292,7 +1292,7 @@
 |102|[Cyenoch/Flutter-Coolapk](https://github.com/Cyenoch/Flutter-Coolapk)|flutter coolapk, 酷安 Flutter版（第三方）酷安, 酷安Windows版, 酷安Linux版|161|Dart|06/02|
 |103|[meetqy/flutter_luckin_coffee](https://github.com/meetqy/flutter_luckin_coffee)|flutter luckin coffee application（仿瑞幸咖啡）|157|Dart|01/13|
 |104|[Peroluo/easyMarketFlutter](https://github.com/Peroluo/easyMarketFlutter)|Flutter开发仿网易严选，UI还不错~适合新人练手、接口可用。。。|155|Dart|08/03|
-|105|[Vove7/yyets_flutter](https://github.com/Vove7/yyets_flutter)|人人影视客户端 for Flutter。【提示】人人影视Api已停用，此项目目前无法正常运行|154|Dart|12/30|
+|105|[Vove7/yyets_flutter](https://github.com/Vove7/yyets_flutter)|人人影视客户端 for Flutter。【提示】人人影视Api已停用，此项目目前无法正常运行|155|Dart|12/30|
 |106|[zhouteng0217/ShareExtend](https://github.com/zhouteng0217/ShareExtend)|调用系统分享的Flutter组件，支持分享文本，图片，视频和文件|153|Dart|04/05|
 |107|[dechengyang/ydc_flutter_app](https://github.com/dechengyang/ydc_flutter_app)|Flutter是Google(全球顶级互联网科技公司)出品，后台够硬，毫无疑问Flutter即将或已经成为跨平台开发的主流，Flutter野心很大，不仅冲击着原生开发，而且很有可能会烧到Web前端。作为移动端开发者的你，如果不关注Flutter的话，实在说不过去啦！ydcflutter_app是一款跨平台Flutter商城项目，一套代码同时可以运行在Android端和iOS端，功能持续更新中...，适合学习和日常使用。完全可以当做一个脚手架项目来使用，只需在里面添加你的业务代码即可。见者有份，就不要吝啬啦，Star一下哦！|152|Dart|04/11|
 |108|[easemob/im_flutter_sdk](https://github.com/easemob/im_flutter_sdk)|环信im flutter sdk,  example中包含ui代码.|148|Dart|07/05|
@@ -1356,7 +1356,7 @@
 |7|[NiuTrans/MTBook](https://github.com/NiuTrans/MTBook)|《机器翻译：基础与模型》肖桐 朱靖波 著 - Machine Translation: Foundations and Models|2.1k|TeX|07/05|
 |8|[jindongwang/transferlearning-tutorial](https://github.com/jindongwang/transferlearning-tutorial)|《迁移学习简明手册》LaTex源码|2.0k|TeX|05/27|
 |9|[wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)|《简单粗暴 LaTeX》手册开源仓库   The opensource repo for my published LaTeX book. |964|TeX|01/22|
-|10|[wuzhouhui/awk](https://github.com/wuzhouhui/awk)|The AWK Programming Language (AWK 程序设计语言, awkbook) 中文翻译, LaTeX 排版|926|TeX|06/11|
+|10|[wuzhouhui/awk](https://github.com/wuzhouhui/awk)|The AWK Programming Language (AWK 程序设计语言, awkbook) 中文翻译, LaTeX 排版|927|TeX|06/11|
 |11|[dustincys/hithesis](https://github.com/dustincys/hithesis)|嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板|777|TeX|06/03|
 |12|[dingjikerbo/Leetcode-Java](https://github.com/dingjikerbo/Leetcode-Java)|Leetcode刷题之旅|723|TeX|02/24|
 |13|[hijiangtao/resume](https://github.com/hijiangtao/resume)|个人中文简历 Latex 源码 https://hijiangtao.github.io/|653|TeX|03/08|
@@ -1457,7 +1457,7 @@
 |#|Repository|Description|Stars|Language|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|8.1k|Vim script|12/19|
-|2|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4.8k|Vim script|05/12|
+|2|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4.8k|Vim script|07/09|
 |3|[dofy/learn-vim](https://github.com/dofy/learn-vim)|Vim 实操教程（Learning Vim）Vim practical tutorial.|1.2k|Vim script|05/18|
 |4|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1.2k|Vim script|03/07|
 |5|[bilibili/vim-vide](https://github.com/bilibili/vim-vide)|Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！|665|Vim script|09/21|
