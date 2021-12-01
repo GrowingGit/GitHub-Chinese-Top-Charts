@@ -2,7 +2,7 @@
 
 <br/>
 
-## 目录
+## 内容目录
 
 - 总榜
   - [All Language](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#All-Language)
