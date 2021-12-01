@@ -1,6 +1,6 @@
 <div align="center">
     <img src="https://i.v2ex.co/wF4Dx0vO.png">
-    通往子阵地的路 → <a href="https://gitee.com/kon9chunkit/GitHub-Chinese-Top-Charts">同步码云项目</a>
+    GitHub版本 | <a href="https://gitee.com/kon9chunkit/GitHub-Chinese-Top-Charts">码云版本</a>
 </div>
 
 ## 设立目的
