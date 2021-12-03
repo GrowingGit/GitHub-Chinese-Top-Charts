@@ -24,9 +24,12 @@
 - 项目更新频率：每周更新；
 - 最近更新时间：2021年12月1日；
 - 近期更新内容：
-  - 移除了违规、敏感项目，如果还有遗漏请大家反馈给我们；
-  - 新增了8个分榜：TypeScript、Kotlin、Rust、MATLAB、Lua、Ruby、Scala、Perl；
-  - 项目同步更新到码云，方便喜欢<a href="https://gitee.com/kon9chunkit/GitHub-Chinese-Top-Charts">码云</a>的伙伴查看；
+  - [x] 移除了违规、敏感项目，如果还有遗漏请大家反馈给我们；
+  - [x] 新增了8个分榜：TypeScript、Kotlin、Rust、MATLAB、Lua、Ruby、Scala、Perl；
+  - [x] 项目同步更新到码云，方便喜欢<a href="https://gitee.com/kon9chunkit/GitHub-Chinese-Top-Charts">码云</a>的伙伴查看；
+- 即将更新内容：
+  - [ ] 推出「排除中文项目排行榜」，高分神级英文项目是进阶的不二之选；
+  - [ ] 将「资料类项目」分离出「技术类项目」的榜单，在大家的长期鞭策下终于要来了；
 
 ## License
 
