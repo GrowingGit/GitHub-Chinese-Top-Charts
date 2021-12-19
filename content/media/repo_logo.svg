@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="360" height="400" viewBox="0 0 360 400">
+  <defs>
+    <clipPath id="clip-GitHub中文榜LOGO_常规模式_1">
+      <rect width="360" height="400"/>
+    </clipPath>
+  </defs>
+  <g id="GitHub中文榜LOGO_常规模式_1" data-name="GitHub中文榜LOGO/常规模式 – 1" clip-path="url(#clip-GitHub中文榜LOGO_常规模式_1)">
+    <rect id="矩形_1" data-name="矩形 1" width="1024" height="1024" fill="none"/>
+    <path id="减去_4" data-name="减去 4" d="M381,400h0V41.4L471,0V358.6L381,400Zm135-62.1V145.294l90-41.4V296.5l-90,41.4ZM246.009,296.074H246V103.5l90-41.4V254.68l-89.991,41.394Z" transform="translate(-246 0.221)" fill="#e80b27"/>
+  </g>
+</svg>
