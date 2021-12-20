@@ -5,10 +5,10 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[pengxurui/EasyPrivacy](https://github.com/pengxurui/EasyPrivacy)|一个帮助开发者快速找到国内隐私整改问题的工具|58|2021-12-18|2021-10-25|
+|1|[pengxurui/EasyPrivacy](https://github.com/pengxurui/EasyPrivacy)|一个帮助开发者快速找到国内隐私整改问题的工具|59|2021-12-18|2021-10-25|
 |2|[CodingGay/BlackObfuscator-ASPlugin](https://github.com/CodingGay/BlackObfuscator-ASPlugin)|This project is an Android Studio plugin version of BlackObfuscator, it supports obfuscating code automatically. More information about this project are in BlackObfuscator.|21|2021-12-18|2021-12-17|
 |3|[xnat9/grule](https://github.com/xnat9/grule)|自创Groovy DSL 动态规则(rule)执行引擎. 特色 风控系统, 规则引擎, 动态接口配置(低代码)|13|2021-12-18|2021-01-26|
-|4|[GeekBoyDqz/DevOps](https://github.com/GeekBoyDqz/DevOps)|CICD流水线|9|2021-12-02|2021-12-02|
+|4|[dqzboy/DevOps](https://github.com/dqzboy/DevOps)|CICD流水线|9|2021-12-02|2021-12-02|
 |5|[sweetying520/GradleDemo](https://github.com/sweetying520/GradleDemo)|Gradle 常用 API 介绍|2|2021-07-28|2021-07-18|
 |6|[ZackZhou/zrest](https://github.com/ZackZhou/zrest)|扩展的restassured接口自动化|2|2021-06-30|2021-05-15|
 |7|[ooftf/spy](https://github.com/ooftf/spy)|在Build项目时检查Class之间的引用关系，避免因为依赖库版本问题而产生的ClassNotFoundException,NoSuchMethodException问题|2|2021-07-19|2021-03-02|

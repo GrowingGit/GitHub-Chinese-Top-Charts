@@ -5,44 +5,44 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[newbee-ltd/vue3-admin](https://github.com/newbee-ltd/vue3-admin)|🔥 🎉 Vue 3.0 + Vite 2.0 + Vue-Router 4.0 + Element-Plus + Echarts 5.0 + Axios 开发的后台管理系统|1341|2021-12-02|2021-03-21|
-|2|[jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin)|Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。|1307|2021-12-06|2021-07-03|
+|1|[newbee-ltd/vue3-admin](https://github.com/newbee-ltd/vue3-admin)|🔥 🎉 Vue 3.0 + Vite 2.0 + Vue-Router 4.0 + Element-Plus + Echarts 5.0 + Axios 开发的后台管理系统|1344|2021-12-02|2021-03-21|
+|2|[jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin)|Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。|1311|2021-12-06|2021-07-03|
 |3|[GoodManWEN/GoodManWEN.github.io](https://github.com/GoodManWEN/GoodManWEN.github.io)|📕 A website simulating linux system's GUI, using theme of Deepin distro. 网页模拟桌面|1101|2021-12-10|2021-04-25|
-|4|[ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines)|⏰ CCF recommendation conference Deadline Countdowns / Please star this project, thanks~|940|2021-12-17|2021-02-01|
-|5|[Lissy93/dashy](https://github.com/Lissy93/dashy)|🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, themes and tons more!|838|2021-12-19|2021-02-28|
-|6|[Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar)|An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站|745|2021-12-11|2021-10-16|
+|4|[ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines)|⏰ CCF recommendation conference Deadline Countdowns / Please star this project, thanks~|943|2021-12-17|2021-02-01|
+|5|[Lissy93/dashy](https://github.com/Lissy93/dashy)|🚀 A self-hosted startpage for your server. Easy to use visual editor, status checking, themes and tons more!|839|2021-12-19|2021-02-28|
+|6|[Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar)|An online avatar generator just for fun 🥳 一个纯前端实现的头像生成网站|752|2021-12-11|2021-10-16|
 |7|[cmdparkour/vue-admin-box](https://github.com/cmdparkour/vue-admin-box)|vue3,vite,element-plus中后台管理系统，集成四套基础模板，大量可利用组件，模板页面|406|2021-12-09|2021-05-24|
 |8|[xxjwxc/caoguo](https://github.com/xxjwxc/caoguo)|golang,微信小程序,电商系统|396|2021-11-09|2021-10-26|
 |9|[auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora)|🏳️‍🌈 Futuristic auroral Hexo theme.|323|2021-11-13|2021-03-12|
 |10|[WishMelz/imgurl](https://github.com/WishMelz/imgurl)|基于github的图片管理系统/免费|295|2021-11-22|2021-02-25|
-|11|[wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook)|低代码平台，H5商城可视化搭建平台|276|2021-12-18|2021-09-22|
+|11|[wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook)|低代码平台，H5商城可视化搭建平台|288|2021-12-19|2021-09-22|
 |12|[pengxiaotian/datav-vue](https://github.com/pengxiaotian/datav-vue)|A Powerful Data Visualization Tool. Uses TypeScript And Vue3. Scenario-specific templates. User-friendly interfaces. 一款数据可视化应用搭建工具|276|2021-10-16|2021-03-06|
 |13|[lyt-Top/vue-next-admin](https://github.com/lyt-Top/vue-next-admin)|🎉🎉🔥基于vue3.x 、Typescript、vite、Element plus等，适配手机、平板、pc 的后台开源免费模板库（vue2.x请切换vue-prev-admin分支）|236|2021-12-04|2021-03-05|
-|14|[dgiot/dgiot-dashboard](https://github.com/dgiot/dgiot-dashboard)|DG-IoT平台行业应用扩展插件 DG-IoT for application plugin|216|2021-12-17|2021-03-10|
-|15|[Enraged-Dun-Cookie-Development-Team/Dun-Cookie-Vue](https://github.com/Enraged-Dun-Cookie-Development-Team/Dun-Cookie-Vue)|自由的兔兔把烙好的饼到处藏，就由小刻把它们都找出来吧！定时收集多端的数据源，包括微博，通讯组，官网，B站等等。|210|2021-12-18|2021-04-17|
+|14|[dgiot/dgiot-dashboard](https://github.com/dgiot/dgiot-dashboard)|DG-IoT平台行业应用扩展插件 DG-IoT for application plugin|217|2021-12-17|2021-03-10|
+|15|[Enraged-Dun-Cookie-Development-Team/Dun-Cookie-Vue](https://github.com/Enraged-Dun-Cookie-Development-Team/Dun-Cookie-Vue)|自由的兔兔把烙好的饼到处藏，就由小刻把它们都找出来吧！定时收集多端的数据源，包括微博，通讯组，官网，B站等等。|211|2021-12-19|2021-04-17|
 |16|[vform666/variant-form](https://github.com/vform666/variant-form)|A powerful form designer for Vue.|197|2021-12-17|2021-09-23|
-|17|[umicro/uView2.0](https://github.com/umicro/uView2.0)|uView UI，是全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水|195|2021-12-18|2021-11-15|
+|17|[umicro/uView2.0](https://github.com/umicro/uView2.0)|uView UI，是全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水|196|2021-12-18|2021-11-15|
 |18|[fast-crud/fast-crud](https://github.com/fast-crud/fast-crud)|面向配置的crud框架，开发crud 快如闪电；Options-oriented crud framework,  develop crud as fast as lightning；based on vue3|192|2021-12-17|2021-02-11|
 |19|[cxp1539/open-admin](https://github.com/cxp1539/open-admin)|Open Admin是基于 Spring Boot + Spring Security + Mybatis + Vue Antd Admin Pro + Mysql开发的框架，致力于为用户生成定制的前后端脚手架框架。|190|2021-08-12|2021-05-11|
 |20|[wave-charts/avatar-gen](https://github.com/wave-charts/avatar-gen)|一个随机头像生成器的纯前端实现|190|2021-09-08|2021-01-12|
 |21|[ggymm/data-view-web](https://github.com/ggymm/data-view-web)|data view/report screen（数据可视化大屏，数据报表设计器）|165|2021-09-15|2021-06-24|
 |22|[sahadev/vue-component-creater-ui](https://github.com/sahadev/vue-component-creater-ui)|拖拽式Vue组件代码生成编辑器（VCC）|164|2021-12-14|2021-09-06|
-|23|[liqianglog/django-vue-admin](https://github.com/liqianglog/django-vue-admin)|基于RBAC模型的权限控制的一整套基础开发平台，前后端分离，后端采用 django+django-rest-framework，前端采用 ruoyi-ui +vue+ElementUI。|156|2021-08-11|2021-02-20|
-|24|[SonicCloudOrg/sonic-client-web](https://github.com/SonicCloudOrg/sonic-client-web)|🎉Front end of Sonic cloud real machine testing platform. Sonic云真机测试平台前端。|155|2021-12-18|2021-08-16|
+|23|[liqianglog/django-vue-admin](https://github.com/liqianglog/django-vue-admin)|基于RBAC模型的权限控制的一整套基础开发平台，前后端分离，后端采用 django+django-rest-framework，前端采用 ruoyi-ui +vue+ElementUI。|157|2021-08-11|2021-02-20|
+|24|[SonicCloudOrg/sonic-client-web](https://github.com/SonicCloudOrg/sonic-client-web)|🎉Front end of Sonic cloud real machine testing platform. Sonic云真机测试平台前端。|155|2021-12-19|2021-08-16|
 |25|[MegEngine/MegSpot](https://github.com/MegEngine/MegSpot)|MegSpot是一款高效、专业、跨平台的图片&视频对比应用|154|2021-12-09|2021-10-26|
-|26|[yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3)|:tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统|152|2021-12-18|2021-11-29|
+|26|[yangzongzhuan/RuoYi-Vue3](https://github.com/yangzongzhuan/RuoYi-Vue3)|:tada: (RuoYi)官方仓库 基于SpringBoot，Spring Security，JWT，Vue3 & Vite、Element Plus 的前后端分离权限管理系统|153|2021-12-18|2021-11-29|
 |27|[Dark2017/vue-dark-photo](https://github.com/Dark2017/vue-dark-photo)|vue-dark-photo 一款基于vue2.x封装的轻便简易的图片预览组件，支持放大、缩小、下载、打印等功能。|150|2021-11-15|2021-05-13|
 |28|[qq20004604/wti-form](https://github.com/qq20004604/wti-form)|低代码表单组件，基于 Element-ui 二次开发，提升 10 倍开发效率|145|2021-11-05|2021-09-01|
-|29|[honghuangdc/soybean-admin](https://github.com/honghuangdc/soybean-admin)|soybean admin - a beautiful vue admin template, based on Vue3、Vite、Naive UI、TypeScript. 基于Vite + Vue3 + NaiveUI + TypeScript的漂亮清新的中后台管理模版|140|2021-12-18|2021-09-08|
+|29|[honghuangdc/soybean-admin](https://github.com/honghuangdc/soybean-admin)|soybean admin - a beautiful vue admin template, based on Vue3、Vite、Naive UI、TypeScript. 基于Vite + Vue3 + NaiveUI + TypeScript的漂亮清新的中后台管理模版|143|2021-12-18|2021-09-08|
 |30|[YunYouJun/web-resume](https://github.com/YunYouJun/web-resume)|📄 Display your resume by web. 可以被打印成 PDF 的 Web 简历。|137|2021-12-04|2021-04-02|
-|31|[un-pany/v3-admin](https://github.com/un-pany/v3-admin)|☀️ a minimal vue3 admin template  一个简单的 vue3 项目起手模板|133|2021-12-01|2021-04-14|
-|32|[weilanwl/coloruiBeta](https://github.com/weilanwl/coloruiBeta)|Colorui先行版本|129|2021-12-17|2021-01-11|
+|31|[un-pany/v3-admin](https://github.com/un-pany/v3-admin)|☀️ a minimal vue3 admin template  一个 vue3 项目起手模板|134|2021-12-01|2021-04-14|
+|32|[weilanwl/coloruiBeta](https://github.com/weilanwl/coloruiBeta)|Colorui先行版本|132|2021-12-17|2021-01-11|
 |33|[eshengsky/node-bff](https://github.com/eshengsky/node-bff)|基于 Node.js 的可视化 BFF 解决方案。|123|2021-12-02|2021-05-25|
 |34|[www-chao-fun/chaofun-front](https://github.com/www-chao-fun/chaofun-front)|炒饭（ https://chao.fun ）前端工程|119|2021-12-12|2021-04-21|
 |35|[silently9527/mall-coupons](https://github.com/silently9527/mall-coupons)|淘宝客项目，支持App，微信小程序，QQ小程序|113|2021-08-13|2021-01-28|
 |36|[xjh22222228/boomb](https://github.com/xjh22222228/boomb)|💣 Manage your pictures easily for Github. 基于 Github 轻松管理您的存储图库|110|2021-07-12|2021-03-20|
 |37|[PY-GZKY/Tplan](https://github.com/PY-GZKY/Tplan)|🚧T计划|109|2021-12-18|2021-10-24|
-|38|[jzfai/vue3-admin-plus](https://github.com/jzfai/vue3-admin-plus)|👏A magical vue3 admin using  vue3(script-setup) + vite2 + element-plus |107|2021-12-17|2021-09-07|
+|38|[jzfai/vue3-admin-plus](https://github.com/jzfai/vue3-admin-plus)|👏A magical vue3 admin using  vue3(script-setup) + vite2 + element-plus |108|2021-12-17|2021-09-07|
 |39|[AmanLong/aman-mult-system](https://github.com/AmanLong/aman-mult-system)|vue+element搭建的多系统多tab后台的前端框架，同时，加了了一些anime动画，svg划线等|107|2021-06-15|2021-06-15|
 |40|[yunyuyuan/vue3-manjaro-ui](https://github.com/yunyuyuan/vue3-manjaro-ui)|网页版Manjaro。A simulation webpage for Manjaro Linux(KDE Plasma).|101|2021-06-18|2021-05-10|
 |41|[fuchengwei/vue-form-create](https://github.com/fuchengwei/vue-form-create)|基于Vue3.0的表单设计器|100|2021-10-26|2021-03-15|
@@ -50,9 +50,9 @@
 |43|[TinsideDesign/bk-vue-cec](https://github.com/TinsideDesign/bk-vue-cec)|A vue component library incubated from Tencent BlueKing which helps OPS in the field of front-end engineering to quickly build stable, accurate, and technologically-sense operation and maintenance too ...|85|2021-12-18|2021-08-18|
 |44|[Samciu/CouponToday](https://github.com/Samciu/CouponToday)|美团饿了么外卖红包CPS小程序项目，带管理后台，使用uni-app + uniCloud，云函数订阅消息功能|85|2021-07-01|2021-01-04|
 |45|[peng-xiao-shuai/vite-vue-admin](https://github.com/peng-xiao-shuai/vite-vue-admin)|🎉🎉使用Vite + Vue3 + TypeScript + Element-plus + Mock开发的后台管理系统🎉🎉|83|2021-10-22|2021-04-02|
-|46|[songboriceman/doubao_community_frontend](https://github.com/songboriceman/doubao_community_frontend)|手把手vue+springboot前后端分离项目实战---豆宝社区前端项目代码|80|2021-06-01|2021-02-02|
-|47|[qingqingxuan/admin-work](https://github.com/qingqingxuan/admin-work)|🎉🎉🎉Admin Work，漂亮、强大、完善。采用 Vue3 Vite2 Typescript NaiveUI编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用🎉🎉🎉|76|2021-12-18|2021-11-04|
-|48|[chaochaoxiaoshu/SilverBullet](https://github.com/chaochaoxiaoshu/SilverBullet)|使用Vue.js构建的Todo List应用|75|2021-06-23|2021-06-23|
+|46|[qingqingxuan/admin-work](https://github.com/qingqingxuan/admin-work)|🎉🎉🎉Admin Work，漂亮、强大、完善。采用 Vue3 Vite2 Typescript NaiveUI编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用🎉🎉🎉|80|2021-12-18|2021-11-04|
+|47|[songboriceman/doubao_community_frontend](https://github.com/songboriceman/doubao_community_frontend)|手把手vue+springboot前后端分离项目实战---豆宝社区前端项目代码|80|2021-06-01|2021-02-02|
+|48|[chaochaoxiaoshu/SilverBullet](https://github.com/chaochaoxiaoshu/SilverBullet)|使用Vue.js构建的Todo List应用|76|2021-06-23|2021-06-23|
 |49|[MCSManager/UI](https://github.com/MCSManager/UI)|适用于 MCSManager 9.0 版本的 UI 界面|73|2021-12-16|2021-07-03|
 |50|[KKKyrie/giftie](https://github.com/KKKyrie/giftie)|一个用来搞定「送礼问题」的终极解决方案|70|2021-06-08|2021-02-13|
 |51|[jzfai/vue3-admin-template](https://github.com/jzfai/vue3-admin-template)|🎉 A new generation vue3 admin template, It's easy and fast!|66|2021-12-13|2021-08-20|
@@ -67,9 +67,9 @@
 |60|[fanslead/ReverseProxy.Store](https://github.com/fanslead/ReverseProxy.Store)|yarp用EFCore存储配置|55|2021-12-17|2021-03-03|
 |61|[1977474741/vue-waterfall-rapid](https://github.com/1977474741/vue-waterfall-rapid)|💯最好用的vue瀑布流组件，吼住各种使用场景，并对渲染速度做了优化|55|2021-12-08|2021-01-24|
 |62|[SmileZXLee/uni-z-paging](https://github.com/SmileZXLee/uni-z-paging)|【uni-app自动分页器】超简单！仅需两步轻松完成完整分页逻辑(下拉刷新、上拉加载更多)，分页全自动处理。支持自定义加载更多的文字或整个view，自定义下拉刷新样式，自动管理空数据view等。|55|2021-12-02|2021-01-17|
-|63|[luyuhuang/DWords2](https://github.com/luyuhuang/DWords2)|Show words as Danmaku on the screen to help you memorize them   把单词变成屏幕上的弹幕来帮助你记住它们|54|2021-12-07|2021-07-10|
-|64|[slidevjs/docs](https://github.com/slidevjs/docs)|Documentation for Slidev|54|2021-12-17|2021-05-20|
-|65|[shengxinjing/geektime-vue-course](https://github.com/shengxinjing/geektime-vue-course)|极客时间代码 |53|2021-12-13|2021-11-10|
+|63|[shengxinjing/geektime-vue-course](https://github.com/shengxinjing/geektime-vue-course)|极客时间代码 |54|2021-12-13|2021-11-10|
+|64|[luyuhuang/DWords2](https://github.com/luyuhuang/DWords2)|Show words as Danmaku on the screen to help you memorize them   把单词变成屏幕上的弹幕来帮助你记住它们|54|2021-12-07|2021-07-10|
+|65|[slidevjs/docs](https://github.com/slidevjs/docs)|Documentation for Slidev|54|2021-12-17|2021-05-20|
 |66|[xujimu/ppgjx](https://github.com/xujimu/ppgjx)|皮皮工具箱|53|2021-09-30|2021-06-29|
 |67|[au1996/vue3-element-admin-ts](https://github.com/au1996/vue3-element-admin-ts)|🎉 基于 vite 2.0 + vue 3.0 + vue-router 4.0 + vuex 4.0 + element-plus + typescript 的后台管理系统vue3-element-admin-ts|53|2021-12-09|2021-04-06|
 |68|[jdf2e/nutui-cat](https://github.com/jdf2e/nutui-cat)|大促组件库|52|2021-12-10|2021-09-09|
@@ -90,21 +90,21 @@
 |83|[cmdparkour/vue-admin-box-template](https://github.com/cmdparkour/vue-admin-box-template)|vue-admin-box中后台开源框架基础模板，包括了四个基本模板（ts版本/js版本）|43|2021-09-14|2021-08-11|
 |84|[xinxin93/logicflow_vue_demo](https://github.com/xinxin93/logicflow_vue_demo)|-|43|2021-07-19|2021-02-24|
 |85|[MarleneJiang/Login_Register_Demo](https://github.com/MarleneJiang/Login_Register_Demo)|采用vue3+vite2+vue-router4+tailwindcss+二次元+Glassmorphism|42|2021-09-09|2021-09-09|
-|86|[mgbq/uni-template](https://github.com/mgbq/uni-template)|基于uni-app编写的登录模板，request请求封装，全局路由拦截,也可作为项目基础模板使用https://nxmin.blog.csdn.net/article/details/113121075|42|2021-12-08|2021-01-25|
-|87|[hints0816/artblog](https://github.com/hints0816/artblog)|vue3+quasar+gin搭建的blog平台|41|2021-12-16|2021-09-27|
-|88|[hipig/ddcard-weapp](https://github.com/hipig/ddcard-weapp)|【嘟嘟早教卡】小程序源码，由 Taro 及 Tailwind CSS 构建而成。|41|2021-10-09|2021-06-08|
+|86|[hipig/ddcard-weapp](https://github.com/hipig/ddcard-weapp)|【嘟嘟早教卡】小程序源码，由 Taro 及 Tailwind CSS 构建而成。|42|2021-10-09|2021-06-08|
+|87|[mgbq/uni-template](https://github.com/mgbq/uni-template)|基于uni-app编写的登录模板，request请求封装，全局路由拦截,也可作为项目基础模板使用https://nxmin.blog.csdn.net/article/details/113121075|42|2021-12-08|2021-01-25|
+|88|[hints0816/artblog](https://github.com/hints0816/artblog)|vue3+quasar+gin搭建的blog平台|41|2021-12-19|2021-09-27|
 |89|[72wukong/72crm-11.0-web-JAVA](https://github.com/72wukong/72crm-11.0-web-JAVA)|悟空CRM-11.0 JAVA版Spring前端源码，采用vue+elementUI 技术框架。前端源码需打包后使用。|41|2021-08-17|2021-04-06|
 |90|[RainManGO/RuoYi-Vue3](https://github.com/RainManGO/RuoYi-Vue3)|⚡️ Vue3版本若依管理前端项目|39|2021-07-13|2021-02-03|
-|91|[jzfai/vue3-admin-ts](https://github.com/jzfai/vue3-admin-ts)|🎉 A new generation vue3 admin template using  vue3(script-setup) + vite2 + element-plus + typescript|38|2021-12-17|2021-09-04|
+|91|[jzfai/vue3-admin-ts](https://github.com/jzfai/vue3-admin-ts)|🎉 A new generation vue3 admin template using  vue3(script-setup) + vite2 + element-plus + typescript|38|2021-12-19|2021-09-04|
 |92|[17MKH/Mkh.UI](https://github.com/17MKH/Mkh.UI)|Mkh.UI是基于Vue3+Vite+Element Plus开发的业务模块化快速开发框架（不支持 IE），目前仍在紧张开发完善中。|38|2021-12-10|2021-05-07|
 |93|[ShuangDa1018/element-shuang](https://github.com/ShuangDa1018/element-shuang)|🎉基于 Vue3、element-plus、echart封装的后台管理系统模板,|37|2021-12-07|2021-07-01|
 |94|[yesmore/italk-uniapp](https://github.com/yesmore/italk-uniapp)|🚀 italk是一款基于uni-app的聊天社交app，同时开放了千张图片接口。|36|2021-10-08|2021-05-31|
-|95|[lilishop/lilishop-uniapp](https://github.com/lilishop/lilishop-uniapp)|商城系统-移动端|36|2021-11-29|2021-05-14|
-|96|[lilishop/lilishop-ui](https://github.com/lilishop/lilishop-ui)|商城系统-前端|36|2021-12-12|2021-05-14|
-|97|[xxd763795151/kafka-console-ui](https://github.com/xxd763795151/kafka-console-ui)|一款快捷易用的轻量级kafka可视化管理平台|35|2021-12-17|2021-08-30|
-|98|[qingqingxuan/vue-admin-work](https://github.com/qingqingxuan/vue-admin-work)|🎉🎉🚀🚀🚀🚀vue-admin-work是一个中后台系统管理方案。使用 vue2.x  及周边全家桶工具开发而来。支持多种功能，不同角色权限🚀🚀🚀🎉🎉|35|2021-11-08|2021-05-16|
-|99|[jsonwu5/huobi-market](https://github.com/jsonwu5/huobi-market)|火币行情助手，实时查看您关注的币种，助您快速获取实时数据|35|2021-06-21|2021-03-01|
-|100|[ZTY18873242003/tongyimall](https://github.com/ZTY18873242003/tongyimall)|高仿小米商城用户端，是Vue + SpringBoot的前后端分离项目，包括首页门户、商品分类、首页轮播、商品展示、购物车、地址管理等部分。管理端在另一个仓库。|35|2021-08-07|2021-02-05|
+|95|[qingqingxuan/vue-admin-work](https://github.com/qingqingxuan/vue-admin-work)|🎉🎉🚀🚀🚀🚀vue-admin-work是一个中后台系统管理方案。使用 vue2.x  及周边全家桶工具开发而来。支持多种功能，不同角色权限🚀🚀🚀🎉🎉|36|2021-11-08|2021-05-16|
+|96|[lilishop/lilishop-uniapp](https://github.com/lilishop/lilishop-uniapp)|商城系统-移动端|36|2021-11-29|2021-05-14|
+|97|[lilishop/lilishop-ui](https://github.com/lilishop/lilishop-ui)|商城系统-前端|36|2021-12-12|2021-05-14|
+|98|[xxd763795151/kafka-console-ui](https://github.com/xxd763795151/kafka-console-ui)|一款快捷易用的轻量级kafka可视化管理平台|35|2021-12-19|2021-08-30|
+|99|[KAKETAKAGE/PixivAlbum](https://github.com/KAKETAKAGE/PixivAlbum)|Pixiv 离线化|35|2021-07-10|2021-06-03|
+|100|[ACFUN-FOSS/acfunlive-toolbox-client-Public](https://github.com/ACFUN-FOSS/acfunlive-toolbox-client-Public)|面向公众的直播工具箱源码|35|2021-12-10|2021-04-07|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

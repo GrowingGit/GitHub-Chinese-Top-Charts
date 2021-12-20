@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|196|2021-12-17|2021-04-18|
+|1|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|197|2021-12-17|2021-04-18|
 |2|[jamesfang8499/physics1](https://github.com/jamesfang8499/physics1)|-|75|2021-12-17|2021-07-15|
 |3|[Didnelpsun/Math](https://github.com/Didnelpsun/Math)|考研数学，数学一，包括高等数学、线性代数、概率统计|74|2021-12-11|2021-01-08|
 |4|[LogCreative/SJTUBeamermin](https://github.com/LogCreative/SJTUBeamermin)|上海交通大学 LaTeX Beamer 幻灯片模板 - VI 最小工作集|57|2021-11-05|2021-03-15|
@@ -19,7 +19,7 @@
 |12|[FvNCCR228/SCU_Beamer_Slide-demo](https://github.com/FvNCCR228/SCU_Beamer_Slide-demo)|四川大学非官方Beamer模板   Unofficial Beamer Template for Sichuan University|11|2021-12-08|2021-12-02|
 |13|[ShunJieZhang1995/NCKU_Master_Thesis_Latex_Template](https://github.com/ShunJieZhang1995/NCKU_Master_Thesis_Latex_Template)|National Cheng Kung University (NCKU) Thesis Template in LaTex.   國立成功大學碩士用畢業論文LaTex模版|11|2021-06-19|2021-02-21|
 |14|[Ianpundar/WHU-LaTex-Template](https://github.com/Ianpundar/WHU-LaTex-Template)|-|10|2021-12-13|2021-10-11|
-|15|[NelsonCheung-cn/SYSU-beamer-template](https://github.com/NelsonCheung-cn/SYSU-beamer-template)|a beamer template for sysu|10|2021-08-04|2021-06-16|
+|15|[NelsonCheung-cn/SYSU-beamer-template](https://github.com/NelsonCheung-cn/SYSU-beamer-template)|a beamer template for sysu|10|2021-12-19|2021-06-16|
 |16|[gilsaia/NKThesis_bachelor_cc](https://github.com/gilsaia/NKThesis_bachelor_cc)|南开计算机学院本科生毕设模板 根据硕士/博士模板修改而来|10|2021-06-11|2021-03-05|
 |17|[WoodyBryant/Report_Template](https://github.com/WoodyBryant/Report_Template)|Report_Template|9|2021-11-05|2021-09-19|
 |18|[freedomtan/coreml_to_ane_hwx](https://github.com/freedomtan/coreml_to_ane_hwx)|a quick and dirty little program to convert Apple CoreML model to ANE hwx file|9|2021-07-19|2021-05-25|
@@ -38,7 +38,7 @@
 |31|[axi-0925/Latex-](https://github.com/axi-0925/Latex-)|Latex中文简历，overleaf直接copy进行编辑|4|2021-06-19|2021-06-19|
 |32|[quaeast/BjfuLatexTemplate](https://github.com/quaeast/BjfuLatexTemplate)|北京林业大学毕设模板2021|4|2021-06-03|2021-04-29|
 |33|[GeeLaw/laomian](https://github.com/GeeLaw/laomian)|老面 (sourdough, lit. "old dough") is used as the starter for fermenting dough. This repository contains my digital 老面.|4|2021-12-08|2021-01-12|
-|34|[LLLgoyour/Handout](https://github.com/LLLgoyour/Handout)|王一老师上课配套的讲义|3|2021-12-12|2021-11-20|
+|34|[LLLgoyour/Handout](https://github.com/LLLgoyour/Handout)|王一老师上课配套的讲义|3|2021-12-19|2021-11-20|
 |35|[jiajunfanthu/NKU_Thisis](https://github.com/jiajunfanthu/NKU_Thisis)|南开人工智能学院毕业设计模板|3|2021-09-26|2021-09-26|
 |36|[Pavinberg/Journal-of-Computers-template](https://github.com/Pavinberg/Journal-of-Computers-template)|计算机学报 LaTeX 模板|3|2021-07-11|2021-07-11|
 |37|[hoganbin/Analysis-of-Mathematics-Competition](https://github.com/hoganbin/Analysis-of-Mathematics-Competition)|本文档是利用了latex中pdfpages包进行文档合并，包括了2009-2020年从第一届数学竞赛到第十二届所有预赛试题解析|3|2021-06-27|2021-06-27|

@@ -5,13 +5,13 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|A curated list of awesome awesomeness|28317|10|2021-12-08|
+|1|[bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)|A curated list of awesome awesomeness|28319|10|2021-12-08|
 |2|[r0eXpeR/fingerprint](https://github.com/r0eXpeR/fingerprint)|各种工具指纹收集分享|190|4|2021-11-03|
-|3|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5952|3|2021-12-18|
+|3|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5953|3|2021-12-18|
 |4|[guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)|A curated list of podcasts we like to listen to. |1602|1|2021-07-15|
-|5|[airbnb/ruby](https://github.com/airbnb/ruby)|Ruby Style Guide|3361|1|2021-09-21|
+|5|[airbnb/ruby](https://github.com/airbnb/ruby)|Ruby Style Guide|3362|1|2021-09-21|
 |6|[JapanExchangeGroup/J-Quants-Tutorial](https://github.com/JapanExchangeGroup/J-Quants-Tutorial)|J-Quants-Tutorial|106|0|2021-07-27|
-|7|[YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls)|🎉 A curated list of awesome things related to YOURLS|398|0|2021-12-16|
+|7|[YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls)|🎉 A curated list of awesome things related to YOURLS|399|0|2021-12-16|
 |8|[rubytaiwan/ruby-taiwan](https://github.com/rubytaiwan/ruby-taiwan)|ruby-taiwan.org website source code. # master 追 ruby-china , production 才是 ruby-taiwan|141|0|2021-09-27|
 |9|[erlzhang/erl.im](https://github.com/erlzhang/erl.im)|Blog博客|9|0|2021-09-27|
 |10|[liuzhenangel/RBlog](https://github.com/liuzhenangel/RBlog)|个人博客系统v2.0|36|0|2021-10-12|

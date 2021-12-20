@@ -6,7 +6,7 @@
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[qinwf/awesome-R](https://github.com/qinwf/awesome-R)|A curated list of awesome R packages, frameworks and software.|4858|2021-10-07|
-|2|[briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)|A curated list of awesome network analysis resources.|2524|2021-11-17|
+|2|[briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)|A curated list of awesome network analysis resources.|2525|2021-11-17|
 |3|[pzhaonet/bookdownplus](https://github.com/pzhaonet/bookdownplus)|The easiest way to use R package bookdown for  writing varied types of books and documents |227|2021-08-06|
 |4|[GuangchuangYu/biobabble](https://github.com/GuangchuangYu/biobabble)|公众号：biobabble|56|2021-09-26|
 |5|[cosname/rmarkdown-guide](https://github.com/cosname/rmarkdown-guide)|R Markdown 指南（一本八字还没一撇的中文书）|40|2021-12-08|

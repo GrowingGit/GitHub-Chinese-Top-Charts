@@ -9,10 +9,10 @@
 |2|[pzhaonet/mindr](https://github.com/pzhaonet/mindr)|an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms)|540|2021-11-22|
 |3|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|489|2021-12-17|
 |4|[GuangchuangYu/nCov2019](https://github.com/GuangchuangYu/nCov2019)|query stats of infected coronavirus cases|425|2021-06-10|
-|5|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|2021-12-18|
+|5|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|2021-12-19|
 |6|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|345|2021-12-16|
 |7|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|216|2021-12-19|
-|8|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|160|2021-07-17|
+|8|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|160|2021-12-19|
 |9|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|147|2021-10-10|
 |10|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|144|2021-12-19|
 |11|[hrbrmstr/docxtractr](https://github.com/hrbrmstr/docxtractr)|:scissors: Extract Tables from Microsoft Word Documents with R|144|2021-10-02|
@@ -34,7 +34,7 @@
 |27|[harryprince/geospark](https://github.com/harryprince/geospark)|bring sf to spark in production|46|2021-12-13|
 |28|[koheiw/newsmap](https://github.com/koheiw/newsmap)|Newsmap: geographical news classifier|46|2021-11-18|
 |29|[ykang51/bdar](https://github.com/ykang51/bdar)|巨量資料分析-使用 R 語言 (Big Data Analytics with R) lecture slides and source codes|45|2021-06-17|
-|30|[eco-hydro/phenofit](https://github.com/eco-hydro/phenofit)|R package: A state-of-the-art Vegetation Phenology extraction package, phenofit|43|2021-12-12|
+|30|[eco-hydro/phenofit](https://github.com/eco-hydro/phenofit)|R package: A state-of-the-art Vegetation Phenology extraction package, phenofit|43|2021-12-19|
 |31|[uribo/zipangu](https://github.com/uribo/zipangu)|Japanese utility functions and data|41|2021-12-11|
 |32|[pzhaonet/pinyin](https://github.com/pzhaonet/pinyin)|an R package for converting Chineses characters into pinyin|39|2021-08-22|
 |33|[koheiw/LSX](https://github.com/koheiw/LSX)|A word embeddings-based semi-supervised model for document scaling|38|2021-10-27|
@@ -44,14 +44,14 @@
 |37|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|31|2021-09-29|
 |38|[jincheng9/stock_crawler](https://github.com/jincheng9/stock_crawler)|R API for Crawling Stock and Index Data from Sina Finance|31|2021-11-08|
 |39|[mponce0/covid19.analytics](https://github.com/mponce0/covid19.analytics)|R package to obtain and analyze live data from the nCOVID19 coronavirus|30|2021-09-13|
-|40|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |30|2021-12-16|
-|41|[ahb108/rcarbon](https://github.com/ahb108/rcarbon)|Methods for calibrating and analysing radiocarbon dates|30|2021-12-15|
-|42|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|29|2021-12-17|
+|40|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|30|2021-12-17|
+|41|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |30|2021-12-16|
+|42|[ahb108/rcarbon](https://github.com/ahb108/rcarbon)|Methods for calibrating and analysing radiocarbon dates|30|2021-12-15|
 |43|[koheiw/seededlda](https://github.com/koheiw/seededlda)|Semisupervided LDA for theory-driven text analysis|29|2021-10-10|
 |44|[mlampros/textTinyR](https://github.com/mlampros/textTinyR)|Text Processing for Small or Big Data Files in R|29|2021-11-30|
 |45|[sbg/sevenbridges-r](https://github.com/sbg/sevenbridges-r)|Seven Bridges API Client, CWL Schema, Meta Schema, and SDK Helper in R|29|2021-08-16|
-|46|[taiyun/Optimization-using-R](https://github.com/taiyun/Optimization-using-R)|A Chinese document about optimization using R|26|2021-06-30|
-|47|[bnosac/ETM](https://github.com/bnosac/ETM)|Topic Modelling in Semantic Embedding Spaces|25|2021-11-11|
+|46|[bnosac/ETM](https://github.com/bnosac/ETM)|Topic Modelling in Semantic Embedding Spaces|26|2021-11-11|
+|47|[taiyun/Optimization-using-R](https://github.com/taiyun/Optimization-using-R)|A Chinese document about optimization using R|26|2021-06-30|
 |48|[YongxinLiu/EasyMicrobiome](https://github.com/YongxinLiu/EasyMicrobiome)|Scripts and databases for amplicon and metagenome|25|2021-10-27|
 |49|[mountainMath/tongfen](https://github.com/mountainMath/tongfen)|Convenience functions for making data on different geometries, especially Canadian census geometries, comparable.|24|2021-11-19|
 |50|[skgrange/rmweather](https://github.com/skgrange/rmweather)|Tools to Conduct Meteorological Normalisation on Air Quality Data|24|2021-10-14|

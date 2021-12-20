@@ -6,7 +6,7 @@
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|322|2021-12-17|2021-06-19|
-|2|[linkease/istore](https://github.com/linkease/istore)|一个支持 Openwrt 标准的软件中心实现。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|89|2021-12-16|2021-08-24|
+|2|[linkease/istore](https://github.com/linkease/istore)|一个支持 Openwrt 标准的软件中心实现。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|90|2021-12-16|2021-08-24|
 |3|[ryohuang/slim-wrt](https://github.com/ryohuang/slim-wrt)|Armor for Openwrt|66|2021-11-15|2021-02-20|
 |4|[FrSkyRC/ETHOS-Feedback-Community](https://github.com/FrSkyRC/ETHOS-Feedback-Community)|Feedbacks & suggestion are very appreciated on ETHOS of FrSky|54|2021-12-15|2021-03-09|
 |5|[bs10081/Rime-Cx330](https://github.com/bs10081/Rime-Cx330)|適配小鶴雙拼、全拼、五筆：支持部分中英混合輸入、Emoji輸入、簡繁轉換、傳承字標準字轉換、UTF-8 GBK編碼轉換、200萬詞庫覆蓋日常絕大多數場景。|47|2021-11-05|2021-01-27|
@@ -27,14 +27,14 @@
 |20|[k8scat/lua-resty-weauth](https://github.com/k8scat/lua-resty-weauth)|适用于 OpenResty / ngx_lua 的基于企业微信组织架构的登录认证|8|2021-11-24|2021-08-08|
 |21|[sg552/banana-waf](https://github.com/sg552/banana-waf)|非常简单好用的waf|6|2021-10-26|2021-10-26|
 |22|[copy0401/irime-bopomo-config](https://github.com/copy0401/irime-bopomo-config)|iRime 設定 新增注音輸入法 及 注音鍵盤主題|6|2021-12-15|2021-09-20|
-|23|[forleoshare/auto_use_treasure_map](https://github.com/forleoshare/auto_use_treasure_map)|梦幻西游自动挖宝，触动精灵开源脚本，适用设备1920x1080，需要root|6|2021-07-08|2021-07-05|
-|24|[awesomeusername69420/meth_tools](https://github.com/awesomeusername69420/meth_tools)|Tools made for https://methamphetamine.solutions/|6|2021-12-16|2021-06-07|
-|25|[DeadlyBossMods/DBM-TBC-Classic](https://github.com/DeadlyBossMods/DBM-TBC-Classic)|The ultimate encounter helper (for TBC) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|6|2021-12-19|2021-04-01|
-|26|[N0zza/MappaMundi](https://github.com/N0zza/MappaMundi)|-|6|2021-12-19|2021-02-18|
-|27|[yuanyan3060/Arknights-Bot-Resource](https://github.com/yuanyan3060/Arknights-Bot-Resource)|明日方舟bot常用素材|5|2021-12-15|2021-11-28|
-|28|[XMTongXie/proxmark3](https://github.com/XMTongXie/proxmark3)|proxmark3使用手册，驱动，连接工具|5|2021-10-15|2021-10-15|
-|29|[super-goodman/lua-script](https://github.com/super-goodman/lua-script)|lua 脚本|5|2021-11-25|2021-08-06|
-|30|[ZAA03/lua_action](https://github.com/ZAA03/lua_action)|一键签到，葫芦侠3楼，芥子空间|5|2021-08-27|2021-07-09|
+|23|[ZAA03/lua_action](https://github.com/ZAA03/lua_action)|一键签到，葫芦侠3楼，芥子空间|6|2021-08-27|2021-07-09|
+|24|[forleoshare/auto_use_treasure_map](https://github.com/forleoshare/auto_use_treasure_map)|梦幻西游自动挖宝，触动精灵开源脚本，适用设备1920x1080，需要root|6|2021-07-08|2021-07-05|
+|25|[awesomeusername69420/meth_tools](https://github.com/awesomeusername69420/meth_tools)|Tools made for https://methamphetamine.solutions/|6|2021-12-19|2021-06-07|
+|26|[DeadlyBossMods/DBM-TBC-Classic](https://github.com/DeadlyBossMods/DBM-TBC-Classic)|The ultimate encounter helper (for TBC) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|6|2021-12-19|2021-04-01|
+|27|[N0zza/MappaMundi](https://github.com/N0zza/MappaMundi)|-|6|2021-12-19|2021-02-18|
+|28|[yuanyan3060/Arknights-Bot-Resource](https://github.com/yuanyan3060/Arknights-Bot-Resource)|明日方舟bot常用素材|5|2021-12-19|2021-11-28|
+|29|[XMTongXie/proxmark3](https://github.com/XMTongXie/proxmark3)|proxmark3使用手册，驱动，连接工具|5|2021-10-15|2021-10-15|
+|30|[super-goodman/lua-script](https://github.com/super-goodman/lua-script)|lua 脚本|5|2021-11-25|2021-08-06|
 |31|[DreamAfar/Rime-IME-for-iOS-iRime](https://github.com/DreamAfar/Rime-IME-for-iOS-iRime)|这是个人的使用的iRime仓库，主要用于记录： iRime輸入法-   基于Rime输入法框架开发的iOS端Rime输入法|5|2021-07-05|2021-07-02|
 |32|[zkqiang/rime-dict](https://github.com/zkqiang/rime-dict)|Rime 词库 for 朙月拼音，700 万词条|5|2021-11-15|2021-06-03|
 |33|[hcaihao/FetionHelper](https://github.com/hcaihao/FetionHelper)|和飞信助手，实现了发送消息/图片/群聊，利用移动接口发送短信等。|5|2021-12-13|2021-05-15|
@@ -43,7 +43,7 @@
 |36|[Kiana1337/GamesenseLuaCloudloader](https://github.com/Kiana1337/GamesenseLuaCloudloader)|一个简单的Gamesense Lua云加载框架。|4|2021-11-18|2021-05-13|
 |37|[VoidmatrixHeathcliff/RandomPic](https://github.com/VoidmatrixHeathcliff/RandomPic)|开箱即用的 随机图片 服务器|4|2021-08-12|2021-05-11|
 |38|[xiyoo0812/luaoop](https://github.com/xiyoo0812/luaoop)|一个 lua 面向对象机制的实现。|4|2021-12-10|2021-04-22|
-|39|[openLuat/luatos-wiki](https://github.com/openLuat/luatos-wiki)|luatos文档|4|2021-12-17|2021-02-06|
+|39|[openLuat/luatos-wiki](https://github.com/openLuat/luatos-wiki)|luatos文档|4|2021-12-19|2021-02-06|
 |40|[Miaow233/Dingtalk_createLike](https://github.com/Miaow233/Dingtalk_createLike)|一个钉钉点赞小工具，使用FusionApp制作|3|2021-11-13|2021-09-05|
 |41|[opq-osc/lua-lib](https://github.com/opq-osc/lua-lib)|进一步封装 OPQ 的 lua api，调用更统一，简化开发，去除插件冗余代码, 免受 OPQ wiki 的困扰|3|2021-08-09|2021-07-29|
 |42|[opq-osc/lua-plugins](https://github.com/opq-osc/lua-plugins)|适用于OPQBOT的一系列lua插件|3|2021-06-11|2021-06-03|

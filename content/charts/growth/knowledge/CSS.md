@@ -7,19 +7,19 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn)|FCC China open source codebase and curriculum. Learn to code and help nonprofits.|36576|19|2021-08-02|
 |2|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20375|7|2021-12-13|
-|3|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3468|5|2021-12-19|
+|3|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3471|5|2021-12-19|
 |4|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4236|4|2021-07-29|
 |5|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5964|3|2021-12-05|
-|6|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4520|3|2021-10-14|
+|6|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4519|3|2021-10-14|
 |7|[apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh)|:book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】|3616|3|2021-08-09|
-|8|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|436|3|2021-12-13|
-|9|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|3725|2|2021-12-16|
+|8|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|438|3|2021-12-13|
+|9|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|3727|2|2021-12-16|
 |10|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8328|2|2021-12-12|
 |11|[kaeyleo/jekyll-theme-H2O](https://github.com/kaeyleo/jekyll-theme-H2O)| 🎉 A clean and delicate Jekyll theme. Jekyll博客主题|902|1|2021-10-28|
 |12|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|2896|1|2021-12-02|
-|13|[Veal98/CS-Wiki](https://github.com/Veal98/CS-Wiki)|📙 致力打造完善的 Java 后端知识体系. Not only an Interview-Guide, but also a Learning-Direction.|505|1|2021-11-07|
+|13|[Veal98/CS-Wiki](https://github.com/Veal98/CS-Wiki)|📙 致力打造完善的 Java 后端知识体系. Not only an Interview-Guide, but also a Learning-Direction.|504|1|2021-12-19|
 |14|[yitd/wxkp](https://github.com/yitd/wxkp)|微信卡片分享链接在线制作工具|70|1|2021-12-11|
-|15|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|241|1|2021-12-16|
+|15|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|242|1|2021-12-16|
 |16|[viewweiwu/v2ex-zhihu-theme](https://github.com/viewweiwu/v2ex-zhihu-theme)|v2ex 知乎 主题样式|12|1|2021-12-15|
 |17|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|198|1|2021-10-26|
 |18|[HanryYu/typora-blubook-theme](https://github.com/HanryYu/typora-blubook-theme)|Blubook, a flat typora theme.|353|1|2021-07-26|
@@ -86,7 +86,7 @@
 |79|[zhangkn/zhangkn.github.io](https://github.com/zhangkn/zhangkn.github.io)|新博客地址：https://kunnan.blog.csdn.net|19|0|2021-09-03|
 |80|[myPirlo/myPirlo.github.io](https://github.com/myPirlo/myPirlo.github.io)|用Github搭建个人博客|6|0|2021-07-12|
 |81|[omnilingo/omnilingo](https://github.com/omnilingo/omnilingo)|Listening-based language learning|23|0|2021-09-16|
-|82|[AIAHUB/HUST-AIA-Courses-Resource](https://github.com/AIAHUB/HUST-AIA-Courses-Resource)|HUST-AIA学院课程资源|35|0|2021-11-17|
+|82|[AIAHUB/HUST-AIA-Courses-Resource](https://github.com/AIAHUB/HUST-AIA-Courses-Resource)|HUST-AIA学院课程资源|36|0|2021-11-17|
 |83|[coolrare/DCT-108014](https://github.com/coolrare/DCT-108014)|《台北》Angular 7 開發實戰：進階開發篇|6|0|2021-10-05|
 |84|[TomMao-CN/MyRepo](https://github.com/TomMao-CN/MyRepo)|后台通用管理系统，使用asp.net mvc +sqlserver+ vue cli4 + elementUI + typescript。实现登陆，身份认证，权限分配，管理员的增删改查,博客的增删改查，爬取天气数据。花生壳内网穿透：|6|0|2021-10-06|
 |85|[jhao104/django-blog](https://github.com/jhao104/django-blog)|django搭建博客|384|0|2021-06-10|

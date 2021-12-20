@@ -12,14 +12,14 @@
 |5|[darkbitio/aws-recon](https://github.com/darkbitio/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|385|1|2021-12-02|
 |6|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3511|1|2021-12-18|
 |7|[peatio/peatio](https://github.com/peatio/peatio)|An open-source assets exchange.|3504|1|2021-12-08|
-|8|[nomad/shenzhen](https://github.com/nomad/shenzhen)|CLI for Building & Distributing iOS Apps (.ipa Files)|4668|1|2021-06-20|
+|8|[nomad/shenzhen](https://github.com/nomad/shenzhen)|CLI for Building & Distributing iOS Apps (.ipa Files)|4667|1|2021-06-20|
 |9|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3412|1|2021-12-19|
-|10|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1725|1|2021-11-28|
+|10|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1726|1|2021-11-28|
 |11|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|513|1|2021-12-19|
 |12|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|1886|1|2021-12-16|
 |13|[pluosi/app-host](https://github.com/pluosi/app-host)|应用内网发布   iOS OTA (Over-the-Air)   APP publish website like fir.im    适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包|1793|1|2021-11-04|
 |14|[rikas/zoho_hub](https://github.com/rikas/zoho_hub)|Zoho CRM API V2 Wrapper|20|0|2021-09-01|
-|15|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|363|0|2021-12-17|
+|15|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|364|0|2021-12-17|
 |16|[courtenay/splam](https://github.com/courtenay/splam)|Simple, pluggable, easily customizable score-based spam filter plugin for Ruby-based applications|108|0|2021-10-25|
 |17|[kenn/active_flag](https://github.com/kenn/active_flag)|Bit array for ActiveRecord|94|0|2021-10-28|
 |18|[aozorahack/aozorabunko_text](https://github.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|45|0|2021-12-19|
@@ -43,7 +43,7 @@
 |36|[FunnyWolf/vipermsf](https://github.com/FunnyWolf/vipermsf)|viper 自定义的msf|46|0|2021-11-09|
 |37|[encoreshao/china_regions](https://github.com/encoreshao/china_regions)|Ruby Library for China Regions|23|0|2021-12-02|
 |38|[bitoex/bitopro-api-ruby](https://github.com/bitoex/bitopro-api-ruby)|API Wrapper gem for the Bitopro(幣託) crypto currency exchange written in Ruby.|15|0|2021-07-13|
-|39|[L-codes/pwcrack-framework](https://github.com/L-codes/pwcrack-framework)|Password Crack Framework|195|0|2021-12-12|
+|39|[L-codes/pwcrack-framework](https://github.com/L-codes/pwcrack-framework)|Password Crack Framework|196|0|2021-12-12|
 |40|[X140Yu/debug_cocoapods_plugins_in_vscode](https://github.com/X140Yu/debug_cocoapods_plugins_in_vscode)|-|54|0|2021-06-26|
 |41|[eyp/redmine_spent_time](https://github.com/eyp/redmine_spent_time)|Redmine plugin that improves the spent time functionality.|57|0|2021-11-12|
 |42|[FIRHQ/fastlane-plugin-fir_cli](https://github.com/FIRHQ/fastlane-plugin-fir_cli)|betaqr.com(fir.im) fastlane plugin|39|0|2021-10-27|
@@ -51,7 +51,7 @@
 |44|[tdiary/tdiary-blogkit](https://github.com/tdiary/tdiary-blogkit)|more blogged for tDiary|13|0|2021-11-30|
 |45|[mycolorway/wework](https://github.com/mycolorway/wework)|Wework is ruby API wrapper for  wechat work「企业微信」.|24|0|2021-11-11|
 |46|[citahub/re-birth](https://github.com/citahub/re-birth)|A blockchain explorer cache server for CITA|12|0|2021-10-12|
-|47|[coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp)|☯️ CoderDojo Japan (@coderdojo-japan) official website developed by Ruby on Rails with @YassLab team. 💎|53|0|2021-12-08|
+|47|[coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp)|☯️ CoderDojo Japan (@coderdojo-japan) official website developed by Ruby on Rails with @YassLab team. 💎|53|0|2021-12-19|
 |48|[algobasket/PeatioCryptoExchange](https://github.com/algobasket/PeatioCryptoExchange)|An open-source Crypto-Currency exchange. Peatio v3.0 Coming Soon !  |152|0|2021-09-27|
 |49|[janx/ruby-pinyin](https://github.com/janx/ruby-pinyin)|中文汉字转拼音,　支持中英文符号混合词语。Pinyin is a romanization system (phonemic notation) of Chinese characters, this gem helps you to convert Chinese characters into pinyin form.|526|0|2021-08-21|
 |50|[rkh/nii](https://github.com/rkh/nii)|Modern internationalization and localization solution for Ruby|19|0|2021-10-20|
@@ -75,36 +75,36 @@
 |68|[jhjguxin/weixin](https://github.com/jhjguxin/weixin)|微信公众平台 开放消息接口|21|0|2021-07-12|
 |69|[yuchiXiong/pilipala](https://github.com/yuchiXiong/pilipala)|基于rails构建的博客系统|9|0|2021-11-29|
 |70|[kaich/codeobscure](https://github.com/kaich/codeobscure)|code obscure for object-c project.  方便强大的OC工程代码自动混淆工具|523|0|2021-07-02|
-|71|[etrex/kamigo](https://github.com/etrex/kamigo)|a chatbot framework based on rails|54|0|2021-11-12|
-|72|[cyril/r_spec-clone.rb](https://github.com/cyril/r_spec-clone.rb)|A minimalist RSpec clone with all the essentials.|18|0|2021-08-04|
-|73|[mataki/dekiru](https://github.com/mataki/dekiru)|Usefull helper methods for Ruby on Rails|25|0|2021-11-02|
-|74|[bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD)|-|130|0|2021-11-26|
-|75|[chengdh/manage-huo-baby](https://github.com/chengdh/manage-huo-baby)|管货宝-功能齐备的零担(专线)物流业务平台|50|0|2021-06-10|
-|76|[wu-kan/wu-kan.github.io](https://github.com/wu-kan/wu-kan.github.io)|:sparkles: my homepage & template for jekyll-theme-WuK|190|0|2021-12-09|
-|77|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|13|0|2021-12-14|
-|78|[jpmobile/jpmobile](https://github.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|317|0|2021-12-17|
-|79|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|8|0|2021-11-04|
-|80|[bingohuang/progit2-gitbook](https://github.com/bingohuang/progit2-gitbook)|Pro Gi­t 第二版 ­简体中文|292|0|2021-09-06|
-|81|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast and smart citation reference parsing|557|0|2021-11-28|
-|82|[coreyhaines/happinessbot](https://github.com/coreyhaines/happinessbot)|Spreading joy and love|62|0|2021-07-12|
-|83|[saberma/shopqi](https://github.com/saberma/shopqi)|An open source clone of Shopify.|810|0|2021-09-27|
-|84|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|18|0|2021-12-18|
-|85|[jfqd/redmine_helpdesk](https://github.com/jfqd/redmine_helpdesk)|Lightweight helpdesk plugin for redmine.|168|0|2021-09-03|
-|86|[VICTOR-LUO-F/aliyun-sms](https://github.com/VICTOR-LUO-F/aliyun-sms)|a Ruby Gem for using aliyun sms service. 一个应用阿里云短信推送服务的Ruby Gem。|64|0|2021-07-10|
-|87|[qiniu/ruby-sdk](https://github.com/qiniu/ruby-sdk)|Qiniu Resource (Cloud) Storage SDK for Ruby|161|0|2021-09-23|
-|88|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|9|0|2021-12-09|
-|89|[infused/dbf](https://github.com/infused/dbf)|DBF is a small fast Ruby library for reading dBase, xBase, Clipper and FoxPro database files|237|0|2021-08-20|
-|90|[jodeci/fortuna](https://github.com/jodeci/fortuna)|台灣公司專用薪資計算系統|10|0|2021-11-04|
-|91|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|633|0|2021-11-05|
-|92|[davearonson/pull-request-roulette](https://github.com/davearonson/pull-request-roulette)|Site to match up developers with people willing to comment on their pull requests|28|0|2021-09-07|
-|93|[dao42/rails-template](https://github.com/dao42/rails-template)|A best & newest & fastest rails 6.x template for senior rails developer.|378|0|2021-06-16|
-|94|[yuchuanfeng/CFGifEmotionDemo](https://github.com/yuchuanfeng/CFGifEmotionDemo)|gif图文混排、动态图片、动态表情、网络图片图文混排、gif表情|28|0|2021-11-22|
-|95|[qinmingyuan/default_form](https://github.com/qinmingyuan/default_form)|moved to work-design/rails_com|14|0|2021-09-03|
-|96|[GITHZZ/UnityiOSExporter](https://github.com/GITHZZ/UnityiOSExporter)|用于Unity-iOS导出ipa的打包工具--ipa export tool for unity|15|0|2021-07-10|
-|97|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|10|0|2021-10-29|
-|98|[githubmaidou/tools](https://github.com/githubmaidou/tools)|Python渗透漏洞工具|232|0|2021-08-16|
-|99|[hlcfan/pokr](https://github.com/hlcfan/pokr)|Make agile estimating and planning easy with our online planning or scrum poker tool|49|0|2021-10-12|
-|100|[two-pack/redmine_xls_export](https://github.com/two-pack/redmine_xls_export)|Redmine XLS Export plugin from http://www.redmine.org/plugins/redmine_xls_export|62|0|2021-11-03|
+|71|[brenes/stopwords-filter](https://github.com/brenes/stopwords-filter)|Project for filtering stopwords|64|0|2021-12-14|
+|72|[etrex/kamigo](https://github.com/etrex/kamigo)|a chatbot framework based on rails|54|0|2021-11-12|
+|73|[cyril/r_spec-clone.rb](https://github.com/cyril/r_spec-clone.rb)|A minimalist RSpec clone with all the essentials.|18|0|2021-08-04|
+|74|[mataki/dekiru](https://github.com/mataki/dekiru)|Usefull helper methods for Ruby on Rails|25|0|2021-11-02|
+|75|[bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD)|-|130|0|2021-11-26|
+|76|[chengdh/manage-huo-baby](https://github.com/chengdh/manage-huo-baby)|管货宝-功能齐备的零担(专线)物流业务平台|50|0|2021-06-10|
+|77|[wu-kan/wu-kan.github.io](https://github.com/wu-kan/wu-kan.github.io)|:sparkles: my homepage & template for jekyll-theme-WuK|190|0|2021-12-19|
+|78|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|13|0|2021-12-14|
+|79|[jpmobile/jpmobile](https://github.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|317|0|2021-12-17|
+|80|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|8|0|2021-11-04|
+|81|[bingohuang/progit2-gitbook](https://github.com/bingohuang/progit2-gitbook)|Pro Gi­t 第二版 ­简体中文|292|0|2021-09-06|
+|82|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast and smart citation reference parsing|557|0|2021-11-28|
+|83|[coreyhaines/happinessbot](https://github.com/coreyhaines/happinessbot)|Spreading joy and love|62|0|2021-07-12|
+|84|[saberma/shopqi](https://github.com/saberma/shopqi)|An open source clone of Shopify.|810|0|2021-09-27|
+|85|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|18|0|2021-12-19|
+|86|[jfqd/redmine_helpdesk](https://github.com/jfqd/redmine_helpdesk)|Lightweight helpdesk plugin for redmine.|168|0|2021-09-03|
+|87|[VICTOR-LUO-F/aliyun-sms](https://github.com/VICTOR-LUO-F/aliyun-sms)|a Ruby Gem for using aliyun sms service. 一个应用阿里云短信推送服务的Ruby Gem。|64|0|2021-07-10|
+|88|[qiniu/ruby-sdk](https://github.com/qiniu/ruby-sdk)|Qiniu Resource (Cloud) Storage SDK for Ruby|161|0|2021-09-23|
+|89|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|9|0|2021-12-09|
+|90|[infused/dbf](https://github.com/infused/dbf)|DBF is a small fast Ruby library for reading dBase, xBase, Clipper and FoxPro database files|237|0|2021-08-20|
+|91|[jodeci/fortuna](https://github.com/jodeci/fortuna)|台灣公司專用薪資計算系統|10|0|2021-11-04|
+|92|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|633|0|2021-11-05|
+|93|[davearonson/pull-request-roulette](https://github.com/davearonson/pull-request-roulette)|Site to match up developers with people willing to comment on their pull requests|28|0|2021-09-07|
+|94|[dao42/rails-template](https://github.com/dao42/rails-template)|A best & newest & fastest rails 6.x template for senior rails developer.|378|0|2021-06-16|
+|95|[yuchuanfeng/CFGifEmotionDemo](https://github.com/yuchuanfeng/CFGifEmotionDemo)|gif图文混排、动态图片、动态表情、网络图片图文混排、gif表情|28|0|2021-11-22|
+|96|[qinmingyuan/default_form](https://github.com/qinmingyuan/default_form)|moved to work-design/rails_com|14|0|2021-09-03|
+|97|[GITHZZ/UnityiOSExporter](https://github.com/GITHZZ/UnityiOSExporter)|用于Unity-iOS导出ipa的打包工具--ipa export tool for unity|15|0|2021-07-10|
+|98|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|10|0|2021-10-29|
+|99|[githubmaidou/tools](https://github.com/githubmaidou/tools)|Python渗透漏洞工具|232|0|2021-08-16|
+|100|[hlcfan/pokr](https://github.com/hlcfan/pokr)|Make agile estimating and planning easy with our online planning or scrum poker tool|49|0|2021-10-12|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

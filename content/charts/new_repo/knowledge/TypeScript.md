@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|3535|2021-12-16|2021-01-21|
-|2|[sorrycc/weekly](https://github.com/sorrycc/weekly)|前端周刊，每周一发布。|750|2021-12-12|2021-05-06|
+|1|[Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|3536|2021-12-16|2021-01-21|
+|2|[sorrycc/weekly](https://github.com/sorrycc/weekly)|前端周刊，每周一发布。|750|2021-12-19|2021-05-06|
 |3|[chowa/ejyy](https://github.com/chowa/ejyy)|「e家宜业」是一整套开源、无加密、无阉割的智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。|492|2021-12-11|2021-11-08|
 |4|[bytedance/guide](https://github.com/bytedance/guide)|A new feature guide component by react 🧭|459|2021-08-07|2021-04-29|
 |5|[meowtec/relyzer](https://github.com/meowtec/relyzer)|Debugger for React functional components. Online demo: https://meowtec.github.io/relyzer/examples/todomvc/build/|133|2021-11-10|2021-01-26|

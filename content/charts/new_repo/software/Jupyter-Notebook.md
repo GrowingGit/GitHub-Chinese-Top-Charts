@@ -5,9 +5,9 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|746|2021-12-16|2021-04-07|
+|1|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|747|2021-12-16|2021-04-07|
 |2|[ga642381/ML2021-Spring](https://github.com/ga642381/ML2021-Spring)|**Official** 李宏毅 (Hung-yi Lee) 機器學習 Machine Learning 2021 Spring|412|2021-06-18|2021-03-01|
-|3|[4paradigm/AutoX](https://github.com/4paradigm/AutoX)|AutoX is an efficient automl tool, which is mainly aimed at data mining competitions with tabular data.|320|2021-12-16|2021-07-21|
+|3|[4paradigm/AutoX](https://github.com/4paradigm/AutoX)|AutoX is an efficient automl tool, which is mainly aimed at data mining competitions with tabular data.|321|2021-12-16|2021-07-21|
 |4|[d2l-ai/d2l-zh-pytorch-slides](https://github.com/d2l-ai/d2l-zh-pytorch-slides)|Pytorch版代码幻灯片|251|2021-12-19|2021-02-04|
 |5|[luo3300612/Visualizer](https://github.com/luo3300612/Visualizer)|assistant tools for attention visualization in deep learning|186|2021-08-11|2021-08-09|
 |6|[44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel)|基于思源黑体的开源像素字体|170|2021-08-20|2021-08-18|

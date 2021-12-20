@@ -10,9 +10,9 @@
 |3|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|2421|2|2021-11-13|
 |4|[summerblue/laravel-shop](https://github.com/summerblue/laravel-shop)|Laravel 电商实战教程的项目代码|2341|2|2021-10-05|
 |5|[bettershop/LaikeTui](https://github.com/bettershop/LaikeTui)|来客电商，微信小程序商城 + APP商城 + 公众号商城 + PC商城系统 + 支付宝小程序商城 + 抖音小程序商城 + 百度小程序电商系统（前后端代码全部开源） 注重界面美感与用户体验，打造独特电商系统生态圈|551|1|2021-12-17|
-|6|[xzncit/A3Mall](https://github.com/xzncit/A3Mall)|A3Mall B2C开源商城系统使用Thinkphp6开源框架，前端采用uniapp开发，支持微信公众号商城、H5商城、小程序商城、APP商城、PC商城，前后端源码100%开源，支持免费商用。|434|1|2021-12-16|
+|6|[xzncit/A3Mall](https://github.com/xzncit/A3Mall)|A3Mall B2C开源商城系统使用Thinkphp6开源框架，前端采用uniapp开发，支持微信公众号商城、H5商城、小程序商城、APP商城、PC商城，前后端源码100%开源，支持免费商用。|435|1|2021-12-16|
 |7|[leadshop/leadshop](https://github.com/leadshop/leadshop)|Leadshop是一款提供持续更新迭代服务的轻量级、高性能开源电商系统，前后端分离（uniapp +电商专用yii2.0），可视化DIY拖拽装修，旨在打造极致的用户体验！ 支持微信小程序，公众号等|137|1|2021-11-23|
-|8|[magicblack/maccms10](https://github.com/magicblack/maccms10)|苹果cms官网,苹果cmsv10,maccmsv10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序|1127|1|2021-12-13|
+|8|[magicblack/maccms10](https://github.com/magicblack/maccms10)|苹果cms官网,苹果cmsv10,maccmsv10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序|1127|1|2021-12-19|
 |9|[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)|A list of ICs and IPs for AI, Machine Learning and Deep Learning.|1202|1|2021-12-03|
 |10|[xianyunyh/PHP-Interview](https://github.com/xianyunyh/PHP-Interview)|This is the information I prepared for the PHP interview.The notes include PHP, MySql, Linux, etc.|1134|1|2021-12-12|
 |11|[FlxSNX/TeambitionShare](https://github.com/FlxSNX/TeambitionShare)|挂载Teambition文件 可直链分享 支持网盘(需申请)和项目文件(无需邀请码)|341|1|2021-06-16|
@@ -21,8 +21,8 @@
 |14|[dnomd343/Encryption365](https://github.com/dnomd343/Encryption365)|Encryption365免费IP证书命令行工具|72|1|2021-10-24|
 |15|[xiebruce/PicUploader](https://github.com/xiebruce/PicUploader)|一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。|948|1|2021-09-30|
 |16|[helloxz/onenav](https://github.com/helloxz/onenav)|使用PHP开发的简约导航/书签管理系统。|467|1|2021-09-10|
-|17|[wususu/effective-resourses](https://github.com/wususu/effective-resourses)| :book:学习资源整合|1839|1|2021-06-10|
-|18|[iqiqiya/iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API)|API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封 ...|1072|1|2021-08-26|
+|17|[wususu/effective-resourses](https://github.com/wususu/effective-resourses)| :book:学习资源整合|1840|1|2021-06-10|
+|18|[iqiqiya/iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API)|API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封 ...|1071|1|2021-08-26|
 |19|[xiaochong0302/course-tencent-cloud](https://github.com/xiaochong0302/course-tencent-cloud)|网课系统，网校系统，知识付费系统，在线教育系统，基于高性能 C 扩展框架 Phalcon ，可免费商用。|482|1|2021-11-28|
 |20|[Fanli2012/nbnbk](https://github.com/Fanli2012/nbnbk)|基于thinkphp5的cms管理系统，B2C电商开源php商城系统平台，tp5开源cms，thinkphp企业网站源码，适合博客、中小企业建站二次开发。|65|0|2021-10-14|
 |21|[lcp0578/cheat-sheets](https://github.com/lcp0578/cheat-sheets)|:elephant: :elephant: my cheat sheets :memo: , Symfony, Go, Python, MySQL, Twig, Doctrine, Nginx, ElasticSearch, TiDB, Linux etc.|43|0|2021-12-06|

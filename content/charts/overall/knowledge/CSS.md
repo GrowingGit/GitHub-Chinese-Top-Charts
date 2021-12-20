@@ -9,20 +9,20 @@
 |2|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20375|2021-12-13|
 |3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8328|2021-12-12|
 |4|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5964|2021-12-05|
-|5|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4520|2021-10-14|
+|5|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4519|2021-10-14|
 |6|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4236|2021-07-29|
-|7|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|3725|2021-12-16|
+|7|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|3727|2021-12-16|
 |8|[apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh)|:book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】|3616|2021-08-09|
-|9|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3468|2021-12-19|
+|9|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3471|2021-12-19|
 |10|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|2896|2021-12-02|
 |11|[beeth0ven/RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation)|RxSwift 中文文档|1212|2021-10-25|
 |12|[leopardpan/leopardpan.github.io](https://github.com/leopardpan/leopardpan.github.io)|个人博客，看效果进入|1160|2021-10-17|
 |13|[kaeyleo/jekyll-theme-H2O](https://github.com/kaeyleo/jekyll-theme-H2O)| 🎉 A clean and delicate Jekyll theme. Jekyll博客主题|902|2021-10-28|
 |14|[ahangchen/Chromium_doc_zh](https://github.com/ahangchen/Chromium_doc_zh)|Chromium中文文档，学习google家的架构|627|2021-07-02|
 |15|[ldqk/Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs)|ldqk.xyz个人博客站项目源码，https://masuit.org ，供参考、学习、引用、非商业性质的部署。基于.net6|611|2021-12-17|
-|16|[Veal98/CS-Wiki](https://github.com/Veal98/CS-Wiki)|📙 致力打造完善的 Java 后端知识体系. Not only an Interview-Guide, but also a Learning-Direction.|505|2021-11-07|
+|16|[Veal98/CS-Wiki](https://github.com/Veal98/CS-Wiki)|📙 致力打造完善的 Java 后端知识体系. Not only an Interview-Guide, but also a Learning-Direction.|504|2021-12-19|
 |17|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|490|2021-11-30|
-|18|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|436|2021-12-13|
+|18|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|438|2021-12-13|
 |19|[xupsh/pp4fpgas-cn](https://github.com/xupsh/pp4fpgas-cn)|中文版 Parallel Programming for FPGAs|407|2021-10-26|
 |20|[jhao104/django-blog](https://github.com/jhao104/django-blog)|django搭建博客|384|2021-06-10|
 |21|[fuzhengwei/itstack-demo-netty](https://github.com/fuzhengwei/itstack-demo-netty)|微信公众号：bugstack虫洞栈   专注于原创开发专题案例。跟着案例学Netty，Netty4.x案例从简单入门到应用实战，全篇37章节优秀案例+实战源码[基础篇(13)、中级篇(13)、高级篇(3章+)、源码分析篇]，以上章节全部完成并不断持续更新中。欢迎关注公众号：bugstack虫洞栈   阅读专题文章+调试案例源码学习｛回复netty案例｝。|360|2021-12-09|
@@ -30,7 +30,7 @@
 |23|[rawchen/blog-ssm](https://github.com/rawchen/blog-ssm)|一个简单漂亮的SSM博客系统。|344|2021-12-05|
 |24|[ahangchen/windy-afternoon](https://github.com/ahangchen/windy-afternoon)|Gitbook based Blog, Android, Linux, Deep Learning, Computer Vision|264|2021-12-13|
 |25|[liuhuanyong/liuhuanyong.github.io](https://github.com/liuhuanyong/liuhuanyong.github.io)|面向中文自然语言处理的六十余类实践项目及学习索引，涵盖语言资源构建、社会计算、自然语言处理组件、知识图谱、事理图谱、知识抽取、情感分析、深度学习等几个学习主题。包括作者个人简介、学习心得、语言资源、工业落地系统等，是供自然语言处理入门学习者的一个较为全面的学习资源，欢迎大家使用，并提出批评意见。|250|2021-11-13|
-|26|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|241|2021-12-16|
+|26|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|242|2021-12-16|
 |27|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|198|2021-10-26|
 |28|[frankcbliu/Interview_Notes](https://github.com/frankcbliu/Interview_Notes)|📚 程序员面试基础知识总结、优质项目分享、助力春招秋招|181|2021-12-14|
 |29|[idealclover/Life-in-NJU](https://github.com/idealclover/Life-in-NJU)|🏠 南哪指南—南哪大学网址导航|160|2021-08-22|
@@ -70,8 +70,8 @@
 |63|[Azure/OCPCHINATECH](https://github.com/Azure/OCPCHINATECH)|OCPOpenHack is a lab gallery on Azure Services for China partners. Pls join in us to learn Azure and to learn Microsoft.|45|2021-11-05|
 |64|[missing-semester-zh-Hant/missing-semester-zh-Hant.github.io](https://github.com/missing-semester-zh-Hant/missing-semester-zh-Hant.github.io)|Traditional Chinese translation of course "The Missing Semester of Your CS Education"|38|2021-09-28|
 |65|[docrails-tw/guides](https://github.com/docrails-tw/guides)|:books: The Source of http://rails.ruby.tw|37|2021-10-04|
-|66|[channingbreeze/phaser-tutorial](https://github.com/channingbreeze/phaser-tutorial)|Phaser从入门到精通|36|2021-10-26|
-|67|[AIAHUB/HUST-AIA-Courses-Resource](https://github.com/AIAHUB/HUST-AIA-Courses-Resource)|HUST-AIA学院课程资源|35|2021-11-17|
+|66|[AIAHUB/HUST-AIA-Courses-Resource](https://github.com/AIAHUB/HUST-AIA-Courses-Resource)|HUST-AIA学院课程资源|36|2021-11-17|
+|67|[channingbreeze/phaser-tutorial](https://github.com/channingbreeze/phaser-tutorial)|Phaser从入门到精通|36|2021-10-26|
 |68|[jsksxs360/xs-huxblog](https://github.com/jsksxs360/xs-huxblog)|一个用于搭建个人博客的 Jekyll 模板|35|2021-12-09|
 |69|[yn-zxj/Typecho_Admin_Theme](https://github.com/yn-zxj/Typecho_Admin_Theme)|Typecho博客后台主题|32|2021-08-20|
 |70|[xunlutzp/xunlutzp.github.io](https://github.com/xunlutzp/xunlutzp.github.io)|《寻路桐梓坡》全文及GitBook网页|31|2021-06-04|

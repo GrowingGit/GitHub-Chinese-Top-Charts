@@ -5,32 +5,32 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[ming1016/SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册|1031|2021-12-18|2021-11-13|
-|2|[ruanjx/VideoLab](https://github.com/ruanjx/VideoLab)|High-performance and flexible video editing and effects framework, based on AVFoundation and Metal.|464|2021-06-26|2021-02-21|
-|3|[cmushroom/redis-pro](https://github.com/cmushroom/redis-pro)|redis-pro redis 桌面管理工具|408|2021-12-17|2021-01-19|
-|4|[Masayuki-JP/Health-Habit-Assistant](https://github.com/Masayuki-JP/Health-Habit-Assistant)|A simple health assistant app built in Swift5 for iPhone 📱 |314|2021-06-29|2021-02-09|
-|5|[Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11)| 💻 Windows 11 in SwiftUI.|111|2021-10-13|2021-08-31|
-|6|[william0wang/MagicCamera](https://github.com/william0wang/MagicCamera)|iOS多功能AI相机：人像卡通化、变老变年轻、美颜、滤镜、艺术效果等|89|2021-11-08|2021-10-29|
-|7|[Co2333/FishUpgrade](https://github.com/Co2333/FishUpgrade)|macOS 摸鱼模拟器|69|2021-12-18|2021-12-16|
-|8|[pujiaxin33/StackUI](https://github.com/pujiaxin33/StackUI)|StackUI just like SwiftUI|69|2021-11-29|2021-10-14|
-|9|[BugenZhao/MNGA](https://github.com/BugenZhao/MNGA)|💬 A refreshing NGA Forum App in SwiftUI. Make NGA Great Again! aka "NGA 论坛 iOS 开源客户端"|53|2021-12-11|2021-06-27|
-|10|[Astrian/switshot](https://github.com/Astrian/switshot)|Console screenshot transfer|52|2021-12-07|2021-09-10|
-|11|[iwill/ExCodable](https://github.com/iwill/ExCodable)|Key-Mapping Extensions for Swift Codable|45|2021-12-09|2021-02-08|
-|12|[simon9211/privacyInsight](https://github.com/simon9211/privacyInsight)|读取app「记录App活动」文件，展示app访问权限及网络记录|43|2021-10-28|2021-10-18|
-|13|[CoderHuiYu/MMAdvertScrollView](https://github.com/CoderHuiYu/MMAdvertScrollView)|一个简单、轻量级的swift版公告轮播框架|42|2021-09-15|2021-01-26|
-|14|[fatbobman/NavigationViewKit](https://github.com/fatbobman/NavigationViewKit)|NavigationViewKit is a NavigationView extension library for SwiftUI.|38|2021-12-16|2021-08-31|
-|15|[lightank/URLServiceRouter](https://github.com/lightank/URLServiceRouter)|A Swift URL router implemented by a high-degree-of-freedom nodeTree and  RPC|35|2021-12-09|2021-01-19|
-|16|[ilobos/DeviceSupport](https://github.com/ilobos/DeviceSupport)|iOS真机调试支持文件，支持iOS9-15，已支持最新的iOS15.2；解决【Your Xcode version may be too old for your iOS version.】、无法识别设备等问题。|32|2021-11-11|2021-02-01|
-|17|[ts666823/Codesigner](https://github.com/ts666823/Codesigner)|-|30|2021-12-11|2021-10-29|
-|18|[breadwallet/brd-mobile](https://github.com/breadwallet/brd-mobile)|-|28|2021-11-07|2021-06-28|
-|19|[fatbobman/SheetKit](https://github.com/fatbobman/SheetKit)|an extension library for SwiftUI sheets. |27|2021-09-17|2021-09-16|
-|20|[swiftdo/design-patterns](https://github.com/swiftdo/design-patterns)|设计模式，经典样例|23|2021-06-08|2021-03-24|
-|21|[KelvinQQ/SpiderCard](https://github.com/KelvinQQ/SpiderCard)|蜘蛛纸牌 for mac|22|2021-08-23|2021-07-28|
-|22|[Cantoboard/Cantoboard](https://github.com/Cantoboard/Cantoboard)|Cantoboard - Smart Cantonese Keyboard on iOS |22|2021-12-17|2021-03-19|
-|23|[ShenJieSuzhou/PurchaseX](https://github.com/ShenJieSuzhou/PurchaseX)|PurchaseX 是基于 Swift 语言开发，专门用于给您的应用或者游戏提供应用内购买（In-App_purchase）解决方案的轻量级 Framework；  PurchaseX 能让开发者轻松的为应用程序集成苹果的应用内购买，目前最低支持 iOS 8.0 版本；|21|2021-10-28|2021-07-20|
-|24|[aaaaa893215155/SwiftCommandLineTool](https://github.com/aaaaa893215155/SwiftCommandLineTool)|Swift写的一个自动打包ipa，并上传蒲公英|21|2021-06-08|2021-06-08|
-|25|[lihaoyun6/DimQQ](https://github.com/lihaoyun6/DimQQ)|一款可自定义强度的QQ for Mac亮度降低工具|18|2021-11-28|2021-11-23|
-|26|[JerryFans/JFPopup](https://github.com/JerryFans/JFPopup)|A Swift Popup Module help you popup your custom view easily|17|2021-10-22|2021-10-11|
+|1|[ruanjx/VideoLab](https://github.com/ruanjx/VideoLab)|High-performance and flexible video editing and effects framework, based on AVFoundation and Metal.|464|2021-06-26|2021-02-21|
+|2|[cmushroom/redis-pro](https://github.com/cmushroom/redis-pro)|redis-pro redis 桌面管理工具|408|2021-12-19|2021-01-19|
+|3|[Masayuki-JP/Health-Habit-Assistant](https://github.com/Masayuki-JP/Health-Habit-Assistant)|A simple health assistant app built in Swift5 for iPhone 📱 |315|2021-06-29|2021-02-09|
+|4|[Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11)| 💻 Windows 11 in SwiftUI.|111|2021-10-13|2021-08-31|
+|5|[william0wang/MagicCamera](https://github.com/william0wang/MagicCamera)|iOS多功能AI相机：人像卡通化、变老变年轻、美颜、滤镜、艺术效果等|89|2021-11-08|2021-10-29|
+|6|[Co2333/FishUpgrade](https://github.com/Co2333/FishUpgrade)|macOS 摸鱼模拟器|75|2021-12-19|2021-12-16|
+|7|[pujiaxin33/StackUI](https://github.com/pujiaxin33/StackUI)|StackUI just like SwiftUI|69|2021-11-29|2021-10-14|
+|8|[BugenZhao/MNGA](https://github.com/BugenZhao/MNGA)|💬 A refreshing NGA Forum App in SwiftUI. Make NGA Great Again! aka "NGA 论坛 iOS 开源客户端"|53|2021-12-19|2021-06-27|
+|9|[Astrian/switshot](https://github.com/Astrian/switshot)|Console screenshot transfer|52|2021-12-07|2021-09-10|
+|10|[iwill/ExCodable](https://github.com/iwill/ExCodable)|Key-Mapping Extensions for Swift Codable|45|2021-12-09|2021-02-08|
+|11|[simon9211/privacyInsight](https://github.com/simon9211/privacyInsight)|读取app「记录App活动」文件，展示app访问权限及网络记录|43|2021-10-28|2021-10-18|
+|12|[CoderHuiYu/MMAdvertScrollView](https://github.com/CoderHuiYu/MMAdvertScrollView)|一个简单、轻量级的swift版公告轮播框架|42|2021-09-15|2021-01-26|
+|13|[fatbobman/NavigationViewKit](https://github.com/fatbobman/NavigationViewKit)|NavigationViewKit is a NavigationView extension library for SwiftUI.|38|2021-12-16|2021-08-31|
+|14|[lightank/URLServiceRouter](https://github.com/lightank/URLServiceRouter)|A Swift URL router implemented by a high-degree-of-freedom nodeTree and  RPC|35|2021-12-09|2021-01-19|
+|15|[ilobos/DeviceSupport](https://github.com/ilobos/DeviceSupport)|iOS真机调试支持文件，支持iOS9-15，已支持最新的iOS15.2；解决【Your Xcode version may be too old for your iOS version.】、无法识别设备等问题。|32|2021-11-11|2021-02-01|
+|16|[ts666823/Codesigner](https://github.com/ts666823/Codesigner)|-|31|2021-12-11|2021-10-29|
+|17|[breadwallet/brd-mobile](https://github.com/breadwallet/brd-mobile)|-|28|2021-11-07|2021-06-28|
+|18|[fatbobman/SheetKit](https://github.com/fatbobman/SheetKit)|an extension library for SwiftUI sheets. |27|2021-09-17|2021-09-16|
+|19|[swiftdo/design-patterns](https://github.com/swiftdo/design-patterns)|设计模式，经典样例|23|2021-06-08|2021-03-24|
+|20|[KelvinQQ/SpiderCard](https://github.com/KelvinQQ/SpiderCard)|蜘蛛纸牌 for mac|22|2021-08-23|2021-07-28|
+|21|[Cantoboard/Cantoboard](https://github.com/Cantoboard/Cantoboard)|Cantoboard - Smart Cantonese Keyboard on iOS |22|2021-12-17|2021-03-19|
+|22|[ShenJieSuzhou/PurchaseX](https://github.com/ShenJieSuzhou/PurchaseX)|PurchaseX 是基于 Swift 语言开发，专门用于给您的应用或者游戏提供应用内购买（In-App_purchase）解决方案的轻量级 Framework；  PurchaseX 能让开发者轻松的为应用程序集成苹果的应用内购买，目前最低支持 iOS 8.0 版本；|21|2021-10-28|2021-07-20|
+|23|[aaaaa893215155/SwiftCommandLineTool](https://github.com/aaaaa893215155/SwiftCommandLineTool)|Swift写的一个自动打包ipa，并上传蒲公英|21|2021-06-08|2021-06-08|
+|24|[lihaoyun6/DimQQ](https://github.com/lihaoyun6/DimQQ)|一款可自定义强度的QQ for Mac亮度降低工具|18|2021-11-28|2021-11-23|
+|25|[JerryFans/JFPopup](https://github.com/JerryFans/JFPopup)|A Swift Popup Module help you popup your custom view easily|17|2021-10-22|2021-10-11|
+|26|[creepymonster/GlucoseDirectApp](https://github.com/creepymonster/GlucoseDirectApp)|App programmed in Swift/SwiftUI for using Libre 1/2 blood glucose sensors.|17|2021-12-19|2021-07-18|
 |27|[treehollow/treehollow-v3-ios](https://github.com/treehollow/treehollow-v3-ios)|树洞 iOS / macOS 客户端，使用 SwiftUI 开发。|13|2021-12-11|2021-01-13|
 |28|[variant-database/vdb](https://github.com/variant-database/vdb)|A SARS-CoV-2 Mutation Pattern Query Tool|12|2021-12-10|2021-04-06|
 |29|[ptrkstr/Devices](https://github.com/ptrkstr/Devices)|Swift package that contains all devices from https://www.theiphonewiki.com/wiki/Models. Useful when needing to parse machine/device identifier (i.e. iPhone10,1) to device name (iPhone 8).|11|2021-12-09|2021-10-12|
