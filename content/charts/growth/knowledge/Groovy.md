@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Jonny023/Study](https://github.com/Jonny023/Study)|学习笔记|18|0|2021-12-17|
+|1|[Jonny023/Study](https://github.com/Jonny023/Study)|学习笔记|18|0|2021-12-20|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[overmind1980/oeasyvim](https://github.com/overmind1980/oeasyvim)|这是oeasy制作的的一套关于vim的教程 可以在 https://www.lanqiao.cn/teacher/courses/2840 做实验 邀请码FJWYIMGB 本教程从0基础开始，到精通vim配置，和高级命令。希望能让vim是你的开发更高效。|113|2021-12-10|2021-07-23|
+|1|[overmind1980/oeasyvim](https://github.com/overmind1980/oeasyvim)|这是oeasy制作的的一套关于vim的教程 可以在 https://www.lanqiao.cn/teacher/courses/2840 做实验 邀请码FJWYIMGB 本教程从0基础开始，到精通vim配置，和高级命令。希望能让vim是你的开发更高效。|114|2021-12-10|2021-07-23|
 |2|[bujnlc8/vim-translator](https://github.com/bujnlc8/vim-translator)|一个有用的翻译vim插件, 提供有道和百度两种选择,既能查英文也能查中文。|2|2021-10-27|2021-10-06|
 
 <div align="center">

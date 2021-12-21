@@ -5,34 +5,34 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[CodingGay/BlackObfuscator-ASPlugin](https://github.com/CodingGay/BlackObfuscator-ASPlugin)|This project is an Android Studio plugin version of BlackObfuscator, it supports obfuscating code automatically. More information about this project are in BlackObfuscator.|21|7|2021-12-18|
-|2|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2076|2|2021-11-16|
-|3|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3579|2|2021-09-15|
-|4|[pengxurui/EasyPrivacy](https://github.com/pengxurui/EasyPrivacy)|一个帮助开发者快速找到国内隐私整改问题的工具|59|1|2021-12-18|
-|5|[dqzboy/DevOps](https://github.com/dqzboy/DevOps)|CICD流水线|9|1|2021-12-02|
-|6|[zeyangli/jenkinslibrary](https://github.com/zeyangli/jenkinslibrary)|Jenkins共享库|97|0|2021-10-17|
-|7|[cangHW/AndroidPlugin](https://github.com/cangHW/AndroidPlugin)|混淆打包插件|5|0|2021-06-26|
-|8|[sensorsdata/sa-sdk-android-plugin2](https://github.com/sensorsdata/sa-sdk-android-plugin2)|神策数据官方 Android 埋点插件，用于 Android 端的数据采集。通过使用字节码插桩（ASM）的技术实现 Android 端的全埋点（无埋点、无码埋点、无痕埋点、自动埋点）。|287|0|2021-12-15|
-|9|[zhoujiaping/java-agent-web](https://github.com/zhoujiaping/java-agent-web)|用于测试java-agent项目|2|0|2021-06-07|
-|10|[qq549631030/AndroidJunkCode](https://github.com/qq549631030/AndroidJunkCode)|Android马甲包生成垃圾代码插件|243|0|2021-11-08|
-|11|[JackyAndroid/PeaPod](https://github.com/JackyAndroid/PeaPod)|A plugin that replaces external module dependencies with project dependencies.|80|0|2021-07-05|
-|12|[zhoujiaping/java-agent](https://github.com/zhoujiaping/java-agent)|基于java5 Instrument api实现的mock框架|10|0|2021-07-01|
-|13|[sweetying520/GradleDemo](https://github.com/sweetying520/GradleDemo)|Gradle 常用 API 介绍|2|0|2021-07-28|
-|14|[bihe0832/Gradle-Dependencies-Check](https://github.com/bihe0832/Gradle-Dependencies-Check)|梳理并检查项目中多个module的gradle依赖配置是否存在冲突|35|0|2021-10-12|
-|15|[xnat9/grule](https://github.com/xnat9/grule)|自创Groovy DSL 动态规则(rule)执行引擎. 特色 风控系统, 规则引擎, 动态接口配置(低代码)|13|0|2021-12-18|
-|16|[lingochamp/okcheck](https://github.com/lingochamp/okcheck)|Incremental scan，integrate Lint、KtLint、UnitTest、Checkstyle、Findbugs、Pmd, powerful and easy to use|294|0|2021-09-27|
-|17|[gogradle/gogradle](https://github.com/gogradle/gogradle)|A Gradle Plugin Providing Full Support for Go|739|0|2021-10-11|
-|18|[ooftf/spy](https://github.com/ooftf/spy)|在Build项目时检查Class之间的引用关系，避免因为依赖库版本问题而产生的ClassNotFoundException,NoSuchMethodException问题|2|0|2021-07-19|
-|19|[cn2oo8/autocode-template-example](https://github.com/cn2oo8/autocode-template-example)|代码模板示例|6|0|2021-09-06|
-|20|[ZackZhou/zrest](https://github.com/ZackZhou/zrest)|扩展的restassured接口自动化|2|0|2021-06-30|
-|21|[wzbos/chihiro](https://github.com/wzbos/chihiro)|🔥🔥 安卓组件化插件 🔥🔥 支持多工程联调、组件快速发布到Maven私服、企业微信机器人、钉钉机器人、自定义webhook|9|0|2021-12-07|
-|22|[ihub-pub/plugins](https://github.com/ihub-pub/plugins)|IHub Plugins：一套Gradle插件集，封装了常用Gradle插件，并做了一些个性化缺省配置，极大的简化项目管理配置。|7|0|2021-12-01|
-|23|[keepLove/android-jiagu-plugin](https://github.com/keepLove/android-jiagu-plugin)|360加固Gradle插件|5|0|2021-10-12|
-|24|[miqt/MethodHookTool](https://github.com/miqt/MethodHookTool)|这是一个android 方法 hook 插件，通过hook方法进入和退出，能进行很多自定义的事情|18|0|2021-07-29|
-|25|[EastWoodYang/Mis](https://github.com/EastWoodYang/Mis)|模块接口服务，如何在一个模块内维护其对外暴露的接口（包括打包发布），而不是把接口和接口实现分离到两个不同的模块？|135|0|2021-07-15|
-|26|[piitw/gaea](https://github.com/piitw/gaea)|发布Library的轻量级插件|2|0|2021-09-02|
-|27|[duking666/ImgCompressPlugin](https://github.com/duking666/ImgCompressPlugin)|一款Android端自动化图片压缩的gradle插件,一键扫描项目中的资源目录并进行批量图片压缩,提供3种压缩方式,支持有损及无损压缩.同时会记录已压缩的文件,适合个人及团队协同使用.|90|0|2021-11-03|
-|28|[galaxybruce/AndroidPionner](https://github.com/galaxybruce/AndroidPionner)|为android工程编译提供常用功能的gradle插件，旨在把一些常用自动化的脚本收集在一起。|34|0|2021-12-07|
+|1|[CodingGay/BlackObfuscator-ASPlugin](https://github.com/CodingGay/BlackObfuscator-ASPlugin)|This project is an Android Studio plugin version of BlackObfuscator, it supports obfuscating code automatically. More information about this project are in BlackObfuscator.|21|5|2021-12-18|
+|2|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2080|2|2021-11-16|
+|3|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3580|2|2021-09-15|
+|4|[pengxurui/EasyPrivacy](https://github.com/pengxurui/EasyPrivacy)|一个帮助开发者快速找到国内隐私整改问题的工具|61|1|2021-12-18|
+|5|[zeyangli/jenkinslibrary](https://github.com/zeyangli/jenkinslibrary)|Jenkins共享库|97|0|2021-10-17|
+|6|[cangHW/AndroidPlugin](https://github.com/cangHW/AndroidPlugin)|混淆打包插件|5|0|2021-06-26|
+|7|[sensorsdata/sa-sdk-android-plugin2](https://github.com/sensorsdata/sa-sdk-android-plugin2)|神策数据官方 Android 埋点插件，用于 Android 端的数据采集。通过使用字节码插桩（ASM）的技术实现 Android 端的全埋点（无埋点、无码埋点、无痕埋点、自动埋点）。|287|0|2021-12-15|
+|8|[zhoujiaping/java-agent-web](https://github.com/zhoujiaping/java-agent-web)|用于测试java-agent项目|2|0|2021-06-07|
+|9|[qq549631030/AndroidJunkCode](https://github.com/qq549631030/AndroidJunkCode)|Android马甲包生成垃圾代码插件|243|0|2021-11-08|
+|10|[JackyAndroid/PeaPod](https://github.com/JackyAndroid/PeaPod)|A plugin that replaces external module dependencies with project dependencies.|80|0|2021-07-05|
+|11|[zhoujiaping/java-agent](https://github.com/zhoujiaping/java-agent)|基于java5 Instrument api实现的mock框架|10|0|2021-07-01|
+|12|[sweetying520/GradleDemo](https://github.com/sweetying520/GradleDemo)|Gradle 常用 API 介绍|2|0|2021-07-28|
+|13|[bihe0832/Gradle-Dependencies-Check](https://github.com/bihe0832/Gradle-Dependencies-Check)|梳理并检查项目中多个module的gradle依赖配置是否存在冲突|35|0|2021-10-12|
+|14|[xnat9/grule](https://github.com/xnat9/grule)|自创Groovy DSL 动态规则(rule)执行引擎. 特色 风控系统, 规则引擎, 动态接口配置(低代码)|13|0|2021-12-18|
+|15|[lingochamp/okcheck](https://github.com/lingochamp/okcheck)|Incremental scan，integrate Lint、KtLint、UnitTest、Checkstyle、Findbugs、Pmd, powerful and easy to use|294|0|2021-09-27|
+|16|[gogradle/gogradle](https://github.com/gogradle/gogradle)|A Gradle Plugin Providing Full Support for Go|739|0|2021-10-11|
+|17|[ooftf/spy](https://github.com/ooftf/spy)|在Build项目时检查Class之间的引用关系，避免因为依赖库版本问题而产生的ClassNotFoundException,NoSuchMethodException问题|2|0|2021-07-19|
+|18|[cn2oo8/autocode-template-example](https://github.com/cn2oo8/autocode-template-example)|代码模板示例|6|0|2021-09-06|
+|19|[ZackZhou/zrest](https://github.com/ZackZhou/zrest)|扩展的restassured接口自动化|2|0|2021-06-30|
+|20|[wzbos/chihiro](https://github.com/wzbos/chihiro)|🔥🔥 安卓组件化插件 🔥🔥 支持多工程联调、组件快速发布到Maven私服、企业微信机器人、钉钉机器人、自定义webhook|9|0|2021-12-07|
+|21|[ihub-pub/plugins](https://github.com/ihub-pub/plugins)|IHub Plugins：一套Gradle插件集，封装了常用Gradle插件，并做了一些个性化缺省配置，极大的简化项目管理配置。|7|0|2021-12-01|
+|22|[keepLove/android-jiagu-plugin](https://github.com/keepLove/android-jiagu-plugin)|360加固Gradle插件|5|0|2021-10-12|
+|23|[miqt/MethodHookTool](https://github.com/miqt/MethodHookTool)|这是一个android 方法 hook 插件，通过hook方法进入和退出，能进行很多自定义的事情|18|0|2021-07-29|
+|24|[EastWoodYang/Mis](https://github.com/EastWoodYang/Mis)|模块接口服务，如何在一个模块内维护其对外暴露的接口（包括打包发布），而不是把接口和接口实现分离到两个不同的模块？|135|0|2021-07-15|
+|25|[piitw/gaea](https://github.com/piitw/gaea)|发布Library的轻量级插件|2|0|2021-09-02|
+|26|[duking666/ImgCompressPlugin](https://github.com/duking666/ImgCompressPlugin)|一款Android端自动化图片压缩的gradle插件,一键扫描项目中的资源目录并进行批量图片压缩,提供3种压缩方式,支持有损及无损压缩.同时会记录已压缩的文件,适合个人及团队协同使用.|90|0|2021-11-03|
+|27|[galaxybruce/AndroidPionner](https://github.com/galaxybruce/AndroidPionner)|为android工程编译提供常用功能的gradle插件，旨在把一些常用自动化的脚本收集在一起。|34|0|2021-12-07|
+|28|[dqzboy/DevOps](https://github.com/dqzboy/DevOps)|CICD流水线|9|0|2021-12-02|
 |29|[Ryan-Shz/Repo](https://github.com/Ryan-Shz/Repo)|一个基于shell + gradle开发的效率工具，用来优化模块化/组件化分仓后带来的编译和调试痛点，提升开发效率|27|0|2021-07-27|
 |30|[mark4z/cloud-alibaba](https://github.com/mark4z/cloud-alibaba)|一个简单的Spring cloud alibaba demo|2|0|2021-10-06|
 |31|[AyakuraYuki/content-storage-app](https://github.com/AyakuraYuki/content-storage-app)|泛用型内容管理工具，采用JSON存储内容，SQLite持久化数据，TOTP时间动态码校验用户，Base64/DES加密数据|4|0|2021-09-13|

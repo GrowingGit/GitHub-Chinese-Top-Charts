@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model)|美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、数学建模美赛论文，数学建模国赛论文、LaTeX模板、国赛LaTeX模板、美赛LaTeX模板、mathorcup历年论文、研究生数学建模历年论文、电工杯、华中赛、APMCM亚太地区数学建模、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、数学建模算法、国赛评阅要点、数学建模word模板、软件模型算法汇总、MA ...|308|4|2021-12-09|
-|2|[Kivy-CN/Stanford-CS-229-CN](https://github.com/Kivy-CN/Stanford-CS-229-CN)|A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译|2957|2|2021-11-24|
+|1|[personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model)|美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、数学建模美赛论文，数学建模国赛论文、LaTeX模板、国赛LaTeX模板、美赛LaTeX模板、mathorcup历年论文、研究生数学建模历年论文、电工杯、华中赛、APMCM亚太地区数学建模、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、数学建模算法、国赛评阅要点、数学建模word模板、软件模型算法汇总、MA ...|309|4|2021-12-09|
+|2|[Kivy-CN/Stanford-CS-229-CN](https://github.com/Kivy-CN/Stanford-CS-229-CN)|A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译|2958|2|2021-11-24|
 |3|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|332|1|2021-11-11|
 |4|[iChunyu/LearnCtrlSys](https://github.com/iChunyu/LearnCtrlSys)|控制理论学习记录|2|0|2021-12-08|
 |5|[SilverFT/GJTU-lib](https://github.com/SilverFT/GJTU-lib)|资料整理|4|0|2021-07-05|
@@ -26,7 +26,7 @@
 |19|[sailaoda/HUSTEIC_family](https://github.com/sailaoda/HUSTEIC_family)|🔥华中科技大学电信专业 课程资料 作业 代码 实验报告 HUSTEIC 课程分享计划 |6|0|2021-09-20|
 |20|[zuster/EconometricsResources](https://github.com/zuster/EconometricsResources)|经济学相关专业资料集|37|0|2021-12-16|
 |21|[NMID-CQUPT/CLF-CQPUT](https://github.com/NMID-CQUPT/CLF-CQPUT)|🛰重庆邮电大学课程攻略 Learning files for courses and training in  Chongqing University of Posts and Telecommunications|60|0|2021-11-13|
-|22|[kaichen686/GINav](https://github.com/kaichen686/GINav)|GNSS and GNSS/INS integration algorithms|37|0|2021-12-05|
+|22|[kaichen686/GINav](https://github.com/kaichen686/GINav)|GNSS and GNSS/INS integration algorithms|38|0|2021-12-05|
 |23|[chenguangwei/tech-knowledge](https://github.com/chenguangwei/tech-knowledge)|整理自己的一些 github stars项目和学习记录|4|0|2021-09-17|
 |24|[sxy0818/ucas-course-2020](https://github.com/sxy0818/ucas-course-2020)|2020-2021学年的国科大雁栖湖集中教学选修课程课件|10|0|2021-08-28|
 |25|[JackHCC/TheAlgorithm](https://github.com/JackHCC/TheAlgorithm)|Matlab实现的一些数学基础算法(Some mathematical basic algorithms implemented by Matlab)|12|0|2021-06-29|

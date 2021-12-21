@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model)|美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、数学建模美赛论文，数学建模国赛论文、LaTeX模板、国赛LaTeX模板、美赛LaTeX模板、mathorcup历年论文、研究生数学建模历年论文、电工杯、华中赛、APMCM亚太地区数学建模、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、数学建模算法、国赛评阅要点、数学建模word模板、软件模型算法汇总、MA ...|308|2021-12-09|2021-10-09|
-|2|[kaichen686/GINav](https://github.com/kaichen686/GINav)|GNSS and GNSS/INS integration algorithms|37|2021-12-05|2021-04-04|
+|1|[personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model)|美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、数学建模美赛论文，数学建模国赛论文、LaTeX模板、国赛LaTeX模板、美赛LaTeX模板、mathorcup历年论文、研究生数学建模历年论文、电工杯、华中赛、APMCM亚太地区数学建模、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、数学建模算法、国赛评阅要点、数学建模word模板、软件模型算法汇总、MA ...|309|2021-12-09|2021-10-09|
+|2|[kaichen686/GINav](https://github.com/kaichen686/GINav)|GNSS and GNSS/INS integration algorithms|38|2021-12-05|2021-04-04|
 |3|[sxy0818/ucas-course-2020](https://github.com/sxy0818/ucas-course-2020)|2020-2021学年的国科大雁栖湖集中教学选修课程课件|10|2021-08-28|2021-08-28|
 |4|[WHUzxp/Supports_for_PST_Paper](https://github.com/WHUzxp/Supports_for_PST_Paper)|论文《考虑实时市场联动的电力零售商鲁棒定价策略》的支撑文件，已投稿《电网技术》杂志。2021年10月23日。|8|2021-10-28|2021-03-02|
 |5|[sailaoda/HUSTEIC_family](https://github.com/sailaoda/HUSTEIC_family)|🔥华中科技大学电信专业 课程资料 作业 代码 实验报告 HUSTEIC 课程分享计划 |6|2021-09-20|2021-09-15|

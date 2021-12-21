@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Oreomeow/checkinpanel](https://github.com/Oreomeow/checkinpanel)|一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）|554|5|2021-12-19|
+|1|[Oreomeow/checkinpanel](https://github.com/Oreomeow/checkinpanel)|一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）|556|5|2021-12-19|
 |2|[alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list)|Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!|591|1|2021-12-19|
 |3|[k1d0ne/cobaltstrike_plugin](https://github.com/k1d0ne/cobaltstrike_plugin)|陆续补充一些自己写的cobaltstrike插件|37|1|2021-11-05|
 |4|[Yanstory/tpZHCNex](https://github.com/Yanstory/tpZHCNex)|thpatch zh-hans extra patches (Beta)|15|0|2021-12-04|
@@ -17,26 +17,26 @@
 |10|[g0v/moedict-data-twblg](https://github.com/g0v/moedict-data-twblg)|臺灣閩南語常用詞辭典 資料檔|48|0|2021-12-13|
 |11|[uparrows/LANraragi_cn](https://github.com/uparrows/LANraragi_cn)|This repo is a fork of Difegue / LANraragi , those things i've done was to translate this repo into chinese ,and fix chrome browser js problem.|39|0|2021-11-28|
 |12|[dqwang122/MLROUGE](https://github.com/dqwang122/MLROUGE)|ROUGE for multilingual Summarization|6|0|2021-10-11|
-|13|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|371|0|2021-12-16|
+|13|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|372|0|2021-12-16|
 |14|[Chorder/PenetrationTools](https://github.com/Chorder/PenetrationTools)|一个收集了各种渗透测试工具的仓库。A respository for collecting penetration tools.|2|0|2021-07-30|
 |15|[texjporg/ptex-fontmaps](https://github.com/texjporg/ptex-fontmaps)|Font maps for dvipdfmx, and the script kanji-config-updmap|17|0|2021-06-25|
 |16|[liaochenlanruo/pgcgap](https://github.com/liaochenlanruo/pgcgap)|The Prokaryotic Genomics and Comparative Genomics Analysis Pipeline|18|0|2021-11-04|
 |17|[upyun/lua-resty-limit-rate](https://github.com/upyun/lua-resty-limit-rate)|Lua module for limiting request rate for OpenResty/ngx_lua, using the "token bucket" method.|58|0|2021-06-11|
-|18|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|201|0|2021-12-19|
+|18|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|200|0|2021-12-21|
 |19|[texjporg/cjk-gs-support](https://github.com/texjporg/cjk-gs-support)|Scripts to ease the use of CJK fonts with Ghostscript|27|0|2021-09-30|
 |20|[MYDan/mayi](https://github.com/MYDan/mayi)|蚂蚁蛋运维助手(安装方式: curl -L http://update.mydan.org bash)|12|0|2021-10-14|
-|21|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|59|0|2021-11-29|
+|21|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|59|0|2021-12-20|
 |22|[houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm)|A date and time object for Perl|45|0|2021-12-04|
 |23|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|169|0|2021-10-30|
 |24|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|307|0|2021-12-15|
-|25|[open-c3/open-c3](https://github.com/open-c3/open-c3)|CICD系统/发布系统/作业平台|138|0|2021-12-18|
+|25|[open-c3/open-c3](https://github.com/open-c3/open-c3)|CICD系统/发布系统/作业平台|138|0|2021-12-21|
 |26|[g0v/people-in-news](https://github.com/g0v/people-in-news)|公眾人物新聞的追蹤|17|0|2021-11-01|
 |27|[AntDen/AntDen](https://github.com/AntDen/AntDen)|AntDen 是一个开源的通用计算框架|9|0|2021-08-14|
 |28|[electricface/script-tool](https://github.com/electricface/script-tool)|简单的脚本工具|3|0|2021-10-22|
-|29|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1021|0|2021-12-19|
-|30|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|76|0|2021-12-13|
+|29|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1024|0|2021-12-19|
+|30|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|77|0|2021-12-13|
 |31|[jiazhoulvke/myconf](https://github.com/jiazhoulvke/myconf)|linux 配置 |2|0|2021-08-18|
-|32|[leolovenet/qqwry2mmdb](https://github.com/leolovenet/qqwry2mmdb)|为 Wireshark 能使用纯真网络 IP 数据库(QQwry)而提供的格式转换工具|113|0|2021-11-01|
+|32|[leolovenet/qqwry2mmdb](https://github.com/leolovenet/qqwry2mmdb)|为 Wireshark 能使用纯真网络 IP 数据库(QQwry)而提供的格式转换工具|114|0|2021-11-01|
 |33|[openresty/lua-tablepool](https://github.com/openresty/lua-tablepool)|Lua table recycling pools for LuaJIT|97|0|2021-11-15|
 |34|[Gilwyad/mailnesia.com](https://github.com/Gilwyad/mailnesia.com)|Anonymous Email in Seconds|58|0|2021-12-14|
 |35|[shangshanzhizhe/Work_flow_of_population_genetics](https://github.com/shangshanzhizhe/Work_flow_of_population_genetics)|整理常用的群体遗传学分析流程和脚本|28|0|2021-11-01|

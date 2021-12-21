@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[qinwf/awesome-R](https://github.com/qinwf/awesome-R)|A curated list of awesome R packages, frameworks and software.|4858|2|2021-10-07|
-|2|[briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)|A curated list of awesome network analysis resources.|2525|1|2021-11-17|
+|1|[qinwf/awesome-R](https://github.com/qinwf/awesome-R)|A curated list of awesome R packages, frameworks and software.|4857|2|2021-10-07|
+|2|[briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)|A curated list of awesome network analysis resources.|2526|1|2021-11-17|
 |3|[lei-zhang/COSN_webinar](https://github.com/lei-zhang/COSN_webinar)|Tutorial talks at the Chinese Open Science Webinar series|22|0|2021-08-31|
 |4|[Fayehh/R-for-Quantitative-Research](https://github.com/Fayehh/R-for-Quantitative-Research)|中国科学院大学中丹学院Research Methods课程定量部分|4|0|2021-08-23|
 |5|[wangyi-fudan/BIOL130173](https://github.com/wangyi-fudan/BIOL130173)|复旦大学生命科学学院《生命科学中的机器学习》|25|0|2021-10-02|

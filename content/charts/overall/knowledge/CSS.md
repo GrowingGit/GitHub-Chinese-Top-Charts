@@ -6,43 +6,43 @@
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn)|FCC China open source codebase and curriculum. Learn to code and help nonprofits.|36576|2021-08-02|
-|2|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20375|2021-12-13|
-|3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8328|2021-12-12|
-|4|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5964|2021-12-05|
-|5|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4519|2021-10-14|
+|2|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20379|2021-12-13|
+|3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8330|2021-12-12|
+|4|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5965|2021-12-20|
+|5|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4520|2021-10-14|
 |6|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4236|2021-07-29|
-|7|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|3727|2021-12-16|
-|8|[apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh)|:book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】|3616|2021-08-09|
-|9|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3471|2021-12-19|
-|10|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|2896|2021-12-02|
-|11|[beeth0ven/RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation)|RxSwift 中文文档|1212|2021-10-25|
-|12|[leopardpan/leopardpan.github.io](https://github.com/leopardpan/leopardpan.github.io)|个人博客，看效果进入|1160|2021-10-17|
+|7|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|3730|2021-12-16|
+|8|[apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh)|:book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】|3615|2021-08-09|
+|9|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3479|2021-12-21|
+|10|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|2898|2021-12-02|
+|11|[beeth0ven/RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation)|RxSwift 中文文档|1213|2021-10-25|
+|12|[leopardpan/leopardpan.github.io](https://github.com/leopardpan/leopardpan.github.io)|个人博客，看效果进入|1161|2021-10-17|
 |13|[kaeyleo/jekyll-theme-H2O](https://github.com/kaeyleo/jekyll-theme-H2O)| 🎉 A clean and delicate Jekyll theme. Jekyll博客主题|902|2021-10-28|
-|14|[ahangchen/Chromium_doc_zh](https://github.com/ahangchen/Chromium_doc_zh)|Chromium中文文档，学习google家的架构|627|2021-07-02|
-|15|[ldqk/Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs)|ldqk.xyz个人博客站项目源码，https://masuit.org ，供参考、学习、引用、非商业性质的部署。基于.net6|611|2021-12-17|
-|16|[Veal98/CS-Wiki](https://github.com/Veal98/CS-Wiki)|📙 致力打造完善的 Java 后端知识体系. Not only an Interview-Guide, but also a Learning-Direction.|504|2021-12-19|
-|17|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|490|2021-11-30|
-|18|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|438|2021-12-13|
+|14|[ahangchen/Chromium_doc_zh](https://github.com/ahangchen/Chromium_doc_zh)|Chromium中文文档，学习google家的架构|628|2021-07-02|
+|15|[ldqk/Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs)|ldqk.xyz个人博客站项目源码，https://masuit.org ，供参考、学习、引用、非商业性质的部署。基于.net6|612|2021-12-20|
+|16|[Veal98/CS-Wiki](https://github.com/Veal98/CS-Wiki)|📙 致力打造完善的 Java 后端知识体系. Not only an Interview-Guide, but also a Learning-Direction.|506|2021-12-19|
+|17|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|491|2021-11-30|
+|18|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|441|2021-12-13|
 |19|[xupsh/pp4fpgas-cn](https://github.com/xupsh/pp4fpgas-cn)|中文版 Parallel Programming for FPGAs|407|2021-10-26|
 |20|[jhao104/django-blog](https://github.com/jhao104/django-blog)|django搭建博客|384|2021-06-10|
-|21|[fuzhengwei/itstack-demo-netty](https://github.com/fuzhengwei/itstack-demo-netty)|微信公众号：bugstack虫洞栈   专注于原创开发专题案例。跟着案例学Netty，Netty4.x案例从简单入门到应用实战，全篇37章节优秀案例+实战源码[基础篇(13)、中级篇(13)、高级篇(3章+)、源码分析篇]，以上章节全部完成并不断持续更新中。欢迎关注公众号：bugstack虫洞栈   阅读专题文章+调试案例源码学习｛回复netty案例｝。|360|2021-12-09|
+|21|[fuzhengwei/itstack-demo-netty](https://github.com/fuzhengwei/itstack-demo-netty)|微信公众号：bugstack虫洞栈   专注于原创开发专题案例。跟着案例学Netty，Netty4.x案例从简单入门到应用实战，全篇37章节优秀案例+实战源码[基础篇(13)、中级篇(13)、高级篇(3章+)、源码分析篇]，以上章节全部完成并不断持续更新中。欢迎关注公众号：bugstack虫洞栈   阅读专题文章+调试案例源码学习｛回复netty案例｝。|361|2021-12-09|
 |22|[HanryYu/typora-blubook-theme](https://github.com/HanryYu/typora-blubook-theme)|Blubook, a flat typora theme.|353|2021-07-26|
 |23|[rawchen/blog-ssm](https://github.com/rawchen/blog-ssm)|一个简单漂亮的SSM博客系统。|344|2021-12-05|
 |24|[ahangchen/windy-afternoon](https://github.com/ahangchen/windy-afternoon)|Gitbook based Blog, Android, Linux, Deep Learning, Computer Vision|264|2021-12-13|
 |25|[liuhuanyong/liuhuanyong.github.io](https://github.com/liuhuanyong/liuhuanyong.github.io)|面向中文自然语言处理的六十余类实践项目及学习索引，涵盖语言资源构建、社会计算、自然语言处理组件、知识图谱、事理图谱、知识抽取、情感分析、深度学习等几个学习主题。包括作者个人简介、学习心得、语言资源、工业落地系统等，是供自然语言处理入门学习者的一个较为全面的学习资源，欢迎大家使用，并提出批评意见。|250|2021-11-13|
-|26|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|242|2021-12-16|
+|26|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|245|2021-12-16|
 |27|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|198|2021-10-26|
 |28|[frankcbliu/Interview_Notes](https://github.com/frankcbliu/Interview_Notes)|📚 程序员面试基础知识总结、优质项目分享、助力春招秋招|181|2021-12-14|
-|29|[idealclover/Life-in-NJU](https://github.com/idealclover/Life-in-NJU)|🏠 南哪指南—南哪大学网址导航|160|2021-08-22|
+|29|[idealclover/Life-in-NJU](https://github.com/idealclover/Life-in-NJU)|🏠 南哪指南—南哪大学网址导航|161|2021-08-22|
 |30|[smallnest/go-rpc-programming-guide](https://github.com/smallnest/go-rpc-programming-guide)|gitbook Go RPC开发指南 [中文文档]|136|2021-06-16|
-|31|[lbc-team/deep_ethereum](https://github.com/lbc-team/deep_ethereum)|电子书：以太坊技术与实现|120|2021-12-02|
+|31|[lbc-team/deep_ethereum](https://github.com/lbc-team/deep_ethereum)|电子书：以太坊技术与实现|121|2021-12-02|
 |32|[vakinge/oneplatform](https://github.com/vakinge/oneplatform)|onePlatform定位是企业级应用网关，提供提供服务路由、SSO、统一认证授权、统一日志、全局事件以及模块化管理等基础能力。基于Spring cloud、开箱即用、无额外学习成本、无缝对接老系统。→提供配套视频教程(Q群: 61859839) |111|2021-11-07|
 |33|[bit-ranger/blog](https://github.com/bit-ranger/blog)|博客|110|2021-10-14|
 |34|[dolymood/dolymood.github.com](https://github.com/dolymood/dolymood.github.com)|我的博客|110|2021-06-17|
 |35|[zenany/zenany.github.io](https://github.com/zenany/zenany.github.io)|记录对技术的思考和探索|98|2021-06-09|
 |36|[DataXujing/TensorRT_CV](https://github.com/DataXujing/TensorRT_CV)|:rocket::rocket::rocket:NVIDIA TensorRT 加速推断教程！|95|2021-07-31|
-|37|[luokangyuan/ghost-theme-mj](https://github.com/luokangyuan/ghost-theme-mj)|This is a beautiful ghost blog theme，这是一个漂亮的Ghost博客主题。|94|2021-09-21|
-|38|[qu5/mogu](https://github.com/qu5/mogu)|一个简约的php书签网址导航|93|2021-12-10|
+|37|[qu5/mogu](https://github.com/qu5/mogu)|一个简约的php书签网址导航|94|2021-12-10|
+|38|[luokangyuan/ghost-theme-mj](https://github.com/luokangyuan/ghost-theme-mj)|This is a beautiful ghost blog theme，这是一个漂亮的Ghost博客主题。|94|2021-09-21|
 |39|[dhanishgajjar/css-flags](https://github.com/dhanishgajjar/css-flags)|A collection of pure CSS flags, all single divs.|90|2021-08-10|
 |40|[apachecn/quant-learning](https://github.com/apachecn/quant-learning)|:books: Quant 教程整理|89|2021-12-12|
 |41|[lsils/lstools-showcase](https://github.com/lsils/lstools-showcase)|Showcase examples for EPFL logic synthesis libraries|88|2021-08-03|
@@ -54,7 +54,7 @@
 |47|[yitd/wxkp](https://github.com/yitd/wxkp)|微信卡片分享链接在线制作工具|70|2021-12-11|
 |48|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite|70|2021-10-14|
 |49|[spring2go/spring-petclinic-msa](https://github.com/spring2go/spring-petclinic-msa)|微服务版spring-petlinic，课程《Kubernetes微服务实践》|65|2021-08-24|
-|50|[Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)|📖 The Lessons for every language|63|2021-12-19|
+|50|[Adventech/sabbath-school-lessons](https://github.com/Adventech/sabbath-school-lessons)|📖 The Lessons for every language|63|2021-12-21|
 |51|[DuYi-Edu/DuYi-React](https://github.com/DuYi-Edu/DuYi-React)|React课程资料与代码|59|2021-10-06|
 |52|[ChenYFan-Tester/IPFS_PHOTO_SHARE](https://github.com/ChenYFan-Tester/IPFS_PHOTO_SHARE)|💰用甚嚒服务器，ServerLess搭建一个图片分享站点！  基于CloudFlareWorker无服务器函数和IPFS去中心化存储的图片分享网站|58|2021-06-18|
 |53|[apachecn/geeksforgeeks-dsal-zh](https://github.com/apachecn/geeksforgeeks-dsal-zh)|:book: [译] GeeksForGeeks 翻译计划|56|2021-11-25|
@@ -62,7 +62,7 @@
 |55|[cody1991/cody1991.github.io](https://github.com/cody1991/cody1991.github.io)|个人博客（也是自己构建的一个简单Jekyll开源主题模板）|53|2021-08-05|
 |56|[xiaolongzuo/personal-blog-webapp](https://github.com/xiaolongzuo/personal-blog-webapp)|一个简单的个人博客源码。|53|2021-08-23|
 |57|[leach-chen/blogdemo](https://github.com/leach-chen/blogdemo)|一款简约舒适，兼容网站及移动端，功能齐全的个人网站博客模板|52|2021-08-25|
-|58|[L-M-Sherlock/supermemo.guru-cn](https://github.com/L-M-Sherlock/supermemo.guru-cn)|supermemo.guru 翻译计划|50|2021-10-23|
+|58|[L-M-Sherlock/supermemo.guru-cn](https://github.com/L-M-Sherlock/supermemo.guru-cn)|supermemo.guru 翻译计划|50|2021-12-20|
 |59|[wangyang0210/EasyBe](https://github.com/wangyang0210/EasyBe)|typecho主题,根据当前博客园的主题整合开发|48|2021-09-18|
 |60|[ieiayaobb/lushi8](https://github.com/ieiayaobb/lushi8)|A tutorial for building your own collection of livestream|47|2021-12-08|
 |61|[yammadev/flag-icons](https://github.com/yammadev/flag-icons)|A beautiful svg + png + sass + css collection of 261 flags.|46|2021-07-09|
@@ -81,9 +81,9 @@
 |74|[mcthulhu/jorkens](https://github.com/mcthulhu/jorkens)|epub reader based on epub.js for foreign language learners|27|2021-10-12|
 |75|[shandianlala/sdll-blog](https://github.com/shandianlala/sdll-blog)|博客|27|2021-12-09|
 |76|[52bp/shadowrocket](https://github.com/52bp/shadowrocket)|iOS小火箭Shadowrocket ipa 在线安装公众号账号分享|25|2021-12-14|
-|77|[lululuting/tgbk](https://github.com/lululuting/tgbk)|挺哥博客|24|2021-12-09|
-|78|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主要提供以上原创教程的下载，教程皆为本人从零原创。目的不单是留下经验和理论，还有将难以理解的东西翻译的一语中的；即使不学，用的时候也能一看就懂；在文档的格式，大小，美观上也远超一般文档；最后不断跟进一些新内容。理论上，这就是最好的教程了|24|2021-12-15|
-|79|[yu120/lemon-guide](https://github.com/yu120/lemon-guide)|收纳操作系统、JAVA、算法、数据库、中间件、解决方案、架构、DevOps和大数据等技术栈总结！|23|2021-11-06|
+|77|[yu120/lemon-guide](https://github.com/yu120/lemon-guide)|收纳操作系统、JAVA、算法、数据库、中间件、解决方案、架构、DevOps和大数据等技术栈总结！|24|2021-11-06|
+|78|[lululuting/tgbk](https://github.com/lululuting/tgbk)|挺哥博客|24|2021-12-09|
+|79|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主要提供以上原创教程的下载，教程皆为本人从零原创。目的不单是留下经验和理论，还有将难以理解的东西翻译的一语中的；即使不学，用的时候也能一看就懂；在文档的格式，大小，美观上也远超一般文档；最后不断跟进一些新内容。理论上，这就是最好的教程了|24|2021-12-15|
 |80|[omnilingo/omnilingo](https://github.com/omnilingo/omnilingo)|Listening-based language learning|23|2021-09-16|
 |81|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|22|2021-12-09|
 |82|[jinqilin721/halo-theme-xinac-fantastic](https://github.com/jinqilin721/halo-theme-xinac-fantastic)|Halo博客系统，Fantastic主题修改版。|22|2021-07-18|
@@ -97,14 +97,14 @@
 |90|[zhpmatrix/zhpmatrix.github.io](https://github.com/zhpmatrix/zhpmatrix.github.io)|我的博客: 记录编程，论文，想法等其他|19|2021-12-19|
 |91|[RainbomSea/RainbomSea.github.io](https://github.com/RainbomSea/RainbomSea.github.io)|RainbomSea的博客:https://rainbomsea.xyz/|18|2021-11-10|
 |92|[pengbotao/itopic.go](https://github.com/pengbotao/itopic.go)|基于Golang+Markdown的博客系统|18|2021-12-03|
-|93|[stidio/stidio.github.io](https://github.com/stidio/stidio.github.io)|采用Jekyll+GitHub Pages搭建的个人博客站点; Jekyll Theme; 基于kramdown+Rouge+Monokai修改的代码高亮着色方案; |16|2021-07-12|
-|94|[me1a/mini-book](https://github.com/me1a/mini-book)|基于Markdown 的静态站点文档小书|15|2021-08-11|
-|95|[puluwen/puluwen.github.io](https://github.com/puluwen/puluwen.github.io)|学习博客|15|2021-07-13|
-|96|[WindSnowLi/vue-ssr-blog](https://github.com/WindSnowLi/vue-ssr-blog)|w-blog的前台部分，一个简单的nuxtJs的博客前台项目|14|2021-11-23|
-|97|[hzq-up/dragonshopping](https://github.com/hzq-up/dragonshopping)|基于SpringBoot + Mybatis + Thymeleaf + MySQL开发的购书商城系统|14|2021-12-18|
+|93|[FeMiner/MinderCase](https://github.com/FeMiner/MinderCase)|一个基于思维导图的测试用例管理方案|16|2021-07-19|
+|94|[stidio/stidio.github.io](https://github.com/stidio/stidio.github.io)|采用Jekyll+GitHub Pages搭建的个人博客站点; Jekyll Theme; 基于kramdown+Rouge+Monokai修改的代码高亮着色方案; |16|2021-07-12|
+|95|[me1a/mini-book](https://github.com/me1a/mini-book)|基于Markdown 的静态站点文档小书|15|2021-08-11|
+|96|[puluwen/puluwen.github.io](https://github.com/puluwen/puluwen.github.io)|学习博客|15|2021-07-13|
+|97|[WindSnowLi/vue-ssr-blog](https://github.com/WindSnowLi/vue-ssr-blog)|w-blog的前台部分，一个简单的nuxtJs的博客前台项目|14|2021-11-23|
 |98|[lyy289065406/calibre-docker](https://github.com/lyy289065406/calibre-docker)|docker 一键部署 calibre 在线书库|13|2021-11-07|
 |99|[piperhaywood/commonplace-wp-theme](https://github.com/piperhaywood/commonplace-wp-theme)|A WordPress theme based on a Commonplace Book|13|2021-09-20|
-|100|[monkenWu/codeIgniter4-taiwan-User-Guide](https://github.com/monkenWu/codeIgniter4-taiwan-User-Guide)|CodeIgniter 4 Traditional Chinese(Taiwan) User Guide - codeigniter4 正體中文(台灣)使用手冊翻譯計畫|13|2021-12-11|
+|100|[hzq-up/dragonshopping](https://github.com/hzq-up/dragonshopping)|基于SpringBoot + Mybatis + Thymeleaf + MySQL开发的购书商城系统|13|2021-12-18|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[tanyugang/CodingMaster](https://github.com/tanyugang/CodingMaster)|Coding Master系列教程配套代码。|56|2021-09-04|2021-02-03|
+|1|[tanyugang/CodingMaster](https://github.com/tanyugang/CodingMaster)|Coding Master系列教程配套代码。|57|2021-09-04|2021-02-03|
 |2|[Staok/ARM-Linux-Study](https://github.com/Staok/ARM-Linux-Study)|ARM Linux 的学习历程，文章遵守 CC BY NC SA 4.0 协议。|6|2021-09-27|2021-04-03|
 |3|[yiwangchunyu/AI-RISC](https://github.com/yiwangchunyu/AI-RISC)|Design some simple RISV-V cores via verilog and vivado. 复旦大学《计算机与智能处理器体系结构 AI Core and RISC Architecture》Projects|6|2021-06-28|2021-03-27|
 |4|[ghosind/HariboteOS](https://github.com/ghosind/HariboteOS)|《30天自制操作系统》NASM+GCC+QEMU实现|5|2021-06-05|2021-02-25|
