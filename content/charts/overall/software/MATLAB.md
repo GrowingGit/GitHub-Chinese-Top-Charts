@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -68,31 +68,32 @@
 |61|[Burceoneo12345/image](https://github.com/Burceoneo12345/image)|图像处理的实验以及作业|4|2021-06-13|
 |62|[WHUzxp/Dual_SOCP](https://github.com/WHUzxp/Dual_SOCP)|潮流计算 二阶锥松弛 对偶形式|4|2021-06-18|
 |63|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|3|2021-12-03|
-|64|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|2021-12-01|
-|65|[tyl-stu/Compressed-sensing-code](https://github.com/tyl-stu/Compressed-sensing-code)|自己搜集和改写的压缩感知相关程序代码|3|2021-07-26|
-|66|[heihei2122/mag_cuboid](https://github.com/heihei2122/mag_cuboid)|a gui or app based matlab to calculate B  force stiffness  矩形磁体的计算|3|2021-11-20|
-|67|[X-X-Y/about_EEG_EandP](https://github.com/X-X-Y/about_EEG_EandP)|说说脑电信号的频谱、能量、功率谱、功率谱密度都是指什么|3|2021-07-15|
-|68|[gain-wyj/Color-image-enhancement](https://github.com/gain-wyj/Color-image-enhancement)|基于HSI和局部同态滤波的彩色图像增强算法|3|2021-07-05|
-|69|[AIHHU/Ant-Colony-Optimization](https://github.com/AIHHU/Ant-Colony-Optimization)|用matlab实现蚁群算法|3|2021-07-02|
-|70|[Stansec233/SVM-Electricity_Load_Forecast](https://github.com/Stansec233/SVM-Electricity_Load_Forecast)|基于日特征气象因素的支持向量机预测电力负荷|3|2021-06-24|
-|71|[ray1006597080/MyFish](https://github.com/ray1006597080/MyFish)|专注优化算法开发，包括以下方面：  （1）启发式算法，元启发式算法，群智能优化算法（GA，PSO，GWO等）  （2）凸优化（ADMM，Benders分解，内点法等）  （3）多目标优化（NSGA-II，MOPSO，MOGWO等）  （4）机器学习（神经网络，SVM，决策树，随机森林等） 电力系统优化建模，多学科优化建模，包括：  （1）电力系统运行优化（日前优化调度，微电网运行优化，电动汽车调度 ...|3|2021-06-07|
-|72|[lxlonlyn/numerical-analysis](https://github.com/lxlonlyn/numerical-analysis)|你知道数值分析的痛吗|3|2021-06-11|
-|73|[guoyun2020/LMS-Based-Adaptive-Filtering-Denoising-Algorithm](https://github.com/guoyun2020/LMS-Based-Adaptive-Filtering-Denoising-Algorithm)|一种基于LMS的自适应蓝牙耳机降噪算法|3|2021-06-15|
-|74|[guoyun2020/Speech-Signal-DSP-Platform](https://github.com/guoyun2020/Speech-Signal-DSP-Platform)|一款基于MATLAB的语音信号处理平台|3|2021-06-04|
-|75|[Dingqinliu/Encryption_Matlab](https://github.com/Dingqinliu/Encryption_Matlab)|与图像加密有关的一些代码|3|2021-07-16|
-|76|[chaiqingao/Sudoku](https://github.com/chaiqingao/Sudoku)|一个用MATLAB写的数独小游戏：以命令行和GUI两种方式生成数独和求解数独，你可以作为游戏来玩或作为求解数独的工具。|3|2021-07-15|
-|77|[Cirno9-dev/learning](https://github.com/Cirno9-dev/learning)|机器学习|3|2021-12-18|
-|78|[Magica-Chen/zhihu_writing](https://github.com/Magica-Chen/zhihu_writing)|Some simple codes for zhihu column writing: 高斯世界下的Machine Learning|3|2021-11-04|
-|79|[Heisenberg0391/DigitalSignalProcess_MATLAB](https://github.com/Heisenberg0391/DigitalSignalProcess_MATLAB)|数字信号处理matlab程序|3|2021-06-28|
-|80|[DietCokewithSugar/undamage-blood-glucose](https://github.com/DietCokewithSugar/undamage-blood-glucose)|基于改进深度回归网络的无创血糖检测算法|2|2021-12-02|
-|81|[acsamson/ImageFusion-Algorithm](https://github.com/acsamson/ImageFusion-Algorithm)|ImageFusion algorithm, SSIM and PSNR evaluation（常见图像融合算法以及SSIM和PSNR评价|2|2021-08-30|
-|82|[ja754969/Ocean-Current-Observation-and-Analysis](https://github.com/ja754969/Ocean-Current-Observation-and-Analysis)|洋流觀測分析 class at NTOU. File Station link : |2|2021-08-30|
-|83|[CXris/computerVision-stitching](https://github.com/CXris/computerVision-stitching)|使用Harris角点检测算法、最小二乘拟合、随机抽样一致算法(RANSAC)以及 HOG 描述符、线性融合等计算机视觉算法，使用Matlab实现将多张图像拼接成一张全景图。|2|2021-08-25|
-|84|[Uestc-xiye/CUMCM2020-Probelms-C](https://github.com/Uestc-xiye/CUMCM2020-Probelms-C)|2020年高教社杯全国大学生数学建模C题：中小微企业的信贷决策|2|2021-07-26|
-|85|[ScottXjw/Volterra_lms](https://github.com/ScottXjw/Volterra_lms)|Volterra_lms算法|2|2021-11-03|
-|86|[caokaifa/VFH](https://github.com/caokaifa/VFH)|VFH 局部路径规划|2|2021-07-01|
-|87|[YXL76/Communication-System-Modeling-and-Simulation](https://github.com/YXL76/Communication-System-Modeling-and-Simulation)|BUPT 通信系统建模与仿真|2|2021-06-19|
-|88|[tjzhang1993/Infrared-image-processing](https://github.com/tjzhang1993/Infrared-image-processing)|用于处理红外热成像得到的图片|2|2021-11-29|
+|64|[BetterBench/2021-APMCM-Problem-A](https://github.com/BetterBench/2021-APMCM-Problem-A)|2021年亚太地区数学建模赛题A(图像边缘分析与应用) Halcon方案实现、代码、实验数据|3|2021-11-30|
+|65|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|2021-12-21|
+|66|[tyl-stu/Compressed-sensing-code](https://github.com/tyl-stu/Compressed-sensing-code)|自己搜集和改写的压缩感知相关程序代码|3|2021-07-26|
+|67|[heihei2122/mag_cuboid](https://github.com/heihei2122/mag_cuboid)|a gui or app based matlab to calculate B  force stiffness  矩形磁体的计算|3|2021-11-20|
+|68|[X-X-Y/about_EEG_EandP](https://github.com/X-X-Y/about_EEG_EandP)|说说脑电信号的频谱、能量、功率谱、功率谱密度都是指什么|3|2021-07-15|
+|69|[gain-wyj/Color-image-enhancement](https://github.com/gain-wyj/Color-image-enhancement)|基于HSI和局部同态滤波的彩色图像增强算法|3|2021-07-05|
+|70|[AIHHU/Ant-Colony-Optimization](https://github.com/AIHHU/Ant-Colony-Optimization)|用matlab实现蚁群算法|3|2021-07-02|
+|71|[Stansec233/SVM-Electricity_Load_Forecast](https://github.com/Stansec233/SVM-Electricity_Load_Forecast)|基于日特征气象因素的支持向量机预测电力负荷|3|2021-06-24|
+|72|[ray1006597080/MyFish](https://github.com/ray1006597080/MyFish)|专注优化算法开发，包括以下方面：  （1）启发式算法，元启发式算法，群智能优化算法（GA，PSO，GWO等）  （2）凸优化（ADMM，Benders分解，内点法等）  （3）多目标优化（NSGA-II，MOPSO，MOGWO等）  （4）机器学习（神经网络，SVM，决策树，随机森林等） 电力系统优化建模，多学科优化建模，包括：  （1）电力系统运行优化（日前优化调度，微电网运行优化，电动汽车调度 ...|3|2021-06-07|
+|73|[lxlonlyn/numerical-analysis](https://github.com/lxlonlyn/numerical-analysis)|你知道数值分析的痛吗|3|2021-06-11|
+|74|[guoyun2020/LMS-Based-Adaptive-Filtering-Denoising-Algorithm](https://github.com/guoyun2020/LMS-Based-Adaptive-Filtering-Denoising-Algorithm)|一种基于LMS的自适应蓝牙耳机降噪算法|3|2021-06-15|
+|75|[guoyun2020/Speech-Signal-DSP-Platform](https://github.com/guoyun2020/Speech-Signal-DSP-Platform)|一款基于MATLAB的语音信号处理平台|3|2021-06-04|
+|76|[Dingqinliu/Encryption_Matlab](https://github.com/Dingqinliu/Encryption_Matlab)|与图像加密有关的一些代码|3|2021-07-16|
+|77|[chaiqingao/Sudoku](https://github.com/chaiqingao/Sudoku)|一个用MATLAB写的数独小游戏：以命令行和GUI两种方式生成数独和求解数独，你可以作为游戏来玩或作为求解数独的工具。|3|2021-07-15|
+|78|[Cirno9-dev/learning](https://github.com/Cirno9-dev/learning)|机器学习|3|2021-12-18|
+|79|[Magica-Chen/zhihu_writing](https://github.com/Magica-Chen/zhihu_writing)|Some simple codes for zhihu column writing: 高斯世界下的Machine Learning|3|2021-11-04|
+|80|[Heisenberg0391/DigitalSignalProcess_MATLAB](https://github.com/Heisenberg0391/DigitalSignalProcess_MATLAB)|数字信号处理matlab程序|3|2021-06-28|
+|81|[DietCokewithSugar/undamage-blood-glucose](https://github.com/DietCokewithSugar/undamage-blood-glucose)|基于改进深度回归网络的无创血糖检测算法|2|2021-12-02|
+|82|[acsamson/ImageFusion-Algorithm](https://github.com/acsamson/ImageFusion-Algorithm)|ImageFusion algorithm, SSIM and PSNR evaluation（常见图像融合算法以及SSIM和PSNR评价|2|2021-08-30|
+|83|[ja754969/Ocean-Current-Observation-and-Analysis](https://github.com/ja754969/Ocean-Current-Observation-and-Analysis)|洋流觀測分析 class at NTOU. File Station link : |2|2021-08-30|
+|84|[CXris/computerVision-stitching](https://github.com/CXris/computerVision-stitching)|使用Harris角点检测算法、最小二乘拟合、随机抽样一致算法(RANSAC)以及 HOG 描述符、线性融合等计算机视觉算法，使用Matlab实现将多张图像拼接成一张全景图。|2|2021-08-25|
+|85|[Uestc-xiye/CUMCM2020-Probelms-C](https://github.com/Uestc-xiye/CUMCM2020-Probelms-C)|2020年高教社杯全国大学生数学建模C题：中小微企业的信贷决策|2|2021-07-26|
+|86|[ScottXjw/Volterra_lms](https://github.com/ScottXjw/Volterra_lms)|Volterra_lms算法|2|2021-11-03|
+|87|[caokaifa/VFH](https://github.com/caokaifa/VFH)|VFH 局部路径规划|2|2021-07-01|
+|88|[YXL76/Communication-System-Modeling-and-Simulation](https://github.com/YXL76/Communication-System-Modeling-and-Simulation)|BUPT 通信系统建模与仿真|2|2021-06-19|
+|89|[tjzhang1993/Infrared-image-processing](https://github.com/tjzhang1993/Infrared-image-processing)|用于处理红外热成像得到的图片|2|2021-11-29|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

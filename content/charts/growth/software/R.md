@@ -1,17 +1,17 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|1|2021-12-20|
+|1|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|1|2021-12-21|
 |2|[GuangchuangYu/nCov2019](https://github.com/GuangchuangYu/nCov2019)|query stats of infected coronavirus cases|425|1|2021-06-10|
 |3|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|37|0|2021-11-26|
 |4|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|31|0|2021-09-29|
 |5|[jmzeng1314/AnnoProbe](https://github.com/jmzeng1314/AnnoProbe)|-|58|0|2021-08-01|
 |6|[skgrange/rmweather](https://github.com/skgrange/rmweather)|Tools to Conduct Meteorological Normalisation on Air Quality Data|24|0|2021-10-14|
-|7|[Wytamma/GISAIDR](https://github.com/Wytamma/GISAIDR)|Programmatically interact with the GISAID database.|6|0|2021-12-19|
+|7|[Wytamma/GISAIDR](https://github.com/Wytamma/GISAIDR)|Programmatically interact with the GISAID database.|7|0|2021-12-19|
 |8|[patrickreidy/textgRid](https://github.com/patrickreidy/textgRid)|Praat TextGrid Objects in R|19|0|2021-06-29|
 |9|[ropensci/scrubr](https://github.com/ropensci/scrubr)|Clean species occurrence records|32|0|2021-06-11|
 |10|[koheiw/LSX](https://github.com/koheiw/LSX)|A word embeddings-based semi-supervised model for document scaling|38|0|2021-10-27|
@@ -36,7 +36,7 @@
 |29|[davidycliao/redguards](https://github.com/davidycliao/redguards)|This is a designed package for replicating the estimates and findings in the article of Factionalism and the Red Guards under Mao's China: Ideal Point Estimation Using Text Data. |11|0|2021-12-06|
 |30|[XSLiuLab/tumor-immunogenicity-score](https://github.com/XSLiuLab/tumor-immunogenicity-score)|TIGS (Tumor Immunogenicity Score) project https://doi.org/10.7554/eLife.49020|22|0|2021-09-16|
 |31|[sammo3182/regioncode](https://github.com/sammo3182/regioncode)|Software for converting regional administrative codes (China) over years|7|0|2021-08-05|
-|32|[bnosac/ETM](https://github.com/bnosac/ETM)|Topic Modelling in Semantic Embedding Spaces|26|0|2021-11-11|
+|32|[bnosac/ETM](https://github.com/bnosac/ETM)|Topic Modelling in Semantic Embedding Spaces|28|0|2021-11-11|
 |33|[ykang/gratis](https://github.com/ykang/gratis)|GRATIS: GeneRAting TIme Series with diverse and controllable characteristics|57|0|2021-12-18|
 |34|[harryprince/geospark](https://github.com/harryprince/geospark)|bring sf to spark in production|46|0|2021-12-13|
 |35|[msberends/cleaner](https://github.com/msberends/cleaner)|Fast and Easy Data Cleaning (in R)|23|0|2021-06-22|
@@ -60,14 +60,14 @@
 |53|[rOpenStats/COVID19analyticsBak2109](https://github.com/rOpenStats/COVID19analyticsBak2109)|-|32|0|2021-10-03|
 |54|[quanteda/readtext](https://github.com/quanteda/readtext)|an R package for reading text files|98|0|2021-07-13|
 |55|[massimoaria/dimensionsR](https://github.com/massimoaria/dimensionsR)|Gathering metadata about publications, patents, grants, clinical trials and policy documents from DS Dimensions using DSL API|12|0|2021-06-07|
-|56|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|30|0|2021-12-17|
+|56|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|31|0|2021-12-17|
 |57|[ShixiangWang/tinyscholar](https://github.com/ShixiangWang/tinyscholar)|A Tiny R Package to Get and Show Google Scholar Profile|6|0|2021-10-26|
-|58|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|60|0|2021-12-18|
-|59|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|147|0|2021-10-10|
+|58|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|59|0|2021-12-21|
+|59|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|148|0|2021-10-10|
 |60|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/|49|0|2021-12-13|
 |61|[taiyun/Optimization-using-R](https://github.com/taiyun/Optimization-using-R)|A Chinese document about optimization using R|26|0|2021-06-30|
 |62|[YuLab-SMU/nCov2019](https://github.com/YuLab-SMU/nCov2019)|:microbe: Exploring COVID-19 data|7|0|2021-12-13|
-|63|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|489|0|2021-12-19|
+|63|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|491|0|2021-12-19|
 |64|[yukiyanai/quant-methods-R](https://github.com/yukiyanai/quant-methods-R)|Repository for "Quantitative Methods in Political Science Using R" by Masahiko Asano and Yuki Yanai|15|0|2021-11-17|
 |65|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|10|0|2021-09-21|
 |66|[datasketch/shi18ny](https://github.com/datasketch/shi18ny)|-|13|0|2021-06-10|

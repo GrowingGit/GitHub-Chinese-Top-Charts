@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > MATLAB
-<sub>温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -11,9 +11,9 @@
 |4|[iChunyu/LearnCtrlSys](https://github.com/iChunyu/LearnCtrlSys)|控制理论学习记录|2|0|2021-12-08|
 |5|[SilverFT/GJTU-lib](https://github.com/SilverFT/GJTU-lib)|资料整理|4|0|2021-07-05|
 |6|[Tyler2025/Machine_Learning](https://github.com/Tyler2025/Machine_Learning)|台湾大学李宏毅教授课程作业练习|9|0|2021-09-02|
-|7|[kerenfu/JLDCF](https://github.com/kerenfu/JLDCF)|Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection"|57|0|2021-06-23|
+|7|[kerenfu/JLDCF](https://github.com/kerenfu/JLDCF)|Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection"|58|0|2021-06-23|
 |8|[FanDady/Communication-Simulation](https://github.com/FanDady/Communication-Simulation)|这是福州大学通信原理课程设计——2ASK，2FSK，2PSK等调制解调系统的仿真实现|5|0|2021-07-20|
-|9|[qxr777/NumericalMethod](https://github.com/qxr777/NumericalMethod)|数值计算方法课程|17|0|2021-11-15|
+|9|[qxr777/NumericalMethod](https://github.com/qxr777/NumericalMethod)|数值计算方法课程|18|0|2021-11-15|
 |10|[MrCaiDev/matlab-experiment](https://github.com/MrCaiDev/matlab-experiment)|电子科技大学《数学实验》源码。|2|0|2021-12-08|
 |11|[sunshineclover/HFUT-EISAT-CoursesData](https://github.com/sunshineclover/HFUT-EISAT-CoursesData)|合肥工业大学宣城校区 电子信息科学与技术专业课程资料|4|0|2021-12-02|
 |12|[AngeloUNIMI/PalmSeg](https://github.com/AngeloUNIMI/PalmSeg)|Source code for palmprint segmentation and ROI extraction used in the IEEE TIFS 2019 and IEEE CIVEMSA 2019 papers|15|0|2021-09-06|

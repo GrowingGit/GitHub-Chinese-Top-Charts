@@ -1,110 +1,110 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > JavaScript
-<sub>温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[vuejs/vue](https://github.com/vuejs/vue)|🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.|191457|2021-12-20|
-|2|[Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)|Semantic is a UI component framework based around useful principles from natural language.|49737|2021-09-05|
-|3|[NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)|Based on a true story|43220|2021-10-01|
-|4|[serverless/serverless](https://github.com/serverless/serverless)|⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – |41592|2021-12-20|
-|5|[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)|Generation of diagram and flowchart from text in a similar manner as markdown|39036|2021-12-20|
-|6|[iamkun/dayjs](https://github.com/iamkun/dayjs)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|37389|2021-12-17|
-|7|[dcloudio/uni-app](https://github.com/dcloudio/uni-app)|uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架|34979|2021-12-20|
-|8|[chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)|The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。|34887|2021-12-13|
-|9|[alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js)|fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple|32979|2021-12-13|
-|10|[koajs/koa](https://github.com/koajs/koa)|Expressive middleware for node.js using ES2017 async functions|32101|2021-12-20|
-|11|[agalwood/Motrix](https://github.com/agalwood/Motrix)|A full-featured download manager.|29387|2021-12-14|
-|12|[carbon-app/carbon](https://github.com/carbon-app/carbon)|:black_heart: Create and share beautiful images of your source code|29318|2021-12-15|
-|13|[SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)|:green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit|28487|2021-12-19|
-|14|[sequelize/sequelize](https://github.com/sequelize/sequelize)|An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js|25429|2021-12-20|
-|15|[naptha/tesseract.js](https://github.com/naptha/tesseract.js)|Pure Javascript OCR for more than 100 Languages 📖🎉🖥|25260|2021-11-25|
-|16|[parallax/jsPDF](https://github.com/parallax/jsPDF)|Client-side JavaScript PDF generation for everyone.|23354|2021-12-17|
-|17|[YMFE/yapi](https://github.com/YMFE/yapi)|YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台|23259|2021-11-30|
-|18|[Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)|网易云音乐 Node.js API service|22320|2021-12-20|
+|1|[vuejs/vue](https://github.com/vuejs/vue)|🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.|191491|2021-12-20|
+|2|[Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)|Semantic is a UI component framework based around useful principles from natural language.|49742|2021-09-05|
+|3|[NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)|Based on a true story|43229|2021-10-01|
+|4|[serverless/serverless](https://github.com/serverless/serverless)|⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – |41598|2021-12-21|
+|5|[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)|Generation of diagram and flowchart from text in a similar manner as markdown|39044|2021-12-20|
+|6|[iamkun/dayjs](https://github.com/iamkun/dayjs)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|37402|2021-12-17|
+|7|[dcloudio/uni-app](https://github.com/dcloudio/uni-app)|uni-app 是使用 Vue 语法开发小程序、H5、App的统一框架|34997|2021-12-21|
+|8|[chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)|The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。|34896|2021-12-13|
+|9|[alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js)|fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple|32980|2021-12-13|
+|10|[koajs/koa](https://github.com/koajs/koa)|Expressive middleware for node.js using ES2017 async functions|32105|2021-12-20|
+|11|[agalwood/Motrix](https://github.com/agalwood/Motrix)|A full-featured download manager.|29404|2021-12-14|
+|12|[carbon-app/carbon](https://github.com/carbon-app/carbon)|:black_heart: Create and share beautiful images of your source code|29321|2021-12-15|
+|13|[SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)|:green_book: SheetJS Community Edition -- Spreadsheet Data Toolkit|28503|2021-12-19|
+|14|[sequelize/sequelize](https://github.com/sequelize/sequelize)|An easy-to-use and promise-based multi SQL dialects ORM tool for Node.js|25437|2021-12-21|
+|15|[naptha/tesseract.js](https://github.com/naptha/tesseract.js)|Pure Javascript OCR for more than 100 Languages 📖🎉🖥|25264|2021-11-25|
+|16|[parallax/jsPDF](https://github.com/parallax/jsPDF)|Client-side JavaScript PDF generation for everyone.|23355|2021-12-21|
+|17|[YMFE/yapi](https://github.com/YMFE/yapi)|YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台|23266|2021-11-30|
+|18|[Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)|网易云音乐 Node.js API service|22325|2021-12-21|
 |19|[redux-saga/redux-saga](https://github.com/redux-saga/redux-saga)|An alternative side effect model for Redux apps|21981|2021-12-05|
-|20|[tj/commander.js](https://github.com/tj/commander.js)|node.js command-line interfaces made easy|21774|2021-12-20|
-|21|[Tencent/wepy](https://github.com/Tencent/wepy)|小程序组件化开发框架|21652|2021-11-16|
-|22|[fastify/fastify](https://github.com/fastify/fastify)|Fast and low overhead web framework, for Node.js|21504|2021-12-20|
-|23|[ramda/ramda](https://github.com/ramda/ramda)|:ram: Practical functional Javascript|21477|2021-12-18|
-|24|[bilibili/flv.js](https://github.com/bilibili/flv.js)|HTML5 FLV Player|20539|2021-11-04|
-|25|[Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue)|基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。|20385|2021-08-11|
-|26|[localForage/localForage](https://github.com/localForage/localForage)|💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.|19850|2021-11-26|
-|27|[DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)|🍰 Everything is RSSible|18131|2021-12-20|
-|28|[qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)|🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.|17741|2021-12-16|
-|29|[eggjs/egg](https://github.com/eggjs/egg)|🥚 Born to build better enterprise frameworks and apps with Node.js & Koa|17623|2021-12-06|
-|30|[mysqljs/mysql](https://github.com/mysqljs/mysql)|A pure node.js JavaScript Client implementing the MySQL protocol.|16881|2021-09-15|
-|31|[dvajs/dva](https://github.com/dvajs/dva)|🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)|15884|2021-09-21|
-|32|[youzan/vant-weapp](https://github.com/youzan/vant-weapp)|轻量、可靠的小程序 UI 组件库|15431|2021-12-20|
-|33|[PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)|a vue2.0 minimal admin template |15420|2021-12-16|
-|34|[EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall)|微信小程序商城，微信小程序微店|15348|2021-12-16|
-|35|[menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator)| Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.|15262|2021-07-10|
-|36|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|15043|2021-12-20|
-|37|[lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)|一个基于 electron 的音乐软件|14999|2021-12-19|
+|20|[tj/commander.js](https://github.com/tj/commander.js)|node.js command-line interfaces made easy|21781|2021-12-21|
+|21|[Tencent/wepy](https://github.com/Tencent/wepy)|小程序组件化开发框架|21653|2021-11-16|
+|22|[fastify/fastify](https://github.com/fastify/fastify)|Fast and low overhead web framework, for Node.js|21510|2021-12-21|
+|23|[ramda/ramda](https://github.com/ramda/ramda)|:ram: Practical functional Javascript|21479|2021-12-18|
+|24|[bilibili/flv.js](https://github.com/bilibili/flv.js)|HTML5 FLV Player|20545|2021-11-04|
+|25|[Meituan-Dianping/mpvue](https://github.com/Meituan-Dianping/mpvue)|基于 Vue.js 的小程序开发框架，从底层支持 Vue.js 语法和构建工具体系。|20386|2021-08-11|
+|26|[localForage/localForage](https://github.com/localForage/localForage)|💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.|19852|2021-11-26|
+|27|[DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)|🍰 Everything is RSSible|18148|2021-12-21|
+|28|[qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)|🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.|17766|2021-12-16|
+|29|[eggjs/egg](https://github.com/eggjs/egg)|🥚 Born to build better enterprise frameworks and apps with Node.js & Koa|17625|2021-12-06|
+|30|[mysqljs/mysql](https://github.com/mysqljs/mysql)|A pure node.js JavaScript Client implementing the MySQL protocol.|16884|2021-09-15|
+|31|[dvajs/dva](https://github.com/dvajs/dva)|🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)|15883|2021-09-21|
+|32|[youzan/vant-weapp](https://github.com/youzan/vant-weapp)|轻量、可靠的小程序 UI 组件库|15435|2021-12-21|
+|33|[PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)|a vue2.0 minimal admin template |15423|2021-12-16|
+|34|[EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall)|微信小程序商城，微信小程序微店|15355|2021-12-16|
+|35|[menzi11/BullshitGenerator](https://github.com/menzi11/BullshitGenerator)| Needs to generate some texts to test if my GUI rendering codes good or not. so I made this.|15267|2021-07-10|
+|36|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|15066|2021-12-20|
+|37|[lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)|一个基于 electron 的音乐软件|15014|2021-12-19|
 |38|[acdlite/recompose](https://github.com/acdlite/recompose)|A React utility belt for function components and higher-order components.|14819|2021-12-07|
-|39|[lllyasviel/style2paints](https://github.com/lllyasviel/style2paints)|sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)|14373|2021-11-27|
-|40|[goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)|13988|2021-11-21|
-|41|[dcloudio/mui](https://github.com/dcloudio/mui)|最接近原生APP体验的高性能框架|13297|2021-07-07|
-|42|[be5invis/Iosevka](https://github.com/be5invis/Iosevka)|Versatile typeface for code, from code.|13143|2021-12-19|
-|43|[qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic)|高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: |13084|2021-12-21|
-|44|[xiandanin/magnetW](https://github.com/xiandanin/magnetW)|磁力链接聚合搜索|12630|2021-06-29|
-|45|[zadam/trilium](https://github.com/zadam/trilium)|Build your personal knowledge base with Trilium Notes|12592|2021-12-20|
-|46|[Tencent/omi](https://github.com/Tencent/omi)| Front End Cross-Frameworks Framework - 前端跨框架跨平台框架|12154|2021-11-15|
-|47|[unbug/codelf](https://github.com/unbug/codelf)|A search tool helps dev to solve the naming things problem.|12060|2021-06-24|
-|48|[myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet)|A web-based JavaScript（canvas） spreadsheet|12057|2021-12-15|
-|49|[pandao/editor.md](https://github.com/pandao/editor.md)|The open source embeddable online markdown editor (component).|11751|2021-12-14|
-|50|[modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)|中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。|11733|2021-07-15|
-|51|[answershuto/learnVue](https://github.com/answershuto/learnVue)|:octocat:Vue.js 源码解析|11519|2021-07-26|
+|39|[lllyasviel/style2paints](https://github.com/lllyasviel/style2paints)|sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)|14374|2021-11-27|
+|40|[goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (August 2021)|13996|2021-11-21|
+|41|[dcloudio/mui](https://github.com/dcloudio/mui)|最接近原生APP体验的高性能框架|13298|2021-07-07|
+|42|[qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic)|高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron: |13214|2021-12-21|
+|43|[be5invis/Iosevka](https://github.com/be5invis/Iosevka)|Versatile typeface for code, from code.|13150|2021-12-21|
+|44|[xiandanin/magnetW](https://github.com/xiandanin/magnetW)|磁力链接聚合搜索|12634|2021-06-29|
+|45|[zadam/trilium](https://github.com/zadam/trilium)|Build your personal knowledge base with Trilium Notes|12595|2021-12-21|
+|46|[Tencent/omi](https://github.com/Tencent/omi)| Front End Cross-Frameworks Framework - 前端跨框架跨平台框架|12156|2021-11-15|
+|47|[unbug/codelf](https://github.com/unbug/codelf)|A search tool helps dev to solve the naming things problem.|12063|2021-06-24|
+|48|[myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet)|A web-based JavaScript（canvas） spreadsheet|12061|2021-12-15|
+|49|[pandao/editor.md](https://github.com/pandao/editor.md)|The open source embeddable online markdown editor (component).|11761|2021-12-14|
+|50|[modood/Administrative-divisions-of-China](https://github.com/modood/Administrative-divisions-of-China)|中华人民共和国行政区划：省级（省份直辖市自治区）、 地级（城市）、 县级（区县）、 乡级（乡镇街道）、 村级（村委会居委会） ，中国省市区镇村二级三级四级五级联动地址数据。|11739|2021-07-15|
+|51|[answershuto/learnVue](https://github.com/answershuto/learnVue)|:octocat:Vue.js 源码解析|11525|2021-07-26|
 |52|[bailicangdu/node-elm](https://github.com/bailicangdu/node-elm)|基于 node.js + Mongodb 构建的后台系统|11228|2021-12-14|
-|53|[d2-projects/d2-admin](https://github.com/d2-projects/d2-admin)|An elegant dashboard|11014|2021-12-16|
+|53|[d2-projects/d2-admin](https://github.com/d2-projects/d2-admin)|An elegant dashboard|11016|2021-12-16|
 |54|[PatrickJS/angular-starter](https://github.com/PatrickJS/angular-starter)|Angular Starter|10408|2021-09-07|
-|55|[leanote/leanote](https://github.com/leanote/leanote)|Not Just A Notepad! (golang + mongodb) http://leanote.org|10366|2021-08-15|
+|55|[leanote/leanote](https://github.com/leanote/leanote)|Not Just A Notepad! (golang + mongodb) http://leanote.org|10367|2021-08-15|
 |56|[spencermountain/compromise](https://github.com/spencermountain/compromise)|modest natural-language processing|10090|2021-12-15|
-|57|[PrismJS/prism](https://github.com/PrismJS/prism)|Lightweight, robust, elegant syntax highlighting.|9862|2021-12-20|
-|58|[mengshukeji/Luckysheet](https://github.com/mengshukeji/Luckysheet)|Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.|9786|2021-12-17|
-|59|[avwo/whistle](https://github.com/avwo/whistle)|HTTP, HTTP2, HTTPS, Websocket debugging proxy|9689|2021-12-20|
-|60|[expressjs/multer](https://github.com/expressjs/multer)|Node.js middleware for handling `multipart/form-data`.|9484|2021-12-15|
+|57|[PrismJS/prism](https://github.com/PrismJS/prism)|Lightweight, robust, elegant syntax highlighting.|9863|2021-12-20|
+|58|[mengshukeji/Luckysheet](https://github.com/mengshukeji/Luckysheet)|Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.|9798|2021-12-21|
+|59|[avwo/whistle](https://github.com/avwo/whistle)|HTTP, HTTP2, HTTPS, Websocket debugging proxy|9697|2021-12-20|
+|60|[expressjs/multer](https://github.com/expressjs/multer)|Node.js middleware for handling `multipart/form-data`.|9486|2021-12-15|
 |61|[erikras/ducks-modular-redux](https://github.com/erikras/ducks-modular-redux)|A proposal for bundling reducers, action types and actions when using Redux|9282|2021-08-02|
-|62|[cnodejs/nodeclub](https://github.com/cnodejs/nodeclub)|:baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统|9161|2021-11-13|
-|63|[didi/cube-ui](https://github.com/didi/cube-ui)|:large_orange_diamond: A fantastic mobile ui lib implement by Vue|8897|2021-11-24|
-|64|[easy-mock/easy-mock](https://github.com/easy-mock/easy-mock)|A persistent service that generates mock data quickly and provids visualization view.|8645|2021-11-22|
+|62|[cnodejs/nodeclub](https://github.com/cnodejs/nodeclub)|:baby_chick:Nodeclub 是使用 Node.js 和 MongoDB 开发的社区系统|9162|2021-11-13|
+|63|[didi/cube-ui](https://github.com/didi/cube-ui)|:large_orange_diamond: A fantastic mobile ui lib implement by Vue|8900|2021-11-24|
+|64|[easy-mock/easy-mock](https://github.com/easy-mock/easy-mock)|A persistent service that generates mock data quickly and provids visualization view.|8647|2021-11-22|
 |65|[didi/chameleon](https://github.com/didi/chameleon)|🦎 一套代码运行多端，一端所见即多端所见|8638|2021-10-06|
-|66|[timarney/react-app-rewired](https://github.com/timarney/react-app-rewired)|Override create-react-app webpack configs without ejecting|8634|2021-12-15|
-|67|[mobz/elasticsearch-head](https://github.com/mobz/elasticsearch-head)|A web front end for an elastic search cluster|8475|2021-07-17|
-|68|[mayswind/AriaNg](https://github.com/mayswind/AriaNg)|AriaNg, a modern web frontend making aria2 easier to use.|8350|2021-12-19|
-|69|[litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)|一个简洁优雅的hexo主题  A simple and elegant theme for hexo.|8185|2021-06-05|
-|70|[nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch)|Next-Generation full text search library for Browser and Node.js|8113|2021-11-18|
-|71|[listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension)|one for all free music in china (chrome extension, also works for firefox)|7988|2021-12-20|
-|72|[alibaba/rax](https://github.com/alibaba/rax)|🐰 Rax is a progressive framework for building universal application. https://rax.js.org|7565|2021-12-09|
-|73|[Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)|搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。|7349|2021-12-17|
-|74|[alibaba/anyproxy](https://github.com/alibaba/anyproxy)|A fully configurable http/https proxy in NodeJS|7239|2021-11-01|
-|75|[playcanvas/engine](https://github.com/playcanvas/engine)|Fast and lightweight JavaScript game engine built on WebGL and glTF|6894|2021-12-20|
-|76|[openspug/spug](https://github.com/openspug/spug)|开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。|6815|2021-12-20|
-|77|[ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis)|:thumbsup: Vue.js 源码分析|6655|2021-10-06|
-|78|[ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts)|Apache ECharts component for Vue.js.|6625|2021-12-16|
-|79|[wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger)|微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。|6539|2021-09-22|
-|80|[alyssaxuu/screenity](https://github.com/alyssaxuu/screenity)|The most powerful screen recorder & annotation tool for Chrome 🎥|6234|2021-12-16|
-|81|[docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar)|开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速|6166|2021-12-15|
-|82|[bda-research/node-crawler](https://github.com/bda-research/node-crawler)|Web Crawler/Spider for NodeJS + server-side jQuery ;-)|6061|2021-12-20|
+|66|[timarney/react-app-rewired](https://github.com/timarney/react-app-rewired)|Override create-react-app webpack configs without ejecting|8637|2021-12-21|
+|67|[mobz/elasticsearch-head](https://github.com/mobz/elasticsearch-head)|A web front end for an elastic search cluster|8476|2021-07-17|
+|68|[mayswind/AriaNg](https://github.com/mayswind/AriaNg)|AriaNg, a modern web frontend making aria2 easier to use.|8352|2021-12-19|
+|69|[litten/hexo-theme-yilia](https://github.com/litten/hexo-theme-yilia)|一个简洁优雅的hexo主题  A simple and elegant theme for hexo.|8189|2021-06-05|
+|70|[nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch)|Next-Generation full text search library for Browser and Node.js|8112|2021-11-18|
+|71|[listen1/listen1_chrome_extension](https://github.com/listen1/listen1_chrome_extension)|one for all free music in china (chrome extension, also works for firefox)|7991|2021-12-21|
+|72|[alibaba/rax](https://github.com/alibaba/rax)|🐰 Rax is a progressive framework for building universal application. https://rax.js.org|7569|2021-12-21|
+|73|[Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet)|搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。|7357|2021-12-17|
+|74|[alibaba/anyproxy](https://github.com/alibaba/anyproxy)|A fully configurable http/https proxy in NodeJS|7240|2021-11-01|
+|75|[playcanvas/engine](https://github.com/playcanvas/engine)|Fast and lightweight JavaScript game engine built on WebGL and glTF|6898|2021-12-21|
+|76|[openspug/spug](https://github.com/openspug/spug)|开源运维平台：面向中小型企业设计的轻量级无Agent的自动化运维平台，整合了主机管理、主机批量执行、主机在线终端、文件在线上传下载、应用发布部署、在线任务计划、配置中心、监控、报警等一系列功能。|6815|2021-12-21|
+|77|[ustbhuangyi/vue-analysis](https://github.com/ustbhuangyi/vue-analysis)|:thumbsup: Vue.js 源码分析|6662|2021-10-06|
+|78|[ecomfe/vue-echarts](https://github.com/ecomfe/vue-echarts)|Apache ECharts component for Vue.js.|6628|2021-12-16|
+|79|[wuchangming/spy-debugger](https://github.com/wuchangming/spy-debugger)|微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。|6547|2021-09-22|
+|80|[alyssaxuu/screenity](https://github.com/alyssaxuu/screenity)|The most powerful screen recorder & annotation tool for Chrome 🎥|6236|2021-12-16|
+|81|[docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar)|开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速|6178|2021-12-15|
+|82|[bda-research/node-crawler](https://github.com/bda-research/node-crawler)|Web Crawler/Spider for NodeJS + server-side jQuery ;-)|6062|2021-12-20|
 |83|[hotoo/pinyin](https://github.com/hotoo/pinyin)|:cn: 汉字拼音 ➜ hàn zì pīn yīn|6049|2021-12-20|
-|84|[MrXujiang/h5-Dooring](https://github.com/MrXujiang/h5-Dooring)|H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks.   让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.|5842|2021-12-08|
-|85|[gitalk/gitalk](https://github.com/gitalk/gitalk)|Gitalk is a modern comment component based on Github Issue and Preact.|5787|2021-09-20|
-|86|[doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom)|A Dark Room - A Minimalist Text Adventure|5650|2021-12-10|
+|84|[MrXujiang/h5-Dooring](https://github.com/MrXujiang/h5-Dooring)|H5 Page Maker, H5 Editor, LowCode. Make H5 as easy as building blocks.   让H5制作像搭积木一样简单, 轻松搭建H5页面, H5网站, PC端网站,LowCode平台.|5847|2021-12-08|
+|85|[gitalk/gitalk](https://github.com/gitalk/gitalk)|Gitalk is a modern comment component based on Github Issue and Preact.|5788|2021-09-20|
+|86|[doublespeakgames/adarkroom](https://github.com/doublespeakgames/adarkroom)|A Dark Room - A Minimalist Text Adventure|5653|2021-12-10|
 |87|[bndw/wifi-card](https://github.com/bndw/wifi-card)|📶 Print a QR code for connecting to your WiFi (wificard.io)|5536|2021-11-04|
-|88|[ecomfe/echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin)|Apache ECharts (incubating) 的微信小程序版本|5485|2021-09-22|
-|89|[soldair/node-qrcode](https://github.com/soldair/node-qrcode)|qr code generator|5369|2021-12-01|
-|90|[Kenshin/simpread](https://github.com/Kenshin/simpread)|简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展|5358|2021-12-19|
-|91|[tumobi/nideshop](https://github.com/tumobi/nideshop)|NideShop 开源微信小程序商城服务端 API（Node.js + ThinkJS）|5157|2021-08-09|
-|92|[AutoPiano/AutoPiano](https://github.com/AutoPiano/AutoPiano)|自由钢琴 🎹 AutoPiano ( https://www.autopiano.cn )   Simple & Elegant Piano Online|5118|2021-09-18|
-|93|[ly525/luban-h5](https://github.com/ly525/luban-h5)|[WIP]en: web design tool    mobile page builder/editor    mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统.|4993|2021-12-05|
-|94|[NobyDa/Script](https://github.com/NobyDa/Script)|This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.|4991|2021-12-03|
-|95|[Bogdan-Lyashenko/Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)|Entire React code base explanation by visual block schemes (Stack version) |4800|2021-11-19|
-|96|[bytedance/xgplayer](https://github.com/bytedance/xgplayer)|A HTML5 video player with a parser that saves traffic|4792|2021-12-14|
+|88|[ecomfe/echarts-for-weixin](https://github.com/ecomfe/echarts-for-weixin)|Apache ECharts (incubating) 的微信小程序版本|5487|2021-09-22|
+|89|[soldair/node-qrcode](https://github.com/soldair/node-qrcode)|qr code generator|5371|2021-12-01|
+|90|[Kenshin/simpread](https://github.com/Kenshin/simpread)|简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展|5357|2021-12-19|
+|91|[tumobi/nideshop](https://github.com/tumobi/nideshop)|NideShop 开源微信小程序商城服务端 API（Node.js + ThinkJS）|5158|2021-08-09|
+|92|[AutoPiano/AutoPiano](https://github.com/AutoPiano/AutoPiano)|自由钢琴 🎹 AutoPiano ( https://www.autopiano.cn )   Simple & Elegant Piano Online|5120|2021-09-18|
+|93|[NobyDa/Script](https://github.com/NobyDa/Script)|This project is based on the scripting capabilities of two excellent iOS proxy tools, Quantumult X or Surge.|5000|2021-12-03|
+|94|[ly525/luban-h5](https://github.com/ly525/luban-h5)|[WIP]en: web design tool    mobile page builder/editor    mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统.|4994|2021-12-05|
+|95|[Bogdan-Lyashenko/Under-the-hood-ReactJS](https://github.com/Bogdan-Lyashenko/Under-the-hood-ReactJS)|Entire React code base explanation by visual block schemes (Stack version) |4802|2021-11-19|
+|96|[bytedance/xgplayer](https://github.com/bytedance/xgplayer)|A HTML5 video player with a parser that saves traffic|4794|2021-12-14|
 |97|[otale/tale](https://github.com/otale/tale)|🦄 Best beautiful java blog, worth a try|4784|2021-09-25|
-|98|[axa-group/nlp.js](https://github.com/axa-group/nlp.js)|An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more|4674|2021-12-02|
+|98|[axa-group/nlp.js](https://github.com/axa-group/nlp.js)|An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more|4675|2021-12-02|
 |99|[xiaolin3303/wx-charts](https://github.com/xiaolin3303/wx-charts)|微信小程序图表charts组件，Charts for WeChat Mini Program|4637|2021-06-17|
-|100|[globalizejs/globalize](https://github.com/globalizejs/globalize)|A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data|4612|2021-12-16|
+|100|[globalizejs/globalize](https://github.com/globalizejs/globalize)|A JavaScript library for internationalization and localization that leverages the official Unicode CLDR JSON data|4613|2021-12-16|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

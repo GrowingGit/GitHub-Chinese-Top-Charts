@@ -1,70 +1,70 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Shell
-<sub>温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)|:see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞|27492|2021-08-10|
-|2|[rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)|Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook|9426|2021-12-17|
-|3|[judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial)|《Java 程序员眼中的 Linux》|7758|2021-07-05|
-|4|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|6593|2021-12-21|
-|5|[wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial)|Bash 教程|3319|2021-12-18|
-|6|[wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial)|JavaScript 教程 https://wangdoc.com/javascript|3142|2021-10-29|
+|1|[shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)|:see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞|27493|2021-08-10|
+|2|[rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)|Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook|9430|2021-12-21|
+|3|[judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial)|《Java 程序员眼中的 Linux》|7759|2021-07-05|
+|4|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|6592|2021-12-21|
+|5|[wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial)|Bash 教程|3325|2021-12-21|
+|6|[wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial)|JavaScript 教程 https://wangdoc.com/javascript|3144|2021-10-29|
 |7|[jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow)|Curated list of resources about Apache Airflow|2755|2021-12-02|
-|8|[charlax/engineering-management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|2529|2021-12-10|
-|9|[wind-liang/leetcode](https://github.com/wind-liang/leetcode)|leetcode 顺序刷题，详细通俗题解，with JAVA|2194|2021-09-02|
-|10|[wslutilities/wslu](https://github.com/wslutilities/wslu)|A collection of utilities for Windows 10 Linux Subsystems|2020|2021-12-03|
+|8|[charlax/engineering-management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|2531|2021-12-10|
+|9|[wind-liang/leetcode](https://github.com/wind-liang/leetcode)|leetcode 顺序刷题，详细通俗题解，with JAVA|2195|2021-09-02|
+|10|[wslutilities/wslu](https://github.com/wslutilities/wslu)|A collection of utilities for Windows 10 Linux Subsystems|2022|2021-12-03|
 |11|[LCTT/TranslateProject](https://github.com/LCTT/TranslateProject)|Linux中国翻译项目|1847|2021-12-21|
-|12|[kiddin9/OpenWrt_x86-r2s-r4s](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s)|Automatic unattended weekly builds of the current OpenWrt development master branch for X86_64, NanoPi-R2S, NanoPi-R4S, Rpi-4B|1602|2021-12-19|
-|13|[Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin)|基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜|1558|2021-12-20|
+|12|[kiddin9/OpenWrt_x86-r2s-r4s](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s)|Automatic unattended weekly builds of the current OpenWrt development master branch for X86_64, NanoPi-R2S, NanoPi-R4S, Rpi-4B|1604|2021-12-21|
+|13|[Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin)|基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜|1562|2021-12-20|
 |14|[discourse/discourse_docker](https://github.com/discourse/discourse_docker)|A Docker image for Discourse|1383|2021-12-15|
-|15|[ben1234560/k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)|如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker等。|1356|2021-12-11|
+|15|[ben1234560/k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)|如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker等。|1357|2021-12-11|
 |16|[studygolang/GCTT](https://github.com/studygolang/GCTT)|GCTT Go中文网翻译组。|1318|2021-10-20|
-|17|[johnrosen1/vpstoolbox](https://github.com/johnrosen1/vpstoolbox)|厌倦了总是需要手动输入命令安装博客，网盘，邮箱，代理了吗？VPSToolBox提供了一种全自动化的解决方案，解放双手，从今天开始！|1259|2021-11-22|
+|17|[johnrosen1/vpstoolbox](https://github.com/johnrosen1/vpstoolbox)|厌倦了总是需要手动输入命令安装博客，网盘，邮箱，代理了吗？VPSToolBox提供了一种全自动化的解决方案，解放双手，从今天开始！|1260|2021-11-22|
 |18|[duguying/parsing-techniques](https://github.com/duguying/parsing-techniques)|📕 parsing techniques 中文译本——《解析技术》|1248|2021-11-08|
-|19|[the0demiurge/CharlesScripts](https://github.com/the0demiurge/CharlesScripts)|My awesome scripts for Arch Linux or Ubuntu Gnome latest LTS or MacBook.|962|2021-10-28|
+|19|[the0demiurge/CharlesScripts](https://github.com/the0demiurge/CharlesScripts)|My awesome scripts for Arch Linux or Ubuntu Gnome latest LTS or MacBook.|963|2021-10-28|
 |20|[liquanzhou/ops_doc](https://github.com/liquanzhou/ops_doc)|运维简洁实用手册|915|2021-06-02|
 |21|[goreliu/zshguide](https://github.com/goreliu/zshguide)|Zsh 开发指南|875|2021-11-26|
-|22|[tonydeng/sdn-handbook](https://github.com/tonydeng/sdn-handbook)|SDN手册|799|2021-07-23|
+|22|[tonydeng/sdn-handbook](https://github.com/tonydeng/sdn-handbook)|SDN手册|801|2021-07-23|
 |23|[godbasin/vue-ebook](https://github.com/godbasin/vue-ebook)|《深入理解Vue.js实战》- 介绍Vue.js框架的出现、设计和使用，结合实战让读者更深入理解Vue.js框架，掌握使用方法。|778|2021-11-03|
 |24|[ctf-wiki/ctf-tools](https://github.com/ctf-wiki/ctf-tools)|CTF 工具集合|684|2021-08-14|
 |25|[skyline75489/Heart-First-JavaWeb](https://github.com/skyline75489/Heart-First-JavaWeb)|一个走心的 Java Web 入门开发教程|677|2021-11-11|
-|26|[zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial)|Java全栈知识架构体系总结|669|2021-12-20|
+|26|[zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial)|Java全栈知识架构体系总结|673|2021-12-21|
 |27|[wangdoc/es6-tutorial](https://github.com/wangdoc/es6-tutorial)|一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。|623|2021-12-02|
 |28|[soulteary/Home-Network-Note](https://github.com/soulteary/Home-Network-Note)|🚧 持续更新 🚧 记录搭建兼顾学习娱乐的家用网络环境的过程，折腾过的一些软硬件小经验。|525|2021-11-09|
 |29|[jaywcjlove/docker-tutorial](https://github.com/jaywcjlove/docker-tutorial)|🐳 Docker入门学习笔记|484|2021-12-18|
-|30|[andyzhshg/syno-acme](https://github.com/andyzhshg/syno-acme)|通过acme协议更新群晖HTTPS泛域名证书的自动脚本|466|2021-12-03|
+|30|[andyzhshg/syno-acme](https://github.com/andyzhshg/syno-acme)|通过acme协议更新群晖HTTPS泛域名证书的自动脚本|467|2021-12-03|
 |31|[rootsongjc/istio-handbook](https://github.com/rootsongjc/istio-handbook)|Istio 服务网格 —— 后 Kubernetes 时代的应用网络 - https://jimmysong.io/istio-handbook|429|2021-11-21|
 |32|[qichengzx/gopher-reading-list-zh_CN](https://github.com/qichengzx/gopher-reading-list-zh_CN)|Golang中文博客文章阅读列表|400|2021-11-28|
 |33|[lxchuan12/blog](https://github.com/lxchuan12/blog)|若川的博客—撰写了学习源码整体架构系列20余篇。组织了源码共读活动，每周一起学习200行左右的源码，加我微信 ruochuan12 参与。|388|2021-12-14|
-|34|[rootsongjc/kubernetes-hardening-guidance](https://github.com/rootsongjc/kubernetes-hardening-guidance)|《Kubernetes 加固手册》（美国国家安全局出品）- https://jimmysong.io/kubernetes-hardening-guidance|385|2021-10-13|
-|35|[collabH/repository](https://github.com/collabH/repository)|知识仓库涉及到数据仓库建模、实时计算、大数据、数据中台、系统设计、Java、算法等。|370|2021-12-20|
+|34|[rootsongjc/kubernetes-hardening-guidance](https://github.com/rootsongjc/kubernetes-hardening-guidance)|《Kubernetes 加固手册》（美国国家安全局出品）- https://jimmysong.io/kubernetes-hardening-guidance|386|2021-10-13|
+|35|[collabH/repository](https://github.com/collabH/repository)|知识仓库涉及到数据仓库建模、实时计算、大数据、数据中台、系统设计、Java、算法等。|372|2021-12-21|
 |36|[meetbill/op_practice_book](https://github.com/meetbill/op_practice_book)|📚 《运维实践指南》持续更新中，推荐大牛干货博客 https://me.csdn.net/g2V13ah|347|2021-08-02|
 |37|[cdk8s/cdk8s-team-style](https://github.com/cdk8s/cdk8s-team-style)|寻找志同道合的人，引发自身的思考|309|2021-12-12|
 |38|[jgsrty/jgsrty.github.io](https://github.com/jgsrty/jgsrty.github.io)|:sunny: 英语学习 :feet: 项目预览：https://jgsrty.github.io 国内访问：https://rtyxmd.gitee.io|293|2021-12-14|
 |39|[gyli/Blocklist](https://github.com/gyli/Blocklist)|List of shit websites for blocking Google search result.|286|2021-11-16|
 |40|[KeKe-Li/kubernetes-tutorial](https://github.com/KeKe-Li/kubernetes-tutorial)|Running Kubernetes cluster Locally tutorial |266|2021-10-23|
 |41|[jaywcjlove/shell-tutorial](https://github.com/jaywcjlove/shell-tutorial)|Shell入门教程（Shell tutorial book）|254|2021-12-06|
-|42|[zq99299/note-book](https://github.com/zq99299/note-book)|新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记。|247|2021-06-23|
+|42|[zq99299/note-book](https://github.com/zq99299/note-book)|新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记。|248|2021-06-23|
 |43|[Messiahhh/blog](https://github.com/Messiahhh/blog)|akara的前端笔记|242|2021-09-20|
 |44|[tofi86/universalJavaApplicationStub](https://github.com/tofi86/universalJavaApplicationStub)|universalJavaApplicationStub - an alternative Application launcher script for Java based macOS Apps that works with both Apple's and Oracle's PList format and supports the old Apple Java 6 as well as  ...|242|2021-11-02|
 |45|[wuleying/PHP](https://github.com/wuleying/PHP)|PHP相关资料|234|2021-11-19|
 |46|[rootsongjc/migrating-to-cloud-native-application-architectures](https://github.com/rootsongjc/migrating-to-cloud-native-application-architectures)|《迁移到云原生应用架构》中文版 https://jimmysong.io/migrating-to-cloud-native-application-architectures/|225|2021-10-22|
 |47|[orangbus/Tool](https://github.com/orangbus/Tool)|Manjaro从入门到爱不释手．|221|2021-06-10|
 |48|[maravento/blackweb](https://github.com/maravento/blackweb)|Domains Blocklist for Squid-Cache|221|2021-12-19|
-|49|[aalmiray/java-champions](https://github.com/aalmiray/java-champions)|A list of Java Champions|210|2021-11-29|
+|49|[aalmiray/java-champions](https://github.com/aalmiray/java-champions)|A list of Java Champions|213|2021-12-21|
 |50|[wangdoc/html-tutorial](https://github.com/wangdoc/html-tutorial)|HTML 语言教程|204|2021-09-23|
 |51|[tinyclub/cloud-lab](https://github.com/tinyclub/cloud-lab)|Docker based Cloud Lab Center, with noVNC and Gateone attachable LXDE Desktop and SSH Terminal. 本项目作者发布了《360° 剖析 Linux ELF》视频课程，欢迎订阅：https://www.cctalk.com/m/group/88089283|194|2021-11-09|
 |52|[hoochanlon/helpdesk-guide](https://github.com/hoochanlon/helpdesk-guide)|📖《企业网管工作实录》主机与程控终端信息安全运维，IT方向速成就业入职|190|2021-12-14|
-|53|[wangtunan/blog](https://github.com/wangtunan/blog)|:memo: 记录个人博客，见证成长之路  https://wangtunan.github.io/blog/|186|2021-12-20|
+|53|[wangtunan/blog](https://github.com/wangtunan/blog)|:memo: 记录个人博客，见证成长之路  https://wangtunan.github.io/blog/|186|2021-12-21|
 |54|[huweihuang/kubernetes-notes](https://github.com/huweihuang/kubernetes-notes)|Kubernetes 学习笔记-https://www.huweihuang.com/kubernetes-notes/|183|2021-11-26|
 |55|[wangdoc/webapi-tutorial](https://github.com/wangdoc/webapi-tutorial)|Web API 教程|180|2021-09-05|
-|56|[Petit-Abba/backup_script_zh-CN](https://github.com/Petit-Abba/backup_script_zh-CN)|数据备份脚本 简体中文版|174|2021-12-21|
+|56|[Petit-Abba/backup_script_zh-CN](https://github.com/Petit-Abba/backup_script_zh-CN)|数据备份脚本 简体中文版|176|2021-12-21|
 |57|[yuyicai/update-kube-cert](https://github.com/yuyicai/update-kube-cert)|K8s集群证书过期处理，更新kubeadm生成的证书有效期为10年。针对旧版集群(小于v1.15)，当然大于等于v1.15也是可以用这个脚本更新，新版可直接kubeadm alpha certs renew <cert_name>更新 (deal with K8s cluster certificate expired)|174|2021-09-26|
 |58|[imroc/kubernetes-practice-guide](https://github.com/imroc/kubernetes-practice-guide)|Kubernetes Practice Guide (Kubernetes 实践指南)|165|2021-08-19|
 |59|[kumakichi/easy_rust_chs](https://github.com/kumakichi/easy_rust_chs)|https://github.com/Dhghomon/easy_rust 简体中文翻译|159|2021-09-29|
-|60|[ustclug/Linux101-docs](https://github.com/ustclug/Linux101-docs)|Linux 101 学生课程教材与讲义|151|2021-12-18|
+|60|[ustclug/Linux101-docs](https://github.com/ustclug/Linux101-docs)|Linux 101 学生课程教材与讲义|152|2021-12-18|
 |61|[cloudnativeto/community](https://github.com/cloudnativeto/community)|云原生社区资料库 - https://cloudnative.to/community/|150|2021-09-03|
 |62|[overmind1980/oeasypython](https://github.com/overmind1980/oeasypython)|面向初学者的简明易懂的 Python3 课程，对没有编程经验的同学也非常友好。在vim下从浅入深，逐步学习。|132|2021-12-10|
 |63|[laubonghaudoi/Chinese_Rime](https://github.com/laubonghaudoi/Chinese_Rime)|收集現代漢語方言和古漢語的中州韻輸入法拼音方案 Collection of phonetic spelling schemas for Sinitic languages and dialects|132|2021-12-19|
@@ -81,14 +81,14 @@
 |74|[MrH723/Actions-OpenWrt](https://github.com/MrH723/Actions-OpenWrt)|-OpenWrt全网插件汇总-多种设备OpenWrt固件自动云编译。X86-64主路由，x86-64旁路由、x86-64插件全家桶、K2T、K2P、K3、N1、红米 AC2100、Newifi D2、树莓派、竞斗云、小、小米 R3G、极路由 B70、小米 R3P、小米 Mini、网件 R7800、娱 C5、R2SNanoPI NEO2、等。|77|2021-12-13|
 |75|[gmt-china/GMT_docs](https://github.com/gmt-china/GMT_docs)|GMT 中文手册|73|2021-12-20|
 |76|[HansenCCC/HSAddUdids](https://github.com/HansenCCC/HSAddUdids)|超级签名中最重要的一步：跳过双重认证，自动化脚本添加udid并下载描述文件（证书和bundleid不存在时，会自动创建）|72|2021-08-26|
-|77|[Petit-Abba/black_and_white_list](https://github.com/Petit-Abba/black_and_white_list)|Magisk模块: 定时清理黑名单列表路径文件or文件夹|68|2021-11-13|
+|77|[Petit-Abba/black_and_white_list](https://github.com/Petit-Abba/black_and_white_list)|Magisk模块: 定时清理黑名单列表路径文件or文件夹|69|2021-11-13|
 |78|[Gesj-yean/vue-demo-collection](https://github.com/Gesj-yean/vue-demo-collection)|Gesj 将开发过程中遇到的通用 Vue 组件 demo 收集，Vue/CSS/Echarts等，积累的知识也会同步放到这里 :heart:|68|2021-12-13|
 |79|[maravento/blackip](https://github.com/maravento/blackip)|IP Blocklist for Ipset / Squid-Cache|67|2021-12-13|
 |80|[BlockchainOne/WeChat](https://github.com/BlockchainOne/WeChat)|区块链技术指北（ChainONE）社区微信群价值信息汇总。|66|2021-10-17|
 |81|[weijiew/codestep](https://github.com/weijiew/codestep)|🤖 写点笔记。|65|2021-12-07|
 |82|[liusy58/WhyThis](https://github.com/liusy58/WhyThis)|we'll try to answer some questions during our study about computer systems.|62|2021-06-12|
 |83|[hbulpf/aipath](https://github.com/hbulpf/aipath)|AI学习之路|62|2021-10-16|
-|84|[lbc-team/Pioneer](https://github.com/lbc-team/Pioneer)|登链翻译计划|58|2021-12-12|
+|84|[lbc-team/Pioneer](https://github.com/lbc-team/Pioneer)|登链翻译计划|59|2021-12-12|
 |85|[rentianyu/Ad-set-hosts](https://github.com/rentianyu/Ad-set-hosts)|集合多个去广告hosts并去重|58|2021-12-21|
 |86|[anran758/front-end-lab](https://github.com/anran758/front-end-lab)|:notebook_with_decorative_cover: 前端的研究和规范及踩坑的记录|58|2021-12-17|
 |87|[SpaceLearner/Awesome-DynamicGraphLearning](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)|Awesome papers about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs). 将深度学习技术(图神经网络等)应用在动态图、动态网络、动态知识图谱上的论文、工具等。|57|2021-10-28|
@@ -96,7 +96,7 @@
 |89|[duyanghao/kubernetes-reading-notes](https://github.com/duyanghao/kubernetes-reading-notes)|Kubernetes源码阅读笔记|53|2021-08-19|
 |90|[jiangtao/blog](https://github.com/jiangtao/blog)|深入基础，沉淀下来。欢迎watch或star. 更多信息关注: 公众号 前端进制|51|2021-10-19|
 |91|[xry111/lfs-book-i18n](https://github.com/xry111/lfs-book-i18n)|Repository for LFS book translation (currently only Simplified Chinese).|50|2021-12-15|
-|92|[felix-fly/v2ray-padavan-doh](https://github.com/felix-fly/v2ray-padavan-doh)|k2p路由器使用padavan(N56U/改华硕)固件安装配置v2ray的进阶流程|48|2021-12-13|
+|92|[felix-fly/v2ray-padavan-doh](https://github.com/felix-fly/v2ray-padavan-doh)|k2p路由器使用padavan(N56U/改华硕)固件安装配置v2ray的进阶流程|49|2021-12-13|
 |93|[yangruihan/Notes](https://github.com/yangruihan/Notes)|个人笔记|47|2021-11-27|
 |94|[zq99299/java-tutorial](https://github.com/zq99299/java-tutorial)|Java 8 官网教程阅读笔记 |44|2021-06-28|
 |95|[linpenghui958/note](https://github.com/linpenghui958/note)|分享一些随手记下的笔记|43|2021-10-06|

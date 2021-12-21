@@ -1,32 +1,32 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Lua
-<sub>温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|7928|8|2021-12-21|
+|1|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|7938|8|2021-12-21|
 |2|[jerrykuku/luci-app-vssr](https://github.com/jerrykuku/luci-app-vssr)|HelloWorld是一个以用户最佳主观体验为导向的插件，它支持多种主流协议和多种自定义视频分流服务，拥有精美的操作界面，并配上直观的节点信息。|1544|2|2021-12-16|
-|3|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|324|2|2021-12-20|
+|3|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|327|2|2021-12-21|
 |4|[Tencent/LuaPanda](https://github.com/Tencent/LuaPanda)|lua debug and code tools for VS Code|908|1|2021-11-12|
-|5|[starwing/lua-protobuf](https://github.com/starwing/lua-protobuf)|A Lua module to work with Google protobuf|1217|1|2021-11-30|
-|6|[liuhaopen/UnityMMO](https://github.com/liuhaopen/UnityMMO)|an unity mmo demo, base on ecs(game play), xlua(ui)|965|1|2021-07-01|
-|7|[wongdean/rime-settings](https://github.com/wongdean/rime-settings)|接近原生的鼠须管 Rime 配置|977|1|2021-12-14|
+|5|[starwing/lua-protobuf](https://github.com/starwing/lua-protobuf)|A Lua module to work with Google protobuf|1218|1|2021-11-30|
+|6|[liuhaopen/UnityMMO](https://github.com/liuhaopen/UnityMMO)|an unity mmo demo, base on ecs(game play), xlua(ui)|966|1|2021-07-01|
+|7|[wongdean/rime-settings](https://github.com/wongdean/rime-settings)|接近原生的鼠须管 Rime 配置|1039|1|2021-12-14|
 |8|[SivanLaai/rime-pure](https://github.com/SivanLaai/rime-pure)|【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼音\小鹤双拼\极品五笔\QQ五笔\徐码\郑码】|237|1|2021-10-28|
 |9|[starjun/openstar](https://github.com/starjun/openstar)|lua waf,nginx+lua,openresty,luajit,waf+,cdn,nginx|1024|1|2021-10-10|
 |10|[acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion)|Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...|621|1|2021-12-16|
-|11|[lisaac/luci-app-dockerman](https://github.com/lisaac/luci-app-dockerman)|Docker Manager interface for LuCI|492|1|2021-12-18|
+|11|[lisaac/luci-app-dockerman](https://github.com/lisaac/luci-app-dockerman)|Docker Manager interface for LuCI|493|1|2021-12-18|
 |12|[jx-sec/jxwaf](https://github.com/jx-sec/jxwaf)|JXWAF(锦衣盾)是一款开源web应用防火墙|827|1|2021-10-11|
-|13|[linkease/istore](https://github.com/linkease/istore)|一个支持 Openwrt 标准的软件中心实现。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|92|1|2021-12-21|
-|14|[lhqx/rime](https://github.com/lhqx/rime)|Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置|824|1|2021-12-20|
-|15|[kiccer/Soldier76](https://github.com/kiccer/Soldier76)|PUBG - 罗技鼠标宏   兴趣使然的项目，完虐收费宏！点个Star支持一下作者！[PUBG - Logitech mouse macro   Support 12 kinds of guns without recoil!]|723|1|2021-09-09|
+|13|[linkease/istore](https://github.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|92|1|2021-12-21|
+|14|[lhqx/rime](https://github.com/lhqx/rime)|Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置|828|1|2021-12-21|
+|15|[kiccer/Soldier76](https://github.com/kiccer/Soldier76)|PUBG - 罗技鼠标宏   兴趣使然的项目，完虐收费宏！点个Star支持一下作者！[PUBG - Logitech mouse macro   Support 12 kinds of guns without recoil!]|724|1|2021-09-09|
 |16|[Iorest/rime-setting](https://github.com/Iorest/rime-setting)|rime 输入法配置|99|0|2021-10-03|
 |17|[EtherProject/EtherWorkCollection](https://github.com/EtherProject/EtherWorkCollection)|EtherEngine 作品集|16|0|2021-09-04|
-|18|[Auranis/HighDigitSAMs](https://github.com/Auranis/HighDigitSAMs)|A simple, IC-compliant mod for DCS to add more modern SAM systems to the game.|47|0|2021-09-15|
+|18|[Auranis/HighDigitSAMs](https://github.com/Auranis/HighDigitSAMs)|A simple, IC-compliant mod for DCS to add more modern SAM systems to the game.|48|0|2021-09-15|
 |19|[Plume-yu/wool](https://github.com/Plume-yu/wool)|传奇世界手游服务端|4|0|2021-08-24|
 |20|[lilith-avatar/davinci-api-wrap](https://github.com/lilith-avatar/davinci-api-wrap)|:hammer_and_wrench: DaVinci Api 联想工具，支持代码补全和代码提示|7|0|2021-06-23|
 |21|[adamqqqplay/dota2ai](https://github.com/adamqqqplay/dota2ai)|This project is a improved Dota2 Bot script based on Valve's default AI. Relase on steam workshop as Ranked Matchmaking AI. This script has more than 1 million current subscribers on Steam Workshop.|224|0|2021-11-23|
-|22|[thenumbernine/hydro-cl-lua](https://github.com/thenumbernine/hydro-cl-lua)|yet *another* hydrodynamics/hyperbolic conservation law solver, this one in LuaJIT using OpenCL/OpenGL|15|0|2021-12-09|
+|22|[thenumbernine/hydro-cl-lua](https://github.com/thenumbernine/hydro-cl-lua)|yet *another* hydrodynamics/hyperbolic conservation law solver, this one in LuaJIT using OpenCL/OpenGL|15|0|2021-12-21|
 |23|[horan-geeker/nana](https://github.com/horan-geeker/nana)|Lua http api framework|95|0|2021-11-20|
 |24|[d80x86/lua-resty-tofu](https://github.com/d80x86/lua-resty-tofu)|a modern api/web framework|9|0|2021-12-20|
 |25|[ariwori/toomanyitemsplus](https://github.com/ariwori/toomanyitemsplus)|饥荒联机版控制台MOD。|11|0|2021-12-03|
@@ -50,14 +50,14 @@
 |43|[kiccer/logitech-macro-frame](https://github.com/kiccer/logitech-macro-frame)|罗技宏框架 - 提炼自 kiccer/Soldier76 项目|59|0|2021-08-10|
 |44|[kaniol-lck/FusionHelpManual-zh_CN](https://github.com/kaniol-lck/FusionHelpManual-zh_CN)|Fusion help manual in simplified Chinese translation|10|0|2021-11-23|
 |45|[defold/doc](https://github.com/defold/doc)|Defold game engine documentation for www.defold.com|66|0|2021-12-16|
-|46|[cfadmin-cn/cfadmin](https://github.com/cfadmin-cn/cfadmin)|A lua web network framework.|247|0|2021-12-16|
+|46|[cfadmin-cn/cfadmin](https://github.com/cfadmin-cn/cfadmin)|A lua web network framework.|248|0|2021-12-21|
 |47|[sg552/banana-waf](https://github.com/sg552/banana-waf)|非常简单好用的waf|7|0|2021-10-26|
 |48|[super-goodman/lua-script](https://github.com/super-goodman/lua-script)|lua 脚本|5|0|2021-11-25|
 |49|[musurca/IKE](https://github.com/musurca/IKE)|PBEM/hotseat multiplayer for Command: Modern Operations scenarios|9|0|2021-12-21|
 |50|[CNMan/rime-data](https://github.com/CNMan/rime-data)|新世纪五笔字型 for Rime|8|0|2021-12-13|
 |51|[oniondelta/Onion_Trime_Files](https://github.com/oniondelta/Onion_Trime_Files)|手機同文輸入法 Trime 洋蔥方案（注音、雙拼、形碼） |3|0|2021-12-16|
 |52|[qyh214/wow_addons_private_use](https://github.com/qyh214/wow_addons_private_use)|World Of Warcraft Addons private use 魔兽世界自用插件|4|0|2021-11-17|
-|53|[ck2plus/CleanSlate](https://github.com/ck2plus/CleanSlate)|A community resource, clean base from which to begin mods for CrusaderKings 2|16|0|2021-12-20|
+|53|[ck2plus/CleanSlate](https://github.com/ck2plus/CleanSlate)|A community resource, clean base from which to begin mods for CrusaderKings 2|16|0|2021-12-21|
 |54|[sniper00/BallGame](https://github.com/sniper00/BallGame)|moon game server的一个使用示例，搭建简单的服务器框架|48|0|2021-12-17|
 |55|[WolvenKit/BraindanceProtocol](https://github.com/WolvenKit/BraindanceProtocol)|A GUI to modify your Cyberpunk 2077 experience|81|0|2021-09-12|
 |56|[HDoujinDownloader/HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader)|An easy-to-use manga and dōjinshi downloader supporting 800+ different websites|94|0|2021-12-21|
@@ -67,7 +67,7 @@
 |60|[TerrenceFong/lua-xx](https://github.com/TerrenceFong/lua-xx)|基于叉叉助手开发的一些脚本工具|4|0|2021-08-24|
 |61|[enderneko/Cell](https://github.com/enderneko/Cell)|A World of Warcraft raid frame addon.|13|0|2021-12-16|
 |62|[DarkEnergyProcessor/livesim2](https://github.com/DarkEnergyProcessor/livesim2)|Love Live! School Idol Festival Live Simulator|79|0|2021-10-05|
-|63|[iwiniwin/LuaKit](https://github.com/iwiniwin/LuaKit)|Lua核心工具包，包含对面向对象，组件系统（灵活的绑定解绑模式），mvc分模块加载，事件分发系统等常用模式的封装。同时提供打印，内存泄漏检测，性能分析等常用工具类。|46|0|2021-09-04|
+|63|[iwiniwin/LuaKit](https://github.com/iwiniwin/LuaKit)|Lua核心工具包，包含对面向对象，组件系统（灵活的绑定解绑模式），mvc分模块加载，事件分发系统等常用模式的封装。同时提供打印，内存泄漏检测，性能分析等常用工具类。|47|0|2021-09-04|
 |64|[openresty/lua-resty-redis](https://github.com/openresty/lua-resty-redis)|Lua redis client driver for the ngx_lua based on the cosocket API|1645|0|2021-12-17|
 |65|[njcx/nginx_dump](https://github.com/njcx/nginx_dump)|该工具用于把Openresty(Nginx+Lua) 请求参数和响应 dump出来，用于旁路HTTP流量分析、风控、资产识别、API数据泄露等等|16|0|2021-07-08|
 |66|[ThinEureka/tabMachine](https://github.com/ThinEureka/tabMachine)|My new solution to high level hierarchical multiple code flows.|6|0|2021-09-09|
@@ -93,13 +93,13 @@
 |86|[VoidmatrixHeathcliff/RandomPic](https://github.com/VoidmatrixHeathcliff/RandomPic)|开箱即用的 随机图片 服务器|4|0|2021-08-12|
 |87|[ElvUI-WotLK/ElvUI](https://github.com/ElvUI-WotLK/ElvUI)|ElvUI for World of Warcraft - Wrath of the Lich King (3.3.5a)|275|0|2021-09-26|
 |88|[einverne/dotfiles](https://github.com/einverne/dotfiles)|vimrc|34|0|2021-12-08|
-|89|[lisaac/luci-app-diskman](https://github.com/lisaac/luci-app-diskman)|Disk Manager for LuCI|222|0|2021-12-10|
+|89|[lisaac/luci-app-diskman](https://github.com/lisaac/luci-app-diskman)|Disk Manager for LuCI|223|0|2021-12-10|
 |90|[UsbPacketViewer/parser](https://github.com/UsbPacketViewer/parser)|-|10|0|2021-11-30|
 |91|[lxfly2000/Acy-Font](https://github.com/lxfly2000/Acy-Font)|自制手写字体。A hand-writing font set.|14|0|2021-10-23|
 |92|[ONElua/AutoPlugin2](https://github.com/ONElua/AutoPlugin2)|Next AutoPlugin 2|220|0|2021-11-26|
 |93|[Seekladoom/Aegisub-Karaoke-Effect-481-Templates](https://github.com/Seekladoom/Aegisub-Karaoke-Effect-481-Templates)|转载自https://huyhuu.com/news/1282/Aegisub-Karaoke-Effect|42|0|2021-09-04|
-|94|[siweia/NDuiClassic](https://github.com/siweia/NDuiClassic)|NDui for Classic WoW|70|0|2021-12-20|
-|95|[tkkcc/arknights](https://github.com/tkkcc/arknights)|明日方舟速通 |62|0|2021-12-20|
+|94|[siweia/NDuiClassic](https://github.com/siweia/NDuiClassic)|NDui for Classic WoW|70|0|2021-12-21|
+|95|[tkkcc/arknights](https://github.com/tkkcc/arknights)|明日方舟速通 |62|0|2021-12-21|
 |96|[lilith-avatar/social-island](https://github.com/lilith-avatar/social-island)|:video_game: 神奇森林 - Wonder Forest|4|0|2021-08-02|
 |97|[IgorTimofeev/MineOS](https://github.com/IgorTimofeev/MineOS)|Home of MineOS and it's software for OpenComputers mod|449|0|2021-10-04|
 |98|[amorphobia/openfly](https://github.com/amorphobia/openfly)|词库开源的小鹤音形 Rime 配方|27|0|2021-11-19|

@@ -1,14 +1,14 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > Vim script
-<sub>温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|216|2021-12-05|2021-08-07|
+|1|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|216|2021-12-21|2021-08-07|
 |2|[iokfine/bee-dashboard](https://github.com/iokfine/bee-dashboard)|管理多个bee节点 提现工具|45|2021-09-14|2021-05-29|
-|3|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog-vimscript|42|2021-12-20|2021-01-11|
-|4|[FrankFang/oh-my-docker](https://github.com/FrankFang/oh-my-docker)|-|22|2021-12-01|2021-08-25|
+|3|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog-vimscript|43|2021-12-20|2021-01-11|
+|4|[FrankFang/oh-my-docker](https://github.com/FrankFang/oh-my-docker)|-|23|2021-12-01|2021-08-25|
 |5|[wandercn/go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf)|my vim conf for golang IDE and rust IDE|11|2021-10-21|2021-06-25|
 |6|[csfenghan/vim_config](https://github.com/csfenghan/vim_config)|我的Linux系统常用工具的配置文件|5|2021-11-12|2021-02-07|
 |7|[ouuan/debate-v2](https://github.com/ouuan/debate-v2)|一个以「有逻辑地交流」为目的的 web app 的大概永远不会实现的 :dove:ing draft|4|2021-08-09|2021-08-08|

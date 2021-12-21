@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > Assembly
-<sub>温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -19,7 +19,7 @@
 |12|[arttnba3/OS_Kernel_Learning](https://github.com/arttnba3/OS_Kernel_Learning)|为我自己准备的 OS 大作业：从零开始写一个操作系统内核|4|2021-06-08|2021-06-05|
 |13|[Insomnia-y/Gold-Miner](https://github.com/Insomnia-y/Gold-Miner)|汇编大作业，黄金矿工|4|2021-06-17|2021-06-01|
 |14|[fzf404/MiniSys](https://github.com/fzf404/MiniSys)|Nasm汇编写操作系统|4|2021-09-23|2021-01-06|
-|15|[zhtmuyue/computer_system](https://github.com/zhtmuyue/computer_system)|孙仲武带带我|3|2021-12-20|2021-11-20|
+|15|[NEUzht/computer_system](https://github.com/NEUzht/computer_system)|孙仲武带带我|3|2021-12-20|2021-11-20|
 |16|[Wuzimeng/CO_BUAA](https://github.com/Wuzimeng/CO_BUAA)|北航计算机组成|3|2021-09-22|2021-01-18|
 |17|[junchao-ustc/csapp](https://github.com/junchao-ustc/csapp)|记录csapp的实验|2|2021-10-30|2021-10-16|
 |18|[li-jinpeng/Colorful_Block](https://github.com/li-jinpeng/Colorful_Block)|汇编大作业|2|2021-11-10|2021-10-13|

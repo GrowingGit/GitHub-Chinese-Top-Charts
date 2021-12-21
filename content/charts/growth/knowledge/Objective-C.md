@@ -1,17 +1,17 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Objective-C
-<sub>温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4614|6|2021-12-07|
-|2|[pujiaxin33/JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)|A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|5563|4|2021-10-25|
-|3|[skyming/iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)|关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit|4345|2|2021-08-09|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4619|6|2021-12-07|
+|2|[pujiaxin33/JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)|A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|5568|4|2021-10-25|
+|3|[skyming/iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)|关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit|4346|2|2021-08-09|
 |4|[liberalisman/iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection)|iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。|2924|2|2021-06-09|
-|5|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2312|2|2021-12-16|
+|5|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2314|2|2021-12-16|
 |6|[LGCooci/KCiOSGrocery](https://github.com/LGCooci/KCiOSGrocery)|iOS开发杂货铺: 面试题+考试试卷+懒人开发tips|428|1|2021-10-10|
-|7|[SunshineBrother/JHBlog](https://github.com/SunshineBrother/JHBlog)|iOS开发：我的初级到中级的晋级之路|1181|1|2021-07-29|
+|7|[SunshineBrother/JHBlog](https://github.com/SunshineBrother/JHBlog)|iOS开发：我的初级到中级的晋级之路|1182|1|2021-07-29|
 |8|[wwmz/WMZPageController](https://github.com/wwmz/WMZPageController)|分页控制器,替换UIPageController方案,具备完整的生命周期,多种指示器样式,多种标题样式,可悬浮,支持ios13暗黑模式(仿优酷,爱奇艺,今日头条,简书,京东等多种标题菜单) (Pagination controller with full life cycle, multiple indicator styles, multiple title styles)|543|1|2021-12-08|
 |9|[HeathWang/HWPanModal](https://github.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|870|1|2021-11-30|
 |10|[wwmz/WMZDialog](https://github.com/wwmz/WMZDialog)|功能最多样式最多的弹窗，支持普通/底部/日期/地区/日历/选择/编辑/分享/菜单/自定义弹窗等,支持多种动画,链式编程调用(Pop-up windows with the most functions and styles, support normal/bottom/date/region/calendar/select/edit/share/menu/custom pop-up windows ...|837|1|2021-12-21|
@@ -51,7 +51,7 @@
 |44|[lingjye/iOS-Learning](https://github.com/lingjye/iOS-Learning)|iOS知识总结|61|0|2021-07-13|
 |45|[kopuCoder/iOS_Development-Book](https://github.com/kopuCoder/iOS_Development-Book)|适合iOS中高级开发工程狮提升个人能力业务水平的书籍|78|0|2021-11-01|
 |46|[Dioq/ReverseOC](https://github.com/Dioq/ReverseOC)|iOS逆向学习的一些记录|4|0|2021-12-06|
-|47|[yangKJ/KJEmitterView](https://github.com/yangKJ/KJEmitterView)|🎸🎸🎸 工具箱：粒子效果，图文混排，手势封装，圆角渐变内外阴影，图片裁剪、压缩、拼接、水印滤镜渲染、GIF，LeetCode算法，富文本点击，文本撤销，数组字典高级用法，正则谓词，线程处理，多语言等|29|0|2021-12-21|
+|47|[yangKJ/KJEmitterView](https://github.com/yangKJ/KJEmitterView)|开发加速库，LeetCode算法，Opencv图片算法，正则算法，粒子效果，数组字典高级用法，线程处理，多语言等🚗  ..|29|0|2021-12-21|
 |48|[vvusu/LNRefresh](https://github.com/vvusu/LNRefresh)|轻量级下拉刷新控件,各种动画集合（京东，天猫，淘宝，考拉海购，美团，今日头条，飞猪）|336|0|2021-06-16|
 |49|[chenjialin1016/IOS_Knowledge_Structure](https://github.com/chenjialin1016/IOS_Knowledge_Structure)|ios知识总结|5|0|2021-06-04|
 |50|[XLsn0w/XLsn0w](https://github.com/XLsn0w/XLsn0w)|🔥🔥🔥联系我:XLsn00w@gmail.com   微信公众号: Cydia   Cydia官方源: https://xlsn0w.github.io/tweaks/ 🔥🔥🔥|15|0|2021-07-23|
@@ -59,14 +59,14 @@
 |52|[huangboju/Study](https://github.com/huangboju/Study)|一些学习的东西|4|0|2021-06-09|
 |53|[zhangzhongyan/FSGridView](https://github.com/zhangzhongyan/FSGridView)|iOS网格视图，主要用于类似股票、课程表、属性表。 使用CollectionViewCell定制，重用机制，标准数据源委托协议，更容易嵌入。|6|0|2021-10-09|
 |54|[wcly/blog](https://github.com/wcly/blog)|个人博客|5|0|2021-09-27|
-|55|[rabbitmouse/ZQSearchController](https://github.com/rabbitmouse/ZQSearchController)|Search，SearchBar,  仿《饿了么》搜索栏。自定义搜索结果界面。搜索主页、模糊匹配、结果界面之间的状态切换。支持搜索历史和热门设置|124|0|2021-06-02|
+|55|[rabbitmouse/ZQSearchController](https://github.com/rabbitmouse/ZQSearchController)|Search，SearchBar,  仿《饿了么》搜索栏。自定义搜索结果界面。搜索主页、模糊匹配、结果界面之间的状态切换。支持搜索历史和热门设置|125|0|2021-06-02|
 |56|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|443|0|2021-12-03|
 |57|[poholo/MCShare](https://github.com/poholo/MCShare)|Social share & Auth(QQ、微信、微博、支付宝、Telegram、钉钉).|4|0|2021-08-10|
 |58|[Baffin-HSL/Flutter_UI](https://github.com/Baffin-HSL/Flutter_UI)|适合Flutter初学者学习的项目|3|0|2021-08-19|
 |59|[1691665955/StudyDemo](https://github.com/1691665955/StudyDemo)|一些关于iOS的学习总结|3|0|2021-07-28|
 |60|[fanyuecheng/SoulHook](https://github.com/fanyuecheng/SoulHook)|Soul iOS App逆向实战（仅用于学习）|24|0|2021-10-19|
 |61|[duhongxing/iOS-Dev-OC](https://github.com/duhongxing/iOS-Dev-OC)|iOS开发基础知识回顾|2|0|2021-08-30|
-|62|[yungfan/iOS-continuous-learning](https://github.com/yungfan/iOS-continuous-learning)|不断学习中写的案例|36|0|2021-12-15|
+|62|[yungfan/iOS-continuous-learning](https://github.com/yungfan/iOS-continuous-learning)|不断学习中写的案例|37|0|2021-12-15|
 |63|[bytesking/YJCategories](https://github.com/bytesking/YJCategories)|Objective-C 常用分类集合，支持Cocoapods|88|0|2021-06-15|
 |64|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|37|0|2021-10-11|
 |65|[Meterwhite/KeyPathExtension](https://github.com/Meterwhite/KeyPathExtension)|An extension of KeyPath for KVC.You can use struct, predicate in KeyPath.在KVC中使用谓词和结构体|4|0|2021-11-09|
@@ -84,10 +84,11 @@
 |77|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|8|0|2021-12-11|
 |78|[skyming/Study](https://github.com/skyming/Study)|学习日志记录、笔记|22|0|2021-12-01|
 |79|[zhanglexiaoge/flutter_zl](https://github.com/zhanglexiaoge/flutter_zl)|对自己学习flutter总结，相当于完整flutter app 开发|2|0|2021-06-15|
-|80|[LYajun/LGNote](https://github.com/LYajun/LGNote)|笔记工具|2|0|2021-07-16|
-|81|[bqlin/Apple-Sample-Code](https://github.com/bqlin/Apple-Sample-Code)|苹果示例代码学习|18|0|2021-09-02|
-|82|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|MoviePlayer which based on FFmpeg step by step tutorials for iOS/macOS developer. （使用 FFMpeg 封装播放器系列教程，适合零基础的 iOS/macOS 开发者学习）|141|0|2021-11-29|
-|83|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|63|0|2021-12-20|
+|80|[GardenerYun/iOS--Note](https://github.com/GardenerYun/iOS--Note)|iOS研究笔记|9|0|2021-12-21|
+|81|[LYajun/LGNote](https://github.com/LYajun/LGNote)|笔记工具|2|0|2021-07-16|
+|82|[bqlin/Apple-Sample-Code](https://github.com/bqlin/Apple-Sample-Code)|苹果示例代码学习|18|0|2021-09-02|
+|83|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|MoviePlayer which based on FFmpeg step by step tutorials for iOS/macOS developer. （使用 FFMpeg 封装播放器系列教程，适合零基础的 iOS/macOS 开发者学习）|141|0|2021-11-29|
+|84|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|63|0|2021-12-20|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
