@@ -24,7 +24,7 @@
 
 <div align="center">
     <p><sub>↓ -- 进阶之路 -- ↓</sub></p>
-    中文项目已通关？通往更广阔世界的路：<a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts">GitHub英文排行榜</a>
+    中文项目已通关？通往更广阔世界的路：<a href="https://github.com/kon9chunkit/GitHub-English-Top-Charts">GitHub English Top Charts</a>
 </div>
 
 <br />
