@@ -1,16 +1,16 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 资料类 > CSS
-<sub>数据更新: 2021-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|449|2021-12-13|2021-08-01|
-|2|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|250|2021-12-21|2021-03-11|
-|3|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|198|2021-10-26|2021-04-05|
+|1|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|451|2021-12-13|2021-08-01|
+|2|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|251|2021-12-21|2021-03-11|
+|3|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|197|2021-10-26|2021-04-05|
 |4|[yitd/wxkp](https://github.com/yitd/wxkp)|微信卡片分享链接在线制作工具|70|2021-12-11|2021-08-14|
 |5|[ChenYFan-Tester/IPFS_PHOTO_SHARE](https://github.com/ChenYFan-Tester/IPFS_PHOTO_SHARE)|💰用甚嚒服务器，ServerLess搭建一个图片分享站点！  基于CloudFlareWorker无服务器函数和IPFS去中心化存储的图片分享网站|58|2021-06-18|2021-06-10|
-|6|[AIAHUB/HUST-AIA-Courses-Resource](https://github.com/AIAHUB/HUST-AIA-Courses-Resource)|HUST-AIA学院课程资源|36|2021-11-17|2021-05-10|
+|6|[AIAHUB/HUST-AIA-Courses-Resource](https://github.com/AIAHUB/HUST-AIA-Courses-Resource)|HUST-AIA学院课程资源|37|2021-11-17|2021-05-10|
 |7|[xunlutzp/xunlutzp.github.io](https://github.com/xunlutzp/xunlutzp.github.io)|《寻路桐梓坡》全文及GitBook网页|31|2021-06-04|2021-02-24|
 |8|[yu120/lemon-guide](https://github.com/yu120/lemon-guide)|收纳操作系统、JAVA、算法、数据库、中间件、解决方案、架构、DevOps和大数据等技术栈总结！|24|2021-11-06|2021-07-10|
 |9|[omnilingo/omnilingo](https://github.com/omnilingo/omnilingo)|Listening-based language learning|23|2021-09-16|2021-02-27|

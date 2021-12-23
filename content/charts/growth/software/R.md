@@ -1,12 +1,12 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2021-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|1|2021-12-21|
-|2|[GuangchuangYu/nCov2019](https://github.com/GuangchuangYu/nCov2019)|query stats of infected coronavirus cases|425|1|2021-06-10|
+|1|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|1|2021-12-22|
+|2|[GuangchuangYu/nCov2019](https://github.com/GuangchuangYu/nCov2019)|query stats of infected coronavirus cases|426|1|2021-06-10|
 |3|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|37|0|2021-11-26|
 |4|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|31|0|2021-09-29|
 |5|[jmzeng1314/AnnoProbe](https://github.com/jmzeng1314/AnnoProbe)|-|58|0|2021-08-01|
@@ -17,7 +17,7 @@
 |10|[koheiw/LSX](https://github.com/koheiw/LSX)|A word embeddings-based semi-supervised model for document scaling|38|0|2021-10-27|
 |11|[lexcomber/GWRroutemap](https://github.com/lexcomber/GWRroutemap)|the GWR route maps for physical and human geography|7|0|2021-11-17|
 |12|[helixcn/spaa](https://github.com/helixcn/spaa)|Miscellaneous functions for analysis of species association and niche overlap|10|0|2021-08-12|
-|13|[pzhaonet/pinyin](https://github.com/pzhaonet/pinyin)|an R package for converting Chineses characters into pinyin|39|0|2021-08-22|
+|13|[pzhaonet/pinyin](https://github.com/pzhaonet/pinyin)|an R package for converting Chineses characters into pinyin|40|0|2021-08-22|
 |14|[leileibama/leoDDcalculator](https://github.com/leileibama/leoDDcalculator)|leoDDcalculator, a package calculating the values of mdd and ndd of texts in a folder|6|0|2021-11-08|
 |15|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|9|0|2021-09-25|
 |16|[mountainMath/tongfen](https://github.com/mountainMath/tongfen)|Convenience functions for making data on different geometries, especially Canadian census geometries, comparable.|24|0|2021-11-19|
@@ -28,7 +28,7 @@
 |21|[quanteda/stopwords](https://github.com/quanteda/stopwords)|Multilingual Stopword Lists in R|101|0|2021-10-28|
 |22|[Hong-Kong-Districts-Info/hkdatasets](https://github.com/Hong-Kong-Districts-Info/hkdatasets)|Datasets relating to Hong Kong|12|0|2021-09-04|
 |23|[fragla/eq5d](https://github.com/fragla/eq5d)|-|13|0|2021-11-22|
-|24|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|109|0|2021-12-10|
+|24|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|109|0|2021-12-22|
 |25|[jirotubuyaki/CRPClustering](https://github.com/jirotubuyaki/CRPClustering)|CRPClustering: An R Package for Bayesian Nonparametric Chinese Restaurant Process Clustering with Entropy|12|0|2021-07-02|
 |26|[hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|54|0|2021-12-21|
 |27|[uribo/zipangu](https://github.com/uribo/zipangu)|Japanese utility functions and data|41|0|2021-12-11|
@@ -37,7 +37,7 @@
 |30|[XSLiuLab/tumor-immunogenicity-score](https://github.com/XSLiuLab/tumor-immunogenicity-score)|TIGS (Tumor Immunogenicity Score) project https://doi.org/10.7554/eLife.49020|22|0|2021-09-16|
 |31|[sammo3182/regioncode](https://github.com/sammo3182/regioncode)|Software for converting regional administrative codes (China) over years|7|0|2021-08-05|
 |32|[bnosac/ETM](https://github.com/bnosac/ETM)|Topic Modelling in Semantic Embedding Spaces|28|0|2021-11-11|
-|33|[ykang/gratis](https://github.com/ykang/gratis)|GRATIS: GeneRAting TIme Series with diverse and controllable characteristics|57|0|2021-12-18|
+|33|[ykang/gratis](https://github.com/ykang/gratis)|GRATIS: GeneRAting TIme Series with diverse and controllable characteristics|57|0|2021-12-22|
 |34|[harryprince/geospark](https://github.com/harryprince/geospark)|bring sf to spark in production|46|0|2021-12-13|
 |35|[msberends/cleaner](https://github.com/msberends/cleaner)|Fast and Easy Data Cleaning (in R)|23|0|2021-06-22|
 |36|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|217|0|2021-12-20|
@@ -69,16 +69,16 @@
 |62|[YuLab-SMU/nCov2019](https://github.com/YuLab-SMU/nCov2019)|:microbe: Exploring COVID-19 data|7|0|2021-12-13|
 |63|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|491|0|2021-12-19|
 |64|[yukiyanai/quant-methods-R](https://github.com/yukiyanai/quant-methods-R)|Repository for "Quantitative Methods in Political Science Using R" by Masahiko Asano and Yuki Yanai|15|0|2021-11-17|
-|65|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|10|0|2021-09-21|
+|65|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|11|0|2021-09-21|
 |66|[datasketch/shi18ny](https://github.com/datasketch/shi18ny)|-|13|0|2021-06-10|
 |67|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit (kw: field observation, air polltion, time series summary, time series resampling, average variation, ozone formation potential (OFP), MIR, tuv). |23|0|2021-11-18|
-|68|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|144|0|2021-12-21|
+|68|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|144|0|2021-12-22|
 |69|[pzhaonet/beginr](https://github.com/pzhaonet/beginr)|an R package for beginners|15|0|2021-12-03|
 |70|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|12|0|2021-11-26|
 |71|[kevinwang09/learningtower](https://github.com/kevinwang09/learningtower)|Easily accessible PISA data|18|0|2021-09-07|
 |72|[mponce0/covid19.analytics](https://github.com/mponce0/covid19.analytics)|R package to obtain and analyze live data from the nCOVID19 coronavirus|30|0|2021-09-13|
 |73|[ji1ai1/201907-CIKMI](https://github.com/ji1ai1/201907-CIKMI)|CIKM 2019 EComm AI：超大规模推荐之用户兴趣高效检索|6|0|2021-09-10|
-|74|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008)|79|0|2021-11-29|
+|74|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008)|80|0|2021-11-29|
 |75|[Otoliths/SP2000](https://github.com/Otoliths/SP2000)|🐟Catalogue of Life toolkit for R|7|0|2021-06-11|
 |76|[ykang51/bdar](https://github.com/ykang51/bdar)|巨量資料分析-使用 R 語言 (Big Data Analytics with R) lecture slides and source codes|45|0|2021-06-17|
 |77|[lilywang1988/eSIR](https://github.com/lilywang1988/eSIR)|Extended state-space SIR epidemiological models|63|0|2021-11-08|

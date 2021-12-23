@@ -1,19 +1,19 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Groovy
-<sub>数据更新: 2021-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[CodingGay/BlackObfuscator-ASPlugin](https://github.com/CodingGay/BlackObfuscator-ASPlugin)|This project is an Android Studio plugin version of BlackObfuscator, it supports obfuscating code automatically. More information about this project are in BlackObfuscator.|21|4|2021-12-18|
-|2|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2082|2|2021-11-16|
-|3|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3581|2|2021-09-15|
+|2|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2088|2|2021-11-16|
+|3|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3583|2|2021-09-15|
 |4|[pengxurui/EasyPrivacy](https://github.com/pengxurui/EasyPrivacy)|一个帮助开发者快速找到国内隐私整改问题的工具|62|1|2021-12-18|
 |5|[zeyangli/jenkinslibrary](https://github.com/zeyangli/jenkinslibrary)|Jenkins共享库|97|0|2021-10-17|
 |6|[cangHW/AndroidPlugin](https://github.com/cangHW/AndroidPlugin)|混淆打包插件|5|0|2021-06-26|
 |7|[sensorsdata/sa-sdk-android-plugin2](https://github.com/sensorsdata/sa-sdk-android-plugin2)|神策数据官方 Android 埋点插件，用于 Android 端的数据采集。通过使用字节码插桩（ASM）的技术实现 Android 端的全埋点（无埋点、无码埋点、无痕埋点、自动埋点）。|287|0|2021-12-15|
 |8|[zhoujiaping/java-agent-web](https://github.com/zhoujiaping/java-agent-web)|用于测试java-agent项目|2|0|2021-06-07|
-|9|[qq549631030/AndroidJunkCode](https://github.com/qq549631030/AndroidJunkCode)|Android马甲包生成垃圾代码插件|243|0|2021-11-08|
+|9|[qq549631030/AndroidJunkCode](https://github.com/qq549631030/AndroidJunkCode)|Android马甲包生成垃圾代码插件|244|0|2021-11-08|
 |10|[JackyAndroid/PeaPod](https://github.com/JackyAndroid/PeaPod)|A plugin that replaces external module dependencies with project dependencies.|80|0|2021-07-05|
 |11|[zhoujiaping/java-agent](https://github.com/zhoujiaping/java-agent)|基于java5 Instrument api实现的mock框架|10|0|2021-07-01|
 |12|[sweetying520/GradleDemo](https://github.com/sweetying520/GradleDemo)|Gradle 常用 API 介绍|2|0|2021-07-28|
@@ -25,7 +25,7 @@
 |18|[cn2oo8/autocode-template-example](https://github.com/cn2oo8/autocode-template-example)|代码模板示例|6|0|2021-09-06|
 |19|[ZackZhou/zrest](https://github.com/ZackZhou/zrest)|扩展的restassured接口自动化|2|0|2021-06-30|
 |20|[wzbos/chihiro](https://github.com/wzbos/chihiro)|🔥🔥 安卓组件化插件 🔥🔥 支持多工程联调、组件快速发布到Maven私服、企业微信机器人、钉钉机器人、自定义webhook|9|0|2021-12-07|
-|21|[ihub-pub/plugins](https://github.com/ihub-pub/plugins)|IHub Plugins：一套Gradle插件集，封装了常用Gradle插件，并做了一些个性化缺省配置，极大的简化项目管理配置。|7|0|2021-12-01|
+|21|[ihub-pub/plugins](https://github.com/ihub-pub/plugins)|IHub Plugins：一套Gradle插件集，封装了常用Gradle插件，并做了一些个性化缺省配置，极大的简化项目管理配置。|7|0|2021-12-22|
 |22|[keepLove/android-jiagu-plugin](https://github.com/keepLove/android-jiagu-plugin)|360加固Gradle插件|5|0|2021-10-12|
 |23|[miqt/MethodHookTool](https://github.com/miqt/MethodHookTool)|这是一个android 方法 hook 插件，通过hook方法进入和退出，能进行很多自定义的事情|18|0|2021-07-29|
 |24|[EastWoodYang/Mis](https://github.com/EastWoodYang/Mis)|模块接口服务，如何在一个模块内维护其对外暴露的接口（包括打包发布），而不是把接口和接口实现分离到两个不同的模块？|135|0|2021-07-15|

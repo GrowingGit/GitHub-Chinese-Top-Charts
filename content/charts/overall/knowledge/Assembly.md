@@ -1,11 +1,11 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Assembly
-<sub>数据更新: 2021-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)|贵校课程资料民间整理|159|2021-12-21|
+|1|[lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)|贵校课程资料民间整理|160|2021-12-21|
 |2|[sanmianti/AssemblyLanguageTest](https://github.com/sanmianti/AssemblyLanguageTest)|王爽《汇编语言》第三版课后实验及检测点答案。|72|2021-07-26|
 |3|[thu-cs-lab/supervisor-rv](https://github.com/thu-cs-lab/supervisor-rv)|计算机组成原理课程 RISC-V 监控程序，支持 32 位和 64 位|67|2021-09-20|
 |4|[tanyugang/CodingMaster](https://github.com/tanyugang/CodingMaster)|Coding Master系列教程配套代码。|57|2021-09-04|
