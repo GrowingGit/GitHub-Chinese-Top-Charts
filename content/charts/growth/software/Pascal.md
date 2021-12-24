@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2021-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -30,20 +30,20 @@
 |23|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|231|0|2021-12-22|
 |24|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|192|0|2021-12-06|
 |25|[ying32/res2go-ide-plugin](https://github.com/ying32/res2go-ide-plugin)|res2go Lazarus IDE plug-in|13|0|2021-11-13|
-|26|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|258|0|2021-12-03|
-|27|[59079096/emr](https://github.com/59079096/emr)|基于HCView开发的电子病历程序|36|0|2021-09-12|
+|26|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|258|0|2021-12-23|
+|27|[59079096/emr](https://github.com/59079096/emr)|基于HCView开发的电子病历程序|37|0|2021-09-12|
 |28|[supersoho/Delphi-DirectUI](https://github.com/supersoho/Delphi-DirectUI)|Delphi DirectUI Controls|49|0|2021-08-23|
 |29|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|30|0|2021-12-14|
 |30|[dbyoung720/ImageGray](https://github.com/dbyoung720/ImageGray)|MMX/SSE/SSE2/SSE4/AVX/AVX2/AVX512 optimization|12|0|2021-12-17|
 |31|[ying32/DDNRuntime-examples](https://github.com/ying32/DDNRuntime-examples)|DDNRuntime(Delphi .NET Framework/.NET Core Runtime) example. DDNRuntime is a library for Delphi to call .net dll. Support the assembly written by c#, vb.net. Support importing .net dll to delphi, can  ...|12|0|2021-12-10|
 |32|[GerryFerdinandus/bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor)|Software for add or remove tracker from torrent files.|392|0|2021-12-03|
-|33|[laciba96/WinBox-for-86Box](https://github.com/laciba96/WinBox-for-86Box)|WinBox for 86Box: The newest way to manage the oldest computers.|53|0|2021-12-22|
+|33|[laciba96/WinBox-for-86Box](https://github.com/laciba96/WinBox-for-86Box)|WinBox for 86Box: The newest way to manage the oldest computers.|53|0|2021-12-23|
 |34|[coder163/DesignPatternForDelphi](https://github.com/coder163/DesignPatternForDelphi)|网络上流传的设计模式多以Java、C++语言描述，用Delphi描述的资源几乎为零，特此整理|3|0|2021-11-21|
 |35|[dbyoung720/ADOS](https://github.com/dbyoung720/ADOS)|给鼠标右键添加 "在此处打开命令窗口(管理员)" 菜单|2|0|2021-10-28|
 |36|[PassByYou888/zExpression](https://github.com/PassByYou888/zExpression)|脚本与编译器内部的语法引擎内核，也是一种op内核，zExpression可以轻松实现自己的脚本引擎|37|0|2021-09-21|
 |37|[terrylao/PascalContainer](https://github.com/terrylao/PascalContainer)|pascal data structure, B-Tree,B+Tree,B*Tree,T-Tree,HashMap|20|0|2021-07-30|
 |38|[cnwneumann/InIOCP](https://github.com/cnwneumann/InIOCP)|InIOCP（小旋风服务套件）是一套开源的基于IOCP（Delphi版）的框架组件，自带消息封装，集成用户、消息、文件和数据库管理，支持自定义消息和远程函数，支持 HTTP 基本服务，支持 WebSocket，帮助快速实现网络开发，欢迎各位测试、使用和交流！|25|0|2021-06-02|
-|39|[PassByYou888/zAI](https://github.com/PassByYou888/zAI)|zAI是机器视觉的人工智能方向项目|58|0|2021-06-21|
+|39|[PassByYou888/zAI](https://github.com/PassByYou888/zAI)|zAI是机器视觉的人工智能方向项目|59|0|2021-06-21|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

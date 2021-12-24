@@ -1,85 +1,85 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > C#
-<sub>数据更新: 2021-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[jynew/jynew](https://github.com/jynew/jynew)|金庸群侠传3D重制版|3483|2021-12-22|2021-05-12|
-|2|[dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub)|github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题|3474|2021-12-21|2021-06-11|
-|3|[Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp)|适用于新系统UI的哔哩|3393|2021-12-22|2021-05-30|
-|4|[feature-flags-co/feature-flags-co](https://github.com/feature-flags-co/feature-flags-co)|Feature flags-driven product intelligence platform that makes iterating on products as fast as Commit code|686|2021-12-22|2021-07-27|
-|5|[Justin62628/Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE)|效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感|662|2021-12-21|2021-01-31|
-|6|[qwqdanchun/DcRat](https://github.com/qwqdanchun/DcRat)|A simple remote tool written in C#.    一个简单的c#远控|481|2021-12-02|2021-03-12|
-|7|[HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer)|第三方网易云音乐播放器   A Netease Cloud Music Player|481|2021-12-19|2021-02-14|
-|8|[cuiliang/ClickShow](https://github.com/cuiliang/ClickShow)|鼠标点击特效|454|2021-10-09|2021-06-22|
+|1|[jynew/jynew](https://github.com/jynew/jynew)|金庸群侠传3D重制版|3521|2021-12-23|2021-05-12|
+|2|[dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub)|github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题|3494|2021-12-21|2021-06-11|
+|3|[Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp)|适用于新系统UI的哔哩|3409|2021-12-22|2021-05-30|
+|4|[feature-flags-co/feature-flags-co](https://github.com/feature-flags-co/feature-flags-co)|Feature flags-driven product intelligence platform that makes iterating on products as fast as Commit code|686|2021-12-23|2021-07-27|
+|5|[Justin62628/Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE)|效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感|666|2021-12-21|2021-01-31|
+|6|[qwqdanchun/DcRat](https://github.com/qwqdanchun/DcRat)|A simple remote tool written in C#.    一个简单的c#远控|483|2021-12-02|2021-03-12|
+|7|[HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer)|第三方网易云音乐播放器   A Netease Cloud Music Player|482|2021-12-19|2021-02-14|
+|8|[cuiliang/ClickShow](https://github.com/cuiliang/ClickShow)|鼠标点击特效|455|2021-10-09|2021-06-22|
 |9|[mai1zhi2/SharpBeacon](https://github.com/mai1zhi2/SharpBeacon)|CobaltStrike Beacon written in .Net 4  用.net重写了stager及Beacon，其中包括正常上线、文件管理、进程管理、令牌管理、结合SysCall进行注入、原生端口转发、关ETW等一系列功能|451|2021-09-01|2021-08-29|
 |10|[X-Lucifer/AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer)|AI无损放大工具|439|2021-10-03|2021-10-01|
-|11|[CopyPlusPlus/CopyPlusPlus](https://github.com/CopyPlusPlus/CopyPlusPlus)|让复制变得更加简单！|425|2021-12-16|2021-04-12|
-|12|[91270/Emby.MeiamSub](https://github.com/91270/Emby.MeiamSub)|Emby Server 端字幕插件 ，使用  迅雷影音、 射手网 接口精准匹配视频字幕|345|2021-11-23|2021-07-01|
-|13|[chatop2020/AKStream](https://github.com/chatop2020/AKStream)|AKStream是一套全平台(Linux,MacOS,Windows)、全架构(X86_64,Arm...)、全功能的流媒体管理控制接口平台。集成GB28181,RTSP,RTMP,HTTP等设备推拉流控制、PTZ控制、音视频文件录制管理、音视频文件裁剪合并等功能与一体|340|2021-11-24|2021-01-06|
-|14|[skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload)|Xbox下载助手，支持Xbox、微软商店、PSN、NS、EA Desktop & Origin、战网国际服、Epic 下载加速。|338|2021-12-21|2021-06-14|
-|15|[Scighost/KeqingNiuza](https://github.com/Scighost/KeqingNiuza)|刻记牛杂店|332|2021-12-21|2021-04-24|
-|16|[fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat)|可能是目前全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，支持公众平台（订阅号、服务号、小程序、小游戏、小商店）& 开放平台 & 商户平台（微信支付）& 企业微信（企业号）& 广告平台（广点通）& 对话开放平台（微信智能对话）等模块，可跨平台。持续随官方更新，欢迎 Star / Fork。QQ 交流群 875580418。|327|2021-12-21|2021-04-23|
-|17|[DGP-Studio/Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin)|原神祈愿记录 实时便笺 玩家信息 每日签到 启动器|289|2021-12-22|2021-01-20|
-|18|[WindFgg/kingfeng](https://github.com/WindFgg/kingfeng)|fork多了就跑路了|271|2021-10-18|2021-09-09|
-|19|[Azure99/GenshinPlayerQuery](https://github.com/Azure99/GenshinPlayerQuery)|Query genshin impact palyer info by uid. 识破云玩家 根据原神游戏内uid查询其他玩家详情(基础数据、角色详情&命座&装备、深境螺旋战绩&阵容等)|234|2021-12-06|2021-02-28|
-|20|[CoreUnion/CoreShop](https://github.com/CoreUnion/CoreShop)|基于 Asp.Net Core 5.0、Uni-App开发，支持可视化布局的小程序商城系统，前后端分离，支持分布式部署，跨平台运行，拥有分销、代理、团购、拼团、秒杀、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程。支持一套代码编译发布微信小程序版、H5版、Android版、iOS版、支付宝小程序版、字节跳动小程序版、QQ小程序版等共10个平台。|187|2021-12-21|2021-06-01|
+|11|[CopyPlusPlus/CopyPlusPlus](https://github.com/CopyPlusPlus/CopyPlusPlus)|让复制变得更加简单！|425|2021-12-23|2021-04-12|
+|12|[91270/Emby.MeiamSub](https://github.com/91270/Emby.MeiamSub)|Emby Server 端字幕插件 ，使用  迅雷影音、 射手网 接口精准匹配视频字幕|346|2021-12-23|2021-07-01|
+|13|[chatop2020/AKStream](https://github.com/chatop2020/AKStream)|AKStream是一套全平台(Linux,MacOS,Windows)、全架构(X86_64,Arm...)、全功能的流媒体管理控制接口平台。集成GB28181,RTSP,RTMP,HTTP等设备推拉流控制、PTZ控制、音视频文件录制管理、音视频文件裁剪合并等功能与一体|341|2021-11-24|2021-01-06|
+|14|[skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload)|Xbox下载助手，支持Xbox、微软商店、PSN、NS、EA Desktop & Origin、战网国际服、Epic 下载加速。|339|2021-12-23|2021-06-14|
+|15|[Scighost/KeqingNiuza](https://github.com/Scighost/KeqingNiuza)|刻记牛杂店|335|2021-12-21|2021-04-24|
+|16|[fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat)|可能是目前全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，支持公众平台（订阅号、服务号、小程序、小游戏、小商店）& 开放平台 & 商户平台（微信支付）& 企业微信（企业号）& 广告平台（广点通）& 对话开放平台（微信智能对话）等模块，可跨平台。持续随官方更新，欢迎 Star / Fork。QQ 交流群 875580418。|327|2021-12-23|2021-04-23|
+|17|[DGP-Studio/Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin)|原神祈愿记录 实时便笺 玩家信息 每日签到 启动器|292|2021-12-23|2021-01-20|
+|18|[WindFgg/kingfeng](https://github.com/WindFgg/kingfeng)|fork多了就跑路了|270|2021-10-18|2021-09-09|
+|19|[Azure99/GenshinPlayerQuery](https://github.com/Azure99/GenshinPlayerQuery)|Query genshin impact palyer info by uid. 识破云玩家 根据原神游戏内uid查询其他玩家详情(基础数据、角色详情&命座&装备、深境螺旋战绩&阵容等)|233|2021-12-06|2021-02-28|
+|20|[CoreUnion/CoreShop](https://github.com/CoreUnion/CoreShop)|基于 Asp.Net Core 5.0、Uni-App开发，支持可视化布局的小程序商城系统，前后端分离，支持分布式部署，跨平台运行，拥有分销、代理、团购、拼团、秒杀、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程。支持一套代码编译发布微信小程序版、H5版、Android版、iOS版、支付宝小程序版、字节跳动小程序版、QQ小程序版等共10个平台。|189|2021-12-21|2021-06-01|
 |21|[Panuon/Panuon.UI.Silver](https://github.com/Panuon/Panuon.UI.Silver)|Professional wpf ui library.|184|2021-12-03|2021-03-12|
 |22|[sd797994/Oxygen-Dapr.EshopSample](https://github.com/sd797994/Oxygen-Dapr.EshopSample)|-|170|2021-11-29|2021-01-19|
-|23|[darktohka/FlashPatch](https://github.com/darktohka/FlashPatch)|FlashPatch! Play Adobe Flash Player games in the browser after January 12th, 2021.|164|2021-12-15|2021-01-15|
+|23|[darktohka/FlashPatch](https://github.com/darktohka/FlashPatch)|FlashPatch! Play Adobe Flash Player games in the browser after January 12th, 2021.|166|2021-12-15|2021-01-15|
 |24|[evilashz/SharpADUserIP](https://github.com/evilashz/SharpADUserIP)|提取DC日志，快速获取域用户对应IP地址|161|2021-09-28|2021-09-02|
 |25|[AlifeLine/Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban)|Emby的豆瓣削刮器|158|2021-08-21|2021-03-29|
-|26|[0x727/SchTask_0x727](https://github.com/0x727/SchTask_0x727)|创建隐藏计划任务，权限维持，Bypass AV|152|2021-09-01|2021-08-30|
-|27|[xjasonlyu/jellyfin-plugin-avdc](https://github.com/xjasonlyu/jellyfin-plugin-avdc)|Metadata Provider Plugin for Jellyfin/Emby.|152|2021-11-17|2021-03-18|
+|26|[xjasonlyu/jellyfin-plugin-avdc](https://github.com/xjasonlyu/jellyfin-plugin-avdc)|Metadata Provider Plugin for Jellyfin/Emby.|153|2021-11-17|2021-03-18|
+|27|[0x727/SchTask_0x727](https://github.com/0x727/SchTask_0x727)|创建隐藏计划任务，权限维持，Bypass AV|152|2021-09-01|2021-08-30|
 |28|[An0nySec/ShadowUser](https://github.com/An0nySec/ShadowUser)|影子用户 克隆|150|2021-08-06|2021-01-27|
 |29|[dengqizhou30/AIAssist](https://github.com/dengqizhou30/AIAssist)|GameAssist是一个AI游戏助手，结合OpenCv、OpenCvSharp4、ssd_mobilenet_v3等技术，对游戏对象进行识别，支持自动瞄准/自动开枪等功能，提升玩家的游戏体验|132|2021-11-07|2021-01-23|
-|30|[DawnFz/GenShin-LauncherDIY](https://github.com/DawnFz/GenShin-LauncherDIY)|【原神启动器Plus】快速换号登录，支持官B国际三端快速切换，自定义任意分辨率全屏或窗口启动，快速打开照相目录，好看的界面|118|2021-12-12|2021-11-24|
+|30|[DawnFz/GenShin-LauncherDIY](https://github.com/DawnFz/GenShin-LauncherDIY)|【原神启动器Plus】快速换号登录，支持官B国际三端快速切换，自定义任意分辨率全屏或窗口启动，快速打开照相目录，好看的界面|119|2021-12-12|2021-11-24|
 |31|[laomms/KmsTool](https://github.com/laomms/KmsTool)|KMS Local Activation ...|118|2021-12-07|2021-03-20|
-|32|[taptap/pkg-doctor](https://github.com/taptap/pkg-doctor)|包体医生，Unity 及 Unreal 游戏包体优化工具|117|2021-12-02|2021-02-20|
-|33|[dcsoft-yyf/JIEJIE.NET](https://github.com/dcsoft-yyf/JIEJIE.NET)|An open source tool to obfuscation .NET assembly file, help you protect your copyright. small,fast and powerfu.|116|2021-12-14|2021-03-20|
+|32|[taptap/pkg-doctor](https://github.com/taptap/pkg-doctor)|包体医生，Unity 及 Unreal 游戏包体优化工具|118|2021-12-02|2021-02-20|
+|33|[dcsoft-yyf/JIEJIE.NET](https://github.com/dcsoft-yyf/JIEJIE.NET)|An open source tool to obfuscation .NET assembly file, help you protect your copyright. small,fast and powerfu.|117|2021-12-14|2021-03-20|
 |34|[zhanggaolei001/JdLoginTool](https://github.com/zhanggaolei001/JdLoginTool)|手机验证码登陆jd,获取ck,可选自动提交到服务器.|115|2021-11-29|2021-06-25|
 |35|[wqaetly/NKGMobaBasedOnET](https://github.com/wqaetly/NKGMobaBasedOnET)|基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！The Moba game based on ET framework pays tribute to LOL, including complete client-server interaction, hot updates, skill system based on do ...|109|2021-09-04|2021-03-27|
 |36|[ReubenBond/hanbaobao-web](https://github.com/ReubenBond/hanbaobao-web)|Orleans sample application with Kubernetes hosting|96|2021-06-03|2021-01-17|
-|37|[NS-Sp4ce/AliyunAccessKeyTools](https://github.com/NS-Sp4ce/AliyunAccessKeyTools)|阿里云AccessKey泄漏利用工具|90|2021-07-16|2021-07-14|
-|38|[he55/DreamScene2](https://github.com/he55/DreamScene2)|DreamScene2 是使用 C# 编写的一个小巧快速的 Windows 动态桌面软件|89|2021-12-22|2021-12-11|
-|39|[wlgys8/SRPLearn](https://github.com/wlgys8/SRPLearn)|Unity可编程渲染管线造轮子项目|84|2021-11-27|2021-02-10|
-|40|[zzjfengqing/ET-EUI](https://github.com/zzjfengqing/ET-EUI)|基于ET框架的UI模块|83|2021-12-21|2021-10-27|
-|41|[FingerCaster/UGFExtensions](https://github.com/FingerCaster/UGFExtensions)|一些对UnityGameFramework的扩展|78|2021-11-30|2021-07-15|
-|42|[IUpdatable/WeUiSharp](https://github.com/IUpdatable/WeUiSharp)|基于 WPF 实现的仿 Windows 桌面版微信 UI 界面库 An unofficial UI library for Windows WeChat based on WPF implementation|77|2021-08-30|2021-08-19|
-|43|[LogicReinc/LogicReinc.BlendFarm](https://github.com/LogicReinc/LogicReinc.BlendFarm)|A stand-alone Blender Network Renderer|77|2021-12-18|2021-01-03|
-|44|[7hr0wer/V4mp1r3](https://github.com/7hr0wer/V4mp1r3)|C#编写的远程控制软件。A remote tool(RAT) written in C#.|75|2021-12-20|2021-11-13|
+|37|[he55/DreamScene2](https://github.com/he55/DreamScene2)|DreamScene2 是使用 C# 编写的一个小巧快速的 Windows 动态桌面软件|93|2021-12-23|2021-12-11|
+|38|[NS-Sp4ce/AliyunAccessKeyTools](https://github.com/NS-Sp4ce/AliyunAccessKeyTools)|阿里云AccessKey泄漏利用工具|90|2021-07-16|2021-07-14|
+|39|[zzjfengqing/ET-EUI](https://github.com/zzjfengqing/ET-EUI)|基于ET框架的UI模块|84|2021-12-21|2021-10-27|
+|40|[wlgys8/SRPLearn](https://github.com/wlgys8/SRPLearn)|Unity可编程渲染管线造轮子项目|84|2021-11-27|2021-02-10|
+|41|[7hr0wer/V4mp1r3](https://github.com/7hr0wer/V4mp1r3)|C#编写的远程控制软件。A remote tool(RAT) written in C#.|80|2021-12-20|2021-11-13|
+|42|[FingerCaster/UGFExtensions](https://github.com/FingerCaster/UGFExtensions)|一些对UnityGameFramework的扩展|78|2021-11-30|2021-07-15|
+|43|[IUpdatable/WeUiSharp](https://github.com/IUpdatable/WeUiSharp)|基于 WPF 实现的仿 Windows 桌面版微信 UI 界面库 An unofficial UI library for Windows WeChat based on WPF implementation|77|2021-08-30|2021-08-19|
+|44|[LogicReinc/LogicReinc.BlendFarm](https://github.com/LogicReinc/LogicReinc.BlendFarm)|A stand-alone Blender Network Renderer|77|2021-12-18|2021-01-03|
 |45|[ls9512/UTween](https://github.com/ls9512/UTween)|UTween is an interpolation animation component for Unity. You can quickly configure animations through built-in components or write animations through code.|75|2021-11-26|2021-02-19|
 |46|[macgile/DataGridFilter](https://github.com/macgile/DataGridFilter)|WPF Filterable Datagrid, multi language|72|2021-12-21|2021-01-23|
 |47|[monitor1394/XUGL](https://github.com/monitor1394/XUGL)|UGUI Graphics Library for Unity.  一款 UGUI 图形库。|71|2021-09-12|2021-04-25|
 |48|[DebugST/STNodeEditor](https://github.com/DebugST/STNodeEditor)|一款基于.Net WinForm的节点编辑器 纯GDI+绘制 使用方式非常简洁 提供了丰富的属性以及事件 可以非常方便的完成节点之间数据的交互及通知 大量的虚函数供开发者重写具有很高的自由性|70|2021-09-08|2021-01-06|
-|49|[xiaoyaocz/AllLive](https://github.com/xiaoyaocz/AllLive)|获取多个直播平台的信息和弹幕|66|2021-10-18|2021-05-26|
-|50|[RRQM/RRQMSocket](https://github.com/RRQM/RRQMSocket)|RRQMSocket是一个整合性网络通信框架，特点是支持高并发、事件驱动、易用性强、二次开发难度低等。其中主要内容包括:TCP、UDP服务通信框架、大文件传输、RPC、WebApi、XmlRpc、JsonRpc等内容|66|2021-12-20|2021-04-06|
-|51|[CatImmortal/CatAsset](https://github.com/CatImmortal/CatAsset)|Unity AssetBundle资源管理框架|63|2021-11-23|2021-08-22|
-|52|[fEndman/WarFactory](https://github.com/fEndman/WarFactory)| 幻影坦克+无影坦克全面手机APP解决方案（手动滑稽）|61|2021-07-02|2021-04-17|
-|53|[Chianne1025/QQChannelFramework](https://github.com/Chianne1025/QQChannelFramework)|MyBot - QQ频道机器人开发框架(C#)|60|2021-12-22|2021-11-27|
-|54|[xingchuanzhen/WPF-Music_Player](https://github.com/xingchuanzhen/WPF-Music_Player)|一款界面漂亮的音乐播放器|60|2021-09-08|2021-02-02|
-|55|[iioter/iotgateway](https://github.com/iioter/iotgateway)|A cross-platform IoT gateway based on .net5. Through visual configuration, you can easily connect to any of your devices and systems (such as PLC, barcode scanner, CNC, database, serial device, host c ...|59|2021-12-22|2021-12-08|
-|56|[xianhc/apevolo-api](https://github.com/xianhc/apevolo-api)|.Net 6.0 、SqlSugar、Vue、RBAC、前后端分离的开箱即用的企业级中后台权限管理系统|58|2021-12-17|2021-11-17|
-|57|[wangfreexx/wangfreexx-tianruoocr-cl-paddle](https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle)|天若ocr开源版本的本地版，采用Chinese-lite和paddleocr识别框架|57|2021-11-25|2021-09-26|
+|49|[RRQM/RRQMSocket](https://github.com/RRQM/RRQMSocket)|RRQMSocket是一个整合性网络通信框架，特点是支持高并发、事件驱动、易用性强、二次开发难度低等。其中主要内容包括:TCP、UDP服务通信框架、大文件传输、RPC、WebApi、XmlRpc、JsonRpc等内容|67|2021-12-20|2021-04-06|
+|50|[xiaoyaocz/AllLive](https://github.com/xiaoyaocz/AllLive)|获取多个直播平台的信息和弹幕|66|2021-10-18|2021-05-26|
+|51|[xianhc/apevolo-api](https://github.com/xianhc/apevolo-api)|.Net 6.0 、SqlSugar、Vue、RBAC、前后端分离的开箱即用的企业级中后台权限管理系统|64|2021-12-17|2021-11-17|
+|52|[wangfreexx/wangfreexx-tianruoocr-cl-paddle](https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle)|天若ocr开源版本的本地版，采用Chinese-lite和paddleocr识别框架|63|2021-11-25|2021-09-26|
+|53|[CatImmortal/CatAsset](https://github.com/CatImmortal/CatAsset)|Unity AssetBundle资源管理框架|63|2021-11-23|2021-08-22|
+|54|[iioter/iotgateway](https://github.com/iioter/iotgateway)|A cross-platform IoT gateway based on .net5. Through visual configuration, you can easily connect to any of your devices and systems (such as PLC, barcode scanner, CNC, database, serial device, host c ...|61|2021-12-23|2021-12-08|
+|55|[fEndman/WarFactory](https://github.com/fEndman/WarFactory)| 幻影坦克+无影坦克全面手机APP解决方案（手动滑稽）|61|2021-07-02|2021-04-17|
+|56|[Chianne1025/QQChannelFramework](https://github.com/Chianne1025/QQChannelFramework)|MyBot - QQ频道机器人开发框架(C#)|60|2021-12-23|2021-11-27|
+|57|[xingchuanzhen/WPF-Music_Player](https://github.com/xingchuanzhen/WPF-Music_Player)|一款界面漂亮的音乐播放器|60|2021-09-08|2021-02-02|
 |58|[17MKH/Mkh](https://github.com/17MKH/Mkh)|基于.Net 6+Vue3开发的业务模块化快速开发框架|55|2021-12-22|2021-07-25|
 |59|[246850/Calamus.TaskScheduler](https://github.com/246850/Calamus.TaskScheduler)|基于Asp.Net Core 5.0采用Quartz.Net编写的开源任务调度Web管理平台|55|2021-08-22|2021-01-20|
 |60|[CatImmortal/CatJson](https://github.com/CatImmortal/CatJson)|为Unity开发者量身打造的功能强大的高性能Json库，内置ILRuntime支持|54|2021-11-28|2021-07-18|
 |61|[TastSong/CrazyCar](https://github.com/TastSong/CrazyCar)|Unity制作的联机赛车游戏，后台为JavaWeb。(商用级) |52|2021-12-22|2021-10-13|
 |62|[1357310795/QrCodeScanner](https://github.com/1357310795/QrCodeScanner)|通过截图或摄像头扫描二维码|51|2021-09-12|2021-07-17|
-|63|[Planshit/Tai](https://github.com/Planshit/Tai)|👻在Windows上记录每一个程序使用时长|50|2021-12-14|2021-11-19|
-|64|[caryyu/jellyfin-plugin-opendouban](https://github.com/caryyu/jellyfin-plugin-opendouban)|Douban metadata provider for Jellyfin|50|2021-11-07|2021-05-06|
+|63|[caryyu/jellyfin-plugin-opendouban](https://github.com/caryyu/jellyfin-plugin-opendouban)|Douban metadata provider for Jellyfin|51|2021-11-07|2021-05-06|
+|64|[Planshit/Tai](https://github.com/Planshit/Tai)|👻在Windows上记录每一个程序使用时长|50|2021-12-14|2021-11-19|
 |65|[xljiulang/HttpMouse](https://github.com/xljiulang/HttpMouse)|基于yarp的http公网反向代理到内网的服务端与客户端库|48|2021-12-22|2021-07-10|
 |66|[JeffersonQin/Ayase](https://github.com/JeffersonQin/Ayase)|🥥 Control everything by keyboard. Built for hackers and the blind.|45|2021-08-12|2021-07-31|
 |67|[iwiniwin/unity-remote-file-explorer](https://github.com/iwiniwin/unity-remote-file-explorer)|一个跨平台的远程文件浏览器，使用户通过Unity Editor就能操作应用所运行平台上的目录文件。比如当项目打包运行到设备上时，可通过Remote File Explorer直接浏览设备上的目录文件，并进行下载，上传，删除等操作|45|2021-11-22|2021-05-29|
-|68|[babalae/genshin-fishing-toy](https://github.com/babalae/genshin-fishing-toy)|🐟 原神自动钓鱼机，有界面且操作简单。Genshin Impact Automatic Fishing Machine.|43|2021-10-01|2021-10-01|
+|68|[babalae/genshin-fishing-toy](https://github.com/babalae/genshin-fishing-toy)|🐟 原神自动钓鱼机，有界面且操作简单。Genshin Impact Automatic Fishing Machine.|42|2021-10-01|2021-10-01|
 |69|[ccnetcore/Yi](https://github.com/ccnetcore/Yi)|Yi.Framework-基于.NET5+Vue快速开发框架|42|2021-11-27|2021-03-20|
 |70|[dawn-lc/ArchivePasswordTestTool](https://github.com/dawn-lc/ArchivePasswordTestTool)|利用7zip测试压缩包的功能 对加密压缩包进行自动化测试密码|42|2021-08-22|2021-01-05|
 |71|[LightNovelShelf/EbookReader-Xamarin](https://github.com/LightNovelShelf/EbookReader-Xamarin)|Epub阅读器的Android部分|41|2021-11-04|2021-04-24|
 |72|[TimChen44/blazor-charts](https://github.com/TimChen44/blazor-charts)|基于blazor技术，使用C#编写的charts组件。Chart component library implemented using blazor|40|2021-11-16|2021-04-09|
-|73|[cc004/AutoTimeline](https://github.com/cc004/AutoTimeline)|圣锤拯救计划！|38|2021-12-02|2021-04-25|
-|74|[fa-org/fa](https://github.com/fa-org/fa)|fa 语言编译器|37|2021-12-22|2021-06-23|
-|75|[SinoAHpx/Mirai.Net](https://github.com/SinoAHpx/Mirai.Net)|Mirai.Net是基于mirai-api-http实现的轻量级mirai社区sdk。|37|2021-11-27|2021-05-25|
+|73|[SinoAHpx/Mirai.Net](https://github.com/SinoAHpx/Mirai.Net)|Mirai.Net是基于mirai-api-http实现的轻量级mirai社区sdk。|38|2021-11-27|2021-05-25|
+|74|[cc004/AutoTimeline](https://github.com/cc004/AutoTimeline)|圣锤拯救计划！|38|2021-12-02|2021-04-25|
+|75|[fa-org/fa](https://github.com/fa-org/fa)|fa 语言编译器|37|2021-12-23|2021-06-23|
 |76|[MG1937/AntiProguard-KRSFinder](https://github.com/MG1937/AntiProguard-KRSFinder)|通过分析类与成员间的关系来对抗Proguard混淆规则.Anti proguard through analysing classes and members' relationship|36|2021-10-28|2021-08-20|
 |77|[ibukisaar/BadAppleQArt](https://github.com/ibukisaar/BadAppleQArt)|在二维码上播放bad apple|34|2021-08-02|2021-07-15|
 |78|[tipani86/StarChild](https://github.com/tipani86/StarChild)|A Chatbot Game for Autistic Children 一款为孤独症孩子设计的聊天机器人游戏|33|2021-10-11|2021-08-02|

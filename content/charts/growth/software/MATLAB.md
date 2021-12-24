@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2021-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -10,7 +10,7 @@
 |3|[lxlonlyn/numerical-analysis](https://github.com/lxlonlyn/numerical-analysis)|你知道数值分析的痛吗|3|0|2021-06-11|
 |4|[zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW)|Collaborative representation with background purification and saliency weight for hyperspectral anomaly detection|7|0|2021-09-15|
 |5|[complone/NaSch](https://github.com/complone/NaSch)|三车道交通流元胞自动机matlab实现|19|0|2021-08-07|
-|6|[weisongwen/researchTools](https://github.com/weisongwen/researchTools)|useful blogs for research|71|0|2021-11-23|
+|6|[weisongwen/researchTools](https://github.com/weisongwen/researchTools)|useful blogs for research|72|0|2021-11-23|
 |7|[zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW-](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW-)|This is the code for the paper nemed  'Anomaly Detection for Hyperspectral Imagery Based on the Regularized Subspace Method and Collaborative Representation'|16|0|2021-09-28|
 |8|[ShurenQi/MomentToolbox](https://github.com/ShurenQi/MomentToolbox)|Matlab code for the paper "A survey of orthogonal moments for image representation: Theory, implementation, and evaluation"|12|0|2021-11-25|
 |9|[JackHCC/Audio-Digital-Processing](https://github.com/JackHCC/Audio-Digital-Processing)|数字信号处理大作业：Matlab实现语音分析：加噪声，频谱分析，滤波器等等（内附报告）【Matlab for speech analysis: add noise, spectrum analysis, filter, etc】|37|0|2021-06-29|
@@ -55,7 +55,7 @@
 |48|[chaiqingao/Sudoku](https://github.com/chaiqingao/Sudoku)|一个用MATLAB写的数独小游戏：以命令行和GUI两种方式生成数独和求解数独，你可以作为游戏来玩或作为求解数独的工具。|3|0|2021-07-15|
 |49|[nanguoyu/Captcha-recognition](https://github.com/nanguoyu/Captcha-recognition)|[CAIA I Lab 5] Captcha recognition implemented by Matlab  [CAIA I Lab 5]数字图像验证码识别 |5|0|2021-12-14|
 |50|[Wenzhe-Liu/sound-source-localization-algorithm_DOA_estimation](https://github.com/Wenzhe-Liu/sound-source-localization-algorithm_DOA_estimation)|关于语音信号声源定位DOA估计所用的一些传统算法|105|0|2021-06-30|
-|51|[AirChem/F0AM](https://github.com/AirChem/F0AM)|Framework for 0-D Atmospheric Modeling|30|0|2021-12-03|
+|51|[AirChem/F0AM](https://github.com/AirChem/F0AM)|Framework for 0-D Atmospheric Modeling|30|0|2021-12-23|
 |52|[lunarwhite/Chinese-handwritten-numbers-recognization](https://github.com/lunarwhite/Chinese-handwritten-numbers-recognization)|用简单的BP神经网络来识别中文手写阿拉伯数字，kaggle中的Toy项目，算法用Matlab手写实现|5|0|2021-06-13|
 |53|[acsamson/ImageFusion-Algorithm](https://github.com/acsamson/ImageFusion-Algorithm)|ImageFusion algorithm, SSIM and PSNR evaluation（常见图像融合算法以及SSIM和PSNR评价|2|0|2021-08-30|
 |54|[zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles](https://github.com/zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles)|Hyperspectral Change Detection Based on Multiple Morphological Profiles|8|0|2021-09-28|
@@ -66,7 +66,7 @@
 |59|[himynameisfuego/SiTraNo](https://github.com/himynameisfuego/SiTraNo)|A MATLAB app for tonal-transient-noise decomposition of audio signals.|10|0|2021-09-08|
 |60|[JJ-Ho/COSMOSS](https://github.com/JJ-Ho/COSMOSS)|COSMOSS is a Coupled OScillator MOdel Spectrum Simulator  |6|0|2021-06-20|
 |61|[ray1006597080/MyFish](https://github.com/ray1006597080/MyFish)|专注优化算法开发，包括以下方面：  （1）启发式算法，元启发式算法，群智能优化算法（GA，PSO，GWO等）  （2）凸优化（ADMM，Benders分解，内点法等）  （3）多目标优化（NSGA-II，MOPSO，MOGWO等）  （4）机器学习（神经网络，SVM，决策树，随机森林等） 电力系统优化建模，多学科优化建模，包括：  （1）电力系统运行优化（日前优化调度，微电网运行优化，电动汽车调度 ...|3|0|2021-06-07|
-|62|[WoodyBuendia/HFSS-MATLAB-API](https://github.com/WoodyBuendia/HFSS-MATLAB-API)|HFSS-MATLAB-API is a library toolbox to control Ansoft HFSS from MATLAB using  the HFSS Scripting Interface. This tool provides a set of MATLAB functions to  create 3D objects in HFSS by generating th ...|42|0|2021-09-17|
+|62|[WoodyBuendia/HFSS-MATLAB-API](https://github.com/WoodyBuendia/HFSS-MATLAB-API)|HFSS-MATLAB-API is a library toolbox to control Ansoft HFSS from MATLAB using  the HFSS Scripting Interface. This tool provides a set of MATLAB functions to  create 3D objects in HFSS by generating th ...|43|0|2021-09-17|
 |63|[jeyao/Orbital-Angular-Momentum](https://github.com/jeyao/Orbital-Angular-Momentum)|涡旋电磁波相关仿真|10|0|2021-06-17|
 |64|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|373|0|2021-12-15|
 |65|[wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve](https://github.com/wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve)|使用贝塞尔曲线，通过合理选取控制点使轨迹在拼接点处曲率连续|5|0|2021-09-06|
@@ -90,7 +90,7 @@
 |83|[YXL76/Communication-System-Modeling-and-Simulation](https://github.com/YXL76/Communication-System-Modeling-and-Simulation)|BUPT 通信系统建模与仿真|2|0|2021-06-19|
 |84|[TianLin0509/BF-design-with-DL](https://github.com/TianLin0509/BF-design-with-DL)|Beamforming design with deep learning.|126|0|2021-08-01|
 |85|[liuziwei7/fashion-landmarks](https://github.com/liuziwei7/fashion-landmarks)|Fashion Landmark Detection in the Wild|329|0|2021-10-09|
-|86|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|11|0|2021-12-22|
+|86|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|11|0|2021-12-23|
 |87|[mingli-ai/FaVeST](https://github.com/mingli-ai/FaVeST)|Fast Vector Spherical Harmonic Transforms|11|0|2021-10-13|
 |88|[chdilo/BadAppleOSC](https://github.com/chdilo/BadAppleOSC)|在示波器上播放Bad Apple!!|10|0|2021-09-29|
 |89|[cggos/opt_matlab](https://github.com/cggos/opt_matlab)|最优化方法及其MATLAB实现 源代码|7|0|2021-10-07|
