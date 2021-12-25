@@ -1,19 +1,19 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Objective-C
-<sub>数据更新: 2021-12-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4631|6|2021-12-07|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4636|6|2021-12-07|
 |2|[pujiaxin33/JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)|A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|5571|4|2021-10-25|
 |3|[skyming/iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)|关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit|4343|2|2021-08-09|
-|4|[liberalisman/iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection)|iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。|2923|2|2021-06-09|
-|5|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2319|2|2021-12-16|
-|6|[LGCooci/KCiOSGrocery](https://github.com/LGCooci/KCiOSGrocery)|iOS开发杂货铺: 面试题+考试试卷+懒人开发tips|430|1|2021-10-10|
+|4|[liberalisman/iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection)|iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。|2925|2|2021-06-09|
+|5|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2320|2|2021-12-16|
+|6|[LGCooci/KCiOSGrocery](https://github.com/LGCooci/KCiOSGrocery)|iOS开发杂货铺: 面试题+考试试卷+懒人开发tips|431|1|2021-10-10|
 |7|[SunshineBrother/JHBlog](https://github.com/SunshineBrother/JHBlog)|iOS开发：我的初级到中级的晋级之路|1185|1|2021-07-29|
 |8|[wwmz/WMZPageController](https://github.com/wwmz/WMZPageController)|分页控制器,替换UIPageController方案,具备完整的生命周期,多种指示器样式,多种标题样式,可悬浮,支持ios13暗黑模式(仿优酷,爱奇艺,今日头条,简书,京东等多种标题菜单) (Pagination controller with full life cycle, multiple indicator styles, multiple title styles)|545|1|2021-12-08|
-|9|[HeathWang/HWPanModal](https://github.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|872|1|2021-11-30|
+|9|[HeathWang/HWPanModal](https://github.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|873|1|2021-11-30|
 |10|[wwmz/WMZDialog](https://github.com/wwmz/WMZDialog)|功能最多样式最多的弹窗，支持普通/底部/日期/地区/日历/选择/编辑/分享/菜单/自定义弹窗等,支持多种动画,链式编程调用(Pop-up windows with the most functions and styles, support normal/bottom/date/region/calendar/select/edit/share/menu/custom pop-up windows ...|838|1|2021-12-21|
 |11|[objccn/articles](https://github.com/objccn/articles)|Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本|2086|1|2021-11-02|
 |12|[GGGHub/Reader](https://github.com/GGGHub/Reader)|iOS基于CoreText实现的电子书阅读器，支持txt，epub格式|1115|1|2021-08-28|
@@ -43,7 +43,7 @@
 |36|[MarkWangLike/WHPageFlipTwoSide](https://github.com/MarkWangLike/WHPageFlipTwoSide)|翻书效果预览图片|18|0|2021-06-14|
 |37|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|1.抖音视频转场动画, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok  2.铃声多多,上传铃声音频到库乐队(GarageBand) 3.微博主页、简书主页等。多页面嵌套列表分页滚动，上下滑动，左右滑动切换页面。类似TableView共用HeaderView悬浮,仿头条标签编辑,铃声多多音乐播放界面(豆瓣电影主页)。|278|0|2021-11-29|
 |38|[Xcoder1011/OC_StudyDemo](https://github.com/Xcoder1011/OC_StudyDemo)|记录个人学习Objective-C的一些demo ，基于AFNetworking3.x封装网络请求，实现GET、POST请求、多任务断点续传|2|0|2021-09-28|
-|39|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|432|0|2021-12-23|
+|39|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|433|0|2021-12-24|
 |40|[CorderC/flutter_wechat_share_plugin](https://github.com/CorderC/flutter_wechat_share_plugin)|flutter版本的关于微信分享功能组件，包括分享文字，图片，音乐，网页以及打开微信小程序等，ios与安卓均已实现对应的功能|2|0|2021-06-03|
 |41|[aolan/iOS_Develop](https://github.com/aolan/iOS_Develop)|该文档都是日常开发过程中解决问题的经验总结。|7|0|2021-11-30|
 |42|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1183|0|2021-12-23|
@@ -80,7 +80,7 @@
 |73|[wlpiaoyi/PYUtile](https://github.com/wlpiaoyi/PYUtile)|常用功能集合|3|0|2021-08-10|
 |74|[orilme/OCSummary](https://github.com/orilme/OCSummary)|OC知识和常用的一些小Demo|8|0|2021-07-17|
 |75|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|11|0|2021-12-16|
-|76|[HansenCCC/QMKKXProduct](https://github.com/HansenCCC/QMKKXProduct)|iOS技术分享（APP图标制作、苹果内购支付、仿微信朋友圈、仿微信图片查看器、防新浪@人、仿支付宝密码弹框、仿发圈、黑科技-无限刷简书知乎流量、标签、js交互+wk、加载网页、自适应cell高度、TableView嵌入播放器防卡顿、定制好看弹框、选择地址、选择时间、选择颜色、导航自定义控制、轮播图、二维码扫描、人脸追踪、自定义相机、身份证拍照、ios播放器、AVPlayer封装、下拉选项弹框、贪吃 ...|41|0|2021-10-20|
+|76|[HansenCCC/QMKKXProduct](https://github.com/HansenCCC/QMKKXProduct)|iOS技术分享（APP图标制作、苹果内购支付、仿微信朋友圈、仿微信图片查看器、防新浪@人、仿支付宝密码弹框、仿发圈、黑科技-无限刷简书知乎流量、标签、js交互+wk、加载网页、自适应cell高度、TableView嵌入播放器防卡顿、定制好看弹框、选择地址、选择时间、选择颜色、导航自定义控制、轮播图、二维码扫描、人脸追踪、自定义相机、身份证拍照、ios播放器、AVPlayer封装、下拉选项弹框、贪吃 ...|42|0|2021-10-20|
 |77|[poholo/LDSDKManager_IOS](https://github.com/poholo/LDSDKManager_IOS)|聚合QQ、微信、微博、支付宝、Telegram、钉钉第三方库，抽象封装分享、授权、支付功能，以便其他开发者能快速接入。(LD团队自16年不再更新)|5|0|2021-08-12|
 |78|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|8|0|2021-12-23|
 |79|[skyming/Study](https://github.com/skyming/Study)|学习日志记录、笔记|22|0|2021-12-01|

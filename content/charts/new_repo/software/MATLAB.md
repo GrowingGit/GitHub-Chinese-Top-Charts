@@ -1,12 +1,12 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > MATLAB
-<sub>数据更新: 2021-12-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[ToKiNoBug/3dPixelPaintingInMinecraft](https://github.com/ToKiNoBug/3dPixelPaintingInMinecraft)|在minecraft中生成3d的地图画|19|2021-09-24|2021-02-20|
-|2|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|11|2021-12-23|2021-09-21|
+|2|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|11|2021-12-24|2021-09-21|
 |3|[redglassli/Formation_Consensus_basic](https://github.com/redglassli/Formation_Consensus_basic)|A basic version for robot formation consensus and obstacle avoidance by MATLAB|11|2021-06-10|2021-06-10|
 |4|[yeyuanxin110/CFOG](https://github.com/yeyuanxin110/CFOG)|-|11|2021-11-20|2021-01-06|
 |5|[himynameisfuego/SiTraNo](https://github.com/himynameisfuego/SiTraNo)|A MATLAB app for tonal-transient-noise decomposition of audio signals.|10|2021-09-08|2021-04-16|
@@ -25,15 +25,15 @@
 |18|[lunarwhite/Chinese-handwritten-numbers-recognization](https://github.com/lunarwhite/Chinese-handwritten-numbers-recognization)|用简单的BP神经网络来识别中文手写阿拉伯数字，kaggle中的Toy项目，算法用Matlab手写实现|5|2021-06-13|2021-01-31|
 |19|[fzzfbyx/CFAR-radar-algorithm_MATLAB_GUI](https://github.com/fzzfbyx/CFAR-radar-algorithm_MATLAB_GUI)|利用MATLAB GUI设计平台，设计多算法雷达一维恒虚警检测CFAR可视化界面，通过选择噪声类型、目标类型、算法类型，手动输入相关参数，可视化显示噪声波形与目标检测的回波-检测门限波形图。|4|2021-09-13|2021-09-13|
 |20|[fzzfbyx/Audio-FIR-denoising-filter-MATLAB_GUI](https://github.com/fzzfbyx/Audio-FIR-denoising-filter-MATLAB_GUI)|利用MATLAB GUI设计平台，用窗函数法设计FIR数字滤波器，对所给出的含有噪声的声音信号进行数字滤波处理，得到降噪的声音信号，进行时域频域分析，同时分析不同窗函数的效果。|4|2021-09-13|2021-09-13|
-|21|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|3|2021-12-03|2021-12-01|
-|22|[BetterBench/2021-APMCM-Problem-A](https://github.com/BetterBench/2021-APMCM-Problem-A)|2021年亚太地区数学建模赛题A(图像边缘分析与应用) Halcon方案实现、代码、实验数据|3|2021-11-30|2021-11-30|
-|23|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|2021-12-21|2021-10-21|
-|24|[tyl-stu/Compressed-sensing-code](https://github.com/tyl-stu/Compressed-sensing-code)|自己搜集和改写的压缩感知相关程序代码|3|2021-07-26|2021-07-26|
-|25|[heihei2122/mag_cuboid](https://github.com/heihei2122/mag_cuboid)|a gui or app based matlab to calculate B  force stiffness  矩形磁体的计算|3|2021-11-20|2021-07-25|
-|26|[X-X-Y/about_EEG_EandP](https://github.com/X-X-Y/about_EEG_EandP)|说说脑电信号的频谱、能量、功率谱、功率谱密度都是指什么|3|2021-07-15|2021-07-15|
-|27|[gain-wyj/Color-image-enhancement](https://github.com/gain-wyj/Color-image-enhancement)|基于HSI和局部同态滤波的彩色图像增强算法|3|2021-07-05|2021-07-05|
-|28|[AIHHU/Ant-Colony-Optimization](https://github.com/AIHHU/Ant-Colony-Optimization)|用matlab实现蚁群算法|3|2021-07-02|2021-06-30|
-|29|[Stansec233/SVM-Electricity_Load_Forecast](https://github.com/Stansec233/SVM-Electricity_Load_Forecast)|基于日特征气象因素的支持向量机预测电力负荷|3|2021-06-24|2021-06-24|
+|21|[Stansec233/SVM-Electricity_Load_Forecast](https://github.com/Stansec233/SVM-Electricity_Load_Forecast)|基于日特征气象因素的支持向量机预测电力负荷|4|2021-06-24|2021-06-24|
+|22|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|3|2021-12-03|2021-12-01|
+|23|[BetterBench/2021-APMCM-Problem-A](https://github.com/BetterBench/2021-APMCM-Problem-A)|2021年亚太地区数学建模赛题A(图像边缘分析与应用) Halcon方案实现、代码、实验数据|3|2021-11-30|2021-11-30|
+|24|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|2021-12-21|2021-10-21|
+|25|[tyl-stu/Compressed-sensing-code](https://github.com/tyl-stu/Compressed-sensing-code)|自己搜集和改写的压缩感知相关程序代码|3|2021-07-26|2021-07-26|
+|26|[heihei2122/mag_cuboid](https://github.com/heihei2122/mag_cuboid)|a gui or app based matlab to calculate B  force stiffness  矩形磁体的计算|3|2021-11-20|2021-07-25|
+|27|[X-X-Y/about_EEG_EandP](https://github.com/X-X-Y/about_EEG_EandP)|说说脑电信号的频谱、能量、功率谱、功率谱密度都是指什么|3|2021-07-15|2021-07-15|
+|28|[gain-wyj/Color-image-enhancement](https://github.com/gain-wyj/Color-image-enhancement)|基于HSI和局部同态滤波的彩色图像增强算法|3|2021-07-05|2021-07-05|
+|29|[AIHHU/Ant-Colony-Optimization](https://github.com/AIHHU/Ant-Colony-Optimization)|用matlab实现蚁群算法|3|2021-07-02|2021-06-30|
 |30|[ray1006597080/MyFish](https://github.com/ray1006597080/MyFish)|专注优化算法开发，包括以下方面：  （1）启发式算法，元启发式算法，群智能优化算法（GA，PSO，GWO等）  （2）凸优化（ADMM，Benders分解，内点法等）  （3）多目标优化（NSGA-II，MOPSO，MOGWO等）  （4）机器学习（神经网络，SVM，决策树，随机森林等） 电力系统优化建模，多学科优化建模，包括：  （1）电力系统运行优化（日前优化调度，微电网运行优化，电动汽车调度 ...|3|2021-06-07|2021-06-07|
 |31|[lxlonlyn/numerical-analysis](https://github.com/lxlonlyn/numerical-analysis)|你知道数值分析的痛吗|3|2021-06-11|2021-06-05|
 |32|[guoyun2020/LMS-Based-Adaptive-Filtering-Denoising-Algorithm](https://github.com/guoyun2020/LMS-Based-Adaptive-Filtering-Denoising-Algorithm)|一种基于LMS的自适应蓝牙耳机降噪算法|3|2021-06-15|2021-06-04|

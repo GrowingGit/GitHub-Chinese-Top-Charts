@@ -1,19 +1,19 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>数据更新: 2021-12-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|373|2021-12-15|
 |2|[liuziwei7/fashion-landmarks](https://github.com/liuziwei7/fashion-landmarks)|Fashion Landmark Detection in the Wild|329|2021-10-09|
-|3|[xingchenzhang/VIFB](https://github.com/xingchenzhang/VIFB)|Visible and Infrared Image Fusion Benchmark|143|2021-09-27|
+|3|[xingchenzhang/VIFB](https://github.com/xingchenzhang/VIFB)|Visible and Infrared Image Fusion Benchmark|144|2021-09-27|
 |4|[TianLin0509/BF-design-with-DL](https://github.com/TianLin0509/BF-design-with-DL)|Beamforming design with deep learning.|126|2021-08-01|
 |5|[Wenzhe-Liu/sound-source-localization-algorithm_DOA_estimation](https://github.com/Wenzhe-Liu/sound-source-localization-algorithm_DOA_estimation)|关于语音信号声源定位DOA估计所用的一些传统算法|105|2021-06-30|
 |6|[qwe14789cn/radar_tools](https://github.com/qwe14789cn/radar_tools)|信号处理工具箱|102|2021-08-31|
 |7|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|74|2021-12-04|
-|8|[weisongwen/researchTools](https://github.com/weisongwen/researchTools)|useful blogs for research|72|2021-11-23|
-|9|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|64|2021-12-07|
+|8|[weisongwen/researchTools](https://github.com/weisongwen/researchTools)|useful blogs for research|73|2021-11-23|
+|9|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|65|2021-12-07|
 |10|[mingsongli/acycle](https://github.com/mingsongli/acycle)|Acycle: Time-series analysis software for research and education|53|2021-12-12|
 |11|[NOCIONS/letswave6](https://github.com/NOCIONS/letswave6)|Letswave 6 - Matlab EEG signal processing toolbox |44|2021-08-23|
 |12|[WoodyBuendia/HFSS-MATLAB-API](https://github.com/WoodyBuendia/HFSS-MATLAB-API)|HFSS-MATLAB-API is a library toolbox to control Ansoft HFSS from MATLAB using  the HFSS Scripting Interface. This tool provides a set of MATLAB functions to  create 3D objects in HFSS by generating th ...|43|2021-09-17|
@@ -29,7 +29,7 @@
 |22|[AngeloUNIMI/FusionNet](https://github.com/AngeloUNIMI/FusionNet)|Source code for the 2019 IEEE CIVEMSA paper "Touchless palmprint and finger texture recognition: A Deep Learning fusion approach"|14|2021-09-06|
 |23|[tangkk/tangkk-mirex-ace](https://github.com/tangkk/tangkk-mirex-ace)|large vocabulary automatic chord estimation with deep learning|13|2021-06-02|
 |24|[ShurenQi/MomentToolbox](https://github.com/ShurenQi/MomentToolbox)|Matlab code for the paper "A survey of orthogonal moments for image representation: Theory, implementation, and evaluation"|12|2021-11-25|
-|25|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|11|2021-12-23|
+|25|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|11|2021-12-24|
 |26|[redglassli/Formation_Consensus_basic](https://github.com/redglassli/Formation_Consensus_basic)|A basic version for robot formation consensus and obstacle avoidance by MATLAB|11|2021-06-10|
 |27|[yeyuanxin110/CFOG](https://github.com/yeyuanxin110/CFOG)|-|11|2021-11-20|
 |28|[mingli-ai/FaVeST](https://github.com/mingli-ai/FaVeST)|Fast Vector Spherical Harmonic Transforms|11|2021-10-13|
@@ -64,18 +64,18 @@
 |57|[LingyvKong/PatternRecognition-with-matlab](https://github.com/LingyvKong/PatternRecognition-with-matlab)|使用matlab从0构建模式识别算法|5|2021-06-26|
 |58|[fzzfbyx/CFAR-radar-algorithm_MATLAB_GUI](https://github.com/fzzfbyx/CFAR-radar-algorithm_MATLAB_GUI)|利用MATLAB GUI设计平台，设计多算法雷达一维恒虚警检测CFAR可视化界面，通过选择噪声类型、目标类型、算法类型，手动输入相关参数，可视化显示噪声波形与目标检测的回波-检测门限波形图。|4|2021-09-13|
 |59|[fzzfbyx/Audio-FIR-denoising-filter-MATLAB_GUI](https://github.com/fzzfbyx/Audio-FIR-denoising-filter-MATLAB_GUI)|利用MATLAB GUI设计平台，用窗函数法设计FIR数字滤波器，对所给出的含有噪声的声音信号进行数字滤波处理，得到降噪的声音信号，进行时域频域分析，同时分析不同窗函数的效果。|4|2021-09-13|
-|60|[Say-Hello2y/Path-planning-for-robots](https://github.com/Say-Hello2y/Path-planning-for-robots)|use Dijkstra 使用Dijkstra法实现了基于栅格地图的移动机器人路径规划|4|2021-06-16|
-|61|[Burceoneo12345/image](https://github.com/Burceoneo12345/image)|图像处理的实验以及作业|4|2021-06-13|
-|62|[WHUzxp/Dual_SOCP](https://github.com/WHUzxp/Dual_SOCP)|潮流计算 二阶锥松弛 对偶形式|4|2021-06-18|
-|63|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|3|2021-12-03|
-|64|[BetterBench/2021-APMCM-Problem-A](https://github.com/BetterBench/2021-APMCM-Problem-A)|2021年亚太地区数学建模赛题A(图像边缘分析与应用) Halcon方案实现、代码、实验数据|3|2021-11-30|
-|65|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|2021-12-21|
-|66|[tyl-stu/Compressed-sensing-code](https://github.com/tyl-stu/Compressed-sensing-code)|自己搜集和改写的压缩感知相关程序代码|3|2021-07-26|
-|67|[heihei2122/mag_cuboid](https://github.com/heihei2122/mag_cuboid)|a gui or app based matlab to calculate B  force stiffness  矩形磁体的计算|3|2021-11-20|
-|68|[X-X-Y/about_EEG_EandP](https://github.com/X-X-Y/about_EEG_EandP)|说说脑电信号的频谱、能量、功率谱、功率谱密度都是指什么|3|2021-07-15|
-|69|[gain-wyj/Color-image-enhancement](https://github.com/gain-wyj/Color-image-enhancement)|基于HSI和局部同态滤波的彩色图像增强算法|3|2021-07-05|
-|70|[AIHHU/Ant-Colony-Optimization](https://github.com/AIHHU/Ant-Colony-Optimization)|用matlab实现蚁群算法|3|2021-07-02|
-|71|[Stansec233/SVM-Electricity_Load_Forecast](https://github.com/Stansec233/SVM-Electricity_Load_Forecast)|基于日特征气象因素的支持向量机预测电力负荷|3|2021-06-24|
+|60|[Stansec233/SVM-Electricity_Load_Forecast](https://github.com/Stansec233/SVM-Electricity_Load_Forecast)|基于日特征气象因素的支持向量机预测电力负荷|4|2021-06-24|
+|61|[Say-Hello2y/Path-planning-for-robots](https://github.com/Say-Hello2y/Path-planning-for-robots)|use Dijkstra 使用Dijkstra法实现了基于栅格地图的移动机器人路径规划|4|2021-06-16|
+|62|[Burceoneo12345/image](https://github.com/Burceoneo12345/image)|图像处理的实验以及作业|4|2021-06-13|
+|63|[WHUzxp/Dual_SOCP](https://github.com/WHUzxp/Dual_SOCP)|潮流计算 二阶锥松弛 对偶形式|4|2021-06-18|
+|64|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|3|2021-12-03|
+|65|[BetterBench/2021-APMCM-Problem-A](https://github.com/BetterBench/2021-APMCM-Problem-A)|2021年亚太地区数学建模赛题A(图像边缘分析与应用) Halcon方案实现、代码、实验数据|3|2021-11-30|
+|66|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|2021-12-21|
+|67|[tyl-stu/Compressed-sensing-code](https://github.com/tyl-stu/Compressed-sensing-code)|自己搜集和改写的压缩感知相关程序代码|3|2021-07-26|
+|68|[heihei2122/mag_cuboid](https://github.com/heihei2122/mag_cuboid)|a gui or app based matlab to calculate B  force stiffness  矩形磁体的计算|3|2021-11-20|
+|69|[X-X-Y/about_EEG_EandP](https://github.com/X-X-Y/about_EEG_EandP)|说说脑电信号的频谱、能量、功率谱、功率谱密度都是指什么|3|2021-07-15|
+|70|[gain-wyj/Color-image-enhancement](https://github.com/gain-wyj/Color-image-enhancement)|基于HSI和局部同态滤波的彩色图像增强算法|3|2021-07-05|
+|71|[AIHHU/Ant-Colony-Optimization](https://github.com/AIHHU/Ant-Colony-Optimization)|用matlab实现蚁群算法|3|2021-07-02|
 |72|[ray1006597080/MyFish](https://github.com/ray1006597080/MyFish)|专注优化算法开发，包括以下方面：  （1）启发式算法，元启发式算法，群智能优化算法（GA，PSO，GWO等）  （2）凸优化（ADMM，Benders分解，内点法等）  （3）多目标优化（NSGA-II，MOPSO，MOGWO等）  （4）机器学习（神经网络，SVM，决策树，随机森林等） 电力系统优化建模，多学科优化建模，包括：  （1）电力系统运行优化（日前优化调度，微电网运行优化，电动汽车调度 ...|3|2021-06-07|
 |73|[lxlonlyn/numerical-analysis](https://github.com/lxlonlyn/numerical-analysis)|你知道数值分析的痛吗|3|2021-06-11|
 |74|[guoyun2020/LMS-Based-Adaptive-Filtering-Denoising-Algorithm](https://github.com/guoyun2020/LMS-Based-Adaptive-Filtering-Denoising-Algorithm)|一种基于LMS的自适应蓝牙耳机降噪算法|3|2021-06-15|

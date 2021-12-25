@@ -1,12 +1,12 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Lua
-<sub>数据更新: 2021-12-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua)|📜 学习 Neovim 全配置， 逃离 VSCode。|101|2|2021-12-18|
-|2|[skywind3000/z.lua](https://github.com/skywind3000/z.lua)|:zap: A new cd command that helps you navigate faster by learning your habits.|2164|2|2021-11-13|
+|1|[nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua)|📜 学习 Neovim 全配置， 逃离 VSCode。|102|2|2021-12-18|
+|2|[skywind3000/z.lua](https://github.com/skywind3000/z.lua)|:zap: A new cd command that helps you navigate faster by learning your habits.|2165|2|2021-11-13|
 |3|[Wscats/articles](https://github.com/Wscats/articles)|🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆|3046|1|2021-12-20|
 |4|[Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)|《明日方舟》游戏数据|642|1|2021-12-23|
 |5|[ouwen000/lua-touchsprte](https://github.com/ouwen000/lua-touchsprte)|触动精灵代码合集|9|0|2021-11-09|
@@ -14,7 +14,7 @@
 |7|[whsir/ngx_lua_waf](https://github.com/whsir/ngx_lua_waf)|ngx_lua_waf改版，增加网段白名单等新功能|28|0|2021-07-27|
 |8|[bayard/acamar](https://github.com/bayard/acamar)|Acamar auto-learning spam blocker addon for WoW / Acamar 自学习垃圾消息屏蔽插件。支持WoW怀旧版。|14|0|2021-06-21|
 |9|[max-ri/Guidelime](https://github.com/max-ri/Guidelime)|Guidelime: A WoW Classic addon for leveling guides with automatic progress updates|132|0|2021-11-30|
-|10|[simdsoft/x-studio.github.io](https://github.com/simdsoft/x-studio.github.io)|This is the issues tracking, roadmap, docs src repo of the x-studio IDE. Copyright © 2014-2021 Simdsoft Limited|81|0|2021-12-21|
+|10|[simdsoft/x-studio.github.io](https://github.com/simdsoft/x-studio.github.io)|This is the issues tracking, roadmap, docs src repo of the x-studio IDE. Copyright © 2014-2021 Simdsoft Limited|82|0|2021-12-24|
 |11|[jinzhen-lin/ds_mods](https://github.com/jinzhen-lin/ds_mods)|自己写的一些《饥荒》mod|4|0|2021-12-11|
 |12|[openresty/lua-resty-lock](https://github.com/openresty/lua-resty-lock)|Simple nonblocking lock API for ngx_lua based on shared memory dictionaries|271|0|2021-10-08|
 |13|[njjjay/IOTQQPlugins_selfuse](https://github.com/njjjay/IOTQQPlugins_selfuse)|自用IOTQQ/OPQbot插件合集|17|0|2021-08-30|

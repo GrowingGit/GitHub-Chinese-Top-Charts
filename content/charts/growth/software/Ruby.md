@@ -1,28 +1,28 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Ruby
-<sub>数据更新: 2021-12-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)|GitLab CE Mirror   Please open new issues in our issue tracker on GitLab.com|22805|6|2021-12-23|
-|2|[lewagon/setup](https://github.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|11521|4|2021-11-10|
-|3|[MBoxPlus/mbox](https://github.com/MBoxPlus/mbox)|Toolchain for Mobile App Development 移动研发工具链|634|3|2021-12-21|
-|4|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|5764|2|2021-12-19|
-|5|[darkbitio/aws-recon](https://github.com/darkbitio/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|386|1|2021-12-02|
+|1|[gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)|GitLab CE Mirror   Please open new issues in our issue tracker on GitLab.com|22804|6|2021-12-24|
+|2|[lewagon/setup](https://github.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|11520|4|2021-11-10|
+|3|[MBoxPlus/mbox](https://github.com/MBoxPlus/mbox)|Toolchain for Mobile App Development 移动研发工具链|635|3|2021-12-21|
+|4|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|5765|2|2021-12-19|
+|5|[darkbitio/aws-recon](https://github.com/darkbitio/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|387|1|2021-12-02|
 |6|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3514|1|2021-12-23|
-|7|[peatio/peatio](https://github.com/peatio/peatio)|An open-source assets exchange.|3506|1|2021-12-08|
-|8|[nomad/shenzhen](https://github.com/nomad/shenzhen)|CLI for Building & Distributing iOS Apps (.ipa Files)|4668|1|2021-06-20|
+|7|[peatio/peatio](https://github.com/peatio/peatio)|An open-source assets exchange.|3505|1|2021-12-08|
+|8|[nomad/shenzhen](https://github.com/nomad/shenzhen)|CLI for Building & Distributing iOS Apps (.ipa Files)|4669|1|2021-06-20|
 |9|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3411|1|2021-12-23|
-|10|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1731|1|2021-11-28|
-|11|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|516|1|2021-12-21|
+|10|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1730|1|2021-11-28|
+|11|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|516|1|2021-12-23|
 |12|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|1887|1|2021-12-16|
-|13|[pluosi/app-host](https://github.com/pluosi/app-host)|应用内网发布   iOS OTA (Over-the-Air)   APP publish website like fir.im    适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包|1795|1|2021-11-04|
+|13|[pluosi/app-host](https://github.com/pluosi/app-host)|应用内网发布   iOS OTA (Over-the-Air)   APP publish website like fir.im    适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包|1796|1|2021-11-04|
 |14|[rikas/zoho_hub](https://github.com/rikas/zoho_hub)|Zoho CRM API V2 Wrapper|20|0|2021-09-01|
-|15|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|432|0|2021-12-23|
+|15|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|435|0|2021-12-23|
 |16|[courtenay/splam](https://github.com/courtenay/splam)|Simple, pluggable, easily customizable score-based spam filter plugin for Ruby-based applications|108|0|2021-10-25|
 |17|[kenn/active_flag](https://github.com/kenn/active_flag)|Bit array for ActiveRecord|94|0|2021-10-28|
-|18|[aozorahack/aozorabunko_text](https://github.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|45|0|2021-12-23|
+|18|[aozorahack/aozorabunko_text](https://github.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|45|0|2021-12-24|
 |19|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|18|0|2021-11-29|
 |20|[ruilisi/rails-pangu](https://github.com/ruilisi/rails-pangu)|Rails starter kit that every startup needs|191|0|2021-10-12|
 |21|[ECPay/ECPayAIO_RoR](https://github.com/ECPay/ECPayAIO_RoR)|綠界科技ECPay 全方位(All In One)金流介接 Ruby版|8|0|2021-08-19|
@@ -51,7 +51,7 @@
 |44|[tdiary/tdiary-blogkit](https://github.com/tdiary/tdiary-blogkit)|more blogged for tDiary|13|0|2021-11-30|
 |45|[mycolorway/wework](https://github.com/mycolorway/wework)|Wework is ruby API wrapper for  wechat work「企业微信」.|24|0|2021-11-11|
 |46|[citahub/re-birth](https://github.com/citahub/re-birth)|A blockchain explorer cache server for CITA|12|0|2021-10-12|
-|47|[coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp)|☯️ CoderDojo Japan (@coderdojo-japan) official website developed by Ruby on Rails with @YassLab team. 💎|53|0|2021-12-19|
+|47|[coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp)|☯️ CoderDojo Japan (@coderdojo-japan) official website developed by Ruby on Rails with @YassLab team. 💎|53|0|2021-12-24|
 |48|[algobasket/PeatioCryptoExchange](https://github.com/algobasket/PeatioCryptoExchange)|An open-source Crypto-Currency exchange. Peatio v3.0 Coming Soon !  |152|0|2021-09-27|
 |49|[janx/ruby-pinyin](https://github.com/janx/ruby-pinyin)|中文汉字转拼音,　支持中英文符号混合词语。Pinyin is a romanization system (phonemic notation) of Chinese characters, this gem helps you to convert Chinese characters into pinyin form.|526|0|2021-08-21|
 |50|[rkh/nii](https://github.com/rkh/nii)|Modern internationalization and localization solution for Ruby|19|0|2021-10-20|
@@ -63,7 +63,7 @@
 |56|[0x727/MetasploitModules_0x727](https://github.com/0x727/MetasploitModules_0x727)|Metasploit Modules Development|66|0|2021-08-06|
 |57|[npezza93/redi_search](https://github.com/npezza93/redi_search)|Ruby wrapper around RediSearch that can integrate with Rails|25|0|2021-09-15|
 |58|[ksz2k/letter_avatar](https://github.com/ksz2k/letter_avatar)|Ruby gem for creating letter avatar from user's name (or any other string :-) ).|254|0|2021-09-06|
-|59|[aozorahack/aozora2html](https://github.com/aozorahack/aozora2html)|-|13|0|2021-12-18|
+|59|[aozorahack/aozora2html](https://github.com/aozorahack/aozora2html)|-|14|0|2021-12-18|
 |60|[ankane/blingfire-ruby](https://github.com/ankane/blingfire-ruby)|High speed text tokenization for Ruby|44|0|2021-12-13|
 |61|[thierryxing/dingtalk-bot](https://github.com/thierryxing/dingtalk-bot)|钉钉自定义机器人Ruby SDK|33|0|2021-09-09|
 |62|[diylove/wiki](https://github.com/diylove/wiki)|diy万事万物的程序|17|0|2021-12-17|
@@ -79,7 +79,7 @@
 |72|[etrex/kamigo](https://github.com/etrex/kamigo)|a chatbot framework based on rails|54|0|2021-11-12|
 |73|[cyril/r_spec-clone.rb](https://github.com/cyril/r_spec-clone.rb)|A minimalist RSpec clone with all the essentials.|18|0|2021-08-04|
 |74|[mataki/dekiru](https://github.com/mataki/dekiru)|Usefull helper methods for Ruby on Rails|25|0|2021-11-02|
-|75|[bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD)|-|130|0|2021-12-21|
+|75|[bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD)|-|130|0|2021-12-24|
 |76|[chengdh/manage-huo-baby](https://github.com/chengdh/manage-huo-baby)|管货宝-功能齐备的零担(专线)物流业务平台|50|0|2021-06-10|
 |77|[wu-kan/wu-kan.github.io](https://github.com/wu-kan/wu-kan.github.io)|:sparkles: my homepage & template for jekyll-theme-WuK|191|0|2021-12-19|
 |78|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|13|0|2021-12-23|
@@ -89,7 +89,7 @@
 |82|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast and smart citation reference parsing|559|0|2021-11-28|
 |83|[coreyhaines/happinessbot](https://github.com/coreyhaines/happinessbot)|Spreading joy and love|62|0|2021-07-12|
 |84|[saberma/shopqi](https://github.com/saberma/shopqi)|An open source clone of Shopify.|810|0|2021-09-27|
-|85|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|18|0|2021-12-23|
+|85|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|18|0|2021-12-24|
 |86|[jfqd/redmine_helpdesk](https://github.com/jfqd/redmine_helpdesk)|Lightweight helpdesk plugin for redmine.|168|0|2021-12-23|
 |87|[VICTOR-LUO-F/aliyun-sms](https://github.com/VICTOR-LUO-F/aliyun-sms)|a Ruby Gem for using aliyun sms service. 一个应用阿里云短信推送服务的Ruby Gem。|65|0|2021-07-10|
 |88|[qiniu/ruby-sdk](https://github.com/qiniu/ruby-sdk)|Qiniu Resource (Cloud) Storage SDK for Ruby|161|0|2021-09-23|
@@ -103,7 +103,7 @@
 |96|[qinmingyuan/default_form](https://github.com/qinmingyuan/default_form)|moved to work-design/rails_com|14|0|2021-09-03|
 |97|[GITHZZ/UnityiOSExporter](https://github.com/GITHZZ/UnityiOSExporter)|用于Unity-iOS导出ipa的打包工具--ipa export tool for unity|15|0|2021-07-10|
 |98|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|10|0|2021-10-29|
-|99|[githubmaidou/tools](https://github.com/githubmaidou/tools)|Python渗透漏洞工具|232|0|2021-12-23|
+|99|[githubmaidou/tools](https://github.com/githubmaidou/tools)|Python渗透漏洞工具|234|0|2021-12-23|
 |100|[hlcfan/pokr](https://github.com/hlcfan/pokr)|Make agile estimating and planning easy with our online planning or scrum poker tool|49|0|2021-10-12|
 
 <div align="center">
