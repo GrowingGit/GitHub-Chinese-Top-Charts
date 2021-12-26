@@ -1,12 +1,12 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 资料类 > Kotlin
-<sub>数据更新: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[compose-museum/hello-compose](https://github.com/compose-museum/hello-compose)|Jetpack Compose 基础教程，持续更新|488|2021-12-23|2021-04-03|
-|2|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|476|2021-12-05|2021-02-05|
+|1|[compose-museum/hello-compose](https://github.com/compose-museum/hello-compose)|Jetpack Compose 基础教程，持续更新|489|2021-12-23|2021-04-03|
+|2|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|478|2021-12-05|2021-02-05|
 |3|[miaowmiaow/fragmject](https://github.com/miaowmiaow/fragmject)|真正的入门级的项目，通过对Kotlin和Jetpack全家桶的系统运用，实现的一个功能完备符合主流市场标准App。 一个代码够简单，内容够全面，知识够详细，能让你快速上手的项目，对理解其他项目设计思想和封装技巧也很有帮助。项目结构清晰，代码简洁优雅。|251|2021-12-21|2021-05-06|
 |4|[blindmonk/WanArchitecture](https://github.com/blindmonk/WanArchitecture)|汇聚了业界知名架构文章。从建筑学的知识中得到一些对架构的思考，并以架构设计原则和目的对Jetpack MVVM 重新构造！|190|2021-06-17|2021-05-11|
 |5|[biubiuqiu0/flow-event-bus](https://github.com/biubiuqiu0/flow-event-bus)|EventBus for Android，消息总线，基于SharedFlow，具有生命周期感知能力，支持Sticky，支持线程切换，支持延迟发送。|85|2021-08-18|2021-07-15|
@@ -19,8 +19,8 @@
 |12|[JiaYang627/QuickAndroid](https://github.com/JiaYang627/QuickAndroid)|:octocat:使用Kotlin搭建的一个基础框架。目的旨在学习Kotlin，更好的从Java过渡到Kotlin，并且针对此项目编写了一键生成页面插件。具体可看README:book:|11|2021-12-15|2021-12-01|
 |13|[Edsuns/Star](https://github.com/Edsuns/Star)|超星学习通签到助手（使用JetpackCompose开发）|11|2021-10-28|2021-06-23|
 |14|[qdsfdhvh/demo-base-layout](https://github.com/qdsfdhvh/demo-base-layout)|基于Drakeet分享的自定义ViewGroup思路，编写的demo|10|2021-09-16|2021-05-16|
-|15|[anyRTC-UseCase/StudyLive](https://github.com/anyRTC-UseCase/StudyLive)|StudyLive是anyRTC开发的示例项目，演示了如何通过anyRTC云服务，配合anyRTC RTC SDK、anyRTC RTM SDK、anyRTC播放插件，实现在线自习室的场景。|9|2021-12-14|2021-08-27|
-|16|[Iseason2000/DeEnchantment](https://github.com/Iseason2000/DeEnchantment)|负魔书|9|2021-12-06|2021-03-12|
+|15|[Iseason2000/DeEnchantment](https://github.com/Iseason2000/DeEnchantment)|负魔书|10|2021-12-06|2021-03-12|
+|16|[anyRTC-UseCase/StudyLive](https://github.com/anyRTC-UseCase/StudyLive)|StudyLive是anyRTC开发的示例项目，演示了如何通过anyRTC云服务，配合anyRTC RTC SDK、anyRTC RTM SDK、anyRTC播放插件，实现在线自习室的场景。|9|2021-12-14|2021-08-27|
 |17|[ShiSheng233/Open2Share-Kotlin](https://github.com/ShiSheng233/Open2Share-Kotlin)|使用Kotlin重制的Open2Share|8|2021-10-17|2021-05-22|
 |18|[zhujiang521/ComposeBookSource](https://github.com/zhujiang521/ComposeBookSource)|《Jetpack Compose：Android全新UI编程》全书源代码|7|2021-12-21|2021-07-29|
 |19|[HuRuWo/WeChat8Xposed](https://github.com/HuRuWo/WeChat8Xposed)|WeChat8Xposed 是 WechatSpellbook的衍生项目 适配最新的微信 原Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架，底层需要 Xposed 或 VirtualXposed 等Hooking框架的支持，而顶层可以轻松对接Java、Kotlin、Scala等JVM系语言。让程序员能够在几分钟内编写出简单的微信插件，随意揉捏微信的内部逻辑。|7|2021-09-12|2021-06-19|

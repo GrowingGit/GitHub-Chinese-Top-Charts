@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Pascal
-<sub>数据更新: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[GerryFerdinandus/bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor)|Software for add or remove tracker from torrent files.|392|2021-12-03|
 |3|[royqh1979/Dev-CPP](https://github.com/royqh1979/Dev-CPP)|A lightweighted C/C++ IDE|296|2021-10-03|
 |4|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|258|2021-12-23|
-|5|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|231|2021-12-24|
+|5|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|231|2021-12-25|
 |6|[PassByYou888/ZServer4D](https://github.com/PassByYou888/ZServer4D)|ZServer4D 是一套从商业项目剥离而出的云服务器中间件，可以承载百万级的分布式负载服务，并且支持IoT及内网穿透|226|2021-11-06|
 |7|[ymofen/diocp-v5](https://github.com/ymofen/diocp-v5)|delphi iocp, http, websocket, ntrip|204|2021-11-16|
 |8|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|192|2021-12-06|
@@ -18,7 +18,7 @@
 |11|[59079096/HCView-Pascal](https://github.com/59079096/HCView-Pascal)|A control similar to Word or WPS(一个类似word或wps用于文字排版相关功能的控件)|65|2021-12-19|
 |12|[PassByYou888/zAI](https://github.com/PassByYou888/zAI)|zAI是机器视觉的人工智能方向项目|59|2021-06-21|
 |13|[ying32/liblcl](https://github.com/ying32/liblcl)|A common cross-platform GUI library, the core uses Lazarus LCL.|57|2021-10-31|
-|14|[laciba96/WinBox-for-86Box](https://github.com/laciba96/WinBox-for-86Box)|WinBox for 86Box: The newest way to manage the oldest computers.|55|2021-12-24|
+|14|[laciba96/WinBox-for-86Box](https://github.com/laciba96/WinBox-for-86Box)|WinBox for 86Box: The newest way to manage the oldest computers.|56|2021-12-25|
 |15|[supersoho/Delphi-DirectUI](https://github.com/supersoho/Delphi-DirectUI)|Delphi DirectUI Controls|49|2021-08-23|
 |16|[59079096/emr](https://github.com/59079096/emr)|基于HCView开发的电子病历程序|37|2021-09-12|
 |17|[PassByYou888/zExpression](https://github.com/PassByYou888/zExpression)|脚本与编译器内部的语法引擎内核，也是一种op内核，zExpression可以轻松实现自己的脚本引擎|37|2021-09-21|

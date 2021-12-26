@@ -1,25 +1,25 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Kotlin
-<sub>数据更新: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|26650|2021-11-10|
-|2|[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool)|Android开发人员不得不收集的工具类集合   支付宝支付   微信支付（统一下单）   微信分享   Zip4j压缩（支持分卷压缩与加密）   一键集成UCrop选择圆形头像   一键集成二维码和条形码的扫描与生成   常用Dialog   WebView的封装可播放视频   仿斗鱼滑动验证码   Toast封装   震动   GPS   Location定位   图片缩放   Exif 图片 ...|11574|2021-12-11|
+|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|26651|2021-11-10|
+|2|[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool)|Android开发人员不得不收集的工具类集合   支付宝支付   微信支付（统一下单）   微信分享   Zip4j压缩（支持分卷压缩与加密）   一键集成UCrop选择圆形头像   一键集成二维码和条形码的扫描与生成   常用Dialog   WebView的封装可播放视频   仿斗鱼滑动验证码   Toast封装   震动   GPS   Location定位   图片缩放   Exif 图片 ...|11575|2021-12-11|
 |3|[CarGuo/GSYGithubAppKotlin](https://github.com/CarGuo/GSYGithubAppKotlin)|超完整的Android Kotlin 项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：目前已经拥有Flutter、Weex、ReactNative、Kotlin四个版本。 功能齐全，项目框架内技术涉及面广，完成度高。开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本：  ...|1154|2021-09-04|
 |4|[qingmei2/RxImagePicker](https://github.com/qingmei2/RxImagePicker)|:rocket:RxJava2 and RxJava3 external support. Android flexible picture selector, provides the support for theme of Zhihu and WeChat (灵活的Android图片选择器，提供了知乎和微信主题的支持）.|1134|2021-10-13|
 |5|[mCyp/Hoo](https://github.com/mCyp/Hoo)|🚀 Android Jetpack系列组件实战案例，配上专栏学习更轻松~|991|2021-08-15|
 |6|[adisonhuang/awesome-kotlin-android](https://github.com/adisonhuang/awesome-kotlin-android)|🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源|829|2021-10-19|
-|7|[AllanWang/Frost-for-Facebook](https://github.com/AllanWang/Frost-for-Facebook)|An extensive and functional third party app for Facebook|686|2021-11-24|
-|8|[eprendre/tingshu](https://github.com/eprendre/tingshu)|一款可在线播放多个免费听书站点的安卓app|496|2021-12-06|
-|9|[compose-museum/hello-compose](https://github.com/compose-museum/hello-compose)|Jetpack Compose 基础教程，持续更新|488|2021-12-23|
-|10|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|476|2021-12-05|
+|7|[AllanWang/Frost-for-Facebook](https://github.com/AllanWang/Frost-for-Facebook)|An extensive and functional third party app for Facebook|687|2021-11-24|
+|8|[eprendre/tingshu](https://github.com/eprendre/tingshu)|一款可在线播放多个免费听书站点的安卓app|497|2021-12-06|
+|9|[compose-museum/hello-compose](https://github.com/compose-museum/hello-compose)|Jetpack Compose 基础教程，持续更新|489|2021-12-23|
+|10|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|478|2021-12-05|
 |11|[crazyandcoder/blog_backups](https://github.com/crazyandcoder/blog_backups)|Android 项目优化、面试题集，包含Android、Java、数据结构、算法、个人blog备份等。|429|2021-07-22|
 |12|[hi-dhl/Leetcode-Solutions-with-Java-And-Kotlin](https://github.com/hi-dhl/Leetcode-Solutions-with-Java-And-Kotlin)|LeetCode 系列题解, 在线阅读 https://offer.hi-dhl.com|339|2021-09-13|
 |13|[androidmalin/AndroidComponentPlugin](https://github.com/androidmalin/AndroidComponentPlugin)|Android上简单实现四大组件的插件化，供学习使用|339|2021-12-19|
 |14|[smashinggit/Study](https://github.com/smashinggit/Study)|记录学习过程中的demo及博客|337|2021-08-16|
-|15|[kukyxs/CoroutinesWanAndroid](https://github.com/kukyxs/CoroutinesWanAndroid)|超完整的「玩 Android」客户端，项目采用 MVVM, Android Jetpack, Retrofit, Kotlin 协程, Koin 编写。如果该项目对你学习过程有用，请给个 star，感谢|295|2021-09-29|
+|15|[kukyxs/CoroutinesWanAndroid](https://github.com/kukyxs/CoroutinesWanAndroid)|超完整的「玩 Android」客户端，项目采用 MVVM, Android Jetpack, Retrofit, Kotlin 协程, Koin 编写。如果该项目对你学习过程有用，请给个 star，感谢|296|2021-09-29|
 |16|[hanjoongcho/aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary)|:blue_book: A diary application optimized for user experience.|273|2021-12-22|
 |17|[benhero/GLStudio](https://github.com/benhero/GLStudio)|OpenGL基础入门|256|2021-07-26|
 |18|[miaowmiaow/fragmject](https://github.com/miaowmiaow/fragmject)|真正的入门级的项目，通过对Kotlin和Jetpack全家桶的系统运用，实现的一个功能完备符合主流市场标准App。 一个代码够简单，内容够全面，知识够详细，能让你快速上手的项目，对理解其他项目设计思想和封装技巧也很有帮助。项目结构清晰，代码简洁优雅。|251|2021-12-21|
@@ -34,7 +34,7 @@
 |27|[biubiuqiu0/flow-event-bus](https://github.com/biubiuqiu0/flow-event-bus)|EventBus for Android，消息总线，基于SharedFlow，具有生命周期感知能力，支持Sticky，支持线程切换，支持延迟发送。|85|2021-08-18|
 |28|[AoEiuV020/PaNovel](https://github.com/AoEiuV020/PaNovel)|我们不生产小说，我们只做网站的搬运工，|83|2021-12-24|
 |29|[lelelongwang/WanJetpack](https://github.com/lelelongwang/WanJetpack)|💪 持续更新。WanJetpack使用Jetpack MVVM开发架构、单Activity多Fragment设计，项目结构清晰，代码简洁优雅，追求最官方的实现方式。欢迎star，非常感谢。已用到知识点：LiveData、ViewModel、DataBinding、ViewBinding、coroutines、Hilt、Paging3、Room、Navigation、TabLayout、Bottom ...|81|2021-08-07|
-|30|[aqi00/kotlin](https://github.com/aqi00/kotlin)|《Kotlin从零到精通Android开发》附录源码|73|2021-07-30|
+|30|[aqi00/kotlin](https://github.com/aqi00/kotlin)|《Kotlin从零到精通Android开发》附录源码|74|2021-07-30|
 |31|[kongpf8848/ViewWorld](https://github.com/kongpf8848/ViewWorld)|自定义View合集，展示各种自定义View/控件。项目包含了自定义Banner轮播图控件，自定义验证码输入框，自定义TabLayout等控件，持续更新中:wink::wink::wink:|64|2021-08-17|
 |32|[yunshuipiao/Potato](https://github.com/yunshuipiao/Potato)|Read the fucking source code for the Android  interview|60|2021-11-07|
 |33|[yechaoa/YUtils](https://github.com/yechaoa/YUtils)|Android快速开发工具集合——YUtils，同时支持java和kotlin|54|2021-10-16|
@@ -56,13 +56,13 @@
 |49|[JiaYang627/QuickAndroid](https://github.com/JiaYang627/QuickAndroid)|:octocat:使用Kotlin搭建的一个基础框架。目的旨在学习Kotlin，更好的从Java过渡到Kotlin，并且针对此项目编写了一键生成页面插件。具体可看README:book:|11|2021-12-15|
 |50|[Edsuns/Star](https://github.com/Edsuns/Star)|超星学习通签到助手（使用JetpackCompose开发）|11|2021-10-28|
 |51|[qdsfdhvh/demo-base-layout](https://github.com/qdsfdhvh/demo-base-layout)|基于Drakeet分享的自定义ViewGroup思路，编写的demo|10|2021-09-16|
-|52|[HMS-Core/hms-image-vision-kotlin](https://github.com/HMS-Core/hms-image-vision-kotlin)|This sample code is to guide the developer how to integrate the Image Vision Sub-service of the Image Kit, calling the image filter function. This sub-service provides 24 unique filter effects to enha ...|10|2021-07-26|
-|53|[HMS-Core/hms-safetydetect-demo-kotlin](https://github.com/HMS-Core/hms-safetydetect-demo-kotlin)|SafetyDetect Sample provides many sample programs for your reference or usage.This example demonstrates how to integrate services provided by Safetydetect Kit, such as APPchecks, URLcheck, Userdetect, ...|10|2021-08-24|
-|54|[knight-kk/knight_blog_demo](https://github.com/knight-kk/knight_blog_demo)| 博客中 demo ，博客地址 https://blog.csdn.net/knight1996/|10|2021-12-21|
-|55|[zsqw123/SUESjxxt](https://github.com/zsqw123/SUESjxxt)|上海工程技术大学教学系统课程表转日程表|10|2021-06-13|
-|56|[collaction/freehkkai-android](https://github.com/collaction/freehkkai-android)|只需在 App 內用慣常的輸入法輸入中文字，就可以看到「自由香港楷書」(該字根據香港教育局出版《常用字字形表》2007年版定義) 的參考寫法。|10|2021-08-26|
-|57|[anyRTC-UseCase/StudyLive](https://github.com/anyRTC-UseCase/StudyLive)|StudyLive是anyRTC开发的示例项目，演示了如何通过anyRTC云服务，配合anyRTC RTC SDK、anyRTC RTM SDK、anyRTC播放插件，实现在线自习室的场景。|9|2021-12-14|
-|58|[Iseason2000/DeEnchantment](https://github.com/Iseason2000/DeEnchantment)|负魔书|9|2021-12-06|
+|52|[Iseason2000/DeEnchantment](https://github.com/Iseason2000/DeEnchantment)|负魔书|10|2021-12-06|
+|53|[HMS-Core/hms-image-vision-kotlin](https://github.com/HMS-Core/hms-image-vision-kotlin)|This sample code is to guide the developer how to integrate the Image Vision Sub-service of the Image Kit, calling the image filter function. This sub-service provides 24 unique filter effects to enha ...|10|2021-07-26|
+|54|[HMS-Core/hms-safetydetect-demo-kotlin](https://github.com/HMS-Core/hms-safetydetect-demo-kotlin)|SafetyDetect Sample provides many sample programs for your reference or usage.This example demonstrates how to integrate services provided by Safetydetect Kit, such as APPchecks, URLcheck, Userdetect, ...|10|2021-08-24|
+|55|[knight-kk/knight_blog_demo](https://github.com/knight-kk/knight_blog_demo)| 博客中 demo ，博客地址 https://blog.csdn.net/knight1996/|10|2021-12-21|
+|56|[zsqw123/SUESjxxt](https://github.com/zsqw123/SUESjxxt)|上海工程技术大学教学系统课程表转日程表|10|2021-06-13|
+|57|[collaction/freehkkai-android](https://github.com/collaction/freehkkai-android)|只需在 App 內用慣常的輸入法輸入中文字，就可以看到「自由香港楷書」(該字根據香港教育局出版《常用字字形表》2007年版定義) 的參考寫法。|10|2021-08-26|
+|58|[anyRTC-UseCase/StudyLive](https://github.com/anyRTC-UseCase/StudyLive)|StudyLive是anyRTC开发的示例项目，演示了如何通过anyRTC云服务，配合anyRTC RTC SDK、anyRTC RTM SDK、anyRTC播放插件，实现在线自习室的场景。|9|2021-12-14|
 |59|[HMS-Core/hms-image-render-kotlin](https://github.com/HMS-Core/hms-image-render-kotlin)|This sample code is to guide the developer how to integrate the Image Render Sub-service in the Image Kit, achieving a variety of effects design. This sub-service provides 5 basic animations and 9 adv ...|9|2021-07-26|
 |60|[ShiSheng233/Open2Share-Kotlin](https://github.com/ShiSheng233/Open2Share-Kotlin)|使用Kotlin重制的Open2Share|8|2021-10-17|
 |61|[yongjiu8/yjys](https://github.com/yongjiu8/yjys)|永久影视app，kotlin学习，安卓新手练习项目，影视项目，安卓练习项目，安卓新手学习参考项目|8|2021-09-08|

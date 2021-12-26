@@ -1,20 +1,20 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[xiaodaigh/disk.frame](https://github.com/xiaodaigh/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|567|2021-09-15|
 |2|[pzhaonet/mindr](https://github.com/pzhaonet/mindr)|an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms)|540|2021-11-22|
 |3|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|492|2021-12-19|
-|4|[GuangchuangYu/nCov2019](https://github.com/GuangchuangYu/nCov2019)|query stats of infected coronavirus cases|425|2021-06-10|
-|5|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|2021-12-24|
+|4|[GuangchuangYu/nCov2019](https://github.com/GuangchuangYu/nCov2019)|query stats of infected coronavirus cases|426|2021-06-10|
+|5|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|2021-12-25|
 |6|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|345|2021-12-23|
 |7|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|217|2021-12-20|
 |8|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|161|2021-12-19|
 |9|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|148|2021-10-10|
-|10|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|144|2021-12-24|
+|10|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|144|2021-12-25|
 |11|[hrbrmstr/docxtractr](https://github.com/hrbrmstr/docxtractr)|:scissors: Extract Tables from Microsoft Word Documents with R|144|2021-10-02|
 |12|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|131|2021-11-28|
 |13|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|109|2021-12-22|
@@ -26,9 +26,9 @@
 |19|[lilywang1988/eSIR](https://github.com/lilywang1988/eSIR)|Extended state-space SIR epidemiological models|63|2021-11-08|
 |20|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|62|2021-09-15|
 |21|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|59|2021-12-21|
-|22|[jmzeng1314/AnnoProbe](https://github.com/jmzeng1314/AnnoProbe)|-|58|2021-08-01|
-|23|[ykang/gratis](https://github.com/ykang/gratis)|GRATIS: GeneRAting TIme Series with diverse and controllable characteristics|58|2021-12-22|
-|24|[hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|54|2021-12-21|
+|22|[ykang/gratis](https://github.com/ykang/gratis)|GRATIS: GeneRAting TIme Series with diverse and controllable characteristics|59|2021-12-22|
+|23|[jmzeng1314/AnnoProbe](https://github.com/jmzeng1314/AnnoProbe)|-|58|2021-08-01|
+|24|[hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|55|2021-12-21|
 |25|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/|49|2021-12-13|
 |26|[reconverse/outbreaks](https://github.com/reconverse/outbreaks)|outbreaks: an R package compiling disease outbreak data|48|2021-08-06|
 |27|[harryprince/geospark](https://github.com/harryprince/geospark)|bring sf to spark in production|46|2021-12-13|
@@ -67,7 +67,7 @@
 |60|[pzhaonet/beginr](https://github.com/pzhaonet/beginr)|an R package for beginners|15|2021-12-03|
 |61|[r-stata/hotkeys](https://github.com/r-stata/hotkeys)|自定义 RStudio 快捷键！|14|2021-07-29|
 |62|[justinchuntingho/songotsti](https://github.com/justinchuntingho/songotsti)|A Package for Cantonese Tokenisation|13|2021-06-17|
-|63|[fragla/eq5d](https://github.com/fragla/eq5d)|-|13|2021-11-22|
+|63|[fragla/eq5d](https://github.com/fragla/eq5d)|-|13|2021-12-25|
 |64|[datasketch/shi18ny](https://github.com/datasketch/shi18ny)|-|13|2021-06-10|
 |65|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|12|2021-11-26|
 |66|[Hong-Kong-Districts-Info/hkdatasets](https://github.com/Hong-Kong-Districts-Info/hkdatasets)|Datasets relating to Hong Kong|12|2021-09-04|
@@ -79,7 +79,7 @@
 |72|[helixcn/spaa](https://github.com/helixcn/spaa)|Miscellaneous functions for analysis of species association and niche overlap|10|2021-08-12|
 |73|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|10|2021-11-26|
 |74|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|9|2021-09-25|
-|75|[majianthu/aps2020](https://github.com/majianthu/aps2020)|Code for the paper 'Variable Selection with Copula Entropy' published on Chinese Journal of Applied Probability and Statistics|8|2021-12-21|
+|75|[majianthu/aps2020](https://github.com/majianthu/aps2020)|Code for the paper 'Variable Selection with Copula Entropy' published on Chinese Journal of Applied Probability and Statistics|8|2021-12-25|
 |76|[DongqiangZeng0808/Blasso](https://github.com/DongqiangZeng0808/Blasso)|Integrating LASSO and bootstrapping algorithm to find best prognostic or predictive biomarkers|8|2021-10-26|
 |77|[esowc/UNSEEN-open](https://github.com/esowc/UNSEEN-open)|An open, reproducible and transferable workflow to assess and anticipate climate extremes beyond the observed record|8|2021-09-14|
 |78|[dazamora/DWBmodelUN](https://github.com/dazamora/DWBmodelUN)|R native implementation of the Dynamic Water Balance hydrologic model in a monthly time step |8|2021-09-29|

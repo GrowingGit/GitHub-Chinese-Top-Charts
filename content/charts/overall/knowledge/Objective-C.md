@@ -1,14 +1,14 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Objective-C
-<sub>数据更新: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[pujiaxin33/JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)|A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|5571|2021-10-25|
-|2|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4636|2021-12-07|
+|2|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4637|2021-12-07|
 |3|[skyming/iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)|关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit|4343|2021-08-09|
-|4|[liberalisman/iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection)|iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。|2925|2021-06-09|
+|4|[liberalisman/iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection)|iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。|2926|2021-06-09|
 |5|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2320|2021-12-16|
 |6|[objccn/articles](https://github.com/objccn/articles)|Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本|2086|2021-11-02|
 |7|[SunshineBrother/JHBlog](https://github.com/SunshineBrother/JHBlog)|iOS开发：我的初级到中级的晋级之路|1185|2021-07-29|
@@ -28,7 +28,7 @@
 |21|[kevindcw/DNebula](https://github.com/kevindcw/DNebula)|模仿SOUL布局，写的一个笔记类应用|130|2021-10-08|
 |22|[rabbitmouse/ZQSearchController](https://github.com/rabbitmouse/ZQSearchController)|Search，SearchBar,  仿《饿了么》搜索栏。自定义搜索结果界面。搜索主页、模糊匹配、结果界面之间的状态切换。支持搜索历史和热门设置|125|2021-06-02|
 |23|[muzipiao/OOB](https://github.com/muzipiao/OOB)|基于 OpenCV，使用模板匹配法识别图像，供参考学习。|123|2021-11-08|
-|24|[tianya2416/GKiOSNovel](https://github.com/tianya2416/GKiOSNovel)|Swift、小说、小说阅读、读书神器、自定义首页、千万部小说任你选择、数据缓存|96|2021-11-28|
+|24|[tianya2416/GKiOSNovel](https://github.com/tianya2416/GKiOSNovel)|Swift、小说、小说阅读、读书神器、自定义首页、千万部小说任你选择、数据缓存|97|2021-11-28|
 |25|[bytesking/YJCategories](https://github.com/bytesking/YJCategories)|Objective-C 常用分类集合，支持Cocoapods|88|2021-06-15|
 |26|[kopuCoder/iOS_Development-Book](https://github.com/kopuCoder/iOS_Development-Book)|适合iOS中高级开发工程狮提升个人能力业务水平的书籍|78|2021-11-01|
 |27|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|63|2021-12-20|

@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > TeX
-<sub>数据更新: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[jamesfang8499/physics1](https://github.com/jamesfang8499/physics1)|-|76|2021-12-17|2021-07-15|
 |3|[Didnelpsun/Math](https://github.com/Didnelpsun/Math)|考研数学，数学一，包括高等数学、线性代数、概率统计|76|2021-12-11|2021-01-08|
 |4|[LogCreative/SJTUBeamermin](https://github.com/LogCreative/SJTUBeamermin)|上海交通大学 LaTeX Beamer 幻灯片模板 - VI 最小工作集|57|2021-11-05|2021-03-15|
-|5|[HFUTTUG/HFUT_Thesis](https://github.com/HFUTTUG/HFUT_Thesis)|LaTeX Thesis Template for Hefei University of Technology|38|2021-08-31|2021-05-17|
+|5|[HFUTTUG/HFUT_Thesis](https://github.com/HFUTTUG/HFUT_Thesis)|LaTeX Thesis Template for Hefei University of Technology|39|2021-08-31|2021-05-17|
 |6|[jamesfang8499/physics3](https://github.com/jamesfang8499/physics3)|-|30|2021-12-17|2021-07-15|
 |7|[jamesfang8499/physics2](https://github.com/jamesfang8499/physics2)|-|28|2021-12-17|2021-07-15|
 |8|[liziwl/sustech-master-reports](https://github.com/liziwl/sustech-master-reports)|南方科技大学硕士开题报告、年度考核报告 （中/英）|21|2021-12-16|2021-05-18|
@@ -30,7 +30,7 @@
 |23|[syvshc/tlmgr-intro-zh-cn](https://github.com/syvshc/tlmgr-intro-zh-cn)|关于 tlmgr 使用的简短的介绍. :heart:|7|2021-09-05|2021-03-06|
 |24|[wenddymacro/AppliedEconometrics](https://github.com/wenddymacro/AppliedEconometrics)|Stata、计量经济学、DSGE|6|2021-10-28|2021-08-29|
 |25|[yzhangcs/master-thesis](https://github.com/yzhangcs/master-thesis)|基于树形条件随机场的高阶句法分析|6|2021-12-24|2021-02-01|
-|26|[nju-lug/NJUVisual](https://github.com/nju-lug/NJUVisual)|实现南京大学标准配色方案和标识|5|2021-12-14|2021-11-21|
+|26|[nju-lug/NJUVisual](https://github.com/nju-lug/NJUVisual)|实现南京大学标准配色方案和标识|5|2021-12-25|2021-11-21|
 |27|[guoclay/interesting-project](https://github.com/guoclay/interesting-project)|一些有趣的项目|5|2021-09-30|2021-09-28|
 |28|[DeepAlchemist/CASIAPreThesis](https://github.com/DeepAlchemist/CASIAPreThesis)|中科院自动化所博士中期考核 LaTeX 模板|5|2021-06-02|2021-06-02|
 |29|[xiyie/UPC_LATEX_TEMPLATE](https://github.com/xiyie/UPC_LATEX_TEMPLATE)|中国石油大学（华东）控制科学与工程学院课题模板（不保证通用）|4|2021-10-01|2021-09-29|
@@ -38,7 +38,7 @@
 |31|[axi-0925/Latex-](https://github.com/axi-0925/Latex-)|Latex中文简历，overleaf直接copy进行编辑|4|2021-06-19|2021-06-19|
 |32|[quaeast/BjfuLatexTemplate](https://github.com/quaeast/BjfuLatexTemplate)|北京林业大学毕设模板2021|4|2021-06-03|2021-04-29|
 |33|[GeeLaw/laomian](https://github.com/GeeLaw/laomian)|老面 (sourdough, lit. "old dough") is used as the starter for fermenting dough. This repository contains my digital 老面.|4|2021-12-08|2021-01-12|
-|34|[LLLgoyour/Handout](https://github.com/LLLgoyour/Handout)|王一老师上课配套的讲义|3|2021-12-19|2021-11-20|
+|34|[LLLgoyour/Handout](https://github.com/LLLgoyour/Handout)|王一老师上课配套的讲义|3|2021-12-25|2021-11-20|
 |35|[jiajunfanthu/NKU_Thisis](https://github.com/jiajunfanthu/NKU_Thisis)|南开人工智能学院毕业设计模板|3|2021-09-26|2021-09-26|
 |36|[Pavinberg/Journal-of-Computers-template](https://github.com/Pavinberg/Journal-of-Computers-template)|计算机学报 LaTeX 模板|3|2021-07-11|2021-07-11|
 |37|[hoganbin/Analysis-of-Mathematics-Competition](https://github.com/hoganbin/Analysis-of-Mathematics-Competition)|本文档是利用了latex中pdfpages包进行文档合并，包括了2009-2020年从第一届数学竞赛到第十二届所有预赛试题解析|3|2021-06-27|2021-06-27|

@@ -1,43 +1,43 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > C++
-<sub>数据更新: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[oceanbase/oceanbase](https://github.com/oceanbase/oceanbase)|OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.|4022|2021-12-24|2021-05-31|
-|2|[kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)|Universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.|1827|2021-12-24|2021-01-13|
-|3|[Tencent/flare](https://github.com/Tencent/flare)| Flare是广泛投产于腾讯广告后台的现代化C++开发框架，包含了基础库、RPC、各种客户端等。主要特点为易用性强、长尾延迟低。 |823|2021-12-24|2021-05-26|
+|1|[oceanbase/oceanbase](https://github.com/oceanbase/oceanbase)|OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.|4023|2021-12-24|2021-05-31|
+|2|[kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)|Universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.|1832|2021-12-24|2021-01-13|
+|3|[Tencent/flare](https://github.com/Tencent/flare)| Flare是广泛投产于腾讯广告后台的现代化C++开发框架，包含了基础库、RPC、各种客户端等。主要特点为易用性强、长尾延迟低。 |826|2021-12-24|2021-05-26|
 |4|[tuplex/tuplex](https://github.com/tuplex/tuplex)|Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather  ...|744|2021-12-16|2021-06-30|
 |5|[openppl-public/ppl.nn](https://github.com/openppl-public/ppl.nn)|A primitive library for neural network|615|2021-12-24|2021-06-30|
 |6|[Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt)|Everything 拼音搜索、快速选择扩展|611|2021-12-17|2021-09-18|
 |7|[shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro)|C++ library based on tensorrt integration|520|2021-12-15|2021-07-26|
 |8|[Tencent/Forward](https://github.com/Tencent/Forward)|A library for high performance deep learning inference on NVIDIA GPUs. |478|2021-11-30|2021-03-11|
 |9|[anhkgg/SuperRDP](https://github.com/anhkgg/SuperRDP)|Super RDPWrap|476|2021-12-21|2021-01-10|
-|10|[HackerDev-Felix/WechatDecrypt](https://github.com/HackerDev-Felix/WechatDecrypt)|微信消息解密工具|388|2021-07-12|2021-07-12|
-|11|[Tencent/Taitank](https://github.com/Tencent/Taitank)|Taitank is a cross platform lightweight flex layout engine implemented in C++.|383|2021-07-21|2021-04-12|
-|12|[zenustech/zeno](https://github.com/zenustech/zeno)|ZEn NOde system|346|2021-12-24|2021-03-27|
+|10|[HackerDev-Felix/WechatDecrypt](https://github.com/HackerDev-Felix/WechatDecrypt)|微信消息解密工具|389|2021-07-12|2021-07-12|
+|11|[Tencent/Taitank](https://github.com/Tencent/Taitank)|Taitank is a cross platform lightweight flex layout engine implemented in C++.|384|2021-07-21|2021-04-12|
+|12|[zenustech/zeno](https://github.com/zenustech/zeno)|ZEn NOde system|347|2021-12-25|2021-03-27|
 |13|[0x727/SqlKnife_0x727](https://github.com/0x727/SqlKnife_0x727)|适合在命令行中使用的轻巧的SQL Server数据库安全检测工具|327|2021-10-23|2021-08-02|
-|14|[vczh/GacUIBlog](https://github.com/vczh/GacUIBlog)|记录 GacUI 开发10年来背后的故事，以及对架构设计的考量。|316|2021-12-20|2021-05-26|
+|14|[vczh/GacUIBlog](https://github.com/vczh/GacUIBlog)|记录 GacUI 开发10年来背后的故事，以及对架构设计的考量。|317|2021-12-20|2021-05-26|
 |15|[peng-zhihui/Ctrl-FOC-Lite](https://github.com/peng-zhihui/Ctrl-FOC-Lite)|-|313|2021-08-07|2021-08-07|
 |16|[wdhao/tensorrtCV](https://github.com/wdhao/tensorrtCV)|-|306|2021-08-11|2021-05-29|
-|17|[ToanTech/Deng-s-foc-controller](https://github.com/ToanTech/Deng-s-foc-controller)|灯哥开源 FOC 双路迷你无刷电机驱动|297|2021-12-23|2021-02-14|
+|17|[ToanTech/Deng-s-foc-controller](https://github.com/ToanTech/Deng-s-foc-controller)|灯哥开源 FOC 双路迷你无刷电机驱动|298|2021-12-23|2021-02-14|
 |18|[Tencent/ScriptX](https://github.com/Tencent/ScriptX)|A versatile script engine abstraction layer.|294|2021-12-19|2021-03-19|
-|19|[flomesh-io/pipy](https://github.com/flomesh-io/pipy)|Pipy is a tiny, high performance, highly stable, programmable proxy.|289|2021-12-16|2021-02-11|
+|19|[flomesh-io/pipy](https://github.com/flomesh-io/pipy)|Pipy is a tiny, high performance, highly stable, programmable proxy.|289|2021-12-25|2021-02-11|
 |20|[Tencent/deepx_core](https://github.com/Tencent/deepx_core)|deepx_core是一个专注于张量计算/深度学习的基础库|288|2021-07-06|2021-03-24|
-|21|[MistEO/MeoAssistantArknights](https://github.com/MistEO/MeoAssistantArknights)|明日方舟助手，自动刷图、智能基建换班，全日常一键长草！|281|2021-12-24|2021-07-09|
-|22|[Soreepeong/XivAlexander](https://github.com/Soreepeong/XivAlexander)|Double weave on high latency, and mishmash of modding tools - especially for fonts and internationalization for Final Fantasy XIV.|273|2021-12-24|2021-02-08|
+|21|[MistEO/MeoAssistantArknights](https://github.com/MistEO/MeoAssistantArknights)|明日方舟助手，自动刷图、智能基建换班，全日常一键长草！|286|2021-12-25|2021-07-09|
+|22|[Soreepeong/XivAlexander](https://github.com/Soreepeong/XivAlexander)|Double weave on high latency, and mishmash of modding tools - especially for fonts and internationalization for Final Fantasy XIV.|274|2021-12-25|2021-02-08|
 |23|[ZhuYanzhen1/miniFOC](https://github.com/ZhuYanzhen1/miniFOC)|你还在为有刷电机的高噪声、低响应速度和低寿命而烦恼吗？这个项目是一个20块钱就能搞定的FOC无刷电机控制方案！This project is a FOC (Field Oriented Control) BLDC Motor control scheme that can be done for 3$!|266|2021-11-08|2021-08-13|
-|24|[RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR)|A cross platform OCR Library based on PaddleOCR & OnnxRuntime|253|2021-12-24|2021-01-04|
-|25|[mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader)|Media Downloader is a Qt/C++ front end to youtube-dl|244|2021-12-24|2021-01-18|
-|26|[ToKiNoBug/SlopeCraft](https://github.com/ToKiNoBug/SlopeCraft)|Get your map pixel art in minecraft|218|2021-12-19|2021-04-25|
-|27|[MiRoboticsLab/cyberdog_ros2](https://github.com/MiRoboticsLab/cyberdog_ros2)|ROS 2 packages for CyberDog|217|2021-12-23|2021-09-15|
+|24|[RapidAI/RapidOCR](https://github.com/RapidAI/RapidOCR)|A cross platform OCR Library based on PaddleOCR & OnnxRuntime|255|2021-12-24|2021-01-04|
+|25|[mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader)|Media Downloader is a Qt/C++ front end to youtube-dl|244|2021-12-25|2021-01-18|
+|26|[MiRoboticsLab/cyberdog_ros2](https://github.com/MiRoboticsLab/cyberdog_ros2)|ROS 2 packages for CyberDog|218|2021-12-23|2021-09-15|
+|27|[ToKiNoBug/SlopeCraft](https://github.com/ToKiNoBug/SlopeCraft)|Get your map pixel art in minecraft|218|2021-12-19|2021-04-25|
 |28|[bifang-fyh/bifang](https://github.com/bifang-fyh/bifang)|bifang - 一个基于协程的服务器框架|210|2021-06-01|2021-03-09|
 |29|[0x727/ShuiYing_0x727](https://github.com/0x727/ShuiYing_0x727)|检测域环境内，域机器的本地管理组成员是否存在弱口令和通用口令，对域用户的权限分配以及域内委派查询|205|2021-08-10|2021-08-10|
 |30|[Tencent/yadcc](https://github.com/Tencent/yadcc)|Yet Another Distributed C++ Compiler. yadcc是一套腾讯广告自研的分布式编译系统，用于支撑腾讯广告的日常开发及流水线。相对于已有的同类解决方案，我们针对实际的工业生产环境做了性能、可靠性、易用性等方面优化。|202|2021-11-25|2021-05-28|
 |31|[AllentDan/LibtorchSegmentation](https://github.com/AllentDan/LibtorchSegmentation)|A c++ trainable semantic segmentation library based on libtorch (pytorch c++). Backbone: VGG, ResNet, ResNext. Architecture: FPN, U-Net, PAN, LinkNet, PSPNet, DeepLab-V3, DeepLab-V3+ by now.|193|2021-11-17|2021-02-07|
-|32|[huoji120/CobaltStrikeDetected](https://github.com/huoji120/CobaltStrikeDetected)|40行代码检测到大部分CobaltStrike的shellcode|187|2021-07-25|2021-07-25|
-|33|[metartc/yangwebrtc](https://github.com/metartc/yangwebrtc)|Webrtc Libary for PC, non-google lib|183|2021-12-21|2021-08-29|
+|32|[metartc/yangwebrtc](https://github.com/metartc/yangwebrtc)|Webrtc Libary for PC, non-google lib|192|2021-12-25|2021-08-29|
+|33|[huoji120/CobaltStrikeDetected](https://github.com/huoji120/CobaltStrikeDetected)|40行代码检测到大部分CobaltStrike的shellcode|187|2021-07-25|2021-07-25|
 |34|[richardchien/modern-cmake-by-example](https://github.com/richardchien/modern-cmake-by-example)|IPADS 实验室新人培训第二讲（2021.11.3）：CMake|163|2021-11-04|2021-10-15|
 |35|[zhuzhu-Top/Wx_Socket_Helper](https://github.com/zhuzhu-Top/Wx_Socket_Helper)|PC微信助手|162|2021-08-27|2021-05-22|
 |36|[SmartKeyerror/reading-source-code-of-leveldb-1.23](https://github.com/SmartKeyerror/reading-source-code-of-leveldb-1.23)|leveldb 源码阅读，分析 DB 运作流程与 WAL、SSTable 等文件格式与 Compaction 过程。|158|2021-09-24|2021-07-24|
@@ -46,31 +46,31 @@
 |39|[taptap/perf-doctor](https://github.com/taptap/perf-doctor)|性能医生，手机应用性能测试工具|130|2021-12-22|2021-09-24|
 |40|[0x727/CloneX_0x727](https://github.com/0x727/CloneX_0x727)|进行克隆用户、添加用户等账户防护安全检测的轻巧工具|125|2021-09-03|2021-08-16|
 |41|[yongplus/tinypng](https://github.com/yongplus/tinypng)|基于TinyPNG图片压缩软件，操作简单高效，支持MacOS和Windows系统，无需其它依赖运行。|125|2021-11-11|2021-07-01|
-|42|[kaniol-lck/modmanager](https://github.com/kaniol-lck/modmanager)|A Qt-based mod manager for minecraft.|124|2021-12-24|2021-08-12|
+|42|[kaniol-lck/modmanager](https://github.com/kaniol-lck/modmanager)|A Qt-based mod manager for minecraft.|124|2021-12-25|2021-08-12|
 |43|[caochao39/tare_planner](https://github.com/caochao39/tare_planner)|TARE Exploration Planner for Ground Vehicles|116|2021-09-25|2021-05-08|
 |44|[HuyaInc/Hercules](https://github.com/HuyaInc/Hercules)|Hercules 是以json+lua的灵活方式控制视频混画混流mcu，简单灵活完成业务需求。|116|2021-06-21|2021-03-02|
 |45|[abcz316/linuxKernelRoot](https://github.com/abcz316/linuxKernelRoot)|新一代root，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，挑战全网root检测手段，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。|115|2021-12-04|2021-09-03|
-|46|[soarqin/D2RMH](https://github.com/soarqin/D2RMH)|Diablo II Resurrected map revealing tool.|112|2021-12-23|2021-10-21|
-|47|[hova88/PointPillars_MultiHead_40FPS](https://github.com/hova88/PointPillars_MultiHead_40FPS)|A REAL-TIME 3D detection network [Pointpillars] compiled by CUDA/TensorRT/C++. |112|2021-12-13|2021-04-29|
-|48|[vxfury/tabulate](https://github.com/vxfury/tabulate)|Table maker, true color, nested table, unicode, xterm & markdown syntax, ...|102|2021-12-23|2021-10-15|
-|49|[openvinotoolkit/openvino_tensorflow](https://github.com/openvinotoolkit/openvino_tensorflow)|OpenVINO™ integration with TensorFlow|102|2021-12-24|2021-01-21|
-|50|[simdutf/simdutf](https://github.com/simdutf/simdutf)|Unicode routines (UTF8, UTF16): billions of characters per second.|101|2021-12-06|2021-02-04|
-|51|[EdVince/PSGAN-NCNN](https://github.com/EdVince/PSGAN-NCNN)|PSGAN running with ncnn⚡妆容迁移/仿妆⚡Imitation Makeup/Makeup Transfer⚡|98|2021-10-30|2021-10-23|
-|52|[wecooperate/iMonitor](https://github.com/wecooperate/iMonitor)|iMonitor（冰镜 - 终端行为分析系统）|97|2021-12-12|2021-11-24|
-|53|[H3d9/sguard_limit](https://github.com/H3d9/sguard_limit)|限制ACE-Guard Client EXE占用系统资源，支持各种腾讯游戏|96|2021-12-13|2021-02-05|
-|54|[wfrest/wfrest](https://github.com/wfrest/wfrest)|C++ Web Framework REST API|95|2021-12-24|2021-10-27|
+|46|[hova88/PointPillars_MultiHead_40FPS](https://github.com/hova88/PointPillars_MultiHead_40FPS)|A REAL-TIME 3D detection network [Pointpillars] compiled by CUDA/TensorRT/C++. |113|2021-12-13|2021-04-29|
+|47|[soarqin/D2RMH](https://github.com/soarqin/D2RMH)|Diablo II Resurrected map revealing tool.|112|2021-12-23|2021-10-21|
+|48|[wfrest/wfrest](https://github.com/wfrest/wfrest)|C++ Web Framework REST API|105|2021-12-24|2021-10-27|
+|49|[vxfury/tabulate](https://github.com/vxfury/tabulate)|Table maker, true color, nested table, unicode, xterm & markdown syntax, ...|102|2021-12-25|2021-10-15|
+|50|[openvinotoolkit/openvino_tensorflow](https://github.com/openvinotoolkit/openvino_tensorflow)|OpenVINO™ integration with TensorFlow|102|2021-12-24|2021-01-21|
+|51|[simdutf/simdutf](https://github.com/simdutf/simdutf)|Unicode routines (UTF8, UTF16): billions of characters per second.|101|2021-12-24|2021-02-04|
+|52|[EdVince/PSGAN-NCNN](https://github.com/EdVince/PSGAN-NCNN)|PSGAN running with ncnn⚡妆容迁移/仿妆⚡Imitation Makeup/Makeup Transfer⚡|98|2021-10-30|2021-10-23|
+|53|[wecooperate/iMonitor](https://github.com/wecooperate/iMonitor)|iMonitor（冰镜 - 终端行为分析系统）|97|2021-12-12|2021-11-24|
+|54|[H3d9/sguard_limit](https://github.com/H3d9/sguard_limit)|限制ACE-Guard Client EXE占用系统资源，支持各种腾讯游戏|97|2021-12-13|2021-02-05|
 |55|[rvbust/Vis](https://github.com/rvbust/Vis)|Interactive & Asynchronous 3D Visualization Tool|94|2021-08-18|2021-07-23|
-|56|[dengqizhou30/AIAssistC](https://github.com/dengqizhou30/AIAssistC)|AIAssistC是一个AI游戏助手，使用OpenCv、DNN、Tensorflow、ssd_mobilenet/efficientdet、hidriver、MFC等技术，截取游戏屏幕进行对象识别，使用虚拟鼠标键盘驱动实现自动瞄准/自动开枪等功能，提升玩家的游戏体验。|89|2021-12-05|2021-10-27|
-|57|[GengGode/GenshinImpact_AutoTrack_DLL](https://github.com/GengGode/GenshinImpact_AutoTrack_DLL)|能够从原神中获取角色的位置、朝向以及视角的实时数据，通过图像算法获取，并非读内存。The real-time data of the position, orientation and angle of view of the character can be obtained from the Genshin Impact, which can be obtained through the i ...|88|2021-10-29|2021-06-17|
-|58|[wecooperate/iMonitorSDK](https://github.com/wecooperate/iMonitorSDK)|系统监控开发套件（sysmon、promon、edr、终端安全、主机安全、零信任、上网行为管理）|86|2021-12-12|2021-09-25|
+|56|[dengqizhou30/AIAssistC](https://github.com/dengqizhou30/AIAssistC)|AIAssistC是一个AI游戏助手，使用OpenCv、DNN、Tensorflow、ssd_mobilenet/efficientdet、hidriver、MFC等技术，截取游戏屏幕进行对象识别，使用虚拟鼠标键盘驱动实现自动瞄准/自动开枪等功能，提升玩家的游戏体验。|91|2021-12-05|2021-10-27|
+|57|[GengGode/GenshinImpact_AutoTrack_DLL](https://github.com/GengGode/GenshinImpact_AutoTrack_DLL)|能够从原神中获取角色的位置、朝向以及视角的实时数据，通过图像算法获取，并非读内存。The real-time data of the position, orientation and angle of view of the character can be obtained from the Genshin Impact, which can be obtained through the i ...|89|2021-10-29|2021-06-17|
+|58|[wecooperate/iMonitorSDK](https://github.com/wecooperate/iMonitorSDK)|系统监控开发套件（sysmon、promon、edr、终端安全、主机安全、零信任、上网行为管理）|87|2021-12-12|2021-09-25|
 |59|[saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend)|A Powerful, Easy-to-Use, Compact, Cross-Platform and Installation-Free Crypto Tool. Ein leistungsstarkes, benutzerfreundliches, kompaktes, plattformübergreifendes und installationsfreies Krypto-Tool.|83|2021-12-20|2021-06-19|
 |60|[guojianyang/cv-detect-robot](https://github.com/guojianyang/cv-detect-robot)|yolov5+YOLOX+yolo+tensorRT+ros+deepstream+jetson+nano+TX2+NX for High-performance deployment(高性能部署)|81|2021-12-21|2021-07-25|
 |61|[LiteLDev/LiteXLoader](https://github.com/LiteLDev/LiteXLoader)|A cross-language script plugin loader for Bedrock Dedicated Server (BDS) , based on LiteLoaderBDS & ScriptX|81|2021-12-23|2021-04-17|
 |62|[nkliuhui/sync_gps_lidar_imu_cam](https://github.com/nkliuhui/sync_gps_lidar_imu_cam)|lidar-imu-cam-GPS时间戳硬件同步方案|81|2021-07-21|2021-04-16|
 |63|[netcan/config-loader](https://github.com/netcan/config-loader)|Simple C++ Config Loader Framework(Serialization & Reflection)|75|2021-12-07|2021-06-21|
-|64|[ApsaraDB/PolarDB-FileSystem](https://github.com/ApsaraDB/PolarDB-FileSystem)|-|74|2021-11-10|2021-10-12|
-|65|[kekeimiku/kbz](https://github.com/kekeimiku/kbz)|读取王者荣耀对局内敌方位置，技能cd以及血量的小程序|74|2021-07-12|2021-07-09|
-|66|[zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion)|使用误差状态卡尔曼滤波器融合GPS和IMU，实现更高精度的定位|74|2021-11-03|2021-03-04|
+|64|[zm0612/eskf-gps-imu-fusion](https://github.com/zm0612/eskf-gps-imu-fusion)|使用误差状态卡尔曼滤波器融合GPS和IMU，实现更高精度的定位|75|2021-11-03|2021-03-04|
+|65|[ApsaraDB/PolarDB-FileSystem](https://github.com/ApsaraDB/PolarDB-FileSystem)|-|74|2021-11-10|2021-10-12|
+|66|[kekeimiku/kbz](https://github.com/kekeimiku/kbz)|读取王者荣耀对局内敌方位置，技能cd以及血量的小程序|74|2021-07-12|2021-07-09|
 |67|[huoji120/MakeInfinityHookGreatAgain](https://github.com/huoji120/MakeInfinityHookGreatAgain)|让Etwhook再次伟大! Make InfinityHook Great Again!|72|2021-06-24|2021-06-23|
 |68|[hpc203/yolox-opencv-dnn](https://github.com/hpc203/yolox-opencv-dnn)|使用OpenCV部署YOLOX，支持YOLOX-S、YOLOX-M、YOLOX-L、YOLOX-X、YOLOX-Darknet53五种结构，包含C++和Python两种版本的程序|71|2021-10-21|2021-08-08|
 |69|[kingsoft-wps/KSAI-Lite](https://github.com/kingsoft-wps/KSAI-Lite)|KSAI Lite is a deep learning inference framework of kingsoft, based on tensorflow lite|71|2021-07-02|2021-05-18|

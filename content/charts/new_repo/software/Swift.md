@@ -1,12 +1,12 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > Swift
-<sub>数据更新: 2021-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[ruanjx/VideoLab](https://github.com/ruanjx/VideoLab)|High-performance and flexible video editing and effects framework, based on AVFoundation and Metal.|467|2021-06-26|2021-02-21|
-|2|[cmushroom/redis-pro](https://github.com/cmushroom/redis-pro)|redis-pro redis 桌面管理工具|409|2021-12-23|2021-01-19|
+|2|[cmushroom/redis-pro](https://github.com/cmushroom/redis-pro)|redis-pro redis 桌面管理工具|409|2021-12-25|2021-01-19|
 |3|[Masayuki-JP/Health-Habit-Assistant](https://github.com/Masayuki-JP/Health-Habit-Assistant)|A simple health assistant app built in Swift5 for iPhone 📱 |317|2021-06-29|2021-02-09|
 |4|[Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11)| 💻 Windows 11 in SwiftUI.|111|2021-10-13|2021-08-31|
 |5|[william0wang/MagicCamera](https://github.com/william0wang/MagicCamera)|iOS多功能AI相机：人像卡通化、变老变年轻、美颜、滤镜、艺术效果等|90|2021-11-08|2021-10-29|
@@ -23,12 +23,12 @@
 |16|[ts666823/Codesigner](https://github.com/ts666823/Codesigner)|-|31|2021-12-11|2021-10-29|
 |17|[breadwallet/brd-mobile](https://github.com/breadwallet/brd-mobile)|-|29|2021-11-07|2021-06-28|
 |18|[fatbobman/SheetKit](https://github.com/fatbobman/SheetKit)|an extension library for SwiftUI sheets. |28|2021-09-17|2021-09-16|
-|19|[aaaaa893215155/SwiftCommandLineTool](https://github.com/aaaaa893215155/SwiftCommandLineTool)|Swift写的一个自动打包ipa，并上传蒲公英|23|2021-06-08|2021-06-08|
-|20|[swiftdo/design-patterns](https://github.com/swiftdo/design-patterns)|设计模式，经典样例|23|2021-06-08|2021-03-24|
-|21|[KelvinQQ/SpiderCard](https://github.com/KelvinQQ/SpiderCard)|蜘蛛纸牌 for mac|22|2021-08-23|2021-07-28|
+|19|[KelvinQQ/SpiderCard](https://github.com/KelvinQQ/SpiderCard)|蜘蛛纸牌 for mac|23|2021-08-23|2021-07-28|
+|20|[aaaaa893215155/SwiftCommandLineTool](https://github.com/aaaaa893215155/SwiftCommandLineTool)|Swift写的一个自动打包ipa，并上传蒲公英|23|2021-06-08|2021-06-08|
+|21|[swiftdo/design-patterns](https://github.com/swiftdo/design-patterns)|设计模式，经典样例|23|2021-06-08|2021-03-24|
 |22|[Cantoboard/Cantoboard](https://github.com/Cantoboard/Cantoboard)|Cantoboard - Smart Cantonese Keyboard on iOS |22|2021-12-24|2021-03-19|
 |23|[ShenJieSuzhou/PurchaseX](https://github.com/ShenJieSuzhou/PurchaseX)|PurchaseX 是基于 Swift 语言开发，专门用于给您的应用或者游戏提供应用内购买（In-App_purchase）解决方案的轻量级 Framework；  PurchaseX 能让开发者轻松的为应用程序集成苹果的应用内购买，目前最低支持 iOS 8.0 版本；|21|2021-10-28|2021-07-20|
-|24|[creepymonster/GlucoseDirectApp](https://github.com/creepymonster/GlucoseDirectApp)|App programmed in Swift/SwiftUI for using Libre 1/2 blood glucose sensors.|20|2021-12-24|2021-07-18|
+|24|[creepymonster/GlucoseDirectApp](https://github.com/creepymonster/GlucoseDirectApp)|App programmed in Swift/SwiftUI for using Libre 1/2 blood glucose sensors.|20|2021-12-25|2021-07-18|
 |25|[JerryFans/JFPopup](https://github.com/JerryFans/JFPopup)|A Swift Popup Module help you popup your custom view easily|19|2021-10-22|2021-10-11|
 |26|[lihaoyun6/DimQQ](https://github.com/lihaoyun6/DimQQ)|一款可自定义强度的QQ for Mac亮度降低工具|18|2021-11-28|2021-11-23|
 |27|[treehollow/treehollow-v3-ios](https://github.com/treehollow/treehollow-v3-ios)|树洞 iOS / macOS 客户端，使用 SwiftUI 开发。|14|2021-12-11|2021-01-13|
@@ -54,7 +54,7 @@
 |47|[iWECon/Marker](https://github.com/iWECon/Marker)|Marker 引导提示|6|2021-11-18|2021-01-15|
 |48|[Lester2020/VideoFilterDemo](https://github.com/Lester2020/VideoFilterDemo)|基于MetalKit给视频添加滤镜的demo|5|2021-08-28|2021-08-28|
 |49|[fuyoufang/Banner3D](https://github.com/fuyoufang/Banner3D)|仿照自如 APP 的 3D Banner|5|2021-08-13|2021-08-13|
-|50|[BinaryParadise/PracticeTLS](https://github.com/BinaryParadise/PracticeTLS)|TLS 1.2、1.3的swift简单实现|5|2021-11-30|2021-08-05|
+|50|[BinaryParadise/PracticeTLS](https://github.com/BinaryParadise/PracticeTLS)|TLS 1.2、1.3的swift简单实现|5|2021-12-13|2021-08-05|
 |51|[namesubai/SSPage-Swift](https://github.com/namesubai/SSPage-Swift)|简单易用的分页切换组件，类型twitter,微博主页|5|2021-09-24|2021-07-19|
 |52|[natfrp/SakuraFrpLauncherMac](https://github.com/natfrp/SakuraFrpLauncherMac)|[WIP] SakuraFrp macOS 启动器|5|2021-10-28|2021-06-01|
 |53|[Lebron1992/LBJMediaBrowser](https://github.com/Lebron1992/LBJMediaBrowser)|LBJMediaBrowser 是一个在 SwiftUI 框架下实现的图片视频浏览器。(LBJMediaBrowser is a media browser implemented with SwiftUI.)|4|2021-11-26|2021-09-13|
