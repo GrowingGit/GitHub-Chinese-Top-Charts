@@ -1,49 +1,49 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > JavaScript
-<sub>数据更新: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|15325|2021-12-20|2021-08-07|
-|2|[vaxilu/x-ui](https://github.com/vaxilu/x-ui)|支持多协议多用户的 xray 面板|2730|2021-12-11|2021-05-18|
-|3|[thx/gogocode](https://github.com/thx/gogocode)|GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing a more intuitive API.|2590|2021-12-24|2021-03-03|
-|4|[VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo)|解锁完整的 Apple功能和集成服务|2185|2021-12-24|2021-10-16|
-|5|[zero205/JD_tencent_scf](https://github.com/zero205/JD_tencent_scf)|自用京东JS脚本，已加入助力池；支持【青龙】、【腾讯云函数】、【elecV2P】；低调使用，请勿fork！！！|1909|2021-12-24|2021-05-11|
-|6|[biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export)|Easily export the Genshin Impact wish record.|1838|2021-12-24|2021-02-15|
-|7|[micro-zoe/micro-app](https://github.com/micro-zoe/micro-app)|A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架|1835|2021-12-24|2021-06-24|
+|1|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|15575|2021-12-26|2021-08-07|
+|2|[vaxilu/x-ui](https://github.com/vaxilu/x-ui)|支持多协议多用户的 xray 面板|2754|2021-12-11|2021-05-18|
+|3|[thx/gogocode](https://github.com/thx/gogocode)|GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing a more intuitive API.|2594|2021-12-24|2021-03-03|
+|4|[VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo)|解锁完整的 Apple功能和集成服务|2194|2021-12-24|2021-10-16|
+|5|[zero205/JD_tencent_scf](https://github.com/zero205/JD_tencent_scf)|自用京东JS脚本，已加入助力池；支持【青龙】、【腾讯云函数】、【elecV2P】；低调使用，请勿fork！！！|1919|2021-12-27|2021-05-11|
+|6|[biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export)|Easily export the Genshin Impact wish record.|1841|2021-12-26|2021-02-15|
+|7|[micro-zoe/micro-app](https://github.com/micro-zoe/micro-app)|A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架|1836|2021-12-26|2021-06-24|
 |8|[lan-tianxiang/JS_TOOL](https://github.com/lan-tianxiang/JS_TOOL)|Node网页开发工具|1542|2021-09-06|2021-04-10|
-|9|[eva-engine/eva.js](https://github.com/eva-engine/eva.js)|Eva.js is a front-end game engine specifically for creating interactive game projects.|1430|2021-12-25|2021-03-08|
-|10|[MoonBegonia/ninja](https://github.com/MoonBegonia/ninja)|-|1348|2021-12-09|2021-07-26|
-|11|[liyupi/daxigua](https://github.com/liyupi/daxigua)|最简单的魔改发布『 合成大西瓜 』，配套改图工具，不用改代码，修改配置即可！|1176|2021-08-20|2021-01-28|
-|12|[craigary/nobelium](https://github.com/craigary/nobelium)|A static blog build on top of Notion and NextJS, deployed on Vercel.|1128|2021-12-24|2021-03-14|
+|9|[eva-engine/eva.js](https://github.com/eva-engine/eva.js)|Eva.js is a front-end game engine specifically for creating interactive game projects.|1437|2021-12-25|2021-03-08|
+|10|[MoonBegonia/ninja](https://github.com/MoonBegonia/ninja)|-|1350|2021-12-09|2021-07-26|
+|11|[liyupi/daxigua](https://github.com/liyupi/daxigua)|最简单的魔改发布『 合成大西瓜 』，配套改图工具，不用改代码，修改配置即可！|1177|2021-08-20|2021-01-28|
+|12|[craigary/nobelium](https://github.com/craigary/nobelium)|A static blog build on top of Notion and NextJS, deployed on Vercel.|1129|2021-12-24|2021-03-14|
 |13|[lan-tianxiang/jd_shell](https://github.com/lan-tianxiang/jd_shell)|Node网页开发工具|1058|2021-07-07|2021-01-30|
-|14|[lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)|一个基于 React native 开发的音乐软件|1029|2021-12-23|2021-05-15|
-|15|[ender-zhao/Clash-for-Windows_Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese)|clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序|999|2021-12-24|2021-04-19|
-|16|[RimoChan/match-you](https://github.com/RimoChan/match-you)|【您配吗】配你吗|977|2021-12-06|2021-11-19|
+|14|[lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)|一个基于 React native 开发的音乐软件|1030|2021-12-23|2021-05-15|
+|15|[ender-zhao/Clash-for-Windows_Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese)|clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序|1009|2021-12-24|2021-04-19|
+|16|[RimoChan/match-you](https://github.com/RimoChan/match-you)|【您配吗】配你吗|979|2021-12-06|2021-11-19|
 |17|[airuikun/mircro-tech](https://github.com/airuikun/mircro-tech)|react的微前端组件，让你的react项目可以加载vue组件|958|2021-08-18|2021-05-17|
 |18|[AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch)|Add a useless notch to your screen.|927|2021-10-30|2021-10-20|
-|19|[ineo6/hosts](https://github.com/ineo6/hosts)|GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。|754|2021-12-25|2021-03-28|
-|20|[Reamd7/notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)|notion 中文化|699|2021-12-11|2021-08-12|
-|21|[Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)|✨ A Markdown Editor|652|2021-12-24|2021-10-15|
-|22|[passerby-b/JDDJ](https://github.com/passerby-b/JDDJ)|京东到家果园庄园脚本,电报群:https://t.me/passerbyb2021|636|2021-12-13|2021-04-16|
-|23|[asd920/Auto-jd](https://github.com/asd920/Auto-jd)|京东自用脚本|604|2021-12-19|2021-05-29|
-|24|[vitejs/docs-cn](https://github.com/vitejs/docs-cn)|Chinese translation of vitejs.dev|566|2021-12-23|2021-02-03|
+|19|[ineo6/hosts](https://github.com/ineo6/hosts)|GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。|759|2021-12-27|2021-03-28|
+|20|[Reamd7/notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)|notion 中文化|702|2021-12-11|2021-08-12|
+|21|[Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)|✨ A Markdown Editor|653|2021-12-26|2021-10-15|
+|22|[passerby-b/JDDJ](https://github.com/passerby-b/JDDJ)|京东到家果园庄园脚本,电报群:https://t.me/passerbyb2021|637|2021-12-13|2021-04-16|
+|23|[asd920/Auto-jd](https://github.com/asd920/Auto-jd)|京东自用脚本|603|2021-12-19|2021-05-29|
+|24|[vitejs/docs-cn](https://github.com/vitejs/docs-cn)|Chinese translation of vitejs.dev|566|2021-12-25|2021-02-03|
 |25|[segfall/static-wiki](https://github.com/segfall/static-wiki)|Wikipedia using only static assets & no backend|501|2021-09-17|2021-07-18|
-|26|[YuehaiTeam/cocogoat](https://github.com/YuehaiTeam/cocogoat)|A toolbox for Genshin Impact to export artifacts automatically.  支持圣遗物全自动导出的原神工具箱，保证每一行代码都是熬夜加班打造。|480|2021-11-24|2021-04-08|
-|27|[tnfe/wp2vite](https://github.com/tnfe/wp2vite)|一个让webpack项目支持vite的前端项目的转换工具。A front-end project automatic conversion tool。|480|2021-12-17|2021-03-29|
+|26|[tnfe/wp2vite](https://github.com/tnfe/wp2vite)|一个让webpack项目支持vite的前端项目的转换工具。A front-end project automatic conversion tool。|481|2021-12-17|2021-03-29|
+|27|[YuehaiTeam/cocogoat](https://github.com/YuehaiTeam/cocogoat)|A toolbox for Genshin Impact to export artifacts automatically.  支持圣遗物全自动导出的原神工具箱，保证每一行代码都是熬夜加班打造。|480|2021-11-24|2021-04-08|
 |28|[CC11001100/ast-hook-for-js-RE](https://github.com/CC11001100/ast-hook-for-js-RE)|浏览器内存漫游解决方案（探索中...）|472|2021-09-23|2021-01-15|
 |29|[xaboy/form-create-designer](https://github.com/xaboy/form-create-designer)|好用的vue可视化表单设计器|418|2021-12-24|2021-04-05|
 |30|[xqq/mpegts.js](https://github.com/xqq/mpegts.js)|HTML5 MPEG2-TS Stream Player|361|2021-10-19|2021-03-15|
-|31|[USTC-Hackergame/hackergame2021-writeups](https://github.com/USTC-Hackergame/hackergame2021-writeups)|中国科学技术大学第八届信息安全大赛的官方与非官方题解|358|2021-11-23|2021-10-30|
-|32|[764763903a/xdd-plus](https://github.com/764763903a/xdd-plus)|xdd-plus|358|2021-12-25|2021-09-06|
+|31|[764763903a/xdd-plus](https://github.com/764763903a/xdd-plus)|xdd-plus|360|2021-12-25|2021-09-06|
+|32|[USTC-Hackergame/hackergame2021-writeups](https://github.com/USTC-Hackergame/hackergame2021-writeups)|中国科学技术大学第八届信息安全大赛的官方与非官方题解|358|2021-11-23|2021-10-30|
 |33|[loong132/autojs-script](https://github.com/loong132/autojs-script)|autojs脚本程序,用于完成安卓设备上的重复性操作.包含脚本: 1.2021年京东618任务脚本 2.2021年京东燃动夏季活动脚本3.2021京东双十一热爱环游记|339|2021-11-06|2021-07-10|
 |34|[qishanzhiruan/basemall](https://github.com/qishanzhiruan/basemall)|商城系统- java商城|326|2021-12-24|2021-09-13|
-|35|[newbee-ltd/newbee-mall-plus](https://github.com/newbee-ltd/newbee-mall-plus)|🔥 🎉newbee-mall-plus 项目是 newbee-mall 项目的升级版本，增加了优惠券模块、商品秒杀模块、支付宝支付，优化了搜索功能，后续会继续增加功能模块以及流行的技术栈。|314|2021-11-17|2021-01-17|
-|36|[wechat-miniprogram/minigame-unity-webgl-transform](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform)|-|303|2021-12-22|2021-05-24|
-|37|[yuannian1112/jd_scripts](https://github.com/yuannian1112/jd_scripts)|-|296|2021-12-21|2021-08-07|
+|35|[newbee-ltd/newbee-mall-plus](https://github.com/newbee-ltd/newbee-mall-plus)|🔥 🎉newbee-mall-plus 项目是 newbee-mall 项目的升级版本，增加了优惠券模块、商品秒杀模块、支付宝支付，优化了搜索功能，后续会继续增加功能模块以及流行的技术栈。|315|2021-11-17|2021-01-17|
+|36|[wechat-miniprogram/minigame-unity-webgl-transform](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform)|-|304|2021-12-22|2021-05-24|
+|37|[yuannian1112/jd_scripts](https://github.com/yuannian1112/jd_scripts)|-|296|2021-12-24|2021-08-07|
 |38|[hewenguang/circle](https://github.com/hewenguang/circle)|让网页赏心悦目、让阅读回归初心。Circle 阅读模式提供更隐私、更轻松、更舒适的网页阅读体验|296|2021-08-25|2021-02-28|
-|39|[ccwav/QLScript2](https://github.com/ccwav/QLScript2)|新QLScript|260|2021-12-12|2021-09-29|
+|39|[ccwav/QLScript2](https://github.com/ccwav/QLScript2)|新QLScript|294|2021-12-25|2021-09-29|
 |40|[youzhengjie9/yblog](https://github.com/youzhengjie9/yblog)|来自一个大二的菜鸟基于SpringBoot框架开发的博客系统，采用了springBoot、springSecurity、Redis、elasticSearch、rabbitmq、Mybatis、Nginx等技术，主要实现了博文管理、统计图表、访问记录、附件管理、用户管理、友链管理、监控管理、抓取博文、第三方登录等功能，并且不断在上面进一步扩展，希望大家多多支持，顺便给个Star☺️|253|2021-10-09|2021-06-16|
 |41|[r0ysue/r0tracer](https://github.com/r0ysue/r0tracer)|安卓Java层多功能追踪脚本|253|2021-07-28|2021-02-05|
 |42|[deepkolos/three-platformize](https://github.com/deepkolos/three-platformize)|一个让 THREE 平台化的项目，目前已适配微信，淘宝，头条小程序，微信小游戏|245|2021-12-12|2021-01-17|

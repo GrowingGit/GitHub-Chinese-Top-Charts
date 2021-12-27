@@ -1,15 +1,15 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > Jupyter Notebook
-<sub>数据更新: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|774|2021-12-21|2021-04-07|
-|2|[4paradigm/AutoX](https://github.com/4paradigm/AutoX)|AutoX is an efficient automl tool, which is mainly aimed at data mining competitions with tabular data.|338|2021-12-25|2021-07-21|
+|1|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|775|2021-12-21|2021-04-07|
+|2|[4paradigm/AutoX](https://github.com/4paradigm/AutoX)|AutoX is an efficient automl tool, which is mainly aimed at data mining competitions with tabular data.|341|2021-12-25|2021-07-21|
 |3|[d2l-ai/d2l-zh-pytorch-slides](https://github.com/d2l-ai/d2l-zh-pytorch-slides)|Pytorch版代码幻灯片|252|2021-12-23|2021-02-04|
 |4|[luo3300612/Visualizer](https://github.com/luo3300612/Visualizer)|assistant tools for attention visualization in deep learning|191|2021-08-11|2021-08-09|
-|5|[chokkan/mlnote](https://github.com/chokkan/mlnote)|機械学習帳|172|2021-12-24|2021-09-29|
+|5|[chokkan/mlnote](https://github.com/chokkan/mlnote)|機械学習帳|173|2021-12-26|2021-09-29|
 |6|[44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel)|基于思源黑体的开源像素字体|170|2021-08-20|2021-08-18|
 |7|[datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)|-|115|2021-11-15|2021-07-31|
 |8|[davidfrz/yolov5_distance_count](https://github.com/davidfrz/yolov5_distance_count)|使用yolov5，双目摄像头进行测距|99|2021-07-16|2021-07-10|
@@ -29,24 +29,24 @@
 |22|[DIUx-xView/xview3-reference](https://github.com/DIUx-xView/xview3-reference)|Reference data processing code and model for the xView3 prize challenge.|30|2021-11-29|2021-08-31|
 |23|[QikaiXu/Recommender-System-Pytorch](https://github.com/QikaiXu/Recommender-System-Pytorch)|基于 Pytorch 实现推荐系统相关的算法|30|2021-11-17|2021-07-10|
 |24|[RMSnow/WWW2021](https://github.com/RMSnow/WWW2021)|This is the official repository to release the code and datasets in the paper "Mining Dual Emotion for Fake News Detection", WWW 2021.|28|2021-12-07|2021-02-08|
-|25|[baidu/Quanlse](https://github.com/baidu/Quanlse)|-|27|2021-12-22|2021-01-22|
+|25|[baidu/Quanlse](https://github.com/baidu/Quanlse)|-|28|2021-12-22|2021-01-22|
 |26|[Hongyu-Yue/yoloV5_modify_smalltarget](https://github.com/Hongyu-Yue/yoloV5_modify_smalltarget)|YOLOV5 小目标检测修改版|25|2021-08-21|2021-08-21|
 |27|[Prayforhanluo/CTR_Algorithm](https://github.com/Prayforhanluo/CTR_Algorithm)|一些经典的CTR算法的复现; LR, FM, FFM, AFM, DeepFM，xDeepFM, PNN, DCN, AutoInt, FiBiNet,DIN, DIEN ... （pytorch, tf2.0）|23|2021-12-07|2021-07-08|
 |28|[lansinuote/Machine-Learning-In-Numpy](https://github.com/lansinuote/Machine-Learning-In-Numpy)|纯python实现机器学习算法,非套用sk-learn|23|2021-11-08|2021-05-08|
 |29|[kzbkzb/Python-AI](https://github.com/kzbkzb/Python-AI)|我的文章记录|21|2021-12-17|2021-10-18|
 |30|[buzhidaoshenme/YOLOX-OBB](https://github.com/buzhidaoshenme/YOLOX-OBB)|YOLOX in DOTA with KLD loss. (Oriented Object Detection)（Rotated BBox）基于YOLOX的旋转目标检测|21|2021-11-19|2021-09-18|
 |31|[accomdemy/accomdemy](https://github.com/accomdemy/accomdemy)|Welcome to Accomdemy! 歡迎來到伴伴學！|21|2021-12-24|2021-05-11|
-|32|[yijixiuxin/chanlun](https://github.com/yijixiuxin/chanlun)|基于缠中说禅所理解的市场行情的分析工具|19|2021-12-18|2021-12-10|
-|33|[PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial)|PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle. |19|2021-12-17|2021-07-12|
-|34|[EMUNES/Auto-Subtitle-File-Generation](https://github.com/EMUNES/Auto-Subtitle-File-Generation)|Generate subtitle files with timelines in an automatic way.|19|2021-11-09|2021-02-15|
+|32|[EMUNES/Auto-Subtitle-File-Generation](https://github.com/EMUNES/Auto-Subtitle-File-Generation)|Generate subtitle files with timelines in an automatic way.|20|2021-11-09|2021-02-15|
+|33|[yijixiuxin/chanlun](https://github.com/yijixiuxin/chanlun)|基于缠中说禅所理解的市场行情的分析工具|19|2021-12-18|2021-12-10|
+|34|[PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial)|PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle. |19|2021-12-17|2021-07-12|
 |35|[chokkan/python](https://github.com/chokkan/python)|Python早見帳|17|2021-11-28|2021-10-04|
 |36|[danni2019/time_series_analysis](https://github.com/danni2019/time_series_analysis)|Just another backtester|17|2021-06-07|2021-05-13|
 |37|[moliqingwa/carbon_challenge](https://github.com/moliqingwa/carbon_challenge)|捕碳大作战|16|2021-12-22|2021-10-26|
-|38|[cbdb-project/named-entities-for-premodern-chinese-history-research](https://github.com/cbdb-project/named-entities-for-premodern-chinese-history-research)|Repo to generate and host named entities for premodern chinese history research|16|2021-11-03|2021-09-14|
-|39|[hululuzhu/chinese-ai-writing-share](https://github.com/hululuzhu/chinese-ai-writing-share)|中文AI写作共享|16|2021-08-17|2021-06-15|
-|40|[jackhuntcn/2021ccf_iqiyi_nlp](https://github.com/jackhuntcn/2021ccf_iqiyi_nlp)|-|15|2021-12-03|2021-12-03|
-|41|[W-Java/Population-Prediction](https://github.com/W-Java/Population-Prediction)|The future population of Singapore is predicted by SVM algorithm|15|2021-10-29|2021-10-29|
-|42|[KristiyanVachev/Question-Generation-Transformers](https://github.com/KristiyanVachev/Question-Generation-Transformers)|Easy to use and understand multiple-choice question generation algorithm using T5 Transformers.|15|2021-10-27|2021-10-04|
+|38|[KristiyanVachev/Question-Generation-Transformers](https://github.com/KristiyanVachev/Question-Generation-Transformers)|Easy to use and understand multiple-choice question generation algorithm using T5 Transformers.|16|2021-10-27|2021-10-04|
+|39|[cbdb-project/named-entities-for-premodern-chinese-history-research](https://github.com/cbdb-project/named-entities-for-premodern-chinese-history-research)|Repo to generate and host named entities for premodern chinese history research|16|2021-11-03|2021-09-14|
+|40|[hululuzhu/chinese-ai-writing-share](https://github.com/hululuzhu/chinese-ai-writing-share)|中文AI写作共享|16|2021-08-17|2021-06-15|
+|41|[jackhuntcn/2021ccf_iqiyi_nlp](https://github.com/jackhuntcn/2021ccf_iqiyi_nlp)|-|15|2021-12-03|2021-12-03|
+|42|[W-Java/Population-Prediction](https://github.com/W-Java/Population-Prediction)|The future population of Singapore is predicted by SVM algorithm|15|2021-10-29|2021-10-29|
 |43|[John1liu/YOLOV5-DeepSORT-Vehicle-Tracking-Master](https://github.com/John1liu/YOLOV5-DeepSORT-Vehicle-Tracking-Master)|In this project, urban traffic videos are collected from the middle section of Xi 'an South Second Ring Road with a large traffic flow, and interval frames are extracted from the videos to produce dat ...|14|2021-06-29|2021-05-23|
 |44|[KoichiYasuoka/SuPar-Kanbun-1.3.4](https://github.com/KoichiYasuoka/SuPar-Kanbun-1.3.4)|Tokenizer POS-tagger and Dependency-parser for Classical Chinese|14|2021-12-16|2021-03-09|
 |45|[librauee/IFLY](https://github.com/librauee/IFLY)|科大讯飞AI开发者大赛 基于用户画像的商品推荐挑战赛 Baseline|13|2021-07-05|2021-06-30|

@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -14,7 +14,7 @@
 |7|[digao-dalpiaz/Dam](https://github.com/digao-dalpiaz/Dam)|Delphi and Lazarus Message Dialogs with Formatted Text|70|0|2021-09-19|
 |8|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|423|0|2021-12-13|
 |9|[PassByYou888/ZInstaller2.0](https://github.com/PassByYou888/ZInstaller2.0)|ZInstaller2.0 安装程序使用ZDB2.0架构|3|0|2021-06-22|
-|10|[59079096/HCView-Pascal](https://github.com/59079096/HCView-Pascal)|A control similar to Word or WPS(一个类似word或wps用于文字排版相关功能的控件)|65|0|2021-12-19|
+|10|[59079096/HCView-Pascal](https://github.com/59079096/HCView-Pascal)|A control similar to Word or WPS(一个类似word或wps用于文字排版相关功能的控件)|65|0|2021-12-26|
 |11|[Pzf874/TVChnlTest](https://github.com/Pzf874/TVChnlTest)|TV频道源检查软件(TVChnlTest.exe)这个小工具, 可以将你收集的直播源数据导入，并对其进行有效性检查，经整理后，可以导出为TXT格式或M3U8格式的文件。|3|0|2021-08-09|
 |12|[ying32/liblcl](https://github.com/ying32/liblcl)|A common cross-platform GUI library, the core uses Lazarus LCL.|57|0|2021-10-31|
 |13|[2o181o28/MyProg](https://github.com/2o181o28/MyProg)|蒟蒻的小学生水平程序|5|0|2021-10-17|

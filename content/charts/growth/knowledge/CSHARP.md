@@ -1,33 +1,33 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > C#
-<sub>数据更新: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|2227|3|2021-11-20|
-|2|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|3553|3|2021-12-14|
+|1|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|2229|3|2021-11-20|
+|2|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|3554|3|2021-12-14|
 |3|[XINCGer/UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick)|提供一些UnityEditor工具链开发的常用小技巧与示例(Provides some common tips and examples for developing the UnityEditor toolchain)|582|2|2021-11-19|
-|4|[YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)|🦸【C#/.NET/.NET Core学习、工作、面试指南】概述：C#/.NET/.NET Core基础知识，学习资料、文章、书籍，社区组织，工具和常见的面试题总结。以及面试时需要注意的事项和优秀简历编写技巧，希望能和大家一起成长进步👊。【让现在的自己不再迷茫✨】|782|2|2021-12-07|
-|5|[JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)|微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.|7107|2|2021-12-25|
-|6|[WPFDevelopersOrg/WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)|WPF Developers Daily Share 🎉Ongoing update.|431|2|2021-12-18|
+|4|[YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)|🦸【C#/.NET/.NET Core学习、工作、面试指南】概述：C#/.NET/.NET Core基础知识，学习资料、文章、书籍，社区组织，工具和常见的面试题总结。以及面试时需要注意的事项和优秀简历编写技巧，希望能和大家一起成长进步👊。【让现在的自己不再迷茫✨】|785|2|2021-12-07|
+|5|[JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)|微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.|7108|2|2021-12-25|
+|6|[WPFDevelopersOrg/WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)|WPF Developers Daily Share 🎉Ongoing update.|431|2|2021-12-26|
 |7|[wlgys8/GPUDrivenTerrainLearn](https://github.com/wlgys8/GPUDrivenTerrainLearn)|A Unity Project used for Learning GPU Driven Terrain Render|94|1|2021-07-17|
 |8|[2881099/FreeRedis](https://github.com/2881099/FreeRedis)|🦄 FreeRedis is .NET40+ redis client. supports cluster, sentinel, master-slave, pub-sub, lua, pipeline, transaction, streams, client-side-caching, and pooling.|501|1|2021-10-09|
-|9|[xuejmnet/sharding-core](https://github.com/xuejmnet/sharding-core)|high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵|405|1|2021-12-25|
+|9|[xuejmnet/sharding-core](https://github.com/xuejmnet/sharding-core)|high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵|406|1|2021-12-26|
 |10|[kengwang/BiliDuang](https://github.com/kengwang/BiliDuang)|(项目正在重构) Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV 支持4K 支持地区限制下载 支持互动视频 支持无水印 支持弹幕/字幕下载转换 支持课程下载|705|1|2021-10-06|
 |11|[sidristij/dotnetbook](https://github.com/sidristij/dotnetbook)|.NET Platform Architecture book (English, Chinese, Russian)|1766|1|2021-10-24|
 |12|[YukiCoco/YukiDrive](https://github.com/YukiCoco/YukiDrive)|Onedrive & SharePoint 文件浏览网页程序|458|1|2021-11-09|
 |13|[luoyunchong/lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore)|😃A simple and practical CMS implemented by .NET 6 + FreeSql；前后端分离、Docker部署、OAtuh2授权登录、自动化部署DevOps、自动同步至Gitee、代码生成器、仿掘金专栏|516|1|2021-12-25|
 |14|[Meowv/Blog](https://github.com/Meowv/Blog)|🤣本项目有不同开发版本，最新版底层基于 abp vNext 搭建和免费开源跨平台框架 .NET5 进行开发，使用 MongoDB 存储数据，Redis 缓存数据。项目采用前后端分离的模式进行开发，API 遵循 RESTful 接口规范，页面使用 Blazor 进行开发，可作为 .NET Core 入门项目进行学习。If you liked `Blog` project or if it helpe ...|1043|1|2021-09-21|
-|15|[Isayama-Kagura/TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator)|一款Galgame文本提取和翻译的工具|70|1|2021-12-23|
-|16|[tianlian0/paper_checking_system](https://github.com/tianlian0/paper_checking_system)|基于C#和C++开发的文本查重/论文查重系统，一亿字次级论文库秒级查重。关联：查重算法、数据去重、文档查重、文本去重、标书查重、辅助防串标、作业查重、duplicate check|227|0|2021-12-11|
+|15|[Isayama-Kagura/TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator)|一款Galgame文本提取和翻译的工具|71|1|2021-12-23|
+|16|[tianlian0/paper_checking_system](https://github.com/tianlian0/paper_checking_system)|基于C#和C++开发的文本查重/论文查重系统，一亿字次级论文库秒级查重。关联：查重算法、数据去重、文档查重、文本去重、标书查重、辅助防串标、作业查重、duplicate check|228|0|2021-12-11|
 |17|[xyfll7/CV-translation](https://github.com/xyfll7/CV-translation)|我叫CV翻译，因为我的精髓就是Ctrl + c 不用v  （原名QTranser）|205|0|2021-08-04|
 |18|[xin-lai/Magicodes.Wx.Sdk](https://github.com/xin-lai/Magicodes.Wx.Sdk)|最简洁最易于使用的微信Sdk，包括公众号Sdk、小程序Sdk、企业微信Sdk等，以及Abp VNext集成。|73|0|2021-08-26|
 |19|[sdcb/blog-data](https://github.com/sdcb/blog-data)|《.NET骚操作》的博客数据|72|0|2021-12-14|
 |20|[lprensoft/FlowerMaster](https://github.com/lprensoft/FlowerMaster)|DMM游戏《美少女花骑士》专属浏览器。|35|0|2021-08-27|
 |21|[EasyAbp/Abp.WeChat](https://github.com/EasyAbp/Abp.WeChat)|Abp 微信 SDK 模块，包含对微信小程序、公众号、企业微信、开放平台、第三方平台等相关接口封装。|220|0|2021-12-17|
 |22|[WOA-Project/Lumia-Drivers](https://github.com/WOA-Project/Lumia-Drivers)|Collection of driver binaries for Lumia devices|123|0|2021-10-31|
-|23|[axzxs2001/Asp.NetCoreExperiment](https://github.com/axzxs2001/Asp.NetCoreExperiment)|原来所有项目都移动到**OleVersion**目录下进行保留。新的案例装以.net 5.0为主，一部分对以前案例进行升级，一部分将以前的工作经验总结出来，以供大家参考！|295|0|2021-12-24|
+|23|[axzxs2001/Asp.NetCoreExperiment](https://github.com/axzxs2001/Asp.NetCoreExperiment)|原来所有项目都移动到**OleVersion**目录下进行保留。新的案例装以.net 5.0为主，一部分对以前案例进行升级，一部分将以前的工作经验总结出来，以供大家参考！|295|0|2021-12-26|
 |24|[Tlaster/WeiPo](https://github.com/Tlaster/WeiPo)|第三方微博客户端|29|0|2021-08-11|
 |25|[lesliexinxin/LeslieXin.SimpleMMF](https://github.com/lesliexinxin/LeslieXin.SimpleMMF)|简单、易用的进程间通信框架，基于共享内存实现。 A simple, easy-to-use framework for interprocess communication based on shared memory|54|0|2021-08-05|
 |26|[NewFuture/WebPrint](https://github.com/NewFuture/WebPrint)|a simple website to share your printers to others online. 简单的在线打印[局域网免驱动配置共享打印机方案]|41|0|2021-06-22|
@@ -37,13 +37,13 @@
 |30|[xiajingren/HelloAbp](https://github.com/xiajingren/HelloAbp)|ABP vNext + vue-element-admin入门级项目实践|216|0|2021-07-31|
 |31|[csdjk/LearnUnity](https://github.com/csdjk/LearnUnity)|学习Unity过程中的一些记录，demo。|48|0|2021-07-29|
 |32|[WangPney/WechatHelper7010](https://github.com/WangPney/WechatHelper7010)|Ipad、MAC、Windows协议，微信协议（本开源项目是7.0.14 C#版本的，学习用，商用JAVA源码独家804协议测试 请看下面）|33|0|2021-07-13|
-|33|[944095635/MVVM](https://github.com/944095635/MVVM)|适合新人学习的WPF MVVM案例|95|0|2021-11-28|
+|33|[944095635/MVVM](https://github.com/944095635/MVVM)|适合新人学习的WPF MVVM案例|96|0|2021-11-28|
 |34|[taecg/ShaderReference](https://github.com/taecg/ShaderReference)|针对Unity的Shader参考大全|60|0|2021-12-24|
-|35|[lindexi/lindexi_gd](https://github.com/lindexi/lindexi_gd)|博客用到的代码|79|0|2021-12-24|
+|35|[lindexi/lindexi_gd](https://github.com/lindexi/lindexi_gd)|博客用到的代码|79|0|2021-12-26|
 |36|[Xzonn/PokemonChineseTranslationRevise](https://github.com/Xzonn/PokemonChineseTranslationRevise)|《宝可梦》第四、第五世代汉化修正|30|0|2021-10-02|
-|37|[zhaotianff/CSharpCrawler](https://github.com/zhaotianff/CSharpCrawler)|C#爬虫示例程序，想学习爬虫入门知识的可以看过来。后续会慢慢加入更多爬虫相关的知识。|125|0|2021-11-02|
+|37|[zhaotianff/CSharpCrawler](https://github.com/zhaotianff/CSharpCrawler)|C#爬虫示例程序，想学习爬虫入门知识的可以看过来。后续会慢慢加入更多爬虫相关的知识。|127|0|2021-11-02|
 |38|[yeliudev/SeatKiller-GUI](https://github.com/yeliudev/SeatKiller-GUI)|A GUI library seat booking tool for Wuhan University - 武汉大学图书馆抢座软件，支持定时抢座、捡漏模式、座位改签、邮件提醒、座位锁定|72|0|2021-09-14|
-|39|[KevinWG/OSS.Clients.SNS](https://github.com/KevinWG/OSS.Clients.SNS)|社交网站sdk(标准库)，微信公众号（订阅号，服务号，小程序）接口sdk-包含消息回复(明文和安全模式)，Oauth2.0授权等|138|0|2021-12-14|
+|39|[KevinWG/OSS.Clients.SNS](https://github.com/KevinWG/OSS.Clients.SNS)|社交网站sdk(标准库)，微信公众号（订阅号，服务号，小程序）接口sdk-包含消息回复(明文和安全模式)，Oauth2.0授权等|139|0|2021-12-14|
 |40|[cyanray/cx-auto-sign](https://github.com/cyanray/cx-auto-sign)|⭐超星学习通自动签到工具，通过IM协议监测签到活动。|50|0|2021-11-25|
 |41|[MoonLord-LM/QiNiuMaster](https://github.com/MoonLord-LM/QiNiuMaster)|A batch tool for the QiNiu Cloud Storage. QiNiuMaster 七牛云存储批量管理工具（C#）|44|0|2021-08-28|
 |42|[yangan666/SuperNAT](https://github.com/yangan666/SuperNAT)|SuperNAT是基于.NET 5.0开源跨平台的内网穿透程序，功能类似花生壳，可用于穿透内网web应用，微信公众号本地调试等，目前支持http穿透，tcp穿透，websocket穿透。QQ交流群：854594944|171|0|2021-09-09|
@@ -53,9 +53,9 @@
 |46|[zLulus/NotePractice](https://github.com/zLulus/NotePractice)|My_Note 笔记练习demo|106|0|2021-12-21|
 |47|[superzhan/UnityBubbleGame](https://github.com/superzhan/UnityBubbleGame)|   BubbleGame《天天萌泡泡》是一款简单好玩的消除游戏，点击三个或以上同颜色、相连接的泡泡来进行消除，简单而有趣。|258|0|2021-10-19|
 |48|[xpnas/inotify](https://github.com/xpnas/inotify)|一个简易消息通知系统，支持企业微信、电报机器人、邮件推送、内置BARK推送、钉钉群机器人、飞书群机器人，类似Server酱，支持私有Docker部署|88|0|2021-10-21|
-|49|[luoyunchong/dotnetcore-examples](https://github.com/luoyunchong/dotnetcore-examples)| about learning DotNetCore via examples. DotNetCore 教程、技术栈示例代码，快速简单上手教程。|88|0|2021-12-25|
+|49|[luoyunchong/dotnetcore-examples](https://github.com/luoyunchong/dotnetcore-examples)| about learning DotNetCore via examples. DotNetCore 教程、技术栈示例代码，快速简单上手教程。|88|0|2021-12-26|
 |50|[SeeSharpOpenSource/SeeSharpTools](https://github.com/SeeSharpOpenSource/SeeSharpTools)|This open source repository is developed and maintained by the JYTEK company, Shanghai, China, for the purpose of facilitating the development of the test and measurement using C# programming language ...|66|0|2021-06-29|
-|51|[XIU2/UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool)|📃 UAC 白名单小工具！|133|0|2021-12-02|
+|51|[XIU2/UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool)|📃 UAC 白名单小工具！|134|0|2021-12-02|
 |52|[pwj0528/BiliBiliTool](https://github.com/pwj0528/BiliBiliTool)|.Net 5 编写的B站（哔哩哔哩）任务工具，通过GitHub Actions实现每日线上自动运行任务：每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6，实现自动领取大会员权益、月底自动为自己充电等功能。|27|0|2021-11-14|
 |53|[luckyWjr/Demo](https://github.com/luckyWjr/Demo)|一些Unity 功能测试的Demo合集|26|0|2021-07-02|
 |54|[bimangle/forge-author-samples](https://github.com/bimangle/forge-author-samples)|Demonstrate how to use ForgeAuthor manipulate Autodesk Forge Svf model.|36|0|2021-10-25|

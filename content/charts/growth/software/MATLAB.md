@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -10,7 +10,7 @@
 |3|[lxlonlyn/numerical-analysis](https://github.com/lxlonlyn/numerical-analysis)|你知道数值分析的痛吗|3|0|2021-06-11|
 |4|[zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW)|Collaborative representation with background purification and saliency weight for hyperspectral anomaly detection|7|0|2021-09-15|
 |5|[complone/NaSch](https://github.com/complone/NaSch)|三车道交通流元胞自动机matlab实现|19|0|2021-08-07|
-|6|[weisongwen/researchTools](https://github.com/weisongwen/researchTools)|useful blogs for research|73|0|2021-11-23|
+|6|[weisongwen/researchTools](https://github.com/weisongwen/researchTools)|useful blogs for research|74|0|2021-11-23|
 |7|[zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW-](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW-)|This is the code for the paper nemed  'Anomaly Detection for Hyperspectral Imagery Based on the Regularized Subspace Method and Collaborative Representation'|16|0|2021-09-28|
 |8|[ShurenQi/MomentToolbox](https://github.com/ShurenQi/MomentToolbox)|Matlab code for the paper "A survey of orthogonal moments for image representation: Theory, implementation, and evaluation"|12|0|2021-11-25|
 |9|[JackHCC/Audio-Digital-Processing](https://github.com/JackHCC/Audio-Digital-Processing)|数字信号处理大作业：Matlab实现语音分析：加噪声，频谱分析，滤波器等等（内附报告）【Matlab for speech analysis: add noise, spectrum analysis, filter, etc】|37|0|2021-06-29|
@@ -40,7 +40,7 @@
 |33|[LingyvKong/PatternRecognition-with-matlab](https://github.com/LingyvKong/PatternRecognition-with-matlab)|使用matlab从0构建模式识别算法|5|0|2021-06-26|
 |34|[tangkk/tangkk-mirex-ace](https://github.com/tangkk/tangkk-mirex-ace)|large vocabulary automatic chord estimation with deep learning|13|0|2021-06-02|
 |35|[guoyun2020/LMS-Based-Adaptive-Filtering-Denoising-Algorithm](https://github.com/guoyun2020/LMS-Based-Adaptive-Filtering-Denoising-Algorithm)|一种基于LMS的自适应蓝牙耳机降噪算法|3|0|2021-06-15|
-|36|[xingchenzhang/VIFB](https://github.com/xingchenzhang/VIFB)|Visible and Infrared Image Fusion Benchmark|144|0|2021-09-27|
+|36|[xingchenzhang/VIFB](https://github.com/xingchenzhang/VIFB)|Visible and Infrared Image Fusion Benchmark|145|0|2021-09-27|
 |37|[Heisenberg0391/DigitalSignalProcess_MATLAB](https://github.com/Heisenberg0391/DigitalSignalProcess_MATLAB)|数字信号处理matlab程序|3|0|2021-06-28|
 |38|[gain-wyj/Color-image-enhancement](https://github.com/gain-wyj/Color-image-enhancement)|基于HSI和局部同态滤波的彩色图像增强算法|3|0|2021-07-05|
 |39|[seer-group329/PositionAndPosConnectionOfTheCar](https://github.com/seer-group329/PositionAndPosConnectionOfTheCar)|在已知无人仓储车的起始与目标位姿的条件下，得到三阶连续的曲线路径|5|0|2021-09-18|
@@ -74,7 +74,7 @@
 |67|[tyl-stu/Compressed-sensing-code](https://github.com/tyl-stu/Compressed-sensing-code)|自己搜集和改写的压缩感知相关程序代码|3|0|2021-07-26|
 |68|[fuzhiqiang1230/DLRRPD](https://github.com/fuzhiqiang1230/DLRRPD)|This repository is used for sharing the source code of Double low-rank representation with projection distance penalty for clustering|9|0|2021-12-08|
 |69|[redglassli/Formation_Consensus_basic](https://github.com/redglassli/Formation_Consensus_basic)|A basic version for robot formation consensus and obstacle avoidance by MATLAB|11|0|2021-06-10|
-|70|[Magica-Chen/zhihu_writing](https://github.com/Magica-Chen/zhihu_writing)|Some simple codes for zhihu column writing: 高斯世界下的Machine Learning|3|0|2021-11-04|
+|70|[Magica-Chen/zhihu_writing](https://github.com/Magica-Chen/zhihu_writing)|Some simple codes for zhihu column writing: 高斯世界下的Machine Learning|3|0|2021-12-26|
 |71|[WeisongZhao/Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|Official MATLAB implementation of the "Sparse deconvolution" -v1.0.3|25|0|2021-11-20|
 |72|[AomanHao/Matlab-Image-Dehaze-Enhance](https://github.com/AomanHao/Matlab-Image-Dehaze-Enhance)|图像去雾、图像增强、灰度直方图均衡化等|39|0|2021-10-23|
 |73|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|3|0|2021-12-03|
@@ -90,10 +90,10 @@
 |83|[YXL76/Communication-System-Modeling-and-Simulation](https://github.com/YXL76/Communication-System-Modeling-and-Simulation)|BUPT 通信系统建模与仿真|2|0|2021-06-19|
 |84|[TianLin0509/BF-design-with-DL](https://github.com/TianLin0509/BF-design-with-DL)|Beamforming design with deep learning.|126|0|2021-08-01|
 |85|[liuziwei7/fashion-landmarks](https://github.com/liuziwei7/fashion-landmarks)|Fashion Landmark Detection in the Wild|329|0|2021-10-09|
-|86|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|11|0|2021-12-24|
+|86|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|11|0|2021-12-26|
 |87|[mingli-ai/FaVeST](https://github.com/mingli-ai/FaVeST)|Fast Vector Spherical Harmonic Transforms|11|0|2021-10-13|
 |88|[chdilo/BadAppleOSC](https://github.com/chdilo/BadAppleOSC)|在示波器上播放Bad Apple!!|10|0|2021-09-29|
-|89|[cggos/opt_matlab](https://github.com/cggos/opt_matlab)|最优化方法及其MATLAB实现 源代码|7|0|2021-10-07|
+|89|[cggos/opt_matlab](https://github.com/cggos/opt_matlab)|最优化方法及其MATLAB实现 源代码|8|0|2021-10-07|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -1,22 +1,22 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Objective-C
-<sub>数据更新: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[pujiaxin33/JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)|A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|5571|2021-10-25|
-|2|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4637|2021-12-07|
+|1|[pujiaxin33/JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)|A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|5570|2021-10-25|
+|2|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4642|2021-12-07|
 |3|[skyming/iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)|关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit|4343|2021-08-09|
 |4|[liberalisman/iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection)|iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。|2926|2021-06-09|
-|5|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2320|2021-12-16|
+|5|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2319|2021-12-16|
 |6|[objccn/articles](https://github.com/objccn/articles)|Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本|2086|2021-11-02|
-|7|[SunshineBrother/JHBlog](https://github.com/SunshineBrother/JHBlog)|iOS开发：我的初级到中级的晋级之路|1185|2021-07-29|
-|8|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1183|2021-12-23|
+|7|[SunshineBrother/JHBlog](https://github.com/SunshineBrother/JHBlog)|iOS开发：我的初级到中级的晋级之路|1186|2021-07-29|
+|8|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1184|2021-12-23|
 |9|[GGGHub/Reader](https://github.com/GGGHub/Reader)|iOS基于CoreText实现的电子书阅读器，支持txt，epub格式|1115|2021-08-28|
-|10|[HeathWang/HWPanModal](https://github.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|873|2021-11-30|
-|11|[wwmz/WMZDialog](https://github.com/wwmz/WMZDialog)|功能最多样式最多的弹窗，支持普通/底部/日期/地区/日历/选择/编辑/分享/菜单/自定义弹窗等,支持多种动画,链式编程调用(Pop-up windows with the most functions and styles, support normal/bottom/date/region/calendar/select/edit/share/menu/custom pop-up windows ...|838|2021-12-21|
-|12|[wwmz/WMZPageController](https://github.com/wwmz/WMZPageController)|分页控制器,替换UIPageController方案,具备完整的生命周期,多种指示器样式,多种标题样式,可悬浮,支持ios13暗黑模式(仿优酷,爱奇艺,今日头条,简书,京东等多种标题菜单) (Pagination controller with full life cycle, multiple indicator styles, multiple title styles)|545|2021-12-08|
+|10|[HeathWang/HWPanModal](https://github.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|872|2021-11-30|
+|11|[wwmz/WMZDialog](https://github.com/wwmz/WMZDialog)|功能最多样式最多的弹窗，支持普通/底部/日期/地区/日历/选择/编辑/分享/菜单/自定义弹窗等,支持多种动画,链式编程调用(Pop-up windows with the most functions and styles, support normal/bottom/date/region/calendar/select/edit/share/menu/custom pop-up windows ...|837|2021-12-21|
+|12|[wwmz/WMZPageController](https://github.com/wwmz/WMZPageController)|分页控制器,替换UIPageController方案,具备完整的生命周期,多种指示器样式,多种标题样式,可悬浮,支持ios13暗黑模式(仿优酷,爱奇艺,今日头条,简书,京东等多种标题菜单) (Pagination controller with full life cycle, multiple indicator styles, multiple title styles)|544|2021-12-08|
 |13|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|443|2021-12-03|
 |14|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|433|2021-12-24|
 |15|[LGCooci/KCiOSGrocery](https://github.com/LGCooci/KCiOSGrocery)|iOS开发杂货铺: 面试题+考试试卷+懒人开发tips|431|2021-10-10|
@@ -30,7 +30,7 @@
 |23|[muzipiao/OOB](https://github.com/muzipiao/OOB)|基于 OpenCV，使用模板匹配法识别图像，供参考学习。|123|2021-11-08|
 |24|[tianya2416/GKiOSNovel](https://github.com/tianya2416/GKiOSNovel)|Swift、小说、小说阅读、读书神器、自定义首页、千万部小说任你选择、数据缓存|97|2021-11-28|
 |25|[bytesking/YJCategories](https://github.com/bytesking/YJCategories)|Objective-C 常用分类集合，支持Cocoapods|88|2021-06-15|
-|26|[kopuCoder/iOS_Development-Book](https://github.com/kopuCoder/iOS_Development-Book)|适合iOS中高级开发工程狮提升个人能力业务水平的书籍|78|2021-11-01|
+|26|[kopuCoder/iOS_Development-Book](https://github.com/kopuCoder/iOS_Development-Book)|适合iOS中高级开发工程狮提升个人能力业务水平的书籍|79|2021-11-01|
 |27|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|63|2021-12-20|
 |28|[ZenonHuang/MyDemos](https://github.com/ZenonHuang/MyDemos)|💾 Demo 集合 . 黑发不知勤学早，白首方悔读书迟.|62|2021-11-26|
 |29|[lingjye/iOS-Learning](https://github.com/lingjye/iOS-Learning)|iOS知识总结|61|2021-07-13|
@@ -48,8 +48,8 @@
 |41|[bqlin/Apple-Sample-Code](https://github.com/bqlin/Apple-Sample-Code)|苹果示例代码学习|18|2021-09-02|
 |42|[DJI-Mobile-SDK-Tutorials/iOS-SimulatorDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-SimulatorDemo)|This demo shows you how to use the DJISimulator of DJI Mobile SDK.|17|2021-10-11|
 |43|[haxibiao/react-native-qq-lib](https://github.com/haxibiao/react-native-qq-lib)|🔥  React Native bridging library that integrates QQ SDKs. QQ 登陆 分享，集成 QQ SDK |16|2021-11-12|
-|44|[XLsn0w/XLsn0w](https://github.com/XLsn0w/XLsn0w)|🔥🔥🔥联系我:XLsn00w@gmail.com   微信公众号: Cydia   Cydia官方源: https://xlsn0w.github.io/tweaks/ 🔥🔥🔥|15|2021-07-23|
-|45|[xiaoeteam/XiaoeAppSDK-iOS](https://github.com/xiaoeteam/XiaoeAppSDK-iOS)|通过小鹅通APP内嵌SDK可以在 App 内快速集成小鹅通提供的整个交易服务，享受完善的基础知识商品能力、营销玩法，更有小鹅通强劲的技术及服务作保障，实现低成本、高效率、强融合的移动商城方案，快速获得 App 流量的商业化变现。|13|2021-10-26|
+|44|[xiaoeteam/XiaoeAppSDK-iOS](https://github.com/xiaoeteam/XiaoeAppSDK-iOS)|通过小鹅通APP内嵌SDK可以在 App 内快速集成小鹅通提供的整个交易服务，享受完善的基础知识商品能力、营销玩法，更有小鹅通强劲的技术及服务作保障，实现低成本、高效率、强融合的移动商城方案，快速获得 App 流量的商业化变现。|13|2021-10-26|
+|45|[XLsn0w/XLsn0w](https://github.com/XLsn0w/XLsn0w)|🔥🔥🔥联系我:XLsn00w@gmail.com   微信公众号: Cydia   Cydia官方源: https://xlsn0w.github.io/tweaks/ 🔥🔥🔥|13|2021-07-23|
 |46|[BlackStarLang/BSFramework](https://github.com/BlackStarLang/BSFramework)|多功能 framework，持续集成中。已开发pod组件：图片、视频选择器、图片视频预览控件、自定义相机：拍照+拍摄 ，3D轮播图 + iOS功能点学习（如 runloop、runtime、多线程、AutoreleasePool、DynamicBehavior 等等)|12|2021-12-06|
 |47|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|11|2021-12-16|
 |48|[HMS-Core/hms-analytics-demo-ios](https://github.com/HMS-Core/hms-analytics-demo-ios)|HMS analytics kit demo provides an example of integrating HUAWEI Analytics Kit with an app. It illustrates how to collect predefined events and custom events on two pages, namely, question page or use ...|11|2021-09-13|
@@ -74,16 +74,16 @@
 |67|[poholo/MCShare](https://github.com/poholo/MCShare)|Social share & Auth(QQ、微信、微博、支付宝、Telegram、钉钉).|4|2021-08-10|
 |68|[Meterwhite/KeyPathExtension](https://github.com/Meterwhite/KeyPathExtension)|An extension of KeyPath for KVC.You can use struct, predicate in KeyPath.在KVC中使用谓词和结构体|4|2021-11-09|
 |69|[huangboju/Study](https://github.com/huangboju/Study)|一些学习的东西|4|2021-06-09|
-|70|[zhangxistudy11/KnowledgeSummaryOfObjectC](https://github.com/zhangxistudy11/KnowledgeSummaryOfObjectC)|本项目集合了我写的很多Demo，以及封装的工具类，大部分Demo的实现思路、技巧、细节我都会对应一篇简书的文章：http://www.jianshu.com/u/c4d558e26604   |4|2021-12-19|
+|70|[zhangxistudy11/KnowledgeSummaryOfObjectC](https://github.com/zhangxistudy11/KnowledgeSummaryOfObjectC)|本项目集合了我写的很多Demo，以及封装的工具类，大部分Demo的实现思路、技巧、细节我都会对应一篇简书的文章：http://www.jianshu.com/u/c4d558e26604   |4|2021-12-26|
 |71|[Baffin-HSL/Flutter_UI](https://github.com/Baffin-HSL/Flutter_UI)|适合Flutter初学者学习的项目|3|2021-08-19|
-|72|[SmartPear/NavigationTest](https://github.com/SmartPear/NavigationTest)|工具类集合 侧滑菜单栏展示，扇形显示文字。 增加富文本 使用TideLayer大图切片显示 完美导航栏渐变效果|3|2021-12-23|
-|73|[1691665955/StudyDemo](https://github.com/1691665955/StudyDemo)|一些关于iOS的学习总结|3|2021-07-28|
-|74|[wlpiaoyi/PYUtile](https://github.com/wlpiaoyi/PYUtile)|常用功能集合|3|2021-08-10|
-|75|[CorderC/flutter_wechat_share_plugin](https://github.com/CorderC/flutter_wechat_share_plugin)|flutter版本的关于微信分享功能组件，包括分享文字，图片，音乐，网页以及打开微信小程序等，ios与安卓均已实现对应的功能|2|2021-06-03|
-|76|[zhanglexiaoge/flutter_zl](https://github.com/zhanglexiaoge/flutter_zl)|对自己学习flutter总结，相当于完整flutter app 开发|2|2021-06-15|
-|77|[BrooksWon/Blogs](https://github.com/BrooksWon/Blogs)|一些笔记|2|2021-12-08|
-|78|[LYajun/LGNote](https://github.com/LYajun/LGNote)|笔记工具|2|2021-07-16|
-|79|[yuansirios/iOS-Learning-Collection](https://github.com/yuansirios/iOS-Learning-Collection)|关于iOS日常开发整理，希望能给正在学习的你提供点帮助，原创资料，有不对的地方或者有更好的实现方法，希望大家指正，不胜感激|2|2021-07-09|
+|72|[yuansirios/iOS-Learning-Collection](https://github.com/yuansirios/iOS-Learning-Collection)|关于iOS日常开发整理，希望能给正在学习的你提供点帮助，原创资料，有不对的地方或者有更好的实现方法，希望大家指正，不胜感激|3|2021-07-09|
+|73|[SmartPear/NavigationTest](https://github.com/SmartPear/NavigationTest)|工具类集合 侧滑菜单栏展示，扇形显示文字。 增加富文本 使用TideLayer大图切片显示 完美导航栏渐变效果|3|2021-12-23|
+|74|[1691665955/StudyDemo](https://github.com/1691665955/StudyDemo)|一些关于iOS的学习总结|3|2021-07-28|
+|75|[wlpiaoyi/PYUtile](https://github.com/wlpiaoyi/PYUtile)|常用功能集合|3|2021-08-10|
+|76|[CorderC/flutter_wechat_share_plugin](https://github.com/CorderC/flutter_wechat_share_plugin)|flutter版本的关于微信分享功能组件，包括分享文字，图片，音乐，网页以及打开微信小程序等，ios与安卓均已实现对应的功能|2|2021-06-03|
+|77|[zhanglexiaoge/flutter_zl](https://github.com/zhanglexiaoge/flutter_zl)|对自己学习flutter总结，相当于完整flutter app 开发|2|2021-06-15|
+|78|[BrooksWon/Blogs](https://github.com/BrooksWon/Blogs)|一些笔记|2|2021-12-08|
+|79|[LYajun/LGNote](https://github.com/LYajun/LGNote)|笔记工具|2|2021-07-16|
 |80|[xingtianyoulong/index-learning](https://github.com/xingtianyoulong/index-learning)|构建高速互联网发展中最快、最好、最全的索引学习体系|2|2021-07-22|
 |81|[duhongxing/iOS-Dev-OC](https://github.com/duhongxing/iOS-Dev-OC)|iOS开发基础知识回顾|2|2021-08-30|
 |82|[mc3747/2_ObjectiveCSummary](https://github.com/mc3747/2_ObjectiveCSummary)|ObjectiveC各种知识点汇总！|2|2021-11-03|

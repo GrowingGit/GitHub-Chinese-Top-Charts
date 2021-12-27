@@ -1,39 +1,39 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > CSS
-<sub>数据更新: 2021-12-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[fingerchar/fingernft](https://github.com/fingerchar/fingernft)|FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。|671|2021-12-22|2021-11-21|
+|1|[fingerchar/fingernft](https://github.com/fingerchar/fingernft)|FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。|672|2021-12-22|2021-11-21|
 |2|[cool-team-official/cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue)|cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 2.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建|554|2021-12-18|2021-02-27|
-|3|[admin360bug/PHP](https://github.com/admin360bug/PHP)|PHP训练靶场|296|2021-08-04|2021-08-04|
-|4|[phith0n/conote-community](https://github.com/phith0n/conote-community)|Conote 综合安全测试平台社区版。|271|2021-12-09|2021-12-09|
+|3|[admin360bug/PHP](https://github.com/admin360bug/PHP)|PHP训练靶场|323|2021-08-04|2021-08-04|
+|4|[phith0n/conote-community](https://github.com/phith0n/conote-community)|Conote 综合安全测试平台社区版。|273|2021-12-09|2021-12-09|
 |5|[hanc00l/nemo_go](https://github.com/hanc00l/nemo_go)|Nemo是用来进行自动化信息收集的一个简单平台，通过集成常用的信息收集工具和技术，实现对内网及互联网资产信息的自动收集，提高隐患排查和渗透测试的工作效率，用Go语言完全重构了原Python版本。|211|2021-12-13|2021-07-29|
 |6|[Lavender-z/demo](https://github.com/Lavender-z/demo)|每天一个有趣的前端案例|183|2021-06-07|2021-02-09|
 |7|[qq8e/qq](https://github.com/qq8e/qq)|8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多|159|2021-11-05|2021-02-06|
-|8|[vanyouseea/o365](https://github.com/vanyouseea/o365)|O365管理系统是一个以java语言开发的基于Microsoft Graph Restful API的多全局管理系统，理论上支持任何Office全局的管理(A1,A3,A1P,E3,E5等)，你可以很方便的使用它来批量添加，批量删除，批量启用，批量禁用，搜索和查看用户，生成邀请码，邀请朋友注册，提升和收回管理员权限，更新密钥，查看订阅，分配订阅(创新用户时)，查看多全局报告|145|2021-12-11|2021-04-22|
-|9|[xiangjianan/lks](https://github.com/xiangjianan/lks)|🔗 B站博主 -LKs- 网站推荐 🔗|132|2021-12-09|2021-03-02|
+|8|[vanyouseea/o365](https://github.com/vanyouseea/o365)|O365管理系统是一个以java语言开发的基于Microsoft Graph Restful API的多全局管理系统，理论上支持任何Office全局的管理(A1,A3,A1P,E3,E5等)，你可以很方便的使用它来批量添加，批量删除，批量启用，批量禁用，搜索和查看用户，生成邀请码，邀请朋友注册，提升和收回管理员权限，更新密钥，查看订阅，分配订阅(创新用户时)，查看多全局报告|146|2021-12-11|2021-04-22|
+|9|[xiangjianan/lks](https://github.com/xiangjianan/lks)|🔗 B站博主 -LKs- 网站推荐 🔗|132|2021-12-26|2021-03-02|
 |10|[ChisBread/transmission_skip_patch](https://github.com/ChisBread/transmission_skip_patch)|为transmission v3.0 增加 "快速校验" 功能|104|2021-12-25|2021-09-04|
 |11|[GoneTone/genshin-impact-wish-gacha-analyzer](https://github.com/GoneTone/genshin-impact-wish-gacha-analyzer)|原神祈願卡池分析 Genshin Impact Wish Gacha Analyzer   A utility for analyzing gacha history, where all data and numbers are well-organized in a convenient manner!|90|2021-11-25|2021-03-05|
-|12|[BobCoderS9/SSPanel-Metron](https://github.com/BobCoderS9/SSPanel-Metron)|SSPanel-Metron主题，目前由@Bobs9维护开发中。|75|2021-12-24|2021-06-24|
+|12|[BobCoderS9/SSPanel-Metron](https://github.com/BobCoderS9/SSPanel-Metron)|SSPanel-Metron主题，目前由@Bobs9维护开发中。|75|2021-12-26|2021-06-24|
 |13|[q19980722/Typora-theme-jiaran](https://github.com/q19980722/Typora-theme-jiaran)|-|70|2021-12-08|2021-09-16|
 |14|[eysp/public](https://github.com/eysp/public)|portainer-ce 汉化文件|69|2021-10-20|2021-02-06|
 |15|[afi-team/website](https://github.com/afi-team/website)|蚂蚁前端基础设施团队（Ant Frontend Infrastructure）官方网站|67|2021-09-13|2021-02-15|
 |16|[wilde3/typora-theme-redrail](https://github.com/wilde3/typora-theme-redrail)|This is a typora theme inspired by pie and ursine theme. 一个typora主题，具有pie和ursine风格。|60|2021-06-09|2021-03-31|
 |17|[niclin/bernard](https://github.com/niclin/bernard)|這是你最後一次忘記打卡|53|2021-12-06|2021-06-18|
-|18|[KawayAlpaka/Sorter](https://github.com/KawayAlpaka/Sorter)|一个排序算法动态演示工具|49|2021-07-25|2021-07-13|
-|19|[git9527/anki-awesome-select](https://github.com/git9527/anki-awesome-select)|This is the select template for Anki with awesome interface/Anki选择题模板|49|2021-11-11|2021-03-20|
+|18|[git9527/anki-awesome-select](https://github.com/git9527/anki-awesome-select)|This is the select template for Anki with awesome interface/Anki选择题模板|50|2021-11-11|2021-03-20|
+|19|[KawayAlpaka/Sorter](https://github.com/KawayAlpaka/Sorter)|一个排序算法动态演示工具|49|2021-07-25|2021-07-13|
 |20|[JadeVane/Allure](https://github.com/JadeVane/Allure)|A more beautiful and simple theme for trilium|48|2021-11-26|2021-02-05|
 |21|[MondayCha/Typora-Academic-Zh](https://github.com/MondayCha/Typora-Academic-Zh)|Typora 中文学术风格主题|45|2021-12-20|2021-01-21|
 |22|[teddy21019/weeb-message](https://github.com/teddy21019/weeb-message)|肥宅講話模擬器|44|2021-09-20|2021-09-16|
 |23|[ytq2019/go-vip-video](https://github.com/ytq2019/go-vip-video)|基于beego的全网vip视频微端，自动更新版，欢迎star|42|2021-08-16|2021-04-19|
 |24|[LIAOJIANS/large-screen-template](https://github.com/LIAOJIANS/large-screen-template)|React+ts+qiankun大屏实战模板|40|2021-09-26|2021-01-07|
-|25|[rocky-git/E-admin](https://github.com/rocky-git/E-admin)|E-admin是一个基于Element Plus开发而成后台系统构建工具，无需关注页面模板JavaScript，只用php代码即可快速构建出一个功能完善的后台系统。|36|2021-12-25|2021-06-30|
+|25|[rocky-git/E-admin](https://github.com/rocky-git/E-admin)|E-admin是一个基于Element Plus开发而成后台系统构建工具，无需关注页面模板JavaScript，只用php代码即可快速构建出一个功能完善的后台系统。|36|2021-12-26|2021-06-30|
 |26|[MarleneJiang/WebDemo](https://github.com/MarleneJiang/WebDemo)|开源一些自制的小网页|28|2021-10-07|2021-08-20|
 |27|[AuroraTea/Web](https://github.com/AuroraTea/Web)|发在B站上的视频对应的源代码，有些内容不是原创的会在代码中注释。|28|2021-10-28|2021-02-25|
 |28|[NiceSprite34/GuanDong_Portal](https://github.com/NiceSprite34/GuanDong_Portal)|天翼校园 PHP登录|26|2021-11-18|2021-01-17|
-|29|[Nacandev/Ohmine-Dark-Theme-For-Joplin](https://github.com/Nacandev/Ohmine-Dark-Theme-For-Joplin)|This is a custom CSS theme for the opensource note-taking app Joplin.|24|2021-12-18|2021-09-14|
+|29|[Nacandev/Ohmine-Dark-Theme-For-Joplin](https://github.com/Nacandev/Ohmine-Dark-Theme-For-Joplin)|This is a custom CSS theme for the opensource note-taking app Joplin.|24|2021-12-26|2021-09-14|
 |30|[actions-cool/cool](https://github.com/actions-cool/cool)|😎 Cool is over. 酷就完事了。https://actions-cool.github.io/cool/|24|2021-12-22|2021-02-05|
 |31|[jasonLaw1015/GfEasyAdmin](https://github.com/jasonLaw1015/GfEasyAdmin)|快速crud开发框架，甚至于一行代码不用敲；自动根据数据库表结构自动生成crud代码；低代码开发框架；至少减少百分90%工作量；可快速把现有系统转成GfEasy版本；后端使用GoFrame开发;后台前端使用 cool-admin-vue；后台使用自适应布局，手机、PC完美使用。|23|2021-12-09|2021-09-02|
 |32|[didiaohu/50projects50days](https://github.com/didiaohu/50projects50days)|50个项目50天|23|2021-07-17|2021-07-17|
@@ -56,10 +56,10 @@
 |49|[HXSecurity/DongTai-web](https://github.com/HXSecurity/DongTai-web)|dongtai web is the front-end project of "huoxian DongTaiIast" and is responsible for page display|12|2021-12-21|2021-03-22|
 |50|[jrainlau/MY-Kit](https://github.com/jrainlau/MY-Kit)|基于 Vite 的超丝滑 Vue3 组件库开发框架|11|2021-12-12|2021-12-11|
 |51|[MiloTnT/gym-management-system](https://github.com/MiloTnT/gym-management-system)|毕业设计，基于Spring Boot的健身房管理系统。|11|2021-08-24|2021-08-15|
-|52|[HUST-OS/qf.rs](https://github.com/HUST-OS/qf.rs)|恰饭网：华中科技大学系统能力竞赛团队主页|11|2021-07-23|2021-05-19|
-|53|[mengrru/mastodon-on-blog](https://github.com/mengrru/mastodon-on-blog)|Put a Mastodon widget on your website or blog|10|2021-11-06|2021-10-29|
-|54|[booooodv/PodLetter](https://github.com/booooodv/PodLetter)|播客、简报导航网站|10|2021-12-23|2021-09-12|
-|55|[LeonWong0609/D42ker-Logseq](https://github.com/LeonWong0609/D42ker-Logseq)|Default Logseq dark theme with 0 saturation background and some other tweaks.|10|2021-12-14|2021-05-29|
+|52|[LeonWong0609/D42ker-Logseq](https://github.com/LeonWong0609/D42ker-Logseq)|Default Logseq dark theme with 0 saturation background and some other tweaks.|11|2021-12-14|2021-05-29|
+|53|[HUST-OS/qf.rs](https://github.com/HUST-OS/qf.rs)|恰饭网：华中科技大学系统能力竞赛团队主页|11|2021-07-23|2021-05-19|
+|54|[mengrru/mastodon-on-blog](https://github.com/mengrru/mastodon-on-blog)|Put a Mastodon widget on your website or blog|10|2021-11-06|2021-10-29|
+|55|[booooodv/PodLetter](https://github.com/booooodv/PodLetter)|播客、简报导航网站|10|2021-12-23|2021-09-12|
 |56|[yesmore/ShowyPX](https://github.com/yesmore/ShowyPX)|✨ 纯静态canvas动画特效网站。|9|2021-11-16|2021-11-07|
 |57|[suchen9209/poke_texas_hold_em](https://github.com/suchen9209/poke_texas_hold_em)|-|9|2021-10-27|2021-08-07|
 |58|[wanghao221/css-cube](https://github.com/wanghao221/css-cube)|3D旋转立方体|9|2021-07-15|2021-07-15|
