@@ -1,18 +1,18 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Swift
-<sub>数据更新: 2021-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ming1016/SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1075|24|2021-12-24|
-|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods |517|18|2021-12-26|
-|3|[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)|A collaborative list of awesome Swift libraries and resources. Feel free to contribute!|21462|8|2021-12-27|
-|4|[pock/pock](https://github.com/pock/pock)|Widgets manager for MacBook Touch Bar|9585|6|2021-09-30|
+|1|[ming1016/SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1076|23|2021-12-28|
+|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods |541|19|2021-12-26|
+|3|[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)|A collaborative list of awesome Swift libraries and resources. Feel free to contribute!|21463|8|2021-12-27|
+|4|[pock/pock](https://github.com/pock/pock)|Widgets manager for MacBook Touch Bar|9586|6|2021-09-30|
 |5|[Co2333/myyearwithgit](https://github.com/Co2333/myyearwithgit)|代码仓库年终总结报告。|168|6|2021-12-09|
-|6|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |3999|4|2021-09-14|
-|7|[pujiaxin33/JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView)|A powerful and easy to use segmented view (segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|1913|2|2021-08-18|
-|8|[dengzemiao/DZMeBookRead](https://github.com/dengzemiao/DZMeBookRead)|支持项目使用！最完整小说阅读器Demo！仿iReader(掌阅)，QQ阅读 ... 常用阅读器阅读页面，支持 翻页效果(仿真,覆盖,平移,滚动,无效果)、字体切换、书签功能、阅读记录、亮度调整、背景颜色切换 ...|1040|1|2021-12-16|
+|6|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4000|4|2021-09-14|
+|7|[pujiaxin33/JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView)|A powerful and easy to use segmented view (segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|1916|2|2021-08-18|
+|8|[dengzemiao/DZMeBookRead](https://github.com/dengzemiao/DZMeBookRead)|支持项目使用！最完整小说阅读器Demo！仿iReader(掌阅)，QQ阅读 ... 常用阅读器阅读页面，支持 翻页效果(仿真,覆盖,平移,滚动,无效果)、字体切换、书签功能、阅读记录、亮度调整、背景颜色切换 ...|1040|1|2021-12-28|
 |9|[gltwy/public](https://github.com/gltwy/public)|微信公众号 "技术大咖社" 文章合集|5|0|2021-06-06|
 |10|[coyingcat/15DaysofAnimationsinSwift](https://github.com/coyingcat/15DaysofAnimationsinSwift)|Swift，学习动画，升级原版本 ， larrynatalicio/15DaysofAnimationsinSwift|9|0|2021-09-28|
 |11|[Binlogo/LeetCode-Swift-Track](https://github.com/Binlogo/LeetCode-Swift-Track)|LeetCode 💖 Swift，攻克数据结构与算法。|15|0|2021-06-02|
@@ -23,7 +23,7 @@
 |16|[lionsom/XiOS](https://github.com/lionsom/XiOS)|工作学习记录，留给以后的自己。希望能给大家些许帮助！|21|0|2021-12-10|
 |17|[Liaoworking/Advanced-Swift](https://github.com/Liaoworking/Advanced-Swift)|Notes of Advanced Swift. 《swift进阶》学习笔记 swift 5.3|311|0|2021-10-30|
 |18|[jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example)|SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。|46|0|2021-12-05|
-|19|[Li-JianXin/Swift_Leetcode](https://github.com/Li-JianXin/Swift_Leetcode)|leetcode学习|5|0|2021-12-24|
+|19|[Li-JianXin/Swift_Leetcode](https://github.com/Li-JianXin/Swift_Leetcode)|leetcode学习|5|0|2021-12-28|
 |20|[ZamzamInc/ZamzamKit](https://github.com/ZamzamInc/ZamzamKit)|A Swift package for rapid development using a collection of micro utility extensions for Standard Library, Foundation, and other native frameworks.|249|0|2021-12-22|
 |21|[Light413/dctt](https://github.com/Light413/dctt)|xx头条【完整项目持续迭代中】(一款本地生活信息发布APP，分享新鲜事、找人找对象等生活服务)。已App Store上架，这里仅供学习交流|247|0|2021-09-22|
 |22|[ethanwa/credit-card-scanner-and-validator](https://github.com/ethanwa/credit-card-scanner-and-validator)|Uses the iOS Vision text recognizer framework to visually read credit card numbers and expiration dates. Then uses the Luhn algorithm to make sure the CC number is valid. Also checks agains a list of  ...|7|0|2021-06-18|
@@ -43,7 +43,7 @@
 |36|[kingcos/Swift-X-Algorithms](https://github.com/kingcos/Swift-X-Algorithms)|🔨 Algorithms & Data Structures implemented in Swift X. `let X = 5.0`|22|0|2021-06-03|
 |37|[KyleBing/WubiBuddy](https://github.com/KyleBing/WubiBuddy)|《码表助手》鼠须管五笔用户词添加工具 (macOS) |15|0|2021-08-11|
 |38|[Binlogo/WWDC-Track](https://github.com/Binlogo/WWDC-Track)| WWDC 观影记录：技术点思维导图 · 演示代码|10|0|2021-07-01|
-|39|[BoxDengJZ/AudioJz](https://github.com/BoxDengJZ/AudioJz)|个人学过的，音频相关的技巧。从 ray wenderlich 开始|75|0|2021-06-11|
+|39|[BoxDengJZ/AudioJz](https://github.com/BoxDengJZ/AudioJz)|个人学过的，音频相关的技巧。从 ray wenderlich 开始|76|0|2021-06-11|
 |40|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo-Swift](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo-Swift)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|16|0|2021-10-11|
 |41|[tianguanghui/PushWithP8](https://github.com/tianguanghui/PushWithP8)|用P8证书发送Push|3|0|2021-08-30|
 |42|[zhuzhuxingtianxia/GitBlog](https://github.com/zhuzhuxingtianxia/GitBlog)|github博客~ios|3|0|2021-12-10|

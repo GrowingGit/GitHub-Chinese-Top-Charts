@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2021-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -39,8 +39,8 @@
 |32|[pzhaonet/pinyin](https://github.com/pzhaonet/pinyin)|an R package for converting Chineses characters into pinyin|40|2021-08-22|
 |33|[koheiw/LSX](https://github.com/koheiw/LSX)|A word embeddings-based semi-supervised model for document scaling|39|2021-10-27|
 |34|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|37|2021-11-26|
-|35|[rOpenStats/COVID19analyticsBak2109](https://github.com/rOpenStats/COVID19analyticsBak2109)|-|32|2021-10-03|
-|36|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|32|2021-12-17|
+|35|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|33|2021-12-17|
+|36|[rOpenStats/COVID19analyticsBak2109](https://github.com/rOpenStats/COVID19analyticsBak2109)|-|32|2021-10-03|
 |37|[ropensci/scrubr](https://github.com/ropensci/scrubr)|Clean species occurrence records|32|2021-06-11|
 |38|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|31|2021-09-29|
 |39|[jincheng9/stock_crawler](https://github.com/jincheng9/stock_crawler)|R API for Crawling Stock and Index Data from Sina Finance|31|2021-11-08|

@@ -1,34 +1,34 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 资料类 > Jupyter Notebook
-<sub>数据更新: 2021-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Fafa-DL/Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021春季机器学习课程课件及作业|1385|2021-12-20|2021-02-28|
-|2|[Charmve/computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action)|《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页|1253|2021-12-14|2021-04-29|
-|3|[fengdu78/WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course)|温州大学《机器学习》课程资料（代码、课件等）|806|2021-12-10|2021-03-21|
-|4|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|489|2021-12-26|2021-03-11|
+|1|[Fafa-DL/Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021春季机器学习课程课件及作业|1388|2021-12-20|2021-02-28|
+|2|[Charmve/computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action)|《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页|1257|2021-12-14|2021-04-29|
+|3|[fengdu78/WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course)|温州大学《机器学习》课程资料（代码、课件等）|807|2021-12-10|2021-03-21|
+|4|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|489|2021-12-28|2021-03-11|
 |5|[ga642381/ML2021-Spring](https://github.com/ga642381/ML2021-Spring)|**Official** 李宏毅 (Hung-yi Lee) 機器學習 Machine Learning 2021 Spring|418|2021-06-18|2021-03-01|
 |6|[wolfparticle/machineLearningDeepLearning](https://github.com/wolfparticle/machineLearningDeepLearning)|李宏毅2021机器学习深度学习笔记PPT作业|341|2021-06-14|2021-03-02|
 |7|[d2l-ai/courses-zh-v2](https://github.com/d2l-ai/courses-zh-v2)|中文版 v2 课程|226|2021-09-14|2021-01-26|
-|8|[datamonday/Time-Series-Analysis-Tutorial](https://github.com/datamonday/Time-Series-Analysis-Tutorial)|时间序列分析教程|193|2021-06-01|2021-04-03|
+|8|[datamonday/Time-Series-Analysis-Tutorial](https://github.com/datamonday/Time-Series-Analysis-Tutorial)|时间序列分析教程|194|2021-06-01|2021-04-03|
 |9|[xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)|LaTeX论文写作教程 (中文版)|186|2021-12-26|2021-03-29|
 |10|[microsoft/AIforEarthDataSets](https://github.com/microsoft/AIforEarthDataSets)|Notebooks and documentation for AI-for-Earth-managed datasets on Azure|167|2021-12-16|2021-02-18|
 |11|[liuhuanshuo/Pandas_Advanced_Exercise](https://github.com/liuhuanshuo/Pandas_Advanced_Exercise)|Pandas进阶修炼300题|141|2021-09-22|2021-09-22|
-|12|[datawhalechina/machine-learning-toy-code](https://github.com/datawhalechina/machine-learning-toy-code)|《机器学习》（西瓜书）代码实战|113|2021-12-24|2021-07-16|
+|12|[datawhalechina/machine-learning-toy-code](https://github.com/datawhalechina/machine-learning-toy-code)|《机器学习》（西瓜书）代码实战|114|2021-12-24|2021-07-16|
 |13|[sherlcok314159/ML](https://github.com/sherlcok314159/ML)|此仓库将介绍Deep Learning 所需要的基础知识以及NLP方面的模型原理到项目实操 : )|91|2021-12-15|2021-02-19|
 |14|[ZitongLu1996/Python-EEG-Handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook)|Python脑电数据处理中文手册 - A Chinese handbook for EEG data analysis based on Python|87|2021-09-23|2021-07-02|
 |15|[shibing624/nlp-tutorial](https://github.com/shibing624/nlp-tutorial)|自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。|64|2021-10-21|2021-08-06|
 |16|[HuangCongQing/3D-Point-Clouds](https://github.com/HuangCongQing/3D-Point-Clouds)|🔥3D点云目标检测&语义分割-SOTA方法,代码,论文,数据集等|59|2021-10-13|2021-01-15|
-|17|[skywateryang/timeseries101](https://github.com/skywateryang/timeseries101)|本教程独立网站已上线|50|2021-08-29|2021-06-11|
-|18|[Sharpiless/yolov5-distillation-5.0](https://github.com/Sharpiless/yolov5-distillation-5.0)|yolov5 5.0 version distillation    yolov5 5.0版本知识蒸馏，yolov5l >> yolov5s|49|2021-07-29|2021-05-17|
+|17|[Sharpiless/yolov5-distillation-5.0](https://github.com/Sharpiless/yolov5-distillation-5.0)|yolov5 5.0 version distillation    yolov5 5.0版本知识蒸馏，yolov5l >> yolov5s|51|2021-07-29|2021-05-17|
+|18|[skywateryang/timeseries101](https://github.com/skywateryang/timeseries101)|本教程独立网站已上线|50|2021-12-28|2021-06-11|
 |19|[datawhalechina/learn-python-the-smart-way](https://github.com/datawhalechina/learn-python-the-smart-way)|聪明方法学Python，简明且系统的 Python 入门教程。|43|2021-12-27|2021-07-10|
 |20|[ssssww0905/-PyTorch-](https://github.com/ssssww0905/-PyTorch-)|【PyTorch】手把手教你跑通第一个神经网络|41|2021-12-21|2021-11-19|
 |21|[PolarisRisingWar/cs224w-2021-winter-colab](https://github.com/PolarisRisingWar/cs224w-2021-winter-colab)|cs224w（图机器学习）2021冬季课程的colab|40|2021-07-09|2021-05-02|
 |22|[fly51fly/Principle_of_Web_Search_2021](https://github.com/fly51fly/Principle_of_Web_Search_2021)|北邮《网络搜索引擎原理》课程(2021)|39|2021-11-05|2021-09-17|
-|23|[LaoGong-zp/Transformer](https://github.com/LaoGong-zp/Transformer)| Learning materials of Transformer, including my code, XMind, PDF and so on|35|2021-09-28|2021-09-24|
-|24|[xiaoyusmd/PythonDataScience](https://github.com/xiaoyusmd/PythonDataScience)|Python数据科学系专栏（pandas、Numpy、SKlearn、Matplotlib）、实战项目（代码、讲解、数据集）|35|2021-12-18|2021-01-17|
+|23|[xiaoyusmd/PythonDataScience](https://github.com/xiaoyusmd/PythonDataScience)|Python数据科学系专栏（pandas、Numpy、SKlearn、Matplotlib）、实战项目（代码、讲解、数据集）|36|2021-12-18|2021-01-17|
+|24|[LaoGong-zp/Transformer](https://github.com/LaoGong-zp/Transformer)| Learning materials of Transformer, including my code, XMind, PDF and so on|35|2021-09-28|2021-09-24|
 |25|[johnnychen94/Julia_and_its_applications](https://github.com/johnnychen94/Julia_and_its_applications)|2021 年《Julia 语言及其应用》系列讲座的材料|33|2021-12-05|2021-10-16|
 |26|[jcchan23/CoMPT](https://github.com/jcchan23/CoMPT)|Code of our IJCAI2021 paper: "Learning Attributed Graph Representation with Communicative Message Passing Transformer"|32|2021-09-08|2021-02-03|
 |27|[xieliaing/Data_Science_Industrial_Practice](https://github.com/xieliaing/Data_Science_Industrial_Practice)|《数据科学工程实践》一书的Jupyter Notebook库，以及交流园地。|30|2021-06-18|2021-04-08|

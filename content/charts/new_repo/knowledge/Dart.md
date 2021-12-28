@@ -1,11 +1,11 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 资料类 > Dart
-<sub>数据更新: 2021-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|225|2021-12-20|2021-01-31|
+|1|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|225|2021-12-28|2021-01-31|
 |2|[18824863285/BaseFlutter](https://github.com/18824863285/BaseFlutter)|Provider MVVM的最佳实践，最适合新手学习的flutter开源项目|104|2021-07-30|2021-03-28|
 |3|[longer96/flutter-demo](https://github.com/longer96/flutter-demo)|🔥Flutter 那些花里胡哨的界面🔥，花里胡哨的底部导航，仿抖音、小红书底部菜单，向上展开菜单，半圆菜单，中间凹进去的菜单，动画底部导航|70|2021-10-14|2021-06-21|
 |4|[nightmare-space/speed_share](https://github.com/nightmare-space/speed_share)|Speed Share is a highly available file sharing terminal on LAN(local area network) developed by flutter framework.|66|2021-12-24|2021-02-12|
@@ -16,7 +16,7 @@
 |9|[baiyuliang/Flutter-WanWan](https://github.com/baiyuliang/Flutter-WanWan)|Flutter入门项目（首页，消息，圈子，我的）|13|2021-08-17|2021-03-26|
 |10|[cocojian/flutter100days](https://github.com/cocojian/flutter100days)|这是一个flutter教程，用100天的时间来完成挑战，每天只需要完成一课，100天之后，你将遇见更好的自己。|8|2021-11-24|2021-11-21|
 |11|[Lester2020/flutter_study_demo](https://github.com/Lester2020/flutter_study_demo)|一个零基础入门学习flutter的demo总结，里面覆盖flutter常用组件和APP的基本框架结构样式。|8|2021-10-14|2021-08-27|
-|12|[yy1300326388/flutter_widgets](https://github.com/yy1300326388/flutter_widgets)|🔥 Flutter Widgets 掘金对应专栏，欢迎关注|7|2021-06-30|2021-06-01|
+|12|[yy1300326388/flutter_widgets](https://github.com/yy1300326388/flutter_widgets)|🔥 Flutter Widgets 掘金对应专栏，欢迎关注|8|2021-06-30|2021-06-01|
 |13|[kangshaojun/study-notes](https://github.com/kangshaojun/study-notes)|Flutter React Golang WebRTC等技术学习笔记|6|2021-08-14|2021-07-16|
 |14|[zhou-Flutter/flutter_dome](https://github.com/zhou-Flutter/flutter_dome)|实战小红书|6|2021-10-31|2021-06-15|
 |15|[CallMeDK/flutter_stock_project](https://github.com/CallMeDK/flutter_stock_project)|flutter仿写自选股详情，感兴趣的小伙伴fork下一起学习dart。|5|2021-07-26|2021-07-26|

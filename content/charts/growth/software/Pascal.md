@@ -1,7 +1,7 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2021-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -16,7 +16,7 @@
 |9|[PassByYou888/ZInstaller2.0](https://github.com/PassByYou888/ZInstaller2.0)|ZInstaller2.0 安装程序使用ZDB2.0架构|3|0|2021-06-22|
 |10|[59079096/HCView-Pascal](https://github.com/59079096/HCView-Pascal)|A control similar to Word or WPS(一个类似word或wps用于文字排版相关功能的控件)|65|0|2021-12-26|
 |11|[Pzf874/TVChnlTest](https://github.com/Pzf874/TVChnlTest)|TV频道源检查软件(TVChnlTest.exe)这个小工具, 可以将你收集的直播源数据导入，并对其进行有效性检查，经整理后，可以导出为TXT格式或M3U8格式的文件。|3|0|2021-08-09|
-|12|[ying32/liblcl](https://github.com/ying32/liblcl)|A common cross-platform GUI library, the core uses Lazarus LCL.|57|0|2021-10-31|
+|12|[ying32/liblcl](https://github.com/ying32/liblcl)|A common cross-platform GUI library, the core uses Lazarus LCL.|58|0|2021-10-31|
 |13|[2o181o28/MyProg](https://github.com/2o181o28/MyProg)|蒟蒻的小学生水平程序|5|0|2021-10-17|
 |14|[PassByYou888/ZDB2.0](https://github.com/PassByYou888/ZDB2.0)|ZDB2.0将是未来大数据支持的内核，ZDB2.0有自己的独立支持体系，跨平台特性，不依赖操作系统|16|0|2021-10-21|
 |15|[coder163/delphi-socket](https://github.com/coder163/delphi-socket)|Delphi第二季网络编程|4|0|2021-10-26|

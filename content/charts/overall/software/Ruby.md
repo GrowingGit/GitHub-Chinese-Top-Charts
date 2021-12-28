@@ -1,13 +1,13 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Ruby
-<sub>数据更新: 2021-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)|GitLab CE Mirror   Please open new issues in our issue tracker on GitLab.com|22799|2021-12-28|
-|2|[lewagon/setup](https://github.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|11517|2021-11-10|
-|3|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|5766|2021-12-27|
+|1|[gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)|GitLab CE Mirror   Please open new issues in our issue tracker on GitLab.com|22802|2021-12-28|
+|2|[lewagon/setup](https://github.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|11516|2021-11-10|
+|3|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|5765|2021-12-27|
 |4|[nomad/shenzhen](https://github.com/nomad/shenzhen)|CLI for Building & Distributing iOS Apps (.ipa Files)|4667|2021-06-20|
 |5|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3515|2021-12-27|
 |6|[peatio/peatio](https://github.com/peatio/peatio)|An open-source assets exchange.|3506|2021-12-08|
@@ -15,24 +15,24 @@
 |8|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|1887|2021-12-27|
 |9|[pluosi/app-host](https://github.com/pluosi/app-host)|应用内网发布   iOS OTA (Over-the-Air)   APP publish website like fir.im    适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包|1798|2021-11-04|
 |10|[publify/publify](https://github.com/publify/publify)|A self hosted Web publishing platform on Rails.|1776|2021-12-27|
-|11|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1733|2021-11-28|
+|11|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1734|2021-11-28|
 |12|[thredded/thredded](https://github.com/thredded/thredded)|The best Rails forums engine ever.|1308|2021-10-24|
 |13|[Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1267|2021-12-21|
 |14|[michelson/lazy_high_charts](https://github.com/michelson/lazy_high_charts)|Make highcharts a la ruby , works in rails 5.X / 4.X / 3.X, and other ruby web frameworks|1044|2021-12-21|
 |15|[FIRHQ/fir-cli](https://github.com/FIRHQ/fir-cli)|fir.im(betaqr.com) command-line interface|1005|2021-08-30|
-|16|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|950|2021-12-27|
+|16|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|950|2021-12-28|
 |17|[floere/phony](https://github.com/floere/phony)|E164 international phone number normalizing, splitting, formatting. |931|2021-11-16|
 |18|[saberma/shopqi](https://github.com/saberma/shopqi)|An open source clone of Shopify.|811|2021-09-27|
 |19|[fredwu/angel_nest](https://github.com/fredwu/angel_nest)|Project code name: Angel Nest. :)|780|2021-09-27|
 |20|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|642|2021-11-16|
-|21|[MBoxPlus/mbox](https://github.com/MBoxPlus/mbox)|Toolchain for Mobile App Development 移动研发工具链|635|2021-12-21|
+|21|[MBoxPlus/mbox](https://github.com/MBoxPlus/mbox)|Toolchain for Mobile App Development 移动研发工具链|636|2021-12-28|
 |22|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|633|2021-12-18|
 |23|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|632|2021-11-05|
 |24|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast and smart citation reference parsing|559|2021-11-28|
 |25|[janx/ruby-pinyin](https://github.com/janx/ruby-pinyin)|中文汉字转拼音,　支持中英文符号混合词语。Pinyin is a romanization system (phonemic notation) of Chinese characters, this gem helps you to convert Chinese characters into pinyin form.|526|2021-08-21|
 |26|[kaich/codeobscure](https://github.com/kaich/codeobscure)|code obscure for object-c project.  方便强大的OC工程代码自动混淆工具|523|2021-07-02|
 |27|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|516|2021-12-25|
-|28|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|446|2021-12-27|
+|28|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|451|2021-12-28|
 |29|[lanrion/weixin_rails_middleware](https://github.com/lanrion/weixin_rails_middleware)|微信集成 ruby weixin_rails_middleware for integration weixin. |414|2021-09-27|
 |30|[darkbitio/aws-recon](https://github.com/darkbitio/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|389|2021-12-02|
 |31|[oott123/alfred-clipboard-ocr](https://github.com/oott123/alfred-clipboard-ocr)|Use Baidu OCR API to covert your clipboard image to text.|382|2021-10-20|
@@ -55,7 +55,7 @@
 |48|[inukshuk/bibtex-ruby](https://github.com/inukshuk/bibtex-ruby)|A BibTeX library, parser, and converter for Ruby.|152|2021-07-21|
 |49|[samvera/hyrax](https://github.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|146|2021-12-27|
 |50|[rails-engine/flow_core](https://github.com/rails-engine/flow_core)|FlowCore is a Rails engine to help you build your automation or business process application.|145|2021-10-12|
-|51|[baidu/m-git](https://github.com/baidu/m-git)|MGit 是一款基于 Git 的多仓库管理工具，可以安全的、高效的管理多个 Git 仓库； 适合于在多个仓库中进行关联开发的项目，实现批量的版本管理功能，提高 Git 操作的效率，避免逐个执行 Git 命令带来的误操作风险。|134|2021-08-12|
+|51|[baidu/m-git](https://github.com/baidu/m-git)|MGit 是一款基于 Git 的多仓库管理工具，可以安全的、高效的管理多个 Git 仓库； 适合于在多个仓库中进行关联开发的项目，实现批量的版本管理功能，提高 Git 操作的效率，避免逐个执行 Git 命令带来的误操作风险。|135|2021-08-12|
 |52|[bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD)|-|130|2021-12-24|
 |53|[dblock/slack-gamebot](https://github.com/dblock/slack-gamebot)|Ping pong, chess, pool and other games bot for Slack.|128|2021-09-28|
 |54|[huacnlee/auto-correct](https://github.com/huacnlee/auto-correct)|Automatically add whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols).|125|2021-07-27|
@@ -67,9 +67,9 @@
 |60|[xdite/mind-hack](https://github.com/xdite/mind-hack)|打造超人思維|105|2021-06-21|
 |61|[khiav223577/pluck_all](https://github.com/khiav223577/pluck_all)|A more efficient way to get data from database. Like #pluck method but return array of hashes instead.|95|2021-10-19|
 |62|[kenn/active_flag](https://github.com/kenn/active_flag)|Bit array for ActiveRecord|94|2021-10-28|
-|63|[uasi/skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo)|SKK 絵文字辞書|82|2021-08-18|
-|64|[inspec/inspec-azure](https://github.com/inspec/inspec-azure)|InSpec Azure Resource Pack|81|2021-12-27|
-|65|[quzhi1/ChineseHistoricalSource](https://github.com/quzhi1/ChineseHistoricalSource)|This is my personal stash of Chinese Historical Source|78|2021-09-27|
+|63|[inspec/inspec-azure](https://github.com/inspec/inspec-azure)|InSpec Azure Resource Pack|82|2021-12-27|
+|64|[uasi/skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo)|SKK 絵文字辞書|82|2021-08-18|
+|65|[quzhi1/ChineseHistoricalSource](https://github.com/quzhi1/ChineseHistoricalSource)|This is my personal stash of Chinese Historical Source|79|2021-09-27|
 |66|[jasonknight/salor-retail](https://github.com/jasonknight/salor-retail)|Rails Based Point of Sale and Store Management Software|77|2021-09-27|
 |67|[iPermanent/rubyTools](https://github.com/iPermanent/rubyTools)|日常使用ruby脚本|76|2021-10-18|
 |68|[kufu/kiji](https://github.com/kufu/kiji)|e-Gov API 連携 gem|73|2021-09-27|
