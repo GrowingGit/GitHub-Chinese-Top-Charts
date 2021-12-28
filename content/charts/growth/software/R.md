@@ -1,11 +1,11 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2021-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|1|2021-12-26|
+|1|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|1|2021-12-27|
 |2|[GuangchuangYu/nCov2019](https://github.com/GuangchuangYu/nCov2019)|query stats of infected coronavirus cases|426|1|2021-06-10|
 |3|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|37|0|2021-11-26|
 |4|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|31|0|2021-09-29|
@@ -21,7 +21,7 @@
 |14|[leileibama/leoDDcalculator](https://github.com/leileibama/leoDDcalculator)|leoDDcalculator, a package calculating the values of mdd and ndd of texts in a folder|6|0|2021-11-08|
 |15|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|9|0|2021-09-25|
 |16|[mountainMath/tongfen](https://github.com/mountainMath/tongfen)|Convenience functions for making data on different geometries, especially Canadian census geometries, comparable.|24|0|2021-11-19|
-|17|[YongxinLiu/EasyMicrobiome](https://github.com/YongxinLiu/EasyMicrobiome)|Scripts and databases for amplicon and metagenome|26|0|2021-10-27|
+|17|[YongxinLiu/EasyMicrobiome](https://github.com/YongxinLiu/EasyMicrobiome)|Scripts and databases for amplicon and metagenome|26|0|2021-12-27|
 |18|[eco-hydro/phenofit](https://github.com/eco-hydro/phenofit)|R package: A state-of-the-art Vegetation Phenology extraction package, phenofit|43|0|2021-12-19|
 |19|[OxDemTech/china_diplomats](https://github.com/OxDemTech/china_diplomats)|-|7|0|2021-11-16|
 |20|[sascha2schroeder/popEye](https://github.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|7|0|2021-11-01|
@@ -45,7 +45,7 @@
 |38|[sbg/sevenbridges-r](https://github.com/sbg/sevenbridges-r)|Seven Bridges API Client, CWL Schema, Meta Schema, and SDK Helper in R|29|0|2021-08-16|
 |39|[jincheng9/stock_crawler](https://github.com/jincheng9/stock_crawler)|R API for Crawling Stock and Index Data from Sina Finance|31|0|2021-11-08|
 |40|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|345|0|2021-12-23|
-|41|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|62|0|2021-09-15|
+|41|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|63|0|2021-09-15|
 |42|[gee-hydro/gee_whittaker](https://github.com/gee-hydro/gee_whittaker)|Non-parametric weighted Whittaker smoothing|18|0|2021-06-07|
 |43|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|10|0|2021-11-26|
 |44|[chainsawriot/sweater](https://github.com/chainsawriot/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|6|0|2021-12-07|
@@ -72,7 +72,7 @@
 |65|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|12|0|2021-09-21|
 |66|[datasketch/shi18ny](https://github.com/datasketch/shi18ny)|-|13|0|2021-06-10|
 |67|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit (kw: field observation, air polltion, time series summary, time series resampling, average variation, ozone formation potential (OFP), MIR, tuv). |23|0|2021-11-18|
-|68|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|144|0|2021-12-26|
+|68|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|0|2021-12-27|
 |69|[pzhaonet/beginr](https://github.com/pzhaonet/beginr)|an R package for beginners|15|0|2021-12-03|
 |70|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|12|0|2021-11-26|
 |71|[kevinwang09/learningtower](https://github.com/kevinwang09/learningtower)|Easily accessible PISA data|18|0|2021-09-07|
