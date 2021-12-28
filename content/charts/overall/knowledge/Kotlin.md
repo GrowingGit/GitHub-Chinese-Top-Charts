@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|26656|2021-12-27|
+|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|26659|2021-12-27|
 |2|[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool)|Android开发人员不得不收集的工具类集合   支付宝支付   微信支付（统一下单）   微信分享   Zip4j压缩（支持分卷压缩与加密）   一键集成UCrop选择圆形头像   一键集成二维码和条形码的扫描与生成   常用Dialog   WebView的封装可播放视频   仿斗鱼滑动验证码   Toast封装   震动   GPS   Location定位   图片缩放   Exif 图片 ...|11576|2021-12-27|
 |3|[CarGuo/GSYGithubAppKotlin](https://github.com/CarGuo/GSYGithubAppKotlin)|超完整的Android Kotlin 项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：目前已经拥有Flutter、Weex、ReactNative、Kotlin四个版本。 功能齐全，项目框架内技术涉及面广，完成度高。开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本：  ...|1154|2021-09-04|
 |4|[qingmei2/RxImagePicker](https://github.com/qingmei2/RxImagePicker)|:rocket:RxJava2 and RxJava3 external support. Android flexible picture selector, provides the support for theme of Zhihu and WeChat (灵活的Android图片选择器，提供了知乎和微信主题的支持）.|1134|2021-10-13|
@@ -13,8 +13,8 @@
 |6|[adisonhuang/awesome-kotlin-android](https://github.com/adisonhuang/awesome-kotlin-android)|🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源|829|2021-10-19|
 |7|[AllanWang/Frost-for-Facebook](https://github.com/AllanWang/Frost-for-Facebook)|An extensive and functional third party app for Facebook|689|2021-11-24|
 |8|[eprendre/tingshu](https://github.com/eprendre/tingshu)|一款可在线播放多个免费听书站点的安卓app|497|2021-12-06|
-|9|[compose-museum/hello-compose](https://github.com/compose-museum/hello-compose)|Jetpack Compose 基础教程，持续更新|490|2021-12-23|
-|10|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|479|2021-12-05|
+|9|[compose-museum/hello-compose](https://github.com/compose-museum/hello-compose)|Jetpack Compose 基础教程，持续更新|491|2021-12-23|
+|10|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|480|2021-12-05|
 |11|[crazyandcoder/blog_backups](https://github.com/crazyandcoder/blog_backups)|Android 项目优化、面试题集，包含Android、Java、数据结构、算法、个人blog备份等。|430|2021-07-22|
 |12|[hi-dhl/Leetcode-Solutions-with-Java-And-Kotlin](https://github.com/hi-dhl/Leetcode-Solutions-with-Java-And-Kotlin)|LeetCode 系列题解, 在线阅读 https://offer.hi-dhl.com|341|2021-09-13|
 |13|[androidmalin/AndroidComponentPlugin](https://github.com/androidmalin/AndroidComponentPlugin)|Android上简单实现四大组件的插件化，供学习使用|339|2021-12-19|
@@ -22,13 +22,13 @@
 |15|[kukyxs/CoroutinesWanAndroid](https://github.com/kukyxs/CoroutinesWanAndroid)|超完整的「玩 Android」客户端，项目采用 MVVM, Android Jetpack, Retrofit, Kotlin 协程, Koin 编写。如果该项目对你学习过程有用，请给个 star，感谢|296|2021-09-29|
 |16|[hanjoongcho/aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary)|:blue_book: A diary application optimized for user experience.|273|2021-12-27|
 |17|[benhero/GLStudio](https://github.com/benhero/GLStudio)|OpenGL基础入门|256|2021-07-26|
-|18|[miaowmiaow/fragmject](https://github.com/miaowmiaow/fragmject)|真正的入门级的项目，通过对Kotlin和Jetpack全家桶的系统运用，实现的一个功能完备符合主流市场标准App。 一个代码够简单，内容够全面，知识够详细，能让你快速上手的项目，对理解其他项目设计思想和封装技巧也很有帮助。项目结构清晰，代码简洁优雅。|251|2021-12-21|
+|18|[miaowmiaow/fragmject](https://github.com/miaowmiaow/fragmject)|真正的入门级的项目，通过对Kotlin和Jetpack全家桶的系统运用，实现的一个功能完备符合主流市场标准App。 一个代码够简单，内容够全面，知识够详细，能让你快速上手的项目，对理解其他项目设计思想和封装技巧也很有帮助。项目结构清晰，代码简洁优雅。|252|2021-12-21|
 |19|[ibaozi-cn/RecyclerViewAdapter](https://github.com/ibaozi-cn/RecyclerViewAdapter)|科学分包，动态扩展，功能完善，书写简洁，按需依赖，合理抽象，超高内聚，超低耦合，没有最好，只有更好，希望能帮助到您，🙏❤️感谢您的光临🙏❤️|250|2021-09-01|
 |20|[funnywolfdadada/HollowKit](https://github.com/funnywolfdadada/HollowKit)|自己常用的一些工具的合集|200|2021-11-24|
 |21|[AllanWang/KAU](https://github.com/AllanWang/KAU)|An extensive collection of Kotlin Android Utils|198|2021-11-18|
 |22|[blindmonk/WanArchitecture](https://github.com/blindmonk/WanArchitecture)|汇聚了业界知名架构文章。从建筑学的知识中得到一些对架构的思考，并以架构设计原则和目的对Jetpack MVVM 重新构造！|191|2021-06-17|
 |23|[390057892/reader](https://github.com/390057892/reader)|小说阅读软件📕，采用 Jetpack + 协程实现的 MVVM 架构。Kotlin+AndroidX编写，支持TTS听书，字体切换，繁简转换，黑夜模式，各种翻页(仿真、滚动、滑动、覆盖、无动画)，插页图片加载等。|186|2021-07-02|
-|24|[DylanCaiCoding/Longan](https://github.com/DylanCaiCoding/Longan)|A collection of Kotlin utils which makes Android application development faster and easier. (让 Android 开发更简单的 Kotlin 工具类集合)|171|2021-12-27|
+|24|[DylanCaiCoding/Longan](https://github.com/DylanCaiCoding/Longan)|A collection of Kotlin utils which makes Android application development faster and easier. (让 Android 开发更简单的 Kotlin 工具类集合)|172|2021-12-28|
 |25|[m-i-n-a-r/birday](https://github.com/m-i-n-a-r/birday)|🎉 A beautiful Kotlin app to remember birthdays and events without having to open Facebook, set alarms or rely on Google Calendar.|153|2021-12-15|
 |26|[maoqitian/Nice-Knowledge-System](https://github.com/maoqitian/Nice-Knowledge-System)|:books:不积跬步无以至千里，每天进步一点点，Passion，Self-regulation，Love and Share|143|2021-11-11|
 |27|[biubiuqiu0/flow-event-bus](https://github.com/biubiuqiu0/flow-event-bus)|EventBus for Android，消息总线，基于SharedFlow，具有生命周期感知能力，支持Sticky，支持线程切换，支持延迟发送。|85|2021-08-18|

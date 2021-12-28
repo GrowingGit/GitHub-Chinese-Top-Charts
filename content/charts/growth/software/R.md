@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|1|2021-12-27|
+|1|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|1|2021-12-28|
 |2|[GuangchuangYu/nCov2019](https://github.com/GuangchuangYu/nCov2019)|query stats of infected coronavirus cases|426|1|2021-06-10|
 |3|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|37|0|2021-11-26|
 |4|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|31|0|2021-09-29|
@@ -72,7 +72,7 @@
 |65|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|12|0|2021-09-21|
 |66|[datasketch/shi18ny](https://github.com/datasketch/shi18ny)|-|13|0|2021-06-10|
 |67|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit (kw: field observation, air polltion, time series summary, time series resampling, average variation, ozone formation potential (OFP), MIR, tuv). |23|0|2021-11-18|
-|68|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|0|2021-12-27|
+|68|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|0|2021-12-28|
 |69|[pzhaonet/beginr](https://github.com/pzhaonet/beginr)|an R package for beginners|15|0|2021-12-03|
 |70|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|12|0|2021-11-26|
 |71|[kevinwang09/learningtower](https://github.com/kevinwang09/learningtower)|Easily accessible PISA data|18|0|2021-09-07|

@@ -6,7 +6,7 @@
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[xrtc-cc/xrtc](https://github.com/xrtc-cc/xrtc)|WebRTC 融合音视频解决方案：封装声网Agora、华为云hrtc、腾讯云trtc及网易云信rtc，支持动态切换和定制，iOS、Android、Web极简集成WebRTC。|324|2021-11-05|2021-08-19|
-|2|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|263|2021-09-25|2021-08-03|
+|2|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|262|2021-09-25|2021-08-03|
 |3|[AgoraIO-Community/MoonLight](https://github.com/AgoraIO-Community/MoonLight)|MoonLight is a performance test kit on iOS and macOS. It can capture App Memory, App CPU, System CPU, GPU,  ANR and iOS FPS and accurately and easily.|223|2021-07-23|2021-01-04|
 |4|[FoneG/FGPopupScheduler](https://github.com/FoneG/FGPopupScheduler)| ✨ ✨ ✨ ✨ iOS弹窗调用器，控制弹窗按照指定的策略进行显示。Helps you control popups easily.  ✨ ✨ ✨ ✨|177|2021-11-08|2021-06-23|
 |5|[internetWei/LLDynamicLaunchScreen](https://github.com/internetWei/LLDynamicLaunchScreen)|自动修复iPhone启动图显示异常，1行代码动态修改启动图|115|2021-12-08|2021-01-02|
@@ -14,13 +14,13 @@
 |7|[HighwayLaw/HWThrottle](https://github.com/HighwayLaw/HWThrottle)|A lite Objective-C library for throttle and debounce, supporting leading and trailing. 节流/限流/防反跳/防重复点击/防重复调用|83|2021-11-18|2021-02-20|
 |8|[lionvoom/WeAppTongCeng](https://github.com/lionvoom/WeAppTongCeng)|小程序同层渲染|82|2021-10-29|2021-03-16|
 |9|[OpenIMSDK/Open-IM-SDK-iOS](https://github.com/OpenIMSDK/Open-IM-SDK-iOS)|OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，iOS版本IM SDK 可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。|75|2021-12-24|2021-05-26|
-|10|[LevisonNN/LNDanmakuMaster](https://github.com/LevisonNN/LNDanmakuMaster)|A feature-rich danmaku component.弹幕组件。|67|2021-07-04|2021-01-31|
+|10|[LevisonNN/LNDanmakuMaster](https://github.com/LevisonNN/LNDanmakuMaster)|A feature-rich danmaku component.弹幕组件。|68|2021-07-04|2021-01-31|
 |11|[lyandy/Linked_Order_Analyze](https://github.com/lyandy/Linked_Order_Analyze)|二进制重排 线下量化预分析工具|57|2021-07-08|2021-01-17|
 |12|[jiangzhengnan/NgGithubIos](https://github.com/jiangzhengnan/NgGithubIos)|🍎 基于iOS端，使用Objective-C编写的Github个人版本|46|2021-09-04|2021-07-04|
-|13|[Tliens/KillBug](https://github.com/Tliens/KillBug)|通过runtime记录用户日志，获取复现步骤的工具。Collect user data, guess repeat steps, and detect bugs.|46|2021-11-15|2021-03-29|
-|14|[HansenCCC/KKQuickDraw](https://github.com/HansenCCC/KKQuickDraw)|iOS实现HTML H5秒开、拦截请求替换资源、优化HTML加载速度|45|2021-08-25|2021-05-17|
-|15|[FoneG/FGIAPService](https://github.com/FoneG/FGIAPService)|iap内购实现解决方案|45|2021-12-07|2021-05-14|
-|16|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|43|2021-12-27|2021-03-08|
+|13|[FoneG/FGIAPService](https://github.com/FoneG/FGIAPService)|iap内购实现解决方案|46|2021-12-07|2021-05-14|
+|14|[Tliens/KillBug](https://github.com/Tliens/KillBug)|通过runtime记录用户日志，获取复现步骤的工具。Collect user data, guess repeat steps, and detect bugs.|46|2021-11-15|2021-03-29|
+|15|[HansenCCC/KKQuickDraw](https://github.com/HansenCCC/KKQuickDraw)|iOS实现HTML H5秒开、拦截请求替换资源、优化HTML加载速度|45|2021-08-25|2021-05-17|
+|16|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|44|2021-12-27|2021-03-08|
 |17|[LZRight123/KPAppMananger](https://github.com/LZRight123/KPAppMananger)|静默安装，卸载，打开APP，进程通信，后台保护|37|2021-08-16|2021-08-13|
 |18|[bayescom/EasyAds-iOS](https://github.com/bayescom/EasyAds-iOS)|🔥持续更新🔥EasyAds，全球热门的开源聚合SDK广告软件。帮助App开发者便捷接入国内多家主流广告 SDK包括：字节穿山甲、腾讯优量汇、百度百青藤、快手联盟。几行代码就可以快速实现开屏、Banner横幅、插屏、激励视频、原生信息流、全屏等广告形式。|35|2021-12-22|2021-11-22|
 |19|[Danonlylane/goodhouse](https://github.com/Danonlylane/goodhouse)|Flutter好客租房项目，模仿安居客APP页面编写的一款静态页面项目|30|2021-10-11|2021-07-25|

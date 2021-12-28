@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|17586|2021-12-25|
+|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|17585|2021-12-25|
 |2|[mhinz/vim-galore](https://github.com/mhinz/vim-galore)|:mortar_board: All things Vim!|12646|2021-11-17|
 |3|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|6996|2021-12-19|
 |4|[mattn/emmet-vim](https://github.com/mattn/emmet-vim)|emmet for vim: http://emmet.io/|5802|2021-12-04|
@@ -13,18 +13,18 @@
 |6|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1501|2021-12-27|
 |7|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1483|2021-12-23|
 |8|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1318|2021-12-25|
-|9|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|613|2021-12-27|
+|9|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|613|2021-12-28|
 |10|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|612|2021-12-24|
 |11|[jaywcjlove/vim-web](https://github.com/jaywcjlove/vim-web)|◈ 搞得像IDE一样的Vim，安装配置自己的Vim。|566|2021-12-05|
-|12|[ruchee/vimrc](https://github.com/ruchee/vimrc)|Ruchee's Vim Config Files|398|2021-12-07|
+|12|[ruchee/vimrc](https://github.com/ruchee/vimrc)|Ruchee's Vim Config Files|399|2021-12-07|
 |13|[sillybun/vim-repl](https://github.com/sillybun/vim-repl)|Best REPL environment for Vim|372|2021-08-10|
 |14|[SidOfc/mkdx](https://github.com/SidOfc/mkdx)|A vim plugin that adds some nice extra's for working with markdown documents|363|2021-12-06|
 |15|[lyokha/vim-xkbswitch](https://github.com/lyokha/vim-xkbswitch)|vim plugin for automatic keyboard layout switching in insert mode|359|2021-09-06|
 |16|[fgheng/vime](https://github.com/fgheng/vime)|vime, an easy and structural config for (neo)vim users|271|2021-11-05|
 |17|[lilydjwg/dotvim](https://github.com/lilydjwg/dotvim)|My vim config|259|2021-12-21|
-|18|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|249|2021-10-26|
+|18|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|250|2021-10-26|
 |19|[TTWShell/legolas-vim](https://github.com/TTWShell/legolas-vim)|Vim配置，为python、go开发者打造的IDE。|240|2021-08-18|
-|20|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|225|2021-12-26|
+|20|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|226|2021-12-26|
 |21|[lilydjwg/fcitx.vim](https://github.com/lilydjwg/fcitx.vim)|keep and restore fcitx state when leaving/re-entering insert mode|175|2021-10-26|
 |22|[broqiang/vim-go-ide](https://github.com/broqiang/vim-go-ide)|Vim as the IDE for the go language 将 vim 打造成 go 语言的 ide|166|2021-07-11|
 |23|[axiaoxin/my-vimrc](https://github.com/axiaoxin/my-vimrc)|VIM configuration file: used to write Golang, Python, Markdown, etc. with VIM on macOS|144|2021-07-16|
@@ -42,7 +42,7 @@
 |35|[iokfine/bee-dashboard](https://github.com/iokfine/bee-dashboard)|管理多个bee节点 提现工具|44|2021-12-26|
 |36|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog-vimscript|44|2021-12-27|
 |37|[chloneda/vim-cheatsheet](https://github.com/chloneda/vim-cheatsheet)|🍁Vim 命令速查表，包含一切你需要知道的东西！|41|2021-07-14|
-|38|[mrbeardad/SpaceVim](https://github.com/mrbeardad/SpaceVim)|基于SpaceVim的真正开箱即用、无需配置的IDE，你只需要记住快捷键即可。（目前默认支持C/C++、Go、Python、Shell、Markdown、VimL）|37|2021-09-26|
+|38|[mrbeardad/SpaceVim](https://github.com/mrbeardad/SpaceVim)|基于SpaceVim的真正开箱即用、无需配置的IDE，你只需要记住快捷键即可。（目前默认支持C/C++、Go、Python、Shell、Markdown、VimL）|38|2021-09-26|
 |39|[skywind3000/vim-dict](https://github.com/skywind3000/vim-dict)|没办法，被逼的，重新整理一个词典补全的数据库|36|2021-08-28|
 |40|[jayli/vim](https://github.com/jayli/vim)|我的vim配置文件|31|2021-11-11|
 |41|[apemost/vimrc](https://github.com/apemost/vimrc)|A simple but powerful vim configuration|29|2021-12-09|
@@ -54,7 +54,7 @@
 |47|[FrankFang/oh-my-docker](https://github.com/FrankFang/oh-my-docker)|-|23|2021-12-27|
 |48|[Genki-S/dotfiles](https://github.com/Genki-S/dotfiles)|My lovely settings.|23|2021-11-06|
 |49|[Karmenzind/vim-tmuxlike](https://github.com/Karmenzind/vim-tmuxlike)|A vim plugin that mimics the actions of tmux. 像操作Tmux一样操作Vim|21|2021-07-21|
-|50|[hscspring/AIToolBox](https://github.com/hscspring/AIToolBox)|My AI Basic Tool Box|21|2021-12-20|
+|50|[hscspring/AIToolBox](https://github.com/hscspring/AIToolBox)|My AI Basic Tool Box|21|2021-12-28|
 |51|[d0u9/.dot](https://github.com/d0u9/.dot)|The bucket of dot files|21|2021-12-22|
 |52|[deton/eblook.vim](https://github.com/deton/eblook.vim)|Vim plugin to lookup EPWING dictionary using eblook command|21|2021-07-18|
 |53|[yaocccc/nvim](https://github.com/yaocccc/nvim)|-|20|2021-11-30|
@@ -73,7 +73,7 @@
 |66|[wandercn/go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf)|my vim conf for golang IDE and rust IDE|11|2021-10-21|
 |67|[owner888/vimer](https://github.com/owner888/vimer)|vim editor|11|2021-12-24|
 |68|[xtfly/xvim](https://github.com/xtfly/xvim)|my personal vim setting|10|2021-09-21|
-|69|[leetking/dotfiles](https://github.com/leetking/dotfiles)|我的vim,bash等的配置文件|10|2021-12-27|
+|69|[leetking/dotfiles](https://github.com/leetking/dotfiles)|我的vim,bash等的配置文件|10|2021-12-28|
 |70|[halsn/neovim-config](https://github.com/halsn/neovim-config)|neovim配置及安装脚本|9|2021-12-09|
 |71|[hfpp2012/myvimrc](https://github.com/hfpp2012/myvimrc)|最完美的 vim neovim 配置|8|2021-06-19|
 |72|[AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles)|该仓库用于备份我的dotfiles.|8|2021-12-27|

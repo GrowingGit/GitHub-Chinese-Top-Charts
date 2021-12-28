@@ -5,13 +5,13 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot)|我的超迷你机械臂机器人项目。|5508|2021-12-24|2021-10-07|
-|2|[peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic)|带网络功能的伪全息透明显示桌面站|3238|2021-12-11|2021-01-07|
+|1|[peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot)|我的超迷你机械臂机器人项目。|5509|2021-12-24|2021-10-07|
+|2|[peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic)|带网络功能的伪全息透明显示桌面站|3242|2021-12-11|2021-01-07|
 |3|[peng-zhihui/Peak](https://github.com/peng-zhihui/Peak)|Tiny Mobile Terminal Device Kit.|1018|2021-10-15|2021-10-10|
 |4|[bytedance/bhook](https://github.com/bytedance/bhook)|🔥 ByteHook(aka bhook) is a PLT hook framework for Android app.|930|2021-12-27|2021-08-11|
-|5|[bytedance/memory-leak-detector](https://github.com/bytedance/memory-leak-detector)|-|607|2021-12-27|2021-04-14|
+|5|[bytedance/memory-leak-detector](https://github.com/bytedance/memory-leak-detector)|-|608|2021-12-27|2021-04-14|
 |6|[peng-zhihui/OpenHeat](https://github.com/peng-zhihui/OpenHeat)|-|518|2021-12-16|2021-09-05|
-|7|[joyycom/VNN](https://github.com/joyycom/VNN)|VNN是由欢聚集团(Joyy Inc.)推出的高性能、轻量级神经网络部署框架。目前已为Hago、VOO、VFly、马克相机等App提供20余种AI能力的支持，覆盖直播、短视频、视频编辑等泛娱乐场景和工程场景|478|2021-12-20|2021-12-07|
+|7|[joyycom/VNN](https://github.com/joyycom/VNN)|VNN是由欢聚集团(Joyy Inc.)推出的高性能、轻量级神经网络部署框架。目前已为Hago、VOO、VFly、马克相机等App提供20余种AI能力的支持，覆盖直播、短视频、视频编辑等泛娱乐场景和工程场景|480|2021-12-20|2021-12-07|
 |8|[hydromisc/hydromisc](https://github.com/hydromisc/hydromisc)|Open hardware to measure EC and pH, drive pumps, and otherwise manage a mid-size hydroponic grow over Wi-Fi.|455|2021-11-15|2021-06-28|
 |9|[yitter/IdGenerator](https://github.com/yitter/IdGenerator)|💎迄今为止最全面的分布式主键ID生成器。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/SQL 等多语言，且提供 PHP 扩展及 Python、Node.js、Ruby 多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯 ...|412|2021-12-09|2021-03-13|
 |10|[Tencent/loli_profiler](https://github.com/Tencent/loli_profiler)|Memory instrumentation tool for android app&game developers.|377|2021-06-22|2021-03-04|
@@ -21,9 +21,9 @@
 |14|[riscv2os/riscv2os](https://github.com/riscv2os/riscv2os)|從 RISC-V 處理器到 UNIX 作業系統|246|2021-11-25|2021-07-27|
 |15|[numberwolf/FFmpeg-Plus-OpenGL](https://github.com/numberwolf/FFmpeg-Plus-OpenGL)|🔥  OpenGL Filter for FFmpeg: Support Effects/Transition/Picture-in-Picture/LUT, Render video by your shaders(GLSL)  . 🔥 FFmpeg Filter支持特效/转场/画中画、特效/LUT贴纸能力, 支持OpenGL Shader。|234|2021-11-03|2021-01-23|
 |16|[yuawn/NTU-Computer-Security](https://github.com/yuawn/NTU-Computer-Security)|台大 計算機安全 - Pwn 簡報、影片、作業題目與解法 - Computer Security Fall 2019 @ CSIE NTU Taiwan|215|2021-11-28|2021-01-02|
-|17|[loongly/PureScript](https://github.com/loongly/PureScript)|A C# hot reload framework for Unity3D, based on Mono's MONO_AOT_MODE_INTERP mode.|196|2021-12-22|2021-03-05|
+|17|[loongly/PureScript](https://github.com/loongly/PureScript)|A C# hot reload framework for Unity3D, based on Mono's MONO_AOT_MODE_INTERP mode.|197|2021-12-22|2021-03-05|
 |18|[dwj0/Remote-management](https://github.com/dwj0/Remote-management)|远程桌面、RADMIN、SSH、VNC集中管理器|191|2021-12-06|2021-04-03|
-|19|[ClimbSnail/HoloCubic_AIO](https://github.com/ClimbSnail/HoloCubic_AIO)|HoloCubic超多功能AIO固件 基于esp32-arduino的天气时钟、相册、视频播放、桌面投屏、web服务、bilibili粉丝等|184|2021-12-25|2021-05-30|
+|19|[ClimbSnail/HoloCubic_AIO](https://github.com/ClimbSnail/HoloCubic_AIO)|HoloCubic超多功能AIO固件 基于esp32-arduino的天气时钟、相册、视频播放、桌面投屏、web服务、bilibili粉丝等|185|2021-12-25|2021-05-30|
 |20|[JingYang1124/HEX-LINK](https://github.com/JingYang1124/HEX-LINK)|这是一套可适用于PC端游戏的体感操作设备。|182|2021-07-29|2021-07-01|
 |21|[netease-youdao/EMLL](https://github.com/netease-youdao/EMLL)|Edge Machine Learning Library|169|2021-06-08|2021-06-03|
 |22|[maoabc/nmmp](https://github.com/maoabc/nmmp)|dex-vm used to protect the dex file|152|2021-11-27|2021-05-21|
@@ -57,7 +57,7 @@
 |50|[Sunnyyoung/WeChatTweak-CLI](https://github.com/Sunnyyoung/WeChatTweak-CLI)|A command line utility to work with WeChatTweak-macOS - WeChatTweak 命令行工具|49|2021-09-17|2021-09-09|
 |51|[zenaro147/NeoGB-Printer](https://github.com/zenaro147/NeoGB-Printer)|An open-source and standalone Gameboy Printer emulator 100% compatible with  all officially released games (110 in total) that support the accessory. Just print and save the images as BMP|48|2021-12-04|2021-06-30|
 |52|[saidwho13/hamza](https://github.com/saidwho13/hamza)|Fast C OpenType Library|46|2021-10-19|2021-01-16|
-|53|[kenzok8/small-package](https://github.com/kenzok8/small-package)|自动同步更新上游库软件|45|2021-12-27|2021-09-05|
+|53|[kenzok8/small-package](https://github.com/kenzok8/small-package)|自动同步更新上游库软件|45|2021-12-28|2021-09-05|
 |54|[Pangu-Immortal/KeepAlivePerfect](https://github.com/Pangu-Immortal/KeepAlivePerfect)|Android高级保活：Android4.4到Android12.0 完美的保活方案|43|2021-08-26|2021-05-10|
 |55|[PaulKlinger/mrna_vaccine_badge](https://github.com/PaulKlinger/mrna_vaccine_badge)|A small badge showing a schematic of an mRNA vaccine nanoparticle and blinking the RNA sequence of the Moderna or Pfizer vaccines.|40|2021-08-16|2021-07-18|
 |56|[WindySha/bypass_dlfunctions](https://github.com/WindySha/bypass_dlfunctions)|This is another way to bypass the restriction of calling dl functions for system lib.|40|2021-08-15|2021-05-09|

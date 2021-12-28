@@ -5,20 +5,20 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|7999|8|2021-12-28|
+|1|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|8003|8|2021-12-28|
 |2|[jerrykuku/luci-app-vssr](https://github.com/jerrykuku/luci-app-vssr)|HelloWorld是一个以用户最佳主观体验为导向的插件，它支持多种主流协议和多种自定义视频分流服务，拥有精美的操作界面，并配上直观的节点信息。|1554|2|2021-12-16|
 |3|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|342|2|2021-12-27|
 |4|[Tencent/LuaPanda](https://github.com/Tencent/LuaPanda)|lua debug and code tools for VS Code|912|1|2021-11-12|
 |5|[starwing/lua-protobuf](https://github.com/starwing/lua-protobuf)|A Lua module to work with Google protobuf|1224|1|2021-11-30|
-|6|[liuhaopen/UnityMMO](https://github.com/liuhaopen/UnityMMO)|an unity mmo demo, base on ecs(game play), xlua(ui)|971|1|2021-07-01|
-|7|[wongdean/rime-settings](https://github.com/wongdean/rime-settings)|接近原生的鼠须管 Rime 配置|1072|1|2021-12-14|
+|6|[liuhaopen/UnityMMO](https://github.com/liuhaopen/UnityMMO)|an unity mmo demo, base on ecs(game play), xlua(ui)|972|1|2021-07-01|
+|7|[wongdean/rime-settings](https://github.com/wongdean/rime-settings)|接近原生的鼠须管 Rime 配置|1074|1|2021-12-14|
 |8|[SivanLaai/rime-pure](https://github.com/SivanLaai/rime-pure)|【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼音\小鹤双拼\极品五笔\QQ五笔\徐码\郑码】|246|1|2021-10-28|
 |9|[acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion)|Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...|626|1|2021-12-16|
 |10|[orlabs/orange](https://github.com/orlabs/orange)|OpenResty/Nginx Gateway for API Monitoring and Management.|2209|1|2021-12-22|
 |11|[lisaac/luci-app-dockerman](https://github.com/lisaac/luci-app-dockerman)|Docker Manager interface for LuCI|494|1|2021-12-18|
 |12|[jx-sec/jxwaf](https://github.com/jx-sec/jxwaf)|JXWAF(锦衣盾)是一款开源web应用防火墙|825|1|2021-10-11|
 |13|[linkease/istore](https://github.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|97|1|2021-12-21|
-|14|[xhql/rime](https://github.com/xhql/rime)|Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置|852|1|2021-12-27|
+|14|[xhql/rime](https://github.com/xhql/rime)|Rime 鼠须管（Squirrel）朙月拼音｜小鹤双拼｜自然码双拼配置|853|1|2021-12-27|
 |15|[kiccer/Soldier76](https://github.com/kiccer/Soldier76)|PUBG - 罗技鼠标宏   兴趣使然的项目，完虐收费宏！点个Star支持一下作者！[PUBG - Logitech mouse macro   Support 12 kinds of guns without recoil!]|731|1|2021-12-24|
 |16|[Iorest/rime-setting](https://github.com/Iorest/rime-setting)|rime 输入法配置|100|0|2021-10-03|
 |17|[EtherProject/EtherWorkCollection](https://github.com/EtherProject/EtherWorkCollection)|EtherEngine 作品集|16|0|2021-09-04|
@@ -34,9 +34,9 @@
 |27|[wofsauge/External-Item-Descriptions](https://github.com/wofsauge/External-Item-Descriptions)|A mod for the game "The Binding of Isaac: Rebirth" that displays useful informations for items, trinkets, rooms and more!|67|0|2021-12-27|
 |28|[loaden/rime](https://github.com/loaden/rime)|中州韵输入法|22|0|2021-09-10|
 |29|[zhang-changwei/Automation-scripts-for-Aegisub](https://github.com/zhang-changwei/Automation-scripts-for-Aegisub)|A few automation scripts for Aegisub|17|0|2021-11-27|
-|30|[BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en)|Rime / Easy English 英文输入法|126|0|2021-06-08|
+|30|[BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en)|Rime / Easy English 英文输入法|127|0|2021-06-08|
 |31|[shengnoah/blues](https://github.com/shengnoah/blues)|Blues是一个基于Openresty + LUA的WEB演示框架|16|0|2021-10-29|
-|32|[DeadlyBossMods/DBM-Retail](https://github.com/DeadlyBossMods/DBM-Retail)|The ultimate encounter helper (for Retail) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|153|0|2021-12-23|
+|32|[DeadlyBossMods/DBM-Retail](https://github.com/DeadlyBossMods/DBM-Retail)|The ultimate encounter helper (for Retail) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|152|0|2021-12-23|
 |33|[roninro/rime-wubi](https://github.com/roninro/rime-wubi)|鼠须管【五笔字型】输入方案|3|0|2021-10-12|
 |34|[Rubgrsch/EnhancedChatFilterMODFix](https://github.com/Rubgrsch/EnhancedChatFilterMODFix)|A WoW chat filter addon for CN servers|6|0|2021-12-07|
 |35|[KURANADO2/hammerspoon-kuranado](https://github.com/KURANADO2/hammerspoon-kuranado)|Hammerspoon 配置|51|0|2021-12-26|
@@ -51,7 +51,7 @@
 |44|[kiccer/logitech-macro-frame](https://github.com/kiccer/logitech-macro-frame)|罗技宏框架 - 提炼自 kiccer/Soldier76 项目|60|0|2021-08-10|
 |45|[kaniol-lck/FusionHelpManual-zh_CN](https://github.com/kaniol-lck/FusionHelpManual-zh_CN)|Fusion help manual in simplified Chinese translation|9|0|2021-11-23|
 |46|[defold/doc](https://github.com/defold/doc)|Defold game engine documentation for www.defold.com|66|0|2021-12-16|
-|47|[cfadmin-cn/cfadmin](https://github.com/cfadmin-cn/cfadmin)|A lua web network framework.|248|0|2021-12-27|
+|47|[cfadmin-cn/cfadmin](https://github.com/cfadmin-cn/cfadmin)|A lua web network framework.|248|0|2021-12-28|
 |48|[sg552/banana-waf](https://github.com/sg552/banana-waf)|非常简单好用的waf|8|0|2021-10-26|
 |49|[super-goodman/lua-script](https://github.com/super-goodman/lua-script)|lua 脚本|5|0|2021-11-25|
 |50|[musurca/IKE](https://github.com/musurca/IKE)|PBEM/hotseat multiplayer for Command: Modern Operations scenarios|9|0|2021-12-26|
@@ -95,7 +95,7 @@
 |88|[scomper/Rime](https://github.com/scomper/Rime)|鼠须管配置|387|0|2021-08-16|
 |89|[VoidmatrixHeathcliff/RandomPic](https://github.com/VoidmatrixHeathcliff/RandomPic)|开箱即用的 随机图片 服务器|4|0|2021-08-12|
 |90|[ElvUI-WotLK/ElvUI](https://github.com/ElvUI-WotLK/ElvUI)|ElvUI for World of Warcraft - Wrath of the Lich King (3.3.5a)|277|0|2021-09-26|
-|91|[einverne/dotfiles](https://github.com/einverne/dotfiles)|vimrc|33|0|2021-12-08|
+|91|[einverne/dotfiles](https://github.com/einverne/dotfiles)|vimrc|34|0|2021-12-08|
 |92|[lisaac/luci-app-diskman](https://github.com/lisaac/luci-app-diskman)|Disk Manager for LuCI|224|0|2021-12-10|
 |93|[UsbPacketViewer/parser](https://github.com/UsbPacketViewer/parser)|-|10|0|2021-11-30|
 |94|[lxfly2000/Acy-Font](https://github.com/lxfly2000/Acy-Font)|自制手写字体。A hand-writing font set.|14|0|2021-10-23|

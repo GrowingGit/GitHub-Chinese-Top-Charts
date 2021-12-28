@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[foxsen/archbase](https://github.com/foxsen/archbase)|教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本|1746|2021-11-29|2021-10-27|
+|1|[foxsen/archbase](https://github.com/foxsen/archbase)|教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本|1759|2021-11-29|2021-10-27|
 |2|[xiaoweiChen/Learn-LLVM-12](https://github.com/xiaoweiChen/Learn-LLVM-12)|《Learn LLVM 12》的非专业个人翻译|153|2021-10-05|2021-08-15|
 |3|[note286/xdupgthesis](https://github.com/note286/xdupgthesis)|西安电子科技大学研究生学位论文XeLaTeX模板|136|2021-12-27|2021-10-15|
 |4|[nju-lug/NJUThesis](https://github.com/nju-lug/NJUThesis)|南京大学学位论文 LaTeX 模板|120|2021-12-23|2021-05-20|
@@ -21,7 +21,7 @@
 |14|[ECNU-ICA/ECNU_graduation_thesis_template](https://github.com/ECNU-ICA/ECNU_graduation_thesis_template)|华东师范大学研究生毕业论文 Latex 模板|17|2021-11-17|2021-11-17|
 |15|[obster-y/XJTU-thesis](https://github.com/obster-y/XJTU-thesis)|西安交通大学学位论文模板（LaTeX）（适用硕士、博士学位）An official LaTeX template for Xi'an Jiaotong University degree thesis (Chinese and English)|16|2021-12-04|2021-06-01|
 |16|[iotang/linux_tutorials_for_brand_new_oiers](https://github.com/iotang/linux_tutorials_for_brand_new_oiers)|Linux Tutorials for Brand New Oiers   给信息组学弟学妹的 Linux 入门手把手教程|15|2021-07-18|2021-07-18|
-|17|[FreeBSD-Ask/FreeBSD-Ask](https://github.com/FreeBSD-Ask/FreeBSD-Ask)|开源书籍——FreeBSD 从入门到跑路。|14|2021-12-27|2021-11-19|
+|17|[FreeBSD-Ask/FreeBSD-Ask](https://github.com/FreeBSD-Ask/FreeBSD-Ask)|开源书籍——FreeBSD 从入门到跑路。|14|2021-12-28|2021-11-19|
 |18|[MeouSker77/ProgrammingRust](https://github.com/MeouSker77/ProgrammingRust)|本书为《Programming Rust - Fast, Safe Systems Development》第2版的个人中文翻译，仅供学习和交流使用，如有侵权请联系作者删除|13|2021-12-27|2021-10-01|
 |19|[DeeDive/BJFUThesis](https://github.com/DeeDive/BJFUThesis)|北京林业大学 LaTeX 学位论文模板 LaTeX Thesis Template for Beijing Forestry University|12|2021-12-16|2021-05-11|
 |20|[warthecatalyst/-Latex-](https://github.com/warthecatalyst/-Latex-)|根据华科本科毕业设计模板修改成的华科课程设计Latex模板|11|2021-10-26|2021-10-26|
@@ -31,11 +31,11 @@
 |24|[septsea/strange-book-zero](https://github.com/septsea/strange-book-zero)|a strange book discussing basic stuffs of polynomials|10|2021-12-23|2021-06-03|
 |25|[SwitWu/LaTeX-packages-zh-cn](https://github.com/SwitWu/LaTeX-packages-zh-cn)|LaTeX常用宏包中文翻译版|10|2021-07-31|2021-03-27|
 |26|[hegerdes/VSCode-LaTeX-Container](https://github.com/hegerdes/VSCode-LaTeX-Container)|This is a VSCode DevContainer template for scientific LaTeX papers|9|2021-07-21|2021-05-19|
-|27|[yusanshi/hnuthesis](https://github.com/yusanshi/hnuthesis)|湖南大学硕士学位论文 LaTeX 模板|8|2021-11-18|2021-04-23|
-|28|[wongsingfo/pku-grad-thesis](https://github.com/wongsingfo/pku-grad-thesis)|北京大学本科生毕业论文 latex 模版，基于 pkuthss 1.9.0 修改|8|2021-06-07|2021-04-22|
-|29|[AlphaZTX/phyasgn](https://github.com/AlphaZTX/phyasgn)|北京大学物理学院课程作业模板|7|2021-11-30|2021-10-08|
-|30|[Seafood-SIMIT/sky-Paper-Templete-LaTeX](https://github.com/Seafood-SIMIT/sky-Paper-Templete-LaTeX)|第三届“空天杯”全国创新创意大赛初赛论文Latex模版|7|2021-07-14|2021-05-21|
-|31|[pzyer/CDUT-CyberspaceSec-LearnDocs](https://github.com/pzyer/CDUT-CyberspaceSec-LearnDocs)|成都理工大学网络空间安全专业学习资料库，分享各种期末考试重点勾画，实验报告等。|7|2021-11-21|2021-05-02|
+|27|[pzyer/CDUT-CyberspaceSec-LearnDocs](https://github.com/pzyer/CDUT-CyberspaceSec-LearnDocs)|成都理工大学网络空间安全专业学习资料库，分享各种期末考试重点勾画，实验报告等。|8|2021-11-21|2021-05-02|
+|28|[yusanshi/hnuthesis](https://github.com/yusanshi/hnuthesis)|湖南大学硕士学位论文 LaTeX 模板|8|2021-11-18|2021-04-23|
+|29|[wongsingfo/pku-grad-thesis](https://github.com/wongsingfo/pku-grad-thesis)|北京大学本科生毕业论文 latex 模版，基于 pkuthss 1.9.0 修改|8|2021-06-07|2021-04-22|
+|30|[AlphaZTX/phyasgn](https://github.com/AlphaZTX/phyasgn)|北京大学物理学院课程作业模板|7|2021-11-30|2021-10-08|
+|31|[Seafood-SIMIT/sky-Paper-Templete-LaTeX](https://github.com/Seafood-SIMIT/sky-Paper-Templete-LaTeX)|第三届“空天杯”全国创新创意大赛初赛论文Latex模版|7|2021-07-14|2021-05-21|
 |32|[cucJ2014/CUC_Template-of-thesis_Latex](https://github.com/cucJ2014/CUC_Template-of-thesis_Latex)|中国传媒大学论文模板Latex|7|2021-11-09|2021-01-07|
 |33|[Monoceros393/AHUThesis](https://github.com/Monoceros393/AHUThesis)|安徽大学硕士学位论文LaTeX模板|6|2021-12-26|2021-04-06|
 |34|[Vitzron/HHU-thesis](https://github.com/Vitzron/HHU-thesis)|河海大学研究生学位论文LaTeX模板|6|2021-08-16|2021-03-19|

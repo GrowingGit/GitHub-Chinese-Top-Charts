@@ -5,20 +5,20 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[lib-pku/libpku](https://github.com/lib-pku/libpku)|贵校课程资料民间整理|25102|2021-12-27|
-|2|[soulmachine/leetcode](https://github.com/soulmachine/leetcode)|LeetCode题解，151道题完整版|10283|2021-06-05|
-|3|[liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY)|Book of Elementary Algorithms and Data structures|5000|2021-12-26|
-|4|[zhanwen/MathModel](https://github.com/zhanwen/MathModel)|研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT|3851|2021-12-10|
-|5|[horance-liu/tensorflow-internals](https://github.com/horance-liu/tensorflow-internals)|It is open source ebook about TensorFlow kernel and implementation mechanism.|2684|2021-11-13|
-|6|[sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis)|上海交通大学 XeLaTeX 学位论文及课程论文模板   Shanghai Jiao Tong University XeLaTeX Thesis Template|2393|2021-11-27|
+|1|[lib-pku/libpku](https://github.com/lib-pku/libpku)|贵校课程资料民间整理|25105|2021-12-27|
+|2|[soulmachine/leetcode](https://github.com/soulmachine/leetcode)|LeetCode题解，151道题完整版|10284|2021-06-05|
+|3|[liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY)|Book of Elementary Algorithms and Data structures|5005|2021-12-28|
+|4|[zhanwen/MathModel](https://github.com/zhanwen/MathModel)|研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT|3850|2021-12-10|
+|5|[horance-liu/tensorflow-internals](https://github.com/horance-liu/tensorflow-internals)|It is open source ebook about TensorFlow kernel and implementation mechanism.|2685|2021-11-13|
+|6|[sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis)|上海交通大学 XeLaTeX 学位论文及课程论文模板   Shanghai Jiao Tong University XeLaTeX Thesis Template|2394|2021-12-28|
 |7|[NiuTrans/MTBook](https://github.com/NiuTrans/MTBook)|《机器翻译：基础与模型》肖桐 朱靖波 著 - Machine Translation: Foundations and Models|2310|2021-11-25|
 |8|[liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged)|Open book about math and programming.|2304|2021-12-04|
-|9|[foxsen/archbase](https://github.com/foxsen/archbase)|教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本|1746|2021-11-29|
-|10|[jankapunkt/latexcv](https://github.com/jankapunkt/latexcv)|:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!|1442|2021-11-22|
+|9|[foxsen/archbase](https://github.com/foxsen/archbase)|教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本|1759|2021-11-29|
+|10|[jankapunkt/latexcv](https://github.com/jankapunkt/latexcv)|:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!|1443|2021-11-22|
 |11|[thunlp/KRLPapers](https://github.com/thunlp/KRLPapers)|Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)|1430|2021-08-29|
-|12|[wuzhouhui/awk](https://github.com/wuzhouhui/awk)|The AWK Programming Language (AWK 程序设计语言, awkbook) 中文翻译, LaTeX 排版|971|2021-11-21|
+|12|[wuzhouhui/awk](https://github.com/wuzhouhui/awk)|The AWK Programming Language (AWK 程序设计语言, awkbook) 中文翻译, LaTeX 排版|973|2021-11-21|
 |13|[dustincys/hithesis](https://github.com/dustincys/hithesis)|嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板|904|2021-12-09|
-|14|[x-magus/ThesisUESTC](https://github.com/x-magus/ThesisUESTC)|ThesisUESTC-电子科技大学毕业论文模板|697|2021-09-06|
+|14|[x-magus/ThesisUESTC](https://github.com/x-magus/ThesisUESTC)|ThesisUESTC-电子科技大学毕业论文模板|699|2021-09-06|
 |15|[Duan-JM/awesome-papers-fewshot](https://github.com/Duan-JM/awesome-papers-fewshot)|Collection for Few-shot Learning|675|2021-11-10|
 |16|[BHOSC/BUAAthesis](https://github.com/BHOSC/BUAAthesis)|北航毕设论文LaTeX模板|633|2021-12-17|
 |17|[MeouSker77/Cpp17](https://github.com/MeouSker77/Cpp17)|本书为《C++17 the complete guide》的个人中文翻译，仅供学习和交流使用，侵删|581|2021-08-15|
@@ -57,15 +57,15 @@
 |50|[a171232886/TJUThesis_master_2021](https://github.com/a171232886/TJUThesis_master_2021)|天大博士/硕士学位论文Latex模板，根据2021年版要求修改，可直接在Overleaf上运行。:star:所写的论文成功提交天津大学图书馆存档！（2021.12.24）|58|2021-12-26|
 |51|[tigerneil/dlbook-zh-cn](https://github.com/tigerneil/dlbook-zh-cn)|Ian Goodfellow, Yoshua Bengio and Aaron Courville's deep learning book Chinese translation|54|2021-08-13|
 |52|[Spacial/csstuff](https://github.com/Spacial/csstuff)|CS Stuff is an awesome collection of Computer Science Stuff.|45|2021-10-18|
-|53|[YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci)|An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.|43|2021-12-27|
+|53|[YuzheSHI/awesome-agi-cocosci](https://github.com/YuzheSHI/awesome-agi-cocosci)|An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.|43|2021-12-28|
 |54|[wangxdouc/ouc-java-course](https://github.com/wangxdouc/ouc-java-course)|Java course slides and materials (CS, Ocean University of China)|43|2021-06-04|
 |55|[ylsislove/make-a-little-progress-every-day](https://github.com/ylsislove/make-a-little-progress-every-day)|学无止境，督促自己学习。每天进步一点点，水滴石穿-贵在坚持。|41|2021-11-24|
 |56|[syvshc/2019Fall_FA](https://github.com/syvshc/2019Fall_FA)|2019秋季学期泛函分析笔记QAQ:unicorn:|37|2021-09-08|
 |57|[21-lessons/21lessons-book](https://github.com/21-lessons/21lessons-book)|21 Lessons - A book about a bitcoin journey, written by a bitcoiner|34|2021-11-11|
-|58|[jiafeng5513/JLU_Dissertation](https://github.com/jiafeng5513/JLU_Dissertation)|吉林大学学位论文Latex模板|33|2021-06-05|
-|59|[mohuangrui/latexspine](https://github.com/mohuangrui/latexspine)|LaTeX Template for Producing Book Spine|33|2021-10-29|
-|60|[wtsnwei/pdsp](https://github.com/wtsnwei/pdsp)|《Personal Development for Smart People》的中文自译版|32|2021-08-13|
-|61|[mengchaoheng/SCUT_thesis](https://github.com/mengchaoheng/SCUT_thesis)|华南理工大学硕博士学位论文LaTeX模板，始于2020年的最新项目，环境兼容性更好，实测可通过格式审核！|32|2021-12-27|
+|58|[mengchaoheng/SCUT_thesis](https://github.com/mengchaoheng/SCUT_thesis)|华南理工大学硕博士学位论文LaTeX模板，始于2020年的最新项目，环境兼容性更好，实测可通过格式审核！|33|2021-12-27|
+|59|[jiafeng5513/JLU_Dissertation](https://github.com/jiafeng5513/JLU_Dissertation)|吉林大学学位论文Latex模板|33|2021-06-05|
+|60|[mohuangrui/latexspine](https://github.com/mohuangrui/latexspine)|LaTeX Template for Producing Book Spine|33|2021-10-29|
+|61|[wtsnwei/pdsp](https://github.com/wtsnwei/pdsp)|《Personal Development for Smart People》的中文自译版|32|2021-08-13|
 |62|[xiaoweiChen/CPP-Move-Semantics](https://github.com/xiaoweiChen/CPP-Move-Semantics)|《C++ Move Semantics》的非专业个人翻译|29|2021-07-25|
 |63|[thu-ml/tianshou-docs-zh_CN](https://github.com/thu-ml/tianshou-docs-zh_CN)|天授中文文档|29|2021-09-13|
 |64|[yuhldr/LZUThesis2020](https://github.com/yuhldr/LZUThesis2020)|兰州大学2021毕业论文LaTex模板|29|2021-12-14|
@@ -95,7 +95,7 @@
 |88|[huangyxi/WHUT-Bachelor](https://github.com/huangyxi/WHUT-Bachelor)|武汉理工大学本科生毕业设计（论文） LaTeX 模板    LaTeX Template for Bachelor's Degree Thesis at Wuhan University of Technology (WHUT)|16|2021-10-20|
 |89|[shuyong/study-notes-math](https://github.com/shuyong/study-notes-math)|读书笔记-数学|16|2021-11-30|
 |90|[iotang/linux_tutorials_for_brand_new_oiers](https://github.com/iotang/linux_tutorials_for_brand_new_oiers)|Linux Tutorials for Brand New Oiers   给信息组学弟学妹的 Linux 入门手把手教程|15|2021-07-18|
-|91|[FreeBSD-Ask/FreeBSD-Ask](https://github.com/FreeBSD-Ask/FreeBSD-Ask)|开源书籍——FreeBSD 从入门到跑路。|14|2021-12-27|
+|91|[FreeBSD-Ask/FreeBSD-Ask](https://github.com/FreeBSD-Ask/FreeBSD-Ask)|开源书籍——FreeBSD 从入门到跑路。|14|2021-12-28|
 |92|[zhuyuanxiang/StudyNotes-CN](https://github.com/zhuyuanxiang/StudyNotes-CN)|使用 MD 文件记录 Java, Python, ML, DL, NLP 的学习笔记|14|2021-08-26|
 |93|[langsci/latex-skeletons](https://github.com/langsci/latex-skeletons)|Templates for monographs, papers, and edited volumes|14|2021-09-14|
 |94|[MeouSker77/ProgrammingRust](https://github.com/MeouSker77/ProgrammingRust)|本书为《Programming Rust - Fast, Safe Systems Development》第2版的个人中文翻译，仅供学习和交流使用，如有侵权请联系作者删除|13|2021-12-27|

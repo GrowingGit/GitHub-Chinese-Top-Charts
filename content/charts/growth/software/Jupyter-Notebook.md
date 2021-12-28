@@ -6,13 +6,13 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[jantic/DeOldify](https://github.com/jantic/DeOldify)|A Deep Learning based project for colorizing and restoring old images (and video!)|14511|13|2021-12-13|
-|2|[selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)|One has no future if one couldn't teach themself.|13018|13|2021-12-26|
+|2|[selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)|One has no future if one couldn't teach themself.|13019|13|2021-12-26|
 |3|[leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction)|A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).|12204|7|2021-11-24|
 |4|[roboticcam/machine-learning-notes](https://github.com/roboticcam/machine-learning-notes)|My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接|5399|4|2021-12-11|
 |5|[ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)|We are building an open database of COVID-19 cases with chest X-ray or CT images.|2761|4|2021-10-14|
 |6|[NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)|NeMo: a toolkit for conversational AI|3709|4|2021-12-27|
 |7|[ljpzzz/machinelearning](https://github.com/ljpzzz/machinelearning)|My blogs and code for machine learning. http://cnblogs.com/pinard|6018|3|2021-10-01|
-|8|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|778|3|2021-12-21|
+|8|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|779|3|2021-12-21|
 |9|[cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans)|An adversarial example library for constructing attacks, building defenses, and benchmarking both|5369|3|2021-12-26|
 |10|[wangshub/RL-Stock](https://github.com/wangshub/RL-Stock)|📈 如何用深度强化学习自动炒股|2095|3|2021-09-08|
 |11|[Alfred1984/interesting-python](https://github.com/Alfred1984/interesting-python)|有趣的Python爬虫和Python数据分析小项目(Some interesting Python crawlers and data analysis projects)|3939|3|2021-07-06|
@@ -24,7 +24,7 @@
 |17|[NELSONZHAO/zhihu](https://github.com/NELSONZHAO/zhihu)|This repo contains the source code in my personal column (https://zhuanlan.zhihu.com/zhaoyeyu), implemented using Python 3.6. Including Natural Language Processing and Computer Vision projects, such a ...|3307|2|2021-06-14|
 |18|[juntang-zhuang/Adabelief-Optimizer](https://github.com/juntang-zhuang/Adabelief-Optimizer)|Repository for NeurIPS 2020 Spotlight  "AdaBelief Optimizer: Adapting stepsizes by the belief in observed gradients"|959|2|2021-06-11|
 |19|[chokkan/mlnote](https://github.com/chokkan/mlnote)|機械学習帳|174|2|2021-12-26|
-|20|[amaiya/ktrain](https://github.com/amaiya/ktrain)|ktrain is a Python library that makes deep learning and AI more accessible and easier to apply|930|1|2021-12-16|
+|20|[amaiya/ktrain](https://github.com/amaiya/ktrain)|ktrain is a Python library that makes deep learning and AI more accessible and easier to apply|931|1|2021-12-16|
 |21|[TheEconomist/big-mac-data](https://github.com/TheEconomist/big-mac-data)|Data and methodology for the Big Mac index|1209|1|2021-07-26|
 |22|[fastai/course20](https://github.com/fastai/course20)|Deep Learning for Coders, 2020, the website|696|1|2021-12-16|
 |23|[LYuhang/GNN_Review](https://github.com/LYuhang/GNN_Review)|GNN综述阅读报告|553|1|2021-08-17|
@@ -41,14 +41,14 @@
 |34|[davidfrz/yolov5_distance_count](https://github.com/davidfrz/yolov5_distance_count)|使用yolov5，双目摄像头进行测距|101|1|2021-07-16|
 |35|[shaoanlu/fewshot-face-translation-GAN](https://github.com/shaoanlu/fewshot-face-translation-GAN)|Generative adversarial networks integrating modules from FUNIT and SPADE for face-swapping.|746|1|2021-07-02|
 |36|[ni1o1/transbigdata](https://github.com/ni1o1/transbigdata)|A Python package developed for transportation spatio-temporal big data processing, analysis and visualization.|42|1|2021-12-23|
-|37|[luo3300612/Visualizer](https://github.com/luo3300612/Visualizer)|assistant tools for attention visualization in deep learning|192|1|2021-08-11|
+|37|[luo3300612/Visualizer](https://github.com/luo3300612/Visualizer)|assistant tools for attention visualization in deep learning|193|1|2021-08-11|
 |38|[Tiiiger/bert_score](https://github.com/Tiiiger/bert_score)|BERT score for text generation|781|1|2021-12-10|
 |39|[zhongqiangwu960812/AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)|该仓库尝试整理推荐系统领域的一些经典算法模型|318|1|2021-10-09|
-|40|[eastmountyxz/ImageProcessing-Python](https://github.com/eastmountyxz/ImageProcessing-Python)|该资源为作者在CSDN的撰写Python图像处理文章的支撑，主要是Python实现图像处理、图像识别、图像分类等算法代码实现，希望该资源对您有所帮助，一起加油。|812|1|2021-11-08|
+|40|[eastmountyxz/ImageProcessing-Python](https://github.com/eastmountyxz/ImageProcessing-Python)|该资源为作者在CSDN的撰写Python图像处理文章的支撑，主要是Python实现图像处理、图像识别、图像分类等算法代码实现，希望该资源对您有所帮助，一起加油。|813|1|2021-11-08|
 |41|[d2l-ai/d2l-zh-pytorch-slides](https://github.com/d2l-ai/d2l-zh-pytorch-slides)|Pytorch版代码幻灯片|252|1|2021-12-23|
 |42|[44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel)|基于思源黑体的开源像素字体|170|1|2021-08-20|
 |43|[LinXueyuanStdio/LaTeX_OCR_PRO](https://github.com/LinXueyuanStdio/LaTeX_OCR_PRO)|:art: 数学公式识别增强版：中英文手写印刷公式、支持初级符号推导（数据结构基于 LaTeX 抽象语法树）|519|1|2021-11-24|
-|44|[tugstugi/dl-colab-notebooks](https://github.com/tugstugi/dl-colab-notebooks)|Try out  deep learning models online on Google Colab|1262|1|2021-11-16|
+|44|[tugstugi/dl-colab-notebooks](https://github.com/tugstugi/dl-colab-notebooks)|Try out  deep learning models online on Google Colab|1263|1|2021-11-16|
 |45|[kevinfu1717/SuperInterstellarTerminal](https://github.com/kevinfu1717/SuperInterstellarTerminal)|【X世纪星际终端】A Wechat Social and AR Game: 基于微信聊天，结合增强现实技术AR+LBS（基于图像位置）的轻社交星际漂流瓶游戏。向外太空发送漂流信息，看看AI预测的外星人是长什么样的，寻找身边的外星人,逗逗外星生物，看看外星植物及外星建筑。Send the message to the outer space, find the aliens in the earth ...|91|1|2021-12-10|
 |46|[PaddlePaddle/Quantum](https://github.com/PaddlePaddle/Quantum)|-|332|1|2021-12-15|
 |47|[wbbhcb/stock_market](https://github.com/wbbhcb/stock_market)|-|398|1|2021-11-01|
@@ -57,9 +57,9 @@
 |50|[oegedijk/dash_oop_components](https://github.com/oegedijk/dash_oop_components)|OOP components for plotly dash that make dashboard components composable, reusable and configurable|24|0|2021-09-28|
 |51|[Emergent-Epidemics/covid19_npi_china](https://github.com/Emergent-Epidemics/covid19_npi_china)|Code for: The effect of human mobility and control measures on the COVID-19 epidemic in China|12|0|2021-09-09|
 |52|[xiaonan8826/jeffindex](https://github.com/xiaonan8826/jeffindex)|-|10|0|2021-09-08|
-|53|[ryan4yin/knowledge](https://github.com/ryan4yin/knowledge)|Everything I know: DevOps & CloudNative, Music, etc...|25|0|2021-12-27|
+|53|[ryan4yin/knowledge](https://github.com/ryan4yin/knowledge)|Everything I know: DevOps & CloudNative, Music, etc...|26|0|2021-12-27|
 |54|[aipredict/ai-deployment](https://github.com/aipredict/ai-deployment)|关注AI模型上线、模型部署|132|0|2021-07-15|
-|55|[xuhao1/FOXTracker](https://github.com/xuhao1/FOXTracker)|Facial Head Pose Tracker for Gaming|191|0|2021-06-27|
+|55|[xuhao1/FOXTracker](https://github.com/xuhao1/FOXTracker)|Facial Head Pose Tracker for Gaming|192|0|2021-06-27|
 |56|[archersama/3rd-solution-COVID19-Fake-News-Detection-in-English](https://github.com/archersama/3rd-solution-COVID19-Fake-News-Detection-in-English)|这个仓库是AAAI2021共享任务COVID19-Fake-News-Detection-in-English(虚假新闻分类)的第三名的解决方案|10|0|2021-12-04|
 |57|[isee15/Card-Ocr](https://github.com/isee15/Card-Ocr)|身份证识别OCR|375|0|2021-09-22|
 |58|[xieyan0811/pdfconv](https://github.com/xieyan0811/pdfconv)|中文PDF转TXT的实用工具|17|0|2021-10-13|

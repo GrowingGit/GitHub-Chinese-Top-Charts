@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5975|3|2021-12-22|
-|2|[r0eXpeR/fingerprint](https://github.com/r0eXpeR/fingerprint)|各种工具指纹收集分享|192|3|2021-11-03|
+|1|[r0eXpeR/fingerprint](https://github.com/r0eXpeR/fingerprint)|各种工具指纹收集分享|193|4|2021-11-03|
+|2|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5976|3|2021-12-22|
 |3|[guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)|A curated list of podcasts we like to listen to. |1604|1|2021-07-15|
 |4|[airbnb/ruby](https://github.com/airbnb/ruby)|Ruby Style Guide|3367|1|2021-09-21|
 |5|[JapanExchangeGroup/J-Quants-Tutorial](https://github.com/JapanExchangeGroup/J-Quants-Tutorial)|J-Quants-Tutorial|106|0|2021-07-27|

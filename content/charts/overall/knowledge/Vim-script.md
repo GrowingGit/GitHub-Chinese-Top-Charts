@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|8642|2021-08-21|
+|1|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|8645|2021-08-21|
 |2|[dolotech/ebook](https://github.com/dolotech/ebook)|学习资料|1432|2021-12-02|
 |3|[dofy/learn-vim](https://github.com/dofy/learn-vim)|Vim 实操教程（Learning Vim）Vim practical tutorial.|1295|2021-09-30|
 |4|[lymslive/vimllearn](https://github.com/lymslive/vimllearn)|A book for VimL Script language|397|2021-12-07|

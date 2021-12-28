@@ -10,8 +10,8 @@
 |3|[FvNCCR228/SCU_Beamer_Slide-demo](https://github.com/FvNCCR228/SCU_Beamer_Slide-demo)|四川大学非官方Beamer模板   Unofficial Beamer Template for Sichuan University|13|1|2021-12-08|
 |4|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3287|1|2021-12-04|
 |5|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|198|1|2021-12-24|
-|6|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|1061|1|2021-12-05|
-|7|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2458|1|2021-10-29|
+|6|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|1063|1|2021-12-05|
+|7|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2459|1|2021-10-29|
 |8|[OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs)|The Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security.|1278|1|2021-12-27|
 |9|[huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv)|Latex CV template built with Font Awesome.|338|0|2021-07-20|
 |10|[mohuangrui/ucasproposal](https://github.com/mohuangrui/ucasproposal)|LaTeX Proposal Template for the University of Chinese Academy of Sciences|337|0|2021-10-29|
@@ -46,7 +46,7 @@
 |39|[xiyie/UPC_LATEX_TEMPLATE](https://github.com/xiyie/UPC_LATEX_TEMPLATE)|中国石油大学（华东）控制科学与工程学院课题模板（不保证通用）|4|0|2021-10-01|
 |40|[gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en)|The English version of 14 lectures on visual SLAM.|606|0|2021-11-16|
 |41|[a358003542/zhouyi](https://github.com/a358003542/zhouyi)|周易初讲【讲解部分编写中......】|2|0|2021-11-08|
-|42|[wenddymacro/AppliedEconometrics](https://github.com/wenddymacro/AppliedEconometrics)|Stata、计量经济学、DSGE|6|0|2021-10-28|
+|42|[wenddymacro/AppliedEconometrics](https://github.com/wenddymacro/AppliedEconometrics)|Stata、计量经济学、DSGE|7|0|2021-10-28|
 |43|[zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style)|GB/T 7714-2015 BibTeX Style|608|0|2021-12-12|
 |44|[jamesfang8499/physics1](https://github.com/jamesfang8499/physics1)|-|76|0|2021-12-17|
 |45|[utmsks/KSImaterial](https://github.com/utmsks/KSImaterial)|計算数学I実習資料集|14|0|2021-06-08|
@@ -86,8 +86,8 @@
 |79|[WoodyBryant/Report_Template](https://github.com/WoodyBryant/Report_Template)|Report_Template|9|0|2021-11-05|
 |80|[liao961120/ntuthesis2](https://github.com/liao961120/ntuthesis2)|台大碩博士論文模板 (Pandoc)|2|0|2021-08-14|
 |81|[MatNoble/LaTeX-Document](https://github.com/MatNoble/LaTeX-Document)|LaTeX Templates for Document|67|0|2021-06-16|
-|82|[stone-zeng/fduthesis](https://github.com/stone-zeng/fduthesis)|LaTeX thesis template for Fudan University|424|0|2021-12-27|
-|83|[LLLgoyour/Handout](https://github.com/LLLgoyour/Handout)|王一老师上课配套的讲义|3|0|2021-12-25|
+|82|[stone-zeng/fduthesis](https://github.com/stone-zeng/fduthesis)|LaTeX thesis template for Fudan University|425|0|2021-12-27|
+|83|[LLLgoyour/Handout](https://github.com/LLLgoyour/Handout)|王一老师上课配套的讲义|3|0|2021-12-28|
 |84|[borting/nctu-thesis](https://github.com/borting/nctu-thesis)|NCTU Thesis Template in XeLaTeX|61|0|2021-07-26|
 |85|[wtsnjp/nlproceedings](https://github.com/wtsnjp/nlproceedings)|LaTeX document class for the proceedings of ANLP|10|0|2021-12-24|
 |86|[imtsuki/resume](https://github.com/imtsuki/resume)|📝 This  is my résumé / 这是我的简历|9|0|2021-12-02|

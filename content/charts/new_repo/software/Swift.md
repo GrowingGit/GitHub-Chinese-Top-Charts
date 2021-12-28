@@ -6,7 +6,7 @@
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[ruanjx/VideoLab](https://github.com/ruanjx/VideoLab)|High-performance and flexible video editing and effects framework, based on AVFoundation and Metal.|468|2021-06-26|2021-02-21|
-|2|[cmushroom/redis-pro](https://github.com/cmushroom/redis-pro)|redis-pro redis 桌面管理工具|410|2021-12-26|2021-01-19|
+|2|[cmushroom/redis-pro](https://github.com/cmushroom/redis-pro)|redis-pro redis 桌面管理工具|410|2021-12-28|2021-01-19|
 |3|[Masayuki-JP/Health-Habit-Assistant](https://github.com/Masayuki-JP/Health-Habit-Assistant)|A simple health assistant app built in Swift5 for iPhone 📱 |318|2021-06-29|2021-02-09|
 |4|[Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11)| 💻 Windows 11 in SwiftUI.|111|2021-10-13|2021-08-31|
 |5|[william0wang/MagicCamera](https://github.com/william0wang/MagicCamera)|iOS多功能AI相机：人像卡通化、变老变年轻、美颜、滤镜、艺术效果等|90|2021-11-08|2021-10-29|
@@ -29,8 +29,8 @@
 |22|[Cantoboard/Cantoboard](https://github.com/Cantoboard/Cantoboard)|Cantoboard - Smart Cantonese Keyboard on iOS |22|2021-12-24|2021-03-19|
 |23|[ShenJieSuzhou/PurchaseX](https://github.com/ShenJieSuzhou/PurchaseX)|PurchaseX 是基于 Swift 语言开发，专门用于给您的应用或者游戏提供应用内购买（In-App_purchase）解决方案的轻量级 Framework；  PurchaseX 能让开发者轻松的为应用程序集成苹果的应用内购买，目前最低支持 iOS 8.0 版本；|21|2021-10-28|2021-07-20|
 |24|[creepymonster/GlucoseDirectApp](https://github.com/creepymonster/GlucoseDirectApp)|App programmed in Swift/SwiftUI for using Libre 1/2 blood glucose sensors.|21|2021-12-27|2021-07-18|
-|25|[JerryFans/JFPopup](https://github.com/JerryFans/JFPopup)|A Swift Popup Module help you popup your custom view easily|19|2021-10-22|2021-10-11|
-|26|[lihaoyun6/DimQQ](https://github.com/lihaoyun6/DimQQ)|一款可自定义强度的QQ for Mac亮度降低工具|18|2021-11-28|2021-11-23|
+|25|[lihaoyun6/DimQQ](https://github.com/lihaoyun6/DimQQ)|一款可自定义强度的QQ for Mac亮度降低工具|19|2021-11-28|2021-11-23|
+|26|[JerryFans/JFPopup](https://github.com/JerryFans/JFPopup)|A Swift Popup Module help you popup your custom view easily|19|2021-10-22|2021-10-11|
 |27|[treehollow/treehollow-v3-ios](https://github.com/treehollow/treehollow-v3-ios)|树洞 iOS / macOS 客户端，使用 SwiftUI 开发。|14|2021-12-11|2021-01-13|
 |28|[variant-database/vdb](https://github.com/variant-database/vdb)|A SARS-CoV-2 Mutation Pattern Query Tool|12|2021-12-10|2021-04-06|
 |29|[ptrkstr/Devices](https://github.com/ptrkstr/Devices)|Swift package that contains all devices from https://www.theiphonewiki.com/wiki/Models. Useful when needing to parse machine/device identifier (i.e. iPhone10,1) to device name (iPhone 8).|11|2021-12-27|2021-10-12|

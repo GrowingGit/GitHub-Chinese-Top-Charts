@@ -5,28 +5,28 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[foxsen/archbase](https://github.com/foxsen/archbase)|教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本|1746|28|2021-11-29|
-|2|[lib-pku/libpku](https://github.com/lib-pku/libpku)|贵校课程资料民间整理|25102|22|2021-12-27|
+|1|[foxsen/archbase](https://github.com/foxsen/archbase)|教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本|1759|28|2021-11-29|
+|2|[lib-pku/libpku](https://github.com/lib-pku/libpku)|贵校课程资料民间整理|25105|22|2021-12-27|
 |3|[NiuTrans/MTBook](https://github.com/NiuTrans/MTBook)|《机器翻译：基础与模型》肖桐 朱靖波 著 - Machine Translation: Foundations and Models|2310|4|2021-11-25|
-|4|[zhanwen/MathModel](https://github.com/zhanwen/MathModel)|研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT|3851|3|2021-12-10|
-|5|[soulmachine/leetcode](https://github.com/soulmachine/leetcode)|LeetCode题解，151道题完整版|10283|3|2021-06-05|
-|6|[horance-liu/tensorflow-internals](https://github.com/horance-liu/tensorflow-internals)|It is open source ebook about TensorFlow kernel and implementation mechanism.|2684|2|2021-11-13|
+|4|[zhanwen/MathModel](https://github.com/zhanwen/MathModel)|研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT|3850|3|2021-12-10|
+|5|[soulmachine/leetcode](https://github.com/soulmachine/leetcode)|LeetCode题解，151道题完整版|10284|3|2021-06-05|
+|6|[horance-liu/tensorflow-internals](https://github.com/horance-liu/tensorflow-internals)|It is open source ebook about TensorFlow kernel and implementation mechanism.|2685|2|2021-11-13|
 |7|[note286/xdupgthesis](https://github.com/note286/xdupgthesis)|西安电子科技大学研究生学位论文XeLaTeX模板|136|2|2021-12-27|
-|8|[sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis)|上海交通大学 XeLaTeX 学位论文及课程论文模板   Shanghai Jiao Tong University XeLaTeX Thesis Template|2393|1|2021-11-27|
+|8|[sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis)|上海交通大学 XeLaTeX 学位论文及课程论文模板   Shanghai Jiao Tong University XeLaTeX Thesis Template|2394|1|2021-12-28|
 |9|[liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged)|Open book about math and programming.|2304|1|2021-12-04|
 |10|[xcfcode/Summarization-Papers](https://github.com/xcfcode/Summarization-Papers)|Summarization Papers|561|1|2021-12-23|
 |11|[MeouSker77/Cpp17](https://github.com/MeouSker77/Cpp17)|本书为《C++17 the complete guide》的个人中文翻译，仅供学习和交流使用，侵删|581|1|2021-08-15|
 |12|[nju-lug/NJUThesis](https://github.com/nju-lug/NJUThesis)|南京大学学位论文 LaTeX 模板|120|1|2021-12-23|
 |13|[dustincys/hithesis](https://github.com/dustincys/hithesis)|嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板|904|1|2021-12-09|
-|14|[liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY)|Book of Elementary Algorithms and Data structures|5000|1|2021-12-26|
+|14|[liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY)|Book of Elementary Algorithms and Data structures|5005|1|2021-12-28|
 |15|[Duan-JM/awesome-papers-fewshot](https://github.com/Duan-JM/awesome-papers-fewshot)|Collection for Few-shot Learning|675|1|2021-11-10|
 |16|[thunlp/KRLPapers](https://github.com/thunlp/KRLPapers)|Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)|1430|1|2021-08-29|
 |17|[xiaoweiChen/Learn-LLVM-12](https://github.com/xiaoweiChen/Learn-LLVM-12)|《Learn LLVM 12》的非专业个人翻译|153|1|2021-10-05|
-|18|[jankapunkt/latexcv](https://github.com/jankapunkt/latexcv)|:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!|1442|1|2021-11-22|
+|18|[jankapunkt/latexcv](https://github.com/jankapunkt/latexcv)|:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!|1443|1|2021-11-22|
 |19|[optimass/continual_learning_papers](https://github.com/optimass/continual_learning_papers)|Relevant papers in Continual Learning|469|1|2021-12-09|
 |20|[loaden/linux-notes](https://github.com/loaden/linux-notes)|Linux技术笔记：拥抱开源，专注 Linux 技术分享与交流，共同解决 Linux 系统办公娱乐遇到的各种问题。欢迎加群19346666、111601117交流维护。|2|0|2021-11-01|
 |21|[XinzeZhang/HUST-PhD-Thesis-Latex](https://github.com/XinzeZhang/HUST-PhD-Thesis-Latex)|华中科技大学博士毕业论文Latex模板|23|0|2021-07-09|
-|22|[wuzhouhui/awk](https://github.com/wuzhouhui/awk)|The AWK Programming Language (AWK 程序设计语言, awkbook) 中文翻译, LaTeX 排版|971|0|2021-11-21|
+|22|[wuzhouhui/awk](https://github.com/wuzhouhui/awk)|The AWK Programming Language (AWK 程序设计语言, awkbook) 中文翻译, LaTeX 排版|973|0|2021-11-21|
 |23|[wangxdouc/ouc-java-course](https://github.com/wangxdouc/ouc-java-course)|Java course slides and materials (CS, Ocean University of China)|43|0|2021-06-04|
 |24|[latexstudio/CUMCMThesis](https://github.com/latexstudio/CUMCMThesis)|全国大学生数学建模竞赛LaTeX论文模板 已经适配到 2020 年格式|462|0|2021-07-13|
 |25|[circlelq/PKU_COE_Thss](https://github.com/circlelq/PKU_COE_Thss)|北京大学工学院本科毕业论文参考模版|5|0|2021-11-26|
@@ -35,7 +35,7 @@
 |28|[langsci/langscibook](https://github.com/langsci/langscibook)|LaTeX class and additions for typesetting books|29|0|2021-12-20|
 |29|[LLLgoyour/Math_Olympiad_moyuNotes](https://github.com/LLLgoyour/Math_Olympiad_moyuNotes)|用来摸鱼的数竞笔记|2|0|2021-10-31|
 |30|[obster-y/XJTU-thesis](https://github.com/obster-y/XJTU-thesis)|西安交通大学学位论文模板（LaTeX）（适用硕士、博士学位）An official LaTeX template for Xi'an Jiaotong University degree thesis (Chinese and English)|16|0|2021-12-04|
-|31|[FreeBSD-Ask/FreeBSD-Ask](https://github.com/FreeBSD-Ask/FreeBSD-Ask)|开源书籍——FreeBSD 从入门到跑路。|14|0|2021-12-27|
+|31|[FreeBSD-Ask/FreeBSD-Ask](https://github.com/FreeBSD-Ask/FreeBSD-Ask)|开源书籍——FreeBSD 从入门到跑路。|14|0|2021-12-28|
 |32|[EdwardSaidZhou/NJU-thesis-esz](https://github.com/EdwardSaidZhou/NJU-thesis-esz)|南京大学研究生学位论文模板（自己修改）|3|0|2021-10-09|
 |33|[NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis](https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis)|西北工业大学硕博学位论文模版   Yet Another Thesis Template for Northwestern Polytechnical University|66|0|2021-09-08|
 |34|[AIRicky/Ph.D-Thesis-On-CAES](https://github.com/AIRicky/Ph.D-Thesis-On-CAES)|All materials associated with my Ph.D. thesis, titled 'Research on Flexibility Modeling and Operation of Advanced Adiabatic Compressed Air Energy Storage at Source-Grid-Load Side'. 博士论文：源-网-荷先进绝热压缩空气储 ...|2|0|2021-07-10|
@@ -98,7 +98,7 @@
 |91|[wangrongwei/omnetpp_primer](https://github.com/wangrongwei/omnetpp_primer)|OMNeT++的仿真手册|100|0|2021-07-21|
 |92|[SwitWu/LaTeX-packages-zh-cn](https://github.com/SwitWu/LaTeX-packages-zh-cn)|LaTeX常用宏包中文翻译版|10|0|2021-07-31|
 |93|[DeeDive/BJFUThesis](https://github.com/DeeDive/BJFUThesis)|北京林业大学 LaTeX 学位论文模板 LaTeX Thesis Template for Beijing Forestry University|12|0|2021-12-16|
-|94|[x-magus/ThesisUESTC](https://github.com/x-magus/ThesisUESTC)|ThesisUESTC-电子科技大学毕业论文模板|697|0|2021-09-06|
+|94|[x-magus/ThesisUESTC](https://github.com/x-magus/ThesisUESTC)|ThesisUESTC-电子科技大学毕业论文模板|699|0|2021-09-06|
 |95|[hyangq/HyNote](https://github.com/hyangq/HyNote)|HyNote 个人笔记|5|0|2021-11-05|
 |96|[iChunyu/signal-process-demo](https://github.com/iChunyu/signal-process-demo)|数字信号处理学习记录|9|0|2021-12-02|
 |97|[fcampelo/EC-Bestiary](https://github.com/fcampelo/EC-Bestiary)|A bestiary of evolutionary, swarm and other metaphor-based algorithms|394|0|2021-12-05|

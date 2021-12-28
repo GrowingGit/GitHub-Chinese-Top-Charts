@@ -25,11 +25,11 @@
 |18|[freedomtan/coreml_to_ane_hwx](https://github.com/freedomtan/coreml_to_ane_hwx)|a quick and dirty little program to convert Apple CoreML model to ANE hwx file|9|2021-07-19|2021-05-25|
 |19|[syvshc/HITBeamer](https://github.com/syvshc/HITBeamer)|基于 THU-Beamer-Theme (https://github.com/Trinkle23897/THU-Beamer-Theme) 删删改改而成的 :bug:|9|2021-11-17|2021-05-17|
 |20|[Jinwen-XU/minimalist](https://github.com/Jinwen-XU/minimalist)|-|8|2021-12-16|2021-03-10|
-|21|[zhliuworks/SJTU-Report-mini](https://github.com/zhliuworks/SJTU-Report-mini)|:memo:  SJTU 中文简约 LaTeX 报告模板|7|2021-06-07|2021-06-07|
-|22|[Jinwen-XU/colorist](https://github.com/Jinwen-XU/colorist)|-|7|2021-12-17|2021-03-10|
-|23|[syvshc/tlmgr-intro-zh-cn](https://github.com/syvshc/tlmgr-intro-zh-cn)|关于 tlmgr 使用的简短的介绍. :heart:|7|2021-09-05|2021-03-06|
-|24|[yzhangcs/master-thesis](https://github.com/yzhangcs/master-thesis)|基于树形条件随机场的高阶句法分析|7|2021-12-26|2021-02-01|
-|25|[wenddymacro/AppliedEconometrics](https://github.com/wenddymacro/AppliedEconometrics)|Stata、计量经济学、DSGE|6|2021-10-28|2021-08-29|
+|21|[wenddymacro/AppliedEconometrics](https://github.com/wenddymacro/AppliedEconometrics)|Stata、计量经济学、DSGE|7|2021-10-28|2021-08-29|
+|22|[zhliuworks/SJTU-Report-mini](https://github.com/zhliuworks/SJTU-Report-mini)|:memo:  SJTU 中文简约 LaTeX 报告模板|7|2021-06-07|2021-06-07|
+|23|[Jinwen-XU/colorist](https://github.com/Jinwen-XU/colorist)|-|7|2021-12-17|2021-03-10|
+|24|[syvshc/tlmgr-intro-zh-cn](https://github.com/syvshc/tlmgr-intro-zh-cn)|关于 tlmgr 使用的简短的介绍. :heart:|7|2021-09-05|2021-03-06|
+|25|[yzhangcs/master-thesis](https://github.com/yzhangcs/master-thesis)|基于树形条件随机场的高阶句法分析|7|2021-12-26|2021-02-01|
 |26|[nju-lug/NJUVisual](https://github.com/nju-lug/NJUVisual)|实现南京大学标准配色方案和标识|5|2021-12-25|2021-11-21|
 |27|[guoclay/interesting-project](https://github.com/guoclay/interesting-project)|一些有趣的项目|5|2021-09-30|2021-09-28|
 |28|[DeepAlchemist/CASIAPreThesis](https://github.com/DeepAlchemist/CASIAPreThesis)|中科院自动化所博士中期考核 LaTeX 模板|5|2021-06-02|2021-06-02|
@@ -38,7 +38,7 @@
 |31|[axi-0925/Latex-](https://github.com/axi-0925/Latex-)|Latex中文简历，overleaf直接copy进行编辑|4|2021-06-19|2021-06-19|
 |32|[quaeast/BjfuLatexTemplate](https://github.com/quaeast/BjfuLatexTemplate)|北京林业大学毕设模板2021|4|2021-06-03|2021-04-29|
 |33|[GeeLaw/laomian](https://github.com/GeeLaw/laomian)|老面 (sourdough, lit. "old dough") is used as the starter for fermenting dough. This repository contains my digital 老面.|4|2021-12-08|2021-01-12|
-|34|[LLLgoyour/Handout](https://github.com/LLLgoyour/Handout)|王一老师上课配套的讲义|3|2021-12-25|2021-11-20|
+|34|[LLLgoyour/Handout](https://github.com/LLLgoyour/Handout)|王一老师上课配套的讲义|3|2021-12-28|2021-11-20|
 |35|[jiajunfanthu/NKU_Thisis](https://github.com/jiajunfanthu/NKU_Thisis)|南开人工智能学院毕业设计模板|3|2021-09-26|2021-09-26|
 |36|[Pavinberg/Journal-of-Computers-template](https://github.com/Pavinberg/Journal-of-Computers-template)|计算机学报 LaTeX 模板|3|2021-07-11|2021-07-11|
 |37|[hoganbin/Analysis-of-Mathematics-Competition](https://github.com/hoganbin/Analysis-of-Mathematics-Competition)|本文档是利用了latex中pdfpages包进行文档合并，包括了2009-2020年从第一届数学竞赛到第十二届所有预赛试题解析|3|2021-06-27|2021-06-27|

@@ -16,13 +16,13 @@
 |9|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3410|1|2021-12-26|
 |10|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1733|1|2021-11-28|
 |11|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|516|1|2021-12-25|
-|12|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|1887|1|2021-12-16|
+|12|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|1887|1|2021-12-27|
 |13|[pluosi/app-host](https://github.com/pluosi/app-host)|应用内网发布   iOS OTA (Over-the-Air)   APP publish website like fir.im    适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包|1798|1|2021-11-04|
 |14|[rikas/zoho_hub](https://github.com/rikas/zoho_hub)|Zoho CRM API V2 Wrapper|20|0|2021-09-01|
-|15|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|445|0|2021-12-27|
+|15|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|446|0|2021-12-27|
 |16|[courtenay/splam](https://github.com/courtenay/splam)|Simple, pluggable, easily customizable score-based spam filter plugin for Ruby-based applications|108|0|2021-10-25|
 |17|[kenn/active_flag](https://github.com/kenn/active_flag)|Bit array for ActiveRecord|94|0|2021-10-28|
-|18|[aozorahack/aozorabunko_text](https://github.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|45|0|2021-12-27|
+|18|[aozorahack/aozorabunko_text](https://github.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|45|0|2021-12-28|
 |19|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|18|0|2021-12-25|
 |20|[ruilisi/rails-pangu](https://github.com/ruilisi/rails-pangu)|Rails starter kit that every startup needs|191|0|2021-10-12|
 |21|[ECPay/ECPayAIO_RoR](https://github.com/ECPay/ECPayAIO_RoR)|綠界科技ECPay 全方位(All In One)金流介接 Ruby版|8|0|2021-08-19|
@@ -38,9 +38,9 @@
 |31|[jasonknight/salor-retail](https://github.com/jasonknight/salor-retail)|Rails Based Point of Sale and Store Management Software|77|0|2021-09-27|
 |32|[sirupsen/airrecord](https://github.com/sirupsen/airrecord)|Ruby wrapper for Airtable, your personal database|217|0|2021-08-10|
 |33|[chenxGen/cocoapods-project-hmap](https://github.com/chenxGen/cocoapods-project-hmap)|A cocoapods plugin to improve the compilation speed of the preprocessing stage.|61|0|2021-09-23|
-|34|[samvera/hyrax](https://github.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|146|0|2021-12-22|
+|34|[samvera/hyrax](https://github.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|146|0|2021-12-27|
 |35|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|633|0|2021-12-18|
-|36|[FunnyWolf/vipermsf](https://github.com/FunnyWolf/vipermsf)|viper 自定义的msf|48|0|2021-11-09|
+|36|[FunnyWolf/vipermsf](https://github.com/FunnyWolf/vipermsf)|viper 自定义的msf|49|0|2021-11-09|
 |37|[encoreshao/china_regions](https://github.com/encoreshao/china_regions)|Ruby Library for China Regions|23|0|2021-12-02|
 |38|[bitoex/bitopro-api-ruby](https://github.com/bitoex/bitopro-api-ruby)|API Wrapper gem for the Bitopro(幣託) crypto currency exchange written in Ruby.|15|0|2021-07-13|
 |39|[L-codes/pwcrack-framework](https://github.com/L-codes/pwcrack-framework)|Password Crack Framework|197|0|2021-12-12|
@@ -85,7 +85,7 @@
 |78|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|13|0|2021-12-23|
 |79|[jpmobile/jpmobile](https://github.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|317|0|2021-12-17|
 |80|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|8|0|2021-11-04|
-|81|[bingohuang/progit2-gitbook](https://github.com/bingohuang/progit2-gitbook)|Pro Gi­t 第二版 ­简体中文|292|0|2021-09-06|
+|81|[bingohuang/progit2-gitbook](https://github.com/bingohuang/progit2-gitbook)|Pro Gi­t 第二版 ­简体中文|293|0|2021-09-06|
 |82|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast and smart citation reference parsing|559|0|2021-11-28|
 |83|[coreyhaines/happinessbot](https://github.com/coreyhaines/happinessbot)|Spreading joy and love|62|0|2021-07-12|
 |84|[saberma/shopqi](https://github.com/saberma/shopqi)|An open source clone of Shopify.|811|0|2021-09-27|

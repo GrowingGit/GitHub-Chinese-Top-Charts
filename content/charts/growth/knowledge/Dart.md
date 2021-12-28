@@ -5,14 +5,14 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter)|Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便 ...|12933|10|2021-12-23|
+|1|[CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter)|Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便 ...|12934|10|2021-12-23|
 |2|[toly1994328/FlutterUnit](https://github.com/toly1994328/FlutterUnit)|【Flutter 集录指南 App】The unity of flutter, The unity of coder.|4484|7|2021-12-16|
 |3|[kaina404/FlutterDouBan](https://github.com/kaina404/FlutterDouBan)|🔥🔥🔥Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉。（ https://img.xuvip.top/douyademo.mp4）|6791|6|2021-08-01|
 |4|[shichunlei/flutter_app](https://github.com/shichunlei/flutter_app)|🔥🔥🔥本项目包括各种基本控件使用（Text、TextField、Icon、Image、Listview、Gridview、Picker、Stepper、Dialog、Slider、Row、Appbar、Sizebox、BottomSheet、Chip、Dismissible、FlutterLogo、Check、Switch、TabBar、BottomNavigationBar、Sliver等）、豆 ...|2144|2|2021-10-05|
 |5|[CarGuo/gsy_flutter_demo](https://github.com/CarGuo/gsy_flutter_demo)|Flutter 不同于 GSYGithubAppFlutter 完整项目，本项目将逐步完善各种 Flutter 独立例子，方便新手学习上手和小问题方案解决。  目前开始逐步补全完善，主要提供一些有用或者有趣的例子，如果你也有好例子，欢迎提交 PR 。|2148|2|2021-12-22|
 |6|[huanxsd/flutter_shuqi](https://github.com/huanxsd/flutter_shuqi)|高仿书旗小说 Flutter版，支持iOS、Android|2311|2|2021-12-03|
 |7|[lwlizhe/flutter_novel](https://github.com/lwlizhe/flutter_novel)|仿追书神器，具有仿真、滑动和滚动翻页、字体大小、行高、背景、目录等功能的Flutter 阅读APP|386|1|2021-11-22|
-|8|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|224|1|2021-12-20|
+|8|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|225|1|2021-12-20|
 |9|[JoneYng/course_flutter](https://github.com/JoneYng/course_flutter)|课程|5|0|2021-12-23|
 |10|[RxReader/tencent_kit](https://github.com/RxReader/tencent_kit)|flutter版QQ登录/分享|168|0|2021-12-17|
 |11|[pheromone/Flutter_learn_demo](https://github.com/pheromone/Flutter_learn_demo)|Flutter_learn_demo  Flutter学习历程|103|0|2021-12-23|
@@ -21,12 +21,12 @@
 |14|[xiedong11/flutter_app](https://github.com/xiedong11/flutter_app)|Flutter进阶之旅专栏|75|0|2021-09-15|
 |15|[NewPracticer/Flutter-Dart-DataStructure](https://github.com/NewPracticer/Flutter-Dart-DataStructure)|使用flutter的dart语言重写数据结构与算法。包括线性搜索、选择排序、插入排序、栈，队列，链表、递归、归并排序、快速排序、二分搜索、二分搜索树、集合 和 映射、堆、优先队列、冒泡排序、希尔排序、线段树、Trie字典树、并查集、AVL树、红黑树、哈希表、计数排序、LSD基数排序、MSD排序，桶排序、字符串匹配、图的邻接矩阵、邻接表，深度优先遍历及应用|61|0|2021-09-24|
 |16|[18824863285/BaseFlutter](https://github.com/18824863285/BaseFlutter)|Provider MVVM的最佳实践，最适合新手学习的flutter开源项目|104|0|2021-07-30|
-|17|[q805699513/flutter_books](https://github.com/q805699513/flutter_books)|Panda看书，Flutter 小说阅读 App|476|0|2021-12-16|
+|17|[q805699513/flutter_books](https://github.com/q805699513/flutter_books)|Panda看书，Flutter 小说阅读 App|477|0|2021-12-16|
 |18|[kangshaojun/dart-book](https://github.com/kangshaojun/dart-book)|Dart语言实战-基于Flutter框架开发-第二版 随书源码|54|0|2021-07-18|
 |19|[starryxp/flutter_app](https://github.com/starryxp/flutter_app)|Flutter教学：从零开始->进阶之旅->深入探讨|29|0|2021-06-29|
 |20|[Wuyou1998/FlutterTrip](https://github.com/Wuyou1998/FlutterTrip)|一个flutter仿携程App，慕课网 《Flutter实战携程App》的学习成果|24|0|2021-06-22|
 |21|[liufeng125300/douyin](https://github.com/liufeng125300/douyin)|flutter 学习进行中（抖音项目）|4|0|2021-06-29|
-|22|[longer96/flutter_pickers](https://github.com/longer96/flutter_pickers)|flutter 选择器库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、民族、学历、星座、年龄、身高、体重、温度等）、城市地址选择器（分省级、地级及县级）、多项选择器等…… 欢迎Fork & pr贡献您的代码，大家共同学习|122|0|2021-12-22|
+|22|[longer96/flutter_pickers](https://github.com/longer96/flutter_pickers)|flutter 选择器库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、民族、学历、星座、年龄、身高、体重、温度等）、城市地址选择器（分省级、地级及县级）、多项选择器等…… 欢迎Fork & pr贡献您的代码，大家共同学习|124|0|2021-12-22|
 |23|[jiang111/flutter_code](https://github.com/jiang111/flutter_code)|b站视频教程： https://space.bilibili.com/480410119/ |247|0|2021-10-25|
 |24|[DevYao/flutter_wechat_clone](https://github.com/DevYao/flutter_wechat_clone)|flutter 学习 demo|220|0|2021-09-24|
 |25|[lizhuoyuan/flutter_study](https://github.com/lizhuoyuan/flutter_study)|flutter 学习记录|248|0|2021-08-12|

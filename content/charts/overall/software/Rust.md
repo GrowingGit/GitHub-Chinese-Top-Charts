@@ -5,49 +5,49 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)|ripgrep recursively searches directories for a regex pattern while respecting your gitignore|28670|2021-12-20|
-|2|[meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch)|Powerful, fast, and an easy to use search engine|20380|2021-12-22|
-|3|[sharkdp/fd](https://github.com/sharkdp/fd)|A simple, fast and user-friendly alternative to 'find'|19959|2021-12-27|
-|4|[yewstack/yew](https://github.com/yewstack/yew)|Rust / Wasm framework for building client web apps|18366|2021-12-27|
-|5|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|Yet another remote desktop software|14157|2021-12-26|
+|1|[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)|ripgrep recursively searches directories for a regex pattern while respecting your gitignore|28673|2021-12-20|
+|2|[meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch)|Powerful, fast, and an easy to use search engine|20381|2021-12-22|
+|3|[sharkdp/fd](https://github.com/sharkdp/fd)|A simple, fast and user-friendly alternative to 'find'|19964|2021-12-27|
+|4|[yewstack/yew](https://github.com/yewstack/yew)|Rust / Wasm framework for building client web apps|18368|2021-12-27|
+|5|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|Yet another remote desktop software|14163|2021-12-26|
 |6|[valeriansaliou/sonic](https://github.com/valeriansaliou/sonic)|🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM.|12396|2021-12-01|
 |7|[sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)|A command-line benchmarking tool|9613|2021-12-03|
 |8|[BurntSushi/xsv](https://github.com/BurntSushi/xsv)|A fast CSV command line toolkit written in Rust.|7842|2021-08-24|
 |9|[XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)|Count your code, quickly.|5958|2021-12-20|
-|10|[quickwit-inc/tantivy](https://github.com/quickwit-inc/tantivy)|Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust|5686|2021-12-26|
-|11|[pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog)|Educational blog posts for Rust beginners|3937|2021-11-30|
+|10|[quickwit-inc/tantivy](https://github.com/quickwit-inc/tantivy)|Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust|5689|2021-12-26|
+|11|[pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog)|Educational blog posts for Rust beginners|3937|2021-12-27|
 |12|[chyyuu/os_kernel_lab](https://github.com/chyyuu/os_kernel_lab)|OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32|3342|2021-11-20|
-|13|[tock/tock](https://github.com/tock/tock)|A secure embedded operating system for microcontrollers|3269|2021-12-22|
+|13|[tock/tock](https://github.com/tock/tock)|A secure embedded operating system for microcontrollers|3271|2021-12-22|
 |14|[rcore-os/rCore](https://github.com/rcore-os/rCore)|Rust version of THU uCore OS. Linux compatible.|2187|2021-09-23|
-|15|[hora-search/hora](https://github.com/hora-search/hora)|🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 . |2122|2021-10-23|
+|15|[hora-search/hora](https://github.com/hora-search/hora)|🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 . |2125|2021-10-23|
 |16|[async-graphql/async-graphql](https://github.com/async-graphql/async-graphql)|A GraphQL server library implemented in Rust|2017|2021-12-26|
-|17|[bytedance/monoio](https://github.com/bytedance/monoio)|Rust async runtime based on io-uring.|1610|2021-12-27|
-|18|[messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)|阿里云盘 WebDAV 服务|1376|2021-12-23|
+|17|[bytedance/monoio](https://github.com/bytedance/monoio)|Rust async runtime based on io-uring.|1612|2021-12-28|
+|18|[messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)|阿里云盘 WebDAV 服务|1379|2021-12-23|
 |19|[citahub/cita](https://github.com/citahub/cita)|A high performance blockchain kernel for enterprise users.|1232|2021-08-10|
 |20|[Byron/dua-cli](https://github.com/Byron/dua-cli)|View disk space usage and delete unwanted data, fast.|1200|2021-12-27|
-|21|[0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)|Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.|1184|2021-12-25|
-|22|[rcore-os/zCore](https://github.com/rcore-os/zCore)|Reimplement Zircon microkernel in Rust.|1179|2021-12-27|
-|23|[rbatis/rbatis](https://github.com/rbatis/rbatis)|Rust High Performance compile-time ORM(BSON2 based)|1148|2021-12-24|
+|21|[0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)|Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.|1185|2021-12-25|
+|22|[rcore-os/zCore](https://github.com/rcore-os/zCore)|Reimplement Zircon microkernel in Rust.|1180|2021-12-27|
+|23|[rbatis/rbatis](https://github.com/rbatis/rbatis)|Rust High Performance compile-time ORM(BSON2 based)|1149|2021-12-24|
 |24|[iovxw/rssbot](https://github.com/iovxw/rssbot)|Lightweight Telegram RSS notification bot. 用于消息通知的轻量级 Telegram RSS 机器人|1127|2021-12-27|
 |25|[ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf)|基于 Rust + eBPF 丢弃 GFW DNS 污染包|928|2021-12-05|
 |26|[gmg137/netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk)|Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器|827|2021-10-12|
 |27|[guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert)|Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)|800|2021-12-26|
 |28|[bnjbvr/rouille](https://github.com/bnjbvr/rouille)|Rust programming, in French.|754|2021-11-16|
-|29|[Brooooooklyn/canvas](https://github.com/Brooooooklyn/canvas)|High performance skia binding to Node.js. Zero system dependencies and pure npm packages without any postinstall scripts nor node-gyp.|572|2021-12-27|
+|29|[Brooooooklyn/canvas](https://github.com/Brooooooklyn/canvas)|High performance skia binding to Node.js. Zero system dependencies and pure npm packages without any postinstall scripts nor node-gyp.|573|2021-12-27|
 |30|[zhboner/realm](https://github.com/zhboner/realm)|A network relay tool|523|2021-11-22|
-|31|[wubx/rust-in-databend](https://github.com/wubx/rust-in-databend)|Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend|499|2021-12-19|
-|32|[editso/fuso](https://github.com/editso/fuso)|一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy,  ...|470|2021-12-19|
+|31|[wubx/rust-in-databend](https://github.com/wubx/rust-in-databend)|Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend|504|2021-12-19|
+|32|[editso/fuso](https://github.com/editso/fuso)|一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy,  ...|471|2021-12-19|
 |33|[AleoHQ/wagyu](https://github.com/AleoHQ/wagyu)|A Rust library for generating cryptocurrency wallets|437|2021-08-09|
-|34|[thirtythreeforty/neolink](https://github.com/thirtythreeforty/neolink)|An RTSP bridge to Reolink IP cameras|435|2021-12-12|
+|34|[thirtythreeforty/neolink](https://github.com/thirtythreeforty/neolink)|An RTSP bridge to Reolink IP cameras|436|2021-12-12|
 |35|[LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)|A tiling window manager for Windows|433|2021-12-07|
 |36|[dontpanic92/OpenPAL3](https://github.com/dontpanic92/OpenPAL3)|仙三开源版 - The efforts to create an open-source implementation of Chinese Paladin 3|419|2021-12-27|
 |37|[kuchiki-rs/kuchiki](https://github.com/kuchiki-rs/kuchiki)|(朽木) HTML/XML tree manipulation library for Rust|400|2021-12-08|
 |38|[BinChengZhao/delicate](https://github.com/BinChengZhao/delicate)|A lightweight and distributed task scheduling platform written in rust. （一个轻量的分布式的任务调度平台通过rust编写）|389|2021-11-19|
-|39|[pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs)|👄 The most accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike|379|2021-11-27|
-|40|[arloor/nftables-nat-rust](https://github.com/arloor/nftables-nat-rust)|nftables nat rule generator——nftables nat规则生成器|379|2021-09-20|
-|41|[geph-official/geph4](https://github.com/geph-official/geph4)|Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering. |366|2021-12-21|
+|39|[arloor/nftables-nat-rust](https://github.com/arloor/nftables-nat-rust)|nftables nat rule generator——nftables nat规则生成器|381|2021-09-20|
+|40|[pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs)|👄 The most accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike|379|2021-11-27|
+|41|[geph-official/geph4](https://github.com/geph-official/geph4)|Geph (迷霧通) is a modular Internet censorship circumvention system designed specifically to deal with national filtering. |366|2021-12-28|
 |42|[messense/jieba-rs](https://github.com/messense/jieba-rs)|The Jieba Chinese Word Segmentation Implemented in Rust|354|2021-12-21|
-|43|[justjavac/dvm](https://github.com/justjavac/dvm)|Deno Version Manager - Easy way to manage multiple active deno versions.|349|2021-12-24|
+|43|[justjavac/dvm](https://github.com/justjavac/dvm)|Deno Version Manager - Easy way to manage multiple active deno versions.|350|2021-12-24|
 |44|[rustsbi/rustsbi](https://github.com/rustsbi/rustsbi)|RISC-V Supervisor Binary Interface (RISC-V SBI) implementation in Rust; runs on M-mode; good support for embedded Rust ecosystem|329|2021-12-21|
 |45|[tanakh/cargo-atcoder](https://github.com/tanakh/cargo-atcoder)|Cargo subcommand for AtCoder|321|2021-07-31|
 |46|[Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow)|将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart|320|2021-11-15|
@@ -70,14 +70,14 @@
 |63|[al8n/stretto](https://github.com/al8n/stretto)|Stretto is a Rust implementation for https://github.com/dgraph-io/ristretto. A high performance memory-bound Rust cache.|198|2021-12-18|
 |64|[compassd/dcompass](https://github.com/compassd/dcompass)|[WIP] A high-performance programmable DNS component aiming at robustness, speed, and flexibility|198|2021-11-20|
 |65|[HMBSbige/get_cnip](https://github.com/HMBSbige/get_cnip)|获取国内 IP 和域名，生成路由表和 PAC 文件|194|2021-12-21|
-|66|[consenlabs/token-core](https://github.com/consenlabs/token-core)|Next generation core inside imToken Wallet.|191|2021-12-23|
+|66|[consenlabs/token-core](https://github.com/consenlabs/token-core)|Next generation core inside imToken Wallet.|192|2021-12-23|
 |67|[wormtql/yas](https://github.com/wormtql/yas)|Superfast Genshin Impact artifacts scanner|185|2021-12-11|
 |68|[zu1k/good-mitm](https://github.com/zu1k/good-mitm)|利用MITM技术实现请求和返回的重写、重定向、阻断等操作|177|2021-12-23|
 |69|[driftluo/tentacle](https://github.com/driftluo/tentacle)|A multiplexed p2p network framework that supports custom protocols|171|2021-12-07|
 |70|[dslchd/tokio-cn-doc](https://github.com/dslchd/tokio-cn-doc)|Rust, Tokio, CN, Doc, Demo|170|2021-09-22|
 |71|[belowthetree/TisuOS](https://github.com/belowthetree/TisuOS)|-|148|2021-06-30|
 |72|[tomassedovic/quicksilver-roguelike](https://github.com/tomassedovic/quicksilver-roguelike)|Template for a roguelike in Rust targeting desktop and the web|148|2021-10-16|
-|73|[tramhao/termusic](https://github.com/tramhao/termusic)|Music Player TUI written in Rust|136|2021-12-27|
+|73|[tramhao/termusic](https://github.com/tramhao/termusic)|Music Player TUI written in Rust|138|2021-12-27|
 |74|[datum-lang/datum](https://github.com/datum-lang/datum)|A easy maintain(read/write) language for transform from/to other languages. 下一代企业级编程语言。|133|2021-11-01|
 |75|[WeBankBlockchain/WeDPR-Lab-Core](https://github.com/WeBankBlockchain/WeDPR-Lab-Core)|Core libraries of WeDPR instant scenario-focused solutions for privacy-inspired business; WeDPR即时可用场景式隐私保护高效解决方案核心算法组件|128|2021-12-02|
 |76|[rbatis/abs_admin](https://github.com/rbatis/abs_admin)|an enterprise-class one-stop backend solution,Rust企业级一站式后台解决方案|120|2021-12-15|
@@ -90,7 +90,7 @@
 |83|[iTXTech/mcl-installer](https://github.com/iTXTech/mcl-installer)|MCL一键安装工具|94|2021-07-19|
 |84|[Brooooooklyn/pinyin](https://github.com/Brooooooklyn/pinyin)|rust-pinyin binding for Node.js|91|2021-12-22|
 |85|[wtklbm/crm](https://github.com/wtklbm/crm)|Cargo registry manager (Cargo 注册表管理器)，用于方便的管理和更换 Rust 国内镜像源 |90|2021-12-13|
-|86|[riscv-rust/longan-nano](https://github.com/riscv-rust/longan-nano)|Board support package for the Longan Nano board|89|2021-11-07|
+|86|[riscv-rust/longan-nano](https://github.com/riscv-rust/longan-nano)|Board support package for the Longan Nano board|89|2021-12-27|
 |87|[stalwartlabs/mail-parser](https://github.com/stalwartlabs/mail-parser)|Fast and robust e-mail parsing library for Rust|80|2021-12-22|
 |88|[netcan/AnimalChess](https://github.com/netcan/AnimalChess)|Animal Fight Chess Game（斗兽棋） written in rust.|73|2021-12-01|
 |89|[ElnuDev/hebi](https://github.com/ElnuDev/hebi)|A highly customizable snake clone made in Rust with the Bevy engine, named after the Japanese word for snake, 蛇.|70|2021-09-04|

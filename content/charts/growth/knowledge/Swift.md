@@ -5,14 +5,14 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ming1016/SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1074|24|2021-12-24|
-|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods |502|18|2021-12-26|
-|3|[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)|A collaborative list of awesome Swift libraries and resources. Feel free to contribute!|21461|8|2021-12-27|
+|1|[ming1016/SwiftPamphletApp](https://github.com/ming1016/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1075|24|2021-12-24|
+|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods |517|18|2021-12-26|
+|3|[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)|A collaborative list of awesome Swift libraries and resources. Feel free to contribute!|21462|8|2021-12-27|
 |4|[pock/pock](https://github.com/pock/pock)|Widgets manager for MacBook Touch Bar|9585|6|2021-09-30|
 |5|[Co2333/myyearwithgit](https://github.com/Co2333/myyearwithgit)|代码仓库年终总结报告。|168|6|2021-12-09|
 |6|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |3999|4|2021-09-14|
 |7|[pujiaxin33/JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView)|A powerful and easy to use segmented view (segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|1913|2|2021-08-18|
-|8|[dengzemiao/DZMeBookRead](https://github.com/dengzemiao/DZMeBookRead)|支持项目使用！最完整小说阅读器Demo！仿iReader(掌阅)，QQ阅读 ... 常用阅读器阅读页面，支持 翻页效果(仿真,覆盖,平移,滚动,无效果)、字体切换、书签功能、阅读记录、亮度调整、背景颜色切换 ...|1039|1|2021-12-16|
+|8|[dengzemiao/DZMeBookRead](https://github.com/dengzemiao/DZMeBookRead)|支持项目使用！最完整小说阅读器Demo！仿iReader(掌阅)，QQ阅读 ... 常用阅读器阅读页面，支持 翻页效果(仿真,覆盖,平移,滚动,无效果)、字体切换、书签功能、阅读记录、亮度调整、背景颜色切换 ...|1040|1|2021-12-16|
 |9|[gltwy/public](https://github.com/gltwy/public)|微信公众号 "技术大咖社" 文章合集|5|0|2021-06-06|
 |10|[coyingcat/15DaysofAnimationsinSwift](https://github.com/coyingcat/15DaysofAnimationsinSwift)|Swift，学习动画，升级原版本 ， larrynatalicio/15DaysofAnimationsinSwift|9|0|2021-09-28|
 |11|[Binlogo/LeetCode-Swift-Track](https://github.com/Binlogo/LeetCode-Swift-Track)|LeetCode 💖 Swift，攻克数据结构与算法。|15|0|2021-06-02|
@@ -39,7 +39,7 @@
 |32|[DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift)|This demo teaches you how to import and activate DJI SDK in your Xcode project using Swift.|6|0|2021-10-11|
 |33|[ZXKitCode/ZXKitLogger](https://github.com/ZXKitCode/ZXKitLogger)|The iOS side displays the output log log on the screen, and can generate log file sharing, which is convenient for debugging information when the real machine is not connected to xcode. iOS端将输出日志log悬浮 ...|20|0|2021-12-26|
 |34|[easyui/algorithm-pattern-swift](https://github.com/easyui/algorithm-pattern-swift)|算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~|25|0|2021-11-07|
-|35|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|748|0|2021-12-23|
+|35|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|748|0|2021-12-28|
 |36|[kingcos/Swift-X-Algorithms](https://github.com/kingcos/Swift-X-Algorithms)|🔨 Algorithms & Data Structures implemented in Swift X. `let X = 5.0`|22|0|2021-06-03|
 |37|[KyleBing/WubiBuddy](https://github.com/KyleBing/WubiBuddy)|《码表助手》鼠须管五笔用户词添加工具 (macOS) |15|0|2021-08-11|
 |38|[Binlogo/WWDC-Track](https://github.com/Binlogo/WWDC-Track)| WWDC 观影记录：技术点思维导图 · 演示代码|10|0|2021-07-01|

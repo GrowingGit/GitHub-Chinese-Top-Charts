@@ -30,7 +30,7 @@
 |23|[forleoshare/auto_use_treasure_map](https://github.com/forleoshare/auto_use_treasure_map)|梦幻西游自动挖宝，触动精灵开源脚本，适用设备1920x1080，需要root|7|2021-07-08|2021-07-05|
 |24|[copy0401/irime-bopomo-config](https://github.com/copy0401/irime-bopomo-config)|iRime 設定 新增注音輸入法 及 注音鍵盤主題|6|2021-12-22|2021-09-20|
 |25|[ZAA03/lua_action](https://github.com/ZAA03/lua_action)|一键签到，葫芦侠3楼，芥子空间|6|2021-08-27|2021-07-09|
-|26|[awesomeusername69420/meth_tools](https://github.com/awesomeusername69420/meth_tools)|Tools made for https://methamphetamine.solutions/|6|2021-12-27|2021-06-07|
+|26|[awesomeusername69420/meth_tools](https://github.com/awesomeusername69420/meth_tools)|Tools made for https://methamphetamine.solutions/|6|2021-12-28|2021-06-07|
 |27|[DeadlyBossMods/DBM-TBC-Classic](https://github.com/DeadlyBossMods/DBM-TBC-Classic)|The ultimate encounter helper (for TBC) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|6|2021-12-19|2021-04-01|
 |28|[N0zza/MappaMundi](https://github.com/N0zza/MappaMundi)|-|6|2021-12-27|2021-02-18|
 |29|[yuanyan3060/Arknights-Bot-Resource](https://github.com/yuanyan3060/Arknights-Bot-Resource)|明日方舟bot常用素材|5|2021-12-21|2021-11-28|

@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|225|2021-12-26|2021-08-07|
+|1|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|226|2021-12-26|2021-08-07|
 |2|[iokfine/bee-dashboard](https://github.com/iokfine/bee-dashboard)|管理多个bee节点 提现工具|44|2021-12-26|2021-05-29|
 |3|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog-vimscript|44|2021-12-27|2021-01-11|
 |4|[FrankFang/oh-my-docker](https://github.com/FrankFang/oh-my-docker)|-|23|2021-12-27|2021-08-25|

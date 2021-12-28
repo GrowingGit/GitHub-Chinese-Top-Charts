@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Oreomeow/checkinpanel](https://github.com/Oreomeow/checkinpanel)|一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）|587|2021-12-19|2021-08-22|
+|1|[Oreomeow/checkinpanel](https://github.com/Oreomeow/checkinpanel)|一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）|591|2021-12-19|2021-08-22|
 |2|[k1d0ne/cobaltstrike_plugin](https://github.com/k1d0ne/cobaltstrike_plugin)|陆续补充一些自己写的cobaltstrike插件|36|2021-11-05|2021-10-20|
 |3|[nju-lug/NJUBeamer](https://github.com/nju-lug/NJUBeamer)|南京大学演示文稿模板|6|2021-11-21|2021-11-21|
 |4|[dqwang122/MLROUGE](https://github.com/dqwang122/MLROUGE)|ROUGE for multilingual Summarization|6|2021-10-11|2021-10-11|
