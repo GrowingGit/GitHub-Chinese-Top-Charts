@@ -1,11 +1,11 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Perl
-<sub>数据更新: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Oreomeow/checkinpanel](https://github.com/Oreomeow/checkinpanel)|一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）|597|5|2021-12-19|
+|1|[Oreomeow/checkinpanel](https://github.com/Oreomeow/checkinpanel)|一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）|606|5|2021-12-19|
 |2|[alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list)|Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!|601|1|2021-12-28|
 |3|[k1d0ne/cobaltstrike_plugin](https://github.com/k1d0ne/cobaltstrike_plugin)|陆续补充一些自己写的cobaltstrike插件|36|1|2021-11-05|
 |4|[Yanstory/tpZHCNex](https://github.com/Yanstory/tpZHCNex)|thpatch zh-hans extra patches (Beta)|15|0|2021-12-26|
@@ -17,12 +17,12 @@
 |10|[g0v/moedict-data-twblg](https://github.com/g0v/moedict-data-twblg)|臺灣閩南語常用詞辭典 資料檔|48|0|2021-12-13|
 |11|[uparrows/LANraragi_cn](https://github.com/uparrows/LANraragi_cn)|This repo is a fork of Difegue / LANraragi , those things i've done was to translate this repo into chinese ,and fix chrome browser js problem.|39|0|2021-11-28|
 |12|[dqwang122/MLROUGE](https://github.com/dqwang122/MLROUGE)|ROUGE for multilingual Summarization|6|0|2021-10-11|
-|13|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|374|0|2021-12-21|
+|13|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|375|0|2021-12-21|
 |14|[Chorder/PenetrationTools](https://github.com/Chorder/PenetrationTools)|一个收集了各种渗透测试工具的仓库。A respository for collecting penetration tools.|2|0|2021-07-30|
 |15|[texjporg/ptex-fontmaps](https://github.com/texjporg/ptex-fontmaps)|Font maps for dvipdfmx, and the script kanji-config-updmap|18|0|2021-06-25|
 |16|[liaochenlanruo/pgcgap](https://github.com/liaochenlanruo/pgcgap)|The Prokaryotic Genomics and Comparative Genomics Analysis Pipeline|18|0|2021-12-23|
 |17|[upyun/lua-resty-limit-rate](https://github.com/upyun/lua-resty-limit-rate)|Lua module for limiting request rate for OpenResty/ngx_lua, using the "token bucket" method.|58|0|2021-06-11|
-|18|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|201|0|2021-12-28|
+|18|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|201|0|2021-12-29|
 |19|[texjporg/cjk-gs-support](https://github.com/texjporg/cjk-gs-support)|Scripts to ease the use of CJK fonts with Ghostscript|27|0|2021-09-30|
 |20|[MYDan/mayi](https://github.com/MYDan/mayi)|蚂蚁蛋运维助手(安装方式: curl -L http://update.mydan.org bash)|12|0|2021-10-14|
 |21|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|59|0|2021-12-27|
@@ -43,6 +43,7 @@
 |36|[nju-lug/NJUBeamer](https://github.com/nju-lug/NJUBeamer)|南京大学演示文稿模板|6|0|2021-11-21|
 |37|[lulzlabs/AirChat](https://github.com/lulzlabs/AirChat)|Free Communications For Everyone.|1025|0|2021-12-09|
 |38|[tp7309/tt7zcrack](https://github.com/tp7309/tt7zcrack)|7z辅助破解工具 Fast 7zip crack assistant tool which support GPU/CPU, written in Python.|12|0|2021-10-07|
+|39|[hcymysql/mysql_monitor](https://github.com/hcymysql/mysql_monitor)|MySQL Monitor面向研发人员图形可视化监控工具|114|0|2021-12-29|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

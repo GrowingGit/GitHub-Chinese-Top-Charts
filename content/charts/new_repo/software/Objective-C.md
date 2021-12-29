@@ -1,12 +1,12 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > Objective-C
-<sub>数据更新: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[xrtc-cc/xrtc](https://github.com/xrtc-cc/xrtc)|WebRTC 融合音视频解决方案：封装声网Agora、华为云hrtc、腾讯云trtc及网易云信rtc，支持动态切换和定制，iOS、Android、Web极简集成WebRTC。|324|2021-11-05|2021-08-19|
-|2|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|264|2021-09-25|2021-08-03|
+|2|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|265|2021-09-25|2021-08-03|
 |3|[AgoraIO-Community/MoonLight](https://github.com/AgoraIO-Community/MoonLight)|MoonLight is a performance test kit on iOS and macOS. It can capture App Memory, App CPU, System CPU, GPU,  ANR and iOS FPS and accurately and easily.|223|2021-07-23|2021-01-04|
 |4|[FoneG/FGPopupScheduler](https://github.com/FoneG/FGPopupScheduler)| ✨ ✨ ✨ ✨ iOS弹窗调用器，控制弹窗按照指定的策略进行显示。Helps you control popups easily.  ✨ ✨ ✨ ✨|177|2021-11-08|2021-06-23|
 |5|[internetWei/LLDynamicLaunchScreen](https://github.com/internetWei/LLDynamicLaunchScreen)|自动修复iPhone启动图显示异常，1行代码动态修改启动图|115|2021-12-08|2021-01-02|
@@ -22,7 +22,7 @@
 |15|[HansenCCC/KKQuickDraw](https://github.com/HansenCCC/KKQuickDraw)|iOS实现HTML H5秒开、拦截请求替换资源、优化HTML加载速度|45|2021-08-25|2021-05-17|
 |16|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|44|2021-12-27|2021-03-08|
 |17|[LZRight123/KPAppMananger](https://github.com/LZRight123/KPAppMananger)|静默安装，卸载，打开APP，进程通信，后台保护|37|2021-08-16|2021-08-13|
-|18|[bayescom/EasyAds-iOS](https://github.com/bayescom/EasyAds-iOS)|🔥持续更新🔥EasyAds，全球热门的开源聚合SDK广告软件。帮助App开发者便捷接入国内多家主流广告 SDK包括：字节穿山甲、腾讯优量汇、百度百青藤、快手联盟。几行代码就可以快速实现开屏、Banner横幅、插屏、激励视频、原生信息流、全屏等广告形式。|35|2021-12-22|2021-11-22|
+|18|[bayescom/EasyAds-iOS](https://github.com/bayescom/EasyAds-iOS)|🔥持续更新🔥EasyAds，全球热门的开源聚合SDK广告软件。帮助App开发者便捷接入国内多家主流广告 SDK包括：字节穿山甲、腾讯优量汇、百度百青藤、快手联盟。几行代码就可以快速实现开屏、Banner横幅、插屏、激励视频、原生信息流、全屏等广告形式。|36|2021-12-22|2021-11-22|
 |19|[Danonlylane/goodhouse](https://github.com/Danonlylane/goodhouse)|Flutter好客租房项目，模仿安居客APP页面编写的一款静态页面项目|30|2021-10-11|2021-07-25|
 |20|[YOrange834/YOECGChartView](https://github.com/YOrange834/YOECGChartView)|心电图(ECG)|19|2021-07-31|2021-06-03|
 |21|[OpenIMSDK/Open-IM-SDK-Uniapp](https://github.com/OpenIMSDK/Open-IM-SDK-Uniapp)|-|17|2021-12-17|2021-08-26|
@@ -43,21 +43,21 @@
 |36|[niyongsheng/EasyRelease](https://github.com/niyongsheng/EasyRelease)|SaaS场景下Mac上架工具📲 (easy release to app store)|10|2021-11-22|2021-02-24|
 |37|[imVason/cordova-plugin-openwebview](https://github.com/imVason/cordova-plugin-openwebview)|Provide capability of open multiple webview|10|2021-07-08|2021-01-04|
 |38|[SwiftHsw/SWChat](https://github.com/SwiftHsw/SWChat)|实现基本的聊天界面以及部分功能|10|2021-09-09|2021-01-04|
-|39|[QDong415/QKeyboardEmotionView](https://github.com/QDong415/QKeyboardEmotionView)|仿微信聊天表情键盘，仿朋友圈底部表情键盘。仿微信表情面板，键盘与表情切换平滑 ChatEmotionKeyboard，useful in ChatViewController|8|2021-08-30|2021-08-20|
-|40|[XiFengLang/flutter_notes](https://github.com/XiFengLang/flutter_notes)|Flutter & flutter_boost开发iOS混合开发项目问题记录；iOS远程依赖Flutter Module组件代码；|8|2021-10-29|2021-07-06|
+|39|[XiFengLang/flutter_notes](https://github.com/XiFengLang/flutter_notes)|Flutter & flutter_boost开发iOS混合开发项目问题记录；iOS远程依赖Flutter Module组件代码；|9|2021-10-29|2021-07-06|
+|40|[QDong415/QKeyboardEmotionView](https://github.com/QDong415/QKeyboardEmotionView)|仿微信聊天表情键盘，仿朋友圈底部表情键盘。仿微信表情面板，键盘与表情切换平滑 ChatEmotionKeyboard，useful in ChatViewController|8|2021-08-30|2021-08-20|
 |41|[zxinsunshine/NinePatchKit](https://github.com/zxinsunshine/NinePatchKit)|A ninepatch image render framework for iOS and MacOS|7|2021-12-27|2021-08-26|
 |42|[ebamboo/BBPictureBrowser](https://github.com/ebamboo/BBPictureBrowser)|一个轻量级的图片浏览器，支持本地图片和网络图片的展示，适用于 Objective-C 和 Swift。|7|2021-12-01|2021-07-01|
 |43|[Rycccccccc/YCCardView](https://github.com/Rycccccccc/YCCardView)|卡片左滑右滑框架|6|2021-12-01|2021-11-28|
-|44|[rueen/react-native-ottpay](https://github.com/rueen/react-native-ottpay)|react-native ottpay跨境支付|6|2021-11-25|2021-10-26|
-|45|[leon2017/cmbpb-flutter](https://github.com/leon2017/cmbpb-flutter)|Flutter 招商银行一网通支付|6|2021-10-15|2021-08-31|
-|46|[nongshifu/SSURLProtocol](https://github.com/nongshifu/SSURLProtocol)|iOS 应用内全局拦截http https 代理转发 自定义规则 和平防封?懂?|6|2021-08-12|2021-08-12|
-|47|[ebamboo/BBPlayerView](https://github.com/ebamboo/BBPlayerView)|一个高度封装的视频播放器视图，基于 AVPlayer、AVPlayerLayer、AVPlayerItem。 继承自 UIView，可以当做一般视图使用，适用于 Swift 和 Objective-C。|6|2021-12-23|2021-07-03|
-|48|[bairdweng/BWANRManage](https://github.com/bairdweng/BWANRManage)|卡顿检测分析工具，堆栈信息可以在面板上看。|6|2021-06-10|2021-06-02|
-|49|[DNSPod/httpdns-sdk-ios](https://github.com/DNSPod/httpdns-sdk-ios)|iOS 平台 httpdns sdk 源码|6|2021-12-24|2021-04-09|
-|50|[snice/uniapp-flutter](https://github.com/snice/uniapp-flutter)|uniapp 与 Flutter 混合案例|6|2021-09-26|2021-03-14|
-|51|[smithgoo/ILive](https://github.com/smithgoo/ILive)|开源一个MAC APP项目 电视和直播 ILIVE 资源都是取自网上 本地爬取|6|2021-10-16|2021-01-15|
-|52|[QiShare/QiDownloadAndUploadPic](https://github.com/QiShare/QiDownloadAndUploadPic)|iOS原生框架下异步多图片上传、下载工具。支持下载图片到自定义相册,支持后台操作，支持设置最大并发数，无第三方依赖。|5|2021-11-26|2021-11-24|
-|53|[LianjiaTech/BKFlutterWebNativeBridge](https://github.com/LianjiaTech/BKFlutterWebNativeBridge)|Flutter Web和Flutter Mobile桥接。|5|2021-11-22|2021-11-22|
+|44|[LianjiaTech/BKFlutterWebNativeBridge](https://github.com/LianjiaTech/BKFlutterWebNativeBridge)|Flutter Web和Flutter Mobile桥接。|6|2021-11-22|2021-11-22|
+|45|[rueen/react-native-ottpay](https://github.com/rueen/react-native-ottpay)|react-native ottpay跨境支付|6|2021-11-25|2021-10-26|
+|46|[leon2017/cmbpb-flutter](https://github.com/leon2017/cmbpb-flutter)|Flutter 招商银行一网通支付|6|2021-10-15|2021-08-31|
+|47|[nongshifu/SSURLProtocol](https://github.com/nongshifu/SSURLProtocol)|iOS 应用内全局拦截http https 代理转发 自定义规则 和平防封?懂?|6|2021-08-12|2021-08-12|
+|48|[ebamboo/BBPlayerView](https://github.com/ebamboo/BBPlayerView)|一个高度封装的视频播放器视图，基于 AVPlayer、AVPlayerLayer、AVPlayerItem。 继承自 UIView，可以当做一般视图使用，适用于 Swift 和 Objective-C。|6|2021-12-23|2021-07-03|
+|49|[bairdweng/BWANRManage](https://github.com/bairdweng/BWANRManage)|卡顿检测分析工具，堆栈信息可以在面板上看。|6|2021-06-10|2021-06-02|
+|50|[DNSPod/httpdns-sdk-ios](https://github.com/DNSPod/httpdns-sdk-ios)|iOS 平台 httpdns sdk 源码|6|2021-12-24|2021-04-09|
+|51|[snice/uniapp-flutter](https://github.com/snice/uniapp-flutter)|uniapp 与 Flutter 混合案例|6|2021-09-26|2021-03-14|
+|52|[smithgoo/ILive](https://github.com/smithgoo/ILive)|开源一个MAC APP项目 电视和直播 ILIVE 资源都是取自网上 本地爬取|6|2021-10-16|2021-01-15|
+|53|[QiShare/QiDownloadAndUploadPic](https://github.com/QiShare/QiDownloadAndUploadPic)|iOS原生框架下异步多图片上传、下载工具。支持下载图片到自定义相册,支持后台操作，支持设置最大并发数，无第三方依赖。|5|2021-11-26|2021-11-24|
 |54|[zeqinjie/TWMultiUploadFileManager](https://github.com/zeqinjie/TWMultiUploadFileManager)|基于 AWS3 设计的分片上传管理封装类|5|2021-08-31|2021-08-25|
 |55|[theseustech/SotDemo](https://github.com/theseustech/SotDemo)|SOT iOS热更新方案的示例DEMO|5|2021-09-25|2021-08-07|
 |56|[mokong/DetectFakeLocation](https://github.com/mokong/DetectFakeLocation)|iOS检测虚拟位置，比如使用Xcode模拟位置、使用爱思助手模拟位置等|5|2021-09-06|2021-08-06|

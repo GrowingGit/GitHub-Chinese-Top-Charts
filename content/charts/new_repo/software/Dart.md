@@ -1,33 +1,33 @@
 <a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > Dart
-<sub>数据更新: 2021-12-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan)|阿里云盘小白羊版  阿里云盘PC版 aliyundriver|4558|2021-12-13|2021-04-22|
+|1|[liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan)|阿里云盘小白羊版  阿里云盘PC版 aliyundriver|4580|2021-12-13|2021-04-22|
 |2|[bytedance/flutter_ume](https://github.com/bytedance/flutter_ume)|UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance|1422|2021-12-10|2021-07-16|
-|3|[LianjiaTech/bruno](https://github.com/LianjiaTech/bruno)|Bruno 是基于一整套设计体系的 Flutter 组件库。An enterprise-class package of Flutter components for mobile applications.|906|2021-12-28|2021-12-07|
-|4|[biyidev/biyi_app](https://github.com/biyidev/biyi_app)|Biyi (比译) is a convenient translation and dictionary app written in dart / Flutter. |522|2021-12-22|2021-03-06|
-|5|[LianjiaTech/keframe](https://github.com/LianjiaTech/keframe)|Components that optimize Flutter fluency.（Flutter 流畅度优化的通用方案，轻松解决卡顿问题）|500|2021-11-25|2021-06-30|
+|3|[LianjiaTech/bruno](https://github.com/LianjiaTech/bruno)|Bruno 是基于一整套设计体系的 Flutter 组件库。An enterprise-class package of Flutter components for mobile applications.|918|2021-12-29|2021-12-07|
+|4|[biyidev/biyi_app](https://github.com/biyidev/biyi_app)|Biyi (比译) is a convenient translation and dictionary app written in dart / Flutter. |523|2021-12-22|2021-03-06|
+|5|[LianjiaTech/keframe](https://github.com/LianjiaTech/keframe)|Components that optimize Flutter fluency.（Flutter 流畅度优化的通用方案，轻松解决卡顿问题）|501|2021-11-25|2021-06-30|
 |6|[Waytoon/chimera_flutter_code_push](https://github.com/Waytoon/chimera_flutter_code_push)|Official Git of flutter code-push made by Chimera inc. If you want to get more info or seek for biz corporation, you can contact flupush@gmail.com. |485|2021-10-17|2021-03-01|
-|7|[Tencent/mxflutter](https://github.com/Tencent/mxflutter)|使用 TypeScript/JavaScript 来开发 Flutter 应用的框架。|463|2021-07-29|2021-03-22|
-|8|[niuhuan/pikapika](https://github.com/niuhuan/pikapika)|美观易用且无广告的二次元客户端，同时支持MacOS，Windows，Android，iOS，并上传了APK和IPA。类似哔咔漫画。|450|2021-12-28|2021-07-27|
+|7|[Tencent/mxflutter](https://github.com/Tencent/mxflutter)|使用 TypeScript/JavaScript 来开发 Flutter 应用的框架。|465|2021-07-29|2021-03-22|
+|8|[niuhuan/pikapika](https://github.com/niuhuan/pikapika)|美观易用且无广告的二次元客户端，同时支持MacOS，Windows，Android，iOS，并上传了APK和IPA。类似哔咔漫画。|453|2021-12-28|2021-07-27|
 |9|[flutter-thrio/flutter_thrio](https://github.com/flutter-thrio/flutter_thrio)|flutter_thrio makes it easy and fast to add flutter to existing mobile applications, and provide a simple and consistent navigator APIs.|221|2021-10-12|2021-02-20|
-|10|[ducafecat/flutter_ducafecat_news_getx](https://github.com/ducafecat/flutter_ducafecat_news_getx)|flutter2 + dio4 + getx4|188|2021-11-23|2021-05-31|
-|11|[DingMouRen/flutter_tiktok](https://github.com/DingMouRen/flutter_tiktok)|Flutter Tiktok 抖音实战  🍰🍓🍖🍟🍕🍔|173|2021-09-18|2021-04-08|
+|10|[ducafecat/flutter_ducafecat_news_getx](https://github.com/ducafecat/flutter_ducafecat_news_getx)|flutter2 + dio4 + getx4|190|2021-11-23|2021-05-31|
+|11|[DingMouRen/flutter_tiktok](https://github.com/DingMouRen/flutter_tiktok)|Flutter Tiktok 抖音实战  🍰🍓🍖🍟🍕🍔|175|2021-09-18|2021-04-08|
 |12|[OpenIMSDK/Open-IM-SDK-Flutter](https://github.com/OpenIMSDK/Open-IM-SDK-Flutter)|OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，Flutter版本IM SDK 可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。|152|2021-12-28|2021-05-27|
 |13|[KevinZhang19870314/flutter_getx_boilerplate](https://github.com/KevinZhang19870314/flutter_getx_boilerplate)|A flutter boilerplate project with GetX state management.|151|2021-10-13|2021-04-09|
 |14|[niezhiyang/flutter_logger](https://github.com/niezhiyang/flutter_logger)|Simple, pretty and powerful logger for flutter|142|2021-09-06|2021-07-08|
 |15|[ducafecat/getx_quick_start](https://github.com/ducafecat/getx_quick_start)|getx 功能整理: 路由、中间件、组件、状态、多语言、样式|135|2021-07-24|2021-03-24|
 |16|[2697a/bujuan](https://github.com/2697a/bujuan)|Flutter三方网易云|132|2021-06-28|2021-03-03|
 |17|[fluttercandies/flutter_interactional_widget](https://github.com/fluttercandies/flutter_interactional_widget)|-|125|2021-08-01|2021-08-01|
-|18|[yangchong211/YCFlutterUtils](https://github.com/yangchong211/YCFlutterUtils)|Flutter Utils 全网最齐全的工具类。包含bus，颜色，日期，文件，json，log，sp，加解密，num，图片，网络，正则，验证，路由，文本，时间，spi，计时器，拓展类，编解码，发射，异常，字节转化，解析等等工具类。|110|2021-12-15|2021-04-28|
+|18|[yangchong211/YCFlutterUtils](https://github.com/yangchong211/YCFlutterUtils)|Flutter Utils 全网最齐全的工具类。包含bus，颜色，日期，文件，json，log，sp，加解密，num，图片，网络，正则，验证，路由，文本，时间，spi，计时器，拓展类，编解码，发射，异常，字节转化，解析等等工具类。|111|2021-12-15|2021-04-28|
 |19|[xieyezi/flutter-getx-template](https://github.com/xieyezi/flutter-getx-template)|flutter 2.x and  getx v4.x template|100|2021-06-09|2021-05-31|
-|20|[niezhiyang/flutter_autosize_screen](https://github.com/niezhiyang/flutter_autosize_screen)|A low-cost Flutter screen adaptation solution（一个极低成本的 Flutter 屏幕适配方案）|82|2021-10-19|2021-08-15|
+|20|[niezhiyang/flutter_autosize_screen](https://github.com/niezhiyang/flutter_autosize_screen)|A low-cost Flutter screen adaptation solution（一个极低成本的 Flutter 屏幕适配方案）|83|2021-10-19|2021-08-15|
 |21|[jhflovehqy/flutter_bolg_manage](https://github.com/jhflovehqy/flutter_bolg_manage)|Flutter实战项目，采用Getx框架管理，遵循Material design设计风格，适合您实战参考或练手|79|2021-11-01|2021-08-27|
 |22|[qq326646683/flutter_vap](https://github.com/qq326646683/flutter_vap)|Base on Vap to play alpha video animation|77|2021-06-11|2021-05-10|
-|23|[abcd498936590/flutter_eyepetizer](https://github.com/abcd498936590/flutter_eyepetizer)|使用 Flutter + GetX 仿开眼视频app|66|2021-11-01|2021-10-18|
+|23|[abcd498936590/flutter_eyepetizer](https://github.com/abcd498936590/flutter_eyepetizer)|使用 Flutter + GetX 仿开眼视频app|67|2021-11-01|2021-10-18|
 |24|[lianyagang/flutter_swiper_null_safety](https://github.com/lianyagang/flutter_swiper_null_safety)|根据大佬https://github.com/best-flutter/flutter_swiper修改到空安全swiper|64|2021-08-04|2021-03-30|
 |25|[abcd498936590/fijkplayer_skin](https://github.com/abcd498936590/fijkplayer_skin)|fijkplayer的一款基础皮肤，美化播放UI，增加顶部返回菜单、标题，透明渐变皮肤。支持手势快进进退|61|2021-10-29|2021-02-02|
 |26|[xiao-cao-x/pixiv_func_android](https://github.com/xiao-cao-x/pixiv_func_android)|功能齐全的Pixiv第三方客户端 支持免代理 支持查看动图|57|2021-12-21|2021-05-16|
@@ -44,9 +44,9 @@
 |37|[mdddj/simple_shop_v2](https://github.com/mdddj/simple_shop_v2)|flutter 商城|24|2021-12-13|2021-04-05|
 |38|[ITmxs/flutter_bloc_super](https://github.com/ITmxs/flutter_bloc_super)|flutter2搭建的全平台，适应web。android，ios，macOS，windows，linux，目前主分支已支持空安全|23|2021-11-16|2021-03-31|
 |39|[Simon-Bin/flant](https://github.com/Simon-Bin/flant)|vant风格的flutter组件库|23|2021-06-15|2021-01-19|
-|40|[swiftdo/web-demo](https://github.com/swiftdo/web-demo)|flutter 2.0 web demo|22|2021-07-07|2021-03-04|
-|41|[6tail/lunar-flutter](https://github.com/6tail/lunar-flutter)|日历、公历(阳历)、农历(阴历、老黄历)、道历、佛历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.|21|2021-12-13|2021-08-07|
-|42|[Mao-x-w/FlutterAopDemo](https://github.com/Mao-x-w/FlutterAopDemo)|flutter Aop demo: 全埋点、全局生命周期|21|2021-10-20|2021-06-22|
+|40|[Mao-x-w/FlutterAopDemo](https://github.com/Mao-x-w/FlutterAopDemo)|flutter Aop demo: 全埋点、全局生命周期|22|2021-10-20|2021-06-22|
+|41|[swiftdo/web-demo](https://github.com/swiftdo/web-demo)|flutter 2.0 web demo|22|2021-07-07|2021-03-04|
+|42|[6tail/lunar-flutter](https://github.com/6tail/lunar-flutter)|日历、公历(阳历)、农历(阴历、老黄历)、道历、佛历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.|21|2021-12-13|2021-08-07|
 |43|[litlifesoftware/HistoryOfMe](https://github.com/litlifesoftware/HistoryOfMe)|Your own personal diary.|21|2021-12-28|2021-03-24|
 |44|[wuyuanwuhui99/flutter-movie-app-ui](https://github.com/wuyuanwuhui99/flutter-movie-app-ui)|基于flutter开发的混合电影app，后端采用springboot+mybatis+mysql开发，有react-native版本，参见个人主页springboot和react-native项目包括底部tab导航,，首页，电影，电视剧，我的，搜索页，分类页，电影详情页，播放页，登录，注册，浏览记录，播放记录，收藏，缓存，电影排行榜等页面和模块，功能齐全完善，所有数据来自python爬虫程序，抓取 ...|21|2021-10-31|2021-03-24|
 |45|[JRY1009/lighthouse_flutter](https://github.com/JRY1009/lighthouse_flutter)|flutter 练手项目，组件化，mvvm，热更新，dio，websocket，多语言，多渠道打包，K线图，分时图，Componentization，kline，timeline|21|2021-11-11|2021-01-31|
@@ -97,14 +97,14 @@
 |90|[beyondstorage/beyond-tp](https://github.com/beyondstorage/beyond-tp)|Neutral data migration service|7|2021-12-22|2021-01-24|
 |91|[KiritoCheng/flutter_note](https://github.com/KiritoCheng/flutter_note)|这是一个由flutter制作的简单app，具有记事功能的小便签。|6|2021-08-05|2021-07-27|
 |92|[Koma-Chen/FlutterGetxMVVM](https://github.com/Koma-Chen/FlutterGetxMVVM)|Flutter版 MVVM架构，使用Getx|6|2021-09-26|2021-06-30|
-|93|[w567675/amap-flutter-location](https://github.com/w567675/amap-flutter-location)|flutter amp location, Android端 iOS端 web客户端|6|2021-06-18|2021-06-16|
-|94|[cpyczd/xy-music-mobile](https://github.com/cpyczd/xy-music-mobile)|🌧  XY- Flutter 全网音乐助手|6|2021-09-06|2021-05-21|
-|95|[lucky1213/aliyun_oss](https://github.com/lucky1213/aliyun_oss)|阿里云 OSS flutter|6|2021-07-30|2021-03-07|
-|96|[azhon/FlutterAppUpdate](https://github.com/azhon/FlutterAppUpdate)|一个Flutter版本简单、轻量、可随意定制的Android版本更新库；A simple, lightweight, and customizable Android version update library for Flutter|6|2021-09-27|2021-02-24|
-|97|[evan361425/flutter-pos-system](https://github.com/evan361425/flutter-pos-system)|開源的 Flutter 應用程式，希望和使用者一起建立一個好用的 POS 系統（點餐系統）。|6|2021-12-28|2021-01-03|
-|98|[xiaojia21190/dgl_login](https://github.com/xiaojia21190/dgl_login)|呆瓜佬|5|2021-12-14|2021-12-13|
-|99|[smartbackme/emas_tlog](https://github.com/smartbackme/emas_tlog)|阿里 EMAS TLog 线上日志监控系统，flutter实现|5|2021-11-29|2021-11-24|
-|100|[lancexin/aspect_frontend_server](https://github.com/lancexin/aspect_frontend_server)|修改frontend_server.dart.snapshot,让dart具有aspect的功能|5|2021-11-26|2021-11-07|
+|93|[geekTaolipeng/routerx_simple](https://github.com/geekTaolipeng/routerx_simple)|尝试解决 flutter  路由 跟 native 交互时候硬编码的方式|6|2021-06-22|2021-06-22|
+|94|[w567675/amap-flutter-location](https://github.com/w567675/amap-flutter-location)|flutter amp location, Android端 iOS端 web客户端|6|2021-06-18|2021-06-16|
+|95|[cpyczd/xy-music-mobile](https://github.com/cpyczd/xy-music-mobile)|🌧  XY- Flutter 全网音乐助手|6|2021-09-06|2021-05-21|
+|96|[lucky1213/aliyun_oss](https://github.com/lucky1213/aliyun_oss)|阿里云 OSS flutter|6|2021-07-30|2021-03-07|
+|97|[azhon/FlutterAppUpdate](https://github.com/azhon/FlutterAppUpdate)|一个Flutter版本简单、轻量、可随意定制的Android版本更新库；A simple, lightweight, and customizable Android version update library for Flutter|6|2021-09-27|2021-02-24|
+|98|[evan361425/flutter-pos-system](https://github.com/evan361425/flutter-pos-system)|開源的 Flutter 應用程式，希望和使用者一起建立一個好用的 POS 系統（點餐系統）。|6|2021-12-29|2021-01-03|
+|99|[xiaojia21190/dgl_login](https://github.com/xiaojia21190/dgl_login)|呆瓜佬|5|2021-12-14|2021-12-13|
+|100|[smartbackme/emas_tlog](https://github.com/smartbackme/emas_tlog)|阿里 EMAS TLog 线上日志监控系统，flutter实现|5|2021-11-29|2021-11-24|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
