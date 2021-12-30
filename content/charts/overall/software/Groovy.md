@@ -1,7 +1,7 @@
-<a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Groovy
-<sub>数据更新: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -15,12 +15,12 @@
 |8|[zeyangli/jenkinslibrary](https://github.com/zeyangli/jenkinslibrary)|Jenkins共享库|99|2021-10-17|
 |9|[duking666/ImgCompressPlugin](https://github.com/duking666/ImgCompressPlugin)|一款Android端自动化图片压缩的gradle插件,一键扫描项目中的资源目录并进行批量图片压缩,提供3种压缩方式,支持有损及无损压缩.同时会记录已压缩的文件,适合个人及团队协同使用.|90|2021-11-03|
 |10|[JackyAndroid/PeaPod](https://github.com/JackyAndroid/PeaPod)|A plugin that replaces external module dependencies with project dependencies.|80|2021-07-05|
-|11|[pengxurui/EasyPrivacy](https://github.com/pengxurui/EasyPrivacy)|一个帮助开发者快速找到国内隐私整改问题的工具|64|2021-12-27|
+|11|[pengxurui/EasyPrivacy](https://github.com/pengxurui/EasyPrivacy)|一个帮助开发者快速找到国内隐私整改问题的工具|66|2021-12-27|
 |12|[bihe0832/Gradle-Dependencies-Check](https://github.com/bihe0832/Gradle-Dependencies-Check)|梳理并检查项目中多个module的gradle依赖配置是否存在冲突|35|2021-10-12|
 |13|[galaxybruce/AndroidPionner](https://github.com/galaxybruce/AndroidPionner)|为android工程编译提供常用功能的gradle插件，旨在把一些常用自动化的脚本收集在一起。|34|2021-12-07|
 |14|[Ryan-Shz/Repo](https://github.com/Ryan-Shz/Repo)|一个基于shell + gradle开发的效率工具，用来优化模块化/组件化分仓后带来的编译和调试痛点，提升开发效率|27|2021-07-27|
 |15|[CodingGay/BlackObfuscator-ASPlugin](https://github.com/CodingGay/BlackObfuscator-ASPlugin)|This project is an Android Studio plugin version of BlackObfuscator, it supports obfuscating code automatically. More information about this project are in BlackObfuscator.|21|2021-12-18|
-|16|[miqt/MethodHookTool](https://github.com/miqt/MethodHookTool)|这是一个android 方法 hook 插件，通过hook方法进入和退出，能进行很多自定义的事情|18|2021-07-29|
+|16|[miqt/MethodHookTool](https://github.com/miqt/MethodHookTool)|这是一个android 方法 hook 插件，通过hook方法进入和退出，能进行很多自定义的事情|19|2021-07-29|
 |17|[xnat9/grule](https://github.com/xnat9/grule)|自创Groovy DSL 动态规则(rule)执行引擎. 特色 风控系统, 规则引擎, 动态接口配置(低代码)|14|2021-12-18|
 |18|[ZakAnun/UploadApkPlugin](https://github.com/ZakAnun/UploadApkPlugin)|上传 apk 文件到指定测试平台的插件|13|2021-10-18|
 |19|[zhoujiaping/java-agent](https://github.com/zhoujiaping/java-agent)|基于java5 Instrument api实现的mock框架|10|2021-07-01|
@@ -48,4 +48,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

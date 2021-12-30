@@ -1,15 +1,15 @@
-<a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 资料类 > Kotlin
-<sub>数据更新: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[compose-museum/hello-compose](https://github.com/compose-museum/hello-compose)|Jetpack Compose 基础教程，持续更新|494|2021-12-23|2021-04-03|
-|2|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|483|2021-12-05|2021-02-05|
-|3|[miaowmiaow/fragmject](https://github.com/miaowmiaow/fragmject)|真正的入门级的项目，通过对Kotlin和Jetpack全家桶的系统运用，实现的一个功能完备符合主流市场标准App。 一个代码够简单，内容够全面，知识够详细，能让你快速上手的项目，对理解其他项目设计思想和封装技巧也很有帮助。项目结构清晰，代码简洁优雅。|253|2021-12-21|2021-05-06|
+|1|[compose-museum/hello-compose](https://github.com/compose-museum/hello-compose)|Jetpack Compose 基础教程，持续更新|497|2021-12-23|2021-04-03|
+|2|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|484|2021-12-05|2021-02-05|
+|3|[miaowmiaow/fragmject](https://github.com/miaowmiaow/fragmject)|真正的入门级的项目，通过对Kotlin和Jetpack全家桶的系统运用，实现的一个功能完备符合主流市场标准App。 一个代码够简单，内容够全面，知识够详细，能让你快速上手的项目，对理解其他项目设计思想和封装技巧也很有帮助。项目结构清晰，代码简洁优雅。|254|2021-12-21|2021-05-06|
 |4|[blindmonk/WanArchitecture](https://github.com/blindmonk/WanArchitecture)|汇聚了业界知名架构文章。从建筑学的知识中得到一些对架构的思考，并以架构设计原则和目的对Jetpack MVVM 重新构造！|191|2021-06-17|2021-05-11|
-|5|[biubiuqiu0/flow-event-bus](https://github.com/biubiuqiu0/flow-event-bus)|EventBus for Android，消息总线，基于SharedFlow，具有生命周期感知能力，支持Sticky，支持线程切换，支持延迟发送。|85|2021-08-18|2021-07-15|
+|5|[biubiuqiu0/flow-event-bus](https://github.com/biubiuqiu0/flow-event-bus)|EventBus for Android，消息总线，基于SharedFlow，具有生命周期感知能力，支持Sticky，支持线程切换，支持延迟发送。|86|2021-08-18|2021-07-15|
 |6|[lelelongwang/WanJetpack](https://github.com/lelelongwang/WanJetpack)|💪 持续更新。WanJetpack使用Jetpack MVVM开发架构、单Activity多Fragment设计，项目结构清晰，代码简洁优雅，追求最官方的实现方式。欢迎star，非常感谢。已用到知识点：LiveData、ViewModel、DataBinding、ViewBinding、coroutines、Hilt、Paging3、Room、Navigation、TabLayout、Bottom ...|82|2021-08-07|2021-06-01|
 |7|[kongpf8848/ViewWorld](https://github.com/kongpf8848/ViewWorld)|自定义View合集，展示各种自定义View/控件。项目包含了自定义Banner轮播图控件，自定义验证码输入框，自定义TabLayout等控件，持续更新中:wink::wink::wink:|65|2021-08-17|2021-03-04|
 |8|[leavesC/RobustWebView](https://github.com/leavesC/RobustWebView)|Android WebView H5 秒开方案总结|20|2021-11-21|2021-09-12|
@@ -35,4 +35,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>

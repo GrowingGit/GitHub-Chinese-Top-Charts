@@ -1,26 +1,26 @@
-<a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
+<a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > TeX
-<sub>数据更新: 2021-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2021-12-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|4948|2|2021-12-15|
+|1|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|4950|2|2021-12-15|
 |2|[THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2171|2|2021-11-20|
-|3|[FvNCCR228/SCU_Beamer_Slide-demo](https://github.com/FvNCCR228/SCU_Beamer_Slide-demo)|四川大学非官方Beamer模板   Unofficial Beamer Template for Sichuan University|17|1|2021-12-08|
-|4|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3290|1|2021-12-04|
-|5|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|198|1|2021-12-28|
-|6|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|1069|1|2021-12-05|
-|7|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2461|1|2021-10-29|
-|8|[OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs)|The Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security.|1280|1|2021-12-27|
+|3|[FvNCCR228/SCU_Beamer_Slide-demo](https://github.com/FvNCCR228/SCU_Beamer_Slide-demo)|四川大学非官方Beamer模板   Unofficial Beamer Template for Sichuan University|17|1|2021-12-30|
+|4|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3292|1|2021-12-04|
+|5|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|198|1|2021-12-30|
+|6|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|1071|1|2021-12-05|
+|7|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2464|1|2021-10-29|
+|8|[OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs)|The Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security.|1281|1|2021-12-27|
 |9|[huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv)|Latex CV template built with Font Awesome.|340|0|2021-07-20|
-|10|[mohuangrui/ucasproposal](https://github.com/mohuangrui/ucasproposal)|LaTeX Proposal Template for the University of Chinese Academy of Sciences|337|0|2021-10-29|
+|10|[mohuangrui/ucasproposal](https://github.com/mohuangrui/ucasproposal)|LaTeX Proposal Template for the University of Chinese Academy of Sciences|338|0|2021-10-29|
 |11|[RuixiZhang42/newxeCJK](https://github.com/RuixiZhang42/newxeCJK)|New implementation of xeCJK|9|0|2021-10-15|
 |12|[Onion12138/math](https://github.com/Onion12138/math)|上海初中数学讲义Latex版|2|0|2021-08-02|
 |13|[hoganbin/Analysis-of-Mathematics-Competition](https://github.com/hoganbin/Analysis-of-Mathematics-Competition)|本文档是利用了latex中pdfpages包进行文档合并，包括了2009-2020年从第一届数学竞赛到第十二届所有预赛试题解析|3|0|2021-06-27|
 |14|[ericuni/note](https://github.com/ericuni/note)|my notes|9|0|2021-12-27|
-|15|[21-lessons/21-lessons-book-de](https://github.com/21-lessons/21-lessons-book-de)|21 Lektionen - Ein Buch über eine Bitcoin-Reise, geschrieben von einem Bitcoiner|10|0|2021-11-11|
-|16|[ethereum/yellowpaper](https://github.com/ethereum/yellowpaper)|The "Yellow Paper": Ethereum's formal specification|1210|0|2021-12-27|
+|15|[21-lessons/21-lessons-book-de](https://github.com/21-lessons/21-lessons-book-de)|21 Lektionen - Ein Buch über eine Bitcoin-Reise, geschrieben von einem Bitcoiner|10|0|2021-12-29|
+|16|[ethereum/yellowpaper](https://github.com/ethereum/yellowpaper)|The "Yellow Paper": Ethereum's formal specification|1212|0|2021-12-27|
 |17|[yzhangcs/master-thesis](https://github.com/yzhangcs/master-thesis)|基于树形条件随机场的高阶句法分析|7|0|2021-12-26|
 |18|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|999|0|2021-12-08|
 |19|[xinetzone/cv-actions](https://github.com/xinetzone/cv-actions)|计算机视觉实践|2|0|2021-10-08|
@@ -48,7 +48,7 @@
 |41|[gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en)|The English version of 14 lectures on visual SLAM.|607|0|2021-11-16|
 |42|[a358003542/zhouyi](https://github.com/a358003542/zhouyi)|周易初讲【讲解部分编写中......】|2|0|2021-11-08|
 |43|[wenddymacro/AppliedEconometrics](https://github.com/wenddymacro/AppliedEconometrics)|Stata、计量经济学、DSGE|8|0|2021-10-28|
-|44|[zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style)|GB/T 7714-2015 BibTeX Style|611|0|2021-12-12|
+|44|[zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style)|GB/T 7714-2015 BibTeX Style|612|0|2021-12-12|
 |45|[jamesfang8499/physics1](https://github.com/jamesfang8499/physics1)|-|76|0|2021-12-17|
 |46|[utmsks/KSImaterial](https://github.com/utmsks/KSImaterial)|計算数学I実習資料集|14|0|2021-06-08|
 |47|[Mulliken/szaboqc](https://github.com/Mulliken/szaboqc)|-|38|0|2021-11-14|
@@ -58,14 +58,14 @@
 |51|[freedomtan/coreml_to_ane_hwx](https://github.com/freedomtan/coreml_to_ane_hwx)|a quick and dirty little program to convert Apple CoreML model to ANE hwx file|9|0|2021-07-19|
 |52|[Jinwen-XU/minimalist](https://github.com/Jinwen-XU/minimalist)|-|8|0|2021-12-16|
 |53|[zhuhu00/SUSTech_hw_template](https://github.com/zhuhu00/SUSTech_hw_template)|南方科技大学作业模板|3|0|2021-06-04|
-|54|[yuxtech/ShiJihuai-complex](https://github.com/yuxtech/ShiJihuai-complex)|史济怀复变函数LaTeX重排|79|0|2021-11-10|
+|54|[yuxtech/ShiJihuai-complex](https://github.com/yuxtech/ShiJihuai-complex)|史济怀复变函数LaTeX重排|80|0|2021-11-10|
 |55|[Miracle0565/BUCTthesis](https://github.com/Miracle0565/BUCTthesis)|📝A LaTeX writting template for BUCT thesis.|13|0|2021-09-10|
 |56|[skykeyjoker/LaTeX-UESTC-Report](https://github.com/skykeyjoker/LaTeX-UESTC-Report)|LaTeX template for report(Lab) of University of Electronic Science and Technology of China (UESTC)  电子科技大学本科实验报告 LaTeX 模板|2|0|2021-08-21|
 |57|[xjtu-blacksmith/easymcm](https://github.com/xjtu-blacksmith/easymcm)|A simple LaTeX package for Mathematical Contest in Modeling (MCM)|102|0|2021-08-02|
 |58|[sppmg/TW_Thesis_Template](https://github.com/sppmg/TW_Thesis_Template)|The LaTeX Template for TW Thesis 台灣碩博士 LaTeX 論文樣板|90|0|2021-10-05|
 |59|[GeeLaw/laomian](https://github.com/GeeLaw/laomian)|老面 (sourdough, lit. "old dough") is used as the starter for fermenting dough. This repository contains my digital 老面.|4|0|2021-12-08|
 |60|[ustctug/ustcthesis](https://github.com/ustctug/ustcthesis)|LaTeX template for USTC thesis|904|0|2021-12-19|
-|61|[ice1000/resume](https://github.com/ice1000/resume)|:space_invader: My resume / 我的简历|548|0|2021-12-29|
+|61|[ice1000/resume](https://github.com/ice1000/resume)|:space_invader: My resume / 我的简历|548|0|2021-12-30|
 |62|[iamxiatian/course_ds](https://github.com/iamxiatian/course_ds)|数据结构|9|0|2021-11-09|
 |63|[mathedu4all/bhcexam](https://github.com/mathedu4all/bhcexam)|The BHCexam document class attempts to make it easy for even a LaTeX novice to prepare exams.|58|0|2021-08-30|
 |64|[stone-zeng/latex-showcase](https://github.com/stone-zeng/latex-showcase)|-|10|0|2021-12-14|
@@ -87,7 +87,7 @@
 |80|[WoodyBryant/Report_Template](https://github.com/WoodyBryant/Report_Template)|Report_Template|9|0|2021-11-05|
 |81|[liao961120/ntuthesis2](https://github.com/liao961120/ntuthesis2)|台大碩博士論文模板 (Pandoc)|2|0|2021-08-14|
 |82|[MatNoble/LaTeX-Document](https://github.com/MatNoble/LaTeX-Document)|LaTeX Templates for Document|67|0|2021-06-16|
-|83|[stone-zeng/fduthesis](https://github.com/stone-zeng/fduthesis)|LaTeX thesis template for Fudan University|426|0|2021-12-27|
+|83|[stone-zeng/fduthesis](https://github.com/stone-zeng/fduthesis)|LaTeX thesis template for Fudan University|427|0|2021-12-27|
 |84|[LLLgoyour/Handout](https://github.com/LLLgoyour/Handout)|王一老师上课配套的讲义|3|0|2021-12-28|
 |85|[borting/nctu-thesis](https://github.com/borting/nctu-thesis)|NCTU Thesis Template in XeLaTeX|61|0|2021-07-26|
 |86|[wtsnjp/nlproceedings](https://github.com/wtsnjp/nlproceedings)|LaTeX document class for the proceedings of ANLP|10|0|2021-12-24|
@@ -104,7 +104,7 @@
 |97|[gopherdojo/shoten7](https://github.com/gopherdojo/shoten7)|技術書典|2|0|2021-08-11|
 |98|[HIT-UOI-SR/HIT-Graduate-Report](https://github.com/HIT-UOI-SR/HIT-Graduate-Report)|哈尔滨工业大学研究生报告LaTeX模板|4|0|2021-07-24|
 |99|[YangLaTeX/thubeamer](https://github.com/YangLaTeX/thubeamer)|A Beamer Theme for Tsinghua University (THU).|19|0|2021-11-16|
-|100|[MacroUniverse/PhysWiki-log](https://github.com/MacroUniverse/PhysWiki-log)|小时百科|49|0|2021-12-29|
+|100|[MacroUniverse/PhysWiki-log](https://github.com/MacroUniverse/PhysWiki-log)|小时百科|50|0|2021-12-29|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
@@ -113,4 +113,4 @@
 
 <br/>
 
-<div align="center"><a href="https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
+<div align="center"><a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a></div>
