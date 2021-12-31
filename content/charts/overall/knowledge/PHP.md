@@ -1,33 +1,33 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > PHP
-<sub>数据更新: 2021-12-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[owner888/phpspider](https://github.com/owner888/phpspider)|《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序|3408|2021-07-01|
+|1|[owner888/phpspider](https://github.com/owner888/phpspider)|《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序|3407|2021-07-01|
 |2|[Qsnh/meedu](https://github.com/Qsnh/meedu)|知识付费、企业线上培训解决方案。|2747|2021-12-19|
 |3|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|2434|2021-11-13|
-|4|[summerblue/laravel-shop](https://github.com/summerblue/laravel-shop)|Laravel 电商实战教程的项目代码|2342|2021-10-05|
+|4|[summerblue/laravel-shop](https://github.com/summerblue/laravel-shop)|Laravel 电商实战教程的项目代码|2343|2021-10-05|
 |5|[orangetw/My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges)|Collection of CTF Web challenges I made|2276|2021-12-05|
-|6|[wususu/effective-resourses](https://github.com/wususu/effective-resourses)| :book:学习资源整合|1862|2021-06-10|
+|6|[wususu/effective-resourses](https://github.com/wususu/effective-resourses)| :book:学习资源整合|1864|2021-06-10|
 |7|[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)|A list of ICs and IPs for AI, Machine Learning and Deep Learning.|1213|2021-12-20|
-|8|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1156|2021-12-30|
-|9|[magicblack/maccms10](https://github.com/magicblack/maccms10)|苹果cms官网,苹果cmsv10,maccmsv10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序|1138|2021-12-27|
+|8|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1183|2021-12-31|
+|9|[magicblack/maccms10](https://github.com/magicblack/maccms10)|苹果cms官网,苹果cmsv10,maccmsv10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序|1137|2021-12-27|
 |10|[xianyunyh/PHP-Interview](https://github.com/xianyunyh/PHP-Interview)|This is the information I prepared for the PHP interview.The notes include PHP, MySql, Linux, etc.|1135|2021-12-12|
 |11|[iqiqiya/iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API)|API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封 ...|1076|2021-08-26|
 |12|[xiebruce/PicUploader](https://github.com/xiebruce/PicUploader)|一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。|949|2021-09-30|
 |13|[opensource-socialnetwork/opensource-socialnetwork](https://github.com/opensource-socialnetwork/opensource-socialnetwork)|Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who s ...|824|2021-12-30|
 |14|[poetries/mywiki](https://github.com/poetries/mywiki)|:books:收集整理日常发现的好资源、前端资源汇总。关注公众号「前端进阶之旅」，一起学习|643|2021-10-03|
 |15|[maccmspro/maccms10](https://github.com/maccmspro/maccms10)|苹果cms-v10,maccms-v10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序|599|2021-12-19|
-|16|[zblogcn/zblogphp](https://github.com/zblogcn/zblogphp)|Z-BlogPHP博客程序|599|2021-12-29|
+|16|[zblogcn/zblogphp](https://github.com/zblogcn/zblogphp)|Z-BlogPHP博客程序|599|2021-12-31|
 |17|[bettershop/LaikeTui](https://github.com/bettershop/LaikeTui)|来客电商，微信小程序商城 + APP商城 + 公众号商城 + PC商城系统 + 支付宝小程序商城 + 抖音小程序商城 + 百度小程序电商系统（前后端代码全部开源） 注重界面美感与用户体验，打造独特电商系统生态圈|559|2021-12-30|
 |18|[zdhxiong/Material-Design-Chinese](https://github.com/zdhxiong/Material-Design-Chinese)|Material Design 指南的中文翻译|550|2021-11-09|
-|19|[anerg2046/sns_auth](https://github.com/anerg2046/sns_auth)|通用第三方登录SDK，支持微信，微信扫码，QQ，微博登录，支付宝登录，Facebook，Line，Twitter，Google|547|2021-11-15|
-|20|[xiaochong0302/course-tencent-cloud](https://github.com/xiaochong0302/course-tencent-cloud)|网课系统，网校系统，知识付费系统，在线教育系统，基于高性能 C 扩展框架 Phalcon ，可免费商用。|485|2021-11-28|
-|21|[helloxz/onenav](https://github.com/helloxz/onenav)|使用PHP开发的简约导航/书签管理系统。|481|2021-09-10|
+|19|[anerg2046/sns_auth](https://github.com/anerg2046/sns_auth)|通用第三方登录SDK，支持微信，微信扫码，QQ，微博登录，支付宝登录，Facebook，Line，Twitter，Google|548|2021-11-15|
+|20|[xiaochong0302/course-tencent-cloud](https://github.com/xiaochong0302/course-tencent-cloud)|网课系统，网校系统，知识付费系统，在线教育系统，基于高性能 C 扩展框架 Phalcon ，可免费商用。|487|2021-12-31|
+|21|[helloxz/onenav](https://github.com/helloxz/onenav)|使用PHP开发的简约导航/书签管理系统。|486|2021-09-10|
 |22|[emlog/emlog](https://github.com/emlog/emlog)|emlog是一款基于PHP和MySQL的功能强大的博客及CMS建站系统，追求快速、稳定、简单、舒适的建站体验 （emlog is a fast, stable and easy-to-use blog and CMS website building system based on PHP and MySQL）。|436|2021-12-27|
-|23|[weipxiu/Art_Blog](https://github.com/weipxiu/Art_Blog)|WordPress响应式免费主题，Art_Blog唯品秀博客（weipxiu.com/备用域名weipxiu.cn），开源给小伙伴免费使用，如使用过程有任何问题，在线技术支持QQ:343049466，欢迎打扰。原创不易，如喜欢，请多多打赏。演示：|407|2021-12-30|
+|23|[weipxiu/Art_Blog](https://github.com/weipxiu/Art_Blog)|WordPress响应式免费主题，Art_Blog唯品秀博客（weipxiu.com/备用域名weipxiu.cn），开源给小伙伴免费使用，如使用过程有任何问题，在线技术支持QQ:343049466，欢迎打扰。原创不易，如喜欢，请多多打赏。演示：|408|2021-12-30|
 |24|[OMGZui/noteBook](https://github.com/OMGZui/noteBook)|🍎  笔记本|387|2021-12-28|
 |25|[storyflow/PHPer](https://github.com/storyflow/PHPer)|一个PHPer的升级之路|372|2021-11-01|
 |26|[oubingbing/wechatAlliance](https://github.com/oubingbing/wechatAlliance)|微信小程序--校园小情书后台源码，好玩的表白墙，告白墙。|371|2021-10-20|
@@ -66,7 +66,7 @@
 |59|[sy-records/design-patterns](https://github.com/sy-records/design-patterns)|👨🏻‍💻 Swoole微课程-PHP设计模式相关代码|51|2021-11-22|
 |60|[zhan3333/note](https://github.com/zhan3333/note)|编程笔记：算法、语言、工具、面试|45|2021-12-21|
 |61|[wmhello/workManger](https://github.com/wmhello/workManger)|简单易用的学校信息管理系统（管理教职工基础信息、教学过程、短信消息和模板消息发送 学校微信公众号管理 简单事项审批）|44|2021-11-24|
-|62|[lcp0578/cheat-sheets](https://github.com/lcp0578/cheat-sheets)|:elephant: :elephant: my cheat sheets :memo: , Symfony, Go, Python, MySQL, Twig, Doctrine, Nginx, ElasticSearch, TiDB, Linux etc.|44|2021-12-06|
+|62|[lcp0578/cheat-sheets](https://github.com/lcp0578/cheat-sheets)|:elephant: :elephant: my cheat sheets :memo: , Symfony, Go, Python, MySQL, Twig, Doctrine, Nginx, ElasticSearch, TiDB, Linux etc.|44|2021-12-31|
 |63|[leafmirror/hyperf-study](https://github.com/leafmirror/hyperf-study)|hyperf框架学习之路，会持续更新。敬请期待|43|2021-08-12|
 |64|[PrintNow/ChaoxingSign](https://github.com/PrintNow/ChaoxingSign)|PHP版超星学习通自动签到（包括普通签到、手势签到、位置签到，不支持二维码签到），支持多用户，二次开发便捷！|39|2021-09-03|
 |65|[asundust/wechat-work-push](https://github.com/asundust/wechat-work-push)|利用企业微信应用消息向微信发送通知(无需公众号，不需要安装企业微信客户端，低成本推送消息解决方案)|32|2021-07-04|

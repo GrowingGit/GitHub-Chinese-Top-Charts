@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 资料类 > CSS
-<sub>数据更新: 2021-12-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|482|2021-12-13|2021-08-01|
-|2|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|281|2021-12-29|2021-03-11|
+|1|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|483|2021-12-13|2021-08-01|
+|2|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|283|2021-12-29|2021-03-11|
 |3|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|197|2021-10-26|2021-04-05|
 |4|[yitd/wxkp](https://github.com/yitd/wxkp)|微信卡片分享链接在线制作工具|71|2021-12-11|2021-08-14|
 |5|[ChenYFan-Tester/IPFS_PHOTO_SHARE](https://github.com/ChenYFan-Tester/IPFS_PHOTO_SHARE)|💰用甚嚒服务器，ServerLess搭建一个图片分享站点！  基于CloudFlareWorker无服务器函数和IPFS去中心化存储的图片分享网站|58|2021-06-18|2021-06-10|
@@ -16,7 +16,7 @@
 |9|[omnilingo/omnilingo](https://github.com/omnilingo/omnilingo)|Listening-based language learning|24|2021-09-16|2021-02-27|
 |10|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|22|2021-12-09|2021-01-16|
 |11|[intro-nlp/intro-nlp.github.io](https://github.com/intro-nlp/intro-nlp.github.io)|《自然语言处理概论》  张奇、桂韬、黄萱菁著|20|2021-11-01|2021-05-25|
-|12|[viewweiwu/v2ex-zhihu-theme](https://github.com/viewweiwu/v2ex-zhihu-theme)|v2ex 知乎 主题样式|15|2021-12-15|2021-12-06|
+|12|[viewweiwu/v2ex-zhihu-theme](https://github.com/viewweiwu/v2ex-zhihu-theme)|v2ex 知乎 主题样式|16|2021-12-15|2021-12-06|
 |13|[arect/onedrive_blog](https://github.com/arect/onedrive_blog)|OneDrive/Blog 以OneDrive为储存的博客“引擎”|14|2021-12-28|2021-12-10|
 |14|[WindSnowLi/vue-ssr-blog](https://github.com/WindSnowLi/vue-ssr-blog)|w-blog的前台部分，一个简单的nuxtJs的博客前台项目|14|2021-11-23|2021-07-19|
 |15|[ls870061011/cesium_training](https://github.com/ls870061011/cesium_training)|Cesium开发：入门篇-1、基础篇-2、工具篇-3、高级篇-4所有课程代码|13|2021-11-06|2021-04-30|
