@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Pascal
-<sub>数据更新: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|423|2021-12-13|
-|2|[GerryFerdinandus/bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor)|Software for add or remove tracker from torrent files.|392|2021-12-03|
+|2|[GerryFerdinandus/bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor)|Software for add or remove tracker from torrent files.|393|2021-12-03|
 |3|[royqh1979/Dev-CPP](https://github.com/royqh1979/Dev-CPP)|A lightweighted C/C++ IDE|298|2021-10-03|
 |4|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|259|2021-12-30|
 |5|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|232|2021-12-31|
@@ -22,7 +22,7 @@
 |15|[supersoho/Delphi-DirectUI](https://github.com/supersoho/Delphi-DirectUI)|Delphi DirectUI Controls|49|2021-08-23|
 |16|[59079096/emr](https://github.com/59079096/emr)|基于HCView开发的电子病历程序|37|2021-09-12|
 |17|[PassByYou888/zExpression](https://github.com/PassByYou888/zExpression)|脚本与编译器内部的语法引擎内核，也是一种op内核，zExpression可以轻松实现自己的脚本引擎|37|2021-09-21|
-|18|[dbyoung720/PBox](https://github.com/dbyoung720/PBox)|The modular development platform based on DLL Form|35|2021-12-28|
+|18|[dbyoung720/PBox](https://github.com/dbyoung720/PBox)|The modular development platform based on DLL Form|35|2021-12-31|
 |19|[PassByYou888/zChinese](https://github.com/PassByYou888/zChinese)|自然语言项目：大规模词汇数据库 分词器 词性分析 语法依存性分析 关键词分析 简繁转 简港转 拼词转换 拼字转换 姓名识别|35|2021-09-21|
 |20|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|30|2021-12-14|
 |21|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker for Windows|30|2021-12-14|

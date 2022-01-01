@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Groovy
-<sub>数据更新: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2100|2|2021-11-16|
-|2|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3587|2|2021-09-15|
+|2|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3588|2|2021-09-15|
 |3|[pengxurui/EasyPrivacy](https://github.com/pengxurui/EasyPrivacy)|一个帮助开发者快速找到国内隐私整改问题的工具|70|1|2021-12-27|
 |4|[CodingGay/BlackObfuscator-ASPlugin](https://github.com/CodingGay/BlackObfuscator-ASPlugin)|This project is an Android Studio plugin version of BlackObfuscator, it supports obfuscating code automatically. More information about this project are in BlackObfuscator.|21|1|2021-12-18|
 |5|[zeyangli/jenkinslibrary](https://github.com/zeyangli/jenkinslibrary)|Jenkins共享库|99|0|2021-10-17|
@@ -34,7 +34,7 @@
 |27|[piitw/gaea](https://github.com/piitw/gaea)|发布Library的轻量级插件|2|0|2021-09-02|
 |28|[duking666/ImgCompressPlugin](https://github.com/duking666/ImgCompressPlugin)|一款Android端自动化图片压缩的gradle插件,一键扫描项目中的资源目录并进行批量图片压缩,提供3种压缩方式,支持有损及无损压缩.同时会记录已压缩的文件,适合个人及团队协同使用.|90|0|2021-11-03|
 |29|[galaxybruce/AndroidPionner](https://github.com/galaxybruce/AndroidPionner)|为android工程编译提供常用功能的gradle插件，旨在把一些常用自动化的脚本收集在一起。|34|0|2021-12-07|
-|30|[dqzboy/DevOps](https://github.com/dqzboy/DevOps)|CICD流水线|9|0|2021-12-31|
+|30|[dqzboy/DevOps](https://github.com/dqzboy/DevOps)|CICD流水线|9|0|2022-01-01|
 |31|[Ryan-Shz/Repo](https://github.com/Ryan-Shz/Repo)|一个基于shell + gradle开发的效率工具，用来优化模块化/组件化分仓后带来的编译和调试痛点，提升开发效率|27|0|2021-07-27|
 |32|[mark4z/cloud-alibaba](https://github.com/mark4z/cloud-alibaba)|一个简单的Spring cloud alibaba demo|2|0|2021-10-06|
 |33|[AyakuraYuki/content-storage-app](https://github.com/AyakuraYuki/content-storage-app)|泛用型内容管理工具，采用JSON存储内容，SQLite持久化数据，TOTP时间动态码校验用户，Base64/DES加密数据|4|0|2021-09-13|

@@ -1,26 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Ruby
-<sub>数据更新: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)|GitLab CE Mirror   Please open new issues in our issue tracker on GitLab.com|22800|2021-12-31|
+|1|[gitlabhq/gitlabhq](https://github.com/gitlabhq/gitlabhq)|GitLab CE Mirror   Please open new issues in our issue tracker on GitLab.com|22801|2021-12-31|
 |2|[lewagon/setup](https://github.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|11514|2021-11-10|
 |3|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|5765|2021-12-27|
-|4|[nomad/shenzhen](https://github.com/nomad/shenzhen)|CLI for Building & Distributing iOS Apps (.ipa Files)|4667|2021-06-20|
+|4|[nomad/shenzhen](https://github.com/nomad/shenzhen)|CLI for Building & Distributing iOS Apps (.ipa Files)|4668|2021-06-20|
 |5|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3516|2021-12-31|
 |6|[peatio/peatio](https://github.com/peatio/peatio)|An open-source assets exchange.|3506|2021-12-08|
 |7|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3410|2021-12-26|
-|8|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|1888|2021-12-27|
-|9|[pluosi/app-host](https://github.com/pluosi/app-host)|应用内网发布   iOS OTA (Over-the-Air)   APP publish website like fir.im    适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包|1800|2021-11-04|
+|8|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|1889|2021-12-27|
+|9|[pluosi/app-host](https://github.com/pluosi/app-host)|应用内网发布   iOS OTA (Over-the-Air)   APP publish website like fir.im    适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包|1801|2021-11-04|
 |10|[publify/publify](https://github.com/publify/publify)|A self hosted Web publishing platform on Rails.|1776|2021-12-27|
-|11|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1737|2021-12-29|
+|11|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1736|2021-12-29|
 |12|[thredded/thredded](https://github.com/thredded/thredded)|The best Rails forums engine ever.|1309|2021-10-24|
 |13|[Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1267|2021-12-21|
 |14|[michelson/lazy_high_charts](https://github.com/michelson/lazy_high_charts)|Make highcharts a la ruby , works in rails 5.X / 4.X / 3.X, and other ruby web frameworks|1044|2021-12-21|
 |15|[FIRHQ/fir-cli](https://github.com/FIRHQ/fir-cli)|fir.im(betaqr.com) command-line interface|1005|2021-08-30|
-|16|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|950|2021-12-31|
+|16|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|951|2021-12-31|
 |17|[floere/phony](https://github.com/floere/phony)|E164 international phone number normalizing, splitting, formatting. |931|2021-11-16|
 |18|[SciRuby/daru](https://github.com/SciRuby/daru)|Data Analysis in RUby|920|2021-12-31|
 |19|[saberma/shopqi](https://github.com/saberma/shopqi)|An open source clone of Shopify.|811|2021-09-27|
@@ -28,7 +28,7 @@
 |21|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|642|2021-11-16|
 |22|[MBoxPlus/mbox](https://github.com/MBoxPlus/mbox)|Toolchain for Mobile App Development 移动研发工具链|638|2021-12-28|
 |23|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|634|2021-12-29|
-|24|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|632|2021-11-05|
+|24|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|633|2021-11-05|
 |25|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast and smart citation reference parsing|559|2021-11-28|
 |26|[janx/ruby-pinyin](https://github.com/janx/ruby-pinyin)|中文汉字转拼音,　支持中英文符号混合词语。Pinyin is a romanization system (phonemic notation) of Chinese characters, this gem helps you to convert Chinese characters into pinyin form.|526|2021-08-21|
 |27|[kaich/codeobscure](https://github.com/kaich/codeobscure)|code obscure for object-c project.  方便强大的OC工程代码自动混淆工具|523|2021-07-02|
@@ -62,7 +62,7 @@
 |55|[huacnlee/auto-correct](https://github.com/huacnlee/auto-correct)|Automatically add whitespace between CJK (Chinese, Japanese, Korean) and half-width characters (alphabetical letters, numerical digits and symbols).|125|2021-07-27|
 |56|[netease-im/NIM_iOS_SDK](https://github.com/netease-im/NIM_iOS_SDK)|网易云信 iOS SDK 发布仓库。【推荐客户得京东卡，首次推荐成单得3000元京东卡，连续推荐4500元/单，上不封顶。】点击参与https://yunxin.163.com/promotion/recommend|121|2021-07-28|
 |57|[rails-engine/audit-log](https://github.com/rails-engine/audit-log)|📑 Create audit logs into the database for user behaviors, including a web UI to query logs.|117|2021-12-22|
-|58|[YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby)|A Ruby port of Puppeteer|112|2021-12-30|
+|58|[YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby)|A Ruby port of Puppeteer|112|2022-01-01|
 |59|[courtenay/splam](https://github.com/courtenay/splam)|Simple, pluggable, easily customizable score-based spam filter plugin for Ruby-based applications|108|2021-10-25|
 |60|[siaw23/kovid](https://github.com/siaw23/kovid)|A CLI to fetch and compare the COVID statistics.|106|2021-10-19|
 |61|[xdite/mind-hack](https://github.com/xdite/mind-hack)|打造超人思維|105|2021-06-21|
@@ -93,7 +93,7 @@
 |86|[chengdh/manage-huo-baby](https://github.com/chengdh/manage-huo-baby)|管货宝-功能齐备的零担(专线)物流业务平台|50|2021-06-10|
 |87|[FunnyWolf/vipermsf](https://github.com/FunnyWolf/vipermsf)|viper 自定义的msf|49|2021-12-29|
 |88|[hlcfan/pokr](https://github.com/hlcfan/pokr)|Make agile estimating and planning easy with our online planning or scrum poker tool|49|2021-10-12|
-|89|[aozorahack/aozorabunko_text](https://github.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|45|2021-12-31|
+|89|[aozorahack/aozorabunko_text](https://github.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|45|2022-01-01|
 |90|[ankane/blingfire-ruby](https://github.com/ankane/blingfire-ruby)|High speed text tokenization for Ruby|44|2021-12-13|
 |91|[FIRHQ/fastlane-plugin-fir_cli](https://github.com/FIRHQ/fastlane-plugin-fir_cli)|betaqr.com(fir.im) fastlane plugin|38|2021-10-27|
 |92|[piotrmurach/strings-truncation](https://github.com/piotrmurach/strings-truncation)|Truncate strings with fullwidth characters and ANSI codes.|34|2021-09-22|

@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Vue
-<sub>数据更新: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[crmeb/CRMEB](https://github.com/crmeb/CRMEB)|🔥🔥🔥 CRMEB打通版v4免费开源商城系统，uni-app+thinkphp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、可视化设置，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议|3462|2021-12-17|
-|2|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|2981|2021-12-22|
+|1|[crmeb/CRMEB](https://github.com/crmeb/CRMEB)|🔥🔥🔥 CRMEB打通版v4免费开源商城系统，uni-app+thinkphp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、可视化设置，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议|3461|2021-12-17|
+|2|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|2983|2021-12-22|
 |3|[biaochenxuying/blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript)|Vue3 + TypeScript + Vite2 + Vuex4 + Vue-Router4 + element-plus 支持 markdown 渲染的博客前台展示|1878|2021-08-29|
-|4|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|1643|2021-12-31|
-|5|[inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|1575|2021-09-19|
+|4|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|1646|2021-12-31|
+|5|[inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|1577|2021-09-19|
 |6|[GitHub-Laziji/VBlog](https://github.com/GitHub-Laziji/VBlog)|使用GitHub API 搭建一个可动态发布文章的博客|1424|2021-11-29|
-|7|[eshengsky/iBlog](https://github.com/eshengsky/iBlog)|基于 Node.js 的开源个人博客系统，采用 Nuxt + Vue + TypeScript 技术栈。|1114|2021-08-11|
+|7|[eshengsky/iBlog](https://github.com/eshengsky/iBlog)|基于 Node.js 的开源个人博客系统，采用 Nuxt + Vue + TypeScript 技术栈。|1115|2021-08-11|
 |8|[wmhello/laravel_template_with_vue](https://github.com/wmhello/laravel_template_with_vue)|laravel6和vue.js结合的前后端分离项目模板。包含接口端、管理端、小程序和微信公众号端，绝对是你做外包或者自建项目的首选模板。模板内容包括基础的用户管理和权限管理、日志管理、集成第三方登录，整合laravel-echo-server 实现了websocket 做到了消息的实时推送，并在此基础上，实现了聊天室和客服功能。|819|2021-12-29|
 |9|[lmiller1990/vue-testing-handbook](https://github.com/lmiller1990/vue-testing-handbook)|A guide on testing Vue components and applications|756|2021-12-21|
 |10|[wsydxiangwang/Mood](https://github.com/wsydxiangwang/Mood)|Vue的Nuxt.js服务端渲染框架，NodeJS为后端的全栈项目，Docker一键部署，面向小白的完美博客系统|694|2021-12-28|
 |11|[CS-Tao/whu-library-seat](https://github.com/CS-Tao/whu-library-seat)|武汉大学图书馆助手 - 桌面端|670|2021-12-15|
-|12|[niefy/wx-manage](https://github.com/niefy/wx-manage)|🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩|660|2021-10-06|
+|12|[niefy/wx-manage](https://github.com/niefy/wx-manage)|🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩|664|2021-10-06|
 |13|[wangy8961/flask-vuejs-madblog](https://github.com/wangy8961/flask-vuejs-madblog)|基于 Flask 和 Vue.js 前后端分离的微型博客项目，支持多用户、Markdown文章（喜欢/收藏文章）、粉丝关注、用户评论（点赞）、动态通知、站内私信、黑名单、邮件支持、管理后台、权限管理、RQ任务队列、Elasticsearch全文搜索、Linux VPS部署、Docker容器部署等|639|2021-06-01|
 |14|[zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook)|教你如何打造舒适、高效、时尚的前端开发环境|637|2021-09-29|
 |15|[CS-Tao/whu-library-seat-mobile](https://github.com/CS-Tao/whu-library-seat-mobile)|武汉大学图书馆助手 - 移动端|583|2021-12-15|
@@ -24,18 +24,18 @@
 |17|[seeksdream/relation-graph](https://github.com/seeksdream/relation-graph)|Vue 关联关系图谱组件，可以展示如组织机构图谱、股权架构图谱、集团关系图谱等知识图谱，可提供多种图谱布局，包括树状布局、中心布局、力学布局自动布局等。Vue component for relationship graph , which can display knowledge graphs, such as organization graph, equity structure grap ...|482|2021-10-20|
 |18|[hql7/wl-micro-frontends](https://github.com/hql7/wl-micro-frontends)|Micro front end practical project tutorial. 微前端项目实战vue项目。基于vue3.0&qiankun2.0进阶版：https://github.com/wl-ui/wl-mfe|460|2021-10-06|
 |19|[powerdong/Music-player](https://github.com/powerdong/Music-player)|Vue高仿网易云音乐(Vue入门实践)——在线预览 -- 暂时停止|455|2021-10-06|
-|20|[GeekQiaQia/vue3.0-template-admin](https://github.com/GeekQiaQia/vue3.0-template-admin)|本项目基于vue3+ElementPlus+Typescript+Vite搭建一套通用的后台管理模板；并基于常见业务场景，抽象出常见功能组件；包括动态菜单，菜单权限、登录、主题切换、国际化、个人中心、表单页、列表页、复制文本、二维码分享等等|410|2021-12-31|
-|21|[qq449245884/vue-okr-tree](https://github.com/qq449245884/vue-okr-tree)|http://www.longstudy.club/vue-okr-tree-doc/index.html|400|2021-09-07|
+|20|[GeekQiaQia/vue3.0-template-admin](https://github.com/GeekQiaQia/vue3.0-template-admin)|本项目基于vue3+ElementPlus+Typescript+Vite搭建一套通用的后台管理模板；并基于常见业务场景，抽象出常见功能组件；包括动态菜单，菜单权限、登录、主题切换、国际化、个人中心、表单页、列表页、复制文本、二维码分享等等|411|2021-12-31|
+|21|[qq449245884/vue-okr-tree](https://github.com/qq449245884/vue-okr-tree)|http://www.longstudy.club/vue-okr-tree-doc/index.html|401|2021-09-07|
 |22|[anjoy8/Blog.Vue](https://github.com/anjoy8/Blog.Vue)|☘ 一个vue的个人博客项目，配合.net core api教程，打造前后端分离|400|2021-11-28|
 |23|[Acmenlei/Many-people-blog](https://github.com/Acmenlei/Many-people-blog)|基于Vue2+Nodejs+MySQL的博客，有后台管理系统。支持：登陆/注册，留言，评论/回复，点赞，记录浏览数，相册，发表文章等，内容丰富。|375|2021-10-06|
 |24|[zhangyuang/vite-design](https://github.com/zhangyuang/vite-design)|下一代构建工具 vite 文档翻译 源码解析|281|2021-10-17|
-|25|[komomoo/vuepress-theme-resume](https://github.com/komomoo/vuepress-theme-resume)|🐈 书写简洁优雅的前端程序员 markdown 简历，由 vuepress 驱动|266|2021-11-19|
+|25|[komomoo/vuepress-theme-resume](https://github.com/komomoo/vuepress-theme-resume)|🐈 书写简洁优雅的前端程序员 markdown 简历，由 vuepress 驱动|267|2021-11-19|
 |26|[FXLP/MarkTool](https://github.com/FXLP/MarkTool)|DoTAT 是一款基于web、面向领域的通用文本标注工具，支持大规模实体标注、关系标注、事件标注、文本分类、基于字典匹配和正则匹配的自动标注以及用于实现归一化的标准名标注，同时也支持迭代标注、嵌套实体标注和嵌套事件标注。标注规范可自定义且同类型任务中可“一次创建多次复用”。通过分级实体集合扩大了实体类型的规模，并设计了全新高效的标注方式，提升了用户体验和标注效率。此外，本工具增加了审核环节，可对多 ...|263|2021-12-10|
 |27|[Tzlibai/uni-app-video](https://github.com/Tzlibai/uni-app-video)|一个优秀的uni-app影视视频源码项目案例分享，旨在帮助大家更快的上手uniapp视频类项目，个人网站:  https://zhaohongcheng.com|250|2021-12-07|
 |28|[roncoo/roncoo-education-web](https://github.com/roncoo/roncoo-education-web)|《领课教育》的前端门户系统。领课教育系统（roncoo-education）是基于领课网络多年的在线教育平台开发和运营经验打造出来的产品，致力于打造一个全行业都适用的分布式在线教育系统。|246|2021-08-12|
 |29|[Deja-vuuu/vue-ele](https://github.com/Deja-vuuu/vue-ele)|🥗🥗     vue教程 --- 从0-1高仿饿了么App |234|2021-12-08|
-|30|[pearmini/colorfu](https://github.com/pearmini/colorfu)|Make beautiful but also meaningful wallpapers with words, colors, patterns and images. 🌈|221|2021-12-27|
-|31|[lcomplete/TechShare](https://github.com/lcomplete/TechShare)|分享Java、.NET、Javascript、效率、软件工程、编程语言等技术知识。|199|2021-12-21|
+|30|[pearmini/colorfu](https://github.com/pearmini/colorfu)|Make beautiful but also meaningful wallpapers with words, colors, patterns and images. 🌈|222|2021-12-27|
+|31|[lcomplete/TechShare](https://github.com/lcomplete/TechShare)|分享Java、.NET、Javascript、效率、软件工程、编程语言等技术知识。|201|2021-12-21|
 |32|[wejectchen/Ginblog](https://github.com/wejectchen/Ginblog)|gin+vue+MySQL全栈制作一个博客|189|2021-12-25|
 |33|[eacdy/itmuch-miniapp](https://github.com/eacdy/itmuch-miniapp)|IT牧场小程序前端代码，使用mpvue + vant-weapp构建。本项目仅供教学使用，如果前端基础不好的同学，可以直接放弃。不影响Spring Cloud Alibaba的学习。|184|2021-08-11|
 |34|[alexwjj/alexwjj.github.io](https://github.com/alexwjj/alexwjj.github.io)|基于vuePress的博客，定期分享前端知识，求star|180|2021-12-14|
@@ -47,14 +47,14 @@
 |40|[cadecode/vuepress-theme-2zh](https://github.com/cadecode/vuepress-theme-2zh)|VuePress 博客主题插件|128|2021-11-13|
 |41|[LeachZhou/blog](https://github.com/LeachZhou/blog)|正在开发中...记录技术的新博客，采用Vue3开发，使用GitHub API进行数据交互|120|2021-08-17|
 |42|[wenqiii/vue-redbk](https://github.com/wenqiii/vue-redbk)|vue仿小红书个人开源项目|117|2021-08-11|
-|43|[sweida/vue-blog-index](https://github.com/sweida/vue-blog-index)|laravel+vue 个人博客，项目地址：http://www.golang365.com|114|2021-11-29|
-|44|[NolanGit/PersonalHomepage](https://github.com/NolanGit/PersonalHomepage)|使用Vue.js、Element UI作为前端，Python、Flask提供后端接口的一个前后端分离的导航页。Keywords：导航 主页 天气 书签 便签 翻译 苹果商店 App Store 价格监控 黄金 股票 基金 必应壁纸 热门新闻聚合 爬虫 网盘 图床 权限管理 短链接生成 异步脚本运行|113|2021-12-30|
-|45|[asiL-tcefreP/blog-vue](https://github.com/asiL-tcefreP/blog-vue)|blog Front-end（个人博客前端服务器）（基于Vue+Springboot+mybatisplus+SpringCloud+ELK等框架实现） 创作不易，如果可以，请帮忙star一下，谢谢！|107|2021-06-26|
+|43|[NolanGit/PersonalHomepage](https://github.com/NolanGit/PersonalHomepage)|使用Vue.js、Element UI作为前端，Python、Flask提供后端接口的一个前后端分离的导航页。Keywords：导航 主页 天气 书签 便签 翻译 苹果商店 App Store 价格监控 黄金 股票 基金 必应壁纸 热门新闻聚合 爬虫 网盘 图床 权限管理 短链接生成 异步脚本运行|114|2021-12-30|
+|44|[sweida/vue-blog-index](https://github.com/sweida/vue-blog-index)|laravel+vue 个人博客，项目地址：http://www.golang365.com|114|2021-11-29|
+|45|[asiL-tcefreP/blog-vue](https://github.com/asiL-tcefreP/blog-vue)|blog Front-end（个人博客前端服务器）（基于Vue+Springboot+mybatisplus+SpringCloud+ELK等框架实现） 创作不易，如果可以，请帮忙star一下，谢谢！|108|2021-06-26|
 |46|[gywgithub/vue-d3-examples](https://github.com/gywgithub/vue-d3-examples)|vue d3 examples|104|2021-12-26|
-|47|[stacklens/django-vue-tutorial](https://github.com/stacklens/django-vue-tutorial)|用 django-rest-framework 和 vue 搭建前后端分离的个人博客|102|2021-10-22|
+|47|[stacklens/django-vue-tutorial](https://github.com/stacklens/django-vue-tutorial)|用 django-rest-framework 和 vue 搭建前后端分离的个人博客|101|2021-10-22|
 |48|[naihe138/naice-blog](https://github.com/naihe138/naice-blog)|😺   新的博客上线啦|96|2021-12-01|
 |49|[NightCatSama/NightCat](https://github.com/NightCatSama/NightCat)|个人博客，技术栈：NodeJS + Express + mongoose + GraphQL + Vue 全家桶|96|2021-09-24|
-|50|[imoyao/idealyard](https://github.com/imoyao/idealyard)|使用 Vue 和 Flask 搭建前后端分离的 RESTful 个人博客|92|2021-11-29|
+|50|[imoyao/idealyard](https://github.com/imoyao/idealyard)|使用 Vue 和 Flask 搭建前后端分离的 RESTful 个人博客|93|2021-11-29|
 |51|[niefy/wx-client](https://github.com/niefy/wx-client)|微信公众号接口wx-api前端示例项目，包含微信登录、微信分享、CMS文章示例功能|87|2021-10-06|
 |52|[githubWj07/supermall](https://github.com/githubWj07/supermall)|学习codewhy老师，a vuejs supermall|85|2021-10-06|
 |53|[carrieguo/vue.js-todolist](https://github.com/carrieguo/vue.js-todolist)|这是一个为了学习vue和webpack实现的一个todo-list demo|85|2021-06-16|
@@ -88,7 +88,7 @@
 |81|[fengziye/Gblog](https://github.com/fengziye/Gblog)|一款nice的基于 vue 的博客模板|42|2021-10-06|
 |82|[Kelichao/vue.js.2.0](https://github.com/Kelichao/vue.js.2.0)|针对vue2.0版本，以及关于MVVM框架学习，使用中的总结，附带backbone.js框架的思想与使用方法做使用记录，以及去年学过的backbone相关MVC框架学习总结与demo笔记思想设计模式 20170-01-12|41|2021-10-06|
 |83|[Newway1997/book_mng_sys_2019](https://github.com/Newway1997/book_mng_sys_2019)|基于后端SSM框架和前端Vue+Element-UI的图书管理系统|40|2021-12-14|
-|84|[JabinPeng/pengBlog](https://github.com/JabinPeng/pengBlog)|个人博客完全开放代码，更新中+++|38|2021-09-02|
+|84|[JabinPeng/pengBlog](https://github.com/JabinPeng/pengBlog)|个人博客完全开放代码，更新中+++|39|2021-09-02|
 |85|[LightSmileY/DressUp](https://github.com/LightSmileY/DressUp)|妆瓣-一个化妆学习与分享的社交平台。网站Vue+Element，微信小程序mpvue，  管理系统Vue+iview，  服务端Spring Boot+MySQL。|38|2021-10-05|
 |86|[chenstarx/vuecabulary](https://github.com/chenstarx/vuecabulary)|用Vue写的高效背单词App，方法来自《17天搞定GRE单词》|37|2021-10-06|
 |87|[tqq123/Vue-Koa2-MongoDB](https://github.com/tqq123/Vue-Koa2-MongoDB)|基于Vue+Koa2+MongoDB的商城，前端UI采用有赞的Vant组件库，后端采用Koa2，数据库使用MongoDB。难度不大，主要供大家初学Vue全栈参考学习|37|2021-07-20|
@@ -98,12 +98,12 @@
 |91|[ialmost/almost-components_uniapp](https://github.com/ialmost/almost-components_uniapp)|uni-app 使用的多端组件集合，支持APP、H5、小程序|34|2021-11-29|
 |92|[CrazyMrYan/blog](https://github.com/CrazyMrYan/blog)|使用vitepress+vue3来创作的一个博客，带有 Gitalk 评论，暗黑模式，局部打印等功能|33|2021-12-31|
 |93|[dollars0427/vue-booklet](https://github.com/dollars0427/vue-booklet)|Vue compoment for create a e-book|33|2021-12-24|
-|94|[eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)|大千世界，何其茫茫。谨此笔记，记录过往。凭君阅览，小站洛荒。如能收益，莫大奢望|32|2021-12-30|
+|94|[eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)|大千世界，何其茫茫。谨此笔记，记录过往。凭君阅览，小站洛荒。如能收益，莫大奢望|32|2022-01-01|
 |95|[pwx123/shop-store-client](https://github.com/pwx123/shop-store-client)|网上书店商城-前端|32|2021-08-10|
-|96|[AsheOne18/VueDocs](https://github.com/AsheOne18/VueDocs)|和小伙伴的Blog，记录一些学习|31|2021-12-31|
+|96|[AsheOne18/VueDocs](https://github.com/AsheOne18/VueDocs)|和小伙伴的Blog，记录一些学习|31|2022-01-01|
 |97|[Sujb-sus/vue-node-mongodb-blog](https://github.com/Sujb-sus/vue-node-mongodb-blog)|vue + node + mongodb + webpack5 + koa2 从开发到上线搭建一款简约的个人博客系统（前后端分离）|30|2021-12-22|
-|98|[0xcaffebabe/note](https://github.com/0xcaffebabe/note)|📝个人知识框架 算法与数据结构 / 操作系统 / 数据库 / 计算机系统 / 网络 / 中间件 / Java / 架构 / 前端 / 运维 / 网络安全|30|2021-12-31|
-|99|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|29|2021-12-31|
+|98|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|30|2021-12-31|
+|99|[0xcaffebabe/note](https://github.com/0xcaffebabe/note)|📝个人知识框架 算法与数据结构 / 操作系统 / 数据库 / 计算机系统 / 网络 / 中间件 / Java / 架构 / 前端 / 运维 / 网络安全|30|2021-12-31|
 |100|[Peachick/fontend2](https://github.com/Peachick/fontend2)|接上一个前端教程的前端页面,运用Node(Express)、Vue、ElementUI、iViewUI等等开发的综合网站|29|2021-11-29|
 
 <div align="center">

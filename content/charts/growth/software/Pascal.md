@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -23,7 +23,7 @@
 |16|[ymofen/diocp-v5](https://github.com/ymofen/diocp-v5)|delphi iocp, http, websocket, ntrip|204|0|2021-11-16|
 |17|[pmiscn/MuObjectPool](https://github.com/pmiscn/MuObjectPool)|我用的delphi的公共库|5|0|2021-11-22|
 |18|[axpokl/midiplayer3-for-BLACK-MIDI](https://github.com/axpokl/midiplayer3-for-BLACK-MIDI)|Free Pascal midiplayer3 for Black MIDI by ax_pokl|10|0|2021-12-31|
-|19|[dbyoung720/PBox](https://github.com/dbyoung720/PBox)|The modular development platform based on DLL Form|35|0|2021-12-28|
+|19|[dbyoung720/PBox](https://github.com/dbyoung720/PBox)|The modular development platform based on DLL Form|35|0|2021-12-31|
 |20|[PassByYou888/zGameWare](https://github.com/PassByYou888/zGameWare)|-|19|0|2021-09-22|
 |21|[PassByYou888/zSound](https://github.com/PassByYou888/zSound)|zSound Engine for All Platform(Android,IOS,OSX,Windows),supported delphi VCL/delphi FMX/fpc|26|0|2021-09-21|
 |22|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker for Windows|30|0|2021-12-14|
@@ -37,7 +37,7 @@
 |30|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|30|0|2021-12-14|
 |31|[dbyoung720/ImageGray](https://github.com/dbyoung720/ImageGray)|MMX/SSE/SSE2/SSE4/AVX/AVX2/AVX512 optimization|12|0|2021-12-29|
 |32|[ying32/DDNRuntime-examples](https://github.com/ying32/DDNRuntime-examples)|DDNRuntime(Delphi .NET Framework/.NET Core Runtime) example. DDNRuntime is a library for Delphi to call .net dll. Support the assembly written by c#, vb.net. Support importing .net dll to delphi, can  ...|12|0|2021-12-10|
-|33|[GerryFerdinandus/bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor)|Software for add or remove tracker from torrent files.|392|0|2021-12-03|
+|33|[GerryFerdinandus/bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor)|Software for add or remove tracker from torrent files.|393|0|2021-12-03|
 |34|[laciba96/WinBox-for-86Box](https://github.com/laciba96/WinBox-for-86Box)|WinBox for 86Box: The newest way to manage the oldest computers.|57|0|2021-12-25|
 |35|[coder163/DesignPatternForDelphi](https://github.com/coder163/DesignPatternForDelphi)|网络上流传的设计模式多以Java、C++语言描述，用Delphi描述的资源几乎为零，特此整理|3|0|2021-11-21|
 |36|[dbyoung720/ADOS](https://github.com/dbyoung720/ADOS)|给鼠标右键添加 "在此处打开命令窗口(管理员)" 菜单|2|0|2021-10-28|

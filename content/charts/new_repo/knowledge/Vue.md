@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 资料类 > Vue
-<sub>数据更新: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[GeekQiaQia/vue3.0-template-admin](https://github.com/GeekQiaQia/vue3.0-template-admin)|本项目基于vue3+ElementPlus+Typescript+Vite搭建一套通用的后台管理模板；并基于常见业务场景，抽象出常见功能组件；包括动态菜单，菜单权限、登录、主题切换、国际化、个人中心、表单页、列表页、复制文本、二维码分享等等|410|2021-12-31|2021-04-25|
-|2|[asiL-tcefreP/blog-vue](https://github.com/asiL-tcefreP/blog-vue)|blog Front-end（个人博客前端服务器）（基于Vue+Springboot+mybatisplus+SpringCloud+ELK等框架实现） 创作不易，如果可以，请帮忙star一下，谢谢！|107|2021-06-26|2021-02-11|
+|1|[GeekQiaQia/vue3.0-template-admin](https://github.com/GeekQiaQia/vue3.0-template-admin)|本项目基于vue3+ElementPlus+Typescript+Vite搭建一套通用的后台管理模板；并基于常见业务场景，抽象出常见功能组件；包括动态菜单，菜单权限、登录、主题切换、国际化、个人中心、表单页、列表页、复制文本、二维码分享等等|411|2021-12-31|2021-04-25|
+|2|[asiL-tcefreP/blog-vue](https://github.com/asiL-tcefreP/blog-vue)|blog Front-end（个人博客前端服务器）（基于Vue+Springboot+mybatisplus+SpringCloud+ELK等框架实现） 创作不易，如果可以，请帮忙star一下，谢谢！|108|2021-06-26|2021-02-11|
 |3|[xiaopenggithub/zindle](https://github.com/xiaopenggithub/zindle)|本系统zindle是使用go-zero开发的一个完整的全端系统，基于官方的bookstore案例情景开发。后台功能包括权限角色管理、菜单管理等企业系统必备模块，在此基础上，很方便的进行业务开发。|81|2021-06-07|2021-05-24|
 |4|[ezshine/uniapp-unicloud-dnms](https://github.com/ezshine/uniapp-unicloud-dnms)|一个基于uniapp和unicloud开发的以书会友小程序|77|2021-08-27|2021-08-12|
 |5|[vuepress-aurora/vuepress-theme-aurora](https://github.com/vuepress-aurora/vuepress-theme-aurora)|🔥Aurora是一款基于Vuepress2的博客主题，将本地Markdown文件解析成静态html页面，作为博客文章。搭配说说，时间轴，文章分类，评论，友情链接，相册，音乐播放器等特色功能，给您不一样的使用体验。|71|2021-12-28|2021-09-04|
@@ -16,10 +16,10 @@
 |9|[Renovamen/Fishmail](https://github.com/Renovamen/Fishmail)|奇怪的摸鱼工具增加了：装作在 Gmail 上查邮件的样子看知乎摸鱼，从而降低我上班摸鱼时的不安全感|46|2021-09-27|2021-01-09|
 |10|[CoderWanp/vue-d3-graph](https://github.com/CoderWanp/vue-d3-graph)|vue+d3v6实现动态知识图谱可视化展示（包含2D和3D图谱展示）|42|2021-07-27|2021-04-07|
 |11|[LIAOJIANS/ShanJ-blog](https://github.com/LIAOJIANS/ShanJ-blog)|一款用node+express+MongoDB Vue+elementUI 开发的开源博客|34|2021-10-26|2021-03-11|
-|12|[eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)|大千世界，何其茫茫。谨此笔记，记录过往。凭君阅览，小站洛荒。如能收益，莫大奢望|32|2021-12-30|2021-05-24|
-|13|[AsheOne18/VueDocs](https://github.com/AsheOne18/VueDocs)|和小伙伴的Blog，记录一些学习|31|2021-12-31|2021-10-11|
+|12|[eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)|大千世界，何其茫茫。谨此笔记，记录过往。凭君阅览，小站洛荒。如能收益，莫大奢望|32|2022-01-01|2021-05-24|
+|13|[AsheOne18/VueDocs](https://github.com/AsheOne18/VueDocs)|和小伙伴的Blog，记录一些学习|31|2022-01-01|2021-10-11|
 |14|[Sujb-sus/vue-node-mongodb-blog](https://github.com/Sujb-sus/vue-node-mongodb-blog)|vue + node + mongodb + webpack5 + koa2 从开发到上线搭建一款简约的个人博客系统（前后端分离）|30|2021-12-22|2021-08-31|
-|15|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|29|2021-12-31|2021-08-22|
+|15|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|30|2021-12-31|2021-08-22|
 |16|[toimc-team/front-end-notes](https://github.com/toimc-team/front-end-notes)|大前端课程电子书计划，前端知识总结 + 分享|26|2021-07-08|2021-04-16|
 |17|[SSmJaE/XueXiTonsSign_Electron](https://github.com/SSmJaE/XueXiTonsSign_Electron)|基于Electron的超星学习通签到小工具，支持手动签到、签到队列自动签到|24|2021-11-02|2021-04-19|
 |18|[Benbinbin/TagDown](https://github.com/Benbinbin/TagDown)|A bookmarks manager Chrome extension.|24|2021-10-24|2021-01-12|
@@ -30,9 +30,9 @@
 |23|[hyw123456/gugu](https://github.com/hyw123456/gugu)|咕咕语翻译器|15|2021-12-15|2021-12-15|
 |24|[lvwzhen/hn](https://github.com/lvwzhen/hn)|河南暴雨救援手册|14|2021-07-23|2021-07-21|
 |25|[rainforest2022/rainforest-blog-frontend](https://github.com/rainforest2022/rainforest-blog-frontend)|使用 Vue3 Vue-Router Vuex 和 Element Plus 编写的博客|13|2021-10-12|2021-03-30|
-|26|[OldsixShang/wechat-menu-editor](https://github.com/OldsixShang/wechat-menu-editor)|微信公众号自定义菜单编辑组建|11|2021-09-07|2021-08-30|
-|27|[thisCliche/crawlerOpen](https://github.com/thisCliche/crawlerOpen)|适合新手入门实战项目，Vue 2.x + Vue-Router + Element + Axios 开发的简单后台管理系统|11|2021-06-08|2021-04-20|
-|28|[daodaolee/vuepress-plugin-awesome-musicplayer](https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer)|一款基于vuepress插件的音乐播放器，打破以往博客音乐播放方式，让用户有更佳的沉浸式体验！|10|2021-12-29|2021-12-23|
+|26|[daodaolee/vuepress-plugin-awesome-musicplayer](https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer)|一款基于vuepress插件的音乐播放器，打破以往博客音乐播放方式，让用户有更佳的沉浸式体验！|11|2021-12-29|2021-12-23|
+|27|[OldsixShang/wechat-menu-editor](https://github.com/OldsixShang/wechat-menu-editor)|微信公众号自定义菜单编辑组建|11|2021-09-07|2021-08-30|
+|28|[thisCliche/crawlerOpen](https://github.com/thisCliche/crawlerOpen)|适合新手入门实战项目，Vue 2.x + Vue-Router + Element + Axios 开发的简单后台管理系统|11|2021-06-08|2021-04-20|
 |29|[mcwenzai/psychology-uniapp](https://github.com/mcwenzai/psychology-uniapp)|心理咨询uniapp，主要包括咨询、视频/音频图文课程、测评、预约咨询师、IM通讯等功能|10|2021-07-23|2021-07-23|
 |30|[sibaiabis/veet](https://github.com/sibaiabis/veet)|vue3+electron+element-plus+ts手把手搭建教程---源码|10|2021-12-26|2021-04-21|
 |31|[Junvary/gin-quasar-admin](https://github.com/Junvary/gin-quasar-admin)|项目可通过一套代码快速简单的配置出不同的个性化网站，并通过插件形式开发个性化逻辑。实现和集成了众多功能，如消息管理、用户管理、角色管理、部门管理、数据权限、websocket、聊天室、字典管理等。同时也是Quasar和Go的入门和学习佳品。|9|2021-12-30|2021-10-25|

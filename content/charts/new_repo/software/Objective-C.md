@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > Objective-C
-<sub>数据更新: 2022-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -20,15 +20,15 @@
 |13|[HansenCCC/KKQuickDraw](https://github.com/HansenCCC/KKQuickDraw)|iOS实现HTML H5秒开、拦截请求替换资源、优化HTML加载速度|46|2021-08-25|2021-05-17|
 |14|[FoneG/FGIAPService](https://github.com/FoneG/FGIAPService)|iap内购实现解决方案|46|2021-12-07|2021-05-14|
 |15|[Tliens/KillBug](https://github.com/Tliens/KillBug)|通过runtime记录用户日志，获取复现步骤的工具。Collect user data, guess repeat steps, and detect bugs.|46|2021-11-15|2021-03-29|
-|16|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|45|2021-12-27|2021-03-08|
+|16|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|46|2021-12-27|2021-03-08|
 |17|[LZRight123/KPAppMananger](https://github.com/LZRight123/KPAppMananger)|静默安装，卸载，打开APP，进程通信，后台保护|37|2021-08-16|2021-08-13|
 |18|[bayescom/EasyAds-iOS](https://github.com/bayescom/EasyAds-iOS)|🔥持续更新🔥EasyAds，全球热门的开源聚合SDK广告软件。帮助App开发者便捷接入国内多家主流广告 SDK包括：字节穿山甲、腾讯优量汇、百度百青藤、快手联盟。几行代码就可以快速实现开屏、Banner横幅、插屏、激励视频、原生信息流、全屏等广告形式。|36|2021-12-22|2021-11-22|
 |19|[Danonlylane/goodhouse](https://github.com/Danonlylane/goodhouse)|Flutter好客租房项目，模仿安居客APP页面编写的一款静态页面项目|31|2021-10-11|2021-07-25|
 |20|[YOrange834/YOECGChartView](https://github.com/YOrange834/YOECGChartView)|心电图(ECG)|22|2021-07-31|2021-06-03|
 |21|[OpenIMSDK/Open-IM-SDK-Uniapp](https://github.com/OpenIMSDK/Open-IM-SDK-Uniapp)|-|17|2021-12-17|2021-08-26|
 |22|[coderFrankenstain/WJSimilarPhotos](https://github.com/coderFrankenstain/WJSimilarPhotos)|基于OpenCV快速筛选IOS相册中相似的图片|17|2021-08-26|2021-06-03|
-|23|[sonsongithub/museum2tch](https://github.com/sonsongithub/museum2tch)|2tch博物館|16|2021-09-18|2021-09-17|
-|24|[FlutterAds/flutter_gromore_ads](https://github.com/FlutterAds/flutter_gromore_ads)|🔥🔥🔥 Flutter 广告插件 -- GroMore、穿山甲、优量汇、百度、快手、AdMob、SigmobAd、UnityAds、Mintegral（支持开屏、插屏、激励视频、全屏视频、Banner）|14|2021-12-25|2021-11-26|
+|23|[FlutterAds/flutter_gromore_ads](https://github.com/FlutterAds/flutter_gromore_ads)|🔥🔥🔥 Flutter 广告插件 -- GroMore、穿山甲、优量汇、百度、快手、AdMob、SigmobAd、UnityAds、Mintegral（支持开屏、插屏、激励视频、全屏视频、Banner）|16|2021-12-25|2021-11-26|
+|24|[sonsongithub/museum2tch](https://github.com/sonsongithub/museum2tch)|2tch博物館|16|2021-09-18|2021-09-17|
 |25|[pianxian/alphaVideoPlayTool](https://github.com/pianxian/alphaVideoPlayTool)|透明视频播放工具类|13|2021-08-27|2021-03-06|
 |26|[DataFlux-cn/datakit-ios](https://github.com/DataFlux-cn/datakit-ios)|-|12|2021-12-22|2021-05-31|
 |27|[pilaf-king/SwiftVTHook](https://github.com/pilaf-king/SwiftVTHook)|基于Swift虚函数表的hook方案（无需dynamic，但是Swift编译优化需要修改为None）|12|2021-11-17|2021-03-03|
