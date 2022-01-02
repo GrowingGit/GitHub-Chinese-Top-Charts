@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Pascal
-<sub>数据更新: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|423|2021-12-13|
+|1|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|424|2022-01-02|
 |2|[GerryFerdinandus/bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor)|Software for add or remove tracker from torrent files.|393|2021-12-03|
 |3|[royqh1979/Dev-CPP](https://github.com/royqh1979/Dev-CPP)|A lightweighted C/C++ IDE|298|2021-10-03|
 |4|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|259|2021-12-30|
-|5|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|232|2021-12-31|
+|5|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|232|2022-01-02|
 |6|[PassByYou888/ZServer4D](https://github.com/PassByYou888/ZServer4D)|ZServer4D 是一套从商业项目剥离而出的云服务器中间件，可以承载百万级的分布式负载服务，并且支持IoT及内网穿透|226|2021-11-06|
 |7|[ymofen/diocp-v5](https://github.com/ymofen/diocp-v5)|delphi iocp, http, websocket, ntrip|204|2021-11-16|
 |8|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|192|2021-12-06|
-|9|[digao-dalpiaz/DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|86|2021-11-22|
+|9|[digao-dalpiaz/DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|86|2022-01-02|
 |10|[digao-dalpiaz/Dam](https://github.com/digao-dalpiaz/Dam)|Delphi and Lazarus Message Dialogs with Formatted Text|71|2021-09-19|
 |11|[59079096/HCView-Pascal](https://github.com/59079096/HCView-Pascal)|A control similar to Word or WPS(一个类似word或wps用于文字排版相关功能的控件)|65|2021-12-26|
 |12|[ying32/liblcl](https://github.com/ying32/liblcl)|A common cross-platform GUI library, the core uses Lazarus LCL.|59|2021-10-31|
 |13|[PassByYou888/zAI](https://github.com/PassByYou888/zAI)|zAI是机器视觉的人工智能方向项目|59|2021-06-21|
-|14|[laciba96/WinBox-for-86Box](https://github.com/laciba96/WinBox-for-86Box)|WinBox for 86Box: The newest way to manage the oldest computers.|57|2021-12-25|
+|14|[laciba96/WinBox-for-86Box](https://github.com/laciba96/WinBox-for-86Box)|WinBox for 86Box: The newest way to manage the oldest computers.|57|2022-01-02|
 |15|[supersoho/Delphi-DirectUI](https://github.com/supersoho/Delphi-DirectUI)|Delphi DirectUI Controls|49|2021-08-23|
 |16|[59079096/emr](https://github.com/59079096/emr)|基于HCView开发的电子病历程序|37|2021-09-12|
 |17|[PassByYou888/zExpression](https://github.com/PassByYou888/zExpression)|脚本与编译器内部的语法引擎内核，也是一种op内核，zExpression可以轻松实现自己的脚本引擎|37|2021-09-21|

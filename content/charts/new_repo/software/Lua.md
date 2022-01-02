@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > Lua
-<sub>数据更新: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|352|2021-12-30|2021-06-19|
-|2|[linkease/istore](https://github.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|99|2021-12-21|2021-08-24|
+|1|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|354|2022-01-02|2021-06-19|
+|2|[linkease/istore](https://github.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|100|2021-12-21|2021-08-24|
 |3|[ryohuang/slim-wrt](https://github.com/ryohuang/slim-wrt)|Armor for Openwrt|66|2021-11-15|2021-02-20|
 |4|[FrSkyRC/ETHOS-Feedback-Community](https://github.com/FrSkyRC/ETHOS-Feedback-Community)|Feedbacks & suggestion are very appreciated on ETHOS of FrSky|56|2021-12-28|2021-03-09|
 |5|[bs10081/Rime-Cx330](https://github.com/bs10081/Rime-Cx330)|適配小鶴雙拼、全拼、五筆：支持部分中英混合輸入、Emoji輸入、簡繁轉換、傳承字標準字轉換、UTF-8 GBK編碼轉換、200萬詞庫覆蓋日常絕大多數場景。|47|2021-11-05|2021-01-27|
@@ -14,7 +14,7 @@
 |7|[iDvel/rime-settings](https://github.com/iDvel/rime-settings)|自用 Rime 配置|33|2022-01-01|2021-01-29|
 |8|[nybdech/skynet-qp-server](https://github.com/nybdech/skynet-qp-server)|一个基于skynet的棋牌游戏服务端，也可以作为其他类型的游戏服务端|25|2021-09-23|2021-09-15|
 |9|[h-hg/fcitx.nvim](https://github.com/h-hg/fcitx.nvim)|A Neovim plugin writing in Lua to switch and restore fcitx state for each buffer.|18|2021-12-11|2021-09-19|
-|10|[zhang-changwei/Automation-scripts-for-Aegisub](https://github.com/zhang-changwei/Automation-scripts-for-Aegisub)|A few automation scripts for Aegisub|17|2022-01-01|2021-02-09|
+|10|[zhang-changwei/Automation-scripts-for-Aegisub](https://github.com/zhang-changwei/Automation-scripts-for-Aegisub)|A few automation scripts for Aegisub|18|2022-01-01|2021-02-09|
 |11|[njcx/nginx_dump](https://github.com/njcx/nginx_dump)|该工具用于把Openresty(Nginx+Lua) 请求参数和响应 dump出来，用于旁路HTTP流量分析、风控、资产识别、API数据泄露等等|16|2021-07-08|2021-06-18|
 |12|[EtherProject/EtherWorkCollection](https://github.com/EtherProject/EtherWorkCollection)|EtherEngine 作品集|16|2021-09-04|2021-02-01|
 |13|[HahahaVal/easy_game](https://github.com/HahahaVal/easy_game)|一个基于skynet的简单服务器框架|13|2021-11-12|2021-01-07|
@@ -23,17 +23,17 @@
 |16|[Eatsolx/nvim-lua](https://github.com/Eatsolx/nvim-lua)|基于nvchad的配置|9|2022-01-01|2021-10-02|
 |17|[d80x86/lua-resty-tofu](https://github.com/d80x86/lua-resty-tofu)|a modern api/web framework|9|2021-12-20|2021-08-23|
 |18|[opq-osc/authMS](https://github.com/opq-osc/authMS)|机器人充值管理系统|9|2021-07-23|2021-07-21|
-|19|[Muscipular/cgmsv-lua](https://github.com/Muscipular/cgmsv-lua)|cgmsv lua模块|9|2021-12-31|2021-06-30|
-|20|[musurca/IKE](https://github.com/musurca/IKE)|PBEM/hotseat multiplayer for Command: Modern Operations scenarios|9|2021-12-26|2021-02-02|
+|19|[Muscipular/cgmsv-lua](https://github.com/Muscipular/cgmsv-lua)|cgmsv lua模块|9|2022-01-02|2021-06-30|
+|20|[musurca/IKE](https://github.com/musurca/IKE)|PBEM/hotseat multiplayer for Command: Modern Operations scenarios|9|2022-01-02|2021-02-02|
 |21|[sg552/banana-waf](https://github.com/sg552/banana-waf)|非常简单好用的waf|8|2021-10-26|2021-10-26|
 |22|[k8scat/lua-resty-weauth](https://github.com/k8scat/lua-resty-weauth)|适用于 OpenResty / ngx_lua 的基于企业微信组织架构的登录认证|8|2021-11-24|2021-08-08|
 |23|[forleoshare/auto_use_treasure_map](https://github.com/forleoshare/auto_use_treasure_map)|梦幻西游自动挖宝，触动精灵开源脚本，适用设备1920x1080，需要root|8|2021-07-08|2021-07-05|
-|24|[N0zza/MappaMundi](https://github.com/N0zza/MappaMundi)|-|7|2021-12-31|2021-02-18|
+|24|[N0zza/MappaMundi](https://github.com/N0zza/MappaMundi)|-|7|2022-01-02|2021-02-18|
 |25|[copy0401/irime-bopomo-config](https://github.com/copy0401/irime-bopomo-config)|iRime 設定 新增注音輸入法 及 注音鍵盤主題|6|2021-12-22|2021-09-20|
 |26|[ZAA03/lua_action](https://github.com/ZAA03/lua_action)|一键签到，葫芦侠3楼，芥子空间|6|2021-08-27|2021-07-09|
 |27|[DreamAfar/Rime-IME-for-iOS-iRime](https://github.com/DreamAfar/Rime-IME-for-iOS-iRime)|这是个人的使用的iRime仓库，主要用于记录： iRime輸入法-   基于Rime输入法框架开发的iOS端Rime输入法|6|2021-07-05|2021-07-02|
 |28|[awesomeusername69420/meth_tools](https://github.com/awesomeusername69420/meth_tools)|Tools made for https://methamphetamine.solutions/|6|2021-12-29|2021-06-07|
-|29|[DeadlyBossMods/DBM-TBC-Classic](https://github.com/DeadlyBossMods/DBM-TBC-Classic)|The ultimate encounter helper (for TBC) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|6|2021-12-28|2021-04-01|
+|29|[DeadlyBossMods/DBM-TBC-Classic](https://github.com/DeadlyBossMods/DBM-TBC-Classic)|The ultimate encounter helper (for TBC) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|6|2022-01-01|2021-04-01|
 |30|[ASoulCnki/ASoulAnniversary](https://github.com/ASoulCnki/ASoulAnniversary)|OAuth Service provide by ASoulCnki(枝网)|5|2021-12-30|2021-11-29|
 |31|[yuanyan3060/Arknights-Bot-Resource](https://github.com/yuanyan3060/Arknights-Bot-Resource)|明日方舟bot常用素材|5|2021-12-30|2021-11-28|
 |32|[super-goodman/lua-script](https://github.com/super-goodman/lua-script)|lua 脚本|5|2021-11-25|2021-08-06|

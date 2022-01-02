@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 资料类 > Vue
-<sub>数据更新: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[asiL-tcefreP/blog-vue](https://github.com/asiL-tcefreP/blog-vue)|blog Front-end（个人博客前端服务器）（基于Vue+Springboot+mybatisplus+SpringCloud+ELK等框架实现） 创作不易，如果可以，请帮忙star一下，谢谢！|108|2021-06-26|2021-02-11|
 |3|[xiaopenggithub/zindle](https://github.com/xiaopenggithub/zindle)|本系统zindle是使用go-zero开发的一个完整的全端系统，基于官方的bookstore案例情景开发。后台功能包括权限角色管理、菜单管理等企业系统必备模块，在此基础上，很方便的进行业务开发。|81|2021-06-07|2021-05-24|
 |4|[ezshine/uniapp-unicloud-dnms](https://github.com/ezshine/uniapp-unicloud-dnms)|一个基于uniapp和unicloud开发的以书会友小程序|77|2021-08-27|2021-08-12|
-|5|[vuepress-aurora/vuepress-theme-aurora](https://github.com/vuepress-aurora/vuepress-theme-aurora)|🔥Aurora是一款基于Vuepress2的博客主题，将本地Markdown文件解析成静态html页面，作为博客文章。搭配说说，时间轴，文章分类，评论，友情链接，相册，音乐播放器等特色功能，给您不一样的使用体验。|71|2021-12-28|2021-09-04|
+|5|[vuepress-aurora/vuepress-theme-aurora](https://github.com/vuepress-aurora/vuepress-theme-aurora)|🔥Aurora是一款基于Vuepress2的博客主题，将本地Markdown文件解析成静态html页面，作为博客文章。搭配说说，时间轴，文章分类，评论，友情链接，相册，音乐播放器等特色功能，给您不一样的使用体验。|72|2021-12-28|2021-09-04|
 |6|[OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around)|自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。|65|2021-12-23|2021-05-19|
 |7|[Tit1e/kindle2Flomo](https://github.com/Tit1e/kindle2Flomo)|Kindle、Apple Books、微信读书书摘与笔记导入至 flomo|49|2021-12-19|2021-05-22|
 |8|[crudapi/crudapi-admin-web](https://github.com/crudapi/crudapi-admin-web)|crudapi增删改查接口零代码后台管理页面，框架采用Vue，控件库为Quasar， 形式为SPA单页面应用。 主要知识点：Vue基本知识，自定义组件，axios网络请求，Vuex状态管理，Router路由，本地存储LocalStorage、Session、Cookie，登录，本地调试，docker打包等。 主要功能：元数据管理，序列号管理，表关系设置，业务数据crud增删改查，数据导入导出等。|49|2021-12-30|2021-03-03|
@@ -30,7 +30,7 @@
 |23|[hyw123456/gugu](https://github.com/hyw123456/gugu)|咕咕语翻译器|15|2021-12-15|2021-12-15|
 |24|[lvwzhen/hn](https://github.com/lvwzhen/hn)|河南暴雨救援手册|14|2021-07-23|2021-07-21|
 |25|[rainforest2022/rainforest-blog-frontend](https://github.com/rainforest2022/rainforest-blog-frontend)|使用 Vue3 Vue-Router Vuex 和 Element Plus 编写的博客|13|2021-10-12|2021-03-30|
-|26|[daodaolee/vuepress-plugin-awesome-musicplayer](https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer)|一款基于vuepress插件的音乐播放器，打破以往博客音乐播放方式，让用户有更佳的沉浸式体验！|11|2021-12-29|2021-12-23|
+|26|[daodaolee/vuepress-plugin-awesome-musicplayer](https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer)|一款基于vuepress插件的音乐播放器，打破以往博客音乐播放方式，让用户有更佳的沉浸式体验！|12|2021-12-29|2021-12-23|
 |27|[OldsixShang/wechat-menu-editor](https://github.com/OldsixShang/wechat-menu-editor)|微信公众号自定义菜单编辑组建|11|2021-09-07|2021-08-30|
 |28|[thisCliche/crawlerOpen](https://github.com/thisCliche/crawlerOpen)|适合新手入门实战项目，Vue 2.x + Vue-Router + Element + Axios 开发的简单后台管理系统|11|2021-06-08|2021-04-20|
 |29|[mcwenzai/psychology-uniapp](https://github.com/mcwenzai/psychology-uniapp)|心理咨询uniapp，主要包括咨询、视频/音频图文课程、测评、预约咨询师、IM通讯等功能|10|2021-07-23|2021-07-23|
@@ -40,7 +40,7 @@
 |33|[Panyue-genkiyo/vue3-learning](https://github.com/Panyue-genkiyo/vue3-learning)|学习vue3.0的基础代码|8|2021-10-14|2021-10-12|
 |34|[jones2000/HQChart-Super](https://github.com/jones2000/HQChart-Super)|HQChart对接第3放数据教程.|8|2021-11-17|2021-10-11|
 |35|[caiheping/vue-cms](https://github.com/caiheping/vue-cms)|vue-cms是一个中后台系统，后端主要由node(egg.js)，MySQL，JWT，Sequelize，前端主要由vue全家桶，elementUI编写的通用后台管理系统，暂时功能包括用户鉴权，用户管理，角色管理，菜单管理，博客管理等等。|8|2021-09-27|2021-01-08|
-|36|[scriptscat/scriptlist-frontend](https://github.com/scriptscat/scriptlist-frontend)|脚本猫脚本站前端页面，与世界分享你的脚本|7|2021-12-30|2021-06-06|
+|36|[scriptscat/scriptlist-frontend](https://github.com/scriptscat/scriptlist-frontend)|脚本猫脚本站前端页面，与世界分享你的脚本|7|2022-01-02|2021-06-06|
 |37|[syzdev/vv-blog](https://github.com/syzdev/vv-blog)|😋 一个用Vue写的简单博客|7|2021-11-10|2021-02-28|
 |38|[DiF1202/vue3.0_music](https://github.com/DiF1202/vue3.0_music)|因为本人超级喜欢听音乐，尤其喜欢网易云，所想开发一个音乐播放器，仅学习使用无任何商业用处，代码开源，若有问题可以多多交流。|6|2021-10-14|2021-09-15|
 |39|[zb2313/DB-frontend](https://github.com/zb2313/DB-frontend)|同济大学2019级数据库课程设计项目|6|2021-09-11|2021-06-04|

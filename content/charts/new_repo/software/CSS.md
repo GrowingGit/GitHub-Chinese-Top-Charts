@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > CSS
-<sub>数据更新: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[fingerchar/fingernft](https://github.com/fingerchar/fingernft)|FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。|704|2021-12-29|2021-11-21|
+|1|[fingerchar/fingernft](https://github.com/fingerchar/fingernft)|FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。|719|2021-12-29|2021-11-21|
 |2|[admin360bug/PHP](https://github.com/admin360bug/PHP)|PHP训练靶场|577|2021-08-04|2021-08-04|
-|3|[cool-team-official/cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue)|cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 2.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建|560|2021-12-18|2021-02-27|
+|3|[cool-team-official/cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue)|cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 2.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建|561|2021-12-18|2021-02-27|
 |4|[phith0n/conote-community](https://github.com/phith0n/conote-community)|Conote 综合安全测试平台社区版。|285|2021-12-09|2021-12-09|
 |5|[Lavender-z/demo](https://github.com/Lavender-z/demo)|每天一个有趣的前端案例|187|2021-06-07|2021-02-09|
 |6|[SiJiDo/H](https://github.com/SiJiDo/H)|H是一款强大的资产收集管理平台|175|2021-12-29|2021-09-10|
 |7|[qq8e/qq](https://github.com/qq8e/qq)|8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多|163|2021-11-05|2021-02-06|
 |8|[vanyouseea/o365](https://github.com/vanyouseea/o365)|O365管理系统是一个以java语言开发的基于Microsoft Graph Restful API的多全局管理系统，理论上支持任何Office全局的管理(A1,A3,A1P,E3,E5等)，你可以很方便的使用它来批量添加，批量删除，批量启用，批量禁用，搜索和查看用户，生成邀请码，邀请朋友注册，提升和收回管理员权限，更新密钥，查看订阅，分配订阅(创新用户时)，查看多全局报告|146|2021-12-11|2021-04-22|
 |9|[xiangjianan/lks](https://github.com/xiangjianan/lks)|🔗 B站博主 -LKs- 网站推荐 🔗|133|2021-12-26|2021-03-02|
-|10|[ChisBread/transmission_skip_patch](https://github.com/ChisBread/transmission_skip_patch)|为transmission v3.0 增加 "快速校验" 功能|106|2022-01-01|2021-09-04|
+|10|[ChisBread/transmission_skip_patch](https://github.com/ChisBread/transmission_skip_patch)|为transmission v3.0 增加 "快速校验" 功能|109|2022-01-01|2021-09-04|
 |11|[GoneTone/genshin-impact-wish-gacha-analyzer](https://github.com/GoneTone/genshin-impact-wish-gacha-analyzer)|原神祈願卡池分析 Genshin Impact Wish Gacha Analyzer   A utility for analyzing gacha history, where all data and numbers are well-organized in a convenient manner!|91|2021-12-31|2021-03-05|
-|12|[BobCoderS9/SSPanel-Metron](https://github.com/BobCoderS9/SSPanel-Metron)|SSPanel-Metron主题，目前由@Bobs9维护开发中。|76|2021-12-31|2021-06-24|
+|12|[BobCoderS9/SSPanel-Metron](https://github.com/BobCoderS9/SSPanel-Metron)|SSPanel-Metron主题，目前由@Bobs9维护开发中。|77|2022-01-02|2021-06-24|
 |13|[q19980722/Typora-theme-jiaran](https://github.com/q19980722/Typora-theme-jiaran)|-|71|2021-12-08|2021-09-16|
 |14|[eysp/public](https://github.com/eysp/public)|portainer-ce 汉化文件|70|2021-10-20|2021-02-06|
 |15|[afi-team/website](https://github.com/afi-team/website)|蚂蚁前端基础设施团队（Ant Frontend Infrastructure）官方网站|69|2021-09-13|2021-02-15|
@@ -35,11 +35,11 @@
 |28|[NiceSprite34/GuanDong_Portal](https://github.com/NiceSprite34/GuanDong_Portal)|天翼校园 PHP登录|26|2021-11-18|2021-01-17|
 |29|[Nacandev/Ohmine-Dark-Theme-For-Joplin](https://github.com/Nacandev/Ohmine-Dark-Theme-For-Joplin)|This is a custom CSS theme for the opensource note-taking app Joplin.|24|2021-12-31|2021-09-14|
 |30|[jasonLaw1015/GfEasyAdmin](https://github.com/jasonLaw1015/GfEasyAdmin)|快速crud开发框架，甚至于一行代码不用敲；自动根据数据库表结构自动生成crud代码；低代码开发框架；至少减少百分90%工作量；可快速把现有系统转成GfEasy版本；后端使用GoFrame开发;后台前端使用 cool-admin-vue；后台使用自适应布局，手机、PC完美使用。|24|2021-12-09|2021-09-02|
-|31|[actions-cool/cool](https://github.com/actions-cool/cool)|😎 Cool is over. 酷就完事了。https://actions-cool.github.io/cool/|24|2021-12-29|2021-02-05|
+|31|[actions-cool/cool](https://github.com/actions-cool/cool)|😎 Cool is over. 酷就完事了。https://actions-cool.github.io/cool/|24|2022-01-02|2021-02-05|
 |32|[didiaohu/50projects50days](https://github.com/didiaohu/50projects50days)|50个项目50天|23|2021-07-17|2021-07-17|
-|33|[mingluosunyi/typora-theme-ava-diana](https://github.com/mingluosunyi/typora-theme-ava-diana)|-|19|2021-09-22|2021-09-11|
-|34|[zhuozhiyongde/PKU-Art](https://github.com/zhuozhiyongde/PKU-Art)|一个对北大教学网、编程网格等北大相关网站的CSS美化样式|18|2021-12-08|2021-11-27|
-|35|[nuanxinqing123/HomeNavigation](https://github.com/nuanxinqing123/HomeNavigation)|动态个人导航程序|18|2021-12-13|2021-11-16|
+|33|[zhuozhiyongde/PKU-Art](https://github.com/zhuozhiyongde/PKU-Art)|一个对北大教学网、编程网格等北大相关网站的CSS美化样式|19|2021-12-08|2021-11-27|
+|34|[nuanxinqing123/HomeNavigation](https://github.com/nuanxinqing123/HomeNavigation)|动态个人导航程序|19|2021-12-13|2021-11-16|
+|35|[mingluosunyi/typora-theme-ava-diana](https://github.com/mingluosunyi/typora-theme-ava-diana)|-|19|2021-09-22|2021-09-11|
 |36|[bdbdbdsbd/small_fontend_project](https://github.com/bdbdbdsbd/small_fontend_project)|-|18|2021-08-14|2021-07-22|
 |37|[Arcucy/Likey](https://github.com/Arcucy/Likey)|A community that works for anyone, any creation|18|2021-11-01|2021-02-20|
 |38|[scopion/security_test_guide](https://github.com/scopion/security_test_guide)|安全测试导论|17|2021-12-16|2021-09-30|

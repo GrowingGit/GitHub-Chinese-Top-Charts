@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Kotlin
-<sub>数据更新: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|26678|2021-12-27|
-|2|[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool)|Android开发人员不得不收集的工具类集合   支付宝支付   微信支付（统一下单）   微信分享   Zip4j压缩（支持分卷压缩与加密）   一键集成UCrop选择圆形头像   一键集成二维码和条形码的扫描与生成   常用Dialog   WebView的封装可播放视频   仿斗鱼滑动验证码   Toast封装   震动   GPS   Location定位   图片缩放   Exif 图片 ...|11584|2021-12-27|
+|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|26680|2021-12-27|
+|2|[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool)|Android开发人员不得不收集的工具类集合   支付宝支付   微信支付（统一下单）   微信分享   Zip4j压缩（支持分卷压缩与加密）   一键集成UCrop选择圆形头像   一键集成二维码和条形码的扫描与生成   常用Dialog   WebView的封装可播放视频   仿斗鱼滑动验证码   Toast封装   震动   GPS   Location定位   图片缩放   Exif 图片 ...|11585|2021-12-27|
 |3|[CarGuo/GSYGithubAppKotlin](https://github.com/CarGuo/GSYGithubAppKotlin)|超完整的Android Kotlin 项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：目前已经拥有Flutter、Weex、ReactNative、Kotlin四个版本。 功能齐全，项目框架内技术涉及面广，完成度高。开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ(￣。￣ﾉ)ﾉ。同款Weex版本：  ...|1153|2021-09-04|
 |4|[qingmei2/RxImagePicker](https://github.com/qingmei2/RxImagePicker)|:rocket:RxJava2 and RxJava3 external support. Android flexible picture selector, provides the support for theme of Zhihu and WeChat (灵活的Android图片选择器，提供了知乎和微信主题的支持）.|1135|2021-10-13|
 |5|[mCyp/Hoo](https://github.com/mCyp/Hoo)|🚀 Android Jetpack系列组件实战案例，配上专栏学习更轻松~|994|2021-08-15|
 |6|[adisonhuang/awesome-kotlin-android](https://github.com/adisonhuang/awesome-kotlin-android)|🔥📱收集利用 Kotlin 进行 Android 开发的开源库，扩展，工具，开源项目，资料等高质量资源|832|2021-10-19|
-|7|[AllanWang/Frost-for-Facebook](https://github.com/AllanWang/Frost-for-Facebook)|An extensive and functional third party app for Facebook|691|2021-11-24|
-|8|[compose-museum/hello-compose](https://github.com/compose-museum/hello-compose)|Jetpack Compose 基础教程，持续更新|501|2021-12-23|
+|7|[AllanWang/Frost-for-Facebook](https://github.com/AllanWang/Frost-for-Facebook)|An extensive and functional third party app for Facebook|692|2022-01-02|
+|8|[compose-museum/hello-compose](https://github.com/compose-museum/hello-compose)|Jetpack Compose 基础教程，持续更新|502|2021-12-23|
 |9|[eprendre/tingshu](https://github.com/eprendre/tingshu)|一款可在线播放多个免费听书站点的安卓app|497|2021-12-06|
-|10|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|485|2021-12-05|
+|10|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|488|2021-12-05|
 |11|[crazyandcoder/blog_backups](https://github.com/crazyandcoder/blog_backups)|Android 项目优化、面试题集，包含Android、Java、数据结构、算法、个人blog备份等。|430|2021-07-22|
 |12|[hi-dhl/Leetcode-Solutions-with-Java-And-Kotlin](https://github.com/hi-dhl/Leetcode-Solutions-with-Java-And-Kotlin)|LeetCode 系列题解, 在线阅读 https://offer.hi-dhl.com|342|2021-09-13|
 |13|[androidmalin/AndroidComponentPlugin](https://github.com/androidmalin/AndroidComponentPlugin)|Android上简单实现四大组件的插件化，供学习使用|339|2021-12-19|
 |14|[smashinggit/Study](https://github.com/smashinggit/Study)|记录学习过程中的demo及博客|337|2021-08-16|
 |15|[kukyxs/CoroutinesWanAndroid](https://github.com/kukyxs/CoroutinesWanAndroid)|超完整的「玩 Android」客户端，项目采用 MVVM, Android Jetpack, Retrofit, Kotlin 协程, Koin 编写。如果该项目对你学习过程有用，请给个 star，感谢|295|2021-09-29|
-|16|[hanjoongcho/aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary)|:blue_book: A diary application optimized for user experience.|276|2021-12-28|
-|17|[miaowmiaow/fragmject](https://github.com/miaowmiaow/fragmject)|真正的入门级的项目，通过对Kotlin和Jetpack全家桶的系统运用，实现的一个功能完备符合主流市场标准App。 一个代码够简单，内容够全面，知识够详细，能让你快速上手的项目，对理解其他项目设计思想和封装技巧也很有帮助。项目结构清晰，代码简洁优雅。|257|2021-12-21|
+|16|[hanjoongcho/aaf-easydiary](https://github.com/hanjoongcho/aaf-easydiary)|:blue_book: A diary application optimized for user experience.|276|2022-01-02|
+|17|[miaowmiaow/fragmject](https://github.com/miaowmiaow/fragmject)|一个入门级的项目，通过对Kotlin和Jetpack全家桶的系统运用，实现的一个功能完备符合主流市场标准App。 代码简单，内容全面，知识详细，快速上手，对理解其他项目设计思想和封装技巧也很有帮助。|264|2022-01-02|
 |18|[benhero/GLStudio](https://github.com/benhero/GLStudio)|OpenGL基础入门|257|2021-07-26|
 |19|[ibaozi-cn/RecyclerViewAdapter](https://github.com/ibaozi-cn/RecyclerViewAdapter)|科学分包，动态扩展，功能完善，书写简洁，按需依赖，合理抽象，超高内聚，超低耦合，没有最好，只有更好，希望能帮助到您，🙏❤️感谢您的光临🙏❤️|251|2021-09-01|
 |20|[funnywolfdadada/HollowKit](https://github.com/funnywolfdadada/HollowKit)|自己常用的一些工具的合集|200|2021-11-24|
@@ -47,33 +47,34 @@
 |40|[YiiGuxing/asclepius](https://github.com/YiiGuxing/asclepius)|VTK医学影像三维重建学习|28|2021-06-19|
 |41|[leavesC/RobustWebView](https://github.com/leavesC/RobustWebView)|Android WebView H5 秒开方案总结|20|2021-11-21|
 |42|[junerver/CloudNote](https://github.com/junerver/CloudNote)|基于Bmob云后端的Android云笔记|19|2021-10-19|
-|43|[lizijin/zijiexiaozhan](https://github.com/lizijin/zijiexiaozhan)|字节小站博客Demo|18|2021-12-31|
+|43|[lizijin/zijiexiaozhan](https://github.com/lizijin/zijiexiaozhan)|字节小站博客Demo|18|2022-01-02|
 |44|[Anddd7/a-blackhorse](https://github.com/Anddd7/a-blackhorse)|tell you how to manage your blackhorse|16|2021-12-24|
 |45|[kongqw/WeChatHelper](https://github.com/kongqw/WeChatHelper)|WeChatHelper for androidx ，微信开放平台封装，包含微信分享、微信授权登录、微信支付|14|2021-08-05|
-|46|[hjhjw1991/build_your_home_in_chengdu](https://github.com/hjhjw1991/build_your_home_in_chengdu)|成都买房攻略|13|2021-12-06|
-|47|[netease-kit/WisdomEducation](https://github.com/netease-kit/WisdomEducation)|智慧云课堂是网易云信提供的在线互动课堂场景解决方案，基于在线教育场景提供多种课堂模式实践。专为线上课堂场景打造，覆盖多种班型的教学场景、全终端的接入能力，支持课程录制、白板互动、课程活跃度分析等远程课堂功能。在实现云课堂实时互动功能的基础上，还支持业务功能的灵活扩展，帮助您快速上线专属互动教学平台。|12|2022-01-01|
-|48|[honglei92/ScreenRecord](https://github.com/honglei92/ScreenRecord)|安卓免费录屏软件，生成mp4文件，本地目录查看视频和分享到微信QQ，转gif动画等。|12|2021-07-30|
-|49|[JiaYang627/QuickAndroid](https://github.com/JiaYang627/QuickAndroid)|:octocat:使用Kotlin搭建的一个基础框架。目的旨在学习Kotlin，更好的从Java过渡到Kotlin，并且针对此项目编写了一键生成页面插件。具体可看README:book:|11|2021-12-15|
-|50|[Edsuns/Star](https://github.com/Edsuns/Star)|超星学习通签到助手（使用JetpackCompose开发）|11|2021-10-28|
-|51|[Iseason2000/DeEnchantment](https://github.com/Iseason2000/DeEnchantment)|负魔书|11|2021-12-06|
-|52|[qdsfdhvh/demo-base-layout](https://github.com/qdsfdhvh/demo-base-layout)|基于Drakeet分享的自定义ViewGroup思路，编写的demo|10|2021-09-16|
-|53|[HMS-Core/hms-image-vision-kotlin](https://github.com/HMS-Core/hms-image-vision-kotlin)|This sample code is to guide the developer how to integrate the Image Vision Sub-service of the Image Kit, calling the image filter function. This sub-service provides 24 unique filter effects to enha ...|10|2021-07-26|
-|54|[HMS-Core/hms-safetydetect-demo-kotlin](https://github.com/HMS-Core/hms-safetydetect-demo-kotlin)|SafetyDetect Sample provides many sample programs for your reference or usage.This example demonstrates how to integrate services provided by Safetydetect Kit, such as APPchecks, URLcheck, Userdetect, ...|10|2021-08-24|
-|55|[knight-kk/knight_blog_demo](https://github.com/knight-kk/knight_blog_demo)| 博客中 demo ，博客地址 https://blog.csdn.net/knight1996/|10|2021-12-21|
-|56|[zsqw123/SUESjxxt](https://github.com/zsqw123/SUESjxxt)|上海工程技术大学教学系统课程表转日程表|10|2021-06-13|
-|57|[collaction/freehkkai-android](https://github.com/collaction/freehkkai-android)|只需在 App 內用慣常的輸入法輸入中文字，就可以看到「自由香港楷書」(該字根據香港教育局出版《常用字字形表》2007年版定義) 的參考寫法。|10|2021-08-26|
-|58|[anyRTC-UseCase/StudyLive](https://github.com/anyRTC-UseCase/StudyLive)|StudyLive是anyRTC开发的示例项目，演示了如何通过anyRTC云服务，配合anyRTC RTC SDK、anyRTC RTM SDK、anyRTC播放插件，实现在线自习室的场景。|9|2021-12-14|
-|59|[HMS-Core/hms-image-render-kotlin](https://github.com/HMS-Core/hms-image-render-kotlin)|This sample code is to guide the developer how to integrate the Image Render Sub-service in the Image Kit, achieving a variety of effects design. This sub-service provides 5 basic animations and 9 adv ...|9|2021-07-26|
-|60|[ShiSheng233/Open2Share-Kotlin](https://github.com/ShiSheng233/Open2Share-Kotlin)|使用Kotlin重制的Open2Share|8|2021-10-17|
-|61|[yongjiu8/yjys](https://github.com/yongjiu8/yjys)|永久影视app，kotlin学习，安卓新手练习项目，影视项目，安卓练习项目，安卓新手学习参考项目|8|2021-09-08|
-|62|[zhujiang521/ComposeBookSource](https://github.com/zhujiang521/ComposeBookSource)|《Jetpack Compose：Android全新UI编程》全书源代码|7|2021-12-21|
-|63|[HuRuWo/WeChat8Xposed](https://github.com/HuRuWo/WeChat8Xposed)|WeChat8Xposed 是 WechatSpellbook的衍生项目 适配最新的微信 原Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架，底层需要 Xposed 或 VirtualXposed 等Hooking框架的支持，而顶层可以轻松对接Java、Kotlin、Scala等JVM系语言。让程序员能够在几分钟内编写出简单的微信插件，随意揉捏微信的内部逻辑。|7|2021-09-12|
-|64|[leavesC/KVHolder](https://github.com/leavesC/KVHolder)|一文读懂 SharedPreferences 的缺陷及一点点思考|6|2021-10-16|
-|65|[JereChen11/Wanandroid_Learning_Kotlin](https://github.com/JereChen11/Wanandroid_Learning_Kotlin)|基于Wanandroid开放API，使用Kotlin语言开发，以供学习。|6|2021-11-16|
-|66|[WinWang/ReadingGallery](https://github.com/WinWang/ReadingGallery)|提交组件化听书廊项目|5|2021-11-27|
-|67|[Nthily/DeepL-Translator](https://github.com/Nthily/DeepL-Translator)|免费，开源的非官方 DeepL 翻译软件|4|2021-07-03|
-|68|[CNawalol/qndxx-action](https://github.com/CNawalol/qndxx-action)|用于南宁青年大学习的自动打卡|4|2021-10-06|
-|69|[Starrah/THUCourseHelperBackend](https://github.com/Starrah/THUCourseHelperBackend)|清华课程小助手的后端服务器|4|2021-10-27|
+|46|[Townwang/wechat](https://github.com/Townwang/wechat)|全网首发开发人员的微信API, 可无API,无权限实现三方app内一键关注公众号.一键加好友. 附带功能 -> 个人捐赠,支付宝直接捐赠功能. api 正在不断新增|13|2022-01-02|
+|47|[hjhjw1991/build_your_home_in_chengdu](https://github.com/hjhjw1991/build_your_home_in_chengdu)|成都买房攻略|13|2021-12-06|
+|48|[netease-kit/WisdomEducation](https://github.com/netease-kit/WisdomEducation)|智慧云课堂是网易云信提供的在线互动课堂场景解决方案，基于在线教育场景提供多种课堂模式实践。专为线上课堂场景打造，覆盖多种班型的教学场景、全终端的接入能力，支持课程录制、白板互动、课程活跃度分析等远程课堂功能。在实现云课堂实时互动功能的基础上，还支持业务功能的灵活扩展，帮助您快速上线专属互动教学平台。|12|2022-01-01|
+|49|[honglei92/ScreenRecord](https://github.com/honglei92/ScreenRecord)|安卓免费录屏软件，生成mp4文件，本地目录查看视频和分享到微信QQ，转gif动画等。|12|2021-07-30|
+|50|[JiaYang627/QuickAndroid](https://github.com/JiaYang627/QuickAndroid)|:octocat:使用Kotlin搭建的一个基础框架。目的旨在学习Kotlin，更好的从Java过渡到Kotlin，并且针对此项目编写了一键生成页面插件。具体可看README:book:|11|2021-12-15|
+|51|[Edsuns/Star](https://github.com/Edsuns/Star)|超星学习通签到助手（使用JetpackCompose开发）|11|2021-10-28|
+|52|[Iseason2000/DeEnchantment](https://github.com/Iseason2000/DeEnchantment)|负魔书|11|2021-12-06|
+|53|[qdsfdhvh/demo-base-layout](https://github.com/qdsfdhvh/demo-base-layout)|基于Drakeet分享的自定义ViewGroup思路，编写的demo|10|2021-09-16|
+|54|[HMS-Core/hms-image-vision-kotlin](https://github.com/HMS-Core/hms-image-vision-kotlin)|This sample code is to guide the developer how to integrate the Image Vision Sub-service of the Image Kit, calling the image filter function. This sub-service provides 24 unique filter effects to enha ...|10|2021-07-26|
+|55|[HMS-Core/hms-safetydetect-demo-kotlin](https://github.com/HMS-Core/hms-safetydetect-demo-kotlin)|SafetyDetect Sample provides many sample programs for your reference or usage.This example demonstrates how to integrate services provided by Safetydetect Kit, such as APPchecks, URLcheck, Userdetect, ...|10|2021-08-24|
+|56|[knight-kk/knight_blog_demo](https://github.com/knight-kk/knight_blog_demo)| 博客中 demo ，博客地址 https://blog.csdn.net/knight1996/|10|2021-12-21|
+|57|[zsqw123/SUESjxxt](https://github.com/zsqw123/SUESjxxt)|上海工程技术大学教学系统课程表转日程表|10|2021-06-13|
+|58|[collaction/freehkkai-android](https://github.com/collaction/freehkkai-android)|只需在 App 內用慣常的輸入法輸入中文字，就可以看到「自由香港楷書」(該字根據香港教育局出版《常用字字形表》2007年版定義) 的參考寫法。|10|2021-08-26|
+|59|[anyRTC-UseCase/StudyLive](https://github.com/anyRTC-UseCase/StudyLive)|StudyLive是anyRTC开发的示例项目，演示了如何通过anyRTC云服务，配合anyRTC RTC SDK、anyRTC RTM SDK、anyRTC播放插件，实现在线自习室的场景。|9|2021-12-14|
+|60|[HMS-Core/hms-image-render-kotlin](https://github.com/HMS-Core/hms-image-render-kotlin)|This sample code is to guide the developer how to integrate the Image Render Sub-service in the Image Kit, achieving a variety of effects design. This sub-service provides 5 basic animations and 9 adv ...|9|2021-07-26|
+|61|[ShiSheng233/Open2Share-Kotlin](https://github.com/ShiSheng233/Open2Share-Kotlin)|使用Kotlin重制的Open2Share|8|2021-10-17|
+|62|[yongjiu8/yjys](https://github.com/yongjiu8/yjys)|永久影视app，kotlin学习，安卓新手练习项目，影视项目，安卓练习项目，安卓新手学习参考项目|8|2021-09-08|
+|63|[zhujiang521/ComposeBookSource](https://github.com/zhujiang521/ComposeBookSource)|《Jetpack Compose：Android全新UI编程》全书源代码|7|2021-12-21|
+|64|[HuRuWo/WeChat8Xposed](https://github.com/HuRuWo/WeChat8Xposed)|WeChat8Xposed 是 WechatSpellbook的衍生项目 适配最新的微信 原Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架，底层需要 Xposed 或 VirtualXposed 等Hooking框架的支持，而顶层可以轻松对接Java、Kotlin、Scala等JVM系语言。让程序员能够在几分钟内编写出简单的微信插件，随意揉捏微信的内部逻辑。|7|2021-09-12|
+|65|[leavesC/KVHolder](https://github.com/leavesC/KVHolder)|一文读懂 SharedPreferences 的缺陷及一点点思考|6|2021-10-16|
+|66|[JereChen11/Wanandroid_Learning_Kotlin](https://github.com/JereChen11/Wanandroid_Learning_Kotlin)|基于Wanandroid开放API，使用Kotlin语言开发，以供学习。|6|2021-11-16|
+|67|[WinWang/ReadingGallery](https://github.com/WinWang/ReadingGallery)|提交组件化听书廊项目|5|2021-11-27|
+|68|[Nthily/DeepL-Translator](https://github.com/Nthily/DeepL-Translator)|免费，开源的非官方 DeepL 翻译软件|4|2021-07-03|
+|69|[CNawalol/qndxx-action](https://github.com/CNawalol/qndxx-action)|用于南宁青年大学习的自动打卡|4|2021-10-06|
+|70|[Starrah/THUCourseHelperBackend](https://github.com/Starrah/THUCourseHelperBackend)|清华课程小助手的后端服务器|4|2021-10-27|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

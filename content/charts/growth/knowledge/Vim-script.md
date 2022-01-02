@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Vim script
-<sub>数据更新: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|8661|5|2021-08-21|
+|1|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|8662|5|2021-08-21|
 |2|[overmind1980/oeasyvim](https://github.com/overmind1980/oeasyvim)|这是oeasy制作的的一套关于vim的教程 可以在 https://www.lanqiao.cn/teacher/courses/2840 做实验 邀请码FJWYIMGB 本教程从0基础开始，到精通vim配置，和高级命令。希望能让vim是你的开发更高效。|121|1|2021-12-10|
-|3|[dolotech/ebook](https://github.com/dolotech/ebook)|学习资料|1437|1|2021-12-02|
+|3|[dolotech/ebook](https://github.com/dolotech/ebook)|学习资料|1438|1|2021-12-02|
 |4|[dofy/learn-vim](https://github.com/dofy/learn-vim)|Vim 实操教程（Learning Vim）Vim practical tutorial.|1297|1|2021-09-30|
 |5|[chengpengzhao/My_vimrc](https://github.com/chengpengzhao/My_vimrc)|从开始使用Vim起、累积的学习记录，附带几个自用一键配置linux脚本|6|0|2021-08-26|
 |6|[lymslive/motherbless](https://github.com/lymslive/motherbless)|《母亲在上》：一部有关 2098 末日题材科幻神话英雄史诗的电影文学剧本|2|0|2021-08-20|

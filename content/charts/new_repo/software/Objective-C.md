@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > Objective-C
-<sub>数据更新: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -72,22 +72,22 @@
 |65|[zhengmiaokai/MKWebSocket](https://github.com/zhengmiaokai/MKWebSocket)|使用SRWebSocket实现的长链接，支持cookie设置、连接异常   网络抖动重连、ping-pong心跳保活、一对多delegate|4|2021-09-13|2021-07-05|
 |66|[q1992077/ZZActionPipe](https://github.com/q1992077/ZZActionPipe)|Objective-C 的轻量级 响应式编程 框架。|4|2021-07-19|2021-06-25|
 |67|[leonStraightMen/LEBLManager](https://github.com/leonStraightMen/LEBLManager)|可同时连接两台蓝牙外设|4|2021-07-01|2021-06-08|
-|68|[PetitStrawberry/InfiniteSushiBTT](https://github.com/PetitStrawberry/InfiniteSushiBTT)|BetterTouchTool TouchBar Plugin 無限回転寿司編|4|2021-09-21|2021-03-07|
-|69|[kwai-ec/LottieExtensionDemo](https://github.com/kwai-ec/LottieExtensionDemo)|支持Native混合渲染和点击响应的DEMO工程|3|2021-12-23|2021-12-22|
-|70|[hh1016/HHPackKit](https://github.com/hh1016/HHPackKit)|基于UIKit封装的基础控件库，使用链式编程思想对常用的控件进行封装,包含UIView,UILabel,UIButton,UITextFiled,UITextView,UITableView的封装|3|2021-12-21|2021-12-21|
-|71|[Rycccccccc/YCBannerView](https://github.com/Rycccccccc/YCBannerView)|一款轻量级的轮播框架|3|2021-12-11|2021-12-08|
-|72|[HansenCCC/KKImageBrowser](https://github.com/HansenCCC/KKImageBrowser)|这是一个非常实用的图片浏览工具。（仿微信图片预览）|3|2021-11-19|2021-11-16|
-|73|[WanyueKJ/wanyue_live_shopping_ios](https://github.com/WanyueKJ/wanyue_live_shopping_ios)|万岳app商城、直播带货商城、短视频商城、仿淘宝商城|3|2021-11-02|2021-10-09|
-|74|[wildfirechat/ios-conference](https://github.com/wildfirechat/ios-conference)|视频会议|3|2021-09-23|2021-09-13|
-|75|[growingio/growingio-sdk-ios-toolskit](https://github.com/growingio/growingio-sdk-ios-toolskit)|GrowingIO iOS SDK 开发辅助工具|3|2021-12-20|2021-09-10|
-|76|[KeenTeam1990/screenshots](https://github.com/KeenTeam1990/screenshots)|📦实现截取视频及视频流并生成image的功能|3|2021-09-26|2021-09-10|
-|77|[Lester2020/WebViewDemo](https://github.com/Lester2020/WebViewDemo)|原生代码中，通过CSS和JS给webView里面内容动态设置多种主题样式|3|2021-08-31|2021-08-31|
-|78|[QuintGao/GKPlaceholder](https://github.com/QuintGao/GKPlaceholder)|UIScrollView空数据占位图|3|2021-12-03|2021-08-30|
-|79|[frankKiwi/HotfixSolve](https://github.com/frankKiwi/HotfixSolve)|热更新方案|3|2021-08-20|2021-08-17|
-|80|[HeadmasterHong/MVVM-OC-IOS-demo](https://github.com/HeadmasterHong/MVVM-OC-IOS-demo)|基于MVVM模式的iOS/OC demo|3|2021-10-25|2021-08-09|
-|81|[tencentyun/TRTCUnitySDK](https://github.com/tencentyun/TRTCUnitySDK)|腾讯云实时音视频Unity SDK|3|2021-12-30|2021-07-14|
-|82|[she1s0ne/SIOWaveView](https://github.com/she1s0ne/SIOWaveView)|Obtain the audio spectrum/ 获取音频文件的频谱直方图|3|2021-07-27|2021-06-25|
-|83|[Smiacter/flutter_baidu_navi](https://github.com/Smiacter/flutter_baidu_navi)|Flutter baidu map navigation - Flutter百度地图导航|3|2021-10-13|2021-05-20|
+|68|[Smiacter/flutter_baidu_navi](https://github.com/Smiacter/flutter_baidu_navi)|Flutter baidu map navigation - Flutter百度地图导航|4|2021-10-13|2021-05-20|
+|69|[PetitStrawberry/InfiniteSushiBTT](https://github.com/PetitStrawberry/InfiniteSushiBTT)|BetterTouchTool TouchBar Plugin 無限回転寿司編|4|2021-09-21|2021-03-07|
+|70|[kwai-ec/LottieExtensionDemo](https://github.com/kwai-ec/LottieExtensionDemo)|支持Native混合渲染和点击响应的DEMO工程|3|2021-12-23|2021-12-22|
+|71|[hh1016/HHPackKit](https://github.com/hh1016/HHPackKit)|基于UIKit封装的基础控件库，使用链式编程思想对常用的控件进行封装,包含UIView,UILabel,UIButton,UITextFiled,UITextView,UITableView的封装|3|2021-12-21|2021-12-21|
+|72|[Rycccccccc/YCBannerView](https://github.com/Rycccccccc/YCBannerView)|一款轻量级的轮播框架|3|2021-12-11|2021-12-08|
+|73|[HansenCCC/KKImageBrowser](https://github.com/HansenCCC/KKImageBrowser)|这是一个非常实用的图片浏览工具。（仿微信图片预览）|3|2021-11-19|2021-11-16|
+|74|[WanyueKJ/wanyue_live_shopping_ios](https://github.com/WanyueKJ/wanyue_live_shopping_ios)|万岳app商城、直播带货商城、短视频商城、仿淘宝商城|3|2021-11-02|2021-10-09|
+|75|[wildfirechat/ios-conference](https://github.com/wildfirechat/ios-conference)|视频会议|3|2021-09-23|2021-09-13|
+|76|[growingio/growingio-sdk-ios-toolskit](https://github.com/growingio/growingio-sdk-ios-toolskit)|GrowingIO iOS SDK 开发辅助工具|3|2021-12-20|2021-09-10|
+|77|[KeenTeam1990/screenshots](https://github.com/KeenTeam1990/screenshots)|📦实现截取视频及视频流并生成image的功能|3|2021-09-26|2021-09-10|
+|78|[Lester2020/WebViewDemo](https://github.com/Lester2020/WebViewDemo)|原生代码中，通过CSS和JS给webView里面内容动态设置多种主题样式|3|2021-08-31|2021-08-31|
+|79|[QuintGao/GKPlaceholder](https://github.com/QuintGao/GKPlaceholder)|UIScrollView空数据占位图|3|2021-12-03|2021-08-30|
+|80|[frankKiwi/HotfixSolve](https://github.com/frankKiwi/HotfixSolve)|热更新方案|3|2021-08-20|2021-08-17|
+|81|[HeadmasterHong/MVVM-OC-IOS-demo](https://github.com/HeadmasterHong/MVVM-OC-IOS-demo)|基于MVVM模式的iOS/OC demo|3|2021-10-25|2021-08-09|
+|82|[tencentyun/TRTCUnitySDK](https://github.com/tencentyun/TRTCUnitySDK)|腾讯云实时音视频Unity SDK|3|2021-12-30|2021-07-14|
+|83|[she1s0ne/SIOWaveView](https://github.com/she1s0ne/SIOWaveView)|Obtain the audio spectrum/ 获取音频文件的频谱直方图|3|2021-07-27|2021-06-25|
 |84|[RunsCode/DBOCKit](https://github.com/RunsCode/DBOCKit)| 使用链式语法生成sql,像操作JSON一样简单，数据库的增删改查可被监听观察|3|2021-07-22|2021-04-26|
 |85|[Rico358097990/ssl-kill-switch2-Preferences](https://github.com/Rico358097990/ssl-kill-switch2-Preferences)|ssl-kill-switch2 Preferences优化|3|2021-10-11|2021-03-12|
 |86|[Turboks/ShortVideo](https://github.com/Turboks/ShortVideo)|iOS短视频、仿抖音|3|2021-09-30|2021-02-08|

@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2022-01-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[xiaodaigh/disk.frame](https://github.com/xiaodaigh/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|568|2021-09-15|
 |2|[pzhaonet/mindr](https://github.com/pzhaonet/mindr)|an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms)|540|2021-11-22|
-|3|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|494|2021-12-19|
+|3|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|495|2021-12-19|
 |4|[GuangchuangYu/nCov2019](https://github.com/GuangchuangYu/nCov2019)|query stats of infected coronavirus cases|426|2021-06-10|
-|5|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|2022-01-01|
+|5|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|2022-01-02|
 |6|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|347|2021-12-23|
 |7|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|217|2021-12-20|
 |8|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|161|2021-12-19|
 |9|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|148|2021-10-10|
-|10|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|2022-01-01|
+|10|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|2022-01-02|
 |11|[hrbrmstr/docxtractr](https://github.com/hrbrmstr/docxtractr)|:scissors: Extract Tables from Microsoft Word Documents with R|144|2021-10-02|
 |12|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|131|2021-11-28|
 |13|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|111|2021-12-30|
 |14|[quanteda/stopwords](https://github.com/quanteda/stopwords)|Multilingual Stopword Lists in R|101|2021-10-28|
-|15|[quanteda/readtext](https://github.com/quanteda/readtext)|an R package for reading text files|98|2021-07-13|
+|15|[quanteda/readtext](https://github.com/quanteda/readtext)|an R package for reading text files|99|2021-07-13|
 |16|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|91|2021-12-15|
 |17|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008)|80|2021-11-29|
 |18|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|🛠 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|78|2021-12-26|
@@ -31,7 +31,7 @@
 |24|[hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|55|2021-12-21|
 |25|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/|49|2021-12-13|
 |26|[reconverse/outbreaks](https://github.com/reconverse/outbreaks)|outbreaks: an R package compiling disease outbreak data|48|2021-08-06|
-|27|[harryprince/geospark](https://github.com/harryprince/geospark)|bring sf to spark in production|46|2021-12-13|
+|27|[harryprince/geospark](https://github.com/harryprince/geospark)|bring sf to spark in production|47|2021-12-13|
 |28|[koheiw/newsmap](https://github.com/koheiw/newsmap)|Newsmap: geographical news classifier|46|2021-12-29|
 |29|[ykang51/bdar](https://github.com/ykang51/bdar)|巨量資料分析-使用 R 語言 (Big Data Analytics with R) lecture slides and source codes|45|2021-06-17|
 |30|[eco-hydro/phenofit](https://github.com/eco-hydro/phenofit)|R package: A state-of-the-art Vegetation Phenology extraction package, phenofit|43|2021-12-19|
@@ -76,9 +76,9 @@
 |69|[jirotubuyaki/CRPClustering](https://github.com/jirotubuyaki/CRPClustering)|CRPClustering: An R Package for Bayesian Nonparametric Chinese Restaurant Process Clustering with Entropy|12|2021-07-02|
 |70|[davidycliao/redguards](https://github.com/davidycliao/redguards)|This is a designed package for replicating the estimates and findings in the article of Factionalism and the Red Guards under Mao's China: Ideal Point Estimation Using Text Data. |11|2021-12-06|
 |71|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|11|2021-11-23|
-|72|[helixcn/spaa](https://github.com/helixcn/spaa)|Miscellaneous functions for analysis of species association and niche overlap|10|2021-08-12|
-|73|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|10|2021-11-26|
-|74|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|9|2021-09-25|
+|72|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|10|2021-09-25|
+|73|[helixcn/spaa](https://github.com/helixcn/spaa)|Miscellaneous functions for analysis of species association and niche overlap|10|2021-08-12|
+|74|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|10|2021-11-26|
 |75|[majianthu/aps2020](https://github.com/majianthu/aps2020)|Code for the paper 'Variable Selection with Copula Entropy' published on Chinese Journal of Applied Probability and Statistics|8|2021-12-31|
 |76|[DongqiangZeng0808/Blasso](https://github.com/DongqiangZeng0808/Blasso)|Integrating LASSO and bootstrapping algorithm to find best prognostic or predictive biomarkers|8|2021-10-26|
 |77|[esowc/UNSEEN-open](https://github.com/esowc/UNSEEN-open)|An open, reproducible and transferable workflow to assess and anticipate climate extremes beyond the observed record|8|2021-09-14|
