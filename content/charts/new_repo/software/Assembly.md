@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > Assembly
-<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -14,15 +14,15 @@
 |7|[jayzhou1024/ft](https://github.com/jayzhou1024/ft)|项目自用|6|2021-09-30|2021-03-27|
 |8|[BUAADreamer/BUAA-CO-2020](https://github.com/BUAADreamer/BUAA-CO-2020)|2020年北航计组课设代码 This is the BUAA Computer Orgnization code project files.|6|2021-11-27|2021-02-04|
 |9|[fumiama/c64-snake](https://github.com/fumiama/c64-snake)|C64上的贪吃蛇|5|2021-10-18|2021-03-30|
-|10|[LiQiang0307/Web_OpenCV_JS](https://github.com/LiQiang0307/Web_OpenCV_JS)|web 计算机视觉之初识OpenCV.js|4|2021-07-06|2021-07-06|
+|10|[LiQiang0307/Web_OpenCV_JS](https://github.com/LiQiang0307/Web_OpenCV_JS)|web 计算机视觉之初识OpenCV.js；Flask web  video 分支，利用Flask web框架接收实时视频流并显示|4|2022-01-03|2021-07-06|
 |11|[arttnba3/OS_Kernel_Learning](https://github.com/arttnba3/OS_Kernel_Learning)|为我自己准备的 OS 大作业：从零开始写一个操作系统内核|4|2021-06-08|2021-06-05|
 |12|[Insomnia-y/Gold-Miner](https://github.com/Insomnia-y/Gold-Miner)|汇编大作业，黄金矿工|4|2021-06-17|2021-06-01|
 |13|[fzf404/MiniSys](https://github.com/fzf404/MiniSys)|Nasm汇编写操作系统|4|2021-09-23|2021-01-06|
 |14|[NEUzht/computer_system](https://github.com/NEUzht/computer_system)|孙仲武带带我|3|2021-12-20|2021-11-20|
-|15|[huang-jl/LLCL-MIPS](https://github.com/huang-jl/LLCL-MIPS)|LLCL-MIPS is a superscalar MIPS processor, which supports MIPS Release 1 instructions and is capable of booting linux kernel. （第五届龙芯杯特等奖作品）|3|2021-09-25|2021-09-23|
-|16|[Wuzimeng/CO_BUAA](https://github.com/Wuzimeng/CO_BUAA)|北航计算机组成|3|2021-09-22|2021-01-18|
-|17|[junchao-ustc/csapp](https://github.com/junchao-ustc/csapp)|记录csapp的实验|2|2021-10-30|2021-10-16|
-|18|[li-jinpeng/Colorful_Block](https://github.com/li-jinpeng/Colorful_Block)|汇编大作业|2|2021-11-10|2021-10-13|
+|15|[Wuzimeng/CO_BUAA](https://github.com/Wuzimeng/CO_BUAA)|北航计算机组成|3|2021-09-22|2021-01-18|
+|16|[junchao-ustc/csapp](https://github.com/junchao-ustc/csapp)|记录csapp的实验|2|2021-10-30|2021-10-16|
+|17|[li-jinpeng/Colorful_Block](https://github.com/li-jinpeng/Colorful_Block)|汇编大作业|2|2021-11-10|2021-10-13|
+|18|[huang-jl/LLCL-MIPS](https://github.com/huang-jl/LLCL-MIPS)|LLCL-MIPS is a superscalar MIPS processor, which supports MIPS Release 1 instructions and is capable of booting linux kernel. （第五届龙芯杯特等奖作品）|2|2021-09-25|2021-09-23|
 |19|[n13eho/CalciferCompiler](https://github.com/n13eho/CalciferCompiler)|2021年全国大学生计算机系统能力大赛—— 编译系统设计赛（华为毕昇杯）中，Calcifer队伍的作品|2|2021-11-21|2021-09-09|
 |20|[Cute-Cube/CubeOS](https://github.com/Cute-Cube/CubeOS)|Cute-Cube自己制作创新的操作系统。|2|2021-08-18|2021-07-27|
 |21|[wangyule/flutter_to_exist_app](https://github.com/wangyule/flutter_to_exist_app)|flutter与iOS/android混合开发、flutter源码集成到已有原生项目中|2|2021-07-16|2021-07-11|

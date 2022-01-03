@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > Objective-C
-<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -93,18 +93,18 @@
 |86|[Turboks/ShortVideo](https://github.com/Turboks/ShortVideo)|iOS短视频、仿抖音|3|2021-09-30|2021-02-08|
 |87|[anyRTC-UseCase/Basic-Video-Example](https://github.com/anyRTC-UseCase/Basic-Video-Example)|多人音视频通话，适用场景包括移动视频直播、实时互动连麦视频(音频)直播、小程序互动直播、视频会议等。本插件提供实时音视频能力，支持Android、iOS。多人音视频通话|3|2021-12-31|2021-01-27|
 |88|[QuintGao/JXCategoryViewExt](https://github.com/QuintGao/JXCategoryViewExt)|对JXCategoryView优化及扩展，拆分pod|3|2021-12-03|2021-01-14|
-|89|[qingqiusuomeng/LQAlertViewKit](https://github.com/qingqiusuomeng/LQAlertViewKit)|自定义UIAlertViewController|2|2021-11-16|2021-11-10|
-|90|[chenXming/QhSaveImageToLibrary](https://github.com/chenXming/QhSaveImageToLibrary)|多线程下载、上传图片。支持下载到自定义相册，支持设置最大并发数，支持后台处理任务。没有使用任何第三方相关类库，系统原生方法实现，无依赖负担。|2|2021-12-02|2021-11-03|
-|91|[AlexanderWei/cjlm](https://github.com/AlexanderWei/cjlm)|菜鸡联盟|2|2021-10-25|2021-10-25|
-|92|[chinaxxren/VVModule](https://github.com/chinaxxren/VVModule)|VVModule是面向协议的iOS模块化框架，同时它还支持URL路由和模块间通信机制,并且覆盖启动阶段的main函数的前后|2|2021-10-28|2021-10-22|
-|93|[lishangjing-spec/lsj-PrivateProtocolAlert](https://github.com/lishangjing-spec/lsj-PrivateProtocolAlert)|隐私政策弹窗|2|2021-10-17|2021-10-15|
-|94|[pirder/PRSleepApp](https://github.com/pirder/PRSleepApp)| 2020年毕业答辩iOS项目|2|2021-10-09|2021-10-09|
-|95|[Lester2020/YZTimerDemo](https://github.com/Lester2020/YZTimerDemo)|处理解决NSTimer造成循环引用的几种实现方式|2|2021-09-30|2021-09-30|
-|96|[chiyun1/gcovFlushAdapter](https://github.com/chiyun1/gcovFlushAdapter)|解决升级Xcode13, 检测代码覆盖度时找不到__gcov_flush方法的问题|2|2021-09-27|2021-09-27|
-|97|[tqhnet/MacCatalyst_Learn](https://github.com/tqhnet/MacCatalyst_Learn)|Mac Catalyst的练习|2|2021-10-26|2021-09-13|
-|98|[shark-chen/MLLogin](https://github.com/shark-chen/MLLogin)|登陆SDK|2|2021-10-13|2021-09-08|
-|99|[MrLuanJX/Filter](https://github.com/MrLuanJX/Filter)|仿链家、美团、京东筛选|2|2021-11-18|2021-09-01|
-|100|[Lester2020/TabbarInteractionDemo](https://github.com/Lester2020/TabbarInteractionDemo)|实现UITabBarController可交互式转场动画|2|2021-08-30|2021-08-30|
+|89|[nongshifu/iOS-](https://github.com/nongshifu/iOS-)|iOS模拟点击/拖动 各种游戏王座,自瞄,压枪基址,只需要简单的一行代码记录屏幕xy坐标|2|2021-11-29|2021-11-29|
+|90|[qingqiusuomeng/LQAlertViewKit](https://github.com/qingqiusuomeng/LQAlertViewKit)|自定义UIAlertViewController|2|2021-11-16|2021-11-10|
+|91|[chenXming/QhSaveImageToLibrary](https://github.com/chenXming/QhSaveImageToLibrary)|多线程下载、上传图片。支持下载到自定义相册，支持设置最大并发数，支持后台处理任务。没有使用任何第三方相关类库，系统原生方法实现，无依赖负担。|2|2021-12-02|2021-11-03|
+|92|[AlexanderWei/cjlm](https://github.com/AlexanderWei/cjlm)|菜鸡联盟|2|2021-10-25|2021-10-25|
+|93|[chinaxxren/VVModule](https://github.com/chinaxxren/VVModule)|VVModule是面向协议的iOS模块化框架，同时它还支持URL路由和模块间通信机制,并且覆盖启动阶段的main函数的前后|2|2021-10-28|2021-10-22|
+|94|[lishangjing-spec/lsj-PrivateProtocolAlert](https://github.com/lishangjing-spec/lsj-PrivateProtocolAlert)|隐私政策弹窗|2|2021-10-17|2021-10-15|
+|95|[pirder/PRSleepApp](https://github.com/pirder/PRSleepApp)| 2020年毕业答辩iOS项目|2|2021-10-09|2021-10-09|
+|96|[Lester2020/YZTimerDemo](https://github.com/Lester2020/YZTimerDemo)|处理解决NSTimer造成循环引用的几种实现方式|2|2021-09-30|2021-09-30|
+|97|[chiyun1/gcovFlushAdapter](https://github.com/chiyun1/gcovFlushAdapter)|解决升级Xcode13, 检测代码覆盖度时找不到__gcov_flush方法的问题|2|2021-09-27|2021-09-27|
+|98|[tqhnet/MacCatalyst_Learn](https://github.com/tqhnet/MacCatalyst_Learn)|Mac Catalyst的练习|2|2021-10-26|2021-09-13|
+|99|[shark-chen/MLLogin](https://github.com/shark-chen/MLLogin)|登陆SDK|2|2021-10-13|2021-09-08|
+|100|[MrLuanJX/Filter](https://github.com/MrLuanJX/Filter)|仿链家、美团、京东筛选|2|2021-11-18|2021-09-01|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -1,40 +1,40 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > C
-<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|3473|60|2022-01-01|
-|2|[Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS)|A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。|18395|21|2021-06-16|
+|1|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|3475|59|2022-01-01|
+|2|[Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS)|A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。|18397|21|2021-06-16|
 |3|[julycoding/The-Art-Of-Programming-By-July](https://github.com/julycoding/The-Art-Of-Programming-By-July)|本项目曾冲到全球第一，干货集锦见本页面最底部，另完整精致的纸质版《编程之法：面试和算法心得》已在京东/当当上销售|20212|7|2021-07-03|
-|4|[SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther)|Affordable WiFi hacking platform for testing and learning|9381|5|2021-12-12|
-|5|[SecWiki/windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits)|windows-kernel-exploits   Windows平台提权漏洞集合|5982|3|2021-06-11|
-|6|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|5576|3|2021-12-15|
-|7|[EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd)|Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net|7824|3|2021-10-08|
+|4|[SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther)|Affordable WiFi hacking platform for testing and learning|9389|5|2021-12-12|
+|5|[SecWiki/windows-kernel-exploits](https://github.com/SecWiki/windows-kernel-exploits)|windows-kernel-exploits   Windows平台提权漏洞集合|5985|3|2021-06-11|
+|6|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|5582|3|2021-12-15|
+|7|[EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd)|Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net|7826|3|2021-10-08|
 |8|[Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub)|:palm_tree:Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (Windows提权漏洞合集) |1640|3|2021-12-28|
-|9|[nonstriater/Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)|算法学习笔记|6219|2|2021-12-23|
-|10|[firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One)|CTF竞赛权威指南|2820|2|2021-12-29|
-|11|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|158|1|2021-12-27|
-|12|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|1348|1|2021-12-29|
+|9|[nonstriater/Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)|算法学习笔记|6220|2|2021-12-23|
+|10|[firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One)|CTF竞赛权威指南|2819|2|2021-12-29|
+|11|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|160|1|2021-12-27|
+|12|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|1348|1|2022-01-03|
 |13|[FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit)|iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结|626|1|2021-12-19|
-|14|[realYurkOfGitHub/translation-Introduction-to-HPC](https://github.com/realYurkOfGitHub/translation-Introduction-to-HPC)|为 Eijhout 教授的Introduction to HPC提供中文翻译、 PPT和Lab。|47|1|2021-12-27|
-|15|[LookCos/learn-data-structures](https://github.com/LookCos/learn-data-structures)|数据结构（C语言描述）学习笔记|109|1|2022-01-02|
+|14|[realYurkOfGitHub/translation-Introduction-to-HPC](https://github.com/realYurkOfGitHub/translation-Introduction-to-HPC)|为 Eijhout 教授的Introduction to HPC提供中文翻译、 PPT和Lab。|48|1|2021-12-27|
+|15|[LookCos/learn-data-structures](https://github.com/LookCos/learn-data-structures)|数据结构（C语言描述）学习笔记|109|1|2022-01-03|
 |16|[hzcx998/xbook2](https://github.com/hzcx998/xbook2)|xbook2是一个基于x86处理器的32位操作系统，实现了大量的基础功能，可以拿来学习操作系统知识。|367|1|2021-10-31|
-|17|[peng-zhihui/MiniRover-Hardware](https://github.com/peng-zhihui/MiniRover-Hardware)|自制火星车的开源资料。|264|1|2021-12-26|
-|18|[DavadDi/bpf_study](https://github.com/DavadDi/bpf_study)|bpf 学习仓库|439|1|2021-09-26|
+|17|[peng-zhihui/MiniRover-Hardware](https://github.com/peng-zhihui/MiniRover-Hardware)|自制火星车的开源资料。|265|1|2021-12-26|
+|18|[DavadDi/bpf_study](https://github.com/DavadDi/bpf_study)|bpf 学习仓库|441|1|2022-01-03|
 |19|[wuxx/nanoDAP](https://github.com/wuxx/nanoDAP)|建议大家star此仓库，仓库会持续更新。由于部分淘宝卖家“借鉴”实验室出品的nanoDAP详情描述和资料，请大家认准实验室官方链接|631|1|2021-06-24|
-|20|[hairrrrr/C-CrashCourse](https://github.com/hairrrrr/C-CrashCourse)|C语言教程+博客+代码演示+课程设计。 帮助初学者更好的理解 C 难点，提升代码量！ For beginners:C tuition/self-learning|464|1|2021-11-25|
-|21|[ming1016/study](https://github.com/ming1016/study)|学习记录|3683|1|2021-12-13|
-|22|[hewei2001/HITSZ-OpenCS](https://github.com/hewei2001/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|443|1|2022-01-01|
-|23|[kerwincui/wumei-smart](https://github.com/kerwincui/wumei-smart)|物美智能是一套开源的软硬件系统，可用于二次开发和学习，快速搭建自己的智能家居系统。硬件工程师可以把自己的设备集成到系统；软件工程师可以使用项目中的设备熟悉软硬件交互。|248|1|2021-07-16|
+|20|[hairrrrr/C-CrashCourse](https://github.com/hairrrrr/C-CrashCourse)|C语言教程+博客+代码演示+课程设计。 帮助初学者更好的理解 C 难点，提升代码量！ For beginners:C tuition/self-learning|465|1|2021-11-25|
+|21|[ming1016/study](https://github.com/ming1016/study)|学习记录|3684|1|2021-12-13|
+|22|[hewei2001/HITSZ-OpenCS](https://github.com/hewei2001/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|444|1|2022-01-03|
+|23|[kerwincui/wumei-smart](https://github.com/kerwincui/wumei-smart)|物美智能是一套开源的软硬件系统，可用于二次开发和学习，快速搭建自己的智能家居系统。硬件工程师可以把自己的设备集成到系统；软件工程师可以使用项目中的设备熟悉软硬件交互。|251|1|2021-07-16|
 |24|[fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony)|华为鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。|328|1|2021-10-29|
 |25|[huaiyukeji/verification_code](https://github.com/huaiyukeji/verification_code)|验证码研究破解心得记录。包含网易易盾，阿里云验证码，极验验证码，通用汉字识别，梦幻西游验证等主流验证码破解。包含点按验证码、点选验证、语序点选等等。已更新极验验证码、企业公示网/工商/文书采集系统、极验打码接口。|719|1|2021-11-17|
 |26|[Hansimov/csapp](https://github.com/Hansimov/csapp)|个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料：https://hansimov.gitbook.io/csapp/|297|1|2021-12-28|
 |27|[Exely/CSAPP-Labs](https://github.com/Exely/CSAPP-Labs)|Solutions and Notes for Labs of Computer Systems: A Programmer's Perspective 3rd Editon // 《深入理解计算机系统》第三版的实验文件、解答与笔记|1215|1|2021-12-04|
-|28|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|79|1|2021-12-10|
-|29|[0voice/algorithm-structure](https://github.com/0voice/algorithm-structure)|2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结|531|1|2021-08-27|
-|30|[Kiprey/Skr_Learning](https://github.com/Kiprey/Skr_Learning)|天问之路 - 学习笔记&学习周报。内容包括但不限于C++ STL、编译原理、LLVM IR Pass代码优化、CSAPP Lab、uCore操作系统等等。持续更新ing...|192|0|2021-12-24|
+|28|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|80|1|2021-12-10|
+|29|[0voice/algorithm-structure](https://github.com/0voice/algorithm-structure)|2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结|532|1|2021-08-27|
+|30|[Kiprey/Skr_Learning](https://github.com/Kiprey/Skr_Learning)|天问之路 - 学习笔记&学习周报。内容包括但不限于C++ STL、编译原理、LLVM IR Pass代码优化、CSAPP Lab、uCore操作系统等等。持续更新ing...|193|0|2021-12-24|
 |31|[nevermosby/linux-bpf-learning](https://github.com/nevermosby/linux-bpf-learning)|learn how to use BPF/eBPF|210|0|2021-12-21|
 |32|[ouyangzhaoxing/color-studio](https://github.com/ouyangzhaoxing/color-studio)|轻量简洁颜值极高的IDE，非常适合萌新作为编程入门使用。(Lightweight, concise and beautiful IDE, very suitable for novices to use as a programming entry.)|45|0|2021-09-26|
 |33|[zzy991212/Nemu](https://github.com/zzy991212/Nemu)|Nemu PA——给个Star？【仅供交流学习使用，未经许可禁止传播！】(PA3有个地方取地址时存在左移右移问题，在PA4更改这个bug了，请注意！)|32|0|2021-09-15|
@@ -57,7 +57,7 @@
 |50|[aqi00/androidx](https://github.com/aqi00/androidx)|《Android Studio开发实战：从零基础到App上线》适配androidx的源码|39|0|2021-09-14|
 |51|[DJI-Mobile-SDK-Tutorials/Android-VideoStreamDecodingSample](https://github.com/DJI-Mobile-SDK-Tutorials/Android-VideoStreamDecodingSample)|This sample project demonstrates how to use FFmpeg for video frame parsing and to use MediaCodec for hardware decoding on DJI Products.|142|0|2021-12-17|
 |52|[hzcx998/BookOS](https://github.com/hzcx998/BookOS)|BookOS is a tiny OS based on xbook2 kernel, you can use it to study!|38|0|2021-10-31|
-|53|[byhook/ffmpeg4android](https://github.com/byhook/ffmpeg4android)|音视频学习实践，从移植ffmpeg库到android平台，混合编译x264库以及fdk-aac库，到相机音频采集编码推流到RTMP服务器的学习记录|531|0|2021-10-10|
+|53|[byhook/ffmpeg4android](https://github.com/byhook/ffmpeg4android)|音视频学习实践，从移植ffmpeg库到android平台，混合编译x264库以及fdk-aac库，到相机音频采集编码推流到RTMP服务器的学习记录|532|0|2021-10-10|
 |54|[NJUPTFreeExams/NJUPT-AUTO-Free-Exams](https://github.com/NJUPTFreeExams/NJUPT-AUTO-Free-Exams)|南京邮电大学自动化专业历年学习资料|31|0|2021-08-28|
 |55|[wenjun1055/c](https://github.com/wenjun1055/c)|C语言学习代码|405|0|2021-10-02|
 |56|[Mushroom0709/ffmpeg_demo](https://github.com/Mushroom0709/ffmpeg_demo)|记录学习ffmpeg的过程中编写的demo|60|0|2021-07-30|
@@ -71,9 +71,9 @@
 |64|[zl03jsj/mupdf](https://github.com/zl03jsj/mupdf)|扩展mupdf 实现图像数字证书签名, 手写笔迹数字证书签名, 插入图片, 手写签名注释..改进手写批注,实现模拟真实手写的算法, annot自定义数据, annot插入,删除密码校验等功能...支持ios, windows, mac, linux, c++, java, android|110|0|2021-06-16|
 |65|[yocn/AndroidMediaCodec](https://github.com/yocn/AndroidMediaCodec)|Android 音视频处理集合，关联了ffmpeg\libyuv等等库|56|0|2021-09-24|
 |66|[david942j/ctf-writeups](https://github.com/david942j/ctf-writeups)|Collection of scripts and writeups|289|0|2021-12-14|
-|67|[wuzhouhui/misc](https://github.com/wuzhouhui/misc)|学习与工作中收集的一些资料|671|0|2021-10-12|
+|67|[wuzhouhui/misc](https://github.com/wuzhouhui/misc)|学习与工作中收集的一些资料|671|0|2022-01-03|
 |68|[zmrbak/PcWeChatHooK](https://github.com/zmrbak/PcWeChatHooK)|云课堂《2019 PC微信 探秘》示例代码|310|0|2021-06-03|
-|69|[bouffalolab/bl_mcu_sdk](https://github.com/bouffalolab/bl_mcu_sdk)|bl_mcu_sdk is MCU software development kit provided by Bouffalo Lab Team for BL602/BL604, BL702/BL704/BL706 and other series of  RISC-V based chips in the future.|72|0|2021-12-11|
+|69|[bouffalolab/bl_mcu_sdk](https://github.com/bouffalolab/bl_mcu_sdk)|bl_mcu_sdk is MCU software development kit provided by Bouffalo Lab Team for BL602/BL604, BL702/BL704/BL706 and other series of  RISC-V based chips in the future.|73|0|2021-12-11|
 |70|[balloonwj/mybooksources](https://github.com/balloonwj/mybooksources)|《C++ 服务器开发精髓》随书配套源码|133|0|2021-09-01|
 |71|[Greedysky/TTKWidgetTools](https://github.com/Greedysky/TTKWidgetTools)|QWidget 自定义控件集合  持续更新中......|341|0|2021-12-09|
 |72|[alejoseb/Modbus-STM32-HAL-FreeRTOS](https://github.com/alejoseb/Modbus-STM32-HAL-FreeRTOS)|Modbus TCP and  RTU,  Master and Slave for STM32 using Cube HAL and FreeRTOS|155|0|2021-11-19|
@@ -81,17 +81,18 @@
 |74|[deepwzh/sdust-examination-materials](https://github.com/deepwzh/sdust-examination-materials)|山东科技大学课程资源共享计划|230|0|2021-10-06|
 |75|[xrandx/Student-Information-Management-System](https://github.com/xrandx/Student-Information-Management-System)|Student-information-management-system school project   学生信息管理系统（课程设计）|32|0|2021-06-15|
 |76|[Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)|LilyGo LoRa Series examples|186|0|2021-10-22|
-|77|[hexhacking/xUnwind](https://github.com/hexhacking/xUnwind)|xUnwind is a collection of Android native stack unwinding solutions.|94|0|2021-12-29|
-|78|[kuangyufei/kernel_liteos_a_note](https://github.com/kuangyufei/kernel_liteos_a_note)|精读鸿蒙内核源码,百万汉字注解分析;百篇博客深入解剖,挖透内核地基工程.注解同步官方,工具文档齐全,多站点发布 . weharmonyos.com|162|0|2021-12-31|
+|77|[hexhacking/xUnwind](https://github.com/hexhacking/xUnwind)|xUnwind is a collection of Android native stack unwinding solutions.|95|0|2021-12-29|
+|78|[kuangyufei/kernel_liteos_a_note](https://github.com/kuangyufei/kernel_liteos_a_note)|精读鸿蒙内核源码,百万汉字注解分析;百篇博客深入解剖,挖透内核地基工程.注解同步官方,工具文档齐全,多站点发布 . weharmonyos.com|162|0|2022-01-03|
 |79|[Lighter-z/51-Single-chip](https://github.com/Lighter-z/51-Single-chip)|51单片机入门资料|128|0|2021-08-15|
 |80|[xuhongv/StudyInEsp32](https://github.com/xuhongv/StudyInEsp32)|【深度开源】wiif+bt模块esp32学习之旅（持续更新，欢迎 Star...）|293|0|2021-11-29|
-|81|[aqi00/android2](https://github.com/aqi00/android2)|《Android Studio开发实战：从零基础到App上线》随书源码（全面添加注释版）|569|0|2021-09-14|
-|82|[qaiu/c4droid-code](https://github.com/qaiu/c4droid-code)|c4droid代码合集|38|0|2021-11-28|
-|83|[impact-eintr/LinuxC](https://github.com/impact-eintr/LinuxC)|听说C与Linux更搭配哦～ 内容包括：C基础 C++面向对象编程 基础数据结构 linux系统编程以及一些操作系统的相关知识|62|0|2021-12-06|
-|84|[zkwlx/HiMem](https://github.com/zkwlx/HiMem)|HiMem 是知乎内部使用的针对 Android 系统开发的线上应用内存使用监控与分析套件，目前支持 mmap/munmap/malloc/calloc/realloc/free 等库函数的监控，同时提供高性能的 Java 层和 Native 层调用栈捕获能力。|107|0|2021-12-07|
-|85|[Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt)|Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.|217|0|2021-12-03|
-|86|[XeiTongXueFlyMe/J1939](https://github.com/XeiTongXueFlyMe/J1939)|基于SAE J1939协议，开源可移植的J1939驱动。技术支持群： 264864184       @使用说明书：|196|0|2021-08-05|
-|87|[mrpre/atls](https://github.com/mrpre/atls)|A light TLS implementation used for learning: TLS 1.0 TLS 1.1 TLS 1.2 TLS 1.3 GMSSL 1.1(国密SSL) based on libcrypto.so.|152|0|2021-11-11|
+|81|[gatieme/AderXCoding](https://github.com/gatieme/AderXCoding)|介绍各类语言，库，系统编程以及算法的学习|277|0|2022-01-03|
+|82|[aqi00/android2](https://github.com/aqi00/android2)|《Android Studio开发实战：从零基础到App上线》随书源码（全面添加注释版）|569|0|2021-09-14|
+|83|[qaiu/c4droid-code](https://github.com/qaiu/c4droid-code)|c4droid代码合集|38|0|2021-11-28|
+|84|[impact-eintr/LinuxC](https://github.com/impact-eintr/LinuxC)|听说C与Linux更搭配哦～ 内容包括：C基础 C++面向对象编程 基础数据结构 linux系统编程以及一些操作系统的相关知识|62|0|2021-12-06|
+|85|[zkwlx/HiMem](https://github.com/zkwlx/HiMem)|HiMem 是知乎内部使用的针对 Android 系统开发的线上应用内存使用监控与分析套件，目前支持 mmap/munmap/malloc/calloc/realloc/free 等库函数的监控，同时提供高性能的 Java 层和 Native 层调用栈捕获能力。|107|0|2021-12-07|
+|86|[Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt)|Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.|217|0|2021-12-03|
+|87|[XeiTongXueFlyMe/J1939](https://github.com/XeiTongXueFlyMe/J1939)|基于SAE J1939协议，开源可移植的J1939驱动。技术支持群： 264864184       @使用说明书：|196|0|2021-08-05|
+|88|[mrpre/atls](https://github.com/mrpre/atls)|A light TLS implementation used for learning: TLS 1.0 TLS 1.1 TLS 1.2 TLS 1.3 GMSSL 1.1(国密SSL) based on libcrypto.so.|152|0|2021-11-11|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

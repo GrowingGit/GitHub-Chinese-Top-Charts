@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|1|2022-01-02|
+|1|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|1|2022-01-03|
 |2|[GuangchuangYu/nCov2019](https://github.com/GuangchuangYu/nCov2019)|query stats of infected coronavirus cases|426|1|2021-06-10|
 |3|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|37|0|2021-11-26|
 |4|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|31|0|2021-09-29|
@@ -14,14 +14,14 @@
 |7|[Wytamma/GISAIDR](https://github.com/Wytamma/GISAIDR)|Programmatically interact with the GISAID database.|7|0|2021-12-19|
 |8|[patrickreidy/textgRid](https://github.com/patrickreidy/textgRid)|Praat TextGrid Objects in R|19|0|2021-06-29|
 |9|[ropensci/scrubr](https://github.com/ropensci/scrubr)|Clean species occurrence records|32|0|2021-06-11|
-|10|[koheiw/LSX](https://github.com/koheiw/LSX)|A word embeddings-based semi-supervised model for document scaling|39|0|2021-10-27|
+|10|[koheiw/LSX](https://github.com/koheiw/LSX)|A word embeddings-based semi-supervised model for document scaling|41|0|2021-10-27|
 |11|[lexcomber/GWRroutemap](https://github.com/lexcomber/GWRroutemap)|the GWR route maps for physical and human geography|7|0|2021-11-17|
 |12|[helixcn/spaa](https://github.com/helixcn/spaa)|Miscellaneous functions for analysis of species association and niche overlap|10|0|2021-08-12|
 |13|[pzhaonet/pinyin](https://github.com/pzhaonet/pinyin)|an R package for converting Chineses characters into pinyin|40|0|2021-08-22|
 |14|[leileibama/leoDDcalculator](https://github.com/leileibama/leoDDcalculator)|leoDDcalculator, a package calculating the values of mdd and ndd of texts in a folder|6|0|2021-11-08|
 |15|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|10|0|2021-09-25|
 |16|[mountainMath/tongfen](https://github.com/mountainMath/tongfen)|Convenience functions for making data on different geometries, especially Canadian census geometries, comparable.|24|0|2021-11-19|
-|17|[YongxinLiu/EasyMicrobiome](https://github.com/YongxinLiu/EasyMicrobiome)|Scripts and databases for amplicon and metagenome|26|0|2021-12-27|
+|17|[YongxinLiu/EasyMicrobiome](https://github.com/YongxinLiu/EasyMicrobiome)|Scripts and databases for amplicon and metagenome|26|0|2022-01-03|
 |18|[eco-hydro/phenofit](https://github.com/eco-hydro/phenofit)|R package: A state-of-the-art Vegetation Phenology extraction package, phenofit|43|0|2021-12-19|
 |19|[OxDemTech/china_diplomats](https://github.com/OxDemTech/china_diplomats)|-|7|0|2021-11-16|
 |20|[sascha2schroeder/popEye](https://github.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|7|0|2021-11-01|
@@ -72,7 +72,7 @@
 |65|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|12|0|2021-09-21|
 |66|[datasketch/shi18ny](https://github.com/datasketch/shi18ny)|-|13|0|2021-06-10|
 |67|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit (kw: field observation, air polltion, time series summary, time series resampling, average variation, ozone formation potential (OFP), MIR, tuv). |23|0|2021-11-18|
-|68|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|0|2022-01-02|
+|68|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|0|2022-01-03|
 |69|[pzhaonet/beginr](https://github.com/pzhaonet/beginr)|an R package for beginners|15|0|2021-12-03|
 |70|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|12|0|2021-11-26|
 |71|[kevinwang09/learningtower](https://github.com/kevinwang09/learningtower)|Easily accessible PISA data|18|0|2021-09-07|
@@ -82,7 +82,7 @@
 |75|[Otoliths/SP2000](https://github.com/Otoliths/SP2000)|🐟Catalogue of Life toolkit for R|7|0|2021-06-11|
 |76|[ykang51/bdar](https://github.com/ykang51/bdar)|巨量資料分析-使用 R 語言 (Big Data Analytics with R) lecture slides and source codes|45|0|2021-06-17|
 |77|[lilywang1988/eSIR](https://github.com/lilywang1988/eSIR)|Extended state-space SIR epidemiological models|62|0|2021-11-08|
-|78|[xiaodaigh/disk.frame](https://github.com/xiaodaigh/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|568|0|2021-09-15|
+|78|[xiaodaigh/disk.frame](https://github.com/xiaodaigh/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|569|0|2021-09-15|
 |79|[pzhaonet/mindr](https://github.com/pzhaonet/mindr)|an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms)|540|0|2021-11-22|
 |80|[hrbrmstr/docxtractr](https://github.com/hrbrmstr/docxtractr)|:scissors: Extract Tables from Microsoft Word Documents with R|144|0|2021-10-02|
 |81|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|🛠 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|78|0|2021-12-26|

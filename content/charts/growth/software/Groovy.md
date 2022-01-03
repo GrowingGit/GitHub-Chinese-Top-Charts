@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Groovy
-<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -22,7 +22,7 @@
 |15|[xnat9/grule](https://github.com/xnat9/grule)|自创Groovy DSL 动态规则(rule)执行引擎. 特色 风控系统, 规则引擎, 动态接口配置(低代码)|15|0|2021-12-18|
 |16|[lingochamp/okcheck](https://github.com/lingochamp/okcheck)|Incremental scan，integrate Lint、KtLint、UnitTest、Checkstyle、Findbugs、Pmd, powerful and easy to use|294|0|2021-09-27|
 |17|[xams-creator/navicat-resetter](https://github.com/xams-creator/navicat-resetter)|重置navicat激活时间的IDEA跨平台插件 |3|0|2021-12-31|
-|18|[gogradle/gogradle](https://github.com/gogradle/gogradle)|A Gradle Plugin Providing Full Support for Go|739|0|2021-10-11|
+|18|[gogradle/gogradle](https://github.com/gogradle/gogradle)|A Gradle Plugin Providing Full Support for Go|740|0|2021-10-11|
 |19|[ooftf/spy](https://github.com/ooftf/spy)|在Build项目时检查Class之间的引用关系，避免因为依赖库版本问题而产生的ClassNotFoundException,NoSuchMethodException问题|2|0|2021-07-19|
 |20|[cn2oo8/autocode-template-example](https://github.com/cn2oo8/autocode-template-example)|代码模板示例|6|0|2021-09-06|
 |21|[ZackZhou/zrest](https://github.com/ZackZhou/zrest)|扩展的restassured接口自动化|2|0|2021-06-30|

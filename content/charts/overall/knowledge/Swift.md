@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Swift
-<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)|A collaborative list of awesome Swift libraries and resources. Feel free to contribute!|21474|2021-12-29|
-|2|[pock/pock](https://github.com/pock/pock)|Widgets manager for MacBook Touch Bar|9589|2021-09-30|
-|3|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4007|2021-09-14|
+|1|[matteocrippa/awesome-swift](https://github.com/matteocrippa/awesome-swift)|A collaborative list of awesome Swift libraries and resources. Feel free to contribute!|21479|2021-12-29|
+|2|[pock/pock](https://github.com/pock/pock)|Widgets manager for MacBook Touch Bar|9588|2021-09-30|
+|3|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4008|2021-09-14|
 |4|[pujiaxin33/JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView)|A powerful and easy to use segmented view (segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|1922|2021-08-18|
-|5|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1096|2022-01-01|
+|5|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1100|2022-01-03|
 |6|[dengzemiao/DZMeBookRead](https://github.com/dengzemiao/DZMeBookRead)|支持项目使用！最完整小说阅读器Demo！仿iReader(掌阅)，QQ阅读 ... 常用阅读器阅读页面，支持 翻页效果(仿真,覆盖,平移,滚动,无效果)、字体切换、书签功能、阅读记录、亮度调整、背景颜色切换 ...|1042|2021-12-28|
-|7|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|752|2021-12-29|
-|8|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|597|2022-01-02|
+|7|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|757|2021-12-29|
+|8|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|617|2022-01-02|
 |9|[merlos/iOS-Open-GPX-Tracker](https://github.com/merlos/iOS-Open-GPX-Tracker)|GPS Tracker app for iOS + WatchOS. Log your tracks without limits and share them; Open source GPX tracker app written in Swift|412|2021-08-30|
 |10|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|358|2021-10-14|
 |11|[Liaoworking/Advanced-Swift](https://github.com/Liaoworking/Advanced-Swift)|Notes of Advanced Swift. 《swift进阶》学习笔记 swift 5.3|312|2021-12-30|
@@ -21,7 +21,7 @@
 |14|[Code-T/salon-resources](https://github.com/Code-T/salon-resources)|你可以在这里获取相关的资料。|221|2021-07-21|
 |15|[Noah37/zhuishushenqi](https://github.com/Noah37/zhuishushenqi)|追书神器Swift版客户端（非官方）。 不断更新中......|215|2021-12-27|
 |16|[Co2333/myyearwithgit](https://github.com/Co2333/myyearwithgit)|代码仓库年终总结报告。|168|2021-12-09|
-|17|[gl-lei/algorithm](https://github.com/gl-lei/algorithm)|《数据结构与算法之美》学习笔记以及 Swift 代码实现 ，原始仓库 https://github.com/wangzheng0822/algo|116|2021-08-24|
+|17|[gl-lei/algorithm](https://github.com/gl-lei/algorithm)|《数据结构与算法之美》学习笔记以及 Swift 代码实现 ，原始仓库 https://github.com/wangzheng0822/algo|117|2021-08-24|
 |18|[Sophia-fez/Standford-CS193p-2020Spring-SwiftUI](https://github.com/Sophia-fez/Standford-CS193p-2020Spring-SwiftUI)|Stanford University's course CS193p in the spring quarter of 2020 (Developing Applications for iOS using SwiftUI) |107|2021-08-02|
 |19|[BoxDengJZ/AudioJz](https://github.com/BoxDengJZ/AudioJz)|个人学过的，音频相关的技巧。从 ray wenderlich 开始|76|2021-06-11|
 |20|[jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example)|SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。|48|2021-12-05|
@@ -38,7 +38,7 @@
 |31|[simplismvip/SRBook](https://github.com/simplismvip/SRBook)|电子书阅读器，支持epub和txt格式|21|2021-10-21|
 |32|[lionsom/XiOS](https://github.com/lionsom/XiOS)|工作学习记录，留给以后的自己。希望能给大家些许帮助！|21|2021-12-10|
 |33|[ZXKitCode/ZXKitLogger](https://github.com/ZXKitCode/ZXKitLogger)|The iOS side displays the output log log on the screen, and can generate log file sharing, which is convenient for debugging information when the real machine is not connected to xcode. iOS端将输出日志log悬浮 ...|20|2021-12-26|
-|34|[Rogue24/JPCrop](https://github.com/Rogue24/JPCrop)|高仿小红书App裁剪功能的轻量级工具。|19|2021-12-12|
+|34|[Rogue24/JPCrop](https://github.com/Rogue24/JPCrop)|高仿小红书App裁剪功能的轻量级工具。|19|2022-01-03|
 |35|[dyeeee/NotesApp](https://github.com/dyeeee/NotesApp)|完整的便签本app，支持待办事项、笔记本、专注时长等。完全由swiftUI编写|17|2021-07-15|
 |36|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo-Swift](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo-Swift)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|16|2021-10-11|
 |37|[KyleBing/WubiBuddy](https://github.com/KyleBing/WubiBuddy)|《码表助手》鼠须管五笔用户词添加工具 (macOS) |15|2021-08-11|
@@ -47,23 +47,24 @@
 |40|[yanglfree/SwiftUI-Combine-Coding](https://github.com/yanglfree/SwiftUI-Combine-Coding)|objc中国 SwiftUI与Combine编程 学习笔记，课后练习，代码|12|2021-06-30|
 |41|[SurveyCake/webhook](https://github.com/SurveyCake/webhook)|How to use SurveyCake webhook|11|2021-09-06|
 |42|[Binlogo/WWDC-Track](https://github.com/Binlogo/WWDC-Track)| WWDC 观影记录：技术点思维导图 · 演示代码|10|2021-07-01|
-|43|[coyingcat/15DaysofAnimationsinSwift](https://github.com/coyingcat/15DaysofAnimationsinSwift)|Swift，学习动画，升级原版本 ， larrynatalicio/15DaysofAnimationsinSwift|9|2021-09-28|
-|44|[simplismvip/Ebook](https://github.com/simplismvip/Ebook)|使用Swift写的电纸书阅读器，目前支持epub、txt格式电子书。|7|2021-09-18|
-|45|[ethanwa/credit-card-scanner-and-validator](https://github.com/ethanwa/credit-card-scanner-and-validator)|Uses the iOS Vision text recognizer framework to visually read credit card numbers and expiration dates. Then uses the Luhn algorithm to make sure the CC number is valid. Also checks agains a list of  ...|7|2021-06-18|
-|46|[LINGLemon/LXFSwiftApp](https://github.com/LINGLemon/LXFSwiftApp)|学习swift记录使用|7|2021-09-29|
-|47|[fanyunfei786452470/learningSwift](https://github.com/fanyunfei786452470/learningSwift)|基于swift4.2的语言、框架、项目学习|6|2021-07-22|
-|48|[DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift)|This demo teaches you how to import and activate DJI SDK in your Xcode project using Swift.|6|2021-10-11|
-|49|[flywo/SwiftKnowledgePoint](https://github.com/flywo/SwiftKnowledgePoint)|swift3知识点，温故而知新！|6|2021-12-01|
-|50|[Li-JianXin/Swift_Leetcode](https://github.com/Li-JianXin/Swift_Leetcode)|leetcode学习|5|2022-01-01|
-|51|[gltwy/public](https://github.com/gltwy/public)|微信公众号 "技术大咖社" 文章合集|5|2021-06-06|
-|52|[Hardercoder/blog](https://github.com/Hardercoder/blog)|博客记录|5|2021-10-15|
-|53|[MoonStartMan/SwiftUI-Study](https://github.com/MoonStartMan/SwiftUI-Study)|SwiftUI学习记录|4|2021-07-31|
-|54|[chenminjie92/MJThirdManager](https://github.com/chenminjie92/MJThirdManager)|常用三方的支付、登录、分享二次封装|4|2021-08-04|
-|55|[christhoper/WorkingIssues](https://github.com/christhoper/WorkingIssues)|记录一些工作上的问题、优秀博客等|4|2021-11-23|
-|56|[Cosmos-Front-end/tech-architecture](https://github.com/Cosmos-Front-end/tech-architecture)|Technology Architecture study and learn，技术架构研究和学习。|4|2021-08-07|
-|57|[tianguanghui/PushWithP8](https://github.com/tianguanghui/PushWithP8)|用P8证书发送Push|3|2021-08-30|
-|58|[zhuzhuxingtianxia/GitBlog](https://github.com/zhuzhuxingtianxia/GitBlog)|github博客~ios|3|2021-12-10|
-|59|[zhangzhb369/x-reader-languages](https://github.com/zhangzhb369/x-reader-languages)|Txt,Pdf,Epub,Mobi,Azw book reader for iOS/iPad/Mac OS. 苹果多平台文档阅读器.多语言翻译工程.|3|2021-12-04|
+|43|[tw93/MiaoYan](https://github.com/tw93/MiaoYan)|⛷  轻灵的 Mac Markdown 笔记本伴你写出妙言|10|2022-01-03|
+|44|[coyingcat/15DaysofAnimationsinSwift](https://github.com/coyingcat/15DaysofAnimationsinSwift)|Swift，学习动画，升级原版本 ， larrynatalicio/15DaysofAnimationsinSwift|9|2021-09-28|
+|45|[simplismvip/Ebook](https://github.com/simplismvip/Ebook)|使用Swift写的电纸书阅读器，目前支持epub、txt格式电子书。|7|2021-09-18|
+|46|[ethanwa/credit-card-scanner-and-validator](https://github.com/ethanwa/credit-card-scanner-and-validator)|Uses the iOS Vision text recognizer framework to visually read credit card numbers and expiration dates. Then uses the Luhn algorithm to make sure the CC number is valid. Also checks agains a list of  ...|7|2021-06-18|
+|47|[LINGLemon/LXFSwiftApp](https://github.com/LINGLemon/LXFSwiftApp)|学习swift记录使用|7|2021-09-29|
+|48|[fanyunfei786452470/learningSwift](https://github.com/fanyunfei786452470/learningSwift)|基于swift4.2的语言、框架、项目学习|6|2021-07-22|
+|49|[DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift)|This demo teaches you how to import and activate DJI SDK in your Xcode project using Swift.|6|2021-10-11|
+|50|[flywo/SwiftKnowledgePoint](https://github.com/flywo/SwiftKnowledgePoint)|swift3知识点，温故而知新！|6|2021-12-01|
+|51|[Li-JianXin/Swift_Leetcode](https://github.com/Li-JianXin/Swift_Leetcode)|leetcode学习|5|2022-01-01|
+|52|[gltwy/public](https://github.com/gltwy/public)|微信公众号 "技术大咖社" 文章合集|5|2021-06-06|
+|53|[Hardercoder/blog](https://github.com/Hardercoder/blog)|博客记录|5|2021-10-15|
+|54|[MoonStartMan/SwiftUI-Study](https://github.com/MoonStartMan/SwiftUI-Study)|SwiftUI学习记录|4|2021-07-31|
+|55|[chenminjie92/MJThirdManager](https://github.com/chenminjie92/MJThirdManager)|常用三方的支付、登录、分享二次封装|4|2021-08-04|
+|56|[christhoper/WorkingIssues](https://github.com/christhoper/WorkingIssues)|记录一些工作上的问题、优秀博客等|4|2021-11-23|
+|57|[Cosmos-Front-end/tech-architecture](https://github.com/Cosmos-Front-end/tech-architecture)|Technology Architecture study and learn，技术架构研究和学习。|4|2021-08-07|
+|58|[tianguanghui/PushWithP8](https://github.com/tianguanghui/PushWithP8)|用P8证书发送Push|3|2021-08-30|
+|59|[zhuzhuxingtianxia/GitBlog](https://github.com/zhuzhuxingtianxia/GitBlog)|github博客~ios|3|2021-12-10|
+|60|[zhangzhb369/x-reader-languages](https://github.com/zhangzhb369/x-reader-languages)|Txt,Pdf,Epub,Mobi,Azw book reader for iOS/iPad/Mac OS. 苹果多平台文档阅读器.多语言翻译工程.|3|2021-12-04|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

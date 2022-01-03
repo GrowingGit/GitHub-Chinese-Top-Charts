@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -34,7 +34,7 @@
 |27|[HanpyBin/Numerical-Analysis-Experiment](https://github.com/HanpyBin/Numerical-Analysis-Experiment)|武汉理工大学数值分析实验-基于matlab|5|0|2021-08-15|
 |28|[WHUzxp/Dual_SOCP](https://github.com/WHUzxp/Dual_SOCP)|潮流计算 二阶锥松弛 对偶形式|4|0|2021-06-18|
 |29|[ja754969/Ocean-Current-Observation-and-Analysis](https://github.com/ja754969/Ocean-Current-Observation-and-Analysis)|洋流觀測分析 class at NTOU. File Station link : |2|0|2021-08-30|
-|30|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|75|0|2022-01-01|
+|30|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|75|0|2022-01-02|
 |31|[cmtso/EKI_geophysics_2020](https://github.com/cmtso/EKI_geophysics_2020)|Example MATLAB scripts for running ensemble Kalman inversion for electrical resistivity tomography data to accompany paper.|7|0|2021-10-20|
 |32|[Dingqinliu/Encryption_Matlab](https://github.com/Dingqinliu/Encryption_Matlab)|与图像加密有关的一些代码|3|0|2021-07-16|
 |33|[LingyvKong/PatternRecognition-with-matlab](https://github.com/LingyvKong/PatternRecognition-with-matlab)|使用matlab从0构建模式识别算法|5|0|2021-06-26|
@@ -56,7 +56,7 @@
 |49|[chaiqingao/Sudoku](https://github.com/chaiqingao/Sudoku)|一个用MATLAB写的数独小游戏：以命令行和GUI两种方式生成数独和求解数独，你可以作为游戏来玩或作为求解数独的工具。|3|0|2021-07-15|
 |50|[woniuhuli/kdTree](https://github.com/woniuhuli/kdTree)|matlab实现对数据建立kd树，并且实现最近邻搜索|12|0|2021-12-14|
 |51|[nanguoyu/Captcha-recognition](https://github.com/nanguoyu/Captcha-recognition)|[CAIA I Lab 5] Captcha recognition implemented by Matlab  [CAIA I Lab 5]数字图像验证码识别 |5|0|2021-12-14|
-|52|[Wenzhe-Liu/sound-source-localization-algorithm_DOA_estimation](https://github.com/Wenzhe-Liu/sound-source-localization-algorithm_DOA_estimation)|关于语音信号声源定位DOA估计所用的一些传统算法|107|0|2021-06-30|
+|52|[Wenzhe-Liu/sound-source-localization-algorithm_DOA_estimation](https://github.com/Wenzhe-Liu/sound-source-localization-algorithm_DOA_estimation)|关于语音信号声源定位DOA估计所用的一些传统算法|108|0|2021-06-30|
 |53|[z-xr/SSL](https://github.com/z-xr/SSL)|基于matlab的声源定位广义互相关算法的实现|3|0|2021-07-16|
 |54|[AirChem/F0AM](https://github.com/AirChem/F0AM)|Framework for 0-D Atmospheric Modeling|30|0|2021-12-23|
 |55|[lunarwhite/Chinese-handwritten-numbers-recognization](https://github.com/lunarwhite/Chinese-handwritten-numbers-recognization)|用简单的BP神经网络来识别中文手写阿拉伯数字，kaggle中的Toy项目，算法用Matlab手写实现|6|0|2021-06-13|
@@ -75,12 +75,12 @@
 |68|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|374|0|2021-12-15|
 |69|[wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve](https://github.com/wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve)|使用贝塞尔曲线，通过合理选取控制点使轨迹在拼接点处曲率连续|5|0|2021-09-06|
 |70|[YuJie2020/MATLAB-HFSS-API](https://github.com/YuJie2020/MATLAB-HFSS-API)|HFSS-MATLAB-API 是通过 MATLAB 编写的一套可调用的 HFSS-MATLAB 应用程序编程接口，通过编写 MATLAB 代码来生成执行相关特定操作的 HFSS 程序所需的 VBS 脚本|6|0|2021-08-19|
-|71|[tyl-stu/Compressed-sensing-code](https://github.com/tyl-stu/Compressed-sensing-code)|自己搜集和改写的压缩感知相关程序代码|3|0|2021-07-26|
+|71|[tyl-stu/Compressed-sensing-code](https://github.com/tyl-stu/Compressed-sensing-code)|自己搜集和改写的压缩感知相关程序代码|4|0|2021-07-26|
 |72|[fuzhiqiang1230/DLRRPD](https://github.com/fuzhiqiang1230/DLRRPD)|This repository is used for sharing the source code of Double low-rank representation with projection distance penalty for clustering|9|0|2021-12-08|
-|73|[redglassli/Formation_Consensus_basic](https://github.com/redglassli/Formation_Consensus_basic)|A basic version for robot formation consensus and obstacle avoidance by MATLAB|11|0|2021-06-10|
+|73|[redglassli/Formation_Consensus_basic](https://github.com/redglassli/Formation_Consensus_basic)|A basic version for robot formation consensus and obstacle avoidance by MATLAB|12|0|2021-06-10|
 |74|[Magica-Chen/zhihu_writing](https://github.com/Magica-Chen/zhihu_writing)|Some simple codes for zhihu column writing: 高斯世界下的Machine Learning|3|0|2021-12-26|
 |75|[WeisongZhao/Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|Official MATLAB implementation of the "Sparse deconvolution" -v1.0.3|25|0|2021-12-31|
-|76|[AomanHao/Matlab-Image-Dehaze-Enhance](https://github.com/AomanHao/Matlab-Image-Dehaze-Enhance)|图像去雾、图像增强、灰度直方图均衡化等|40|0|2021-10-23|
+|76|[AomanHao/Matlab-Image-Dehaze-Enhance](https://github.com/AomanHao/Matlab-Image-Dehaze-Enhance)|图像去雾、图像增强、灰度直方图均衡化等|41|0|2021-10-23|
 |77|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|3|0|2021-12-29|
 |78|[DietCokewithSugar/undamage-blood-glucose](https://github.com/DietCokewithSugar/undamage-blood-glucose)|基于改进深度回归网络的无创血糖检测算法|2|0|2021-12-02|
 |79|[mingsongli/acycle](https://github.com/mingsongli/acycle)|Acycle: Time-series analysis software for research and education|54|0|2021-12-12|

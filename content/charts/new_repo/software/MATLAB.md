@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[ToKiNoBug/3dPixelPaintingInMinecraft](https://github.com/ToKiNoBug/3dPixelPaintingInMinecraft)|在minecraft中生成3d的地图画|19|2021-09-24|2021-02-20|
-|2|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|11|2021-12-29|2021-09-21|
-|3|[redglassli/Formation_Consensus_basic](https://github.com/redglassli/Formation_Consensus_basic)|A basic version for robot formation consensus and obstacle avoidance by MATLAB|11|2021-06-10|2021-06-10|
+|2|[redglassli/Formation_Consensus_basic](https://github.com/redglassli/Formation_Consensus_basic)|A basic version for robot formation consensus and obstacle avoidance by MATLAB|12|2021-06-10|2021-06-10|
+|3|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|11|2021-12-29|2021-09-21|
 |4|[yeyuanxin110/CFOG](https://github.com/yeyuanxin110/CFOG)|-|11|2021-11-20|2021-01-06|
 |5|[himynameisfuego/SiTraNo](https://github.com/himynameisfuego/SiTraNo)|A MATLAB app for tonal-transient-noise decomposition of audio signals.|10|2021-09-08|2021-04-16|
 |6|[cggos/opt_matlab](https://github.com/cggos/opt_matlab)|最优化方法及其MATLAB实现 源代码|9|2021-10-07|2021-10-07|
@@ -25,14 +25,14 @@
 |18|[wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve](https://github.com/wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve)|使用贝塞尔曲线，通过合理选取控制点使轨迹在拼接点处曲率连续|5|2021-09-06|2021-09-06|
 |19|[seer-group329/PositionAndPosConnectionOfTheCar](https://github.com/seer-group329/PositionAndPosConnectionOfTheCar)|在已知无人仓储车的起始与目标位姿的条件下，得到三阶连续的曲线路径|5|2021-09-18|2021-08-15|
 |20|[tlt18/Plate-Location](https://github.com/tlt18/Plate-Location)|数字图像处理 车牌定位和字符分割|5|2021-06-24|2021-06-18|
-|21|[AIHHU/Ant-Colony-Optimization](https://github.com/AIHHU/Ant-Colony-Optimization)|用matlab实现蚁群算法|4|2021-07-02|2021-06-30|
-|22|[Stansec233/SVM-Electricity_Load_Forecast](https://github.com/Stansec233/SVM-Electricity_Load_Forecast)|基于日特征气象因素的支持向量机预测电力负荷|4|2021-06-24|2021-06-24|
-|23|[zxb17zxb/SLIC](https://github.com/zxb17zxb/SLIC)|一个SLIC算法用于图像分割的matlab实现|3|2021-12-07|2021-12-07|
-|24|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|3|2021-12-29|2021-12-01|
-|25|[BetterBench/2021-APMCM-Problem-A](https://github.com/BetterBench/2021-APMCM-Problem-A)|2021年亚太地区数学建模赛题A(图像边缘分析与应用) Halcon方案实现、代码、实验数据|3|2021-11-30|2021-11-30|
-|26|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|2021-12-21|2021-10-21|
-|27|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|3|2021-12-25|2021-08-03|
-|28|[tyl-stu/Compressed-sensing-code](https://github.com/tyl-stu/Compressed-sensing-code)|自己搜集和改写的压缩感知相关程序代码|3|2021-07-26|2021-07-26|
+|21|[tyl-stu/Compressed-sensing-code](https://github.com/tyl-stu/Compressed-sensing-code)|自己搜集和改写的压缩感知相关程序代码|4|2021-07-26|2021-07-26|
+|22|[AIHHU/Ant-Colony-Optimization](https://github.com/AIHHU/Ant-Colony-Optimization)|用matlab实现蚁群算法|4|2021-07-02|2021-06-30|
+|23|[Stansec233/SVM-Electricity_Load_Forecast](https://github.com/Stansec233/SVM-Electricity_Load_Forecast)|基于日特征气象因素的支持向量机预测电力负荷|4|2021-06-24|2021-06-24|
+|24|[zxb17zxb/SLIC](https://github.com/zxb17zxb/SLIC)|一个SLIC算法用于图像分割的matlab实现|3|2021-12-07|2021-12-07|
+|25|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|3|2021-12-29|2021-12-01|
+|26|[BetterBench/2021-APMCM-Problem-A](https://github.com/BetterBench/2021-APMCM-Problem-A)|2021年亚太地区数学建模赛题A(图像边缘分析与应用) Halcon方案实现、代码、实验数据|3|2021-11-30|2021-11-30|
+|27|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|2021-12-21|2021-10-21|
+|28|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|3|2021-12-25|2021-08-03|
 |29|[heihei2122/mag_cuboid](https://github.com/heihei2122/mag_cuboid)|a gui or app based matlab to calculate B  force stiffness  矩形磁体的计算|3|2021-11-20|2021-07-25|
 |30|[z-xr/SSL](https://github.com/z-xr/SSL)|基于matlab的声源定位广义互相关算法的实现|3|2021-07-16|2021-07-16|
 |31|[X-X-Y/about_EEG_EandP](https://github.com/X-X-Y/about_EEG_EandP)|说说脑电信号的频谱、能量、功率谱、功率谱密度都是指什么|3|2021-07-15|2021-07-15|

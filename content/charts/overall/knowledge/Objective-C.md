@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Objective-C
-<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[pujiaxin33/JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)|A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|5575|2021-10-25|
-|2|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4661|2022-01-02|
+|2|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4667|2022-01-02|
 |3|[skyming/iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)|关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit|4345|2021-08-09|
 |4|[liberalisman/iOS-InterviewQuestion-collection](https://github.com/liberalisman/iOS-InterviewQuestion-collection)|iOS 开发者在面试过程中，常见的一些面试题，建议尽量弄懂了原理，并且多实践。|2927|2021-06-09|
-|5|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2328|2021-12-16|
+|5|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2329|2021-12-16|
 |6|[objccn/articles](https://github.com/objccn/articles)|Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本|2087|2021-11-02|
 |7|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1194|2021-12-28|
 |8|[SunshineBrother/JHBlog](https://github.com/SunshineBrother/JHBlog)|iOS开发：我的初级到中级的晋级之路|1189|2021-07-29|
@@ -18,7 +18,7 @@
 |11|[wwmz/WMZDialog](https://github.com/wwmz/WMZDialog)|功能最多样式最多的弹窗，支持普通/底部/日期/地区/日历/选择/编辑/分享/菜单/自定义弹窗等,支持多种动画,链式编程调用(Pop-up windows with the most functions and styles, support normal/bottom/date/region/calendar/select/edit/share/menu/custom pop-up windows ...|839|2021-12-29|
 |12|[wwmz/WMZPageController](https://github.com/wwmz/WMZPageController)|分页控制器,替换UIPageController方案,具备完整的生命周期,多种指示器样式,多种标题样式,可悬浮,支持ios13暗黑模式(仿优酷,爱奇艺,今日头条,简书,京东等多种标题菜单) (Pagination controller with full life cycle, multiple indicator styles, multiple title styles)|544|2021-12-30|
 |13|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|443|2021-12-03|
-|14|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|437|2021-12-24|
+|14|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|438|2021-12-24|
 |15|[LGCooci/KCiOSGrocery](https://github.com/LGCooci/KCiOSGrocery)|iOS开发杂货铺: 面试题+考试试卷+懒人开发tips|431|2021-10-10|
 |16|[wjd-jax/WJDStudyLibrary](https://github.com/wjd-jax/WJDStudyLibrary)|这是一个大工程,里边包含了项目中常用模块的封装,我的简书地址:|343|2021-08-23|
 |17|[vvusu/LNRefresh](https://github.com/vvusu/LNRefresh)|轻量级下拉刷新控件,各种动画集合（京东，天猫，淘宝，考拉海购，美团，今日头条，飞猪）|336|2021-06-16|
@@ -42,7 +42,7 @@
 |35|[yangKJ/KJEmitterView](https://github.com/yangKJ/KJEmitterView)|开发加速库，LeetCode算法，Opencv图片算法，正则算法，粒子效果，数组字典高级用法，线程处理，多语言等 🚗   ..|29|2021-12-22|
 |36|[onezens/WeChatBot](https://github.com/onezens/WeChatBot)|Tweak 工程创建、配置教程 & 实现logos语法自动补全|28|2021-09-24|
 |37|[DJI-Mobile-SDK-Tutorials/iOS-GSDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-GSDemo)|A demo teaches you how to construct a DJIWaypoint Mission app, which allows you to plot a flight route for your drone by placing waypoints on a map.|26|2021-10-11|
-|38|[fanyuecheng/SoulHook](https://github.com/fanyuecheng/SoulHook)|Soul iOS App逆向实战（仅用于学习）|24|2021-10-19|
+|38|[fanyuecheng/SoulHook](https://github.com/fanyuecheng/SoulHook)|Soul iOS App逆向实战（仅用于学习）|25|2021-10-19|
 |39|[skyming/Study](https://github.com/skyming/Study)|学习日志记录、笔记|22|2021-12-01|
 |40|[MarkWangLike/WHPageFlipTwoSide](https://github.com/MarkWangLike/WHPageFlipTwoSide)|翻书效果预览图片|18|2021-06-14|
 |41|[bqlin/Apple-Sample-Code](https://github.com/bqlin/Apple-Sample-Code)|苹果示例代码学习|18|2021-09-02|
@@ -51,12 +51,12 @@
 |44|[BlackStarLang/BSFramework](https://github.com/BlackStarLang/BSFramework)|多功能 framework，持续集成中。已开发pod组件：图片、视频选择器、图片视频预览控件、自定义相机：拍照+拍摄 ，3D轮播图 + iOS功能点学习（如 runloop、runtime、多线程、AutoreleasePool、DynamicBehavior 等等)|13|2021-12-06|
 |45|[xiaoeteam/XiaoeAppSDK-iOS](https://github.com/xiaoeteam/XiaoeAppSDK-iOS)|通过小鹅通APP内嵌SDK可以在 App 内快速集成小鹅通提供的整个交易服务，享受完善的基础知识商品能力、营销玩法，更有小鹅通强劲的技术及服务作保障，实现低成本、高效率、强融合的移动商城方案，快速获得 App 流量的商业化变现。|13|2021-10-26|
 |46|[XLsn0w/XLsn0w](https://github.com/XLsn0w/XLsn0w)|🔥🔥🔥联系我:XLsn00w@gmail.com   微信公众号: Cydia   Cydia官方源: https://xlsn0w.github.io/tweaks/ 🔥🔥🔥|13|2021-07-23|
-|47|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|11|2021-12-16|
-|48|[HMS-Core/hms-analytics-demo-ios](https://github.com/HMS-Core/hms-analytics-demo-ios)|HMS analytics kit demo provides an example of integrating HUAWEI Analytics Kit with an app. It illustrates how to collect predefined events and custom events on two pages, namely, question page or use ...|11|2021-09-13|
-|49|[DJI-Mobile-SDK-Tutorials/iOS-PlaybackDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-PlaybackDemo)|A demo help you learn how to use DJI Mobile SDK to access the media resources in the SD card of the aircraft's camera to preview photos, play videos, download or delete files.|10|2021-10-11|
-|50|[GardenerYun/iOS--Note](https://github.com/GardenerYun/iOS--Note)|iOS研究笔记|9|2021-12-23|
-|51|[crazypoo/PTools](https://github.com/crazypoo/PTools)|iOS开发工具小集合,不定期更新|9|2021-12-01|
-|52|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|9|2021-12-23|
+|47|[HMS-Core/hms-analytics-demo-ios](https://github.com/HMS-Core/hms-analytics-demo-ios)|HMS analytics kit demo provides an example of integrating HUAWEI Analytics Kit with an app. It illustrates how to collect predefined events and custom events on two pages, namely, question page or use ...|12|2021-09-13|
+|48|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|11|2021-12-16|
+|49|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|10|2021-12-23|
+|50|[DJI-Mobile-SDK-Tutorials/iOS-PlaybackDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-PlaybackDemo)|A demo help you learn how to use DJI Mobile SDK to access the media resources in the SD card of the aircraft's camera to preview photos, play videos, download or delete files.|10|2021-10-11|
+|51|[GardenerYun/iOS--Note](https://github.com/GardenerYun/iOS--Note)|iOS研究笔记|9|2021-12-23|
+|52|[crazypoo/PTools](https://github.com/crazypoo/PTools)|iOS开发工具小集合,不定期更新|9|2021-12-01|
 |53|[orilme/OCSummary](https://github.com/orilme/OCSummary)|OC知识和常用的一些小Demo|8|2021-07-17|
 |54|[kuiZhang98/ZkDemo](https://github.com/kuiZhang98/ZkDemo)|分享快乐|7|2021-06-22|
 |55|[Lin-Bing/SampleCode](https://github.com/Lin-Bing/SampleCode)|博客相关代码示例|7|2021-09-22|

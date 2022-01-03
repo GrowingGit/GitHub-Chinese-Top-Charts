@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Lua
-<sub>数据更新: 2022-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Wscats/articles](https://github.com/Wscats/articles)|🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆|3048|2021-12-20|
+|1|[Wscats/articles](https://github.com/Wscats/articles)|🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆|3049|2021-12-20|
 |2|[skywind3000/z.lua](https://github.com/skywind3000/z.lua)|:zap: A new cd command that helps you navigate faster by learning your habits.|2173|2021-11-13|
 |3|[Tinywan/lua-nginx-redis](https://github.com/Tinywan/lua-nginx-redis)|:hibiscus: Redis、Lua、Nginx、OpenResty 笔记和资料|844|2021-10-26|
 |4|[Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)|《明日方舟》游戏数据|645|2021-12-30|
