@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 资料类 > Assembly
-<sub>数据更新: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -17,7 +17,7 @@
 |10|[richardhyy/AssemblyLab](https://github.com/richardhyy/AssemblyLab)|《汇编语言（第四版）》 - 王爽 - 实验/检查点   Assembly (4th Edition) - WangShuang - Labs|3|2021-06-12|2021-04-21|
 |11|[lingbai-kong/computer-system](https://github.com/lingbai-kong/computer-system)|同济大学CS《计算机系统实验》实验二TongJi University CS computer system experiment assignment 2|2|2021-07-25|2021-07-25|
 |12|[TommyGong08/Sokoban](https://github.com/TommyGong08/Sokoban)|【汇编项目】BIT大三下学期课程项目——推箱子|2|2021-06-09|2021-05-26|
-|13|[impact-eintr/x86](https://github.com/impact-eintr/x86)|从零开始的X86汇编语言学习|2|2022-01-03|2021-05-11|
+|13|[impact-eintr/x86](https://github.com/impact-eintr/x86)|从零开始的X86汇编语言学习|2|2022-01-04|2021-05-11|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

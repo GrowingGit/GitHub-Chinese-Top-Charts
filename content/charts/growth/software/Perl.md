@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Perl
-<sub>数据更新: 2022-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Oreomeow/checkinpanel](https://github.com/Oreomeow/checkinpanel)|一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）|623|5|2021-12-19|
-|2|[alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list)|Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!|605|1|2022-01-02|
+|1|[Oreomeow/checkinpanel](https://github.com/Oreomeow/checkinpanel)|一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）|625|5|2021-12-19|
+|2|[alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list)|Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!|606|1|2022-01-04|
 |3|[Yanstory/tpZHCNex](https://github.com/Yanstory/tpZHCNex)|thpatch zh-hans extra patches (Beta)|15|0|2021-12-26|
 |4|[leobbs/leobbs](https://github.com/leobbs/leobbs)|雷傲论坛, demo地址https://leobbs.org|4|0|2021-11-29|
 |5|[g0v/magic-mirror](https://github.com/g0v/magic-mirror)|定時 mirror *.gov.tw 上有時效性的資料到 git repository.|10|0|2021-08-03|
@@ -22,14 +22,14 @@
 |15|[texjporg/ptex-fontmaps](https://github.com/texjporg/ptex-fontmaps)|Font maps for dvipdfmx, and the script kanji-config-updmap|18|0|2021-06-25|
 |16|[liaochenlanruo/pgcgap](https://github.com/liaochenlanruo/pgcgap)|The Prokaryotic Genomics and Comparative Genomics Analysis Pipeline|18|0|2021-12-23|
 |17|[upyun/lua-resty-limit-rate](https://github.com/upyun/lua-resty-limit-rate)|Lua module for limiting request rate for OpenResty/ngx_lua, using the "token bucket" method.|58|0|2021-06-11|
-|18|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|203|0|2022-01-03|
+|18|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|203|0|2022-01-04|
 |19|[texjporg/cjk-gs-support](https://github.com/texjporg/cjk-gs-support)|Scripts to ease the use of CJK fonts with Ghostscript|27|0|2021-09-30|
 |20|[MYDan/mayi](https://github.com/MYDan/mayi)|蚂蚁蛋运维助手(安装方式: curl -L http://update.mydan.org bash)|12|0|2021-10-14|
 |21|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|59|0|2021-12-27|
-|22|[houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm)|A date and time object for Perl|45|0|2021-12-23|
+|22|[houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm)|A date and time object for Perl|44|0|2021-12-23|
 |23|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|171|0|2022-01-01|
 |24|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|311|0|2021-12-15|
-|25|[open-c3/open-c3](https://github.com/open-c3/open-c3)|CICD系统/发布系统/作业平台|138|0|2021-12-31|
+|25|[open-c3/open-c3](https://github.com/open-c3/open-c3)|CICD系统/发布系统/作业平台|138|0|2022-01-04|
 |26|[g0v/people-in-news](https://github.com/g0v/people-in-news)|公眾人物新聞的追蹤|17|0|2021-11-01|
 |27|[Conan924/md5ups](https://github.com/Conan924/md5ups)|爆破md5(用户名+密码+salt)的脚本|2|0|2021-11-15|
 |28|[AntDen/AntDen](https://github.com/AntDen/AntDen)|AntDen 是一个开源的通用计算框架|9|0|2021-08-14|
@@ -45,7 +45,7 @@
 |38|[lulzlabs/AirChat](https://github.com/lulzlabs/AirChat)|Free Communications For Everyone.|1026|0|2021-12-09|
 |39|[k1d0ne/cobaltstrike_plugin](https://github.com/k1d0ne/cobaltstrike_plugin)|陆续补充一些自己写的cobaltstrike插件|37|0|2021-11-05|
 |40|[tp7309/tt7zcrack](https://github.com/tp7309/tt7zcrack)|7z辅助破解工具 Fast 7zip crack assistant tool which support GPU/CPU, written in Python.|12|0|2021-10-07|
-|41|[hcymysql/mysql_monitor](https://github.com/hcymysql/mysql_monitor)|MySQL Monitor面向研发人员图形可视化监控工具|115|0|2022-01-03|
+|41|[hcymysql/mysql_monitor](https://github.com/hcymysql/mysql_monitor)|MySQL Monitor面向研发人员图形可视化监控工具|115|0|2022-01-04|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
