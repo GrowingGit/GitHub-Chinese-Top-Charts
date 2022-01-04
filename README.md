@@ -15,7 +15,7 @@
     <a href="content/docs/features.md">特色亮点</a> •
     <a href="content/docs/definition_of_Chinese_repo.md">中文定义</a> •
     <a href="content/docs/inclusion_rules.md">收录规则</a> •
-    <a href="content/docs/milestone.md">里程碑</a> •
+    <a href="content/docs/milestone.md">重要更新</a> •
     <a href="content/docs/feedback.md">问题反馈</a> •
     <a href="LICENSE.md">许可协议</a>
 </div>
@@ -290,5 +290,5 @@
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
-    榜单持续<a href="content/docs/milestone.md">更新</a>，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
