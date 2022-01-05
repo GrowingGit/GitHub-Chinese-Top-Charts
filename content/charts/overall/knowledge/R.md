@@ -13,17 +13,15 @@
 |6|[yihui/MSG](https://github.com/yihui/MSG)|Modern Statistical Graphics （《现代统计图形》的附加包）|33|2021-08-15|
 |7|[wangyi-fudan/BIOL130173](https://github.com/wangyi-fudan/BIOL130173)|复旦大学生命科学学院《生命科学中的机器学习》|26|2021-10-02|
 |8|[lei-zhang/COSN_webinar](https://github.com/lei-zhang/COSN_webinar)|Tutorial talks at the Chinese Open Science Webinar series|22|2021-08-31|
-|9|[frankcsliu/R4surveyresearch](https://github.com/frankcsliu/R4surveyresearch)|《民意調查資料分析的R實戰手冊》的語法檔及資料檔（2018五南出版） |13|2021-06-12|
-|10|[stablemarkets/ChiRP](https://github.com/stablemarkets/ChiRP)|Chinese Restaurant Process Models for Regression and Clustering. Master branch contains latest stable build.|9|2021-07-22|
-|11|[lexcomber/SpatInt](https://github.com/lexcomber/SpatInt)|Examples of different Spatial Interpolation approaches in R |7|2021-12-13|
-|12|[thomasWeise/bookbuildeR](https://github.com/thomasWeise/bookbuildeR)|An R Package for Building Books or Documents using pandoc|7|2021-08-31|
-|13|[Hayeke/RAssignment](https://github.com/Hayeke/RAssignment)|超市销售数据分析练习（R课程）|7|2021-10-10|
-|14|[ShixiangWang/LeetCode](https://github.com/ShixiangWang/LeetCode)|LeetCode题解：使用 R/Python/Go 学习和锻炼算法能力。|4|2021-06-30|
-|15|[Fayehh/R-for-Quantitative-Research](https://github.com/Fayehh/R-for-Quantitative-Research)|中国科学院大学中丹学院Research Methods课程定量部分|4|2021-08-23|
+|9|[stablemarkets/ChiRP](https://github.com/stablemarkets/ChiRP)|Chinese Restaurant Process Models for Regression and Clustering. Master branch contains latest stable build.|9|2021-07-22|
+|10|[lexcomber/SpatInt](https://github.com/lexcomber/SpatInt)|Examples of different Spatial Interpolation approaches in R |7|2021-12-13|
+|11|[thomasWeise/bookbuildeR](https://github.com/thomasWeise/bookbuildeR)|An R Package for Building Books or Documents using pandoc|7|2021-08-31|
+|12|[Hayeke/RAssignment](https://github.com/Hayeke/RAssignment)|超市销售数据分析练习（R课程）|7|2021-10-10|
+|13|[Fayehh/R-for-Quantitative-Research](https://github.com/Fayehh/R-for-Quantitative-Research)|中国科学院大学中丹学院Research Methods课程定量部分|4|2021-08-23|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
-    榜单持续<a href="/content/docs/milestone.md">更新</a>，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
 
 <br/>

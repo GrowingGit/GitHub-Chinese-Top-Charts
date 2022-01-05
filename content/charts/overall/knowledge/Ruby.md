@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[lewagon/setup](https://github.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|11514|2022-01-04|
+|1|[lewagon/setup](https://github.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|11515|2022-01-04|
 |2|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5987|2022-01-04|
 |3|[airbnb/ruby](https://github.com/airbnb/ruby)|Ruby Style Guide|3370|2021-12-28|
 |4|[guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)|A curated list of podcasts we like to listen to. |1605|2021-07-15|
@@ -29,7 +29,7 @@
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
-    榜单持续<a href="/content/docs/milestone.md">更新</a>，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
 
 <br/>

@@ -16,15 +16,13 @@
 |9|[baiyuliang/Flutter-WanWan](https://github.com/baiyuliang/Flutter-WanWan)|Flutter入门项目（首页，消息，圈子，我的）|13|2021-08-17|2021-03-26|
 |10|[cocojian/flutter100days](https://github.com/cocojian/flutter100days)|这是一个flutter教程，用100天的时间来完成挑战，每天只需要完成一课，100天之后，你将遇见更好的自己。|8|2021-11-24|2021-11-21|
 |11|[Lester2020/flutter_study_demo](https://github.com/Lester2020/flutter_study_demo)|一个零基础入门学习flutter的demo总结，里面覆盖flutter常用组件和APP的基本框架结构样式。|8|2021-10-14|2021-08-27|
-|12|[yy1300326388/flutter_widgets](https://github.com/yy1300326388/flutter_widgets)|🔥 Flutter Widgets 掘金对应专栏，欢迎关注|8|2021-06-30|2021-06-01|
-|13|[kangshaojun/study-notes](https://github.com/kangshaojun/study-notes)|Flutter React Golang WebRTC等技术学习笔记|6|2021-08-14|2021-07-16|
-|14|[zhou-Flutter/flutter_dome](https://github.com/zhou-Flutter/flutter_dome)|实战小红书|6|2021-10-31|2021-06-15|
-|15|[CallMeDK/flutter_stock_project](https://github.com/CallMeDK/flutter_stock_project)|flutter仿写自选股详情，感兴趣的小伙伴fork下一起学习dart。|5|2021-07-26|2021-07-26|
-|16|[liufeng125300/douyin](https://github.com/liufeng125300/douyin)|flutter 学习进行中（抖音项目）|4|2021-06-29|2021-06-17|
+|12|[kangshaojun/study-notes](https://github.com/kangshaojun/study-notes)|Flutter React Golang WebRTC等技术学习笔记|6|2021-08-14|2021-07-16|
+|13|[zhou-Flutter/flutter_dome](https://github.com/zhou-Flutter/flutter_dome)|实战小红书|6|2021-10-31|2021-06-15|
+|14|[CallMeDK/flutter_stock_project](https://github.com/CallMeDK/flutter_stock_project)|flutter仿写自选股详情，感兴趣的小伙伴fork下一起学习dart。|5|2021-07-26|2021-07-26|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
-    榜单持续<a href="/content/docs/milestone.md">更新</a>，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
 
 <br/>

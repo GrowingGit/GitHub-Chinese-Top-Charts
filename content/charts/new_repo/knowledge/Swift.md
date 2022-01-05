@@ -14,18 +14,16 @@
 |7|[simplismvip/SRBook](https://github.com/simplismvip/SRBook)|电子书阅读器，支持epub和txt格式|21|2021-10-21|2021-10-19|
 |8|[Jiafu-Ziran/an-app-from-scratch-video-materials](https://github.com/Jiafu-Ziran/an-app-from-scratch-video-materials)| 「使用 SwiftUI 开发 iOS App 新手教程」课程材料|13|2021-09-13|2021-07-12|
 |9|[simplismvip/Ebook](https://github.com/simplismvip/Ebook)|使用Swift写的电纸书阅读器，目前支持epub、txt格式电子书。|7|2021-09-18|2021-04-17|
-|10|[ethanwa/credit-card-scanner-and-validator](https://github.com/ethanwa/credit-card-scanner-and-validator)|Uses the iOS Vision text recognizer framework to visually read credit card numbers and expiration dates. Then uses the Luhn algorithm to make sure the CC number is valid. Also checks agains a list of  ...|7|2021-06-18|2021-03-20|
-|11|[Li-JianXin/Swift_Leetcode](https://github.com/Li-JianXin/Swift_Leetcode)|leetcode学习|5|2022-01-01|2021-04-20|
-|12|[gltwy/public](https://github.com/gltwy/public)|微信公众号 "技术大咖社" 文章合集|5|2021-06-06|2021-04-11|
-|13|[MoonStartMan/SwiftUI-Study](https://github.com/MoonStartMan/SwiftUI-Study)|SwiftUI学习记录|4|2021-07-31|2021-07-13|
-|14|[chenminjie92/MJThirdManager](https://github.com/chenminjie92/MJThirdManager)|常用三方的支付、登录、分享二次封装|4|2021-08-04|2021-03-15|
-|15|[christhoper/WorkingIssues](https://github.com/christhoper/WorkingIssues)|记录一些工作上的问题、优秀博客等|4|2021-11-23|2021-02-24|
-|16|[tianguanghui/PushWithP8](https://github.com/tianguanghui/PushWithP8)|用P8证书发送Push|3|2021-08-30|2021-08-26|
-|17|[zhuzhuxingtianxia/GitBlog](https://github.com/zhuzhuxingtianxia/GitBlog)|github博客~ios|3|2021-12-10|2021-01-05|
+|10|[Li-JianXin/Swift_Leetcode](https://github.com/Li-JianXin/Swift_Leetcode)|leetcode学习|5|2022-01-01|2021-04-20|
+|11|[MoonStartMan/SwiftUI-Study](https://github.com/MoonStartMan/SwiftUI-Study)|SwiftUI学习记录|4|2021-07-31|2021-07-13|
+|12|[chenminjie92/MJThirdManager](https://github.com/chenminjie92/MJThirdManager)|常用三方的支付、登录、分享二次封装|4|2021-08-04|2021-03-15|
+|13|[christhoper/WorkingIssues](https://github.com/christhoper/WorkingIssues)|记录一些工作上的问题、优秀博客等|4|2021-11-23|2021-02-24|
+|14|[tianguanghui/PushWithP8](https://github.com/tianguanghui/PushWithP8)|用P8证书发送Push|3|2021-08-30|2021-08-26|
+|15|[zhuzhuxingtianxia/GitBlog](https://github.com/zhuzhuxingtianxia/GitBlog)|github博客~ios|3|2021-12-10|2021-01-05|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
-    榜单持续<a href="/content/docs/milestone.md">更新</a>，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
 
 <br/>

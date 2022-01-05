@@ -12,12 +12,11 @@
 |5|[xams-creator/navicat-resetter](https://github.com/xams-creator/navicat-resetter)|重置navicat激活时间的IDEA跨平台插件 |3|2021-12-31|2021-12-23|
 |6|[sweetying520/GradleDemo](https://github.com/sweetying520/GradleDemo)|Gradle 常用 API 介绍|2|2021-07-28|2021-07-18|
 |7|[DoubleSevenOS/autoBuild](https://github.com/DoubleSevenOS/autoBuild)|gradle 插件，可自动化打包，上传蒲公英，webhook自动发布钉钉等|2|2021-07-13|2021-07-13|
-|8|[ZackZhou/zrest](https://github.com/ZackZhou/zrest)|扩展的restassured接口自动化|2|2021-06-30|2021-05-15|
-|9|[ooftf/spy](https://github.com/ooftf/spy)|在Build项目时检查Class之间的引用关系，避免因为依赖库版本问题而产生的ClassNotFoundException,NoSuchMethodException问题|2|2021-07-19|2021-03-02|
+|8|[ooftf/spy](https://github.com/ooftf/spy)|在Build项目时检查Class之间的引用关系，避免因为依赖库版本问题而产生的ClassNotFoundException,NoSuchMethodException问题|2|2021-07-19|2021-03-02|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
-    榜单持续<a href="/content/docs/milestone.md">更新</a>，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
 
 <br/>

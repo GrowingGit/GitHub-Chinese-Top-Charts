@@ -13,26 +13,21 @@
 |6|[zelinsky/CTF-Course](https://github.com/zelinsky/CTF-Course)|Course materials for teaching cybersecurity in a Capture the Flag environment|44|2021-08-18|
 |7|[web1992/read](https://github.com/web1992/read)|学习笔记 dubbo,spring,mybatis,netty,rocketmq 源码解析|25|2022-01-04|
 |8|[Staok/ARM-Linux-Study](https://github.com/Staok/ARM-Linux-Study)|ARM Linux 的学习历程，文章遵守 CC BY NC SA 4.0 协议。|6|2021-09-27|
-|9|[yiwangchunyu/AI-RISC](https://github.com/yiwangchunyu/AI-RISC)|Design some simple RISV-V cores via verilog and vivado. 复旦大学《计算机与智能处理器体系结构 AI Core and RISC Architecture》Projects|6|2021-06-28|
-|10|[ghosind/HariboteOS](https://github.com/ghosind/HariboteOS)|《30天自制操作系统》NASM+GCC+QEMU实现|5|2021-06-05|
-|11|[CtrlZ233/bochsOS](https://github.com/CtrlZ233/bochsOS)|基于bochs和x86平台的32为微型操作系统，部分参考《操作系统真象还原》|4|2021-07-26|
-|12|[ylcangel/linux_study](https://github.com/ylcangel/linux_study)|重温linux学习|4|2021-07-11|
-|13|[LukeLIN-web/curriculum_design](https://github.com/LukeLIN-web/curriculum_design)|一些非cs课程的笔记|4|2021-11-30|
-|14|[EndlessCheng/asm-x86](https://github.com/EndlessCheng/asm-x86)|《x86 汇编语言：从实模式到保护模式》配套代码及工具|3|2021-10-29|
-|15|[djh-sudo/tiny-OS-kernel](https://github.com/djh-sudo/tiny-OS-kernel)|《从零开始写一个操作系统》|3|2021-10-10|
-|16|[Vxer-Lee/8086_AsmNotes](https://github.com/Vxer-Lee/8086_AsmNotes)|《王爽汇编语言》学习笔记，学逆向必备前置技能。|3|2021-09-29|
-|17|[Jolsonz/hust_kaoyan](https://github.com/Jolsonz/hust_kaoyan)|本人参与2020华中科技大学研究生考试复试期间所作的一些笔记，主要是数据库和汇编语言的。|3|2021-07-03|
-|18|[richardhyy/AssemblyLab](https://github.com/richardhyy/AssemblyLab)|《汇编语言（第四版）》 - 王爽 - 实验/检查点   Assembly (4th Edition) - WangShuang - Labs|3|2021-06-12|
-|19|[lingbai-kong/computer-system](https://github.com/lingbai-kong/computer-system)|同济大学CS《计算机系统实验》实验二TongJi University CS computer system experiment assignment 2|2|2021-07-25|
-|20|[TommyGong08/Sokoban](https://github.com/TommyGong08/Sokoban)|【汇编项目】BIT大三下学期课程项目——推箱子|2|2021-06-09|
-|21|[impact-eintr/x86](https://github.com/impact-eintr/x86)|从零开始的X86汇编语言学习|2|2022-01-04|
-|22|[StevenBaby/learning-assembly](https://github.com/StevenBaby/learning-assembly)|汇编语言学习的例子|2|2021-08-05|
-|23|[yyyeying/AssemblyOn8086](https://github.com/yyyeying/AssemblyOn8086)|《微机原理与接口技术》实验|2|2021-10-29|
-|24|[solo1d/sys_Code](https://github.com/solo1d/sys_Code)|操作系统源码笔记|2|2021-07-22|
+|9|[CtrlZ233/bochsOS](https://github.com/CtrlZ233/bochsOS)|基于bochs和x86平台的32为微型操作系统，部分参考《操作系统真象还原》|4|2021-07-26|
+|10|[ylcangel/linux_study](https://github.com/ylcangel/linux_study)|重温linux学习|4|2021-07-11|
+|11|[LukeLIN-web/curriculum_design](https://github.com/LukeLIN-web/curriculum_design)|一些非cs课程的笔记|4|2021-11-30|
+|12|[EndlessCheng/asm-x86](https://github.com/EndlessCheng/asm-x86)|《x86 汇编语言：从实模式到保护模式》配套代码及工具|3|2021-10-29|
+|13|[djh-sudo/tiny-OS-kernel](https://github.com/djh-sudo/tiny-OS-kernel)|《从零开始写一个操作系统》|3|2021-10-10|
+|14|[Vxer-Lee/8086_AsmNotes](https://github.com/Vxer-Lee/8086_AsmNotes)|《王爽汇编语言》学习笔记，学逆向必备前置技能。|3|2021-09-29|
+|15|[lingbai-kong/computer-system](https://github.com/lingbai-kong/computer-system)|同济大学CS《计算机系统实验》实验二TongJi University CS computer system experiment assignment 2|2|2021-07-25|
+|16|[impact-eintr/x86](https://github.com/impact-eintr/x86)|从零开始的X86汇编语言学习|2|2022-01-04|
+|17|[StevenBaby/learning-assembly](https://github.com/StevenBaby/learning-assembly)|汇编语言学习的例子|2|2021-08-05|
+|18|[yyyeying/AssemblyOn8086](https://github.com/yyyeying/AssemblyOn8086)|《微机原理与接口技术》实验|2|2021-10-29|
+|19|[solo1d/sys_Code](https://github.com/solo1d/sys_Code)|操作系统源码笔记|2|2021-07-22|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
-    榜单持续<a href="/content/docs/milestone.md">更新</a>，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
 
 <br/>

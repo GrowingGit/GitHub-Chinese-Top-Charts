@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|260337|256|2021-12-15|
-|2|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7425|5|2021-12-19|
+|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|260338|256|2021-12-15|
+|2|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7427|5|2021-12-19|
 |3|[phodal/quake](https://github.com/phodal/quake)|Quake is a knowledge management meta-framework for geeks. Use meta-data + Transflow to CRUD data,  Git + markdown to management content, Web Component for frontend-custom. Quake 是面向极客的知识管理元框架。|230|5|2022-01-04|
 |4|[zu1k/copy-translator](https://github.com/zu1k/copy-translator)|简单、轻量、好用的划词翻译软件，利用DeepL翻译，无需注册api token|486|3|2021-12-27|
 |5|[h4cnull/ratel](https://github.com/h4cnull/ratel)|​ ratel(獾) 是由rust开发的红队信息搜集，扫描工具，支持从fofa，zoomeye API查询，主动扫描端口，提取https证书域名，自定义poc，输出xlsx格式。|31|2|2022-01-04|
@@ -33,23 +33,21 @@
 |26|[nange/blog](https://github.com/nange/blog)|记录一些知识。。|33|0|2021-12-19|
 |27|[shaipe/wechat-sdk-rs](https://github.com/shaipe/wechat-sdk-rs)|微信公众号、开放平台、小程序、小商店、微信支付接口，采用Rust语言的对接实现接口对接的sdk，方便使用Rust语言进行微信开发的同学开箱即用.|13|0|2021-10-13|
 |28|[nintha/demo-myblog](https://github.com/nintha/demo-myblog)|使用Rust、Actix-web和MongoDB构建简单博客网站|32|0|2021-08-22|
-|29|[chinanf-boy/exercism-rust-zh](https://github.com/chinanf-boy/exercism-rust-zh)|中文翻译: <exercism/rust> exercism.io的rust练习题 (网页版，准备中)  :heart: 校对 ✅|18|0|2021-06-21|
-|30|[rcore-os/zCore-Tutorial](https://github.com/rcore-os/zCore-Tutorial)|[WIP] Tutorial for zCore kernel.|41|0|2021-08-28|
-|31|[fruit-in/leetcode](https://github.com/fruit-in/leetcode)|:bald_woman: LeetCode solutions (algorithms problems only) :bald_man:|15|0|2021-07-18|
-|32|[rust-cli/book](https://github.com/rust-cli/book)|  Documentation on how to use the Rust Programming Language to develop commandline applications|241|0|2022-01-03|
-|33|[wsgggws/rust-leetcode](https://github.com/wsgggws/rust-leetcode)|练习使用rust语言刷leetcode算法题目|14|0|2021-06-19|
-|34|[weihanglo/rust-algorithm-club](https://github.com/weihanglo/rust-algorithm-club)|Learn algorithms and data structures with Rust|250|0|2021-12-23|
-|35|[FuGangqiang/mdblog.rs](https://github.com/FuGangqiang/mdblog.rs)|static site generator from markdown files(markdown 格式静态博客生成器)|40|0|2021-11-18|
-|36|[BUAA-SE-Compiling/natrium](https://github.com/BUAA-SE-Compiling/natrium)|北航 2020 年软院编译原理相关资料与规划   Docs and planning on Compilers class in 2020 for College of Software of BUAA|28|0|2021-10-06|
-|37|[auula/learning-rust-zh](https://github.com/auula/learning-rust-zh)|个人的 rust 学习资料|15|0|2021-08-06|
-|38|[ZhangHanDong/inviting-rust](https://github.com/ZhangHanDong/inviting-rust)|Rust实战视频课程代码示例|169|0|2021-08-30|
-|39|[xxg1413/inviting-rust-note](https://github.com/xxg1413/inviting-rust-note)|Rust实战课程笔记|37|0|2021-12-26|
-|40|[sunface/rust-course](https://github.com/sunface/rust-course)|<<Rust语言圣经(Rust Course)>>，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。 这既是一本厚重的书籍，也是一门全面的课程，希望读者朋友能喜欢。|501|0|2022-01-04|
-|41|[rust-lang-cn/book-cn](https://github.com/rust-lang-cn/book-cn)|Rust  程序设计语言——Chinese translation of The Rust Programming Language (Book)|93|0|2021-11-29|
+|29|[rcore-os/zCore-Tutorial](https://github.com/rcore-os/zCore-Tutorial)|[WIP] Tutorial for zCore kernel.|41|0|2021-08-28|
+|30|[fruit-in/leetcode](https://github.com/fruit-in/leetcode)|:bald_woman: LeetCode solutions (algorithms problems only) :bald_man:|15|0|2021-07-18|
+|31|[rust-cli/book](https://github.com/rust-cli/book)|  Documentation on how to use the Rust Programming Language to develop commandline applications|241|0|2022-01-03|
+|32|[weihanglo/rust-algorithm-club](https://github.com/weihanglo/rust-algorithm-club)|Learn algorithms and data structures with Rust|250|0|2021-12-23|
+|33|[FuGangqiang/mdblog.rs](https://github.com/FuGangqiang/mdblog.rs)|static site generator from markdown files(markdown 格式静态博客生成器)|40|0|2021-11-18|
+|34|[BUAA-SE-Compiling/natrium](https://github.com/BUAA-SE-Compiling/natrium)|北航 2020 年软院编译原理相关资料与规划   Docs and planning on Compilers class in 2020 for College of Software of BUAA|28|0|2021-10-06|
+|35|[auula/learning-rust-zh](https://github.com/auula/learning-rust-zh)|个人的 rust 学习资料|15|0|2021-08-06|
+|36|[ZhangHanDong/inviting-rust](https://github.com/ZhangHanDong/inviting-rust)|Rust实战视频课程代码示例|169|0|2021-08-30|
+|37|[xxg1413/inviting-rust-note](https://github.com/xxg1413/inviting-rust-note)|Rust实战课程笔记|37|0|2021-12-26|
+|38|[sunface/rust-course](https://github.com/sunface/rust-course)|<<Rust语言圣经(Rust Course)>>，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。 这既是一本厚重的书籍，也是一门全面的课程，希望读者朋友能喜欢。|501|0|2022-01-04|
+|39|[rust-lang-cn/book-cn](https://github.com/rust-lang-cn/book-cn)|Rust  程序设计语言——Chinese translation of The Rust Programming Language (Book)|93|0|2021-11-29|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
-    榜单持续<a href="/content/docs/milestone.md">更新</a>，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
 
 <br/>

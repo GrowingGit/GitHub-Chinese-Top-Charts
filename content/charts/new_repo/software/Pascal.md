@@ -13,12 +13,11 @@
 |6|[pmiscn/MuObjectPool](https://github.com/pmiscn/MuObjectPool)|我用的delphi的公共库|5|2021-11-22|2021-11-22|
 |7|[coder163/DesignPatternForDelphi](https://github.com/coder163/DesignPatternForDelphi)|网络上流传的设计模式多以Java、C++语言描述，用Delphi描述的资源几乎为零，特此整理|3|2021-11-21|2021-10-21|
 |8|[Pzf874/TVChnlTest](https://github.com/Pzf874/TVChnlTest)|TV频道源检查软件(TVChnlTest.exe)这个小工具, 可以将你收集的直播源数据导入，并对其进行有效性检查，经整理后，可以导出为TXT格式或M3U8格式的文件。|3|2021-08-09|2021-08-09|
-|9|[PassByYou888/ZInstaller2.0](https://github.com/PassByYou888/ZInstaller2.0)|ZInstaller2.0 安装程序使用ZDB2.0架构|3|2021-06-22|2021-03-24|
-|10|[dbyoung720/ADOS](https://github.com/dbyoung720/ADOS)|给鼠标右键添加 "在此处打开命令窗口(管理员)" 菜单|2|2021-10-28|2021-10-15|
+|9|[dbyoung720/ADOS](https://github.com/dbyoung720/ADOS)|给鼠标右键添加 "在此处打开命令窗口(管理员)" 菜单|2|2021-10-28|2021-10-15|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
-    榜单持续<a href="/content/docs/milestone.md">更新</a>，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
 
 <br/>

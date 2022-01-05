@@ -40,28 +40,24 @@
 |33|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|35|2021-11-22|
 |34|[wo5813288/wan_giao](https://github.com/wo5813288/wan_giao)|学习flutter，所以系统的做一款应用来实践一下。这款应用也开发了很多内容了，后续还要继续更新功能。开发这个项目主要也是熟悉flutter的树形结构的写法和UI组件，项目中也用到了flutter比较流行的框架。|33|2021-12-09|
 |35|[ifgyong/flutter-example](https://github.com/ifgyong/flutter-example)|120多种小部件的使用例子，根据 flutter-book的例子,可以直接运行的哦|32|2021-08-12|
-|36|[starryxp/flutter_app](https://github.com/starryxp/flutter_app)|Flutter教学：从零开始->进阶之旅->深入探讨|29|2021-06-29|
-|37|[ezshine/FlutterWidgetsCatalog](https://github.com/ezshine/FlutterWidgetsCatalog)|a project for learning all Flutter Widgets , sync from flutter.dev the officia website.|28|2021-08-04|
-|38|[Wuyou1998/FlutterTrip](https://github.com/Wuyou1998/FlutterTrip)|一个flutter仿携程App，慕课网 《Flutter实战携程App》的学习成果|24|2021-06-22|
-|39|[jiangkang/flutter-system](https://github.com/jiangkang/flutter-system)|Flutter Widgets,Components,Demos,Pages:从入门到产品级开发|23|2021-12-25|
-|40|[mikai233/fstar-client](https://github.com/mikai233/fstar-client)|繁星课程表客户端|16|2022-01-02|
-|41|[baiyuliang/Flutter-WanWan](https://github.com/baiyuliang/Flutter-WanWan)|Flutter入门项目（首页，消息，圈子，我的）|13|2021-08-17|
-|42|[cocojian/flutter100days](https://github.com/cocojian/flutter100days)|这是一个flutter教程，用100天的时间来完成挑战，每天只需要完成一课，100天之后，你将遇见更好的自己。|8|2021-11-24|
-|43|[Lester2020/flutter_study_demo](https://github.com/Lester2020/flutter_study_demo)|一个零基础入门学习flutter的demo总结，里面覆盖flutter常用组件和APP的基本框架结构样式。|8|2021-10-14|
-|44|[yy1300326388/flutter_widgets](https://github.com/yy1300326388/flutter_widgets)|🔥 Flutter Widgets 掘金对应专栏，欢迎关注|8|2021-06-30|
-|45|[meilab/daily_coding](https://github.com/meilab/daily_coding)|视频号：编程日课的Flutter教程关联App|7|2021-10-21|
-|46|[kangshaojun/study-notes](https://github.com/kangshaojun/study-notes)|Flutter React Golang WebRTC等技术学习笔记|6|2021-08-14|
-|47|[zhou-Flutter/flutter_dome](https://github.com/zhou-Flutter/flutter_dome)|实战小红书|6|2021-10-31|
-|48|[ifredom/flutter_plugins_example](https://github.com/ifredom/flutter_plugins_example)|flutter第三方插件：地图，图表，蓝牙，等使用示例集合|6|2021-12-28|
-|49|[woshiluoyong/FlutterNcpApp](https://github.com/woshiluoyong/FlutterNcpApp)|本应用采用kotlin语言编写查看NCP(新型冠状肺炎)疫情数据(可做Flutter入门参考项目)|6|2021-08-16|
-|50|[CallMeDK/flutter_stock_project](https://github.com/CallMeDK/flutter_stock_project)|flutter仿写自选股详情，感兴趣的小伙伴fork下一起学习dart。|5|2021-07-26|
-|51|[ThinkerJack/flutter_demo](https://github.com/ThinkerJack/flutter_demo)|Flutter开发中常用功能合集。|5|2021-08-01|
-|52|[JoneYng/course_flutter](https://github.com/JoneYng/course_flutter)|课程|5|2021-12-23|
-|53|[liufeng125300/douyin](https://github.com/liufeng125300/douyin)|flutter 学习进行中（抖音项目）|4|2021-06-29|
+|36|[ezshine/FlutterWidgetsCatalog](https://github.com/ezshine/FlutterWidgetsCatalog)|a project for learning all Flutter Widgets , sync from flutter.dev the officia website.|28|2021-08-04|
+|37|[jiangkang/flutter-system](https://github.com/jiangkang/flutter-system)|Flutter Widgets,Components,Demos,Pages:从入门到产品级开发|23|2021-12-25|
+|38|[mikai233/fstar-client](https://github.com/mikai233/fstar-client)|繁星课程表客户端|16|2022-01-02|
+|39|[baiyuliang/Flutter-WanWan](https://github.com/baiyuliang/Flutter-WanWan)|Flutter入门项目（首页，消息，圈子，我的）|13|2021-08-17|
+|40|[cocojian/flutter100days](https://github.com/cocojian/flutter100days)|这是一个flutter教程，用100天的时间来完成挑战，每天只需要完成一课，100天之后，你将遇见更好的自己。|8|2021-11-24|
+|41|[Lester2020/flutter_study_demo](https://github.com/Lester2020/flutter_study_demo)|一个零基础入门学习flutter的demo总结，里面覆盖flutter常用组件和APP的基本框架结构样式。|8|2021-10-14|
+|42|[meilab/daily_coding](https://github.com/meilab/daily_coding)|视频号：编程日课的Flutter教程关联App|7|2021-10-21|
+|43|[kangshaojun/study-notes](https://github.com/kangshaojun/study-notes)|Flutter React Golang WebRTC等技术学习笔记|6|2021-08-14|
+|44|[zhou-Flutter/flutter_dome](https://github.com/zhou-Flutter/flutter_dome)|实战小红书|6|2021-10-31|
+|45|[ifredom/flutter_plugins_example](https://github.com/ifredom/flutter_plugins_example)|flutter第三方插件：地图，图表，蓝牙，等使用示例集合|6|2021-12-28|
+|46|[woshiluoyong/FlutterNcpApp](https://github.com/woshiluoyong/FlutterNcpApp)|本应用采用kotlin语言编写查看NCP(新型冠状肺炎)疫情数据(可做Flutter入门参考项目)|6|2021-08-16|
+|47|[CallMeDK/flutter_stock_project](https://github.com/CallMeDK/flutter_stock_project)|flutter仿写自选股详情，感兴趣的小伙伴fork下一起学习dart。|5|2021-07-26|
+|48|[ThinkerJack/flutter_demo](https://github.com/ThinkerJack/flutter_demo)|Flutter开发中常用功能合集。|5|2021-08-01|
+|49|[JoneYng/course_flutter](https://github.com/JoneYng/course_flutter)|课程|5|2021-12-23|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
-    榜单持续<a href="/content/docs/milestone.md">更新</a>，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
 
 <br/>

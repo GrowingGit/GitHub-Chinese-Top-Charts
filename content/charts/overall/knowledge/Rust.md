@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|260337|2021-12-15|
-|2|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7425|2021-12-19|
+|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|260338|2021-12-15|
+|2|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7427|2021-12-19|
 |3|[rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust)|《使用Rust编写操作系统》|1335|2021-09-14|
 |4|[anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap)|Roadmap to becoming a Rust Web Developer in 2021|1027|2021-08-16|
 |5|[sunface/rust-course](https://github.com/sunface/rust-course)|<<Rust语言圣经(Rust Course)>>，本书对Rust语言进行全面且深入的讲解，辅以生动的文字和典型的示例。 这既是一本厚重的书籍，也是一门全面的课程，希望读者朋友能喜欢。|501|2022-01-04|
@@ -37,19 +37,17 @@
 |30|[h4cnull/ratel](https://github.com/h4cnull/ratel)|​ ratel(獾) 是由rust开发的红队信息搜集，扫描工具，支持从fofa，zoomeye API查询，主动扫描端口，提取https证书域名，自定义poc，输出xlsx格式。|31|2022-01-04|
 |31|[chengluyu/turnip-price](https://github.com/chengluyu/turnip-price)|《动物森友会》大头菜价格算法 Rust & WebAssembly 版 / The Rust & WebAssembly implementation of the algorithm of the turnip price in Animal Crossing: New Horizon.|29|2021-12-30|
 |32|[BUAA-SE-Compiling/natrium](https://github.com/BUAA-SE-Compiling/natrium)|北航 2020 年软院编译原理相关资料与规划   Docs and planning on Compilers class in 2020 for College of Software of BUAA|28|2021-10-06|
-|33|[chinanf-boy/exercism-rust-zh](https://github.com/chinanf-boy/exercism-rust-zh)|中文翻译: <exercism/rust> exercism.io的rust练习题 (网页版，准备中)  :heart: 校对 ✅|18|2021-06-21|
-|34|[divinerapier/weaver](https://github.com/divinerapier/weaver)|A distributed object file system inspired by the paper Beaver which was published by Facebook Inc. at 2010.|16|2021-07-14|
-|35|[auula/learning-rust-zh](https://github.com/auula/learning-rust-zh)|个人的 rust 学习资料|15|2021-08-06|
-|36|[fruit-in/leetcode](https://github.com/fruit-in/leetcode)|:bald_woman: LeetCode solutions (algorithms problems only) :bald_man:|15|2021-07-18|
-|37|[wsgggws/rust-leetcode](https://github.com/wsgggws/rust-leetcode)|练习使用rust语言刷leetcode算法题目|14|2021-06-19|
-|38|[shaipe/wechat-sdk-rs](https://github.com/shaipe/wechat-sdk-rs)|微信公众号、开放平台、小程序、小商店、微信支付接口，采用Rust语言的对接实现接口对接的sdk，方便使用Rust语言进行微信开发的同学开箱即用.|13|2021-10-13|
-|39|[suhanyujie/learn-computer](https://github.com/suhanyujie/learn-computer)|PHP函数源码分析、计算机相关知识|12|2021-11-07|
-|40|[liyiheng/blog-gen](https://github.com/liyiheng/blog-gen)|乱七八糟的笔记和代码，浏览者将会产生眩晕、恶心等不适症状|12|2021-12-06|
-|41|[chongyi/inspirer-rs](https://github.com/chongyi/inspirer-rs)|博客 Rust 版|11|2021-10-05|
+|33|[divinerapier/weaver](https://github.com/divinerapier/weaver)|A distributed object file system inspired by the paper Beaver which was published by Facebook Inc. at 2010.|16|2021-07-14|
+|34|[auula/learning-rust-zh](https://github.com/auula/learning-rust-zh)|个人的 rust 学习资料|15|2021-08-06|
+|35|[fruit-in/leetcode](https://github.com/fruit-in/leetcode)|:bald_woman: LeetCode solutions (algorithms problems only) :bald_man:|15|2021-07-18|
+|36|[shaipe/wechat-sdk-rs](https://github.com/shaipe/wechat-sdk-rs)|微信公众号、开放平台、小程序、小商店、微信支付接口，采用Rust语言的对接实现接口对接的sdk，方便使用Rust语言进行微信开发的同学开箱即用.|13|2021-10-13|
+|37|[suhanyujie/learn-computer](https://github.com/suhanyujie/learn-computer)|PHP函数源码分析、计算机相关知识|12|2021-11-07|
+|38|[liyiheng/blog-gen](https://github.com/liyiheng/blog-gen)|乱七八糟的笔记和代码，浏览者将会产生眩晕、恶心等不适症状|12|2021-12-06|
+|39|[chongyi/inspirer-rs](https://github.com/chongyi/inspirer-rs)|博客 Rust 版|11|2021-10-05|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
-    榜单持续<a href="/content/docs/milestone.md">更新</a>，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
 
 <br/>

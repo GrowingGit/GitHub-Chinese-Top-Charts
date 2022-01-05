@@ -23,45 +23,41 @@
 |16|[18824863285/BaseFlutter](https://github.com/18824863285/BaseFlutter)|Provider MVVM的最佳实践，最适合新手学习的flutter开源项目|104|0|2021-07-30|
 |17|[q805699513/flutter_books](https://github.com/q805699513/flutter_books)|Panda看书，Flutter 小说阅读 App|479|0|2021-12-16|
 |18|[kangshaojun/dart-book](https://github.com/kangshaojun/dart-book)|Dart语言实战-基于Flutter框架开发-第二版 随书源码|54|0|2021-07-18|
-|19|[starryxp/flutter_app](https://github.com/starryxp/flutter_app)|Flutter教学：从零开始->进阶之旅->深入探讨|29|0|2021-06-29|
-|20|[Wuyou1998/FlutterTrip](https://github.com/Wuyou1998/FlutterTrip)|一个flutter仿携程App，慕课网 《Flutter实战携程App》的学习成果|24|0|2021-06-22|
-|21|[liufeng125300/douyin](https://github.com/liufeng125300/douyin)|flutter 学习进行中（抖音项目）|4|0|2021-06-29|
-|22|[longer96/flutter_pickers](https://github.com/longer96/flutter_pickers)|flutter 选择器库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、民族、学历、星座、年龄、身高、体重、温度等）、城市地址选择器（分省级、地级及县级）、多项选择器等…… 欢迎Fork & pr贡献您的代码，大家共同学习|128|0|2021-12-22|
-|23|[jiang111/flutter_code](https://github.com/jiang111/flutter_code)|b站视频教程： https://space.bilibili.com/480410119/ |249|0|2021-10-25|
-|24|[DevYao/flutter_wechat_clone](https://github.com/DevYao/flutter_wechat_clone)|flutter 学习 demo|219|0|2021-09-24|
-|25|[lizhuoyuan/flutter_study](https://github.com/lizhuoyuan/flutter_study)|flutter 学习记录|249|0|2021-08-12|
-|26|[ifredom/flutter_plugins_example](https://github.com/ifredom/flutter_plugins_example)|flutter第三方插件：地图，图表，蓝牙，等使用示例集合|6|0|2021-12-28|
-|27|[ChessLuo/flutter_study_app](https://github.com/ChessLuo/flutter_study_app)|🔥勤能补拙，我希望能利用业余时间去学习及总结一些有关flutter的知识并运用到项目中去，Come on！！！|41|0|2021-08-01|
-|28|[ifgyong/flutter-example](https://github.com/ifgyong/flutter-example)|120多种小部件的使用例子，根据 flutter-book的例子,可以直接运行的哦|32|0|2021-08-12|
-|29|[zhou-Flutter/flutter_dome](https://github.com/zhou-Flutter/flutter_dome)|实战小红书|6|0|2021-10-31|
-|30|[mikai233/fstar-client](https://github.com/mikai233/fstar-client)|繁星课程表客户端|16|0|2022-01-02|
-|31|[ThinkerJack/flutter_demo](https://github.com/ThinkerJack/flutter_demo)|Flutter开发中常用功能合集。|5|0|2021-08-01|
-|32|[RxReader/weibo_kit](https://github.com/RxReader/weibo_kit)|flutter版新浪微博登录/分享|82|0|2021-12-02|
-|33|[AgoraIO-Community/Agora-Flutter-Quickstart](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart)|Quickstart guide for the Agora Flutter SDK(Android/iOS)|488|0|2021-10-14|
-|34|[wo5813288/wan_giao](https://github.com/wo5813288/wan_giao)|学习flutter，所以系统的做一款应用来实践一下。这款应用也开发了很多内容了，后续还要继续更新功能。开发这个项目主要也是熟悉flutter的树形结构的写法和UI组件，项目中也用到了flutter比较流行的框架。|33|0|2021-12-09|
-|35|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|35|0|2021-11-22|
-|36|[woshiluoyong/FlutterNcpApp](https://github.com/woshiluoyong/FlutterNcpApp)|本应用采用kotlin语言编写查看NCP(新型冠状肺炎)疫情数据(可做Flutter入门参考项目)|6|0|2021-08-16|
-|37|[kangshaojun/flutter-book](https://github.com/kangshaojun/flutter-book)|Flutter入门与实战随书源码 第2版|535|0|2021-07-18|
-|38|[fmtjava/Flutter_Eyepetizer](https://github.com/fmtjava/Flutter_Eyepetizer)|Flutter + 组件化实现的一款精美的仿开眼视频(Eyepetizer )跨平台App,适合入门,快速掌握Dart语言以及上手flutter开发(提供Kotlin、React Native、小程序版本 😁 ),希望和大家共同成长,喜欢的话，欢迎start或fork!|303|0|2021-12-13|
-|39|[yy1300326388/flutter_widgets](https://github.com/yy1300326388/flutter_widgets)|🔥 Flutter Widgets 掘金对应专栏，欢迎关注|8|0|2021-06-30|
-|40|[AriesHoo/flutter_readhub](https://github.com/AriesHoo/flutter_readhub)|Freadhub-使用Flutter为Readhub非官方客户端;主要囊括以下功能：1、热门话题、科技动态、开发者、区块链四大模块；2、相关聚合资讯快捷查看；3、方便快捷的浅色/深色模式切换；4、丰富的彩虹颜色主题/每日主题切换；5、长按社会化分享预览图效果模式；6、方便快捷的意见反馈入口|53|0|2021-12-14|
-|41|[longer96/flutter-demo](https://github.com/longer96/flutter-demo)|🔥Flutter 那些花里胡哨的界面🔥，花里胡哨的底部导航，仿抖音、小红书底部菜单，向上展开菜单，半圆菜单，中间凹进去的菜单，动画底部导航|70|0|2021-10-14|
-|42|[RxReader/wechat_kit](https://github.com/RxReader/wechat_kit)|Flutter 版微信登录/分享/支付 SDK|482|0|2021-10-13|
-|43|[kangshaojun/study-notes](https://github.com/kangshaojun/study-notes)|Flutter React Golang WebRTC等技术学习笔记|6|0|2021-08-14|
-|44|[cocojian/flutter100days](https://github.com/cocojian/flutter100days)|这是一个flutter教程，用100天的时间来完成挑战，每天只需要完成一课，100天之后，你将遇见更好的自己。|8|0|2021-11-24|
-|45|[jiangkang/flutter-system](https://github.com/jiangkang/flutter-system)|Flutter Widgets,Components,Demos,Pages:从入门到产品级开发|23|0|2021-12-25|
-|46|[ezshine/FlutterWidgetsCatalog](https://github.com/ezshine/FlutterWidgetsCatalog)|a project for learning all Flutter Widgets , sync from flutter.dev the officia website.|28|0|2021-08-04|
-|47|[Tecode/flutter_book](https://github.com/Tecode/flutter_book)|Flutter1.17.x book App,使用Mobx数据管理器支持Android和iOS，使用库json_serializable、json_annotation、dio。|193|0|2021-12-27|
-|48|[baiyuliang/Flutter-WanWan](https://github.com/baiyuliang/Flutter-WanWan)|Flutter入门项目（首页，消息，圈子，我的）|13|0|2021-08-17|
-|49|[CallMeDK/flutter_stock_project](https://github.com/CallMeDK/flutter_stock_project)|flutter仿写自选股详情，感兴趣的小伙伴fork下一起学习dart。|5|0|2021-07-26|
-|50|[githubityu/flutter_jdshop_mvvm](https://github.com/githubityu/flutter_jdshop_mvvm)|跟着大地老师学习的,模仿京东的一个实战项目，但是根据实际项目做了许多修改和优化|42|0|2021-07-27|
-|51|[Newcore-mobile/DynamicFlutter](https://github.com/Newcore-mobile/DynamicFlutter)|Flutter动态化热更新的思考与实践|142|0|2021-12-22|
-|52|[canhuah/WanAndroid-Flutter](https://github.com/canhuah/WanAndroid-Flutter)|Flutter版本 WanAndroid客户端  适合Flutter入门学习 被张鸿洋微信公众号推荐为优质Flutter开源项目啦|611|0|2021-12-17|
-|53|[Lester2020/flutter_study_demo](https://github.com/Lester2020/flutter_study_demo)|一个零基础入门学习flutter的demo总结，里面覆盖flutter常用组件和APP的基本框架结构样式。|8|0|2021-10-14|
+|19|[longer96/flutter_pickers](https://github.com/longer96/flutter_pickers)|flutter 选择器库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、民族、学历、星座、年龄、身高、体重、温度等）、城市地址选择器（分省级、地级及县级）、多项选择器等…… 欢迎Fork & pr贡献您的代码，大家共同学习|128|0|2021-12-22|
+|20|[jiang111/flutter_code](https://github.com/jiang111/flutter_code)|b站视频教程： https://space.bilibili.com/480410119/ |249|0|2021-10-25|
+|21|[DevYao/flutter_wechat_clone](https://github.com/DevYao/flutter_wechat_clone)|flutter 学习 demo|219|0|2021-09-24|
+|22|[lizhuoyuan/flutter_study](https://github.com/lizhuoyuan/flutter_study)|flutter 学习记录|249|0|2021-08-12|
+|23|[ifredom/flutter_plugins_example](https://github.com/ifredom/flutter_plugins_example)|flutter第三方插件：地图，图表，蓝牙，等使用示例集合|6|0|2021-12-28|
+|24|[ChessLuo/flutter_study_app](https://github.com/ChessLuo/flutter_study_app)|🔥勤能补拙，我希望能利用业余时间去学习及总结一些有关flutter的知识并运用到项目中去，Come on！！！|41|0|2021-08-01|
+|25|[ifgyong/flutter-example](https://github.com/ifgyong/flutter-example)|120多种小部件的使用例子，根据 flutter-book的例子,可以直接运行的哦|32|0|2021-08-12|
+|26|[zhou-Flutter/flutter_dome](https://github.com/zhou-Flutter/flutter_dome)|实战小红书|6|0|2021-10-31|
+|27|[mikai233/fstar-client](https://github.com/mikai233/fstar-client)|繁星课程表客户端|16|0|2022-01-02|
+|28|[ThinkerJack/flutter_demo](https://github.com/ThinkerJack/flutter_demo)|Flutter开发中常用功能合集。|5|0|2021-08-01|
+|29|[RxReader/weibo_kit](https://github.com/RxReader/weibo_kit)|flutter版新浪微博登录/分享|82|0|2021-12-02|
+|30|[AgoraIO-Community/Agora-Flutter-Quickstart](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart)|Quickstart guide for the Agora Flutter SDK(Android/iOS)|488|0|2021-10-14|
+|31|[wo5813288/wan_giao](https://github.com/wo5813288/wan_giao)|学习flutter，所以系统的做一款应用来实践一下。这款应用也开发了很多内容了，后续还要继续更新功能。开发这个项目主要也是熟悉flutter的树形结构的写法和UI组件，项目中也用到了flutter比较流行的框架。|33|0|2021-12-09|
+|32|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|35|0|2021-11-22|
+|33|[woshiluoyong/FlutterNcpApp](https://github.com/woshiluoyong/FlutterNcpApp)|本应用采用kotlin语言编写查看NCP(新型冠状肺炎)疫情数据(可做Flutter入门参考项目)|6|0|2021-08-16|
+|34|[kangshaojun/flutter-book](https://github.com/kangshaojun/flutter-book)|Flutter入门与实战随书源码 第2版|535|0|2021-07-18|
+|35|[fmtjava/Flutter_Eyepetizer](https://github.com/fmtjava/Flutter_Eyepetizer)|Flutter + 组件化实现的一款精美的仿开眼视频(Eyepetizer )跨平台App,适合入门,快速掌握Dart语言以及上手flutter开发(提供Kotlin、React Native、小程序版本 😁 ),希望和大家共同成长,喜欢的话，欢迎start或fork!|303|0|2021-12-13|
+|36|[AriesHoo/flutter_readhub](https://github.com/AriesHoo/flutter_readhub)|Freadhub-使用Flutter为Readhub非官方客户端;主要囊括以下功能：1、热门话题、科技动态、开发者、区块链四大模块；2、相关聚合资讯快捷查看；3、方便快捷的浅色/深色模式切换；4、丰富的彩虹颜色主题/每日主题切换；5、长按社会化分享预览图效果模式；6、方便快捷的意见反馈入口|53|0|2021-12-14|
+|37|[longer96/flutter-demo](https://github.com/longer96/flutter-demo)|🔥Flutter 那些花里胡哨的界面🔥，花里胡哨的底部导航，仿抖音、小红书底部菜单，向上展开菜单，半圆菜单，中间凹进去的菜单，动画底部导航|70|0|2021-10-14|
+|38|[RxReader/wechat_kit](https://github.com/RxReader/wechat_kit)|Flutter 版微信登录/分享/支付 SDK|482|0|2021-10-13|
+|39|[kangshaojun/study-notes](https://github.com/kangshaojun/study-notes)|Flutter React Golang WebRTC等技术学习笔记|6|0|2021-08-14|
+|40|[cocojian/flutter100days](https://github.com/cocojian/flutter100days)|这是一个flutter教程，用100天的时间来完成挑战，每天只需要完成一课，100天之后，你将遇见更好的自己。|8|0|2021-11-24|
+|41|[jiangkang/flutter-system](https://github.com/jiangkang/flutter-system)|Flutter Widgets,Components,Demos,Pages:从入门到产品级开发|23|0|2021-12-25|
+|42|[ezshine/FlutterWidgetsCatalog](https://github.com/ezshine/FlutterWidgetsCatalog)|a project for learning all Flutter Widgets , sync from flutter.dev the officia website.|28|0|2021-08-04|
+|43|[Tecode/flutter_book](https://github.com/Tecode/flutter_book)|Flutter1.17.x book App,使用Mobx数据管理器支持Android和iOS，使用库json_serializable、json_annotation、dio。|193|0|2021-12-27|
+|44|[baiyuliang/Flutter-WanWan](https://github.com/baiyuliang/Flutter-WanWan)|Flutter入门项目（首页，消息，圈子，我的）|13|0|2021-08-17|
+|45|[CallMeDK/flutter_stock_project](https://github.com/CallMeDK/flutter_stock_project)|flutter仿写自选股详情，感兴趣的小伙伴fork下一起学习dart。|5|0|2021-07-26|
+|46|[githubityu/flutter_jdshop_mvvm](https://github.com/githubityu/flutter_jdshop_mvvm)|跟着大地老师学习的,模仿京东的一个实战项目，但是根据实际项目做了许多修改和优化|42|0|2021-07-27|
+|47|[Newcore-mobile/DynamicFlutter](https://github.com/Newcore-mobile/DynamicFlutter)|Flutter动态化热更新的思考与实践|142|0|2021-12-22|
+|48|[canhuah/WanAndroid-Flutter](https://github.com/canhuah/WanAndroid-Flutter)|Flutter版本 WanAndroid客户端  适合Flutter入门学习 被张鸿洋微信公众号推荐为优质Flutter开源项目啦|611|0|2021-12-17|
+|49|[Lester2020/flutter_study_demo](https://github.com/Lester2020/flutter_study_demo)|一个零基础入门学习flutter的demo总结，里面覆盖flutter常用组件和APP的基本框架结构样式。|8|0|2021-10-14|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
-    榜单持续<a href="/content/docs/milestone.md">更新</a>，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
 
 <br/>

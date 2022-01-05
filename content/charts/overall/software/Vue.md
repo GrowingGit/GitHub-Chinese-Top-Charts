@@ -5,14 +5,14 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)|:tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin|73329|2021-12-10|
-|2|[ElemeFE/element](https://github.com/ElemeFE/element)|A Vue.js 2.0 UI Toolkit for Web|51485|2022-01-04|
+|1|[PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)|:tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin|73330|2021-12-10|
+|2|[ElemeFE/element](https://github.com/ElemeFE/element)|A Vue.js 2.0 UI Toolkit for Web|51486|2022-01-04|
 |3|[bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm)|基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用|37392|2021-09-13|
 |4|[iview/iview](https://github.com/iview/iview)|A high quality UI Toolkit built on Vue.js 2.0|23934|2021-12-28|
 |5|[airyland/vux](https://github.com/airyland/vux)|Mobile UI Components based on Vue & WeUI|17573|2021-09-17|
 |6|[iview/iview-admin](https://github.com/iview/iview-admin)|Vue 2.0 admin management system template based on iView|15979|2021-11-06|
 |7|[vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue)|🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜|15856|2022-01-04|
-|8|[Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)|:rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder|15530|2022-01-04|
+|8|[Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)|:rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder|15531|2022-01-04|
 |9|[lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system)|基于Vue3 + Element Plus 的后台管理系统解决方案|14257|2021-12-14|
 |10|[bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage)|基于 vue + element-ui 的后台管理系统|11385|2021-07-15|
 |11|[chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better)|🚀🚀🚀vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三 ...|11107|2021-12-28|
@@ -20,7 +20,7 @@
 |13|[cuiocean/ZY-Player](https://github.com/cuiocean/ZY-Player)|▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞|10567|2021-10-13|
 |14|[macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web)|mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。|9159|2021-12-23|
 |15|[vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro)|👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   |9023|2021-12-17|
-|16|[vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)|A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！|8262|2022-01-04|
+|16|[vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)|A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！|8263|2022-01-04|
 |17|[chaitin/xray](https://github.com/chaitin/xray)|一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc   使用之前务必先阅读文档|6279|2022-01-02|
 |18|[DataV-Team/DataV](https://github.com/DataV-Team/DataV)|Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)|5992|2021-11-29|
 |19|[JakHuang/form-generator](https://github.com/JakHuang/form-generator)|:sparkles:Element UI表单设计及代码生成器|5608|2021-11-20|
@@ -99,16 +99,116 @@
 |92|[TangSY/echarts-map-demo](https://github.com/TangSY/echarts-map-demo)|echarts地图geoJson行政边界数据的实时获取与应用，省市区县多级联动下钻，真正意义的下钻至县级【附最新geoJson文件下载】|801|2021-12-21|
 |93|[zhengguorong/h5maker](https://github.com/zhengguorong/h5maker)|h5编辑器类似maka、易企秀 账号/密码：admin|799|2021-11-16|
 |94|[dream2023/vue-ele-form](https://github.com/dream2023/vue-ele-form)|基于element-ui的数据驱动表单组件|798|2021-10-23|
-|95|[lss5270/vue-admin-spa](https://github.com/lss5270/vue-admin-spa)|基于vue2.0生态的后台管理系统模板（spa）。 a vue management system template based on ：vue2.0 + vue-router + vuex + element-ui +ES6+ webpack + npm。|783|2021-07-01|
-|96|[fengT-T/996_list](https://github.com/fengT-T/996_list)|996 公司展示、讨论|761|2021-10-05|
-|97|[blogwy/BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)|跨平台下载bilibili视频桌面端软件，支持windows、macOS、Linux|761|2021-12-20|
-|98|[F-loat/vue-simplemde](https://github.com/F-loat/vue-simplemde)|📝 Vue SimpleMDE - use simplemde with vue.js|751|2021-12-15|
-|99|[WeBankFinTech/Scriptis](https://github.com/WeBankFinTech/Scriptis)|Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.|743|2021-07-17|
-|100|[wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook)|低代码平台，H5商城可视化搭建平台|683|2022-01-04|
+|95|[fengT-T/996_list](https://github.com/fengT-T/996_list)|996 公司展示、讨论|761|2021-10-05|
+|96|[blogwy/BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)|跨平台下载bilibili视频桌面端软件，支持windows、macOS、Linux|761|2021-12-20|
+|97|[F-loat/vue-simplemde](https://github.com/F-loat/vue-simplemde)|📝 Vue SimpleMDE - use simplemde with vue.js|751|2021-12-15|
+|98|[WeBankFinTech/Scriptis](https://github.com/WeBankFinTech/Scriptis)|Scriptis is for interactive data analysis with script development(SQL, Pyspark, HiveQL), task submission(Spark, Hive), UDF, function, resource management and intelligent diagnosis.|743|2021-07-17|
+|99|[wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook)|低代码平台，H5商城可视化搭建平台|683|2022-01-04|
+|100|[bxm0927/vue-meituan](https://github.com/bxm0927/vue-meituan)|:hamburger: :meat_on_bone: :fork_and_knife:  基于Vue 全家桶 (2.x)制作的美团外卖APP |675|2021-08-02|
+|101|[chiflix/splayerx](https://github.com/chiflix/splayerx)|SPlayerX@2018|668|2021-10-22|
+|102|[aermin/vue-chat](https://github.com/aermin/vue-chat)|:calling: A web chat application.   Vue + node(koa2) + Mysql + socket.io|660|2021-10-05|
+|103|[Tsuk1ko/bilibili-live-chat](https://github.com/Tsuk1ko/bilibili-live-chat)|📽️ 无后端的仿 YouTube Live Chat 风格的简易 Bilibili 弹幕姬|650|2021-11-10|
+|104|[hifarer/vueditor](https://github.com/hifarer/vueditor)|A wysiwyg editor written in Vue.js and Vuex.js|633|2021-07-08|
+|105|[YXJ2018/SpringBoot-Vue-OnlineExam](https://github.com/YXJ2018/SpringBoot-Vue-OnlineExam)|在线考试系统，springboot+vue前后端分离的一个项目.|626|2021-10-05|
+|106|[ddiu8081/ChartFun](https://github.com/ddiu8081/ChartFun)|🎲数据大屏可视化编辑器|623|2021-10-08|
+|107|[SNFocus/approvalFlow](https://github.com/SNFocus/approvalFlow)|基于form-generator，仿钉钉审批流程创建（表单创建/流程节点可视化配置/必填条件及校验）|621|2021-11-15|
+|108|[go-admin-team/go-admin-ui](https://github.com/go-admin-team/go-admin-ui)|基于Gin + Vue + Element UI的前后端分离权限管理系统的前端模块|617|2021-12-05|
+|109|[woai3c/vue-admin-template](https://github.com/woai3c/vue-admin-template)|Vue 轻量级后台管理系统基础模板|616|2021-10-06|
+|110|[Couy69/vue-idle-game](https://github.com/Couy69/vue-idle-game)|一个全随机的刷装备小游戏|609|2021-07-18|
+|111|[wxs77577/rest-admin](https://github.com/wxs77577/rest-admin)|Restful Admin Dashboard Based on Vue and Boostrap 4|606|2021-10-05|
+|112|[GoldSubmarine/workflow-bpmn-modeler](https://github.com/GoldSubmarine/workflow-bpmn-modeler)|🔥 flowable workflow designer based on vue and bpmn.io@7.0|605|2021-09-13|
+|113|[WeBankPartners/we-cmdb](https://github.com/WeBankPartners/we-cmdb)|CMDB from WeBank|605|2021-12-29|
+|114|[StavinLi/Workflow](https://github.com/StavinLi/Workflow)|仿钉钉审批流程设置|602|2021-10-09|
+|115|[iamdarcy/hioshop-admin](https://github.com/iamdarcy/hioshop-admin)|海风小店,开源商城,微信小程序商城管理后台,后台管理,VUE|597|2021-10-12|
+|116|[leadream/wedding-invitation-for-programmers](https://github.com/leadream/wedding-invitation-for-programmers)|程序猿的婚礼邀请函。|597|2021-10-31|
+|117|[heyui/heyui-admin](https://github.com/heyui/heyui-admin)|基于 vue 和 heyui 组件库的中后端系统 https://admin.heyui.top|591|2021-10-06|
+|118|[hai-27/vue-store](https://github.com/hai-27/vue-store)|基于Vue+Vue-Router+Vuex+Element-ui+axios，参考小米商城，实现的电商项目。|587|2021-10-06|
+|119|[anjoy8/Blog.Admin](https://github.com/anjoy8/Blog.Admin)|✨ 基于vue 的管理后台，配合Blog.Core与Blog.Vue等多个项目使用|581|2021-12-09|
+|120|[mafengwo/vue-drag-tree-table](https://github.com/mafengwo/vue-drag-tree-table)|vue 可以拖拽排序的树形表格|567|2021-10-30|
+|121|[CNOliverZhang/PotatofieldImageToolkit](https://github.com/CNOliverZhang/PotatofieldImageToolkit)|一个适用于摄影从业者/爱好者、设计师等创意行业从业者的图像工具箱。|553|2021-10-16|
+|122|[myth984/wechat-report](https://github.com/myth984/wechat-report)|微信聊天记录年度报告|549|2021-12-31|
+|123|[hilanmiao/LanMiaoDesktop](https://github.com/hilanmiao/LanMiaoDesktop)|一个完整electron桌面记账程序，技术栈主要使用electron-vue+vuetify。开机自动启动，自动更新，托盘最小化，闪烁等常用功能，Nsis制作漂亮的安装包。|544|2021-10-12|
+|124|[yangyuji/h5-factory](https://github.com/yangyuji/h5-factory)|h5制作，移动端专题活动页面可视化编辑|538|2021-11-17|
+|125|[hql7/tree-transfer](https://github.com/hql7/tree-transfer)|一个基于vue和element-ui的树形穿梭框及邮件通讯录。A tree shaped shuttle box assembly based on Vue and element-ui.  Vuecli3版本见https://github.com/hql7/wl-tree-transfer  示例见->|537|2021-10-05|
+|126|[zce/dashboard](https://github.com/zce/dashboard)|A dashboard scaffolding based on Vue.js 3.0 created by Vite.|532|2021-10-21|
+|127|[F-loat/ithome-lite](https://github.com/F-loat/ithome-lite)|🥛 IT之家第三方小程序版客户端（使用 mpvue 开发，兼容 web）|530|2021-10-05|
+|128|[monoplasty/vue-monoplasty-slide-verify](https://github.com/monoplasty/vue-monoplasty-slide-verify)|vue slide verify online preview|526|2021-10-06|
+|129|[hanFengSan/eHunter](https://github.com/hanFengSan/eHunter)|For the best reading experience|525|2021-10-05|
+|130|[pandaGao/bilibili-live-helper](https://github.com/pandaGao/bilibili-live-helper)|Bilibili直播弹幕库 for Mac / Windows / Linux|516|2021-10-12|
+|131|[ITmonkey-cn/shopro-uniapp](https://github.com/ITmonkey-cn/shopro-uniapp)|Shopro分销商城 uniapp前端开源代码，一款落地生产的 基于uni-app的多端商城。使用文档：https://gitee.com/itmonkey-cn/shopro.git|508|2021-10-25|
+|132|[fengli01/vue-bpmn-element](https://github.com/fengli01/vue-bpmn-element)|bpmn.js流程设计器组件，基于vue-elementui美化属性面板，满足90%以上的业务需求|506|2021-07-20|
+|133|[jeecgboot/jeecg-uniapp](https://github.com/jeecgboot/jeecg-uniapp)|JEECG BOOT APP 移动解决方案，采用uniapp框架，一份代码多终端适配，同时支持APP、小程序、H5！实现了与JeecgBoot平台完美对接的移动解决方案！目前已经实现登录、用户信息、通讯录、公告、移动首页、九宫格等基础功能。|495|2021-07-28|
+|134|[geekskai/vue3-jd-h5](https://github.com/geekskai/vue3-jd-h5)|:fire: Based on vue3.0.0, vant3.0.0, vue-router v4.0.0-0, vuex^4.0.0-0, vue-cli3, mockjs, imitating Jingdong Taobao, mobile H5 e-commerce platform! 基于vue3.0.0 ,vant3.0.0,vue-router v4.0.0-0, vuex^4.0. ...|495|2021-10-17|
+|135|[yeyan1996/file-upload](https://github.com/yeyan1996/file-upload)|-|490|2021-08-11|
+|136|[miyuesc/bpmn-process-designer](https://github.com/miyuesc/bpmn-process-designer)|Base on Vue 2.x and ElementUI，基于 Bpmn.js、Vue 2.x 和 ElementUI 的流程编辑器（前端部分），支持监听器，扩展属性，表单等配置，可自由扩展|489|2021-12-27|
+|137|[Neveryu/vue-cms](https://github.com/Neveryu/vue-cms)|基于 Vue 和 ElementUI 构建的一个企业级后台管理系统|487|2021-07-14|
+|138|[bullteam/zeus-admin](https://github.com/bullteam/zeus-admin)|Zeus基于Golang Gin +casbin，致力于做企业统一权限&账号中心管理系统。包含账号管理，数据权限，功能权限，应用管理，多数据库适配，可docker 一键运行。社区活跃，版本迭代快，加群免费技术支持。|480|2021-09-29|
+|139|[ovenslove/vue-mdEditor](https://github.com/ovenslove/vue-mdEditor)|基于VUE的markdown文本编辑器|469|2021-07-23|
+|140|[vincentzyc/form-design](https://github.com/vincentzyc/form-design)|动态表单页面设计--自动生成页面|464|2021-10-06|
+|141|[a7650/h5-editor](https://github.com/a7650/h5-editor)|📕h5可视化编辑器，支持添加图片/文本/形状等，拥有图层/参考线/标尺/自动吸附对齐等功能|450|2021-12-16|
+|142|[cd-dongzi/vue-project](https://github.com/cd-dongzi/vue-project)|Vue实战项目|447|2021-10-06|
+|143|[zhaoyiming0803/VueNode](https://github.com/zhaoyiming0803/VueNode)|VueNode is a project of front and backend separation that building on TypeScript + Vue.js@3.x + Node.js + MySQL|444|2021-12-30|
+|144|[cmdparkour/vue-admin-box](https://github.com/cmdparkour/vue-admin-box)|vue3,vite,element-plus中后台管理系统，集成四套基础模板，大量可利用组件，模板页面|437|2021-12-22|
+|145|[caohuatao/vue-super-flow](https://github.com/caohuatao/vue-super-flow)|Flow chart component based on Vue。vue flowchart|419|2021-12-16|
+|146|[FEMessage/el-data-table](https://github.com/FEMessage/el-data-table)|🥘Base on element-ui, makes crud easily|418|2021-09-11|
+|147|[likaia/chat-system](https://github.com/likaia/chat-system)|本项目是一个在线聊天系统，最大程度的还原了Mac客户端QQ。|415|2022-01-03|
+|148|[arkntools/arknights-toolbox](https://github.com/arkntools/arknights-toolbox)|🔨 Arknights Toolbox, all servers are supported. 明日方舟工具箱，支持中台美日韩服|410|2022-01-01|
+|149|[xxjwxc/caoguo](https://github.com/xxjwxc/caoguo)|golang,微信小程序,电商系统|409|2021-11-09|
+|150|[ifzc/Shkjem](https://github.com/ifzc/Shkjem)|基于Vue&ElementUI的企业官网|404|2021-10-05|
+|151|[Hzy0913/mpvue-calendar](https://github.com/Hzy0913/mpvue-calendar)|📅 A calendar component for vue3.0. Support gesture sliding, range selection, according to the week switch...|402|2021-09-27|
+|152|[L-noodle/vue-big-screen](https://github.com/L-noodle/vue-big-screen)|一个基于 vue、datav、Echart 框架的大数据可视化（大屏展示）模板，实现大数据可视化。通过 vue 组件实现数据动态刷新渲染，内部图表可自由替换。部分图表使用 DataV 自带组件，可自由进行更改（ps：最新的更新请前往码云查看，下面有链接）。|401|2021-10-06|
+|153|[wechat-miniprogram/kbone-ui](https://github.com/wechat-miniprogram/kbone-ui)|kbone-ui 是一套能同时支持 小程序(kbone) 和 vue 框架开发的多端 UI 库（PS：新版 kbone-ui 已出炉并迁移到 kbone 主仓库，此仓库仅做旧版维护之用）|398|2022-01-04|
+|154|[wmz1930/Jeebase](https://github.com/wmz1930/Jeebase)|    Jeebase是一款前后端分离的开源开发框架，基于springboot+vue（vue-element-admin/Ant Design Pro Vue）开发，一套SpringBoot后台，两套前端页面，可以自由选择基于ElementUI或者AntDesign的前端界面。二期会整合react前端框架（Ant Design React）。在实际应用中已经使用这套框架开发了CMS网站系统，社区 ...|398|2021-10-12|
+|155|[MrZHLF/vue-admin](https://github.com/MrZHLF/vue-admin)|vue-cli3.0后台管理模板|396|2021-11-29|
+|156|[hellowuxin/mindmap](https://github.com/hellowuxin/mindmap)|Mindmap component for Vue2|394|2021-10-06|
+|157|[TyCoding/tumo-vue](https://github.com/TyCoding/tumo-vue)|Tumo Blog For Vue.js. 前后端分离|390|2021-11-01|
+|158|[Sandop/NuxtPC](https://github.com/Sandop/NuxtPC)|基于Nuxt的企业官网|390|2021-08-10|
+|159|[GooGee/Entity-Builder](https://github.com/GooGee/Entity-Builder)|:tomato: Laravel generator with GUI. Generate crud / scaffold.|384|2021-11-14|
+|160|[CCZX/wechat](https://github.com/CCZX/wechat)|聊天室、websocket、socket.io、毕业设计。|383|2021-11-07|
+|161|[ninecat-ui/ninecat-ui](https://github.com/ninecat-ui/ninecat-ui)|A Light Vue 3.0 Web UI Framework build with JavaScript and Typescript.|379|2021-12-16|
+|162|[baimingxuan/vue-admin-design](https://github.com/baimingxuan/vue-admin-design)|基于vue + elementUI的管理系统模板|370|2021-12-28|
+|163|[bingo-oss/bui-weex](https://github.com/bingo-oss/bui-weex)|专门为 Weex 前端开发者打造的一套高质量UI框架|370|2021-10-06|
+|164|[OXOYO/X-WebDesktop-Vue](https://github.com/OXOYO/X-WebDesktop-Vue)|基于 Vue & Koa 的 WebDesktop 视窗系统   The WebDesktop system based on Vue|367|2021-09-20|
+|165|[mizuka-wu/vue2-verify](https://github.com/mizuka-wu/vue2-verify)|vue的验证码插件|362|2021-10-05|
+|166|[zhixuanziben/gouyan-movie-vue](https://github.com/zhixuanziben/gouyan-movie-vue)|这是一个基于vue全家桶制作的在线电影影讯网站，利用豆瓣api的接口获取数据，模仿猫眼电影制作的webapp，实现了当前热映电影，即将上映电影，电影详细信息，短评和长评论信息，影星个人信息，以及电影查询的功能|362|2021-07-10|
+|167|[huxiaocheng/vue-gn-components](https://github.com/huxiaocheng/vue-gn-components)|这里有一些标准组件库可能没有的功能组件，已有组件：放大镜、签到、图片标签、滑动验证、倒计时、水印、拖拽、大家来找茬。|360|2021-10-06|
+|168|[hezhang18/vue-starbucks](https://github.com/hezhang18/vue-starbucks)|Starbucks Front-End Project Developed by Vue.js|360|2021-07-15|
+|169|[HuberTRoy/vue-shiyanlou](https://github.com/HuberTRoy/vue-shiyanlou)|:kissing_heart:基于vue2和vuex的复杂单页面应用，20+页面53个API（仿实验楼）:sparkles::sparkles:|353|2021-10-06|
+|170|[lentoo/vue-admin](https://github.com/lentoo/vue-admin)|使用 vue-cli3 搭建的vue-vuex-router-element 开发模版，集成常用组件，功能模块|347|2021-11-29|
+|171|[murongqimiao/DAG-diagram](https://github.com/murongqimiao/DAG-diagram)|VUE plugin for DAG graph , u can use it 4 flow diagram or machine learning visualization|343|2021-09-15|
+|172|[Peachick/ktv-select_music-system](https://github.com/Peachick/ktv-select_music-system)|KTV点歌系统,含后台管理系统(完整版)|342|2021-11-04|
+|173|[lhz960904/movie-trailer](https://github.com/lhz960904/movie-trailer)|:popcorn:Vue3 + TypeScript开发的电影预告片webAPP，可以查看正在热映与即将上映的电影信息和短片|339|2021-10-05|
+|174|[auroral-ui/hexo-theme-aurora](https://github.com/auroral-ui/hexo-theme-aurora)|🏳️‍🌈 Futuristic auroral Hexo theme.|338|2021-12-27|
+|175|[J1ong/FilmSys](https://github.com/J1ong/FilmSys)|一个使用Vue全家桶和后台Express框架结合Mysql数据库搭建起来的移动端电影售票和管理系统，实现了热映、即将上映、电影和影院全局搜索、评论、选座、购票、点赞、收藏、订单等一系列购票和管理流程功能|331|2021-10-05|
+|176|[bhuh12/vue-router-tab](https://github.com/bhuh12/vue-router-tab)|Vue.js tab components, based on Vue Router.|331|2021-12-20|
+|177|[ChanWahFung/nuxt-juejin-project](https://github.com/ChanWahFung/nuxt-juejin-project)|仿掘金web网站，使用服务端渲染。主要技术：nuxt + koa + vuex + axios + element-ui 。|326|2021-12-14|
+|178|[cscan/vue-excel-editor](https://github.com/cscan/vue-excel-editor)|Vue2 plugin for displaying and editing the array-of-object in Excel style|326|2021-12-13|
+|179|[GeekPark/smeditor](https://github.com/GeekPark/smeditor)|✎ 基于 Vue.js 2.0+ 石墨文档样式的富文本编辑器组件|324|2021-08-10|
+|180|[zhuyihe/vue-admin-project](https://github.com/zhuyihe/vue-admin-project)|vue-cli3搭建后台管理模板|319|2021-10-05|
+|181|[wuyawei/webrtc-stream](https://github.com/wuyawei/webrtc-stream)|🍧🍭😻包括但不局限于 WebRTC 的各种栗子|317|2021-10-05|
+|182|[w1301625107/Vue-Gantt-chart](https://github.com/w1301625107/Vue-Gantt-chart)|使用Vue做数据控制的Gantt图表|317|2021-12-23|
+|183|[hzlshen/vue-project](https://github.com/hzlshen/vue-project)|基于vue-cli构建的财务后台管理系统(vue2+vuex+axios+vue-router+element-ui+echarts+websocket+vue-i18n)|315|2021-11-06|
+|184|[acccccccb/vue-img-cutter](https://github.com/acccccccb/vue-img-cutter)|简单易用的vue图片裁剪插件，支持移动图像，裁剪图片，放大缩小图片，上下左右移动，固定比例，固定尺寸，远程图片裁剪，只需要很少的代码就可以实现裁剪功能，也可以通过调整参数以适应你自己的业务需求。|314|2021-12-21|
+|185|[Rocket1184/electron-netease-cloud-music](https://github.com/Rocket1184/electron-netease-cloud-music)|UNOFFICIAL client for music.163.com. Powered by Electron and Vue|314|2021-11-10|
+|186|[AwesomeDevin/vue-waterfall2](https://github.com/AwesomeDevin/vue-waterfall2)| waterfall  adaptive plugin for vue  and support lazy load , so easy!  |312|2021-10-05|
+|187|[linjinze999/vue-llplatform](https://github.com/linjinze999/vue-llplatform)|vue-llplatform，基于vue、element搭建的后台管理平台。|306|2021-10-05|
+|188|[WishMelz/imgurl](https://github.com/WishMelz/imgurl)|基于github的图片管理系统/免费|298|2021-11-22|
+|189|[fuyi501/web-video-live](https://github.com/fuyi501/web-video-live)|网页H5播放视频流/直播系统，使用 flv.js，vue-video-player播放器，测试支持 rtmp，http-flv，hls 视频流格式，可以做视频监控，也可以通过视频截图。|298|2021-10-05|
+|190|[d2-projects/d2-crud](https://github.com/d2-projects/d2-crud)|D2 Crud 是一个基于 Vue.js 和 Element UI 的表格组件，封装了常用的表格操作。|298|2021-10-05|
+|191|[xusenlin/vue-element-ui-admin](https://github.com/xusenlin/vue-element-ui-admin)|:maple_leaf:  一个基于 Vue Element UI 的后台模板，做了目录结构的整理和常用方法的封装，开箱即用 :)|297|2021-10-05|
+|192|[pocketdigi/kong-admin-ui](https://github.com/pocketdigi/kong-admin-ui)|Kong admin UI|291|2021-07-21|
+|193|[pengxiaotian/datav-vue](https://github.com/pengxiaotian/datav-vue)|A Powerful Data Visualization Tool. Uses TypeScript And Vue3. Scenario-specific templates. User-friendly interfaces. 一款数据可视化应用搭建工具|288|2022-01-04|
+|194|[phynos/WebTopo](https://github.com/phynos/WebTopo)|基于VUE的web组态（组态，拓扑图，拓扑编辑器）|287|2021-10-12|
+|195|[naihe138/vue-picker](https://github.com/naihe138/vue-picker)|A picker componemt for vue|287|2021-09-02|
+|196|[easy-wheel/ts-vue](https://github.com/easy-wheel/ts-vue)|基于typescript+vue-cli3+elementui搭建的壳子|284|2021-08-22|
+|197|[MPComponent/mpvue-weui](https://github.com/MPComponent/mpvue-weui)|基于 mpvue 的 weui 框架|282|2021-10-06|
+|198|[core-player/vue-core-video-player](https://github.com/core-player/vue-core-video-player)|🍟  A Lightweight Video Player For Vue.js.|282|2021-10-06|
+|199|[LanceGin/Mockman](https://github.com/LanceGin/Mockman)|Manage and start the mock servers on your local platform easily|282|2021-10-12|
+|200|[kouchao/vue-layui](https://github.com/kouchao/vue-layui)|基于vue的layui|280|2021-10-05|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
-    榜单持续<a href="/content/docs/milestone.md">更新</a>，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
 
 <br/>

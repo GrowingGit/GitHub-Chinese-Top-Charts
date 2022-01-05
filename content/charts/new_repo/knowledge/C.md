@@ -7,7 +7,7 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|3480|2022-01-01|2021-11-06|
 |2|[hewei2001/HITSZ-OpenCS](https://github.com/hewei2001/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|445|2022-01-04|2021-03-05|
-|3|[kerwincui/wumei-smart](https://github.com/kerwincui/wumei-smart)|物美智能是一套开源的软硬件系统，可用于二次开发和学习，快速搭建自己的智能家居系统。硬件工程师可以把自己的设备集成到系统；软件工程师可以使用项目中的设备熟悉软硬件交互。|263|2021-07-16|2021-05-24|
+|3|[kerwincui/wumei-smart](https://github.com/kerwincui/wumei-smart)|物美智能是一套开源的软硬件系统，可用于二次开发和学习，快速搭建自己的智能家居系统。硬件工程师可以把自己的设备集成到系统；软件工程师可以使用项目中的设备熟悉软硬件交互。|264|2021-07-16|2021-05-24|
 |4|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|160|2021-12-27|2021-03-22|
 |5|[r0ysue/AndroidFridaBeginnersBook](https://github.com/r0ysue/AndroidFridaBeginnersBook)|《安卓Frida逆向与抓包实战》随书附件|128|2021-10-15|2021-04-26|
 |6|[LookCos/learn-data-structures](https://github.com/LookCos/learn-data-structures)|数据结构（C语言描述）学习笔记|109|2022-01-03|2021-10-09|
@@ -19,11 +19,10 @@
 |12|[hzcx998/BookOS](https://github.com/hzcx998/BookOS)|BookOS is a tiny OS based on xbook2 kernel, you can use it to study!|38|2021-10-31|2021-02-05|
 |13|[puge-up/programming-cpp](https://github.com/puge-up/programming-cpp)|Linux C/C++ 学习笔记、内含视频 + 电子书 + 项目等，专注于 C++ 技术栈！|36|2021-08-15|2021-07-18|
 |14|[SuperPung/TJU-CourseSharing](https://github.com/SuperPung/TJU-CourseSharing)|天津大学课程共享计划|31|2021-11-13|2021-07-01|
-|15|[hhubibi/zju-isee](https://github.com/hhubibi/zju-isee)|浙江大学电子科学与技术专业部分课程仓库|30|2021-06-26|2021-02-27|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
-    榜单持续<a href="/content/docs/milestone.md">更新</a>，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
 
 <br/>

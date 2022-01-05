@@ -14,13 +14,11 @@
 |7|[Petit-Abba/black_and_white_list](https://github.com/Petit-Abba/black_and_white_list)|Magisk模块: 定时清理黑名单列表路径文件or文件夹|80|2021-11-13|2021-09-28|
 |8|[ledisthebest/LEDs-single-gpu-passthrough](https://github.com/ledisthebest/LEDs-single-gpu-passthrough)|Single GPU passthrough guide|62|2021-12-27|2021-04-04|
 |9|[SpaceLearner/Awesome-DynamicGraphLearning](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)|Awesome papers about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs). 将深度学习技术(图神经网络等)应用在动态图、动态网络、动态知识图谱上的论文、工具等。|61|2022-01-02|2021-07-12|
-|10|[liusy58/WhyThis](https://github.com/liusy58/WhyThis)|we'll try to answer some questions during our study about computer systems.|61|2021-06-12|2021-03-27|
-|11|[jaydenwen123/boltdb_book](https://github.com/jaydenwen123/boltdb_book)|自底向上分析boltdb源码https://www.bookstack.cn/books/jaydenwen123-boltdb_book|38|2021-06-22|2021-04-06|
-|12|[07031218/normal-shell](https://github.com/07031218/normal-shell)|个人常使用的一些脚本集合|34|2021-12-27|2021-05-27|
+|10|[07031218/normal-shell](https://github.com/07031218/normal-shell)|个人常使用的一些脚本集合|34|2021-12-27|2021-05-27|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
-    榜单持续<a href="/content/docs/milestone.md">更新</a>，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
 
 <br/>

@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[mhinz/vim-galore](https://github.com/mhinz/vim-galore)|:mortar_board: All things Vim!|12674|6|2021-11-17|
+|1|[mhinz/vim-galore](https://github.com/mhinz/vim-galore)|:mortar_board: All things Vim!|12676|6|2021-11-17|
 |2|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|8666|5|2021-08-21|
 |3|[overmind1980/oeasyvim](https://github.com/overmind1980/oeasyvim)|这是oeasy制作的的一套关于vim的教程 可以在 https://www.lanqiao.cn/teacher/courses/2840 做实验 邀请码FJWYIMGB 本教程从0基础开始，到精通vim配置，和高级命令。希望能让vim是你的开发更高效。|122|1|2021-12-10|
 |4|[dolotech/ebook](https://github.com/dolotech/ebook)|学习资料|1441|1|2021-12-02|
@@ -17,11 +17,10 @@
 |10|[lululxvi/oh-my-linux-apps](https://github.com/lululxvi/oh-my-linux-apps)|My list of essential Linux applications.|11|0|2021-12-31|
 |11|[kktao/vim-learn](https://github.com/kktao/vim-learn)|《Vim实用技巧》阅读笔记|3|0|2021-11-06|
 |12|[MDGSF/MyVim](https://github.com/MDGSF/MyVim)|vim, vimrc, vimrc template, vim document, vim note, vim study, vimtutor, learn vim, vim practice, vim学习, vim笔记, vim训练营, vim教程, vim入门教程, vim简明教程, vim实操教程, vim入门文档, vimtutor中文版|23|0|2022-01-04|
-|13|[ZSaberLv0/vim-easymotion-chs](https://github.com/ZSaberLv0/vim-easymotion-chs)|tricks to allow easymotion recognize Chinese chars|17|0|2021-06-17|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
-    榜单持续<a href="/content/docs/milestone.md">更新</a>，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
+    榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
 </div>
 
 <br/>
