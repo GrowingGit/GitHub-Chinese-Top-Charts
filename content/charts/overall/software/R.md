@@ -1,32 +1,32 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2022-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[xiaodaigh/disk.frame](https://github.com/xiaodaigh/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|569|2021-09-15|
 |2|[pzhaonet/mindr](https://github.com/pzhaonet/mindr)|an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms)|540|2021-11-22|
-|3|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|495|2021-12-19|
-|4|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|2022-01-04|
+|3|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|496|2022-01-05|
+|4|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|361|2022-01-05|
 |5|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|347|2021-12-23|
-|6|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|217|2021-12-20|
+|6|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|217|2022-01-05|
 |7|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|161|2021-12-19|
 |8|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|148|2021-10-10|
-|9|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|2022-01-04|
+|9|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|2022-01-05|
 |10|[hrbrmstr/docxtractr](https://github.com/hrbrmstr/docxtractr)|:scissors: Extract Tables from Microsoft Word Documents with R|144|2021-10-02|
 |11|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|131|2021-11-28|
 |12|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|111|2022-01-03|
-|13|[quanteda/stopwords](https://github.com/quanteda/stopwords)|Multilingual Stopword Lists in R|101|2021-10-28|
+|13|[quanteda/stopwords](https://github.com/quanteda/stopwords)|Multilingual Stopword Lists in R|101|2022-01-05|
 |14|[quanteda/readtext](https://github.com/quanteda/readtext)|an R package for reading text files|99|2021-07-13|
 |15|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|91|2021-12-15|
 |16|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008)|80|2021-11-29|
 |17|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|🛠 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|78|2021-12-26|
 |18|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|63|2021-09-15|
 |19|[lilywang1988/eSIR](https://github.com/lilywang1988/eSIR)|Extended state-space SIR epidemiological models|62|2021-11-08|
-|20|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|61|2021-12-31|
-|21|[ykang/gratis](https://github.com/ykang/gratis)|GRATIS: GeneRAting TIme Series with diverse and controllable characteristics|59|2021-12-22|
-|22|[jmzeng1314/AnnoProbe](https://github.com/jmzeng1314/AnnoProbe)|-|58|2021-08-01|
+|20|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|61|2022-01-05|
+|21|[jmzeng1314/AnnoProbe](https://github.com/jmzeng1314/AnnoProbe)|-|59|2021-08-01|
+|22|[ykang/gratis](https://github.com/ykang/gratis)|GRATIS: GeneRAting TIme Series with diverse and controllable characteristics|59|2021-12-22|
 |23|[hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|55|2021-12-21|
 |24|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/|49|2021-12-13|
 |25|[reconverse/outbreaks](https://github.com/reconverse/outbreaks)|outbreaks: an R package compiling disease outbreak data|48|2021-08-06|

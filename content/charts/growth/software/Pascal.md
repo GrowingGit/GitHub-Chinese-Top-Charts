@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2022-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -26,7 +26,7 @@
 |19|[PassByYou888/zSound](https://github.com/PassByYou888/zSound)|zSound Engine for All Platform(Android,IOS,OSX,Windows),supported delphi VCL/delphi FMX/fpc|26|0|2021-09-21|
 |20|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker for Windows|30|0|2021-12-14|
 |21|[digao-dalpiaz/DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|86|0|2022-01-02|
-|22|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|233|0|2022-01-04|
+|22|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|233|0|2022-01-05|
 |23|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|192|0|2021-12-06|
 |24|[ying32/res2go-ide-plugin](https://github.com/ying32/res2go-ide-plugin)|res2go Lazarus IDE plug-in|13|0|2021-11-13|
 |25|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|260|0|2021-12-30|
@@ -36,7 +36,7 @@
 |29|[dbyoung720/ImageGray](https://github.com/dbyoung720/ImageGray)|MMX/SSE/SSE2/SSE4/AVX/AVX2/AVX512 optimization|12|0|2021-12-29|
 |30|[ying32/DDNRuntime-examples](https://github.com/ying32/DDNRuntime-examples)|DDNRuntime(Delphi .NET Framework/.NET Core Runtime) example. DDNRuntime is a library for Delphi to call .net dll. Support the assembly written by c#, vb.net. Support importing .net dll to delphi, can  ...|12|0|2021-12-10|
 |31|[GerryFerdinandus/bittorrent-tracker-editor](https://github.com/GerryFerdinandus/bittorrent-tracker-editor)|Software for add or remove tracker from torrent files.|393|0|2021-12-03|
-|32|[laciba96/WinBox-for-86Box](https://github.com/laciba96/WinBox-for-86Box)|WinBox for 86Box: The newest way to manage the oldest computers.|59|0|2022-01-04|
+|32|[laciba96/WinBox-for-86Box](https://github.com/laciba96/WinBox-for-86Box)|WinBox for 86Box: The newest way to manage the oldest computers.|60|0|2022-01-05|
 |33|[coder163/DesignPatternForDelphi](https://github.com/coder163/DesignPatternForDelphi)|网络上流传的设计模式多以Java、C++语言描述，用Delphi描述的资源几乎为零，特此整理|3|0|2021-11-21|
 |34|[dbyoung720/ADOS](https://github.com/dbyoung720/ADOS)|给鼠标右键添加 "在此处打开命令窗口(管理员)" 菜单|2|0|2021-10-28|
 |35|[PassByYou888/zExpression](https://github.com/PassByYou888/zExpression)|脚本与编译器内部的语法引擎内核，也是一种op内核，zExpression可以轻松实现自己的脚本引擎|37|0|2021-09-21|

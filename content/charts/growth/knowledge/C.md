@@ -1,37 +1,37 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > C
-<sub>数据更新: 2022-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|3480|58|2022-01-01|
-|2|[SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther)|Affordable WiFi hacking platform for testing and learning|9396|5|2021-12-12|
-|3|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|5586|3|2021-12-15|
-|4|[EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd)|Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net|7832|3|2021-10-08|
-|5|[Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub)|:palm_tree:Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (Windows提权漏洞合集) |1641|3|2022-01-04|
-|6|[nonstriater/Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)|算法学习笔记|6219|2|2021-12-23|
-|7|[firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One)|CTF竞赛权威指南|2823|2|2021-12-29|
-|8|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|160|1|2021-12-27|
-|9|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|1348|1|2022-01-04|
+|1|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|3484|57|2022-01-01|
+|2|[SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther)|Affordable WiFi hacking platform for testing and learning|9400|5|2021-12-12|
+|3|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|5588|3|2021-12-15|
+|4|[EZLippi/Tinyhttpd](https://github.com/EZLippi/Tinyhttpd)|Tinyhttpd 是J. David Blackstone在1999年写的一个不到 500 行的超轻量型 Http Server，用来学习非常不错，可以帮助我们真正理解服务器程序的本质。官网:http://tinyhttpd.sourceforge.net|7839|3|2021-10-08|
+|5|[Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub)|:palm_tree:Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (Windows提权漏洞合集) |1645|3|2022-01-04|
+|6|[nonstriater/Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)|算法学习笔记|6223|2|2021-12-23|
+|7|[firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One)|CTF竞赛权威指南|2825|2|2021-12-29|
+|8|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|161|1|2021-12-27|
+|9|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|1349|1|2022-01-05|
 |10|[FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit)|iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结|628|1|2021-12-19|
-|11|[realYurkOfGitHub/translation-Introduction-to-HPC](https://github.com/realYurkOfGitHub/translation-Introduction-to-HPC)|为 Eijhout 教授的Introduction to HPC提供中文翻译、 PPT和Lab。|52|1|2021-12-27|
+|11|[realYurkOfGitHub/translation-Introduction-to-HPC](https://github.com/realYurkOfGitHub/translation-Introduction-to-HPC)|为 Eijhout 教授的Introduction to HPC提供中文翻译、 PPT和Lab。|54|1|2021-12-27|
 |12|[LookCos/learn-data-structures](https://github.com/LookCos/learn-data-structures)|数据结构（C语言描述）学习笔记|109|1|2022-01-03|
 |13|[hzcx998/xbook2](https://github.com/hzcx998/xbook2)|xbook2是一个基于x86处理器的32位操作系统，实现了大量的基础功能，可以拿来学习操作系统知识。|367|1|2021-10-31|
-|14|[peng-zhihui/MiniRover-Hardware](https://github.com/peng-zhihui/MiniRover-Hardware)|自制火星车的开源资料。|266|1|2021-12-26|
-|15|[r0ysue/AndroidFridaBeginnersBook](https://github.com/r0ysue/AndroidFridaBeginnersBook)|《安卓Frida逆向与抓包实战》随书附件|128|1|2021-10-15|
-|16|[DavadDi/bpf_study](https://github.com/DavadDi/bpf_study)|bpf 学习仓库|445|1|2022-01-03|
-|17|[hairrrrr/C-CrashCourse](https://github.com/hairrrrr/C-CrashCourse)|C语言教程+博客+代码演示+课程设计。 帮助初学者更好的理解 C 难点，提升代码量！ For beginners:C tuition/self-learning|467|1|2021-11-25|
+|14|[peng-zhihui/MiniRover-Hardware](https://github.com/peng-zhihui/MiniRover-Hardware)|自制火星车的开源资料。|268|1|2021-12-26|
+|15|[r0ysue/AndroidFridaBeginnersBook](https://github.com/r0ysue/AndroidFridaBeginnersBook)|《安卓Frida逆向与抓包实战》随书附件|129|1|2021-10-15|
+|16|[DavadDi/bpf_study](https://github.com/DavadDi/bpf_study)|bpf 学习仓库|447|1|2022-01-03|
+|17|[hairrrrr/C-CrashCourse](https://github.com/hairrrrr/C-CrashCourse)|C语言教程+博客+代码演示+课程设计。 帮助初学者更好的理解 C 难点，提升代码量！ For beginners:C tuition/self-learning|470|1|2021-11-25|
 |18|[ming1016/study](https://github.com/ming1016/study)|学习记录|3685|1|2021-12-13|
-|19|[hewei2001/HITSZ-OpenCS](https://github.com/hewei2001/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|445|1|2022-01-04|
-|20|[kerwincui/wumei-smart](https://github.com/kerwincui/wumei-smart)|物美智能是一套开源的软硬件系统，可用于二次开发和学习，快速搭建自己的智能家居系统。硬件工程师可以把自己的设备集成到系统；软件工程师可以使用项目中的设备熟悉软硬件交互。|264|1|2021-07-16|
-|21|[fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony)|华为鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。|328|1|2021-10-29|
-|22|[huaiyukeji/verification_code](https://github.com/huaiyukeji/verification_code)|验证码研究破解心得记录。包含网易易盾，阿里云验证码，极验验证码，通用汉字识别，梦幻西游验证等主流验证码破解。包含点按验证码、点选验证、语序点选等等。已更新极验验证码、企业公示网/工商/文书采集系统、极验打码接口。|721|1|2021-11-17|
+|19|[hewei2001/HITSZ-OpenCS](https://github.com/hewei2001/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|446|1|2022-01-04|
+|20|[kerwincui/wumei-smart](https://github.com/kerwincui/wumei-smart)|物美智能是一套开源的软硬件系统，可用于二次开发和学习，快速搭建自己的智能家居系统。硬件工程师可以把自己的设备集成到系统；软件工程师可以使用项目中的设备熟悉软硬件交互。|269|1|2021-07-16|
+|21|[fenwii/OpenHarmony](https://github.com/fenwii/OpenHarmony)|华为鸿蒙分布式操作系统（Huawei OpenHarmony）开发技术交流，鸿蒙技术资料，手册，指南，共建国产操作系统万物互联新生态。|329|1|2021-10-29|
+|22|[huaiyukeji/verification_code](https://github.com/huaiyukeji/verification_code)|验证码研究破解心得记录。包含网易易盾，阿里云验证码，极验验证码，通用汉字识别，梦幻西游验证等主流验证码破解。包含点按验证码、点选验证、语序点选等等。已更新极验验证码、企业公示网/工商/文书采集系统、极验打码接口。|722|1|2021-11-17|
 |23|[Hansimov/csapp](https://github.com/Hansimov/csapp)|个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料：https://hansimov.gitbook.io/csapp/|298|1|2021-12-28|
-|24|[Exely/CSAPP-Labs](https://github.com/Exely/CSAPP-Labs)|Solutions and Notes for Labs of Computer Systems: A Programmer's Perspective 3rd Editon // 《深入理解计算机系统》第三版的实验文件、解答与笔记|1243|1|2021-12-04|
+|24|[Exely/CSAPP-Labs](https://github.com/Exely/CSAPP-Labs)|Solutions and Notes for Labs of Computer Systems: A Programmer's Perspective 3rd Editon // 《深入理解计算机系统》第三版的实验文件、解答与笔记|1248|1|2021-12-04|
 |25|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|80|1|2021-12-10|
 |26|[0voice/algorithm-structure](https://github.com/0voice/algorithm-structure)|2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结|533|1|2021-08-27|
-|27|[Kiprey/Skr_Learning](https://github.com/Kiprey/Skr_Learning)|天问之路 - 学习笔记&学习周报。内容包括但不限于C++ STL、编译原理、LLVM IR Pass代码优化、CSAPP Lab、uCore操作系统等等。持续更新ing...|197|0|2021-12-24|
+|27|[Kiprey/Skr_Learning](https://github.com/Kiprey/Skr_Learning)|天问之路 - 学习笔记&学习周报。内容包括但不限于C++ STL、编译原理、LLVM IR Pass代码优化、CSAPP Lab、uCore操作系统等等。持续更新ing...|199|0|2021-12-24|
 |28|[nevermosby/linux-bpf-learning](https://github.com/nevermosby/linux-bpf-learning)|learn how to use BPF/eBPF|212|0|2021-12-21|
 |29|[ouyangzhaoxing/color-studio](https://github.com/ouyangzhaoxing/color-studio)|轻量简洁颜值极高的IDE，非常适合萌新作为编程入门使用。(Lightweight, concise and beautiful IDE, very suitable for novices to use as a programming entry.)|45|0|2021-09-26|
 |30|[zzy991212/Nemu](https://github.com/zzy991212/Nemu)|Nemu PA——给个Star？【仅供交流学习使用，未经许可禁止传播！】(PA3有个地方取地址时存在左移右移问题，在PA4更改这个bug了，请注意！)|32|0|2021-09-15|
@@ -39,13 +39,13 @@
 |32|[puge-up/programming-cpp](https://github.com/puge-up/programming-cpp)|Linux C/C++ 学习笔记、内含视频 + 电子书 + 项目等，专注于 C++ 技术栈！|36|0|2021-08-15|
 |33|[strongercjd/STM32F207VCT6](https://github.com/strongercjd/STM32F207VCT6)|STM32F207VCT6 learning resource |31|0|2021-08-23|
 |34|[poemdistance/ScreenTranslation](https://github.com/poemdistance/ScreenTranslation)|Linux屏幕取词翻译(适用于如Gnome等基于X server的桌面发行版) -- 含界面|92|0|2021-07-17|
-|35|[PiperLiu/CS-courses-notes](https://github.com/PiperLiu/CS-courses-notes)|✨终生持续更新✨ 计算机基础自学笔记/心得/实验/资源汇总；C语言为主，课程：数据结构、操作系统（MIT6.S081）等|66|0|2021-12-20|
+|35|[PiperLiu/CS-courses-notes](https://github.com/PiperLiu/CS-courses-notes)|✨终生持续更新✨ 计算机基础自学笔记/心得/实验/资源汇总；C语言为主，课程：数据结构、操作系统（MIT6.S081）等|68|0|2022-01-05|
 |36|[rqycpp/socket](https://github.com/rqycpp/socket)|《Linux/UNIX网络编程》习题答案&重点归纳|65|0|2021-07-23|
 |37|[404name/winter](https://github.com/404name/winter)|2020大一寒假从零开始的 C语言 小程序集，纯字符画逻辑实现【C语言笔记本电脑，哔哩哔哩移动端，超级玛丽，QQ，绝地求生等】让C语言课设不仅仅局限于图书馆管理系统！配套视频演示，代码均通过自己思考无任何参考实现，规范性只能说是相当于我大一的标准，欢迎分享，学习和交流|226|0|2021-11-25|
-|38|[xieyu/blog](https://github.com/xieyu/blog)|notes on papers/books/codes|169|0|2021-11-30|
+|38|[xieyu/blog](https://github.com/xieyu/blog)|notes on papers/books/codes|170|0|2021-11-30|
 |39|[Ikaros-521/Learning-Notes](https://github.com/Ikaros-521/Learning-Notes)|学习笔记|30|0|2021-10-22|
 |40|[leleliu008/C](https://github.com/leleliu008/C)|C语言学习项目|118|0|2021-12-08|
-|41|[luopeiyu/million_game_server](https://github.com/luopeiyu/million_game_server)|《百万在线：大型游戏服务端开发》是C++与Lua方向游戏服务端开发的入门书籍，内容涵盖Skynet引擎、C++底层开发、服务端架构设计等多个方面，全景展现网络游戏核心技术。|113|0|2021-09-09|
+|41|[luopeiyu/million_game_server](https://github.com/luopeiyu/million_game_server)|《百万在线：大型游戏服务端开发》是C++与Lua方向游戏服务端开发的入门书籍，内容涵盖Skynet引擎、C++底层开发、服务端架构设计等多个方面，全景展现网络游戏核心技术。|114|0|2021-09-09|
 |42|[riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)|📘《TCP/IP网络编程》(韩-尹圣雨)学习笔记|514|0|2021-11-30|
 |43|[aqi00/androidx](https://github.com/aqi00/androidx)|《Android Studio开发实战：从零基础到App上线》适配androidx的源码|39|0|2021-09-14|
 |44|[DJI-Mobile-SDK-Tutorials/Android-VideoStreamDecodingSample](https://github.com/DJI-Mobile-SDK-Tutorials/Android-VideoStreamDecodingSample)|This sample project demonstrates how to use FFmpeg for video frame parsing and to use MediaCodec for hardware decoding on DJI Products.|142|0|2021-12-17|
@@ -71,9 +71,9 @@
 |64|[deepwzh/sdust-examination-materials](https://github.com/deepwzh/sdust-examination-materials)|山东科技大学课程资源共享计划|230|0|2021-10-06|
 |65|[Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)|LilyGo LoRa Series examples|186|0|2021-10-22|
 |66|[hexhacking/xUnwind](https://github.com/hexhacking/xUnwind)|xUnwind is a collection of Android native stack unwinding solutions.|96|0|2021-12-29|
-|67|[kuangyufei/kernel_liteos_a_note](https://github.com/kuangyufei/kernel_liteos_a_note)|精读鸿蒙内核源码,百万汉字注解分析;百篇博客深入解剖,挖透内核地基工程.注解同步官方,工具文档齐全,多站点发布 . weharmonyos.com|162|0|2022-01-03|
-|68|[Lighter-z/51-Single-chip](https://github.com/Lighter-z/51-Single-chip)|51单片机入门资料|127|0|2021-08-15|
-|69|[xuhongv/StudyInEsp32](https://github.com/xuhongv/StudyInEsp32)|【深度开源】wiif+bt模块esp32学习之旅（持续更新，欢迎 Star...）|293|0|2021-11-29|
+|67|[kuangyufei/kernel_liteos_a_note](https://github.com/kuangyufei/kernel_liteos_a_note)|精读鸿蒙内核源码,百万汉字注解分析;百篇博客深入解剖,挖透内核地基工程.注解同步官方,工具文档齐全,多站点发布 . weharmonyos.com|162|0|2022-01-05|
+|68|[Lighter-z/51-Single-chip](https://github.com/Lighter-z/51-Single-chip)|51单片机入门资料|128|0|2021-08-15|
+|69|[xuhongv/StudyInEsp32](https://github.com/xuhongv/StudyInEsp32)|【深度开源】wiif+bt模块esp32学习之旅（持续更新，欢迎 Star...）|294|0|2021-11-29|
 |70|[gatieme/AderXCoding](https://github.com/gatieme/AderXCoding)|介绍各类语言，库，系统编程以及算法的学习|277|0|2022-01-03|
 |71|[aqi00/android2](https://github.com/aqi00/android2)|《Android Studio开发实战：从零基础到App上线》随书源码（全面添加注释版）|569|0|2021-09-14|
 |72|[qaiu/c4droid-code](https://github.com/qaiu/c4droid-code)|c4droid代码合集|38|0|2021-11-28|

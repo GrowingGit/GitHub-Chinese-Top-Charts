@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW)|Collaborative representation with background purification and saliency weight for hyperspectral anomaly detection|7|0|2021-09-15|
 |2|[complone/NaSch](https://github.com/complone/NaSch)|三车道交通流元胞自动机matlab实现|19|0|2021-08-07|
-|3|[weisongwen/researchTools](https://github.com/weisongwen/researchTools)|useful blogs for research|75|0|2021-11-23|
+|3|[weisongwen/researchTools](https://github.com/weisongwen/researchTools)|useful blogs for research|77|0|2021-11-23|
 |4|[zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW-](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW-)|This is the code for the paper nemed  'Anomaly Detection for Hyperspectral Imagery Based on the Regularized Subspace Method and Collaborative Representation'|16|0|2021-09-28|
 |5|[ShurenQi/MomentToolbox](https://github.com/ShurenQi/MomentToolbox)|Matlab code for the paper "A survey of orthogonal moments for image representation: Theory, implementation, and evaluation"|12|0|2021-11-25|
 |6|[Say-Hello2y/Path-planning-for-robots](https://github.com/Say-Hello2y/Path-planning-for-robots)|use Dijkstra 使用Dijkstra法实现了基于栅格地图的移动机器人路径规划|5|0|2021-12-29|

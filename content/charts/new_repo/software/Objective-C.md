@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > Objective-C
-<sub>数据更新: 2022-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,9 +9,9 @@
 |2|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|265|2021-09-25|2021-08-03|
 |3|[FoneG/FGPopupScheduler](https://github.com/FoneG/FGPopupScheduler)| ✨ ✨ ✨ ✨ iOS弹窗调用器，控制弹窗按照指定的策略进行显示。Helps you control popups easily.  ✨ ✨ ✨ ✨|178|2021-11-08|2021-06-23|
 |4|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|105|2021-10-13|2021-02-08|
-|5|[HighwayLaw/HWThrottle](https://github.com/HighwayLaw/HWThrottle)|A lite Objective-C library for throttle and debounce, supporting leading and trailing. 节流/限流/防反跳/防重复点击/防重复调用|84|2021-11-18|2021-02-20|
-|6|[lionvoom/WeAppTongCeng](https://github.com/lionvoom/WeAppTongCeng)|小程序同层渲染|83|2021-10-29|2021-03-16|
-|7|[OpenIMSDK/Open-IM-SDK-iOS](https://github.com/OpenIMSDK/Open-IM-SDK-iOS)|OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，iOS版本IM SDK 可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。|76|2021-12-24|2021-05-26|
+|5|[lionvoom/WeAppTongCeng](https://github.com/lionvoom/WeAppTongCeng)|小程序同层渲染|84|2021-10-29|2021-03-16|
+|6|[HighwayLaw/HWThrottle](https://github.com/HighwayLaw/HWThrottle)|A lite Objective-C library for throttle and debounce, supporting leading and trailing. 节流/限流/防反跳/防重复点击/防重复调用|84|2021-11-18|2021-02-20|
+|7|[OpenIMSDK/Open-IM-SDK-iOS](https://github.com/OpenIMSDK/Open-IM-SDK-iOS)|OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，iOS版本IM SDK 可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。|76|2022-01-05|2021-05-26|
 |8|[lyandy/Linked_Order_Analyze](https://github.com/lyandy/Linked_Order_Analyze)|二进制重排 线下量化预分析工具|57|2021-07-08|2021-01-17|
 |9|[HansenCCC/KKQuickDraw](https://github.com/HansenCCC/KKQuickDraw)|iOS实现HTML H5秒开、拦截请求替换资源、优化HTML加载速度|47|2021-08-25|2021-05-17|
 |10|[jiangzhengnan/NgGithubIos](https://github.com/jiangzhengnan/NgGithubIos)|🍎 基于iOS端，使用Objective-C编写的Github个人版本|46|2021-09-04|2021-07-04|
@@ -30,9 +30,9 @@
 |23|[DataFlux-cn/datakit-ios](https://github.com/DataFlux-cn/datakit-ios)|-|12|2021-12-22|2021-05-31|
 |24|[pilaf-king/SwiftVTHook](https://github.com/pilaf-king/SwiftVTHook)|基于Swift虚函数表的hook方案（无需dynamic，但是Swift编译优化需要修改为None）|12|2021-11-17|2021-03-03|
 |25|[yanshuimu/MangoFixUtil](https://github.com/yanshuimu/MangoFixUtil)|依赖MangoFix，封装补丁拉取、执行、设备激活、补丁激活完整流程，另外提供本地加密或未加密补丁执行、生成加密补丁等方法。|12|2021-12-24|2021-02-26|
-|26|[netease-kit/NECallKit](https://github.com/netease-kit/NECallKit)|实现呼叫、接听、挂断能力，应用于语音、视频通话场景|11|2021-11-09|2021-04-27|
-|27|[venn0126/SNAugusPopView](https://github.com/venn0126/SNAugusPopView)|A super lightweight popView.|10|2021-11-11|2021-10-14|
-|28|[HMS-Core/hms-3d-modeling-demo-ios](https://github.com/HMS-Core/hms-3d-modeling-demo-ios)|-|10|2021-11-15|2021-09-27|
+|26|[HMS-Core/hms-3d-modeling-demo-ios](https://github.com/HMS-Core/hms-3d-modeling-demo-ios)|-|11|2021-11-15|2021-09-27|
+|27|[netease-kit/NECallKit](https://github.com/netease-kit/NECallKit)|实现呼叫、接听、挂断能力，应用于语音、视频通话场景|11|2021-11-09|2021-04-27|
+|28|[venn0126/SNAugusPopView](https://github.com/venn0126/SNAugusPopView)|A super lightweight popView.|10|2021-11-11|2021-10-14|
 |29|[HansenCCC/KKFileBrowser](https://github.com/HansenCCC/KKFileBrowser)|一个非常实用的文件浏览工具，可以预览图片，也可以可视化数据库。|10|2021-11-02|2021-08-07|
 |30|[fluttercandies/flutter_qweather](https://github.com/fluttercandies/flutter_qweather)|和风天气  Flutter 插件|10|2021-12-11|2021-04-19|
 |31|[niyongsheng/EasyRelease](https://github.com/niyongsheng/EasyRelease)|SaaS场景下Mac上架工具📲 (easy release to app store)|10|2021-11-22|2021-02-24|
@@ -56,16 +56,16 @@
 |49|[mokong/DetectFakeLocation](https://github.com/mokong/DetectFakeLocation)|iOS检测虚拟位置，比如使用Xcode模拟位置、使用爱思助手模拟位置等|5|2021-09-06|2021-08-06|
 |50|[EatherToo/react-native-onepass-alibaba](https://github.com/EatherToo/react-native-onepass-alibaba)|阿里云平台的手机号一键登录|5|2021-07-30|2021-07-28|
 |51|[nongshifu/Bsphp](https://github.com/nongshifu/Bsphp)|OC对接BSphp验证系统|5|2021-08-12|2021-02-17|
-|52|[fatboy-hard/react-native-gcy-datakit](https://github.com/fatboy-hard/react-native-gcy-datakit)|观测云RN集成|4|2021-12-09|2021-11-29|
-|53|[crifan/iOSAutomation](https://github.com/crifan/iOSAutomation)|iOS设备自动化操作的环境搭建和代码演示|4|2021-09-03|2021-09-03|
-|54|[CoderMSY/MSYTableView](https://github.com/CoderMSY/MSYTableView)|数据驱动型UITableView库，封装delegate/dataSource,开发者只需构造数据及自定义Cell|4|2021-12-03|2021-08-20|
-|55|[ljunb/Zelda](https://github.com/ljunb/Zelda)|支持链式语法的轻量FlexBox布局库|4|2021-08-17|2021-08-14|
-|56|[frankKiwi/FNKKeepAlive](https://github.com/frankKiwi/FNKKeepAlive)|ios后台保活策略|4|2021-08-21|2021-08-04|
-|57|[zhengmiaokai/MKWebSocket](https://github.com/zhengmiaokai/MKWebSocket)|使用SRWebSocket实现的长链接，支持cookie设置、连接异常   网络抖动重连、ping-pong心跳保活、一对多delegate|4|2021-09-13|2021-07-05|
-|58|[q1992077/ZZActionPipe](https://github.com/q1992077/ZZActionPipe)|Objective-C 的轻量级 响应式编程 框架。|4|2021-07-19|2021-06-25|
-|59|[Smiacter/flutter_baidu_navi](https://github.com/Smiacter/flutter_baidu_navi)|Flutter baidu map navigation - Flutter百度地图导航|4|2021-10-13|2021-05-20|
-|60|[PetitStrawberry/InfiniteSushiBTT](https://github.com/PetitStrawberry/InfiniteSushiBTT)|BetterTouchTool TouchBar Plugin 無限回転寿司編|4|2021-09-21|2021-03-07|
-|61|[kwai-ec/LottieExtensionDemo](https://github.com/kwai-ec/LottieExtensionDemo)|支持Native混合渲染和点击响应的DEMO工程|3|2021-12-23|2021-12-22|
+|52|[kwai-ec/LottieExtensionDemo](https://github.com/kwai-ec/LottieExtensionDemo)|支持Native混合渲染和点击响应的DEMO工程|4|2021-12-23|2021-12-22|
+|53|[fatboy-hard/react-native-gcy-datakit](https://github.com/fatboy-hard/react-native-gcy-datakit)|观测云RN集成|4|2021-12-09|2021-11-29|
+|54|[crifan/iOSAutomation](https://github.com/crifan/iOSAutomation)|iOS设备自动化操作的环境搭建和代码演示|4|2021-09-03|2021-09-03|
+|55|[CoderMSY/MSYTableView](https://github.com/CoderMSY/MSYTableView)|数据驱动型UITableView库，封装delegate/dataSource,开发者只需构造数据及自定义Cell|4|2021-12-03|2021-08-20|
+|56|[ljunb/Zelda](https://github.com/ljunb/Zelda)|支持链式语法的轻量FlexBox布局库|4|2021-08-17|2021-08-14|
+|57|[frankKiwi/FNKKeepAlive](https://github.com/frankKiwi/FNKKeepAlive)|ios后台保活策略|4|2021-08-21|2021-08-04|
+|58|[zhengmiaokai/MKWebSocket](https://github.com/zhengmiaokai/MKWebSocket)|使用SRWebSocket实现的长链接，支持cookie设置、连接异常   网络抖动重连、ping-pong心跳保活、一对多delegate|4|2021-09-13|2021-07-05|
+|59|[q1992077/ZZActionPipe](https://github.com/q1992077/ZZActionPipe)|Objective-C 的轻量级 响应式编程 框架。|4|2021-07-19|2021-06-25|
+|60|[Smiacter/flutter_baidu_navi](https://github.com/Smiacter/flutter_baidu_navi)|Flutter baidu map navigation - Flutter百度地图导航|4|2021-10-13|2021-05-20|
+|61|[PetitStrawberry/InfiniteSushiBTT](https://github.com/PetitStrawberry/InfiniteSushiBTT)|BetterTouchTool TouchBar Plugin 無限回転寿司編|4|2021-09-21|2021-03-07|
 |62|[hh1016/HHPackKit](https://github.com/hh1016/HHPackKit)|基于UIKit封装的基础控件库，使用链式编程思想对常用的控件进行封装,包含UIView,UILabel,UIButton,UITextFiled,UITextView,UITableView的封装|3|2021-12-21|2021-12-21|
 |63|[Rycccccccc/YCBannerView](https://github.com/Rycccccccc/YCBannerView)|一款轻量级的轮播框架|3|2021-12-11|2021-12-08|
 |64|[yangKJ/KJBannerViewDemo](https://github.com/yangKJ/KJBannerViewDemo)|🏂 🏂 🏂 轮播图无限自动循环滚动、缩放布局、缓存预加载读取、支持自定义继承，网络GIF和网图混合轮播，支持Storyboard和Xib中创建并配置属性，多种分页控件选择，自动清理缓存等等|3|2021-11-27|2021-11-27|
@@ -105,18 +105,17 @@
 |98|[tangtiancheng/ComplianceAD](https://github.com/tangtiancheng/ComplianceAD)|iOS工信部审查广告合规整改,百度,广点通,穿山甲|2|2021-07-21|2021-07-20|
 |99|[dongpeng66/GlobalUsingSystemKeyboard](https://github.com/dongpeng66/GlobalUsingSystemKeyboard)|禁用第三方键盘|2|2021-07-15|2021-07-15|
 |100|[ylls520/jpush-react-native](https://github.com/ylls520/jpush-react-native)|极光推送 集成厂商通道 React-Native|2|2021-07-09|2021-07-09|
-|101|[Aniezoe/MetalTool](https://github.com/Aniezoe/MetalTool)|MetalPetal演示代码|2|2021-07-06|2021-07-06|
-|102|[helinyu/DBOC](https://github.com/helinyu/DBOC)|基于fmdb 对数据库的操作进行了抽象|2|2021-07-18|2021-07-02|
-|103|[lele8446/CJSkin](https://github.com/lele8446/CJSkin)|APP动态换肤解决方案|2|2021-09-28|2021-06-27|
-|104|[xiangshun110/XSNetwork](https://github.com/xiangshun110/XSNetwork)|对AFNetworking 4.0的封装|2|2021-07-30|2021-06-09|
-|105|[zhengmiaokai/MKAPM](https://github.com/zhengmiaokai/MKAPM)|网络监听、卡顿/闪退收集，FPS检测（简单的功能实现）|2|2021-10-18|2021-06-07|
-|106|[growingio/growingio-sdk-ios-advertising](https://github.com/growingio/growingio-sdk-ios-advertising)|GrowingIO 广告SDK，基于TrackerCore|2|2021-09-01|2021-05-25|
-|107|[DengXiangHong/react-native-alipay-verify](https://github.com/DengXiangHong/react-native-alipay-verify)|支付宝实名认证（身份核实、生物识别、人脸识别）|2|2021-12-16|2021-04-20|
-|108|[yelinux/YHWaterFallLayout](https://github.com/yelinux/YHWaterFallLayout)|瀑布流简易使用|2|2021-10-29|2021-04-13|
-|109|[TianKong-0512/cordova-plugin-aliyun-push](https://github.com/TianKong-0512/cordova-plugin-aliyun-push)|阿里云消息推送插件|2|2021-07-07|2021-02-25|
-|110|[YJExpand/YJEmptyView](https://github.com/YJExpand/YJEmptyView)|空白页占位|2|2021-11-17|2021-02-22|
-|111|[wuyanghu/WPObserver](https://github.com/wuyanghu/WPObserver)|自定义一个通用的一对多的观察者|2|2021-11-12|2021-02-05|
-|112|[chbo297/BODragScrollView](https://github.com/chbo297/BODragScrollView)|卡片式滑动拖拽交互控件-支持卡片内嵌ScrollView|2|2021-08-30|2021-01-31|
+|101|[helinyu/DBOC](https://github.com/helinyu/DBOC)|基于fmdb 对数据库的操作进行了抽象|2|2021-07-18|2021-07-02|
+|102|[lele8446/CJSkin](https://github.com/lele8446/CJSkin)|APP动态换肤解决方案|2|2021-09-28|2021-06-27|
+|103|[xiangshun110/XSNetwork](https://github.com/xiangshun110/XSNetwork)|对AFNetworking 4.0的封装|2|2021-07-30|2021-06-09|
+|104|[zhengmiaokai/MKAPM](https://github.com/zhengmiaokai/MKAPM)|网络监听、卡顿/闪退收集，FPS检测（简单的功能实现）|2|2021-10-18|2021-06-07|
+|105|[growingio/growingio-sdk-ios-advertising](https://github.com/growingio/growingio-sdk-ios-advertising)|GrowingIO 广告SDK，基于TrackerCore|2|2021-09-01|2021-05-25|
+|106|[DengXiangHong/react-native-alipay-verify](https://github.com/DengXiangHong/react-native-alipay-verify)|支付宝实名认证（身份核实、生物识别、人脸识别）|2|2021-12-16|2021-04-20|
+|107|[yelinux/YHWaterFallLayout](https://github.com/yelinux/YHWaterFallLayout)|瀑布流简易使用|2|2021-10-29|2021-04-13|
+|108|[TianKong-0512/cordova-plugin-aliyun-push](https://github.com/TianKong-0512/cordova-plugin-aliyun-push)|阿里云消息推送插件|2|2021-07-07|2021-02-25|
+|109|[YJExpand/YJEmptyView](https://github.com/YJExpand/YJEmptyView)|空白页占位|2|2021-11-17|2021-02-22|
+|110|[wuyanghu/WPObserver](https://github.com/wuyanghu/WPObserver)|自定义一个通用的一对多的观察者|2|2021-11-12|2021-02-05|
+|111|[chbo297/BODragScrollView](https://github.com/chbo297/BODragScrollView)|卡片式滑动拖拽交互控件-支持卡片内嵌ScrollView|2|2021-08-30|2021-01-31|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

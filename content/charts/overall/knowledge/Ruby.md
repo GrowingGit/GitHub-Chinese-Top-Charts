@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Ruby
-<sub>数据更新: 2022-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[lewagon/setup](https://github.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|11515|2022-01-04|
-|2|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5987|2022-01-04|
-|3|[airbnb/ruby](https://github.com/airbnb/ruby)|Ruby Style Guide|3370|2021-12-28|
+|2|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|5991|2022-01-04|
+|3|[airbnb/ruby](https://github.com/airbnb/ruby)|Ruby Style Guide|3371|2021-12-28|
 |4|[guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)|A curated list of podcasts we like to listen to. |1605|2021-07-15|
-|5|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1244|2022-01-02|
+|5|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1245|2022-01-02|
 |6|[xcatliu/jekyllcn](https://github.com/xcatliu/jekyllcn)|Jekyll 的中文翻译网站|447|2021-09-02|
 |7|[YOURLS/awesome-yourls](https://github.com/YOURLS/awesome-yourls)|🎉 A curated list of awesome things related to YOURLS|400|2021-12-16|
 |8|[flink-china/flink-china-doc](https://github.com/flink-china/flink-china-doc)|Flink 官方文档中文翻译项目 :cn:|370|2021-07-12|

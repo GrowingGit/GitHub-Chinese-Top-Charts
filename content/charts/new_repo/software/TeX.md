@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > TeX
-<sub>数据更新: 2022-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -26,13 +26,13 @@
 |19|[Jinwen-XU/minimalist](https://github.com/Jinwen-XU/minimalist)|-|8|2021-12-16|2021-03-10|
 |20|[Jinwen-XU/colorist](https://github.com/Jinwen-XU/colorist)|-|7|2021-12-17|2021-03-10|
 |21|[syvshc/tlmgr-intro-zh-cn](https://github.com/syvshc/tlmgr-intro-zh-cn)|关于 tlmgr 使用的简短的介绍. :heart:|7|2021-09-05|2021-03-06|
-|22|[yzhangcs/master-thesis](https://github.com/yzhangcs/master-thesis)|基于树形条件随机场的高阶句法分析|6|2021-12-26|2021-02-01|
-|23|[nju-lug/NJUVisual](https://github.com/nju-lug/NJUVisual)|实现南京大学标准配色方案和标识|5|2021-12-25|2021-11-21|
+|22|[nju-lug/NJUVisual](https://github.com/nju-lug/NJUVisual)|实现南京大学标准配色方案和标识|6|2021-12-25|2021-11-21|
+|23|[yzhangcs/master-thesis](https://github.com/yzhangcs/master-thesis)|基于树形条件随机场的高阶句法分析|6|2021-12-26|2021-02-01|
 |24|[guoclay/interesting-project](https://github.com/guoclay/interesting-project)|一些有趣的项目|5|2021-09-30|2021-09-28|
 |25|[xiyie/UPC_LATEX_TEMPLATE](https://github.com/xiyie/UPC_LATEX_TEMPLATE)|中国石油大学（华东）控制科学与工程学院课题模板（不保证通用）|4|2021-10-01|2021-09-29|
 |26|[phonixer/NWPU-BEAMER](https://github.com/phonixer/NWPU-BEAMER)|Latex-Beamer-ppt-NWPU-西北工业大学ppt模板-LaTex-Beamer|4|2021-08-25|2021-08-25|
 |27|[GeeLaw/laomian](https://github.com/GeeLaw/laomian)|老面 (sourdough, lit. "old dough") is used as the starter for fermenting dough. This repository contains my digital 老面.|4|2021-12-08|2021-01-12|
-|28|[LLLgoyour/Handout](https://github.com/LLLgoyour/Handout)|王一老师上课配套的讲义|3|2022-01-02|2021-11-20|
+|28|[LLLgoyour/Handout](https://github.com/LLLgoyour/Handout)|王一老师上课配套的讲义|3|2022-01-05|2021-11-20|
 |29|[jiajunfanthu/NKU_Thisis](https://github.com/jiajunfanthu/NKU_Thisis)|南开人工智能学院毕业设计模板|3|2021-09-26|2021-09-26|
 |30|[Pavinberg/Journal-of-Computers-template](https://github.com/Pavinberg/Journal-of-Computers-template)|计算机学报 LaTeX 模板|3|2021-07-11|2021-07-11|
 |31|[Chen-Jialin/CV](https://github.com/Chen-Jialin/CV)|基于 LaTeX 的个人中英简历。CV in Chinese and English version based on LaTeX.|3|2021-10-06|2021-06-23|
