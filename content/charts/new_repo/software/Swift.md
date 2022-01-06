@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > Swift
-<sub>数据更新: 2022-01-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[cmushroom/redis-pro](https://github.com/cmushroom/redis-pro)|redis-pro redis 桌面管理工具|409|2022-01-05|2021-01-19|
-|2|[Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11)| 💻 Windows 11 in SwiftUI.|114|2021-10-13|2021-08-31|
+|1|[cmushroom/redis-pro](https://github.com/cmushroom/redis-pro)|redis-pro redis 桌面管理工具|409|2022-01-06|2021-01-19|
+|2|[Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11)| 💻 Windows 11 in SwiftUI.|115|2021-10-13|2021-08-31|
 |3|[william0wang/MagicCamera](https://github.com/william0wang/MagicCamera)|iOS多功能AI相机：人像卡通化、变老变年轻、美颜、滤镜、艺术效果等|92|2021-11-08|2021-10-29|
 |4|[Co2333/FishUpgrade](https://github.com/Co2333/FishUpgrade)|macOS 摸鱼模拟器|85|2021-12-19|2021-12-16|
 |5|[pujiaxin33/StackUI](https://github.com/pujiaxin33/StackUI)|StackUI just like SwiftUI|69|2021-12-28|2021-10-14|
@@ -23,9 +23,9 @@
 |16|[fatbobman/SheetKit](https://github.com/fatbobman/SheetKit)|an extension library for SwiftUI sheets. |27|2021-09-17|2021-09-16|
 |17|[KelvinQQ/SpiderCard](https://github.com/KelvinQQ/SpiderCard)|蜘蛛纸牌 for mac|24|2021-08-23|2021-07-28|
 |18|[Cantoboard/Cantoboard](https://github.com/Cantoboard/Cantoboard)|Cantoboard - Smart Cantonese Keyboard on iOS |24|2022-01-05|2021-03-19|
-|19|[ShenJieSuzhou/PurchaseX](https://github.com/ShenJieSuzhou/PurchaseX)|PurchaseX 是基于 Swift 语言开发，专门用于给您的应用或者游戏提供应用内购买（In-App_purchase）解决方案的轻量级 Framework；  PurchaseX 能让开发者轻松的为应用程序集成苹果的应用内购买，目前最低支持 iOS 8.0 版本；|22|2021-10-28|2021-07-20|
+|19|[ShenJieSuzhou/PurchaseX](https://github.com/ShenJieSuzhou/PurchaseX)|PurchaseX 是基于 Swift 语言开发，专门用于给您的应用或者游戏提供应用内购买（In-App_purchase）解决方案的轻量级 Framework；  PurchaseX 能让开发者轻松的为应用程序集成苹果的应用内购买，目前最低支持 iOS 8.0 版本；|23|2021-10-28|2021-07-20|
 |20|[JerryFans/JFPopup](https://github.com/JerryFans/JFPopup)|A Swift Popup Module help you popup your custom view easily|21|2021-10-22|2021-10-11|
-|21|[creepymonster/GlucoseDirectApp](https://github.com/creepymonster/GlucoseDirectApp)|App programmed in Swift/SwiftUI for using Libre 1/2 blood glucose sensors.|21|2022-01-05|2021-07-18|
+|21|[creepymonster/GlucoseDirectApp](https://github.com/creepymonster/GlucoseDirectApp)|App programmed in Swift/SwiftUI for using Libre 1/2 blood glucose sensors.|21|2022-01-06|2021-07-18|
 |22|[lihaoyun6/DimQQ](https://github.com/lihaoyun6/DimQQ)|一款可自定义强度的QQ for Mac亮度降低工具|18|2021-11-28|2021-11-23|
 |23|[treehollow/treehollow-v3-ios](https://github.com/treehollow/treehollow-v3-ios)|树洞 iOS / macOS 客户端，使用 SwiftUI 开发。|15|2021-12-11|2021-01-13|
 |24|[variant-database/vdb](https://github.com/variant-database/vdb)|A SARS-CoV-2 Mutation Pattern Query Tool|12|2021-12-10|2021-04-06|
@@ -38,10 +38,10 @@
 |31|[Leonard-iOS/PaddleOCR](https://github.com/Leonard-iOS/PaddleOCR)|PaddleOCR是一款应用于iOS设备上的通用文字识别的OCR库.|9|2021-10-25|2021-05-13|
 |32|[ZXKitCode/ZXFileBrowser](https://github.com/ZXKitCode/ZXFileBrowser)|The iOS sandbox file browser, which has view, copy, move, delete files and other operations. iOS端沙盒文件浏览器，可以查看、拷贝、移动、删除等操作|9|2021-10-27|2021-05-11|
 |33|[ShenJieSuzhou/PreloadDemo](https://github.com/ShenJieSuzhou/PreloadDemo)|该 Demo 记录了一些优雅处理网络数据的方式：实现列表无限滚动时，数据如何预加载，从而达到无缝加载的效果；滚动时 UI 卡顿的解决方案该如何实现；如何优化网络，利用数据缓存来节约流量和系统的内存。|9|2021-10-28|2021-03-23|
-|34|[ysbrowser/Doodle-TowerDefense](https://github.com/ysbrowser/Doodle-TowerDefense)|涂鸦塔防 A*寻路|8|2021-08-23|2021-08-20|
-|35|[liuweigeek/NeptuneBlog-iOS](https://github.com/liuweigeek/NeptuneBlog-iOS)|Twitter clone project，模仿Twitter的社交平台，基于SwiftUI开发。|8|2021-12-12|2021-06-14|
-|36|[litecoin-foundation/litewallet-ios](https://github.com/litecoin-foundation/litewallet-ios)|iOS version of Litewallet , official SPV Wallet from the Litecoin Foundation. Maintained by the Litewallet Team & Charlie Lee (Creator of Litecoin)|8|2021-10-11|2021-04-10|
-|37|[congHu/DD_Monitor-ios-Swift](https://github.com/congHu/DD_Monitor-ios-Swift)|DD监控室 - Swift for iOS, iPadOS, macOS|8|2021-10-13|2021-03-21|
+|34|[congHu/DD_Monitor-ios-Swift](https://github.com/congHu/DD_Monitor-ios-Swift)|DD监控室 - Swift for iOS, iPadOS, macOS|9|2021-10-13|2021-03-21|
+|35|[ysbrowser/Doodle-TowerDefense](https://github.com/ysbrowser/Doodle-TowerDefense)|涂鸦塔防 A*寻路|8|2021-08-23|2021-08-20|
+|36|[liuweigeek/NeptuneBlog-iOS](https://github.com/liuweigeek/NeptuneBlog-iOS)|Twitter clone project，模仿Twitter的社交平台，基于SwiftUI开发。|8|2021-12-12|2021-06-14|
+|37|[litecoin-foundation/litewallet-ios](https://github.com/litecoin-foundation/litewallet-ios)|iOS version of Litewallet , official SPV Wallet from the Litecoin Foundation. Maintained by the Litewallet Team & Charlie Lee (Creator of Litecoin)|8|2021-10-11|2021-04-10|
 |38|[Rogue24/OneDay](https://github.com/Rogue24/OneDay)|精美的桌面小组件。|7|2021-12-09|2021-07-08|
 |39|[zeqinjie/ZQEndlessPageControl](https://github.com/zeqinjie/ZQEndlessPageControl)|自定义 iOS14 PageControl 控件新功能|6|2021-10-21|2021-09-23|
 |40|[dyeeee/ASoulZhiWang_iOS](https://github.com/dyeeee/ASoulZhiWang_iOS)|ASoul小作文助手-iOS|6|2021-07-14|2021-07-13|
