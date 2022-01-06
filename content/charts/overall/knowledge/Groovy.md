@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Jonny023/Study](https://github.com/Jonny023/Study)|学习笔记|18|2022-01-04|
+|1|[Jonny023/Study](https://github.com/Jonny023/Study)|学习笔记|18|2022-01-06|
 |2|[Guanghua-Zhu/Groovy-Demo](https://github.com/Guanghua-Zhu/Groovy-Demo)|Groovy语法教程|2|2022-01-02|
 
 <div align="center">

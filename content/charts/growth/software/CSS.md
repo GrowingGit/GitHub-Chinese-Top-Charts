@@ -5,24 +5,24 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[fingerchar/fingernft](https://github.com/fingerchar/fingernft)|FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。|762|17|2021-12-29|
+|1|[fingerchar/fingernft](https://github.com/fingerchar/fingernft)|FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。|765|17|2021-12-29|
 |2|[phith0n/conote-community](https://github.com/phith0n/conote-community)|Conote 综合安全测试平台社区版。|288|10|2021-12-09|
-|3|[you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|16608|8|2021-10-18|
+|3|[you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|16607|8|2021-10-18|
 |4|[chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration)|CSS Inspiration，在这里找到写 CSS 的灵感！|7567|6|2021-10-22|
 |5|[iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next)|Elegant theme for Hexo. |15744|6|2021-11-06|
 |6|[Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words)|程序员工作中常见的英语词汇|4732|5|2022-01-02|
 |7|[missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)|the CS missing semester Chinese version|3199|5|2021-11-10|
 |8|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|7320|5|2021-12-07|
 |9|[admin360bug/PHP](https://github.com/admin360bug/PHP)|PHP训练靶场|580|4|2021-08-04|
-|10|[kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)|🕶️ Awesome stuff for Obsidian|2217|4|2021-11-30|
-|11|[LiangJunrong/document-library](https://github.com/LiangJunrong/document-library)|jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……|3301|3|2022-01-05|
+|10|[kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)|🕶️ Awesome stuff for Obsidian|2218|4|2021-11-30|
+|11|[LiangJunrong/document-library](https://github.com/LiangJunrong/document-library)|jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……|3301|3|2022-01-06|
 |12|[v2fly/v2ray-examples](https://github.com/v2fly/v2ray-examples)|v2ray-core 的模板们|1178|2|2021-10-10|
-|13|[WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io)|❤️静态响应式网址导航网站 - webstack.cc|3104|2|2021-12-09|
+|13|[WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io)|❤️静态响应式网址导航网站 - webstack.cc|3105|2|2021-12-09|
 |14|[limbopro/Adblock4limbo](https://github.com/limbopro/Adblock4limbo)|毒奶去广告计划（稳定版）For Quantumult X ；如去奈菲影视/低端影视/片库网/Pornhub/Jable/Netflav/HPjav等视频网站广告或其他ACG网站网页广告；|789|2|2022-01-02|
 |15|[nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor)|📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。|1668|2|2021-10-05|
 |16|[cool-team-official/cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue)|cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 2.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建|563|2|2021-12-18|
-|17|[abc-club/js-paradise](https://github.com/abc-club/js-paradise)|前端乐园|1771|2|2022-01-04|
-|18|[SiJiDo/H](https://github.com/SiJiDo/H)|H是一款强大的资产收集管理平台|187|2|2021-12-29|
+|17|[abc-club/js-paradise](https://github.com/abc-club/js-paradise)|前端乐园|1772|2|2022-01-04|
+|18|[SiJiDo/H](https://github.com/SiJiDo/H)|H是一款强大的资产收集管理平台|189|2|2021-12-29|
 |19|[jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets)|Webpage tracking only using CSS (and no JS)|3269|2|2021-08-23|
 |20|[canxin0523/thesixsectorTeam](https://github.com/canxin0523/thesixsectorTeam)|-|951|1|2021-09-21|
 |21|[vanyouseea/o365](https://github.com/vanyouseea/o365)|O365管理系统是一个以java语言开发的基于Microsoft Graph Restful API的多全局管理系统，理论上支持任何Office全局的管理(A1,A3,A1P,E3,E5等)，你可以很方便的使用它来批量添加，批量删除，批量启用，批量禁用，搜索和查看用户，生成邀请码，邀请朋友注册，提升和收回管理员权限，更新密钥，查看订阅，分配订阅(创新用户时)，查看多全局报告|146|1|2021-12-11|
@@ -176,7 +176,7 @@
 |169|[kaiyuanshe/kcoin](https://github.com/kaiyuanshe/kcoin)|-|63|0|2021-10-12|
 |170|[jacoblai/CoolpyIII](https://github.com/jacoblai/CoolpyIII)|私有物联网云平台系统|40|0|2021-10-27|
 |171|[mingluosunyi/typora-theme-ava-diana](https://github.com/mingluosunyi/typora-theme-ava-diana)|-|19|0|2021-09-22|
-|172|[MiloTnT/gym-management-system](https://github.com/MiloTnT/gym-management-system)|毕业设计，基于Spring Boot的健身房管理系统。|12|0|2021-08-24|
+|172|[MiloTnT/gym-management-system](https://github.com/MiloTnT/gym-management-system)|毕业设计，基于Spring Boot的健身房管理系统。|13|0|2021-08-24|
 |173|[Ryqsky/cnode-vue](https://github.com/Ryqsky/cnode-vue)|Vue2版CNode社区WebApp 在线访问：http://cnode.ruanyq.cn/|85|0|2021-11-03|
 |174|[LIAOJIANS/large-screen-template](https://github.com/LIAOJIANS/large-screen-template)|React+ts+qiankun大屏实战模板|41|0|2021-09-26|
 |175|[aiyuekuang/margaret](https://github.com/aiyuekuang/margaret)|Route system and data flow management library in the era of react hook|9|0|2021-10-06|

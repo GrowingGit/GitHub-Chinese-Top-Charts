@@ -5,11 +5,11 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20385|7|2021-12-13|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11782|6|2022-01-04|
-|3|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3675|5|2022-01-02|
+|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20384|7|2021-12-13|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11783|6|2022-01-04|
+|3|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3676|5|2022-01-02|
 |4|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4234|4|2021-07-29|
-|5|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5978|3|2021-12-20|
+|5|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5979|3|2021-12-20|
 |6|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4532|3|2021-10-14|
 |7|[apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh)|:book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】|3616|3|2021-08-09|
 |8|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|488|3|2021-12-13|
@@ -20,7 +20,7 @@
 |13|[Veal98/CS-Wiki](https://github.com/Veal98/CS-Wiki)|📙 致力打造完善的 Java 后端知识体系. Not only an Interview-Guide, but also a Learning-Direction.|527|1|2021-12-19|
 |14|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|286|1|2022-01-04|
 |15|[viewweiwu/v2ex-zhihu-theme](https://github.com/viewweiwu/v2ex-zhihu-theme)|v2ex 知乎 主题样式|17|1|2021-12-15|
-|16|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|197|1|2021-10-26|
+|16|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|198|1|2021-10-26|
 |17|[HanryYu/typora-blubook-theme](https://github.com/HanryYu/typora-blubook-theme)|Blubook, a flat typora theme.|357|1|2021-07-26|
 |18|[arect/onedrive_blog](https://github.com/arect/onedrive_blog)|OneDrive/Blog 以OneDrive为储存的博客“引擎”|18|1|2022-01-05|
 |19|[leopardpan/leopardpan.github.io](https://github.com/leopardpan/leopardpan.github.io)|个人博客，看效果进入|1163|1|2021-10-17|
@@ -55,7 +55,7 @@
 |48|[HEYAN123/crane](https://github.com/HEYAN123/crane)|前端修炼手册 博客网站|7|0|2021-09-29|
 |49|[lyy289065406/calibre-docker](https://github.com/lyy289065406/calibre-docker)|docker 一键部署 calibre 在线书库|14|0|2021-12-24|
 |50|[Dmsansan/java-code](https://github.com/Dmsansan/java-code)|Java高级进阶代码学习|6|0|2021-10-14|
-|51|[apachecn/quant-learning](https://github.com/apachecn/quant-learning)|:books: Quant 教程整理|92|0|2021-12-12|
+|51|[apachecn/quant-learning](https://github.com/apachecn/quant-learning)|:books: Quant 教程整理|93|0|2021-12-12|
 |52|[pengbotao/itopic.go](https://github.com/pengbotao/itopic.go)|基于Golang+Markdown的博客系统|20|0|2021-12-03|
 |53|[RuoyuChen10/NEUQ_class](https://github.com/RuoyuChen10/NEUQ_class)|NEUQ测控专业的考试资料|7|0|2021-10-16|
 |54|[ivan-94/bobi.ink](https://github.com/ivan-94/bobi.ink)|Personal blog 个人博客 https://bobi.ink|11|0|2021-09-01|
@@ -122,7 +122,7 @@
 |115|[CrazyMrYan/Bmob-Vue](https://github.com/CrazyMrYan/Bmob-Vue)|一个使用bmob+vue-cli的简单博客，带有文章发布点赞评论查看等功能|7|0|2021-11-29|
 |116|[DataXujing/TensorRT_CV](https://github.com/DataXujing/TensorRT_CV)|:rocket::rocket::rocket:NVIDIA TensorRT 加速推断教程！|95|0|2021-07-31|
 |117|[yn-zxj/Typecho_Admin_Theme](https://github.com/yn-zxj/Typecho_Admin_Theme)|Typecho博客后台主题|32|0|2021-08-20|
-|118|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主要提供以上原创教程的下载，教程皆为本人从零原创。目的不单是留下经验和理论，还有将难以理解的东西翻译的一语中的；即使不学，用的时候也能一看就懂；在文档的格式，大小，美观上也远超一般文档；最后不断跟进一些新内容。理论上，这就是最好的教程了|25|0|2021-12-15|
+|118|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主要提供以上原创教程的下载，教程皆为本人从零原创。目的不单是留下经验和理论，还有将难以理解的东西翻译的一语中的；即使不学，用的时候也能一看就懂；在文档的格式，大小，美观上也远超一般文档；最后不断跟进一些新内容。理论上，这就是最好的教程了|24|0|2021-12-15|
 |119|[yu120/lemon-guide](https://github.com/yu120/lemon-guide)|收纳操作系统、JAVA、算法、数据库、中间件、解决方案、架构、DevOps和大数据等技术栈总结！|26|0|2021-11-06|
 |120|[xukimseven/xukimseven.github.io](https://github.com/xukimseven/xukimseven.github.io)|徐金琦的个人博客，博客由Jekyll驱动，博客主题 HardCandy-Jekyll 🍬|11|0|2021-07-13|
 |121|[guoang6/vue-blog](https://github.com/guoang6/vue-blog)|个人博客前台|10|0|2021-10-06|

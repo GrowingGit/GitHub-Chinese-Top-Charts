@@ -5,12 +5,12 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1235|10|2022-01-05|
+|1|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1238|10|2022-01-06|
 |2|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|sample code for several design patterns in PHP 8|20202|5|2022-01-03|
-|3|[maccmspro/maccms10](https://github.com/maccmspro/maccms10)|苹果cms-v10,maccms-v10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序|599|3|2021-12-19|
+|3|[maccmspro/maccms10](https://github.com/maccmspro/maccms10)|苹果cms-v10,maccms-v10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序|598|3|2021-12-19|
 |4|[Qsnh/meedu](https://github.com/Qsnh/meedu)|知识付费、企业线上培训解决方案。|2749|2|2021-12-19|
 |5|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|2444|2|2021-11-13|
-|6|[splitline/How-to-Hack-Websites](https://github.com/splitline/How-to-Hack-Websites)|開源的正體中文 Web Hacking 學習資源 - 程式安全 2021 Fall|89|2|2021-11-09|
+|6|[splitline/How-to-Hack-Websites](https://github.com/splitline/How-to-Hack-Websites)|開源的正體中文 Web Hacking 學習資源 - 程式安全 2021 Fall|90|2|2021-11-09|
 |7|[summerblue/laravel-shop](https://github.com/summerblue/laravel-shop)|Laravel 电商实战教程的项目代码|2345|2|2021-10-05|
 |8|[bettershop/LaikeTui](https://github.com/bettershop/LaikeTui)|来客电商，微信小程序商城 + APP商城 + 公众号商城 + PC商城系统 + 支付宝小程序商城 + 抖音小程序商城 + 百度小程序电商系统（前后端代码全部开源） 注重界面美感与用户体验，打造独特电商系统生态圈|561|1|2022-01-04|
 |9|[leadshop/leadshop](https://github.com/leadshop/leadshop)|Leadshop是一款提供持续更新迭代服务的轻量级、高性能开源电商系统，前后端分离（uniapp +电商专用yii2.0），可视化DIY拖拽装修，旨在打造极致的用户体验！ 支持微信小程序，公众号等|138|1|2021-12-28|

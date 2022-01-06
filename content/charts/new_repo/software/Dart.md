@@ -5,9 +5,9 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan)|阿里云盘小白羊版  阿里云盘PC版 aliyundriver|4675|2022-01-02|2021-04-22|
+|1|[liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan)|阿里云盘小白羊版  阿里云盘PC版 aliyundriver|4680|2022-01-02|2021-04-22|
 |2|[bytedance/flutter_ume](https://github.com/bytedance/flutter_ume)|UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance|1427|2021-12-10|2021-07-16|
-|3|[LianjiaTech/bruno](https://github.com/LianjiaTech/bruno)|Bruno 是基于一整套设计体系的 Flutter 组件库。An enterprise-class package of Flutter components for mobile applications.|980|2022-01-05|2021-12-07|
+|3|[LianjiaTech/bruno](https://github.com/LianjiaTech/bruno)|Bruno 是基于一整套设计体系的 Flutter 组件库。An enterprise-class package of Flutter components for mobile applications.|982|2022-01-05|2021-12-07|
 |4|[biyidev/biyi](https://github.com/biyidev/biyi)|Biyi (比译) is a convenient translation and dictionary app written in Flutter. |534|2022-01-01|2021-03-06|
 |5|[LianjiaTech/keframe](https://github.com/LianjiaTech/keframe)|Components that optimize Flutter fluency.（Flutter 流畅度优化的通用方案，轻松解决卡顿问题）|508|2021-11-25|2021-06-30|
 |6|[Waytoon/chimera_flutter_code_push](https://github.com/Waytoon/chimera_flutter_code_push)|Official Git of flutter code-push made by Chimera inc. If you want to get more info or seek for biz corporation, you can contact flupush@gmail.com. |493|2021-10-17|2021-03-01|
@@ -16,10 +16,10 @@
 |9|[flutter-thrio/flutter_thrio](https://github.com/flutter-thrio/flutter_thrio)|flutter_thrio makes it easy and fast to add flutter to existing mobile applications, and provide a simple and consistent navigator APIs.|222|2021-10-12|2021-02-20|
 |10|[ducafecat/flutter_ducafecat_news_getx](https://github.com/ducafecat/flutter_ducafecat_news_getx)|flutter2 + dio4 + getx4|196|2021-11-23|2021-05-31|
 |11|[DingMouRen/flutter_tiktok](https://github.com/DingMouRen/flutter_tiktok)|Flutter Tiktok 抖音实战  🍰🍓🍖🍟🍕🍔|176|2021-09-18|2021-04-08|
-|12|[OpenIMSDK/Open-IM-SDK-Flutter](https://github.com/OpenIMSDK/Open-IM-SDK-Flutter)|OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，Flutter版本IM SDK 可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。|154|2022-01-05|2021-05-27|
+|12|[OpenIMSDK/Open-IM-SDK-Flutter](https://github.com/OpenIMSDK/Open-IM-SDK-Flutter)|OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，Flutter版本IM SDK 可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。|155|2022-01-05|2021-05-27|
 |13|[KevinZhang19870314/flutter_getx_boilerplate](https://github.com/KevinZhang19870314/flutter_getx_boilerplate)|A flutter boilerplate project with GetX state management.|152|2021-10-13|2021-04-09|
 |14|[niezhiyang/flutter_logger](https://github.com/niezhiyang/flutter_logger)|Simple, pretty and powerful logger for flutter|142|2021-09-06|2021-07-08|
-|15|[ducafecat/getx_quick_start](https://github.com/ducafecat/getx_quick_start)|getx 功能整理: 路由、中间件、组件、状态、多语言、样式|139|2021-07-24|2021-03-24|
+|15|[ducafecat/getx_quick_start](https://github.com/ducafecat/getx_quick_start)|getx 功能整理: 路由、中间件、组件、状态、多语言、样式|140|2021-07-24|2021-03-24|
 |16|[fluttercandies/flutter_interactional_widget](https://github.com/fluttercandies/flutter_interactional_widget)|-|126|2021-08-01|2021-08-01|
 |17|[yangchong211/YCFlutterUtils](https://github.com/yangchong211/YCFlutterUtils)|Flutter Utils 全网最齐全的工具类。包含bus，颜色，日期，文件，json，log，sp，加解密，num，图片，网络，正则，验证，路由，文本，时间，spi，计时器，拓展类，编解码，发射，异常，字节转化，解析等等工具类。|112|2022-01-05|2021-04-28|
 |18|[niezhiyang/flutter_autosize_screen](https://github.com/niezhiyang/flutter_autosize_screen)|A low-cost Flutter screen adaptation solution（一个极低成本的 Flutter 屏幕适配方案）|84|2021-10-19|2021-08-15|
@@ -63,32 +63,32 @@
 |56|[shirne/chinese_chess](https://github.com/shirne/chinese_chess)|Chinese Chess game by Flutter|12|2021-07-30|2021-04-30|
 |57|[Fliggy-Mobile/fimage](https://github.com/Fliggy-Mobile/fimage)|FImage实现加载多种图片资源|12|2021-08-17|2021-04-26|
 |58|[t924417424/geek_meeting_source](https://github.com/t924417424/geek_meeting_source)|GeekMeeting视频会议项目开源仓库|11|2022-01-05|2021-12-30|
-|59|[srew33/feh_rebuilder](https://github.com/srew33/feh_rebuilder)|使用FLUTTER对FEH BUILDER的重置|11|2022-01-04|2021-09-27|
-|60|[hhanh00/zwallet](https://github.com/hhanh00/zwallet)|Zcash and Ycash light shielded wallet|11|2021-12-15|2021-07-02|
-|61|[poem-code/Getx-PinkApp](https://github.com/poem-code/Getx-PinkApp)|仿哔哩哔哩App，二次元，动漫，app，网站，ACG，flutter，使用getx_cli进行重构|10|2021-11-12|2021-11-12|
-|62|[shiguanghuxian/hosts_manage](https://github.com/shiguanghuxian/hosts_manage)|一个简洁的本机hosts管理桌面软件，支持DNS代理，开发测试必备工具|10|2021-12-06|2021-11-11|
-|63|[mdddj/flutter_simple_shop](https://github.com/mdddj/flutter_simple_shop)|flutter 商城，淘宝客 app|10|2022-01-02|2021-11-10|
+|59|[mdddj/flutter_simple_shop](https://github.com/mdddj/flutter_simple_shop)|flutter 商城，淘宝客 app|11|2022-01-02|2021-11-10|
+|60|[srew33/feh_rebuilder](https://github.com/srew33/feh_rebuilder)|使用FLUTTER对FEH BUILDER的重置|11|2022-01-04|2021-09-27|
+|61|[hhanh00/zwallet](https://github.com/hhanh00/zwallet)|Zcash and Ycash light shielded wallet|11|2021-12-15|2021-07-02|
+|62|[poem-code/Getx-PinkApp](https://github.com/poem-code/Getx-PinkApp)|仿哔哩哔哩App，二次元，动漫，app，网站，ACG，flutter，使用getx_cli进行重构|10|2021-11-12|2021-11-12|
+|63|[shiguanghuxian/hosts_manage](https://github.com/shiguanghuxian/hosts_manage)|一个简洁的本机hosts管理桌面软件，支持DNS代理，开发测试必备工具|10|2021-12-06|2021-11-11|
 |64|[ThinkerJack/flutter_im](https://github.com/ThinkerJack/flutter_im)|flutter即时通讯，本地存储，长链接维护等功能|10|2021-12-28|2021-10-15|
 |65|[Aaq007/Translate-App](https://github.com/Aaq007/Translate-App)|-|10|2021-09-30|2021-09-26|
 |66|[arsize/swapFlutter](https://github.com/arsize/swapFlutter)|getx项目，包括适配，路由，扫码，google map，自定义marker，dio，组件封装，导航路径，登录注册，token重连，拨号，支付等（开发中...）|10|2021-11-11|2021-08-29|
 |67|[meijian-io/muffin](https://github.com/meijian-io/muffin)|Muffin is a Flutter plugin used to implement mixed stack management based on multiple Engine and Navigator 2.0.|10|2021-12-16|2021-08-23|
-|68|[fuusy/flutter_read](https://github.com/fuusy/flutter_read)|A flutter project， 一款Flutter实战项目，已空安全适配，封装各种UI组件，网络组件以及使用peovider进行状态管理。|9|2021-12-30|2021-11-25|
-|69|[mimajiushi/flutter_swiper_plus](https://github.com/mimajiushi/flutter_swiper_plus)|轮播组件（swiper）|9|2021-08-23|2021-08-16|
-|70|[ukyo99999/report1922](https://github.com/ukyo99999/report1922)|簡訊實聯制QR code掃碼小工具，支援Android與iOS。|9|2021-10-13|2021-07-14|
-|71|[tangpanqing/dart_mars](https://github.com/tangpanqing/dart_mars)|dart_mars|9|2021-08-17|2021-06-04|
-|72|[TencentCloudBase/cloudbase-flutter-sdk](https://github.com/TencentCloudBase/cloudbase-flutter-sdk)|Flutter Package for 云开发|9|2021-12-28|2021-04-28|
-|73|[Xie-Yin/video_crop_track](https://github.com/Xie-Yin/video_crop_track)|一个Flutter视频裁剪编辑的轨道UI交互效果|8|2021-08-11|2021-08-06|
-|74|[wenchaosong/FlutterCityPicker](https://github.com/wenchaosong/FlutterCityPicker)|:fire::fire::fire::+1: 城市选择，地址选择，实时请求数据，多项自定义配置，仿京东样式|8|2021-12-28|2021-03-11|
-|75|[beyondstorage/beyond-tp](https://github.com/beyondstorage/beyond-tp)|Neutral data migration service|8|2022-01-05|2021-01-24|
-|76|[cliclitv/clicli_grey](https://github.com/cliclitv/clicli_grey)|clicli 第三版浅灰紫|7|2022-01-04|2021-12-26|
-|77|[un-pany/flutter-template-mini](https://github.com/un-pany/flutter-template-mini)|💧 flutter template mini 一个极简的 flutter 项目起手模板|7|2021-12-20|2021-12-10|
-|78|[Koma-Chen/FlutterGetxMVVM](https://github.com/Koma-Chen/FlutterGetxMVVM)|Flutter版 MVVM架构，使用Getx|7|2021-09-26|2021-06-30|
-|79|[daixianceng/cron_dingding](https://github.com/daixianceng/cron_dingding)|钉钉自动打卡|7|2021-08-16|2021-04-07|
-|80|[mdddj/flutter_dd_dataoke_sdk](https://github.com/mdddj/flutter_dd_dataoke_sdk)|大淘客sdk|7|2021-11-12|2021-03-12|
-|81|[hyzmm/flutter_quest_system](https://github.com/hyzmm/flutter_quest_system)|为 Flutter 实现的任务系统，用于指引用户完成任务，或者新功能介绍 & 指引。|6|2022-01-05|2021-12-10|
-|82|[SIT-kite/kite-app](https://github.com/SIT-kite/kite-app)|上应小风筝 APP, 基于 Flutter. (WIP)|6|2022-01-05|2021-11-20|
-|83|[Asscre/flutter_ssf](https://github.com/Asscre/flutter_ssf)|flutter_ssf是一个推崇使用Provider、Custom Router、dio结合的MVP开发模式设计的Flutter应用生产级开发脚手架。|6|2021-12-27|2021-09-16|
-|84|[un-pany/flutter-template-plus](https://github.com/un-pany/flutter-template-plus)|❄️ flutter template plus  一个可插拔的 flutter 项目起手模板|6|2021-12-30|2021-08-11|
+|68|[un-pany/flutter-template-mini](https://github.com/un-pany/flutter-template-mini)|💧 flutter template mini 一个极简的 flutter 项目起手模板|9|2021-12-20|2021-12-10|
+|69|[fuusy/flutter_read](https://github.com/fuusy/flutter_read)|A flutter project， 一款Flutter实战项目，已空安全适配，封装各种UI组件，网络组件以及使用peovider进行状态管理。|9|2021-12-30|2021-11-25|
+|70|[mimajiushi/flutter_swiper_plus](https://github.com/mimajiushi/flutter_swiper_plus)|轮播组件（swiper）|9|2021-08-23|2021-08-16|
+|71|[ukyo99999/report1922](https://github.com/ukyo99999/report1922)|簡訊實聯制QR code掃碼小工具，支援Android與iOS。|9|2021-10-13|2021-07-14|
+|72|[tangpanqing/dart_mars](https://github.com/tangpanqing/dart_mars)|dart_mars|9|2021-08-17|2021-06-04|
+|73|[TencentCloudBase/cloudbase-flutter-sdk](https://github.com/TencentCloudBase/cloudbase-flutter-sdk)|Flutter Package for 云开发|9|2021-12-28|2021-04-28|
+|74|[un-pany/flutter-template-plus](https://github.com/un-pany/flutter-template-plus)|❄️ flutter template plus  一个可插拔的 flutter 项目起手模板|8|2021-12-30|2021-08-11|
+|75|[Xie-Yin/video_crop_track](https://github.com/Xie-Yin/video_crop_track)|一个Flutter视频裁剪编辑的轨道UI交互效果|8|2021-08-11|2021-08-06|
+|76|[wenchaosong/FlutterCityPicker](https://github.com/wenchaosong/FlutterCityPicker)|:fire::fire::fire::+1: 城市选择，地址选择，实时请求数据，多项自定义配置，仿京东样式|8|2021-12-28|2021-03-11|
+|77|[beyondstorage/beyond-tp](https://github.com/beyondstorage/beyond-tp)|Neutral data migration service|8|2022-01-05|2021-01-24|
+|78|[cliclitv/clicli_grey](https://github.com/cliclitv/clicli_grey)|clicli 第三版浅灰紫|7|2022-01-04|2021-12-26|
+|79|[Koma-Chen/FlutterGetxMVVM](https://github.com/Koma-Chen/FlutterGetxMVVM)|Flutter版 MVVM架构，使用Getx|7|2021-09-26|2021-06-30|
+|80|[daixianceng/cron_dingding](https://github.com/daixianceng/cron_dingding)|钉钉自动打卡|7|2021-08-16|2021-04-07|
+|81|[mdddj/flutter_dd_dataoke_sdk](https://github.com/mdddj/flutter_dd_dataoke_sdk)|大淘客sdk|7|2021-11-12|2021-03-12|
+|82|[hyzmm/flutter_quest_system](https://github.com/hyzmm/flutter_quest_system)|为 Flutter 实现的任务系统，用于指引用户完成任务，或者新功能介绍 & 指引。|6|2022-01-06|2021-12-10|
+|83|[SIT-kite/kite-app](https://github.com/SIT-kite/kite-app)|上应小风筝 APP, 基于 Flutter. (WIP)|6|2022-01-05|2021-11-20|
+|84|[Asscre/flutter_ssf](https://github.com/Asscre/flutter_ssf)|flutter_ssf是一个推崇使用Provider、Custom Router、dio结合的MVP开发模式设计的Flutter应用生产级开发脚手架。|6|2021-12-27|2021-09-16|
 |85|[KiritoCheng/flutter_note](https://github.com/KiritoCheng/flutter_note)|这是一个由flutter制作的简单app，具有记事功能的小便签。|6|2021-08-05|2021-07-27|
 |86|[cpyczd/xy-music-mobile](https://github.com/cpyczd/xy-music-mobile)|🌧  XY- Flutter 全网音乐助手|6|2021-09-06|2021-05-21|
 |87|[lucky1213/aliyun_oss](https://github.com/lucky1213/aliyun_oss)|阿里云 OSS flutter|6|2021-07-30|2021-03-07|

@@ -6,14 +6,14 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection)|Real-Time Rendering 4th (RTR4) 参考文献合集典藏   Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference|2183|23|2021-10-31|
-|2|[PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)|清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University|21151|21|2021-12-30|
-|3|[fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|吴恩达老师的机器学习课程个人笔记|23801|16|2021-07-23|
+|2|[PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)|清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University|21157|21|2021-12-30|
+|3|[fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|吴恩达老师的机器学习课程个人笔记|23802|16|2021-07-23|
 |4|[davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product)|互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充|18673|14|2021-12-05|
 |5|[QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles)|浙江大学课程攻略共享计划|24201|12|2022-01-03|
 |6|[HZFE/awesome-interview](https://github.com/HZFE/awesome-interview)|剑指前端 Offer|1355|10|2021-11-20|
-|7|[fengdu78/deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)|deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）|14055|9|2021-10-23|
+|7|[fengdu78/deeplearning_ai_books](https://github.com/fengdu78/deeplearning_ai_books)|deeplearning.ai（吴恩达老师的深度学习课程笔记及资源）|14056|9|2021-10-23|
 |8|[nndl/nndl.github.io](https://github.com/nndl/nndl.github.io)|《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning |15138|8|2021-12-09|
-|9|[TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map)|程序员技能图谱|18575|8|2021-12-30|
+|9|[TeamStuQ/skill-map](https://github.com/TeamStuQ/skill-map)|程序员技能图谱|18574|8|2021-12-30|
 |10|[itorr/nbnhhsh](https://github.com/itorr/nbnhhsh)|😩「能不能好好说话？」 拼音首字母缩写翻译工具|4589|7|2021-11-18|
 |11|[haixiangyan/one-day-one-npm-lib](https://github.com/haixiangyan/one-day-one-npm-lib)|🔥 🔥 这本小书会带你造 10 个非常实用的 npm 库 📦|1383|5|2021-09-09|
 |12|[javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info)|现代 JavaScript 教程（The Modern JavaScript Tutorial）|5747|4|2022-01-03|
@@ -21,18 +21,18 @@
 |14|[biaochenxuying/blog](https://github.com/biaochenxuying/blog)|大前端技术为主，读书笔记、随笔、理财为辅，做个终身学习者。|3226|3|2021-10-11|
 |15|[flutterchina/flutter_in_action_2nd](https://github.com/flutterchina/flutter_in_action_2nd)|《Flutter实战 第二版》- 书稿（未完成）|346|3|2021-12-24|
 |16|[HiddenStrawberry/Crawler_Illegal_Cases_In_China](https://github.com/HiddenStrawberry/Crawler_Illegal_Cases_In_China)|Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。 [AD]中文知识图谱门户 |2463|3|2022-01-04|
-|17|[wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes)|🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。|6137|3|2022-01-04|
-|18|[unclestrong/DeepLearning_LHY21_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes)|深度学习 李宏毅 2021 学习笔记|760|3|2021-10-30|
+|17|[wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes)|🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。|6138|3|2022-01-04|
+|18|[unclestrong/DeepLearning_LHY21_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes)|深度学习 李宏毅 2021 学习笔记|761|3|2021-10-30|
 |19|[cckuailong/vulbase](https://github.com/cckuailong/vulbase)|各大漏洞文库合集|432|3|2021-10-05|
-|20|[golang101/golang101](https://github.com/golang101/golang101)|Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书|2882|2|2021-11-17|
+|20|[golang101/golang101](https://github.com/golang101/golang101)|Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书|2883|2|2021-11-17|
 |21|[golang-china/gopl-zh](https://github.com/golang-china/gopl-zh)|:books: Go语言圣经中文版|4658|2|2021-12-22|
 |22|[ConsenSys/smart-contract-best-practices](https://github.com/ConsenSys/smart-contract-best-practices)|A guide to smart contract security best practices|4840|2|2022-01-02|
 |23|[xxlllq/system_architect](https://github.com/xxlllq/system_architect)|:100:高质量、最全面的2022年系统架构设计师（软考高级）备考资源库。备考QQ群：系统架构设计师（⑦群：709576550），系统分析师（②群：699260558），信息系统项目管理师（②群：785329399）。|2470|2|2021-12-31|
-|24|[gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)|全面的Webpack教程《深入浅出Webpack》电子书|3670|2|2021-10-27|
+|24|[gwuhaolin/dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)|全面的Webpack教程《深入浅出Webpack》电子书|3671|2|2021-10-27|
 |25|[zhangkaitao/shiro-example](https://github.com/zhangkaitao/shiro-example)|跟我学Shiro（我的公众号：kaitao-1234567，我的新书：《亿级流量网站架构核心技术》） |4773|2|2021-09-01|
 |26|[paddingme/Front-end-Web-Development-Interview-Question](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)|前端开发面试题大收集，前端面试集锦 :heart: :gift_heart: :cupid:|5069|2|2021-10-13|
 |27|[go101/go101](https://github.com/go101/go101)|An online book focusing on Go syntax/semantics and runtime related things|4174|2|2022-01-01|
-|28|[fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers)|Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。|4970|2|2021-09-23|
+|28|[fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers)|Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。|4971|2|2021-09-23|
 |29|[me115/linuxtools_rst](https://github.com/me115/linuxtools_rst)|Linux工具快速教程|4848|2|2021-08-16|
 |30|[CHYbeta/Web-Security-Learning](https://github.com/CHYbeta/Web-Security-Learning)|Web-Security-Learning|3657|2|2021-10-02|
 |31|[eddycjy/blog](https://github.com/eddycjy/blog)|煎鱼的博客，有点忙，传送门：https://eddycjy.com|2781|2|2021-11-18|
@@ -44,7 +44,7 @@
 |37|[esofar/cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence)|📖 一款专注于阅读的博客园主题|1692|1|2021-12-08|
 |38|[su37josephxia/bytedance-youth-training-camp](https://github.com/su37josephxia/bytedance-youth-training-camp)|字节青训营教程|120|1|2021-10-08|
 |39|[demopark/electron-api-demos-Zh_CN](https://github.com/demopark/electron-api-demos-Zh_CN)|这是 electron-api-demos 的中文版本, 更新至 v2.0.2|1840|1|2021-10-12|
-|40|[SummerSec/JavaLearnVulnerability](https://github.com/SummerSec/JavaLearnVulnerability)|Java漏洞学习笔记 Deserialization Vulnerability|408|1|2021-11-30|
+|40|[SummerSec/JavaLearnVulnerability](https://github.com/SummerSec/JavaLearnVulnerability)|Java漏洞学习笔记 Deserialization Vulnerability|409|1|2021-11-30|
 |41|[wx-chevalier/Web-Series](https://github.com/wx-chevalier/Web-Series)|:books: 现代 Web 开发语法基础与工程实践，涵盖 Web 开发基础、前端工程化、应用架构、性能与体验优化、混合开发、React 实践、Vue 实践、WebAssembly 等多方面。|686|1|2021-11-28|
 |42|[F4bwDP6a6W/FLY_US](https://github.com/F4bwDP6a6W/FLY_US)|美国大学备考资料 How to apply US colleges|1706|1|2021-11-26|
 |43|[koala-coding/goodBlog](https://github.com/koala-coding/goodBlog)|我是koala, 公众号【程序员成长指北】的作者， 专注Node.js技术栈分享，从前端到Node.js再到后端数据库，帮您成为优秀的Node.js全栈工程师。和我一起进阶全栈吧！|645|1|2021-10-06|
@@ -58,21 +58,21 @@
 |51|[zxuqian/html-css-examples](https://github.com/zxuqian/html-css-examples)|A collection of HTML and CSS examples, including effects and UIs.|589|1|2021-12-20|
 |52|[HuangCongQing/UCAS_Course_2019](https://github.com/HuangCongQing/UCAS_Course_2019)|中国科学院大学2019-2020课程（秋季，春季，夏季）|838|1|2021-08-24|
 |53|[rootsongjc/awesome-cloud-native](https://github.com/rootsongjc/awesome-cloud-native)|A curated list for awesome cloud native tools, software and tutorials.  - https://jimmysong.io/awesome-cloud-native/|1403|1|2021-12-27|
-|54|[doocs/coding-interview](https://github.com/doocs/coding-interview)|😀 代码面试题集，包括剑指 Offer、编程之美等|1433|1|2021-12-14|
+|54|[doocs/coding-interview](https://github.com/doocs/coding-interview)|😀 代码面试题集，包括剑指 Offer、编程之美等|1434|1|2021-12-14|
 |55|[MikeCreken/lanlanInterview](https://github.com/MikeCreken/lanlanInterview)|此仓库将包含各大银行的基本介绍，笔试面试特点，发现这个宝库就离上岸不远了，哼|77|1|2021-11-25|
 |56|[ttttmr/wechat2rss](https://github.com/ttttmr/wechat2rss)|微信公众号转RSS|125|1|2022-01-01|
 |57|[liuran001/openwrt-packages](https://github.com/liuran001/openwrt-packages)|国内常用OpenWrt软件包源码合集，每天自动更新，建议使用lean源码|573|1|2021-10-11|
 |58|[NakanoMikuOrg/arch-guide](https://github.com/NakanoMikuOrg/arch-guide)|✨ archlinux 简明指南   本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容   提供在线文档 ✨|141|1|2022-01-02|
-|59|[datawhalechina/daily-interview](https://github.com/datawhalechina/daily-interview)|Datawhale成员整理的面经，内容包括机器学习，CV，NLP，推荐，开发等，欢迎大家star|1167|1|2021-12-28|
-|60|[kujian/frontendDaily](https://github.com/kujian/frontendDaily)|前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。|1934|1|2022-01-04|
+|59|[datawhalechina/daily-interview](https://github.com/datawhalechina/daily-interview)|Datawhale成员整理的面经，内容包括机器学习，CV，NLP，推荐，开发等，欢迎大家star|1169|1|2021-12-28|
+|60|[kujian/frontendDaily](https://github.com/kujian/frontendDaily)|前端开发博客，分享互联网最精彩的前端技术，欢迎关注我微信公众号：前端开发博客，回复 1024，领取前端进阶资料包，回复 加群，与大神一起交流学习。|1934|1|2022-01-05|
 |61|[wx-chevalier/Developer-Zero-To-Mastery](https://github.com/wx-chevalier/Developer-Zero-To-Mastery)|:books: To Be Professional Developer From Zero To Mastery, Interactive MindMap, RoadMap(Learning Path/Interview Questions), xCompass, Weekly for Developer, to Learn Everything in ITCS  :dizzy: 程序员的技术视 ...|2894|1|2021-12-02|
 |62|[jaywcjlove/regexp-example](https://github.com/jaywcjlove/regexp-example)|正则表达式实例搜集，通过实例来学习正则表达式。|74|1|2021-12-11|
 |63|[hornhuang/android_interviews](https://github.com/hornhuang/android_interviews)|🚀Everything you need to know to find a android job. 算法 / 面试题 / Android 知识点 🔥🔥🔥 总结不易，你的 star 是我最大的动力！|541|1|2021-07-26|
 |64|[Ehco1996/Python-crawler](https://github.com/Ehco1996/Python-crawler)|从头开始 系统化的 学习如何写Python爬虫。 Python版本 3.6 |1589|1|2021-12-13|
-|65|[wx-chevalier/Awesome-CS-Books-and-Digests](https://github.com/wx-chevalier/Awesome-CS-Books-and-Digests)|:books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀计算机科学与技术 ...|1385|1|2021-12-14|
+|65|[wx-chevalier/Awesome-CS-Books-and-Digests](https://github.com/wx-chevalier/Awesome-CS-Books-and-Digests)|:books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀计算机科学与技术 ...|1384|1|2021-12-14|
 |66|[koolshare/koolcenter](https://github.com/koolshare/koolcenter)|提供评测文章，固件教程，插件使用说明等。|157|1|2021-11-09|
 |67|[ojeveryday/AlgoWiki](https://github.com/ojeveryday/AlgoWiki)|总结算法刷题套路，在线阅读：|445|1|2022-01-04|
-|68|[godbasin/godbasin.github.io](https://github.com/godbasin/godbasin.github.io)|被删前端博客--喜欢请star|1693|1|2021-12-25|
+|68|[godbasin/godbasin.github.io](https://github.com/godbasin/godbasin.github.io)|被删前端博客--喜欢请star|1694|1|2021-12-25|
 |69|[wardseptember/notes](https://github.com/wardseptember/notes)|算法刷题指南、Java多线程与高并发、Java集合源码、Spring boot、Spring Cloud等笔记，源码级学习笔记后续也会更新。|487|1|2021-08-31|
 |70|[zrong/blog](https://github.com/zrong/blog)|博客文章 markdown 源文件|103|0|2021-11-12|
 |71|[apachecn/fastai-ml-dl-notes-zh](https://github.com/apachecn/fastai-ml-dl-notes-zh)|:book:  [译] fast.ai 机器学习和深度学习中文笔记|383|0|2021-08-13|
@@ -97,7 +97,7 @@
 |90|[songjiayang/prometheus_practice](https://github.com/songjiayang/prometheus_practice)|包括 Prometheus 基础知识，性能优化和大量实战经验。|546|0|2021-08-18|
 |91|[HeroIsUseless/MyBook](https://github.com/HeroIsUseless/MyBook)|简约优美的电子书阅读器（支持全平台）|121|0|2021-10-25|
 |92|[piaoliangkb/missing-semester-2020](https://github.com/piaoliangkb/missing-semester-2020)|MIT: missing semester 2020. Exercise solutions and reading notes. 学习笔记和部分习题答案|72|0|2021-10-19|
-|93|[taizihuang/wmyblog](https://github.com/taizihuang/wmyblog)|王孟源的博客镜像【可搜索】，每小时更新|42|0|2022-01-05|
+|93|[taizihuang/wmyblog](https://github.com/taizihuang/wmyblog)|王孟源的博客镜像【可搜索】，每小时更新|42|0|2022-01-06|
 |94|[ChangbaFE/presentation](https://github.com/ChangbaFE/presentation)|唱吧前端分享会|110|0|2021-12-29|
 |95|[cncounter/translation](https://github.com/cncounter/translation)|翻译文档|487|0|2022-01-05|
 |96|[anjoy8/Blog.MVP.Blazor](https://github.com/anjoy8/Blog.MVP.Blazor)|一个学习Blazor的案例项目|25|0|2021-10-18|
@@ -136,7 +136,7 @@
 |129|[yifeitao/learn](https://github.com/yifeitao/learn)|学习资料 learn assets|42|0|2021-09-11|
 |130|[lyandut/HUST-Invictus](https://github.com/lyandut/HUST-Invictus)|华中科技大学研究生课程资料|223|0|2021-11-29|
 |131|[hanxi/blog](https://github.com/hanxi/blog)|涵曦的博客|49|0|2021-09-06|
-|132|[Agda-zh/PLFA-zh](https://github.com/Agda-zh/PLFA-zh)|《编程语言基础：Agda 描述》，Programming Language Foundations in Agda 中文版|125|0|2021-11-16|
+|132|[Agda-zh/PLFA-zh](https://github.com/Agda-zh/PLFA-zh)|《编程语言基础：Agda 描述》，Programming Language Foundations in Agda 中文版|126|0|2021-11-16|
 |133|[sjh0020/aria2](https://github.com/sjh0020/aria2)|这是一个懒人合集包，参考自知乎|17|0|2021-10-25|
 |134|[momopig/simplicity](https://github.com/momopig/simplicity)|IT一大道至简 微信公众号示例代码|34|0|2021-09-29|
 |135|[FHWWC/KeyCheck](https://github.com/FHWWC/KeyCheck)|一个 密钥检测/密钥分享/密钥查询/获取CID等微软产品激活 相关的小工具，小巧方便|286|0|2021-11-18|
@@ -182,7 +182,7 @@
 |175|[dujialun/gpdb_doc_zh](https://github.com/dujialun/gpdb_doc_zh)|Greenplum文档翻译|35|0|2021-10-12|
 |176|[Ovilia/omynote](https://github.com/Ovilia/omynote)|众山小笔记 - 集中管理你的读书笔记|142|0|2021-12-31|
 |177|[tidyjiang8/arm-gcc-inline-assembler](https://github.com/tidyjiang8/arm-gcc-inline-assembler)|ARM GCC 内联汇编参考手册 - 中文版|87|0|2021-07-15|
-|178|[polaris1119/pkgdoc](https://github.com/polaris1119/pkgdoc)|go 标准库和部分第三方包的包文档中文翻译|470|0|2021-10-25|
+|178|[polaris1119/pkgdoc](https://github.com/polaris1119/pkgdoc)|go 标准库和部分第三方包的包文档中文翻译|471|0|2021-10-25|
 |179|[langu-sec/kali-tools-zh](https://github.com/langu-sec/kali-tools-zh)| kali linux 工具使用中文说明书|184|0|2021-12-12|
 |180|[XiangyunHuang/MSG-Book](https://github.com/XiangyunHuang/MSG-Book)|:book: 现代统计图形（已由人民邮电出版社出版） Modern Statistical Graphics|90|0|2022-01-03|
 |181|[zhuanzhuanfe/articles](https://github.com/zhuanzhuanfe/articles)|大转转FE博客文章|51|0|2021-07-22|
@@ -194,7 +194,7 @@
 |187|[wx-chevalier/Mathematics-Series](https://github.com/wx-chevalier/Mathematics-Series)|:books: [.md & .ipynb] 人工智能与深度学习实战--数理统计与数据分析篇|30|0|2021-11-02|
 |188|[dotnet9/lqclass.com](https://github.com/dotnet9/lqclass.com)|开源博客网站：react + .net core web api，wpf + xamarin|19|0|2021-08-19|
 |189|[tdiant/BukkitDevelopmentNote](https://github.com/tdiant/BukkitDevelopmentNote)|A guide to develop Minecraft Server plugins based on Bukkit.|45|0|2021-08-24|
-|190|[bljx/BFU-leaf](https://github.com/bljx/BFU-leaf)|北京林业大学信息学院课程攻略|182|0|2021-07-31|
+|190|[bljx/BFU-leaf](https://github.com/bljx/BFU-leaf)|北京林业大学信息学院课程攻略|183|0|2021-07-31|
 |191|[zoeminghong/go-library](https://github.com/zoeminghong/go-library)|Go语言入门、Go相关优质资料等分享|270|0|2021-11-17|
 |192|[2662419405/github.io](https://github.com/2662419405/github.io)|个人博客乁(๑˙ϖ˙๑乁)  国内用户 ->http://sunhang.top |16|0|2021-08-18|
 |193|[Chocolate1999/hexo-blog-lionkk](https://github.com/Chocolate1999/hexo-blog-lionkk)|:zap:魔改自butterfly :butterfly:主题，提供完整详细的文档，同时为了回馈开源，这不是生成后的网页文件，是您可以直接使用的源码，您只需要把博客相关信息换成您自己的就可以部署了，对于新手或者不懂编程的小伙伴来说，简直是福音！:heart:|194|0|2021-09-20|

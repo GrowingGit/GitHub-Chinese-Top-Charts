@@ -5,25 +5,25 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|10|10|2022-01-05|
-|2|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|2991|4|2022-01-02|
+|1|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|19|19|2022-01-06|
+|2|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|2993|4|2022-01-02|
 |3|[crmeb/CRMEB](https://github.com/crmeb/CRMEB)|🔥🔥🔥 CRMEB打通版v4免费开源商城系统，uni-app+thinkphp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、可视化设置，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议|3463|3|2021-12-17|
-|4|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|1660|2|2022-01-04|
+|4|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|1661|2|2022-01-04|
 |5|[biaochenxuying/blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript)|Vue3 + TypeScript + Vite2 + Vuex4 + Vue-Router4 + element-plus 支持 markdown 渲染的博客前台展示|1884|2|2021-08-29|
-|6|[GeekQiaQia/vue3.0-template-admin](https://github.com/GeekQiaQia/vue3.0-template-admin)|本项目基于vue3+ElementPlus+Typescript+Vite搭建一套通用的后台管理模板；并基于常见业务场景，抽象出常见功能组件；包括动态菜单，菜单权限、登录、主题切换、国际化、个人中心、表单页、列表页、复制文本、二维码分享等等|419|2|2022-01-04|
+|6|[GeekQiaQia/vue3.0-template-admin](https://github.com/GeekQiaQia/vue3.0-template-admin)|本项目基于vue3+ElementPlus+Typescript+Vite搭建一套通用的后台管理模板；并基于常见业务场景，抽象出常见功能组件；包括动态菜单，菜单权限、登录、主题切换、国际化、个人中心、表单页、列表页、复制文本、二维码分享等等|420|2|2022-01-04|
 |7|[hyw123456/gugu](https://github.com/hyw123456/gugu)|咕咕语翻译器|15|1|2021-12-15|
 |8|[zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook)|教你如何打造舒适、高效、时尚的前端开发环境|638|1|2021-09-29|
 |9|[ezshine/uniapp-unicloud-dnms](https://github.com/ezshine/uniapp-unicloud-dnms)|一个基于uniapp和unicloud开发的以书会友小程序|77|1|2022-01-03|
 |10|[powerdong/Music-player](https://github.com/powerdong/Music-player)|Vue高仿网易云音乐(Vue入门实践)——在线预览 -- 暂时停止|455|1|2021-10-06|
-|11|[Acmenlei/Many-people-blog](https://github.com/Acmenlei/Many-people-blog)|基于Vue2+Nodejs+MySQL的博客，有后台管理系统。支持：登陆/注册，留言，评论/回复，点赞，记录浏览数，相册，发表文章等，内容丰富。|377|1|2021-10-06|
+|11|[Acmenlei/Many-people-blog](https://github.com/Acmenlei/Many-people-blog)|基于Vue2+Nodejs+MySQL的博客，有后台管理系统。支持：登陆/注册，留言，评论/回复，点赞，记录浏览数，相册，发表文章等，内容丰富。|378|1|2021-10-06|
 |12|[lmiller1990/vue-testing-handbook](https://github.com/lmiller1990/vue-testing-handbook)|A guide on testing Vue components and applications|756|1|2021-12-21|
 |13|[eshengsky/iBlog](https://github.com/eshengsky/iBlog)|基于 Node.js 的开源个人博客系统，采用 Nuxt + Vue + TypeScript 技术栈。|1117|1|2021-08-11|
 |14|[hql7/wl-micro-frontends](https://github.com/hql7/wl-micro-frontends)|Micro front end practical project tutorial. 微前端项目实战vue项目。基于vue3.0&qiankun2.0进阶版：https://github.com/wl-ui/wl-mfe|460|1|2021-10-06|
 |15|[qq449245884/vue-okr-tree](https://github.com/qq449245884/vue-okr-tree)|http://www.longstudy.club/vue-okr-tree-doc/index.html|405|1|2021-09-07|
-|16|[niefy/wx-manage](https://github.com/niefy/wx-manage)|🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩|668|1|2021-10-06|
+|16|[niefy/wx-manage](https://github.com/niefy/wx-manage)|🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩|669|1|2021-10-06|
 |17|[daodaolee/vuepress-plugin-awesome-musicplayer](https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer)|一款基于vuepress插件的音乐播放器，打破以往博客音乐播放方式，让用户有更佳的沉浸式体验！|13|1|2021-12-29|
 |18|[wsydxiangwang/Mood](https://github.com/wsydxiangwang/Mood)|Vue的Nuxt.js服务端渲染框架，NodeJS为后端的全栈项目，Docker一键部署，面向小白的完美博客系统|697|1|2022-01-04|
-|19|[inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|1587|1|2021-09-19|
+|19|[inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|1586|1|2021-09-19|
 |20|[vuepress-aurora/vuepress-theme-aurora](https://github.com/vuepress-aurora/vuepress-theme-aurora)|🔥Aurora是一款基于Vuepress2的博客主题，将本地Markdown文件解析成静态html页面，作为博客文章。搭配说说，时间轴，文章分类，评论，友情链接，相册，音乐播放器等特色功能，给您不一样的使用体验。|74|1|2021-12-28|
 |21|[seeksdream/relation-graph](https://github.com/seeksdream/relation-graph)|Vue 关联关系图谱组件，可以展示如组织机构图谱、股权架构图谱、集团关系图谱等知识图谱，可提供多种图谱布局，包括树状布局、中心布局、力学布局自动布局等。Vue component for relationship graph , which can display knowledge graphs, such as organization graph, equity structure grap ...|486|1|2021-10-20|
 |22|[CS-Tao/whu-library-seat](https://github.com/CS-Tao/whu-library-seat)|武汉大学图书馆助手 - 桌面端|670|1|2021-12-15|
@@ -31,7 +31,7 @@
 |24|[wmhello/laravel_template_with_vue](https://github.com/wmhello/laravel_template_with_vue)|laravel6和vue.js结合的前后端分离项目模板。包含接口端、管理端、小程序和微信公众号端，绝对是你做外包或者自建项目的首选模板。模板内容包括基础的用户管理和权限管理、日志管理、集成第三方登录，整合laravel-echo-server 实现了websocket 做到了消息的实时推送，并在此基础上，实现了聊天室和客服功能。|819|1|2021-12-29|
 |25|[GitHub-Laziji/VBlog](https://github.com/GitHub-Laziji/VBlog)|使用GitHub API 搭建一个可动态发布文章的博客|1425|1|2022-01-04|
 |26|[daoshengfu/Vue-NeteaseCloud-WebMusicApp](https://github.com/daoshengfu/Vue-NeteaseCloud-WebMusicApp)|Vue高仿网易云音乐，基本实现网易云所有音乐、MV相关功能，现已更新到第二版，仅用于学习，下面有详细教程。 |542|1|2021-10-06|
-|27|[FXLP/MarkTool](https://github.com/FXLP/MarkTool)|DoTAT 是一款基于web、面向领域的通用文本标注工具，支持大规模实体标注、关系标注、事件标注、文本分类、基于字典匹配和正则匹配的自动标注以及用于实现归一化的标准名标注，同时也支持迭代标注、嵌套实体标注和嵌套事件标注。标注规范可自定义且同类型任务中可“一次创建多次复用”。通过分级实体集合扩大了实体类型的规模，并设计了全新高效的标注方式，提升了用户体验和标注效率。此外，本工具增加了审核环节，可对多 ...|264|0|2021-12-10|
+|27|[FXLP/MarkTool](https://github.com/FXLP/MarkTool)|DoTAT 是一款基于web、面向领域的通用文本标注工具，支持大规模实体标注、关系标注、事件标注、文本分类、基于字典匹配和正则匹配的自动标注以及用于实现归一化的标准名标注，同时也支持迭代标注、嵌套实体标注和嵌套事件标注。标注规范可自定义且同类型任务中可“一次创建多次复用”。通过分级实体集合扩大了实体类型的规模，并设计了全新高效的标注方式，提升了用户体验和标注效率。此外，本工具增加了审核环节，可对多 ...|265|0|2021-12-10|
 |28|[superBlithe/vue-ts-imooc-dell](https://github.com/superBlithe/vue-ts-imooc-dell)|vue-ts-demo  for imooc dell TypeScript －系统入门到项目实战|8|0|2021-10-06|
 |29|[lvwzhen/hn](https://github.com/lvwzhen/hn)|河南暴雨救援手册|14|0|2021-07-23|
 |30|[leetcode-pp/leetcode-pp](https://github.com/leetcode-pp/leetcode-pp)|《力扣加加》官方网站，力扣加加是一个专注于算法知识分享的平台，旨在通过通俗易懂的语言还原解题全过程。|19|0|2022-01-05|
@@ -76,7 +76,7 @@
 |69|[caiheping/vue-cms](https://github.com/caiheping/vue-cms)|vue-cms是一个中后台系统，后端主要由node(egg.js)，MySQL，JWT，Sequelize，前端主要由vue全家桶，elementUI编写的通用后台管理系统，暂时功能包括用户鉴权，用户管理，角色管理，菜单管理，博客管理等等。|9|0|2021-09-27|
 |70|[zhuss/in2UI](https://github.com/zhuss/in2UI)|基于Vue.js 的UI组件库 轮子 😀😀😀，学习组件库封装|5|0|2021-10-05|
 |71|[lxs24sxl/vue-blog](https://github.com/lxs24sxl/vue-blog)|个人vue版的博客网站-林晓舜|6|0|2021-10-05|
-|72|[Junvary/gin-quasar-admin](https://github.com/Junvary/gin-quasar-admin)|项目可通过一套代码快速简单的配置出不同的个性化网站，并通过插件形式开发个性化逻辑。实现和集成了众多功能，如消息管理、用户管理、角色管理、部门管理、数据权限、websocket、聊天室、字典管理等。同时也是Quasar和Go的入门和学习佳品。|9|0|2022-01-05|
+|72|[Junvary/gin-quasar-admin](https://github.com/Junvary/gin-quasar-admin)|项目实现了消息管理、用户管理、角色管理、部门管理、数据权限、websocket、聊天室、字典管理、菜单管理等众多功能。可通过一套代码快速简单的配置出不同的个性化网站，并通过插件形式开发个性化逻辑。也是Quasar和Go的入门和学习佳品。|9|0|2022-01-06|
 |73|[Marcabo/everyknow-seims-web](https://github.com/Marcabo/everyknow-seims-web)|南昌大学本科生毕业论文_学生就业信息管理系统|7|0|2021-10-06|
 |74|[LiHongyao/Vue](https://github.com/LiHongyao/Vue)|start vue study~|25|0|2022-01-05|
 |75|[tianyong90/blog](https://github.com/tianyong90/blog)|田勇的博客|14|0|2021-12-15|
@@ -160,7 +160,7 @@
 |153|[CS-Tao/whu-library-seat-mobile](https://github.com/CS-Tao/whu-library-seat-mobile)|武汉大学图书馆助手 - 移动端|583|0|2021-12-15|
 |154|[dateolive/vue-demo](https://github.com/dateolive/vue-demo)|学习vue的项目|5|0|2021-10-06|
 |155|[roncoo/roncoo-education-admin](https://github.com/roncoo/roncoo-education-admin)|《领课教育》的后台管理系统。领课教育系统（roncoo-education）是基于领课网络多年的在线教育平台开发和运营经验打造出来的产品，致力于打造一个全行业都适用的分布式在线教育系统。|77|0|2022-01-04|
-|156|[eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)|大千世界，何其茫茫。谨此笔记，记录过往。凭君阅览，小站洛荒。如能收益，莫大奢望|33|0|2022-01-04|
+|156|[eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)|大千世界，何其茫茫。谨此笔记，记录过往。凭君阅览，小站洛荒。如能收益，莫大奢望|34|0|2022-01-04|
 |157|[ChangMM/blog](https://github.com/ChangMM/blog)|✍️个人博客（基于vuepress，自定义主题）。|19|0|2021-10-05|
 |158|[AsheOne18/VueDocs](https://github.com/AsheOne18/VueDocs)|和小伙伴的Blog，记录一些学习|31|0|2022-01-01|
 |159|[laizuan/basis-vue](https://github.com/laizuan/basis-vue)|基于Vue CLI 4构建的公司门户或者个人博客手脚架。已实现多语言切换，顶部导航固定，二级路由，按需加载，路由懒加载，CDN引入|13|0|2021-10-06|
@@ -200,7 +200,7 @@
 |193|[xhl592576605/cnblog_vue](https://github.com/xhl592576605/cnblog_vue)|vue版的WebApp博客园移动端|80|0|2021-10-05|
 |194|[ChanWahFung/vue-maoyan-app](https://github.com/ChanWahFung/vue-maoyan-app)|仿猫眼电影移动端，主要使用vue、axios、mint-ui。仅作为学习用途。|7|0|2021-10-05|
 |195|[dollars0427/vue-booklet](https://github.com/dollars0427/vue-booklet)|Vue compoment for create a e-book|33|0|2021-12-24|
-|196|[miqilin21/vue-blog](https://github.com/miqilin21/vue-blog)|🔥 基于Vue、Node.js(Express)、MongoDB搭建的个人博客blog&后台管理系统admin|139|0|2021-12-24|
+|196|[miqilin21/vue-blog](https://github.com/miqilin21/vue-blog)|🔥 基于Vue、Node.js(Express)、MongoDB搭建的个人博客blog&后台管理系统admin|140|0|2021-12-24|
 |197|[SSmJaE/XueXiTonsSign_Electron](https://github.com/SSmJaE/XueXiTonsSign_Electron)|基于Electron的超星学习通签到小工具，支持手动签到、签到队列自动签到|24|0|2021-11-02|
 |198|[piexlmax/vue3.0-practice-room](https://github.com/piexlmax/vue3.0-practice-room)|vue3.0学习仓，记录，爬坑，实践，分享|6|0|2021-09-26|
 |199|[largezhou/wechat-menu](https://github.com/largezhou/wechat-menu)|php + vue 微信公众号菜单管理 composer 包|136|0|2021-11-20|

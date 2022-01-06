@@ -5,18 +5,18 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ljpzzz/machinelearning](https://github.com/ljpzzz/machinelearning)|My blogs and code for machine learning. http://cnblogs.com/pinard|6046|2021-10-01|
-|2|[roboticcam/machine-learning-notes](https://github.com/roboticcam/machine-learning-notes)|My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接|5428|2021-12-11|
+|1|[ljpzzz/machinelearning](https://github.com/ljpzzz/machinelearning)|My blogs and code for machine learning. http://cnblogs.com/pinard|6047|2021-10-01|
+|2|[roboticcam/machine-learning-notes](https://github.com/roboticcam/machine-learning-notes)|My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接|5430|2021-12-11|
 |3|[cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans)|An adversarial example library for constructing attacks, building defenses, and benchmarking both|5377|2021-12-26|
-|4|[NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)|NeMo: a toolkit for conversational AI|3735|2022-01-05|
+|4|[NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)|NeMo: a toolkit for conversational AI|3734|2022-01-06|
 |5|[ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)|We are building an open database of COVID-19 cases with chest X-ray or CT images.|2765|2021-10-14|
 |6|[exacity/simplified-deeplearning](https://github.com/exacity/simplified-deeplearning)|Simplified implementations of deep learning related works|2390|2021-10-06|
 |7|[wangshub/RL-Stock](https://github.com/wangshub/RL-Stock)|📈 如何用深度强化学习自动炒股|2100|2021-09-08|
 |8|[yoyoyo-yo/Gasyori100knock](https://github.com/yoyoyo-yo/Gasyori100knock)|image processing codes to understand algorithm|1989|2021-11-21|
-|9|[wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)|🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.|1765|2022-01-02|
-|10|[AIZOOTech/FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection)|开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.|1698|2022-01-05|
+|9|[wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)|🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.|1767|2022-01-02|
+|10|[AIZOOTech/FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection)|开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.|1697|2022-01-05|
 |11|[FinMind/FinMind](https://github.com/FinMind/FinMind)|Open Data, more than 50 financial data. 提供超過 50 個金融資料(台股為主)，每天更新 https://finmind.github.io/|1628|2021-12-13|
-|12|[marcotcr/checklist](https://github.com/marcotcr/checklist)|Beyond Accuracy: Behavioral Testing of NLP models with CheckList|1551|2021-11-23|
+|12|[marcotcr/checklist](https://github.com/marcotcr/checklist)|Beyond Accuracy: Behavioral Testing of NLP models with CheckList|1552|2021-11-23|
 |13|[tugstugi/dl-colab-notebooks](https://github.com/tugstugi/dl-colab-notebooks)|Try out  deep learning models online on Google Colab|1270|2021-11-16|
 |14|[TheEconomist/big-mac-data](https://github.com/TheEconomist/big-mac-data)|Data and methodology for the Big Mac index|1219|2021-07-26|
 |15|[snakers4/silero-models](https://github.com/snakers4/silero-models)|Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple|1186|2021-12-21|
@@ -35,7 +35,7 @@
 |28|[4paradigm/AutoX](https://github.com/4paradigm/AutoX)|AutoX is an efficient automl tool, which is mainly aimed at data mining competitions with tabular data.|408|2022-01-05|
 |29|[wbbhcb/stock_market](https://github.com/wbbhcb/stock_market)|-|403|2021-11-01|
 |30|[isee15/Card-Ocr](https://github.com/isee15/Card-Ocr)|身份证识别OCR|376|2021-09-22|
-|31|[linguishi/chinese_sentiment](https://github.com/linguishi/chinese_sentiment)|中文情感分析，CNN，BI-LSTM，文本分类|340|2021-12-02|
+|31|[linguishi/chinese_sentiment](https://github.com/linguishi/chinese_sentiment)|中文情感分析，CNN，BI-LSTM，文本分类|342|2021-12-02|
 |32|[PaddlePaddle/Quantum](https://github.com/PaddlePaddle/Quantum)|-|333|2021-12-15|
 |33|[zhongqiangwu960812/AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)|该仓库尝试整理推荐系统领域的一些经典算法模型|328|2021-10-09|
 |34|[wshuyi/demo-chinese-text-binary-classification-with-bert](https://github.com/wshuyi/demo-chinese-text-binary-classification-with-bert)|-|324|2021-07-13|
@@ -51,14 +51,14 @@
 |44|[CUHKSZ-TQL/WeiboSpider_SentimentAnalysis](https://github.com/CUHKSZ-TQL/WeiboSpider_SentimentAnalysis)|借助Python抓取微博数据，并对抓取的数据进行情绪分析|235|2021-12-13|
 |45|[3778/COVID-19](https://github.com/3778/COVID-19)|Ciência de Dados aplicada à pandemia do novo coronavírus.|221|2021-10-27|
 |46|[DeepTrial/Retina-VesselNet](https://github.com/DeepTrial/Retina-VesselNet)|A Simple U-net model for Retinal Blood Vessel Segmentation based on tensorflow2|219|2021-11-15|
-|47|[ActiveConclusion/COVID19_mobility](https://github.com/ActiveConclusion/COVID19_mobility)|COVID-19 Mobility Data Aggregator. Scraper of Google, Apple, Waze and TomTom COVID-19 Mobility Reports🚶🚘🚉|212|2022-01-05|
+|47|[ActiveConclusion/COVID19_mobility](https://github.com/ActiveConclusion/COVID19_mobility)|COVID-19 Mobility Data Aggregator. Scraper of Google, Apple, Waze and TomTom COVID-19 Mobility Reports🚶🚘🚉|212|2022-01-06|
 |48|[zll17/Neural_Topic_Models](https://github.com/zll17/Neural_Topic_Models)|Implementation of topic models based on neural network approaches.|205|2021-11-12|
 |49|[ami66/ChineseTextClassifier](https://github.com/ami66/ChineseTextClassifier)|中文商品评论短文本分类器，可用于情感分析|204|2021-12-24|
 |50|[deepdialog/CPM-LM-TF2](https://github.com/deepdialog/CPM-LM-TF2)|-|201|2021-10-14|
 |51|[yutiansut/QAStrategy](https://github.com/yutiansut/QAStrategy)|策略基类/ 支持QIFI协议|201|2021-09-01|
 |52|[luo3300612/Visualizer](https://github.com/luo3300612/Visualizer)|assistant tools for attention visualization in deep learning|196|2021-08-11|
 |53|[zwq2018/AI_UAV](https://github.com/zwq2018/AI_UAV)|在人工智能、机器视觉、高精度导航定位和多传感器融合等技术的助推下，众多行业迎来了前所未有的发展机遇，人工智能+无人机（AI+UAV）正是一个具有无限想象力的应用方向。|190|2021-10-12|
-|54|[collective-action/tech](https://github.com/collective-action/tech)|Documentation of all collective action from tech workers.|184|2022-01-05|
+|54|[collective-action/tech](https://github.com/collective-action/tech)|Documentation of all collective action from tech workers.|184|2022-01-06|
 |55|[chokkan/mlnote](https://github.com/chokkan/mlnote)|機械学習帳|181|2021-12-26|
 |56|[brain-zhang/xianglong](https://github.com/brain-zhang/xianglong)|资产配置方案|175|2021-09-07|
 |57|[44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel)|基于思源黑体的开源像素字体|170|2022-01-03|
@@ -94,7 +94,7 @@
 |87|[kevinfu1717/SuperInterstellarTerminal](https://github.com/kevinfu1717/SuperInterstellarTerminal)|【X世纪星际终端】A Wechat Social and AR Game: 基于微信聊天，结合增强现实技术AR+LBS（基于图像位置）的轻社交星际漂流瓶游戏。向外太空发送漂流信息，看看AI预测的外星人是长什么样的，寻找身边的外星人,逗逗外星生物，看看外星植物及外星建筑。Send the message to the outer space, find the aliens in the earth ...|89|2021-12-10|
 |88|[PaddlePaddle/InterpretDL](https://github.com/PaddlePaddle/InterpretDL)|InterpretDL: Interpretation of Deep Learning Models，基于『飞桨』的模型可解释性算法库。https://interpretdl.readthedocs.io/en/latest/index.html|89|2021-12-22|
 |89|[andy6804tw/2020-12th-ironman](https://github.com/andy6804tw/2020-12th-ironman)|[全民瘋AI系列] 第12屆iT邦幫忙鐵人賽 影片教學組 |88|2021-09-27|
-|90|[binarybottle/engram](https://github.com/binarybottle/engram)|Arno's Engram v2.0 ("Engram") layout is an optimized key layout for touch typing in English based on ergonomic considerations, with a protocol and software for creating new, optimized key layouts in o ...|86|2021-12-18|
+|90|[binarybottle/engram](https://github.com/binarybottle/engram)|Arno's Engram v2.0 ("Engram") layout is an optimized key layout for touch typing in English based on ergonomic considerations, with a protocol and software for creating new, optimized key layouts in o ...|87|2021-12-18|
 |91|[1165048017/BlogLearning](https://github.com/1165048017/BlogLearning)|自己的学习历程，重点包括各种好玩的图像处理算法、运动捕捉、机器学习|85|2021-10-26|
 |92|[mindslab-ai/wavegrad2](https://github.com/mindslab-ai/wavegrad2)|Unofficial Pytorch Implementation of WaveGrad2|83|2021-08-18|
 |93|[montera34/escovid19data](https://github.com/montera34/escovid19data)|Recopilación de datos de COVID19 por provincias en España|82|2022-01-05|
@@ -111,9 +111,9 @@
 |104|[Lkruitwagen/solar-pv-global-inventory](https://github.com/Lkruitwagen/solar-pv-global-inventory)|Repository for machine learning and remote sensing pipeline described in Kruitwagen, L., Story, K., Friedrich, J, et. al. (2019) , used to produce a global inventory of utility-scale solar photvoltaic ...|69|2021-11-25|
 |105|[dglai/maxp_baseline_model](https://github.com/dglai/maxp_baseline_model)|-|67|2021-11-05|
 |106|[aws-samples/aws-utility-meter-data-analytics-platform-cn](https://github.com/aws-samples/aws-utility-meter-data-analytics-platform-cn)|-|67|2021-07-20|
-|107|[Liang-ZX/VectorNet](https://github.com/Liang-ZX/VectorNet)|Pytorch implementation of CVPR2020 paper “VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation”|63|2021-10-28|
-|108|[avantcontra/coding-druid](https://github.com/avantcontra/coding-druid)|"Coding Druid" series is my horizontal programming practice notes, each part around a topic (mathematical physics electronic graphics sound...), implemented in several programming languages.|63|2021-10-01|
-|109|[kevin-meng/financial_stock_knowledge_graph](https://github.com/kevin-meng/financial_stock_knowledge_graph)|base on chinese stock market data|60|2021-10-05|
+|107|[avantcontra/coding-druid](https://github.com/avantcontra/coding-druid)|"Coding Druid" series is my horizontal programming practice notes, each part around a topic (mathematical physics electronic graphics sound...), implemented in several programming languages.|64|2021-10-01|
+|108|[Liang-ZX/VectorNet](https://github.com/Liang-ZX/VectorNet)|Pytorch implementation of CVPR2020 paper “VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation”|63|2021-10-28|
+|109|[kevin-meng/financial_stock_knowledge_graph](https://github.com/kevin-meng/financial_stock_knowledge_graph)|base on chinese stock market data|61|2021-10-05|
 |110|[JuliaCN/MeetUpMaterials](https://github.com/JuliaCN/MeetUpMaterials)|Julia中文社区活动的各种材料 Meetup Materials |60|2021-12-23|
 |111|[Dustyposa/goSpider](https://github.com/Dustyposa/goSpider)|some small project and some articles|56|2021-12-03|
 |112|[lvxingchang/Interesting-python](https://github.com/lvxingchang/Interesting-python)|-|54|2021-10-21|
@@ -164,7 +164,7 @@
 |157|[kzbkzb/Python-AI](https://github.com/kzbkzb/Python-AI)|我的文章记录|26|2022-01-04|
 |158|[PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial)|PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle. |26|2021-12-17|
 |159|[lures2019/lures2020-demos](https://github.com/lures2019/lures2020-demos)|lures2020年写的一些项目和程序|26|2021-09-11|
-|160|[ryan4yin/knowledge](https://github.com/ryan4yin/knowledge)|Everything I know: DevOps & CloudNative, Music, etc...|26|2022-01-03|
+|160|[ryan4yin/knowledge](https://github.com/ryan4yin/knowledge)|Everything I know: DevOps & CloudNative, Music, etc...|26|2022-01-06|
 |161|[deepintomlf/mlfbook](https://github.com/deepintomlf/mlfbook)|-|26|2021-09-26|
 |162|[yylonly/ServeNet](https://github.com/yylonly/ServeNet)|Service Classification based on Service Description|26|2021-10-17|
 |163|[buzhidaoshenme/YOLOX-OBB](https://github.com/buzhidaoshenme/YOLOX-OBB)|YOLOX in DOTA with KLD loss. (Oriented Object Detection)（Rotated BBox）基于YOLOX的旋转目标检测|25|2021-11-19|

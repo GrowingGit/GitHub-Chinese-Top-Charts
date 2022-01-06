@@ -7,7 +7,7 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|488|2021-12-13|2021-08-01|
 |2|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|286|2022-01-04|2021-03-11|
-|3|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|197|2021-10-26|2021-04-05|
+|3|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|198|2021-10-26|2021-04-05|
 |4|[yitd/wxkp](https://github.com/yitd/wxkp)|微信卡片分享链接在线制作工具|71|2021-12-11|2021-08-14|
 |5|[AIAHUB/HUST-AIA-Courses-Resource](https://github.com/AIAHUB/HUST-AIA-Courses-Resource)|HUST-AIA学院课程资源|39|2021-11-17|2021-05-10|
 |6|[yu120/lemon-guide](https://github.com/yu120/lemon-guide)|收纳操作系统、JAVA、算法、数据库、中间件、解决方案、架构、DevOps和大数据等技术栈总结！|26|2021-11-06|2021-07-10|

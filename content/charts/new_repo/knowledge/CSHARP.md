@@ -12,7 +12,7 @@
 |5|[xpnas/inotify](https://github.com/xpnas/inotify)|一个简易消息通知系统，支持企业微信、电报机器人、邮件推送、内置BARK推送、钉钉群机器人、飞书群机器人，类似Server酱，支持私有Docker部署|88|2022-01-05|2021-03-24|
 |6|[Isayama-Kagura/TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator)|一款Galgame文本提取和翻译的工具|75|2022-01-03|2021-09-21|
 |7|[xin-lai/Magicodes.Wx.Sdk](https://github.com/xin-lai/Magicodes.Wx.Sdk)|最简洁最易于使用的微信Sdk，包括公众号Sdk、小程序Sdk、企业微信Sdk等，以及Abp VNext集成。|73|2021-08-26|2021-02-02|
-|8|[taecg/ShaderReference](https://github.com/taecg/ShaderReference)|针对Unity的Shader参考大全|64|2022-01-05|2021-07-23|
+|8|[taecg/ShaderReference](https://github.com/taecg/ShaderReference)|针对Unity的Shader参考大全|64|2022-01-06|2021-07-23|
 |9|[lesliexinxin/LeslieXin.SimpleMMF](https://github.com/lesliexinxin/LeslieXin.SimpleMMF)|简单、易用的进程间通信框架，基于共享内存实现。 A simple, easy-to-use framework for interprocess communication based on shared memory|55|2021-08-05|2021-08-02|
 |10|[Anduin2017/CameraVoyeur](https://github.com/Anduin2017/CameraVoyeur)|摄像头黑入器。（基于RickAstley论文实现）|49|2021-09-13|2021-09-12|
 |11|[pwj0528/BiliBiliTool](https://github.com/pwj0528/BiliBiliTool)|.Net 5 编写的B站（哔哩哔哩）任务工具，通过GitHub Actions实现每日线上自动运行任务：每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6，实现自动领取大会员权益、月底自动为自己充电等功能。|27|2021-11-14|2021-04-07|

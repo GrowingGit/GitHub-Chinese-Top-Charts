@@ -5,18 +5,18 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[roboticcam/machine-learning-notes](https://github.com/roboticcam/machine-learning-notes)|My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接|5428|4|2021-12-11|
+|1|[roboticcam/machine-learning-notes](https://github.com/roboticcam/machine-learning-notes)|My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接|5430|4|2021-12-11|
 |2|[ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)|We are building an open database of COVID-19 cases with chest X-ray or CT images.|2765|4|2021-10-14|
-|3|[NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)|NeMo: a toolkit for conversational AI|3735|4|2022-01-05|
-|4|[ljpzzz/machinelearning](https://github.com/ljpzzz/machinelearning)|My blogs and code for machine learning. http://cnblogs.com/pinard|6046|3|2021-10-01|
+|3|[NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)|NeMo: a toolkit for conversational AI|3734|4|2022-01-06|
+|4|[ljpzzz/machinelearning](https://github.com/ljpzzz/machinelearning)|My blogs and code for machine learning. http://cnblogs.com/pinard|6047|3|2021-10-01|
 |5|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|814|3|2021-12-29|
 |6|[cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans)|An adversarial example library for constructing attacks, building defenses, and benchmarking both|5377|3|2021-12-26|
 |7|[wangshub/RL-Stock](https://github.com/wangshub/RL-Stock)|📈 如何用深度强化学习自动炒股|2100|3|2021-09-08|
 |8|[yoyoyo-yo/Gasyori100knock](https://github.com/yoyoyo-yo/Gasyori100knock)|image processing codes to understand algorithm|1989|2|2021-11-21|
 |9|[chenghuige/pikachu2](https://github.com/chenghuige/pikachu2)|微信大数据2021 1st，qq浏览器2021 3rd，mind新闻推荐2020 1st，NAIC2020 AI+遥感影像 2nd|99|2|2021-11-17|
 |10|[4paradigm/AutoX](https://github.com/4paradigm/AutoX)|AutoX is an efficient automl tool, which is mainly aimed at data mining competitions with tabular data.|408|2|2022-01-05|
-|11|[marcotcr/checklist](https://github.com/marcotcr/checklist)|Beyond Accuracy: Behavioral Testing of NLP models with CheckList|1551|2|2021-11-23|
-|12|[AIZOOTech/FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection)|开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.|1698|2|2022-01-05|
+|11|[marcotcr/checklist](https://github.com/marcotcr/checklist)|Beyond Accuracy: Behavioral Testing of NLP models with CheckList|1552|2|2021-11-23|
+|12|[AIZOOTech/FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection)|开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.|1697|2|2022-01-05|
 |13|[snakers4/silero-models](https://github.com/snakers4/silero-models)|Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple|1186|2|2021-12-21|
 |14|[chokkan/mlnote](https://github.com/chokkan/mlnote)|機械学習帳|181|2|2021-12-26|
 |15|[amaiya/ktrain](https://github.com/amaiya/ktrain)|ktrain is a Python library that makes deep learning and AI more accessible and easier to apply|936|1|2022-01-05|
@@ -31,7 +31,7 @@
 |24|[Syencil/mobile-yolov5-pruning-distillation](https://github.com/Syencil/mobile-yolov5-pruning-distillation)|mobilev2-yolov5s剪枝、蒸馏，支持ncnn，tensorRT部署。ultra-light but better performence！|474|1|2021-07-10|
 |25|[exacity/simplified-deeplearning](https://github.com/exacity/simplified-deeplearning)|Simplified implementations of deep learning related works|2390|1|2021-10-06|
 |26|[dglai/maxp_baseline_model](https://github.com/dglai/maxp_baseline_model)|-|67|1|2021-11-05|
-|27|[wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)|🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.|1765|1|2022-01-02|
+|27|[wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)|🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.|1767|1|2022-01-02|
 |28|[davidfrz/yolov5_distance_count](https://github.com/davidfrz/yolov5_distance_count)|使用yolov5，双目摄像头进行测距|107|1|2021-07-16|
 |29|[ni1o1/transbigdata](https://github.com/ni1o1/transbigdata)|A Python package developed for transportation spatio-temporal big data processing, analysis and visualization.|47|1|2021-12-23|
 |30|[luo3300612/Visualizer](https://github.com/luo3300612/Visualizer)|assistant tools for attention visualization in deep learning|196|1|2021-08-11|
@@ -51,7 +51,7 @@
 |44|[oegedijk/dash_oop_components](https://github.com/oegedijk/dash_oop_components)|OOP components for plotly dash that make dashboard components composable, reusable and configurable|24|0|2021-09-28|
 |45|[Emergent-Epidemics/covid19_npi_china](https://github.com/Emergent-Epidemics/covid19_npi_china)|Code for: The effect of human mobility and control measures on the COVID-19 epidemic in China|12|0|2021-09-09|
 |46|[xiaonan8826/jeffindex](https://github.com/xiaonan8826/jeffindex)|-|10|0|2021-09-08|
-|47|[ryan4yin/knowledge](https://github.com/ryan4yin/knowledge)|Everything I know: DevOps & CloudNative, Music, etc...|26|0|2022-01-03|
+|47|[ryan4yin/knowledge](https://github.com/ryan4yin/knowledge)|Everything I know: DevOps & CloudNative, Music, etc...|26|0|2022-01-06|
 |48|[aipredict/ai-deployment](https://github.com/aipredict/ai-deployment)|关注AI模型上线、模型部署|133|0|2021-07-15|
 |49|[archersama/3rd-solution-COVID19-Fake-News-Detection-in-English](https://github.com/archersama/3rd-solution-COVID19-Fake-News-Detection-in-English)|这个仓库是AAAI2021共享任务COVID19-Fake-News-Detection-in-English(虚假新闻分类)的第三名的解决方案|10|0|2021-12-04|
 |50|[isee15/Card-Ocr](https://github.com/isee15/Card-Ocr)|身份证识别OCR|376|0|2021-09-22|
@@ -110,9 +110,9 @@
 |103|[Flyfoxs/xf_tag](https://github.com/Flyfoxs/xf_tag)|大数据应用分类标注挑战赛(NLP),亚军🥈|20|0|2021-08-25|
 |104|[Liang-ZX/VectorNet](https://github.com/Liang-ZX/VectorNet)|Pytorch implementation of CVPR2020 paper “VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation”|63|0|2021-10-28|
 |105|[dr-guangtou/luandun](https://github.com/dr-guangtou/luandun)|Luandun: Chaotic but delicious|15|0|2021-11-27|
-|106|[kevin-meng/financial_stock_knowledge_graph](https://github.com/kevin-meng/financial_stock_knowledge_graph)|base on chinese stock market data|60|0|2021-10-05|
+|106|[kevin-meng/financial_stock_knowledge_graph](https://github.com/kevin-meng/financial_stock_knowledge_graph)|base on chinese stock market data|61|0|2021-10-05|
 |107|[deepintomlf/mlfbook](https://github.com/deepintomlf/mlfbook)|-|26|0|2021-09-26|
-|108|[linguishi/chinese_sentiment](https://github.com/linguishi/chinese_sentiment)|中文情感分析，CNN，BI-LSTM，文本分类|340|0|2021-12-02|
+|108|[linguishi/chinese_sentiment](https://github.com/linguishi/chinese_sentiment)|中文情感分析，CNN，BI-LSTM，文本分类|342|0|2021-12-02|
 |109|[hscspring/All4NLP](https://github.com/hscspring/All4NLP)|All For NLP, especially Chinese.|159|0|2021-10-22|
 |110|[Prayforhanluo/CTR_Algorithm](https://github.com/Prayforhanluo/CTR_Algorithm)|一些经典的CTR算法的复现; LR, FM, FFM, AFM, DeepFM，xDeepFM, PNN, DCN, DCNv2, DIFM, AutoInt, FiBiNet,DIN, DIEN ... （pytorch, tf2.0）|25|0|2022-01-04|
 |111|[W-Java/Population-Prediction](https://github.com/W-Java/Population-Prediction)|The future population of Singapore is predicted by SVM algorithm|15|0|2021-10-29|
@@ -167,7 +167,7 @@
 |160|[richieBao/Urban-Spatial-Data-Analysis_python](https://github.com/richieBao/Urban-Spatial-Data-Analysis_python)|The second phase of <城市空间数据分析方法——PYTHON语言实现>|19|0|2021-12-13|
 |161|[nwpc-oper/reki](https://github.com/nwpc-oper/reki)|A data tool in CEMC/CMA.|10|0|2021-11-24|
 |162|[lukewys/SunXiaoChuan-spider](https://github.com/lukewys/SunXiaoChuan-spider)|A scrapper and analyze result on weibos of SunXiaoChuan. 孙笑川微博的爬虫与分析|34|0|2021-10-06|
-|163|[avantcontra/coding-druid](https://github.com/avantcontra/coding-druid)|"Coding Druid" series is my horizontal programming practice notes, each part around a topic (mathematical physics electronic graphics sound...), implemented in several programming languages.|63|0|2021-10-01|
+|163|[avantcontra/coding-druid](https://github.com/avantcontra/coding-druid)|"Coding Druid" series is my horizontal programming practice notes, each part around a topic (mathematical physics electronic graphics sound...), implemented in several programming languages.|64|0|2021-10-01|
 |164|[Yefee/xMCA](https://github.com/Yefee/xMCA)|Maximum Covariance Analysis in xarray for Climate Science|40|0|2021-11-07|
 |165|[brain-zhang/xianglong](https://github.com/brain-zhang/xianglong)|资产配置方案|175|0|2021-09-07|
 |166|[HuichuanLI/play-with-graph-algorithme](https://github.com/HuichuanLI/play-with-graph-algorithme)|python实现的初级图论算法库:环检测问题,桥和割点,最小生成树,最短路径,欧拉路径,哈密尔顿路径,拓扑排序，最大流问题，匹配问题(匈牙利算法)|23|0|2021-09-16|
@@ -201,7 +201,7 @@
 |194|[moeheart/jx3bla](https://github.com/moeheart/jx3bla)|JX3 Battle Log Analyse|10|0|2021-12-06|
 |195|[zll17/Neural_Topic_Models](https://github.com/zll17/Neural_Topic_Models)|Implementation of topic models based on neural network approaches.|205|0|2021-11-12|
 |196|[SocratesAcademy/datascience](https://github.com/SocratesAcademy/datascience)|Introduction to Python Programming for Data Science|30|0|2021-09-08|
-|197|[collective-action/tech](https://github.com/collective-action/tech)|Documentation of all collective action from tech workers.|184|0|2022-01-05|
+|197|[collective-action/tech](https://github.com/collective-action/tech)|Documentation of all collective action from tech workers.|184|0|2022-01-06|
 |198|[BohriumKwong/Deep_learning_in_WSI](https://github.com/BohriumKwong/Deep_learning_in_WSI)|将深度学习用于病理图像分析以及Openslide和OpenCV使用入門資料|37|0|2021-10-12|
 |199|[leolle/deep_learning](https://github.com/leolle/deep_learning)|projects about NLP knowledge graph, web crawling, word embedding, entity&relation extraction.|11|0|2021-11-10|
 |200|[zhaihulu/DataScience](https://github.com/zhaihulu/DataScience)|-|19|0|2021-10-12|

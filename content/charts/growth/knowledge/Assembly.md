@@ -21,7 +21,7 @@
 |14|[sanmianti/AssemblyLanguageTest](https://github.com/sanmianti/AssemblyLanguageTest)|王爽《汇编语言》第三版课后实验及检测点答案。|75|0|2021-07-26|
 |15|[lib-hfut/lib-hfut](https://github.com/lib-hfut/lib-hfut)|贵校课程资料民间整理|161|0|2021-12-21|
 |16|[LukeLIN-web/curriculum_design](https://github.com/LukeLIN-web/curriculum_design)|一些非cs课程的笔记|4|0|2021-11-30|
-|17|[impact-eintr/x86](https://github.com/impact-eintr/x86)|从零开始的X86汇编语言学习|2|0|2022-01-04|
+|17|[impact-eintr/x86](https://github.com/impact-eintr/x86)|从零开始的X86汇编语言学习|2|0|2022-01-06|
 |18|[lingbai-kong/computer-system](https://github.com/lingbai-kong/computer-system)|同济大学CS《计算机系统实验》实验二TongJi University CS computer system experiment assignment 2|2|0|2021-07-25|
 |19|[Staok/ARM-Linux-Study](https://github.com/Staok/ARM-Linux-Study)|ARM Linux 的学习历程，文章遵守 CC BY NC SA 4.0 协议。|6|0|2021-09-27|
 

@@ -8,7 +8,7 @@
 |1|[QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection)|Real-Time Rendering 4th (RTR4) 参考文献合集典藏   Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference|2183|2021-10-31|2021-10-02|
 |2|[haixiangyan/one-day-one-npm-lib](https://github.com/haixiangyan/one-day-one-npm-lib)|🔥 🔥 这本小书会带你造 10 个非常实用的 npm 库 📦|1383|2021-09-09|2021-04-28|
 |3|[HZFE/awesome-interview](https://github.com/HZFE/awesome-interview)|剑指前端 Offer|1355|2021-11-20|2021-08-23|
-|4|[unclestrong/DeepLearning_LHY21_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes)|深度学习 李宏毅 2021 学习笔记|760|2021-10-30|2021-03-11|
+|4|[unclestrong/DeepLearning_LHY21_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes)|深度学习 李宏毅 2021 学习笔记|761|2021-10-30|2021-03-11|
 |5|[cckuailong/vulbase](https://github.com/cckuailong/vulbase)|各大漏洞文库合集|432|2021-10-05|2021-08-28|
 |6|[flutterchina/flutter_in_action_2nd](https://github.com/flutterchina/flutter_in_action_2nd)|《Flutter实战 第二版》- 书稿（未完成）|346|2021-12-24|2021-08-29|
 |7|[koolshare/koolcenter](https://github.com/koolshare/koolcenter)|提供评测文章，固件教程，插件使用说明等。|157|2021-11-09|2021-09-23|
@@ -26,7 +26,7 @@
 |19|[muzihuaner/E-Cert](https://github.com/muzihuaner/E-Cert)|电子证书生成器|32|2021-08-28|2021-08-27|
 |20|[lopezbec/COVID19_Tweets_Dataset](https://github.com/lopezbec/COVID19_Tweets_Dataset)|This dataset contains all the 2021 COVID-19 related data from the paper "An Augmented Multilingual Twitter Dataset for Studying the COVID-19 Infodemic" |32|2022-01-04|2021-07-15|
 |21|[tomoya92/dstmod-tutorial](https://github.com/tomoya92/dstmod-tutorial)|饥荒mod开发教程，慢慢完善中|31|2021-12-26|2021-07-22|
-|22|[kingcata/zhxx](https://github.com/kingcata/zhxx)|学习强国自动刷分，学习强国自动学习，学习强国自动答题，挑战答题题库。软件适用于Win7以上系统，绿色软件，解压后直接运行，无需安装配置python环境。⭐⭐⭐8分钟学完45分！⭐⭐⭐|26|2022-01-05|2021-10-26|
+|22|[kingcata/zhxx](https://github.com/kingcata/zhxx)|学习强国自动刷分，学习强国自动学习，学习强国自动答题，挑战答题题库。软件适用于Win7以上系统，绿色软件，解压后直接运行，无需安装配置python环境。⭐⭐⭐8分钟学完45分！⭐⭐⭐|26|2022-01-06|2021-10-26|
 |23|[SambacFeng/SWU-SE-HELPER](https://github.com/SambacFeng/SWU-SE-HELPER)|西南大学软件工程专业生存指南，提供专业所需学习的课程资料，学习攻略等|26|2021-12-30|2021-06-27|
 |24|[carlsummer/python_developer_tools](https://github.com/carlsummer/python_developer_tools)|论文复现，多机多卡|25|2021-12-14|2021-04-30|
 |25|[RenektonChr/gitbook](https://github.com/RenektonChr/gitbook)|renekton的gitbook|22|2021-11-17|2021-04-27|

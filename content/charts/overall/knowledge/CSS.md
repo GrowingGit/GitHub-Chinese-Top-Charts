@@ -5,14 +5,14 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20385|2021-12-13|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11782|2022-01-04|
+|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20384|2021-12-13|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11783|2022-01-04|
 |3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8346|2021-12-12|
-|4|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5978|2021-12-20|
+|4|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5979|2021-12-20|
 |5|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4532|2021-10-14|
 |6|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4234|2021-07-29|
 |7|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|3769|2021-12-30|
-|8|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3675|2022-01-02|
+|8|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3676|2022-01-02|
 |9|[apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh)|:book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】|3616|2021-08-09|
 |10|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|2911|2021-12-02|
 |11|[beeth0ven/RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation)|RxSwift 中文文档|1216|2021-10-25|
@@ -29,7 +29,7 @@
 |22|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|286|2022-01-04|
 |23|[ahangchen/windy-afternoon](https://github.com/ahangchen/windy-afternoon)|Gitbook based Blog, Android, Linux, Deep Learning, Computer Vision|265|2021-12-13|
 |24|[liuhuanyong/liuhuanyong.github.io](https://github.com/liuhuanyong/liuhuanyong.github.io)|面向中文自然语言处理的六十余类实践项目及学习索引，涵盖语言资源构建、社会计算、自然语言处理组件、知识图谱、事理图谱、知识抽取、情感分析、深度学习等几个学习主题。包括作者个人简介、学习心得、语言资源、工业落地系统等，是供自然语言处理入门学习者的一个较为全面的学习资源，欢迎大家使用，并提出批评意见。|251|2021-11-13|
-|25|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|197|2021-10-26|
+|25|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|198|2021-10-26|
 |26|[frankcbliu/Interview_Notes](https://github.com/frankcbliu/Interview_Notes)|📚 程序员面试基础知识总结、优质项目分享、助力春招秋招|182|2021-12-14|
 |27|[idealclover/Life-in-NJU](https://github.com/idealclover/Life-in-NJU)|🏠 南哪指南—南哪大学网址导航|162|2021-08-22|
 |28|[lbc-team/deep_ethereum](https://github.com/lbc-team/deep_ethereum)|电子书：以太坊技术与实现|129|2021-12-02|
@@ -38,7 +38,7 @@
 |31|[qu5/mogu](https://github.com/qu5/mogu)|一个简约的php书签网址导航|95|2022-01-03|
 |32|[DataXujing/TensorRT_CV](https://github.com/DataXujing/TensorRT_CV)|:rocket::rocket::rocket:NVIDIA TensorRT 加速推断教程！|95|2021-07-31|
 |33|[luokangyuan/ghost-theme-mj](https://github.com/luokangyuan/ghost-theme-mj)|This is a beautiful ghost blog theme，这是一个漂亮的Ghost博客主题。|94|2021-09-21|
-|34|[apachecn/quant-learning](https://github.com/apachecn/quant-learning)|:books: Quant 教程整理|92|2021-12-12|
+|34|[apachecn/quant-learning](https://github.com/apachecn/quant-learning)|:books: Quant 教程整理|93|2021-12-12|
 |35|[dhanishgajjar/css-flags](https://github.com/dhanishgajjar/css-flags)|A collection of pure CSS flags, all single divs.|90|2021-08-10|
 |36|[lsils/lstools-showcase](https://github.com/lsils/lstools-showcase)|Showcase examples for EPFL logic synthesis libraries|89|2021-08-03|
 |37|[hltj/kotlin-reference-chinese](https://github.com/hltj/kotlin-reference-chinese)|Kotlin 官方文档（参考部分）中文版|88|2021-08-26|
@@ -75,9 +75,9 @@
 |68|[liangzr/blog](https://github.com/liangzr/blog)|北端的博客|28|2021-09-01|
 |69|[shandianlala/sdll-blog](https://github.com/shandianlala/sdll-blog)|博客|27|2021-12-09|
 |70|[yu120/lemon-guide](https://github.com/yu120/lemon-guide)|收纳操作系统、JAVA、算法、数据库、中间件、解决方案、架构、DevOps和大数据等技术栈总结！|26|2021-11-06|
-|71|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主要提供以上原创教程的下载，教程皆为本人从零原创。目的不单是留下经验和理论，还有将难以理解的东西翻译的一语中的；即使不学，用的时候也能一看就懂；在文档的格式，大小，美观上也远超一般文档；最后不断跟进一些新内容。理论上，这就是最好的教程了|25|2021-12-15|
-|72|[omnilingo/omnilingo](https://github.com/omnilingo/omnilingo)|Listening-based language learning|24|2021-09-16|
-|73|[lululuting/tgbk](https://github.com/lululuting/tgbk)|挺哥博客|24|2021-12-09|
+|71|[omnilingo/omnilingo](https://github.com/omnilingo/omnilingo)|Listening-based language learning|24|2021-09-16|
+|72|[lululuting/tgbk](https://github.com/lululuting/tgbk)|挺哥博客|24|2021-12-09|
+|73|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主要提供以上原创教程的下载，教程皆为本人从零原创。目的不单是留下经验和理论，还有将难以理解的东西翻译的一语中的；即使不学，用的时候也能一看就懂；在文档的格式，大小，美观上也远超一般文档；最后不断跟进一些新内容。理论上，这就是最好的教程了|24|2021-12-15|
 |74|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|23|2021-12-09|
 |75|[jinqilin721/halo-theme-xinac-fantastic](https://github.com/jinqilin721/halo-theme-xinac-fantastic)|Halo博客系统，Fantastic主题修改版。|22|2021-07-18|
 |76|[selierlin/TenSquare](https://github.com/selierlin/TenSquare)|十次方社交平台源码及笔记|22|2021-08-11|

@@ -5,10 +5,10 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Fafa-DL/Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021春季机器学习课程课件及作业|1424|2021-12-20|2021-02-28|
-|2|[Charmve/computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action)|《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页|1268|2021-12-14|2021-04-29|
-|3|[fengdu78/WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course)|温州大学《机器学习》课程资料（代码、课件等）|843|2021-12-10|2021-03-21|
-|4|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|493|2022-01-05|2021-03-11|
+|1|[Fafa-DL/Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021春季机器学习课程课件及作业|1425|2021-12-20|2021-02-28|
+|2|[Charmve/computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action)|《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页|1269|2021-12-14|2021-04-29|
+|3|[fengdu78/WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course)|温州大学《机器学习》课程资料（代码、课件等）|844|2021-12-10|2021-03-21|
+|4|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|495|2022-01-05|2021-03-11|
 |5|[d2l-ai/courses-zh-v2](https://github.com/d2l-ai/courses-zh-v2)|中文版 v2 课程|228|2021-09-14|2021-01-26|
 |6|[xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)|LaTeX论文写作教程 (中文版)|195|2022-01-02|2021-03-29|
 |7|[microsoft/AIforEarthDataSets](https://github.com/microsoft/AIforEarthDataSets)|Notebooks and documentation for AI-for-Earth-managed datasets on Azure|167|2021-12-16|2021-02-18|
@@ -18,10 +18,10 @@
 |11|[ZitongLu1996/Python-EEG-Handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook)|Python脑电数据处理中文手册 - A Chinese handbook for EEG data analysis based on Python|89|2021-09-23|2021-07-02|
 |12|[shibing624/nlp-tutorial](https://github.com/shibing624/nlp-tutorial)|自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。|67|2021-10-21|2021-08-06|
 |13|[HuangCongQing/3D-Point-Clouds](https://github.com/HuangCongQing/3D-Point-Clouds)|🔥3D点云目标检测&语义分割-SOTA方法,代码,论文,数据集等|61|2021-10-13|2021-01-15|
-|14|[skywateryang/timeseries101](https://github.com/skywateryang/timeseries101)|本教程独立网站已上线|51|2021-12-28|2021-06-11|
-|15|[Sharpiless/yolov5-distillation-5.0](https://github.com/Sharpiless/yolov5-distillation-5.0)|yolov5 5.0 version distillation    yolov5 5.0版本知识蒸馏，yolov5l >> yolov5s|51|2021-07-29|2021-05-17|
+|14|[Sharpiless/yolov5-distillation-5.0](https://github.com/Sharpiless/yolov5-distillation-5.0)|yolov5 5.0 version distillation    yolov5 5.0版本知识蒸馏，yolov5l >> yolov5s|52|2021-07-29|2021-05-17|
+|15|[skywateryang/timeseries101](https://github.com/skywateryang/timeseries101)|本教程独立网站已上线|51|2021-12-28|2021-06-11|
 |16|[zhangjx831/Data-Science-Notes](https://github.com/zhangjx831/Data-Science-Notes)|数据科学与机器学习炼成笔记|51|2021-12-29|2021-03-30|
-|17|[datawhalechina/learn-python-the-smart-way](https://github.com/datawhalechina/learn-python-the-smart-way)|聪明方法学Python，简明且系统的 Python 入门教程。|47|2021-12-27|2021-07-10|
+|17|[datawhalechina/learn-python-the-smart-way](https://github.com/datawhalechina/learn-python-the-smart-way)|聪明方法学Python，简明且系统的 Python 入门教程。|47|2022-01-05|2021-07-10|
 |18|[ssssww0905/-PyTorch-](https://github.com/ssssww0905/-PyTorch-)|【PyTorch】手把手教你跑通第一个神经网络|45|2022-01-03|2021-11-19|
 |19|[PolarisRisingWar/cs224w-2021-winter-colab](https://github.com/PolarisRisingWar/cs224w-2021-winter-colab)|cs224w（图机器学习）2021冬季课程的colab|42|2021-07-09|2021-05-02|
 |20|[fly51fly/Principle_of_Web_Search_2021](https://github.com/fly51fly/Principle_of_Web_Search_2021)|北邮《网络搜索引擎原理》课程(2021)|39|2021-11-05|2021-09-17|

@@ -21,11 +21,11 @@
 |14|[ilobos/DeviceSupport](https://github.com/ilobos/DeviceSupport)|iOS真机调试支持文件，支持iOS9-15，已支持最新的iOS15.2；解决【Your Xcode version may be too old for your iOS version.】、无法识别设备等问题。|33|2021-11-11|2021-02-01|
 |15|[ts666823/Codesigner](https://github.com/ts666823/Codesigner)|-|30|2021-12-11|2021-10-29|
 |16|[fatbobman/SheetKit](https://github.com/fatbobman/SheetKit)|an extension library for SwiftUI sheets. |27|2021-09-17|2021-09-16|
-|17|[Cantoboard/Cantoboard](https://github.com/Cantoboard/Cantoboard)|Cantoboard - Smart Cantonese Keyboard on iOS |24|2022-01-05|2021-03-19|
-|18|[KelvinQQ/SpiderCard](https://github.com/KelvinQQ/SpiderCard)|蜘蛛纸牌 for mac|23|2021-08-23|2021-07-28|
+|17|[KelvinQQ/SpiderCard](https://github.com/KelvinQQ/SpiderCard)|蜘蛛纸牌 for mac|24|2021-08-23|2021-07-28|
+|18|[Cantoboard/Cantoboard](https://github.com/Cantoboard/Cantoboard)|Cantoboard - Smart Cantonese Keyboard on iOS |24|2022-01-05|2021-03-19|
 |19|[ShenJieSuzhou/PurchaseX](https://github.com/ShenJieSuzhou/PurchaseX)|PurchaseX 是基于 Swift 语言开发，专门用于给您的应用或者游戏提供应用内购买（In-App_purchase）解决方案的轻量级 Framework；  PurchaseX 能让开发者轻松的为应用程序集成苹果的应用内购买，目前最低支持 iOS 8.0 版本；|22|2021-10-28|2021-07-20|
 |20|[JerryFans/JFPopup](https://github.com/JerryFans/JFPopup)|A Swift Popup Module help you popup your custom view easily|21|2021-10-22|2021-10-11|
-|21|[creepymonster/GlucoseDirectApp](https://github.com/creepymonster/GlucoseDirectApp)|App programmed in Swift/SwiftUI for using Libre 1/2 blood glucose sensors.|21|2022-01-03|2021-07-18|
+|21|[creepymonster/GlucoseDirectApp](https://github.com/creepymonster/GlucoseDirectApp)|App programmed in Swift/SwiftUI for using Libre 1/2 blood glucose sensors.|21|2022-01-05|2021-07-18|
 |22|[lihaoyun6/DimQQ](https://github.com/lihaoyun6/DimQQ)|一款可自定义强度的QQ for Mac亮度降低工具|18|2021-11-28|2021-11-23|
 |23|[treehollow/treehollow-v3-ios](https://github.com/treehollow/treehollow-v3-ios)|树洞 iOS / macOS 客户端，使用 SwiftUI 开发。|15|2021-12-11|2021-01-13|
 |24|[variant-database/vdb](https://github.com/variant-database/vdb)|A SARS-CoV-2 Mutation Pattern Query Tool|12|2021-12-10|2021-04-06|

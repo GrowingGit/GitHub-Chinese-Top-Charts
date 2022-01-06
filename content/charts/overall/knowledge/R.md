@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)|A curated list of awesome network analysis resources.|2543|2021-11-17|
+|1|[briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)|A curated list of awesome network analysis resources.|2544|2021-11-17|
 |2|[pzhaonet/bookdownplus](https://github.com/pzhaonet/bookdownplus)|The easiest way to use R package bookdown for  writing varied types of books and documents |227|2021-12-31|
 |3|[GuangchuangYu/biobabble](https://github.com/GuangchuangYu/biobabble)|公众号：biobabble|56|2021-09-26|
 |4|[yufree/sciguide](https://github.com/yufree/sciguide)|现代科研指北|56|2021-12-22|

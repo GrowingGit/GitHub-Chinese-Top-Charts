@@ -5,28 +5,28 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[oceanbase/oceanbase](https://github.com/oceanbase/oceanbase)|OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.|4034|2022-01-05|2021-05-31|
-|2|[kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)|Universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.|1896|2021-12-24|2021-01-13|
+|1|[oceanbase/oceanbase](https://github.com/oceanbase/oceanbase)|OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.|4035|2022-01-05|2021-05-31|
+|2|[kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)|Universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.|1899|2021-12-24|2021-01-13|
 |3|[Tencent/flare](https://github.com/Tencent/flare)| Flare是广泛投产于腾讯广告后台的现代化C++开发框架，包含了基础库、RPC、各种客户端等。主要特点为易用性强、长尾延迟低。 |831|2021-12-24|2021-05-26|
 |4|[tuplex/tuplex](https://github.com/tuplex/tuplex)|Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather  ...|745|2022-01-04|2021-06-30|
 |5|[openppl-public/ppl.nn](https://github.com/openppl-public/ppl.nn)|A primitive library for neural network|632|2022-01-05|2021-06-30|
 |6|[Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt)|Everything 拼音搜索、快速选择扩展|615|2021-12-17|2021-09-18|
 |7|[shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro)|C++ library based on tensorrt integration|559|2021-12-15|2021-07-26|
-|8|[anhkgg/SuperRDP](https://github.com/anhkgg/SuperRDP)|Super RDPWrap|493|2021-12-21|2021-01-10|
+|8|[anhkgg/SuperRDP](https://github.com/anhkgg/SuperRDP)|Super RDPWrap|494|2021-12-21|2021-01-10|
 |9|[open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)|OpenMMLab Model Deployment Framework|487|2022-01-05|2021-12-24|
 |10|[Tencent/Forward](https://github.com/Tencent/Forward)|A library for high performance deep learning inference on NVIDIA GPUs. |481|2021-11-30|2021-03-11|
 |11|[HackerDev-Felix/WechatDecrypt](https://github.com/HackerDev-Felix/WechatDecrypt)|微信消息解密工具|402|2021-07-12|2021-07-12|
 |12|[Tencent/Taitank](https://github.com/Tencent/Taitank)|Taitank is a cross platform lightweight flex layout engine implemented in C++.|386|2021-07-21|2021-04-12|
 |13|[zenustech/zeno](https://github.com/zenustech/zeno)|ZEn NOde system|359|2022-01-05|2021-03-27|
 |14|[0x727/SqlKnife_0x727](https://github.com/0x727/SqlKnife_0x727)|适合在命令行中使用的轻巧的SQL Server数据库安全检测工具|328|2021-10-23|2021-08-02|
-|15|[MistEO/MeoAssistantArknights](https://github.com/MistEO/MeoAssistantArknights)|明日方舟助手，自动刷图、智能基建换班，全日常一键长草！|327|2022-01-05|2021-07-09|
+|15|[MistEO/MeoAssistantArknights](https://github.com/MistEO/MeoAssistantArknights)|明日方舟助手，自动刷图、智能基建换班，全日常一键长草！|328|2022-01-05|2021-07-09|
 |16|[peng-zhihui/Ctrl-FOC-Lite](https://github.com/peng-zhihui/Ctrl-FOC-Lite)|-|319|2021-08-07|2021-08-07|
 |17|[vczh/GacUIBlog](https://github.com/vczh/GacUIBlog)|记录 GacUI 开发10年来背后的故事，以及对架构设计的考量。|319|2021-12-20|2021-05-26|
 |18|[wdhao/tensorrtCV](https://github.com/wdhao/tensorrtCV)|-|307|2021-08-11|2021-05-29|
 |19|[ToanTech/Deng-s-foc-controller](https://github.com/ToanTech/Deng-s-foc-controller)|灯哥开源 FOC 双路迷你无刷电机驱动|303|2021-12-31|2021-02-14|
 |20|[Tencent/ScriptX](https://github.com/Tencent/ScriptX)|A versatile script engine abstraction layer.|297|2021-12-19|2021-03-19|
-|21|[flomesh-io/pipy](https://github.com/flomesh-io/pipy)|Pipy is a tiny, high performance, highly stable, programmable proxy.|293|2021-12-31|2021-02-11|
-|22|[Soreepeong/XivAlexander](https://github.com/Soreepeong/XivAlexander)|Double weave on high latency, and mishmash of modding tools - especially for fonts and internationalization for Final Fantasy XIV.|289|2022-01-04|2021-02-08|
+|21|[flomesh-io/pipy](https://github.com/flomesh-io/pipy)|Pipy is a tiny, high performance, highly stable, programmable proxy.|294|2022-01-05|2021-02-11|
+|22|[Soreepeong/XivAlexander](https://github.com/Soreepeong/XivAlexander)|Double weave on high latency, and mishmash of modding tools - especially for fonts and internationalization for Final Fantasy XIV.|290|2022-01-04|2021-02-08|
 |23|[ZhuYanzhen1/miniFOC](https://github.com/ZhuYanzhen1/miniFOC)|你还在为有刷电机的高噪声、低响应速度和低寿命而烦恼吗？这个项目是一个20块钱就能搞定的FOC无刷电机控制方案！This project is a FOC (Field Oriented Control) BLDC Motor control scheme that can be done for 3$!|274|2021-11-08|2021-08-13|
 |24|[mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader)|Media Downloader is a Qt/C++ front end to youtube-dl|253|2022-01-01|2021-01-18|
 |25|[wfrest/wfrest](https://github.com/wfrest/wfrest)|C++ Web Framework REST API|241|2022-01-05|2021-10-27|
@@ -43,7 +43,7 @@
 |36|[xiangli0608/cartographer_detailed_comments_ws](https://github.com/xiangli0608/cartographer_detailed_comments_ws)|cartographer work space with detailed comments|157|2021-10-29|2021-04-20|
 |37|[taptap/perf-doctor](https://github.com/taptap/perf-doctor)|性能医生，手机应用性能测试工具|139|2022-01-05|2021-09-24|
 |38|[drzzzf/T12SoldingStation](https://github.com/drzzzf/T12SoldingStation)|Arduino T12 Solding Station|139|2021-07-31|2021-02-19|
-|39|[EdVince/ClothingTransfer-NCNN](https://github.com/EdVince/ClothingTransfer-NCNN)|CT-Net, OpenPose, LIP_JPPNet, DensePose running with ncnn⚡服装迁移/虚拟试穿⚡ClothingTransfer/Virtual-Try-On⚡|130|2022-01-01|2021-12-15|
+|39|[EdVince/ClothingTransfer-NCNN](https://github.com/EdVince/ClothingTransfer-NCNN)|CT-Net, OpenPose, LIP_JPPNet, DensePose running with ncnn⚡服装迁移/虚拟试穿⚡ClothingTransfer/Virtual-Try-On⚡|131|2022-01-01|2021-12-15|
 |40|[0x727/CloneX_0x727](https://github.com/0x727/CloneX_0x727)|进行克隆用户、添加用户等账户防护安全检测的轻巧工具|129|2021-09-03|2021-08-16|
 |41|[kaniol-lck/modmanager](https://github.com/kaniol-lck/modmanager)|A Qt-based mod manager for minecraft.|128|2022-01-05|2021-08-12|
 |42|[yongplus/tinypng](https://github.com/yongplus/tinypng)|基于TinyPNG图片压缩软件，操作简单高效，支持MacOS和Windows系统，无需其它依赖运行。|128|2022-01-05|2021-07-01|
@@ -60,7 +60,7 @@
 |53|[dengqizhou30/AIAssistC](https://github.com/dengqizhou30/AIAssistC)|AIAssistC是一个AI游戏助手，使用OpenCv、DNN、Tensorflow、ssd_mobilenet/efficientdet、hidriver、MFC等技术，截取游戏屏幕进行对象识别，使用虚拟鼠标键盘驱动实现自动瞄准/自动开枪等功能，提升玩家的游戏体验。|95|2021-12-05|2021-10-27|
 |54|[rvbust/Vis](https://github.com/rvbust/Vis)|Interactive & Asynchronous 3D Visualization Tool|94|2021-08-18|2021-07-23|
 |55|[wecooperate/iMonitorSDK](https://github.com/wecooperate/iMonitorSDK)|系统监控开发套件（sysmon、promon、edr、终端安全、主机安全、零信任、上网行为管理）|93|2022-01-02|2021-09-25|
-|56|[guojianyang/cv-detect-robot](https://github.com/guojianyang/cv-detect-robot)|🔥🔥🔥🔥🔥🔥yolov5+YOLOX+yolo+tensorRT+ros+deepstream+jetson+nano+TX2+NX for High-performance deployment(高性能部署)|93|2022-01-05|2021-07-25|
+|56|[guojianyang/cv-detect-robot](https://github.com/guojianyang/cv-detect-robot)|🔥🔥🔥🔥🔥🔥yolov5+YOLOX+yolo+tensorRT+ros+deepstream+jetson+nano+TX2+NX for High-performance deployment(高性能部署)|93|2022-01-06|2021-07-25|
 |57|[GengGode/GenshinImpact_AutoTrack_DLL](https://github.com/GengGode/GenshinImpact_AutoTrack_DLL)|能够从原神中获取角色的位置、朝向以及视角的实时数据，通过图像算法获取，并非读内存。The real-time data of the position, orientation and angle of view of the character can be obtained from the Genshin Impact, which can be obtained through the i ...|90|2021-10-29|2021-06-17|
 |58|[saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend)|A Powerful, Easy-to-Use, Compact, Cross-Platform and Installation-Free Crypto Tool. Ein leistungsstarkes, benutzerfreundliches, kompaktes, plattformübergreifendes und installationsfreies Krypto-Tool.|85|2022-01-05|2021-06-19|
 |59|[LiteLDev/LiteXLoader](https://github.com/LiteLDev/LiteXLoader)|A cross-language script plugin loader for Bedrock Dedicated Server (BDS) , based on LiteLoaderBDS & ScriptX|84|2021-12-31|2021-04-17|

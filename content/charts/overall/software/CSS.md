@@ -5,18 +5,18 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|16608|2021-10-18|
+|1|[you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|16607|2021-10-18|
 |2|[iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next)|Elegant theme for Hexo. |15744|2021-11-06|
 |3|[chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration)|CSS Inspiration，在这里找到写 CSS 的灵感！|7567|2021-10-22|
 |4|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|7320|2021-12-07|
 |5|[Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words)|程序员工作中常见的英语词汇|4732|2022-01-02|
 |6|[ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control)|一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.|3515|2021-12-23|
-|7|[LiangJunrong/document-library](https://github.com/LiangJunrong/document-library)|jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……|3301|2022-01-05|
+|7|[LiangJunrong/document-library](https://github.com/LiangJunrong/document-library)|jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……|3301|2022-01-06|
 |8|[jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets)|Webpage tracking only using CSS (and no JS)|3269|2021-08-23|
 |9|[missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)|the CS missing semester Chinese version|3199|2021-11-10|
-|10|[WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io)|❤️静态响应式网址导航网站 - webstack.cc|3104|2021-12-09|
-|11|[kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)|🕶️ Awesome stuff for Obsidian|2217|2021-11-30|
-|12|[abc-club/js-paradise](https://github.com/abc-club/js-paradise)|前端乐园|1771|2022-01-04|
+|10|[WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io)|❤️静态响应式网址导航网站 - webstack.cc|3105|2021-12-09|
+|11|[kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)|🕶️ Awesome stuff for Obsidian|2218|2021-11-30|
+|12|[abc-club/js-paradise](https://github.com/abc-club/js-paradise)|前端乐园|1772|2022-01-04|
 |13|[nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor)|📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。|1668|2021-10-05|
 |14|[waylybaye/HyperApp-Guide](https://github.com/waylybaye/HyperApp-Guide)|HyperApp user's manual |1568|2021-07-26|
 |15|[Terminus2049/Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io)|No more 404|1544|2021-09-27|
@@ -30,8 +30,8 @@
 |23|[canxin0523/thesixsectorTeam](https://github.com/canxin0523/thesixsectorTeam)|-|951|2021-09-21|
 |24|[cofess/hexo-theme-pure](https://github.com/cofess/hexo-theme-pure)|Hexo theme pure. It's a pure theme for Hexo.|857|2022-01-03|
 |25|[limbopro/Adblock4limbo](https://github.com/limbopro/Adblock4limbo)|毒奶去广告计划（稳定版）For Quantumult X ；如去奈菲影视/低端影视/片库网/Pornhub/Jable/Netflav/HPjav等视频网站广告或其他ACG网站网页广告；|789|2022-01-02|
-|26|[fingerchar/fingernft](https://github.com/fingerchar/fingernft)|FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。|762|2021-12-29|
-|27|[D0n9X1n/hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt)|Yet, just another hexo plugin for security.|681|2022-01-05|
+|26|[fingerchar/fingernft](https://github.com/fingerchar/fingernft)|FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。|765|2021-12-29|
+|27|[D0n9X1n/hexo-blog-encrypt](https://github.com/D0n9X1n/hexo-blog-encrypt)|Yet, just another hexo plugin for security.|682|2022-01-05|
 |28|[liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)|🍠🍠🍠 包含 Vue Material Juejin Google Purple Ayu Dark Light Black Drake 样式主题|632|2022-01-02|
 |29|[e282486518/yii2admin](https://github.com/e282486518/yii2admin)|通用的yii2后台，基于Yii2的advanced应用程序模板，整合RBAC、Menu、Config、Migration多语言、RESTfull等等...|628|2021-10-11|
 |30|[andylei18/vue-shopping](https://github.com/andylei18/vue-shopping)|基于Vue模仿蘑菇街的单页应用http://andylei18.github.io/vue-shopping/|624|2021-08-03|
@@ -86,9 +86,9 @@
 |79|[Soanguy/typora-theme-autumnus](https://github.com/Soanguy/typora-theme-autumnus)|Typora theme for 中文|204|2021-11-27|
 |80|[suruibuas/eadmin](https://github.com/suruibuas/eadmin)|eadmin - 极致用户体验与极简开发并存的开箱即用的后台UI框架|203|2021-08-10|
 |81|[unclehking/bdAdfinisher](https://github.com/unclehking/bdAdfinisher)|去除百度搜索内容页广告chrome插件(兼容各大“国产”浏览器急速版).|199|2021-12-24|
-|82|[dmego/home.github.io](https://github.com/dmego/home.github.io)|个人主页|198|2022-01-05|
+|82|[dmego/home.github.io](https://github.com/dmego/home.github.io)|个人主页|198|2022-01-06|
 |83|[xiaoqingfengATGH/luci-theme-infinityfreedom](https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom)|A theme for HomeLede and Openwrt.|192|2021-10-03|
-|84|[SiJiDo/H](https://github.com/SiJiDo/H)|H是一款强大的资产收集管理平台|187|2021-12-29|
+|84|[SiJiDo/H](https://github.com/SiJiDo/H)|H是一款强大的资产收集管理平台|189|2021-12-29|
 |85|[ghostrong/weblog](https://github.com/ghostrong/weblog)|A simple blog system written in Flask.|187|2021-12-13|
 |86|[Aneureka/push-to-kindle](https://github.com/Aneureka/push-to-kindle)|📘 A web-based tool for pushing documents to your lovely kindle.|186|2021-10-01|
 |87|[luoyan35714/LessOrMore](https://github.com/luoyan35714/LessOrMore)|Jekyll theme.|180|2021-11-30|
