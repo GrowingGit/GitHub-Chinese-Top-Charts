@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Vim script
-<sub>数据更新: 2022-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|17623|10|2022-01-06|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|7013|2|2021-12-19|
-|3|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|242|2|2022-01-04|
+|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|17625|10|2022-01-06|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|7014|2|2021-12-19|
+|3|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|246|2|2022-01-04|
 |4|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4842|2|2021-08-16|
-|5|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1319|1|2021-12-25|
-|6|[mattn/emmet-vim](https://github.com/mattn/emmet-vim)|emmet for vim: http://emmet.io/|5810|1|2021-12-04|
-|7|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1490|1|2022-01-04|
+|5|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1320|1|2021-12-25|
+|6|[mattn/emmet-vim](https://github.com/mattn/emmet-vim)|emmet for vim: http://emmet.io/|5809|1|2021-12-04|
+|7|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1489|1|2022-01-04|
 |8|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|616|1|2022-01-04|
 |9|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1507|1|2021-12-27|
 |10|[StarryLeo/starry-vim](https://github.com/StarryLeo/starry-vim)|🌠 Starry vim distribution|12|0|2021-10-16|
@@ -21,8 +21,8 @@
 |14|[fgheng/vime](https://github.com/fgheng/vime)|vime, an easy and structural config for (neo)vim users|279|0|2021-11-05|
 |15|[wkcn/MyVimConfig](https://github.com/wkcn/MyVimConfig)|我的Vim配置文件|4|0|2021-12-07|
 |16|[anzhihe/Efficient-office](https://github.com/anzhihe/Efficient-office)|Alfred-Workflows，Vim，Script，Mac|18|0|2021-12-26|
-|17|[FengShangWuQi/to-vim-tmux-zsh](https://github.com/FengShangWuQi/to-vim-tmux-zsh)|如何让 vim，tmux，zsh 成为我们的神器|84|0|2022-01-02|
-|18|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|271|0|2021-10-26|
+|17|[FengShangWuQi/to-vim-tmux-zsh](https://github.com/FengShangWuQi/to-vim-tmux-zsh)|如何让 vim，tmux，zsh 成为我们的神器|85|0|2022-01-07|
+|18|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|273|0|2021-10-26|
 |19|[wandercn/go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf)|my vim conf for golang IDE and rust IDE|11|0|2021-10-21|
 |20|[bootleq/vim-ref-bingzh](https://github.com/bootleq/vim-ref-bingzh)|vim-ref source for Bing dictionary|8|0|2021-11-13|
 |21|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|617|0|2022-01-04|
@@ -34,7 +34,7 @@
 |27|[junjiecjj/configure_file](https://github.com/junjiecjj/configure_file)|linux系统装机后常用的配置文件，vim配置成综合IDE、终端提示符、XTerm终端、窗口管理器FVWM，以及WSL的配置文件|3|0|2022-01-05|
 |28|[sh7ning/vim_thes](https://github.com/sh7ning/vim_thes)|🐒🌴🍄💥🌾🐳🌈我的php版本vim配置|3|0|2021-07-16|
 |29|[denstiny/nvim-nanny](https://github.com/denstiny/nvim-nanny)|-|18|0|2022-01-03|
-|30|[d0u9/.dot](https://github.com/d0u9/.dot)|The bucket of dot files|21|0|2022-01-06|
+|30|[d0u9/.dot](https://github.com/d0u9/.dot)|The bucket of dot files|21|0|2022-01-07|
 |31|[jaywcjlove/vim-web](https://github.com/jaywcjlove/vim-web)|◈ 搞得像IDE一样的Vim，安装配置自己的Vim。|566|0|2021-12-05|
 |32|[skywind3000/vim-dict](https://github.com/skywind3000/vim-dict)|没办法，被逼的，重新整理一个词典补全的数据库|36|0|2021-08-28|
 |33|[Yeatol/vimrc](https://github.com/Yeatol/vimrc)|自用 VIM 配置文件|3|0|2021-12-18|
@@ -45,7 +45,7 @@
 |38|[feix760/yuan](https://github.com/feix760/yuan)|用户配置文件 vim|8|0|2021-10-28|
 |39|[hscspring/AIToolBox](https://github.com/hscspring/AIToolBox)|My AI Basic Tool Box|21|0|2021-12-28|
 |40|[Leptune/vim-for-coding](https://github.com/Leptune/vim-for-coding)|vim-for-coding|111|0|2021-09-25|
-|41|[kevinhwang91/vim-ibus-sw](https://github.com/kevinhwang91/vim-ibus-sw)|Switch ibus between vim insert and normal mode.|20|0|2021-11-22|
+|41|[kevinhwang91/vim-ibus-sw](https://github.com/kevinhwang91/vim-ibus-sw)|Switch ibus between vim insert and normal mode.|21|0|2021-11-22|
 |42|[leetking/dotfiles](https://github.com/leetking/dotfiles)|我的vim,bash等的配置文件|10|0|2021-12-28|
 |43|[qiqiboy/q-vim](https://github.com/qiqiboy/q-vim)|my vim config. 来自一个前端开发码农的vim配置方案|29|0|2021-12-10|
 |44|[chenzhiwo/vimrc](https://github.com/chenzhiwo/vimrc)|vimrc，可自动安装vundle插件管理器。|3|0|2021-08-16|
@@ -58,7 +58,7 @@
 |51|[xtfly/xvim](https://github.com/xtfly/xvim)|my personal vim setting|10|0|2021-09-21|
 |52|[ZSaberLv0/ZFVimIM_pinyin_base](https://github.com/ZSaberLv0/ZFVimIM_pinyin_base)|vim拼音输入法 / pinyin for ZFVimIM|4|0|2021-09-19|
 |53|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog-vimscript|46|0|2022-01-06|
-|54|[SidOfc/mkdx](https://github.com/SidOfc/mkdx)|A vim plugin that adds some nice extra's for working with markdown documents|368|0|2021-12-06|
+|54|[SidOfc/mkdx](https://github.com/SidOfc/mkdx)|A vim plugin that adds some nice extra's for working with markdown documents|369|0|2021-12-06|
 |55|[NsLib/vimconf](https://github.com/NsLib/vimconf)|我的vim配置|3|0|2021-08-03|
 |56|[Genki-S/dotfiles](https://github.com/Genki-S/dotfiles)|My lovely settings.|23|0|2021-11-06|
 |57|[hotoo/vimrc](https://github.com/hotoo/vimrc)|:v: 闲耘™ 的 Vim 配置。|82|0|2022-01-05|
@@ -86,7 +86,7 @@
 |79|[gamegrd/grdvim](https://github.com/gamegrd/grdvim)|一个很好用的vim配置|13|0|2021-07-27|
 |80|[CrazyHulk/Vim](https://github.com/CrazyHulk/Vim)|vim插件|2|0|2021-11-25|
 |81|[devilyouwei/NVimmer](https://github.com/devilyouwei/NVimmer)|Make Neovim awesome IDE, on Ubuntu Linux|125|0|2021-08-04|
-|82|[AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles)|该仓库用于备份我的dotfiles.|14|0|2022-01-05|
+|82|[AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles)|该仓库用于备份我的dotfiles.|16|0|2022-01-07|
 |83|[ruchee/vimrc](https://github.com/ruchee/vimrc)|Ruchee's Vim Config Files|399|0|2021-12-07|
 |84|[deton/eblook.vim](https://github.com/deton/eblook.vim)|Vim plugin to lookup EPWING dictionary using eblook command|21|0|2021-07-18|
 |85|[xiaodun/sf-mock](https://github.com/xiaodun/sf-mock)|前端mock接口解决方案|2|0|2021-11-15|
@@ -95,7 +95,7 @@
 |88|[lyokha/vim-xkbswitch](https://github.com/lyokha/vim-xkbswitch)|vim plugin for automatic keyboard layout switching in insert mode|363|0|2021-12-29|
 |89|[wlemuel/vim-tldr](https://github.com/wlemuel/vim-tldr)|tldr client for vim/neovim|46|0|2021-12-26|
 |90|[niming175/myVim](https://github.com/niming175/myVim)|我的vim配置|2|0|2021-08-15|
-|91|[guerbai/ohmyarch](https://github.com/guerbai/ohmyarch)|-|30|0|2021-10-15|
+|91|[guerbai/ohmyarch](https://github.com/guerbai/ohmyarch)|-|31|0|2021-10-15|
 |92|[toby0000/linux_config](https://github.com/toby0000/linux_config)|ubuntu上自动安装和配置相关开发工具|6|0|2021-12-20|
 |93|[sillybun/vim-repl](https://github.com/sillybun/vim-repl)|Best REPL environment for Vim|371|0|2021-08-10|
 |94|[MwumLi/mini-vim](https://github.com/MwumLi/mini-vim)|极简好用的 vim 配置|4|0|2021-08-24|

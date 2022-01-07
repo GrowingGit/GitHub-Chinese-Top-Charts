@@ -1,32 +1,32 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 资料类 > HTML
-<sub>数据更新: 2022-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection)|Real-Time Rendering 4th (RTR4) 参考文献合集典藏   Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference|2188|2021-10-31|2021-10-02|
-|2|[haixiangyan/one-day-one-npm-lib](https://github.com/haixiangyan/one-day-one-npm-lib)|🔥 🔥 这本小书会带你造 10 个非常实用的 npm 库 📦|1384|2021-09-09|2021-04-28|
-|3|[HZFE/awesome-interview](https://github.com/HZFE/awesome-interview)|剑指前端 Offer|1355|2021-11-20|2021-08-23|
-|4|[unclestrong/DeepLearning_LHY21_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes)|深度学习 李宏毅 2021 学习笔记|762|2021-10-30|2021-03-11|
-|5|[cckuailong/vulbase](https://github.com/cckuailong/vulbase)|各大漏洞文库合集|432|2021-10-05|2021-08-28|
-|6|[flutterchina/flutter_in_action_2nd](https://github.com/flutterchina/flutter_in_action_2nd)|《Flutter实战 第二版》- 书稿（未完成）|347|2021-12-24|2021-08-29|
+|1|[QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection)|Real-Time Rendering 4th (RTR4) 参考文献合集典藏   Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference|2198|2021-10-31|2021-10-02|
+|2|[haixiangyan/one-day-one-npm-lib](https://github.com/haixiangyan/one-day-one-npm-lib)|🔥 🔥 这本小书会带你造 10 个非常实用的 npm 库 📦|1385|2021-09-09|2021-04-28|
+|3|[HZFE/awesome-interview](https://github.com/HZFE/awesome-interview)|剑指前端 Offer|1358|2021-11-20|2021-08-23|
+|4|[unclestrong/DeepLearning_LHY21_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes)|深度学习 李宏毅 2021 学习笔记|768|2021-10-30|2021-03-11|
+|5|[cckuailong/vulbase](https://github.com/cckuailong/vulbase)|各大漏洞文库合集|433|2021-10-05|2021-08-28|
+|6|[flutterchina/flutter_in_action_2nd](https://github.com/flutterchina/flutter_in_action_2nd)|《Flutter实战 第二版》- 书稿（未完成）|348|2021-12-24|2021-08-29|
 |7|[koolshare/koolcenter](https://github.com/koolshare/koolcenter)|提供评测文章，固件教程，插件使用说明等。|157|2021-11-09|2021-09-23|
 |8|[NakanoMikuOrg/arch-guide](https://github.com/NakanoMikuOrg/arch-guide)|✨ archlinux 简明指南   本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容   提供在线文档 ✨|141|2022-01-02|2021-05-29|
-|9|[ghaiklor/type-challenges-solutions](https://github.com/ghaiklor/type-challenges-solutions)|Solutions for the collection of TypeScript type challenges with explanations|135|2022-01-05|2021-01-10|
-|10|[ttttmr/wechat2rss](https://github.com/ttttmr/wechat2rss)|微信公众号转RSS|125|2022-01-06|2021-09-25|
+|9|[ghaiklor/type-challenges-solutions](https://github.com/ghaiklor/type-challenges-solutions)|Solutions for the collection of TypeScript type challenges with explanations|137|2022-01-07|2021-01-10|
+|10|[ttttmr/wechat2rss](https://github.com/ttttmr/wechat2rss)|微信公众号转RSS|126|2022-01-07|2021-09-25|
 |11|[su37josephxia/bytedance-youth-training-camp](https://github.com/su37josephxia/bytedance-youth-training-camp)|字节青训营教程|120|2021-10-08|2021-09-18|
-|12|[sqlsec/Hackintosh](https://github.com/sqlsec/Hackintosh)|国光的黑苹果安装教程：手把手教你配置 OpenCore|105|2021-12-19|2021-09-15|
+|12|[sqlsec/Hackintosh](https://github.com/sqlsec/Hackintosh)|国光的黑苹果安装教程：手把手教你配置 OpenCore|106|2021-12-19|2021-09-15|
 |13|[MikeCreken/lanlanInterview](https://github.com/MikeCreken/lanlanInterview)|此仓库将包含各大银行的基本介绍，笔试面试特点，发现这个宝库就离上岸不远了，哼|78|2021-11-25|2021-11-13|
 |14|[jaywcjlove/regexp-example](https://github.com/jaywcjlove/regexp-example)|正则表达式实例搜集，通过实例来学习正则表达式。|74|2021-12-11|2021-11-15|
 |15|[beichensky/Blog](https://github.com/beichensky/Blog)|经常写博客的地方，会时常记录一些学习笔记、技术博客或者踩坑历程。|65|2021-08-24|2021-02-25|
-|16|[LBruyne/ZJU-SE-CourseMaterial](https://github.com/LBruyne/ZJU-SE-CourseMaterial)|本人在ZJU软件(文档)工程的一些学习资料分享|35|2021-08-03|2021-01-14|
+|16|[LBruyne/ZJU-SE-CourseMaterial](https://github.com/LBruyne/ZJU-SE-CourseMaterial)|本人在ZJU软件(文档)工程的一些学习资料分享|36|2021-08-03|2021-01-14|
 |17|[wangtunan/involution](https://github.com/wangtunan/involution)|前端面试内卷仓库|33|2022-01-03|2021-02-26|
 |18|[mobxjs/zh.mobx.js.org](https://github.com/mobxjs/zh.mobx.js.org)|Mobx中文文档|33|2022-01-06|2021-02-05|
 |19|[muzihuaner/E-Cert](https://github.com/muzihuaner/E-Cert)|电子证书生成器|32|2021-08-28|2021-08-27|
 |20|[lopezbec/COVID19_Tweets_Dataset](https://github.com/lopezbec/COVID19_Tweets_Dataset)|This dataset contains all the 2021 COVID-19 related data from the paper "An Augmented Multilingual Twitter Dataset for Studying the COVID-19 Infodemic" |32|2022-01-04|2021-07-15|
 |21|[tomoya92/dstmod-tutorial](https://github.com/tomoya92/dstmod-tutorial)|饥荒mod开发教程，慢慢完善中|31|2021-12-26|2021-07-22|
-|22|[kingcata/zhxx](https://github.com/kingcata/zhxx)|学习强国自动刷分，学习强国自动学习，学习强国自动答题，挑战答题题库。软件适用于Win7以上系统，绿色软件，解压后直接运行，无需安装配置python环境。⭐⭐⭐8分钟学完45分！⭐⭐⭐|26|2022-01-06|2021-10-26|
+|22|[kingcata/zhxx](https://github.com/kingcata/zhxx)|学习强国自动刷分，学习强国自动学习，学习强国自动答题，挑战答题题库。软件适用于Win7以上系统，绿色软件，解压后直接运行，无需安装配置python环境。⭐⭐⭐8分钟学完45分！⭐⭐⭐|27|2022-01-07|2021-10-26|
 |23|[SambacFeng/SWU-SE-HELPER](https://github.com/SambacFeng/SWU-SE-HELPER)|西南大学软件工程专业生存指南，提供专业所需学习的课程资料，学习攻略等|26|2021-12-30|2021-06-27|
 |24|[carlsummer/python_developer_tools](https://github.com/carlsummer/python_developer_tools)|论文复现，多机多卡|25|2021-12-14|2021-04-30|
 |25|[RenektonChr/gitbook](https://github.com/RenektonChr/gitbook)|renekton的gitbook|22|2021-11-17|2021-04-27|

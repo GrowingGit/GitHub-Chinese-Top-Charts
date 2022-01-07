@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Objective-C
-<sub>数据更新: 2022-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4679|6|2022-01-02|
-|2|[pujiaxin33/JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)|A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|5579|4|2021-10-25|
-|3|[skyming/iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)|关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit|4346|2|2021-08-09|
-|4|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2334|2|2021-12-16|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4681|6|2022-01-02|
+|2|[pujiaxin33/JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)|A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|5581|4|2021-10-25|
+|3|[skyming/iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)|关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit|4347|2|2021-08-09|
+|4|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2335|2|2021-12-16|
 |5|[LGCooci/KCiOSGrocery](https://github.com/LGCooci/KCiOSGrocery)|iOS开发杂货铺: 面试题+考试试卷+懒人开发tips|433|1|2021-10-10|
-|6|[SunshineBrother/JHBlog](https://github.com/SunshineBrother/JHBlog)|iOS开发：我的初级到中级的晋级之路|1190|1|2021-07-29|
+|6|[SunshineBrother/JHBlog](https://github.com/SunshineBrother/JHBlog)|iOS开发：我的初级到中级的晋级之路|1191|1|2021-07-29|
 |7|[wwmz/WMZPageController](https://github.com/wwmz/WMZPageController)|分页控制器,替换UIPageController方案,具备完整的生命周期,多种指示器样式,多种标题样式,可悬浮,支持ios13暗黑模式(仿优酷,爱奇艺,今日头条,简书,京东等多种标题菜单) (Pagination controller with full life cycle, multiple indicator styles, multiple title styles)|544|1|2021-12-30|
 |8|[HeathWang/HWPanModal](https://github.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|877|1|2021-11-30|
 |9|[wwmz/WMZDialog](https://github.com/wwmz/WMZDialog)|功能最多样式最多的弹窗，支持普通/底部/日期/地区/日历/选择/编辑/分享/菜单/自定义弹窗等,支持多种动画,链式编程调用(Pop-up windows with the most functions and styles, support normal/bottom/date/region/calendar/select/edit/share/menu/custom pop-up windows ...|840|1|2021-12-29|
@@ -41,10 +41,10 @@
 |34|[Xcoder1011/OC_StudyDemo](https://github.com/Xcoder1011/OC_StudyDemo)|记录个人学习Objective-C的一些demo ，基于AFNetworking3.x封装网络请求，实现GET、POST请求、多任务断点续传|2|0|2021-09-28|
 |35|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|439|0|2021-12-24|
 |36|[aolan/iOS_Develop](https://github.com/aolan/iOS_Develop)|该文档都是日常开发过程中解决问题的经验总结。|7|0|2021-11-30|
-|37|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1195|0|2022-01-06|
+|37|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1195|0|2022-01-07|
 |38|[Lin-Bing/SampleCode](https://github.com/Lin-Bing/SampleCode)|博客相关代码示例|7|0|2021-09-22|
 |39|[lingjye/iOS-Learning](https://github.com/lingjye/iOS-Learning)|iOS知识总结|62|0|2021-07-13|
-|40|[kopuCoder/iOS_Development-Book](https://github.com/kopuCoder/iOS_Development-Book)|适合iOS中高级开发工程狮提升个人能力业务水平的书籍|80|0|2021-11-01|
+|40|[kopuCoder/iOS_Development-Book](https://github.com/kopuCoder/iOS_Development-Book)|适合iOS中高级开发工程狮提升个人能力业务水平的书籍|81|0|2021-11-01|
 |41|[Dioq/ReverseOC](https://github.com/Dioq/ReverseOC)|iOS逆向学习的一些记录|4|0|2021-12-06|
 |42|[yangKJ/KJEmitterView](https://github.com/yangKJ/KJEmitterView)|开发加速库，LeetCode算法，Opencv图片算法，正则算法，粒子效果，数组字典高级用法，线程处理，多语言等 🚗   ..|29|0|2021-12-22|
 |43|[XLsn0w/XLsn0w](https://github.com/XLsn0w/XLsn0w)|🔥🔥🔥联系我:XLsn00w@gmail.com   微信公众号: Cydia   Cydia官方源: https://xlsn0w.github.io/tweaks/ 🔥🔥🔥|13|0|2021-07-23|
@@ -66,13 +66,13 @@
 |59|[smart1024/ios_demos](https://github.com/smart1024/ios_demos)|oc学习项目|4|0|2021-07-26|
 |60|[haxibiao/react-native-qq-lib](https://github.com/haxibiao/react-native-qq-lib)|🔥  React Native bridging library that integrates QQ SDKs. QQ 登陆 分享，集成 QQ SDK |15|0|2021-11-12|
 |61|[HMS-Core/hms-analytics-demo-ios](https://github.com/HMS-Core/hms-analytics-demo-ios)|HMS analytics kit demo provides an example of integrating HUAWEI Analytics Kit with an app. It illustrates how to collect predefined events and custom events on two pages, namely, question page or use ...|12|0|2021-09-13|
-|62|[xiaoeteam/XiaoeAppSDK-iOS](https://github.com/xiaoeteam/XiaoeAppSDK-iOS)|通过小鹅通APP内嵌SDK可以在 App 内快速集成小鹅通提供的整个交易服务，享受完善的基础知识商品能力、营销玩法，更有小鹅通强劲的技术及服务作保障，实现低成本、高效率、强融合的移动商城方案，快速获得 App 流量的商业化变现。|13|0|2021-10-26|
+|62|[xiaoeteam/XiaoeAppSDK-iOS](https://github.com/xiaoeteam/XiaoeAppSDK-iOS)|通过小鹅通APP内嵌SDK可以在 App 内快速集成小鹅通提供的整个交易服务，享受完善的基础知识商品能力、营销玩法，更有小鹅通强劲的技术及服务作保障，实现低成本、高效率、强融合的移动商城方案，快速获得 App 流量的商业化变现。|13|0|2022-01-07|
 |63|[wlpiaoyi/PYUtile](https://github.com/wlpiaoyi/PYUtile)|常用功能集合|3|0|2021-08-10|
 |64|[orilme/OCSummary](https://github.com/orilme/OCSummary)|OC知识和常用的一些小Demo|8|0|2021-07-17|
 |65|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|11|0|2022-01-05|
 |66|[HansenCCC/QMKKXProduct](https://github.com/HansenCCC/QMKKXProduct)|iOS技术分享（APP图标制作、苹果内购支付、仿微信朋友圈、仿微信图片查看器、防新浪@人、仿支付宝密码弹框、仿发圈、黑科技-无限刷简书知乎流量、标签、js交互+wk、加载网页、自适应cell高度、TableView嵌入播放器防卡顿、定制好看弹框、选择地址、选择时间、选择颜色、导航自定义控制、轮播图、二维码扫描、人脸追踪、自定义相机、身份证拍照、ios播放器、AVPlayer封装、下拉选项弹框、贪吃 ...|44|0|2022-01-06|
 |67|[poholo/LDSDKManager_IOS](https://github.com/poholo/LDSDKManager_IOS)|聚合QQ、微信、微博、支付宝、Telegram、钉钉第三方库，抽象封装分享、授权、支付功能，以便其他开发者能快速接入。(LD团队自16年不再更新)|5|0|2021-08-12|
-|68|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|10|0|2021-12-23|
+|68|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|10|0|2022-01-07|
 |69|[skyming/Study](https://github.com/skyming/Study)|学习日志记录、笔记|22|0|2021-12-01|
 |70|[GardenerYun/iOS--Note](https://github.com/GardenerYun/iOS--Note)|iOS研究笔记|9|0|2021-12-23|
 |71|[LYajun/LGNote](https://github.com/LYajun/LGNote)|笔记工具|2|0|2021-07-16|
