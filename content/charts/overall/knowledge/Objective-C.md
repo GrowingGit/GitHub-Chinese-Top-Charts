@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Objective-C
-<sub>数据更新: 2022-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[pujiaxin33/JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)|A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|5581|2021-10-25|
-|2|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4681|2022-01-02|
+|2|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4685|2022-01-02|
 |3|[skyming/iOS-Performance-Optimization](https://github.com/skyming/iOS-Performance-Optimization)|关于iOS 性能优化梳理、内存泄露、卡顿、网络、GPU、电量、 App 包体积瘦身、启动速度优化等、Instruments 高级技巧、常见的优化技能- Get — Edit|4347|2021-08-09|
-|4|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2335|2021-12-16|
+|4|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2336|2021-12-16|
 |5|[objccn/articles](https://github.com/objccn/articles)|Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本|2087|2021-11-02|
 |6|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1195|2022-01-07|
 |7|[SunshineBrother/JHBlog](https://github.com/SunshineBrother/JHBlog)|iOS开发：我的初级到中级的晋级之路|1191|2021-07-29|
@@ -68,17 +68,16 @@
 |61|[Meterwhite/KeyPathExtension](https://github.com/Meterwhite/KeyPathExtension)|An extension of KeyPath for KVC.You can use struct, predicate in KeyPath.在KVC中使用谓词和结构体|4|2021-11-09|
 |62|[zhangxistudy11/KnowledgeSummaryOfObjectC](https://github.com/zhangxistudy11/KnowledgeSummaryOfObjectC)|本项目集合了我写的很多Demo，以及封装的工具类，大部分Demo的实现思路、技巧、细节我都会对应一篇简书的文章：http://www.jianshu.com/u/c4d558e26604   |4|2021-12-26|
 |63|[Baffin-HSL/Flutter_UI](https://github.com/Baffin-HSL/Flutter_UI)|适合Flutter初学者学习的项目|3|2021-08-19|
-|64|[yuansirios/iOS-Learning-Collection](https://github.com/yuansirios/iOS-Learning-Collection)|关于iOS日常开发整理，希望能给正在学习的你提供点帮助，原创资料，有不对的地方或者有更好的实现方法，希望大家指正，不胜感激|3|2021-07-09|
-|65|[SmartPear/NavigationTest](https://github.com/SmartPear/NavigationTest)|工具类集合 侧滑菜单栏展示，扇形显示文字。 增加富文本 使用TideLayer大图切片显示 完美导航栏渐变效果|3|2021-12-23|
-|66|[1691665955/StudyDemo](https://github.com/1691665955/StudyDemo)|一些关于iOS的学习总结|3|2021-07-28|
-|67|[wlpiaoyi/PYUtile](https://github.com/wlpiaoyi/PYUtile)|常用功能集合|3|2021-08-10|
-|68|[BrooksWon/Blogs](https://github.com/BrooksWon/Blogs)|一些笔记|2|2021-12-08|
-|69|[LYajun/LGNote](https://github.com/LYajun/LGNote)|笔记工具|2|2021-07-16|
-|70|[xingtianyoulong/index-learning](https://github.com/xingtianyoulong/index-learning)|构建高速互联网发展中最快、最好、最全的索引学习体系|2|2021-07-22|
-|71|[duhongxing/iOS-Dev-OC](https://github.com/duhongxing/iOS-Dev-OC)|iOS开发基础知识回顾|2|2021-08-30|
-|72|[mc3747/2_ObjectiveCSummary](https://github.com/mc3747/2_ObjectiveCSummary)|ObjectiveC各种知识点汇总！|2|2021-11-03|
-|73|[YoungerLi/LYDemo](https://github.com/YoungerLi/LYDemo)|此项目总结了我工作过程中的常用的类及方法等等|2|2021-09-09|
-|74|[Xcoder1011/OC_StudyDemo](https://github.com/Xcoder1011/OC_StudyDemo)|记录个人学习Objective-C的一些demo ，基于AFNetworking3.x封装网络请求，实现GET、POST请求、多任务断点续传|2|2021-09-28|
+|64|[SmartPear/NavigationTest](https://github.com/SmartPear/NavigationTest)|工具类集合 侧滑菜单栏展示，扇形显示文字。 增加富文本 使用TideLayer大图切片显示 完美导航栏渐变效果|3|2021-12-23|
+|65|[1691665955/StudyDemo](https://github.com/1691665955/StudyDemo)|一些关于iOS的学习总结|3|2021-07-28|
+|66|[wlpiaoyi/PYUtile](https://github.com/wlpiaoyi/PYUtile)|常用功能集合|3|2021-08-10|
+|67|[BrooksWon/Blogs](https://github.com/BrooksWon/Blogs)|一些笔记|2|2021-12-08|
+|68|[LYajun/LGNote](https://github.com/LYajun/LGNote)|笔记工具|2|2021-07-16|
+|69|[xingtianyoulong/index-learning](https://github.com/xingtianyoulong/index-learning)|构建高速互联网发展中最快、最好、最全的索引学习体系|2|2021-07-22|
+|70|[duhongxing/iOS-Dev-OC](https://github.com/duhongxing/iOS-Dev-OC)|iOS开发基础知识回顾|2|2021-08-30|
+|71|[mc3747/2_ObjectiveCSummary](https://github.com/mc3747/2_ObjectiveCSummary)|ObjectiveC各种知识点汇总！|2|2021-11-03|
+|72|[YoungerLi/LYDemo](https://github.com/YoungerLi/LYDemo)|此项目总结了我工作过程中的常用的类及方法等等|2|2021-09-09|
+|73|[Xcoder1011/OC_StudyDemo](https://github.com/Xcoder1011/OC_StudyDemo)|记录个人学习Objective-C的一些demo ，基于AFNetworking3.x封装网络请求，实现GET、POST请求、多任务断点续传|2|2021-09-28|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
