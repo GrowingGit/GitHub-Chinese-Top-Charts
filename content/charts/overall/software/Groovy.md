@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Groovy
-<sub>数据更新: 2022-01-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3590|2021-09-15|
+|1|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3591|2021-09-15|
 |2|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2120|2021-11-16|
 |3|[luckybilly/AutoRegister](https://github.com/luckybilly/AutoRegister)|基于字节码插桩，在Android中实现跨module自动注册的gradle插件，可用于模块解耦。已应用于ARouter和CC|996|2022-01-05|
 |4|[gogradle/gogradle](https://github.com/gogradle/gogradle)|A Gradle Plugin Providing Full Support for Go|740|2021-10-11|
@@ -25,7 +25,7 @@
 |18|[ZakAnun/UploadApkPlugin](https://github.com/ZakAnun/UploadApkPlugin)|上传 apk 文件到指定测试平台的插件|13|2021-10-18|
 |19|[wzbos/chihiro](https://github.com/wzbos/chihiro)|🔥🔥 安卓组件化插件 🔥🔥 支持多工程联调、组件快速发布到Maven私服、企业微信机器人、钉钉机器人、自定义webhook|10|2022-01-07|
 |20|[dqzboy/DevOps](https://github.com/dqzboy/DevOps)|CICD流水线|9|2022-01-05|
-|21|[ihub-pub/plugins](https://github.com/ihub-pub/plugins)|IHub Plugins：一套Gradle插件集，封装了常用Gradle插件，并做了一些个性化缺省配置，极大的简化项目管理配置。|7|2022-01-05|
+|21|[ihub-pub/plugins](https://github.com/ihub-pub/plugins)|IHub Plugins：一套Gradle插件集，封装了常用Gradle插件，并做了一些个性化缺省配置，极大的简化项目管理配置。|7|2022-01-09|
 |22|[keepLove/android-jiagu-plugin](https://github.com/keepLove/android-jiagu-plugin)|360加固Gradle插件|6|2022-01-04|
 |23|[cn2oo8/autocode-template-example](https://github.com/cn2oo8/autocode-template-example)|代码模板示例|6|2021-09-06|
 |24|[dikeboy/DhMethodTime](https://github.com/dikeboy/DhMethodTime)|统计安卓所有方法执行耗时   ,用于开发 测试时分析性能,分析ANR,Calculate android method time,|5|2021-08-17|

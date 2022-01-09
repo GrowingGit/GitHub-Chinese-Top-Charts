@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > Swift
-<sub>数据更新: 2022-01-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -25,7 +25,7 @@
 |18|[ShenJieSuzhou/PurchaseX](https://github.com/ShenJieSuzhou/PurchaseX)|PurchaseX 是基于 Swift 语言开发，专门用于给您的应用或者游戏提供应用内购买（In-App_purchase）解决方案的轻量级 Framework；  PurchaseX 能让开发者轻松的为应用程序集成苹果的应用内购买，目前最低支持 iOS 8.0 版本；|24|2021-10-28|2021-07-20|
 |19|[Cantoboard/Cantoboard](https://github.com/Cantoboard/Cantoboard)|Cantoboard - Smart Cantonese Keyboard on iOS |24|2022-01-07|2021-03-19|
 |20|[JerryFans/JFPopup](https://github.com/JerryFans/JFPopup)|A Swift Popup Module help you popup your custom view easily|21|2021-10-22|2021-10-11|
-|21|[creepymonster/GlucoseDirectApp](https://github.com/creepymonster/GlucoseDirectApp)|App programmed in Swift/SwiftUI for using Libre 1/2 blood glucose sensors.|21|2022-01-08|2021-07-18|
+|21|[creepymonster/GlucoseDirectApp](https://github.com/creepymonster/GlucoseDirectApp)|App programmed in Swift/SwiftUI for using Libre 1/2 blood glucose sensors.|21|2022-01-09|2021-07-18|
 |22|[lihaoyun6/DimQQ](https://github.com/lihaoyun6/DimQQ)|一款可自定义强度的QQ for Mac亮度降低工具|18|2021-11-28|2021-11-23|
 |23|[treehollow/treehollow-v3-ios](https://github.com/treehollow/treehollow-v3-ios)|树洞 iOS / macOS 客户端，使用 SwiftUI 开发。|15|2021-12-11|2021-01-13|
 |24|[variant-database/vdb](https://github.com/variant-database/vdb)|A SARS-CoV-2 Mutation Pattern Query Tool|12|2021-12-10|2021-04-06|

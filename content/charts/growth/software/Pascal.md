@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2022-01-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -12,7 +12,7 @@
 |5|[royqh1979/Dev-CPP](https://github.com/royqh1979/Dev-CPP)|A lightweighted C/C++ IDE|300|0|2021-10-03|
 |6|[digao-dalpiaz/Dam](https://github.com/digao-dalpiaz/Dam)|Delphi and Lazarus Message Dialogs with Formatted Text|72|0|2021-09-19|
 |7|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|425|0|2022-01-07|
-|8|[59079096/HCView-Pascal](https://github.com/59079096/HCView-Pascal)|A control similar to Word or WPS(一个类似word或wps用于文字排版相关功能的控件)|65|0|2022-01-03|
+|8|[59079096/HCView-Pascal](https://github.com/59079096/HCView-Pascal)|A control similar to Word or WPS(一个类似word或wps用于文字排版相关功能的控件)|65|0|2022-01-09|
 |9|[Pzf874/TVChnlTest](https://github.com/Pzf874/TVChnlTest)|TV频道源检查软件(TVChnlTest.exe)这个小工具, 可以将你收集的直播源数据导入，并对其进行有效性检查，经整理后，可以导出为TXT格式或M3U8格式的文件。|3|0|2021-08-09|
 |10|[ying32/liblcl](https://github.com/ying32/liblcl)|A common cross-platform GUI library, the core uses Lazarus LCL.|60|0|2021-10-31|
 |11|[2o181o28/MyProg](https://github.com/2o181o28/MyProg)|蒟蒻的小学生水平程序|5|0|2021-10-17|
@@ -29,7 +29,7 @@
 |22|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|234|0|2022-01-07|
 |23|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|192|0|2021-12-06|
 |24|[ying32/res2go-ide-plugin](https://github.com/ying32/res2go-ide-plugin)|res2go Lazarus IDE plug-in|13|0|2021-11-13|
-|25|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|262|0|2022-01-07|
+|25|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|263|0|2022-01-07|
 |26|[59079096/emr](https://github.com/59079096/emr)|基于HCView开发的电子病历程序|37|0|2021-09-12|
 |27|[supersoho/Delphi-DirectUI](https://github.com/supersoho/Delphi-DirectUI)|Delphi DirectUI Controls|49|0|2021-08-23|
 |28|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|30|0|2021-12-14|
