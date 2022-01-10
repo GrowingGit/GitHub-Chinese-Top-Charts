@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[X-X-Y/SVM_CSP_EEG](https://github.com/X-X-Y/SVM_CSP_EEG)|基于一个公开数据集和一个BCI竞赛数据集，提供一个SVM-CSP运动想象二分类demo|3|0|2021-08-02|
-|2|[zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW)|Collaborative representation with background purification and saliency weight for hyperspectral anomaly detection|7|0|2021-09-15|
+|2|[zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW)|Collaborative representation with background purification and saliency weight for hyperspectral anomaly detection|7|0|2022-01-10|
 |3|[complone/NaSch](https://github.com/complone/NaSch)|三车道交通流元胞自动机matlab实现|19|0|2021-08-07|
 |4|[weisongwen/researchTools](https://github.com/weisongwen/researchTools)|useful blogs for research|77|0|2021-11-23|
 |5|[zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW-](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW-)|This is the code for the paper nemed  'Anomaly Detection for Hyperspectral Imagery Based on the Regularized Subspace Method and Collaborative Representation'|16|0|2021-09-28|
@@ -28,7 +28,7 @@
 |21|[GenericAltimetryTools/CalAlti](https://github.com/GenericAltimetryTools/CalAlti)|Calibration of Satellite Altimeter using the tide gauge data as well as auxiliary models|8|0|2021-08-11|
 |22|[HanpyBin/Numerical-Analysis-Experiment](https://github.com/HanpyBin/Numerical-Analysis-Experiment)|武汉理工大学数值分析实验-基于matlab|5|0|2021-08-15|
 |23|[ja754969/Ocean-Current-Observation-and-Analysis](https://github.com/ja754969/Ocean-Current-Observation-and-Analysis)|洋流觀測分析 class at NTOU. File Station link : |2|0|2021-08-30|
-|24|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|75|0|2022-01-07|
+|24|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|74|0|2022-01-07|
 |25|[cmtso/EKI_geophysics_2020](https://github.com/cmtso/EKI_geophysics_2020)|Example MATLAB scripts for running ensemble Kalman inversion for electrical resistivity tomography data to accompany paper.|7|0|2021-10-20|
 |26|[Dingqinliu/Encryption_Matlab](https://github.com/Dingqinliu/Encryption_Matlab)|与图像加密有关的一些代码|3|0|2021-07-16|
 |27|[zxb17zxb/SLIC](https://github.com/zxb17zxb/SLIC)|一个SLIC算法用于图像分割的matlab实现|3|0|2021-12-07|
@@ -54,7 +54,7 @@
 |47|[himynameisfuego/SiTraNo](https://github.com/himynameisfuego/SiTraNo)|A MATLAB app for tonal-transient-noise decomposition of audio signals.|10|0|2021-09-08|
 |48|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|3|0|2021-12-25|
 |49|[WoodyBuendia/HFSS-MATLAB-API](https://github.com/WoodyBuendia/HFSS-MATLAB-API)|HFSS-MATLAB-API is a library toolbox to control Ansoft HFSS from MATLAB using  the HFSS Scripting Interface. This tool provides a set of MATLAB functions to  create 3D objects in HFSS by generating th ...|44|0|2021-09-17|
-|50|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|375|0|2021-12-15|
+|50|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|376|0|2021-12-15|
 |51|[wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve](https://github.com/wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve)|使用贝塞尔曲线，通过合理选取控制点使轨迹在拼接点处曲率连续|5|0|2021-09-06|
 |52|[YuJie2020/MATLAB-HFSS-API](https://github.com/YuJie2020/MATLAB-HFSS-API)|HFSS-MATLAB-API 是通过 MATLAB 编写的一套可调用的 HFSS-MATLAB 应用程序编程接口，通过编写 MATLAB 代码来生成执行相关特定操作的 HFSS 程序所需的 VBS 脚本|6|0|2021-08-19|
 |53|[tyl-stu/Compressed-sensing-code](https://github.com/tyl-stu/Compressed-sensing-code)|自己搜集和改写的压缩感知相关程序代码|4|0|2021-07-26|

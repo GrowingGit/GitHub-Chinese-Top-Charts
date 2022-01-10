@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 资料类 > Vue
-<sub>数据更新: 2022-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[GeekQiaQia/vue3.0-template-admin](https://github.com/GeekQiaQia/vue3.0-template-admin)|本项目基于vue3+ElementPlus+Typescript+Vite搭建一套通用的后台管理模板；并基于常见业务场景，抽象出常见功能组件；包括动态菜单，菜单权限、登录、主题切换、国际化、个人中心、表单页、列表页、复制文本、二维码分享等等|423|2022-01-04|2021-04-25|
-|2|[ezshine/uniapp-unicloud-dnms](https://github.com/ezshine/uniapp-unicloud-dnms)|一个基于uniapp和unicloud开发的以书会友小程序|79|2022-01-03|2021-08-12|
-|3|[vuepress-aurora/vuepress-theme-aurora](https://github.com/vuepress-aurora/vuepress-theme-aurora)|🔥Aurora是一款基于Vuepress2的博客主题，将本地Markdown文件解析成静态html页面，作为博客文章。搭配说说，时间轴，文章分类，评论，友情链接，相册，音乐播放器等特色功能，给您不一样的使用体验。|74|2021-12-28|2021-09-04|
+|1|[GeekQiaQia/vue3.0-template-admin](https://github.com/GeekQiaQia/vue3.0-template-admin)|本项目基于vue3+ElementPlus+Typescript+Vite搭建一套通用的后台管理模板；并基于常见业务场景，抽象出常见功能组件；包括动态菜单，菜单权限、登录、主题切换、国际化、个人中心、表单页、列表页、复制文本、二维码分享等等|426|2022-01-10|2021-04-25|
+|2|[ezshine/uniapp-unicloud-dnms](https://github.com/ezshine/uniapp-unicloud-dnms)|一个基于uniapp和unicloud开发的以书会友小程序|80|2022-01-03|2021-08-12|
+|3|[vuepress-aurora/vuepress-theme-aurora](https://github.com/vuepress-aurora/vuepress-theme-aurora)|🔥Aurora是一款基于Vuepress2的博客主题，将本地Markdown文件解析成静态html页面，作为博客文章。搭配说说，时间轴，文章分类，评论，友情链接，相册，音乐播放器等特色功能，给您不一样的使用体验。|75|2021-12-28|2021-09-04|
 |4|[OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around)|自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。|65|2021-12-23|2021-05-19|
 |5|[Tit1e/kindle2Flomo](https://github.com/Tit1e/kindle2Flomo)|Kindle、Apple Books、微信读书书摘与笔记导入至 flomo|50|2021-12-19|2021-05-22|
 |6|[crudapi/crudapi-admin-web](https://github.com/crudapi/crudapi-admin-web)|crudapi增删改查接口零代码后台管理页面，框架采用Vue，控件库为Quasar， 形式为SPA单页面应用。 主要知识点：Vue基本知识，自定义组件，axios网络请求，Vuex状态管理，Router路由，本地存储LocalStorage、Session、Cookie，登录，本地调试，docker打包等。 主要功能：元数据管理，序列号管理，表关系设置，业务数据crud增删改查，数据导入导出等。|49|2022-01-05|2021-03-03|
-|7|[CoderWanp/vue-d3-graph](https://github.com/CoderWanp/vue-d3-graph)|vue+d3v6实现动态知识图谱可视化展示（包含2D和3D图谱展示）|43|2021-07-27|2021-04-07|
-|8|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|41|2022-01-09|2021-08-22|
+|7|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|43|2022-01-10|2021-08-22|
+|8|[CoderWanp/vue-d3-graph](https://github.com/CoderWanp/vue-d3-graph)|vue+d3v6实现动态知识图谱可视化展示（包含2D和3D图谱展示）|43|2021-07-27|2021-04-07|
 |9|[eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)|大千世界，何其茫茫。谨此笔记，记录过往。凭君阅览，小站洛荒。如能收益，莫大奢望|35|2022-01-07|2021-05-24|
 |10|[LIAOJIANS/ShanJ-blog](https://github.com/LIAOJIANS/ShanJ-blog)|一款用node+express+MongoDB Vue+elementUI 开发的开源博客|34|2021-10-26|2021-03-11|
 |11|[AsheOne18/VueDocs](https://github.com/AsheOne18/VueDocs)|Using VuePress ( Private note )|31|2022-01-09|2021-10-11|
 |12|[Sujb-sus/vue-node-mongodb-blog](https://github.com/Sujb-sus/vue-node-mongodb-blog)|vue + node + mongodb + webpack5 + koa2 从开发到上线搭建一款简约的个人博客系统（前后端分离）|30|2021-12-22|2021-08-31|
-|13|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|29|2022-01-09|2022-01-05|
+|13|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|29|2022-01-10|2022-01-05|
 |14|[toimc-team/front-end-notes](https://github.com/toimc-team/front-end-notes)|大前端课程电子书计划，前端知识总结 + 分享|26|2022-01-08|2021-04-16|
 |15|[Benbinbin/TagDown](https://github.com/Benbinbin/TagDown)|A bookmarks manager Chrome extension.|25|2021-10-24|2021-01-12|
 |16|[SSmJaE/XueXiTonsSign_Electron](https://github.com/SSmJaE/XueXiTonsSign_Electron)|基于Electron的超星学习通签到小工具，支持手动签到、签到队列自动签到|24|2021-11-02|2021-04-19|
@@ -29,8 +29,8 @@
 |22|[lvwzhen/hn](https://github.com/lvwzhen/hn)|河南暴雨救援手册|14|2021-07-23|2021-07-21|
 |23|[daodaolee/vuepress-plugin-awesome-musicplayer](https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer)|一款基于vuepress插件的音乐播放器，打破以往博客音乐播放方式，让用户有更佳的沉浸式体验！|13|2022-01-09|2021-12-23|
 |24|[rainforest2022/rainforest-blog-frontend](https://github.com/rainforest2022/rainforest-blog-frontend)|使用 Vue3 Vue-Router Vuex 和 Element Plus 编写的博客|13|2021-10-12|2021-03-30|
-|25|[OldsixShang/wechat-menu-editor](https://github.com/OldsixShang/wechat-menu-editor)|微信公众号自定义菜单编辑组建|11|2021-09-07|2021-08-30|
-|26|[Junvary/gin-quasar-admin](https://github.com/Junvary/gin-quasar-admin)|项目实现了消息管理、用户管理、角色管理、部门管理、数据权限、websocket、聊天室、字典管理、菜单管理等众多功能。可通过一套代码快速简单的配置出不同的个性化网站，并通过插件形式开发个性化逻辑。也是Quasar和Go的入门和学习佳品。|10|2022-01-06|2021-10-25|
+|25|[Junvary/gin-quasar-admin](https://github.com/Junvary/gin-quasar-admin)|项目实现了消息管理、用户管理、角色管理、部门管理、数据权限、websocket、聊天室、字典管理、菜单管理等众多功能。可通过一套代码快速简单的配置出不同的个性化网站，并通过插件形式开发个性化逻辑。也是Quasar和Go的入门和学习佳品。|11|2022-01-10|2021-10-25|
+|26|[OldsixShang/wechat-menu-editor](https://github.com/OldsixShang/wechat-menu-editor)|微信公众号自定义菜单编辑组建|11|2021-09-07|2021-08-30|
 |27|[mcwenzai/psychology-uniapp](https://github.com/mcwenzai/psychology-uniapp)|心理咨询uniapp，主要包括咨询、视频/音频图文课程、测评、预约咨询师、IM通讯等功能|10|2021-07-23|2021-07-23|
 |28|[sibaiabis/veet](https://github.com/sibaiabis/veet)|vue3+electron+element-plus+ts手把手搭建教程---源码|10|2021-12-26|2021-04-21|
 |29|[Sweet0954/supermall](https://github.com/Sweet0954/supermall)|学习coderwhy老师的vue课程,里面的vue移动端项目|9|2021-10-10|2021-09-25|

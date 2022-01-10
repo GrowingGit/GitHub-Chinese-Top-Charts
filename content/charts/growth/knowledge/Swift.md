@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Swift
-<sub>数据更新: 2022-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1189|21|2022-01-08|
-|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|658|16|2022-01-09|
-|3|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|13175|5|2021-08-05|
-|4|[Co2333/myyearwithgit](https://github.com/Co2333/myyearwithgit)|代码仓库年终总结报告。|171|4|2021-12-09|
-|5|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4018|4|2021-09-14|
-|6|[pujiaxin33/JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView)|A powerful and easy to use segmented view (segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|1927|2|2021-08-18|
+|1|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1194|20|2022-01-08|
+|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|670|16|2022-01-09|
+|3|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|13178|5|2021-08-05|
+|4|[Co2333/myyearwithgit](https://github.com/Co2333/myyearwithgit)|代码仓库年终总结报告。|172|4|2022-01-10|
+|5|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4021|4|2021-09-14|
+|6|[pujiaxin33/JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView)|A powerful and easy to use segmented view (segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|1927|2|2022-01-10|
 |7|[dengzemiao/DZMeBookRead](https://github.com/dengzemiao/DZMeBookRead)|支持项目使用！最完整小说阅读器Demo！仿iReader(掌阅)，QQ阅读 ... 常用阅读器阅读页面，支持 翻页效果(仿真,覆盖,平移,滚动,无效果)、字体切换、书签功能、阅读记录、亮度调整、背景颜色切换 ...|1042|1|2021-12-28|
 |8|[coyingcat/15DaysofAnimationsinSwift](https://github.com/coyingcat/15DaysofAnimationsinSwift)|Swift，学习动画，升级原版本 ， larrynatalicio/15DaysofAnimationsinSwift|9|0|2021-09-28|
 |9|[ZhongshanHuang/PoReader](https://github.com/ZhongshanHuang/PoReader)|本地小说阅读器，支持深色模式，Wifi传书，代码简洁有注释(local text reader, support dark modal, upload text by wifi)|31|0|2021-10-20|
@@ -35,7 +35,7 @@
 |28|[DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift)|This demo teaches you how to import and activate DJI SDK in your Xcode project using Swift.|6|0|2021-10-11|
 |29|[ZXKitCode/ZXKitLogger](https://github.com/ZXKitCode/ZXKitLogger)|The iOS side displays the output log log on the screen, and can generate log file sharing, which is convenient for debugging information when the real machine is not connected to xcode. iOS端将输出日志log悬浮 ...|20|0|2021-12-26|
 |30|[easyui/algorithm-pattern-swift](https://github.com/easyui/algorithm-pattern-swift)|算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~|26|0|2021-11-07|
-|31|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|761|0|2022-01-09|
+|31|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|761|0|2022-01-10|
 |32|[KyleBing/WubiBuddy](https://github.com/KyleBing/WubiBuddy)|《码表助手》鼠须管五笔用户词添加工具 (macOS) |15|0|2021-08-11|
 |33|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo-Swift](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo-Swift)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|16|0|2021-10-11|
 |34|[tianguanghui/PushWithP8](https://github.com/tianguanghui/PushWithP8)|用P8证书发送Push|3|0|2021-08-30|

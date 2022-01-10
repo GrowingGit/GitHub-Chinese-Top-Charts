@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 资料类 > Swift
-<sub>数据更新: 2022-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1189|2022-01-08|2021-11-13|
-|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|658|2022-01-09|2021-11-30|
-|3|[Co2333/myyearwithgit](https://github.com/Co2333/myyearwithgit)|代码仓库年终总结报告。|171|2021-12-09|2021-11-29|
+|1|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1194|2022-01-08|2021-11-13|
+|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|670|2022-01-09|2021-11-30|
+|3|[Co2333/myyearwithgit](https://github.com/Co2333/myyearwithgit)|代码仓库年终总结报告。|172|2022-01-10|2021-11-29|
 |4|[jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example)|SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。|48|2021-12-05|2021-03-15|
 |5|[MengLiMing/EasyKits](https://github.com/MengLiMing/EasyKits)|日常开发使用到的一些简单封装，目前包含：常用扩展，分类导航，类似简书的UIScrollView嵌套、复杂列表等|37|2022-01-05|2021-02-03|
 |6|[Tliens/SSPlan](https://github.com/Tliens/SSPlan)|《今日计划》源代码（open source for the app：今日计划）|32|2021-10-07|2021-10-07|

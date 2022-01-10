@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > PHP
-<sub>数据更新: 2022-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1298|10|2022-01-09|
-|2|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|sample code for several design patterns in PHP 8|20215|5|2022-01-07|
-|3|[hlmd/Postman-cn](https://github.com/hlmd/Postman-cn)|Postman汉化中文版|3196|5|2022-01-07|
+|1|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1312|10|2022-01-10|
+|2|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|sample code for several design patterns in PHP 8|20218|5|2022-01-09|
+|3|[hlmd/Postman-cn](https://github.com/hlmd/Postman-cn)|Postman汉化中文版|3202|5|2022-01-07|
 |4|[maccmspro/maccms10](https://github.com/maccmspro/maccms10)|苹果cms-v10,maccms-v10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序|597|3|2021-12-19|
-|5|[Qsnh/meedu](https://github.com/Qsnh/meedu)|知识付费、企业线上培训解决方案。|2748|2|2021-12-19|
+|5|[Qsnh/meedu](https://github.com/Qsnh/meedu)|知识付费、企业线上培训解决方案。|2747|2|2021-12-19|
 |6|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|2447|2|2021-11-13|
-|7|[summerblue/laravel-shop](https://github.com/summerblue/laravel-shop)|Laravel 电商实战教程的项目代码|2343|2|2021-10-05|
-|8|[bettershop/LaikeTui](https://github.com/bettershop/LaikeTui)|来客电商，微信小程序商城 + APP商城 + 公众号商城 + PC商城系统 + 支付宝小程序商城 + 抖音小程序商城 + 百度小程序电商系统（前后端代码全部开源） 注重界面美感与用户体验，打造独特电商系统生态圈|563|1|2022-01-06|
+|7|[summerblue/laravel-shop](https://github.com/summerblue/laravel-shop)|Laravel 电商实战教程的项目代码|2346|2|2021-10-05|
+|8|[bettershop/LaikeTui](https://github.com/bettershop/LaikeTui)|来客电商，微信小程序商城 + APP商城 + 公众号商城 + PC商城系统 + 支付宝小程序商城 + 抖音小程序商城 + 百度小程序电商系统（前后端代码全部开源） 注重界面美感与用户体验，打造独特电商系统生态圈|563|1|2022-01-10|
 |9|[leadshop/leadshop](https://github.com/leadshop/leadshop)|Leadshop是一款提供持续更新迭代服务的轻量级、高性能开源电商系统，前后端分离（uniapp +电商专用yii2.0），可视化DIY拖拽装修，旨在打造极致的用户体验！ 支持微信小程序，公众号等|139|1|2021-12-28|
-|10|[magicblack/maccms10](https://github.com/magicblack/maccms10)|苹果cms官网,苹果cmsv10,maccmsv10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序|1143|1|2022-01-06|
+|10|[magicblack/maccms10](https://github.com/magicblack/maccms10)|苹果cms官网,苹果cmsv10,maccmsv10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序|1145|1|2022-01-06|
 |11|[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)|A list of ICs and IPs for AI, Machine Learning and Deep Learning.|1216|1|2021-12-20|
 |12|[xianyunyh/PHP-Interview](https://github.com/xianyunyh/PHP-Interview)|This is the information I prepared for the PHP interview.The notes include PHP, MySql, Linux, etc.|1135|1|2021-12-12|
 |13|[owner888/phpspider](https://github.com/owner888/phpspider)|《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序|3416|1|2022-01-03|
@@ -47,12 +47,12 @@
 |40|[FlyingSky-CN/MDr](https://github.com/FlyingSky-CN/MDr)|Typecho Theme   MDr - 书写你的篇章|84|0|2021-08-20|
 |41|[Seevil/fantasy](https://github.com/Seevil/fantasy)|一款极简Typecho 博客主题|155|0|2021-11-22|
 |42|[Hanson/laravel-admin-wechat](https://github.com/Hanson/laravel-admin-wechat)|laravel admin 的微信扩展包，支持多公众号、多小程序、多微信支付，包含基础接口与后台|227|0|2021-08-29|
-|43|[422926799/note](https://github.com/422926799/note)|记录自己写的工具和学习笔记|293|0|2022-01-06|
+|43|[422926799/note](https://github.com/422926799/note)|记录自己写的工具和学习笔记|292|0|2022-01-06|
 |44|[leafmirror/hyperf-study](https://github.com/leafmirror/hyperf-study)|hyperf框架学习之路，会持续更新。敬请期待|43|0|2021-08-12|
 |45|[inbjo/CoreBlog](https://github.com/inbjo/CoreBlog)|一款优雅的博客系统|124|0|2021-09-10|
 |46|[PrintNow/ChaoxingSign](https://github.com/PrintNow/ChaoxingSign)|PHP版超星学习通自动签到（包括普通签到、手势签到、位置签到，不支持二维码签到），支持多用户，二次开发便捷！|40|0|2021-09-03|
 |47|[cxp1539/laravel-core-learn](https://github.com/cxp1539/laravel-core-learn)|laravel核心知识学习|174|0|2021-11-17|
-|48|[zblogcn/zblogphp](https://github.com/zblogcn/zblogphp)|Z-BlogPHP博客程序|601|0|2022-01-09|
+|48|[zblogcn/zblogphp](https://github.com/zblogcn/zblogphp)|Z-BlogPHP博客程序|602|0|2022-01-10|
 |49|[xianyunyh/studynotes](https://github.com/xianyunyh/studynotes)|学习和工作记录笔记的地方。整理包含遇到的问题，以及学习的笔记的记录，内容涵盖了PHP、Python、Go等编程语言，主要为自己作记录，方便自己以后查阅|52|0|2022-01-05|
 |50|[luvvien/laravel-blog](https://github.com/luvvien/laravel-blog)|基于Laravel5.8构建的轻量博客应用，支持Markdown，支持图片拖拽上传，界面简洁，SEO友好，支持百度链接自动和手动提交|90|0|2021-10-05|
 |51|[filhodanuvem/awesome-php-jobs](https://github.com/filhodanuvem/awesome-php-jobs)|🐘A curated list of companies using php |110|0|2021-10-21|
@@ -68,7 +68,7 @@
 |61|[changbin1997/MWordStar](https://github.com/changbin1997/MWordStar)|响应式双栏 Typecho 博客主题|110|0|2021-12-23|
 |62|[pmlic/PHP-ML-study](https://github.com/pmlic/PHP-ML-study)|This is a PHP-ML Chinese learning example|98|0|2021-08-20|
 |63|[surest-sky/shop_surest](https://github.com/surest-sky/shop_surest)|它基于Laravel 5.7 开发的一个小小的电商平台，可以用于新手学习参考|83|0|2021-12-27|
-|64|[anerg2046/sns_auth](https://github.com/anerg2046/sns_auth)|通用第三方登录SDK，支持微信，微信扫码，QQ，微博登录，支付宝登录，Facebook，Line，Twitter，Google|548|0|2021-11-15|
+|64|[anerg2046/sns_auth](https://github.com/anerg2046/sns_auth)|通用第三方登录SDK，支持微信，微信扫码，QQ，微博登录，支付宝登录，Facebook，Line，Twitter，Google|549|0|2021-11-15|
 |65|[poetries/mywiki](https://github.com/poetries/mywiki)|:books:收集整理日常发现的好资源、前端资源汇总。关注公众号「前端进阶之旅」，一起学习|643|0|2021-10-03|
 
 <div align="center">

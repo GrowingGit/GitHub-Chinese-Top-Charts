@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Swift
-<sub>数据更新: 2022-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|13175|2021-08-05|
-|2|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4018|2021-09-14|
-|3|[pujiaxin33/JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView)|A powerful and easy to use segmented view (segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|1927|2021-08-18|
-|4|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1189|2022-01-08|
+|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|13178|2021-08-05|
+|2|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4021|2021-09-14|
+|3|[pujiaxin33/JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView)|A powerful and easy to use segmented view (segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|1927|2022-01-10|
+|4|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1194|2022-01-08|
 |5|[dengzemiao/DZMeBookRead](https://github.com/dengzemiao/DZMeBookRead)|支持项目使用！最完整小说阅读器Demo！仿iReader(掌阅)，QQ阅读 ... 常用阅读器阅读页面，支持 翻页效果(仿真,覆盖,平移,滚动,无效果)、字体切换、书签功能、阅读记录、亮度调整、背景颜色切换 ...|1042|2021-12-28|
-|6|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|761|2022-01-09|
-|7|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|658|2022-01-09|
+|6|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|761|2022-01-10|
+|7|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|670|2022-01-09|
 |8|[merlos/iOS-Open-GPX-Tracker](https://github.com/merlos/iOS-Open-GPX-Tracker)|GPS Tracker app for iOS + WatchOS. Log your tracks without limits and share them; Open source GPX tracker app written in Swift|412|2021-08-30|
 |9|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|362|2021-10-14|
 |10|[Liaoworking/Advanced-Swift](https://github.com/Liaoworking/Advanced-Swift)|Notes of Advanced Swift. 《swift进阶》学习笔记 swift 5.3|312|2021-12-30|
@@ -19,7 +19,7 @@
 |12|[Light413/dctt](https://github.com/Light413/dctt)|xx头条【完整项目持续迭代中】(一款本地生活信息发布APP，分享新鲜事、找人找对象等生活服务)。已App Store上架，这里仅供学习交流|247|2021-09-22|
 |13|[Code-T/salon-resources](https://github.com/Code-T/salon-resources)|你可以在这里获取相关的资料。|221|2021-07-21|
 |14|[Noah37/zhuishushenqi](https://github.com/Noah37/zhuishushenqi)|追书神器Swift版客户端（非官方）。 不断更新中......|215|2022-01-06|
-|15|[Co2333/myyearwithgit](https://github.com/Co2333/myyearwithgit)|代码仓库年终总结报告。|171|2021-12-09|
+|15|[Co2333/myyearwithgit](https://github.com/Co2333/myyearwithgit)|代码仓库年终总结报告。|172|2022-01-10|
 |16|[gl-lei/algorithm](https://github.com/gl-lei/algorithm)|《数据结构与算法之美》学习笔记以及 Swift 代码实现 ，原始仓库 https://github.com/wangzheng0822/algo|116|2021-08-24|
 |17|[Sophia-fez/Standford-CS193p-2020Spring-SwiftUI](https://github.com/Sophia-fez/Standford-CS193p-2020Spring-SwiftUI)|Stanford University's course CS193p in the spring quarter of 2020 (Developing Applications for iOS using SwiftUI) |107|2021-08-02|
 |18|[jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example)|SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。|48|2021-12-05|

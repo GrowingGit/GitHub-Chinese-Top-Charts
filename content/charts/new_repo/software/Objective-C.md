@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新星榜 > 软件类 > Objective-C
-<sub>数据更新: 2022-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -11,19 +11,19 @@
 |4|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|105|2021-10-13|2021-02-08|
 |5|[HighwayLaw/HWThrottle](https://github.com/HighwayLaw/HWThrottle)|A lite Objective-C library for throttle and debounce, supporting leading and trailing. 节流/限流/防反跳/防重复点击/防重复调用|84|2021-11-18|2021-02-20|
 |6|[lionvoom/WeAppTongCeng](https://github.com/lionvoom/WeAppTongCeng)|小程序同层渲染|83|2021-10-29|2021-03-16|
-|7|[OpenIMSDK/Open-IM-SDK-iOS](https://github.com/OpenIMSDK/Open-IM-SDK-iOS)|OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，iOS版本IM SDK 可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。|78|2022-01-06|2021-05-26|
+|7|[OpenIMSDK/Open-IM-SDK-iOS](https://github.com/OpenIMSDK/Open-IM-SDK-iOS)|OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，iOS版本IM SDK 可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。|79|2022-01-06|2021-05-26|
 |8|[HansenCCC/KKQuickDraw](https://github.com/HansenCCC/KKQuickDraw)|iOS实现HTML H5秒开、拦截请求替换资源、优化HTML加载速度|47|2021-08-25|2021-05-17|
 |9|[FoneG/FGIAPService](https://github.com/FoneG/FGIAPService)|iap内购实现解决方案|47|2021-12-07|2021-05-14|
 |10|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|47|2022-01-06|2021-03-08|
 |11|[Tliens/KillBug](https://github.com/Tliens/KillBug)|通过runtime记录用户日志，获取复现步骤的工具。Collect user data, guess repeat steps, and detect bugs.|46|2021-11-15|2021-03-29|
 |12|[jiangzhengnan/NgGithubIos](https://github.com/jiangzhengnan/NgGithubIos)|🍎 基于iOS端，使用Objective-C编写的Github个人版本|45|2021-09-04|2021-07-04|
-|13|[LZRight123/KPAppMananger](https://github.com/LZRight123/KPAppMananger)|静默安装，卸载，打开APP，进程通信，后台保护|37|2021-08-16|2021-08-13|
-|14|[bayescom/EasyAds-iOS](https://github.com/bayescom/EasyAds-iOS)|🔥持续更新🔥EasyAds，全球热门的开源聚合SDK广告软件。帮助App开发者便捷接入国内多家主流广告 SDK包括：字节穿山甲、腾讯优量汇、百度百青藤、快手联盟。几行代码就可以快速实现开屏、Banner横幅、插屏、激励视频、原生信息流、全屏等广告形式。|36|2021-12-22|2021-11-22|
+|13|[bayescom/EasyAds-iOS](https://github.com/bayescom/EasyAds-iOS)|🔥持续更新🔥EasyAds，全球热门的开源聚合SDK广告软件。帮助App开发者便捷接入国内多家主流广告 SDK包括：字节穿山甲、腾讯优量汇、百度百青藤、快手联盟。几行代码就可以快速实现开屏、Banner横幅、插屏、激励视频、原生信息流、全屏等广告形式。|37|2021-12-22|2021-11-22|
+|14|[LZRight123/KPAppMananger](https://github.com/LZRight123/KPAppMananger)|静默安装，卸载，打开APP，进程通信，后台保护|37|2021-08-16|2021-08-13|
 |15|[Danonlylane/goodhouse](https://github.com/Danonlylane/goodhouse)|Flutter好客租房项目，模仿安居客APP页面编写的一款静态页面项目|31|2021-10-11|2021-07-25|
 |16|[YOrange834/YOECGChartView](https://github.com/YOrange834/YOECGChartView)|心电图(ECG)|22|2021-07-31|2021-06-03|
 |17|[OpenIMSDK/Open-IM-SDK-Uniapp](https://github.com/OpenIMSDK/Open-IM-SDK-Uniapp)|-|19|2021-12-17|2021-08-26|
-|18|[FlutterAds/flutter_gromore_ads](https://github.com/FlutterAds/flutter_gromore_ads)|🔥🔥🔥 Flutter 广告插件 -- GroMore、穿山甲、优量汇、百度、快手、AdMob、SigmobAd、UnityAds、Mintegral（支持开屏、插屏、激励视频、全屏视频、Banner）|17|2021-12-25|2021-11-26|
-|19|[coderFrankenstain/WJSimilarPhotos](https://github.com/coderFrankenstain/WJSimilarPhotos)|基于OpenCV快速筛选IOS相册中相似的图片|17|2021-08-26|2021-06-03|
+|18|[FlutterAds/flutter_gromore_ads](https://github.com/FlutterAds/flutter_gromore_ads)|🔥🔥🔥 Flutter 广告插件 -- GroMore、穿山甲、优量汇、百度、快手、AdMob、SigmobAd、UnityAds、Mintegral（支持开屏、插屏、激励视频、全屏视频、Banner）|18|2021-12-25|2021-11-26|
+|19|[coderFrankenstain/WJSimilarPhotos](https://github.com/coderFrankenstain/WJSimilarPhotos)|基于OpenCV快速筛选IOS相册中相似的图片|18|2021-08-26|2021-06-03|
 |20|[sonsongithub/museum2tch](https://github.com/sonsongithub/museum2tch)|2tch博物館|16|2021-09-18|2021-09-17|
 |21|[pianxian/alphaVideoPlayTool](https://github.com/pianxian/alphaVideoPlayTool)|透明视频播放工具类|13|2021-08-27|2021-03-06|
 |22|[yanshuimu/MangoFixUtil](https://github.com/yanshuimu/MangoFixUtil)|依赖MangoFix，封装补丁拉取、执行、设备激活、补丁激活完整流程，另外提供本地加密或未加密补丁执行、生成加密补丁等方法。|13|2021-12-24|2021-02-26|
@@ -48,14 +48,14 @@
 |41|[ebamboo/BBPlayerView](https://github.com/ebamboo/BBPlayerView)|一个高度封装的视频播放器视图，基于 AVPlayer、AVPlayerLayer、AVPlayerItem。 继承自 UIView，可以当做一般视图使用，适用于 Swift 和 Objective-C。|6|2021-12-23|2021-07-03|
 |42|[DNSPod/httpdns-sdk-ios](https://github.com/DNSPod/httpdns-sdk-ios)|iOS 平台 httpdns sdk 源码|6|2021-12-24|2021-04-09|
 |43|[snice/uniapp-flutter](https://github.com/snice/uniapp-flutter)|uniapp 与 Flutter 混合案例|6|2021-09-26|2021-03-14|
-|44|[smithgoo/ILive](https://github.com/smithgoo/ILive)|开源一个MAC APP项目 电视和直播 ILIVE 资源都是取自网上 本地爬取|6|2021-10-16|2021-01-15|
-|45|[kwai-ec/LottieExtensionDemo](https://github.com/kwai-ec/LottieExtensionDemo)|支持Native混合渲染和点击响应的DEMO工程|5|2021-12-23|2021-12-22|
-|46|[QiShare/QiDownloadAndUploadPic](https://github.com/QiShare/QiDownloadAndUploadPic)|iOS原生框架下异步多图片上传、下载工具。支持下载图片到自定义相册,支持后台操作，支持设置最大并发数，无第三方依赖。|5|2021-11-26|2021-11-24|
-|47|[zeqinjie/TWMultiUploadFileManager](https://github.com/zeqinjie/TWMultiUploadFileManager)|基于 AWS3 设计的分片上传管理封装类|5|2021-08-31|2021-08-25|
-|48|[theseustech/SotDemo](https://github.com/theseustech/SotDemo)|SOT iOS热更新方案的示例DEMO|5|2021-09-25|2021-08-07|
-|49|[mokong/DetectFakeLocation](https://github.com/mokong/DetectFakeLocation)|iOS检测虚拟位置，比如使用Xcode模拟位置、使用爱思助手模拟位置等|5|2021-09-06|2021-08-06|
-|50|[EatherToo/react-native-onepass-alibaba](https://github.com/EatherToo/react-native-onepass-alibaba)|阿里云平台的手机号一键登录|5|2021-07-30|2021-07-28|
-|51|[nongshifu/Bsphp](https://github.com/nongshifu/Bsphp)|OC对接BSphp验证系统|5|2021-08-12|2021-02-17|
+|44|[nongshifu/Bsphp](https://github.com/nongshifu/Bsphp)|OC对接BSphp验证系统|6|2021-08-12|2021-02-17|
+|45|[smithgoo/ILive](https://github.com/smithgoo/ILive)|开源一个MAC APP项目 电视和直播 ILIVE 资源都是取自网上 本地爬取|6|2021-10-16|2021-01-15|
+|46|[kwai-ec/LottieExtensionDemo](https://github.com/kwai-ec/LottieExtensionDemo)|支持Native混合渲染和点击响应的DEMO工程|5|2021-12-23|2021-12-22|
+|47|[QiShare/QiDownloadAndUploadPic](https://github.com/QiShare/QiDownloadAndUploadPic)|iOS原生框架下异步多图片上传、下载工具。支持下载图片到自定义相册,支持后台操作，支持设置最大并发数，无第三方依赖。|5|2021-11-26|2021-11-24|
+|48|[zeqinjie/TWMultiUploadFileManager](https://github.com/zeqinjie/TWMultiUploadFileManager)|基于 AWS3 设计的分片上传管理封装类|5|2021-08-31|2021-08-25|
+|49|[theseustech/SotDemo](https://github.com/theseustech/SotDemo)|SOT iOS热更新方案的示例DEMO|5|2021-09-25|2021-08-07|
+|50|[mokong/DetectFakeLocation](https://github.com/mokong/DetectFakeLocation)|iOS检测虚拟位置，比如使用Xcode模拟位置、使用爱思助手模拟位置等|5|2021-09-06|2021-08-06|
+|51|[EatherToo/react-native-onepass-alibaba](https://github.com/EatherToo/react-native-onepass-alibaba)|阿里云平台的手机号一键登录|5|2021-07-30|2021-07-28|
 |52|[fatboy-hard/react-native-gcy-datakit](https://github.com/fatboy-hard/react-native-gcy-datakit)|观测云RN集成|4|2021-12-09|2021-11-29|
 |53|[crifan/iOSAutomation](https://github.com/crifan/iOSAutomation)|iOS设备自动化操作的环境搭建和代码演示|4|2021-09-03|2021-09-03|
 |54|[CoderMSY/MSYTableView](https://github.com/CoderMSY/MSYTableView)|数据驱动型UITableView库，封装delegate/dataSource,开发者只需构造数据及自定义Cell|4|2021-12-03|2021-08-20|
