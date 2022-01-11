@@ -8,7 +8,7 @@
 |1|[MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac)|Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)|18861|19|2021-11-26|
 |2|[Tencent/vap](https://github.com/Tencent/vap)|VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台。|2770|6|2021-12-21|
 |3|[Instagram/IGListKit](https://github.com/Instagram/IGListKit)|A data-driven UICollectionView framework for building fast and flexible lists.|12219|6|2021-12-20|
-|4|[Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)|A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开|6593|4|2022-01-05|
+|4|[Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)|A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开|6595|4|2022-01-05|
 |5|[banchichen/TZImagePickerController](https://github.com/banchichen/TZImagePickerController)|一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。  A clone of UIImagePickerController, support picking multiple photos、original photo、video, also allow preview photo and video, support iOS6+|7760|4|2022-01-09|
 |6|[didi/DiDiPrism](https://github.com/didi/DiDiPrism)|小桔棱镜，一款专注移动端操作行为的利器！ A powerful tool (iOS & Android) that focuses on mobile operation behavior!|1550|4|2021-11-10|
 |7|[alibaba/coobjc](https://github.com/alibaba/coobjc)|coobjc provides coroutine support for Objective-C and Swift. We added await method、generator and actor model like C#、Javascript and Kotlin. For convenience, we added coroutine categories for some Foun ...|3924|4|2021-09-26|

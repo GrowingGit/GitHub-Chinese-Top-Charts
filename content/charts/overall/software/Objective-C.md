@@ -11,7 +11,7 @@
 |4|[banchichen/TZImagePickerController](https://github.com/banchichen/TZImagePickerController)|一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。  A clone of UIImagePickerController, support picking multiple photos、original photo、video, also allow preview photo and video, support iOS6+|7760|2022-01-09|
 |5|[renzifeng/ZFPlayer](https://github.com/renzifeng/ZFPlayer)|Support customization of any player SDK and control layer(支持定制任何播放器SDK和控制层)|6701|2021-11-04|
 |6|[ChenYilong/CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)|[EN]It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, and adding a bigger center UITabBar Item.  [CN]【中国特色 TabBar】一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自 ...|6607|2021-12-30|
-|7|[Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)|A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开|6593|2022-01-05|
+|7|[Sunnyyoung/WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)|A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开|6595|2022-01-05|
 |8|[Tencent/QMUI_iOS](https://github.com/Tencent/QMUI_iOS)|QMUI iOS——致力于提高项目 UI 开发效率的解决方案|6443|2021-12-31|
 |9|[gsdios/SDCycleScrollView](https://github.com/gsdios/SDCycleScrollView)|Autoscroll Banner.   无限循环图片、文字轮播器。|6094|2021-08-03|
 |10|[Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder)|Find memory leaks in your iOS app at develop time.|5188|2021-11-09|

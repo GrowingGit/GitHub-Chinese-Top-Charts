@@ -6,8 +6,8 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[myth984/wechat-report](https://github.com/myth984/wechat-report)|微信聊天记录年度报告|654|55|2022-01-05|
-|2|[PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)|:tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin|73461|42|2022-01-10|
-|3|[ElemeFE/element](https://github.com/ElemeFE/element)|A Vue.js 2.0 UI Toolkit for Web|51525|26|2022-01-10|
+|2|[PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)|:tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin|73466|42|2022-01-10|
+|3|[ElemeFE/element](https://github.com/ElemeFE/element)|A Vue.js 2.0 UI Toolkit for Web|51526|26|2022-01-10|
 |4|[element-plus/element-plus](https://github.com/element-plus/element-plus)|🎉 A Vue.js 3 UI Library made by Element team|13444|25|2022-01-10|
 |5|[bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm)|基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用|37409|20|2021-09-13|
 |6|[chuzhixin/vue-admin-better](https://github.com/chuzhixin/vue-admin-better)|🚀🚀🚀vue3 admin,vue3.0 admin,vue后台管理,vue-admin,vue3.0-admin,admin,vue-admin,vue-element-admin,ant-design，vue-admin-beautiful-pro,vab admin pro,vab admin plus主线版本基于element-plus、element-ui、ant-design-vue三 ...|11150|17|2022-01-09|
@@ -20,16 +20,16 @@
 |13|[Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo)|:rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder|15595|10|2022-01-10|
 |14|[airyland/vux](https://github.com/airyland/vux)|Mobile UI Components based on Vue & WeUI|17576|8|2021-09-17|
 |15|[JakHuang/form-generator](https://github.com/JakHuang/form-generator)|:sparkles:Element UI表单设计及代码生成器|5643|8|2021-11-20|
-|16|[lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system)|基于Vue3 + Element Plus 的后台管理系统解决方案|14283|8|2021-12-14|
+|16|[lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system)|基于Vue3 + Element Plus 的后台管理系统解决方案|14284|8|2021-12-14|
 |17|[jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin)|Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。|1508|8|2022-01-07|
 |18|[weilanwl/ColorUI](https://github.com/weilanwl/ColorUI)|鲜亮的高饱和色彩，专注视觉的小程序组件库|10996|8|2022-01-03|
 |19|[wangyuan389/mall-cook](https://github.com/wangyuan389/mall-cook)|低代码平台，H5商城可视化搭建平台|789|7|2022-01-10|
 |20|[chaitin/xray](https://github.com/chaitin/xray)|一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc   使用之前务必先阅读文档|6315|7|2022-01-02|
 |21|[newbee-ltd/newbee-mall-vue3-app](https://github.com/newbee-ltd/newbee-mall-vue3-app)|🔥 🎉Vue3 全家桶 + Vant 搭建大型单页面商城项目，新蜂商城 Vue3 版本，技术栈为 Vue 3.0 + Vue-Router 4.0 + Vuex 4.0 + Vant 3.0。|3092|7|2021-12-10|
 |22|[bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage)|基于 vue + element-ui 的后台管理系统|11401|7|2021-07-15|
-|23|[macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web)|mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。|9182|7|2021-12-23|
-|24|[vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro)|👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   |9042|7|2021-12-17|
-|25|[fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix)|讨论如何构建一套可靠的大型分布式系统|4733|6|2022-01-09|
+|23|[macrozheng/mall-admin-web](https://github.com/macrozheng/mall-admin-web)|mall-admin-web是一个电商后台管理系统的前端项目，基于Vue+Element实现。 主要包括商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等功能。|9183|7|2021-12-23|
+|24|[vueComponent/ant-design-vue-pro](https://github.com/vueComponent/ant-design-vue-pro)|👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!   |9043|7|2021-12-17|
+|25|[fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix)|讨论如何构建一套可靠的大型分布式系统|4736|6|2022-01-09|
 |26|[woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo)|一个低代码（可视化拖拽）教学项目|2053|5|2021-12-18|
 |27|[xxjwxc/caoguo](https://github.com/xxjwxc/caoguo)|golang,微信小程序,电商系统|411|5|2021-11-09|
 |28|[umicro/uView2.0](https://github.com/umicro/uView2.0)|uView UI，是全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水|265|5|2022-01-10|

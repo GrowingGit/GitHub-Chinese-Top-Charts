@@ -6,7 +6,7 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|29|5|2022-01-10|
-|2|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|2998|4|2022-01-06|
+|2|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|2999|4|2022-01-06|
 |3|[crmeb/CRMEB](https://github.com/crmeb/CRMEB)|🔥🔥🔥 CRMEB打通版v4免费开源商城系统，uni-app+thinkphp6框架商城，系统可商用；包含小程序商城、H5商城、公众号商城、PC商城，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、可视化设置，前后端分离，方便二开，更有详细使用文档、接口文档、数据字典、二开文档/视频教程，欢迎大家提出宝贵意见和建议|3466|3|2021-12-17|
 |4|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|1673|2|2022-01-10|
 |5|[biaochenxuying/blog-vue-typescript](https://github.com/biaochenxuying/blog-vue-typescript)|Vue3 + TypeScript + Vite2 + Vuex4 + Vue-Router4 + element-plus 支持 markdown 渲染的博客前台展示|1891|2|2021-08-29|

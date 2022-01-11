@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[lewagon/setup](https://github.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|11892|4|2022-01-07|
-|2|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|6010|3|2022-01-09|
+|1|[lewagon/setup](https://github.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|11918|4|2022-01-07|
+|2|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|6011|3|2022-01-09|
 |3|[r0eXpeR/fingerprint](https://github.com/r0eXpeR/fingerprint)|各种工具指纹收集分享|197|3|2021-11-03|
 |4|[guipdutra/awesome-geek-podcasts](https://github.com/guipdutra/awesome-geek-podcasts)|A curated list of podcasts we like to listen to. |1605|1|2021-07-15|
 |5|[airbnb/ruby](https://github.com/airbnb/ruby)|Ruby Style Guide|3372|1|2021-12-28|

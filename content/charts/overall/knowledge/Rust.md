@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|260398|2021-12-15|
-|2|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7470|2021-12-19|
+|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|260397|2021-12-15|
+|2|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7471|2021-12-19|
 |3|[rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust)|《使用Rust编写操作系统》|1345|2021-09-14|
 |4|[sunface/rust-course](https://github.com/sunface/rust-course)|<<Rust语言圣经(Book & Course)>>对Rust语言进行全面且深入的讲解，书中辅以生动的示例和习题，带你攻克从入门学习到实践应用的各种难关。 我们的目标是做全世界最好的开源Rust教程——学Rust就上course.rs。|1041|2022-01-10|
 |5|[anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap)|Roadmap to becoming a Rust Web Developer in 2021|1035|2021-08-16|

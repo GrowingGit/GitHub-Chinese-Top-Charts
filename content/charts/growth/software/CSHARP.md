@@ -6,16 +6,16 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub)|github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题|3873|18|2022-01-04|
-|2|[jynew/jynew](https://github.com/jynew/jynew)|金庸群侠传3D重制版|4037|17|2022-01-10|
-|3|[Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp)|适用于新系统UI的哔哩|3526|16|2021-12-30|
+|2|[jynew/jynew](https://github.com/jynew/jynew)|金庸群侠传3D重制版|4041|17|2022-01-10|
+|3|[Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp)|适用于新系统UI的哔哩|3528|16|2021-12-30|
 |4|[huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)|:trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）|12729|14|2021-12-28|
-|5|[BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)|🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。|4638|12|2022-01-07|
-|6|[leiurayer/downkyi](https://github.com/leiurayer/downkyi)|哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持4K，支持解除地区限制下载，提供工具箱（音视频提取、去水印等）。|3232|8|2022-01-05|
+|5|[BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)|🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。|4640|12|2022-01-07|
+|6|[leiurayer/downkyi](https://github.com/leiurayer/downkyi)|哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持4K，支持解除地区限制下载，提供工具箱（音视频提取、去水印等）。|3234|8|2022-01-05|
 |7|[BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)|🖱️ 纯粹的Windows右键菜单管理程序|3847|8|2022-01-10|
 |8|[Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer)|An Android Application Installer for Windows|666|8|2022-01-10|
 |9|[sdcb/PaddleSharp](https://github.com/sdcb/PaddleSharp)|.NET/C# binding for Baidu paddle inference library and PaddleOCR|186|7|2022-01-10|
-|10|[nilaoda/N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI)|[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.|6965|7|2021-12-13|
-|11|[felixse/FluentTerminal](https://github.com/felixse/FluentTerminal)|A Terminal Emulator based on UWP and web technologies.|8153|6|2021-12-19|
+|10|[nilaoda/N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI)|[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.|6966|7|2021-12-13|
+|11|[felixse/FluentTerminal](https://github.com/felixse/FluentTerminal)|A Terminal Emulator based on UWP and web technologies.|8154|6|2021-12-19|
 |12|[he55/DreamScene2](https://github.com/he55/DreamScene2)|一个小而快并且功能强大的 Windows 动态桌面软件|179|6|2022-01-10|
 |13|[JasonStein/Notepads](https://github.com/JasonStein/Notepads)|A modern, lightweight text editor with a minimalist design.|5677|6|2021-12-31|
 |14|[X-Lucifer/AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer)|AI无损放大工具|482|5|2021-10-03|
@@ -32,7 +32,7 @@
 |25|[mai1zhi2/SharpBeacon](https://github.com/mai1zhi2/SharpBeacon)|CobaltStrike Beacon written in .Net 4  用.net重写了stager及Beacon，其中包括正常上线、文件管理、进程管理、令牌管理、结合SysCall进行注入、原生端口转发、关ETW等一系列功能|457|3|2021-09-01|
 |26|[dotnetcore/WTM](https://github.com/dotnetcore/WTM)|Use WTM to write .netcore app fast !!!|3428|3|2022-01-09|
 |27|[dremin/RetroBar](https://github.com/dremin/RetroBar)|Classic Windows 95, 98, Me, 2000, XP taskbar for modern versions of Windows|636|2|2022-01-10|
-|28|[bchavez/Bogus](https://github.com/bchavez/Bogus)|:card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.|5149|2|2022-01-09|
+|28|[bchavez/Bogus](https://github.com/bchavez/Bogus)|:card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.|5153|2|2022-01-09|
 |29|[xianhc/apevolo-api](https://github.com/xianhc/apevolo-api)|.Net 6.0 、SqlSugar、Vue、RBAC、前后端分离的开箱即用的企业级中后台权限管理系统|85|2|2021-12-17|
 |30|[skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload)|Xbox下载助手，支持Xbox、微软商店、PSN、NS、EA Desktop & Origin、战网国际服、Epic 下载加速。|382|2|2022-01-09|
 |31|[mbdavid/LiteDB](https://github.com/mbdavid/LiteDB)|LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org|6173|2|2022-01-09|
@@ -50,17 +50,17 @@
 |43|[Tencent/InjectFix](https://github.com/Tencent/InjectFix)|InjectFix is a hot-fix solution library for Unity|1509|2|2021-12-10|
 |44|[Sanheiii/Mageki](https://github.com/Sanheiii/Mageki)|一个在移动设备上模拟的音击控制器|45|2|2022-01-03|
 |45|[Richasy/BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP)|BiliBili的UWP客户端，当然，是第三方的了|1382|2|2021-09-03|
-|46|[JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)|微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.|7130|2|2022-01-07|
+|46|[JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)|微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.|7131|2|2022-01-07|
 |47|[CopyPlusPlus/CopyPlusPlus](https://github.com/CopyPlusPlus/CopyPlusPlus)|让复制变得更加简单！|438|2|2022-01-08|
 |48|[7hr0wer/V4mp1r3](https://github.com/7hr0wer/V4mp1r3)|C#编写的远程控制软件。A remote tool(RAT) written in C#.|98|2|2021-12-20|
 |49|[liukuo362573/YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin)|基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观。演示版 http://106.14.124.170/admin|1612|2|2022-01-10|
-|50|[EllanJiang/GameFramework](https://github.com/EllanJiang/GameFramework)|This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the developmen ...|3370|2|2021-09-28|
-|51|[skoruba/IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin)|The administration for the IdentityServer4 and Asp.Net Core Identity|3019|2|2021-12-19|
+|50|[EllanJiang/GameFramework](https://github.com/EllanJiang/GameFramework)|This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the developmen ...|3371|2|2021-09-28|
+|51|[skoruba/IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin)|The administration for the IdentityServer4 and Asp.Net Core Identity|3020|2|2021-12-19|
 |52|[91270/Emby.MeiamSub](https://github.com/91270/Emby.MeiamSub)|Emby Server 端字幕插件 ，使用  迅雷影音、 射手网 接口精准匹配视频字幕|366|2|2021-12-23|
 |53|[Anonymous-ghost/AttackWebFrameworkTools](https://github.com/Anonymous-ghost/AttackWebFrameworkTools)|本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8  ...|786|2|2022-01-07|
 |54|[HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer)|第三方网易云音乐播放器   A Netease Cloud Music Player|503|2|2022-01-09|
 |55|[xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator)|Yet Another System Region and Language Simulator|6925|2|2021-08-25|
-|56|[Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper)|Unity il2cpp reverse engineer|3434|2|2022-01-08|
+|56|[Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper)|Unity il2cpp reverse engineer|3433|2|2022-01-08|
 |57|[Justin62628/Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE)|效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感|693|2|2021-12-21|
 |58|[huiyadanli/PasteEx](https://github.com/huiyadanli/PasteEx)|:clipboard: Paste As File 把剪贴板的内容直接粘贴为文件|893|1|2021-09-21|
 |59|[XIU2/TileTool](https://github.com/XIU2/TileTool)|🎨 Windows10 磁贴美化小工具|289|1|2021-12-02|
@@ -163,7 +163,7 @@
 |156|[zhontai/Admin.Core](https://github.com/zhontai/Admin.Core)|Admin后端，前后端分离的权限管理系统，集成统一认证授权、多租户、缓存、Ip限流、全Api鉴权。支持国内外主流数据库自由切换和动态高级查询，基于.Net跨平台开发的WebApi|510|1|2022-01-10|
 |157|[lgsvl/simulator](https://github.com/lgsvl/simulator)|A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles|1644|1|2021-12-20|
 |158|[dathlin/HslCommunication](https://github.com/dathlin/HslCommunication)|A very popular industrial Internet of Things communication plug-in. Using this dll can be very convenient, stable, and fast to obtain data from PLC equipment of multiple brands, and also supports redi ...|813|1|2022-01-01|
-|159|[Azure/azure-powershell](https://github.com/Azure/azure-powershell)|Microsoft Azure PowerShell|2895|1|2022-01-10|
+|159|[Azure/azure-powershell](https://github.com/Azure/azure-powershell)|Microsoft Azure PowerShell|2895|1|2022-01-11|
 |160|[dotnetcore/Natasha](https://github.com/dotnetcore/Natasha)|基于 Roslyn 的 C# 动态程序集构建库，该库允许开发者在运行时使用 C# 代码构建域 / 程序集 / 类 / 结构体 / 枚举 / 接口 / 方法等，使得程序在运行的时候可以增加新的模块及功能。Natasha 集成了域管理/插件管理，可以实现域隔离，域卸载，热拔插等功能。 该库遵循完整的编译流程，提供完整的错误提示， 可自动添加引用，完善的数据结构构建模板让开发者只专注于程序集脚本的编写， ...|896|1|2022-01-10|
 |161|[VsVim/VsVim](https://github.com/VsVim/VsVim)|Vim Emulator Plugin for Visual Studio 2015+ |3243|1|2021-12-06|
 |162|[u2sb/Danmu.Server](https://github.com/u2sb/Danmu.Server)|一个开源的弹幕后端|98|0|2021-10-27|

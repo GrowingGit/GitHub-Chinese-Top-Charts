@@ -6,14 +6,14 @@
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[huihut/interview](https://github.com/huihut/interview)|📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu ...|21846|2022-01-10|
-|2|[Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)|C++那些事|17792|2021-12-18|
+|2|[Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)|C++那些事|17793|2021-12-18|
 |3|[ChenYilong/iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)|iOS interview questions;iOS面试题集锦（附答案）--学习qq群或 Telegram 群交流 https://github.com/ChenYilong/iOSBlog/issues/21|8896|2021-12-06|
 |4|[wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)|中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)|5782|2021-12-28|
 |5|[xtaci/algorithms](https://github.com/xtaci/algorithms)|Algorithms & Data structures in C++.|4330|2021-10-11|
 |6|[forhappy/Cplusplus-Concurrency-In-Practice](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)|A Detailed Cplusplus Concurrency Tutorial 《C++ 并发编程指南》|3827|2021-07-25|
 |7|[applenob/Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)|搞定C++:punch:。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。|3403|2021-11-28|
 |8|[gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2)|edition 2 of the slambook|2444|2021-12-21|
-|9|[ffffffff0x/1earn](https://github.com/ffffffff0x/1earn)|ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup|2441|2022-01-03|
+|9|[ffffffff0x/1earn](https://github.com/ffffffff0x/1earn)|ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup|2442|2022-01-03|
 |10|[liuyubobobo/Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)|My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python. Multiple solutions will be given by most problems. Enjoy:) 我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言 ...|2225|2022-01-10|
 |11|[km1994/nlp_paper_study](https://github.com/km1994/nlp_paper_study)|研读顶会论文，复现论文相关代码|1976|2022-01-06|
 |12|[19PDP/Bilibili-plus](https://github.com/19PDP/Bilibili-plus)|课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB|1972|2021-11-30|

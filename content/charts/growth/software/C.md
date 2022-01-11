@@ -20,12 +20,12 @@
 |13|[Tencent/puerts](https://github.com/Tencent/puerts)|Write your game with TypeScript in UE4 or Unity. Puerts can be pronounced as pu-erh TS（普洱TS）|2264|4|2022-01-07|
 |14|[swaywm/sway](https://github.com/swaywm/sway)|i3-compatible Wayland compositor|9951|4|2022-01-10|
 |15|[wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu)|Deepin Wine for Ubuntu/Debian|5790|4|2021-11-16|
-|16|[go-vgo/robotgo](https://github.com/go-vgo/robotgo)|RobotGo, Go Native cross-platform GUI automation  @vcaesar|7145|4|2022-01-07|
+|16|[go-vgo/robotgo](https://github.com/go-vgo/robotgo)|RobotGo, Go Native cross-platform GUI automation  @vcaesar|7146|4|2022-01-07|
 |17|[peng-zhihui/OpenHeat](https://github.com/peng-zhihui/OpenHeat)|-|538|4|2021-12-16|
 |18|[flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud)|A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb|3045|4|2022-01-07|
 |19|[Tencent/xLua](https://github.com/Tencent/xLua)|xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.|7287|4|2022-01-07|
-|20|[espressif/esp-idf](https://github.com/espressif/esp-idf)|Espressif IoT Development Framework. Official development framework for Espressif SoCs.|7736|4|2022-01-10|
-|21|[skywind3000/kcp](https://github.com/skywind3000/kcp)|:zap: KCP - A Fast and Reliable ARQ Protocol|10551|4|2021-11-24|
+|20|[espressif/esp-idf](https://github.com/espressif/esp-idf)|Espressif IoT Development Framework. Official development framework for Espressif SoCs.|7738|4|2022-01-10|
+|21|[skywind3000/kcp](https://github.com/skywind3000/kcp)|:zap: KCP - A Fast and Reliable ARQ Protocol|10553|4|2021-11-24|
 |22|[happyfish100/fastdfs](https://github.com/happyfish100/fastdfs)|FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. We ...|7791|3|2021-12-31|
 |23|[hepingood/ws2812b](https://github.com/hepingood/ws2812b)|ws2812b full function driver|188|3|2022-01-09|
 |24|[atc1441/ATC_MiThermometer](https://github.com/atc1441/ATC_MiThermometer)|Custom firmware for the Xiaomi Thermometer LYWSD03MMC and Telink Flasher via USB to Serial converter|1580|3|2021-12-26|
@@ -53,7 +53,7 @@
 |46|[y123456yz/reading-code-of-nginx-1.9.2](https://github.com/y123456yz/reading-code-of-nginx-1.9.2)|nginx-1.9.2源码通读分析注释，带详尽函数中文分析注释以及相关函数流程调用注释，最全面的nginx源码阅读分析中文注释，更新完毕|3478|2|2021-07-26|
 |47|[edk2-porting/edk2-sdm845](https://github.com/edk2-porting/edk2-sdm845)|Broken edk2 port for sdm845 xD|1247|2|2022-01-09|
 |48|[ptitSeb/box64](https://github.com/ptitSeb/box64)|Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices|803|2|2022-01-09|
-|49|[openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module)|Embed the Power of Lua into NGINX HTTP servers|9736|2|2022-01-10|
+|49|[openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module)|Embed the Power of Lua into NGINX HTTP servers|9737|2|2022-01-10|
 |50|[mycve/bypassAV](https://github.com/mycve/bypassAV)|免杀 defender 360 cobalstrike shellcode|46|2|2021-12-23|
 |51|[kbengine/kbengine](https://github.com/kbengine/kbengine)|A MMOG engine of server.|4736|2|2022-01-06|
 |52|[sm64pc/sm64ex](https://github.com/sm64pc/sm64ex)|Fork of https://github.com/sm64-port/sm64-port with additional features.|1171|2|2021-12-05|

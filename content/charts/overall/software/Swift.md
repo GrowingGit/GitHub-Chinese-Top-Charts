@@ -5,14 +5,14 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[realm/SwiftLint](https://github.com/realm/SwiftLint)|A tool to enforce Swift style and conventions.|15588|2022-01-10|
+|1|[realm/SwiftLint](https://github.com/realm/SwiftLint)|A tool to enforce Swift style and conventions.|15589|2022-01-10|
 |2|[PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect)|Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)|13891|2021-07-24|
 |3|[Moya/Moya](https://github.com/Moya/Moya)|Network abstraction layer written in Swift.|13653|2022-01-09|
 |4|[xmartlabs/Eureka](https://github.com/xmartlabs/Eureka)|Elegant iOS form builder in Swift|11350|2021-12-19|
 |5|[IBAnimatable/IBAnimatable](https://github.com/IBAnimatable/IBAnimatable)|Design and prototype customized UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.|8593|2021-07-12|
 |6|[Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI)|Gathering all info published, both by Apple and by others, about new framework SwiftUI. |5969|2021-11-28|
 |7|[ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions)|Ask permissions with ready-use interface. You can check status permission and if it has been requested before. Support SwiftUI.|4745|2022-01-01|
-|8|[eggswift/ESTabBarController](https://github.com/eggswift/ESTabBarController)|:octocat: ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!|4649|2022-01-07|
+|8|[eggswift/ESTabBarController](https://github.com/eggswift/ESTabBarController)|:octocat: ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!|4650|2022-01-07|
 |9|[Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)|✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.|4145|2021-08-23|
 |10|[SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)|🇨🇳 老司机 iOS 周报|4012|2022-01-10|
 |11|[longitachi/ZLPhotoBrowser](https://github.com/longitachi/ZLPhotoBrowser)|Wechat-like image picker. Support select normal photos, videos, gif and livePhoto. Support edit image and crop video. 微信样式的图片选择器，支持预览/相册内拍照及录视频、拖拽/滑动选择，编辑图片/视频，支持多语言国际化等功能; |3980|2021-12-28|
@@ -20,7 +20,7 @@
 |13|[ArtSabintsev/Siren](https://github.com/ArtSabintsev/Siren)|Notify users when a new version of your app is available and prompt them to upgrade.|3895|2021-09-17|
 |14|[ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX)|🎶 Ultimate lyrics app for macOS.|3275|2021-12-19|
 |15|[kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)|TinyPNG client for Mac|3039|2021-12-02|
-|16|[onevcat/FengNiao](https://github.com/onevcat/FengNiao)|A command line tool for cleaning unused resources in Xcode.|2864|2021-10-03|
+|16|[onevcat/FengNiao](https://github.com/onevcat/FengNiao)|A command line tool for cleaning unused resources in Xcode.|2865|2021-10-03|
 |17|[lukakerr/Pine](https://github.com/lukakerr/Pine)|A modern, native macOS markdown editor|2858|2021-12-07|
 |18|[100mango/zen](https://github.com/100mango/zen)|iOS, macOS, Swift, Objective-C 心得|2849|2021-09-10|
 |19|[nixzhu/MonkeyKing](https://github.com/nixzhu/MonkeyKing)|MonkeyKing helps you to post messages to Chinese Social Networks.|2703|2021-09-08|

@@ -5,15 +5,15 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)|100-Days-Of-ML-Code中文版|16903|2021-08-11|
+|1|[MLEveryday/100-Days-Of-ML-Code](https://github.com/MLEveryday/100-Days-Of-ML-Code)|100-Days-Of-ML-Code中文版|16905|2021-08-11|
 |2|[wesm/pydata-book](https://github.com/wesm/pydata-book)|Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media|16188|2021-12-16|
 |3|[zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook)|pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行|15915|2021-10-25|
 |4|[ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)|本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。|14359|2021-10-14|
 |5|[fastai/fastbook](https://github.com/fastai/fastbook)|The fastai book, published as Jupyter Notebooks|14112|2022-01-07|
 |6|[selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)|One has no future if one couldn't teach themself.|13038|2022-01-07|
-|7|[leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction)|A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).|12250|2021-11-24|
+|7|[leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction)|A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).|12252|2021-11-24|
 |8|[dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)|深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.|12143|2021-08-30|
-|9|[NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP)|此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。|10973|2021-12-24|
+|9|[NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP)|此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。|10974|2021-12-24|
 |10|[yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook)|《Python Cookbook》 3rd Edition Translation|9743|2021-08-27|
 |11|[apachecn/Interview](https://github.com/apachecn/Interview)|Interview = 简历指南 + LeetCode + Kaggle|7226|2022-01-09|
 |12|[Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning)|深度学习入门教程, 优秀文章, Deep Learning Tutorial|6887|2021-12-27|

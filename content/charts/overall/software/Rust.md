@@ -5,11 +5,11 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)|ripgrep recursively searches directories for a regex pattern while respecting your gitignore|28882|2022-01-09|
+|1|[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)|ripgrep recursively searches directories for a regex pattern while respecting your gitignore|28883|2022-01-09|
 |2|[sharkdp/fd](https://github.com/sharkdp/fd)|A simple, fast and user-friendly alternative to 'find'|20150|2022-01-10|
 |3|[yewstack/yew](https://github.com/yewstack/yew)|Rust / Wasm framework for building client web apps|18551|2022-01-10|
-|4|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|Yet another remote desktop software|14363|2022-01-10|
-|5|[sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)|A command-line benchmarking tool|9942|2022-01-03|
+|4|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|Yet another remote desktop software|14365|2022-01-10|
+|5|[sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)|A command-line benchmarking tool|9943|2022-01-03|
 |6|[BurntSushi/xsv](https://github.com/BurntSushi/xsv)|A fast CSV command line toolkit written in Rust.|7879|2021-08-24|
 |7|[XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)|Count your code, quickly.|6037|2022-01-01|
 |8|[quickwit-inc/tantivy](https://github.com/quickwit-inc/tantivy)|Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust|5767|2022-01-07|

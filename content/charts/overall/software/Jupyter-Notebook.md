@@ -8,7 +8,7 @@
 |1|[ljpzzz/machinelearning](https://github.com/ljpzzz/machinelearning)|My blogs and code for machine learning. http://cnblogs.com/pinard|6063|2021-10-01|
 |2|[roboticcam/machine-learning-notes](https://github.com/roboticcam/machine-learning-notes)|My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接|5509|2022-01-10|
 |3|[cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans)|An adversarial example library for constructing attacks, building defenses, and benchmarking both|5379|2021-12-26|
-|4|[NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)|NeMo: a toolkit for conversational AI|3747|2022-01-10|
+|4|[NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)|NeMo: a toolkit for conversational AI|3748|2022-01-11|
 |5|[ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)|We are building an open database of COVID-19 cases with chest X-ray or CT images.|2765|2021-10-14|
 |6|[exacity/simplified-deeplearning](https://github.com/exacity/simplified-deeplearning)|Simplified implementations of deep learning related works|2390|2021-10-06|
 |7|[wangshub/RL-Stock](https://github.com/wangshub/RL-Stock)|📈 如何用深度强化学习自动炒股|2105|2021-09-08|

@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20392|2021-12-13|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11813|2022-01-07|
+|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20393|2021-12-13|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11814|2022-01-07|
 |3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8352|2022-01-10|
 |4|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5987|2021-12-20|
 |5|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4530|2022-01-09|

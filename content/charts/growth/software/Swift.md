@@ -7,7 +7,7 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI)|Gathering all info published, both by Apple and by others, about new framework SwiftUI. |5969|6|2021-11-28|
 |2|[PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect)|Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)|13891|6|2021-07-24|
-|3|[realm/SwiftLint](https://github.com/realm/SwiftLint)|A tool to enforce Swift style and conventions.|15588|6|2022-01-10|
+|3|[realm/SwiftLint](https://github.com/realm/SwiftLint)|A tool to enforce Swift style and conventions.|15589|6|2022-01-10|
 |4|[xmartlabs/Eureka](https://github.com/xmartlabs/Eureka)|Elegant iOS form builder in Swift|11350|5|2021-12-19|
 |5|[Moya/Moya](https://github.com/Moya/Moya)|Network abstraction layer written in Swift.|13653|5|2022-01-09|
 |6|[Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)|✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.|4145|4|2021-08-23|
@@ -17,7 +17,7 @@
 |10|[SwiftOldDriver/iOS-Weekly](https://github.com/SwiftOldDriver/iOS-Weekly)|🇨🇳 老司机 iOS 周报|4012|3|2022-01-10|
 |11|[Co2333/FishUpgrade](https://github.com/Co2333/FishUpgrade)|macOS 摸鱼模拟器|85|3|2021-12-19|
 |12|[ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX)|🎶 Ultimate lyrics app for macOS.|3275|2|2021-12-19|
-|13|[onevcat/FengNiao](https://github.com/onevcat/FengNiao)|A command line tool for cleaning unused resources in Xcode.|2864|2|2021-10-03|
+|13|[onevcat/FengNiao](https://github.com/onevcat/FengNiao)|A command line tool for cleaning unused resources in Xcode.|2865|2|2021-10-03|
 |14|[ArtSabintsev/Siren](https://github.com/ArtSabintsev/Siren)|Notify users when a new version of your app is available and prompt them to upgrade.|3895|2|2021-09-17|
 |15|[tatsuz0u/EhPanda](https://github.com/tatsuz0u/EhPanda)|An unofficial E-Hentai App for iOS built with SwiftUI.|887|2|2022-01-10|
 |16|[Danie1s/Tiercel](https://github.com/Danie1s/Tiercel)|简单易用、功能丰富的纯 Swift 下载框架|2254|2|2021-12-31|
@@ -26,7 +26,7 @@
 |19|[alibaba/HandyJSON](https://github.com/alibaba/HandyJSON)|A handy swift json-object serialization/deserialization library|3929|2|2021-12-17|
 |20|[WeTransfer/WeScan](https://github.com/WeTransfer/WeScan)|Document Scanning Made Easy for iOS|2441|2|2021-11-15|
 |21|[kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)|TinyPNG client for Mac|3039|2|2021-12-02|
-|22|[eggswift/ESTabBarController](https://github.com/eggswift/ESTabBarController)|:octocat: ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!|4649|2|2022-01-07|
+|22|[eggswift/ESTabBarController](https://github.com/eggswift/ESTabBarController)|:octocat: ESTabBarController is a Swift model for customize UI, badge and adding animation to tabbar items. Support lottie!|4650|2|2022-01-07|
 |23|[Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11)| 💻 Windows 11 in SwiftUI.|114|1|2021-10-13|
 |24|[xjbeta/iina-plus](https://github.com/xjbeta/iina-plus)|Extra danmaku support for iina. (iina 弹幕支持|672|1|2021-12-26|
 |25|[37iOS/Easy-Signer](https://github.com/37iOS/Easy-Signer)| iOS App 的 Mac 重签名工具|6|1|2022-01-05|

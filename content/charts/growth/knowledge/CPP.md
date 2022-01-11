@@ -6,7 +6,7 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[parallel101/course](https://github.com/parallel101/course)|高性能并行编程与优化 - 课件|853|27|2022-01-08|
-|2|[Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)|C++那些事|17792|20|2021-12-18|
+|2|[Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)|C++那些事|17793|20|2021-12-18|
 |3|[huihut/interview](https://github.com/huihut/interview)|📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu ...|21846|15|2022-01-10|
 |4|[0voice/introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual)|一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。|318|9|2021-12-15|
 |5|[0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)|2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等|1282|7|2021-10-21|
@@ -23,7 +23,7 @@
 |16|[km1994/nlp_paper_study](https://github.com/km1994/nlp_paper_study)|研读顶会论文，复现论文相关代码|1976|2|2022-01-06|
 |17|[gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2)|edition 2 of the slambook|2444|2|2021-12-21|
 |18|[applenob/Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)|搞定C++:punch:。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。|3403|2|2021-11-28|
-|19|[ffffffff0x/1earn](https://github.com/ffffffff0x/1earn)|ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup|2441|2|2022-01-03|
+|19|[ffffffff0x/1earn](https://github.com/ffffffff0x/1earn)|ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup|2442|2|2022-01-03|
 |20|[FISCO-BCOS/FISCO-BCOS](https://github.com/FISCO-BCOS/FISCO-BCOS)|FISCO BCOS是由微众牵头的金链盟主导研发、对外开源、安全可控的企业级金融区块链底层技术平台。 单链配置下，性能TPS可达万级。提供群组架构、并行计算、分布式存储、可插拔的共识机制、隐私保护算法、支持全链路国密算法等诸多特性。 经过多个机构、多个应用，长时间在生产环境中的实践检验，具备金融级的高性能、高可用性及高安全性。FISCO BCOS is a secure and reliable  ...|1559|1|2022-01-10|
 |21|[HarleysZhang/2021_algorithm_intern_information](https://github.com/HarleysZhang/2021_algorithm_intern_information)|2021年的算法实习岗位/校招公司信息表，和常见深度学习基础、计算机视觉知识笔记、算法岗面试题答案，及暑期计算机视觉实习面经和总结。|1233|1|2021-10-23|
 |22|[zufuliu/notepad2](https://github.com/zufuliu/notepad2)|Notepad2-zufuliu is a light-weight Scintilla-based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for about 80 programming languages/documents, bundled wi ...|972|1|2022-01-10|

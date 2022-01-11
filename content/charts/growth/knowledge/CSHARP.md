@@ -6,8 +6,8 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)|PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等|2129|118|2022-01-08|
-|2|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|2284|3|2021-11-20|
-|3|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|3575|3|2021-12-14|
+|2|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|2285|3|2021-11-20|
+|3|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|3576|3|2021-12-14|
 |4|[XINCGer/UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick)|提供一些UnityEditor工具链开发的常用小技巧与示例(Provides some common tips and examples for developing the UnityEditor toolchain)|590|2|2021-11-19|
 |5|[YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)|🦸【C#/.NET/.NET Core学习、工作、面试指南】概述：C#/.NET/.NET Core基础知识，学习资料、文章、书籍，社区组织，工具和常见的面试题总结。以及面试时需要注意的事项和优秀简历编写技巧，希望能和大家一起成长进步👊。【让现在的自己不再迷茫✨】|816|2|2021-12-07|
 |6|[WPFDevelopersOrg/WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)|WPF Developers Daily Share 🎉Ongoing update.|440|2|2022-01-09|

@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[lib-pku/libpku](https://github.com/lib-pku/libpku)|贵校课程资料民间整理|25341|2022-01-05|
+|1|[lib-pku/libpku](https://github.com/lib-pku/libpku)|贵校课程资料民间整理|25345|2022-01-05|
 |2|[liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY)|Book of Elementary Algorithms and Data structures|5020|2021-12-30|
 |3|[zhanwen/MathModel](https://github.com/zhanwen/MathModel)|研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT|3864|2021-12-10|
 |4|[horance-liu/tensorflow-internals](https://github.com/horance-liu/tensorflow-internals)|It is open source ebook about TensorFlow kernel and implementation mechanism.|2688|2021-11-13|

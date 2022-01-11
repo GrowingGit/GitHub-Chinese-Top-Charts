@@ -5,10 +5,10 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|22209|15|2022-01-08|
+|1|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|22226|15|2022-01-08|
 |2|[shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)|:see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞|27549|14|2021-08-10|
 |3|[Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin)|基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜|1682|7|2021-12-20|
-|4|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|6639|6|2022-01-10|
+|4|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|6639|6|2022-01-11|
 |5|[rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)|Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook|9504|5|2021-12-27|
 |6|[AlphabugX/csOnvps](https://github.com/AlphabugX/csOnvps)|CobaltStrike4.4 一键部署脚本 随机生成密码、key、端口号、证书等，解决cs4.x无法运行在Linux上报错问题 灰常银杏化设计|148|4|2021-12-31|
 |7|[kiddin9/OpenWrt_x86-r2s-r4s](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s)|Automatic unattended weekly builds of the current OpenWrt development master branch for X86_64, NanoPi-R2S, NanoPi-R4S, Rpi-4B|1649|3|2022-01-10|
@@ -18,7 +18,7 @@
 |11|[wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial)|Bash 教程|3363|2|2022-01-07|
 |12|[johnrosen1/vpstoolbox](https://github.com/johnrosen1/vpstoolbox)|厌倦了总是需要手动输入命令安装博客，网盘，邮箱，代理了吗？VPSToolBox提供了一种全自动化的解决方案，解放双手，从今天开始！|1273|2|2022-01-09|
 |13|[wind-liang/leetcode](https://github.com/wind-liang/leetcode)|leetcode 顺序刷题，详细通俗题解，with JAVA|2222|2|2021-09-02|
-|14|[jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow)|Curated list of resources about Apache Airflow|2768|2|2021-12-02|
+|14|[jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow)|Curated list of resources about Apache Airflow|2769|2|2021-12-02|
 |15|[wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial)|JavaScript 教程 https://wangdoc.com/javascript|3156|2|2021-10-29|
 |16|[duguying/parsing-techniques](https://github.com/duguying/parsing-techniques)|📕 parsing techniques 中文译本——《解析技术》|1252|1|2021-11-08|
 |17|[godbasin/vue-ebook](https://github.com/godbasin/vue-ebook)|《深入理解Vue.js实战》- 介绍Vue.js框架的出现、设计和使用，结合实战让读者更深入理解Vue.js框架，掌握使用方法。|794|1|2021-12-23|

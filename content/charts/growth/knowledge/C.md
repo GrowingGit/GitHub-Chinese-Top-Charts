@@ -5,11 +5,11 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|4037|61|2022-01-10|
+|1|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|4055|61|2022-01-10|
 |2|[0voice/ffmpeg_develop_doc](https://github.com/0voice/ffmpeg_develop_doc)|2022年，最新ffmpeg资料整理，项目（调试可用），命令手册，文章，编解码论文，视频讲解，面试题全套资料|129|18|2022-01-10|
 |3|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|5593|3|2022-01-08|
 |4|[Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub)|:palm_tree:Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (Windows提权漏洞合集) |1653|3|2022-01-04|
-|5|[nonstriater/Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)|算法学习笔记|6236|2|2021-12-23|
+|5|[nonstriater/Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)|算法学习笔记|6235|2|2021-12-23|
 |6|[xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid)|android端基于FFmpeg实现音频剪切、拼接、转码、混音、均衡器音效；视频剪切、水印、截图、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；FFmpeg滤镜，歌词解析，音视频学习路线，音视频知识总结、流媒体协议|2905|2|2022-01-10|
 |7|[firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One)|CTF竞赛权威指南|2831|2|2021-12-29|
 |8|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|168|1|2021-12-27|

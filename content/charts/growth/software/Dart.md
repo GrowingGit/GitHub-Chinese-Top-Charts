@@ -6,7 +6,7 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[LianjiaTech/bruno](https://github.com/LianjiaTech/bruno)|Bruno 是基于一整套设计体系的 Flutter 组件库。An enterprise-class package of Flutter components for mobile applications.|1019|29|2022-01-10|
-|2|[liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan)|阿里云盘小白羊版  阿里云盘PC版 aliyundriver|4734|18|2022-01-02|
+|2|[liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan)|阿里云盘小白羊版  阿里云盘PC版 aliyundriver|4735|18|2022-01-02|
 |3|[CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter)|Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便 ...|12960|10|2021-12-23|
 |4|[bytedance/flutter_ume](https://github.com/bytedance/flutter_ume)|UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance|1427|8|2021-12-10|
 |5|[flutterchina/dio](https://github.com/flutterchina/dio)|A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.|10331|8|2022-01-10|
@@ -17,7 +17,7 @@
 |10|[Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter)|一个支持免代理直连及查看动图的第三方Pixiv flutter客户端|2901|4|2022-01-09|
 |11|[LianjiaTech/keframe](https://github.com/LianjiaTech/keframe)|Components that optimize Flutter fluency.（Flutter 流畅度优化的通用方案，轻松解决卡顿问题）|541|3|2021-11-25|
 |12|[LaoMengFlutter/flutter-do](https://github.com/LaoMengFlutter/flutter-do)|包含350多个组件用法、组件继承关系图、40多个 loading 组件，App升级、验证码、弹幕、音乐字幕 4个插件，一个小而全完整的App项目。|1946|3|2021-12-06|
-|13|[rrousselGit/provider](https://github.com/rrousselGit/provider)|InheritedWidgets, but simple|4026|3|2022-01-10|
+|13|[rrousselGit/provider](https://github.com/rrousselGit/provider)|InheritedWidgets, but simple|4027|3|2022-01-10|
 |14|[niuhuan/pikapika](https://github.com/niuhuan/pikapika)|美观易用且无广告的二次元客户端，同时支持MacOS，Windows，Android，iOS，并上传了APK和IPA。|485|3|2022-01-08|
 |15|[xuelongqy/flutter_easyrefresh](https://github.com/xuelongqy/flutter_easyrefresh)|A flutter widget that provides pull-down refresh and pull-up load.|3004|3|2022-01-09|
 |16|[wuba/fair](https://github.com/wuba/fair)|A Flutter package used to update widget tree dynamically. Flutter Fair是为Flutter设计的，UI&模板动态化框架|1066|3|2022-01-04|

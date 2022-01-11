@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|26723|16|2022-01-03|
+|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|26724|16|2022-01-03|
 |2|[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool)|Android开发人员不得不收集的工具类集合   支付宝支付   微信支付（统一下单）   微信分享   Zip4j压缩（支持分卷压缩与加密）   一键集成UCrop选择圆形头像   一键集成二维码和条形码的扫描与生成   常用Dialog   WebView的封装可播放视频   仿斗鱼滑动验证码   Toast封装   震动   GPS   Location定位   图片缩放   Exif 图片 ...|11589|6|2021-12-27|
 |3|[miaowmiaow/fragmject](https://github.com/miaowmiaow/fragmject)|一个入门级的项目，通过对Kotlin和Jetpack全家桶的系统运用，实现的一个功能完备符合主流市场标准App。 代码简单，内容全面，知识详细，快速上手，对理解其他项目设计思想和封装技巧也很有帮助。|379|2|2022-01-02|
 |4|[compose-museum/hello-compose](https://github.com/compose-museum/hello-compose)|Jetpack Compose 基础教程，持续更新|514|2|2022-01-05|

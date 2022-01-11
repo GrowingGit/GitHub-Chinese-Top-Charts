@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|4037|2022-01-10|2021-11-06|
+|1|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|4055|2022-01-10|2021-11-06|
 |2|[hewei2001/HITSZ-OpenCS](https://github.com/hewei2001/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|456|2022-01-09|2021-03-05|
 |3|[kerwincui/wumei-smart](https://github.com/kerwincui/wumei-smart)|物美智能是一套开源的软硬件系统，可用于二次开发和学习，快速搭建自己的智能家居系统。硬件工程师可以把自己的设备集成到系统；软件工程师可以使用项目中的设备熟悉软硬件交互。|298|2022-01-09|2021-05-24|
 |4|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|168|2021-12-27|2021-03-22|

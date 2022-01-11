@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16377|2021-10-12|
+|1|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16379|2021-10-12|
 |2|[xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8475|2021-12-09|
 |3|[any86/any-rule](https://github.com/any86/any-rule)|🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台|5783|2022-01-10|
 |4|[zhongsp/TypeScript](https://github.com/zhongsp/TypeScript)|TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org|5458|2021-11-20|
@@ -15,7 +15,7 @@
 |8|[doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn)|🇨🇳 《JavaScript 二十年》中文版|3708|2021-11-25|
 |9|[Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|3621|2022-01-07|
 |10|[btroncone/learn-rxjs](https://github.com/btroncone/learn-rxjs)|Clear examples, explanations, and resources for RxJS|3478|2021-10-22|
-|11|[loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3250|2021-10-01|
+|11|[loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3251|2021-10-01|
 |12|[alibaba/pipcook](https://github.com/alibaba/pipcook)|Machine learning platform for Web developers|2199|2022-01-10|
 |13|[alibaba/kiwi](https://github.com/alibaba/kiwi)|🐤 Kiwi-国际化翻译全流程解决方案|1929|2021-12-17|
 |14|[phodal/ledge](https://github.com/phodal/ledge)|Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。|1777|2021-10-26|

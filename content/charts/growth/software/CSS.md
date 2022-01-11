@@ -7,16 +7,16 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[fingerchar/fingernft](https://github.com/fingerchar/fingernft)|FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。|829|16|2022-01-07|
 |2|[phith0n/conote-community](https://github.com/phith0n/conote-community)|Conote 综合安全测试平台社区版。|296|9|2021-12-09|
-|3|[you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|16628|8|2021-10-18|
+|3|[you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|16629|8|2021-10-18|
 |4|[chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration)|CSS Inspiration，在这里找到写 CSS 的灵感！|7578|6|2021-10-22|
 |5|[iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next)|Elegant theme for Hexo. |15738|6|2021-11-06|
 |6|[Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words)|程序员工作中常见的英语词汇|4739|5|2022-01-02|
 |7|[missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)|the CS missing semester Chinese version|3214|5|2021-11-10|
-|8|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|7328|5|2021-12-07|
+|8|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|7329|5|2021-12-07|
 |9|[admin360bug/PHP](https://github.com/admin360bug/PHP)|PHP训练靶场|580|4|2021-08-04|
 |10|[kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)|🕶️ Awesome stuff for Obsidian|2238|4|2022-01-09|
 |11|[cndiandian/zuanbot.com](https://github.com/cndiandian/zuanbot.com)|骂人宝典（祖安语录）|9|3|2022-01-08|
-|12|[LiangJunrong/document-library](https://github.com/LiangJunrong/document-library)|jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……|3305|3|2022-01-10|
+|12|[LiangJunrong/document-library](https://github.com/LiangJunrong/document-library)|jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……|3305|3|2022-01-11|
 |13|[v2fly/v2ray-examples](https://github.com/v2fly/v2ray-examples)|v2ray-core 的模板们|1185|2|2021-10-10|
 |14|[WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io)|❤️静态响应式网址导航网站 - webstack.cc|3116|2|2021-12-09|
 |15|[limbopro/Adblock4limbo](https://github.com/limbopro/Adblock4limbo)|毒奶去广告计划（稳定版）For Quantumult X ；如去奈菲影视/低端影视/片库网/Pornhub/Jable/Netflav/HPjav等视频网站广告或其他ACG网站网页广告；|796|2|2022-01-02|
@@ -24,7 +24,7 @@
 |17|[cool-team-official/cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue)|cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 2.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建|569|2|2021-12-18|
 |18|[abc-club/js-paradise](https://github.com/abc-club/js-paradise)|前端乐园|1775|2|2022-01-10|
 |19|[SiJiDo/H](https://github.com/SiJiDo/H)|H是一款强大的资产收集管理平台|250|2|2021-12-29|
-|20|[jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets)|Webpage tracking only using CSS (and no JS)|3270|2|2021-08-23|
+|20|[jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets)|Webpage tracking only using CSS (and no JS)|3269|2|2021-08-23|
 |21|[canxin0523/thesixsectorTeam](https://github.com/canxin0523/thesixsectorTeam)|-|951|1|2021-09-21|
 |22|[vanyouseea/o365](https://github.com/vanyouseea/o365)|O365管理系统是一个以java语言开发的基于Microsoft Graph Restful API的多全局管理系统，理论上支持任何Office全局的管理(A1,A3,A1P,E3,E5等)，你可以很方便的使用它来批量添加，批量删除，批量启用，批量禁用，搜索和查看用户，生成邀请码，邀请朋友注册，提升和收回管理员权限，更新密钥，查看订阅，分配订阅(创新用户时)，查看多全局报告|148|1|2021-12-11|
 |23|[ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control)|一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.|3519|1|2022-01-10|

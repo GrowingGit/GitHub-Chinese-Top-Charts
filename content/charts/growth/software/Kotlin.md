@@ -7,12 +7,12 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[bytedance/btrace](https://github.com/bytedance/btrace)|🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more nati ...|734|29|2021-12-31|
 |2|[coil-kt/coil](https://github.com/coil-kt/coil)|Image loading for Android backed by Kotlin Coroutines.|7593|9|2022-01-05|
-|3|[mamoe/mirai](https://github.com/mamoe/mirai)|高效率 QQ 机器人支持库|8281|9|2022-01-07|
-|4|[gedoor/legado](https://github.com/gedoor/legado)|阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|6024|6|2022-01-10|
+|3|[mamoe/mirai](https://github.com/mamoe/mirai)|高效率 QQ 机器人支持库|8281|9|2022-01-11|
+|4|[gedoor/legado](https://github.com/gedoor/legado)|阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|6024|6|2022-01-11|
 |5|[ByteLegend/ByteLegend](https://github.com/ByteLegend/ByteLegend)|Enjoy programming while playing a game.|1363|4|2022-01-10|
 |6|[didi/booster](https://github.com/didi/booster)|🚀Optimizer for mobile applications|3803|4|2021-12-21|
 |7|[allenymt/PrivacySentry](https://github.com/allenymt/PrivacySentry)|Android隐私合规检测，支持Runtime-hook和Asm修改字节码的检测方案|201|4|2022-01-10|
-|8|[yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming)|哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.|2718|4|2022-01-07|
+|8|[yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming)|哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.|2719|4|2022-01-07|
 |9|[guolindev/PermissionX](https://github.com/guolindev/PermissionX)|An open source Android library that makes handling runtime permissions extremely easy.|2245|3|2021-12-24|
 |10|[huannan/XArch](https://github.com/huannan/XArch)|🔥🔥🔥Android架构最佳实践 - 手把手带你搭建一个优秀的Android项目架构|414|3|2021-12-28|
 |11|[liujingxing/rxhttp](https://github.com/liujingxing/rxhttp)| 🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.|3185|3|2022-01-06|

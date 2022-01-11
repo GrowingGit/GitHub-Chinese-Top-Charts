@@ -6,7 +6,7 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[foxsen/archbase](https://github.com/foxsen/archbase)|教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本|1835|24|2021-12-31|
-|2|[lib-pku/libpku](https://github.com/lib-pku/libpku)|贵校课程资料民间整理|25341|22|2022-01-05|
+|2|[lib-pku/libpku](https://github.com/lib-pku/libpku)|贵校课程资料民间整理|25345|22|2022-01-05|
 |3|[NiuTrans/MTBook](https://github.com/NiuTrans/MTBook)|《机器翻译：基础与模型》肖桐 朱靖波 著 - Machine Translation: Foundations and Models|2317|4|2021-11-25|
 |4|[zhanwen/MathModel](https://github.com/zhanwen/MathModel)|研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT|3864|3|2021-12-10|
 |5|[horance-liu/tensorflow-internals](https://github.com/horance-liu/tensorflow-internals)|It is open source ebook about TensorFlow kernel and implementation mechanism.|2688|2|2021-11-13|

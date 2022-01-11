@@ -13,7 +13,7 @@
 |6|[MinerPr0xy/MinerProxy](https://github.com/MinerPr0xy/MinerProxy)|最稳定的ETH以太坊代理中转矿池程序，以修改作者抽水至千分之三，MinerProxy/矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理，包含自启动和进程守护，重启后可以自动运行，会放开防火墙和连接数限制，一键搞定。|146|8|2022-01-10|
 |7|[Misaka-blog/MisakaLinuxToolbox](https://github.com/Misaka-blog/MisakaLinuxToolbox)|御坂妹妹们的Linux VPS工具箱|140|8|2022-01-10|
 |8|[EtherDream/jsproxy](https://github.com/EtherDream/jsproxy)|An online proxy based on ServiceWorker|8560|8|2021-12-24|
-|9|[quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)|Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.|4032|6|2022-01-10|
+|9|[quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)|Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.|4036|6|2022-01-10|
 |10|[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)|A template for building OpenWrt with GitHub Actions   使用 GitHub Actions 云编译 OpenWrt|4836|6|2022-01-08|
 |11|[skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)|超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:|7990|6|2021-12-30|
 |12|[CharIesOrz/minerProxy](https://github.com/CharIesOrz/minerProxy)|以太坊矿池代理,可以自定义抽水地址和比例 ,go语言编写,性能极高,另一个MinerPr0xy/MinerProxy是盗版我的加料的,大家可以看github的commit记录就知道了，千万不要被骗。注意我说的是MinerPr0xy这个人的不是MinerProxy这个人的，老矿工那个是他自己开发的，MinerPr0xy这个人是个骗子|65|6|2021-12-31|
@@ -21,9 +21,9 @@
 |14|[SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)|Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)|3627|5|2022-01-08|
 |15|[wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey)|Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本 |7070|5|2022-01-03|
 |16|[FlechazoPh/QLDependency](https://github.com/FlechazoPh/QLDependency)|青龙全依赖一键安装脚本|266|5|2022-01-05|
-|17|[mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent)|（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装|4354|5|2022-01-04|
+|17|[mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent)|（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装|4355|5|2022-01-04|
 |18|[klever1988/nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt)|Openwrt for Nanopi R1S R2S R4S 香橙派 R1 Plus 固件编译 纯净版与大杂烩|3101|4|2022-01-10|
-|19|[xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi)|Enable macOS HiDPI and have a native setting.|6124|4|2021-08-06|
+|19|[xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi)|Enable macOS HiDPI and have a native setting.|6125|4|2021-08-06|
 |20|[tangjie1/-Baseline-check](https://github.com/tangjie1/-Baseline-check)|windows和linux基线检查，配套自动化检查脚本。纯手打。|144|3|2021-12-29|
 |21|[jinwyp/one_click_script](https://github.com/jinwyp/one_click_script)|一键安装 trojan v2ray xray. Install v2ray / xray (VLESS) and trojan (trojan-go) script|1597|3|2022-01-10|
 |22|[P3TERX/warp.sh](https://github.com/P3TERX/warp.sh)|Cloudflare WARP configuration script   Cloudflare WARP 一键配置脚本|743|3|2021-11-27|
@@ -41,7 +41,7 @@
 |34|[CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend)|🔎 互联网内推信息（社招、校招、实习）|2471|2|2021-10-09|
 |35|[oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts)|🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.|5891|2|2021-12-27|
 |36|[ffffffff0x/f8x](https://github.com/ffffffff0x/f8x)|红/蓝队环境自动化部署工具   Red/Blue team environment automation deployment tool|714|2|2022-01-09|
-|37|[mviereck/x11docker](https://github.com/mviereck/x11docker)|Run GUI applications and desktops in docker and podman containers. Focus on security.|3827|2|2022-01-08|
+|37|[mviereck/x11docker](https://github.com/mviereck/x11docker)|Run GUI applications and desktops in docker and podman containers. Focus on security.|3828|2|2022-01-08|
 |38|[yc9559/uperf](https://github.com/yc9559/uperf)|Userspace performance controller for android|1112|2|2021-11-11|
 |39|[P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf)|Aria2 配置文件   OneDrive & Google Drvive 离线下载   百度网盘转存|1930|2|2021-10-23|
 |40|[wulabing/V2Ray_ws-tls_bash_onekey](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey)|-|720|2|2022-01-02|

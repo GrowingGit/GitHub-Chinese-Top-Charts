@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20392|7|2021-12-13|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11813|6|2022-01-07|
+|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20393|7|2021-12-13|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11814|6|2022-01-07|
 |3|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3717|5|2022-01-09|
 |4|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4234|4|2021-07-29|
 |5|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5987|3|2021-12-20|
