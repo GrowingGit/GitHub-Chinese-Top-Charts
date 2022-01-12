@@ -1,26 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > TeX
-<sub>数据更新: 2022-01-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|4977|2021-12-15|
-|2|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3304|2021-12-04|
-|3|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2499|2021-10-29|
-|4|[THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2176|2021-11-20|
-|5|[OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs)|The Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security.|1285|2022-01-11|
+|1|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|4980|2021-12-15|
+|2|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3307|2021-12-04|
+|3|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2505|2021-10-29|
+|4|[THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2177|2021-11-20|
+|5|[OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs)|The Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security.|1285|2022-01-12|
 |6|[ethereum/yellowpaper](https://github.com/ethereum/yellowpaper)|The "Yellow Paper": Ethereum's formal specification|1222|2022-01-11|
-|7|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|1090|2022-01-09|
-|8|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|1024|2021-12-08|
-|9|[ustctug/ustcthesis](https://github.com/ustctug/ustcthesis)|LaTeX template for USTC thesis|910|2021-12-19|
+|7|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|1091|2022-01-09|
+|8|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|1029|2021-12-08|
+|9|[ustctug/ustcthesis](https://github.com/ustctug/ustcthesis)|LaTeX template for USTC thesis|910|2022-01-12|
 |10|[CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit)|Macro Packages and Scripts for Chinese TeX users|785|2022-01-07|
 |11|[zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style)|GB/T 7714-2015 BibTeX Style|622|2021-12-12|
 |12|[gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en)|The English version of 14 lectures on visual SLAM.|614|2021-11-16|
 |13|[ice1000/resume](https://github.com/ice1000/resume)|:space_invader: My resume / 我的简历|549|2021-12-30|
 |14|[stone-zeng/fduthesis](https://github.com/stone-zeng/fduthesis)|LaTeX thesis template for Fudan University|433|2022-01-08|
 |15|[hushidong/biblatex-gb7714-2015](https://github.com/hushidong/biblatex-gb7714-2015)|A biblatex implementation of the GB/T7714-2015 bibliography style     GB/T 7714-2015 参考文献著录和标注的biblatex样式包|424|2022-01-10|
-|16|[schoeberl/chisel-book](https://github.com/schoeberl/chisel-book)|Digital Design with Chisel|368|2022-01-11|
+|16|[schoeberl/chisel-book](https://github.com/schoeberl/chisel-book)|Digital Design with Chisel|368|2022-01-12|
 |17|[beijinglug/fsfs-zh](https://github.com/beijinglug/fsfs-zh)|Chinese translation for "Free Software, Free Society"(3rd)|352|2021-12-25|
 |18|[huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv)|Latex CV template built with Font Awesome.|341|2021-07-20|
 |19|[mohuangrui/ucasproposal](https://github.com/mohuangrui/ucasproposal)|LaTeX Proposal Template for the University of Chinese Academy of Sciences|341|2021-10-29|
@@ -42,8 +42,8 @@
 |35|[LogCreative/SJTUBeamermin](https://github.com/LogCreative/SJTUBeamermin)|上海交通大学 LaTeX Beamer 幻灯片模板 - VI 最小工作集|57|2021-11-05|
 |36|[MacroUniverse/PhysWiki-log](https://github.com/MacroUniverse/PhysWiki-log)|小时百科|51|2022-01-11|
 |37|[TomHeaven/nudtproposal](https://github.com/TomHeaven/nudtproposal)|NUDT硕士博士研究生开题报告latex模板|49|2021-09-01|
-|38|[seisman/cv](https://github.com/seisman/cv)|My academic CV powered by LaTeX|48|2022-01-01|
-|39|[SJTU-HPC/docs.hpc.sjtu.edu.cn](https://github.com/SJTU-HPC/docs.hpc.sjtu.edu.cn)|SJTU HPC 用户文档站点|47|2022-01-06|
+|38|[SJTU-HPC/docs.hpc.sjtu.edu.cn](https://github.com/SJTU-HPC/docs.hpc.sjtu.edu.cn)|SJTU HPC 用户文档站点|48|2022-01-06|
+|39|[seisman/cv](https://github.com/seisman/cv)|My academic CV powered by LaTeX|48|2022-01-12|
 |40|[CNYuYang/My-19-years-old](https://github.com/CNYuYang/My-19-years-old)|记录自己十九岁那年参加电子设计大赛的短文📚|41|2021-08-08|
 |41|[HFUTTUG/HFUT_Thesis](https://github.com/HFUTTUG/HFUT_Thesis)|LaTeX Thesis Template for Hefei University of Technology|40|2021-08-31|
 |42|[Mulliken/szaboqc](https://github.com/Mulliken/szaboqc)|-|40|2021-11-14|
@@ -65,10 +65,10 @@
 |58|[YangLaTeX/hitszbeamer](https://github.com/YangLaTeX/hitszbeamer)|A beamer theme for Harbin Institute of Technology, ShenZhen|15|2021-11-15|
 |59|[duskmoon314/THU_EXP](https://github.com/duskmoon314/THU_EXP)|THU实验课实验报告模板与数据处理工具整理|15|2022-01-06|
 |60|[latexstudio/APMCMThesis](https://github.com/latexstudio/APMCMThesis)|2021 年 APMCM亚太地区大学生数学建模|15|2021-11-24|
-|61|[Miracle0565/BUCTthesis](https://github.com/Miracle0565/BUCTthesis)|📝A LaTeX writting template for BUCT thesis.|13|2021-09-10|
-|62|[Yixf-Education/course_Linux](https://github.com/Yixf-Education/course_Linux)|天津医科大学，生物医学工程与技术学院，《Linux系统概论》课程资料|13|2021-12-15|
-|63|[perrogg/Differential-Geometry-Notes](https://github.com/perrogg/Differential-Geometry-Notes)|-|12|2021-09-09|
-|64|[RuixiZhang42/newxeCJK](https://github.com/RuixiZhang42/newxeCJK)|New implementation of xeCJK|12|2021-10-15|
+|61|[RuixiZhang42/newxeCJK](https://github.com/RuixiZhang42/newxeCJK)|New implementation of xeCJK|14|2021-10-15|
+|62|[Miracle0565/BUCTthesis](https://github.com/Miracle0565/BUCTthesis)|📝A LaTeX writting template for BUCT thesis.|13|2021-09-10|
+|63|[Yixf-Education/course_Linux](https://github.com/Yixf-Education/course_Linux)|天津医科大学，生物医学工程与技术学院，《Linux系统概论》课程资料|13|2021-12-15|
+|64|[perrogg/Differential-Geometry-Notes](https://github.com/perrogg/Differential-Geometry-Notes)|-|12|2021-09-09|
 |65|[NelsonCheung-cn/SYSU-beamer-template](https://github.com/NelsonCheung-cn/SYSU-beamer-template)|a beamer template for sysu|11|2021-12-19|
 |66|[Ianpundar/WHU-LaTex-Template](https://github.com/Ianpundar/WHU-LaTex-Template)|-|10|2021-12-13|
 |67|[freedomtan/coreml_to_ane_hwx](https://github.com/freedomtan/coreml_to_ane_hwx)|a quick and dirty little program to convert Apple CoreML model to ANE hwx file|10|2021-07-19|

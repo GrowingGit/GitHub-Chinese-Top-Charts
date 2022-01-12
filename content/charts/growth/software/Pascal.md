@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2022-01-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -21,7 +21,7 @@
 |14|[ymofen/diocp-v5](https://github.com/ymofen/diocp-v5)|delphi iocp, http, websocket, ntrip|204|0|2021-11-16|
 |15|[pmiscn/MuObjectPool](https://github.com/pmiscn/MuObjectPool)|我用的delphi的公共库|5|0|2021-11-22|
 |16|[axpokl/midiplayer3-for-BLACK-MIDI](https://github.com/axpokl/midiplayer3-for-BLACK-MIDI)|Free Pascal midiplayer3 for Black MIDI by ax_pokl|10|0|2021-12-31|
-|17|[dbyoung720/PBox](https://github.com/dbyoung720/PBox)|The modular development platform based on DLL Form|35|0|2022-01-11|
+|17|[dbyoung720/PBox](https://github.com/dbyoung720/PBox)|The modular development platform based on DLL Form|35|0|2022-01-12|
 |18|[PassByYou888/zGameWare](https://github.com/PassByYou888/zGameWare)|-|19|0|2021-09-22|
 |19|[PassByYou888/zSound](https://github.com/PassByYou888/zSound)|zSound Engine for All Platform(Android,IOS,OSX,Windows),supported delphi VCL/delphi FMX/fpc|26|0|2021-09-21|
 |20|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker for Windows|30|0|2021-12-14|
@@ -29,7 +29,7 @@
 |22|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|234|0|2022-01-07|
 |23|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|192|0|2021-12-06|
 |24|[ying32/res2go-ide-plugin](https://github.com/ying32/res2go-ide-plugin)|res2go Lazarus IDE plug-in|13|0|2021-11-13|
-|25|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|263|0|2022-01-07|
+|25|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|264|0|2022-01-12|
 |26|[59079096/emr](https://github.com/59079096/emr)|基于HCView开发的电子病历程序|37|0|2021-09-12|
 |27|[supersoho/Delphi-DirectUI](https://github.com/supersoho/Delphi-DirectUI)|Delphi DirectUI Controls|49|0|2021-08-23|
 |28|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|30|0|2021-12-14|

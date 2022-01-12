@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2022-01-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[xrtc-cc/xrtc](https://github.com/xrtc-cc/xrtc)|WebRTC 融合音视频解决方案：封装声网Agora、华为云hrtc、腾讯云trtc及网易云信rtc，支持动态切换和定制，iOS、Android、Web极简集成WebRTC。|324|2021-11-05|2021-08-19|
-|2|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|266|2021-09-25|2021-08-03|
-|3|[FoneG/FGPopupScheduler](https://github.com/FoneG/FGPopupScheduler)| ✨ ✨ ✨ ✨ iOS弹窗调用器，控制弹窗按照指定的策略进行显示。Helps you control popups easily.  ✨ ✨ ✨ ✨|235|2021-11-08|2021-06-23|
+|2|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|269|2022-01-12|2021-08-03|
+|3|[FoneG/FGPopupScheduler](https://github.com/FoneG/FGPopupScheduler)| ✨ ✨ ✨ ✨ iOS弹窗调用器，控制弹窗按照指定的策略进行显示。Helps you control popups easily.  ✨ ✨ ✨ ✨|240|2021-11-08|2021-06-23|
 |4|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|105|2021-10-13|2021-02-08|
 |5|[HighwayLaw/HWThrottle](https://github.com/HighwayLaw/HWThrottle)|A lite Objective-C library for throttle and debounce, supporting leading and trailing. 节流/限流/防反跳/防重复点击/防重复调用|84|2021-11-18|2021-02-20|
 |6|[lionvoom/WeAppTongCeng](https://github.com/lionvoom/WeAppTongCeng)|小程序同层渲染|83|2021-10-29|2021-03-16|
-|7|[OpenIMSDK/Open-IM-SDK-iOS](https://github.com/OpenIMSDK/Open-IM-SDK-iOS)|OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，iOS版本IM SDK 可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。|79|2022-01-06|2021-05-26|
-|8|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|48|2022-01-06|2021-03-08|
+|7|[OpenIMSDK/Open-IM-SDK-iOS](https://github.com/OpenIMSDK/Open-IM-SDK-iOS)|OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，iOS版本IM SDK 可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。|80|2022-01-06|2021-05-26|
+|8|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|49|2022-01-06|2021-03-08|
 |9|[HansenCCC/KKQuickDraw](https://github.com/HansenCCC/KKQuickDraw)|iOS实现HTML H5秒开、拦截请求替换资源、优化HTML加载速度|47|2021-08-25|2021-05-17|
 |10|[FoneG/FGIAPService](https://github.com/FoneG/FGIAPService)|iap内购实现解决方案|47|2021-12-07|2021-05-14|
 |11|[Tliens/KillBug](https://github.com/Tliens/KillBug)|通过runtime记录用户日志，获取复现步骤的工具。Collect user data, guess repeat steps, and detect bugs.|46|2021-11-15|2021-03-29|
@@ -42,15 +42,15 @@
 |35|[leon2017/cmbpb-flutter](https://github.com/leon2017/cmbpb-flutter)|Flutter 招商银行一网通支付|7|2021-10-15|2021-08-31|
 |36|[zxinsunshine/NinePatchKit](https://github.com/zxinsunshine/NinePatchKit)|A ninepatch image render framework for iOS and MacOS|7|2021-12-27|2021-08-26|
 |37|[ebamboo/BBPictureBrowser](https://github.com/ebamboo/BBPictureBrowser)|一个轻量级的图片浏览器，支持本地图片和网络图片的展示，适用于 Objective-C 和 Swift。|7|2022-01-07|2021-07-01|
-|38|[LianjiaTech/BKFlutterWebNativeBridge](https://github.com/LianjiaTech/BKFlutterWebNativeBridge)|Flutter Web和Flutter Mobile桥接。|6|2021-11-22|2021-11-22|
-|39|[rueen/react-native-ottpay](https://github.com/rueen/react-native-ottpay)|react-native ottpay跨境支付|6|2021-11-25|2021-10-26|
-|40|[nongshifu/SSURLProtocol](https://github.com/nongshifu/SSURLProtocol)|iOS 应用内全局拦截http https 代理转发 自定义规则 和平防封?懂?|6|2021-08-12|2021-08-12|
-|41|[ebamboo/BBPlayerView](https://github.com/ebamboo/BBPlayerView)|一个高度封装的视频播放器视图，基于 AVPlayer、AVPlayerLayer、AVPlayerItem。 继承自 UIView，可以当做一般视图使用，适用于 Swift 和 Objective-C。|6|2021-12-23|2021-07-03|
-|42|[DNSPod/httpdns-sdk-ios](https://github.com/DNSPod/httpdns-sdk-ios)|iOS 平台 httpdns sdk 源码|6|2021-12-24|2021-04-09|
-|43|[snice/uniapp-flutter](https://github.com/snice/uniapp-flutter)|uniapp 与 Flutter 混合案例|6|2021-09-26|2021-03-14|
-|44|[nongshifu/Bsphp](https://github.com/nongshifu/Bsphp)|OC对接BSphp验证系统|6|2021-08-12|2021-02-17|
-|45|[smithgoo/ILive](https://github.com/smithgoo/ILive)|开源一个MAC APP项目 电视和直播 ILIVE 资源都是取自网上 本地爬取|6|2021-10-16|2021-01-15|
-|46|[kwai-ec/LottieExtensionDemo](https://github.com/kwai-ec/LottieExtensionDemo)|支持Native混合渲染和点击响应的DEMO工程|5|2021-12-23|2021-12-22|
+|38|[kwai-ec/LottieExtensionDemo](https://github.com/kwai-ec/LottieExtensionDemo)|支持Native混合渲染和点击响应的DEMO工程|6|2021-12-23|2021-12-22|
+|39|[LianjiaTech/BKFlutterWebNativeBridge](https://github.com/LianjiaTech/BKFlutterWebNativeBridge)|Flutter Web和Flutter Mobile桥接。|6|2021-11-22|2021-11-22|
+|40|[rueen/react-native-ottpay](https://github.com/rueen/react-native-ottpay)|react-native ottpay跨境支付|6|2021-11-25|2021-10-26|
+|41|[nongshifu/SSURLProtocol](https://github.com/nongshifu/SSURLProtocol)|iOS 应用内全局拦截http https 代理转发 自定义规则 和平防封?懂?|6|2021-08-12|2021-08-12|
+|42|[ebamboo/BBPlayerView](https://github.com/ebamboo/BBPlayerView)|一个高度封装的视频播放器视图，基于 AVPlayer、AVPlayerLayer、AVPlayerItem。 继承自 UIView，可以当做一般视图使用，适用于 Swift 和 Objective-C。|6|2021-12-23|2021-07-03|
+|43|[DNSPod/httpdns-sdk-ios](https://github.com/DNSPod/httpdns-sdk-ios)|iOS 平台 httpdns sdk 源码|6|2021-12-24|2021-04-09|
+|44|[snice/uniapp-flutter](https://github.com/snice/uniapp-flutter)|uniapp 与 Flutter 混合案例|6|2021-09-26|2021-03-14|
+|45|[nongshifu/Bsphp](https://github.com/nongshifu/Bsphp)|OC对接BSphp验证系统|6|2021-08-12|2021-02-17|
+|46|[smithgoo/ILive](https://github.com/smithgoo/ILive)|开源一个MAC APP项目 电视和直播 ILIVE 资源都是取自网上 本地爬取|6|2021-10-16|2021-01-15|
 |47|[QiShare/QiDownloadAndUploadPic](https://github.com/QiShare/QiDownloadAndUploadPic)|iOS原生框架下异步多图片上传、下载工具。支持下载图片到自定义相册,支持后台操作，支持设置最大并发数，无第三方依赖。|5|2021-11-26|2021-11-24|
 |48|[zeqinjie/TWMultiUploadFileManager](https://github.com/zeqinjie/TWMultiUploadFileManager)|基于 AWS3 设计的分片上传管理封装类|5|2021-08-31|2021-08-25|
 |49|[theseustech/SotDemo](https://github.com/theseustech/SotDemo)|SOT iOS热更新方案的示例DEMO|5|2021-09-25|2021-08-07|
@@ -78,7 +78,7 @@
 |71|[QuintGao/GKPlaceholder](https://github.com/QuintGao/GKPlaceholder)|UIScrollView空数据占位图|3|2021-12-03|2021-08-30|
 |72|[frankKiwi/HotfixSolve](https://github.com/frankKiwi/HotfixSolve)|热更新方案|3|2021-08-20|2021-08-17|
 |73|[HeadmasterHong/MVVM-OC-IOS-demo](https://github.com/HeadmasterHong/MVVM-OC-IOS-demo)|基于MVVM模式的iOS/OC demo|3|2021-10-25|2021-08-09|
-|74|[tencentyun/TRTCUnitySDK](https://github.com/tencentyun/TRTCUnitySDK)|腾讯云实时音视频Unity SDK|3|2021-12-30|2021-07-14|
+|74|[tencentyun/TRTCUnitySDK](https://github.com/tencentyun/TRTCUnitySDK)|腾讯云实时音视频Unity SDK|3|2022-01-12|2021-07-14|
 |75|[she1s0ne/SIOWaveView](https://github.com/she1s0ne/SIOWaveView)|Obtain the audio spectrum/ 获取音频文件的频谱直方图|3|2021-07-27|2021-06-25|
 |76|[RunsCode/DBOCKit](https://github.com/RunsCode/DBOCKit)| 使用链式语法生成sql,像操作JSON一样简单，数据库的增删改查可被监听观察|3|2021-07-22|2021-04-26|
 |77|[Rico358097990/ssl-kill-switch2-Preferences](https://github.com/Rico358097990/ssl-kill-switch2-Preferences)|ssl-kill-switch2 Preferences优化|3|2021-10-11|2021-03-12|
