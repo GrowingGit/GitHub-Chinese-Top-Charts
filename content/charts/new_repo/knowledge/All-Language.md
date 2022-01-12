@@ -1,52 +1,52 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
-# 中文新星榜 > 资料类 > All Language
+# 中文新秀榜 > 资料类 > All Language
 <sub>数据更新: 2022-01-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Language|Updated|Created|
 |:-|:-|:-|:-|:-|:-|:-|
-|1|[itdevbooks/pdf](https://github.com/itdevbooks/pdf)|编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringC ...|12390|-|2021-12-30|2021-01-22|
-|2|[Tencent/secguide](https://github.com/Tencent/secguide)|面向开发人员梳理的代码安全指南|9868|-|2021-12-17|2021-05-18|
+|1|[itdevbooks/pdf](https://github.com/itdevbooks/pdf)|编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringC ...|12391|-|2021-12-30|2021-01-22|
+|2|[Tencent/secguide](https://github.com/Tencent/secguide)|面向开发人员梳理的代码安全指南|9884|-|2021-12-17|2021-05-18|
 |3|[chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base)|专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！|9635|Java|2021-11-07|2021-03-17|
-|4|[mli/paper-reading](https://github.com/mli/paper-reading)|深度学习经典、新论文逐段精读|6206|-|2022-01-10|2021-10-22|
-|5|[0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)|【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt|4237|-|2021-09-22|2021-08-09|
+|4|[mli/paper-reading](https://github.com/mli/paper-reading)|深度学习经典、新论文逐段精读|6208|-|2022-01-10|2021-10-22|
+|5|[0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)|【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt|4239|-|2021-09-22|2021-08-09|
 |6|[Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|3624|TypeScript|2022-01-07|2021-01-21|
 |7|[rd2coding/Road2Coding](https://github.com/rd2coding/Road2Coding)|编程之路|3518|-|2021-12-24|2021-04-07|
-|8|[xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch)|🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐|3374|Python|2021-12-19|2021-05-08|
+|8|[xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch)|🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐|3381|Python|2021-12-19|2021-05-08|
 |9|[SharingSource/LogicStack-LeetCode](https://github.com/SharingSource/LogicStack-LeetCode)|公众号「宫水三叶的刷题日记」刷穿 LeetCode 系列文章源码|2538|-|2022-01-11|2021-01-16|
 |10|[0voice/audio_video_streaming](https://github.com/0voice/audio_video_streaming)|音视频流媒体权威资料整理，500+份文章，论文，视频，实践项目，协议，业界大神名单。|2502|-|2021-12-22|2021-07-26|
-|11|[dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems)|《Patterns of Distributed Systems》中文版|2479|-|2021-12-08|2021-03-09|
-|12|[fuzhengwei/small-spring](https://github.com/fuzhengwei/small-spring)|🌱《 Spring 手撸专栏》，本专栏以 Spring 源码学习为目的，通过手写简化版 Spring 框架，了解 Spring 核心原理。在手写的过程中会简化 Spring 源码，摘取整体框架中的核心逻辑，简化代码实现过程，保留核心功能，例如：IOC、AOP、Bean生命周期、上下文、作用域、资源处理等内容实现。|2446|Java|2021-12-15|2021-05-15|
+|11|[dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems)|《Patterns of Distributed Systems》中文版|2482|-|2021-12-08|2021-03-09|
+|12|[fuzhengwei/small-spring](https://github.com/fuzhengwei/small-spring)|🌱《 Spring 手撸专栏》，本专栏以 Spring 源码学习为目的，通过手写简化版 Spring 框架，了解 Spring 核心原理。在手写的过程中会简化 Spring 源码，摘取整体框架中的核心逻辑，简化代码实现过程，保留核心功能，例如：IOC、AOP、Bean生命周期、上下文、作用域、资源处理等内容实现。|2447|Java|2021-12-15|2021-05-15|
 |13|[kwai/DouZero](https://github.com/kwai/DouZero)|[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning   斗地主AI|2323|Python|2021-12-22|2021-06-02|
-|14|[PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)|计算机自学指南|2298|-|2022-01-04|2021-10-20|
-|15|[wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)|PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等|2278|C#|2022-01-11|2021-12-24|
-|16|[QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection)|Real-Time Rendering 4th (RTR4) 参考文献合集典藏   Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference|2211|HTML|2021-10-31|2021-10-02|
+|14|[wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)|PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等|2309|C#|2022-01-11|2021-12-24|
+|15|[PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)|计算机自学指南|2298|-|2022-01-04|2021-10-20|
+|16|[QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection)|Real-Time Rendering 4th (RTR4) 参考文献合集典藏   Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference|2212|HTML|2021-10-31|2021-10-02|
 |17|[forthespada/InterviewGuide](https://github.com/forthespada/InterviewGuide)|「InterviewGuide」一个收录优质计算机校招、社招面试常见面试题的仓库🔥🔥，以前叫做《逆袭进大厂》。目前已收录 C/C++ 、操作系统、数据结构、计算机网络、MySQL、Redis等面试资料,未来打算继续收录Java、Python、Go等面试常见问题，坚持将此仓库维护下去。|2178|-|2021-12-22|2021-02-25|
 |18|[eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)|绝妙的个人生产力（Awesome Productivity 中文版）|2044|-|2021-09-23|2021-08-18|
-|19|[TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi)|强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天|2007|Python|2021-12-21|2021-07-04|
-|20|[19PDP/Bilibili-plus](https://github.com/19PDP/Bilibili-plus)|课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB|1977|C++|2021-11-30|2021-02-17|
+|19|[TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi)|强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天|2009|Python|2021-12-21|2021-07-04|
+|20|[19PDP/Bilibili-plus](https://github.com/19PDP/Bilibili-plus)|课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB|1978|C++|2022-01-11|2021-02-17|
 |21|[0voice/campus_recruitmen_questions](https://github.com/0voice/campus_recruitmen_questions)|2021年最新整理，5000道秋招/提前批/春招/常用面试题（含答案），包括leetcode，校招笔试题，面试题，算法题，语法题。|1870|-|2021-08-25|2021-06-28|
 |22|[foxsen/archbase](https://github.com/foxsen/archbase)|教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本|1836|TeX|2021-12-31|2021-10-27|
 |23|[0voice/learning_mind_map](https://github.com/0voice/learning_mind_map)|2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等|1801|-|2021-12-02|2021-11-22|
-|24|[princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE)|EMNLP'2021: SimCSE: Simple Contrastive Learning of Sentence Embeddings|1627|Python|2021-11-26|2021-04-16|
+|24|[princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE)|EMNLP'2021: SimCSE: Simple Contrastive Learning of Sentence Embeddings|1628|Python|2021-11-26|2021-04-16|
 |25|[conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses)|名校公开课程评价网|1524|Python|2021-12-18|2021-06-19|
 |26|[CodingDocs/awesome-cs](https://github.com/CodingDocs/awesome-cs)|计算机优质书籍搜罗+学习路线推荐！|1513|-|2021-11-30|2021-03-28|
 |27|[Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)|将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.|1506|SCSS|2021-12-11|2021-05-24|
 |28|[Fafa-DL/Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021春季机器学习课程课件及作业|1466|Jupyter Notebook|2021-12-20|2021-02-28|
 |29|[haixiangyan/one-day-one-npm-lib](https://github.com/haixiangyan/one-day-one-npm-lib)|🔥 🔥 这本小书会带你造 10 个非常实用的 npm 库 📦|1385|HTML|2021-09-09|2021-04-28|
 |30|[aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com)|Learn RegEx step by step, from zero to advanced.|1364|JavaScript|2022-01-10|2021-08-28|
-|31|[wangdoc/clang-tutorial](https://github.com/wangdoc/clang-tutorial)|C 语言教程|1362|-|2021-12-09|2021-09-04|
-|32|[HZFE/awesome-interview](https://github.com/HZFE/awesome-interview)|剑指前端 Offer|1362|HTML|2021-11-20|2021-08-23|
+|31|[HZFE/awesome-interview](https://github.com/HZFE/awesome-interview)|剑指前端 Offer|1363|HTML|2021-11-20|2021-08-23|
+|32|[wangdoc/clang-tutorial](https://github.com/wangdoc/clang-tutorial)|C 语言教程|1362|-|2021-12-09|2021-09-04|
 |33|[slidoooor/computer_book_list](https://github.com/slidoooor/computer_book_list)|一个综合了豆瓣，goodreads综合评分的计算机书籍书单|1335|-|2021-10-27|2021-10-22|
-|34|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1318|PHP|2022-01-11|2021-08-29|
-|35|[0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)|2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等|1284|C++|2021-10-21|2021-07-09|
+|34|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1320|PHP|2022-01-11|2021-08-29|
+|35|[0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)|2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等|1285|C++|2021-10-21|2021-07-09|
 |36|[Charmve/computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action)|《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页|1274|Jupyter Notebook|2022-01-11|2021-04-29|
-|37|[MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)|Summary of related papers on visual attention. Related code will be released based on Jittor gradually.    |1118|Python|2022-01-05|2021-09-01|
+|37|[MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)|Summary of related papers on visual attention. Related code will be released based on Jittor gradually.    |1119|Python|2022-01-05|2021-09-01|
 |38|[0voice/linux_kernel_wiki](https://github.com/0voice/linux_kernel_wiki)|linux内核学习资料：200+经典内核文章，100+内核论文，50+内核项目，500+内核面试题，80+内核视频|1113|-|2021-10-20|2021-07-26|
 |39|[amusi/ICCV2021-Papers-with-Code](https://github.com/amusi/ICCV2021-Papers-with-Code)|ICCV 2021 论文和开源项目合集|1100|-|2021-11-06|2021-07-23|
-|40|[yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)|学习python操作selenium的一个🌰 ，也是一种京东全自动退会方案|1057|Python|2021-12-14|2021-05-04|
+|40|[yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)|学习python操作selenium的一个🌰 ，也是一种京东全自动退会方案|1056|Python|2021-12-14|2021-05-04|
 |41|[Jackpopc/CS-Books-Store](https://github.com/Jackpopc/CS-Books-Store)|你想要的计算机经典书籍，这里都有！|987|-|2021-08-29|2021-03-25|
-|42|[alibaba/AliceMind](https://github.com/alibaba/AliceMind)|ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab|966|Python|2021-12-21|2021-05-21|
+|42|[alibaba/AliceMind](https://github.com/alibaba/AliceMind)|ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab|968|Python|2021-12-21|2021-05-21|
 |43|[juntossomosmais/frontend-guideline](https://github.com/juntossomosmais/frontend-guideline)|📝 Front-end Guideline by Juntos Somos Mais|942|-|2021-11-26|2021-09-01|
 |44|[baidu/bfe-book](https://github.com/baidu/bfe-book)|《深入理解BFE》（Book for opensource project BFE, in Chinese）|936|-|2021-10-22|2021-04-29|
 |45|[woai3c/introduction-to-front-end-engineering](https://github.com/woai3c/introduction-to-front-end-engineering)|一本小书《带你入门前端工程》|896|-|2021-11-09|2021-01-21|
@@ -60,15 +60,15 @@
 |53|[sorrycc/weekly](https://github.com/sorrycc/weekly)|前端周刊，每周一发布。|785|TypeScript|2022-01-09|2021-05-06|
 |54|[huaize2020/awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)|Node.js 资源大全中文版。An awesome Node.js packages and resources|785|JavaScript|2022-01-10|2021-04-13|
 |55|[chai2010/ugo-compiler-book](https://github.com/chai2010/ugo-compiler-book)|:books: µGo语言实现(从头开发一个迷你Go语言编译器)|782|Go|2021-12-30|2021-11-03|
-|56|[unclestrong/DeepLearning_LHY21_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes)|深度学习 李宏毅 2021 学习笔记|780|HTML|2021-10-30|2021-03-11|
+|56|[unclestrong/DeepLearning_LHY21_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes)|深度学习 李宏毅 2021 学习笔记|781|HTML|2021-10-30|2021-03-11|
 |57|[RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021)|RustMagazine 2021 期刊|711|JavaScript|2022-01-09|2021-01-21|
 |58|[CoderLeixiaoshuai/wuhan-IT](https://github.com/CoderLeixiaoshuai/wuhan-IT)|『武汉互联网』持续关注武汉互联网公司，帮助大家排坑，让一线浪子顺利回家|706|-|2021-08-29|2021-03-23|
-|59|[THUDM/CogView](https://github.com/THUDM/CogView)|Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".|688|Python|2021-10-01|2021-05-25|
+|59|[THUDM/CogView](https://github.com/THUDM/CogView)|Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".|690|Python|2021-10-01|2021-05-25|
 |60|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One status bar button, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|685|Swift|2022-01-11|2021-11-30|
 |61|[Dujltqzv/Some-Many-Books](https://github.com/Dujltqzv/Some-Many-Books)|个人收藏书籍列表　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 ...|675|-|2021-10-21|2021-09-05|
 |62|[phodal/tangping](https://github.com/phodal/tangping)|躺平即正义。Nothing is true, everything is permitted|662|-|2021-10-09|2021-05-28|
 |63|[auto-xxqg/auto-xxqg](https://github.com/auto-xxqg/auto-xxqg)|最新版的 自动学习强国 |639|-|2021-10-29|2021-02-16|
-|64|[km1994/NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)|本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。|628|Python|2021-12-15|2021-02-22|
+|64|[km1994/NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)|本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。|629|Python|2021-12-15|2021-02-22|
 |65|[cosen1024/Java-Interview](https://github.com/cosen1024/Java-Interview)|「Java面试小抄」一份通向理想互联网公司的面试汇总，包括 Java基础、Java并发、JVM、MySQL、Redis、Spring、MyBatis、Kafka、计算机操作系统、计算机网络、系统设计、分布式、Java 项目实战等|626|-|2021-12-03|2021-02-19|
 |66|[r0eXpeR/Online_Tools](https://github.com/r0eXpeR/Online_Tools)|一些在线的工具,情报资源|619|-|2021-07-17|2021-03-22|
 |67|[liyupi/code-roadmap](https://github.com/liyupi/code-roadmap)|原创编程学习路线，包括全面的知识点、免费资源、面试题、学习建议、项目，适用于所有学习编程、求职的同学。已完成 Java、前端|611|-|2021-12-08|2021-04-20|
@@ -88,22 +88,22 @@
 |81|[zu1k/copy-translator](https://github.com/zu1k/copy-translator)|简单、轻量、好用的划词翻译软件，利用DeepL翻译，无需注册api token|499|Rust|2021-12-27|2021-07-28|
 |82|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|498|Jupyter Notebook|2022-01-11|2021-03-11|
 |83|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|497|CSS|2021-12-13|2021-08-01|
-|84|[saveweb/review-2021](https://github.com/saveweb/review-2021)|今年，你写年终总结了吗？|494|Python|2022-01-11|2021-12-31|
-|85|[Miraclelucy/dive_into_deep_learning](https://github.com/Miraclelucy/dive_into_deep_learning)|✔️李沐 【动手学深度学习】课程学习笔记：使用pycharm编程，基于pytorch框架实现。|490|Python|2021-08-09|2021-03-27|
+|84|[saveweb/review-2021](https://github.com/saveweb/review-2021)|今年，你写年终总结了吗？|496|Python|2022-01-11|2021-12-31|
+|85|[Miraclelucy/dive_into_deep_learning](https://github.com/Miraclelucy/dive_into_deep_learning)|✔️李沐 【动手学深度学习】课程学习笔记：使用pycharm编程，基于pytorch框架实现。|494|Python|2021-08-09|2021-03-27|
 |86|[bytedance/guide](https://github.com/bytedance/guide)|A new feature guide component by react 🧭|468|TypeScript|2021-08-07|2021-04-29|
 |87|[HeisenbergEmpire/studynote](https://github.com/HeisenbergEmpire/studynote)|程式與網絡安全學習筆記|458|Python|2022-01-11|2021-11-23|
 |88|[hewei2001/HITSZ-OpenCS](https://github.com/hewei2001/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|458|C|2022-01-09|2021-03-05|
 |89|[0voice/k8s_awesome_document](https://github.com/0voice/k8s_awesome_document)|【2021年新鲜出炉】K8s（Kubernetes）的工程师资料合辑，书籍推荐，面试题，精选文章，开源项目，PPT，视频，大厂资料|452|-|2021-11-04|2021-10-25|
 |90|[chenjiandongx/mandodb](https://github.com/chenjiandongx/mandodb)|🤔 A minimize Time Series Database, written from scratch as a learning project. 从零开始实现一个 TSDB|452|Go|2021-08-08|2021-06-19|
 |91|[rootsongjc/kubernetes-hardening-guidance](https://github.com/rootsongjc/kubernetes-hardening-guidance)|《Kubernetes 加固手册》（美国国家安全局出品）- https://jimmysong.io/kubernetes-hardening-guidance|443|Shell|2021-10-13|2021-08-08|
-|92|[WPFDevelopersOrg/WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)|WPF Developers Daily Share 🎉Ongoing update.|441|C#|2022-01-09|2021-05-25|
-|93|[xuejmnet/sharding-core](https://github.com/xuejmnet/sharding-core)|high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵|441|C#|2022-01-10|2021-01-26|
+|92|[WPFDevelopersOrg/WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)|WPF Developers Daily Share 🎉Ongoing update.|443|C#|2022-01-09|2021-05-25|
+|93|[xuejmnet/sharding-core](https://github.com/xuejmnet/sharding-core)|high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵|442|C#|2022-01-10|2021-01-26|
 |94|[Rust-Coding-Guidelines/rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh)|Rust 编码规范 中文版 （非官方）|439|JavaScript|2022-01-11|2021-04-02|
-|95|[cckuailong/vulbase](https://github.com/cckuailong/vulbase)|各大漏洞文库合集|435|HTML|2021-10-05|2021-08-28|
+|95|[cckuailong/vulbase](https://github.com/cckuailong/vulbase)|各大漏洞文库合集|436|HTML|2021-10-05|2021-08-28|
 |96|[itbooks1024/books-pdf](https://github.com/itbooks1024/books-pdf)|程序员必看的经典书籍，编程电子书下载，附带pdf下载链接，包括C，C++，Java，Python，Linux，Go，数据结构与算法，人工智能，计算机基础，面试，设计模式，数据库，前端等|434|-|2021-08-31|2021-01-28|
 |97|[miao-lang/miao-lang](https://github.com/miao-lang/miao-lang)|喵语翻译：将人类语言翻译为喵语言。|423|TypeScript|2022-01-08|2021-04-19|
 |98|[ItIsMeCall911/Awesome-Telegram-OSINT](https://github.com/ItIsMeCall911/Awesome-Telegram-OSINT)|📚 A Curated List of Awesome Telegram OSINT Tools, Sites & Resources|417|-|2021-12-13|2021-05-16|
-|99|[dallaslu/penzai-list](https://github.com/dallaslu/penzai-list)|List of content farm sites like g.penzai.com.|416|Python|2021-12-28|2021-10-09|
+|99|[dallaslu/penzai-list](https://github.com/dallaslu/penzai-list)|List of content farm sites like g.penzai.com.|415|Python|2021-12-28|2021-10-09|
 |100|[SteveMCarroll/PronouncingNamesForEnglishSpeakers](https://github.com/SteveMCarroll/PronouncingNamesForEnglishSpeakers)|A practical guide to how to pronounce non-English names for English speakers|415|-|2021-08-27|2021-07-25|
 |101|[ymmt2005/grpc-tutorial](https://github.com/ymmt2005/grpc-tutorial)|gRPC tutorial for Japanese readers|413|Makefile|2021-07-31|2021-06-11|
 |102|[miaomiaosoft/PandaOCR.Pro](https://github.com/miaomiaosoft/PandaOCR.Pro)|多功能多引擎OCR图文识别、翻译、朗读、游戏机翻汉化工具|412|-|2021-11-24|2021-04-21|
@@ -124,10 +124,10 @@
 |117|[Metarget/cloud-native-security-book](https://github.com/Metarget/cloud-native-security-book)|《云原生安全：攻防实践与体系构建》资料仓库|333|Go|2021-11-26|2021-09-25|
 |118|[Interview-Science/interview-english](https://github.com/Interview-Science/interview-english)|English for Tech Interview 面试中的英语|332|-|2021-12-09|2021-11-03|
 |119|[researchmm/Stark](https://github.com/researchmm/Stark)|[ICCV'21] Learning Spatio-Temporal Transformer for Visual Tracking|332|Python|2022-01-06|2021-03-25|
-|120|[Tsukasa007/my_script](https://github.com/Tsukasa007/my_script)|學習自動化|327|JavaScript|2022-01-11|2021-06-28|
+|120|[Tsukasa007/my_script](https://github.com/Tsukasa007/my_script)|學習自動化|328|JavaScript|2022-01-11|2021-06-28|
 |121|[tyrchen/geektime-rust](https://github.com/tyrchen/geektime-rust)|我的极客时间 Rust 课程的代码仓库，随课程更新|326|Rust|2022-01-01|2021-08-17|
-|122|[0voice/introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual)|一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。|321|C++|2021-12-15|2021-12-06|
-|123|[alanbobs999/TopFreeProxies](https://github.com/alanbobs999/TopFreeProxies)|高质量免费节点收集，及订阅链接分享。|320|Python|2022-01-11|2021-07-29|
+|122|[0voice/introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual)|一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。|322|C++|2021-12-15|2021-12-06|
+|123|[alanbobs999/TopFreeProxies](https://github.com/alanbobs999/TopFreeProxies)|高质量免费节点收集，及订阅链接分享。|322|Python|2022-01-11|2021-07-29|
 |124|[open-mmlab/mmfewshot](https://github.com/open-mmlab/mmfewshot)|OpenMMLab FewShot Learning Toolbox and Benchmark|306|Python|2022-01-06|2021-11-22|
 |125|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|299|CSS|2022-01-04|2021-03-11|
 |126|[liuhuanyong/ChainKnowledgeGraph](https://github.com/liuhuanyong/ChainKnowledgeGraph)|ChainKnowledgeGraph, 产业链知识图谱包括A股上市公司、行业和产品共3类实体，包括上市公司所属行业关系、行业上级关系、产品上游原材料关系、产品下游产品关系、公司主营产品、产品小类共6大类。 上市公司4,654家，行业511个，产品95,559条、上游材料56,824条，上级行业480条，下游产品390条，产品小类52,937条，所属行业3,946条。  |285|Python|2021-10-26|2021-10-26|
@@ -166,17 +166,17 @@
 |159|[r0eXpeR/fingerprint](https://github.com/r0eXpeR/fingerprint)|各种工具指纹收集分享|197|Ruby|2021-11-03|2021-11-03|
 |160|[otokaze/189Cloud-Downloader](https://github.com/otokaze/189Cloud-Downloader)|一个不限速的天翼云网盘下载器。（支持分享链接下载、支持Windows、Linux、macOS）Based Go.|197|Go|2021-11-04|2021-01-25|
 |161|[yuesong-feng/30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)|30天自制C++服务器，包含教程和源代码|195|C++|2022-01-09|2021-11-30|
-|162|[BBuf/tvm_mlir_learn](https://github.com/BBuf/tvm_mlir_learn)|tvm learn|192|Python|2021-12-11|2021-03-16|
-|163|[v2018z/xueXiQiangguo](https://github.com/v2018z/xueXiQiangguo)|学习强国 积分 自动 阅读 答题 - 支持每日、每周、专项答题|190|-|2021-12-10|2021-04-26|
-|164|[0voice/ffmpeg_develop_doc](https://github.com/0voice/ffmpeg_develop_doc)|2022年，最新ffmpeg资料整理，项目（调试可用），命令手册，文章，编解码论文，视频讲解，面试题全套资料|187|C|2022-01-10|2022-01-04|
+|162|[0voice/ffmpeg_develop_doc](https://github.com/0voice/ffmpeg_develop_doc)|2022年，最新ffmpeg资料整理，项目（调试可用），命令手册，文章，编解码论文，视频讲解，面试题全套资料|192|C|2022-01-10|2022-01-04|
+|163|[BBuf/tvm_mlir_learn](https://github.com/BBuf/tvm_mlir_learn)|tvm learn|192|Python|2021-12-11|2021-03-16|
+|164|[v2018z/xueXiQiangguo](https://github.com/v2018z/xueXiQiangguo)|学习强国 积分 自动 阅读 答题 - 支持每日、每周、专项答题|190|-|2021-12-10|2021-04-26|
 |165|[pen4uin/PentestNote](https://github.com/pen4uin/PentestNote)|个人输出，经验/思路/想法/总结/笔记/. . .|184|-|2021-12-09|2021-05-26|
 |166|[note286/xdupgthesis](https://github.com/note286/xdupgthesis)|西安电子科技大学研究生学位论文XeLaTeX模板|176|TeX|2022-01-11|2021-10-15|
-|167|[canliture/nju-software-analysis-homework](https://github.com/canliture/nju-software-analysis-homework)|南京大学《软件分析》课程课后作业(非Bamboo)   NJU's software analysis homework; ... Not official, just a reference|173|Java|2021-11-18|2021-10-09|
+|167|[canliture/nju-software-analysis-homework](https://github.com/canliture/nju-software-analysis-homework)|南京大学《软件分析》课程课后作业(非Bamboo)   NJU's software analysis homework; ... Not official, just a reference|174|Java|2021-11-18|2021-10-09|
 |168|[sci-hub-p2p/sci-hub-p2p](https://github.com/sci-hub-p2p/sci-hub-p2p)|fetch and serve papers in p2p network|172|Go|2021-08-18|2021-07-11|
 |169|[Co2333/myyearwithgit](https://github.com/Co2333/myyearwithgit)|代码仓库年终总结报告。|171|Swift|2022-01-10|2021-11-29|
 |170|[phodal/dx](https://github.com/phodal/dx)|《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)|171|SCSS|2021-11-19|2021-10-15|
-|171|[coderit666/CNote](https://github.com/coderit666/CNote)|「CNote」一份涵盖大部分学习 C 语言所需要掌握的核心知识，致力于打造最易懂的 C语言入门教程，让天下没有难学的 C语言。（包含C语言教程、C语言精华文章）|168|-|2021-11-08|2021-07-30|
-|172|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|168|C|2021-12-27|2021-03-22|
+|171|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|169|C|2021-12-27|2021-03-22|
+|172|[coderit666/CNote](https://github.com/coderit666/CNote)|「CNote」一份涵盖大部分学习 C 语言所需要掌握的核心知识，致力于打造最易懂的 C语言入门教程，让天下没有难学的 C语言。（包含C语言教程、C语言精华文章）|168|-|2021-11-08|2021-07-30|
 |173|[microsoft/AIforEarthDataSets](https://github.com/microsoft/AIforEarthDataSets)|Notebooks and documentation for AI-for-Earth-managed datasets on Azure|168|Jupyter Notebook|2022-01-07|2021-02-18|
 |174|[dingwpmz/netty-learning](https://github.com/dingwpmz/netty-learning)|《让天下没有难学Netty》系列博文40+，并且对RocketMQ远程通信框架的提取，通过阅读大牛对Netty的封装，感悟Netty编程之美。|167|Java|2021-07-17|2021-02-22|
 |175|[xiaoweiChen/Learn-LLVM-12](https://github.com/xiaoweiChen/Learn-LLVM-12)|《Learn LLVM 12》的非专业个人翻译|165|TeX|2021-12-29|2021-08-15|

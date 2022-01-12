@@ -35,7 +35,7 @@
         <tr>
             <td colspan="2" align="center">中文总榜</td>
             <td colspan="2" align="center">中文增速榜</td>  
-            <td colspan="2" align="center">中文新星榜</td>
+            <td colspan="2" align="center">中文新秀榜</td>
         </tr>
         <tr>
             <td align="center">软件类</td>

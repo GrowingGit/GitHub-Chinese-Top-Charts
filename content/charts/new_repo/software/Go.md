@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
-# 中文新星榜 > 软件类 > Go
+# 中文新秀榜 > 软件类 > Go
 <sub>数据更新: 2022-01-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server)|OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.（由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功 ...|6177|2022-01-06|2021-05-26|
+|1|[OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server)|OpenIM: Instant messaging open source project based on go built by former WeChat technology experts. Backend in Go.（由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，从服务端到客户端SDK开源即时通讯（IM）整体解决方案，可以轻松替代第三方IM云服务，打造具备聊天、社交功 ...|6183|2022-01-06|2021-05-26|
 |2|[dtm-labs/dtm](https://github.com/dtm-labs/dtm)|🔥A cross-language distributed transaction manager. Support xa, tcc, saga, transactional messages.  跨语言分布式事务管理器|4540|2022-01-11|2021-05-16|
 |3|[SmartKeyerror/Psyduck](https://github.com/SmartKeyerror/Psyduck)|Record CS knowlegement with XMind, version 2.0. 使用 XMind 记录 Linux 操作系统，网络，C++，Golang 以及数据库的一些设计|4044|2021-12-24|2021-04-21|
 |4|[cloudwego/kitex](https://github.com/cloudwego/kitex)|A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.|3575|2022-01-10|2021-07-09|

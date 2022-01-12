@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
-# 中文新星榜 > 软件类 > PHP
+# 中文新秀榜 > 软件类 > PHP
 <sub>数据更新: 2022-01-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu)|开发内功修炼|1822|2022-01-10|2021-01-19|
+|1|[yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu)|开发内功修炼|1823|2022-01-10|2021-01-19|
 |2|[mochat-cloud/mochat](https://github.com/mochat-cloud/mochat)|基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!|1414|2021-12-04|2021-01-18|
 |3|[maccmspro/maccms10](https://github.com/maccmspro/maccms10)|苹果cms-v10,maccms-v10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序|598|2021-12-19|2021-06-25|
 |4|[luolongfei/freenom](https://github.com/luolongfei/freenom)|Freenom 域名自动续期。Freenom domain name renews automatically.|586|2022-01-04|2021-09-10|
 |5|[kalcaddle/kodbox](https://github.com/kalcaddle/kodbox)|kodbox is a file manager for web. It is a newly designed product based on kodexplorer. It is also a web code editor, which allows you to develop websites directly within the web browser.You can run ko ...|508|2022-01-07|2021-04-07|
-|6|[easychen/pushdeer](https://github.com/easychen/pushdeer)|开放源码的无App推送服务，🚧 WIP|460|2022-01-10|2021-12-16|
+|6|[easychen/pushdeer](https://github.com/easychen/pushdeer)|开放源码的无App推送服务，🚧 WIP|461|2022-01-11|2021-12-16|
 |7|[qmpaas/leadshop](https://github.com/qmpaas/leadshop)|🔥🔥🔥🔥🔥 Leadshop是一款提供持续更新迭代服务的免费开源商城系统，旨在打造极致的用户体验！开箱即可商用！ Leadshop主要面向中小型企业，助力搭建电商平台，并提供专业的技术支持。 商城涉及多种主题色、可视化DIY装修、促销转化、裂变分销、用户精细化管理、数据分析等多个维度，追求极致体验，全面赋能商家，为商家创造价值。 演示站：https://demo.leadshop.vip 账号:1 ...|392|2021-12-28|2021-06-02|
 |8|[openBI-kwc/openBI](https://github.com/openBI-kwc/openBI)|可视化数据分析工具|206|2021-08-23|2021-02-03|
 |9|[modstart/ModStartCMS](https://github.com/modstart/ModStartCMS)|模块化内容管理系统 modstart.com|171|2022-01-06|2021-08-25|
@@ -31,13 +31,13 @@
 |24|[hipig/ddcard](https://github.com/hipig/ddcard)|【嘟嘟早教卡】 后端 api 源码，由 Laravel 构建而成。|66|2021-11-23|2021-06-18|
 |25|[whitebearcode/typecho-bearsimple](https://github.com/whitebearcode/typecho-bearsimple)|一款简洁大方的Typecho主题|65|2022-01-10|2021-05-03|
 |26|[91php/laravel-starter](https://github.com/91php/laravel-starter)|😺 Your next laravel-api-starter in 30 seconds|65|2022-01-09|2021-02-01|
-|27|[lizhipay/acg-faka](https://github.com/lizhipay/acg-faka)|个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡|62|2022-01-10|2021-11-27|
+|27|[lizhipay/acg-faka](https://github.com/lizhipay/acg-faka)|个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡|62|2022-01-11|2021-11-27|
 |28|[zhufenghua1998/bp3](https://github.com/zhufenghua1998/bp3)|bp3是一款使用php开发的百度网盘接口程序，百度网盘目录搜索引擎，文件展示搜索目录树，在线目录搜索索引，百度网盘文件下载等。|56|2022-01-06|2021-09-24|
 |29|[paopao233/baolog](https://github.com/paopao233/baolog)|wordpress线报主题，发羊毛，我就要专一~|54|2022-01-11|2021-08-26|
 |30|[zhoumengkang/deliverer](https://github.com/zhoumengkang/deliverer)|PHP 祖传代码跑路拯救者，支持 PHP5 & PHP7|54|2021-09-18|2021-06-22|
 |31|[yitd/ICP-API](https://github.com/yitd/ICP-API)|ICP备案信息查询API接口|52|2021-08-08|2021-08-06|
 |32|[stingbo/easyexchange](https://github.com/stingbo/easyexchange)|PHP SDK for digital currency exchange,include Binance,OKEx,Huobi,Gate,CoinBase etc / 好用的PHP数字货币交易SDK，包括币安，火币，欧易，芝麻开门，Coinbase等|51|2021-09-04|2021-02-03|
-|33|[WGrape/esupdater](https://github.com/WGrape/esupdater)|A high-performance lightweight framework of PHP to achieve incremental update of ES documents / 一个基于Canal实现ES文档增量更新的高性能轻量框架|47|2022-01-11|2021-12-13|
+|33|[WGrape/esupdater](https://github.com/WGrape/esupdater)|A high-performance lightweight framework of PHP to achieve incremental update of ES documents / 一个基于Canal实现ES文档增量更新的高性能轻量框架|48|2022-01-11|2021-12-13|
 |34|[xflash-panda/v2board](https://github.com/xflash-panda/v2board)|🚀🚀🚀  完全开源优化版本的v2board|46|2021-12-17|2021-09-18|
 |35|[MatthK/swfd](https://github.com/MatthK/swfd)|Selfoss Webfront Docker|45|2021-09-22|2021-09-20|
 |36|[Lysice/laravel-xlswriter](https://github.com/Lysice/laravel-xlswriter)|an excel export/import tool for laravel based on php-xlswriter|45|2021-10-25|2021-04-25|

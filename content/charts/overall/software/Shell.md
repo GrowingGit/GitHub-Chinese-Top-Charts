@@ -5,14 +5,14 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)|A pure Unix shell script implementing ACME client protocol|24993|2022-01-11|
-|2|[EtherDream/jsproxy](https://github.com/EtherDream/jsproxy)|An online proxy based on ServiceWorker|8566|2021-12-24|
+|1|[acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)|A pure Unix shell script implementing ACME client protocol|24996|2022-01-11|
+|2|[EtherDream/jsproxy](https://github.com/EtherDream/jsproxy)|An online proxy based on ServiceWorker|8567|2021-12-24|
 |3|[skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)|超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:|7995|2021-12-30|
 |4|[wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey)|Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本 |7075|2022-01-03|
 |5|[Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust)|Rust explained using easy English|6368|2021-12-31|
 |6|[xzhih/one-key-hidpi](https://github.com/xzhih/one-key-hidpi)|Enable macOS HiDPI and have a native setting.|6126|2021-08-06|
 |7|[oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts)|🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.|5892|2021-12-27|
-|8|[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)|A template for building OpenWrt with GitHub Actions   使用 GitHub Actions 云编译 OpenWrt|4844|2022-01-08|
+|8|[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)|A template for building OpenWrt with GitHub Actions   使用 GitHub Actions 云编译 OpenWrt|4845|2022-01-08|
 |9|[haoel/haoel.github.io](https://github.com/haoel/haoel.github.io)|-|4834|2022-01-09|
 |10|[toniblyx/prowler](https://github.com/toniblyx/prowler)|Prowler is a security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 200 controls c ...|4602|2022-01-11|
 |11|[mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent)|（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装|4367|2022-01-11|

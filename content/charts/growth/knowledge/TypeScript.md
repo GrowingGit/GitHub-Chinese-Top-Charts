@@ -11,7 +11,7 @@
 |4|[antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)|🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥|5265|7|2022-01-03|
 |5|[cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue)|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|4026|7|2022-01-11|
 |6|[doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn)|🇨🇳 《JavaScript 二十年》中文版|3709|6|2021-11-25|
-|7|[xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8483|4|2021-12-09|
+|7|[xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8485|4|2021-12-09|
 |8|[jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)|TypeScript Deep Dive 中文版 |5091|4|2021-11-11|
 |9|[alibaba/pipcook](https://github.com/alibaba/pipcook)|Machine learning platform for Web developers|2199|3|2022-01-11|
 |10|[sorrycc/weekly](https://github.com/sorrycc/weekly)|前端周刊，每周一发布。|785|3|2022-01-09|

@@ -1,29 +1,29 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
-# 中文新星榜 > 软件类 > HTML
+# 中文新秀榜 > 软件类 > HTML
 <sub>数据更新: 2022-01-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[rubickCenter/rubick](https://github.com/rubickCenter/rubick)|🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。|2518|2022-01-11|2021-06-11|
-|2|[timb-machine/linux-malware](https://github.com/timb-machine/linux-malware)|Tracking interesting Linux (and UNIX) malware. Send PRs|801|2021-12-30|2021-07-20|
+|1|[rubickCenter/rubick](https://github.com/rubickCenter/rubick)|🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。|2519|2022-01-11|2021-06-11|
+|2|[timb-machine/linux-malware](https://github.com/timb-machine/linux-malware)|Tracking interesting Linux (and UNIX) malware. Send PRs|800|2022-01-11|2021-07-20|
 |3|[admin360bug/bypass](https://github.com/admin360bug/bypass)|-|664|2021-12-23|2021-12-22|
 |4|[Ed1s0nZ/cool](https://github.com/Ed1s0nZ/cool)|Golang-Gin 框架写的免杀平台，内置分离、捆绑等多种BypassAV方式。|450|2021-11-25|2021-11-10|
 |5|[momo0853/kkndme](https://github.com/momo0853/kkndme)|kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。|418|2021-12-24|2021-09-10|
 |6|[nkeonkeo/nekonekostatus](https://github.com/nkeonkeo/nekonekostatus)|一个Material Design风格的探针|294|2021-12-16|2021-06-15|
 |7|[ecnice/flow](https://github.com/ecnice/flow)|企业级流程中心（基于flowable和bpmn.js封装的流程引擎，采用Springboot，Mybatis-plus, Ehcache, Shiro 等框架技术,前端采用Vue3&Antd，Vben）|277|2021-12-28|2021-05-27|
 |8|[kaityo256/github](https://github.com/kaityo256/github)|GitHub演習|260|2021-11-17|2021-01-29|
-|9|[easychen/not-only-fans](https://github.com/easychen/not-only-fans)|an open source, self-hosted digital content subscription platform like `onlyfans.com`  with  cryptocurrency payment|251|2021-08-28|2021-08-25|
+|9|[easychen/not-only-fans](https://github.com/easychen/not-only-fans)|an open source, self-hosted digital content subscription platform like `onlyfans.com`  with  cryptocurrency payment|252|2021-08-28|2021-08-25|
 |10|[hua1995116/360-sneakers-viewer](https://github.com/hua1995116/360-sneakers-viewer)|鸿星尔克全景（360°）鞋子展示(包含建模过程)|232|2021-09-16|2021-07-25|
 |11|[tangxiaofeng7/SecExample](https://github.com/tangxiaofeng7/SecExample)|JAVA 漏洞靶场 (Vulnerability Environment For Java)|179|2021-07-15|2021-06-03|
 |12|[shaoxiongdu/JVMStudy](https://github.com/shaoxiongdu/JVMStudy)|💊JVM 底层原理解析 |177|2021-08-26|2021-06-16|
 |13|[kingcos/JueJueZiGenerator](https://github.com/kingcos/JueJueZiGenerator)|绝绝子生成器，YYDS！仅供娱乐，切勿当真～|153|2021-08-24|2021-08-18|
 |14|[xiaolai/apple-computer-literacy](https://github.com/xiaolai/apple-computer-literacy)|个人电脑使用（以苹果产品为例）|150|2021-12-26|2021-10-02|
-|15|[evmn/Paul-Graham](https://github.com/evmn/Paul-Graham)|Paul Graham's Essays, Kindle version, set several sections for easy navigation|136|2021-12-11|2021-10-29|
+|15|[evmn/Paul-Graham](https://github.com/evmn/Paul-Graham)|Paul Graham's Essays, Kindle version, set several sections for easy navigation|137|2021-12-11|2021-10-29|
 |16|[apicloudcom/act](https://github.com/apicloudcom/act)|[AVM] [组件] [案例] ACT 是 AVM Component & Template 的缩写。 Vant 组件库的 AVM 实现。|131|2021-12-15|2021-02-05|
-|17|[plazum/find-keke](https://github.com/plazum/find-keke)|寻找唐可可|127|2022-01-07|2021-11-23|
-|18|[LesFerch/WinSetView](https://github.com/LesFerch/WinSetView)|Globally Set Explorer Folder Views|126|2021-10-23|2021-03-26|
-|19|[Alpha-Yang/CS-BAOYAN-2022](https://github.com/Alpha-Yang/CS-BAOYAN-2022)|计算机保研交流群（QQ群号：605176069）|125|2022-01-07|2021-10-16|
+|17|[plazum/find-keke](https://github.com/plazum/find-keke)|寻找唐可可|127|2022-01-11|2021-11-23|
+|18|[Alpha-Yang/CS-BAOYAN-2022](https://github.com/Alpha-Yang/CS-BAOYAN-2022)|计算机保研交流群（QQ群号：605176069）|126|2022-01-07|2021-10-16|
+|19|[LesFerch/WinSetView](https://github.com/LesFerch/WinSetView)|Globally Set Explorer Folder Views|126|2021-10-23|2021-03-26|
 |20|[knowsex/knowsex.github.io](https://github.com/knowsex/knowsex.github.io)|知性，开放式性教育网站。KnowSex.net is a sex education website.|120|2021-12-20|2021-03-05|
 |21|[BlueSkyXN/KIENG-FigureBed](https://github.com/BlueSkyXN/KIENG-FigureBed)|image.kieng.cn 的仿站源码，支持Vercel，CloudFlare，Github等无服务器部署|117|2021-11-12|2021-02-14|
 |22|[doersino/nyum](https://github.com/doersino/nyum)|A simple Pandoc-powered static site generator for your recipe collection – it effortlessly turns a set of Markdown-formatted recipes into a lightweight, responsive, searchable website.|114|2021-10-12|2021-03-11|
@@ -66,16 +66,16 @@
 |59|[AndyXFuture/MCar-Arduino-ESP01S](https://github.com/AndyXFuture/MCar-Arduino-ESP01S)|A Mecanum-wheel car based on ESP01S.|35|2021-12-06|2021-11-02|
 |60|[KemononLine/Mess-around](https://github.com/KemononLine/Mess-around)|一些好康的|35|2021-10-28|2021-10-06|
 |61|[missuo/Telegraph-Image-Hosting](https://github.com/missuo/Telegraph-Image-Hosting)|Build a free image hosting with Telegraph|35|2021-08-14|2021-02-22|
-|62|[Rocket-Factory/DoubanMovieJSON](https://github.com/Rocket-Factory/DoubanMovieJSON)|豆瓣电影JSON数据|35|2022-01-10|2021-01-13|
+|62|[Rocket-Factory/DoubanMovieJSON](https://github.com/Rocket-Factory/DoubanMovieJSON)|豆瓣电影JSON数据|35|2022-01-11|2021-01-13|
 |63|[firemakergk/aquar-home](https://github.com/firemakergk/aquar-home)|-|34|2022-01-02|2021-11-19|
 |64|[khuyentran1401/top-github-scraper](https://github.com/khuyentran1401/top-github-scraper)|Scape top GitHub repositories and users based on keywords|34|2021-08-27|2021-02-27|
-|65|[cymetrics/blog](https://github.com/cymetrics/blog)|Cymetrics 技術部落格|33|2022-01-04|2021-07-19|
+|65|[cymetrics/blog](https://github.com/cymetrics/blog)|Cymetrics 技術部落格|33|2022-01-12|2021-07-19|
 |66|[TruthOriginem/Starsector-095-Localization](https://github.com/TruthOriginem/Starsector-095-Localization)|远行星号中文化|33|2022-01-10|2021-04-11|
 |67|[BearLaboratory/wifiaudio-tx-hardware](https://github.com/BearLaboratory/wifiaudio-tx-hardware)|WiFi无线麦克风硬件pcb设计|32|2021-12-02|2021-10-13|
 |68|[L-M-Sherlock/sm18-lazy-package](https://github.com/L-M-Sherlock/sm18-lazy-package)|SuperMemo 18 中文懒人包|31|2021-12-11|2021-11-06|
 |69|[botuniverse/onebot-11](https://github.com/botuniverse/onebot-11)|OneBot 11 标准|31|2021-10-24|2021-10-10|
 |70|[mrsanshui/WeChatPYAPI](https://github.com/mrsanshui/WeChatPYAPI)|基于微信PC端的Python接口，开发者可通过Python轻松调用。实现微信机器人、群管理等强大的功能！|31|2022-01-08|2021-07-29|
-|71|[kingcata/zhxx](https://github.com/kingcata/zhxx)|学习强国自动刷分，学习强国自动学习，学习强国自动答题，挑战答题题库。软件适用于Win7以上系统，绿色软件，解压后直接运行，无需安装配置python环境。⭐⭐⭐8分钟学完45分！⭐⭐⭐|30|2022-01-11|2021-10-26|
+|71|[kingcata/zhxx](https://github.com/kingcata/zhxx)|学习强国自动刷分，学习强国自动学习，学习强国自动答题，挑战答题题库。软件适用于Win7以上系统，绿色软件，解压后直接运行，无需安装配置python环境。⭐⭐⭐8分钟学完45分！⭐⭐⭐|30|2022-01-12|2021-10-26|
 |72|[Zy143L/JDC_WEB](https://github.com/Zy143L/JDC_WEB)|JDC_WEB文件|30|2021-07-30|2021-06-28|
 |73|[mendax1234/ThinkpadX390-Opencore-EFI](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI)|macOS Catalina & Big Sur on ThinkPad X390 (Hackintosh)|30|2021-11-15|2021-01-23|
 |74|[kawa-yoiko/treasure-hole](https://github.com/kawa-yoiko/treasure-hole)|-|29|2021-12-13|2021-12-11|

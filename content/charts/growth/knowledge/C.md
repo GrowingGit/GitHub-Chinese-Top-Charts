@@ -5,15 +5,15 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[0voice/ffmpeg_develop_doc](https://github.com/0voice/ffmpeg_develop_doc)|2022年，最新ffmpeg资料整理，项目（调试可用），命令手册，文章，编解码论文，视频讲解，面试题全套资料|187|23|2022-01-10|
+|1|[0voice/ffmpeg_develop_doc](https://github.com/0voice/ffmpeg_develop_doc)|2022年，最新ffmpeg资料整理，项目（调试可用），命令手册，文章，编解码论文，视频讲解，面试题全套资料|192|24|2022-01-10|
 |2|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|5593|3|2022-01-08|
 |3|[Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub)|:palm_tree:Windows Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (Windows提权漏洞合集) |1653|3|2022-01-04|
 |4|[nonstriater/Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)|算法学习笔记|6247|2|2021-12-23|
 |5|[xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid)|android端基于FFmpeg实现音频剪切、拼接、转码、混音、均衡器音效；视频剪切、水印、截图、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；FFmpeg滤镜，歌词解析，音视频学习路线，音视频知识总结、流媒体协议|2911|2|2022-01-10|
 |6|[firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One)|CTF竞赛权威指南|2832|2|2021-12-29|
-|7|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|168|1|2021-12-27|
+|7|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|169|1|2021-12-27|
 |8|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|1356|1|2022-01-09|
-|9|[FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit)|iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结|629|1|2021-12-19|
+|9|[FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit)|iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结|630|1|2021-12-19|
 |10|[realYurkOfGitHub/translation-Introduction-to-HPC](https://github.com/realYurkOfGitHub/translation-Introduction-to-HPC)|为 Eijhout 教授的Introduction to HPC提供中文翻译、 PPT和Lab。|56|1|2021-12-27|
 |11|[LookCos/learn-data-structures](https://github.com/LookCos/learn-data-structures)|数据结构（C语言描述）学习笔记|117|1|2022-01-03|
 |12|[peng-zhihui/MiniRover-Hardware](https://github.com/peng-zhihui/MiniRover-Hardware)|自制火星车的开源资料。|270|1|2021-12-26|
@@ -21,7 +21,7 @@
 |14|[hairrrrr/C-CrashCourse](https://github.com/hairrrrr/C-CrashCourse)|C语言教程+博客+代码演示+课程设计。 帮助初学者更好的理解 C 难点，提升代码量！ For beginners:C tuition/self-learning|484|1|2021-11-25|
 |15|[ming1016/study](https://github.com/ming1016/study)|学习记录|3686|1|2022-01-06|
 |16|[hewei2001/HITSZ-OpenCS](https://github.com/hewei2001/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|458|1|2022-01-09|
-|17|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|86|1|2021-12-10|
+|17|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|85|1|2021-12-10|
 |18|[0voice/algorithm-structure](https://github.com/0voice/algorithm-structure)|2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结|559|1|2021-08-27|
 |19|[nevermosby/linux-bpf-learning](https://github.com/nevermosby/linux-bpf-learning)|learn how to use BPF/eBPF|213|0|2021-12-21|
 |20|[ouyangzhaoxing/color-studio](https://github.com/ouyangzhaoxing/color-studio)|轻量简洁颜值极高的IDE，非常适合萌新作为编程入门使用。(Lightweight, concise and beautiful IDE, very suitable for novices to use as a programming entry.)|45|0|2021-09-26|
@@ -57,7 +57,7 @@
 |50|[alejoseb/Modbus-STM32-HAL-FreeRTOS](https://github.com/alejoseb/Modbus-STM32-HAL-FreeRTOS)|Modbus TCP and  RTU,  Master and Slave for STM32 using Cube HAL and FreeRTOS|161|0|2021-11-19|
 |51|[deepwzh/sdust-examination-materials](https://github.com/deepwzh/sdust-examination-materials)|山东科技大学课程资源共享计划|231|0|2021-10-06|
 |52|[Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)|LilyGo LoRa Series examples|190|0|2022-01-06|
-|53|[hexhacking/xUnwind](https://github.com/hexhacking/xUnwind)|xUnwind is a collection of Android native stack unwinding solutions.|98|0|2021-12-29|
+|53|[hexhacking/xUnwind](https://github.com/hexhacking/xUnwind)|xUnwind is a collection of Android native stack unwinding solutions.|99|0|2021-12-29|
 |54|[kuangyufei/kernel_liteos_a_note](https://github.com/kuangyufei/kernel_liteos_a_note)|精读鸿蒙内核源码,百万汉字注解分析;百篇博客深入解剖,挖透内核地基工程.注解同步官方,工具文档齐全,多站点发布 . weharmonyos.com|164|0|2022-01-10|
 |55|[Lighter-z/51-Single-chip](https://github.com/Lighter-z/51-Single-chip)|51单片机入门资料|129|0|2021-08-15|
 |56|[xuhongv/StudyInEsp32](https://github.com/xuhongv/StudyInEsp32)|【深度开源】wiif+bt模块esp32学习之旅（持续更新，欢迎 Star...）|295|0|2021-11-29|
