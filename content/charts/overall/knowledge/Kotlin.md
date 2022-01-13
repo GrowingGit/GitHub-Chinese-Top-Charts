@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Kotlin
-<sub>数据更新: 2022-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|26733|2022-01-03|
-|2|[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool)|Android开发人员不得不收集的工具类集合   支付宝支付   微信支付（统一下单）   微信分享   Zip4j压缩（支持分卷压缩与加密）   一键集成UCrop选择圆形头像   一键集成二维码和条形码的扫描与生成   常用Dialog   WebView的封装可播放视频   仿斗鱼滑动验证码   Toast封装   震动   GPS   Location定位   图片缩放   Exif 图片 ...|11593|2021-12-27|
+|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|26742|2022-01-03|
+|2|[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool)|Android开发人员不得不收集的工具类集合   支付宝支付   微信支付（统一下单）   微信分享   Zip4j压缩（支持分卷压缩与加密）   一键集成UCrop选择圆形头像   一键集成二维码和条形码的扫描与生成   常用Dialog   WebView的封装可播放视频   仿斗鱼滑动验证码   Toast封装   震动   GPS   Location定位   图片缩放   Exif 图片 ...|11594|2021-12-27|
 |3|[qingmei2/RxImagePicker](https://github.com/qingmei2/RxImagePicker)|:rocket:RxJava2 and RxJava3 external support. Android flexible picture selector, provides the support for theme of Zhihu and WeChat (灵活的Android图片选择器，提供了知乎和微信主题的支持）.|1135|2021-10-13|
 |4|[mCyp/Hoo](https://github.com/mCyp/Hoo)|🚀 Android Jetpack系列组件实战案例，配上专栏学习更轻松~|998|2021-08-15|
 |5|[compose-museum/hello-compose](https://github.com/compose-museum/hello-compose)|Jetpack Compose 基础教程，持续更新|515|2022-01-05|
-|6|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|507|2022-01-12|
+|6|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|514|2022-01-13|
 |7|[crazyandcoder/blog_backups](https://github.com/crazyandcoder/blog_backups)|Android 项目优化、面试题集，包含Android、Java、数据结构、算法、个人blog备份等。|430|2021-07-22|
 |8|[hi-dhl/Leetcode-Solutions-with-Java-And-Kotlin](https://github.com/hi-dhl/Leetcode-Solutions-with-Java-And-Kotlin)|LeetCode 系列题解, 在线阅读 https://offer.hi-dhl.com|345|2021-09-13|
 |9|[androidmalin/AndroidComponentPlugin](https://github.com/androidmalin/AndroidComponentPlugin)|Android上简单实现四大组件的插件化，供学习使用|340|2021-12-19|
@@ -28,12 +28,12 @@
 |21|[yunshuipiao/Potato](https://github.com/yunshuipiao/Potato)|Read the fucking source code for the Android  interview|60|2021-12-31|
 |22|[yechaoa/YUtils](https://github.com/yechaoa/YUtils)|Android快速开发工具集合——YUtils，同时支持java和kotlin|54|2021-10-16|
 |23|[hsicen/HencoderPlus](https://github.com/hsicen/HencoderPlus)|扔物线Hencoder plus系列课程 |41|2022-01-04|
-|24|[idisfkj/daily_algorithm](https://github.com/idisfkj/daily_algorithm)|🔥算法进阶，由浅入深，欢迎加入一起共勉(A daily algorithm，Welcome to join and share together)|34|2021-07-30|
+|24|[idisfkj/daily_algorithm](https://github.com/idisfkj/daily_algorithm)|🔥算法进阶，由浅入深，欢迎加入一起共勉(A daily algorithm，Welcome to join and share together)|35|2021-07-30|
 |25|[mazouri/kvcache](https://github.com/mazouri/kvcache)|在Android开发中优雅的存取key/value数据，从此不用再写SharedPreference代码。This library is a tool to help you set and get key-vlue data with better way in Andrtoid development.|34|2021-07-29|
 |26|[Flywith24/Android-Detail](https://github.com/Flywith24/Android-Detail)|Android Detail demo —— 专栏 Android Detail 配套代码|33|2021-12-17|
-|27|[leavesC/RobustWebView](https://github.com/leavesC/RobustWebView)|Android WebView H5 秒开方案总结|23|2021-11-21|
+|27|[leavesCZY/RobustWebView](https://github.com/leavesCZY/RobustWebView)|Android WebView H5 秒开方案总结|23|2021-11-21|
 |28|[junerver/CloudNote](https://github.com/junerver/CloudNote)|基于Bmob云后端的Android云笔记|19|2021-10-19|
-|29|[lizijin/zijiexiaozhan](https://github.com/lizijin/zijiexiaozhan)|字节小站博客Demo|18|2022-01-12|
+|29|[lizijin/zijiexiaozhan](https://github.com/lizijin/zijiexiaozhan)|字节小站博客Demo|18|2022-01-13|
 |30|[Anddd7/a-blackhorse](https://github.com/Anddd7/a-blackhorse)|tell you how to manage your blackhorse|16|2021-12-24|
 |31|[yhsj0919/ELauncher](https://github.com/yhsj0919/ELauncher)|多看电子书桌面|16|2022-01-10|
 |32|[hjhjw1991/build_your_home_in_chengdu](https://github.com/hjhjw1991/build_your_home_in_chengdu)|成都买房攻略|13|2021-12-06|
@@ -48,7 +48,7 @@
 |41|[ShiSheng233/Open2Share-Kotlin](https://github.com/ShiSheng233/Open2Share-Kotlin)|使用Kotlin重制的Open2Share|8|2021-10-17|
 |42|[zhujiang521/ComposeBookSource](https://github.com/zhujiang521/ComposeBookSource)|《Jetpack Compose：Android全新UI编程》全书源代码|7|2021-12-21|
 |43|[HuRuWo/WeChat8Xposed](https://github.com/HuRuWo/WeChat8Xposed)|WeChat8Xposed 是 WechatSpellbook的衍生项目 适配最新的微信 原Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架，底层需要 Xposed 或 VirtualXposed 等Hooking框架的支持，而顶层可以轻松对接Java、Kotlin、Scala等JVM系语言。让程序员能够在几分钟内编写出简单的微信插件，随意揉捏微信的内部逻辑。|7|2021-09-12|
-|44|[leavesC/KVHolder](https://github.com/leavesC/KVHolder)|一文读懂 SharedPreferences 的缺陷及一点点思考|7|2021-10-16|
+|44|[leavesCZY/KVHolder](https://github.com/leavesCZY/KVHolder)|一文读懂 SharedPreferences 的缺陷及一点点思考|7|2021-10-16|
 |45|[JereChen11/Wanandroid_Learning_Kotlin](https://github.com/JereChen11/Wanandroid_Learning_Kotlin)|基于Wanandroid开放API，使用Kotlin语言开发，以供学习。|6|2021-11-16|
 |46|[WinWang/ReadingGallery](https://github.com/WinWang/ReadingGallery)|提交组件化听书廊项目|5|2021-11-27|
 |47|[CNawalol/qndxx-action](https://github.com/CNawalol/qndxx-action)|用于南宁青年大学习的自动打卡|4|2021-10-06|

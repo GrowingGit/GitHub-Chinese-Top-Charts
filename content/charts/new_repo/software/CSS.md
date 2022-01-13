@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > CSS
-<sub>数据更新: 2022-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[fingerchar/fingernft](https://github.com/fingerchar/fingernft)|FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。|874|2022-01-07|2021-11-21|
+|1|[fingerchar/fingernft](https://github.com/fingerchar/fingernft)|FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。|891|2022-01-07|2021-11-21|
 |2|[admin360bug/PHP](https://github.com/admin360bug/PHP)|PHP训练靶场|580|2021-08-04|2021-08-04|
-|3|[cool-team-official/cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue)|cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 2.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建|570|2021-12-18|2021-02-27|
+|3|[cool-team-official/cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue)|cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 2.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建|571|2021-12-18|2021-02-27|
 |4|[phith0n/conote-community](https://github.com/phith0n/conote-community)|Conote 综合安全测试平台社区版。|297|2021-12-09|2021-12-09|
-|5|[SiJiDo/H](https://github.com/SiJiDo/H)|H是一款强大的资产收集管理平台|261|2021-12-29|2021-09-10|
-|6|[qq8e/qq](https://github.com/qq8e/qq)|8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多|168|2021-11-05|2021-02-06|
+|5|[SiJiDo/H](https://github.com/SiJiDo/H)|H是一款强大的资产收集管理平台|264|2022-01-13|2021-09-10|
+|6|[qq8e/qq](https://github.com/qq8e/qq)|8亿QQ绑定数据泄露查询源码，附送数据。不定期更新下载地址 关注越多送的越多|169|2021-11-05|2021-02-06|
 |7|[vanyouseea/o365](https://github.com/vanyouseea/o365)|O365管理系统是一个以java语言开发的基于Microsoft Graph Restful API的多全局管理系统，理论上支持任何Office全局的管理(A1,A3,A1P,E3,E5等)，你可以很方便的使用它来批量添加，批量删除，批量启用，批量禁用，搜索和查看用户，生成邀请码，邀请朋友注册，提升和收回管理员权限，更新密钥，查看订阅，分配订阅(创新用户时)，查看多全局报告|148|2021-12-11|2021-04-22|
 |8|[xiangjianan/lks](https://github.com/xiangjianan/lks)|🔗 B站博主 -LKs- 网站推荐 🔗|136|2021-12-26|2021-03-02|
 |9|[ChisBread/transmission_skip_patch](https://github.com/ChisBread/transmission_skip_patch)|为transmission v3.0 增加 "快速校验" 功能|122|2022-01-01|2021-09-04|
 |10|[GoneTone/genshin-impact-wish-gacha-analyzer](https://github.com/GoneTone/genshin-impact-wish-gacha-analyzer)|原神祈願卡池分析 Genshin Impact Wish Gacha Analyzer   A utility for analyzing gacha history, where all data and numbers are well-organized in a convenient manner!|96|2022-01-10|2021-03-05|
 |11|[BobCoderS9/SSPanel-Metron](https://github.com/BobCoderS9/SSPanel-Metron)|SSPanel-Metron主题，目前由@Bobs9维护开发中。|80|2022-01-07|2021-06-24|
-|12|[q19980722/Typora-theme-jiaran](https://github.com/q19980722/Typora-theme-jiaran)|-|72|2021-12-08|2021-09-16|
-|13|[eysp/public](https://github.com/eysp/public)|portainer-ce 汉化文件|72|2021-10-20|2021-02-06|
+|12|[eysp/public](https://github.com/eysp/public)|portainer-ce 汉化文件|73|2021-10-20|2021-02-06|
+|13|[q19980722/Typora-theme-jiaran](https://github.com/q19980722/Typora-theme-jiaran)|-|72|2021-12-08|2021-09-16|
 |14|[afi-team/website](https://github.com/afi-team/website)|蚂蚁前端基础设施团队（Ant Frontend Infrastructure）官方网站|69|2021-09-13|2021-02-15|
 |15|[niclin/bernard](https://github.com/niclin/bernard)|這是你最後一次忘記打卡|53|2022-01-04|2021-06-18|
 |16|[KawayAlpaka/Sorter](https://github.com/KawayAlpaka/Sorter)|一个排序算法动态演示工具|49|2021-07-25|2021-07-13|
@@ -30,25 +30,25 @@
 |23|[Nacandev/Ohmine-Dark-Theme-For-Joplin](https://github.com/Nacandev/Ohmine-Dark-Theme-For-Joplin)|This is a custom CSS theme for the opensource note-taking app Joplin.|28|2021-12-31|2021-09-14|
 |24|[MarleneJiang/WebDemo](https://github.com/MarleneJiang/WebDemo)|开源一些自制的小网页|28|2021-10-07|2021-08-20|
 |25|[AuroraTea/Web](https://github.com/AuroraTea/Web)|发在B站上的视频对应的源代码，有些内容不是原创的会在代码中注释。|28|2021-10-28|2021-02-25|
-|26|[yu120/lemon-guide](https://github.com/yu120/lemon-guide)|收纳操作系统、JAVA、算法、数据库、中间件、解决方案、架构、DevOps和大数据等技术栈总结！|26|2021-11-06|2021-07-10|
-|27|[NiceSprite34/GuanDong_Portal](https://github.com/NiceSprite34/GuanDong_Portal)|天翼校园 PHP登录|26|2021-11-18|2021-01-17|
-|28|[jasonLaw1015/GfEasyAdmin](https://github.com/jasonLaw1015/GfEasyAdmin)|快速crud开发框架，甚至于一行代码不用敲；自动根据数据库表结构自动生成crud代码；低代码开发框架；至少减少百分90%工作量；可快速把现有系统转成GfEasy版本；后端使用GoFrame开发;后台前端使用 cool-admin-vue；后台使用自适应布局，手机、PC完美使用。|25|2021-12-09|2021-09-02|
-|29|[didiaohu/50projects50days](https://github.com/didiaohu/50projects50days)|50个项目50天|24|2021-07-17|2021-07-17|
-|30|[actions-cool/cool](https://github.com/actions-cool/cool)|😎 Cool is over. 酷就完事了。https://actions-cool.github.io/cool/|24|2022-01-04|2021-02-05|
-|31|[thinktip/luci-theme-neobird](https://github.com/thinktip/luci-theme-neobird)|一个专门针对移动端优化的OpenWRT主题，基于luci-theme-material，全新的登录界面，沉浸式Webapp体验。|21|2022-01-11|2021-12-28|
-|32|[scopion/security_test_guide](https://github.com/scopion/security_test_guide)|安全测试导论|21|2021-12-16|2021-09-30|
+|26|[thinktip/luci-theme-neobird](https://github.com/thinktip/luci-theme-neobird)|一个专门针对移动端优化的OpenWRT主题，基于luci-theme-material，全新的登录界面，沉浸式Webapp体验。|27|2022-01-13|2021-12-28|
+|27|[yu120/lemon-guide](https://github.com/yu120/lemon-guide)|收纳操作系统、JAVA、算法、数据库、中间件、解决方案、架构、DevOps和大数据等技术栈总结！|26|2021-11-06|2021-07-10|
+|28|[NiceSprite34/GuanDong_Portal](https://github.com/NiceSprite34/GuanDong_Portal)|天翼校园 PHP登录|26|2021-11-18|2021-01-17|
+|29|[jasonLaw1015/GfEasyAdmin](https://github.com/jasonLaw1015/GfEasyAdmin)|快速crud开发框架，甚至于一行代码不用敲；自动根据数据库表结构自动生成crud代码；低代码开发框架；至少减少百分90%工作量；可快速把现有系统转成GfEasy版本；后端使用GoFrame开发;后台前端使用 cool-admin-vue；后台使用自适应布局，手机、PC完美使用。|25|2021-12-09|2021-09-02|
+|30|[didiaohu/50projects50days](https://github.com/didiaohu/50projects50days)|50个项目50天|24|2021-07-17|2021-07-17|
+|31|[actions-cool/cool](https://github.com/actions-cool/cool)|😎 Cool is over. 酷就完事了。https://actions-cool.github.io/cool/|24|2022-01-04|2021-02-05|
+|32|[scopion/security_test_guide](https://github.com/scopion/security_test_guide)|安全测试导论|22|2021-12-16|2021-09-30|
 |33|[zhuozhiyongde/PKU-Art](https://github.com/zhuozhiyongde/PKU-Art)|一个对北大教学网、编程网格等北大相关网站的CSS美化样式|20|2021-12-08|2021-11-27|
 |34|[nuanxinqing123/HomeNavigation](https://github.com/nuanxinqing123/HomeNavigation)|动态个人导航程序|20|2022-01-11|2021-11-16|
 |35|[mingluosunyi/typora-theme-ava-diana](https://github.com/mingluosunyi/typora-theme-ava-diana)|-|19|2021-09-22|2021-09-11|
-|36|[bdbdbdsbd/small_fontend_project](https://github.com/bdbdbdsbd/small_fontend_project)|-|18|2021-08-14|2021-07-22|
-|37|[Arcucy/Likey](https://github.com/Arcucy/Likey)|A community that works for anyone, any creation|18|2021-11-01|2021-02-20|
-|38|[yj369/Bilibili-MacOS-Windows-Client](https://github.com/yj369/Bilibili-MacOS-Windows-Client)|第三方 Bilibili MacOS & Windows 客户端，基于 Electron, next.js & 官方 API 制成。|17|2021-09-08|2021-04-16|
-|39|[jrainlau/MY-Kit](https://github.com/jrainlau/MY-Kit)|基于 Vite 的超丝滑 Vue3 组件库开发框架|15|2021-12-12|2021-12-11|
-|40|[MiloTnT/gym-management-system](https://github.com/MiloTnT/gym-management-system)|毕业设计，基于Spring Boot的健身房管理系统。|15|2021-08-24|2021-08-15|
-|41|[HXSecurity/DongTai-web](https://github.com/HXSecurity/DongTai-web)|dongtai web is the front-end project of "huoxian DongTaiIast" and is responsible for page display|15|2022-01-12|2021-03-22|
-|42|[xinlei3166/vitepress-demo](https://github.com/xinlei3166/vitepress-demo)|使用 Vitepress 搭建组件库文档站点。|15|2021-12-17|2021-01-21|
-|43|[JiyuShao/taro-dynamic-import-weapp](https://github.com/JiyuShao/taro-dynamic-import-weapp)|Taro 3.0 小程序动态加载|14|2021-11-22|2021-01-19|
-|44|[cndiandian/zuanbot.com](https://github.com/cndiandian/zuanbot.com)|骂人宝典（祖安语录）|13|2022-01-08|2022-01-08|
+|36|[cndiandian/zuanbot.com](https://github.com/cndiandian/zuanbot.com)|骂人宝典（祖安语录）|18|2022-01-08|2022-01-08|
+|37|[bdbdbdsbd/small_fontend_project](https://github.com/bdbdbdsbd/small_fontend_project)|-|18|2021-08-14|2021-07-22|
+|38|[Arcucy/Likey](https://github.com/Arcucy/Likey)|A community that works for anyone, any creation|18|2021-11-01|2021-02-20|
+|39|[yj369/Bilibili-MacOS-Windows-Client](https://github.com/yj369/Bilibili-MacOS-Windows-Client)|第三方 Bilibili MacOS & Windows 客户端，基于 Electron, next.js & 官方 API 制成。|17|2021-09-08|2021-04-16|
+|40|[jrainlau/MY-Kit](https://github.com/jrainlau/MY-Kit)|基于 Vite 的超丝滑 Vue3 组件库开发框架|15|2021-12-12|2021-12-11|
+|41|[MiloTnT/gym-management-system](https://github.com/MiloTnT/gym-management-system)|毕业设计，基于Spring Boot的健身房管理系统。|15|2021-08-24|2021-08-15|
+|42|[HXSecurity/DongTai-web](https://github.com/HXSecurity/DongTai-web)|dongtai web is the front-end project of "huoxian DongTaiIast" and is responsible for page display|15|2022-01-13|2021-03-22|
+|43|[xinlei3166/vitepress-demo](https://github.com/xinlei3166/vitepress-demo)|使用 Vitepress 搭建组件库文档站点。|15|2021-12-17|2021-01-21|
+|44|[JiyuShao/taro-dynamic-import-weapp](https://github.com/JiyuShao/taro-dynamic-import-weapp)|Taro 3.0 小程序动态加载|14|2021-11-22|2021-01-19|
 |45|[AntonVanke/typora-Aspartate-theme](https://github.com/AntonVanke/typora-Aspartate-theme)|Typora 主题: Aspartate。Typora Theme Aspartate.|13|2021-10-25|2021-10-24|
 |46|[shenweiyan/WebStack-Hugo](https://github.com/shenweiyan/WebStack-Hugo)|WebStack 网址导航 Hugo 主题，无需服务器，支持导航一键配置的纯静态网址导航网站。|13|2021-12-23|2021-07-26|
 |47|[masterQian/picdir](https://github.com/masterQian/picdir)|图片文件夹|12|2021-10-06|2021-10-03|
@@ -76,12 +76,13 @@
 |69|[sanqi377/bilibibli](https://github.com/sanqi377/bilibibli)|基于electron-vue开发的b站直播弹幕姬|6|2021-09-10|2021-08-06|
 |70|[Moonvy/Figma-CSS-Skins](https://github.com/Moonvy/Figma-CSS-Skins)|👗 这是一些针对 Figma.com 和 FigmaEX 插件的 CSS 样式，能够让你自定义它们的外观|6|2021-07-26|2021-07-22|
 |71|[YuKongA/HQ-ICON](https://github.com/YuKongA/HQ-ICON)|[Web]Get icons from App Store/从App Store获取应用图标|6|2021-11-29|2021-06-11|
-|72|[skyhack1212/repeater_console_qiankun](https://github.com/skyhack1212/repeater_console_qiankun)|基于qiankun框架，重写流量回放框架jvm-sandbox-repeater的console页面|5|2021-12-07|2021-11-13|
-|73|[coronaPolvo/report-typora-theme](https://github.com/coronaPolvo/report-typora-theme)|中文实验报告专用模版|5|2021-11-21|2021-11-06|
-|74|[ArcherLinsu/life-simulator](https://github.com/ArcherLinsu/life-simulator)|人生模拟器，自定义剧本版|5|2021-09-06|2021-09-04|
-|75|[tans/push-todo](https://github.com/tans/push-todo)|TODO LIST with 每日推送微信提醒|5|2021-08-09|2021-08-06|
-|76|[Yuanpei-Intelligence/Underground-System-Yuanpei](https://github.com/Yuanpei-Intelligence/Underground-System-Yuanpei)|元培学院地下室预约系统|5|2021-09-23|2021-01-23|
-|77|[zhouyu629/zy-upgrade](https://github.com/zhouyu629/zy-upgrade)|uni-app 在线升级|5|2021-08-12|2021-01-15|
+|72|[liluanhui/birdpaper-ui](https://github.com/liluanhui/birdpaper-ui)|🐬birdpaper-ui，提供基于 Vue3.x 的组件库|6|2022-01-02|2021-03-23|
+|73|[skyhack1212/repeater_console_qiankun](https://github.com/skyhack1212/repeater_console_qiankun)|基于qiankun框架，重写流量回放框架jvm-sandbox-repeater的console页面|5|2021-12-07|2021-11-13|
+|74|[coronaPolvo/report-typora-theme](https://github.com/coronaPolvo/report-typora-theme)|中文实验报告专用模版|5|2021-11-21|2021-11-06|
+|75|[ArcherLinsu/life-simulator](https://github.com/ArcherLinsu/life-simulator)|人生模拟器，自定义剧本版|5|2021-09-06|2021-09-04|
+|76|[tans/push-todo](https://github.com/tans/push-todo)|TODO LIST with 每日推送微信提醒|5|2021-08-09|2021-08-06|
+|77|[Yuanpei-Intelligence/Underground-System-Yuanpei](https://github.com/Yuanpei-Intelligence/Underground-System-Yuanpei)|元培学院地下室预约系统|5|2021-09-23|2021-01-23|
+|78|[zhouyu629/zy-upgrade](https://github.com/zhouyu629/zy-upgrade)|uni-app 在线升级|5|2021-08-12|2021-01-15|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
