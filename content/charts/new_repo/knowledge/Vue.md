@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2022-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around)|自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。|65|2022-01-12|2021-05-19|
+|1|[OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around)|自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。|65|2022-01-14|2021-05-19|
 |2|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|46|2022-01-13|2021-08-22|
 |3|[CoderWanp/vue-d3-graph](https://github.com/CoderWanp/vue-d3-graph)|vue+d3v6实现动态知识图谱可视化展示（包含2D和3D图谱展示）|43|2021-07-27|2021-04-07|
 |4|[eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)|大千世界，何其茫茫。谨此笔记，记录过往。凭君阅览，小站洛荒。如能收益，莫大奢望|37|2022-01-07|2021-05-24|
-|5|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|33|2022-01-12|2022-01-05|
+|5|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|33|2022-01-14|2022-01-05|
 |6|[toimc-team/front-end-notes](https://github.com/toimc-team/front-end-notes)|大前端课程电子书计划，前端知识总结 + 分享|26|2022-01-08|2021-04-16|
 |7|[SSmJaE/XueXiTonsSign_Electron](https://github.com/SSmJaE/XueXiTonsSign_Electron)|基于Electron的超星学习通签到小工具，支持手动签到、签到队列自动签到|24|2021-11-02|2021-04-19|
 |8|[Creator-SN/IKFB](https://github.com/Creator-SN/IKFB)|Involution King Fun Book (IKFB, Chinese: 卷王快乐本) is an integrated management system for papers and literature. Powered by Electron.|19|2021-12-08|2021-09-20|
 |9|[hyw123456/gugu](https://github.com/hyw123456/gugu)|咕咕语翻译器|15|2021-12-15|2021-12-15|
-|10|[lvwzhen/hn](https://github.com/lvwzhen/hn)|河南暴雨救援手册|14|2021-07-23|2021-07-21|
-|11|[daodaolee/vuepress-plugin-awesome-musicplayer](https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer)|一款基于vuepress插件的音乐播放器，打破以往博客音乐播放方式，让用户有更佳的沉浸式体验！|13|2022-01-09|2021-12-23|
+|10|[daodaolee/vuepress-plugin-awesome-musicplayer](https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer)|一款基于vuepress插件的音乐播放器，打破以往博客音乐播放方式，让用户有更佳的沉浸式体验！|14|2022-01-09|2021-12-23|
+|11|[lvwzhen/hn](https://github.com/lvwzhen/hn)|河南暴雨救援手册|14|2021-07-23|2021-07-21|
 |12|[rainforest2022/rainforest-blog-frontend](https://github.com/rainforest2022/rainforest-blog-frontend)|使用 Vue3 Vue-Router Vuex 和 Element Plus 编写的博客|13|2021-10-12|2021-03-30|
 |13|[OldsixShang/wechat-menu-editor](https://github.com/OldsixShang/wechat-menu-editor)|微信公众号自定义菜单编辑组建|11|2021-09-07|2021-08-30|
 |14|[mcwenzai/psychology-uniapp](https://github.com/mcwenzai/psychology-uniapp)|心理咨询uniapp，主要包括咨询、视频/音频图文课程、测评、预约咨询师、IM通讯等功能|10|2021-07-23|2021-07-23|

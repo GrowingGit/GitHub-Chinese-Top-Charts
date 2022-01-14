@@ -1,48 +1,48 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[X-X-Y/SVM_CSP_EEG](https://github.com/X-X-Y/SVM_CSP_EEG)|基于一个公开数据集和一个BCI竞赛数据集，提供一个SVM-CSP运动想象二分类demo|3|0|2021-08-02|
-|2|[zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW)|Collaborative representation with background purification and saliency weight for hyperspectral anomaly detection|7|0|2022-01-10|
-|3|[complone/NaSch](https://github.com/complone/NaSch)|三车道交通流元胞自动机matlab实现|19|0|2021-08-07|
-|4|[weisongwen/researchTools](https://github.com/weisongwen/researchTools)|useful blogs for research|77|0|2021-11-23|
-|5|[zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW-](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW-)|This is the code for the paper nemed  'Anomaly Detection for Hyperspectral Imagery Based on the Regularized Subspace Method and Collaborative Representation'|16|0|2021-09-28|
-|6|[ShurenQi/MomentToolbox](https://github.com/ShurenQi/MomentToolbox)|Matlab code for the paper "A survey of orthogonal moments for image representation: Theory, implementation, and evaluation"|12|0|2021-11-25|
-|7|[Say-Hello2y/Path-planning-for-robots](https://github.com/Say-Hello2y/Path-planning-for-robots)|use Dijkstra 使用Dijkstra法实现了基于栅格地图的移动机器人路径规划|5|0|2021-12-29|
-|8|[AngeloUNIMI/Demo_FusionNet](https://github.com/AngeloUNIMI/Demo_FusionNet)|Demonstration of FusionNet for touchless palmprint and finger texture recognition. Based on the source code for the 2019 IEEE CIVEMSA paper "Touchless palmprint and finger texture recognition: A Deep  ...|9|0|2021-09-06|
-|9|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|67|0|2021-12-30|
-|10|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|6|0|2022-01-09|
-|11|[AngeloUNIMI/FusionNet](https://github.com/AngeloUNIMI/FusionNet)|Source code for the 2019 IEEE CIVEMSA paper "Touchless palmprint and finger texture recognition: A Deep Learning fusion approach"|15|0|2021-09-06|
-|12|[fzzfbyx/Audio-FIR-denoising-filter-MATLAB_GUI](https://github.com/fzzfbyx/Audio-FIR-denoising-filter-MATLAB_GUI)|利用MATLAB GUI设计平台，用窗函数法设计FIR数字滤波器，对所给出的含有噪声的声音信号进行数字滤波处理，得到降噪的声音信号，进行时域频域分析，同时分析不同窗函数的效果。|5|0|2021-09-13|
-|13|[BetterBench/2021-APMCM-Problem-A](https://github.com/BetterBench/2021-APMCM-Problem-A)|2021年亚太地区数学建模赛题A(图像边缘分析与应用) Halcon方案实现、代码、实验数据|3|0|2021-11-30|
-|14|[yqx7150/EDAEPRec](https://github.com/yqx7150/EDAEPRec)|Enhanced Denoising Auto-Encoding Priors for Reconstruction |7|0|2021-08-04|
-|15|[CXris/computerVision-stitching](https://github.com/CXris/computerVision-stitching)|使用Harris角点检测算法、最小二乘拟合、随机抽样一致算法(RANSAC)以及 HOG 描述符、线性融合等计算机视觉算法，使用Matlab实现将多张图像拼接成一张全景图。|2|0|2021-08-25|
-|16|[bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm](https://github.com/bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm)|-|8|0|2021-11-24|
-|17|[ScottXjw/Volterra_lms](https://github.com/ScottXjw/Volterra_lms)|Volterra_lms算法|2|0|2021-11-03|
-|18|[JackHCC/Computer-Generated-Hologram](https://github.com/JackHCC/Computer-Generated-Hologram)|计算机全息计算与仿真框架【This library introduces the current production process of computer holography, and uses MATLAB and Python to record and reproduce holograms. In the future, I will build a computer hologra ...|3|0|2021-12-16|
-|19|[ToKiNoBug/3dPixelPaintingInMinecraft](https://github.com/ToKiNoBug/3dPixelPaintingInMinecraft)|在minecraft中生成3d的地图画|19|0|2021-09-24|
-|20|[Cirno9-dev/learning](https://github.com/Cirno9-dev/learning)|机器学习|3|0|2021-12-18|
-|21|[GenericAltimetryTools/CalAlti](https://github.com/GenericAltimetryTools/CalAlti)|Calibration of Satellite Altimeter using the tide gauge data as well as auxiliary models|8|0|2021-08-11|
-|22|[HanpyBin/Numerical-Analysis-Experiment](https://github.com/HanpyBin/Numerical-Analysis-Experiment)|武汉理工大学数值分析实验-基于matlab|5|0|2021-08-15|
-|23|[ja754969/Ocean-Current-Observation-and-Analysis](https://github.com/ja754969/Ocean-Current-Observation-and-Analysis)|洋流觀測分析 class at NTOU. File Station link : |2|0|2021-08-30|
-|24|[FanDady/Communication-Simulation](https://github.com/FanDady/Communication-Simulation)|这是福州大学通信原理课程设计——2ASK，2FSK，2PSK等调制解调系统的仿真实现|5|0|2021-07-20|
-|25|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|74|0|2022-01-07|
-|26|[cmtso/EKI_geophysics_2020](https://github.com/cmtso/EKI_geophysics_2020)|Example MATLAB scripts for running ensemble Kalman inversion for electrical resistivity tomography data to accompany paper.|7|0|2021-10-20|
-|27|[Dingqinliu/Encryption_Matlab](https://github.com/Dingqinliu/Encryption_Matlab)|与图像加密有关的一些代码|3|0|2021-07-16|
-|28|[MrCaiDev/matlab-experiment](https://github.com/MrCaiDev/matlab-experiment)|程序基础+微积分+数值计算+最优化+随机模拟+椭球寻径。|3|0|2021-12-23|
-|29|[zxb17zxb/SLIC](https://github.com/zxb17zxb/SLIC)|一个SLIC算法用于图像分割的matlab实现|3|0|2021-12-07|
-|30|[xingchenzhang/VIFB](https://github.com/xingchenzhang/VIFB)|Visible and Infrared Image Fusion Benchmark|151|0|2021-09-27|
-|31|[seer-group329/PositionAndPosConnectionOfTheCar](https://github.com/seer-group329/PositionAndPosConnectionOfTheCar)|在已知无人仓储车的起始与目标位姿的条件下，得到三阶连续的曲线路径|5|0|2021-09-18|
-|32|[yeyuanxin110/CFOG](https://github.com/yeyuanxin110/CFOG)|-|11|0|2021-11-20|
-|33|[yfor1008/saliency_detection](https://github.com/yfor1008/saliency_detection)|显著性检测|5|0|2021-10-12|
-|34|[X-X-Y/about_EEG_EandP](https://github.com/X-X-Y/about_EEG_EandP)|说说脑电信号的频谱、能量、功率谱、功率谱密度都是指什么|3|0|2021-07-15|
-|35|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|0|2021-12-21|
-|36|[Uestc-xiye/CUMCM2020-Probelms-C](https://github.com/Uestc-xiye/CUMCM2020-Probelms-C)|2020年高教社杯全国大学生数学建模C题：中小微企业的信贷决策|2|0|2021-07-26|
-|37|[tjzhang1993/Infrared-image-processing](https://github.com/tjzhang1993/Infrared-image-processing)|用于处理红外热成像得到的图片|2|0|2021-11-29|
-|38|[chaiqingao/Sudoku](https://github.com/chaiqingao/Sudoku)|一个用MATLAB写的数独小游戏：以命令行和GUI两种方式生成数独和求解数独，你可以作为游戏来玩或作为求解数独的工具。|3|0|2021-07-15|
+|1|[a839290771/SSVEP-BCI-OpenBCI](https://github.com/a839290771/SSVEP-BCI-OpenBCI)|基于OpenBCI（Bciduino）完成的SSVEP项目，包括刺激器、信号实时传输、以及基于FFT方式的信号处理|3|2|2022-01-14|
+|2|[X-X-Y/SVM_CSP_EEG](https://github.com/X-X-Y/SVM_CSP_EEG)|基于一个公开数据集和一个BCI竞赛数据集，提供一个SVM-CSP运动想象二分类demo|3|0|2021-08-02|
+|3|[zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW)|Collaborative representation with background purification and saliency weight for hyperspectral anomaly detection|7|0|2022-01-10|
+|4|[complone/NaSch](https://github.com/complone/NaSch)|三车道交通流元胞自动机matlab实现|19|0|2021-08-07|
+|5|[weisongwen/researchTools](https://github.com/weisongwen/researchTools)|useful blogs for research|77|0|2021-11-23|
+|6|[zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW-](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW-)|This is the code for the paper nemed  'Anomaly Detection for Hyperspectral Imagery Based on the Regularized Subspace Method and Collaborative Representation'|16|0|2021-09-28|
+|7|[ShurenQi/MomentToolbox](https://github.com/ShurenQi/MomentToolbox)|Matlab code for the paper "A survey of orthogonal moments for image representation: Theory, implementation, and evaluation"|12|0|2021-11-25|
+|8|[Say-Hello2y/Path-planning-for-robots](https://github.com/Say-Hello2y/Path-planning-for-robots)|use Dijkstra 使用Dijkstra法实现了基于栅格地图的移动机器人路径规划|5|0|2021-12-29|
+|9|[AngeloUNIMI/Demo_FusionNet](https://github.com/AngeloUNIMI/Demo_FusionNet)|Demonstration of FusionNet for touchless palmprint and finger texture recognition. Based on the source code for the 2019 IEEE CIVEMSA paper "Touchless palmprint and finger texture recognition: A Deep  ...|9|0|2021-09-06|
+|10|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|67|0|2021-12-30|
+|11|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|6|0|2022-01-14|
+|12|[AngeloUNIMI/FusionNet](https://github.com/AngeloUNIMI/FusionNet)|Source code for the 2019 IEEE CIVEMSA paper "Touchless palmprint and finger texture recognition: A Deep Learning fusion approach"|15|0|2021-09-06|
+|13|[fzzfbyx/Audio-FIR-denoising-filter-MATLAB_GUI](https://github.com/fzzfbyx/Audio-FIR-denoising-filter-MATLAB_GUI)|利用MATLAB GUI设计平台，用窗函数法设计FIR数字滤波器，对所给出的含有噪声的声音信号进行数字滤波处理，得到降噪的声音信号，进行时域频域分析，同时分析不同窗函数的效果。|5|0|2021-09-13|
+|14|[BetterBench/2021-APMCM-Problem-A](https://github.com/BetterBench/2021-APMCM-Problem-A)|2021年亚太地区数学建模赛题A(图像边缘分析与应用) Halcon方案实现、代码、实验数据|3|0|2021-11-30|
+|15|[yqx7150/EDAEPRec](https://github.com/yqx7150/EDAEPRec)|Enhanced Denoising Auto-Encoding Priors for Reconstruction |7|0|2021-08-04|
+|16|[CXris/computerVision-stitching](https://github.com/CXris/computerVision-stitching)|使用Harris角点检测算法、最小二乘拟合、随机抽样一致算法(RANSAC)以及 HOG 描述符、线性融合等计算机视觉算法，使用Matlab实现将多张图像拼接成一张全景图。|2|0|2021-08-25|
+|17|[bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm](https://github.com/bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm)|-|8|0|2021-11-24|
+|18|[ScottXjw/Volterra_lms](https://github.com/ScottXjw/Volterra_lms)|Volterra_lms算法|2|0|2021-11-03|
+|19|[JackHCC/Computer-Generated-Hologram](https://github.com/JackHCC/Computer-Generated-Hologram)|计算机全息计算与仿真框架【This library introduces the current production process of computer holography, and uses MATLAB and Python to record and reproduce holograms. In the future, I will build a computer hologra ...|3|0|2022-01-14|
+|20|[ToKiNoBug/3dPixelPaintingInMinecraft](https://github.com/ToKiNoBug/3dPixelPaintingInMinecraft)|在minecraft中生成3d的地图画|19|0|2021-09-24|
+|21|[Cirno9-dev/learning](https://github.com/Cirno9-dev/learning)|机器学习|3|0|2021-12-18|
+|22|[GenericAltimetryTools/CalAlti](https://github.com/GenericAltimetryTools/CalAlti)|Calibration of Satellite Altimeter using the tide gauge data as well as auxiliary models|8|0|2021-08-11|
+|23|[HanpyBin/Numerical-Analysis-Experiment](https://github.com/HanpyBin/Numerical-Analysis-Experiment)|武汉理工大学数值分析实验-基于matlab|5|0|2021-08-15|
+|24|[ja754969/Ocean-Current-Observation-and-Analysis](https://github.com/ja754969/Ocean-Current-Observation-and-Analysis)|洋流觀測分析 class at NTOU. File Station link : |2|0|2021-08-30|
+|25|[FanDady/Communication-Simulation](https://github.com/FanDady/Communication-Simulation)|这是福州大学通信原理课程设计——2ASK，2FSK，2PSK等调制解调系统的仿真实现|5|0|2021-07-20|
+|26|[Zhao-Jichao/Distributed_optimal_-formation_control_of_heterogeneous_multi-agent_systems_with_mixed-orders](https://github.com/Zhao-Jichao/Distributed_optimal_-formation_control_of_heterogeneous_multi-agent_systems_with_mixed-orders)|异构混合阶多智能体系统编队控制的分布式优化|3|0|2021-09-11|
+|27|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|74|0|2022-01-07|
+|28|[cmtso/EKI_geophysics_2020](https://github.com/cmtso/EKI_geophysics_2020)|Example MATLAB scripts for running ensemble Kalman inversion for electrical resistivity tomography data to accompany paper.|7|0|2021-10-20|
+|29|[Dingqinliu/Encryption_Matlab](https://github.com/Dingqinliu/Encryption_Matlab)|与图像加密有关的一些代码|3|0|2021-07-16|
+|30|[MrCaiDev/matlab-experiment](https://github.com/MrCaiDev/matlab-experiment)|程序基础+微积分+数值计算+最优化+随机模拟+椭球寻径。|3|0|2021-12-23|
+|31|[zxb17zxb/SLIC](https://github.com/zxb17zxb/SLIC)|一个SLIC算法用于图像分割的matlab实现|3|0|2021-12-07|
+|32|[xingchenzhang/VIFB](https://github.com/xingchenzhang/VIFB)|Visible and Infrared Image Fusion Benchmark|151|0|2021-09-27|
+|33|[seer-group329/PositionAndPosConnectionOfTheCar](https://github.com/seer-group329/PositionAndPosConnectionOfTheCar)|在已知无人仓储车的起始与目标位姿的条件下，得到三阶连续的曲线路径|5|0|2021-09-18|
+|34|[yeyuanxin110/CFOG](https://github.com/yeyuanxin110/CFOG)|-|11|0|2021-11-20|
+|35|[yfor1008/saliency_detection](https://github.com/yfor1008/saliency_detection)|显著性检测|5|0|2021-10-12|
+|36|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|0|2021-12-21|
+|37|[Uestc-xiye/CUMCM2020-Probelms-C](https://github.com/Uestc-xiye/CUMCM2020-Probelms-C)|2020年高教社杯全国大学生数学建模C题：中小微企业的信贷决策|2|0|2021-07-26|
+|38|[tjzhang1993/Infrared-image-processing](https://github.com/tjzhang1993/Infrared-image-processing)|用于处理红外热成像得到的图片|2|0|2021-11-29|
 |39|[woniuhuli/kdTree](https://github.com/woniuhuli/kdTree)|matlab实现对数据建立kd树，并且实现最近邻搜索|12|0|2021-12-14|
 |40|[nanguoyu/Captcha-recognition](https://github.com/nanguoyu/Captcha-recognition)|[CAIA I Lab 5] Captcha recognition implemented by Matlab  [CAIA I Lab 5]数字图像验证码识别 |5|0|2021-12-14|
 |41|[Say-Hello2y/MultiAgentSystem](https://github.com/Say-Hello2y/MultiAgentSystem)|针对基本的一阶二阶多智能体控制，给出了基本 的Matlab仿真|4|0|2022-01-07|
