@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|377|2021-12-15|
+|1|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|377|2022-01-15|
 |2|[liuziwei7/fashion-landmarks](https://github.com/liuziwei7/fashion-landmarks)|Fashion Landmark Detection in the Wild|329|2021-10-09|
-|3|[xingchenzhang/VIFB](https://github.com/xingchenzhang/VIFB)|Visible and Infrared Image Fusion Benchmark|151|2021-09-27|
+|3|[xingchenzhang/VIFB](https://github.com/xingchenzhang/VIFB)|Visible and Infrared Image Fusion Benchmark|154|2021-09-27|
 |4|[TianLin0509/BF-design-with-DL](https://github.com/TianLin0509/BF-design-with-DL)|Beamforming design with deep learning.|129|2021-08-01|
 |5|[qwe14789cn/radar_tools](https://github.com/qwe14789cn/radar_tools)|信号处理工具箱|103|2021-08-31|
 |6|[weisongwen/researchTools](https://github.com/weisongwen/researchTools)|useful blogs for research|77|2021-11-23|
@@ -67,17 +67,15 @@
 |60|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|3|2021-12-25|
 |61|[X-X-Y/SVM_CSP_EEG](https://github.com/X-X-Y/SVM_CSP_EEG)|基于一个公开数据集和一个BCI竞赛数据集，提供一个SVM-CSP运动想象二分类demo|3|2021-08-02|
 |62|[heihei2122/mag_cuboid](https://github.com/heihei2122/mag_cuboid)|a gui or app based matlab to calculate B  force stiffness  矩形磁体的计算|3|2021-11-20|
-|63|[z-xr/SSL](https://github.com/z-xr/SSL)|基于matlab的声源定位广义互相关算法的实现|3|2021-07-16|
-|64|[baishanca/Communication-Matlab](https://github.com/baishanca/Communication-Matlab)|对通信原理的内容的matlab实现|3|2021-08-06|
-|65|[Dingqinliu/Encryption_Matlab](https://github.com/Dingqinliu/Encryption_Matlab)|与图像加密有关的一些代码|3|2021-07-16|
-|66|[Cirno9-dev/learning](https://github.com/Cirno9-dev/learning)|机器学习|3|2021-12-18|
-|67|[Magica-Chen/zhihu_writing](https://github.com/Magica-Chen/zhihu_writing)|Some simple codes for zhihu column writing: 高斯世界下的Machine Learning|3|2021-12-26|
-|68|[DietCokewithSugar/undamage-blood-glucose](https://github.com/DietCokewithSugar/undamage-blood-glucose)|基于改进深度回归网络的无创血糖检测算法|2|2021-12-02|
-|69|[ja754969/Ocean-Current-Observation-and-Analysis](https://github.com/ja754969/Ocean-Current-Observation-and-Analysis)|洋流觀測分析 class at NTOU. File Station link : |2|2021-08-30|
-|70|[CXris/computerVision-stitching](https://github.com/CXris/computerVision-stitching)|使用Harris角点检测算法、最小二乘拟合、随机抽样一致算法(RANSAC)以及 HOG 描述符、线性融合等计算机视觉算法，使用Matlab实现将多张图像拼接成一张全景图。|2|2021-08-25|
-|71|[Uestc-xiye/CUMCM2020-Probelms-C](https://github.com/Uestc-xiye/CUMCM2020-Probelms-C)|2020年高教社杯全国大学生数学建模C题：中小微企业的信贷决策|2|2021-07-26|
-|72|[ScottXjw/Volterra_lms](https://github.com/ScottXjw/Volterra_lms)|Volterra_lms算法|2|2021-11-03|
-|73|[tjzhang1993/Infrared-image-processing](https://github.com/tjzhang1993/Infrared-image-processing)|用于处理红外热成像得到的图片|2|2021-11-29|
+|63|[baishanca/Communication-Matlab](https://github.com/baishanca/Communication-Matlab)|对通信原理的内容的matlab实现|3|2021-08-06|
+|64|[Cirno9-dev/learning](https://github.com/Cirno9-dev/learning)|机器学习|3|2021-12-18|
+|65|[Magica-Chen/zhihu_writing](https://github.com/Magica-Chen/zhihu_writing)|Some simple codes for zhihu column writing: 高斯世界下的Machine Learning|3|2021-12-26|
+|66|[DietCokewithSugar/undamage-blood-glucose](https://github.com/DietCokewithSugar/undamage-blood-glucose)|基于改进深度回归网络的无创血糖检测算法|2|2021-12-02|
+|67|[ja754969/Ocean-Current-Observation-and-Analysis](https://github.com/ja754969/Ocean-Current-Observation-and-Analysis)|洋流觀測分析 class at NTOU. File Station link : |2|2021-08-30|
+|68|[CXris/computerVision-stitching](https://github.com/CXris/computerVision-stitching)|使用Harris角点检测算法、最小二乘拟合、随机抽样一致算法(RANSAC)以及 HOG 描述符、线性融合等计算机视觉算法，使用Matlab实现将多张图像拼接成一张全景图。|2|2021-08-25|
+|69|[Uestc-xiye/CUMCM2020-Probelms-C](https://github.com/Uestc-xiye/CUMCM2020-Probelms-C)|2020年高教社杯全国大学生数学建模C题：中小微企业的信贷决策|2|2021-07-26|
+|70|[ScottXjw/Volterra_lms](https://github.com/ScottXjw/Volterra_lms)|Volterra_lms算法|2|2021-11-03|
+|71|[tjzhang1993/Infrared-image-processing](https://github.com/tjzhang1993/Infrared-image-processing)|用于处理红外热成像得到的图片|2|2021-11-29|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

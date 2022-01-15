@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Dart
-<sub>数据更新: 2022-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -19,7 +19,7 @@
 |12|[jiang111/flutter_code](https://github.com/jiang111/flutter_code)|b站视频教程： https://space.bilibili.com/480410119/ |249|0|2021-10-25|
 |13|[DevYao/flutter_wechat_clone](https://github.com/DevYao/flutter_wechat_clone)|flutter 学习 demo|218|0|2021-09-24|
 |14|[lizhuoyuan/flutter_study](https://github.com/lizhuoyuan/flutter_study)|flutter 学习记录|250|0|2021-08-12|
-|15|[HuRuWo/HowToReserveFlutter](https://github.com/HuRuWo/HowToReserveFlutter)|HowToReserveFlutter is some  reverse flutter note 。flutter逆向笔记，如何一步一步分析 flutter apk。|7|0|2022-01-06|
+|15|[HuRuWo/HowToReserveFlutter](https://github.com/HuRuWo/HowToReserveFlutter)|HowToReserveFlutter is some  reverse flutter note 。flutter逆向笔记，如何一步一步分析 flutter apk。|8|0|2022-01-06|
 |16|[ifredom/flutter_plugins_example](https://github.com/ifredom/flutter_plugins_example)|flutter第三方插件：地图，图表，蓝牙，等使用示例集合|7|0|2021-12-28|
 |17|[ChessLuo/flutter_study_app](https://github.com/ChessLuo/flutter_study_app)|🔥勤能补拙，我希望能利用业余时间去学习及总结一些有关flutter的知识并运用到项目中去，Come on！！！|41|0|2021-08-01|
 |18|[ifgyong/flutter-example](https://github.com/ifgyong/flutter-example)|120多种小部件的使用例子，根据 flutter-book的例子,可以直接运行的哦|32|0|2021-08-12|
@@ -28,7 +28,7 @@
 |21|[ThinkerJack/flutter_demo](https://github.com/ThinkerJack/flutter_demo)|Flutter开发中常用功能合集。|5|0|2021-08-01|
 |22|[RxReader/weibo_kit](https://github.com/RxReader/weibo_kit)|flutter版新浪微博登录/分享|81|0|2021-12-02|
 |23|[AgoraIO-Community/Agora-Flutter-Quickstart](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart)|Quickstart guide for the Agora Flutter SDK(Android/iOS)|489|0|2021-10-14|
-|24|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|36|0|2022-01-13|
+|24|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|37|0|2022-01-13|
 |25|[woshiluoyong/FlutterNcpApp](https://github.com/woshiluoyong/FlutterNcpApp)|本应用采用kotlin语言编写查看NCP(新型冠状肺炎)疫情数据(可做Flutter入门参考项目)|6|0|2021-08-16|
 |26|[kangshaojun/flutter-book](https://github.com/kangshaojun/flutter-book)|Flutter入门与实战随书源码 第2版|536|0|2021-07-18|
 |27|[longer96/flutter-demo](https://github.com/longer96/flutter-demo)|🔥Flutter 那些花里胡哨的界面🔥，花里胡哨的底部导航，仿抖音、小红书底部菜单，向上展开菜单，半圆菜单，中间凹进去的菜单，动画底部导航|74|0|2021-10-14|

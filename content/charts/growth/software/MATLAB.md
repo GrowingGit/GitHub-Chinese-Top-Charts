@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[a839290771/SSVEP-BCI-OpenBCI](https://github.com/a839290771/SSVEP-BCI-OpenBCI)|基于OpenBCI（Bciduino）完成的SSVEP项目，包括刺激器、信号实时传输、以及基于FFT方式的信号处理|3|2|2022-01-14|
+|1|[a839290771/SSVEP-BCI-OpenBCI](https://github.com/a839290771/SSVEP-BCI-OpenBCI)|基于OpenBCI（Bciduino）完成的SSVEP项目，包括刺激器、信号实时传输、以及基于FFT方式的信号处理|3|1|2022-01-14|
 |2|[X-X-Y/SVM_CSP_EEG](https://github.com/X-X-Y/SVM_CSP_EEG)|基于一个公开数据集和一个BCI竞赛数据集，提供一个SVM-CSP运动想象二分类demo|3|0|2021-08-02|
 |3|[zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW)|Collaborative representation with background purification and saliency weight for hyperspectral anomaly detection|7|0|2022-01-10|
 |4|[complone/NaSch](https://github.com/complone/NaSch)|三车道交通流元胞自动机matlab实现|19|0|2021-08-07|
@@ -33,51 +33,49 @@
 |26|[Zhao-Jichao/Distributed_optimal_-formation_control_of_heterogeneous_multi-agent_systems_with_mixed-orders](https://github.com/Zhao-Jichao/Distributed_optimal_-formation_control_of_heterogeneous_multi-agent_systems_with_mixed-orders)|异构混合阶多智能体系统编队控制的分布式优化|3|0|2021-09-11|
 |27|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|74|0|2022-01-07|
 |28|[cmtso/EKI_geophysics_2020](https://github.com/cmtso/EKI_geophysics_2020)|Example MATLAB scripts for running ensemble Kalman inversion for electrical resistivity tomography data to accompany paper.|7|0|2021-10-20|
-|29|[Dingqinliu/Encryption_Matlab](https://github.com/Dingqinliu/Encryption_Matlab)|与图像加密有关的一些代码|3|0|2021-07-16|
-|30|[MrCaiDev/matlab-experiment](https://github.com/MrCaiDev/matlab-experiment)|程序基础+微积分+数值计算+最优化+随机模拟+椭球寻径。|3|0|2021-12-23|
-|31|[zxb17zxb/SLIC](https://github.com/zxb17zxb/SLIC)|一个SLIC算法用于图像分割的matlab实现|3|0|2021-12-07|
-|32|[xingchenzhang/VIFB](https://github.com/xingchenzhang/VIFB)|Visible and Infrared Image Fusion Benchmark|151|0|2021-09-27|
-|33|[seer-group329/PositionAndPosConnectionOfTheCar](https://github.com/seer-group329/PositionAndPosConnectionOfTheCar)|在已知无人仓储车的起始与目标位姿的条件下，得到三阶连续的曲线路径|5|0|2021-09-18|
-|34|[yeyuanxin110/CFOG](https://github.com/yeyuanxin110/CFOG)|-|11|0|2021-11-20|
-|35|[yfor1008/saliency_detection](https://github.com/yfor1008/saliency_detection)|显著性检测|5|0|2021-10-12|
-|36|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|0|2021-12-21|
-|37|[Uestc-xiye/CUMCM2020-Probelms-C](https://github.com/Uestc-xiye/CUMCM2020-Probelms-C)|2020年高教社杯全国大学生数学建模C题：中小微企业的信贷决策|2|0|2021-07-26|
-|38|[tjzhang1993/Infrared-image-processing](https://github.com/tjzhang1993/Infrared-image-processing)|用于处理红外热成像得到的图片|2|0|2021-11-29|
-|39|[woniuhuli/kdTree](https://github.com/woniuhuli/kdTree)|matlab实现对数据建立kd树，并且实现最近邻搜索|12|0|2021-12-14|
-|40|[nanguoyu/Captcha-recognition](https://github.com/nanguoyu/Captcha-recognition)|[CAIA I Lab 5] Captcha recognition implemented by Matlab  [CAIA I Lab 5]数字图像验证码识别 |5|0|2021-12-14|
-|41|[Say-Hello2y/MultiAgentSystem](https://github.com/Say-Hello2y/MultiAgentSystem)|针对基本的一阶二阶多智能体控制，给出了基本 的Matlab仿真|4|0|2022-01-07|
-|42|[z-xr/SSL](https://github.com/z-xr/SSL)|基于matlab的声源定位广义互相关算法的实现|3|0|2021-07-16|
-|43|[AirChem/F0AM](https://github.com/AirChem/F0AM)|Framework for 0-D Atmospheric Modeling|30|0|2021-12-23|
-|44|[acsamson/ImageFusion-Algorithm](https://github.com/acsamson/ImageFusion-Algorithm)|ImageFusion algorithm, SSIM and PSNR evaluation（常见图像融合算法以及SSIM和PSNR评价|3|0|2021-08-30|
-|45|[zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles](https://github.com/zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles)|Hyperspectral Change Detection Based on Multiple Morphological Profiles|8|0|2021-09-28|
-|46|[qwe14789cn/radar_tools](https://github.com/qwe14789cn/radar_tools)|信号处理工具箱|103|0|2021-08-31|
-|47|[zephyrhours/Hyperspectyral-Change-Detection-TDRD](https://github.com/zephyrhours/Hyperspectyral-Change-Detection-TDRD)|Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection|7|0|2021-09-15|
-|48|[ZhangHongBo2019/Constraint_NSGA-II_Algorithms](https://github.com/ZhangHongBo2019/Constraint_NSGA-II_Algorithms)|这是一个带约束条件的非支配排序遗传算法NSGA-II，解决了一个多目标优化问题|25|0|2021-09-10|
-|49|[himynameisfuego/SiTraNo](https://github.com/himynameisfuego/SiTraNo)|A MATLAB app for tonal-transient-noise decomposition of audio signals.|10|0|2021-09-08|
-|50|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|3|0|2021-12-25|
-|51|[WoodyBuendia/HFSS-MATLAB-API](https://github.com/WoodyBuendia/HFSS-MATLAB-API)|HFSS-MATLAB-API is a library toolbox to control Ansoft HFSS from MATLAB using  the HFSS Scripting Interface. This tool provides a set of MATLAB functions to  create 3D objects in HFSS by generating th ...|44|0|2021-09-17|
-|52|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|377|0|2021-12-15|
-|53|[wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve](https://github.com/wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve)|使用贝塞尔曲线，通过合理选取控制点使轨迹在拼接点处曲率连续|5|0|2021-09-06|
-|54|[YuJie2020/MATLAB-HFSS-API](https://github.com/YuJie2020/MATLAB-HFSS-API)|HFSS-MATLAB-API 是通过 MATLAB 编写的一套可调用的 HFSS-MATLAB 应用程序编程接口，通过编写 MATLAB 代码来生成执行相关特定操作的 HFSS 程序所需的 VBS 脚本|6|0|2021-08-19|
-|55|[baishanca/Communication-Matlab](https://github.com/baishanca/Communication-Matlab)|对通信原理的内容的matlab实现|3|0|2021-08-06|
-|56|[tyl-stu/Compressed-sensing-code](https://github.com/tyl-stu/Compressed-sensing-code)|自己搜集和改写的压缩感知相关程序代码|4|0|2021-07-26|
-|57|[fuzhiqiang1230/DLRRPD](https://github.com/fuzhiqiang1230/DLRRPD)|This repository is used for sharing the source code of Double low-rank representation with projection distance penalty for clustering|9|0|2021-12-08|
-|58|[Magica-Chen/zhihu_writing](https://github.com/Magica-Chen/zhihu_writing)|Some simple codes for zhihu column writing: 高斯世界下的Machine Learning|3|0|2021-12-26|
-|59|[WeisongZhao/Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|Official MATLAB implementation of the "Sparse deconvolution" -v1.0.3|25|0|2021-12-31|
-|60|[AomanHao/Matlab-Image-Dehaze-Enhance](https://github.com/AomanHao/Matlab-Image-Dehaze-Enhance)|图像去雾、图像增强、灰度直方图均衡化等|42|0|2021-10-23|
-|61|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|4|0|2021-12-29|
-|62|[DietCokewithSugar/undamage-blood-glucose](https://github.com/DietCokewithSugar/undamage-blood-glucose)|基于改进深度回归网络的无创血糖检测算法|2|0|2021-12-02|
-|63|[mingsongli/acycle](https://github.com/mingsongli/acycle)|Acycle: Time-series analysis software for research and education|54|0|2021-12-12|
-|64|[heihei2122/mag_cuboid](https://github.com/heihei2122/mag_cuboid)|a gui or app based matlab to calculate B  force stiffness  矩形磁体的计算|3|0|2021-11-20|
-|65|[NOCIONS/letswave6](https://github.com/NOCIONS/letswave6)|Letswave 6 - Matlab EEG signal processing toolbox |44|0|2021-08-23|
-|66|[JackHCC/Routing-Algorithm](https://github.com/JackHCC/Routing-Algorithm)|MATLAB实现路由算法基本原理（内附报告）[MATLAB realizes the basic principle of routing algorithm - mathematics experiment work (with report)]|10|0|2021-12-15|
-|67|[fzzfbyx/CFAR-radar-algorithm_MATLAB_GUI](https://github.com/fzzfbyx/CFAR-radar-algorithm_MATLAB_GUI)|利用MATLAB GUI设计平台，设计多算法雷达一维恒虚警检测CFAR可视化界面，通过选择噪声类型、目标类型、算法类型，手动输入相关参数，可视化显示噪声波形与目标检测的回波-检测门限波形图。|7|0|2021-09-13|
-|68|[TianLin0509/BF-design-with-DL](https://github.com/TianLin0509/BF-design-with-DL)|Beamforming design with deep learning.|129|0|2021-08-01|
-|69|[liuziwei7/fashion-landmarks](https://github.com/liuziwei7/fashion-landmarks)|Fashion Landmark Detection in the Wild|329|0|2021-10-09|
-|70|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|12|0|2021-12-29|
-|71|[mingli-ai/FaVeST](https://github.com/mingli-ai/FaVeST)|Fast Vector Spherical Harmonic Transforms|11|0|2021-10-13|
-|72|[chdilo/BadAppleOSC](https://github.com/chdilo/BadAppleOSC)|在示波器上播放Bad Apple!!|11|0|2021-09-29|
-|73|[cggos/opt_matlab](https://github.com/cggos/opt_matlab)|最优化方法及其MATLAB实现 源代码|10|0|2021-10-07|
+|29|[MrCaiDev/matlab-experiment](https://github.com/MrCaiDev/matlab-experiment)|程序基础+微积分+数值计算+最优化+随机模拟+椭球寻径。|3|0|2021-12-23|
+|30|[zxb17zxb/SLIC](https://github.com/zxb17zxb/SLIC)|一个SLIC算法用于图像分割的matlab实现|3|0|2021-12-07|
+|31|[xingchenzhang/VIFB](https://github.com/xingchenzhang/VIFB)|Visible and Infrared Image Fusion Benchmark|154|0|2021-09-27|
+|32|[seer-group329/PositionAndPosConnectionOfTheCar](https://github.com/seer-group329/PositionAndPosConnectionOfTheCar)|在已知无人仓储车的起始与目标位姿的条件下，得到三阶连续的曲线路径|5|0|2021-09-18|
+|33|[yeyuanxin110/CFOG](https://github.com/yeyuanxin110/CFOG)|-|11|0|2021-11-20|
+|34|[yfor1008/saliency_detection](https://github.com/yfor1008/saliency_detection)|显著性检测|5|0|2021-10-12|
+|35|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|0|2021-12-21|
+|36|[Uestc-xiye/CUMCM2020-Probelms-C](https://github.com/Uestc-xiye/CUMCM2020-Probelms-C)|2020年高教社杯全国大学生数学建模C题：中小微企业的信贷决策|2|0|2021-07-26|
+|37|[tjzhang1993/Infrared-image-processing](https://github.com/tjzhang1993/Infrared-image-processing)|用于处理红外热成像得到的图片|2|0|2021-11-29|
+|38|[woniuhuli/kdTree](https://github.com/woniuhuli/kdTree)|matlab实现对数据建立kd树，并且实现最近邻搜索|12|0|2021-12-14|
+|39|[nanguoyu/Captcha-recognition](https://github.com/nanguoyu/Captcha-recognition)|[CAIA I Lab 5] Captcha recognition implemented by Matlab  [CAIA I Lab 5]数字图像验证码识别 |5|0|2021-12-14|
+|40|[Say-Hello2y/MultiAgentSystem](https://github.com/Say-Hello2y/MultiAgentSystem)|针对基本的一阶二阶多智能体控制，给出了基本 的Matlab仿真|4|0|2022-01-07|
+|41|[AirChem/F0AM](https://github.com/AirChem/F0AM)|Framework for 0-D Atmospheric Modeling|30|0|2021-12-23|
+|42|[acsamson/ImageFusion-Algorithm](https://github.com/acsamson/ImageFusion-Algorithm)|ImageFusion algorithm, SSIM and PSNR evaluation（常见图像融合算法以及SSIM和PSNR评价|3|0|2021-08-30|
+|43|[zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles](https://github.com/zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles)|Hyperspectral Change Detection Based on Multiple Morphological Profiles|8|0|2021-09-28|
+|44|[qwe14789cn/radar_tools](https://github.com/qwe14789cn/radar_tools)|信号处理工具箱|103|0|2021-08-31|
+|45|[zephyrhours/Hyperspectyral-Change-Detection-TDRD](https://github.com/zephyrhours/Hyperspectyral-Change-Detection-TDRD)|Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection|7|0|2021-09-15|
+|46|[ZhangHongBo2019/Constraint_NSGA-II_Algorithms](https://github.com/ZhangHongBo2019/Constraint_NSGA-II_Algorithms)|这是一个带约束条件的非支配排序遗传算法NSGA-II，解决了一个多目标优化问题|25|0|2021-09-10|
+|47|[himynameisfuego/SiTraNo](https://github.com/himynameisfuego/SiTraNo)|A MATLAB app for tonal-transient-noise decomposition of audio signals.|10|0|2021-09-08|
+|48|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|3|0|2021-12-25|
+|49|[WoodyBuendia/HFSS-MATLAB-API](https://github.com/WoodyBuendia/HFSS-MATLAB-API)|HFSS-MATLAB-API is a library toolbox to control Ansoft HFSS from MATLAB using  the HFSS Scripting Interface. This tool provides a set of MATLAB functions to  create 3D objects in HFSS by generating th ...|44|0|2021-09-17|
+|50|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|377|0|2022-01-15|
+|51|[wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve](https://github.com/wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve)|使用贝塞尔曲线，通过合理选取控制点使轨迹在拼接点处曲率连续|5|0|2021-09-06|
+|52|[YuJie2020/MATLAB-HFSS-API](https://github.com/YuJie2020/MATLAB-HFSS-API)|HFSS-MATLAB-API 是通过 MATLAB 编写的一套可调用的 HFSS-MATLAB 应用程序编程接口，通过编写 MATLAB 代码来生成执行相关特定操作的 HFSS 程序所需的 VBS 脚本|6|0|2021-08-19|
+|53|[baishanca/Communication-Matlab](https://github.com/baishanca/Communication-Matlab)|对通信原理的内容的matlab实现|3|0|2021-08-06|
+|54|[tyl-stu/Compressed-sensing-code](https://github.com/tyl-stu/Compressed-sensing-code)|自己搜集和改写的压缩感知相关程序代码|4|0|2021-07-26|
+|55|[fuzhiqiang1230/DLRRPD](https://github.com/fuzhiqiang1230/DLRRPD)|This repository is used for sharing the source code of Double low-rank representation with projection distance penalty for clustering|9|0|2021-12-08|
+|56|[Magica-Chen/zhihu_writing](https://github.com/Magica-Chen/zhihu_writing)|Some simple codes for zhihu column writing: 高斯世界下的Machine Learning|3|0|2021-12-26|
+|57|[WeisongZhao/Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|Official MATLAB implementation of the "Sparse deconvolution" -v1.0.3|25|0|2021-12-31|
+|58|[AomanHao/Matlab-Image-Dehaze-Enhance](https://github.com/AomanHao/Matlab-Image-Dehaze-Enhance)|图像去雾、图像增强、灰度直方图均衡化等|42|0|2021-10-23|
+|59|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|4|0|2021-12-29|
+|60|[DietCokewithSugar/undamage-blood-glucose](https://github.com/DietCokewithSugar/undamage-blood-glucose)|基于改进深度回归网络的无创血糖检测算法|2|0|2021-12-02|
+|61|[mingsongli/acycle](https://github.com/mingsongli/acycle)|Acycle: Time-series analysis software for research and education|54|0|2021-12-12|
+|62|[heihei2122/mag_cuboid](https://github.com/heihei2122/mag_cuboid)|a gui or app based matlab to calculate B  force stiffness  矩形磁体的计算|3|0|2021-11-20|
+|63|[NOCIONS/letswave6](https://github.com/NOCIONS/letswave6)|Letswave 6 - Matlab EEG signal processing toolbox |44|0|2021-08-23|
+|64|[JackHCC/Routing-Algorithm](https://github.com/JackHCC/Routing-Algorithm)|MATLAB实现路由算法基本原理（内附报告）[MATLAB realizes the basic principle of routing algorithm - mathematics experiment work (with report)]|10|0|2021-12-15|
+|65|[fzzfbyx/CFAR-radar-algorithm_MATLAB_GUI](https://github.com/fzzfbyx/CFAR-radar-algorithm_MATLAB_GUI)|利用MATLAB GUI设计平台，设计多算法雷达一维恒虚警检测CFAR可视化界面，通过选择噪声类型、目标类型、算法类型，手动输入相关参数，可视化显示噪声波形与目标检测的回波-检测门限波形图。|7|0|2021-09-13|
+|66|[TianLin0509/BF-design-with-DL](https://github.com/TianLin0509/BF-design-with-DL)|Beamforming design with deep learning.|129|0|2021-08-01|
+|67|[liuziwei7/fashion-landmarks](https://github.com/liuziwei7/fashion-landmarks)|Fashion Landmark Detection in the Wild|329|0|2021-10-09|
+|68|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|12|0|2021-12-29|
+|69|[mingli-ai/FaVeST](https://github.com/mingli-ai/FaVeST)|Fast Vector Spherical Harmonic Transforms|11|0|2021-10-13|
+|70|[chdilo/BadAppleOSC](https://github.com/chdilo/BadAppleOSC)|在示波器上播放Bad Apple!!|11|0|2021-09-29|
+|71|[cggos/opt_matlab](https://github.com/cggos/opt_matlab)|最优化方法及其MATLAB实现 源代码|10|0|2021-10-07|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

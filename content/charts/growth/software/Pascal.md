@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2022-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[PassByYou888/ZServer4D](https://github.com/PassByYou888/ZServer4D)|ZServer4D 是一套从商业项目剥离而出的云服务器中间件，可以承载百万级的分布式负载服务，并且支持IoT及内网穿透|226|0|2021-11-06|
 |3|[axpokl/display](https://github.com/axpokl/display)|Display单元库|5|0|2021-12-18|
 |4|[PassByYou888/zCloud](https://github.com/PassByYou888/zCloud)|zCloud 是去中心化的SAAS后台框架，SAAS后台就是zCloud|10|0|2021-11-06|
-|5|[royqh1979/Dev-CPP](https://github.com/royqh1979/Dev-CPP)|A lightweighted C/C++ IDE|304|0|2021-10-03|
+|5|[royqh1979/Dev-CPP](https://github.com/royqh1979/Dev-CPP)|A lightweighted C/C++ IDE|306|0|2021-10-03|
 |6|[digao-dalpiaz/Dam](https://github.com/digao-dalpiaz/Dam)|Delphi and Lazarus Message Dialogs with Formatted Text|72|0|2021-09-19|
 |7|[yangyxd/YxdIOCP](https://github.com/yangyxd/YxdIOCP)|Delphi Windows IOCP 通讯模型封装，基于DIOCP。YxdIocp包含有支持大并发的TCP服务组件、HTTP服务组件、UDP服务组件、WebSocket服务组件，和TCP、UDP等基础客户端组件。|79|0|2022-01-14|
 |8|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|425|0|2022-01-13|
@@ -26,11 +26,11 @@
 |19|[PassByYou888/zGameWare](https://github.com/PassByYou888/zGameWare)|-|19|0|2021-09-22|
 |20|[PassByYou888/zSound](https://github.com/PassByYou888/zSound)|zSound Engine for All Platform(Android,IOS,OSX,Windows),supported delphi VCL/delphi FMX/fpc|26|0|2021-09-21|
 |21|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker for Windows|30|0|2021-12-14|
-|22|[digao-dalpiaz/DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|88|0|2022-01-02|
+|22|[digao-dalpiaz/DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|89|0|2022-01-02|
 |23|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|234|0|2022-01-07|
 |24|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|192|0|2021-12-06|
 |25|[ying32/res2go-ide-plugin](https://github.com/ying32/res2go-ide-plugin)|res2go Lazarus IDE plug-in|13|0|2021-11-13|
-|26|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|264|0|2022-01-12|
+|26|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|264|0|2022-01-15|
 |27|[59079096/emr](https://github.com/59079096/emr)|基于HCView开发的电子病历程序|37|0|2021-09-12|
 |28|[supersoho/Delphi-DirectUI](https://github.com/supersoho/Delphi-DirectUI)|Delphi DirectUI Controls|49|0|2021-08-23|
 |29|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|30|0|2021-12-14|

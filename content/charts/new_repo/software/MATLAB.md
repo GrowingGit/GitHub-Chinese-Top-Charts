@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -33,14 +33,12 @@
 |26|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|3|2021-12-25|2021-08-03|
 |27|[X-X-Y/SVM_CSP_EEG](https://github.com/X-X-Y/SVM_CSP_EEG)|基于一个公开数据集和一个BCI竞赛数据集，提供一个SVM-CSP运动想象二分类demo|3|2021-08-02|2021-08-02|
 |28|[heihei2122/mag_cuboid](https://github.com/heihei2122/mag_cuboid)|a gui or app based matlab to calculate B  force stiffness  矩形磁体的计算|3|2021-11-20|2021-07-25|
-|29|[z-xr/SSL](https://github.com/z-xr/SSL)|基于matlab的声源定位广义互相关算法的实现|3|2021-07-16|2021-07-16|
-|30|[baishanca/Communication-Matlab](https://github.com/baishanca/Communication-Matlab)|对通信原理的内容的matlab实现|3|2021-08-06|2021-07-12|
-|31|[Dingqinliu/Encryption_Matlab](https://github.com/Dingqinliu/Encryption_Matlab)|与图像加密有关的一些代码|3|2021-07-16|2021-04-08|
-|32|[DietCokewithSugar/undamage-blood-glucose](https://github.com/DietCokewithSugar/undamage-blood-glucose)|基于改进深度回归网络的无创血糖检测算法|2|2021-12-02|2021-12-02|
-|33|[ja754969/Ocean-Current-Observation-and-Analysis](https://github.com/ja754969/Ocean-Current-Observation-and-Analysis)|洋流觀測分析 class at NTOU. File Station link : |2|2021-08-30|2021-08-28|
-|34|[CXris/computerVision-stitching](https://github.com/CXris/computerVision-stitching)|使用Harris角点检测算法、最小二乘拟合、随机抽样一致算法(RANSAC)以及 HOG 描述符、线性融合等计算机视觉算法，使用Matlab实现将多张图像拼接成一张全景图。|2|2021-08-25|2021-08-25|
-|35|[Uestc-xiye/CUMCM2020-Probelms-C](https://github.com/Uestc-xiye/CUMCM2020-Probelms-C)|2020年高教社杯全国大学生数学建模C题：中小微企业的信贷决策|2|2021-07-26|2021-07-26|
-|36|[ScottXjw/Volterra_lms](https://github.com/ScottXjw/Volterra_lms)|Volterra_lms算法|2|2021-11-03|2021-07-02|
+|29|[baishanca/Communication-Matlab](https://github.com/baishanca/Communication-Matlab)|对通信原理的内容的matlab实现|3|2021-08-06|2021-07-12|
+|30|[DietCokewithSugar/undamage-blood-glucose](https://github.com/DietCokewithSugar/undamage-blood-glucose)|基于改进深度回归网络的无创血糖检测算法|2|2021-12-02|2021-12-02|
+|31|[ja754969/Ocean-Current-Observation-and-Analysis](https://github.com/ja754969/Ocean-Current-Observation-and-Analysis)|洋流觀測分析 class at NTOU. File Station link : |2|2021-08-30|2021-08-28|
+|32|[CXris/computerVision-stitching](https://github.com/CXris/computerVision-stitching)|使用Harris角点检测算法、最小二乘拟合、随机抽样一致算法(RANSAC)以及 HOG 描述符、线性融合等计算机视觉算法，使用Matlab实现将多张图像拼接成一张全景图。|2|2021-08-25|2021-08-25|
+|33|[Uestc-xiye/CUMCM2020-Probelms-C](https://github.com/Uestc-xiye/CUMCM2020-Probelms-C)|2020年高教社杯全国大学生数学建模C题：中小微企业的信贷决策|2|2021-07-26|2021-07-26|
+|34|[ScottXjw/Volterra_lms](https://github.com/ScottXjw/Volterra_lms)|Volterra_lms算法|2|2021-11-03|2021-07-02|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

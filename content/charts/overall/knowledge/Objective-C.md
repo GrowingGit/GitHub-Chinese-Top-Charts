@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Objective-C
-<sub>数据更新: 2022-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4706|2022-01-12|
-|2|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2342|2021-12-16|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4707|2022-01-15|
+|2|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2343|2021-12-16|
 |3|[objccn/articles](https://github.com/objccn/articles)|Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本|2087|2021-11-02|
 |4|[SunshineBrother/JHBlog](https://github.com/SunshineBrother/JHBlog)|iOS开发：我的初级到中级的晋级之路|1195|2021-07-29|
 |5|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1195|2022-01-14|
 |6|[GGGHub/Reader](https://github.com/GGGHub/Reader)|iOS基于CoreText实现的电子书阅读器，支持txt，epub格式|1115|2021-08-28|
-|7|[HeathWang/HWPanModal](https://github.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|878|2021-11-30|
+|7|[HeathWang/HWPanModal](https://github.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|879|2021-11-30|
 |8|[wwmz/WMZPageController](https://github.com/wwmz/WMZPageController)|分页控制器,替换UIPageController方案,具备完整的生命周期,多种指示器样式,多种标题样式,可悬浮,支持ios13暗黑模式(仿优酷,爱奇艺,今日头条,简书,京东等多种标题菜单) (Pagination controller with full life cycle, multiple indicator styles, multiple title styles)|546|2021-12-30|
 |9|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|444|2021-12-24|
 |10|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|443|2022-01-06|
@@ -34,8 +34,8 @@
 |27|[bqlin/Apple-Sample-Code](https://github.com/bqlin/Apple-Sample-Code)|苹果示例代码学习|18|2021-09-02|
 |28|[DJI-Mobile-SDK-Tutorials/iOS-SimulatorDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-SimulatorDemo)|This demo shows you how to use the DJISimulator of DJI Mobile SDK.|17|2021-10-11|
 |29|[XLsn0w/XLsn0w](https://github.com/XLsn0w/XLsn0w)|🔥🔥🔥联系我:XLsn00w@gmail.com   微信公众号: Cydia   Cydia官方源: https://xlsn0w.github.io/tweaks/ 🔥🔥🔥|13|2021-07-23|
-|30|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|11|2022-01-05|
-|31|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|11|2022-01-14|
+|30|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|12|2022-01-05|
+|31|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|11|2022-01-15|
 |32|[DJI-Mobile-SDK-Tutorials/iOS-PlaybackDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-PlaybackDemo)|A demo help you learn how to use DJI Mobile SDK to access the media resources in the SD card of the aircraft's camera to preview photos, play videos, download or delete files.|10|2021-10-11|
 |33|[GardenerYun/iOS--Note](https://github.com/GardenerYun/iOS--Note)|iOS研究笔记|9|2021-12-23|
 |34|[crazypoo/PTools](https://github.com/crazypoo/PTools)|iOS开发工具小集合,不定期更新|9|2021-12-01|
@@ -57,12 +57,11 @@
 |50|[SmartPear/NavigationTest](https://github.com/SmartPear/NavigationTest)|工具类集合 侧滑菜单栏展示，扇形显示文字。 增加富文本 使用TideLayer大图切片显示 完美导航栏渐变效果|3|2021-12-23|
 |51|[1691665955/StudyDemo](https://github.com/1691665955/StudyDemo)|一些关于iOS的学习总结|3|2021-07-28|
 |52|[BrooksWon/Blogs](https://github.com/BrooksWon/Blogs)|一些笔记|2|2021-12-08|
-|53|[LYajun/LGNote](https://github.com/LYajun/LGNote)|笔记工具|2|2021-07-16|
-|54|[xingtianyoulong/index-learning](https://github.com/xingtianyoulong/index-learning)|构建高速互联网发展中最快、最好、最全的索引学习体系|2|2021-07-22|
-|55|[duhongxing/iOS-Dev-OC](https://github.com/duhongxing/iOS-Dev-OC)|iOS开发基础知识回顾|2|2021-08-30|
-|56|[mc3747/2_ObjectiveCSummary](https://github.com/mc3747/2_ObjectiveCSummary)|ObjectiveC各种知识点汇总！|2|2021-11-03|
-|57|[YoungerLi/LYDemo](https://github.com/YoungerLi/LYDemo)|此项目总结了我工作过程中的常用的类及方法等等|2|2021-09-09|
-|58|[Xcoder1011/OC_StudyDemo](https://github.com/Xcoder1011/OC_StudyDemo)|记录个人学习Objective-C的一些demo ，基于AFNetworking3.x封装网络请求，实现GET、POST请求、多任务断点续传|2|2021-09-28|
+|53|[xingtianyoulong/index-learning](https://github.com/xingtianyoulong/index-learning)|构建高速互联网发展中最快、最好、最全的索引学习体系|2|2021-07-22|
+|54|[duhongxing/iOS-Dev-OC](https://github.com/duhongxing/iOS-Dev-OC)|iOS开发基础知识回顾|2|2021-08-30|
+|55|[mc3747/2_ObjectiveCSummary](https://github.com/mc3747/2_ObjectiveCSummary)|ObjectiveC各种知识点汇总！|2|2021-11-03|
+|56|[YoungerLi/LYDemo](https://github.com/YoungerLi/LYDemo)|此项目总结了我工作过程中的常用的类及方法等等|2|2021-09-09|
+|57|[Xcoder1011/OC_StudyDemo](https://github.com/Xcoder1011/OC_StudyDemo)|记录个人学习Objective-C的一些demo ，基于AFNetworking3.x封装网络请求，实现GET、POST请求、多任务断点续传|2|2021-09-28|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

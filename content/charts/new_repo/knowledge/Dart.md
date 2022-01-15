@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Dart
-<sub>数据更新: 2022-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -13,8 +13,8 @@
 |6|[ezshine/FlutterWidgetsCatalog](https://github.com/ezshine/FlutterWidgetsCatalog)|a project for learning all Flutter Widgets , sync from flutter.dev the officia website.|29|2021-08-04|2021-03-16|
 |7|[mikai233/fstar-client](https://github.com/mikai233/fstar-client)|繁星课程表客户端|17|2022-01-02|2021-01-20|
 |8|[baiyuliang/Flutter-WanWan](https://github.com/baiyuliang/Flutter-WanWan)|Flutter入门项目（首页，消息，圈子，我的）|13|2021-08-17|2021-03-26|
-|9|[cocojian/flutter100days](https://github.com/cocojian/flutter100days)|这是一个flutter教程，用100天的时间来完成挑战，每天只需要完成一课，100天之后，你将遇见更好的自己。|8|2021-11-24|2021-11-21|
-|10|[HuRuWo/HowToReserveFlutter](https://github.com/HuRuWo/HowToReserveFlutter)|HowToReserveFlutter is some  reverse flutter note 。flutter逆向笔记，如何一步一步分析 flutter apk。|7|2022-01-06|2021-12-20|
+|9|[HuRuWo/HowToReserveFlutter](https://github.com/HuRuWo/HowToReserveFlutter)|HowToReserveFlutter is some  reverse flutter note 。flutter逆向笔记，如何一步一步分析 flutter apk。|8|2022-01-06|2021-12-20|
+|10|[cocojian/flutter100days](https://github.com/cocojian/flutter100days)|这是一个flutter教程，用100天的时间来完成挑战，每天只需要完成一课，100天之后，你将遇见更好的自己。|8|2021-11-24|2021-11-21|
 |11|[kangshaojun/study-notes](https://github.com/kangshaojun/study-notes)|Flutter React Golang WebRTC等技术学习笔记|6|2021-08-14|2021-07-16|
 |12|[zhou-Flutter/flutter_dome](https://github.com/zhou-Flutter/flutter_dome)|实战小红书|6|2021-10-31|2021-06-15|
 |13|[CallMeDK/flutter_stock_project](https://github.com/CallMeDK/flutter_stock_project)|flutter仿写自选股详情，感兴趣的小伙伴fork下一起学习dart。|5|2021-07-26|2021-07-26|
