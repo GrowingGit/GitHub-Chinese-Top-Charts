@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Swift
-<sub>数据更新: 2022-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1219|2022-01-16|2021-11-13|
-|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One menu bar app, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|726|2022-01-16|2021-11-30|
+|1|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1220|2022-01-17|2021-11-13|
+|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One menu bar app, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|732|2022-01-16|2021-11-30|
 |3|[cmushroom/redis-pro](https://github.com/cmushroom/redis-pro)|redis-pro redis 桌面管理工具|408|2022-01-06|2021-01-19|
 |4|[Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11)| 💻 Windows 11 in SwiftUI.|115|2021-10-13|2021-08-31|
 |5|[william0wang/MagicCamera](https://github.com/william0wang/MagicCamera)|iOS多功能AI相机：人像卡通化、变老变年轻、美颜、滤镜、艺术效果等|96|2021-11-08|2021-10-29|
@@ -28,24 +28,24 @@
 |21|[KelvinQQ/SpiderCard](https://github.com/KelvinQQ/SpiderCard)|蜘蛛纸牌 for mac|24|2021-08-23|2021-07-28|
 |22|[Cantoboard/Cantoboard](https://github.com/Cantoboard/Cantoboard)|Cantoboard - Smart Cantonese Keyboard on iOS |24|2022-01-12|2021-03-19|
 |23|[JerryFans/JFPopup](https://github.com/JerryFans/JFPopup)|A Swift Popup Module help you popup your custom view easily|21|2021-10-22|2021-10-11|
-|24|[creepymonster/GlucoseDirectApp](https://github.com/creepymonster/GlucoseDirectApp)|App programmed in Swift/SwiftUI for using Libre 1/2 blood glucose sensors.|21|2022-01-15|2021-07-18|
+|24|[creepymonster/GlucoseDirectApp](https://github.com/creepymonster/GlucoseDirectApp)|App programmed in Swift/SwiftUI for using Libre 1/2 blood glucose sensors.|21|2022-01-17|2021-07-18|
 |25|[lihaoyun6/DimQQ](https://github.com/lihaoyun6/DimQQ)|一款可自定义强度的QQ for Mac亮度降低工具|18|2021-11-28|2021-11-23|
 |26|[Jiafu-Ziran/an-app-from-scratch-video-materials](https://github.com/Jiafu-Ziran/an-app-from-scratch-video-materials)| 「使用 SwiftUI 开发 iOS App 新手教程」课程材料|15|2021-09-13|2021-07-12|
 |27|[variant-database/vdb](https://github.com/variant-database/vdb)|A SARS-CoV-2 Mutation Pattern Query Tool|12|2022-01-12|2021-04-06|
 |28|[ptrkstr/Devices](https://github.com/ptrkstr/Devices)|Swift package that contains all devices from https://www.theiphonewiki.com/wiki/Models. Useful when needing to parse machine/device identifier (i.e. iPhone10,1) to device name (iPhone 8).|11|2021-12-27|2021-10-12|
 |29|[xiaoyouPrince/XYNav](https://github.com/xiaoyouPrince/XYNav)|简单易用的全屏导航控制器 Swift 5.0|11|2022-01-04|2021-09-14|
 |30|[Bepayun/SwiftUI-Refresh](https://github.com/Bepayun/SwiftUI-Refresh)|-|11|2021-07-20|2021-07-16|
-|31|[lixiang1994/Apis](https://github.com/lixiang1994/Apis)|基于URLNavigator抽象的URL路由组件 灵感来自Moya 配置化 插件化.|10|2021-12-21|2021-12-15|
-|32|[TBoyLi/FunIOS](https://github.com/TBoyLi/FunIOS)|玩Android IOS Swift 版本|10|2021-09-08|2021-08-10|
-|33|[fuyoufang/WiFiPassword](https://github.com/fuyoufang/WiFiPassword)|查看 WiFi 密码|10|2021-08-04|2021-07-31|
-|34|[ZXKitCode/ZXFileBrowser](https://github.com/ZXKitCode/ZXFileBrowser)|The iOS sandbox file browser, which has view, copy, move, delete files and other operations. iOS端沙盒文件浏览器，可以查看、拷贝、移动、删除等操作|10|2021-10-27|2021-05-11|
-|35|[congHu/DD_Monitor-ios-Swift](https://github.com/congHu/DD_Monitor-ios-Swift)|DD监控室 - Swift for iOS, iPadOS, macOS|10|2021-10-13|2021-03-21|
+|31|[congHu/DD_Monitor-ios-Swift](https://github.com/congHu/DD_Monitor-ios-Swift)|DD监控室 - Swift for iOS, iPadOS, macOS|11|2021-10-13|2021-03-21|
+|32|[lixiang1994/Apis](https://github.com/lixiang1994/Apis)|基于URLNavigator抽象的URL路由组件 灵感来自Moya 配置化 插件化.|10|2021-12-21|2021-12-15|
+|33|[TBoyLi/FunIOS](https://github.com/TBoyLi/FunIOS)|玩Android IOS Swift 版本|10|2021-09-08|2021-08-10|
+|34|[fuyoufang/WiFiPassword](https://github.com/fuyoufang/WiFiPassword)|查看 WiFi 密码|10|2021-08-04|2021-07-31|
+|35|[ZXKitCode/ZXFileBrowser](https://github.com/ZXKitCode/ZXFileBrowser)|The iOS sandbox file browser, which has view, copy, move, delete files and other operations. iOS端沙盒文件浏览器，可以查看、拷贝、移动、删除等操作|10|2021-10-27|2021-05-11|
 |36|[Leonard-iOS/PaddleOCR](https://github.com/Leonard-iOS/PaddleOCR)|PaddleOCR是一款应用于iOS设备上的通用文字识别的OCR库.|9|2021-10-25|2021-05-13|
-|37|[ShenJieSuzhou/PreloadDemo](https://github.com/ShenJieSuzhou/PreloadDemo)|该 Demo 记录了一些优雅处理网络数据的方式：实现列表无限滚动时，数据如何预加载，从而达到无缝加载的效果；滚动时 UI 卡顿的解决方案该如何实现；如何优化网络，利用数据缓存来节约流量和系统的内存。|9|2021-10-28|2021-03-23|
-|38|[ysbrowser/Doodle-TowerDefense](https://github.com/ysbrowser/Doodle-TowerDefense)|涂鸦塔防 A*寻路|8|2021-08-23|2021-08-20|
-|39|[Rogue24/OneDay](https://github.com/Rogue24/OneDay)|精美的桌面小组件。|8|2021-12-09|2021-07-08|
-|40|[liuweigeek/NeptuneBlog-iOS](https://github.com/liuweigeek/NeptuneBlog-iOS)|Twitter clone project，模仿Twitter的社交平台，基于SwiftUI开发。|8|2021-12-12|2021-06-14|
-|41|[litecoin-foundation/litewallet-ios](https://github.com/litecoin-foundation/litewallet-ios)|iOS version of Litewallet , official SPV Wallet from the Litecoin Foundation. Maintained by the Litewallet Team & Charlie Lee (Creator of Litecoin)|8|2021-10-11|2021-04-10|
+|37|[litecoin-foundation/litewallet-ios](https://github.com/litecoin-foundation/litewallet-ios)|iOS version of Litewallet , official SPV Wallet from the Litecoin Foundation. Maintained by the Litewallet Team & Charlie Lee (Creator of Litecoin)|9|2021-10-11|2021-04-10|
+|38|[ShenJieSuzhou/PreloadDemo](https://github.com/ShenJieSuzhou/PreloadDemo)|该 Demo 记录了一些优雅处理网络数据的方式：实现列表无限滚动时，数据如何预加载，从而达到无缝加载的效果；滚动时 UI 卡顿的解决方案该如何实现；如何优化网络，利用数据缓存来节约流量和系统的内存。|9|2021-10-28|2021-03-23|
+|39|[ysbrowser/Doodle-TowerDefense](https://github.com/ysbrowser/Doodle-TowerDefense)|涂鸦塔防 A*寻路|8|2021-08-23|2021-08-20|
+|40|[Rogue24/OneDay](https://github.com/Rogue24/OneDay)|精美的桌面小组件。|8|2021-12-09|2021-07-08|
+|41|[liuweigeek/NeptuneBlog-iOS](https://github.com/liuweigeek/NeptuneBlog-iOS)|Twitter clone project，模仿Twitter的社交平台，基于SwiftUI开发。|8|2021-12-12|2021-06-14|
 |42|[ListenNotes/podcast-api-swift](https://github.com/ListenNotes/podcast-api-swift)|The Official Swift Library for the Listen Notes Podcast API.|7|2021-10-26|2021-05-13|
 |43|[37iOS/Easy-Signer](https://github.com/37iOS/Easy-Signer)| iOS App 的 Mac 重签名工具|6|2022-01-05|2022-01-04|
 |44|[zeqinjie/ZQEndlessPageControl](https://github.com/zeqinjie/ZQEndlessPageControl)|自定义 iOS14 PageControl 控件新功能|6|2021-10-21|2021-09-23|
