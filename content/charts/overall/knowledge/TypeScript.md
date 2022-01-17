@@ -5,23 +5,23 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16403|2021-10-12|
-|2|[xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8502|2021-12-09|
-|3|[zhongsp/TypeScript](https://github.com/zhongsp/TypeScript)|TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org|5476|2021-11-20|
+|1|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16406|2021-10-12|
+|2|[xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8503|2021-12-09|
+|3|[zhongsp/TypeScript](https://github.com/zhongsp/TypeScript)|TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org|5477|2021-11-20|
 |4|[antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)|🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥|5275|2022-01-03|
-|5|[jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)|TypeScript Deep Dive 中文版 |5104|2022-01-13|
-|6|[cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue)|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|4048|2022-01-14|
+|5|[jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)|TypeScript Deep Dive 中文版 |5105|2022-01-13|
+|6|[cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue)|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|4049|2022-01-14|
 |7|[doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn)|🇨🇳 《JavaScript 二十年》中文版|3712|2021-11-25|
 |8|[Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|3634|2022-01-13|
 |9|[btroncone/learn-rxjs](https://github.com/btroncone/learn-rxjs)|Clear examples, explanations, and resources for RxJS|3479|2022-01-13|
-|10|[loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3255|2022-01-13|
-|11|[alibaba/pipcook](https://github.com/alibaba/pipcook)|Machine learning platform for Web developers|2199|2022-01-16|
+|10|[loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3257|2022-01-13|
+|11|[alibaba/pipcook](https://github.com/alibaba/pipcook)|Machine learning platform for Web developers|2199|2022-01-17|
 |12|[alibaba/kiwi](https://github.com/alibaba/kiwi)|🐤 Kiwi-国际化翻译全流程解决方案|1929|2021-12-17|
 |13|[CodFrm/cxmooc-tools](https://github.com/CodFrm/cxmooc-tools)|一个 超星(学习通)/智慧树(知到)/中国大学mooc 学习工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)|1657|2021-12-13|
 |14|[soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)|🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)|1464|2022-01-15|
 |15|[EhTagTranslation/EhSyringe](https://github.com/EhTagTranslation/EhSyringe)|E 站注射器，将中文翻译注入到 E 站体内|1282|2022-01-13|
 |16|[zenghongtu/react-use-chinese](https://github.com/zenghongtu/react-use-chinese)|中文文档@react-use|833|2021-12-06|
-|17|[loomnetwork/cryptozombie-lessons](https://github.com/loomnetwork/cryptozombie-lessons)|Lesson content for cryptozombies.io|813|2022-01-13|
+|17|[loomnetwork/cryptozombie-lessons](https://github.com/loomnetwork/cryptozombie-lessons)|Lesson content for cryptozombies.io|813|2022-01-16|
 |18|[sorrycc/weekly](https://github.com/sorrycc/weekly)|前端周刊，每周一发布。|798|2022-01-16|
 |19|[dzzzzzy/Nestjs-Learning](https://github.com/dzzzzzy/Nestjs-Learning)|nestjs 学习教程 :books:，跟我一起学习 nest 框架~ :muscle:|773|2021-10-18|
 |20|[MoeFE/GoogleTranslate](https://github.com/MoeFE/GoogleTranslate)|🌐 Google 翻译 Mac 客户端|735|2021-07-26|
@@ -49,21 +49,21 @@
 |42|[MrTreasure/Algorithm](https://github.com/MrTreasure/Algorithm)|算法学习以及一些编程领域的文档、知识、技巧、个人想法|174|2022-01-15|
 |43|[SSmJaE/WELearnHelper](https://github.com/SSmJaE/WELearnHelper)|显示WE Learn随行课堂题目答案；支持班级测试；自动答题；刷时长；开放自定义设置|172|2022-01-15|
 |44|[GregorBiswanger/rxjs-fruits](https://github.com/GregorBiswanger/rxjs-fruits)|A game for learning RxJS 🍎🍌|163|2022-01-14|
-|45|[scdt-china/interview-assignments](https://github.com/scdt-china/interview-assignments)|The monorepo for interview take home assignments.|151|2022-01-16|
+|45|[scdt-china/interview-assignments](https://github.com/scdt-china/interview-assignments)|The monorepo for interview take home assignments.|152|2022-01-17|
 |46|[mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings)|Dynamically creates a user interface for adjusting theme, plugin, and snippet CSS variables|139|2021-12-14|
 |47|[likun7981/hlink](https://github.com/likun7981/hlink)|批量硬链接创建工具，又能PT做种，又能刮削电影资料|139|2022-01-05|
 |48|[18888628835/Blog](https://github.com/18888628835/Blog)|我的知识文档库，学习笔记与学习总结。|136|2022-01-15|
 |49|[meowtec/relyzer](https://github.com/meowtec/relyzer)|Debugger for React functional components. Online demo: https://meowtec.github.io/relyzer/examples/todomvc/build/|134|2021-11-10|
 |50|[alanhzw/WarblerHomepage](https://github.com/alanhzw/WarblerHomepage)|流莺书签|128|2021-12-14|
-|51|[roojay520/bobplugin-google-translate](https://github.com/roojay520/bobplugin-google-translate)| Bob 的一个Google 翻译插件|125|2021-11-03|
+|51|[roojay520/bobplugin-google-translate](https://github.com/roojay520/bobplugin-google-translate)| Bob 的一个Google 翻译插件|126|2021-11-03|
 |52|[Firefox-Pro-Coding/iciba-translate-userscript](https://github.com/Firefox-Pro-Coding/iciba-translate-userscript)|iciba划词翻译 userscript|124|2021-12-24|
 |53|[L-Leite/cso2-master-server](https://github.com/L-Leite/cso2-master-server)|A master server for CSO2|111|2021-08-16|
-|54|[CQBoyBrand/Koa2-nuxt-MySQL](https://github.com/CQBoyBrand/Koa2-nuxt-MySQL)|Koa2+nuxt+MySQL重构博客，项目中包括前端，后端和服务端，以及数据库文件，项目基于Vue+node.js+MySQL|109|2022-01-15|
-|55|[chengpeiquan/learning-vue3](https://github.com/chengpeiquan/learning-vue3)|A starting learning tutorial on Vue 3.0 + TypeScript, suitable for complete Vue novices and Vue 2.0 veterans, incorporating some of my own practical experience on the basis of official documents.|108|2022-01-14|
+|54|[chengpeiquan/learning-vue3](https://github.com/chengpeiquan/learning-vue3)|A starting learning tutorial on Vue 3.0 + TypeScript, suitable for complete Vue novices and Vue 2.0 veterans, incorporating some of my own practical experience on the basis of official documents.|110|2022-01-14|
+|55|[CQBoyBrand/Koa2-nuxt-MySQL](https://github.com/CQBoyBrand/Koa2-nuxt-MySQL)|Koa2+nuxt+MySQL重构博客，项目中包括前端，后端和服务端，以及数据库文件，项目基于Vue+node.js+MySQL|109|2022-01-15|
 |56|[leer0911/myXHR](https://github.com/leer0911/myXHR)|TypeScript 重构 Axios 经验分享，包括开发技巧， API 实现，XMLHttpRequest 运用，单元测试等|108|2021-09-01|
 |57|[brucx/mp-push-nestjs](https://github.com/brucx/mp-push-nestjs)|微信公众号消息推送服务，类似“server酱”，提供Docker镜像部署|99|2021-08-13|
 |58|[FreeCodeCamp-Chengdu/IT-Technology-weekly](https://github.com/FreeCodeCamp-Chengdu/IT-Technology-weekly)|FCC 成都社区 - 技术周刊|90|2021-09-21|
-|59|[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search)|知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。|87|2022-01-16|
+|59|[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search)|知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。|87|2022-01-17|
 |60|[crawler-django/virtuallist-antd](https://github.com/crawler-django/virtuallist-antd)|virtualList for antd-table, 实现antd-table的虚拟列表, antd-table无限滚动, infinite scrolling for antd-table|78|2021-12-27|
 
 <div align="center">

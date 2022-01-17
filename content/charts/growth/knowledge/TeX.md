@@ -5,25 +5,25 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[foxsen/archbase](https://github.com/foxsen/archbase)|教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本|1843|22|2021-12-31|
-|2|[lib-pku/libpku](https://github.com/lib-pku/libpku)|贵校课程资料民间整理|25382|22|2022-01-05|
+|1|[foxsen/archbase](https://github.com/foxsen/archbase)|教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本|1844|22|2021-12-31|
+|2|[lib-pku/libpku](https://github.com/lib-pku/libpku)|贵校课程资料民间整理|25383|22|2022-01-05|
 |3|[NiuTrans/MTBook](https://github.com/NiuTrans/MTBook)|《机器翻译：基础与模型》肖桐 朱靖波 著 - Machine Translation: Foundations and Models|2326|4|2021-11-25|
 |4|[zhanwen/MathModel](https://github.com/zhanwen/MathModel)|研究生数学建模，本科生数学建模、数学建模竞赛优秀论文，数学建模算法，LaTeX论文模板，算法思维导图，参考书籍，Matlab软件教程，PPT|3886|3|2021-12-10|
 |5|[horance-liu/tensorflow-internals](https://github.com/horance-liu/tensorflow-internals)|It is open source ebook about TensorFlow kernel and implementation mechanism.|2688|2|2021-11-13|
 |6|[note286/xdupgthesis](https://github.com/note286/xdupgthesis)|西安电子科技大学研究生学位论文XeLaTeX模板|186|2|2022-01-12|
 |7|[sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis)|上海交通大学 XeLaTeX 学位论文及课程论文模板   Shanghai Jiao Tong University XeLaTeX Thesis Template|2404|1|2021-12-28|
-|8|[liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged)|Open book about math and programming.|2324|1|2022-01-15|
-|9|[xcfcode/Summarization-Papers](https://github.com/xcfcode/Summarization-Papers)|Summarization Papers|582|1|2022-01-11|
+|8|[liuxinyu95/unplugged](https://github.com/liuxinyu95/unplugged)|Open book about math and programming.|2324|1|2022-01-17|
+|9|[xcfcode/Summarization-Papers](https://github.com/xcfcode/Summarization-Papers)|Summarization Papers|583|1|2022-01-17|
 |10|[MeouSker77/Cpp17](https://github.com/MeouSker77/Cpp17)|本书为《C++17 the complete guide》的个人中文翻译，仅供学习和交流使用，侵删|609|1|2021-08-15|
 |11|[Jy-stdio/2021-ICM-D-Outstanding](https://github.com/Jy-stdio/2021-ICM-D-Outstanding)|2021 数模美赛O奖论文及代码公开 |8|1|2022-01-02|
-|12|[nju-lug/NJUThesis](https://github.com/nju-lug/NJUThesis)|南京大学学位论文模板|125|1|2022-01-16|
+|12|[nju-lug/NJUThesis](https://github.com/nju-lug/NJUThesis)|南京大学学位论文模板|125|1|2022-01-17|
 |13|[dustincys/hithesis](https://github.com/dustincys/hithesis)|嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板|912|1|2021-12-09|
-|14|[liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY)|Book of Elementary Algorithms and Data structures|5032|1|2022-01-15|
+|14|[liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY)|Book of Elementary Algorithms and Data structures|5037|1|2022-01-15|
 |15|[note286/xduugtp](https://github.com/note286/xduugtp)|西安电子科技大学本科生毕业论文（设计）开题报告XeLaTeX模板|17|1|2022-01-11|
 |16|[Duan-JM/awesome-papers-fewshot](https://github.com/Duan-JM/awesome-papers-fewshot)|Collection for Few-shot Learning|685|1|2021-11-10|
 |17|[thunlp/KRLPapers](https://github.com/thunlp/KRLPapers)|Must-read papers on knowledge representation learning (KRL) / knowledge embedding (KE)|1436|1|2021-08-29|
 |18|[xiaoweiChen/Learn-LLVM-12](https://github.com/xiaoweiChen/Learn-LLVM-12)|《Learn LLVM 12》的非专业个人翻译|167|1|2021-12-29|
-|19|[jankapunkt/latexcv](https://github.com/jankapunkt/latexcv)|:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!|1470|1|2021-11-22|
+|19|[jankapunkt/latexcv](https://github.com/jankapunkt/latexcv)|:necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!|1472|1|2021-11-22|
 |20|[optimass/continual_learning_papers](https://github.com/optimass/continual_learning_papers)|Relevant papers in Continual Learning|472|1|2022-01-03|
 |21|[note286/xdupgtp](https://github.com/note286/xdupgtp)|西安电子科技大学研究生学位论文开题报告表XeLaTeX模板|16|1|2022-01-12|
 |22|[loaden/linux-notes](https://github.com/loaden/linux-notes)|Linux技术笔记：拥抱开源，专注 Linux 技术分享与交流，共同解决 Linux 系统办公娱乐遇到的各种问题。欢迎加群19346666、111601117交流维护。|2|0|2021-11-01|
@@ -59,7 +59,7 @@
 |52|[SUSTech-CRA/sustech-master-thesis](https://github.com/SUSTech-CRA/sustech-master-thesis)|南方科技大学研究生学位论文LaTeX模板|26|0|2022-01-05|
 |53|[CheckBoxStudio/BUAAThesis](https://github.com/CheckBoxStudio/BUAAThesis)|北航研究生学位论文模板（Word+LaTeX）.|255|0|2022-01-03|
 |54|[chenboshuo/cumcm_template](https://github.com/chenboshuo/cumcm_template)|全国大学生数学建模竞赛LaTeX论文模板(分文件，自动化脚本,有linux 字体)|10|0|2021-09-10|
-|55|[wenweili/AlJabr-1](https://github.com/wenweili/AlJabr-1)|Methods in Algebra (Volume 1): A Chinese textbook on Algebra|119|0|2021-11-20|
+|55|[wenweili/AlJabr-1](https://github.com/wenweili/AlJabr-1)|Methods in Algebra (Volume 1): A Chinese textbook on Algebra|120|0|2021-11-20|
 |56|[ECNU-ICA/ECNU_graduation_thesis_template](https://github.com/ECNU-ICA/ECNU_graduation_thesis_template)|华东师范大学研究生毕业论文 Latex 模板|23|0|2021-11-17|
 |57|[BenderBlog/Subtitles](https://github.com/BenderBlog/Subtitles)|我翻译的字幕|3|0|2021-10-15|
 |58|[mike2718/ham](https://github.com/mike2718/ham)|《业余无线电操作技能考核攻略本（类别：A、B）》|9|0|2021-12-27|
@@ -110,7 +110,7 @@
 |103|[UnnamedOrange/Advanced-Algebra](https://github.com/UnnamedOrange/Advanced-Algebra)|《高等代数》学习笔记|4|0|2021-10-10|
 |104|[Aetf/xjtuthesis](https://github.com/Aetf/xjtuthesis)| 使用 LaTeX 排版学位论文！适用于西安交通大学学生|122|0|2021-09-22|
 |105|[zhcosin/elementary-math](https://github.com/zhcosin/elementary-math)|初等数学笔记，LaTeX 排版，内容涉及代数、数论、几何、组合等。|68|0|2021-08-06|
-|106|[ouc-ocean-group/oucthesis](https://github.com/ouc-ocean-group/oucthesis)|中国海洋大学硕士博士学位论文 LaTeX 模板 Latex template for OUC graduate thesis.|25|0|2022-01-12|
+|106|[ouc-ocean-group/oucthesis](https://github.com/ouc-ocean-group/oucthesis)|中国海洋大学硕士博士学位论文 LaTeX 模板 Latex template for OUC graduate thesis.|26|0|2022-01-12|
 |107|[GZYZG/HNU-CSEE-Graduate-Courses](https://github.com/GZYZG/HNU-CSEE-Graduate-Courses)|对湖大信息科学与工程学院的研究生课程相关信息进行汇总|16|0|2022-01-06|
 |108|[Nick-Hopps/gdutart](https://github.com/Nick-Hopps/gdutart)|广东工业大学毕业设计/论文LaTeX模板|23|0|2021-11-18|
 |109|[obster-y/NCEPU-thesis](https://github.com/obster-y/NCEPU-thesis)|An unofficial LaTeX template based on NCEPU degree thesis requirement 一个非官方的华北电力大学学士学位论文LaTeX模板|19|0|2021-11-20|
@@ -119,7 +119,7 @@
 |112|[bearcatat/SZUThesis](https://github.com/bearcatat/SZUThesis)|深圳大学研究生毕业论文latex模板（不全，格式不对不负责哈哈哈哈|3|0|2022-01-09|
 |113|[ColaForced/ControlTheoryNote](https://github.com/ColaForced/ControlTheoryNote)|控制相关学习笔记|2|0|2021-10-04|
 |114|[breezedeus/Learning-Notes](https://github.com/breezedeus/Learning-Notes)|各种学习笔记|3|0|2022-01-01|
-|115|[summitgao/OUC-LaTex-master](https://github.com/summitgao/OUC-LaTex-master)|中国海洋大学硕士博士学位论文 LaTeX 模板（Overleaf版）|3|0|2021-09-21|
+|115|[summitgao/OUC-LaTex-master](https://github.com/summitgao/OUC-LaTex-master)|中国海洋大学硕士博士学位论文 LaTeX 模板（Overleaf版）|3|0|2022-01-17|
 |116|[hegerdes/VSCode-LaTeX-Container](https://github.com/hegerdes/VSCode-LaTeX-Container)|This is a VSCode DevContainer template for scientific LaTeX papers|9|0|2021-07-21|
 |117|[zhong-yy/CSU_Thesis_Proposal](https://github.com/zhong-yy/CSU_Thesis_Proposal)|中南大学研究生学位论文开题报告LaTeX模板|4|0|2021-11-19|
 |118|[thu-ml/tianshou-docs-zh_CN](https://github.com/thu-ml/tianshou-docs-zh_CN)|天授中文文档|30|0|2021-09-13|

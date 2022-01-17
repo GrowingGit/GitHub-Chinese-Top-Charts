@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[lewagon/setup](https://github.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|12018|4|2022-01-14|
-|2|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|6027|3|2022-01-15|
+|1|[lewagon/setup](https://github.com/lewagon/setup)|Setup instructions for Le Wagon's students on their first day of Web Development Bootcamp|12023|4|2022-01-14|
+|2|[freeCodeCamp/how-to-contribute-to-open-source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)|A guide to contributing to open source|6028|3|2022-01-15|
 |3|[r0eXpeR/fingerprint](https://github.com/r0eXpeR/fingerprint)|各种工具指纹收集分享|197|3|2021-11-03|
 |4|[airbnb/ruby](https://github.com/airbnb/ruby)|Ruby Style Guide|3374|1|2021-12-28|
 |5|[JapanExchangeGroup/J-Quants-Tutorial](https://github.com/JapanExchangeGroup/J-Quants-Tutorial)|J-Quants-Tutorial|106|0|2021-07-27|

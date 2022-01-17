@@ -7,8 +7,8 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|4990|2|2021-12-15|
 |2|[THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2179|2|2021-11-20|
-|3|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|1036|1|2021-12-08|
-|4|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3309|1|2021-12-04|
+|3|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|1037|1|2021-12-08|
+|4|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3310|1|2021-12-04|
 |5|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|201|1|2021-12-31|
 |6|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|1095|1|2022-01-09|
 |7|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2509|1|2021-10-29|
@@ -56,7 +56,7 @@
 |49|[skykeyjoker/LaTeX-UESTC-Report](https://github.com/skykeyjoker/LaTeX-UESTC-Report)|LaTeX template for report(Lab) of University of Electronic Science and Technology of China (UESTC)  电子科技大学本科实验报告 LaTeX 模板|2|0|2021-08-21|
 |50|[xjtu-blacksmith/easymcm](https://github.com/xjtu-blacksmith/easymcm)|A simple LaTeX package for Mathematical Contest in Modeling (MCM)|108|0|2022-01-05|
 |51|[sppmg/TW_Thesis_Template](https://github.com/sppmg/TW_Thesis_Template)|The LaTeX Template for TW Thesis 台灣碩博士 LaTeX 論文樣板|90|0|2021-10-05|
-|52|[GeeLaw/laomian](https://github.com/GeeLaw/laomian)|老面 (sourdough, lit. "old dough") is used as the starter for fermenting dough. This repository contains my digital 老面.|4|0|2021-12-08|
+|52|[GeeLaw/laomian](https://github.com/GeeLaw/laomian)|老面 (sourdough, lit. "old dough") is used as the starter for fermenting dough. This repository contains my digital 老面.|4|0|2022-01-16|
 |53|[ustctug/ustcthesis](https://github.com/ustctug/ustcthesis)|LaTeX template for USTC thesis|913|0|2022-01-12|
 |54|[ice1000/resume](https://github.com/ice1000/resume)|:space_invader: My resume / 我的简历|549|0|2021-12-30|
 |55|[iamxiatian/course_ds](https://github.com/iamxiatian/course_ds)|数据结构|9|0|2021-11-09|
@@ -67,12 +67,12 @@
 |60|[yuzhengcuhk/NortheasternUniversityLatexTemplate](https://github.com/yuzhengcuhk/NortheasternUniversityLatexTemplate)|东北大学本科毕业设计模板|9|0|2021-08-17|
 |61|[XingZhiang/shu-report-latex-template](https://github.com/XingZhiang/shu-report-latex-template)|shu的一些实验报告的latex模板|2|0|2021-09-24|
 |62|[wvqusrai/hnu_exam](https://github.com/wvqusrai/hnu_exam)|自已制作的衡阳师范学院LaTeX试卷模板（含答案）|8|0|2022-01-16|
-|63|[hushidong/biblatex-gb7714-2015](https://github.com/hushidong/biblatex-gb7714-2015)|A biblatex implementation of the GB/T7714-2015 bibliography style     GB/T 7714-2015 参考文献著录和标注的biblatex样式包|425|0|2022-01-10|
+|63|[hushidong/biblatex-gb7714-2015](https://github.com/hushidong/biblatex-gb7714-2015)|A biblatex implementation of the GB/T7714-2015 bibliography style     GB/T 7714-2015 参考文献著录和标注的biblatex样式包|425|0|2022-01-17|
 |64|[TouchFishPioneer/SEU-Beamer-Slide](https://github.com/TouchFishPioneer/SEU-Beamer-Slide)|东南大学幻灯片模板（豪华版）:clipboard:|141|0|2021-10-15|
 |65|[Chen-Jialin/CV](https://github.com/Chen-Jialin/CV)|基于 LaTeX 的个人中英简历。CV in Chinese and English version based on LaTeX.|3|0|2021-10-06|
 |66|[NelsonCheung-cn/SYSU-beamer-template](https://github.com/NelsonCheung-cn/SYSU-beamer-template)|a beamer template for sysu|11|0|2021-12-19|
 |67|[nju-lug/NJUVisual](https://github.com/nju-lug/NJUVisual)|实现南京大学标准配色方案和标识|6|0|2022-01-11|
-|68|[seisman/cv](https://github.com/seisman/cv)|My academic CV powered by LaTeX|48|0|2022-01-12|
+|68|[seisman/cv](https://github.com/seisman/cv)|My academic CV powered by LaTeX|48|0|2022-01-17|
 |69|[Didnelpsun/Math](https://github.com/Didnelpsun/Math)|考研数学，数学一，包括高等数学、线性代数、概率统计|77|0|2021-12-11|
 |70|[redleafnew/Zotero_introduction](https://github.com/redleafnew/Zotero_introduction)|A Short Chinese Introduction to Zotero|60|0|2021-12-28|
 |71|[longbiaochen/corona-virus](https://github.com/longbiaochen/corona-virus)|一个冠状病毒肺炎传染病学研究数据集|34|0|2021-09-30|

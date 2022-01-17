@@ -5,18 +5,18 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[huanxsd/flutter_shuqi](https://github.com/huanxsd/flutter_shuqi)|高仿书旗小说 Flutter版，支持iOS、Android|2315|2021-12-03|
+|1|[huanxsd/flutter_shuqi](https://github.com/huanxsd/flutter_shuqi)|高仿书旗小说 Flutter版，支持iOS、Android|2314|2021-12-03|
 |2|[canhuah/WanAndroid-Flutter](https://github.com/canhuah/WanAndroid-Flutter)|Flutter版本 WanAndroid客户端  适合Flutter入门学习 被张鸿洋微信公众号推荐为优质Flutter开源项目啦|610|2021-12-17|
 |3|[kangshaojun/flutter-book](https://github.com/kangshaojun/flutter-book)|Flutter入门与实战随书源码 第2版|536|2021-07-18|
 |4|[AgoraIO-Community/Agora-Flutter-Quickstart](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart)|Quickstart guide for the Agora Flutter SDK(Android/iOS)|489|2021-10-14|
-|5|[RxReader/wechat_kit](https://github.com/RxReader/wechat_kit)|Flutter 版微信登录/分享/支付 SDK|484|2021-10-13|
+|5|[RxReader/wechat_kit](https://github.com/RxReader/wechat_kit)|Flutter 版微信登录/分享/支付 SDK|483|2021-10-13|
 |6|[lizhuoyuan/flutter_study](https://github.com/lizhuoyuan/flutter_study)|flutter 学习记录|250|2021-08-12|
 |7|[jiang111/flutter_code](https://github.com/jiang111/flutter_code)|b站视频教程： https://space.bilibili.com/480410119/ |249|2021-10-25|
 |8|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|233|2021-12-29|
 |9|[DevYao/flutter_wechat_clone](https://github.com/DevYao/flutter_wechat_clone)|flutter 学习 demo|218|2021-09-24|
 |10|[RxReader/tencent_kit](https://github.com/RxReader/tencent_kit)|flutter版QQ登录/分享|168|2021-12-17|
 |11|[Newcore-mobile/DynamicFlutter](https://github.com/Newcore-mobile/DynamicFlutter)|Flutter动态化热更新的思考与实践|143|2021-12-22|
-|12|[longer96/flutter_pickers](https://github.com/longer96/flutter_pickers)|flutter 选择器库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、民族、学历、星座、年龄、身高、体重、温度等）、城市地址选择器（分省级、地级及县级）、多项选择器等…… 欢迎Fork & pr贡献您的代码，大家共同学习|132|2021-12-22|
+|12|[longer96/flutter_pickers](https://github.com/longer96/flutter_pickers)|flutter 选择器库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、民族、学历、星座、年龄、身高、体重、温度等）、城市地址选择器（分省级、地级及县级）、多项选择器等…… 欢迎Fork & pr贡献您的代码，大家共同学习|133|2021-12-22|
 |13|[18824863285/BaseFlutter](https://github.com/18824863285/BaseFlutter)|Provider MVVM的最佳实践，最适合新手学习的flutter开源项目|106|2021-07-30|
 |14|[pheromone/Flutter_learn_demo](https://github.com/pheromone/Flutter_learn_demo)|Flutter_learn_demo  Flutter学习历程|104|2022-01-09|
 |15|[RxReader/weibo_kit](https://github.com/RxReader/weibo_kit)|flutter版新浪微博登录/分享|81|2021-12-02|

@@ -8,7 +8,7 @@
 |1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|13188|2021-08-05|
 |2|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4028|2021-09-14|
 |3|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|767|2022-01-14|
-|4|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|364|2022-01-16|
+|4|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|365|2022-01-16|
 |5|[Liaoworking/Advanced-Swift](https://github.com/Liaoworking/Advanced-Swift)|Notes of Advanced Swift. 《swift进阶》学习笔记 swift 5.3|313|2021-12-30|
 |6|[ZamzamInc/ZamzamKit](https://github.com/ZamzamInc/ZamzamKit)|A Swift package for rapid development using a collection of micro utility extensions for Standard Library, Foundation, and other native frameworks.|250|2022-01-12|
 |7|[Code-T/salon-resources](https://github.com/Code-T/salon-resources)|你可以在这里获取相关的资料。|221|2021-07-21|
@@ -33,12 +33,12 @@
 |26|[coyingcat/15DaysofAnimationsinSwift](https://github.com/coyingcat/15DaysofAnimationsinSwift)|Swift，学习动画，升级原版本 ， larrynatalicio/15DaysofAnimationsinSwift|9|2021-09-28|
 |27|[LINGLemon/LXFSwiftApp](https://github.com/LINGLemon/LXFSwiftApp)|学习swift记录使用|8|2021-09-29|
 |28|[simplismvip/Ebook](https://github.com/simplismvip/Ebook)|使用Swift写的电纸书阅读器，目前支持epub、txt格式电子书。|7|2021-09-18|
-|29|[fanyunfei786452470/learningSwift](https://github.com/fanyunfei786452470/learningSwift)|基于swift4.2的语言、框架、项目学习|6|2022-01-14|
+|29|[fanyunfei786452470/learningSwift](https://github.com/fanyunfei786452470/learningSwift)|基于swift4.2的语言、框架、项目学习|6|2022-01-17|
 |30|[DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift)|This demo teaches you how to import and activate DJI SDK in your Xcode project using Swift.|6|2021-10-11|
 |31|[flywo/SwiftKnowledgePoint](https://github.com/flywo/SwiftKnowledgePoint)|swift3知识点，温故而知新！|6|2021-12-01|
-|32|[Li-JianXin/Swift_Leetcode](https://github.com/Li-JianXin/Swift_Leetcode)|leetcode学习|5|2022-01-14|
-|33|[Hardercoder/blog](https://github.com/Hardercoder/blog)|博客记录|5|2021-10-15|
-|34|[MoonStartMan/SwiftUI-Study](https://github.com/MoonStartMan/SwiftUI-Study)|SwiftUI学习记录|4|2021-07-31|
+|32|[MoonStartMan/SwiftUI-Study](https://github.com/MoonStartMan/SwiftUI-Study)|SwiftUI学习记录|5|2021-07-31|
+|33|[Li-JianXin/Swift_Leetcode](https://github.com/Li-JianXin/Swift_Leetcode)|leetcode学习|5|2022-01-14|
+|34|[Hardercoder/blog](https://github.com/Hardercoder/blog)|博客记录|5|2021-10-15|
 |35|[chenminjie92/MJThirdManager](https://github.com/chenminjie92/MJThirdManager)|常用三方的支付、登录、分享二次封装|4|2021-08-04|
 |36|[christhoper/WorkingIssues](https://github.com/christhoper/WorkingIssues)|记录一些工作上的问题、优秀博客等|4|2021-11-23|
 |37|[Cosmos-Front-end/tech-architecture](https://github.com/Cosmos-Front-end/tech-architecture)|Technology Architecture study and learn，技术架构研究和学习。|4|2021-08-07|

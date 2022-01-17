@@ -6,12 +6,12 @@
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3596|2021-09-15|
-|2|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2134|2021-11-16|
-|3|[luckybilly/AutoRegister](https://github.com/luckybilly/AutoRegister)|基于字节码插桩，在Android中实现跨module自动注册的gradle插件，可用于模块解耦。已应用于ARouter和CC|999|2022-01-05|
+|2|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2135|2021-11-16|
+|3|[luckybilly/AutoRegister](https://github.com/luckybilly/AutoRegister)|基于字节码插桩，在Android中实现跨module自动注册的gradle插件，可用于模块解耦。已应用于ARouter和CC|1000|2022-01-05|
 |4|[gogradle/gogradle](https://github.com/gogradle/gogradle)|A Gradle Plugin Providing Full Support for Go|740|2021-10-11|
-|5|[sensorsdata/sa-sdk-android-plugin2](https://github.com/sensorsdata/sa-sdk-android-plugin2)|神策数据官方 Android 埋点插件，用于 Android 端的数据采集。通过使用字节码插桩（ASM）的技术实现 Android 端的全埋点（无埋点、无码埋点、无痕埋点、自动埋点）。|296|2021-12-15|
+|5|[sensorsdata/sa-sdk-android-plugin2](https://github.com/sensorsdata/sa-sdk-android-plugin2)|神策数据官方 Android 埋点插件，用于 Android 端的数据采集。通过使用字节码插桩（ASM）的技术实现 Android 端的全埋点（无埋点、无码埋点、无痕埋点、自动埋点）。|297|2021-12-15|
 |6|[lingochamp/okcheck](https://github.com/lingochamp/okcheck)|Incremental scan，integrate Lint、KtLint、UnitTest、Checkstyle、Findbugs、Pmd, powerful and easy to use|294|2021-09-27|
-|7|[qq549631030/AndroidJunkCode](https://github.com/qq549631030/AndroidJunkCode)|Android马甲包生成垃圾代码插件|250|2021-11-08|
+|7|[qq549631030/AndroidJunkCode](https://github.com/qq549631030/AndroidJunkCode)|Android马甲包生成垃圾代码插件|253|2021-11-08|
 |8|[zeyangli/jenkinslibrary](https://github.com/zeyangli/jenkinslibrary)|Jenkins共享库|100|2021-10-17|
 |9|[duking666/ImgCompressPlugin](https://github.com/duking666/ImgCompressPlugin)|一款Android端自动化图片压缩的gradle插件,一键扫描项目中的资源目录并进行批量图片压缩,提供3种压缩方式,支持有损及无损压缩.同时会记录已压缩的文件,适合个人及团队协同使用.|90|2021-11-03|
 |10|[pengxurui/EasyPrivacy](https://github.com/pengxurui/EasyPrivacy)|一个帮助开发者快速找到国内隐私整改问题的工具|73|2021-12-27|

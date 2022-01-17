@@ -7,11 +7,11 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1356|10|2022-01-16|
 |2|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|sample code for several design patterns in PHP 8|20237|5|2022-01-09|
-|3|[hlmd/Postman-cn](https://github.com/hlmd/Postman-cn)|Postman汉化中文版|3241|5|2022-01-12|
+|3|[hlmd/Postman-cn](https://github.com/hlmd/Postman-cn)|Postman汉化中文版|3242|5|2022-01-12|
 |4|[Qsnh/meedu](https://github.com/Qsnh/meedu)|知识付费、企业线上培训解决方案。|2748|2|2021-12-19|
 |5|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|2456|2|2021-11-13|
 |6|[summerblue/laravel-shop](https://github.com/summerblue/laravel-shop)|Laravel 电商实战教程的项目代码|2347|2|2022-01-13|
-|7|[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)|A list of ICs and IPs for AI, Machine Learning and Deep Learning.|1216|1|2021-12-20|
+|7|[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)|A list of ICs and IPs for AI, Machine Learning and Deep Learning.|1217|1|2021-12-20|
 |8|[xianyunyh/PHP-Interview](https://github.com/xianyunyh/PHP-Interview)|This is the information I prepared for the PHP interview.The notes include PHP, MySql, Linux, etc.|1135|1|2021-12-12|
 |9|[owner888/phpspider](https://github.com/owner888/phpspider)|《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序|3414|1|2022-01-03|
 |10|[orangetw/My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges)|Collection of CTF Web challenges I made|2276|1|2021-12-05|
@@ -25,7 +25,7 @@
 |18|[aliliin/LeetCode-Algorithms](https://github.com/aliliin/LeetCode-Algorithms)| LeetCode Algorithms PHP 算法   leetcode php|69|0|2022-01-11|
 |19|[LychApe/DreamCat](https://github.com/LychApe/DreamCat)|DreamCat 是一个极简自适应博客主题,年轻人追梦良品!|139|0|2021-10-04|
 |20|[magicblack/maccms8](https://github.com/magicblack/maccms8)|苹果cms官方,苹果cmsv8,maccmsv8,麦克cms,开源cms,视频分享程序,文章程序,专题程序,免费程序|59|0|2022-01-09|
-|21|[opensource-socialnetwork/opensource-socialnetwork](https://github.com/opensource-socialnetwork/opensource-socialnetwork)|Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who s ...|834|0|2022-01-13|
+|21|[opensource-socialnetwork/opensource-socialnetwork](https://github.com/opensource-socialnetwork/opensource-socialnetwork)|Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who s ...|834|0|2022-01-16|
 |22|[learnku/learnku](https://github.com/learnku/learnku)|learnku.net 网站使用 laravel5.5 重新架构|157|0|2022-01-13|
 |23|[summerblue/weibo](https://github.com/summerblue/weibo)|Laravel 中文新手课程《L01 Laravel 教程 - Web 开发实战入门》的源代码 |87|0|2021-10-27|
 |24|[mokeyjay/Pixiv-daily-ranking-widget](https://github.com/mokeyjay/Pixiv-daily-ranking-widget)|会自动更新的P站每日榜小挂件，适合放在博客侧边栏等地方 Pixiv daily list widget that automatically updates, suitable for blog sidebar, etc.|205|0|2021-09-26|
@@ -53,7 +53,7 @@
 |46|[changbin1997/MWordStar](https://github.com/changbin1997/MWordStar)|响应式双栏 Typecho 博客主题|110|0|2021-12-23|
 |47|[pmlic/PHP-ML-study](https://github.com/pmlic/PHP-ML-study)|This is a PHP-ML Chinese learning example|98|0|2021-08-20|
 |48|[anerg2046/sns_auth](https://github.com/anerg2046/sns_auth)|通用第三方登录SDK，支持微信，微信扫码，QQ，微博登录，支付宝登录，Facebook，Line，Twitter，Google|550|0|2021-11-15|
-|49|[poetries/mywiki](https://github.com/poetries/mywiki)|:books:收集整理日常发现的好资源、前端资源汇总。关注公众号「前端进阶之旅」，一起学习|642|0|2021-10-03|
+|49|[poetries/mywiki](https://github.com/poetries/mywiki)|:books:收集整理日常发现的好资源、前端资源汇总。关注公众号「前端进阶之旅」，一起学习|643|0|2021-10-03|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

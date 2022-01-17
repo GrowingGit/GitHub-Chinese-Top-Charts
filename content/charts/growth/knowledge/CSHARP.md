@@ -5,9 +5,9 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)|PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等|2784|116|2022-01-16|
+|1|[wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)|PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等|2797|117|2022-01-17|
 |2|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|2305|3|2022-01-16|
-|3|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|3586|3|2021-12-14|
+|3|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|3587|3|2021-12-14|
 |4|[YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)|🦸【C#/.NET/.NET Core学习、工作、面试指南】概述：C#/.NET/.NET Core基础知识，学习资料、文章、书籍，社区组织，工具和常见的面试题总结。以及面试时需要注意的事项和优秀简历编写技巧，希望能和大家一起成长进步👊。【让现在的自己不再迷茫✨】|828|2|2021-12-07|
 |5|[2881099/FreeRedis](https://github.com/2881099/FreeRedis)|🦄 FreeRedis is .NET40+ redis client. supports cluster, sentinel, master-slave, pub-sub, lua, pipeline, transaction, streams, client-side-caching, and pooling.|504|1|2021-10-09|
 |6|[xuejmnet/sharding-core](https://github.com/xuejmnet/sharding-core)|high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵|446|1|2022-01-16|

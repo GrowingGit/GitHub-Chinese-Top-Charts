@@ -11,7 +11,7 @@
 |4|[unclestrong/DeepLearning_LHY21_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes)|深度学习 李宏毅 2021 学习笔记|801|2021-10-30|2021-03-11|
 |5|[cckuailong/vulbase](https://github.com/cckuailong/vulbase)|各大漏洞文库合集|439|2021-10-05|2021-08-28|
 |6|[flutterchina/flutter_in_action_2nd](https://github.com/flutterchina/flutter_in_action_2nd)|《Flutter实战 第二版》- 书稿（未完成）|369|2022-01-09|2021-08-29|
-|7|[NakanoMikuOrg/arch-guide](https://github.com/NakanoMikuOrg/arch-guide)|✨ archlinux 简明指南   本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容   提供在线文档 ✨|187|2022-01-16|2021-05-29|
+|7|[NakanoMikuOrg/arch-guide](https://github.com/NakanoMikuOrg/arch-guide)|✨ archlinux 简明指南   本指南包含从 archlinux 安装、显卡驱动、日常软件配置、多媒体制作、编程等你可能需要的全部内容   提供在线文档 ✨|189|2022-01-16|2021-05-29|
 |8|[koolshare/koolcenter](https://github.com/koolshare/koolcenter)|提供评测文章，固件教程，插件使用说明等。|160|2021-11-09|2021-09-23|
 |9|[ttttmr/wechat2rss](https://github.com/ttttmr/wechat2rss)|微信公众号转RSS|132|2022-01-09|2021-09-25|
 |10|[su37josephxia/bytedance-youth-training-camp](https://github.com/su37josephxia/bytedance-youth-training-camp)|字节青训营教程|122|2021-10-08|2021-09-18|
@@ -27,7 +27,7 @@
 |20|[SambacFeng/SWU-SE-HELPER](https://github.com/SambacFeng/SWU-SE-HELPER)|西南大学软件工程专业生存指南，提供专业所需学习的课程资料，学习攻略等|26|2022-01-12|2021-06-27|
 |21|[luckyzhz/software-designer](https://github.com/luckyzhz/software-designer)|软考中级教程-软件设计师|25|2022-01-04|2021-12-22|
 |22|[carlsummer/python_developer_tools](https://github.com/carlsummer/python_developer_tools)|论文复现，多机多卡|25|2022-01-14|2021-04-30|
-|23|[yangheng95/ABSADatasets](https://github.com/yangheng95/ABSADatasets)|Public & Community-shared datasets for Aspect-based sentiment analysis and Text Classification|23|2022-01-16|2021-06-08|
+|23|[yangheng95/ABSADatasets](https://github.com/yangheng95/ABSADatasets)|Public & Community-shared datasets for Aspect-based sentiment analysis and Text Classification|23|2022-01-17|2021-06-08|
 |24|[RenektonChr/gitbook](https://github.com/RenektonChr/gitbook)|renekton的gitbook|22|2021-11-17|2021-04-27|
 |25|[Biusec/Open_the_cyber_security_door](https://github.com/Biusec/Open_the_cyber_security_door)|打开网络安全之门（网络安全各方向学习指南）|20|2021-08-04|2021-07-02|
 |26|[HaujetZhao/ShortcutMapper_Chinese](https://github.com/HaujetZhao/ShortcutMapper_Chinese)|可视化、交互式的快捷键映射图，中文版本，可以直观地查找快捷键。不懂编程也可以方便地修改、添加快捷键。|19|2021-11-13|2021-02-20|

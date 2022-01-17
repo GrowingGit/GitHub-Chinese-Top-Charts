@@ -6,12 +6,12 @@
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[Wscats/articles](https://github.com/Wscats/articles)|🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆|3051|2021-12-20|
-|2|[Tinywan/lua-nginx-redis](https://github.com/Tinywan/lua-nginx-redis)|:hibiscus: Redis、Lua、Nginx、OpenResty 笔记和资料|844|2021-10-26|
-|3|[Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)|《明日方舟》游戏数据|653|2022-01-14|
+|2|[Tinywan/lua-nginx-redis](https://github.com/Tinywan/lua-nginx-redis)|:hibiscus: Redis、Lua、Nginx、OpenResty 笔记和资料|845|2021-10-26|
+|3|[Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)|《明日方舟》游戏数据|654|2022-01-14|
 |4|[openresty/lua-resty-lock](https://github.com/openresty/lua-resty-lock)|Simple nonblocking lock API for ngx_lua based on shared memory dictionaries|271|2021-10-08|
-|5|[nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua)|📜 学习 Neovim 全配置， 逃离 VSCode。|150|2022-01-15|
+|5|[nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua)|📜 学习 Neovim 全配置， 逃离 VSCode。|152|2022-01-15|
 |6|[max-ri/Guidelime](https://github.com/max-ri/Guidelime)|Guidelime: A WoW Classic addon for leveling guides with automatic progress updates|132|2021-11-30|
-|7|[simdsoft/x-studio.github.io](https://github.com/simdsoft/x-studio.github.io)|This is the issues tracking, roadmap, docs src repo of the x-studio IDE. Copyright © 2014-2022 Simdsoft Limited|84|2022-01-11|
+|7|[simdsoft/x-studio.github.io](https://github.com/simdsoft/x-studio.github.io)|This is the issues tracking, roadmap, docs src repo of the x-studio IDE. Copyright © 2014-2022 Simdsoft Limited|85|2022-01-11|
 |8|[Seekladoom/Seekladoom-ASS-Effect](https://github.com/Seekladoom/Seekladoom-ASS-Effect)|分享一下鄙人自己做的一些特效字幕，如有写得不当的地方还请多多包涵。|52|2021-12-17|
 |9|[flily/lua-performance](https://github.com/flily/lua-performance)|Lua performance guide|35|2021-08-11|
 |10|[k8scat/lua-resty-feishu-auth](https://github.com/k8scat/lua-resty-feishu-auth)|适用于 OpenResty / ngx_lua 的基于飞书组织架构的登录认证|20|2021-11-24|

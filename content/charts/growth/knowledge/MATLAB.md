@@ -6,8 +6,8 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model)|美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、数学建模美赛论文，数学建模国赛论文、LaTeX模板、国赛LaTeX模板、美赛LaTeX模板、mathorcup历年论文、研究生数学建模历年论文、电工杯、华中赛、APMCM亚太地区数学建模、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、数学建模算法、国赛评阅要点、数学建模word模板、软件模型算法汇总、MA ...|408|4|2021-12-09|
-|2|[cycleuser/Stanford-CS-229-CN](https://github.com/cycleuser/Stanford-CS-229-CN)|A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译|2983|2|2021-11-24|
-|3|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|354|1|2022-01-10|
+|2|[cycleuser/Stanford-CS-229-CN](https://github.com/cycleuser/Stanford-CS-229-CN)|A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译|2985|2|2021-11-24|
+|3|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|355|1|2022-01-10|
 |4|[iChunyu/LearnCtrlSys](https://github.com/iChunyu/LearnCtrlSys)|控制理论学习记录|3|0|2021-12-08|
 |5|[Tyler2025/Machine_Learning](https://github.com/Tyler2025/Machine_Learning)|台湾大学李宏毅教授课程作业练习|9|0|2021-09-02|
 |6|[zephyrhours/Hyperspectral-Anomaly-Detection-2S-GLRT](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-2S-GLRT)|This is the code of paper named "Multipixel Anomaly Detection With Unknown Patterns for  Imagery"|8|0|2021-09-28|

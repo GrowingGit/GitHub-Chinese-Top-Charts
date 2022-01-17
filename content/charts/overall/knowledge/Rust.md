@@ -5,25 +5,25 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|260448|2021-12-15|
-|2|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7501|2022-01-15|
-|3|[sunface/rust-course](https://github.com/sunface/rust-course)|<<Rust语言圣经(Book & Course)>>对Rust语言进行全面且深入的讲解，书中辅以生动的示例和习题，带你攻克从入门学习到实践应用的各种难关。 我们的目标是做一门优秀的开源Rust教程(课程)——学Rust就上course.rs。|1959|2022-01-16|
+|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|260451|2021-12-15|
+|2|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7503|2022-01-15|
+|3|[sunface/rust-course](https://github.com/sunface/rust-course)|<<Rust语言圣经(Book & Course)>>对Rust语言进行全面且深入的讲解，书中辅以生动的示例和习题，带你攻克从入门学习到实践应用的各种难关。 我们的目标是做一门优秀的开源Rust教程(课程)——学Rust就上course.rs。|2063|2022-01-17|
 |4|[anshulrgoyal/rust-web-developer-roadmap](https://github.com/anshulrgoyal/rust-web-developer-roadmap)|Roadmap to becoming a Rust Web Developer in 2021|1043|2021-08-16|
 |5|[zu1k/copy-translator](https://github.com/zu1k/copy-translator)|简单、轻量、好用的划词翻译软件，利用DeepL翻译，无需注册api token|509|2021-12-27|
 |6|[aylei/leetcode-rust](https://github.com/aylei/leetcode-rust)|my leetcode solutions in rust|444|2021-09-23|
 |7|[mini-lust/tutorials](https://github.com/mini-lust/tutorials)|An RPC framework developing tutorial|377|2021-08-18|
 |8|[rcore-os/rCore-Tutorial](https://github.com/rcore-os/rCore-Tutorial)|Tutorial for rCore OS step by step (3rd edition)  |370|2021-08-09|
-|9|[wtklbm/rust-library-i18n](https://github.com/wtklbm/rust-library-i18n)|Rust 核心库和标准库的源码级中文翻译，可作为 IDE 工具的智能提示，也可以生成本地 API 文档|358|2022-01-16|
-|10|[tyrchen/geektime-rust](https://github.com/tyrchen/geektime-rust)|我的极客时间 Rust 课程的代码仓库，随课程更新|348|2022-01-16|
-|11|[phodal/quake](https://github.com/phodal/quake)|Quake is a knowledge management meta-framework for geeks. Use meta-data + Transflow to CRUD data,  Git + markdown to management content, Web Component for frontend-custom. Quake 是面向极客的知识管理元框架。|287|2022-01-16|
+|9|[wtklbm/rust-library-i18n](https://github.com/wtklbm/rust-library-i18n)|Rust 核心库和标准库的源码级中文翻译，可作为 IDE 工具的智能提示，也可以生成本地 API 文档|360|2022-01-16|
+|10|[tyrchen/geektime-rust](https://github.com/tyrchen/geektime-rust)|我的极客时间 Rust 课程的代码仓库，随课程更新|349|2022-01-16|
+|11|[phodal/quake](https://github.com/phodal/quake)|Quake is a knowledge management meta-framework for geeks. Use meta-data + Transflow to CRUD data,  Git + markdown to management content, Web Component for frontend-custom. Quake 是面向极客的知识管理元框架。|288|2022-01-16|
 |12|[weihanglo/rust-algorithm-club](https://github.com/weihanglo/rust-algorithm-club)|Learn algorithms and data structures with Rust|253|2021-12-23|
 |13|[zhangyuang/leetcode](https://github.com/zhangyuang/leetcode)|solve questions in leetcode by Rust|235|2022-01-15|
 |14|[ZhangHanDong/inviting-rust](https://github.com/ZhangHanDong/inviting-rust)|Rust实战视频课程代码示例|170|2021-08-30|
-|15|[rust-lang-cn/book-cn](https://github.com/rust-lang-cn/book-cn)|Rust  程序设计语言——Chinese translation of The Rust Programming Language (Book)|110|2022-01-16|
+|15|[rust-lang-cn/book-cn](https://github.com/rust-lang-cn/book-cn)|Rust  程序设计语言——Chinese translation of The Rust Programming Language (Book)|111|2022-01-16|
 |16|[citahub/libsm](https://github.com/citahub/libsm)|A Rust Library of China's Standards of Encryption Algorithms (SM2/3/4)|109|2022-01-14|
 |17|[aik2mlj/raytracer-tutorial](https://github.com/aik2mlj/raytracer-tutorial)|Raytracer tutorial for PPCA 2021, written in Rust.|106|2021-08-10|
 |18|[iolivia/rust-sokoban](https://github.com/iolivia/rust-sokoban)|Rust Sokoban book and code samples|103|2021-12-26|
-|19|[xuesongbj/Rust-Notes](https://github.com/xuesongbj/Rust-Notes)| 🦀️  Rust学习笔记 📖  |91|2022-01-11|
+|19|[xuesongbj/Rust-Notes](https://github.com/xuesongbj/Rust-Notes)| 🦀️  Rust学习笔记 📖  |91|2022-01-17|
 |20|[wangzhe3224/awesome-systematic-trading](https://github.com/wangzhe3224/awesome-systematic-trading)|A curated list of insanely awesome libraries, packages and resources for systematic trading. Crypto, Stock, Futures, Options, CFDs, FX, and more   量化交易   量化投资|58|2022-01-02|
 |21|[rcore-os/zCore-Tutorial](https://github.com/rcore-os/zCore-Tutorial)|[WIP] Tutorial for zCore kernel.|42|2021-08-28|
 |22|[FuGangqiang/mdblog.rs](https://github.com/FuGangqiang/mdblog.rs)|static site generator from markdown files(markdown 格式静态博客生成器)|40|2022-01-11|

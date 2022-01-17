@@ -10,7 +10,7 @@
 |3|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4028|4|2021-09-14|
 |4|[coyingcat/15DaysofAnimationsinSwift](https://github.com/coyingcat/15DaysofAnimationsinSwift)|Swift，学习动画，升级原版本 ， larrynatalicio/15DaysofAnimationsinSwift|9|0|2021-09-28|
 |5|[ZhongshanHuang/PoReader](https://github.com/ZhongshanHuang/PoReader)|本地小说阅读器，支持深色模式，Wifi传书，代码简洁有注释(local text reader, support dark modal, upload text by wifi)|31|0|2021-10-20|
-|6|[MoonStartMan/SwiftUI-Study](https://github.com/MoonStartMan/SwiftUI-Study)|SwiftUI学习记录|4|0|2021-07-31|
+|6|[MoonStartMan/SwiftUI-Study](https://github.com/MoonStartMan/SwiftUI-Study)|SwiftUI学习记录|5|0|2021-07-31|
 |7|[Cosmos-Front-end/tech-architecture](https://github.com/Cosmos-Front-end/tech-architecture)|Technology Architecture study and learn，技术架构研究和学习。|4|0|2021-08-07|
 |8|[lionsom/XiOS](https://github.com/lionsom/XiOS)|工作学习记录，留给以后的自己。希望能给大家些许帮助！|21|0|2022-01-07|
 |9|[Liaoworking/Advanced-Swift](https://github.com/Liaoworking/Advanced-Swift)|Notes of Advanced Swift. 《swift进阶》学习笔记 swift 5.3|313|0|2021-12-30|
@@ -20,7 +20,7 @@
 |13|[gl-lei/algorithm](https://github.com/gl-lei/algorithm)|《数据结构与算法之美》学习笔记以及 Swift 代码实现 ，原始仓库 https://github.com/wangzheng0822/algo|116|0|2021-08-24|
 |14|[yungfan/SwiftUI-learning](https://github.com/yungfan/SwiftUI-learning)|SwiftUI教程配套代码(SwiftUI+SwiftUI 2.0+SwiftUI 3.0)|49|0|2021-12-30|
 |15|[ccworld1000/OKKLineMin](https://github.com/ccworld1000/OKKLineMin)|OKKLineMin kline for min for learning for iPhone (support Swift5 & the latest  iPhone & iOS 15)(min K线图 用于学习了解)|22|0|2021-08-09|
-|16|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|364|0|2022-01-16|
+|16|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|365|0|2022-01-16|
 |17|[Noah37/zhuishushenqi](https://github.com/Noah37/zhuishushenqi)|追书神器Swift版客户端（非官方）。 不断更新中......|218|0|2022-01-06|
 |18|[MengLiMing/EasyKits](https://github.com/MengLiMing/EasyKits)|日常开发使用到的一些简单封装，目前包含：常用扩展，分类导航，类似简书的UIScrollView嵌套、复杂列表等|37|0|2022-01-05|
 |19|[SurveyCake/webhook](https://github.com/SurveyCake/webhook)|How to use SurveyCake webhook|11|0|2021-09-06|
@@ -40,7 +40,7 @@
 |33|[Hardercoder/blog](https://github.com/Hardercoder/blog)|博客记录|5|0|2021-10-15|
 |34|[zhangzhb369/x-reader-languages](https://github.com/zhangzhb369/x-reader-languages)|Txt,Pdf,Epub,Mobi,Azw book reader for iOS/iPad/Mac OS. 苹果多平台文档阅读器.多语言翻译工程.|3|0|2021-12-04|
 |35|[simplismvip/SRBook](https://github.com/simplismvip/SRBook)|电子书阅读器，支持epub和txt格式|21|0|2022-01-05|
-|36|[fanyunfei786452470/learningSwift](https://github.com/fanyunfei786452470/learningSwift)|基于swift4.2的语言、框架、项目学习|6|0|2022-01-14|
+|36|[fanyunfei786452470/learningSwift](https://github.com/fanyunfei786452470/learningSwift)|基于swift4.2的语言、框架、项目学习|6|0|2022-01-17|
 |37|[tw93/MiaoYan](https://github.com/tw93/MiaoYan)|⛷  轻灵的 Mac Markdown 笔记本伴你写出妙言|10|0|2022-01-03|
 |38|[christhoper/WorkingIssues](https://github.com/christhoper/WorkingIssues)|记录一些工作上的问题、优秀博客等|4|0|2021-11-23|
 |39|[simplismvip/Ebook](https://github.com/simplismvip/Ebook)|使用Swift写的电纸书阅读器，目前支持epub、txt格式电子书。|7|0|2021-09-18|

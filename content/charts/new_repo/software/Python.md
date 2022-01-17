@@ -5,30 +5,30 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|8839|2022-01-13|2021-07-19|
-|2|[PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)|Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!|5080|2022-01-14|2021-08-30|
+|1|[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|8842|2022-01-13|2021-07-19|
+|2|[PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)|Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!|5082|2022-01-14|2021-08-30|
 |3|[7eu7d7/genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish)|基于深度强化学习的原神自动钓鱼AI|3035|2021-12-04|2021-09-10|
 |4|[PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)|Easy-to-use and Fast NLP library with awesome model zoo,  supporting wide-range of NLP tasks from research to industrial applications.|2701|2022-01-16|2021-02-05|
-|5|[xfangfang/Macast](https://github.com/xfangfang/Macast)|Macast is a cross-platform application which using mpv as DLNA Media Renderer.|2466|2022-01-16|2021-06-02|
+|5|[xfangfang/Macast](https://github.com/xfangfang/Macast)|Macast is a cross-platform application which using mpv as DLNA Media Renderer.|2476|2022-01-16|2021-06-02|
 |6|[open-mmlab/mmocr](https://github.com/open-mmlab/mmocr)|OpenMMLab Text Detection, Recognition and Understanding Toolbox|2039|2022-01-16|2021-04-07|
 |7|[stypr/clubhouse-py](https://github.com/stypr/clubhouse-py)|Clubhouse API written in Python. Standalone client included. For reference and education purposes only.|1690|2021-07-28|2021-02-13|
 |8|[0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727)|信息收集自动化工具|1499|2022-01-05|2021-07-28|
 |9|[alibaba/taobao-iphone-device](https://github.com/alibaba/taobao-iphone-device)| tidevice can be used to communicate with iPhone device|1313|2021-12-31|2021-01-21|
-|10|[sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)|带带弟弟 通用验证码识别OCR pypi版|1188|2022-01-10|2021-07-14|
+|10|[sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)|带带弟弟 通用验证码识别OCR pypi版|1189|2022-01-10|2021-07-14|
 |11|[curtinlv/JD-Script](https://github.com/curtinlv/JD-Script)|仅供参考。|1003|2022-01-15|2021-05-05|
 |12|[luminoleon/epicgames-claimer](https://github.com/luminoleon/epicgames-claimer)|自动领取Epic游戏商城每周免费游戏。|991|2022-01-13|2021-09-12|
-|13|[Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis)|Static Code Analysis|946|2022-01-16|2021-12-28|
+|13|[Tencent/CodeAnalysis](https://github.com/Tencent/CodeAnalysis)|Static Code Analysis|950|2022-01-16|2021-12-28|
 |14|[martinet101/ElevenClock](https://github.com/martinet101/ElevenClock)|ElevenClock: Have a customizable clock on your Windows 11 displays|927|2022-01-16|2021-09-19|
 |15|[hustvl/YOLOP](https://github.com/hustvl/YOLOP)|You Only Look Once for Panopitic Driving Perception.（https://arxiv.org/abs/2108.11250）|841|2021-12-14|2021-08-25|
 |16|[tonquer/picacg-qt](https://github.com/tonquer/picacg-qt)|哔咔漫画, PicACG comic PC client(Windows, Linux, MacOS) |779|2022-01-15|2021-02-05|
 |17|[CollegesChat/university-information](https://github.com/CollegesChat/university-information)|收集全国各高校招生时不会写明，却会实实在在影响大学生活质量的要求与细节|766|2021-08-25|2021-06-25|
-|18|[yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster)|Make everything a GitHub svg poster and Skyline!|746|2022-01-16|2021-04-21|
+|18|[yihong0618/GitHubPoster](https://github.com/yihong0618/GitHubPoster)|Make everything a GitHub svg poster and Skyline!|747|2022-01-17|2021-04-21|
 |19|[Mashiro2000/HeyTapTask](https://github.com/Mashiro2000/HeyTapTask)|适配青龙面板/云函数/本地运行的欢太商城脚本|743|2021-12-03|2021-09-17|
 |20|[Mas0nShi/typoraCracker](https://github.com/Mas0nShi/typoraCracker)|A extract & decryption and pack & encryption tools for typora.|739|2022-01-04|2021-11-30|
 |21|[Jack-Cherish/quantitative](https://github.com/Jack-Cherish/quantitative)|量化交易：python3|736|2021-12-28|2021-09-08|
 |22|[BR-IDL/PaddleViT](https://github.com/BR-IDL/PaddleViT)|:robot: PaddleViT: State-of-the-art Visual Transformer and MLP Models for PaddlePaddle 2.0+|735|2022-01-11|2021-08-30|
 |23|[microsoft/Graphormer](https://github.com/microsoft/Graphormer)|Graphormer is a deep learning package that allows researchers and developers to train custom models for molecule modeling tasks. It aims to accelerate the research and application in AI for molecule s ...|734|2022-01-07|2021-05-27|
-|24|[78778443/QingScan](https://github.com/78778443/QingScan)|一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。|726|2022-01-15|2021-12-06|
+|24|[78778443/QingScan](https://github.com/78778443/QingScan)|一个漏洞扫描器粘合剂,添加目标后30款工具自动调用；支持 web扫描、系统扫描、子域名收集、目录扫描、主机扫描、主机发现、组件识别、URL爬虫、XRAY扫描、AWVS自动扫描、POC批量验证，SSH批量测试、vulmap。|727|2022-01-15|2021-12-06|
 |25|[tianqiraf/DouZero_For_HappyDouDiZhu](https://github.com/tianqiraf/DouZero_For_HappyDouDiZhu)|基于DouZero定制AI实战欢乐斗地主|722|2021-07-22|2021-07-11|
 |26|[wgpsec/DBJ](https://github.com/wgpsec/DBJ)|大宝剑-边界资产梳理工具（红队、蓝队、企业组织架构、子域名、Web资产梳理、Web指纹识别、ICON_Hash资产匹配）|707|2021-10-23|2021-03-11|
 |27|[Boris-code/feapder](https://github.com/Boris-code/feapder)|feapder是一款支持分布式、批次采集、任务防丢、报警丰富的python爬虫框架|696|2021-12-30|2021-02-08|
@@ -46,7 +46,7 @@
 |39|[EASY233/Finger](https://github.com/EASY233/Finger)|一款红队在大量的资产中存活探测与重点攻击系统指纹探测工具|508|2022-01-11|2021-03-24|
 |40|[P1-Team/AlliN](https://github.com/P1-Team/AlliN)|A flexible scanner|501|2021-12-17|2021-03-14|
 |41|[zhaoolee/garss](https://github.com/zhaoolee/garss)|Github Actions采集RSS, 打造无广告内容优质的头版头条超赞宝藏页|496|2022-01-16|2021-02-20|
-|42|[yhy0/github-cve-monitor](https://github.com/yhy0/github-cve-monitor)|实时监控github上新增的cve和安全工具更新，多渠道推送通知|487|2022-01-11|2021-02-25|
+|42|[yhy0/github-cve-monitor](https://github.com/yhy0/github-cve-monitor)|实时监控github上新增的cve和安全工具更新，多渠道推送通知|488|2022-01-11|2021-02-25|
 |43|[hukaixuan19970627/yolov5_obb](https://github.com/hukaixuan19970627/yolov5_obb)|yolov5 + csl_label.(Oriented Object Detection)（Rotation Detection）（Rotated BBox）基于yolov5的旋转目标检测|485|2022-01-16|2021-03-17|
 |44|[AntonVanke/JDBrandMember](https://github.com/AntonVanke/JDBrandMember)|京东自动入会获取京豆|479|2021-11-15|2021-04-01|
 |45|[Metarget/metarget](https://github.com/Metarget/metarget)|Metarget is a framework providing automatic constructions of vulnerable infrastructures.|473|2021-12-31|2021-04-09|
@@ -59,7 +59,7 @@
 |52|[ssantoshp/Empyrial](https://github.com/ssantoshp/Empyrial)|Portfolio Management Framework for risk and performance analysis 投资组合管理|450|2021-12-23|2021-03-08|
 |53|[G-Security-Team/GSLibrary](https://github.com/G-Security-Team/GSLibrary)|轻量级知识库&POC管理平台|416|2021-10-11|2021-07-27|
 |54|[dqzg12300/fridaUiTools](https://github.com/dqzg12300/fridaUiTools)|frida工具的缝合怪|413|2021-12-06|2021-06-01|
-|55|[BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer)|AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。Tuned GPT for novel generation.|407|2022-01-15|2021-07-26|
+|55|[BlinkDL/AI-Writer](https://github.com/BlinkDL/AI-Writer)|AI 写小说，生成玄幻和言情网文等等。中文预训练生成模型。采用我的 RWKV 模型，类似 GPT-2 。Tuned GPT for novel generation.|409|2022-01-15|2021-07-26|
 |56|[open-mmlab/mmrazor](https://github.com/open-mmlab/mmrazor)|OpenMMLab Model Compression Toolbox and Benchmark.|401|2022-01-13|2021-12-22|
 |57|[open-mmlab/mmflow](https://github.com/open-mmlab/mmflow)|OpenMMLab optical flow toolbox and benchmark|392|2022-01-12|2021-11-16|
 |58|[ventusff/neurecon](https://github.com/ventusff/neurecon)|Multi-view 3D reconstruction using neural rendering. Unofficial implementation of UNISURF, VolSDF, NeuS and more.|388|2021-09-14|2021-09-08|
@@ -68,7 +68,7 @@
 |61|[ice-doom/EyeJo](https://github.com/ice-doom/EyeJo)|EyeJo是一款自动化资产风险评估平台，可以协助甲方安全人员或乙方安全人员对授权的资产中进行排查，快速发现存在的薄弱点和攻击面。|374|2021-08-25|2021-03-31|
 |62|[jayus0821/swagger-hack](https://github.com/jayus0821/swagger-hack)|自动化爬取并自动测试所有swagger接口|357|2021-08-02|2021-02-01|
 |63|[yym6472/ConSERT](https://github.com/yym6472/ConSERT)|Code for our ACL 2021 paper - ConSERT: A Contrastive Framework for Self-Supervised Sentence Representation Transfer|349|2021-12-10|2021-05-31|
-|64|[UKPLab/beir](https://github.com/UKPLab/beir)|A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.|347|2021-12-15|2021-01-18|
+|64|[UKPLab/beir](https://github.com/UKPLab/beir)|A Heterogeneous Benchmark for Information Retrieval. Easy to use, evaluate your models across 15+ diverse IR datasets.|348|2021-12-15|2021-01-18|
 |65|[FengQuanLi/WZCQ](https://github.com/FengQuanLi/WZCQ)|用基于策略梯度得强化学习方法训练AI玩王者荣耀|346|2021-11-16|2021-07-04|
 |66|[openspeech-team/openspeech](https://github.com/openspeech-team/openspeech)|Open-Source Toolkit for End-to-End Speech Recognition leveraging PyTorch-Lightning and Hydra.|342|2022-01-04|2021-06-06|
 |67|[YyzHarry/imbalanced-regression](https://github.com/YyzHarry/imbalanced-regression)|[ICML 2021, Long Talk] Delving into Deep Imbalanced Regression|341|2021-12-01|2021-02-18|

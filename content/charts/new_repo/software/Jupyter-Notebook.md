@@ -47,7 +47,7 @@
 |40|[jackhuntcn/2021ccf_iqiyi_nlp](https://github.com/jackhuntcn/2021ccf_iqiyi_nlp)|-|15|2021-12-03|2021-12-03|
 |41|[W-Java/Population-Prediction](https://github.com/W-Java/Population-Prediction)|The future population of Singapore is predicted by SVM algorithm|15|2021-10-29|2021-10-29|
 |42|[moliqingwa/carbon_challenge](https://github.com/moliqingwa/carbon_challenge)|捕碳大作战|15|2021-12-22|2021-10-26|
-|43|[datawhalechina/powerful-numpy](https://github.com/datawhalechina/powerful-numpy)|巨硬的NumPy|14|2022-01-15|2021-10-15|
+|43|[datawhalechina/powerful-numpy](https://github.com/datawhalechina/powerful-numpy)|巨硬的NumPy|14|2022-01-17|2021-10-15|
 |44|[KoichiYasuoka/SuPar-Kanbun-1.3.4](https://github.com/KoichiYasuoka/SuPar-Kanbun-1.3.4)|Tokenizer POS-tagger and Dependency-parser for Classical Chinese|14|2021-12-16|2021-03-09|
 |45|[eval4nlp/SharedTask2021](https://github.com/eval4nlp/SharedTask2021)|-|13|2021-11-23|2021-05-21|
 |46|[tcmyxc/DL-AndrewNg](https://github.com/tcmyxc/DL-AndrewNg)|吴恩达深度学习2021年空白作业|12|2021-09-13|2021-06-02|

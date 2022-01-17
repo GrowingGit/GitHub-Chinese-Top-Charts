@@ -6,9 +6,9 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20394|7|2021-12-13|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11860|6|2022-01-11|
-|3|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3777|5|2022-01-16|
-|4|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4234|4|2021-07-29|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11861|6|2022-01-11|
+|3|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3780|5|2022-01-16|
+|4|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4236|4|2021-07-29|
 |5|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5994|3|2021-12-20|
 |6|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4534|3|2022-01-09|
 |7|[apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh)|:book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】|3624|3|2021-08-09|
@@ -31,8 +31,8 @@
 |24|[channingbreeze/phaser-tutorial](https://github.com/channingbreeze/phaser-tutorial)|Phaser从入门到精通|36|0|2021-10-26|
 |25|[fuzhengwei/itstack-demo-netty](https://github.com/fuzhengwei/itstack-demo-netty)|微信公众号：bugstack虫洞栈   专注于原创开发专题案例。跟着案例学Netty，Netty4.x案例从简单入门到应用实战，全篇37章节优秀案例+实战源码[基础篇(13)、中级篇(13)、高级篇(3章+)、源码分析篇]，以上章节全部完成并不断持续更新中。欢迎关注公众号：bugstack虫洞栈   阅读专题文章+调试案例源码学习｛回复netty案例｝。|373|0|2022-01-07|
 |26|[Bgods/Django-blog-material-x](https://github.com/Bgods/Django-blog-material-x)|一个基于Hexo博客主题改写的Django博客。我的博客：http://bgods.cn/|8|0|2022-01-13|
-|27|[ldqk/Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs)|masuit.org个人博客站项目源码，https://masuit.org ，供参考、学习、引用、非商业性质的部署。基于.net6|622|0|2022-01-12|
-|28|[yanchunlan/SourceCodeSummary](https://github.com/yanchunlan/SourceCodeSummary)|个人笔记（编译/性能优化/framework/音视频/flutter）|12|0|2022-01-09|
+|27|[ldqk/Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs)|masuit.org个人博客站项目源码，https://masuit.org ，供参考、学习、引用、非商业性质的部署。基于.net6|623|0|2022-01-12|
+|28|[yanchunlan/SourceCodeSummary](https://github.com/yanchunlan/SourceCodeSummary)|个人笔记（编译/性能优化/framework/音视频/flutter）|12|0|2022-01-17|
 |29|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|23|0|2022-01-14|
 |30|[RGDZ-GZU/math-knowledge-vault](https://github.com/RGDZ-GZU/math-knowledge-vault)|数学知识库|5|0|2021-11-29|
 |31|[XGuang1226/vue_manage_demo](https://github.com/XGuang1226/vue_manage_demo)|vue+elementui搭建的后台管理系统，整个项目从环境搭建、工具模块封装、优化登录流程、国际化及更改皮肤、功能组件封装、管理应用状态、接口格式定义、第三方图标库的应用、用户管理模块、页面权限控制、菜单功能实现、系统备份还原、嵌套外部网页、登录验证码实现，几乎包括了Vue项目所有知识点，希望通过此项目能给初学者带来帮助，由于完全间隙性手敲代码，难免出现bug及考虑不周之处，还望大家留言指出及贡 ...|5|0|2021-10-06|
@@ -103,7 +103,7 @@
 |96|[piperhaywood/commonplace-wp-theme](https://github.com/piperhaywood/commonplace-wp-theme)|A WordPress theme based on a Commonplace Book|13|0|2022-01-14|
 |97|[DLonng/dlonng.github.io](https://github.com/DLonng/dlonng.github.io)|个人博客|5|0|2021-09-27|
 |98|[bit-ranger/blog](https://github.com/bit-ranger/blog)|博客|110|0|2021-10-14|
-|99|[whuanle/kubernetes](https://github.com/whuanle/kubernetes)|痴者工良 - Kubernetes 电子书|6|0|2021-11-29|
+|99|[whuanle/kubernetes](https://github.com/whuanle/kubernetes)|痴者工良 - Kubernetes 电子书|8|0|2021-11-29|
 |100|[DataXujing/TensorRT_CV](https://github.com/DataXujing/TensorRT_CV)|:rocket::rocket::rocket:NVIDIA TensorRT 加速推断教程！|96|0|2021-07-31|
 |101|[yn-zxj/Typecho_Admin_Theme](https://github.com/yn-zxj/Typecho_Admin_Theme)|Typecho博客后台主题|32|0|2021-08-20|
 |102|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主要提供以上原创教程的下载，教程皆为本人从零原创。目的不单是留下经验和理论，还有将难以理解的东西翻译的一语中的；即使不学，用的时候也能一看就懂；在文档的格式，大小，美观上也远超一般文档；最后不断跟进一些新内容。理论上，这就是最好的教程了|24|0|2022-01-10|

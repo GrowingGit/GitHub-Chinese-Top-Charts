@@ -5,13 +5,13 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|380|2022-01-16|2021-06-19|
+|1|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|381|2022-01-17|2021-06-19|
 |2|[linkease/istore](https://github.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|112|2021-12-21|2021-08-24|
 |3|[ryohuang/slim-wrt](https://github.com/ryohuang/slim-wrt)|Armor for Openwrt|67|2021-11-15|2021-02-20|
 |4|[FrSkyRC/ETHOS-Feedback-Community](https://github.com/FrSkyRC/ETHOS-Feedback-Community)|Feedbacks & suggestion are very appreciated on ETHOS of FrSky|60|2022-01-14|2021-03-09|
 |5|[bs10081/Rime-Cx330](https://github.com/bs10081/Rime-Cx330)|適配小鶴雙拼、全拼、五筆：支持部分中英混合輸入、Emoji輸入、簡繁轉換、傳承字標準字轉換、UTF-8 GBK編碼轉換、200萬詞庫覆蓋日常絕大多數場景。|47|2021-11-05|2021-01-27|
 |6|[jerrykuku/luci-app-go-aliyundrive-webdav](https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav)|本项目是go-aliyun-webdav 的Luci 控制面板。|39|2021-11-10|2021-10-08|
-|7|[iDvel/rime-settings](https://github.com/iDvel/rime-settings)|自用 Rime 配置|33|2022-01-14|2021-01-29|
+|7|[iDvel/rime-settings](https://github.com/iDvel/rime-settings)|自用 Rime 配置|34|2022-01-14|2021-01-29|
 |8|[nybdech/skynet-qp-server](https://github.com/nybdech/skynet-qp-server)|一个基于skynet的棋牌游戏服务端，也可以作为其他类型的游戏服务端|25|2021-09-23|2021-09-15|
 |9|[h-hg/fcitx.nvim](https://github.com/h-hg/fcitx.nvim)|A Neovim plugin writing in Lua to switch and restore fcitx state for each buffer.|18|2021-12-11|2021-09-19|
 |10|[zhang-changwei/Automation-scripts-for-Aegisub](https://github.com/zhang-changwei/Automation-scripts-for-Aegisub)|A few automation scripts for Aegisub|18|2022-01-08|2021-02-09|
@@ -30,7 +30,7 @@
 |23|[copy0401/irime-bopomo-config](https://github.com/copy0401/irime-bopomo-config)|iRime 設定 新增注音輸入法 及 注音鍵盤主題|6|2022-01-15|2021-09-20|
 |24|[ZAA03/lua_action](https://github.com/ZAA03/lua_action)|一键签到，葫芦侠3楼，芥子空间|6|2021-08-27|2021-07-09|
 |25|[awesomeusername69420/meth_tools](https://github.com/awesomeusername69420/meth_tools)|Tools made for https://methamphetamine.solutions/|6|2022-01-08|2021-06-07|
-|26|[DeadlyBossMods/DBM-TBC-Classic](https://github.com/DeadlyBossMods/DBM-TBC-Classic)|The ultimate encounter helper (for TBC) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|6|2022-01-16|2021-04-01|
+|26|[DeadlyBossMods/DBM-TBC-Classic](https://github.com/DeadlyBossMods/DBM-TBC-Classic)|The ultimate encounter helper (for TBC) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|6|2022-01-17|2021-04-01|
 |27|[ASoulCnki/ASoulAnniversary](https://github.com/ASoulCnki/ASoulAnniversary)|OAuth Service provide by ASoulCnki(枝网)|5|2021-12-30|2021-11-29|
 |28|[yuanyan3060/Arknights-Bot-Resource](https://github.com/yuanyan3060/Arknights-Bot-Resource)|明日方舟bot常用素材|5|2022-01-13|2021-11-28|
 |29|[super-goodman/lua-script](https://github.com/super-goodman/lua-script)|lua 脚本|5|2021-11-25|2021-08-06|

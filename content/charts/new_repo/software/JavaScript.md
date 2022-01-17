@@ -5,13 +5,13 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|18075|2022-01-15|2021-08-07|
+|1|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|18078|2022-01-15|2021-08-07|
 |2|[KieSun/all-of-frontend](https://github.com/KieSun/all-of-frontend)|你想知道的前端内容都在这|4146|2021-10-20|2021-02-24|
 |3|[vaxilu/x-ui](https://github.com/vaxilu/x-ui)|支持多协议多用户的 xray 面板|3048|2021-12-11|2021-05-18|
-|4|[shufflewzc/faker2](https://github.com/shufflewzc/faker2)|不知名大佬备份|2908|2022-01-16|2021-06-10|
+|4|[shufflewzc/faker2](https://github.com/shufflewzc/faker2)|不知名大佬备份|2917|2022-01-16|2021-06-10|
 |5|[thx/gogocode](https://github.com/thx/gogocode)|GoGoCode is a transformer for JavaScript/Typescript/HTML based on AST but providing a more intuitive API.|2688|2022-01-13|2021-03-03|
-|6|[VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo)|解锁完整的 Apple功能和集成服务|2325|2022-01-08|2021-10-16|
-|7|[zero205/JD_tencent_scf](https://github.com/zero205/JD_tencent_scf)|自用京东JS脚本，已加入助力池；支持【青龙】、【腾讯云函数】、【elecV2P】；低调使用，请勿fork！！！|2174|2022-01-16|2021-05-11|
+|6|[VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo)|解锁完整的 Apple功能和集成服务|2327|2022-01-08|2021-10-16|
+|7|[zero205/JD_tencent_scf](https://github.com/zero205/JD_tencent_scf)|自用京东JS脚本，已加入助力池；支持【青龙】、【腾讯云函数】、【elecV2P】；低调使用，请勿fork！！！|2177|2022-01-17|2021-05-11|
 |8|[micro-zoe/micro-app](https://github.com/micro-zoe/micro-app)|A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架|1968|2022-01-14|2021-06-24|
 |9|[biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export)|Easily export the Genshin Impact wish record.|1922|2022-01-06|2021-02-15|
 |10|[lan-tianxiang/JS_TOOL](https://github.com/lan-tianxiang/JS_TOOL)|Node网页开发工具|1539|2021-09-06|2021-04-10|
@@ -25,17 +25,17 @@
 |18|[RimoChan/match-you](https://github.com/RimoChan/match-you)|【您配吗】配你吗|1043|2022-01-15|2021-11-19|
 |19|[airuikun/mircro-tech](https://github.com/airuikun/mircro-tech)|react的微前端组件，让你的react项目可以加载vue组件|957|2021-08-18|2021-05-17|
 |20|[AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch)|Add a useless notch to your screen.|937|2021-10-30|2021-10-20|
-|21|[ineo6/hosts](https://github.com/ineo6/hosts)|GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。|844|2022-01-16|2021-03-28|
+|21|[ineo6/hosts](https://github.com/ineo6/hosts)|GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。|844|2022-01-17|2021-03-28|
 |22|[Reamd7/notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)|notion 中文化|815|2022-01-09|2021-08-12|
 |23|[Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)|✨ A Markdown Editor|669|2022-01-13|2021-10-15|
 |24|[passerby-b/JDDJ](https://github.com/passerby-b/JDDJ)|京东到家果园庄园脚本,电报群:https://t.me/passerbyb2021|639|2021-12-13|2021-04-16|
-|25|[asd920/Auto-jd](https://github.com/asd920/Auto-jd)|京东自用脚本|634|2022-01-14|2021-05-29|
-|26|[vitejs/docs-cn](https://github.com/vitejs/docs-cn)|Chinese translation of vitejs.dev|586|2022-01-14|2021-02-03|
+|25|[asd920/Auto-jd](https://github.com/asd920/Auto-jd)|京东自用脚本|635|2022-01-14|2021-05-29|
+|26|[vitejs/docs-cn](https://github.com/vitejs/docs-cn)|Chinese translation of vitejs.dev|586|2022-01-16|2021-02-03|
 |27|[JackonYang/money-maker-apps](https://github.com/JackonYang/money-maker-apps)|我认为有赚钱能力的开源小程序、个人网站|574|2022-01-05|2021-01-28|
-|28|[segfall/static-wiki](https://github.com/segfall/static-wiki)|Wikipedia using only static assets & no backend|504|2021-09-17|2021-07-18|
-|29|[YuehaiTeam/cocogoat](https://github.com/YuehaiTeam/cocogoat)|A toolbox for Genshin Impact to export artifacts automatically.  支持圣遗物全自动导出的原神工具箱，保证每一行代码都是熬夜加班打造。|503|2021-11-24|2021-04-08|
-|30|[feeddd/feeds](https://github.com/feeddd/feeds)|免费的公众号 RSS，支持扩展任意 APP|492|2022-01-15|2021-08-17|
-|31|[tnfe/wp2vite](https://github.com/tnfe/wp2vite)|一个让webpack项目支持vite的前端项目的转换工具。A front-end project automatic conversion tool。|489|2021-12-17|2021-03-29|
+|28|[YuehaiTeam/cocogoat](https://github.com/YuehaiTeam/cocogoat)|A toolbox for Genshin Impact to export artifacts automatically.  支持圣遗物全自动导出的原神工具箱，保证每一行代码都是熬夜加班打造。|505|2021-11-24|2021-04-08|
+|29|[segfall/static-wiki](https://github.com/segfall/static-wiki)|Wikipedia using only static assets & no backend|504|2021-09-17|2021-07-18|
+|30|[feeddd/feeds](https://github.com/feeddd/feeds)|免费的公众号 RSS，支持扩展任意 APP|492|2022-01-16|2021-08-17|
+|31|[tnfe/wp2vite](https://github.com/tnfe/wp2vite)|一个让webpack项目支持vite的前端项目的转换工具。A front-end project automatic conversion tool。|488|2021-12-17|2021-03-29|
 |32|[xaboy/form-create-designer](https://github.com/xaboy/form-create-designer)|好用的vue可视化表单设计器|444|2022-01-12|2021-04-05|
 |33|[764763903a/xdd-plus](https://github.com/764763903a/xdd-plus)|xdd-plus|394|2022-01-13|2021-09-06|
 |34|[xqq/mpegts.js](https://github.com/xqq/mpegts.js)|HTML5 MPEG2-TS Stream Player|388|2021-10-19|2021-03-15|
@@ -43,7 +43,7 @@
 |36|[ccwav/QLScript2](https://github.com/ccwav/QLScript2)|新QLScript|352|2022-01-15|2021-09-29|
 |37|[loong132/autojs-script](https://github.com/loong132/autojs-script)|autojs脚本程序,用于完成安卓设备上的重复性操作.包含脚本: 1.2021年京东618任务脚本 2.2021年京东燃动夏季活动脚本3.2021京东双十一热爱环游记|343|2021-11-06|2021-07-10|
 |38|[wechat-miniprogram/minigame-unity-webgl-transform](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform)|-|334|2021-12-29|2021-05-24|
-|39|[newbee-ltd/newbee-mall-plus](https://github.com/newbee-ltd/newbee-mall-plus)|🔥 🎉newbee-mall-plus 项目是 newbee-mall 项目的升级版本，增加了优惠券模块、商品秒杀模块、支付宝支付，优化了搜索功能，后续会继续增加功能模块以及流行的技术栈。|332|2021-11-17|2021-01-17|
+|39|[newbee-ltd/newbee-mall-plus](https://github.com/newbee-ltd/newbee-mall-plus)|🔥 🎉newbee-mall-plus 项目是 newbee-mall 项目的升级版本，增加了优惠券模块、商品秒杀模块、支付宝支付，优化了搜索功能，后续会继续增加功能模块以及流行的技术栈。|333|2021-11-17|2021-01-17|
 |40|[qishanzhiruan/basemall](https://github.com/qishanzhiruan/basemall)|🥇🥇🥇商城系统- java商城 B2C商城 小程序商城 H5商城 APP商城，本商城是前后端分离的商城、微服务架构商城。|329|2022-01-13|2021-09-13|
 |41|[yuannian1112/jd_scripts](https://github.com/yuannian1112/jd_scripts)|-|304|2022-01-16|2021-08-07|
 |42|[hewenguang/circle](https://github.com/hewenguang/circle)|让网页赏心悦目、让阅读回归初心。Circle 阅读模式提供更隐私、更轻松、更舒适的网页阅读体验|299|2021-08-25|2021-02-28|

@@ -6,19 +6,19 @@
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20394|2021-12-13|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11860|2022-01-11|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11861|2022-01-11|
 |3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8359|2022-01-10|
 |4|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5994|2021-12-20|
 |5|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4534|2022-01-09|
-|6|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4234|2021-07-29|
+|6|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4236|2021-07-29|
 |7|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|3792|2021-12-30|
-|8|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3777|2022-01-16|
+|8|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3780|2022-01-16|
 |9|[apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh)|:book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】|3624|2021-08-09|
 |10|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|2911|2021-12-02|
 |11|[beeth0ven/RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation)|RxSwift 中文文档|1219|2021-10-25|
 |12|[leopardpan/leopardpan.github.io](https://github.com/leopardpan/leopardpan.github.io)|个人博客，看效果进入|1163|2021-10-17|
 |13|[kaeyleo/jekyll-theme-H2O](https://github.com/kaeyleo/jekyll-theme-H2O)| 🎉 A clean and delicate Jekyll theme. Jekyll博客主题|908|2021-10-28|
-|14|[ldqk/Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs)|masuit.org个人博客站项目源码，https://masuit.org ，供参考、学习、引用、非商业性质的部署。基于.net6|622|2022-01-12|
+|14|[ldqk/Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs)|masuit.org个人博客站项目源码，https://masuit.org ，供参考、学习、引用、非商业性质的部署。基于.net6|623|2022-01-12|
 |15|[Veal98/CS-Wiki](https://github.com/Veal98/CS-Wiki)|📙 致力打造完善的 Java 后端知识体系. Not only an Interview-Guide, but also a Learning-Direction.|534|2021-12-19|
 |16|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|496|2021-12-13|
 |17|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|496|2022-01-09|
@@ -97,7 +97,7 @@
 |90|[caviare/clean](https://github.com/caviare/clean)|clean是一个简洁清新的ghost博客现代主题 https://www.imcaviare.com|13|2021-08-18|
 |91|[Cluas/blog](https://github.com/Cluas/blog)|一个基于Django1.11的个人博客网站|13|2022-01-13|
 |92|[xdlianrong/XDLR-RXL](https://github.com/xdlianrong/XDLR-RXL)|微众比赛的融信链项目，通过区块链赋能教育证书和诚信评估|12|2021-12-09|
-|93|[yanchunlan/SourceCodeSummary](https://github.com/yanchunlan/SourceCodeSummary)|个人笔记（编译/性能优化/framework/音视频/flutter）|12|2022-01-09|
+|93|[yanchunlan/SourceCodeSummary](https://github.com/yanchunlan/SourceCodeSummary)|个人笔记（编译/性能优化/framework/音视频/flutter）|12|2022-01-17|
 |94|[imas/imasbook](https://github.com/imas/imasbook)|週刊IM@Study|12|2022-01-13|
 |95|[Nov8nana/typecho-theme-SimpleZ](https://github.com/Nov8nana/typecho-theme-SimpleZ)|SimpleZ 一款基于 typecho 的简约风单栏博客主题，专注于写作，抛弃了一切臃肿的功能。|11|2021-11-16|
 |96|[hassanblog/navigation](https://github.com/hassanblog/navigation)|框架为Hexo主题为WebStack的网址导航之个人美化版。搭建教程：https://hassanwong.top/posts/61c6c2e8/|11|2022-01-15|
@@ -107,17 +107,17 @@
 |100|[LB-nan/cat-Said](https://github.com/LB-nan/cat-Said)|记录学习与分享|9|2022-01-12|
 |101|[LaneDu/Knowledge-Brain](https://github.com/LaneDu/Knowledge-Brain)|思源笔记主题 Knowledge Brain 寓意知识大脑|8|2021-12-31|
 |102|[langzhou/toy-theme-for-siyuan](https://github.com/langzhou/toy-theme-for-siyuan)|思源笔记主题|8|2021-07-28|
-|103|[nexmoe/bilidx](https://github.com/nexmoe/bilidx)|📕 哔哩哔哩大学，收集哔哩哔哩的学习资源|8|2021-09-20|
-|104|[Bgods/Django-blog-material-x](https://github.com/Bgods/Django-blog-material-x)|一个基于Hexo博客主题改写的Django博客。我的博客：http://bgods.cn/|8|2022-01-13|
-|105|[rongyi/note](https://github.com/rongyi/note)|个人学习笔记|8|2021-08-11|
-|106|[houxinlin/one-blog](https://github.com/houxinlin/one-blog)|单页博客|7|2021-11-26|
-|107|[RuoyuChen10/NEUQ_class](https://github.com/RuoyuChen10/NEUQ_class)|NEUQ测控专业的考试资料|7|2021-10-16|
-|108|[buerbl/ssm-learn-crm](https://github.com/buerbl/ssm-learn-crm)|how to learn ssm 框架？来 ssm-learn-crm，文章从细节出发手把手教学|7|2021-12-09|
-|109|[HEYAN123/crane](https://github.com/HEYAN123/crane)|前端修炼手册 博客网站|7|2022-01-16|
-|110|[RaphaHsu/goodidea-react-track](https://github.com/RaphaHsu/goodidea-react-track)|前端 React 學習實驗|7|2022-01-13|
-|111|[GiaoGiaoCat/GiaoGiaoCat.github.io](https://github.com/GiaoGiaoCat/GiaoGiaoCat.github.io)|一点笔记|7|2021-09-27|
-|112|[Dreamer-Paul/Hingle](https://github.com/Dreamer-Paul/Hingle)|🎈 一个简洁大气，含夜间模式的 Hexo 博客主题|6|2021-10-24|
-|113|[whuanle/kubernetes](https://github.com/whuanle/kubernetes)|痴者工良 - Kubernetes 电子书|6|2021-11-29|
+|103|[whuanle/kubernetes](https://github.com/whuanle/kubernetes)|痴者工良 - Kubernetes 电子书|8|2021-11-29|
+|104|[nexmoe/bilidx](https://github.com/nexmoe/bilidx)|📕 哔哩哔哩大学，收集哔哩哔哩的学习资源|8|2021-09-20|
+|105|[Bgods/Django-blog-material-x](https://github.com/Bgods/Django-blog-material-x)|一个基于Hexo博客主题改写的Django博客。我的博客：http://bgods.cn/|8|2022-01-13|
+|106|[rongyi/note](https://github.com/rongyi/note)|个人学习笔记|8|2021-08-11|
+|107|[houxinlin/one-blog](https://github.com/houxinlin/one-blog)|单页博客|7|2021-11-26|
+|108|[RuoyuChen10/NEUQ_class](https://github.com/RuoyuChen10/NEUQ_class)|NEUQ测控专业的考试资料|7|2021-10-16|
+|109|[buerbl/ssm-learn-crm](https://github.com/buerbl/ssm-learn-crm)|how to learn ssm 框架？来 ssm-learn-crm，文章从细节出发手把手教学|7|2021-12-09|
+|110|[HEYAN123/crane](https://github.com/HEYAN123/crane)|前端修炼手册 博客网站|7|2022-01-16|
+|111|[RaphaHsu/goodidea-react-track](https://github.com/RaphaHsu/goodidea-react-track)|前端 React 學習實驗|7|2022-01-13|
+|112|[GiaoGiaoCat/GiaoGiaoCat.github.io](https://github.com/GiaoGiaoCat/GiaoGiaoCat.github.io)|一点笔记|7|2021-09-27|
+|113|[Dreamer-Paul/Hingle](https://github.com/Dreamer-Paul/Hingle)|🎈 一个简洁大气，含夜间模式的 Hexo 博客主题|6|2021-10-24|
 |114|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V1.0 Power by Jekyll   Github Action. Code by Bin4xin|6|2022-01-10|
 |115|[qqlcx5/zhihu](https://github.com/qqlcx5/zhihu)|Vue3.0实现知乎日报|6|2021-10-06|
 |116|[coolrare/DCT-108014](https://github.com/coolrare/DCT-108014)|《台北》Angular 7 開發實戰：進階開發篇|6|2022-01-13|

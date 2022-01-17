@@ -8,12 +8,12 @@
 |1|[xiaodaigh/disk.frame](https://github.com/xiaodaigh/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|569|2021-09-15|
 |2|[pzhaonet/mindr](https://github.com/pzhaonet/mindr)|an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms)|540|2021-11-22|
 |3|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|499|2022-01-05|
-|4|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|363|2022-01-16|
+|4|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|363|2022-01-17|
 |5|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|349|2022-01-12|
 |6|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|218|2022-01-05|
 |7|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|161|2021-12-19|
 |8|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|148|2021-10-10|
-|9|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|2022-01-16|
+|9|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|2022-01-17|
 |10|[hrbrmstr/docxtractr](https://github.com/hrbrmstr/docxtractr)|:scissors: Extract Tables from Microsoft Word Documents with R|144|2021-10-02|
 |11|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|131|2021-11-28|
 |12|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|111|2022-01-11|

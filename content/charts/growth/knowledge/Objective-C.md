@@ -5,10 +5,10 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4711|6|2022-01-15|
-|2|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2344|2|2021-12-16|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4712|6|2022-01-15|
+|2|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2345|2|2021-12-16|
 |3|[LGCooci/KCiOSGrocery](https://github.com/LGCooci/KCiOSGrocery)|iOS开发杂货铺: 面试题+考试试卷+懒人开发tips|435|1|2021-10-10|
-|4|[SunshineBrother/JHBlog](https://github.com/SunshineBrother/JHBlog)|iOS开发：我的初级到中级的晋级之路|1195|1|2021-07-29|
+|4|[SunshineBrother/JHBlog](https://github.com/SunshineBrother/JHBlog)|iOS开发：我的初级到中级的晋级之路|1196|1|2021-07-29|
 |5|[wwmz/WMZPageController](https://github.com/wwmz/WMZPageController)|分页控制器,替换UIPageController方案,具备完整的生命周期,多种指示器样式,多种标题样式,可悬浮,支持ios13暗黑模式(仿优酷,爱奇艺,今日头条,简书,京东等多种标题菜单) (Pagination controller with full life cycle, multiple indicator styles, multiple title styles)|546|1|2021-12-30|
 |6|[HeathWang/HWPanModal](https://github.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|879|1|2021-11-30|
 |7|[objccn/articles](https://github.com/objccn/articles)|Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本|2087|1|2021-11-02|
@@ -33,7 +33,7 @@
 |26|[Xcoder1011/OC_StudyDemo](https://github.com/Xcoder1011/OC_StudyDemo)|记录个人学习Objective-C的一些demo ，基于AFNetworking3.x封装网络请求，实现GET、POST请求、多任务断点续传|2|0|2021-09-28|
 |27|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|444|0|2021-12-24|
 |28|[aolan/iOS_Develop](https://github.com/aolan/iOS_Develop)|该文档都是日常开发过程中解决问题的经验总结。|7|0|2021-11-30|
-|29|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1195|0|2022-01-14|
+|29|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1195|0|2022-01-16|
 |30|[Lin-Bing/SampleCode](https://github.com/Lin-Bing/SampleCode)|博客相关代码示例|7|0|2021-09-22|
 |31|[kopuCoder/iOS_Development-Book](https://github.com/kopuCoder/iOS_Development-Book)|适合iOS中高级开发工程狮提升个人能力业务水平的书籍|82|0|2021-11-01|
 |32|[Dioq/ReverseOC](https://github.com/Dioq/ReverseOC)|iOS逆向学习的一些记录|4|0|2021-12-06|

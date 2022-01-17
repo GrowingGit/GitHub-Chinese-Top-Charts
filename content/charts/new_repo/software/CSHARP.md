@@ -5,8 +5,8 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[jynew/jynew](https://github.com/jynew/jynew)|金庸群侠传3D重制版|4107|2022-01-16|2021-05-12|
-|2|[dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub)|github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题|3960|2022-01-12|2021-06-11|
+|1|[jynew/jynew](https://github.com/jynew/jynew)|金庸群侠传3D重制版|4112|2022-01-16|2021-05-12|
+|2|[dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub)|github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题|3962|2022-01-12|2021-06-11|
 |3|[Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp)|适用于新系统UI的哔哩|3568|2021-12-30|2021-05-30|
 |4|[Anonymous-ghost/AttackWebFrameworkTools](https://github.com/Anonymous-ghost/AttackWebFrameworkTools)|本软件首先集成危害性较大框架和部分主流cms的rce(无需登录,或者登录绕过执行rce)和反序列化(利用链简单)。上传getshell。sql注入等高危漏洞直接就可以拿权限出数据。其次对一些构造复杂exp漏洞进行检测。傻瓜式导入url即可实现批量测试,能一键getshell检测绝不sql注入或者不是只检测。其中thinkphp 集成所有rce Exp Struts2漏洞集成了shack2 和k8  ...|791|2022-01-13|2021-02-10|
 |5|[Justin62628/Squirrel-RIFE](https://github.com/Justin62628/Squirrel-RIFE)|效果更好的补帧软件，显存占用更小，是DAIN速度的10-25倍，包含抽帧处理，去除动漫卡顿感|698|2021-12-21|2021-01-31|
@@ -15,19 +15,19 @@
 |8|[XINCGer/UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick)|提供一些UnityEditor工具链开发的常用小技巧与示例(Provides some common tips and examples for developing the UnityEditor toolchain)|597|2021-11-19|2021-03-19|
 |9|[qwqdanchun/DcRat](https://github.com/qwqdanchun/DcRat)|A simple remote tool in C#.|526|2022-01-13|2021-03-12|
 |10|[HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer)|第三方网易云音乐播放器   A Netease Cloud Music Player|507|2022-01-16|2021-02-14|
-|11|[X-Lucifer/AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer)|AI无损放大工具|492|2021-10-03|2021-10-01|
-|12|[cuiliang/ClickShow](https://github.com/cuiliang/ClickShow)|鼠标点击特效|480|2021-10-09|2021-06-22|
+|11|[X-Lucifer/AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer)|AI无损放大工具|493|2021-10-03|2021-10-01|
+|12|[cuiliang/ClickShow](https://github.com/cuiliang/ClickShow)|鼠标点击特效|479|2021-10-09|2021-06-22|
 |13|[mai1zhi2/SharpBeacon](https://github.com/mai1zhi2/SharpBeacon)|CobaltStrike Beacon written in .Net 4  用.net重写了stager及Beacon，其中包括正常上线、文件管理、进程管理、令牌管理、结合SysCall进行注入、原生端口转发、关ETW等一系列功能|466|2021-09-01|2021-08-29|
 |14|[WPFDevelopersOrg/WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)|WPF Developers Daily Share 🎉Ongoing update.|448|2022-01-16|2021-05-25|
 |15|[CopyPlusPlus/CopyPlusPlus](https://github.com/CopyPlusPlus/CopyPlusPlus)|让复制变得更加简单！|443|2022-01-15|2021-04-12|
 |16|[Scighost/KeqingNiuza](https://github.com/Scighost/KeqingNiuza)|刻记牛杂店|389|2022-01-07|2021-04-24|
 |17|[skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload)|Xbox下载助手，支持Xbox、微软商店、PSN、NS、EA Desktop & Origin、战网国际服、Epic 下载加速。|388|2022-01-12|2021-06-14|
-|18|[91270/Emby.MeiamSub](https://github.com/91270/Emby.MeiamSub)|Emby Server 端字幕插件 ，使用  迅雷影音、 射手网 接口精准匹配视频字幕|369|2021-12-23|2021-07-01|
+|18|[91270/Emby.MeiamSub](https://github.com/91270/Emby.MeiamSub)|Emby Server 端字幕插件 ，使用  迅雷影音、 射手网 接口精准匹配视频字幕|370|2021-12-23|2021-07-01|
 |19|[DGP-Studio/Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin)|原神启动器 祈愿抽卡记录 实时树脂便笺 玩家信息 米游社每日签到 |355|2022-01-16|2021-01-20|
-|20|[fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat)|可能是目前全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，支持公众平台（订阅号、服务号、小程序、小游戏、小商店）& 开放平台 & 商户平台（微信支付）& 企业微信（企业号）& 广告平台（广点通）& 对话开放平台（微信智能对话）等模块，可跨平台。持续随官方更新，欢迎 Star / Fork。QQ 交流群 875580418。|350|2022-01-16|2021-04-23|
+|20|[fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat)|可能是目前全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，支持公众平台（订阅号、服务号、小程序、小游戏、小商店）& 开放平台 & 商户平台（微信支付）& 企业微信（企业号）& 广告平台（广点通）& 对话开放平台（微信智能对话）等模块，可跨平台。持续随官方更新，欢迎 Star / Fork。QQ 交流群 875580418。|351|2022-01-16|2021-04-23|
 |21|[WindFgg/kingfeng](https://github.com/WindFgg/kingfeng)|fork多了就跑路了|276|2021-10-18|2021-09-09|
 |22|[Azure99/GenshinPlayerQuery](https://github.com/Azure99/GenshinPlayerQuery)|根据原神uid查询玩家信息(基础数据、角色&装备、深境螺旋战绩等)|243|2021-12-24|2021-02-28|
-|23|[abigsoft/jdog202201](https://github.com/abigsoft/jdog202201)|京东2022炸年兽|221|2022-01-12|2022-01-12|
+|23|[abigsoft/jdog202201](https://github.com/abigsoft/jdog202201)|京东2022炸年兽|227|2022-01-12|2022-01-12|
 |24|[Planshit/Tai](https://github.com/Planshit/Tai)|👻在Windows上记录软件使用时长|212|2022-01-12|2021-11-19|
 |25|[CoreUnion/CoreShop](https://github.com/CoreUnion/CoreShop)|基于 Asp.Net Core 5.0、Uni-App开发，支持可视化布局的小程序商城系统，前后端分离，支持分布式部署，跨平台运行，拥有分销、代理、团购、拼团、秒杀、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程。支持一套代码编译发布微信小程序版、H5版、Android版、iOS版、支付宝小程序版、字节跳动小程序版、QQ小程序版等共10个平台。|207|2021-12-21|2021-06-01|
 |26|[sdcb/PaddleSharp](https://github.com/sdcb/PaddleSharp)|.NET/C# binding for Baidu paddle inference library and PaddleOCR|199|2022-01-15|2021-12-16|
@@ -41,9 +41,9 @@
 |34|[evilashz/SharpADUserIP](https://github.com/evilashz/SharpADUserIP)|提取DC日志，快速获取域用户对应IP地址|161|2021-09-28|2021-09-02|
 |35|[0x727/SchTask_0x727](https://github.com/0x727/SchTask_0x727)|创建隐藏计划任务，权限维持，Bypass AV|157|2021-09-01|2021-08-30|
 |36|[laomms/KmsTool](https://github.com/laomms/KmsTool)|KMS Local Activation ...|138|2022-01-11|2021-03-20|
-|37|[dengqizhou30/AIAssist](https://github.com/dengqizhou30/AIAssist)|GameAssist是一个AI游戏助手，结合OpenCv、OpenCvSharp4、ssd_mobilenet_v3等技术，对游戏对象进行识别，支持自动瞄准/自动开枪等功能，提升玩家的游戏体验|134|2021-11-07|2021-01-23|
-|38|[taptap/pkg-doctor](https://github.com/taptap/pkg-doctor)|包体医生，Unity 及 Unreal 游戏包体优化工具|123|2021-12-02|2021-02-20|
-|39|[An0nySec/UserAdd](https://github.com/An0nySec/UserAdd)|Bypass AV 用户添加|121|2021-12-30|2021-07-02|
+|37|[dengqizhou30/AIAssist](https://github.com/dengqizhou30/AIAssist)|GameAssist是一个AI游戏助手，结合OpenCv、OpenCvSharp4、ssd_mobilenet_v3等技术，对游戏对象进行识别，支持自动瞄准/自动开枪等功能，提升玩家的游戏体验|135|2021-11-07|2021-01-23|
+|38|[taptap/pkg-doctor](https://github.com/taptap/pkg-doctor)|包体医生，Unity 及 Unreal 游戏包体优化工具|124|2021-12-02|2021-02-20|
+|39|[An0nySec/UserAdd](https://github.com/An0nySec/UserAdd)|Bypass AV 用户添加|123|2021-12-30|2021-07-02|
 |40|[dcsoft-yyf/JIEJIE.NET](https://github.com/dcsoft-yyf/JIEJIE.NET)|An open source tool to obfuscation .NET assembly file, help you protect your copyright. small,fast and powerfu.|120|2022-01-06|2021-03-20|
 |41|[zhanggaolei001/JdLoginTool](https://github.com/zhanggaolei001/JdLoginTool)|手机验证码登陆jd,获取ck,可选自动提交到服务器.|115|2021-12-27|2021-06-25|
 |42|[wqaetly/NKGMobaBasedOnET](https://github.com/wqaetly/NKGMobaBasedOnET)|基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！The Moba game based on ET framework pays tribute to LOL, including complete client-server interaction, hot updates, skill system based on do ...|114|2021-09-04|2021-03-27|
@@ -66,7 +66,7 @@
 |59|[Chianne1025/QQChannelFramework](https://github.com/Chianne1025/QQChannelFramework)|MyBot - QQ频道机器人开发框架(C#)|65|2022-01-10|2021-11-27|
 |60|[17MKH/Mkh](https://github.com/17MKH/Mkh)|基于.Net 6+Vue3开发的业务模块化快速开发框架|65|2022-01-05|2021-07-25|
 |61|[CatImmortal/CatAsset](https://github.com/CatImmortal/CatAsset)|Unity AssetBundle资源管理框架|64|2021-11-23|2021-08-22|
-|62|[TastSong/CrazyCar](https://github.com/TastSong/CrazyCar)|Unity制作的联机赛车游戏，后台为Java，数据库为MySql；游戏采用QFramework框架，支持KCP和WebSocket网络(商用级) |61|2022-01-16|2021-10-13|
+|62|[TastSong/CrazyCar](https://github.com/TastSong/CrazyCar)|Unity制作的联机赛车游戏，后台为Java，数据库为MySql；游戏采用QFramework框架，支持KCP和WebSocket网络(商用级) |61|2022-01-17|2021-10-13|
 |63|[caryyu/jellyfin-plugin-opendouban](https://github.com/caryyu/jellyfin-plugin-opendouban)|Douban metadata provider for Jellyfin|60|2022-01-07|2021-05-06|
 |64|[xingchuanzhen/WPF-Music_Player](https://github.com/xingchuanzhen/WPF-Music_Player)|一款界面漂亮的音乐播放器|60|2021-09-08|2021-02-02|
 |65|[CatImmortal/CatJson](https://github.com/CatImmortal/CatJson)|为Unity开发者量身打造的功能强大的高性能Json库，内置ILRuntime支持|56|2021-11-28|2021-07-18|

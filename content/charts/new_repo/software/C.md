@@ -5,11 +5,11 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot)|我的超迷你机械臂机器人项目。|5681|2022-01-05|2021-10-07|
-|2|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|4993|2022-01-13|2021-11-06|
+|1|[peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot)|我的超迷你机械臂机器人项目。|5682|2022-01-05|2021-10-07|
+|2|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|5102|2022-01-13|2021-11-06|
 |3|[peng-zhihui/Peak](https://github.com/peng-zhihui/Peak)|Tiny Mobile Terminal Device Kit.|1037|2021-10-15|2021-10-10|
-|4|[bytedance/bhook](https://github.com/bytedance/bhook)|🔥 ByteHook(aka bhook) is a PLT hook framework for Android app.|960|2021-12-27|2021-08-11|
-|5|[alibaba/xquic](https://github.com/alibaba/xquic)|-|835|2022-01-15|2021-11-05|
+|4|[bytedance/bhook](https://github.com/bytedance/bhook)|🔥 ByteHook(aka bhook) is a PLT hook framework for Android app.|961|2021-12-27|2021-08-11|
+|5|[alibaba/xquic](https://github.com/alibaba/xquic)|-|838|2022-01-15|2021-11-05|
 |6|[bytedance/memory-leak-detector](https://github.com/bytedance/memory-leak-detector)|-|629|2022-01-04|2021-04-14|
 |7|[peng-zhihui/OpenHeat](https://github.com/peng-zhihui/OpenHeat)|-|545|2021-12-16|2021-09-05|
 |8|[joyycom/VNN](https://github.com/joyycom/VNN)|VNN是由欢聚集团(Joyy Inc.)推出的高性能、轻量级神经网络部署框架。目前已为Hago、VOO、VFly、马克相机等App提供20余种AI能力的支持，覆盖直播、短视频、视频编辑等泛娱乐场景和工程场景|510|2022-01-07|2021-12-07|
@@ -19,7 +19,7 @@
 |12|[hepingood/ssd1306](https://github.com/hepingood/ssd1306)|ssd1306 full function driver|349|2022-01-09|2021-05-16|
 |13|[fanyuan/mp3Convert](https://github.com/fanyuan/mp3Convert)|mp3转码，把wav转换成mp3格式|347|2021-12-29|2021-01-18|
 |14|[kerwincui/wumei-smart](https://github.com/kerwincui/wumei-smart)|物美智能是一套开源的软硬件系统，可用于二次开发和学习，快速搭建自己的智能家居系统。硬件工程师可以把自己的设备集成到系统；软件工程师可以使用项目中的设备熟悉软硬件交互。|330|2022-01-09|2021-05-24|
-|15|[filecoin-project/community-china](https://github.com/filecoin-project/community-china)|Resources and forum for the Chinese community, maintained and moderated by CoinSummer & PL.|320|2021-12-20|2021-01-29|
+|15|[filecoin-project/community-china](https://github.com/filecoin-project/community-china)|Resources and forum for the Chinese community, maintained and moderated by CoinSummer & PL.|321|2021-12-20|2021-01-29|
 |16|[alibaba/Patrons](https://github.com/alibaba/Patrons)|🎉 A framework for improving android 32bit app stability. (Alleviate crashes caused by insufficient virtual memory)|312|2022-01-12|2021-06-15|
 |17|[hepingood/w25qxx](https://github.com/hepingood/w25qxx)|w25qxx full function driver|304|2022-01-09|2021-08-22|
 |18|[hepingood/nrf24l01](https://github.com/hepingood/nrf24l01)|nrf24l01 full function driver|297|2022-01-09|2021-12-23|
@@ -31,7 +31,7 @@
 |24|[dwj0/Remote-management](https://github.com/dwj0/Remote-management)|远程桌面、RADMIN、SSH、VNC集中管理器|192|2021-12-06|2021-04-03|
 |25|[JingYang1124/HEX-LINK](https://github.com/JingYang1124/HEX-LINK)|这是一套可适用于PC端游戏的体感操作设备。|190|2021-07-29|2021-07-01|
 |26|[hepingood/ws2812b](https://github.com/hepingood/ws2812b)|ws2812b full function driver|188|2022-01-09|2021-11-02|
-|27|[maoabc/nmmp](https://github.com/maoabc/nmmp)|dex-vm used to protect the dex file|164|2022-01-14|2021-05-21|
+|27|[maoabc/nmmp](https://github.com/maoabc/nmmp)|dex-vm used to protect the dex file|165|2022-01-14|2021-05-21|
 |28|[NXPmicro/mcux-sdk](https://github.com/NXPmicro/mcux-sdk)|MCUXpresso SDK|148|2022-01-14|2021-01-18|
 |29|[smallzhong/hide_execute_memory](https://github.com/smallzhong/hide_execute_memory)|隐藏可执行内存|136|2021-12-27|2021-12-22|
 |30|[Kevincoooool/ESP_MASTER](https://github.com/Kevincoooool/ESP_MASTER)|ESP32-CAM with LVGL  Speech/Face Recognition  IR Control|126|2021-12-04|2021-08-26|
@@ -48,10 +48,10 @@
 |41|[zwluoqi/mobile-visual-shader-editor](https://github.com/zwluoqi/mobile-visual-shader-editor)|一款跨平台着色器编辑工具|87|2021-10-10|2021-09-14|
 |42|[Core-2-Extreme/Video_player_for_3DS](https://github.com/Core-2-Extreme/Video_player_for_3DS)|Video player for 3ds|87|2022-01-09|2021-04-02|
 |43|[YeeZTech/YeeZ-Privacy-Computing](https://github.com/YeeZTech/YeeZ-Privacy-Computing)|Fidelius - YeeZ Privacy Computing|83|2021-12-23|2021-03-22|
-|44|[kenzok8/small-package](https://github.com/kenzok8/small-package)|自动同步更新上游库软件|81|2022-01-16|2021-09-05|
+|44|[kenzok8/small-package](https://github.com/kenzok8/small-package)|自动同步更新上游库软件|81|2022-01-17|2021-09-05|
 |45|[o8oo8o/GoWebSSH](https://github.com/o8oo8o/GoWebSSH)|功能强大，Go 实现的一个WebSSH，支持文件上传下载|79|2021-12-12|2021-05-09|
 |46|[rev1si0n/bxxt](https://github.com/rev1si0n/bxxt)|安卓 BOOT.IMG/RECOVERY.IMG/SELINUX/PROPERTY 实用工具，启动镜像编辑解包打包，selinux 修改，ro 属性修改。|69|2021-09-25|2021-03-27|
-|47|[alibaba/TairString](https://github.com/alibaba/TairString)|A redis module, similar to redis string, but you can set expire and version for the value. It also provides many very useful commands, such as cas/cad, etc.|69|2022-01-14|2021-02-25|
+|47|[alibaba/TairString](https://github.com/alibaba/TairString)|A redis module, similar to redis string, but you can set expire and version for the value. It also provides many very useful commands, such as cas/cad, etc.|69|2022-01-17|2021-02-25|
 |48|[espressif/esp-box](https://github.com/espressif/esp-box)|The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.|66|2022-01-13|2021-10-20|
 |49|[impact-eintr/LinuxC](https://github.com/impact-eintr/LinuxC)|听说C与Linux更搭配哦～ 内容包括：C基础 C++面向对象编程 基础数据结构 linux系统编程以及一些操作系统的相关知识|64|2021-12-06|2021-02-08|
 |50|[sakumisu/usb_stack](https://github.com/sakumisu/usb_stack)|Tiny and portable USB Stack for embedded system with USB IP|61|2022-01-15|2021-07-10|

@@ -7,12 +7,12 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|26746|16|2022-01-14|
 |2|[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool)|Android开发人员不得不收集的工具类集合   支付宝支付   微信支付（统一下单）   微信分享   Zip4j压缩（支持分卷压缩与加密）   一键集成UCrop选择圆形头像   一键集成二维码和条形码的扫描与生成   常用Dialog   WebView的封装可播放视频   仿斗鱼滑动验证码   Toast封装   震动   GPS   Location定位   图片缩放   Exif 图片 ...|11600|6|2021-12-27|
-|3|[compose-museum/hello-compose](https://github.com/compose-museum/hello-compose)|Jetpack Compose 基础教程，持续更新|515|2|2022-01-05|
-|4|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|526|2|2022-01-15|
+|3|[compose-museum/hello-compose](https://github.com/compose-museum/hello-compose)|Jetpack Compose 基础教程，持续更新|515|2|2022-01-17|
+|4|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|535|2|2022-01-15|
 |5|[hi-dhl/Leetcode-Solutions-with-Java-And-Kotlin](https://github.com/hi-dhl/Leetcode-Solutions-with-Java-And-Kotlin)|LeetCode 系列题解, 在线阅读 https://offer.hi-dhl.com|345|1|2021-09-13|
 |6|[qingmei2/RxImagePicker](https://github.com/qingmei2/RxImagePicker)|:rocket:RxJava2 and RxJava3 external support. Android flexible picture selector, provides the support for theme of Zhihu and WeChat (灵活的Android图片选择器，提供了知乎和微信主题的支持）.|1135|1|2021-10-13|
 |7|[mCyp/Hoo](https://github.com/mCyp/Hoo)|🚀 Android Jetpack系列组件实战案例，配上专栏学习更轻松~|998|1|2021-08-15|
-|8|[aqi00/kotlin](https://github.com/aqi00/kotlin)|《Kotlin从零到精通Android开发》附录源码|75|0|2021-07-30|
+|8|[aqi00/kotlin](https://github.com/aqi00/kotlin)|《Kotlin从零到精通Android开发》附录源码|76|0|2021-07-30|
 |9|[HuRuWo/WeChat8Xposed](https://github.com/HuRuWo/WeChat8Xposed)|WeChat8Xposed 是 WechatSpellbook的衍生项目 适配最新的微信 原Wechat Spellbook 是一个使用Kotlin编写的开源微信插件框架，底层需要 Xposed 或 VirtualXposed 等Hooking框架的支持，而顶层可以轻松对接Java、Kotlin、Scala等JVM系语言。让程序员能够在几分钟内编写出简单的微信插件，随意揉捏微信的内部逻辑。|7|0|2021-09-12|
 |10|[leavesCZY/KVHolder](https://github.com/leavesCZY/KVHolder)|一文读懂 SharedPreferences 的缺陷及一点点思考|8|0|2022-01-15|
 |11|[hsicen/HencoderPlus](https://github.com/hsicen/HencoderPlus)|扔物线Hencoder plus系列课程 |41|0|2022-01-04|
@@ -46,7 +46,7 @@
 |39|[qdsfdhvh/demo-base-layout](https://github.com/qdsfdhvh/demo-base-layout)|基于Drakeet分享的自定义ViewGroup思路，编写的demo|10|0|2021-09-16|
 |40|[yechaoa/YUtils](https://github.com/yechaoa/YUtils)|Android快速开发工具集合——YUtils，同时支持java和kotlin|54|0|2021-10-16|
 |41|[leavesCZY/RobustWebView](https://github.com/leavesCZY/RobustWebView)|Android WebView H5 秒开方案总结|25|0|2022-01-14|
-|42|[funnywolfdadada/HollowKit](https://github.com/funnywolfdadada/HollowKit)|自己常用的一些工具的合集|200|0|2022-01-15|
+|42|[funnywolfdadada/HollowKit](https://github.com/funnywolfdadada/HollowKit)|自己常用的一些工具的合集|201|0|2022-01-15|
 |43|[idisfkj/daily_algorithm](https://github.com/idisfkj/daily_algorithm)|🔥算法进阶，由浅入深，欢迎加入一起共勉(A daily algorithm，Welcome to join and share together)|35|0|2021-07-30|
 |44|[lelelongwang/WanJetpack](https://github.com/lelelongwang/WanJetpack)|💪 持续更新。WanJetpack使用Jetpack MVVM开发架构、单Activity多Fragment设计，项目结构清晰，代码简洁优雅，追求最官方的实现方式。欢迎star，非常感谢。已用到知识点：LiveData、ViewModel、DataBinding、ViewBinding、coroutines、Hilt、Paging3、Room、Navigation、TabLayout、Bottom ...|85|0|2021-08-07|
 |45|[smashinggit/Study](https://github.com/smashinggit/Study)|记录学习过程中的demo及博客|339|0|2021-08-16|
