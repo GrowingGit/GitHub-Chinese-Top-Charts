@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Swift
-<sub>数据更新: 2022-01-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1220|2022-01-17|2021-11-13|
-|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One menu bar app, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|732|2022-01-16|2021-11-30|
+|1|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的 Swift 小册子，一本活的 Swift 手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1225|2022-01-18|2021-11-13|
+|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One menu bar app, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|738|2022-01-16|2021-11-30|
 |3|[cmushroom/redis-pro](https://github.com/cmushroom/redis-pro)|redis-pro redis 桌面管理工具|408|2022-01-06|2021-01-19|
 |4|[Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11)| 💻 Windows 11 in SwiftUI.|115|2021-10-13|2021-08-31|
 |5|[william0wang/MagicCamera](https://github.com/william0wang/MagicCamera)|iOS多功能AI相机：人像卡通化、变老变年轻、美颜、滤镜、艺术效果等|96|2021-11-08|2021-10-29|
 |6|[Co2333/FishUpgrade](https://github.com/Co2333/FishUpgrade)|macOS 摸鱼模拟器|86|2021-12-19|2021-12-16|
 |7|[pujiaxin33/StackUI](https://github.com/pujiaxin33/StackUI)|StackUI just like SwiftUI|71|2021-12-28|2021-10-14|
-|8|[BugenZhao/MNGA](https://github.com/BugenZhao/MNGA)|💬 A refreshing NGA Forum App in SwiftUI. Make NGA Great Again! aka "NGA 论坛 iOS 开源客户端"|65|2022-01-03|2021-06-27|
+|8|[BugenZhao/MNGA](https://github.com/BugenZhao/MNGA)|💬 A refreshing NGA Forum App in SwiftUI. Make NGA Great Again! aka "NGA 论坛 iOS 开源客户端"|66|2022-01-03|2021-06-27|
 |9|[Astrian/switshot](https://github.com/Astrian/switshot)|Console screenshot transfer|53|2021-12-23|2021-09-10|
 |10|[iwill/ExCodable](https://github.com/iwill/ExCodable)|Key-Mapping Extensions for Swift Codable|46|2021-12-09|2021-02-08|
 |11|[simon9211/privacyInsight](https://github.com/simon9211/privacyInsight)|读取app「记录App活动」文件，展示app访问权限及网络记录|44|2021-10-28|2021-10-18|
@@ -48,27 +48,28 @@
 |41|[liuweigeek/NeptuneBlog-iOS](https://github.com/liuweigeek/NeptuneBlog-iOS)|Twitter clone project，模仿Twitter的社交平台，基于SwiftUI开发。|8|2021-12-12|2021-06-14|
 |42|[ListenNotes/podcast-api-swift](https://github.com/ListenNotes/podcast-api-swift)|The Official Swift Library for the Listen Notes Podcast API.|7|2021-10-26|2021-05-13|
 |43|[37iOS/Easy-Signer](https://github.com/37iOS/Easy-Signer)| iOS App 的 Mac 重签名工具|6|2022-01-05|2022-01-04|
-|44|[zeqinjie/ZQEndlessPageControl](https://github.com/zeqinjie/ZQEndlessPageControl)|自定义 iOS14 PageControl 控件新功能|6|2021-10-21|2021-09-23|
-|45|[lele8446/CJSkinSwift](https://github.com/lele8446/CJSkinSwift)|APP动态换肤解决方案|6|2021-09-28|2021-09-08|
-|46|[baozoudiudiu/CustomWechatHomePage](https://github.com/baozoudiudiu/CustomWechatHomePage)|仿微信下拉展示小程序列表效果|5|2021-11-16|2021-11-16|
-|47|[Lester2020/VideoFilterDemo](https://github.com/Lester2020/VideoFilterDemo)|基于MetalKit给视频添加滤镜的demo|5|2021-08-28|2021-08-28|
-|48|[fuyoufang/Banner3D](https://github.com/fuyoufang/Banner3D)|仿照自如 APP 的 3D Banner|5|2021-08-13|2021-08-13|
-|49|[BinaryParadise/PracticeTLS](https://github.com/BinaryParadise/PracticeTLS)|TLS 1.2、1.3的swift简单实现|5|2021-12-13|2021-08-05|
-|50|[namesubai/SSPage-Swift](https://github.com/namesubai/SSPage-Swift)|简单易用的分页切换组件，类型twitter,微博主页|5|2022-01-14|2021-07-19|
-|51|[natfrp/SakuraFrpLauncherMac](https://github.com/natfrp/SakuraFrpLauncherMac)|[WIP] SakuraFrp macOS 启动器|5|2021-10-28|2021-06-01|
-|52|[Lebron1992/LBJMediaBrowser](https://github.com/Lebron1992/LBJMediaBrowser)|LBJMediaBrowser 是一个在 SwiftUI 框架下实现的图片视频浏览器。(LBJMediaBrowser is a media browser implemented with SwiftUI.)|4|2021-11-26|2021-09-13|
-|53|[ZPP506/ZPPRouter](https://github.com/ZPP506/ZPPRouter)|组件化路由 swift|4|2021-11-19|2021-09-06|
-|54|[Lester2020/WebViewChangeFontDemo](https://github.com/Lester2020/WebViewChangeFontDemo)|在WKWebView中使用原生代码控制字体显示大小的小demo|4|2021-09-06|2021-09-03|
-|55|[Lester2020/MapPolylineViewDemo](https://github.com/Lester2020/MapPolylineViewDemo)|在MKMapView中动态显示轨迹回放，支持回放轨迹是渐变色样式|4|2021-09-01|2021-09-01|
-|56|[ThinkerJack/android-ios-flutter_notepad](https://github.com/ThinkerJack/android-ios-flutter_notepad)|Andorid IOS Flutter编写的三个记事本APP|4|2021-11-04|2021-07-21|
-|57|[changping0823/SwiftProject](https://github.com/changping0823/SwiftProject)|swift各种仿写项目（微博、微信swiftUI、玩安卓）、Moya网络层封装|3|2021-12-03|2021-11-15|
-|58|[chongzone/KeenDialog](https://github.com/chongzone/KeenDialog)|一款非常简便轻巧的对话弹窗， 对话框可在任意的 View 显示，可自由定制化属性参数|3|2021-11-15|2021-11-02|
-|59|[CoderLR/XJSwiftKit](https://github.com/CoderLR/XJSwiftKit)|用swift语言快速开发一款App|3|2021-11-09|2021-10-29|
-|60|[EggsBlue/youtube-transition](https://github.com/EggsBlue/youtube-transition)|使用SwiftUI模仿Youtube的播放动画|3|2021-10-10|2021-10-10|
-|61|[xiaoxidong/SwiftUI-For-Designers-Code](https://github.com/xiaoxidong/SwiftUI-For-Designers-Code)|SwiftUI For Designers 应用内全部示例代码。|3|2021-12-03|2021-10-08|
-|62|[a29174332/NPU_Finger_iOS](https://github.com/a29174332/NPU_Finger_iOS)|NPU一指通 iOS版本|3|2021-09-25|2021-08-06|
-|63|[MOON-HJ/AutolayoutPractice](https://github.com/MOON-HJ/AutolayoutPractice)|✂️ 인프런 iOS AutoLayout 강좌 실습(feat. SnapKit) [空]|3|2021-09-22|2021-07-31|
-|64|[ty82885279/IAP](https://github.com/ty82885279/IAP)|iOS内购完整代码|3|2021-07-19|2021-07-19|
+|44|[37iOS/Assets-Alternate-App-Icons](https://github.com/37iOS/Assets-Alternate-App-Icons)|Xcode13 配置多套 App 图标的方法 --- AppStore 图标 A/B Test 实践|6|2021-12-23|2021-12-23|
+|45|[zeqinjie/ZQEndlessPageControl](https://github.com/zeqinjie/ZQEndlessPageControl)|自定义 iOS14 PageControl 控件新功能|6|2021-10-21|2021-09-23|
+|46|[lele8446/CJSkinSwift](https://github.com/lele8446/CJSkinSwift)|APP动态换肤解决方案|6|2021-09-28|2021-09-08|
+|47|[luoxuhai/react-native-smart-cropper](https://github.com/luoxuhai/react-native-smart-cropper)|智能裁剪图像重点区域的 react-native 库，支持基于注意力、对象和人脸。   A react-native library for intelligently cropping key areas of images, supporting attention based, object and face based.|5|2022-01-17|2022-01-17|
+|48|[baozoudiudiu/CustomWechatHomePage](https://github.com/baozoudiudiu/CustomWechatHomePage)|仿微信下拉展示小程序列表效果|5|2021-11-16|2021-11-16|
+|49|[Lester2020/VideoFilterDemo](https://github.com/Lester2020/VideoFilterDemo)|基于MetalKit给视频添加滤镜的demo|5|2021-08-28|2021-08-28|
+|50|[fuyoufang/Banner3D](https://github.com/fuyoufang/Banner3D)|仿照自如 APP 的 3D Banner|5|2021-08-13|2021-08-13|
+|51|[BinaryParadise/PracticeTLS](https://github.com/BinaryParadise/PracticeTLS)|TLS 1.2、1.3的swift简单实现|5|2021-12-13|2021-08-05|
+|52|[namesubai/SSPage-Swift](https://github.com/namesubai/SSPage-Swift)|简单易用的分页切换组件，类型twitter,微博主页|5|2022-01-14|2021-07-19|
+|53|[natfrp/SakuraFrpLauncherMac](https://github.com/natfrp/SakuraFrpLauncherMac)|[WIP] SakuraFrp macOS 启动器|5|2021-10-28|2021-06-01|
+|54|[Lebron1992/LBJMediaBrowser](https://github.com/Lebron1992/LBJMediaBrowser)|LBJMediaBrowser 是一个在 SwiftUI 框架下实现的图片视频浏览器。(LBJMediaBrowser is a media browser implemented with SwiftUI.)|4|2021-11-26|2021-09-13|
+|55|[ZPP506/ZPPRouter](https://github.com/ZPP506/ZPPRouter)|组件化路由 swift|4|2021-11-19|2021-09-06|
+|56|[Lester2020/WebViewChangeFontDemo](https://github.com/Lester2020/WebViewChangeFontDemo)|在WKWebView中使用原生代码控制字体显示大小的小demo|4|2021-09-06|2021-09-03|
+|57|[Lester2020/MapPolylineViewDemo](https://github.com/Lester2020/MapPolylineViewDemo)|在MKMapView中动态显示轨迹回放，支持回放轨迹是渐变色样式|4|2021-09-01|2021-09-01|
+|58|[ThinkerJack/android-ios-flutter_notepad](https://github.com/ThinkerJack/android-ios-flutter_notepad)|Andorid IOS Flutter编写的三个记事本APP|4|2021-11-04|2021-07-21|
+|59|[changping0823/SwiftProject](https://github.com/changping0823/SwiftProject)|swift各种仿写项目（微博、微信swiftUI、玩安卓）、Moya网络层封装|3|2021-12-03|2021-11-15|
+|60|[chongzone/KeenDialog](https://github.com/chongzone/KeenDialog)|一款非常简便轻巧的对话弹窗， 对话框可在任意的 View 显示，可自由定制化属性参数|3|2021-11-15|2021-11-02|
+|61|[CoderLR/XJSwiftKit](https://github.com/CoderLR/XJSwiftKit)|用swift语言快速开发一款App|3|2021-11-09|2021-10-29|
+|62|[EggsBlue/youtube-transition](https://github.com/EggsBlue/youtube-transition)|使用SwiftUI模仿Youtube的播放动画|3|2021-10-10|2021-10-10|
+|63|[xiaoxidong/SwiftUI-For-Designers-Code](https://github.com/xiaoxidong/SwiftUI-For-Designers-Code)|SwiftUI For Designers 应用内全部示例代码。|3|2021-12-03|2021-10-08|
+|64|[a29174332/NPU_Finger_iOS](https://github.com/a29174332/NPU_Finger_iOS)|NPU一指通 iOS版本|3|2021-09-25|2021-08-06|
+|65|[MOON-HJ/AutolayoutPractice](https://github.com/MOON-HJ/AutolayoutPractice)|✂️ 인프런 iOS AutoLayout 강좌 실습(feat. SnapKit) [空]|3|2021-09-22|2021-07-31|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Assembly
-<sub>数据更新: 2022-01-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52343|18|2022-01-15|
-|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!|7723|2|2022-01-17|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52346|18|2022-01-15|
+|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!|7726|2|2022-01-18|
 |3|[Panda381/ATX80](https://github.com/Panda381/ATX80)|ZX-80 computer clone with ATmega8 processor and with BASIC interpreter written in AVR assembler.|21|1|2021-12-15|
 |4|[BUAADreamer/BUAA-CO-2020](https://github.com/BUAADreamer/BUAA-CO-2020)|2020年北航计组课设代码 This is the BUAA Computer Orgnization code project files.|5|0|2021-11-27|
 |5|[NEUzht/computer_system](https://github.com/NEUzht/computer_system)|孙仲武带带我|3|0|2022-01-09|
@@ -16,7 +16,7 @@
 |9|[pleasewhy/startos](https://github.com/pleasewhy/startos)|rewrite subset of linux 2.6 by OOP, C++ advanced topics|11|0|2021-07-22|
 |10|[Cute-Cube/CubeOS](https://github.com/Cute-Cube/CubeOS)|Cute-Cube自己制作创新的操作系统。|2|0|2021-08-18|
 |11|[zmrbak/ReverseAnalysis2](https://github.com/zmrbak/ReverseAnalysis2)|X86/X64软件逆向分析【提高】|2|0|2021-08-25|
-|12|[Dfinitski/ATU-10-10W-QRP-antenna-tuner](https://github.com/Dfinitski/ATU-10-10W-QRP-antenna-tuner)|-|25|0|2021-12-09|
+|12|[Dfinitski/ATU-10-10W-QRP-antenna-tuner](https://github.com/Dfinitski/ATU-10-10W-QRP-antenna-tuner)|-|26|0|2021-12-09|
 |13|[Wuzimeng/CO_BUAA](https://github.com/Wuzimeng/CO_BUAA)|北航计算机组成|3|0|2021-09-22|
 |14|[kimoye/XOS](https://github.com/kimoye/XOS)|由DLUT老年代码选手发起的业余操作系统项目|2|0|2021-09-04|
 |15|[fumiama/c64-snake](https://github.com/fumiama/c64-snake)|C64上的贪吃蛇|4|0|2021-10-18|
