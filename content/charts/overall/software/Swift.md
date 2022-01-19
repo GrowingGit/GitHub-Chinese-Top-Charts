@@ -7,7 +7,7 @@
 |:-|:-|:-|:-|:-|
 |1|[realm/SwiftLint](https://github.com/realm/SwiftLint)|A tool to enforce Swift style and conventions.|15619|2022-01-15|
 |2|[PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect)|Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)|13892|2021-07-24|
-|3|[Moya/Moya](https://github.com/Moya/Moya)|Network abstraction layer written in Swift.|13687|2022-01-17|
+|3|[Moya/Moya](https://github.com/Moya/Moya)|Network abstraction layer written in Swift.|13688|2022-01-17|
 |4|[xmartlabs/Eureka](https://github.com/xmartlabs/Eureka)|Elegant iOS form builder in Swift|11354|2022-01-18|
 |5|[Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI)|Gathering all info published, both by Apple and by others, about new framework SwiftUI. |5976|2021-11-28|
 |6|[ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions)|Ask permissions with ready-use interface. You can check status permission and if it has been requested before. Support SwiftUI.|4753|2022-01-14|

@@ -7,7 +7,7 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|844|2021-12-29|2021-04-07|
 |2|[4paradigm/AutoX](https://github.com/4paradigm/AutoX)|AutoX is an efficient automl tool, which is mainly aimed at data mining competitions with tabular data.|444|2022-01-18|2021-07-21|
-|3|[d2l-ai/d2l-zh-pytorch-slides](https://github.com/d2l-ai/d2l-zh-pytorch-slides)|Pytorch版代码幻灯片|261|2022-01-17|2021-02-04|
+|3|[d2l-ai/d2l-zh-pytorch-slides](https://github.com/d2l-ai/d2l-zh-pytorch-slides)|Pytorch版代码幻灯片|262|2022-01-17|2021-02-04|
 |4|[luo3300612/Visualizer](https://github.com/luo3300612/Visualizer)|assistant tools for attention visualization in deep learning|204|2021-08-11|2021-08-09|
 |5|[chokkan/mlnote](https://github.com/chokkan/mlnote)|機械学習帳|184|2022-01-07|2021-09-29|
 |6|[44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel)|基于思源黑体的开源像素字体|170|2022-01-03|2021-08-18|
@@ -48,15 +48,14 @@
 |41|[jackhuntcn/2021ccf_iqiyi_nlp](https://github.com/jackhuntcn/2021ccf_iqiyi_nlp)|-|15|2021-12-03|2021-12-03|
 |42|[W-Java/Population-Prediction](https://github.com/W-Java/Population-Prediction)|The future population of Singapore is predicted by SVM algorithm|15|2021-10-29|2021-10-29|
 |43|[moliqingwa/carbon_challenge](https://github.com/moliqingwa/carbon_challenge)|捕碳大作战|15|2021-12-22|2021-10-26|
-|44|[KoichiYasuoka/SuPar-Kanbun-1.3.4](https://github.com/KoichiYasuoka/SuPar-Kanbun-1.3.4)|Tokenizer POS-tagger and Dependency-parser for Classical Chinese|14|2021-12-16|2021-03-09|
-|45|[eval4nlp/SharedTask2021](https://github.com/eval4nlp/SharedTask2021)|-|13|2021-11-23|2021-05-21|
-|46|[tcmyxc/DL-AndrewNg](https://github.com/tcmyxc/DL-AndrewNg)|吴恩达深度学习2021年空白作业|12|2021-09-13|2021-06-02|
-|47|[lvyufeng/d2l-mindspore](https://github.com/lvyufeng/d2l-mindspore)|《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。|11|2021-11-29|2021-10-28|
-|48|[deepjavalibrary/d2l-java-zh](https://github.com/deepjavalibrary/d2l-java-zh)|-|11|2021-12-06|2021-08-16|
-|49|[whyjz/rime-moetaigi](https://github.com/whyjz/rime-moetaigi)|萌台語：基於萌典 API 的 RIME 臺語輸入法，使用注音符號輕鬆輸入台語。|11|2021-11-09|2021-06-29|
-|50|[KXCY-AI/AI-Case-Studies](https://github.com/KXCY-AI/AI-Case-Studies)|人工智能垂直行业实战项目案例库|11|2021-11-28|2021-03-11|
-|51|[xiaonan8826/jeffindex](https://github.com/xiaonan8826/jeffindex)|-|10|2021-09-08|2021-08-19|
-|52|[raymondlo84/openvino-paddlepaddle-demo](https://github.com/raymondlo84/openvino-paddlepaddle-demo)|This repository provides examples of PaddlePaddle and OpenVINO integration. |10|2021-11-09|2021-08-13|
+|44|[tcmyxc/DL-AndrewNg](https://github.com/tcmyxc/DL-AndrewNg)|吴恩达深度学习2021年空白作业|14|2021-09-13|2021-06-02|
+|45|[KoichiYasuoka/SuPar-Kanbun-1.3.4](https://github.com/KoichiYasuoka/SuPar-Kanbun-1.3.4)|Tokenizer POS-tagger and Dependency-parser for Classical Chinese|14|2021-12-16|2021-03-09|
+|46|[eval4nlp/SharedTask2021](https://github.com/eval4nlp/SharedTask2021)|-|13|2021-11-23|2021-05-21|
+|47|[deepjavalibrary/d2l-java-zh](https://github.com/deepjavalibrary/d2l-java-zh)|-|11|2021-12-06|2021-08-16|
+|48|[whyjz/rime-moetaigi](https://github.com/whyjz/rime-moetaigi)|萌台語：基於萌典 API 的 RIME 臺語輸入法，使用注音符號輕鬆輸入台語。|11|2021-11-09|2021-06-29|
+|49|[KXCY-AI/AI-Case-Studies](https://github.com/KXCY-AI/AI-Case-Studies)|人工智能垂直行业实战项目案例库|11|2021-11-28|2021-03-11|
+|50|[xiaonan8826/jeffindex](https://github.com/xiaonan8826/jeffindex)|-|10|2021-09-08|2021-08-19|
+|51|[raymondlo84/openvino-paddlepaddle-demo](https://github.com/raymondlo84/openvino-paddlepaddle-demo)|This repository provides examples of PaddlePaddle and OpenVINO integration. |10|2021-11-09|2021-08-13|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

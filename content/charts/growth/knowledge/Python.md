@@ -5,42 +5,42 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.|158825|89|2022-01-17|
-|2|[jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)|Python - 100天从新手到大师|114110|80|2022-01-17|
+|1|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.|158862|89|2022-01-17|
+|2|[jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)|Python - 100天从新手到大师|114112|80|2022-01-17|
 |3|[0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference)|2021年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。|33210|35|2021-08-25|
 |4|[saveweb/review-2021](https://github.com/saveweb/review-2021)|今年，你写年终总结了吗？|554|29|2022-01-18|
-|5|[521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)|:octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.|51634|25|2021-12-28|
-|6|[d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)|《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。|29810|19|2022-01-17|
-|7|[satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)|What the f*ck Python? 😱|28027|17|2022-01-17|
+|5|[521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)|:octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.|51644|25|2021-12-28|
+|6|[d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)|《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。|29811|19|2022-01-18|
+|7|[satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)|What the f*ck Python? 😱|28028|17|2022-01-17|
 |8|[wangzheng0822/algo](https://github.com/wangzheng0822/algo)|数据结构和算法必知必会的50个代码实现|20265|17|2021-11-15|
-|9|[xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch)|🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐|3638|14|2021-12-19|
-|10|[lyhue1991/eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)|Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋|9217|13|2022-01-07|
+|9|[xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch)|🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐|3644|14|2021-12-19|
+|10|[lyhue1991/eat_tensorflow2_in_30_days](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)|Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋|9218|13|2022-01-07|
 |11|[kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider)|INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源 ...|6024|11|2022-01-13|
 |12|[kwai/DouZero](https://github.com/kwai/DouZero)|[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning   斗地主AI|2332|10|2021-12-22|
 |13|[TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi)|强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天|2061|10|2022-01-16|
-|14|[d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)|Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.|12158|10|2022-01-17|
-|15|[0xAX/linux-insides](https://github.com/0xAX/linux-insides)|A little bit about a linux kernel|24091|9|2021-12-25|
+|14|[d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en)|Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.|12160|10|2022-01-19|
+|15|[0xAX/linux-insides](https://github.com/0xAX/linux-insides)|A little bit about a linux kernel|24093|9|2021-12-25|
 |16|[wistbean/learn_python3_spider](https://github.com/wistbean/learn_python3_spider)|python爬虫教程系列、从0到1学习python爬虫，包括浏览器抓包，手机APP抓包，如 fiddler、mitmproxy，各种爬虫涉及的模块的使用，如：requests、beautifulSoup、selenium、appium、scrapy等，以及IP代理，验证码识别，Mysql，MongoDB数据库的python使用，多线程多进程爬虫的使用，css 爬虫加密逆向破解，JS爬虫逆向，分布式 ...|8718|9|2022-01-09|
 |17|[luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software)|A list of awesome applications, software, tools and other materials for Linux distros. |17037|9|2021-12-27|
 |18|[Jack-Cherish/PythonPark](https://github.com/Jack-Cherish/PythonPark)|Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。|4818|8|2022-01-10|
 |19|[HeisenbergEmpire/studynote](https://github.com/HeisenbergEmpire/studynote)|程式與網絡安全學習筆記|457|8|2022-01-14|
-|20|[miloyip/game-programmer](https://github.com/miloyip/game-programmer)|A Study Path for Game Programmer|14054|8|2022-01-08|
-|21|[drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)|Guide to securing and improving privacy on macOS|18791|8|2022-01-15|
-|22|[shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)|中国程序员容易发音错误的单词|14852|8|2021-12-11|
+|20|[miloyip/game-programmer](https://github.com/miloyip/game-programmer)|A Study Path for Game Programmer|14056|8|2022-01-08|
+|21|[drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide)|Guide to securing and improving privacy on macOS|18790|8|2022-01-15|
+|22|[shimohq/chinese-programmer-wrong-pronunciation](https://github.com/shimohq/chinese-programmer-wrong-pronunciation)|中国程序员容易发音错误的单词|14853|8|2021-12-11|
 |23|[jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples)|告别枯燥，致力于打造 Python 实用小例子，更多Python良心教程见 Python中文网 http://www.zglg.work|6660|8|2021-12-31|
 |24|[MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)|Summary of related papers on visual attention. Related code will be released based on Jittor gradually.    |1147|8|2022-01-05|
-|25|[Vonng/ddia](https://github.com/Vonng/ddia)|《Designing Data-Intensive Application》DDIA中文翻译|11718|8|2022-01-13|
+|25|[Vonng/ddia](https://github.com/Vonng/ddia)|《Designing Data-Intensive Application》DDIA中文翻译|11722|8|2022-01-13|
 |26|[Dod-o/Statistical-Learning-Method_Code](https://github.com/Dod-o/Statistical-Learning-Method_Code)|手写实现李航《统计学习方法》书中全部算法|8603|7|2021-09-13|
 |27|[conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses)|名校公开课程评价网|1538|7|2021-12-18|
 |28|[microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes)|Natural Language Processing Best Practices & Examples|5800|6|2021-09-07|
 |29|[princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE)|EMNLP'2021: SimCSE: Simple Contrastive Learning of Sentence Embeddings|1646|6|2021-11-26|
-|30|[huangsam/ultimate-python](https://github.com/huangsam/ultimate-python)|Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:|3361|5|2022-01-17|
-|31|[open-mmlab/mmfewshot](https://github.com/open-mmlab/mmfewshot)|OpenMMLab FewShot Learning Toolbox and Benchmark|312|5|2022-01-18|
+|30|[huangsam/ultimate-python](https://github.com/huangsam/ultimate-python)|Ultimate Python study guide for newcomers and professionals alike. :snake: :snake: :snake:|3367|5|2022-01-17|
+|31|[open-mmlab/mmfewshot](https://github.com/open-mmlab/mmfewshot)|OpenMMLab FewShot Learning Toolbox and Benchmark|314|5|2022-01-18|
 |32|[PantsuDango/Dango-Translator](https://github.com/PantsuDango/Dango-Translator)|团子翻译器 —— 个人兴趣制作的一款基于OCR技术的翻译器|3493|5|2022-01-13|
 |33|[xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)|定投改变命运 —— 让时间陪你慢慢变富 https://onregularinvesting.com|4734|5|2022-01-18|
-|34|[DA-southampton/NLP_ability](https://github.com/DA-southampton/NLP_ability)|总结梳理自然语言处理工程师(NLP)需要积累的各方面知识，包括面试题，各种基础知识，工程能力等等，提升核心竞争力|3158|5|2022-01-12|
-|35|[huangrt01/CS-Notes](https://github.com/huangrt01/CS-Notes)|我的自学笔记，终身更新，当前专注System基础、MLSys。|2947|5|2021-08-18|
-|36|[jindongwang/transferlearning](https://github.com/jindongwang/transferlearning)|Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials.-迁移学习|8638|5|2022-01-13|
+|34|[DA-southampton/NLP_ability](https://github.com/DA-southampton/NLP_ability)|总结梳理自然语言处理工程师(NLP)需要积累的各方面知识，包括面试题，各种基础知识，工程能力等等，提升核心竞争力|3157|5|2022-01-12|
+|35|[huangrt01/CS-Notes](https://github.com/huangrt01/CS-Notes)|我的自学笔记，终身更新，当前专注System基础、MLSys。|2946|5|2021-08-18|
+|36|[jindongwang/transferlearning](https://github.com/jindongwang/transferlearning)|Transfer learning / domain adaptation / domain generalization / multi-task learning etc. Papers, codes, datasets, applications, tutorials.-迁移学习|8639|5|2022-01-13|
 |37|[public-api-lists/public-api-lists](https://github.com/public-api-lists/public-api-lists)|A collective list of free APIs for use in software and web development 🚀 (Clone of https://github.com/public-apis/public-apis)|4088|5|2022-01-09|
 |38|[lyhue1991/eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days)|Pytorch🍊🍉   is delicious, just eat it! 😋😋|2861|5|2021-11-20|
 |39|[alibaba/AliceMind](https://github.com/alibaba/AliceMind)|ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab|979|4|2021-12-21|
@@ -56,12 +56,12 @@
 |49|[shengxinjing/it-roadmap](https://github.com/shengxinjing/it-roadmap)|大圣的前端学习路线图|133|3|2021-12-13|
 |50|[liuhuanyong/ChainKnowledgeGraph](https://github.com/liuhuanyong/ChainKnowledgeGraph)|ChainKnowledgeGraph, 产业链知识图谱包括A股上市公司、行业和产品共3类实体，包括上市公司所属行业关系、行业上级关系、产品上游原材料关系、产品下游产品关系、公司主营产品、产品小类共6大类。 上市公司4,654家，行业511个，产品95,559条、上游材料56,824条，上级行业480条，下游产品390条，产品小类52,937条，所属行业3,946条。  |287|3|2021-10-26|
 |51|[humphd/have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning)|An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks|4914|3|2021-12-19|
-|52|[open-mmlab/mmselfsup](https://github.com/open-mmlab/mmselfsup)|OpenMMLab Self-Supervised Learning Toolbox and Benchmark|1775|3|2022-01-17|
+|52|[open-mmlab/mmselfsup](https://github.com/open-mmlab/mmselfsup)|OpenMMLab Self-Supervised Learning Toolbox and Benchmark|1778|3|2022-01-18|
 |53|[iswbm/pycharm-guide](https://github.com/iswbm/pycharm-guide)|PyCharm 中文指南：安装   破解   效率   技巧|1588|3|2021-12-12|
 |54|[justinzm/gopup](https://github.com/justinzm/gopup)|数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…|1709|3|2022-01-13|
 |55|[chyroc/WechatSogou](https://github.com/chyroc/WechatSogou)|基于搜狗微信搜索的微信公众号爬虫接口|5243|3|2022-01-13|
-|56|[THUDM/CogView](https://github.com/THUDM/CogView)|Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".|695|3|2021-10-01|
-|57|[ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert)|A collection of scripts to flash Tuya IoT devices to alternative firmwares|3396|3|2022-01-13|
+|56|[THUDM/CogView](https://github.com/THUDM/CogView)|Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".|698|3|2021-10-01|
+|57|[ct-Open-Source/tuya-convert](https://github.com/ct-Open-Source/tuya-convert)|A collection of scripts to flash Tuya IoT devices to alternative firmwares|3397|3|2022-01-13|
 |58|[lcdevelop/ChatBotCourse](https://github.com/lcdevelop/ChatBotCourse)|自己动手做聊天机器人教程|5278|3|2021-09-06|
 |59|[DropsDevopsOrg/ECommerceCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers)|实战🐍多种网站、电商数据爬虫🕷。包含🕸：淘宝商品、微信公众号、大众点评、企查查、招聘网站、闲鱼、阿里任务、博客园、微博、百度贴吧、豆瓣电影、包图网、全景网、豆瓣音乐、某省药监局、搜狐新闻、机器学习文本采集、fofa资产采集、汽车之家、国家统计局、百度关键词收录数、蜘蛛泛目录、今日头条、豆瓣影评、携程、小米应用商店、安居客、途家民宿❤️❤️❤️。微信爬虫展示项目:|3123|3|2022-01-13|
 |60|[ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki)|Come and join us, we need you!|5373|3|2021-11-29|
@@ -71,13 +71,13 @@
 |64|[PegasusWang/python_data_structures_and_algorithms](https://github.com/PegasusWang/python_data_structures_and_algorithms)|Python 中文数据结构和算法教程|2219|2|2022-01-15|
 |65|[ines/spacy-course](https://github.com/ines/spacy-course)|👩‍🏫 Advanced NLP with spaCy: A free online course|1935|2|2022-01-17|
 |66|[alanbobs999/TopFreeProxies](https://github.com/alanbobs999/TopFreeProxies)|高质量免费节点收集，及订阅链接分享。|336|2|2022-01-18|
-|67|[EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)|How to train a TensorFlow Object Detection Classifier for multiple object detection on Windows|2761|2|2021-10-21|
-|68|[itcharge/LeetCode-Py](https://github.com/itcharge/LeetCode-Py)|⛽️「算法通关手册」，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。|632|2|2022-01-17|
-|69|[datawhalechina/fun-rec](https://github.com/datawhalechina/fun-rec)|本推荐算法教程主要是针对具有机器学习基础并想找推荐算法岗位的同学，教程由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。|1018|2|2022-01-17|
+|67|[EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10](https://github.com/EdjeElectronics/TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10)|How to train a TensorFlow Object Detection Classifier for multiple object detection on Windows|2762|2|2021-10-21|
+|68|[itcharge/LeetCode-Py](https://github.com/itcharge/LeetCode-Py)|⛽️「算法通关手册」，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。|772|2|2022-01-18|
+|69|[datawhalechina/fun-rec](https://github.com/datawhalechina/fun-rec)|本推荐算法教程主要是针对具有机器学习基础并想找推荐算法岗位的同学，教程由推荐算法基础、推荐算法入门赛、新闻推荐项目及推荐算法面经组成，形成了一个完整的从基础到实战再到面试的闭环。|1019|2|2022-01-17|
 |70|[Miraclelucy/dive_into_deep_learning](https://github.com/Miraclelucy/dive_into_deep_learning)|✔️李沐 【动手学深度学习】课程学习笔记：使用pycharm编程，基于pytorch框架实现。|517|2|2021-08-09|
 |71|[deepset-ai/FARM](https://github.com/deepset-ai/FARM)|:house_with_garden: Fast & easy transfer learning for NLP. Harvesting language models for the industry. Focus on Question Answering.|1451|2|2021-11-23|
-|72|[phodal/awesome-iot](https://github.com/phodal/awesome-iot)|Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform|3492|2|2022-01-03|
-|73|[NLP-LOVE/Introduction-NLP](https://github.com/NLP-LOVE/Introduction-NLP)|HanLP作者的新书《自然语言处理入门》详细笔记！业界良心之作，书中不是枯燥无味的公式罗列，而是用白话阐述的通俗易懂的算法模型。从基本概念出发，逐步介绍中文分词、词性标注、命名实体识别、信息抽取、文本聚类、文本分类、句法分析这几个热门问题的算法原理与工程实现。|1498|2|2022-01-05|
+|72|[phodal/awesome-iot](https://github.com/phodal/awesome-iot)|Awesome IoT. A collaborative list of great resources about IoT Framework, Library,  OS, Platform|3493|2|2022-01-03|
+|73|[NLP-LOVE/Introduction-NLP](https://github.com/NLP-LOVE/Introduction-NLP)|HanLP作者的新书《自然语言处理入门》详细笔记！业界良心之作，书中不是枯燥无味的公式罗列，而是用白话阐述的通俗易懂的算法模型。从基本概念出发，逐步介绍中文分词、词性标注、命名实体识别、信息抽取、文本聚类、文本分类、句法分析这几个热门问题的算法原理与工程实现。|1499|2|2022-01-05|
 |74|[youyuge34/PI-REC](https://github.com/youyuge34/PI-REC)|:fire: PI-REC: Progressive Image Reconstruction Network With Edge and Color Domain. :fire: 图像翻译，条件GAN，AI绘画|1634|2|2022-01-13|
 |75|[thuml/Transfer-Learning-Library](https://github.com/thuml/Transfer-Learning-Library)|Transfer Learning Library for Domain Adaptation, Task Adaptation, and Domain Generalization|1261|2|2022-01-04|
 |76|[zhaoolee/StarsAndClown](https://github.com/zhaoolee/StarsAndClown)|☀️Github星聚弃疗榜, 让吃瓜群众也能享受Github带来的乐趣~Github StarsAndClown, Let the people who eat me can enjoy the fun of Github~|1828|2|2021-08-12|
@@ -87,44 +87,44 @@
 |80|[Mr-xn/BurpSuite-collections](https://github.com/Mr-xn/BurpSuite-collections)|有关burpsuite的插件(非商店),文章以及使用技巧的收集(此项目不再提供burpsuite破解文件,如需要请在博客mrxn.net下载)---Collection of burpsuite plugins (non-stores), articles and tips for using Burpsuite, no crack version file|1619|2|2021-12-27|
 |81|[layumi/Person_reID_baseline_pytorch](https://github.com/layumi/Person_reID_baseline_pytorch)|Pytorch ReID: A tiny, friendly, strong pytorch implement of object re-identification baseline. Tutorial 👉https://github.com/layumi/Person_reID_baseline_pytorch/tree/master/tutorial|3008|2|2022-01-11|
 |82|[SleepyBag/Statistical-Learning-Methods](https://github.com/SleepyBag/Statistical-Learning-Methods)|Implement Statistical Learning Methods, Li Hang the hard way. 李航《统计学习方法》一书的硬核 Python 实现|892|2|2021-11-14|
-|83|[km1994/NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)|本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。|650|2|2022-01-17|
+|83|[km1994/NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)|本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。|651|2|2022-01-17|
 |84|[HiLab-git/SSL4MIS](https://github.com/HiLab-git/SSL4MIS)|Semi Supervised Learning for Medical Image Segmentation, a collection of literature reviews and code implementations.|728|2|2022-01-16|
 |85|[shenweichen/DeepCTR-Torch](https://github.com/shenweichen/DeepCTR-Torch)|【PyTorch】Easy-to-use,Modular and Extendible package of deep-learning based CTR models.|1696|2|2021-08-25|
 |86|[awake1t/HackReport](https://github.com/awake1t/HackReport)|渗透测试报告/资料文档/渗透经验文档/安全书籍|359|2|2021-12-25|
 |87|[QData/TextAttack](https://github.com/QData/TextAttack)|TextAttack 🐙  is a Python framework for adversarial attacks, data augmentation, and model training in NLP https://textattack.readthedocs.io/en/master/|1806|2|2021-12-16|
-|88|[mars-project/mars](https://github.com/mars-project/mars)|Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.|2332|2|2022-01-18|
+|88|[mars-project/mars](https://github.com/mars-project/mars)|Mars is a tensor-based unified framework for large-scale data computation which scales numpy, pandas, scikit-learn and Python functions.|2333|2|2022-01-18|
 |89|[hhaAndroid/mmdetection-mini](https://github.com/hhaAndroid/mmdetection-mini)|mmdetection最小学习版|760|2|2021-11-21|
 |90|[Charmve/Surface-Defect-Detection](https://github.com/Charmve/Surface-Defect-Detection)|📈 Constantly summarizing open source dataset and critical papers in the field of surface defect research which are of great importance.  |817|2|2021-09-17|
 |91|[sunyilgdx/NSP-BERT](https://github.com/sunyilgdx/NSP-BERT)|The code for our paper "NSP-BERT: A Prompt-based Zero-Shot Learner Through an Original Pre-training Task —— Next Sentence Prediction"|125|1|2021-11-16|
 |92|[zjunlp/OpenUE](https://github.com/zjunlp/OpenUE)|OpenUE是一个轻量级知识图谱抽取工具 (An Open Toolkit for Universal  Extraction from Text)|484|1|2021-12-31|
 |93|[ysyisyourbrother/SYSU_Notebook](https://github.com/ysyisyourbrother/SYSU_Notebook)|本项目分享了本人在中山大学数据科学与计算机学院计算机科学专业的课程资料、笔记、回忆和整理的期末考试卷、及课程作业。希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟 |487|1|2021-10-07|
-|94|[liuhuanyong/TextGrapher](https://github.com/liuhuanyong/TextGrapher)|Text Content Grapher based on keyinfo extraction by NLP method。输入一篇文档，将文档进行关键信息提取，进行结构化，并最终组织成图谱组织形式，形成对文章语义信息的图谱化展示。|875|1|2021-10-20|
+|94|[liuhuanyong/TextGrapher](https://github.com/liuhuanyong/TextGrapher)|Text Content Grapher based on keyinfo extraction by NLP method。输入一篇文档，将文档进行关键信息提取，进行结构化，并最终组织成图谱组织形式，形成对文章语义信息的图谱化展示。|876|1|2021-10-20|
 |95|[wnma3mz/wechat_articles_spider](https://github.com/wnma3mz/wechat_articles_spider)|微信公众号文章的爬虫|1428|1|2022-01-14|
 |96|[coco369/knowledge](https://github.com/coco369/knowledge)|python学习之路，就是不断累积，不断学习的过程。该知识库讲解了Python Web框架内容，如Django、DjangoRestFramework、tornado、flask，redis，MySQL，MongoDB，docker，Vue等内容|678|1|2021-10-13|
 |97|[abbeyokgo/PyOne](https://github.com/abbeyokgo/PyOne)|PyOne-一款给力的onedrive文件管理、分享程序|1483|1|2022-01-10|
 |98|[RimoChan/Vtuber_Tutorial](https://github.com/RimoChan/Vtuber_Tutorial)|【教程】从零开始的自制Vtuber！|673|1|2021-08-13|
 |99|[BBuf/tvm_mlir_learn](https://github.com/BBuf/tvm_mlir_learn)|tvm learn|192|1|2021-12-11|
 |100|[xiaoqian19940510/Event-Extraction](https://github.com/xiaoqian19940510/Event-Extraction)|近年来事件抽取方法总结，包括中文事件抽取、开放域事件抽取、事件数据生成、跨语言事件抽取、小样本事件抽取、零样本事件抽取等类型，DMCNN、FramNet、DLRNN、DBRNN、GCN、DAG-GRU、JMEE、PLMEE等方法|454|1|2021-08-24|
-|101|[NUAA-AL/ALiPy](https://github.com/NUAA-AL/ALiPy)|ALiPy: Active Learning in Python is an active learning python toolbox, which allows users to conveniently evaluate, compare and analyze the performance of active learning methods.|677|1|2022-01-11|
+|101|[NUAA-AL/ALiPy](https://github.com/NUAA-AL/ALiPy)|ALiPy: Active Learning in Python is an active learning python toolbox, which allows users to conveniently evaluate, compare and analyze the performance of active learning methods.|678|1|2022-01-11|
 |102|[MorvanZhou/NLP-Tutorials](https://github.com/MorvanZhou/NLP-Tutorials)|Simple implementations of NLP models. Tutorials are written in Chinese on my website https://mofanpy.com|607|1|2021-12-23|
 |103|[gxcuizy/Python](https://github.com/gxcuizy/Python)|Python3编写的各种大小程序，包含从零学Python系列、12306抢票、省市区地址库以及系列网站爬虫等学习源码|1048|1|2021-09-24|
 |104|[dongdonghy/Detection-PyTorch-Notebook](https://github.com/dongdonghy/Detection-PyTorch-Notebook)|代码 -《深度学习之PyTorch物体检测实战》|618|1|2021-10-12|
 |105|[SimmerChan/KG-demo-for-movie](https://github.com/SimmerChan/KG-demo-for-movie)|从无到有构建一个电影知识图谱，并基于该KG，开发一个简易的KBQA程序。|1010|1|2021-10-05|
-|106|[blmoistawinde/HarvestText](https://github.com/blmoistawinde/HarvestText)|文本挖掘和预处理工具（文本清洗、新词发现、情感分析、实体识别链接、关键词抽取、知识抽取、句法分析等），无监督或弱监督方法|1374|1|2022-01-02|
+|106|[blmoistawinde/HarvestText](https://github.com/blmoistawinde/HarvestText)|文本挖掘和预处理工具（文本清洗、新词发现、情感分析、实体识别链接、关键词抽取、知识抽取、句法分析等），无监督或弱监督方法|1375|1|2022-01-02|
 |107|[LingDong-/qiji-font](https://github.com/LingDong-/qiji-font)|齊伋體 - typeface from Ming Dynasty woodblock printed books|733|1|2021-09-02|
 |108|[EvanLi/Github-Ranking](https://github.com/EvanLi/Github-Ranking)|:star:Github Ranking:star: Github stars and forks ranking list. Github Top100 stars list of different languages. Automatically update daily.   Github仓库排名，每日自动更新|763|1|2022-01-17|
 |109|[HaoZhang95/Python24](https://github.com/HaoZhang95/Python24)|网上搜集的自学python语言的资料集合,包括整套代码和讲义集合，这是至今为止所开放网上能够查找到的最新视频教程，网上找不到其他最新的python整套视频了,. 具体的无加密的mp4视频教程和讲义集合可以在更新的Readme文件中找到，下载直接打开就能播放，项目从零基础的Python教程到深度学习，总共30章节，其中包含Python基础中的飞机大战项目，WSGI项目，Flask新经资讯项目， Dj ...|825|1|2022-01-13|
-|110|[icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn)|超赞列表合集|773|1|2022-01-17|
-|111|[swaroopch/byte-of-python](https://github.com/swaroopch/byte-of-python)|Beginners book on Python - start here if you don't know programming|1748|1|2022-01-05|
+|110|[icopy-site/awesome-cn](https://github.com/icopy-site/awesome-cn)|超赞列表合集|773|1|2022-01-18|
+|111|[swaroopch/byte-of-python](https://github.com/swaroopch/byte-of-python)|Beginners book on Python - start here if you don't know programming|1749|1|2022-01-05|
 |112|[zhengxiaotian/geek_crawler](https://github.com/zhengxiaotian/geek_crawler)|极客时间课程抓取脚本，支持输入账号密码后自动将极客时间的专栏课程保存到本地|317|1|2021-09-13|
 |113|[RimoChan/yinglish](https://github.com/RimoChan/yinglish)|【yinglish】淫语翻译机！|418|1|2021-08-27|
 |114|[billryan/algorithm-exercise](https://github.com/billryan/algorithm-exercise)|Data Structure and Algorithm notes. 数据结构与算法/leetcode/lintcode题解/|3295|1|2021-12-13|
 |115|[CLUEbenchmark/FewCLUE](https://github.com/CLUEbenchmark/FewCLUE)|FewCLUE 小样本学习测评基准，中文版|245|1|2021-09-30|
-|116|[svjan5/GNNs-for-NLP](https://github.com/svjan5/GNNs-for-NLP)|Tutorial: Graph Neural Networks for Natural Language Processing at EMNLP 2019 and CODS-COMAD 2020|700|1|2021-08-25|
+|116|[svjan5/GNNs-for-NLP](https://github.com/svjan5/GNNs-for-NLP)|Tutorial: Graph Neural Networks for Natural Language Processing at EMNLP 2019 and CODS-COMAD 2020|701|1|2021-08-25|
 |117|[lisztomania-P/learning-power](https://github.com/lisztomania-P/learning-power)|学习强国 自动化 百分百正确、瞬间答题，分值45分|349|1|2021-10-20|
 |118|[DL-Practise/YoloAll](https://github.com/DL-Practise/YoloAll)|YoloAll is a collection of yolo all versions. you you use YoloAll to test yolov3/yolov5/yolox/yolo_fastest|157|1|2021-12-02|
 |119|[twtrubiks/docker-tutorial](https://github.com/twtrubiks/docker-tutorial)|Docker 基本教學 - 從無到有 Docker-Beginners-Guide   教你用 Docker 建立 Django + PostgreSQL 📝|1068|1|2021-10-12|
-|120|[iswbm/GolangCodingTime](https://github.com/iswbm/GolangCodingTime)|Go编程时光，一个零基础入门 Golang 的教程|769|1|2021-12-12|
+|120|[iswbm/GolangCodingTime](https://github.com/iswbm/GolangCodingTime)|Go编程时光，一个零基础入门 Golang 的教程|770|1|2021-12-12|
 |121|[DasyDong/developer-roadmap](https://github.com/DasyDong/developer-roadmap)|developer-roadmap|1344|1|2021-12-07|
 |122|[LyleMi/Learn-Web-Hacking](https://github.com/LyleMi/Learn-Web-Hacking)|Study Notes For Web Hacking / Web安全学习笔记|2394|1|2022-01-09|
 |123|[DeppWang/youdaonote-pull](https://github.com/DeppWang/youdaonote-pull)|📝 一个一键导出 / 备份「有道云笔记」所有笔记的 Python 脚本。 A Python script to export/backup all the notes of the "Youdao Note".|452|1|2021-09-28|
@@ -133,7 +133,7 @@
 |126|[liuli-io/liuli](https://github.com/liuli-io/liuli)|构建一个多源、干净、个性化的阅读环境|259|1|2022-01-05|
 |127|[PaddlePaddle/PGL](https://github.com/PaddlePaddle/PGL)|Paddle Graph Learning (PGL) is an efficient and flexible graph learning framework based on PaddlePaddle|1202|1|2021-12-29|
 |128|[HuberTRoy/leetCode](https://github.com/HuberTRoy/leetCode)|:pencil2: 算法相关知识储备 LeetCode with Python and JavaScript :books:|1720|1|2021-07-26|
-|129|[fuergaosi233/gitbook2pdf](https://github.com/fuergaosi233/gitbook2pdf)|Grab the contents of the gitbook document and convert it to pdf|787|1|2022-01-13|
+|129|[fuergaosi233/gitbook2pdf](https://github.com/fuergaosi233/gitbook2pdf)|Grab the contents of the gitbook document and convert it to pdf|786|1|2022-01-13|
 |130|[D-X-Y/AutoDL-Projects](https://github.com/D-X-Y/AutoDL-Projects)|Automated deep learning algorithms implemented in PyTorch.|1324|1|2021-10-25|
 |131|[xiyaowong/spiders](https://github.com/xiyaowong/spiders)|Python爬虫，返回一定格式的信息，下载，使用flask提供简易api。抖音无水印、皮皮虾、快手、网易云音乐、qq音乐、咪咕音乐、荔枝FM音频、知乎视频、最右语音、视频、微博......|523|1|2021-07-28|
 |132|[chiupam/JD_Diy](https://github.com/chiupam/JD_Diy)|学习 python3 以来写的一些垃圾玩具……|231|1|2021-11-01|
@@ -142,18 +142,18 @@
 |135|[kwea123/VTuber_Unity](https://github.com/kwea123/VTuber_Unity)|Use Unity 3D character and Python deep learning algorithms to stream as a VTuber!|592|1|2021-09-01|
 |136|[fire-keeper/BlindWatermark](https://github.com/fire-keeper/BlindWatermark)|使用盲水印保护创作者的知识产权using invisible watermark to protect creator's intellectual property|756|1|2021-10-12|
 |137|[bupt-ai-cz/Meta-SelfLearning](https://github.com/bupt-ai-cz/Meta-SelfLearning)|Meta Self-learning for Multi-Source Domain Adaptation： A Benchmark|111|1|2021-12-07|
-|138|[facebookresearch/TaBERT](https://github.com/facebookresearch/TaBERT)|This repository contains source code for the TaBERT model, a pre-trained language model for learning joint representations of natural language utterances and (semi-)structured tables for semantic pars ...|461|1|2021-08-26|
-|139|[yl-1993/learn-to-cluster](https://github.com/yl-1993/learn-to-cluster)|Learning to Cluster Faces (CVPR 2019, CVPR 2020)|566|1|2021-12-27|
+|138|[facebookresearch/TaBERT](https://github.com/facebookresearch/TaBERT)|This repository contains source code for the TaBERT model, a pre-trained language model for learning joint representations of natural language utterances and (semi-)structured tables for semantic pars ...|460|1|2021-08-26|
+|139|[yl-1993/learn-to-cluster](https://github.com/yl-1993/learn-to-cluster)|Learning to Cluster Faces (CVPR 2019, CVPR 2020)|567|1|2021-12-27|
 |140|[DengBoCong/nlp-paper](https://github.com/DengBoCong/nlp-paper)|自然语言处理领域下的对话语音领域，整理相关论文（附阅读笔记），复现模型以及数据处理等（代码含TensorFlow和PyTorch两版本）|318|1|2022-01-11|
 |141|[yikeke/zh-style-guide](https://github.com/yikeke/zh-style-guide)|An open-source style guide for writing Chinese technical documents: https://zh-style-guide.readthedocs.io|442|1|2021-09-22|
 |142|[HaddyYang/django2.0-course](https://github.com/HaddyYang/django2.0-course)|Django2.0视频教程相关代码（杨仕航）|973|1|2022-01-13|
 |143|[offu/WeRoBot](https://github.com/offu/WeRoBot)|WeRoBot 是一个微信公众号开发框架|3978|1|2022-01-17|
 |144|[Rainbow-Dreamer/musicpy](https://github.com/Rainbow-Dreamer/musicpy)|Musicpy is a music programming language in Python designed to write music in very handy syntax through music theory and algorithms.|566|1|2022-01-17|
-|145|[peiss/ant-learn-pandas](https://github.com/peiss/ant-learn-pandas)|pandas学习课程代码仓库|671|1|2021-08-25|
+|145|[peiss/ant-learn-pandas](https://github.com/peiss/ant-learn-pandas)|pandas学习课程代码仓库|672|1|2021-08-25|
 |146|[google-research/bleurt](https://github.com/google-research/bleurt)|BLEURT is a metric for Natural Language Generation based on transfer learning.|402|1|2022-01-13|
 |147|[Hopetree/izone](https://github.com/Hopetree/izone)|django+bootstrap4 个人博客|866|1|2022-01-13|
 |148|[hongwenjun/vps_setup](https://github.com/hongwenjun/vps_setup)|linux  vim bash 脚本学习笔记 by 蘭雅sRGB   https://262235.xyz/|747|1|2022-01-13|
-|149|[ramsrigouthamg/Questgen.ai](https://github.com/ramsrigouthamg/Questgen.ai)|Question generation using state-of-the-art Natural Language Processing algorithms|434|1|2021-09-22|
+|149|[ramsrigouthamg/Questgen.ai](https://github.com/ramsrigouthamg/Questgen.ai)|Question generation using state-of-the-art Natural Language Processing algorithms|435|1|2021-09-22|
 |150|[striver-ing/wechat-spider](https://github.com/striver-ing/wechat-spider)|开源微信爬虫：爬取公众号所有 文章、阅读量、点赞量和评论内容。易部署。持续维护！！！|1347|1|2021-09-22|
 |151|[PRaichu/xxqg](https://github.com/PRaichu/xxqg)|学习强国 xxqg 无人值守自动看视频、看文章、自动答题（每日答题、每周答题、专项答题），45分/天|268|1|2021-11-08|
 |152|[xuyige/BERT4doc-Classification](https://github.com/xuyige/BERT4doc-Classification)|Code and source for paper ``How to Fine-Tune BERT for Text Classification?``|394|1|2021-10-19|
@@ -164,14 +164,14 @@
 |157|[gaowanliang/OneDriveShareLinkPushAria2](https://github.com/gaowanliang/OneDriveShareLinkPushAria2)|Extract download URLs from OneDrive or SharePoint share links and push them to aria2, even on systems without a GUI.|135|1|2021-09-28|
 |158|[dixudx/tumblr-crawler](https://github.com/dixudx/tumblr-crawler)|Easily download all the photos/videos from tumblr blogs. 下载指定的 Tumblr 博客中的图片，视频|1126|1|2021-08-22|
 |159|[dongweiming/web_develop](https://github.com/dongweiming/web_develop)|《Python Web开发实战》书中源码|1168|1|2022-01-13|
-|160|[pprp/awesome-attention-mechanism-in-cv](https://github.com/pprp/awesome-attention-mechanism-in-cv)|:punch: CV中常用注意力模块;即插即用模块;ViT模型. PyTorch Implementation Collection of Attention Module and Plug&Play Module|346|1|2022-01-18|
+|160|[pprp/awesome-attention-mechanism-in-cv](https://github.com/pprp/awesome-attention-mechanism-in-cv)|:punch: CV中常用注意力模块;即插即用模块;ViT模型. PyTorch Implementation Collection of Attention Module and Plug&Play Module|347|1|2022-01-18|
 |161|[researchmm/Stark](https://github.com/researchmm/Stark)|[ICCV'21] Learning Spatio-Temporal Transformer for Visual Tracking|337|1|2022-01-18|
 |162|[Algebra-FUN/WeReadScan](https://github.com/Algebra-FUN/WeReadScan)|扫描“微信读书”已购图书并下载本地PDF的爬虫|118|0|2021-08-23|
 |163|[smileboywtu/MillionHeroAssistant](https://github.com/smileboywtu/MillionHeroAssistant)|百万 / 冲顶 / 芝士 / UC  / 万能 答题助手（知识图谱更加专业，自动推荐答案， Android手机自动屏幕适配，模拟器支持，多开)|525|0|2022-01-13|
 |164|[Oneflow-Inc/DLPerf](https://github.com/Oneflow-Inc/DLPerf)|DeepLearning Framework Performance Profiling Toolkit|155|0|2021-12-08|
 |165|[yhangf/PythonCrawler](https://github.com/yhangf/PythonCrawler)| :heartpulse:用python编写的爬虫项目集合|985|0|2022-01-02|
 |166|[icopy-site/awesome](https://github.com/icopy-site/awesome)|collection of awesome lists|132|0|2021-12-12|
-|167|[LyleMi/papers](https://github.com/LyleMi/papers)|Academic papers and articles that I read related to web hacking, fuzzing, etc. / 阅读过的Web安全方向、模糊测试方向的一些论文与阅读笔记|231|0|2021-11-28|
+|167|[LyleMi/papers](https://github.com/LyleMi/papers)|Academic papers and articles that I read related to web hacking, fuzzing, etc. / 阅读过的Web安全方向、模糊测试方向的一些论文与阅读笔记|248|0|2021-11-28|
 |168|[jukanntenn/django-blog-project](https://github.com/jukanntenn/django-blog-project)|基于 django 和 Vue 的个人博客。|156|0|2021-10-06|
 |169|[spiside/pdb-tutorial](https://github.com/spiside/pdb-tutorial)|A simple tutorial about effectively using pdb|742|0|2022-01-08|
 |170|[Trinkle23897/learn2018-autodown](https://github.com/Trinkle23897/learn2018-autodown)|清华大学新版网络学堂课程自动下载脚本 / A python script to clone all files from learn.tsinghua.edu.cn|186|0|2021-09-11|

@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|22577|16|2022-01-18|
+|1|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|22589|16|2022-01-18|
 |2|[shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)|:see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞|27561|14|2021-08-10|
 |3|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|6649|6|2022-01-17|
 |4|[rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)|Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook|9532|5|2022-01-18|
@@ -25,7 +25,7 @@
 |18|[overmind1980/oeasypython](https://github.com/overmind1980/oeasypython)|面向初学者的简明易懂的 Python3 课程，对没有编程经验的同学也非常友好。在vim下从浅入深，逐步学习。|185|1|2021-12-10|
 |19|[wslutilities/wslu](https://github.com/wslutilities/wslu)|A collection of utilities for Windows 10 Linux Subsystems|2063|1|2021-12-03|
 |20|[goreliu/zshguide](https://github.com/goreliu/zshguide)|Zsh 开发指南|887|1|2021-11-26|
-|21|[charlax/engineering-management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|2604|1|2022-01-17|
+|21|[charlax/engineering-management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|2607|1|2022-01-17|
 |22|[WindrunnerMax/EveryDay](https://github.com/WindrunnerMax/EveryDay)|前端基础 个人博客 学习笔记|561|1|2022-01-10|
 |23|[studygolang/GCTT](https://github.com/studygolang/GCTT)|GCTT Go中文网翻译组。|1325|1|2021-12-26|
 |24|[LCTT/TranslateProject](https://github.com/LCTT/TranslateProject)|Linux中国翻译项目|1866|1|2022-01-18|

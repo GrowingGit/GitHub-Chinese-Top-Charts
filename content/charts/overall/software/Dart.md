@@ -7,16 +7,16 @@
 |:-|:-|:-|:-|:-|
 |1|[CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter)|Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便 ...|12988|2022-01-12|
 |2|[flutterchina/dio](https://github.com/flutterchina/dio)|A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.|10348|2022-01-17|
-|3|[alibaba/fish-redux](https://github.com/alibaba/fish-redux)|An assembled flutter application framework.|7227|2021-12-29|
+|3|[alibaba/fish-redux](https://github.com/alibaba/fish-redux)|An assembled flutter application framework.|7226|2021-12-29|
 |4|[kaina404/FlutterDouBan](https://github.com/kaina404/FlutterDouBan)|🔥🔥🔥Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉。（ https://img.xuvip.top/douyademo.mp4）|6815|2021-08-01|
 |5|[simplezhli/flutter_deer](https://github.com/simplezhli/flutter_deer)|🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project. Includes a complete UI design and exercises that are closer to real projects.|5833|2021-12-23|
 |6|[alibaba/flutter_boost](https://github.com/alibaba/flutter_boost)|FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts|5773|2022-01-18|
-|7|[liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan)|阿里云盘小白羊版  阿里云盘PC版 aliyundriver|4869|2022-01-02|
+|7|[liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan)|阿里云盘小白羊版  阿里云盘PC版 aliyundriver|4868|2022-01-02|
 |8|[toly1994328/FlutterUnit](https://github.com/toly1994328/FlutterUnit)|【Flutter 集录指南 App】The unity of flutter, The unity of coder.|4553|2022-01-08|
 |9|[rrousselGit/provider](https://github.com/rrousselGit/provider)|InheritedWidgets, but simple|4046|2022-01-15|
 |10|[flutterchina/flukit](https://github.com/flutterchina/flukit)| A Flutter UI Kit（一个 Flutter UI组件库），2.0 beta is available now !|3895|2021-10-07|
 |11|[xuelongqy/flutter_easyrefresh](https://github.com/xuelongqy/flutter_easyrefresh)|A flutter widget that provides pull-down refresh and pull-up load.|3013|2022-01-09|
-|12|[Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter)|一个支持免代理直连及查看动图的第三方Pixiv flutter客户端|2926|2022-01-16|
+|12|[Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter)|一个支持免代理直连及查看动图的第三方Pixiv flutter客户端|2927|2022-01-16|
 |13|[OpenFlutter/flutter_screenutil](https://github.com/OpenFlutter/flutter_screenutil)|Flutter screen adaptation, font adaptation, get screen information|2892|2022-01-17|
 |14|[yubo725/flutter-osc](https://github.com/yubo725/flutter-osc)|基于Google Flutter的开源中国客户端，支持Android和iOS。|2791|2021-08-07|
 |15|[boyan01/flutter-netease-music](https://github.com/boyan01/flutter-netease-music)|flutter music player application. (仿网易云音乐)|2697|2021-12-31|

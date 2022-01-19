@@ -7,9 +7,9 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[rapiz1/rathole](https://github.com/rapiz1/rathole)|A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.|2240|62|2022-01-18|
 |2|[bytedance/monoio](https://github.com/bytedance/monoio)|Rust async runtime based on io-uring.|1683|34|2021-12-30|
-|3|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|Yet another remote desktop software|14518|30|2022-01-18|
+|3|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|Yet another remote desktop software|14520|30|2022-01-18|
 |4|[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)|ripgrep recursively searches directories for a regex pattern while respecting your gitignore|28988|14|2022-01-12|
-|5|[yewstack/yew](https://github.com/yewstack/yew)|Rust / Wasm framework for building client web apps|18695|13|2022-01-18|
+|5|[yewstack/yew](https://github.com/yewstack/yew)|Rust / Wasm framework for building client web apps|18701|13|2022-01-18|
 |6|[0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)|Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.|1295|12|2022-01-18|
 |7|[sharkdp/fd](https://github.com/sharkdp/fd)|A simple, fast and user-friendly alternative to 'find'|20291|12|2022-01-11|
 |8|[messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)|阿里云盘 WebDAV 服务|1726|11|2022-01-18|
@@ -18,15 +18,15 @@
 |11|[editso/fuso](https://github.com/editso/fuso)|一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy,  ...|488|9|2021-12-19|
 |12|[sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)|A command-line benchmarking tool|9995|7|2022-01-03|
 |13|[sunface/fancy-rust](https://github.com/sunface/fancy-rust)|Rust酷库推荐 - 使用我们精心挑选的开源代码，让你的Rust项目Fancy起来!   Awesome !|157|7|2022-01-18|
-|14|[pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog)|Educational blog posts for Rust beginners|3999|6|2021-12-31|
+|14|[pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog)|Educational blog posts for Rust beginners|4000|6|2021-12-31|
 |15|[bnjbvr/rouille](https://github.com/bnjbvr/rouille)|Rust programming, in French.|760|6|2022-01-07|
 |16|[wubx/rust-in-databend](https://github.com/wubx/rust-in-databend)|Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend|612|5|2021-12-29|
 |17|[LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)|A tiling window manager for Windows|525|3|2022-01-17|
-|18|[BurntSushi/xsv](https://github.com/BurntSushi/xsv)|A fast CSV command line toolkit written in Rust.|7896|3|2021-08-24|
+|18|[BurntSushi/xsv](https://github.com/BurntSushi/xsv)|A fast CSV command line toolkit written in Rust.|7899|3|2021-08-24|
 |19|[async-graphql/async-graphql](https://github.com/async-graphql/async-graphql)|A GraphQL server library implemented in Rust|2049|3|2022-01-18|
 |20|[quickwit-inc/tantivy](https://github.com/quickwit-inc/tantivy)|Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust|5790|3|2022-01-18|
 |21|[rcore-os/rCore](https://github.com/rcore-os/rCore)|Rust version of THU uCore OS. Linux compatible.|2225|2|2021-09-23|
-|22|[XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)|Count your code, quickly.|6072|2|2022-01-01|
+|22|[XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)|Count your code, quickly.|6074|2|2022-01-01|
 |23|[rcore-os/zCore](https://github.com/rcore-os/zCore)|Reimplement Zircon microkernel in Rust.|1205|2|2022-01-10|
 |24|[Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow)|将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart|334|2|2022-01-11|
 |25|[wormtql/yas](https://github.com/wormtql/yas)|Superfast Genshin Impact artifacts scanner|204|2|2022-01-18|

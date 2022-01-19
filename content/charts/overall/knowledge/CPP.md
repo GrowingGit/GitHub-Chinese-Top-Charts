@@ -5,18 +5,18 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[huihut/interview](https://github.com/huihut/interview)|📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu ...|21952|2022-01-10|
-|2|[Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)|C++那些事|17955|2022-01-13|
+|1|[huihut/interview](https://github.com/huihut/interview)|📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu ...|21956|2022-01-10|
+|2|[Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)|C++那些事|17961|2022-01-13|
 |3|[ChenYilong/iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)|iOS interview questions;iOS面试题集锦（附答案）--学习qq群或 Telegram 群交流 https://github.com/ChenYilong/iOSBlog/issues/21|8903|2021-12-06|
-|4|[wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)|中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)|5824|2021-12-28|
+|4|[wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)|中文的C++ Template的教学指南。与知名书籍C++ Templates不同，该系列教程将C++ Templates作为一门图灵完备的语言来讲授，以求帮助读者对Meta-Programming融会贯通。(正在施工中)|5826|2021-12-28|
 |5|[xtaci/algorithms](https://github.com/xtaci/algorithms)|Algorithms & Data structures in C++.|4335|2021-10-11|
 |6|[forhappy/Cplusplus-Concurrency-In-Practice](https://github.com/forhappy/Cplusplus-Concurrency-In-Practice)|A Detailed Cplusplus Concurrency Tutorial 《C++ 并发编程指南》|3836|2021-07-25|
 |7|[applenob/Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)|搞定C++:punch:。C++ Primer 中文版第5版学习仓库，包括笔记和课后练习答案。|3440|2021-11-28|
-|8|[gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2)|edition 2 of the slambook|2469|2021-12-21|
+|8|[gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2)|edition 2 of the slambook|2470|2021-12-21|
 |9|[ffffffff0x/1earn](https://github.com/ffffffff0x/1earn)|ffffffff0x 团队维护的安全知识框架,内容包括不仅限于 web安全、工控安全、取证、应急、蓝队设施部署、后渗透、Linux安全、各类靶机writup|2467|2022-01-03|
 |10|[liuyubobobo/Play-Leetcode](https://github.com/liuyubobobo/Play-Leetcode)|My Solutions to Leetcode problems. All solutions support C++ language, some support Java and Python. Multiple solutions will be given by most problems. Enjoy:) 我的Leetcode解答。所有的问题都支持C++语言，一部分问题支持Java语言 ...|2231|2022-01-17|
-|11|[km1994/nlp_paper_study](https://github.com/km1994/nlp_paper_study)|研读顶会论文，复现论文相关代码|2022|2022-01-17|
-|12|[19PDP/Bilibili-plus](https://github.com/19PDP/Bilibili-plus)|课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB|2002|2022-01-11|
+|11|[km1994/nlp_paper_study](https://github.com/km1994/nlp_paper_study)|研读顶会论文，复现论文相关代码|2023|2022-01-17|
+|12|[19PDP/Bilibili-plus](https://github.com/19PDP/Bilibili-plus)|课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB|2004|2022-01-11|
 |13|[CodePanda66/CSPostgraduate-408](https://github.com/CodePanda66/CSPostgraduate-408)|💯  CSPostgraduate 计算机考研 408 专业课资料及真题资源|1871|2022-01-14|
 |14|[callmePicacho/Data-Structres](https://github.com/callmePicacho/Data-Structres)|浙江大学《数据结构》上课笔记 + 数据结构实现 + 课后题题解|1661|2021-08-17|
 |15|[lightvector/KataGo](https://github.com/lightvector/KataGo)|GTP engine and self-play learning in Go|1500|2022-01-03|
@@ -24,10 +24,10 @@
 |17|[0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)|2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等|1313|2021-10-21|
 |18|[Tencent/UnLua](https://github.com/Tencent/UnLua)|A feature-rich, easy-learning and highly optimized Lua scripting plugin for UE.|1251|2022-01-17|
 |19|[HarleysZhang/2021_algorithm_intern_information](https://github.com/HarleysZhang/2021_algorithm_intern_information)|2021年的算法实习岗位/校招公司信息表，和常见深度学习基础、计算机视觉知识笔记、算法岗面试题答案，及暑期计算机视觉实习面经和总结。|1244|2021-10-23|
-|20|[SFUMECJF/cmake-examples-Chinese](https://github.com/SFUMECJF/cmake-examples-Chinese)|快速入门CMake,通过例程学习语法。在线阅读地址：https://sfumecjf.github.io/cmake-examples-Chinese/|1214|2022-01-08|
+|20|[SFUMECJF/cmake-examples-Chinese](https://github.com/SFUMECJF/cmake-examples-Chinese)|快速入门CMake,通过例程学习语法。在线阅读地址：https://sfumecjf.github.io/cmake-examples-Chinese/|1215|2022-01-08|
 |21|[netwarm007/GameEngineFromScratch](https://github.com/netwarm007/GameEngineFromScratch)|配合我的知乎专栏写的项目|1147|2021-11-29|
 |22|[hao14293/2021-Postgraduate-408](https://github.com/hao14293/2021-Postgraduate-408)|💯✍备考2021年研究生-408 |1040|2022-01-05|
-|23|[zufuliu/notepad2](https://github.com/zufuliu/notepad2)|Notepad2-zufuliu is a light-weight Scintilla-based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for about 80 programming languages/documents, bundled wi ...|982|2022-01-17|
+|23|[zufuliu/notepad2](https://github.com/zufuliu/notepad2)|Notepad2-zufuliu is a light-weight Scintilla-based text editor for Windows with syntax highlighting, code folding, auto-completion and API list for about 80 programming languages/documents, bundled wi ...|983|2022-01-19|
 |24|[xmuli/QtExamples](https://github.com/xmuli/QtExamples)|Qt 的 GUI 控件使用和网络；DTK 重绘控件方式的框架架构解析；Qt 原理/运行机制理解；QtCrator 使用和一些小技巧；系列文章教程|973|2021-10-09|
 |25|[tkchu/Game-Programming-Patterns-CN](https://github.com/tkchu/Game-Programming-Patterns-CN)|《游戏编程模式》中文版|944|2022-01-07|
 |26|[yanyiwu/simhash](https://github.com/yanyiwu/simhash)|中文文档simhash值计算|939|2022-01-09|
@@ -47,12 +47,12 @@
 |40|[HuangCongQing/pcl-learning](https://github.com/HuangCongQing/pcl-learning)|🔥PCL（Point Cloud Library）点云库学习记录|401|2021-09-10|
 |41|[ethan-li-coding/PatchMatchStereo](https://github.com/ethan-li-coding/PatchMatchStereo)|PatchMatchStereo，倾斜窗口经典，效果极佳，OpenMVS&Colmap稠密匹配算法。完整实现，代码规范，注释清晰，博客教学，欢迎star！|371|2021-12-29|
 |42|[LiveStockShapeAnalysis/Point-Cloud-Processing-example](https://github.com/LiveStockShapeAnalysis/Point-Cloud-Processing-example)|点云库PCL从入门到精通 书中配套案例|356|2021-09-04|
-|43|[0voice/introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual)|一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。|348|2021-12-15|
+|43|[0voice/introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual)|一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。|350|2021-12-15|
 |44|[limbo018/DREAMPlace](https://github.com/limbo018/DREAMPlace)|Deep learning toolkit-enabled VLSI placement|300|2021-12-28|
 |45|[TJ-CSCCG/TJCS-Course](https://github.com/TJ-CSCCG/TJCS-Course)|:bulb: 同济大学计算机科学与技术、信息安全专业课程资源共享仓库。含部分科目介绍、报告模板、实验工具等内容。期待更多课程加入……|290|2022-01-15|
 |46|[AZE98/CQUPT-Study-Data](https://github.com/AZE98/CQUPT-Study-Data)|在重邮本科阶段积累的实验报告、PPT等课程资料及课外学习资料。|283|2021-08-15|
-|47|[yuesong-feng/30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)|30天自制C++服务器，包含教程和源代码|228|2022-01-13|
-|48|[vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader)|下载B站 视频（投稿视频、番剧、电影、课程）、直播、漫画。（使用 Qt C++ 开发）|226|2022-01-17|
+|47|[vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader)|下载B站 视频（投稿视频、番剧、电影、课程）、直播、漫画。（使用 Qt C++ 开发）|237|2022-01-17|
+|48|[yuesong-feng/30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)|30天自制C++服务器，包含教程和源代码|228|2022-01-13|
 |49|[AllentDan/LibtorchTutorials](https://github.com/AllentDan/LibtorchTutorials)|This is a code repository for pytorch c++ (or libtorch) tutorial.|220|2021-11-02|
 |50|[lilinxiong/cppPrimerPlus-six-](https://github.com/lilinxiong/cppPrimerPlus-six-)|C++PrimerPlus(第6版)中文版源码|215|2021-12-31|
 |51|[adah1972/nvwa](https://github.com/adah1972/nvwa)|My small collection of C++ utilities|197|2022-01-11|
@@ -64,13 +64,13 @@
 |57|[muluoleiguo/interview](https://github.com/muluoleiguo/interview)|linux C++ 服务器/后台开发 秋招整理资料 |166|2021-11-07|
 |58|[AgoraIO/API-Examples](https://github.com/AgoraIO/API-Examples)|Play with AgoraSDK and have fun! Everything you need to start learning Agora.|159|2022-01-18|
 |59|[keyou/chromium_demo](https://github.com/keyou/chromium_demo)|A series of demos to show how chromium is constructed.|151|2021-09-23|
-|60|[rongweihe/CPPNotes](https://github.com/rongweihe/CPPNotes)|【C++ 面试 + C++ 学习指南】 一份涵盖大部分 C++ 程序员所需要掌握的核心知识。|150|2022-01-03|
+|60|[rongweihe/CPPNotes](https://github.com/rongweihe/CPPNotes)|【C++ 面试 + C++ 学习指南】 一份涵盖大部分 C++ 程序员所需要掌握的核心知识。|151|2022-01-03|
 |61|[GoatGirl98/Walkthrough-of-ACCoding-in-BUAA](https://github.com/GoatGirl98/Walkthrough-of-ACCoding-in-BUAA)|北航OJ通关攻略，包括北航软件学院的在线评测网站（OJ）——AC编程（accoding.cn）开放课程的全部题解|148|2022-01-18|
 |62|[gongluck/AnalysisAVP](https://github.com/gongluck/AnalysisAVP)|音视频学习，相关文件格式/协议分析，框架学习等。yuv h264 aac flv mp4 rtmp；libyuv x264 openh264 faac faad2 fdk-aac librtmp ffmpeg sdl2 webrtc；android ios capture videotoolbox；|144|2022-01-16|
 |63|[metaphysis/Code](https://github.com/metaphysis/Code)|Solutions for UVa Online Judge and Programming Challeges. Sample code in my Book.|136|2021-12-29|
 |64|[WifWaf/MH-Z19](https://github.com/WifWaf/MH-Z19)|For Arduino Boards (&ESP32). Additional Examples/Commands., Hardware/Software Serial|134|2022-01-11|
-|65|[ThisisGame/makegameengineatnight](https://github.com/ThisisGame/makegameengineatnight)|游戏引擎入门教程|124|2022-01-18|
-|66|[BenedictYoung/Lecture](https://github.com/BenedictYoung/Lecture)|王道考研机试指南(第二版) 例题代码|124|2022-01-07|
+|65|[BenedictYoung/Lecture](https://github.com/BenedictYoung/Lecture)|王道考研机试指南(第二版) 例题代码|125|2022-01-07|
+|66|[ThisisGame/makegameengineatnight](https://github.com/ThisisGame/makegameengineatnight)|游戏引擎入门教程|124|2022-01-18|
 |67|[jiangzc/CuteTranslation](https://github.com/jiangzc/CuteTranslation)|Linux屏幕取词翻译软件|124|2021-09-11|
 |68|[Lartu/ldpl](https://github.com/Lartu/ldpl)|Compiled programming language for Unix systems, inspired by COBOL and designed to be expressive, fast, readable and easy to learn.|123|2022-01-16|
 |69|[MinerProxy/WiseNoDevFee](https://github.com/MinerProxy/WiseNoDevFee)|Ethereum NoDevFee: Support for GMiner, Phoenix Miner, Claymore, NBMiner, lolMiner, TeamRedMiner,T-Rex Miner, miniZ/老矿工以太坊反抽水软件，支持大多数主流内核和主流币种(eth, rvn,ergo,cfx等)，仅供内部参考学习|120|2021-11-09|

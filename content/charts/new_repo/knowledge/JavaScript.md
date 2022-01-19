@@ -5,13 +5,13 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com)|Learn RegEx step by step, from zero to advanced.|1396|2022-01-17|2021-08-28|
+|1|[aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com)|Learn RegEx step by step, from zero to advanced.|1399|2022-01-17|2021-08-28|
 |2|[TechXueXi/techxuexi-js](https://github.com/TechXueXi/techxuexi-js)|油猴等插件的 学习强国 js 代码 45分/天|821|2022-01-17|2021-10-11|
 |3|[huaize2020/awesome-nodejs](https://github.com/huaize2020/awesome-nodejs)|Node.js 资源大全中文版。An awesome Node.js packages and resources|791|2022-01-10|2021-04-13|
-|4|[RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021)|RustMagazine 2021 期刊|727|2022-01-17|2021-01-21|
+|4|[RustMagazine/rust_magazine_2021](https://github.com/RustMagazine/rust_magazine_2021)|RustMagazine 2021 期刊|728|2022-01-17|2021-01-21|
 |5|[lukesyy/jd_yun](https://github.com/lukesyy/jd_yun)|京东合集-----腾讯云函数|516|2022-01-18|2021-06-11|
 |6|[Rust-Coding-Guidelines/rust-coding-guidelines-zh](https://github.com/Rust-Coding-Guidelines/rust-coding-guidelines-zh)|Rust 编码规范 中文版 （非官方）|449|2022-01-18|2021-04-02|
-|7|[dundunnp/hamibot-auto_xuexiqiangguo](https://github.com/dundunnp/hamibot-auto_xuexiqiangguo)|每日拿63分(满63分)！所有模块均可自动完成，包括订阅与发表言论，免root，四人赛双人对战秒答，基于Hamibot的安卓端学习强国自动化脚本|377|2022-01-18|2021-11-24|
+|7|[dundunnp/hamibot-auto_xuexiqiangguo](https://github.com/dundunnp/hamibot-auto_xuexiqiangguo)|每日拿63分(满63分)！所有模块均可自动完成，包括订阅与发表言论，免root，四人赛双人对战秒答，基于Hamibot的安卓端学习强国自动化脚本|377|2022-01-19|2021-11-24|
 |8|[Tsukasa007/my_script](https://github.com/Tsukasa007/my_script)|學習自動化|329|2022-01-17|2021-06-28|
 |9|[gys619/jdd](https://github.com/gys619/jdd)|自用的jd(京东)脚本合集|294|2022-01-18|2021-09-02|
 |10|[QuarkGluonPlasma/babel-plugin-exercize](https://github.com/QuarkGluonPlasma/babel-plugin-exercize)|小册《babel插件通关秘籍》实战案例代码|278|2021-09-13|2021-04-04|

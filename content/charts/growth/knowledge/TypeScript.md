@@ -7,8 +7,8 @@
 |:-|:-|:-|:-|:-|:-|
 |1|[Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|3645|10|2022-01-13|
 |2|[chowa/ejyy](https://github.com/chowa/ejyy)|「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。|552|8|2022-01-17|
-|3|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16422|7|2022-01-17|
-|4|[antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)|🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥|5278|7|2022-01-17|
+|3|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16423|7|2022-01-17|
+|4|[antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)|🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥|5279|7|2022-01-17|
 |5|[cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue)|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|4056|7|2022-01-14|
 |6|[doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn)|🇨🇳 《JavaScript 二十年》中文版|3711|6|2021-11-25|
 |7|[xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8506|4|2021-12-09|

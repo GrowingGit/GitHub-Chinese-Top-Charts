@@ -6,16 +6,16 @@
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|16659|2021-10-18|
-|2|[iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next)|Elegant theme for Hexo. |15738|2021-11-06|
+|2|[iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next)|Elegant theme for Hexo. |15739|2021-11-06|
 |3|[chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration)|CSS Inspiration，在这里找到写 CSS 的灵感！|7601|2021-10-22|
-|4|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|7353|2022-01-14|
+|4|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|7355|2022-01-14|
 |5|[Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words)|程序员工作中常见的英语词汇|4741|2022-01-02|
 |6|[ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control)|一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.|3523|2022-01-10|
 |7|[LiangJunrong/document-library](https://github.com/LiangJunrong/document-library)|jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……|3315|2022-01-17|
 |8|[jbtronics/CrookedStyleSheets](https://github.com/jbtronics/CrookedStyleSheets)|Webpage tracking only using CSS (and no JS)|3270|2021-08-23|
 |9|[missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)|the CS missing semester Chinese version|3241|2021-11-10|
 |10|[WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io)|❤️静态响应式网址导航网站 - webstack.cc|3134|2021-12-09|
-|11|[kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)|🕶️ Awesome stuff for Obsidian|2282|2022-01-15|
+|11|[kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)|🕶️ Awesome stuff for Obsidian|2285|2022-01-15|
 |12|[emacs-china/Spacemacs-rocks](https://github.com/emacs-china/Spacemacs-rocks)|Happy Hacking Emacs & Spacemacs (Simplified Chinese)|2009|2022-01-18|
 |13|[abc-club/js-paradise](https://github.com/abc-club/js-paradise)|前端乐园|1787|2022-01-17|
 |14|[nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor)|📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。|1679|2021-10-05|

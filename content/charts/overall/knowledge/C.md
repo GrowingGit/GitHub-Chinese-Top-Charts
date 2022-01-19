@@ -5,14 +5,14 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[nonstriater/Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)|算法学习笔记|6270|2021-12-23|
+|1|[nonstriater/Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)|算法学习笔记|6271|2021-12-23|
 |2|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|5611|2022-01-08|
 |3|[ming1016/study](https://github.com/ming1016/study)|学习记录|3686|2022-01-06|
-|4|[xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid)|android端基于FFmpeg实现音频剪切、拼接、转码、混音、均衡器音效；视频剪切、水印、截图、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；FFmpeg滤镜，歌词解析，音视频学习路线，音视频知识总结、流媒体协议|2923|2022-01-15|
+|4|[xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid)|android端基于FFmpeg实现音频剪切、拼接、转码、混音、均衡器音效；视频剪切、水印、截图、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；FFmpeg滤镜，歌词解析，音视频学习路线，音视频知识总结、流媒体协议|2924|2022-01-15|
 |5|[firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One)|CTF竞赛权威指南|2837|2021-12-29|
-|6|[Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub)|:palm_tree:Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集) |1663|2022-01-18|
-|7|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|1358|2022-01-18|
-|8|[yianwillis/vimcdoc](https://github.com/yianwillis/vimcdoc)|Vim 中文文档计划|1229|2021-08-23|
+|6|[Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub)|:palm_tree:Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集) |1664|2022-01-19|
+|7|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|1359|2022-01-18|
+|8|[yianwillis/vimcdoc](https://github.com/yianwillis/vimcdoc)|Vim 中文文档计划|1230|2021-08-23|
 |9|[armink/FreeModbus_Slave-Master-RTT-STM32](https://github.com/armink/FreeModbus_Slave-Master-RTT-STM32)|Add master mode to FreeModbus.   在 FreeModbus 中添加主机模式|1015|2022-01-07|
 |10|[wuzhouhui/misc](https://github.com/wuzhouhui/misc)|学习与工作中收集的一些资料|682|2022-01-03|
 |11|[FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit)|iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结|638|2021-12-19|
@@ -31,22 +31,22 @@
 |24|[0voice/ffmpeg_develop_doc](https://github.com/0voice/ffmpeg_develop_doc)|2022年，最新ffmpeg资料整理，项目（调试可用），命令手册，文章，编解码论文，视频讲解，面试题全套资料|265|2022-01-15|
 |25|[deepwzh/sdust-examination-materials](https://github.com/deepwzh/sdust-examination-materials)|山东科技大学课程资源共享计划|231|2021-10-06|
 |26|[Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt)|Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.|219|2021-12-03|
-|27|[nevermosby/linux-bpf-learning](https://github.com/nevermosby/linux-bpf-learning)|learn how to use BPF/eBPF|216|2022-01-13|
+|27|[nevermosby/linux-bpf-learning](https://github.com/nevermosby/linux-bpf-learning)|learn how to use BPF/eBPF|217|2022-01-13|
 |28|[XeiTongXueFlyMe/J1939](https://github.com/XeiTongXueFlyMe/J1939)|基于SAE J1939协议，开源可移植的J1939驱动。技术支持群： 264864184       @使用说明书：|197|2021-08-05|
 |29|[Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)|LilyGo LoRa Series examples|193|2022-01-13|
 |30|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|172|2021-12-27|
 |31|[xieyu/blog](https://github.com/xieyu/blog)|notes on papers/books/codes|170|2021-11-30|
 |32|[kuangyufei/kernel_liteos_a_note](https://github.com/kuangyufei/kernel_liteos_a_note)|精读鸿蒙内核源码,百万汉字注解分析;百篇博客深入解剖,挖透内核地基工程.注解同步官方,工具文档齐全,多站点发布 . weharmonyos.com|164|2022-01-18|
 |33|[alejoseb/Modbus-STM32-HAL-FreeRTOS](https://github.com/alejoseb/Modbus-STM32-HAL-FreeRTOS)|Modbus TCP and  RTU,  Master and Slave for STM32 using Cube HAL and FreeRTOS|163|2021-11-19|
-|34|[mrpre/atls](https://github.com/mrpre/atls)|A light TLS implementation used for learning: TLS 1.0 TLS 1.1 TLS 1.2 TLS 1.3 GMSSL 1.1(国密SSL) based on libcrypto.so.|154|2021-11-11|
+|34|[mrpre/atls](https://github.com/mrpre/atls)|A light TLS implementation used for learning: TLS 1.0 TLS 1.1 TLS 1.2 TLS 1.3 GMSSL 1.1(国密SSL) based on libcrypto.so.|155|2021-11-11|
 |35|[DJI-Mobile-SDK-Tutorials/Android-VideoStreamDecodingSample](https://github.com/DJI-Mobile-SDK-Tutorials/Android-VideoStreamDecodingSample)|This sample project demonstrates how to use FFmpeg for video frame parsing and to use MediaCodec for hardware decoding on DJI Products.|144|2021-12-17|
 |36|[r0ysue/AndroidFridaBeginnersBook](https://github.com/r0ysue/AndroidFridaBeginnersBook)|《安卓Frida逆向与抓包实战》随书附件|135|2021-10-15|
 |37|[balloonwj/mybooksources](https://github.com/balloonwj/mybooksources)|《C++ 服务器开发精髓》随书配套源码|135|2021-09-01|
 |38|[Lighter-z/51-Single-chip](https://github.com/Lighter-z/51-Single-chip)|51单片机入门资料|129|2021-08-15|
 |39|[leleliu008/C](https://github.com/leleliu008/C)|C语言学习项目|120|2021-12-08|
 |40|[LookCos/learn-data-structures](https://github.com/LookCos/learn-data-structures)|数据结构（C语言描述）学习笔记|119|2022-01-03|
-|41|[hexhacking/xUnwind](https://github.com/hexhacking/xUnwind)|xUnwind is a collection of Android native stack unwinding solutions.|99|2021-12-29|
-|42|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|89|2021-12-10|
+|41|[hexhacking/xUnwind](https://github.com/hexhacking/xUnwind)|xUnwind is a collection of Android native stack unwinding solutions.|100|2021-12-29|
+|42|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|90|2021-12-10|
 |43|[bouffalolab/bl_mcu_sdk](https://github.com/bouffalolab/bl_mcu_sdk)|bl_mcu_sdk is MCU software development kit provided by Bouffalo Lab Team for BL602/BL604, BL702/BL704/BL706 and other series of  RISC-V based chips in the future.|77|2022-01-13|
 |44|[rqycpp/socket](https://github.com/rqycpp/socket)|《Linux/UNIX网络编程》习题答案&重点归纳|66|2021-07-23|
 |45|[Mushroom0709/ffmpeg_demo](https://github.com/Mushroom0709/ffmpeg_demo)|记录学习ffmpeg的过程中编写的demo|60|2021-07-30|

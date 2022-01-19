@@ -5,26 +5,26 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[NNNNolan/Ark](https://github.com/NNNNolan/Ark)|诺兰方舟|56|56|2022-01-18|
+|1|[NNNNolan/Ark](https://github.com/NNNNolan/Ark)|诺兰方舟|62|62|2022-01-18|
 |2|[admin360bug/bypass](https://github.com/admin360bug/bypass)|-|667|24|2021-12-23|
 |3|[rubickCenter/rubick](https://github.com/rubickCenter/rubick)|🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。|2547|11|2022-01-17|
 |4|[Tencent/weui](https://github.com/Tencent/weui)|A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.|26082|10|2021-12-10|
 |5|[Ed1s0nZ/cool](https://github.com/Ed1s0nZ/cool)|Golang-Gin 框架写的免杀平台，内置分离、捆绑等多种BypassAV方式。|453|6|2021-11-25|
 |6|[goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn)|The most trusted Go module proxy in China.|5581|5|2021-10-25|
 |7|[hamukazu/lets-get-arrested](https://github.com/hamukazu/lets-get-arrested)|This project is intended to protest against the police in Japan|3805|4|2021-09-16|
-|8|[timb-machine/linux-malware](https://github.com/timb-machine/linux-malware)|Tracking interesting Linux (and UNIX) malware. Send PRs|801|4|2022-01-11|
+|8|[timb-machine/linux-malware](https://github.com/timb-machine/linux-malware)|Tracking interesting Linux (and UNIX) malware. Send PRs|800|4|2022-01-11|
 |9|[Sakura-gh/ML-notes](https://github.com/Sakura-gh/ML-notes)|notes about machine learning|3215|4|2021-11-22|
 |10|[AirtestProject/Airtest](https://github.com/AirtestProject/Airtest)|UI Automation Framework for Games and Apps|5819|4|2021-12-13|
 |11|[kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages)|openwrt常用软件包|2571|4|2022-01-17|
 |12|[electron/electron-api-demos](https://github.com/electron/electron-api-demos)|Explore the Electron APIs|9975|4|2022-01-09|
-|13|[gh0stkey/Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)|Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1|1160|3|2021-10-22|
+|13|[gh0stkey/Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)|Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1|1161|3|2021-10-22|
 |14|[qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php)|An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.|2496|3|2022-01-18|
 |15|[momo0853/kkndme](https://github.com/momo0853/kkndme)|kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。|423|3|2021-12-24|
-|16|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)|Card-style Hugo theme designed for bloggers|1418|3|2022-01-13|
+|16|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)|Card-style Hugo theme designed for bloggers|1420|3|2022-01-19|
 |17|[mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)|:triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.|9168|3|2022-01-18|
 |18|[all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)|✨ Recognize all contributors, not just the ones who push code ✨|5964|3|2022-01-16|
 |19|[zfaka-plus/zfaka](https://github.com/zfaka-plus/zfaka)|免费、安全、稳定、高效的发卡系统，值得拥有!|2961|2|2022-01-15|
-|20|[evmn/Paul-Graham](https://github.com/evmn/Paul-Graham)|Paul Graham's Essays, Kindle version, set several sections for easy navigation|140|2|2021-12-11|
+|20|[evmn/Paul-Graham](https://github.com/evmn/Paul-Graham)|Paul Graham's Essays, Kindle version, set several sections for easy navigation|141|2|2021-12-11|
 |21|[cloudfavorites/favorites-web](https://github.com/cloudfavorites/favorites-web)|云收藏 Spring Boot 2.X 开源项目|4495|2|2022-01-15|
 |22|[yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi)|:tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用|1668|2|2022-01-14|
 |23|[plazum/find-keke](https://github.com/plazum/find-keke)|寻找唐可可|127|2|2022-01-17|
@@ -33,7 +33,7 @@
 |26|[shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD)|-|1002|2|2022-01-02|
 |27|[Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language)|Dism++ Multi-language Support & BUG Report|3622|2|2022-01-04|
 |28|[xxlllq/system_architect](https://github.com/xxlllq/system_architect)|:100:高质量、最全面的2022年系统架构设计师（软考高级）备考资源库。|2508|2|2022-01-18|
-|29|[Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)|My Blog / Jekyll Themes / PWA|6069|2|2022-01-09|
+|29|[Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)|My Blog / Jekyll Themes / PWA|6070|2|2022-01-09|
 |30|[BaizeSec/bylibrary](https://github.com/BaizeSec/bylibrary)|白阁文库是白泽Sec安全团队维护的一个漏洞POC和EXP公开项目|734|2|2022-01-18|
 |31|[mdo/code-guide](https://github.com/mdo/code-guide)|Standards for developing consistent, flexible, and sustainable HTML and CSS.|7790|2|2021-10-01|
 |32|[easychen/not-only-fans](https://github.com/easychen/not-only-fans)|an open source, self-hosted digital content subscription platform like `onlyfans.com`  with  cryptocurrency payment|254|2|2021-08-28|
@@ -50,7 +50,7 @@
 |43|[grangier/python-goose](https://github.com/grangier/python-goose)|Html Content / Article Extractor, web scrapping lib in Python|3749|1|2021-12-26|
 |44|[Krasjet/quaternion](https://github.com/Krasjet/quaternion)|A brief introduction to the quaternions and its applications in 3D geometry.|838|1|2021-09-09|
 |45|[F4bwDP6a6W/FLY_US](https://github.com/F4bwDP6a6W/FLY_US)|美国大学备考资料 How to apply US colleges|1708|1|2021-11-26|
-|46|[JohnYan2017/SmartCharts](https://github.com/JohnYan2017/SmartCharts)|🔥数据可视化,大屏, 支持Echarts,SQL,API,VUE,可用于Jupyter, 比pyecharts容易, 极低门槛,拿来即用,比拖拽方便,项目插件或独立平台皆可, 简单, 敏捷, 高效, 通用化, 高度可定制化,为你完全打通前后端, 图形数据联动, 筛选开发毫无压力, 数据缓存处理机制让报表快人一步|215|1|2022-01-15|
+|46|[JohnYan2017/SmartCharts](https://github.com/JohnYan2017/SmartCharts)|🔥数据可视化,大屏, 支持Echarts,SQL,API,VUE,可用于Jupyter, 比pyecharts容易, 极低门槛,拿来即用,比拖拽方便,项目插件或独立平台皆可, 简单, 敏捷, 高效, 通用化, 高度可定制化,为你完全打通前后端, 图形数据联动, 筛选开发毫无压力, 数据缓存处理机制让报表快人一步|216|1|2022-01-15|
 |47|[aisuda/amis-admin](https://github.com/aisuda/amis-admin)|基于 amis 的后台项目前端模板|893|1|2021-12-21|
 |48|[MassMove/AttackVectors](https://github.com/MassMove/AttackVectors)|A repository to monitor attack vectors from state-backed information operations|389|1|2021-08-28|
 |49|[hua1995116/360-sneakers-viewer](https://github.com/hua1995116/360-sneakers-viewer)|鸿星尔克全景（360°）鞋子展示(包含建模过程)|232|1|2021-09-16|
@@ -58,9 +58,9 @@
 |51|[Alpha-Yang/CS-BAOYAN-2022](https://github.com/Alpha-Yang/CS-BAOYAN-2022)|计算机保研交流群（QQ群号：605176069）|141|1|2022-01-07|
 |52|[HelloGitHub-Team/Article](https://github.com/HelloGitHub-Team/Article)|讲解开源项目系列文章库|1242|1|2021-12-08|
 |53|[tigerneil/awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl)|For deep RL and the future of AI. |1100|1|2021-12-21|
-|54|[Wh0ale/SRC-experience](https://github.com/Wh0ale/SRC-experience)|工欲善其事，必先利其器|1123|1|2021-12-02|
-|55|[tencentyun/qcloud-documents](https://github.com/tencentyun/qcloud-documents)|腾讯云官方文档|1634|1|2022-01-18|
-|56|[xiaolai/apple-computer-literacy](https://github.com/xiaolai/apple-computer-literacy)|个人电脑使用（以苹果产品为例）|153|1|2021-12-26|
+|54|[Wh0ale/SRC-experience](https://github.com/Wh0ale/SRC-experience)|工欲善其事，必先利其器|1124|1|2021-12-02|
+|55|[tencentyun/qcloud-documents](https://github.com/tencentyun/qcloud-documents)|腾讯云官方文档|1634|1|2022-01-19|
+|56|[xiaolai/apple-computer-literacy](https://github.com/xiaolai/apple-computer-literacy)|个人电脑使用（以苹果产品为例）|154|1|2021-12-26|
 |57|[oneStarLR/myblog-mybatis](https://github.com/oneStarLR/myblog-mybatis)|个人博客系统（SpringBoot+Mybatis）|446|1|2021-08-10|
 |58|[niltok/magic-in-ten-mins](https://github.com/niltok/magic-in-ten-mins)|十分钟魔法练习|417|1|2021-12-17|
 |59|[HollowMan6/LZU-Auto-COVID-Health-Report](https://github.com/HollowMan6/LZU-Auto-COVID-Health-Report)|LZU Auto COVID Health Report.(兰州大学疫情期间自动定时健康打卡)|290|1|2021-11-22|
@@ -71,7 +71,7 @@
 |64|[hugo-toha/toha](https://github.com/hugo-toha/toha)|A Hugo theme for personal portfolio|450|1|2022-01-18|
 |65|[ropensci/skimr](https://github.com/ropensci/skimr)|A frictionless, pipeable approach to dealing with summary statistics|981|1|2022-01-18|
 |66|[ecnice/flow](https://github.com/ecnice/flow)|企业级流程中心（基于flowable和bpmn.js封装的流程引擎，采用Springboot，Mybatis-plus, Ehcache, Shiro 等框架技术,前端采用Vue3&Antd，Vben）|286|1|2021-12-28|
-|67|[yzhu798/CodingInterviewsNotes](https://github.com/yzhu798/CodingInterviewsNotes)|涵盖C++ Primer 5th、 effective C++ 、 STL api和demos C++ 基础知识与理论、 智能指针、C++11、 Git教程 Linux命令 Unix操作系统（进程、线程、内存管理、信号）计算机网络、 数据结构（排序、查找）、数据库、、C++对象模型、 设计模式、算法（《剑指offer》、leetcode、lintcode、hihocoder、《王道程序员求职宝典》 ...|1203|1|2022-01-16|
+|67|[yzhu798/CodingInterviewsNotes](https://github.com/yzhu798/CodingInterviewsNotes)|涵盖C++ Primer 5th、 effective C++ 、 STL api和demos C++ 基础知识与理论、 智能指针、C++11、 Git教程 Linux命令 Unix操作系统（进程、线程、内存管理、信号）计算机网络、 数据结构（排序、查找）、数据库、、C++对象模型、 设计模式、算法（《剑指offer》、leetcode、lintcode、hihocoder、《王道程序员求职宝典》 ...|1204|1|2022-01-16|
 |68|[cym1102/nginxWebUI](https://github.com/cym1102/nginxWebUI)|Nginx Web page configuration tool. Use web pages to quickly configure Nginx. Nginx网页管理工具，使用网页来快速配置与管理nginx单机与集群|631|1|2022-01-17|
 |69|[kaityo256/github](https://github.com/kaityo256/github)|GitHub演習|261|1|2021-11-17|
 |70|[wangchucheng/hugo-eureka](https://github.com/wangchucheng/hugo-eureka)|Eureka is a feature-rich and highly customizable Hugo theme.|546|1|2022-01-12|
@@ -79,7 +79,7 @@
 |72|[shaoxiongdu/JVMStudy](https://github.com/shaoxiongdu/JVMStudy)|💊JVM 底层原理解析 |177|1|2021-08-26|
 |73|[ffffffff0x/AboutSecurity](https://github.com/ffffffff0x/AboutSecurity)|Everything for pentest.   用于渗透测试的 payload 和 bypass 字典.|473|1|2022-01-05|
 |74|[SaltyLeo/i-book.in_Archive](https://github.com/SaltyLeo/i-book.in_Archive)|-|654|1|2021-08-03|
-|75|[TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)|朋友圈转发截图生成工具|1388|1|2022-01-05|
+|75|[TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)|朋友圈转发截图生成工具|1393|1|2022-01-05|
 |76|[NLPIR-team/NLPIR](https://github.com/NLPIR-team/NLPIR)|-|3102|1|2021-12-27|
 |77|[JackieTseng/conference_call_for_paper](https://github.com/JackieTseng/conference_call_for_paper)|2021-2022 International Conferences in Artificial Intelligence, Machine Learning, Computer Vision, Data Mining, Natural Language Processing and Robotics|859|1|2021-10-07|
 |78|[TZG-official/Jvav](https://github.com/TZG-official/Jvav)|J v a v 与 您|486|1|2021-10-09|
@@ -94,9 +94,9 @@
 |87|[kawa-yoiko/treasure-hole](https://github.com/kawa-yoiko/treasure-hole)|-|29|1|2021-12-13|
 |88|[onlinemad/5000-lottery](https://github.com/onlinemad/5000-lottery)|振興五倍券加碼券速查|61|1|2021-11-05|
 |89|[wx-chevalier/Awesome-CS-Books-and-Digests](https://github.com/wx-chevalier/Awesome-CS-Books-and-Digests)|:books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀计算机科学与技术 ...|1399|1|2022-01-06|
-|90|[leizongmin/js-xss](https://github.com/leizongmin/js-xss)|Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist|4376|1|2021-12-31|
+|90|[leizongmin/js-xss](https://github.com/leizongmin/js-xss)|Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist|4378|1|2021-12-31|
 |91|[didi/ChineseNLP](https://github.com/didi/ChineseNLP)|Datasets, SOTA results of every fields of Chinese NLP|1466|1|2021-07-21|
-|92|[kubernetes/website](https://github.com/kubernetes/website)|Kubernetes website and documentation repo: |2971|1|2022-01-18|
+|92|[kubernetes/website](https://github.com/kubernetes/website)|Kubernetes website and documentation repo: |2971|1|2022-01-19|
 |93|[NolanHzy/nvjdcdocker](https://github.com/NolanHzy/nvjdcdocker)|-|60|1|2022-01-08|
 |94|[tengshe789/SpringCloud-miaosha](https://github.com/tengshe789/SpringCloud-miaosha)|一个基于spring cloud Greenwich的简单秒杀电子商城项目，适合新人阅读。A simple spring cloud based seckill shopping mall project, suitable for young people to read. It can be used as a paper material for academic defense.|192|0|2022-01-13|
 |95|[wx-chevalier/Spring-Series](https://github.com/wx-chevalier/Spring-Series)|Spring & Spring Boot & Spring Cloud & Alibaba Cloud 微服务与云原生实战|18|0|2021-11-28|
@@ -111,7 +111,7 @@
 |104|[jenkins-zh/jenkins-zh](https://github.com/jenkins-zh/jenkins-zh)|Jenkins 中文社区网站源码|219|0|2022-01-06|
 |105|[2010yhh/springBoot-demos](https://github.com/2010yhh/springBoot-demos)|springBoot-demos基于1.5.x版本|271|0|2022-01-15|
 |106|[QMUI/QMUIDemo_Web](https://github.com/QMUI/QMUIDemo_Web)|QMUI Web 的示例项目及文档|109|0|2022-01-13|
-|107|[tmplink/tmpUI](https://github.com/tmplink/tmpUI)|JavaScript framework written on es6. You can use it to modularize your front-end projects. Only 35kb in size, no other dependencies. Easy to use.|66|0|2022-01-04|
+|107|[tmplink/tmpUI](https://github.com/tmplink/tmpUI)|JavaScript framework written on es6. You can use it to modularize your front-end projects. Only 35kb in size, no other dependencies. Easy to use.|67|0|2022-01-04|
 |108|[Anarion-zuo/AnBlogs](https://github.com/Anarion-zuo/AnBlogs)|All of my published&unpublished blogs|150|0|2022-01-06|
 |109|[sunnankar/wuc-new](https://github.com/sunnankar/wuc-new)|We Use Coins website.|33|0|2021-11-04|
 |110|[xskh2007/NginxAdmin](https://github.com/xskh2007/NginxAdmin)|nginx配置文件管理后台|25|0|2021-12-30|
@@ -130,7 +130,7 @@
 |123|[ekibun/flutter_qjs](https://github.com/ekibun/flutter_qjs)|A quickjs engine for flutter.|70|0|2021-10-03|
 |124|[holylovelqq/vue-unit-test-with-jest](https://github.com/holylovelqq/vue-unit-test-with-jest)|吃透本仓库，变身vue项目单体测试大神|414|0|2022-01-15|
 |125|[mendax1234/ThinkpadX390-Opencore-EFI](https://github.com/mendax1234/ThinkpadX390-Opencore-EFI)|macOS Catalina & Big Sur on ThinkPad X390 (Hackintosh)|31|0|2021-11-15|
-|126|[LKI/lki.github.io](https://github.com/LKI/lki.github.io)|My blog, with memes in issues and TILs in README.|149|0|2022-01-17|
+|126|[LKI/lki.github.io](https://github.com/LKI/lki.github.io)|My blog, with memes in issues and TILs in README.|150|0|2022-01-17|
 |127|[sunmouren/sunmouren](https://github.com/sunmouren/sunmouren)|一个可以发布文章、修改文章、喜欢文章、粉丝系统、评论、回复、点赞评论、关注人的动态的Django项目。|22|0|2022-01-13|
 |128|[aoaostar/aliyundrive_uploader_for_baota](https://github.com/aoaostar/aliyundrive_uploader_for_baota)|阿里云盘上传宝塔插件|40|0|2021-09-24|
 |129|[tc39/proposal-intl-locale-info](https://github.com/tc39/proposal-intl-locale-info)|An API to expose information of locale, such as week data ( first day of a week, weekend start, weekend end), hour cycle, measurement system, commonly used calendar, etc.|22|0|2021-12-15|

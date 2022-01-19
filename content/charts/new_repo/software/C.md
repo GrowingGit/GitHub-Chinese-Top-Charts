@@ -6,12 +6,12 @@
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot)|我的超迷你机械臂机器人项目。|5699|2022-01-18|2021-10-07|
-|2|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|5599|2022-01-18|2021-11-06|
+|2|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|5662|2022-01-18|2021-11-06|
 |3|[peng-zhihui/Peak](https://github.com/peng-zhihui/Peak)|Tiny Mobile Terminal Device Kit.|1037|2021-10-15|2021-10-10|
 |4|[bytedance/bhook](https://github.com/bytedance/bhook)|🔥 ByteHook(aka bhook) is a PLT hook framework for Android app.|964|2021-12-27|2021-08-11|
-|5|[alibaba/xquic](https://github.com/alibaba/xquic)|-|854|2022-01-17|2021-11-05|
+|5|[alibaba/xquic](https://github.com/alibaba/xquic)|-|855|2022-01-17|2021-11-05|
 |6|[bytedance/memory-leak-detector](https://github.com/bytedance/memory-leak-detector)|-|629|2022-01-04|2021-04-14|
-|7|[peng-zhihui/OpenHeat](https://github.com/peng-zhihui/OpenHeat)|-|548|2021-12-16|2021-09-05|
+|7|[peng-zhihui/OpenHeat](https://github.com/peng-zhihui/OpenHeat)|-|549|2021-12-16|2021-09-05|
 |8|[joyycom/VNN](https://github.com/joyycom/VNN)|VNN是由欢聚集团(Joyy Inc.)推出的高性能、轻量级神经网络部署框架。目前已为Hago、VOO、VFly、马克相机等App提供20余种AI能力的支持，覆盖直播、短视频、视频编辑等泛娱乐场景和工程场景|512|2022-01-17|2021-12-07|
 |9|[yitter/IdGenerator](https://github.com/yitter/IdGenerator)|💎迄今为止最全面的分布式主键ID生成器。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/SQL 等多语言，且提供 PHP 扩展及 Python、Node.js、Ruby 多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯 ...|475|2022-01-01|2021-03-13|
 |10|[hydromisc/hydromisc](https://github.com/hydromisc/hydromisc)|Open hardware to measure EC and pH, drive pumps, and otherwise manage a mid-size hydroponic grow over Wi-Fi.|457|2022-01-03|2021-06-28|
@@ -37,7 +37,7 @@
 |30|[alibaba/TairHash](https://github.com/alibaba/TairHash)|A redis module, similar to redis hash, but you can set expiration and version for field|125|2022-01-14|2021-02-25|
 |31|[archeryue/cpc](https://github.com/archeryue/cpc)|建党 100 周年！写一个名为 CPC 的 C 编译器，为党庆生！|117|2021-09-15|2021-07-01|
 |32|[yhnu/op7t](https://github.com/yhnu/op7t)|oneplus 7t 自定义内核(for 安卓逆向/外挂分析)|108|2021-11-26|2021-09-06|
-|33|[Harry-hhj/CVRM2021-sjtu](https://github.com/Harry-hhj/CVRM2021-sjtu)|2021赛季交龙哨兵代码开源|107|2021-10-09|2021-08-31|
+|33|[Harry-hhj/CVRM2021-sjtu](https://github.com/Harry-hhj/CVRM2021-sjtu)|2021赛季交龙哨兵代码开源|108|2021-10-09|2021-08-31|
 |34|[NoOne-hub/Beacon.dll](https://github.com/NoOne-hub/Beacon.dll)|Beacon.dll reverse|107|2021-09-05|2021-08-20|
 |35|[AttackTeamFamily/cobaltstrike-bof-toolset](https://github.com/AttackTeamFamily/cobaltstrike-bof-toolset)|在cobaltstrike中使用的bof工具集，收集整理验证好用的bof。|101|2021-11-08|2021-07-30|
 |36|[wangyuntao/linux-kernel-illustrated](https://github.com/wangyuntao/linux-kernel-illustrated)|Illustrate linux kernel with diagrams|99|2021-09-07|2021-01-28|
@@ -46,8 +46,8 @@
 |39|[cdians/FastChia](https://github.com/cdians/FastChia)|Chia奇亚 plot(P盘)快速一键化工具|91|2021-07-28|2021-05-04|
 |40|[zwluoqi/mobile-visual-shader-editor](https://github.com/zwluoqi/mobile-visual-shader-editor)|一款跨平台着色器编辑工具|87|2021-10-10|2021-09-14|
 |41|[Core-2-Extreme/Video_player_for_3DS](https://github.com/Core-2-Extreme/Video_player_for_3DS)|Video player for 3ds|87|2022-01-09|2021-04-02|
-|42|[YeeZTech/YeeZ-Privacy-Computing](https://github.com/YeeZTech/YeeZ-Privacy-Computing)|Fidelius - YeeZ Privacy Computing|83|2021-12-23|2021-03-22|
-|43|[kenzok8/small-package](https://github.com/kenzok8/small-package)|自动同步更新上游库软件|82|2022-01-18|2021-09-05|
+|42|[YeeZTech/YeeZ-Privacy-Computing](https://github.com/YeeZTech/YeeZ-Privacy-Computing)|Fidelius - YeeZ Privacy Computing|84|2021-12-23|2021-03-22|
+|43|[kenzok8/small-package](https://github.com/kenzok8/small-package)|自动同步更新上游库软件|82|2022-01-19|2021-09-05|
 |44|[o8oo8o/GoWebSSH](https://github.com/o8oo8o/GoWebSSH)|功能强大，Go 实现的一个WebSSH，支持文件上传下载|80|2021-12-12|2021-05-09|
 |45|[rev1si0n/bxxt](https://github.com/rev1si0n/bxxt)|安卓 BOOT.IMG/RECOVERY.IMG/SELINUX/PROPERTY 实用工具，启动镜像编辑解包打包，selinux 修改，ro 属性修改。|70|2021-09-25|2021-03-27|
 |46|[alibaba/TairString](https://github.com/alibaba/TairString)|A redis module, similar to redis string, but you can set expire and version for the value. It also provides many very useful commands, such as cas/cad, etc.|70|2022-01-17|2021-02-25|
@@ -64,8 +64,8 @@
 |57|[mycve/bypassAV](https://github.com/mycve/bypassAV)|免杀 defender 360 cobalstrike shellcode|50|2021-12-23|2021-12-20|
 |58|[zenaro147/NeoGB-Printer](https://github.com/zenaro147/NeoGB-Printer)|An open-source and standalone Gameboy Printer emulator 100% compatible with  all officially released games (110 in total) that support the accessory. Just print and save the images as BMP|49|2022-01-17|2021-06-30|
 |59|[sunhuiquan/tlpi-learn](https://github.com/sunhuiquan/tlpi-learn)|My notes and solutions for The Linux Programing Interface book (TLPI)《UNIX/LINUX系统编程手册》笔记和解答|48|2021-11-07|2021-04-15|
-|60|[Pangu-Immortal/KeepAlivePerfect](https://github.com/Pangu-Immortal/KeepAlivePerfect)|Android高级保活：Android4.4到Android12.0 完美的保活方案|47|2021-08-26|2021-05-10|
-|61|[KNpTrue/homekit-bridge](https://github.com/KNpTrue/homekit-bridge)|Let any device connect to Apple HomeKit.|47|2022-01-17|2021-03-29|
+|60|[KNpTrue/homekit-bridge](https://github.com/KNpTrue/homekit-bridge)|Let any device connect to Apple HomeKit.|48|2022-01-17|2021-03-29|
+|61|[Pangu-Immortal/KeepAlivePerfect](https://github.com/Pangu-Immortal/KeepAlivePerfect)|Android高级保活：Android4.4到Android12.0 完美的保活方案|47|2021-08-26|2021-05-10|
 |62|[mcuking/wasmc](https://github.com/mcuking/wasmc)|:sparkles:  A WebAssembly interpreter written in C for demonstration|42|2021-08-11|2021-07-17|
 |63|[PaulKlinger/mrna_vaccine_badge](https://github.com/PaulKlinger/mrna_vaccine_badge)|A small badge showing a schematic of an mRNA vaccine nanoparticle and blinking the RNA sequence of the Moderna or Pfizer vaccines.|40|2021-08-16|2021-07-18|
 |64|[WindySha/bypass_dlfunctions](https://github.com/WindySha/bypass_dlfunctions)|This is another way to bypass the restriction of calling dl functions for system lib.|40|2021-08-15|2021-05-09|

@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit)|The PHP Unit Testing framework.|18179|2022-01-16|
+|1|[sebastianbergmann/phpunit](https://github.com/sebastianbergmann/phpunit)|The PHP Unit Testing framework.|18181|2022-01-18|
 |2|[z-song/laravel-admin](https://github.com/z-song/laravel-admin)|Build a full-featured administrative interface in ten minutes|10299|2022-01-06|
 |3|[jupeter/clean-code-php](https://github.com/jupeter/clean-code-php)|:bathtub: Clean Code concepts adapted for PHP|10201|2021-11-27|
 |4|[w7corp/easywechat](https://github.com/w7corp/easywechat)|📦 一个 PHP 微信 SDK|9727|2022-01-17|
@@ -21,19 +21,19 @@
 |14|[cakephp/phinx](https://github.com/cakephp/phinx)|PHP Database Migrations for Everyone|4253|2022-01-16|
 |15|[yansongda/pay](https://github.com/yansongda/pay)|可能是我用过的最优雅的 Alipay 和 WeChat 的支付 SDK 扩展包了|4208|2022-01-18|
 |16|[overtrue/pinyin](https://github.com/overtrue/pinyin)|:cn: 基于词库的中文转拼音优质解决方案|3838|2021-11-30|
-|17|[endroid/qr-code](https://github.com/endroid/qr-code)|QR Code Generator|3557|2022-01-11|
+|17|[endroid/qr-code](https://github.com/endroid/qr-code)|QR Code Generator|3558|2022-01-11|
 |18|[hhxsv5/laravel-s](https://github.com/hhxsv5/laravel-s)|LaravelS is an out-of-the-box adapter between Swoole and Laravel/Lumen.|3498|2022-01-14|
 |19|[zyx0814/dzzoffice](https://github.com/zyx0814/dzzoffice)|dzzoffice|3351|2021-11-05|
 |20|[fex-team/fis](https://github.com/fex-team/fis)|Front-end Integrated Solution - 前端集成解决方案， 最新版请进入 FIS3 https://github.com/fex-team/fis3|2993|2022-01-10|
-|21|[jqhph/dcat-admin](https://github.com/jqhph/dcat-admin)|🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码|2850|2022-01-18|
-|22|[jcc/blog](https://github.com/jcc/blog)|:star2: PJ Blog is an open source blog built with Laravel and Vue.js.|2802|2022-01-15|
+|21|[jqhph/dcat-admin](https://github.com/jqhph/dcat-admin)|🔥 基于 Laravel 的后台系统构建工具 (Laravel Admin)，使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码|2851|2022-01-18|
+|22|[jcc/blog](https://github.com/jcc/blog)|:star2: PJ Blog is an open source blog built with Laravel and Vue.js.|2803|2022-01-15|
 |23|[nuwave/lighthouse](https://github.com/nuwave/lighthouse)|A framework for serving GraphQL from Laravel|2720|2022-01-18|
 |24|[cocur/slugify](https://github.com/cocur/slugify)|Converts a string to a slug. Includes integrations for Symfony, Silex, Laravel, Zend Framework 2, Twig, Nette and Latte.|2709|2022-01-15|
 |25|[teamtnt/tntsearch](https://github.com/teamtnt/tntsearch)|A fully featured full text search engine written in PHP|2707|2021-10-29|
 |26|[overtrue/laravel-wechat](https://github.com/overtrue/laravel-wechat)|微信 SDK for Laravel, 基于 overtrue/wechat|2699|2021-12-03|
 |27|[overtrue/easy-sms](https://github.com/overtrue/easy-sms)|:calling: 一款满足你的多种发送需求的短信发送组件|2663|2022-01-05|
 |28|[antonioribeiro/tracker](https://github.com/antonioribeiro/tracker)|Laravel Stats Tracker|2656|2022-01-18|
-|29|[yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php)|PanDownload网页复刻版|2560|2021-11-15|
+|29|[yuantuo666/baiduwp-php](https://github.com/yuantuo666/baiduwp-php)|PanDownload网页复刻版|2561|2021-11-15|
 |30|[top-think/framework](https://github.com/top-think/framework)|ThinkPHP Framework|2416|2022-01-14|
 |31|[jae-jae/QueryList](https://github.com/jae-jae/QueryList)|:spider: The progressive PHP crawler framework!  优雅的渐进式PHP采集框架。|2400|2021-08-08|
 |32|[assimon/dujiaoka](https://github.com/assimon/dujiaoka)|🦄独角数卡(自动售货系统)-开源式站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉|2281|2022-01-11|
@@ -42,14 +42,14 @@
 |35|[slimkit/plus](https://github.com/slimkit/plus)|💝The Plus (ThinkSNS+) is a powerful, easy-to-develop social system built with Laravel.|2154|2022-01-13|
 |36|[matomo-org/device-detector](https://github.com/matomo-org/device-detector)|The Universal Device Detection library will parse any User Agent and detect the browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), brand and model. |2123|2022-01-17|
 |37|[ARCANEDEV/LogViewer](https://github.com/ARCANEDEV/LogViewer)|:page_with_curl: Provides a log viewer for Laravel|2112|2021-12-25|
-|38|[WangNingkai/OLAINDEX](https://github.com/WangNingkai/OLAINDEX)|✨ Another OneDrive Directory Index|2081|2021-11-29|
+|38|[WangNingkai/OLAINDEX](https://github.com/WangNingkai/OLAINDEX)|✨ Another OneDrive Directory Index|2082|2021-11-29|
 |39|[SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode)|An easy-to-use PHP QrCode generator with first-party support for Laravel.|1941|2021-12-13|
 |40|[zoujingli/ThinkAdmin](https://github.com/zoujingli/ThinkAdmin)|基于 ThinkPHP 基础开发平台（登录账号密码都是 admin ）|1939|2022-01-18|
 |41|[hui-ho/WebStack-Laravel](https://github.com/hui-ho/WebStack-Laravel)|一个开源的网址导航网站项目，您可以拿来制作自己的网址导航。|1923|2021-08-11|
 |42|[Tai7sy/card-system](https://github.com/Tai7sy/card-system)|卡密商城系统，高效安全的在线卡密商城|1922|2022-01-13|
-|43|[solstice23/argon-theme](https://github.com/solstice23/argon-theme)|📖 Argon - 一个轻盈、简洁的 WordPress 主题|1917|2022-01-15|
+|43|[solstice23/argon-theme](https://github.com/solstice23/argon-theme)|📖 Argon - 一个轻盈、简洁的 WordPress 主题|1918|2022-01-15|
 |44|[zhuifengshaonianhanlu/pikachu](https://github.com/zhuifengshaonianhanlu/pikachu)|一个好玩的Web安全-漏洞测试平台|1857|2021-12-21|
-|45|[yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu)|开发内功修炼|1851|2022-01-13|
+|45|[yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu)|开发内功修炼|1852|2022-01-13|
 |46|[gongfuxiang/shopxo](https://github.com/gongfuxiang/shopxo)|ShopXO企业级免费开源商城系统，可视化DIY拖拽装修、包含PC、H5、多端小程序(微信+支付宝+百度+头条&抖音+QQ)、APP、多仓库、多商户，遵循MIT开源协议发布、基于ThinkPHP6框架研发|1819|2022-01-18|
 |47|[mix-php/mix](https://github.com/mix-php/mix)|☄️  PHP CLI mode development framework, supports Swoole, WorkerMan, FPM, CLI-Server / PHP 命令行模式开发框架，支持 Swoole、WorkerMan、FPM、CLI-Server|1758|2022-01-11|
 |48|[mylxsw/wizard](https://github.com/mylxsw/wizard)|Wizard是一款开源的文档管理工具，支持Markdown/Swagger/Table类型的文档。|1757|2022-01-13|
@@ -60,9 +60,9 @@
 |53|[lxerxa/actionview](https://github.com/lxerxa/actionview)|An issue tracking tool based on laravel+reactjs for small and medium-sized enterprises, open-source and free, similar to Jira.|1595|2022-01-05|
 |54|[userfrosting/UserFrosting](https://github.com/userfrosting/UserFrosting)|:doughnut: Modern PHP user login and management framework++.|1549|2022-01-16|
 |55|[zorlan/skycaiji](https://github.com/zorlan/skycaiji)|蓝天采集器是一款免费的数据采集发布爬虫软件，采用php+mysql开发，可部署在云服务器，几乎能采集所有类型的网页，无缝对接各类CMS建站程序，免登录实时发布数据，全自动无需人工干预！是网页大数据采集软件中完全跨平台的云端爬虫系统|1516|2021-09-10|
-|56|[ZsgsDesign/NOJ](https://github.com/ZsgsDesign/NOJ)|⚡ The most advanced open-source automatic algorithm online judge system   南京邮电大学开源 Online Judge   QQ群：668108264|1453|2022-01-15|
+|56|[ZsgsDesign/NOJ](https://github.com/ZsgsDesign/NOJ)|⚡ The most advanced open-source automatic algorithm online judge system   南京邮电大学开源 Online Judge   QQ群：668108264|1453|2022-01-18|
 |57|[coduo/php-humanizer](https://github.com/coduo/php-humanizer)|Humanize values that are readable only for developers.|1453|2021-09-13|
-|58|[mochat-cloud/mochat](https://github.com/mochat-cloud/mochat)|基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!|1436|2021-12-04|
+|58|[mochat-cloud/mochat](https://github.com/mochat-cloud/mochat)|基于企业微信的开源SCRM应用开发框架&引擎，也是一套通用的企业私域流量管理系统!|1441|2021-12-04|
 |59|[yii-starter-kit/yii2-starter-kit](https://github.com/yii-starter-kit/yii2-starter-kit)|Yii2 Starter Kit|1402|2021-10-28|
 |60|[nilsteampassnet/TeamPass](https://github.com/nilsteampassnet/TeamPass)|Collaborative Passwords Manager|1394|2022-01-17|
 |61|[weiboad/kafka-php](https://github.com/weiboad/kafka-php)|kafka php client|1393|2021-09-27|
@@ -89,13 +89,13 @@
 |82|[imiphp/imi](https://github.com/imiphp/imi)|imi 是一款支持长连接微服务分布式的 PHP 开发框架，它可以运行在 PHP-FPM、Swoole、Workerman、RoadRunner 等多种容器环境下。它支持 HttpApi、WebSocket、TCP、UDP、MQTT 服务的开发。特别适合互联网微服务、即时通讯聊天im、物联网等场景！QQ群：17916227|859|2022-01-18|
 |83|[owen0o0/WebStack](https://github.com/owen0o0/WebStack)|WordPress 版 WebStack 导航主题 https://nav.iowen.cn|841|2021-12-20|
 |84|[bixuehujin/blink](https://github.com/bixuehujin/blink)|A high performance web framework and application server in PHP. |837|2022-01-05|
-|85|[easysoft/zentaopms](https://github.com/easysoft/zentaopms)|Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!​|808|2022-01-18|
+|85|[easysoft/zentaopms](https://github.com/easysoft/zentaopms)|Zentao is an agile(scrum) project management system/tool, Free Upgrade Forever!​|808|2022-01-19|
 |86|[zdhxiong/mdclub](https://github.com/zdhxiong/mdclub)|MDClub 社区系统后端代码|802|2021-09-24|
 |87|[yrccondor/mdx](https://github.com/yrccondor/mdx)|MDx - Material Design WordPress Theme|796|2022-01-15|
-|88|[Yurunsoft/PaySDK](https://github.com/Yurunsoft/PaySDK)|PHP 集成支付 SDK ，集成了支付宝、微信支付的支付接口和其它相关接口的操作。支持 php-fpm 和 Swoole，所有框架通用。宇润PHP全家桶技术支持群：17916227|794|2021-12-24|
+|88|[Yurunsoft/PaySDK](https://github.com/Yurunsoft/PaySDK)|PHP 集成支付 SDK ，集成了支付宝、微信支付的支付接口和其它相关接口的操作。支持 php-fpm 和 Swoole，所有框架通用。宇润PHP全家桶技术支持群：17916227|795|2021-12-24|
 |89|[5ime/video_spider](https://github.com/5ime/video_spider)|短视频去水印：抖音,皮皮虾,火山,微视,微博,绿洲,最右,轻视频,快手,全民小视频,巴塞电影,陌陌,Before避风,开眼,Vue Vlog 小咖秀,皮皮搞笑,全民K歌,西瓜视频,逗拍,虎牙,6间房,梨视频,新片场,acfun,美拍...|784|2022-01-07|
 |90|[stefangabos/world_countries](https://github.com/stefangabos/world_countries)|Constantly updated lists of world countries and their associated alpha-2, alpha-3 and numeric country codes as defined by the ISO 3166 standard, available in CSV, JSON , PHP and SQL formats, in multip ...|781|2021-11-23|
-|91|[4x99/code6](https://github.com/4x99/code6)|码小六 - GitHub 代码泄露监控系统|763|2021-11-26|
+|91|[4x99/code6](https://github.com/4x99/code6)|码小六 - GitHub 代码泄露监控系统|764|2021-11-26|
 |92|[5iux/sou](https://github.com/5iux/sou)|简单搜索，一个简单的前端界面。用惯了各种导航首页，满屏幕尽是各种不厌其烦的广告和资讯；尝试自己写个自己的主页。|763|2021-08-02|
 |93|[MenaraSolutions/geographer](https://github.com/MenaraSolutions/geographer)|PHP library that knows how countries and cities are called in any language|737|2021-09-06|
 |94|[0verSp4ce/DoraBox](https://github.com/0verSp4ce/DoraBox)|DoraBox - Basic Web Vulnerability Training |736|2021-12-24|
@@ -116,7 +116,7 @@
 |109|[bettershop/LaikeTui](https://github.com/bettershop/LaikeTui)|来客电商，微信小程序商城 + APP商城 + 公众号商城 + PC商城系统 + 支付宝小程序商城 + 抖音小程序商城 + 百度小程序电商系统（前后端代码全部开源） 注重界面美感与用户体验，打造独特电商系统生态圈|567|2022-01-17|
 |110|[nick-bai/snake](https://github.com/nick-bai/snake)|🚀thinkphp5.1 + layui 实现的带rbac的基础管理后台，方便快速开发法使用|537|2021-11-02|
 |111|[litepress/wp-china-yes](https://github.com/litepress/wp-china-yes)|此插件将你的WordPress接入本土生态体系之中，使之更适合国内应用环境|531|2021-11-01|
-|112|[kalcaddle/kodbox](https://github.com/kalcaddle/kodbox)|kodbox is a file manager for web. It is a newly designed product based on kodexplorer. It is also a web code editor, which allows you to develop websites directly within the web browser.You can run ko ...|516|2022-01-12|
+|112|[kalcaddle/kodbox](https://github.com/kalcaddle/kodbox)|kodbox is a file manager for web. It is a newly designed product based on kodexplorer. It is also a web code editor, which allows you to develop websites directly within the web browser.You can run ko ...|517|2022-01-12|
 |113|[seth-shi/monday-shop](https://github.com/seth-shi/monday-shop)|网上在线商城、综合网上购物平台|515|2022-01-07|
 |114|[jacobcyl/Aliyun-oss-storage](https://github.com/jacobcyl/Aliyun-oss-storage)|阿里云OSS laravel storage Filesystem adapter, 打造Laravel最好的OSS Storage扩展.|513|2021-08-17|
 |115|[ghboke/CorePressWPTheme](https://github.com/ghboke/CorePressWPTheme)|CorePress 主题，一款高性能，高颜值的WordPress主题|506|2021-12-24|
@@ -129,8 +129,8 @@
 |122|[78778443/xssplatform](https://github.com/78778443/xssplatform)|一个经典的XSS渗透管理平台|477|2022-01-05|
 |123|[galnetwen/H-Siren](https://github.com/galnetwen/H-Siren)|WordPress单栏主题，支持全局PJAX，自适应手机端|472|2021-10-05|
 |124|[aliyun/openapi-sdk-php](https://github.com/aliyun/openapi-sdk-php)|Alibaba Cloud SDK for PHP|470|2022-01-18|
-|125|[Zhao-github/ApiAdmin](https://github.com/Zhao-github/ApiAdmin)|基于ThinkPHP V6.*开发的面向API的后台管理系统！|468|2021-10-29|
-|126|[top-think/think-queue](https://github.com/top-think/think-queue)|ThinkPHP 队列支持|468|2022-01-05|
+|125|[top-think/think-queue](https://github.com/top-think/think-queue)|ThinkPHP 队列支持|469|2022-01-05|
+|126|[Zhao-github/ApiAdmin](https://github.com/Zhao-github/ApiAdmin)|基于ThinkPHP V6.*开发的面向API的后台管理系统！|468|2021-10-29|
 |127|[zhongshaofa/easyadmin](https://github.com/zhongshaofa/easyadmin)|框架主要使用ThinkPHP6.0 + layui，拥有完善的权限的管理模块以及敏捷的开发方式，让你开发起来更加的舒服。|461|2021-12-13|
 |128|[Yurunsoft/ChineseUtil](https://github.com/Yurunsoft/ChineseUtil)|PHP 中文工具包，支持汉字转拼音、拼音分词、简繁互转、数字、金额大写；QQ群：17916227|460|2021-10-14|
 |129|[icret/EasyImages2.0](https://github.com/icret/EasyImages2.0)|新版简单强大的无数据库的图床2.0版  演示地址：|455|2022-01-18|
@@ -185,7 +185,7 @@
 |178|[hunzhiwange/queryphp](https://github.com/hunzhiwange/queryphp)|🔥High Performance PHP Progressive Framework.|301|2021-12-26|
 |179|[eddy8/LightCMS](https://github.com/eddy8/LightCMS)|LightCMS 是一个基于 Laravel 开发的轻量级 CMS 系统，也可以作为一个通用的后台管理框架使用。A lightweight cms/admin framework powered by Laravel.|300|2022-01-18|
 |180|[uuk020/logistics](https://github.com/uuk020/logistics)|PHP 多接口获取快递物流信息包|299|2021-12-08|
-|181|[Jiannei/lumen-api-starter](https://github.com/Jiannei/lumen-api-starter)|Lumen 8 基础上扩展出的API 启动项目，精心设计的目录结构，规范统一的响应数据格式，Repository 模式架构的最佳实践。|297|2022-01-13|
+|181|[Jiannei/lumen-api-starter](https://github.com/Jiannei/lumen-api-starter)|Lumen 8 基础上扩展出的API 启动项目，精心设计的目录结构，规范统一的响应数据格式，Repository 模式架构的最佳实践。|297|2022-01-18|
 |182|[txperl/Story-for-Typecho](https://github.com/txperl/Story-for-Typecho)|Typecho Theme Story - 爱上你我的故事|297|2021-09-27|
 |183|[baigoStudio/baigoSSO](https://github.com/baigoStudio/baigoSSO)|单点登录系统|297|2021-10-15|
 |184|[yumusb/autoPicCdn](https://github.com/yumusb/autoPicCdn)|-|296|2021-11-27|
@@ -194,7 +194,7 @@
 |187|[FeMiner/wms](https://github.com/FeMiner/wms)|企业仓库管理系统|282|2021-11-26|
 |188|[yii2-chinesization/yii2-zh-cn](https://github.com/yii2-chinesization/yii2-zh-cn)|Yii2 官方文档及其他文本的中文本土化项目，授权维护分支：|280|2021-10-26|
 |189|[DOUBLE-Baller/WebRTC_IM](https://github.com/DOUBLE-Baller/WebRTC_IM)|纯 go   php 实现的分布式IM即时通讯系统，各层可单独部署，音视频webrtc独立部署|277|2022-01-14|
-|190|[TencentCloud/tencentcloud-sdk-php](https://github.com/TencentCloud/tencentcloud-sdk-php)|Tencent Cloud API 3.0 SDK for PHP|271|2022-01-18|
+|190|[TencentCloud/tencentcloud-sdk-php](https://github.com/TencentCloud/tencentcloud-sdk-php)|Tencent Cloud API 3.0 SDK for PHP|271|2022-01-19|
 |191|[we7coreteam/w7-rangine-empty](https://github.com/we7coreteam/w7-rangine-empty)|软擎是基于 Php 7.2+ 和 Swoole 4.4+ 的高性能、简单易用的开发框架。支持同时在 Swoole Server 和 php-fpm 两种模式下运行。内置了 Http (Swoole, Fpm)，Tcp，WebSocket，Process，Crontab服务。集成了大量成熟的组件，可以用于构建高性能的Web系统、API、中间件、基础服务等等。|265|2021-12-28|
 |192|[qiqizjl/think-wechat](https://github.com/qiqizjl/think-wechat)|easywechat for thinkphp support|264|2021-08-08|
 |193|[xingwenge/canal-php](https://github.com/xingwenge/canal-php)|Alibaba mysql database binlog incremental subscription & consumer components Canal's php client[阿里巴巴mysql数据库binlog的增量订阅&消费组件 Canal 的 php 客户端 ] https://github.com/alibaba/canal|263|2021-10-12|

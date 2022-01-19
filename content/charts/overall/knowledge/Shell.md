@@ -6,13 +6,13 @@
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)|:see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞|27561|2021-08-10|
-|2|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|22577|2022-01-18|
+|2|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|22589|2022-01-18|
 |3|[rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)|Kubernetes中文指南/云原生应用架构实践手册 -  https://jimmysong.io/kubernetes-handbook|9532|2022-01-18|
 |4|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|6649|2022-01-17|
 |5|[wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial)|Bash 教程|3381|2022-01-13|
 |6|[wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial)|JavaScript 教程 https://wangdoc.com/javascript|3167|2022-01-13|
 |7|[jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow)|Curated list of resources about Apache Airflow|2785|2021-12-02|
-|8|[charlax/engineering-management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|2604|2022-01-17|
+|8|[charlax/engineering-management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|2607|2022-01-17|
 |9|[wind-liang/leetcode](https://github.com/wind-liang/leetcode)|leetcode 顺序刷题，详细通俗题解，with JAVA|2228|2021-09-02|
 |10|[wslutilities/wslu](https://github.com/wslutilities/wslu)|A collection of utilities for Windows 10 Linux Subsystems|2063|2021-12-03|
 |11|[LCTT/TranslateProject](https://github.com/LCTT/TranslateProject)|Linux中国翻译项目|1866|2022-01-18|

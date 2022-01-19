@@ -6,7 +6,7 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|260480|253|2021-12-15|
-|2|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7515|5|2022-01-15|
+|2|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7516|5|2022-01-15|
 |3|[phodal/quake](https://github.com/phodal/quake)|Quake is a knowledge management meta-framework for geeks. Use meta-data + Transflow to CRUD data,  Git + markdown to management content, Web Component for frontend-custom. Quake 是面向极客的知识管理元框架。|289|5|2022-01-16|
 |4|[zu1k/copy-translator](https://github.com/zu1k/copy-translator)|简单、轻量、好用的划词翻译软件，利用DeepL翻译，无需注册api token|510|3|2021-12-27|
 |5|[mini-lust/tutorials](https://github.com/mini-lust/tutorials)|An RPC framework developing tutorial|377|2|2021-08-18|

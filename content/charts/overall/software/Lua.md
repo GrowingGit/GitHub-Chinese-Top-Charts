@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|8186|2022-01-18|
+|1|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|8187|2022-01-18|
 |2|[orlabs/orange](https://github.com/orlabs/orange)|OpenResty/Nginx Gateway for API Monitoring and Management.|2212|2021-12-22|
 |3|[skywind3000/z.lua](https://github.com/skywind3000/z.lua)|:zap: A new cd command that helps you navigate faster by learning your habits.|2186|2021-11-13|
 |4|[openresty/lua-resty-redis](https://github.com/openresty/lua-resty-redis)|Lua redis client driver for the ngx_lua based on the cosocket API|1656|2022-01-09|

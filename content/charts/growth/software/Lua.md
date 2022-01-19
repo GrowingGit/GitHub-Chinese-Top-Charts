@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|8186|8|2022-01-18|
+|1|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|8187|8|2022-01-18|
 |2|[jerrykuku/luci-app-vssr](https://github.com/jerrykuku/luci-app-vssr)|HelloWorld是一个以用户最佳主观体验为导向的插件，它支持多种主流协议和多种自定义视频分流服务，拥有精美的操作界面，并配上直观的节点信息。|1594|2|2022-01-09|
 |3|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|381|2|2022-01-18|
 |4|[skywind3000/z.lua](https://github.com/skywind3000/z.lua)|:zap: A new cd command that helps you navigate faster by learning your habits.|2186|2|2021-11-13|

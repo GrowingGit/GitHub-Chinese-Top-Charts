@@ -5,26 +5,26 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ant-design/ant-design](https://github.com/ant-design/ant-design)|An enterprise-class UI design language and React UI library|77118|2022-01-18|
-|2|[apache/echarts](https://github.com/apache/echarts)|Apache ECharts is a powerful, interactive charting and data visualization library for browser|49435|2022-01-18|
-|3|[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|The repository for high quality TypeScript type definitions.|37434|2022-01-18|
-|4|[ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)|👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!|31162|2022-01-11|
+|1|[ant-design/ant-design](https://github.com/ant-design/ant-design)|An enterprise-class UI design language and React UI library|77121|2022-01-18|
+|2|[apache/echarts](https://github.com/apache/echarts)|Apache ECharts is a powerful, interactive charting and data visualization library for browser|49438|2022-01-18|
+|3|[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|The repository for high quality TypeScript type definitions.|37435|2022-01-18|
+|4|[ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)|👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!|31163|2022-01-11|
 |5|[NervJS/taro](https://github.com/NervJS/taro)|开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/|30387|2022-01-18|
 |6|[supabase/supabase](https://github.com/supabase/supabase)|The open source Firebase alternative. Follow to stay updated about our public Beta.|26657|2022-01-18|
 |7|[wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan)|文言文編程語言 A programming language for the ancient Chinese.|17896|2021-10-24|
-|8|[alibaba/ice](https://github.com/alibaba/ice)|🚀 The Progressive App Framework Based On React（基于 React 的渐进式应用框架）|17014|2022-01-18|
-|9|[oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)|Switch hosts quickly!|15774|2021-12-23|
+|8|[alibaba/ice](https://github.com/alibaba/ice)|🚀 The Progressive App Framework Based On React（基于 React 的渐进式应用框架）|17015|2022-01-18|
+|9|[oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)|Switch hosts quickly!|15775|2021-12-23|
 |10|[ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll)|:scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance|15260|2021-08-02|
-|11|[pnpm/pnpm](https://github.com/pnpm/pnpm)|Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具|14840|2022-01-18|
+|11|[pnpm/pnpm](https://github.com/pnpm/pnpm)|Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具|14842|2022-01-19|
 |12|[Tencent/vConsole](https://github.com/Tencent/vConsole)|A lightweight, extendable front-end developer tool for mobile web page.|14132|2022-01-18|
 |13|[CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)|Foreign language reading and translation assistant based on copy and translate.|12953|2022-01-15|
 |14|[wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor)|wangEditor —— 轻量级web富文本框|12903|2022-01-17|
 |15|[umijs/umi](https://github.com/umijs/umi)|🌋 Pluggable enterprise-level react application framework.|11838|2022-01-14|
 |16|[umijs/qiankun](https://github.com/umijs/qiankun)|📦 🚀 Blazing fast, simple and complete solution for micro frontends.|11751|2022-01-13|
 |17|[antvis/G2](https://github.com/antvis/G2)|📊 A highly interactive data-driven visualization grammar for statistical charts.|11070|2022-01-18|
-|18|[the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)|强大的哔哩哔哩增强脚本|11024|2022-01-18|
+|18|[the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)|强大的哔哩哔哩增强脚本|11027|2022-01-18|
 |19|[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)|record and replay the web|11000|2022-01-18|
-|20|[unlock-music/unlock-music](https://github.com/unlock-music/unlock-music)|Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。|10883|2022-01-09|
+|20|[unlock-music/unlock-music](https://github.com/unlock-music/unlock-music)|Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。|10885|2022-01-09|
 |21|[baidu/amis](https://github.com/baidu/amis)|前端低代码框架，通过 JSON 配置就能生成各种页面。|9649|2022-01-18|
 |22|[crimx/ext-saladict](https://github.com/crimx/ext-saladict)|🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.|8561|2022-01-15|
 |23|[alibaba/hooks](https://github.com/alibaba/hooks)|A high-quality & reliable React Hooks library.|8193|2022-01-18|
@@ -34,13 +34,13 @@
 |27|[microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio)|Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.|6632|2022-01-18|
 |28|[yezihaohao/react-admin](https://github.com/yezihaohao/react-admin)|:sparkles: react-admin system solution : react 后台管理系统解决方案|6002|2021-09-10|
 |29|[any86/any-rule](https://github.com/any86/any-rule)|🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台|5802|2022-01-11|
-|30|[alibaba/BizCharts](https://github.com/alibaba/BizCharts)|Powerful data visualization library based on G2 and React.|5786|2021-12-07|
-|31|[colinhacks/zod](https://github.com/colinhacks/zod)|TypeScript-first schema validation with static type inference|5742|2022-01-18|
+|30|[alibaba/BizCharts](https://github.com/alibaba/BizCharts)|Powerful data visualization library based on G2 and React.|5787|2021-12-07|
+|31|[colinhacks/zod](https://github.com/colinhacks/zod)|TypeScript-first schema validation with static type inference|5751|2022-01-19|
 |32|[SigNoz/signoz](https://github.com/SigNoz/signoz)|SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc ...|5621|2022-01-18|
-|33|[Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown)|🍼 Plugin driven WYSIWYG  markdown editor framework.|5578|2022-01-17|
-|34|[labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript)|Clean Code concepts adapted for TypeScript|5207|2022-01-12|
+|33|[Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown)|🍼 Plugin driven WYSIWYG  markdown editor framework.|5579|2022-01-17|
+|34|[labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript)|Clean Code concepts adapted for TypeScript|5209|2022-01-12|
 |35|[DouyinFE/semi-design](https://github.com/DouyinFE/semi-design)|A modern, comprehensive, flexible design system and React UI library|5163|2022-01-18|
-|36|[bytedance/IconPark](https://github.com/bytedance/IconPark)|🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons|5043|2021-12-21|
+|36|[bytedance/IconPark](https://github.com/bytedance/IconPark)|🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons|5044|2021-12-21|
 |37|[whyour/qinglong](https://github.com/whyour/qinglong)|支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）|4922|2022-01-18|
 |38|[x-extends/vxe-table](https://github.com/x-extends/vxe-table)|vxe-table vue  表格解决方案|4332|2022-01-18|
 |39|[PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL)|Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）|4265|2022-01-15|
@@ -50,16 +50,16 @@
 |43|[ethers-io/ethers.js](https://github.com/ethers-io/ethers.js)|Complete Ethereum library and wallet implementation in JavaScript.|3890|2022-01-17|
 |44|[NervJS/taro-ui](https://github.com/NervJS/taro-ui)|一款基于 Taro 框架开发的多端 UI 组件库|3820|2022-01-15|
 |45|[jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next)|200 bytes to never think about React state management libraries ever again|3803|2022-01-02|
-|46|[vuejs/composition-api](https://github.com/vuejs/composition-api)|Composition API plugin for Vue 2|3734|2022-01-16|
+|46|[vuejs/composition-api](https://github.com/vuejs/composition-api)|Composition API plugin for Vue 2|3733|2022-01-16|
 |47|[7kms/react-illustration-series](https://github.com/7kms/react-illustration-series)|图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.|3693|2022-01-18|
 |48|[Qihoo360/wayne](https://github.com/Qihoo360/wayne)|Kubernetes multi-cluster management and publishing platform|3598|2021-09-27|
-|49|[typestack/routing-controllers](https://github.com/typestack/routing-controllers)|Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.|3587|2022-01-17|
+|49|[typestack/routing-controllers](https://github.com/typestack/routing-controllers)|Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.|3589|2022-01-17|
 |50|[hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react)|⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。|3478|2022-01-18|
 |51|[jlfwong/speedscope](https://github.com/jlfwong/speedscope)|🔬 A fast, interactive web-based viewer for performance profiles.|3359|2021-12-15|
 |52|[le5le-com/topology](https://github.com/le5le-com/topology)|A diagram (topology, UML) framework uses canvas and typescript.  一个轻量（100k左右）、功能丰富的绘图工具（微服务架构图、拓扑图、流程图、类图等UML图、脑图，动画、视频支持）。 【在线使用】：|3324|2022-01-06|
 |53|[buuing/lucky-canvas](https://github.com/buuing/lucky-canvas)|🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端|3067|2022-01-17|
 |54|[YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner)|❄️ 云空调，便携小空调，为你的夏日带去清凉！|2884|2021-11-01|
-|55|[antvis/X6](https://github.com/antvis/X6)|🚀 JavaScript diagramming library that uses SVG and HTML for rendering.|2803|2022-01-16|
+|55|[antvis/X6](https://github.com/antvis/X6)|🚀 JavaScript diagramming library that uses SVG and HTML for rendering.|2804|2022-01-16|
 |56|[sunface/datav](https://github.com/sunface/datav)|📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It's also a lightweight alternative to Grafana.|2773|2021-12-08|
 |57|[crawlab-team/artipub](https://github.com/crawlab-team/artipub)|Article publishing platform that automatically distributes your articles to various media channels|2702|2022-01-15|
 |58|[notadd/notadd](https://github.com/notadd/notadd)|A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。|2562|2022-01-18|

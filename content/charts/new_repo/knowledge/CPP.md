@@ -5,13 +5,13 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[19PDP/Bilibili-plus](https://github.com/19PDP/Bilibili-plus)|课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB|2002|2022-01-11|2021-02-17|
+|1|[19PDP/Bilibili-plus](https://github.com/19PDP/Bilibili-plus)|课程视频、PPT和源代码：侯捷C++系列；台大郭彦甫MATLAB|2004|2022-01-11|2021-02-17|
 |2|[0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)|2021年最新整理， C++ 学习资料，含C++ 11 / 14 / 17 / 20 / 23 新特性、入门教程、推荐书籍、优质文章、学习笔记、教学视频等|1313|2021-10-21|2021-07-09|
 |3|[parallel101/course](https://github.com/parallel101/course)|高性能并行编程与优化 - 课件|905|2022-01-17|2021-12-10|
 |4|[acm-clan/algorithm-stone](https://github.com/acm-clan/algorithm-stone)|ACM/LeetCode算法竞赛路线图，最全的算法学习地图！|821|2022-01-18|2021-02-18|
-|5|[0voice/introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual)|一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。|348|2021-12-15|2021-12-06|
-|6|[yuesong-feng/30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)|30天自制C++服务器，包含教程和源代码|228|2022-01-13|2021-11-30|
-|7|[vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader)|下载B站 视频（投稿视频、番剧、电影、课程）、直播、漫画。（使用 Qt C++ 开发）|226|2022-01-17|2021-09-22|
+|5|[0voice/introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual)|一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。|350|2021-12-15|2021-12-06|
+|6|[vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader)|下载B站 视频（投稿视频、番剧、电影、课程）、直播、漫画。（使用 Qt C++ 开发）|237|2022-01-17|2021-09-22|
+|7|[yuesong-feng/30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)|30天自制C++服务器，包含教程和源代码|228|2022-01-13|2021-11-30|
 |8|[AllentDan/LibtorchTutorials](https://github.com/AllentDan/LibtorchTutorials)|This is a code repository for pytorch c++ (or libtorch) tutorial.|220|2021-11-02|2021-01-27|
 |9|[muluoleiguo/interview](https://github.com/muluoleiguo/interview)|linux C++ 服务器/后台开发 秋招整理资料 |166|2021-11-07|2021-07-09|
 |10|[ThisisGame/makegameengineatnight](https://github.com/ThisisGame/makegameengineatnight)|游戏引擎入门教程|124|2022-01-18|2021-03-09|

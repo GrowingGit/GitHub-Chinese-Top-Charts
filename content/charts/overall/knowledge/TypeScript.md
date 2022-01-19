@@ -5,10 +5,10 @@
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16422|2022-01-17|
+|1|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16423|2022-01-17|
 |2|[xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8506|2021-12-09|
 |3|[zhongsp/TypeScript](https://github.com/zhongsp/TypeScript)|TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org|5481|2021-11-20|
-|4|[antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)|🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥|5278|2022-01-17|
+|4|[antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)|🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥|5279|2022-01-17|
 |5|[jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)|TypeScript Deep Dive 中文版 |5112|2022-01-13|
 |6|[cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue)|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|4056|2022-01-14|
 |7|[doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn)|🇨🇳 《JavaScript 二十年》中文版|3711|2021-11-25|

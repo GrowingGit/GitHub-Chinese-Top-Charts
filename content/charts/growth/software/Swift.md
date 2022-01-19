@@ -11,7 +11,7 @@
 |4|[PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect)|Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)|13892|6|2021-07-24|
 |5|[realm/SwiftLint](https://github.com/realm/SwiftLint)|A tool to enforce Swift style and conventions.|15619|6|2022-01-15|
 |6|[xmartlabs/Eureka](https://github.com/xmartlabs/Eureka)|Elegant iOS form builder in Swift|11354|5|2022-01-18|
-|7|[Moya/Moya](https://github.com/Moya/Moya)|Network abstraction layer written in Swift.|13687|5|2022-01-17|
+|7|[Moya/Moya](https://github.com/Moya/Moya)|Network abstraction layer written in Swift.|13688|5|2022-01-17|
 |8|[Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)|✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.|4165|4|2021-08-23|
 |9|[ivanvorobei/SPPermissions](https://github.com/ivanvorobei/SPPermissions)|Ask permissions with ready-use interface. You can check status permission and if it has been requested before. Support SwiftUI.|4753|3|2022-01-14|
 |10|[gee1k/uPic](https://github.com/gee1k/uPic)|📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.|2503|3|2022-01-09|

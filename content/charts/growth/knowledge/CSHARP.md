@@ -5,14 +5,14 @@
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)|PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等|2907|112|2022-01-18|
+|1|[wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)|PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等|2911|112|2022-01-18|
 |2|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|2310|3|2022-01-18|
 |3|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|3593|3|2021-12-14|
-|4|[YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)|🦸【C#/.NET/.NET Core学习、工作、面试指南】概述：C#/.NET/.NET Core基础知识，学习资料、文章、书籍，社区组织，工具和常见的面试题总结。以及面试时需要注意的事项和优秀简历编写技巧，希望能和大家一起成长进步👊。【让现在的自己不再迷茫✨】|834|2|2021-12-07|
+|4|[YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)|🦸【C#/.NET/.NET Core学习、工作、面试指南】概述：C#/.NET/.NET Core基础知识，学习资料、文章、书籍，社区组织，工具和常见的面试题总结。以及面试时需要注意的事项和优秀简历编写技巧，希望能和大家一起成长进步👊。【让现在的自己不再迷茫✨】|835|2|2021-12-07|
 |5|[2881099/FreeRedis](https://github.com/2881099/FreeRedis)|🦄 FreeRedis is .NET40+ redis client. supports cluster, sentinel, master-slave, pub-sub, lua, pipeline, transaction, streams, client-side-caching, and pooling.|504|1|2021-10-09|
 |6|[xuejmnet/sharding-core](https://github.com/xuejmnet/sharding-core)|high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵|447|1|2022-01-18|
-|7|[kengwang/BiliDuang](https://github.com/kengwang/BiliDuang)|(项目正在重构) Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV 支持4K 支持地区限制下载 支持互动视频 支持无水印 支持弹幕/字幕下载转换 支持课程下载|720|1|2021-10-06|
-|8|[sidristij/dotnetbook](https://github.com/sidristij/dotnetbook)|.NET Platform Architecture book (English, Chinese, Russian)|1783|1|2022-01-17|
+|7|[kengwang/BiliDuang](https://github.com/kengwang/BiliDuang)|(项目正在重构) Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV 支持4K 支持地区限制下载 支持互动视频 支持无水印 支持弹幕/字幕下载转换 支持课程下载|721|1|2021-10-06|
+|8|[sidristij/dotnetbook](https://github.com/sidristij/dotnetbook)|.NET Platform Architecture book (English, Chinese, Russian)|1785|1|2022-01-17|
 |9|[YukiCoco/YukiDrive](https://github.com/YukiCoco/YukiDrive)|Onedrive & SharePoint 文件浏览网页程序|463|1|2022-01-12|
 |10|[luoyunchong/lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore)|😃A simple and practical CMS implemented by .NET 6 + FreeSql；前后端分离、Docker部署、OAtuh2授权登录、自动化部署DevOps、自动同步至Gitee、代码生成器、仿掘金专栏|522|1|2021-12-28|
 |11|[Isayama-Kagura/TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator)|一款Galgame文本提取和翻译的工具|80|1|2022-01-08|
@@ -25,7 +25,7 @@
 |18|[Tlaster/WeiPo](https://github.com/Tlaster/WeiPo)|第三方微博客户端|29|0|2021-08-11|
 |19|[lesliexinxin/LeslieXin.SimpleMMF](https://github.com/lesliexinxin/LeslieXin.SimpleMMF)|简单、易用的进程间通信框架，基于共享内存实现。 A simple, easy-to-use framework for interprocess communication based on shared memory|55|0|2021-08-05|
 |20|[WeihanLi/DesignPatterns](https://github.com/WeihanLi/DesignPatterns)|DesignPatterns samples by csharp on dotnetcore 《大话设计模式》 中设计模式总结/C#(.NETCore)代码|93|0|2021-12-09|
-|21|[Liu233w/acm-statistics](https://github.com/Liu233w/acm-statistics)|An online tool (crawler) to analyze users performance in online judges (coding competition websites). Supported OJ: POJ, HDU, HYSBZ, CodeForces, UVA, ICPC Live Archive, FZU, SPOJ, Timus (URAL), LeetCo ...|99|0|2022-01-12|
+|21|[Liu233w/acm-statistics](https://github.com/Liu233w/acm-statistics)|An online tool (crawler) to analyze users performance in online judges (coding competition websites). Supported OJ: POJ, HDU, HYSBZ, CodeForces, UVA, ICPC Live Archive, FZU, SPOJ, Timus (URAL), LeetCo ...|99|0|2022-01-19|
 |22|[xiajingren/HelloAbp](https://github.com/xiajingren/HelloAbp)|ABP vNext + vue-element-admin入门级项目实践|219|0|2021-07-31|
 |23|[csdjk/LearnUnity](https://github.com/csdjk/LearnUnity)|学习Unity过程中的一些记录，demo。|49|0|2021-07-29|
 |24|[944095635/MVVM](https://github.com/944095635/MVVM)|适合新人学习的WPF MVVM案例|96|0|2021-11-28|

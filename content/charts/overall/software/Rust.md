@@ -7,13 +7,13 @@
 |:-|:-|:-|:-|:-|
 |1|[BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep)|ripgrep recursively searches directories for a regex pattern while respecting your gitignore|28988|2022-01-12|
 |2|[sharkdp/fd](https://github.com/sharkdp/fd)|A simple, fast and user-friendly alternative to 'find'|20291|2022-01-11|
-|3|[yewstack/yew](https://github.com/yewstack/yew)|Rust / Wasm framework for building client web apps|18695|2022-01-18|
-|4|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|Yet another remote desktop software|14518|2022-01-18|
+|3|[yewstack/yew](https://github.com/yewstack/yew)|Rust / Wasm framework for building client web apps|18701|2022-01-18|
+|4|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|Yet another remote desktop software|14520|2022-01-18|
 |5|[sharkdp/hyperfine](https://github.com/sharkdp/hyperfine)|A command-line benchmarking tool|9995|2022-01-03|
-|6|[BurntSushi/xsv](https://github.com/BurntSushi/xsv)|A fast CSV command line toolkit written in Rust.|7896|2021-08-24|
-|7|[XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)|Count your code, quickly.|6072|2022-01-01|
+|6|[BurntSushi/xsv](https://github.com/BurntSushi/xsv)|A fast CSV command line toolkit written in Rust.|7899|2021-08-24|
+|7|[XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei)|Count your code, quickly.|6074|2022-01-01|
 |8|[quickwit-inc/tantivy](https://github.com/quickwit-inc/tantivy)|Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust|5790|2022-01-18|
-|9|[pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog)|Educational blog posts for Rust beginners|3999|2021-12-31|
+|9|[pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog)|Educational blog posts for Rust beginners|4000|2021-12-31|
 |10|[chyyuu/os_kernel_lab](https://github.com/chyyuu/os_kernel_lab)|OS kernel labs based on Rust/C Lang & RISC-V 64/X86-32|3361|2021-11-20|
 |11|[tock/tock](https://github.com/tock/tock)|A secure embedded operating system for microcontrollers|3342|2022-01-18|
 |12|[rapiz1/rathole](https://github.com/rapiz1/rathole)|A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.|2240|2022-01-18|

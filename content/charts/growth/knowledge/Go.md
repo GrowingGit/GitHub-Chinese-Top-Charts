@@ -6,14 +6,14 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)|【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt|4306|26|2022-01-13|
-|2|[halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go)|✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解|22951|14|2022-01-17|
-|3|[quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests)|Learn Go with test-driven development|16395|12|2022-01-18|
+|2|[halfrost/LeetCode-Go](https://github.com/halfrost/LeetCode-Go)|✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解|22952|14|2022-01-17|
+|3|[quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests)|Learn Go with test-driven development|16398|12|2022-01-18|
 |4|[chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)|:books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)|16594|11|2022-01-17|
-|5|[astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)|A golang ebook intro how to build a web with golang|39490|11|2022-01-01|
-|6|[inancgumus/learngo](https://github.com/inancgumus/learngo)|1000+ Hand-Crafted Go Examples, Exercises, and Quizzes|12629|11|2022-01-17|
+|5|[astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)|A golang ebook intro how to build a web with golang|39491|11|2022-01-01|
+|6|[inancgumus/learngo](https://github.com/inancgumus/learngo)|1000+ Hand-Crafted Go Examples, Exercises, and Quizzes|12630|11|2022-01-17|
 |7|[wa-lang/ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book)|:books: µGo语言实现(从头开发一个迷你Go语言编译器)|806|10|2022-01-17|
 |8|[unknwon/the-way-to-go_ZH_CN](https://github.com/unknwon/the-way-to-go_ZH_CN)|《The Way to Go》中文译本，中文正式名《Go 入门指南》|28610|9|2022-01-18|
-|9|[yeasy/docker_practice](https://github.com/yeasy/docker_practice)|Learn and understand Docker technologies, with real DevOps practice!|19894|7|2022-01-04|
+|9|[yeasy/docker_practice](https://github.com/yeasy/docker_practice)|Learn and understand Docker technologies, with real DevOps practice!|19895|7|2022-01-04|
 |10|[talkgo/night](https://github.com/talkgo/night)|Weekly Go Online Meetup via Bilibili｜Go 夜读｜通过 bilibili 在线直播的方式分享 Go 相关的技术话题，每天大家在微信/telegram/Slack 上及时沟通交流编程技术话题。|10168|7|2022-01-13|
 |11|[fanux/sealos](https://github.com/fanux/sealos)|一条命令离线安装高可用 Kubernetes，3min 装完，500M，100年证书，版本不要太全，生产环境稳如老狗🔥 ⎈ 🐳|7746|6|2022-01-12|
 |12|[halfrost/Halfrost-Field](https://github.com/halfrost/Halfrost-Field)|✍🏻 这里是写博客的地方 —— Halfrost-Field 冰霜之地|10530|6|2021-12-20|

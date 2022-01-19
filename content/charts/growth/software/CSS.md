@@ -9,11 +9,11 @@
 |2|[you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|16659|8|2021-10-18|
 |3|[phith0n/conote-community](https://github.com/phith0n/conote-community)|Conote 综合安全测试平台社区版。|300|7|2021-12-09|
 |4|[chokcoco/CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration)|CSS Inspiration，在这里找到写 CSS 的灵感！|7601|6|2021-10-22|
-|5|[iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next)|Elegant theme for Hexo. |15738|6|2021-11-06|
+|5|[iissnan/hexo-theme-next](https://github.com/iissnan/hexo-theme-next)|Elegant theme for Hexo. |15739|6|2021-11-06|
 |6|[Wei-Xia/most-frequent-technology-english-words](https://github.com/Wei-Xia/most-frequent-technology-english-words)|程序员工作中常见的英语词汇|4741|5|2022-01-02|
 |7|[missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)|the CS missing semester Chinese version|3241|5|2021-11-10|
-|8|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|7353|5|2022-01-14|
-|9|[kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)|🕶️ Awesome stuff for Obsidian|2282|4|2022-01-15|
+|8|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|7355|5|2022-01-14|
+|9|[kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)|🕶️ Awesome stuff for Obsidian|2285|4|2022-01-15|
 |10|[LiangJunrong/document-library](https://github.com/LiangJunrong/document-library)|jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……|3315|3|2022-01-17|
 |11|[admin360bug/PHP](https://github.com/admin360bug/PHP)|PHP训练靶场|581|3|2021-08-04|
 |12|[cndiandian/zuanbot.com](https://github.com/cndiandian/zuanbot.com)|骂人宝典（祖安语录）|23|2|2022-01-08|

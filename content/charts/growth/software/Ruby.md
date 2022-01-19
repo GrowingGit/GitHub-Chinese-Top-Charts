@@ -6,8 +6,8 @@
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[MBoxPlus/mbox](https://github.com/MBoxPlus/mbox)|Toolchain for Mobile App Development 移动研发工具链|644|3|2022-01-13|
-|2|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|5778|2|2022-01-18|
-|3|[darkbitio/aws-recon](https://github.com/darkbitio/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|392|1|2021-12-02|
+|2|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|5779|2|2022-01-18|
+|3|[darkbitio/aws-recon](https://github.com/darkbitio/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|393|1|2021-12-02|
 |4|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3519|1|2022-01-13|
 |5|[peatio/peatio](https://github.com/peatio/peatio)|An open-source assets exchange.|3509|1|2022-01-12|
 |6|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3411|1|2022-01-16|
@@ -20,12 +20,12 @@
 |13|[huacnlee/sql-builder](https://github.com/huacnlee/sql-builder)|A simple SQL builder for generate SQL for non-ActiveRecord supports databases|32|0|2022-01-13|
 |14|[courtenay/splam](https://github.com/courtenay/splam)|Simple, pluggable, easily customizable score-based spam filter plugin for Ruby-based applications|108|0|2021-10-25|
 |15|[kenn/active_flag](https://github.com/kenn/active_flag)|Bit array for ActiveRecord|95|0|2022-01-18|
-|16|[aozorahack/aozorabunko_text](https://github.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|45|0|2022-01-18|
+|16|[aozorahack/aozorabunko_text](https://github.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|45|0|2022-01-19|
 |17|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|18|0|2022-01-17|
 |18|[ruilisi/rails-pangu](https://github.com/ruilisi/rails-pangu)|Rails starter kit that every startup needs|191|0|2021-10-12|
 |19|[ECPay/ECPayAIO_RoR](https://github.com/ECPay/ECPayAIO_RoR)|綠界科技ECPay 全方位(All In One)金流介接 Ruby版|8|0|2021-08-19|
 |20|[NeverMin/omniauth-wechat-oauth2](https://github.com/NeverMin/omniauth-wechat-oauth2)|Wechat OAuth2 Strategy for OmniAuth 1.0.|266|0|2021-10-14|
-|21|[test-kitchen/kitchen-azurerm](https://github.com/test-kitchen/kitchen-azurerm)|A driver for Test Kitchen that works with Azure Resource Manager|51|0|2022-01-05|
+|21|[test-kitchen/kitchen-azurerm](https://github.com/test-kitchen/kitchen-azurerm)|A driver for Test Kitchen that works with Azure Resource Manager|51|0|2022-01-18|
 |22|[Ezviz-OpenBiz/SDK-iOS](https://github.com/Ezviz-OpenBiz/SDK-iOS)|Ezviz SDK，功能更强大的开发套件，可以实现预览、回放、配网、对讲、设备控制、oAuth授权等功能|13|0|2022-01-17|
 |23|[lingceng/bing_dictionary](https://github.com/lingceng/bing_dictionary)|Bing comand line dictionary|23|0|2021-08-22|
 |24|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|642|0|2021-11-16|
@@ -39,10 +39,10 @@
 |32|[sirupsen/airrecord](https://github.com/sirupsen/airrecord)|Ruby wrapper for Airtable, your personal database|221|0|2022-01-12|
 |33|[chenxGen/cocoapods-project-hmap](https://github.com/chenxGen/cocoapods-project-hmap)|A cocoapods plugin to improve the compilation speed of the preprocessing stage.|66|0|2021-09-23|
 |34|[samvera/hyrax](https://github.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|146|0|2022-01-13|
-|35|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|635|0|2022-01-16|
+|35|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|635|0|2022-01-18|
 |36|[FunnyWolf/vipermsf](https://github.com/FunnyWolf/vipermsf)|viper 自定义的msf|49|0|2021-12-29|
 |37|[encoreshao/china_regions](https://github.com/encoreshao/china_regions)|Ruby Library for China Regions|23|0|2021-12-02|
-|38|[L-codes/pwcrack-framework](https://github.com/L-codes/pwcrack-framework)|Password Crack Framework|209|0|2021-12-12|
+|38|[L-codes/pwcrack-framework](https://github.com/L-codes/pwcrack-framework)|Password Crack Framework|210|0|2021-12-12|
 |39|[eyp/redmine_spent_time](https://github.com/eyp/redmine_spent_time)|Redmine plugin that improves the spent time functionality.|57|0|2021-11-12|
 |40|[FIRHQ/fastlane-plugin-fir_cli](https://github.com/FIRHQ/fastlane-plugin-fir_cli)|betaqr.com(fir.im) fastlane plugin|38|0|2021-10-27|
 |41|[thredded/thredded](https://github.com/thredded/thredded)|The best Rails forums engine ever.|1309|0|2021-10-24|

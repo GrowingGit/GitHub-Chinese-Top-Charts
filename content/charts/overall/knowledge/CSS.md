@@ -6,12 +6,12 @@
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20397|2021-12-13|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11869|2022-01-11|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11870|2022-01-11|
 |3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8359|2022-01-17|
 |4|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5995|2021-12-20|
 |5|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4534|2022-01-09|
 |6|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4238|2021-07-29|
-|7|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3809|2022-01-16|
+|7|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、新闻周刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wire ...|3811|2022-01-16|
 |8|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|3799|2021-12-30|
 |9|[apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh)|:book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】|3625|2021-08-09|
 |10|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|2913|2021-12-02|

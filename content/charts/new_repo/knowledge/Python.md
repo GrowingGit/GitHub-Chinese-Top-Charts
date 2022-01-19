@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch)|🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐|3638|2021-12-19|2021-05-08|
+|1|[xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch)|🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐|3644|2021-12-19|2021-05-08|
 |2|[kwai/DouZero](https://github.com/kwai/DouZero)|[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning   斗地主AI|2332|2021-12-22|2021-06-02|
 |3|[TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi)|强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天|2061|2022-01-16|2021-07-04|
 |4|[princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE)|EMNLP'2021: SimCSE: Simple Contrastive Learning of Sentence Embeddings|1646|2021-11-26|2021-04-16|
@@ -13,9 +13,9 @@
 |6|[MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)|Summary of related papers on visual attention. Related code will be released based on Jittor gradually.    |1147|2022-01-05|2021-09-01|
 |7|[yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)|学习python操作selenium的一个🌰 ，也是一种京东全自动退会方案|1067|2022-01-16|2021-05-04|
 |8|[alibaba/AliceMind](https://github.com/alibaba/AliceMind)|ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab|979|2021-12-21|2021-05-21|
-|9|[THUDM/CogView](https://github.com/THUDM/CogView)|Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".|695|2021-10-01|2021-05-25|
-|10|[km1994/NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)|本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。|650|2022-01-17|2021-02-22|
-|11|[itcharge/LeetCode-Py](https://github.com/itcharge/LeetCode-Py)|⛽️「算法通关手册」，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。|632|2022-01-17|2021-01-22|
+|9|[itcharge/LeetCode-Py](https://github.com/itcharge/LeetCode-Py)|⛽️「算法通关手册」，超详细的「算法与数据结构」基础讲解教程，「LeetCode」650+ 道题目 Python 版的详细解析。通过「算法理论学习」和「编程实战练习」相结合的方式，从零基础到彻底掌握算法知识。|772|2022-01-18|2021-01-22|
+|10|[THUDM/CogView](https://github.com/THUDM/CogView)|Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".|698|2021-10-01|2021-05-25|
+|11|[km1994/NLP-Interview-Notes](https://github.com/km1994/NLP-Interview-Notes)|本项目是作者们根据个人面试和经验总结出的自然语言处理(NLP)面试准备的学习笔记与资料，该资料目前包含 自然语言处理各领域的 面试题积累。|651|2022-01-17|2021-02-22|
 |12|[saveweb/review-2021](https://github.com/saveweb/review-2021)|今年，你写年终总结了吗？|554|2022-01-18|2021-12-31|
 |13|[Miraclelucy/dive_into_deep_learning](https://github.com/Miraclelucy/dive_into_deep_learning)|✔️李沐 【动手学深度学习】课程学习笔记：使用pycharm编程，基于pytorch框架实现。|517|2021-08-09|2021-03-27|
 |14|[HeisenbergEmpire/studynote](https://github.com/HeisenbergEmpire/studynote)|程式與網絡安全學習筆記|457|2022-01-14|2021-11-23|
@@ -24,7 +24,7 @@
 |17|[awake1t/HackReport](https://github.com/awake1t/HackReport)|渗透测试报告/资料文档/渗透经验文档/安全书籍|359|2021-12-25|2021-06-25|
 |18|[researchmm/Stark](https://github.com/researchmm/Stark)|[ICCV'21] Learning Spatio-Temporal Transformer for Visual Tracking|337|2022-01-18|2021-03-25|
 |19|[alanbobs999/TopFreeProxies](https://github.com/alanbobs999/TopFreeProxies)|高质量免费节点收集，及订阅链接分享。|336|2022-01-18|2021-07-29|
-|20|[open-mmlab/mmfewshot](https://github.com/open-mmlab/mmfewshot)|OpenMMLab FewShot Learning Toolbox and Benchmark|312|2022-01-18|2021-11-22|
+|20|[open-mmlab/mmfewshot](https://github.com/open-mmlab/mmfewshot)|OpenMMLab FewShot Learning Toolbox and Benchmark|314|2022-01-18|2021-11-22|
 |21|[liuhuanyong/ChainKnowledgeGraph](https://github.com/liuhuanyong/ChainKnowledgeGraph)|ChainKnowledgeGraph, 产业链知识图谱包括A股上市公司、行业和产品共3类实体，包括上市公司所属行业关系、行业上级关系、产品上游原材料关系、产品下游产品关系、公司主营产品、产品小类共6大类。 上市公司4,654家，行业511个，产品95,559条、上游材料56,824条，上级行业480条，下游产品390条，产品小类52,937条，所属行业3,946条。  |287|2021-10-26|2021-10-26|
 |22|[liuli-io/liuli](https://github.com/liuli-io/liuli)|构建一个多源、干净、个性化的阅读环境|259|2022-01-05|2021-04-07|
 |23|[CLUEbenchmark/FewCLUE](https://github.com/CLUEbenchmark/FewCLUE)|FewCLUE 小样本学习测评基准，中文版|245|2021-09-30|2021-04-28|
