@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2022-01-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -18,19 +18,19 @@
 |11|[ying32/liblcl](https://github.com/ying32/liblcl)|A common cross-platform GUI library, the core uses Lazarus LCL.|63|0|2022-01-11|
 |12|[2o181o28/MyProg](https://github.com/2o181o28/MyProg)|蒟蒻的小学生水平程序|5|0|2021-10-17|
 |13|[PassByYou888/ZDB2.0](https://github.com/PassByYou888/ZDB2.0)|ZDB2.0将是未来大数据支持的内核，ZDB2.0有自己的独立支持体系，跨平台特性，不依赖操作系统|17|0|2021-10-21|
-|14|[coder163/delphi-socket](https://github.com/coder163/delphi-socket)|Delphi第二季网络编程|4|0|2021-10-26|
+|14|[coder163/delphi-socket](https://github.com/coder163/delphi-socket)|Delphi第二季网络编程|5|0|2021-10-26|
 |15|[ymofen/diocp-v5](https://github.com/ymofen/diocp-v5)|delphi iocp, http, websocket, ntrip|204|0|2021-11-16|
 |16|[pmiscn/MuObjectPool](https://github.com/pmiscn/MuObjectPool)|我用的delphi的公共库|5|0|2021-11-22|
-|17|[axpokl/midiplayer3-for-BLACK-MIDI](https://github.com/axpokl/midiplayer3-for-BLACK-MIDI)|Free Pascal midiplayer3 for Black MIDI by ax_pokl|10|0|2021-12-31|
+|17|[axpokl/midiplayer3-for-BLACK-MIDI](https://github.com/axpokl/midiplayer3-for-BLACK-MIDI)|Free Pascal midiplayer3 for Black MIDI by ax_pokl|10|0|2022-01-19|
 |18|[dbyoung720/PBox](https://github.com/dbyoung720/PBox)|The modular development platform based on DLL Form|35|0|2022-01-17|
 |19|[PassByYou888/zGameWare](https://github.com/PassByYou888/zGameWare)|-|19|0|2021-09-22|
 |20|[PassByYou888/zSound](https://github.com/PassByYou888/zSound)|zSound Engine for All Platform(Android,IOS,OSX,Windows),supported delphi VCL/delphi FMX/fpc|26|0|2021-09-21|
 |21|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker for Windows|30|0|2021-12-14|
 |22|[digao-dalpiaz/DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|89|0|2022-01-02|
-|23|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|234|0|2022-01-18|
+|23|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|235|0|2022-01-18|
 |24|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|192|0|2021-12-06|
 |25|[ying32/res2go-ide-plugin](https://github.com/ying32/res2go-ide-plugin)|res2go Lazarus IDE plug-in|13|0|2021-11-13|
-|26|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|264|0|2022-01-15|
+|26|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|265|0|2022-01-19|
 |27|[59079096/emr](https://github.com/59079096/emr)|基于HCView开发的电子病历程序|37|0|2021-09-12|
 |28|[supersoho/Delphi-DirectUI](https://github.com/supersoho/Delphi-DirectUI)|Delphi DirectUI Controls|49|0|2021-08-23|
 |29|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|30|0|2021-12-14|

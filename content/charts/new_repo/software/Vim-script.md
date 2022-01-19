@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Vim script
-<sub>数据更新: 2022-01-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -17,7 +17,6 @@
 |10|[AiDaiP/FuzzingSeeds](https://github.com/AiDaiP/FuzzingSeeds)|有 种 子 吗|2|2022-01-10|2022-01-10|
 |11|[ShiChenCong/.dotfiles](https://github.com/ShiChenCong/.dotfiles)|.conifg下配置集合|2|2021-12-10|2021-11-11|
 |12|[tenfyzhong/macos-autoim.vim](https://github.com/tenfyzhong/macos-autoim.vim)|macos自动切换输入法|2|2021-11-23|2021-07-10|
-|13|[xiaodun/sf-mock](https://github.com/xiaodun/sf-mock)|前端mock接口解决方案|2|2021-11-15|2021-01-19|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

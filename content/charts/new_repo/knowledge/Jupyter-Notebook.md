@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Jupyter Notebook
-<sub>数据更新: 2022-01-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Fafa-DL/Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021春季机器学习课程课件及作业|1523|2021-12-20|2021-02-28|
-|2|[Charmve/computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action)|学习闭环《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页|1284|2022-01-11|2021-04-29|
-|3|[fengdu78/WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course)|温州大学《机器学习》课程资料（代码、课件等）|874|2022-01-18|2021-03-21|
-|4|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|506|2022-01-18|2021-03-11|
-|5|[d2l-ai/courses-zh-v2](https://github.com/d2l-ai/courses-zh-v2)|中文版 v2 课程|236|2021-09-14|2021-01-26|
-|6|[xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)|LaTeX论文写作教程 (中文版)|210|2022-01-14|2021-03-29|
+|1|[Fafa-DL/Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021春季机器学习课程课件及作业|1527|2021-12-20|2021-02-28|
+|2|[Charmve/computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action)|学习闭环《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页|1285|2022-01-11|2021-04-29|
+|3|[fengdu78/WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course)|温州大学《机器学习》课程资料（代码、课件等）|876|2022-01-18|2021-03-21|
+|4|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|507|2022-01-18|2021-03-11|
+|5|[d2l-ai/courses-zh-v2](https://github.com/d2l-ai/courses-zh-v2)|中文版 v2 课程|237|2021-09-14|2021-01-26|
+|6|[xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)|LaTeX论文写作教程 (中文版)|211|2022-01-14|2021-03-29|
 |7|[microsoft/AIforEarthDataSets](https://github.com/microsoft/AIforEarthDataSets)|Notebooks and documentation for AI-for-Earth-managed datasets on Azure|173|2022-01-07|2021-02-18|
 |8|[liuhuanshuo/Pandas_Advanced_Exercise](https://github.com/liuhuanshuo/Pandas_Advanced_Exercise)|Pandas进阶修炼300题|152|2021-09-22|2021-09-22|
 |9|[datawhalechina/machine-learning-toy-code](https://github.com/datawhalechina/machine-learning-toy-code)|《机器学习》（西瓜书）代码实战|127|2022-01-04|2021-07-16|

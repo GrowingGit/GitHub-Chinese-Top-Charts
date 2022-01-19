@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Dart
-<sub>数据更新: 2022-01-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[huanxsd/flutter_shuqi](https://github.com/huanxsd/flutter_shuqi)|高仿书旗小说 Flutter版，支持iOS、Android|2314|2021-12-03|
+|1|[huanxsd/flutter_shuqi](https://github.com/huanxsd/flutter_shuqi)|高仿书旗小说 Flutter版，支持iOS、Android|2315|2021-12-03|
 |2|[canhuah/WanAndroid-Flutter](https://github.com/canhuah/WanAndroid-Flutter)|Flutter版本 WanAndroid客户端  适合Flutter入门学习 被张鸿洋微信公众号推荐为优质Flutter开源项目啦|609|2021-12-17|
 |3|[AgoraIO-Community/Agora-Flutter-Quickstart](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart)|Quickstart guide for the Agora Flutter SDK(Android/iOS)|489|2021-10-14|
 |4|[RxReader/wechat_kit](https://github.com/RxReader/wechat_kit)|Flutter 版微信登录/分享/支付 SDK|483|2021-10-13|
@@ -25,7 +25,7 @@
 |18|[NewPracticer/Flutter-Dart-DataStructure](https://github.com/NewPracticer/Flutter-Dart-DataStructure)|使用flutter的dart语言重写数据结构与算法。包括线性搜索、选择排序、插入排序、栈，队列，链表、递归、归并排序、快速排序、二分搜索、二分搜索树、集合 和 映射、堆、优先队列、冒泡排序、希尔排序、线段树、Trie字典树、并查集、AVL树、红黑树、哈希表、计数排序、LSD基数排序、MSD排序，桶排序、字符串匹配、图的邻接矩阵、邻接表，深度优先遍历及应用|63|2021-09-24|
 |19|[githubityu/flutter_jdshop_mvvm](https://github.com/githubityu/flutter_jdshop_mvvm)|跟着大地老师学习的,模仿京东的一个实战项目，但是根据实际项目做了许多修改和优化|43|2021-07-27|
 |20|[ChessLuo/flutter_study_app](https://github.com/ChessLuo/flutter_study_app)|🔥勤能补拙，我希望能利用业余时间去学习及总结一些有关flutter的知识并运用到项目中去，Come on！！！|41|2021-08-01|
-|21|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|37|2022-01-13|
+|21|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|37|2022-01-19|
 |22|[ifgyong/flutter-example](https://github.com/ifgyong/flutter-example)|120多种小部件的使用例子，根据 flutter-book的例子,可以直接运行的哦|32|2021-08-12|
 |23|[ezshine/FlutterWidgetsCatalog](https://github.com/ezshine/FlutterWidgetsCatalog)|a project for learning all Flutter Widgets , sync from flutter.dev the officia website.|29|2021-08-04|
 |24|[jiangkang/flutter-system](https://github.com/jiangkang/flutter-system)|Flutter Widgets,Components,Demos,Pages:从入门到产品级开发|23|2021-12-25|
@@ -33,7 +33,7 @@
 |26|[baiyuliang/Flutter-WanWan](https://github.com/baiyuliang/Flutter-WanWan)|Flutter入门项目（首页，消息，圈子，我的）|13|2021-08-17|
 |27|[HuRuWo/HowToReserveFlutter](https://github.com/HuRuWo/HowToReserveFlutter)|HowToReserveFlutter is some  reverse flutter note 。flutter逆向笔记，如何一步一步分析 flutter apk。|10|2022-01-16|
 |28|[cocojian/flutter100days](https://github.com/cocojian/flutter100days)|这是一个flutter教程，用100天的时间来完成挑战，每天只需要完成一课，100天之后，你将遇见更好的自己。|8|2021-11-24|
-|29|[ifredom/flutter_plugins_example](https://github.com/ifredom/flutter_plugins_example)|flutter第三方插件：地图，图表，蓝牙，等使用示例集合|7|2021-12-28|
+|29|[ifredom/flutter_plugins_example](https://github.com/ifredom/flutter_plugins_example)|flutter第三方插件：地图，图表，蓝牙，等使用示例集合|7|2022-01-19|
 |30|[kangshaojun/study-notes](https://github.com/kangshaojun/study-notes)|Flutter React Golang WebRTC等技术学习笔记|6|2021-08-14|
 |31|[zhou-Flutter/flutter_dome](https://github.com/zhou-Flutter/flutter_dome)|实战小红书|6|2021-10-31|
 |32|[woshiluoyong/FlutterNcpApp](https://github.com/woshiluoyong/FlutterNcpApp)|本应用采用kotlin语言编写查看NCP(新型冠状肺炎)疫情数据(可做Flutter入门参考项目)|6|2021-08-16|
