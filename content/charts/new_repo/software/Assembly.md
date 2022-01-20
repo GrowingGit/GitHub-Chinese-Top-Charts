@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Assembly
-<sub>数据更新: 2022-01-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,8 +9,8 @@
 |2|[lishaojiang/talkcoroutine](https://github.com/lishaojiang/talkcoroutine)|coroutine;fiber;boost fiber|25|2021-08-03|2021-04-18|
 |3|[Panda381/ATX80](https://github.com/Panda381/ATX80)|ZX-80 computer clone with ATmega8 processor and with BASIC interpreter written in AVR assembler.|21|2021-12-15|2021-12-15|
 |4|[pleasewhy/startos](https://github.com/pleasewhy/startos)|rewrite subset of linux 2.6 by OOP, C++ advanced topics|11|2021-07-22|2021-05-26|
-|5|[uraninite/win32-stuxnet](https://github.com/uraninite/win32-stuxnet)|Stuxnet is an extremely sophisticated computer worm that exploits multiple previously unknown Windows zero-day vulnerabilities to infect computers and spread. Its purpose was not just to infect PCs bu ...|8|2021-09-01|2021-03-16|
-|6|[huang-jl/LLCL-MIPS](https://github.com/huang-jl/LLCL-MIPS)|LLCL-MIPS is a superscalar MIPS processor, which supports MIPS Release 1 instructions and is capable of booting linux kernel. （第五届龙芯杯特等奖作品）|6|2021-09-25|2021-09-23|
+|5|[huang-jl/LLCL-MIPS](https://github.com/huang-jl/LLCL-MIPS)|LLCL-MIPS is a superscalar MIPS processor, which supports MIPS Release 1 instructions and is capable of booting linux kernel. （第五届龙芯杯特等奖作品）|8|2021-09-25|2021-09-23|
+|6|[uraninite/win32-stuxnet](https://github.com/uraninite/win32-stuxnet)|Stuxnet is an extremely sophisticated computer worm that exploits multiple previously unknown Windows zero-day vulnerabilities to infect computers and spread. Its purpose was not just to infect PCs bu ...|8|2021-09-01|2021-03-16|
 |7|[jayzhou1024/ft](https://github.com/jayzhou1024/ft)|项目自用|6|2021-09-30|2021-03-27|
 |8|[CtrlZ233/bochsOS](https://github.com/CtrlZ233/bochsOS)|基于bochs和x86平台的32为微型操作系统，部分参考《操作系统真象还原》|5|2021-07-26|2021-06-19|
 |9|[BUAADreamer/BUAA-CO-2020](https://github.com/BUAADreamer/BUAA-CO-2020)|2020年北航计组课设代码 This is the BUAA Computer Orgnization code project files.|5|2021-11-27|2021-02-04|
