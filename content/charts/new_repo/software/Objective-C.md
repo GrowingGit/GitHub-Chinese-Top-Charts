@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2022-01-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[xrtc-cc/xrtc](https://github.com/xrtc-cc/xrtc)|WebRTC 融合音视频解决方案：封装声网Agora、华为云hrtc、腾讯云trtc及网易云信rtc，支持动态切换和定制，iOS、Android、Web极简集成WebRTC。|323|2021-11-05|2021-08-19|
-|2|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|287|2022-01-13|2021-08-03|
+|1|[xrtc-cc/xrtc](https://github.com/xrtc-cc/xrtc)|WebRTC 融合音视频解决方案：封装声网Agora、华为云hrtc、腾讯云trtc及网易云信rtc，支持动态切换和定制，iOS、Android、Web极简集成WebRTC。|324|2021-11-05|2021-08-19|
+|2|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|288|2022-01-13|2021-08-03|
 |3|[FoneG/FGPopupScheduler](https://github.com/FoneG/FGPopupScheduler)| ✨ ✨ ✨ ✨ iOS弹窗调用器，控制弹窗按照指定的策略进行显示。Helps you control popups easily.  ✨ ✨ ✨ ✨|241|2021-11-08|2021-06-23|
 |4|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|106|2021-10-13|2021-02-08|
 |5|[lionvoom/WeAppTongCeng](https://github.com/lionvoom/WeAppTongCeng)|小程序同层渲染|85|2021-10-29|2021-03-16|
@@ -26,11 +26,11 @@
 |19|[OpenIMSDK/Open-IM-SDK-Uniapp](https://github.com/OpenIMSDK/Open-IM-SDK-Uniapp)|-|19|2021-12-17|2021-08-26|
 |20|[sonsongithub/museum2tch](https://github.com/sonsongithub/museum2tch)|2tch博物館|16|2021-09-18|2021-09-17|
 |21|[yanshuimu/MangoFixUtil](https://github.com/yanshuimu/MangoFixUtil)|依赖MangoFix，封装补丁拉取、执行、设备激活、补丁激活完整流程，另外提供本地加密或未加密补丁执行、生成加密补丁等方法。|15|2022-01-14|2021-02-26|
-|22|[pianxian/alphaVideoPlayTool](https://github.com/pianxian/alphaVideoPlayTool)|透明视频播放工具类|13|2021-08-27|2021-03-06|
+|22|[pianxian/alphaVideoPlayTool](https://github.com/pianxian/alphaVideoPlayTool)|透明视频播放工具类|14|2021-08-27|2021-03-06|
 |23|[DataFlux-cn/datakit-ios](https://github.com/DataFlux-cn/datakit-ios)|-|12|2022-01-20|2021-05-31|
-|24|[pilaf-king/SwiftVTHook](https://github.com/pilaf-king/SwiftVTHook)|基于Swift虚函数表的hook方案（无需dynamic，但是Swift编译优化需要修改为None）|12|2021-11-17|2021-03-03|
-|25|[HMS-Core/hms-3d-modeling-demo-ios](https://github.com/HMS-Core/hms-3d-modeling-demo-ios)|-|11|2021-11-15|2021-09-27|
-|26|[netease-kit/NECallKit](https://github.com/netease-kit/NECallKit)|实现呼叫、接听、挂断能力，应用于语音、视频通话场景|11|2021-11-09|2021-04-27|
+|24|[netease-kit/NECallKit](https://github.com/netease-kit/NECallKit)|实现呼叫、接听、挂断能力，应用于语音、视频通话场景|12|2021-11-09|2021-04-27|
+|25|[pilaf-king/SwiftVTHook](https://github.com/pilaf-king/SwiftVTHook)|基于Swift虚函数表的hook方案（无需dynamic，但是Swift编译优化需要修改为None）|12|2021-11-17|2021-03-03|
+|26|[HMS-Core/hms-3d-modeling-demo-ios](https://github.com/HMS-Core/hms-3d-modeling-demo-ios)|-|11|2021-11-15|2021-09-27|
 |27|[venn0126/SNAugusPopView](https://github.com/venn0126/SNAugusPopView)|A super lightweight popView.|10|2021-11-11|2021-10-14|
 |28|[HansenCCC/KKFileBrowser](https://github.com/HansenCCC/KKFileBrowser)|一个非常实用的文件浏览工具，可以预览图片，也可以可视化数据库。|10|2021-11-02|2021-08-07|
 |29|[fluttercandies/flutter_qweather](https://github.com/fluttercandies/flutter_qweather)|和风天气  Flutter 插件|10|2021-12-11|2021-04-19|
@@ -77,15 +77,15 @@
 |70|[Lester2020/WebViewDemo](https://github.com/Lester2020/WebViewDemo)|原生代码中，通过CSS和JS给webView里面内容动态设置多种主题样式|3|2021-08-31|2021-08-31|
 |71|[frankKiwi/HotfixSolve](https://github.com/frankKiwi/HotfixSolve)|热更新方案|3|2021-08-20|2021-08-17|
 |72|[HeadmasterHong/MVVM-OC-IOS-demo](https://github.com/HeadmasterHong/MVVM-OC-IOS-demo)|基于MVVM模式的iOS/OC demo|3|2021-10-25|2021-08-09|
-|73|[tencentyun/TRTCUnitySDK](https://github.com/tencentyun/TRTCUnitySDK)|腾讯云实时音视频Unity SDK|3|2022-01-18|2021-07-14|
+|73|[tencentyun/TRTCUnitySDK](https://github.com/tencentyun/TRTCUnitySDK)|腾讯云实时音视频Unity SDK|3|2022-01-21|2021-07-14|
 |74|[she1s0ne/SIOWaveView](https://github.com/she1s0ne/SIOWaveView)|Obtain the audio spectrum/ 获取音频文件的频谱直方图|3|2021-07-27|2021-06-25|
-|75|[RunsCode/DBOCKit](https://github.com/RunsCode/DBOCKit)| 使用链式语法生成sql,像操作JSON一样简单，数据库的增删改查可被监听观察|3|2021-07-22|2021-04-26|
-|76|[Rico358097990/ssl-kill-switch2-Preferences](https://github.com/Rico358097990/ssl-kill-switch2-Preferences)|ssl-kill-switch2 Preferences优化|3|2021-10-11|2021-03-12|
-|77|[Turboks/ShortVideo](https://github.com/Turboks/ShortVideo)|iOS短视频、仿抖音|3|2021-09-30|2021-02-08|
-|78|[anyRTC-UseCase/Basic-Video-Example](https://github.com/anyRTC-UseCase/Basic-Video-Example)|多人音视频通话，适用场景包括移动视频直播、实时互动连麦视频(音频)直播、小程序互动直播、视频会议等。本插件提供实时音视频能力，支持Android、iOS。多人音视频通话|3|2021-12-31|2021-01-27|
-|79|[mlcldh/GNUstepBase](https://github.com/mlcldh/GNUstepBase)|GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一遍。|2|2022-01-14|2022-01-08|
-|80|[nongshifu/iOS-](https://github.com/nongshifu/iOS-)|iOS模拟点击/拖动 各种游戏王座,自瞄,压枪基址,只需要简单的一行代码记录屏幕xy坐标|2|2021-11-29|2021-11-29|
-|81|[qingqiusuomeng/LQAlertViewKit](https://github.com/qingqiusuomeng/LQAlertViewKit)|自定义UIAlertViewController|2|2021-11-16|2021-11-10|
+|75|[Rico358097990/ssl-kill-switch2-Preferences](https://github.com/Rico358097990/ssl-kill-switch2-Preferences)|ssl-kill-switch2 Preferences优化|3|2021-10-11|2021-03-12|
+|76|[Turboks/ShortVideo](https://github.com/Turboks/ShortVideo)|iOS短视频、仿抖音|3|2021-09-30|2021-02-08|
+|77|[anyRTC-UseCase/Basic-Video-Example](https://github.com/anyRTC-UseCase/Basic-Video-Example)|多人音视频通话，适用场景包括移动视频直播、实时互动连麦视频(音频)直播、小程序互动直播、视频会议等。本插件提供实时音视频能力，支持Android、iOS。多人音视频通话|3|2021-12-31|2021-01-27|
+|78|[mlcldh/GNUstepBase](https://github.com/mlcldh/GNUstepBase)|GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一遍。|2|2022-01-14|2022-01-08|
+|79|[nongshifu/iOS-](https://github.com/nongshifu/iOS-)|iOS模拟点击/拖动 各种游戏王座,自瞄,压枪基址,只需要简单的一行代码记录屏幕xy坐标|2|2021-11-29|2021-11-29|
+|80|[qingqiusuomeng/LQAlertViewKit](https://github.com/qingqiusuomeng/LQAlertViewKit)|自定义UIAlertViewController|2|2021-11-16|2021-11-10|
+|81|[oychshy/AppleRegister](https://github.com/oychshy/AppleRegister)|appleId 模点|2|2021-11-03|2021-11-03|
 |82|[chenXming/QhSaveImageToLibrary](https://github.com/chenXming/QhSaveImageToLibrary)|多线程下载、上传图片。支持下载到自定义相册，支持设置最大并发数，支持后台处理任务。没有使用任何第三方相关类库，系统原生方法实现，无依赖负担。|2|2021-12-02|2021-11-03|
 |83|[AlexanderWei/cjlm](https://github.com/AlexanderWei/cjlm)|菜鸡联盟|2|2021-10-25|2021-10-25|
 |84|[chinaxxren/VVModule](https://github.com/chinaxxren/VVModule)|VVModule是面向协议的iOS模块化框架，同时它还支持URL路由和模块间通信机制,并且覆盖启动阶段的main函数的前后|2|2021-10-28|2021-10-22|
