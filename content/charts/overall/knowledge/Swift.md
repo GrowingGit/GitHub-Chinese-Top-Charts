@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Swift
-<sub>数据更新: 2022-01-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|13195|2021-08-05|
-|2|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4030|2021-09-14|
+|2|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4033|2021-09-14|
 |3|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|769|2022-01-17|
 |4|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|365|2022-01-16|
 |5|[Liaoworking/Advanced-Swift](https://github.com/Liaoworking/Advanced-Swift)|Notes of Advanced Swift. 《swift进阶》学习笔记 swift 5.3|315|2021-12-30|
@@ -16,7 +16,7 @@
 |9|[even-cheng/ECSigner](https://github.com/even-cheng/ECSigner)|iOS签名Mac客户端，一键签名，网络地址直签，多文件同步签，自动区分企业签名和个人证书，一键Assets.car生成、解压导出和替换,自动注册设备并更新下载签名证书和签名文件进行签名，支持动态库注入。支持Swift5和iOS14，macOS10.15并向下兼容。|141|2022-01-21|
 |10|[gl-lei/algorithm](https://github.com/gl-lei/algorithm)|《数据结构与算法之美》学习笔记以及 Swift 代码实现 ，原始仓库 https://github.com/wangzheng0822/algo|116|2021-08-24|
 |11|[yungfan/SwiftUI-learning](https://github.com/yungfan/SwiftUI-learning)|SwiftUI教程配套代码(SwiftUI+SwiftUI 2.0+SwiftUI 3.0)|51|2021-12-30|
-|12|[jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example)|SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。|48|2021-12-05|
+|12|[jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example)|SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。|49|2021-12-05|
 |13|[MengLiMing/EasyKits](https://github.com/MengLiMing/EasyKits)|日常开发使用到的一些简单封装，目前包含：常用扩展，分类导航，类似简书的UIScrollView嵌套、复杂列表等|39|2022-01-05|
 |14|[ZhongshanHuang/PoReader](https://github.com/ZhongshanHuang/PoReader)|本地小说阅读器，支持深色模式，Wifi传书，代码简洁有注释(local text reader, support dark modal, upload text by wifi)|32|2021-10-20|
 |15|[yungfan/iOS-BasedOnSwift](https://github.com/yungfan/iOS-BasedOnSwift)|iOS开发教程案例代码|27|2022-01-19|

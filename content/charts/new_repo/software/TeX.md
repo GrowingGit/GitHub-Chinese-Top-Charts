@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2022-01-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -19,8 +19,8 @@
 |12|[NelsonCheung-cn/SYSU-beamer-template](https://github.com/NelsonCheung-cn/SYSU-beamer-template)|a beamer template for sysu|11|2021-12-19|2021-06-16|
 |13|[Ianpundar/WHU-LaTex-Template](https://github.com/Ianpundar/WHU-LaTex-Template)|-|10|2021-12-13|2021-10-11|
 |14|[WoodyBryant/Report_Template](https://github.com/WoodyBryant/Report_Template)|Report_Template|9|2021-11-05|2021-09-19|
-|15|[syvshc/HITBeamer](https://github.com/syvshc/HITBeamer)|基于 THU-Beamer-Theme (https://github.com/Trinkle23897/THU-Beamer-Theme) 删删改改而成的 :bug:|9|2021-11-17|2021-05-17|
-|16|[wenddymacro/AppliedEconometrics](https://github.com/wenddymacro/AppliedEconometrics)|Stata、计量经济学、DSGE|8|2021-10-28|2021-08-29|
+|15|[wenddymacro/AppliedEconometrics](https://github.com/wenddymacro/AppliedEconometrics)|Stata、计量经济学、DSGE|9|2021-10-28|2021-08-29|
+|16|[syvshc/HITBeamer](https://github.com/syvshc/HITBeamer)|基于 THU-Beamer-Theme (https://github.com/Trinkle23897/THU-Beamer-Theme) 删删改改而成的 :bug:|9|2021-11-17|2021-05-17|
 |17|[Jinwen-XU/minimalist](https://github.com/Jinwen-XU/minimalist)|-|8|2021-12-16|2021-03-10|
 |18|[Jinwen-XU/colorist](https://github.com/Jinwen-XU/colorist)|-|7|2021-12-17|2021-03-10|
 |19|[syvshc/tlmgr-intro-zh-cn](https://github.com/syvshc/tlmgr-intro-zh-cn)|关于 tlmgr 使用的简短的介绍. :heart:|7|2021-09-05|2021-03-06|

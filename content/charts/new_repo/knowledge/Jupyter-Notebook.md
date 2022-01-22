@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Jupyter Notebook
-<sub>数据更新: 2022-01-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Fafa-DL/Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021春季机器学习课程课件及作业|1544|2021-12-20|2021-02-28|
-|2|[Charmve/computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action)|学习闭环《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页|1288|2022-01-11|2021-04-29|
-|3|[fengdu78/WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course)|温州大学《机器学习》课程资料（代码、课件等）|884|2022-01-21|2021-03-21|
-|4|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|507|2022-01-21|2021-03-11|
-|5|[d2l-ai/courses-zh-v2](https://github.com/d2l-ai/courses-zh-v2)|中文版 v2 课程|239|2021-09-14|2021-01-26|
-|6|[xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)|LaTeX论文写作教程 (中文版)|212|2022-01-14|2021-03-29|
+|1|[Fafa-DL/Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021春季机器学习课程课件及作业|1547|2021-12-20|2021-02-28|
+|2|[Charmve/computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action)|学习闭环《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页|1289|2022-01-11|2021-04-29|
+|3|[fengdu78/WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course)|温州大学《机器学习》课程资料（代码、课件等）|886|2022-01-21|2021-03-21|
+|4|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|508|2022-01-21|2021-03-11|
+|5|[d2l-ai/courses-zh-v2](https://github.com/d2l-ai/courses-zh-v2)|中文版 v2 课程|240|2021-09-14|2021-01-26|
+|6|[xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)|LaTeX论文写作教程 (中文版)|214|2022-01-22|2021-03-29|
 |7|[microsoft/AIforEarthDataSets](https://github.com/microsoft/AIforEarthDataSets)|Notebooks and documentation for AI-for-Earth-managed datasets on Azure|173|2022-01-07|2021-02-18|
 |8|[liuhuanshuo/Pandas_Advanced_Exercise](https://github.com/liuhuanshuo/Pandas_Advanced_Exercise)|Pandas进阶修炼300题|153|2021-09-22|2021-09-22|
 |9|[datawhalechina/machine-learning-toy-code](https://github.com/datawhalechina/machine-learning-toy-code)|《机器学习》（西瓜书）代码实战|128|2022-01-04|2021-07-16|
-|10|[sherlcok314159/ML](https://github.com/sherlcok314159/ML)|此仓库将介绍Deep Learning 所需要的基础知识以及NLP方面的模型原理到项目实操 : )|97|2022-01-12|2021-02-19|
-|11|[ZitongLu1996/Python-EEG-Handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook)|Python脑电数据处理中文手册 - A Chinese handbook for EEG data analysis based on Python|90|2021-09-23|2021-07-02|
+|10|[sherlcok314159/ML](https://github.com/sherlcok314159/ML)|此仓库将介绍Deep Learning 所需要的基础知识以及NLP方面的模型原理到项目实操 : )|97|2022-01-22|2021-02-19|
+|11|[ZitongLu1996/Python-EEG-Handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook)|Python脑电数据处理中文手册 - A Chinese handbook for EEG data analysis based on Python|91|2021-09-23|2021-07-02|
 |12|[shibing624/nlp-tutorial](https://github.com/shibing624/nlp-tutorial)|自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。|71|2021-10-21|2021-08-06|
-|13|[skywateryang/timeseries101](https://github.com/skywateryang/timeseries101)|本教程独立网站已上线|56|2021-12-28|2021-06-11|
+|13|[skywateryang/timeseries101](https://github.com/skywateryang/timeseries101)|本教程独立网站已上线|55|2021-12-28|2021-06-11|
 |14|[Sharpiless/yolov5-distillation-5.0](https://github.com/Sharpiless/yolov5-distillation-5.0)|yolov5 5.0 version distillation    yolov5 5.0版本知识蒸馏，yolov5l >> yolov5s|54|2021-07-29|2021-05-17|
 |15|[ssssww0905/-PyTorch-](https://github.com/ssssww0905/-PyTorch-)|【PyTorch】手把手教你跑通第一个神经网络|52|2022-01-03|2021-11-19|
 |16|[zhangjx831/Data-Science-Notes](https://github.com/zhangjx831/Data-Science-Notes)|数据科学与机器学习炼成笔记|51|2021-12-29|2021-03-30|
