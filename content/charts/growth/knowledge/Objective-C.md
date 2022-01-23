@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Objective-C
-<sub>数据更新: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4742|6|2022-01-15|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4745|6|2022-01-15|
 |2|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2352|2|2021-12-16|
 |3|[LGCooci/KCiOSGrocery](https://github.com/LGCooci/KCiOSGrocery)|iOS开发杂货铺: 面试题+考试试卷+懒人开发tips|435|1|2021-10-10|
 |4|[SunshineBrother/JHBlog](https://github.com/SunshineBrother/JHBlog)|iOS开发：我的初级到中级的晋级之路|1196|1|2021-07-29|
@@ -28,11 +28,11 @@
 |21|[Veeco/WGExtension](https://github.com/Veeco/WGExtension)|iOS实用工具小合集|5|0|2021-08-09|
 |22|[onezens/WeChatBot](https://github.com/onezens/WeChatBot)|Tweak 工程创建、配置教程 & 实现logos语法自动补全|29|0|2021-09-24|
 |23|[DJI-Mobile-SDK-Tutorials/iOS-SimulatorDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-SimulatorDemo)|This demo shows you how to use the DJISimulator of DJI Mobile SDK.|17|0|2021-10-11|
-|24|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|1.抖音视频转场动画, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok  2.铃声多多,上传铃声音频到库乐队(GarageBand) 3.微博主页、简书主页等。多页面嵌套列表分页滚动，上下滑动，左右滑动切换页面。类似TableView共用HeaderView悬浮,仿头条标签编辑,铃声多多音乐播放界面(豆瓣电影主页)。|290|0|2022-01-22|
+|24|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|1.抖音视频转场动画, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok  2.铃声多多,上传铃声音频到库乐队(GarageBand) 3.微博主页、简书主页等。多页面嵌套列表分页滚动，上下滑动，左右滑动切换页面。类似TableView共用HeaderView悬浮,仿头条标签编辑,铃声多多音乐播放界面(豆瓣电影主页)。|290|0|2022-01-23|
 |25|[Xcoder1011/OC_StudyDemo](https://github.com/Xcoder1011/OC_StudyDemo)|记录个人学习Objective-C的一些demo ，基于AFNetworking3.x封装网络请求，实现GET、POST请求、多任务断点续传|2|0|2021-09-28|
 |26|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|448|0|2021-12-24|
 |27|[aolan/iOS_Develop](https://github.com/aolan/iOS_Develop)|该文档都是日常开发过程中解决问题的经验总结。|7|0|2021-11-30|
-|28|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1199|0|2022-01-21|
+|28|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1201|0|2022-01-21|
 |29|[Lin-Bing/SampleCode](https://github.com/Lin-Bing/SampleCode)|博客相关代码示例|7|0|2021-09-22|
 |30|[kopuCoder/iOS_Development-Book](https://github.com/kopuCoder/iOS_Development-Book)|适合iOS中高级开发工程狮提升个人能力业务水平的书籍|82|0|2021-11-01|
 |31|[Dioq/ReverseOC](https://github.com/Dioq/ReverseOC)|iOS逆向学习的一些记录|4|0|2021-12-06|
@@ -56,7 +56,7 @@
 |49|[skyming/Study](https://github.com/skyming/Study)|学习日志记录、笔记|22|0|2021-12-01|
 |50|[GardenerYun/iOS--Note](https://github.com/GardenerYun/iOS--Note)|iOS研究笔记|9|0|2021-12-23|
 |51|[bqlin/Apple-Sample-Code](https://github.com/bqlin/Apple-Sample-Code)|苹果示例代码学习|18|0|2021-09-02|
-|52|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|MoviePlayer which based on FFmpeg step by step tutorials for iOS/macOS developer. （使用 FFMpeg 封装播放器系列教程，适合零基础的 iOS/macOS 开发者学习）|148|0|2022-01-21|
+|52|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|MoviePlayer which based on FFmpeg step by step tutorials for iOS/macOS developer. （使用 FFMpeg 封装播放器系列教程，适合零基础的 iOS/macOS 开发者学习）|148|0|2022-01-23|
 |53|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|63|0|2022-01-11|
 
 <div align="center">

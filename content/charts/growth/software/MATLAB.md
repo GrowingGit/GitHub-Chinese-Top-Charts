@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -36,7 +36,7 @@
 |29|[xingchenzhang/VIFB](https://github.com/xingchenzhang/VIFB)|Visible and Infrared Image Fusion Benchmark|157|0|2021-09-27|
 |30|[seer-group329/PositionAndPosConnectionOfTheCar](https://github.com/seer-group329/PositionAndPosConnectionOfTheCar)|在已知无人仓储车的起始与目标位姿的条件下，得到三阶连续的曲线路径|5|0|2021-09-18|
 |31|[yeyuanxin110/CFOG](https://github.com/yeyuanxin110/CFOG)|-|11|0|2021-11-20|
-|32|[yfor1008/saliency_detection](https://github.com/yfor1008/saliency_detection)|显著性检测|5|0|2021-10-12|
+|32|[yfor1008/saliency_detection](https://github.com/yfor1008/saliency_detection)|显著性检测|5|0|2022-01-23|
 |33|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|0|2021-12-21|
 |34|[Uestc-xiye/CUMCM2020-Probelms-C](https://github.com/Uestc-xiye/CUMCM2020-Probelms-C)|2020年高教社杯全国大学生数学建模C题：中小微企业的信贷决策|2|0|2021-07-26|
 |35|[tjzhang1993/Infrared-image-processing](https://github.com/tjzhang1993/Infrared-image-processing)|用于处理红外热成像得到的图片|2|0|2021-11-29|

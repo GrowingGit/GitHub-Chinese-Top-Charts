@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Swift
-<sub>数据更新: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|13195|5|2021-08-05|
-|2|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4033|4|2021-09-14|
+|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|13196|5|2021-08-05|
+|2|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4032|4|2021-09-14|
 |3|[Lakr233/myyearwithgit](https://github.com/Lakr233/myyearwithgit)|代码仓库年终总结报告。|173|3|2022-01-10|
 |4|[coyingcat/15DaysofAnimationsinSwift](https://github.com/coyingcat/15DaysofAnimationsinSwift)|Swift，学习动画，升级原版本 ， larrynatalicio/15DaysofAnimationsinSwift|9|0|2021-09-28|
 |5|[ZhongshanHuang/PoReader](https://github.com/ZhongshanHuang/PoReader)|本地小说阅读器，支持深色模式，Wifi传书，代码简洁有注释(local text reader, support dark modal, upload text by wifi)|32|0|2021-10-20|
@@ -16,7 +16,7 @@
 |9|[Liaoworking/Advanced-Swift](https://github.com/Liaoworking/Advanced-Swift)|Notes of Advanced Swift. 《swift进阶》学习笔记 swift 5.3|315|0|2021-12-30|
 |10|[jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example)|SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。|49|0|2021-12-05|
 |11|[Li-JianXin/Swift_Leetcode](https://github.com/Li-JianXin/Swift_Leetcode)|leetcode学习|5|0|2022-01-19|
-|12|[ZamzamInc/ZamzamKit](https://github.com/ZamzamInc/ZamzamKit)|A Swift package for rapid development using a collection of micro utility extensions for Standard Library, Foundation, and other native frameworks.|250|0|2022-01-19|
+|12|[ZamzamInc/ZamzamKit](https://github.com/ZamzamInc/ZamzamKit)|A Swift package for rapid development using a collection of micro utility extensions for Standard Library, Foundation, and other native frameworks.|250|0|2022-01-22|
 |13|[gl-lei/algorithm](https://github.com/gl-lei/algorithm)|《数据结构与算法之美》学习笔记以及 Swift 代码实现 ，原始仓库 https://github.com/wangzheng0822/algo|116|0|2021-08-24|
 |14|[yungfan/SwiftUI-learning](https://github.com/yungfan/SwiftUI-learning)|SwiftUI教程配套代码(SwiftUI+SwiftUI 2.0+SwiftUI 3.0)|51|0|2021-12-30|
 |15|[ccworld1000/OKKLineMin](https://github.com/ccworld1000/OKKLineMin)|OKKLineMin kline for min for learning for iPhone (support Swift5 & the latest  iPhone & iOS 15)(min K线图 用于学习了解)|22|0|2021-08-09|

@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2022-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around)|自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。|80|2022-01-19|2021-05-19|
-|2|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|60|2022-01-22|2022-01-05|
-|3|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|54|2022-01-22|2021-08-22|
+|2|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|63|2022-01-23|2022-01-05|
+|3|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|55|2022-01-23|2021-08-22|
 |4|[CoderWanp/vue-d3-graph](https://github.com/CoderWanp/vue-d3-graph)|vue+d3v6实现动态知识图谱可视化展示（包含2D和3D图谱展示）|44|2021-07-27|2021-04-07|
 |5|[eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)|大千世界，何其茫茫。谨此笔记，记录过往。凭君阅览，小站洛荒。如能收益，莫大奢望|38|2022-01-21|2021-05-24|
 |6|[toimc-team/front-end-notes](https://github.com/toimc-team/front-end-notes)|大前端课程电子书计划，前端知识总结 + 分享|27|2022-01-08|2021-04-16|
@@ -33,7 +33,6 @@
 |26|[caiheping/oa-sys](https://github.com/caiheping/oa-sys)|通用后台管理系统，后端主要由node(egg.js)，MySQL，JWT，Sequelize，前端主要由vue3.0，typescript，pinia，ant-design-vue，windicss，vite编写的后台管理系统，master分支是通用后台管理系统，feature-oa是员工管理系统|5|2021-12-08|2021-10-19|
 |27|[ZARD0520/ZARD_Boke](https://github.com/ZARD0520/ZARD_Boke)|基于vue+node+mongodb的个人博客小站，node采用了express框架，mongodb用了mongoose驱动库|5|2021-08-25|2021-08-24|
 |28|[JS-Encoder/JS-Encoder-Online](https://github.com/JS-Encoder/JS-Encoder-Online)|JS Encoder Online 在线编辑代码分享平台前端部分|5|2021-11-24|2021-08-16|
-|29|[bangbang6/paperManagement](https://github.com/bangbang6/paperManagement)|华科论文管理系统|5|2021-07-24|2021-03-01|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
