@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -12,7 +12,7 @@
 |5|[lionvoom/WeAppTongCeng](https://github.com/lionvoom/WeAppTongCeng)|小程序同层渲染|85|2021-10-29|2021-03-16|
 |6|[HighwayLaw/HWThrottle](https://github.com/HighwayLaw/HWThrottle)|A lite Objective-C library for throttle and debounce, supporting leading and trailing. 节流/限流/防反跳/防重复点击/防重复调用|85|2021-11-18|2021-02-20|
 |7|[OpenIMSDK/Open-IM-SDK-iOS](https://github.com/OpenIMSDK/Open-IM-SDK-iOS)|OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，iOS版本IM SDK 可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。|81|2022-01-19|2021-05-26|
-|8|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|53|2022-01-06|2021-03-08|
+|8|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|54|2022-01-06|2021-03-08|
 |9|[FoneG/FGIAPService](https://github.com/FoneG/FGIAPService)|iap内购实现解决方案|49|2021-12-07|2021-05-14|
 |10|[HansenCCC/KKQuickDraw](https://github.com/HansenCCC/KKQuickDraw)|iOS实现HTML H5秒开、拦截请求替换资源、优化HTML加载速度|47|2021-08-25|2021-05-17|
 |11|[jiangzhengnan/NgGithubIos](https://github.com/jiangzhengnan/NgGithubIos)|🍎 基于iOS端，使用Objective-C编写的Github个人版本|46|2021-09-04|2021-07-04|
@@ -52,12 +52,12 @@
 |45|[snice/uniapp-flutter](https://github.com/snice/uniapp-flutter)|uniapp 与 Flutter 混合案例|6|2021-09-26|2021-03-14|
 |46|[nongshifu/Bsphp](https://github.com/nongshifu/Bsphp)|OC对接BSphp验证系统|6|2021-08-12|2021-02-17|
 |47|[QiShare/QiDownloadAndUploadPic](https://github.com/QiShare/QiDownloadAndUploadPic)|iOS原生框架下异步多图片上传、下载工具。支持下载图片到自定义相册,支持后台操作，支持设置最大并发数，无第三方依赖。|5|2021-11-26|2021-11-24|
-|48|[zeqinjie/TWMultiUploadFileManager](https://github.com/zeqinjie/TWMultiUploadFileManager)|基于 AWS3 设计的分片上传管理封装类|5|2021-08-31|2021-08-25|
-|49|[theseustech/SotDemo](https://github.com/theseustech/SotDemo)|SOT iOS热更新方案的示例DEMO|5|2021-09-25|2021-08-07|
-|50|[EatherToo/react-native-onepass-alibaba](https://github.com/EatherToo/react-native-onepass-alibaba)|阿里云平台的手机号一键登录|5|2021-07-30|2021-07-28|
-|51|[fatboy-hard/react-native-gcy-datakit](https://github.com/fatboy-hard/react-native-gcy-datakit)|观测云RN集成|4|2021-12-09|2021-11-29|
-|52|[crifan/iOSAutomation](https://github.com/crifan/iOSAutomation)|iOS设备自动化操作的环境搭建和代码演示|4|2021-09-03|2021-09-03|
-|53|[QuintGao/GKPlaceholder](https://github.com/QuintGao/GKPlaceholder)|UIScrollView空数据占位图|4|2021-12-03|2021-08-30|
+|48|[QuintGao/GKPlaceholder](https://github.com/QuintGao/GKPlaceholder)|UIScrollView空数据占位图|5|2021-12-03|2021-08-30|
+|49|[zeqinjie/TWMultiUploadFileManager](https://github.com/zeqinjie/TWMultiUploadFileManager)|基于 AWS3 设计的分片上传管理封装类|5|2021-08-31|2021-08-25|
+|50|[theseustech/SotDemo](https://github.com/theseustech/SotDemo)|SOT iOS热更新方案的示例DEMO|5|2021-09-25|2021-08-07|
+|51|[EatherToo/react-native-onepass-alibaba](https://github.com/EatherToo/react-native-onepass-alibaba)|阿里云平台的手机号一键登录|5|2021-07-30|2021-07-28|
+|52|[fatboy-hard/react-native-gcy-datakit](https://github.com/fatboy-hard/react-native-gcy-datakit)|观测云RN集成|4|2021-12-09|2021-11-29|
+|53|[crifan/iOSAutomation](https://github.com/crifan/iOSAutomation)|iOS设备自动化操作的环境搭建和代码演示|4|2021-09-03|2021-09-03|
 |54|[CoderMSY/MSYTableView](https://github.com/CoderMSY/MSYTableView)|数据驱动型UITableView库，封装delegate/dataSource,开发者只需构造数据及自定义Cell|4|2021-12-03|2021-08-20|
 |55|[ljunb/Zelda](https://github.com/ljunb/Zelda)|支持链式语法的轻量FlexBox布局库|4|2021-08-17|2021-08-14|
 |56|[frankKiwi/FNKKeepAlive](https://github.com/frankKiwi/FNKKeepAlive)|ios后台保活策略|4|2021-08-21|2021-08-04|
@@ -85,7 +85,7 @@
 |78|[mlcldh/GNUstepBase](https://github.com/mlcldh/GNUstepBase)|GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一遍。|2|2022-01-14|2022-01-08|
 |79|[nongshifu/iOS-](https://github.com/nongshifu/iOS-)|iOS模拟点击/拖动 各种游戏王座,自瞄,压枪基址,只需要简单的一行代码记录屏幕xy坐标|2|2021-11-29|2021-11-29|
 |80|[qingqiusuomeng/LQAlertViewKit](https://github.com/qingqiusuomeng/LQAlertViewKit)|自定义UIAlertViewController|2|2021-11-16|2021-11-10|
-|81|[oychshy/AppleRegister](https://github.com/oychshy/AppleRegister)|appleId 模点|2|2021-11-03|2021-11-03|
+|81|[oychshy/AppleRegister](https://github.com/oychshy/AppleRegister)|appleId 模点|2|2022-01-24|2021-11-03|
 |82|[chenXming/QhSaveImageToLibrary](https://github.com/chenXming/QhSaveImageToLibrary)|多线程下载、上传图片。支持下载到自定义相册，支持设置最大并发数，支持后台处理任务。没有使用任何第三方相关类库，系统原生方法实现，无依赖负担。|2|2021-12-02|2021-11-03|
 |83|[AlexanderWei/cjlm](https://github.com/AlexanderWei/cjlm)|菜鸡联盟|2|2021-10-25|2021-10-25|
 |84|[chinaxxren/VVModule](https://github.com/chinaxxren/VVModule)|VVModule是面向协议的iOS模块化框架，同时它还支持URL路由和模块间通信机制,并且覆盖启动阶段的main函数的前后|2|2021-10-28|2021-10-22|

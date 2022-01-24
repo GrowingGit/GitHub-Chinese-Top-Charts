@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around)|自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。|80|2022-01-19|2021-05-19|
-|2|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|63|2022-01-23|2022-01-05|
-|3|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|55|2022-01-23|2021-08-22|
+|1|[OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around)|自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。|81|2022-01-19|2021-05-19|
+|2|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|67|2022-01-24|2022-01-05|
+|3|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|56|2022-01-24|2021-08-22|
 |4|[CoderWanp/vue-d3-graph](https://github.com/CoderWanp/vue-d3-graph)|vue+d3v6实现动态知识图谱可视化展示（包含2D和3D图谱展示）|44|2021-07-27|2021-04-07|
-|5|[eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)|大千世界，何其茫茫。谨此笔记，记录过往。凭君阅览，小站洛荒。如能收益，莫大奢望|38|2022-01-21|2021-05-24|
+|5|[eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)|大千世界，何其茫茫。谨此笔记，记录过往。凭君阅览，小站洛荒。如能收益，莫大奢望|39|2022-01-21|2021-05-24|
 |6|[toimc-team/front-end-notes](https://github.com/toimc-team/front-end-notes)|大前端课程电子书计划，前端知识总结 + 分享|27|2022-01-08|2021-04-16|
 |7|[SSmJaE/XueXiTonsSign_Electron](https://github.com/SSmJaE/XueXiTonsSign_Electron)|基于Electron的超星学习通签到小工具，支持手动签到、签到队列自动签到|24|2021-11-02|2021-04-19|
 |8|[tnfe/shida](https://github.com/tnfe/shida)|《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。|20|2022-01-19|2022-01-15|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Assembly
-<sub>数据更新: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -22,9 +22,8 @@
 |15|[YoooHaaa/Roster](https://github.com/YoooHaaa/Roster)|科锐三阶段项目---16位汇编通讯录|2|2021-09-22|2021-09-22|
 |16|[n13eho/CalciferCompiler](https://github.com/n13eho/CalciferCompiler)|2021年全国大学生计算机系统能力大赛—— 编译系统设计赛（华为毕昇杯）中，Calcifer队伍的作品|2|2021-11-21|2021-09-09|
 |17|[Cute-Cube/CubeOS](https://github.com/Cute-Cube/CubeOS)|Cute-Cube自己制作创新的操作系统。|2|2021-08-18|2021-07-27|
-|18|[lingbai-kong/computer-system](https://github.com/lingbai-kong/computer-system)|同济大学CS《计算机系统实验》实验二TongJi University CS computer system experiment assignment 2|2|2021-07-25|2021-07-25|
-|19|[zmrbak/ReverseAnalysis2](https://github.com/zmrbak/ReverseAnalysis2)|X86/X64软件逆向分析【提高】|2|2021-08-25|2021-05-16|
-|20|[JimmyLiang-lzm/Simulation-of-PID-DC-Motor](https://github.com/JimmyLiang-lzm/Simulation-of-PID-DC-Motor)|基于AT89C52单片机搭建的PID直流电机控制程序，本程序为C语言编写，主要用于Proteus电路仿真。|2|2021-08-30|2021-01-31|
+|18|[zmrbak/ReverseAnalysis2](https://github.com/zmrbak/ReverseAnalysis2)|X86/X64软件逆向分析【提高】|2|2021-08-25|2021-05-16|
+|19|[JimmyLiang-lzm/Simulation-of-PID-DC-Motor](https://github.com/JimmyLiang-lzm/Simulation-of-PID-DC-Motor)|基于AT89C52单片机搭建的PID直流电机控制程序，本程序为C语言编写，主要用于Proteus电路仿真。|2|2021-08-30|2021-01-31|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

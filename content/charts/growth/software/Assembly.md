@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Assembly
-<sub>数据更新: 2022-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52377|18|2022-01-15|
-|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!|7745|2|2022-01-23|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52382|18|2022-01-15|
+|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!|7747|2|2022-01-24|
 |3|[Panda381/ATX80](https://github.com/Panda381/ATX80)|ZX-80 computer clone with ATmega8 processor and with BASIC interpreter written in AVR assembler.|21|1|2021-12-15|
 |4|[BUAADreamer/BUAA-CO-2020](https://github.com/BUAADreamer/BUAA-CO-2020)|2020年北航计组课设代码 This is the BUAA Computer Orgnization code project files.|5|0|2021-11-27|
 |5|[NEUzht/computer_system](https://github.com/NEUzht/computer_system)|孙仲武带带我|3|0|2022-01-09|
@@ -34,9 +34,8 @@
 |27|[fzf404/MiniSys](https://github.com/fzf404/MiniSys)|Nasm汇编写操作系统|5|0|2021-09-23|
 |28|[mysterywolf/rt_memcpy_cm](https://github.com/mysterywolf/rt_memcpy_cm)|rt_memcpy Cortex-M 汇编加速版|3|0|2021-12-08|
 |29|[LiQiang0307/Web_OpenCV_JS](https://github.com/LiQiang0307/Web_OpenCV_JS)|web 计算机视觉之初识OpenCV.js；Flask web  video 分支，利用Flask web框架接收实时视频流并显示|4|0|2022-01-03|
-|30|[lingbai-kong/computer-system](https://github.com/lingbai-kong/computer-system)|同济大学CS《计算机系统实验》实验二TongJi University CS computer system experiment assignment 2|2|0|2021-07-25|
-|31|[JimmyLiang-lzm/Simulation-of-PID-DC-Motor](https://github.com/JimmyLiang-lzm/Simulation-of-PID-DC-Motor)|基于AT89C52单片机搭建的PID直流电机控制程序，本程序为C语言编写，主要用于Proteus电路仿真。|2|0|2021-08-30|
-|32|[huang-jl/LLCL-MIPS](https://github.com/huang-jl/LLCL-MIPS)|LLCL-MIPS is a superscalar MIPS processor, which supports MIPS Release 1 instructions and is capable of booting linux kernel. （第五届龙芯杯特等奖作品）|9|0|2021-09-25|
+|30|[JimmyLiang-lzm/Simulation-of-PID-DC-Motor](https://github.com/JimmyLiang-lzm/Simulation-of-PID-DC-Motor)|基于AT89C52单片机搭建的PID直流电机控制程序，本程序为C语言编写，主要用于Proteus电路仿真。|2|0|2021-08-30|
+|31|[huang-jl/LLCL-MIPS](https://github.com/huang-jl/LLCL-MIPS)|LLCL-MIPS is a superscalar MIPS processor, which supports MIPS Release 1 instructions and is capable of booting linux kernel. （第五届龙芯杯特等奖作品）|9|0|2021-09-25|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
