@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2022-01-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[xiaodaigh/disk.frame](https://github.com/xiaodaigh/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|574|2022-01-24|
 |2|[pzhaonet/mindr](https://github.com/pzhaonet/mindr)|an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms)|540|2021-11-22|
 |3|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|500|2022-01-20|
-|4|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|364|2022-01-24|
+|4|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|364|2022-01-25|
 |5|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|349|2022-01-22|
 |6|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|222|2022-01-17|
 |7|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|161|2021-12-19|
 |8|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|151|2021-10-10|
 |9|[hrbrmstr/docxtractr](https://github.com/hrbrmstr/docxtractr)|:scissors: Extract Tables from Microsoft Word Documents with R|148|2021-10-02|
-|10|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|2022-01-24|
+|10|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|2022-01-25|
 |11|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|132|2021-11-28|
 |12|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|111|2022-01-24|
 |13|[quanteda/stopwords](https://github.com/quanteda/stopwords)|Multilingual Stopword Lists in R|102|2022-01-07|
@@ -36,7 +36,7 @@
 |29|[koheiw/LSX](https://github.com/koheiw/LSX)|A word embeddings-based semi-supervised model for document scaling|42|2022-01-22|
 |30|[pzhaonet/pinyin](https://github.com/pzhaonet/pinyin)|an R package for converting Chineses characters into pinyin|40|2021-08-22|
 |31|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|37|2021-11-26|
-|32|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|35|2022-01-14|
+|32|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|36|2022-01-14|
 |33|[rOpenStats/COVID19analyticsBak2109](https://github.com/rOpenStats/COVID19analyticsBak2109)|-|32|2021-10-03|
 |34|[cjgeyer/foo](https://github.com/cjgeyer/foo)|A demo for a class|32|2022-01-04|
 |35|[mponce0/covid19.analytics](https://github.com/mponce0/covid19.analytics)|R package to obtain and analyze live data from the nCOVID19 coronavirus|31|2021-09-13|
@@ -58,33 +58,34 @@
 |51|[CBIIT/LDlinkR](https://github.com/CBIIT/LDlinkR)|LDlinkR|19|2021-10-07|
 |52|[kevinwang09/learningtower](https://github.com/kevinwang09/learningtower)|Easily accessible PISA data|18|2021-09-07|
 |53|[yukiyanai/quant-methods-R](https://github.com/yukiyanai/quant-methods-R)|Repository for "Quantitative Methods in Political Science Using R" by Masahiko Asano and Yuki Yanai|16|2021-11-17|
-|54|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|15|2022-01-24|
-|55|[pzhaonet/beginr](https://github.com/pzhaonet/beginr)|an R package for beginners|15|2021-12-03|
-|56|[r-stata/hotkeys](https://github.com/r-stata/hotkeys)|自定义 RStudio 快捷键！|14|2021-07-29|
-|57|[fragla/eq5d](https://github.com/fragla/eq5d)|-|13|2021-12-25|
-|58|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|12|2021-11-26|
-|59|[Hong-Kong-Districts-Info/hkdatasets](https://github.com/Hong-Kong-Districts-Info/hkdatasets)|Datasets relating to Hong Kong|12|2021-09-04|
-|60|[davidycliao/redguards](https://github.com/davidycliao/redguards)|This is a designed package for replicating the estimates and findings in the article of Factionalism and the Red Guards under Mao's China: Ideal Point Estimation Using Text Data. |11|2022-01-14|
-|61|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|11|2021-11-23|
-|62|[DongqiangZeng0808/Blasso](https://github.com/DongqiangZeng0808/Blasso)|Integrating LASSO and bootstrapping algorithm to find best prognostic or predictive biomarkers|10|2021-10-26|
-|63|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|10|2021-09-25|
-|64|[helixcn/spaa](https://github.com/helixcn/spaa)|Miscellaneous functions for analysis of species association and niche overlap|10|2021-08-12|
-|65|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|10|2022-01-18|
-|66|[Wytamma/GISAIDR](https://github.com/Wytamma/GISAIDR)|Programmatically interact with the GISAID database.|8|2021-12-19|
-|67|[YuLab-SMU/nCov2019](https://github.com/YuLab-SMU/nCov2019)|:microbe: Exploring COVID-19 data|8|2021-12-13|
-|68|[majianthu/aps2020](https://github.com/majianthu/aps2020)|Code for the paper 'Variable Selection with Copula Entropy' published on Chinese Journal of Applied Probability and Statistics|8|2021-12-31|
-|69|[esowc/UNSEEN-open](https://github.com/esowc/UNSEEN-open)|An open, reproducible and transferable workflow to assess and anticipate climate extremes beyond the observed record|8|2021-09-14|
-|70|[dazamora/DWBmodelUN](https://github.com/dazamora/DWBmodelUN)|R native implementation of the Dynamic Water Balance hydrologic model in a monthly time step |8|2021-09-29|
-|71|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|8|2021-11-08|
-|72|[OxDemTech/china_diplomats](https://github.com/OxDemTech/china_diplomats)|-|7|2021-11-16|
-|73|[chainsawriot/sweater](https://github.com/chainsawriot/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|7|2022-01-20|
-|74|[sammo3182/regioncode](https://github.com/sammo3182/regioncode)|Software for converting regional administrative codes (China) over years|7|2021-08-05|
-|75|[lexcomber/GWRroutemap](https://github.com/lexcomber/GWRroutemap)|the GWR route maps for physical and human geography|7|2022-01-11|
-|76|[sascha2schroeder/popEye](https://github.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|7|2021-11-01|
-|77|[lexcomber/SpatInt](https://github.com/lexcomber/SpatInt)|Examples of different Spatial Interpolation approaches in R |7|2022-01-20|
-|78|[ji1ai1/201907-CIKMI](https://github.com/ji1ai1/201907-CIKMI)|CIKM 2019 EComm AI：超大规模推荐之用户兴趣高效检索|6|2021-09-10|
-|79|[ShixiangWang/tinyscholar](https://github.com/ShixiangWang/tinyscholar)|A Tiny R Package to Get and Show Google Scholar Profile|6|2021-10-26|
-|80|[leileibama/leoDDcalculator](https://github.com/leileibama/leoDDcalculator)|leoDDcalculator, a package calculating the values of mdd and ndd of texts in a folder|6|2021-11-08|
+|54|[IshidaMotohiro/TextMining](https://github.com/IshidaMotohiro/TextMining)|-|16|2022-01-25|
+|55|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|15|2022-01-25|
+|56|[pzhaonet/beginr](https://github.com/pzhaonet/beginr)|an R package for beginners|15|2021-12-03|
+|57|[r-stata/hotkeys](https://github.com/r-stata/hotkeys)|自定义 RStudio 快捷键！|14|2021-07-29|
+|58|[fragla/eq5d](https://github.com/fragla/eq5d)|-|13|2021-12-25|
+|59|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|12|2021-11-26|
+|60|[Hong-Kong-Districts-Info/hkdatasets](https://github.com/Hong-Kong-Districts-Info/hkdatasets)|Datasets relating to Hong Kong|12|2021-09-04|
+|61|[davidycliao/redguards](https://github.com/davidycliao/redguards)|This is a designed package for replicating the estimates and findings in the article of Factionalism and the Red Guards under Mao's China: Ideal Point Estimation Using Text Data. |11|2022-01-14|
+|62|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|11|2021-11-23|
+|63|[DongqiangZeng0808/Blasso](https://github.com/DongqiangZeng0808/Blasso)|Integrating LASSO and bootstrapping algorithm to find best prognostic or predictive biomarkers|10|2021-10-26|
+|64|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|10|2021-09-25|
+|65|[helixcn/spaa](https://github.com/helixcn/spaa)|Miscellaneous functions for analysis of species association and niche overlap|10|2021-08-12|
+|66|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|10|2022-01-18|
+|67|[Wytamma/GISAIDR](https://github.com/Wytamma/GISAIDR)|Programmatically interact with the GISAID database.|8|2021-12-19|
+|68|[YuLab-SMU/nCov2019](https://github.com/YuLab-SMU/nCov2019)|:microbe: Exploring COVID-19 data|8|2021-12-13|
+|69|[majianthu/aps2020](https://github.com/majianthu/aps2020)|Code for the paper 'Variable Selection with Copula Entropy' published on Chinese Journal of Applied Probability and Statistics|8|2021-12-31|
+|70|[esowc/UNSEEN-open](https://github.com/esowc/UNSEEN-open)|An open, reproducible and transferable workflow to assess and anticipate climate extremes beyond the observed record|8|2021-09-14|
+|71|[dazamora/DWBmodelUN](https://github.com/dazamora/DWBmodelUN)|R native implementation of the Dynamic Water Balance hydrologic model in a monthly time step |8|2021-09-29|
+|72|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|8|2021-11-08|
+|73|[OxDemTech/china_diplomats](https://github.com/OxDemTech/china_diplomats)|-|7|2021-11-16|
+|74|[chainsawriot/sweater](https://github.com/chainsawriot/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|7|2022-01-20|
+|75|[sammo3182/regioncode](https://github.com/sammo3182/regioncode)|Software for converting regional administrative codes (China) over years|7|2021-08-05|
+|76|[lexcomber/GWRroutemap](https://github.com/lexcomber/GWRroutemap)|the GWR route maps for physical and human geography|7|2022-01-11|
+|77|[sascha2schroeder/popEye](https://github.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|7|2021-11-01|
+|78|[lexcomber/SpatInt](https://github.com/lexcomber/SpatInt)|Examples of different Spatial Interpolation approaches in R |7|2022-01-20|
+|79|[ji1ai1/201907-CIKMI](https://github.com/ji1ai1/201907-CIKMI)|CIKM 2019 EComm AI：超大规模推荐之用户兴趣高效检索|6|2021-09-10|
+|80|[ShixiangWang/tinyscholar](https://github.com/ShixiangWang/tinyscholar)|A Tiny R Package to Get and Show Google Scholar Profile|6|2021-10-26|
+|81|[leileibama/leoDDcalculator](https://github.com/leileibama/leoDDcalculator)|leoDDcalculator, a package calculating the values of mdd and ndd of texts in a folder|6|2021-11-08|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

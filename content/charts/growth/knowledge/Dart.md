@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Dart
-<sub>数据更新: 2022-01-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[huanxsd/flutter_shuqi](https://github.com/huanxsd/flutter_shuqi)|高仿书旗小说 Flutter版，支持iOS、Android|2315|2|2021-12-03|
-|2|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|234|1|2021-12-29|
+|2|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|235|1|2021-12-29|
 |3|[JoneYng/course_flutter](https://github.com/JoneYng/course_flutter)|课程|5|0|2021-12-23|
 |4|[RxReader/tencent_kit](https://github.com/RxReader/tencent_kit)|flutter版QQ登录/分享|168|0|2022-01-18|
 |5|[pheromone/Flutter_learn_demo](https://github.com/pheromone/Flutter_learn_demo)|Flutter_learn_demo  Flutter学习历程|105|0|2022-01-20|
@@ -27,7 +27,7 @@
 |20|[ThinkerJack/flutter_demo](https://github.com/ThinkerJack/flutter_demo)|Flutter开发中常用功能合集。|5|0|2021-08-01|
 |21|[RxReader/weibo_kit](https://github.com/RxReader/weibo_kit)|flutter版新浪微博登录/分享|81|0|2021-12-02|
 |22|[AgoraIO-Community/Agora-Flutter-Quickstart](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart)|Quickstart guide for the Agora Flutter SDK(Android/iOS)|489|0|2021-10-14|
-|23|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|36|0|2022-01-19|
+|23|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|36|0|2022-01-25|
 |24|[woshiluoyong/FlutterNcpApp](https://github.com/woshiluoyong/FlutterNcpApp)|本应用采用kotlin语言编写查看NCP(新型冠状肺炎)疫情数据(可做Flutter入门参考项目)|6|0|2021-08-16|
 |25|[longer96/flutter-demo](https://github.com/longer96/flutter-demo)|🔥Flutter 那些花里胡哨的界面🔥，花里胡哨的底部导航，仿抖音、小红书底部菜单，向上展开菜单，半圆菜单，中间凹进去的菜单，动画底部导航|74|0|2021-10-14|
 |26|[RxReader/wechat_kit](https://github.com/RxReader/wechat_kit)|Flutter 版微信登录/分享/支付 SDK|483|0|2021-10-13|
@@ -36,10 +36,9 @@
 |29|[jiangkang/flutter-system](https://github.com/jiangkang/flutter-system)|Flutter Widgets,Components,Demos,Pages:从入门到产品级开发|23|0|2021-12-25|
 |30|[ezshine/FlutterWidgetsCatalog](https://github.com/ezshine/FlutterWidgetsCatalog)|a project for learning all Flutter Widgets , sync from flutter.dev the officia website.|29|0|2021-08-04|
 |31|[baiyuliang/Flutter-WanWan](https://github.com/baiyuliang/Flutter-WanWan)|Flutter入门项目（首页，消息，圈子，我的）|13|0|2021-08-17|
-|32|[CallMeDK/flutter_stock_project](https://github.com/CallMeDK/flutter_stock_project)|flutter仿写自选股详情，感兴趣的小伙伴fork下一起学习dart。|5|0|2021-07-26|
-|33|[githubityu/flutter_jdshop_mvvm](https://github.com/githubityu/flutter_jdshop_mvvm)|跟着大地老师学习的,模仿京东的一个实战项目，但是根据实际项目做了许多修改和优化|44|0|2021-07-27|
-|34|[Newcore-mobile/DynamicFlutter](https://github.com/Newcore-mobile/DynamicFlutter)|Flutter动态化热更新的思考与实践|144|0|2021-12-22|
-|35|[canhuah/WanAndroid-Flutter](https://github.com/canhuah/WanAndroid-Flutter)|Flutter版本 WanAndroid客户端  适合Flutter入门学习 被张鸿洋微信公众号推荐为优质Flutter开源项目啦|610|0|2021-12-17|
+|32|[githubityu/flutter_jdshop_mvvm](https://github.com/githubityu/flutter_jdshop_mvvm)|跟着大地老师学习的,模仿京东的一个实战项目，但是根据实际项目做了许多修改和优化|44|0|2021-07-27|
+|33|[Newcore-mobile/DynamicFlutter](https://github.com/Newcore-mobile/DynamicFlutter)|Flutter动态化热更新的思考与实践|144|0|2021-12-22|
+|34|[canhuah/WanAndroid-Flutter](https://github.com/canhuah/WanAndroid-Flutter)|Flutter版本 WanAndroid客户端  适合Flutter入门学习 被张鸿洋微信公众号推荐为优质Flutter开源项目啦|610|0|2021-12-17|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

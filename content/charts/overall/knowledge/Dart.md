@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Dart
-<sub>数据更新: 2022-01-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -11,7 +11,7 @@
 |4|[RxReader/wechat_kit](https://github.com/RxReader/wechat_kit)|Flutter 版微信登录/分享/支付 SDK|483|2021-10-13|
 |5|[lizhuoyuan/flutter_study](https://github.com/lizhuoyuan/flutter_study)|flutter 学习记录|250|2021-08-12|
 |6|[jiang111/flutter_code](https://github.com/jiang111/flutter_code)|b站视频教程： https://space.bilibili.com/480410119/ |249|2021-10-25|
-|7|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|234|2021-12-29|
+|7|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|235|2021-12-29|
 |8|[DevYao/flutter_wechat_clone](https://github.com/DevYao/flutter_wechat_clone)|flutter 学习 demo|218|2021-09-24|
 |9|[RxReader/tencent_kit](https://github.com/RxReader/tencent_kit)|flutter版QQ登录/分享|168|2022-01-18|
 |10|[Newcore-mobile/DynamicFlutter](https://github.com/Newcore-mobile/DynamicFlutter)|Flutter动态化热更新的思考与实践|144|2021-12-22|
@@ -25,7 +25,7 @@
 |18|[NewPracticer/Flutter-Dart-DataStructure](https://github.com/NewPracticer/Flutter-Dart-DataStructure)|使用flutter的dart语言重写数据结构与算法。包括线性搜索、选择排序、插入排序、栈，队列，链表、递归、归并排序、快速排序、二分搜索、二分搜索树、集合 和 映射、堆、优先队列、冒泡排序、希尔排序、线段树、Trie字典树、并查集、AVL树、红黑树、哈希表、计数排序、LSD基数排序、MSD排序，桶排序、字符串匹配、图的邻接矩阵、邻接表，深度优先遍历及应用|64|2021-09-24|
 |19|[githubityu/flutter_jdshop_mvvm](https://github.com/githubityu/flutter_jdshop_mvvm)|跟着大地老师学习的,模仿京东的一个实战项目，但是根据实际项目做了许多修改和优化|44|2021-07-27|
 |20|[ChessLuo/flutter_study_app](https://github.com/ChessLuo/flutter_study_app)|🔥勤能补拙，我希望能利用业余时间去学习及总结一些有关flutter的知识并运用到项目中去，Come on！！！|41|2021-08-01|
-|21|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|36|2022-01-19|
+|21|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|36|2022-01-25|
 |22|[ifgyong/flutter-example](https://github.com/ifgyong/flutter-example)|120多种小部件的使用例子，根据 flutter-book的例子,可以直接运行的哦|32|2021-08-12|
 |23|[ezshine/FlutterWidgetsCatalog](https://github.com/ezshine/FlutterWidgetsCatalog)|a project for learning all Flutter Widgets , sync from flutter.dev the officia website.|29|2021-08-04|
 |24|[jiangkang/flutter-system](https://github.com/jiangkang/flutter-system)|Flutter Widgets,Components,Demos,Pages:从入门到产品级开发|23|2021-12-25|
@@ -37,9 +37,8 @@
 |30|[kangshaojun/study-notes](https://github.com/kangshaojun/study-notes)|Flutter React Golang WebRTC等技术学习笔记|6|2021-08-14|
 |31|[zhou-Flutter/flutter_dome](https://github.com/zhou-Flutter/flutter_dome)|实战小红书|6|2021-10-31|
 |32|[woshiluoyong/FlutterNcpApp](https://github.com/woshiluoyong/FlutterNcpApp)|本应用采用kotlin语言编写查看NCP(新型冠状肺炎)疫情数据(可做Flutter入门参考项目)|6|2021-08-16|
-|33|[CallMeDK/flutter_stock_project](https://github.com/CallMeDK/flutter_stock_project)|flutter仿写自选股详情，感兴趣的小伙伴fork下一起学习dart。|5|2021-07-26|
-|34|[ThinkerJack/flutter_demo](https://github.com/ThinkerJack/flutter_demo)|Flutter开发中常用功能合集。|5|2021-08-01|
-|35|[JoneYng/course_flutter](https://github.com/JoneYng/course_flutter)|课程|5|2021-12-23|
+|33|[ThinkerJack/flutter_demo](https://github.com/ThinkerJack/flutter_demo)|Flutter开发中常用功能合集。|5|2021-08-01|
+|34|[JoneYng/course_flutter](https://github.com/JoneYng/course_flutter)|课程|5|2021-12-23|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
