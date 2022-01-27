@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Jupyter Notebook
-<sub>数据更新: 2022-01-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|850|2021-12-29|2021-04-07|
-|2|[4paradigm/AutoX](https://github.com/4paradigm/AutoX)|AutoX is an efficient automl tool, which is mainly aimed at data mining competitions with tabular data.|454|2022-01-25|2021-07-21|
+|1|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|851|2021-12-29|2021-04-07|
+|2|[4paradigm/AutoX](https://github.com/4paradigm/AutoX)|AutoX is an efficient automl tool, which is mainly aimed at data mining competitions with tabular data.|453|2022-01-25|2021-07-21|
 |3|[d2l-ai/d2l-zh-pytorch-slides](https://github.com/d2l-ai/d2l-zh-pytorch-slides)|Pytorch版代码幻灯片|268|2022-01-17|2021-02-04|
-|4|[luo3300612/Visualizer](https://github.com/luo3300612/Visualizer)|assistant tools for attention visualization in deep learning|207|2021-08-11|2021-08-09|
+|4|[luo3300612/Visualizer](https://github.com/luo3300612/Visualizer)|assistant tools for attention visualization in deep learning|208|2021-08-11|2021-08-09|
 |5|[chokkan/mlnote](https://github.com/chokkan/mlnote)|機械学習帳|185|2022-01-25|2021-09-29|
 |6|[44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel)|基于思源黑体的开源像素字体|172|2022-01-03|2021-08-18|
 |7|[datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)|-|122|2021-11-15|2021-07-31|
@@ -16,9 +16,9 @@
 |9|[kevinfu1717/SuperInterstellarTerminal](https://github.com/kevinfu1717/SuperInterstellarTerminal)|【X世纪星际终端】A Wechat Social and AR Game: 基于微信聊天，结合增强现实技术AR+LBS（基于图像位置）的轻社交星际漂流瓶游戏。向外太空发送漂流信息，看看AI预测的外星人是长什么样的，寻找身边的外星人,逗逗外星生物，看看外星植物及外星建筑。Send the message to the outer space, find the aliens in the earth ...|89|2021-12-10|2021-08-01|
 |10|[mindslab-ai/wavegrad2](https://github.com/mindslab-ai/wavegrad2)|Unofficial Pytorch Implementation of WaveGrad2|84|2021-08-18|2021-07-09|
 |11|[dglai/maxp_baseline_model](https://github.com/dglai/maxp_baseline_model)|-|66|2021-11-05|2021-10-06|
-|12|[ni1o1/transbigdata](https://github.com/ni1o1/transbigdata)|A Python package developed for transportation spatio-temporal big data processing, analysis and visualization.|64|2022-01-26|2021-10-21|
+|12|[ni1o1/transbigdata](https://github.com/ni1o1/transbigdata)|A Python package developed for transportation spatio-temporal big data processing, analysis and visualization.|64|2022-01-27|2021-10-21|
 |13|[datawhalechina/learn-python-the-smart-way](https://github.com/datawhalechina/learn-python-the-smart-way)|聪明方法学Python，简明且系统的 Python 入门教程。|54|2022-01-25|2021-07-10|
-|14|[lingjzhu/charsiu](https://github.com/lingjzhu/charsiu)|Charsiu: A neural phonetic aligner.|52|2022-01-26|2021-08-29|
+|14|[lingjzhu/charsiu](https://github.com/lingjzhu/charsiu)|Charsiu: A neural phonetic aligner.|52|2022-01-27|2021-08-29|
 |15|[kzbkzb/Python-AI](https://github.com/kzbkzb/Python-AI)|深度学习100例、深度学习DL、图片分类、目标识别、目标检测、自然语言处理nlp、文本分类、TensorFlow、PyTorch|51|2022-01-12|2021-10-18|
 |16|[madhavmk/Noise2Noise-audio_denoising_without_clean_training_data](https://github.com/madhavmk/Noise2Noise-audio_denoising_without_clean_training_data)|Source code for the paper titled "Speech Denoising without Clean Training Data: a Noise2Noise Approach".  Paper accepted at the INTERSPEECH 2021 conference. This paper tackles the problem of the heavy ...|49|2021-09-04|2021-03-28|
 |17|[RuifMaxx/Multidimensional-time-series-with-transformer](https://github.com/RuifMaxx/Multidimensional-time-series-with-transformer)|transformer/self-attention for Multidimensional time series forecasting 使用transformer架构实现多维时间预测|46|2021-08-10|2021-07-16|
@@ -35,12 +35,12 @@
 |28|[PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial)|PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle. |27|2021-12-17|2021-07-12|
 |29|[lansinuote/Machine-Learning-In-Numpy](https://github.com/lansinuote/Machine-Learning-In-Numpy)|纯python实现机器学习算法,非套用sk-learn|26|2021-11-08|2021-05-08|
 |30|[EMUNES/Auto-Subtitle-File-Generation](https://github.com/EMUNES/Auto-Subtitle-File-Generation)|Generate subtitle files with timelines in an automatic way.|24|2021-11-09|2021-02-15|
-|31|[accomdemy/accomdemy](https://github.com/accomdemy/accomdemy)|Welcome to Accomdemy! 歡迎來到伴伴學！|22|2021-12-24|2021-05-11|
-|32|[KristiyanVachev/Leaf-Question-Generation](https://github.com/KristiyanVachev/Leaf-Question-Generation)|Easy to use and understand multiple-choice question generation algorithm using T5 Transformers.|20|2022-01-05|2021-10-04|
+|31|[KristiyanVachev/Leaf-Question-Generation](https://github.com/KristiyanVachev/Leaf-Question-Generation)|Easy to use and understand multiple-choice question generation algorithm using T5 Transformers.|22|2022-01-05|2021-10-04|
+|32|[accomdemy/accomdemy](https://github.com/accomdemy/accomdemy)|Welcome to Accomdemy! 歡迎來到伴伴學！|22|2021-12-24|2021-05-11|
 |33|[yijixiuxin/chanlun](https://github.com/yijixiuxin/chanlun)|基于缠中说禅所理解的市场行情的分析工具|19|2021-12-18|2021-12-10|
-|34|[xianghuisun/Chinese_KGQA](https://github.com/xianghuisun/Chinese_KGQA)|该仓库目的是实现基于知识图谱的中文问答系统|17|2021-12-22|2021-12-05|
-|35|[chokkan/python](https://github.com/chokkan/python)|Python早見帳|17|2021-11-28|2021-10-04|
-|36|[hululuzhu/chinese-ai-writing-share](https://github.com/hululuzhu/chinese-ai-writing-share)|中文AI写作共享|17|2021-08-17|2021-06-15|
+|34|[hululuzhu/chinese-ai-writing-share](https://github.com/hululuzhu/chinese-ai-writing-share)|中文AI写作共享|18|2021-08-17|2021-06-15|
+|35|[xianghuisun/Chinese_KGQA](https://github.com/xianghuisun/Chinese_KGQA)|该仓库目的是实现基于知识图谱的中文问答系统|17|2021-12-22|2021-12-05|
+|36|[chokkan/python](https://github.com/chokkan/python)|Python早見帳|17|2021-11-28|2021-10-04|
 |37|[cbdb-project/named-entities-for-premodern-chinese-history-research](https://github.com/cbdb-project/named-entities-for-premodern-chinese-history-research)|Repo to generate and host named entities for premodern chinese history research|16|2022-01-10|2021-09-14|
 |38|[chuachinhon/gradio_nlp](https://github.com/chuachinhon/gradio_nlp)|A series of notebooks demonstrating how to build simple NLP web apps with Gradio and Hugging Face transformers|16|2021-08-11|2021-08-10|
 |39|[jackhuntcn/2021ccf_iqiyi_nlp](https://github.com/jackhuntcn/2021ccf_iqiyi_nlp)|-|15|2021-12-03|2021-12-03|
