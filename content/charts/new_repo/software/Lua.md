@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Lua
-<sub>数据更新: 2022-01-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|394|2022-01-27|2021-06-19|
-|2|[linkease/istore](https://github.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|120|2021-12-21|2021-08-24|
+|1|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|394|2022-01-28|2021-06-19|
+|2|[linkease/istore](https://github.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|122|2021-12-21|2021-08-24|
 |3|[ryohuang/slim-wrt](https://github.com/ryohuang/slim-wrt)|Armor for Openwrt|67|2021-11-15|2021-02-20|
 |4|[FrSkyRC/ETHOS-Feedback-Community](https://github.com/FrSkyRC/ETHOS-Feedback-Community)|Feedbacks & suggestion are very appreciated on ETHOS of FrSky|61|2022-01-26|2021-03-09|
 |5|[jerrykuku/luci-app-go-aliyundrive-webdav](https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav)|本项目是go-aliyun-webdav 的Luci 控制面板。|39|2021-11-10|2021-10-08|
@@ -15,12 +15,12 @@
 |8|[zhang-changwei/Automation-scripts-for-Aegisub](https://github.com/zhang-changwei/Automation-scripts-for-Aegisub)|A few automation scripts for Aegisub|19|2022-01-25|2021-02-09|
 |9|[h-hg/fcitx.nvim](https://github.com/h-hg/fcitx.nvim)|A Neovim plugin writing in Lua to switch and restore fcitx state for each buffer.|18|2021-12-11|2021-09-19|
 |10|[EtherProject/EtherWorkCollection](https://github.com/EtherProject/EtherWorkCollection)|EtherEngine 作品集|16|2021-09-04|2021-02-01|
-|11|[Eatsolx/nvim-lua](https://github.com/Eatsolx/nvim-lua)|基于nvchad的配置|13|2022-01-22|2021-10-02|
+|11|[Eatsolx/nvim-lua](https://github.com/Eatsolx/nvim-lua)|基于nvchad的配置|14|2022-01-22|2021-10-02|
 |12|[lxyoucan/nvim](https://github.com/lxyoucan/nvim)|set up Neovim 0.5 +(LSP, Treesitter, fuzzy finder, etc)|13|2021-12-06|2021-09-16|
 |13|[TheDeNuke/Divergences-of-Darkness-Rework-Public](https://github.com/TheDeNuke/Divergences-of-Darkness-Rework-Public)|-|12|2021-11-15|2021-06-19|
-|14|[Muscipular/cgmsv-lua](https://github.com/Muscipular/cgmsv-lua)|cgmsv lua模块|11|2022-01-27|2021-06-30|
-|15|[musurca/IKE](https://github.com/musurca/IKE)|PBEM/hotseat multiplayer for Command: Modern Operations scenarios|10|2022-01-25|2021-02-02|
-|16|[yechentide/DSTServerManager](https://github.com/yechentide/DSTServerManager)|Don't Starve Together dedicated server manager / 饥荒傻瓜式服务器管理脚本|9|2022-01-27|2021-11-27|
+|14|[Muscipular/cgmsv-lua](https://github.com/Muscipular/cgmsv-lua)|cgmsv lua模块|11|2022-01-28|2021-06-30|
+|15|[musurca/IKE](https://github.com/musurca/IKE)|PBEM/hotseat multiplayer for Command: Modern Operations scenarios|10|2022-01-28|2021-02-02|
+|16|[yechentide/DSTServerManager](https://github.com/yechentide/DSTServerManager)|Don't Starve Together dedicated server manager / 饥荒傻瓜式服务器管理脚本|9|2022-01-28|2021-11-27|
 |17|[d80x86/lua-resty-tofu](https://github.com/d80x86/lua-resty-tofu)|a modern api/web framework|9|2022-01-23|2021-08-23|
 |18|[sg552/banana-waf](https://github.com/sg552/banana-waf)|非常简单好用的waf|8|2021-10-26|2021-10-26|
 |19|[k8scat/lua-resty-weauth](https://github.com/k8scat/lua-resty-weauth)|适用于 OpenResty / ngx_lua 的基于企业微信组织架构的登录认证|8|2021-11-24|2021-08-08|
@@ -30,7 +30,7 @@
 |23|[ASoulCnki/oauth](https://github.com/ASoulCnki/oauth)|OAuth Service provide by ASoulCnki(枝网)|6|2021-12-30|2021-11-29|
 |24|[ZAA03/lua_action](https://github.com/ZAA03/lua_action)|一键签到，葫芦侠3楼，芥子空间|6|2021-08-27|2021-07-09|
 |25|[awesomeusername69420/meth_tools](https://github.com/awesomeusername69420/meth_tools)|Tools made for https://methamphetamine.solutions/|6|2022-01-08|2021-06-07|
-|26|[DeadlyBossMods/DBM-TBC-Classic](https://github.com/DeadlyBossMods/DBM-TBC-Classic)|The ultimate encounter helper (for TBC) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|6|2022-01-27|2021-04-01|
+|26|[DeadlyBossMods/DBM-TBC-Classic](https://github.com/DeadlyBossMods/DBM-TBC-Classic)|The ultimate encounter helper (for TBC) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|6|2022-01-28|2021-04-01|
 |27|[super-goodman/lua-script](https://github.com/super-goodman/lua-script)|lua 脚本|5|2021-11-25|2021-08-06|
 |28|[opq-osc/lua-lib](https://github.com/opq-osc/lua-lib)|进一步封装 OPQ 的 lua api，调用更统一，简化开发，去除插件冗余代码, 免受 OPQ wiki 的困扰|5|2021-08-09|2021-07-29|
 |29|[zkqiang/rime-dict](https://github.com/zkqiang/rime-dict)|Rime 词库 for 朙月拼音，700 万词条|5|2021-11-15|2021-06-03|

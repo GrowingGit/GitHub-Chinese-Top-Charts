@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Swift
-<sub>数据更新: 2022-01-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|13213|2021-08-05|
-|2|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4033|2021-09-14|
-|3|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|773|2022-01-27|
+|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|13217|2021-08-05|
+|2|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4034|2021-09-14|
+|3|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|774|2022-01-27|
 |4|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|366|2022-01-16|
 |5|[JmoVxia/CLDemo](https://github.com/JmoVxia/CLDemo)|记录平时博客中的Demo，持续更新|366|2022-01-21|
 |6|[Liaoworking/Advanced-Swift](https://github.com/Liaoworking/Advanced-Swift)|Notes of Advanced Swift. 《swift进阶》学习笔记 swift 5.3|316|2022-01-25|
@@ -34,7 +34,7 @@
 |27|[coyingcat/15DaysofAnimationsinSwift](https://github.com/coyingcat/15DaysofAnimationsinSwift)|Swift，学习动画，升级原版本 ， larrynatalicio/15DaysofAnimationsinSwift|9|2022-01-26|
 |28|[LINGLemon/LXFSwiftApp](https://github.com/LINGLemon/LXFSwiftApp)|学习swift记录使用|8|2021-09-29|
 |29|[simplismvip/Ebook](https://github.com/simplismvip/Ebook)|使用Swift写的电纸书阅读器，目前支持epub、txt格式电子书。|7|2021-09-18|
-|30|[fanyunfei786452470/learningSwift](https://github.com/fanyunfei786452470/learningSwift)|基于swift4.2的语言、框架、项目学习|6|2022-01-24|
+|30|[fanyunfei786452470/learningSwift](https://github.com/fanyunfei786452470/learningSwift)|基于swift4.2的语言、框架、项目学习|6|2022-01-28|
 |31|[DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift)|This demo teaches you how to import and activate DJI SDK in your Xcode project using Swift.|6|2021-10-11|
 |32|[flywo/SwiftKnowledgePoint](https://github.com/flywo/SwiftKnowledgePoint)|swift3知识点，温故而知新！|6|2021-12-01|
 |33|[MoonStartMan/SwiftUI-Study](https://github.com/MoonStartMan/SwiftUI-Study)|SwiftUI学习记录|5|2021-07-31|
