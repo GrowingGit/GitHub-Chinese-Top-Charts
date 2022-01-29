@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -30,7 +30,7 @@
 |23|[HanpyBin/Numerical-Analysis-Experiment](https://github.com/HanpyBin/Numerical-Analysis-Experiment)|武汉理工大学数值分析实验-基于matlab|5|0|2021-08-15|
 |24|[ja754969/Ocean-Current-Observation-and-Analysis](https://github.com/ja754969/Ocean-Current-Observation-and-Analysis)|洋流觀測分析 class at NTOU. File Station link : |2|0|2021-08-30|
 |25|[Zhao-Jichao/Distributed_optimal_-formation_control_of_heterogeneous_multi-agent_systems_with_mixed-orders](https://github.com/Zhao-Jichao/Distributed_optimal_-formation_control_of_heterogeneous_multi-agent_systems_with_mixed-orders)|异构混合阶多智能体系统编队控制的分布式优化|3|0|2021-09-11|
-|26|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|74|0|2022-01-07|
+|26|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|74|0|2022-01-29|
 |27|[cmtso/EKI_geophysics_2020](https://github.com/cmtso/EKI_geophysics_2020)|Example MATLAB scripts for running ensemble Kalman inversion for electrical resistivity tomography data to accompany paper.|7|0|2021-10-20|
 |28|[MrCaiDev/matlab-experiment](https://github.com/MrCaiDev/matlab-experiment)|程序基础+微积分+数值计算+最优化+随机模拟+椭球寻径。|3|0|2021-12-23|
 |29|[zxb17zxb/SLIC](https://github.com/zxb17zxb/SLIC)|一个SLIC算法用于图像分割的matlab实现|3|0|2021-12-07|
@@ -44,7 +44,7 @@
 |37|[nanguoyu/Captcha-recognition](https://github.com/nanguoyu/Captcha-recognition)|[CAIA I Lab 5] Captcha recognition implemented by Matlab  [CAIA I Lab 5]数字图像验证码识别 |5|0|2021-12-14|
 |38|[libai1943/AGV_Motion_Planning_with_Moving_Obstacles](https://github.com/libai1943/AGV_Motion_Planning_with_Moving_Obstacles)|Real-Time Trajectory Planning for AGV in the Presence of Moving Obstacles: A First-Search-Then-Optimization Approach|28|0|2022-01-24|
 |39|[Say-Hello2y/MultiAgentSystem](https://github.com/Say-Hello2y/MultiAgentSystem)|针对基本的一阶二阶多智能体控制，给出了基本 的Matlab仿真|4|0|2022-01-07|
-|40|[AirChem/F0AM](https://github.com/AirChem/F0AM)|Framework for 0-D Atmospheric Modeling|32|0|2022-01-20|
+|40|[AirChem/F0AM](https://github.com/AirChem/F0AM)|Framework for 0-D Atmospheric Modeling|33|0|2022-01-20|
 |41|[acsamson/ImageFusion-Algorithm](https://github.com/acsamson/ImageFusion-Algorithm)|ImageFusion algorithm, SSIM and PSNR evaluation（常见图像融合算法以及SSIM和PSNR评价|3|0|2021-08-30|
 |42|[zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles](https://github.com/zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles)|Hyperspectral Change Detection Based on Multiple Morphological Profiles|8|0|2021-09-28|
 |43|[a839290771/SSVEP-BCI-OpenBCI](https://github.com/a839290771/SSVEP-BCI-OpenBCI)|基于OpenBCI（Bciduino）完成的SSVEP项目，包括刺激器、信号实时传输、以及基于FFT方式的信号处理|4|0|2022-01-22|
@@ -55,7 +55,7 @@
 |48|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|3|0|2021-12-25|
 |49|[WoodyBuendia/HFSS-MATLAB-API](https://github.com/WoodyBuendia/HFSS-MATLAB-API)|HFSS-MATLAB-API is a library toolbox to control Ansoft HFSS from MATLAB using  the HFSS Scripting Interface. This tool provides a set of MATLAB functions to  create 3D objects in HFSS by generating th ...|44|0|2021-09-17|
 |50|[scliubit/complex-DnCNN](https://github.com/scliubit/complex-DnCNN)|-|13|0|2022-01-17|
-|51|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|380|0|2022-01-26|
+|51|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|381|0|2022-01-26|
 |52|[wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve](https://github.com/wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve)|使用贝塞尔曲线，通过合理选取控制点使轨迹在拼接点处曲率连续|6|0|2021-09-06|
 |53|[YuJie2020/MATLAB-HFSS-API](https://github.com/YuJie2020/MATLAB-HFSS-API)|HFSS-MATLAB-API 是通过 MATLAB 编写的一套可调用的 HFSS-MATLAB 应用程序编程接口，通过编写 MATLAB 代码来生成执行相关特定操作的 HFSS 程序所需的 VBS 脚本|6|0|2021-08-19|
 |54|[baishanca/Communication-Matlab](https://github.com/baishanca/Communication-Matlab)|对通信原理的内容的matlab实现|3|0|2021-08-06|

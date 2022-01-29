@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Objective-C
-<sub>数据更新: 2022-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4762|2022-01-15|
-|2|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2356|2021-12-16|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4767|2022-01-15|
+|2|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2355|2021-12-16|
 |3|[objccn/articles](https://github.com/objccn/articles)|Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本|2088|2021-11-02|
 |4|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1204|2022-01-28|
 |5|[GGGHub/Reader](https://github.com/GGGHub/Reader)|iOS基于CoreText实现的电子书阅读器，支持txt，epub格式|1117|2021-08-28|
@@ -28,9 +28,9 @@
 |21|[rztime/RZColorful](https://github.com/rztime/RZColorful)|NSAttributedString富文本的方法集合，以及简单优雅的使用其多种属性|46|2022-01-27|
 |22|[yungfan/iOS-continuous-learning](https://github.com/yungfan/iOS-continuous-learning)|不断学习中写的案例|37|2021-12-15|
 |23|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|37|2021-10-11|
-|24|[H2OB/FFPage](https://github.com/H2OB/FFPage)|类似微博个人主页、抖音个人主页、简书个人主页的控件，支持刷新放大，可悬浮组件|33|2022-01-02|
-|25|[onezens/WeChatBot](https://github.com/onezens/WeChatBot)|Tweak 工程创建、配置教程 & 实现logos语法自动补全|29|2021-09-24|
-|26|[yangKJ/KJEmitterView](https://github.com/yangKJ/KJEmitterView)|开发加速库，LeetCode算法，Opencv图片算法，正则算法，粒子效果，数组字典高级用法，线程处理，多语言等 🚗   ..|25|2022-01-25|
+|24|[yangKJ/KJEmitterView](https://github.com/yangKJ/KJEmitterView)|开发加速库，LeetCode算法，Opencv图片算法，正则算法，粒子效果，数组字典高级用法，线程处理，多语言等 🚗   ..|35|2022-01-25|
+|25|[H2OB/FFPage](https://github.com/H2OB/FFPage)|类似微博个人主页、抖音个人主页、简书个人主页的控件，支持刷新放大，可悬浮组件|33|2022-01-02|
+|26|[onezens/WeChatBot](https://github.com/onezens/WeChatBot)|Tweak 工程创建、配置教程 & 实现logos语法自动补全|29|2021-09-24|
 |27|[skyming/Study](https://github.com/skyming/Study)|学习日志记录、笔记|22|2021-12-01|
 |28|[bqlin/Apple-Sample-Code](https://github.com/bqlin/Apple-Sample-Code)|苹果示例代码学习|18|2021-09-02|
 |29|[DJI-Mobile-SDK-Tutorials/iOS-SimulatorDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-SimulatorDemo)|This demo shows you how to use the DJISimulator of DJI Mobile SDK.|17|2021-10-11|

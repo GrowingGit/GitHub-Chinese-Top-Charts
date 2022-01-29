@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2022-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -30,7 +30,7 @@
 |23|[xiyie/UPC_LATEX_TEMPLATE](https://github.com/xiyie/UPC_LATEX_TEMPLATE)|中国石油大学（华东）控制科学与工程学院课题模板（不保证通用）|4|2021-10-01|2021-09-29|
 |24|[phonixer/NWPU-BEAMER](https://github.com/phonixer/NWPU-BEAMER)|Latex-Beamer-ppt-NWPU-西北工业大学ppt模板-LaTex-Beamer|4|2021-08-25|2021-08-25|
 |25|[meat-project/meat-freshment-monitor-system](https://github.com/meat-project/meat-freshment-monitor-system)|NSYSU 畢業專題|4|2022-01-17|2021-07-21|
-|26|[lxlonlyn/CSP-Project](https://github.com/lxlonlyn/CSP-Project)|历年 CCF CSP 题目解析|3|2022-01-25|2021-12-26|
+|26|[lxlonlyn/CSP-Project](https://github.com/lxlonlyn/CSP-Project)|历年 CCF CSP 题目解析|3|2022-01-29|2021-12-26|
 |27|[LLLgoyour/Handout](https://github.com/LLLgoyour/Handout)|王一老师上课配套的物理讲义|3|2022-01-10|2021-11-20|
 |28|[jiajunfanthu/NKU_Thisis](https://github.com/jiajunfanthu/NKU_Thisis)|南开人工智能学院毕业设计模板|3|2021-09-26|2021-09-26|
 |29|[longyuan94/PerfDogService_HL001](https://github.com/longyuan94/PerfDogService_HL001)|专家组|3|2021-11-22|2021-09-23|
@@ -42,9 +42,8 @@
 |35|[VohsiLiu/Probability-Problems](https://github.com/VohsiLiu/Probability-Problems)|概率论与数理统计（浙大第四版）课后习题整理|2|2021-12-05|2021-09-10|
 |36|[ritscc/soukai-2021-1](https://github.com/ritscc/soukai-2021-1)|2021年度春学期総会|2|2021-10-24|2021-09-09|
 |37|[Onion12138/math](https://github.com/Onion12138/math)|上海初中数学讲义Latex版|2|2021-08-02|2021-07-14|
-|38|[chenboshuo/nuedc_template](https://github.com/chenboshuo/nuedc_template)|全国大学生电子设计竞赛 latex 模板|2|2021-07-30|2021-06-26|
-|39|[skykeyjoker/LaTeX-UESTC-Report](https://github.com/skykeyjoker/LaTeX-UESTC-Report)|LaTeX template for report(Lab) of University of Electronic Science and Technology of China (UESTC)  电子科技大学本科实验报告 LaTeX 模板|2|2021-08-21|2021-06-10|
-|40|[liao961120/ntuthesis2](https://github.com/liao961120/ntuthesis2)|台大碩博士論文模板 (Pandoc)|2|2021-08-14|2021-02-16|
+|38|[skykeyjoker/LaTeX-UESTC-Report](https://github.com/skykeyjoker/LaTeX-UESTC-Report)|LaTeX template for report(Lab) of University of Electronic Science and Technology of China (UESTC)  电子科技大学本科实验报告 LaTeX 模板|2|2021-08-21|2021-06-10|
+|39|[liao961120/ntuthesis2](https://github.com/liao961120/ntuthesis2)|台大碩博士論文模板 (Pandoc)|2|2021-08-14|2021-02-16|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
