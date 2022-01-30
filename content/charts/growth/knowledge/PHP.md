@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > PHP
-<sub>数据更新: 2022-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1456|9|2022-01-29|
-|2|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|sample code for several design patterns in PHP 8|20267|5|2022-01-09|
-|3|[hlmd/Postman-cn](https://github.com/hlmd/Postman-cn)|Postman汉化中文版|3311|5|2022-01-26|
+|1|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1461|9|2022-01-29|
+|2|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|sample code for several design patterns in PHP 8|20271|5|2022-01-09|
+|3|[hlmd/Postman-cn](https://github.com/hlmd/Postman-cn)|Postman汉化中文版|3316|5|2022-01-29|
 |4|[Qsnh/meedu](https://github.com/Qsnh/meedu)|知识付费、企业线上培训解决方案。|2750|2|2021-12-19|
-|5|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|2475|2|2021-11-13|
-|6|[splitline/How-to-Hack-Websites](https://github.com/splitline/How-to-Hack-Websites)|開源的正體中文 Web Hacking 學習資源 - 程式安全 2021 Fall|189|2|2022-01-27|
-|7|[summerblue/laravel-shop](https://github.com/summerblue/laravel-shop)|Laravel 电商实战教程的项目代码|2350|2|2022-01-22|
+|5|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|2476|2|2021-11-13|
+|6|[splitline/How-to-Hack-Websites](https://github.com/splitline/How-to-Hack-Websites)|開源的正體中文 Web Hacking 學習資源 - 程式安全 2021 Fall|198|2|2022-01-27|
+|7|[summerblue/laravel-shop](https://github.com/summerblue/laravel-shop)|Laravel 电商实战教程的项目代码|2351|2|2022-01-22|
 |8|[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)|A list of ICs and IPs for AI, Machine Learning and Deep Learning.|1222|1|2021-12-20|
 |9|[xianyunyh/PHP-Interview](https://github.com/xianyunyh/PHP-Interview)|This is the information I prepared for the PHP interview.The notes include PHP, MySql, Linux, etc.|1135|1|2021-12-12|
 |10|[owner888/phpspider](https://github.com/owner888/phpspider)|《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序|3415|1|2022-01-03|
@@ -42,7 +42,7 @@
 |35|[zblogcn/zblogphp](https://github.com/zblogcn/zblogphp)|Z-BlogPHP博客程序|604|0|2022-01-29|
 |36|[xianyunyh/studynotes](https://github.com/xianyunyh/studynotes)|学习和工作记录笔记的地方。整理包含遇到的问题，以及学习的笔记的记录，内容涵盖了PHP、Python、Go等编程语言，主要为自己作记录，方便自己以后查阅|52|0|2022-01-20|
 |37|[luvvien/laravel-blog](https://github.com/luvvien/laravel-blog)|基于Laravel5.8构建的轻量博客应用，支持Markdown，支持图片拖拽上传，界面简洁，SEO友好，支持百度链接自动和手动提交|91|0|2022-01-15|
-|38|[dingzd1995/typecho-theme-waxy](https://github.com/dingzd1995/typecho-theme-waxy)|Waxy 简洁自适应博客主题，轻量高效，悦于书写！演示地址：https://www.idzd.top/|92|0|2022-01-27|
+|38|[dingzd1995/typecho-theme-waxy](https://github.com/dingzd1995/typecho-theme-waxy)|Waxy 简洁自适应博客主题，轻量高效，悦于书写！演示地址：https://www.idzd.top/|92|0|2022-01-30|
 |39|[filhodanuvem/awesome-php-jobs](https://github.com/filhodanuvem/awesome-php-jobs)|🐘A curated list of companies using php |110|0|2021-10-21|
 |40|[0xs1riu5/vulawdhub](https://github.com/0xs1riu5/vulawdhub)|该项目是利用docker技术创建的有漏洞的cms环境集合，可以进行练习|135|0|2022-01-13|
 |41|[ipaperclip/paperclipfans](https://github.com/ipaperclip/paperclipfans)|Hi~ 这里是 回形针 PaperClip 非官方的资料整理仓库，我们迫切的希望您的帮助整理，这将加速我们的网站维护每一期的文字稿及图片内容。|132|0|2022-01-28|

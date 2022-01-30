@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Objective-C
-<sub>数据更新: 2022-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4767|6|2022-01-15|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4768|6|2022-01-15|
 |2|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2355|2|2021-12-16|
 |3|[LGCooci/KCiOSGrocery](https://github.com/LGCooci/KCiOSGrocery)|iOS开发杂货铺: 面试题+考试试卷+懒人开发tips|435|1|2021-10-10|
 |4|[wwmz/WMZPageController](https://github.com/wwmz/WMZPageController)|分页控制器,替换UIPageController方案,具备完整的生命周期,多种指示器样式,多种标题样式,可悬浮,支持ios13暗黑模式(仿优酷,爱奇艺,今日头条,简书,京东等多种标题菜单) (Pagination controller with full life cycle, multiple indicator styles, multiple title styles)|548|1|2022-01-18|
-|5|[yangKJ/KJEmitterView](https://github.com/yangKJ/KJEmitterView)|开发加速库，LeetCode算法，Opencv图片算法，正则算法，粒子效果，数组字典高级用法，线程处理，多语言等 🚗   ..|35|1|2022-01-25|
+|5|[yangKJ/KJEmitterView](https://github.com/yangKJ/KJEmitterView)|开发加速库，LeetCode算法，Opencv图片算法，正则算法，粒子效果，数组字典高级用法，线程处理，多语言等 🚗   ..|36|1|2022-01-25|
 |6|[HeathWang/HWPanModal](https://github.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|880|1|2021-11-30|
 |7|[objccn/articles](https://github.com/objccn/articles)|Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本|2088|1|2021-11-02|
 |8|[GGGHub/Reader](https://github.com/GGGHub/Reader)|iOS基于CoreText实现的电子书阅读器，支持txt，epub格式|1117|1|2021-08-28|
@@ -48,20 +48,21 @@
 |41|[SmartPear/NavigationTest](https://github.com/SmartPear/NavigationTest)|工具类集合 侧滑菜单栏展示，扇形显示文字。 增加富文本 使用TideLayer大图切片显示 完美导航栏渐变效果|3|0|2021-12-23|
 |42|[duhongxing/iOS-Dev-OC](https://github.com/duhongxing/iOS-Dev-OC)|iOS开发基础知识回顾|2|0|2021-08-30|
 |43|[yungfan/iOS-continuous-learning](https://github.com/yungfan/iOS-continuous-learning)|不断学习中写的案例|37|0|2021-12-15|
-|44|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|37|0|2021-10-11|
-|45|[Meterwhite/KeyPathExtension](https://github.com/Meterwhite/KeyPathExtension)|An extension of KeyPath for KVC.You can use struct, predicate in KeyPath.在KVC中使用谓词和结构体|4|0|2021-11-09|
-|46|[kevindcw/DNebula](https://github.com/kevindcw/DNebula)|模仿SOUL布局，写的一个笔记类应用|131|0|2021-10-08|
-|47|[YoungerLi/LYDemo](https://github.com/YoungerLi/LYDemo)|此项目总结了我工作过程中的常用的类及方法等等|2|0|2021-09-09|
-|48|[Splendent/iOS-OSX-study-notes](https://github.com/Splendent/iOS-OSX-study-notes)|學習cocoa的瑣碎筆記|2|0|2021-09-10|
-|49|[LoSenTrad/LSTCategory](https://github.com/LoSenTrad/LSTCategory)|LSTCategory是一个分类集合通用组件|2|0|2021-11-18|
-|50|[rztime/RZColorful](https://github.com/rztime/RZColorful)|NSAttributedString富文本的方法集合，以及简单优雅的使用其多种属性|46|0|2022-01-27|
-|51|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|12|0|2022-01-21|
-|52|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|11|0|2022-01-15|
-|53|[skyming/Study](https://github.com/skyming/Study)|学习日志记录、笔记|22|0|2021-12-01|
-|54|[GardenerYun/iOS--Note](https://github.com/GardenerYun/iOS--Note)|iOS研究笔记|9|0|2021-12-23|
-|55|[bqlin/Apple-Sample-Code](https://github.com/bqlin/Apple-Sample-Code)|苹果示例代码学习|18|0|2021-09-02|
-|56|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|MoviePlayer which based on FFmpeg step by step tutorials for iOS/macOS developer. （使用 FFMpeg 封装播放器系列教程，适合零基础的 iOS/macOS 开发者学习）|148|0|2022-01-24|
-|57|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|63|0|2022-01-11|
+|44|[bytesking/YJCategories](https://github.com/bytesking/YJCategories)|Objective-C 常用分类集合，支持Cocoapods|89|0|2022-01-30|
+|45|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|37|0|2021-10-11|
+|46|[Meterwhite/KeyPathExtension](https://github.com/Meterwhite/KeyPathExtension)|An extension of KeyPath for KVC.You can use struct, predicate in KeyPath.在KVC中使用谓词和结构体|4|0|2021-11-09|
+|47|[kevindcw/DNebula](https://github.com/kevindcw/DNebula)|模仿SOUL布局，写的一个笔记类应用|131|0|2021-10-08|
+|48|[YoungerLi/LYDemo](https://github.com/YoungerLi/LYDemo)|此项目总结了我工作过程中的常用的类及方法等等|2|0|2021-09-09|
+|49|[Splendent/iOS-OSX-study-notes](https://github.com/Splendent/iOS-OSX-study-notes)|學習cocoa的瑣碎筆記|2|0|2021-09-10|
+|50|[LoSenTrad/LSTCategory](https://github.com/LoSenTrad/LSTCategory)|LSTCategory是一个分类集合通用组件|2|0|2021-11-18|
+|51|[rztime/RZColorful](https://github.com/rztime/RZColorful)|NSAttributedString富文本的方法集合，以及简单优雅的使用其多种属性|46|0|2022-01-27|
+|52|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|12|0|2022-01-21|
+|53|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|11|0|2022-01-15|
+|54|[skyming/Study](https://github.com/skyming/Study)|学习日志记录、笔记|22|0|2021-12-01|
+|55|[GardenerYun/iOS--Note](https://github.com/GardenerYun/iOS--Note)|iOS研究笔记|9|0|2021-12-23|
+|56|[bqlin/Apple-Sample-Code](https://github.com/bqlin/Apple-Sample-Code)|苹果示例代码学习|18|0|2021-09-02|
+|57|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|MoviePlayer which based on FFmpeg step by step tutorials for iOS/macOS developer. （使用 FFMpeg 封装播放器系列教程，适合零基础的 iOS/macOS 开发者学习）|148|0|2022-01-24|
+|58|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|63|0|2022-01-11|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

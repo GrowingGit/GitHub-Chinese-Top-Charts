@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > PHP
-<sub>数据更新: 2022-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|sample code for several design patterns in PHP 8|20267|2022-01-09|
+|1|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|sample code for several design patterns in PHP 8|20271|2022-01-09|
 |2|[owner888/phpspider](https://github.com/owner888/phpspider)|《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序|3415|2022-01-03|
-|3|[hlmd/Postman-cn](https://github.com/hlmd/Postman-cn)|Postman汉化中文版|3311|2022-01-26|
+|3|[hlmd/Postman-cn](https://github.com/hlmd/Postman-cn)|Postman汉化中文版|3316|2022-01-29|
 |4|[Qsnh/meedu](https://github.com/Qsnh/meedu)|知识付费、企业线上培训解决方案。|2750|2021-12-19|
-|5|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|2475|2021-11-13|
-|6|[summerblue/laravel-shop](https://github.com/summerblue/laravel-shop)|Laravel 电商实战教程的项目代码|2350|2022-01-22|
+|5|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|2476|2021-11-13|
+|6|[summerblue/laravel-shop](https://github.com/summerblue/laravel-shop)|Laravel 电商实战教程的项目代码|2351|2022-01-22|
 |7|[orangetw/My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges)|Collection of CTF Web challenges I made|2282|2021-12-05|
-|8|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1456|2022-01-29|
+|8|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1461|2022-01-29|
 |9|[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)|A list of ICs and IPs for AI, Machine Learning and Deep Learning.|1222|2021-12-20|
 |10|[xianyunyh/PHP-Interview](https://github.com/xianyunyh/PHP-Interview)|This is the information I prepared for the PHP interview.The notes include PHP, MySql, Linux, etc.|1135|2021-12-12|
 |11|[iqiqiya/iqiqiya-API](https://github.com/iqiqiya/iqiqiya-API)|API接口大全不断更新中~欢迎Fork和Star(✎ 1.一言(古诗句版)api  ✎ 2.必应每日一图api  ✎ 3.在线ip查询  ✎ 4.m3u8视频在线解析api  ✎ 5.随机生成二次元图片api  ✎ 6.快递查询api-支持国内百家快递  ✎ 7.flv视频在线解析api ✎ 8.抖音视频无水印解析api✎ 9.一句话随机图片api✎ 10.QQ用户信息获取api✎11.哔哩哔哩封 ...|1088|2021-08-26|
@@ -29,7 +29,7 @@
 |22|[422926799/note](https://github.com/422926799/note)|记录自己写的工具和学习笔记|293|2022-01-06|
 |23|[Hanson/laravel-admin-wechat](https://github.com/Hanson/laravel-admin-wechat)|laravel admin 的微信扩展包，支持多公众号、多小程序、多微信支付，包含基础接口与后台|227|2021-08-29|
 |24|[mokeyjay/Pixiv-daily-ranking-widget](https://github.com/mokeyjay/Pixiv-daily-ranking-widget)|会自动更新的P站每日榜小挂件，适合放在博客侧边栏等地方 Pixiv daily list widget that automatically updates, suitable for blog sidebar, etc.|207|2021-09-26|
-|25|[splitline/How-to-Hack-Websites](https://github.com/splitline/How-to-Hack-Websites)|開源的正體中文 Web Hacking 學習資源 - 程式安全 2021 Fall|189|2022-01-27|
+|25|[splitline/How-to-Hack-Websites](https://github.com/splitline/How-to-Hack-Websites)|開源的正體中文 Web Hacking 學習資源 - 程式安全 2021 Fall|198|2022-01-27|
 |26|[cxp1539/laravel-core-learn](https://github.com/cxp1539/laravel-core-learn)|laravel核心知识学习|174|2021-11-17|
 |27|[Seevil/fantasy](https://github.com/Seevil/fantasy)|一款极简Typecho 博客主题|159|2021-11-22|
 |28|[learnku/learnku](https://github.com/learnku/learnku)|learnku.net 网站使用 laravel5.5 重新架构|157|2022-01-13|
@@ -39,7 +39,7 @@
 |32|[changbin1997/MWordStar](https://github.com/changbin1997/MWordStar)|响应式双栏 Typecho 博客主题|110|2021-12-23|
 |33|[filhodanuvem/awesome-php-jobs](https://github.com/filhodanuvem/awesome-php-jobs)|🐘A curated list of companies using php |110|2021-10-21|
 |34|[pmlic/PHP-ML-study](https://github.com/pmlic/PHP-ML-study)|This is a PHP-ML Chinese learning example|98|2021-08-20|
-|35|[dingzd1995/typecho-theme-waxy](https://github.com/dingzd1995/typecho-theme-waxy)|Waxy 简洁自适应博客主题，轻量高效，悦于书写！演示地址：https://www.idzd.top/|92|2022-01-27|
+|35|[dingzd1995/typecho-theme-waxy](https://github.com/dingzd1995/typecho-theme-waxy)|Waxy 简洁自适应博客主题，轻量高效，悦于书写！演示地址：https://www.idzd.top/|92|2022-01-30|
 |36|[luvvien/laravel-blog](https://github.com/luvvien/laravel-blog)|基于Laravel5.8构建的轻量博客应用，支持Markdown，支持图片拖拽上传，界面简洁，SEO友好，支持百度链接自动和手动提交|91|2022-01-15|
 |37|[summerblue/weibo](https://github.com/summerblue/weibo)|Laravel 中文新手课程《L01 Laravel 教程 - Web 开发实战入门》的源代码 |87|2021-10-27|
 |38|[FlyingSky-CN/MDr](https://github.com/FlyingSky-CN/MDr)|Typecho Theme   MDr - 书写你的篇章|85|2022-01-25|
