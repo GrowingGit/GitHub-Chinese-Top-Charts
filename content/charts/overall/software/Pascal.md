@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Pascal
-<sub>数据更新: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|427|2022-01-24|
+|1|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|428|2022-01-24|
 |2|[royqh1979/Dev-CPP](https://github.com/royqh1979/Dev-CPP)|A lightweighted C/C++ IDE|314|2021-10-03|
 |3|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|269|2022-01-19|
 |4|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|235|2022-01-30|
@@ -39,10 +39,11 @@
 |32|[coder163/delphi-socket](https://github.com/coder163/delphi-socket)|Delphi第二季网络编程|5|2021-10-26|
 |33|[2o181o28/MyProg](https://github.com/2o181o28/MyProg)|蒟蒻的小学生水平程序|5|2021-10-17|
 |34|[axpokl/display](https://github.com/axpokl/display)|Display单元库|5|2021-12-18|
-|35|[coder163/DesignPatternForDelphi](https://github.com/coder163/DesignPatternForDelphi)|网络上流传的设计模式多以Java、C++语言描述，用Delphi描述的资源几乎为零，特此整理|3|2021-11-21|
-|36|[Pzf874/TVChnlTest](https://github.com/Pzf874/TVChnlTest)|TV频道源检查软件(TVChnlTest.exe)这个小工具, 可以将你收集的直播源数据导入，并对其进行有效性检查，经整理后，可以导出为TXT格式或M3U8格式的文件。|3|2021-08-09|
-|37|[NewCityLetter/Digital-Logic----Electric-Piano](https://github.com/NewCityLetter/Digital-Logic----Electric-Piano)|同济大学数字逻辑大作业，基于OLED显示屏、MP3播放器和PS/2键盘的电子琴|3|2022-01-07|
-|38|[dbyoung720/ADOS](https://github.com/dbyoung720/ADOS)|给鼠标右键添加 "在此处打开命令窗口(管理员)" 菜单|2|2021-10-28|
+|35|[ericwang2006/bcut2srt](https://github.com/ericwang2006/bcut2srt)|从必剪导出srt格式字幕 export srt subtitle from bcut project|3|2022-01-29|
+|36|[coder163/DesignPatternForDelphi](https://github.com/coder163/DesignPatternForDelphi)|网络上流传的设计模式多以Java、C++语言描述，用Delphi描述的资源几乎为零，特此整理|3|2021-11-21|
+|37|[Pzf874/TVChnlTest](https://github.com/Pzf874/TVChnlTest)|TV频道源检查软件(TVChnlTest.exe)这个小工具, 可以将你收集的直播源数据导入，并对其进行有效性检查，经整理后，可以导出为TXT格式或M3U8格式的文件。|3|2021-08-09|
+|38|[NewCityLetter/Digital-Logic----Electric-Piano](https://github.com/NewCityLetter/Digital-Logic----Electric-Piano)|同济大学数字逻辑大作业，基于OLED显示屏、MP3播放器和PS/2键盘的电子琴|3|2022-01-07|
+|39|[dbyoung720/ADOS](https://github.com/dbyoung720/ADOS)|给鼠标右键添加 "在此处打开命令窗口(管理员)" 菜单|2|2021-10-28|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

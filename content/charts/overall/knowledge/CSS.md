@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > CSS
-<sub>数据更新: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20389|2021-12-13|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11922|2022-01-19|
-|3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8370|2022-01-17|
-|4|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5998|2021-12-20|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11924|2022-01-19|
+|3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8369|2022-01-17|
+|4|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5999|2021-12-20|
 |5|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4545|2022-01-09|
-|6|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired mag ...|3901|2022-01-30|
+|6|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired mag ...|3904|2022-01-30|
 |7|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|3834|2022-01-28|
 |8|[apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh)|:book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】|3625|2021-08-09|
 |9|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|2921|2021-12-02|
@@ -25,7 +25,7 @@
 |18|[fuzhengwei/itstack-demo-netty](https://github.com/fuzhengwei/itstack-demo-netty)|微信公众号：bugstack虫洞栈   专注于原创开发专题案例。跟着案例学Netty，Netty4.x案例从简单入门到应用实战，全篇37章节优秀案例+实战源码[基础篇(13)、中级篇(13)、高级篇(3章+)、源码分析篇]，以上章节全部完成并不断持续更新中。欢迎关注公众号：bugstack虫洞栈   阅读专题文章+调试案例源码学习｛回复netty案例｝。|375|2022-01-07|
 |19|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|340|2022-01-28|
 |20|[ahangchen/windy-afternoon](https://github.com/ahangchen/windy-afternoon)|Gitbook based Blog, Android, Linux, Deep Learning, Computer Vision|267|2022-01-30|
-|21|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|199|2021-10-26|
+|21|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|200|2021-10-26|
 |22|[frankcbliu/Interview_Notes](https://github.com/frankcbliu/Interview_Notes)|📚 程序员面试基础知识总结、优质项目分享、助力春招秋招|183|2021-12-14|
 |23|[idealclover/Life-in-NJU](https://github.com/idealclover/Life-in-NJU)|🏠 南哪指南—南哪大学网址导航|161|2022-01-15|
 |24|[lbc-team/deep_ethereum](https://github.com/lbc-team/deep_ethereum)|电子书：以太坊技术与实现|139|2021-12-02|
@@ -36,7 +36,7 @@
 |29|[dhanishgajjar/css-flags](https://github.com/dhanishgajjar/css-flags)|A collection of pure CSS flags, all single divs.|90|2021-08-10|
 |30|[lsils/lstools-showcase](https://github.com/lsils/lstools-showcase)|Showcase examples for EPFL logic synthesis libraries|89|2021-08-03|
 |31|[hltj/kotlin-reference-chinese](https://github.com/hltj/kotlin-reference-chinese)|Kotlin 官方文档（参考部分）中文版|88|2021-08-26|
-|32|[TNK-Studio/Odoo-Book](https://github.com/TNK-Studio/Odoo-Book)|🤓Odoo 小书，Odoo 入门教程 （龟速填坑中...已更新到第 7 章第 2 节，要是看不到更新可以强制刷新一下浏览器。小书源码地址请看 README。）|84|2021-09-20|
+|32|[TNK-Studio/Odoo-Book](https://github.com/TNK-Studio/Odoo-Book)|🤓Odoo 小书，Odoo 入门教程 （龟速填坑中...已更新到第 7 章第 2 节，要是看不到更新可以强制刷新一下浏览器。小书源码地址请看 README。）|85|2021-09-20|
 |33|[beaudar/beaudar](https://github.com/beaudar/beaudar)|基于 GitHub issue 的轻量评论插件，Utterances 的中文版本|75|2022-01-28|
 |34|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite|72|2022-01-22|
 |35|[yitd/wxkp](https://github.com/yitd/wxkp)|微信卡片分享链接在线制作工具|71|2021-12-11|

@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > CSS
-<sub>数据更新: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|506|2021-12-13|2021-08-01|
 |2|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|340|2022-01-28|2021-03-11|
-|3|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|199|2021-10-26|2021-04-05|
+|3|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|200|2021-10-26|2021-04-05|
 |4|[yitd/wxkp](https://github.com/yitd/wxkp)|微信卡片分享链接在线制作工具|71|2021-12-11|2021-08-14|
 |5|[AIAHUB/HUST-AIA-Courses-Resource](https://github.com/AIAHUB/HUST-AIA-Courses-Resource)|HUST-AIA学院课程资源|41|2022-01-17|2021-05-10|
 |6|[omnilingo/omnilingo](https://github.com/omnilingo/omnilingo)|Listening-based language learning|28|2021-09-16|2021-02-27|

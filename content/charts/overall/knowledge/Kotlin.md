@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Kotlin
-<sub>数据更新: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|26796|2022-01-14|
+|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|26797|2022-01-14|
 |2|[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool)|Android开发人员不得不收集的工具类集合   支付宝支付   微信支付（统一下单）   微信分享   Zip4j压缩（支持分卷压缩与加密）   一键集成UCrop选择圆形头像   一键集成二维码和条形码的扫描与生成   常用Dialog   WebView的封装可播放视频   仿斗鱼滑动验证码   Toast封装   震动   GPS   Location定位   图片缩放   Exif 图片 ...|11611|2021-12-27|
 |3|[qingmei2/RxImagePicker](https://github.com/qingmei2/RxImagePicker)|:rocket:RxJava2 and RxJava3 external support. Android flexible picture selector, provides the support for theme of Zhihu and WeChat (灵活的Android图片选择器，提供了知乎和微信主题的支持）.|1133|2021-10-13|
 |4|[mCyp/Hoo](https://github.com/mCyp/Hoo)|🚀 Android Jetpack系列组件实战案例，配上专栏学习更轻松~|1001|2021-08-15|
-|5|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|599|2022-01-28|
-|6|[compose-museum/hello-compose](https://github.com/compose-museum/hello-compose)|Jetpack Compose 基础教程，持续更新|535|2022-01-30|
+|5|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|601|2022-01-28|
+|6|[compose-museum/hello-compose](https://github.com/compose-museum/hello-compose)|Jetpack Compose 基础教程，持续更新|535|2022-01-31|
 |7|[hi-dhl/Leetcode-Solutions-with-Java-And-Kotlin](https://github.com/hi-dhl/Leetcode-Solutions-with-Java-And-Kotlin)|LeetCode 系列题解, 在线阅读 https://offer.hi-dhl.com|345|2021-09-13|
 |8|[androidmalin/AndroidComponentPlugin](https://github.com/androidmalin/AndroidComponentPlugin)|Android上简单实现四大组件的插件化，供学习使用|342|2021-12-19|
 |9|[smashinggit/Study](https://github.com/smashinggit/Study)|记录学习过程中的demo及博客|342|2021-08-16|
 |10|[kukyxs/CoroutinesWanAndroid](https://github.com/kukyxs/CoroutinesWanAndroid)|超完整的「玩 Android」客户端，项目采用 MVVM, Android Jetpack, Retrofit, Kotlin 协程, Koin 编写。如果该项目对你学习过程有用，请给个 star，感谢|296|2021-09-29|
 |11|[funnywolfdadada/HollowKit](https://github.com/funnywolfdadada/HollowKit)|自己常用的一些工具的合集|201|2022-01-17|
-|12|[AllanWang/KAU](https://github.com/AllanWang/KAU)|An extensive collection of Kotlin Android Utils|199|2021-11-18|
+|12|[AllanWang/KAU](https://github.com/AllanWang/KAU)|An extensive collection of Kotlin Android Utils|200|2021-11-18|
 |13|[yechaoa/MaterialDesign](https://github.com/yechaoa/MaterialDesign)|Material Design 控件合集。ConstraintLayout、MaterialButton、ShapeableImageView、TabLayout、SearchView...|190|2022-01-16|
 |14|[bennyhuo/DiveIntoKotlinCoroutines-Sources](https://github.com/bennyhuo/DiveIntoKotlinCoroutines-Sources)|《深入理解 Kotlin 协程》源码|178|2022-01-22|
 |15|[dengshiwei/asm-module](https://github.com/dengshiwei/asm-module)|✈️ ASM 4 教程中的示例代码，用于 ASM 学习，介绍了 ASM 中基本的使用说明。|177|2022-01-18|

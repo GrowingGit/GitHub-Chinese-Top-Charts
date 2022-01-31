@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > TeX
-<sub>数据更新: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|5027|2|2021-12-15|
-|2|[THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2199|2|2021-11-20|
+|2|[THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2200|2|2021-11-20|
 |3|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|1063|1|2021-12-08|
 |4|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3318|1|2022-01-24|
-|5|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|203|1|2022-01-30|
+|5|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|203|1|2022-01-31|
 |6|[wzpan/BeamerStyleSlides](https://github.com/wzpan/BeamerStyleSlides)|🌈Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。|692|1|2022-01-20|
 |7|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|1103|1|2022-01-09|
-|8|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2536|1|2021-10-29|
-|9|[OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs)|The Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security.|1303|1|2022-01-26|
+|8|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2537|1|2021-10-29|
+|9|[OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs)|The Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security.|1304|1|2022-01-26|
 |10|[mohuangrui/ucasproposal](https://github.com/mohuangrui/ucasproposal)|LaTeX Proposal Template for the University of Chinese Academy of Sciences|344|0|2021-10-29|
 |11|[RuixiZhang42/newxeCJK](https://github.com/RuixiZhang42/newxeCJK)|New implementation of xeCJK|14|0|2021-10-15|
 |12|[Onion12138/math](https://github.com/Onion12138/math)|上海初中数学讲义Latex版|2|0|2021-08-02|
 |13|[ericuni/note](https://github.com/ericuni/note)|my notes|9|0|2021-12-27|
 |14|[21-lessons/21-lessons-book-de](https://github.com/21-lessons/21-lessons-book-de)|21 Lektionen - Ein Buch über eine Bitcoin-Reise, geschrieben von einem Bitcoiner|10|0|2021-12-29|
-|15|[ethereum/yellowpaper](https://github.com/ethereum/yellowpaper)|The "Yellow Paper": Ethereum's formal specification|1244|0|2022-01-18|
+|15|[ethereum/yellowpaper](https://github.com/ethereum/yellowpaper)|The "Yellow Paper": Ethereum's formal specification|1246|0|2022-01-18|
 |16|[yzhangcs/master-thesis](https://github.com/yzhangcs/master-thesis)|基于树形条件随机场的高阶句法分析|6|0|2021-12-26|
 |17|[xinetzone/cv-actions](https://github.com/xinetzone/cv-actions)|计算机视觉实践|2|0|2021-10-08|
 |18|[YiJiang1992/CV](https://github.com/YiJiang1992/CV)|Curriculum Vitae / 简历|4|0|2022-01-23|
@@ -42,7 +42,7 @@
 |35|[PandaScience/FortySecondsCV](https://github.com/PandaScience/FortySecondsCV)|A highly customizable and improved version of Carmine Spagnuolo's Twenty Seconds Curriculum Vitae.|140|0|2021-12-25|
 |36|[xiyie/UPC_LATEX_TEMPLATE](https://github.com/xiyie/UPC_LATEX_TEMPLATE)|中国石油大学（华东）控制科学与工程学院课题模板（不保证通用）|4|0|2021-10-01|
 |37|[SJTU-HPC/docs.hpc.sjtu.edu.cn](https://github.com/SJTU-HPC/docs.hpc.sjtu.edu.cn)|SJTU HPC 用户文档站点|49|0|2022-01-25|
-|38|[gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en)|The English version of 14 lectures on visual SLAM.|630|0|2021-11-16|
+|38|[gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en)|The English version of 14 lectures on visual SLAM.|635|0|2021-11-16|
 |39|[a358003542/zhouyi](https://github.com/a358003542/zhouyi)|周易初讲【讲解部分编写中......】|2|0|2021-11-08|
 |40|[wenddymacro/AppliedEconometrics](https://github.com/wenddymacro/AppliedEconometrics)|Stata、计量经济学、DSGE|9|0|2021-10-28|
 |41|[zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style)|GB/T 7714-2015 BibTeX Style|628|0|2022-01-13|
@@ -58,7 +58,7 @@
 |51|[sppmg/TW_Thesis_Template](https://github.com/sppmg/TW_Thesis_Template)|The LaTeX Template for TW Thesis 台灣碩博士 LaTeX 論文樣板|92|0|2021-10-05|
 |52|[GeeLaw/laomian](https://github.com/GeeLaw/laomian)|老面 (sourdough, lit. "old dough") is used as the starter for fermenting dough. This repository contains my digital 老面.|4|0|2022-01-16|
 |53|[ustctug/ustcthesis](https://github.com/ustctug/ustcthesis)|LaTeX template for USTC thesis|924|0|2022-01-12|
-|54|[ice1000/resume](https://github.com/ice1000/resume)|:space_invader: My resume / 我的简历|557|0|2021-12-30|
+|54|[ice1000/resume](https://github.com/ice1000/resume)|:space_invader: My resume / 我的简历|556|0|2021-12-30|
 |55|[iamxiatian/course_ds](https://github.com/iamxiatian/course_ds)|数据结构|9|0|2021-11-09|
 |56|[mathedu4all/bhcexam](https://github.com/mathedu4all/bhcexam)|The BHCexam document class attempts to make it easy for even a LaTeX novice to prepare exams.|58|0|2021-08-30|
 |57|[stone-zeng/latex-showcase](https://github.com/stone-zeng/latex-showcase)|-|10|0|2022-01-11|
@@ -122,7 +122,7 @@
 |115|[phonixer/NWPU-BEAMER](https://github.com/phonixer/NWPU-BEAMER)|Latex-Beamer-ppt-NWPU-西北工业大学ppt模板-LaTex-Beamer|4|0|2021-08-25|
 |116|[sailist/MarkTex](https://github.com/sailist/MarkTex)|convert markdown to latex code perfectly, support chinese|35|0|2021-09-28|
 |117|[andrewx100/rheology_lecture_note](https://github.com/andrewx100/rheology_lecture_note)|这是一个流变学讲义的项目。作者：孙尉翔。邮箱：mswxsun@scut.edu.cn|2|0|2021-10-11|
-|118|[huangxg/lnotes](https://github.com/huangxg/lnotes)|LaTeX Notes|212|0|2021-10-25|
+|118|[huangxg/lnotes](https://github.com/huangxg/lnotes)|LaTeX Notes|214|0|2021-10-25|
 |119|[latexstudio/APMCMThesis](https://github.com/latexstudio/APMCMThesis)|2021 年 APMCM亚太地区大学生数学建模|15|0|2021-11-24|
 
 <div align="center">

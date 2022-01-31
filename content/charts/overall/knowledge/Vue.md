@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Vue
-<sub>数据更新: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|3040|2022-01-06|
 |2|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|1726|2022-01-28|
-|3|[inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|1649|2021-09-19|
-|4|[GitHub-Laziji/VBlog](https://github.com/GitHub-Laziji/VBlog)|使用GitHub API 搭建一个可动态发布文章的博客|1426|2022-01-15|
+|3|[inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|1652|2021-09-19|
+|4|[GitHub-Laziji/VBlog](https://github.com/GitHub-Laziji/VBlog)|使用GitHub API 搭建一个可动态发布文章的博客|1425|2022-01-15|
 |5|[llldddbbb/dbblog](https://github.com/llldddbbb/dbblog)|基于SpringBoot2.x+Vue2.x+ElementUI+Iview+Elasticsearch+RabbitMQ+Redis+Shiro的多模块前后端分离的博客项目|1097|2022-01-15|
 |6|[CS-Tao/whu-library-seat](https://github.com/CS-Tao/whu-library-seat)|武汉大学图书馆助手 - 桌面端|668|2022-01-13|
 |7|[zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook)|教你如何打造舒适、高效、时尚的前端开发环境|642|2021-09-29|
@@ -17,12 +17,12 @@
 |10|[hql7/wl-micro-frontends](https://github.com/hql7/wl-micro-frontends)|Micro front end practical project tutorial. 微前端项目实战vue项目。基于vue3.0&qiankun2.0进阶版：https://github.com/wl-ui/wl-mfe|464|2022-01-14|
 |11|[powerdong/Music-player](https://github.com/powerdong/Music-player)|Vue高仿网易云音乐(Vue入门实践)——在线预览 -- 暂时停止|456|2022-01-15|
 |12|[qq449245884/vue-okr-tree](https://github.com/qq449245884/vue-okr-tree)|http://www.longstudy.club/vue-okr-tree-doc/index.html|412|2021-09-07|
-|13|[anjoy8/Blog.Vue](https://github.com/anjoy8/Blog.Vue)|☘ 一个vue的个人博客项目，配合.net core api教程，打造前后端分离|403|2021-11-28|
+|13|[anjoy8/Blog.Vue](https://github.com/anjoy8/Blog.Vue)|☘ 一个vue的个人博客项目，配合.net core api教程，打造前后端分离|402|2021-11-28|
 |14|[shady-xia/Blog](https://github.com/shady-xia/Blog)|博客上相关的代码|342|2022-01-10|
 |15|[zhangyuang/vite-design](https://github.com/zhangyuang/vite-design)|下一代构建工具 vite 文档翻译 源码解析|284|2021-10-17|
 |16|[FXLP/MarkTool](https://github.com/FXLP/MarkTool)|DoTAT 是一款基于web、面向领域的通用文本标注工具，支持大规模实体标注、关系标注、事件标注、文本分类、基于字典匹配和正则匹配的自动标注以及用于实现归一化的标准名标注，同时也支持迭代标注、嵌套实体标注和嵌套事件标注。标注规范可自定义且同类型任务中可“一次创建多次复用”。通过分级实体集合扩大了实体类型的规模，并设计了全新高效的标注方式，提升了用户体验和标注效率。此外，本工具增加了审核环节，可对多 ...|276|2021-12-10|
 |17|[komomoo/vuepress-theme-resume](https://github.com/komomoo/vuepress-theme-resume)|🐈 书写简洁优雅的前端程序员 markdown 简历，由 vuepress 驱动|270|2021-11-19|
-|18|[pearmini/colorfu](https://github.com/pearmini/colorfu)|Make beautiful but also meaningful wallpapers with words, colors, patterns and images. 🌈|250|2021-12-27|
+|18|[pearmini/colorfu](https://github.com/pearmini/colorfu)|Make beautiful but also meaningful wallpapers with words, colors, patterns and images. 🌈|251|2021-12-27|
 |19|[lcomplete/TechShare](https://github.com/lcomplete/TechShare)|分享Java、.NET、Javascript、效率、软件工程、编程语言等技术知识。|210|2022-01-28|
 |20|[wejectchen/Ginblog](https://github.com/wejectchen/Ginblog)|gin+vue+MySQL全栈制作一个博客|204|2022-01-22|
 |21|[alexwjj/alexwjj.github.io](https://github.com/alexwjj/alexwjj.github.io)|基于vuePress的博客，定期分享前端知识，求star|182|2022-01-14|
@@ -47,7 +47,7 @@
 |40|[weipxiu/Vue-Router](https://github.com/weipxiu/Vue-Router)|世上最完整的vue-router配置demo，包含了有关vue-router所有相关核心知识点，一个需求多种解决方式的体现，据说配置出了一朵花儿，不服来战！|71|2022-01-15|
 |41|[zxuqian/vuejs-examples](https://github.com/zxuqian/vuejs-examples)|Vue.js 示例项目合集|67|2021-09-06|
 |42|[fenixsoft/fenix-bookstore-frontend](https://github.com/fenixsoft/fenix-bookstore-frontend)|与《软件架构探索》中单体、微服务、无服务的后端工程搭配的前端示例代码。|67|2022-01-15|
-|43|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|63|2022-01-30|
+|43|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|64|2022-01-31|
 |44|[wangxinleo/practise-vue-shop-front](https://github.com/wangxinleo/practise-vue-shop-front)|📦📈【2019】关于 element 的初级学习代码项目。 附全套学习资源和vscode配置|62|2022-01-14|
 |45|[pengnima/supermall](https://github.com/pengnima/supermall)|用vue做的商城supermall项目，学习自coderwhy的项目，目前已达到老师的项目进度，接下来自己整整其他的内容|61|2021-10-06|
 |46|[smileShirmy/smile-blog-admin](https://github.com/smileShirmy/smile-blog-admin)|博客管理后台 @Vue.js|58|2021-10-05|
@@ -138,21 +138,21 @@
 |131|[zqsfuture/vue-koa2](https://github.com/zqsfuture/vue-koa2)|vue+koa2学习|9|2022-01-15|
 |132|[Panyue-genkiyo/vue3-learning](https://github.com/Panyue-genkiyo/vue3-learning)|学习vue3.0的基础代码|8|2021-10-14|
 |133|[scriptscat/scriptlist-frontend](https://github.com/scriptscat/scriptlist-frontend)|脚本猫脚本站前端页面，与世界分享你的脚本|8|2022-01-20|
-|134|[pbw123/myblog-client](https://github.com/pbw123/myblog-client)|个人博客前台开源代码，技术栈有Nuxt , Vuex Store , Vue Router , Vue CLI , Element UI , Vant , Axios , npm , webpack , Sass等，欢迎Star和Fork|8|2022-01-22|
-|135|[wushijiang13/blogwu](https://github.com/wushijiang13/blogwu)|这是一个用于学习的博客|8|2022-01-13|
-|136|[Major-333/OS_course_project](https://github.com/Major-333/OS_course_project)|2020 Tongji SSE OS 课程作业|8|2022-01-14|
-|137|[ZzZzzzxc/node-vue-blog](https://github.com/ZzZzzzxc/node-vue-blog)|vue+express实现的小博客（已上线）|8|2021-11-29|
-|138|[ctts/vue-long-ripple](https://github.com/ctts/vue-long-ripple)|仿知乎、掘金点击动画效果,支持移动端长按特效|8|2022-01-14|
-|139|[yktimes/ykblog](https://github.com/yktimes/ykblog)|django vue 博客|8|2022-01-15|
-|140|[onaug6th/super-ui](https://github.com/onaug6th/super-ui)|轮子合集|8|2022-01-13|
-|141|[yulilong/front-end-doc](https://github.com/yulilong/front-end-doc)|前端技术博客，使用vuepress，网址：|8|2021-12-16|
-|142|[DisasterMeng/Vue-Simple-Blog](https://github.com/DisasterMeng/Vue-Simple-Blog)|简约博客|8|2021-10-05|
-|143|[wgjh5/vueSummarize](https://github.com/wgjh5/vueSummarize)|vue知识积累|8|2022-01-14|
-|144|[AlpacaBi/bgk-resume](https://github.com/AlpacaBi/bgk-resume)|一个基于vue的在线动态简历，将来面试装逼用，你们可以直接改动简历内容部署在自己的服务器上|8|2022-01-15|
-|145|[calpa/zhihu-unlimited-web](https://github.com/calpa/zhihu-unlimited-web)|知乎无限 live 数据流网站|8|2021-09-01|
-|146|[yu-tou/frontend-modern-experience-share-slide](https://github.com/yu-tou/frontend-modern-experience-share-slide)|一个关于Web 体验技术发展前沿的小分享|7|2022-01-20|
-|147|[syzdev/vv-blog](https://github.com/syzdev/vv-blog)|😋 一个用Vue写的简单博客|7|2021-11-10|
-|148|[LightAPIs/free-export-bookmarks](https://github.com/LightAPIs/free-export-bookmarks)|Freely bookmark export tool. 自由地书签导出工具。|7|2021-11-27|
+|134|[LightAPIs/free-export-bookmarks](https://github.com/LightAPIs/free-export-bookmarks)|Freely bookmark export tool. 自由地书签导出工具。|8|2021-11-27|
+|135|[pbw123/myblog-client](https://github.com/pbw123/myblog-client)|个人博客前台开源代码，技术栈有Nuxt , Vuex Store , Vue Router , Vue CLI , Element UI , Vant , Axios , npm , webpack , Sass等，欢迎Star和Fork|8|2022-01-22|
+|136|[wushijiang13/blogwu](https://github.com/wushijiang13/blogwu)|这是一个用于学习的博客|8|2022-01-13|
+|137|[Major-333/OS_course_project](https://github.com/Major-333/OS_course_project)|2020 Tongji SSE OS 课程作业|8|2022-01-14|
+|138|[ZzZzzzxc/node-vue-blog](https://github.com/ZzZzzzxc/node-vue-blog)|vue+express实现的小博客（已上线）|8|2021-11-29|
+|139|[ctts/vue-long-ripple](https://github.com/ctts/vue-long-ripple)|仿知乎、掘金点击动画效果,支持移动端长按特效|8|2022-01-14|
+|140|[yktimes/ykblog](https://github.com/yktimes/ykblog)|django vue 博客|8|2022-01-15|
+|141|[onaug6th/super-ui](https://github.com/onaug6th/super-ui)|轮子合集|8|2022-01-13|
+|142|[yulilong/front-end-doc](https://github.com/yulilong/front-end-doc)|前端技术博客，使用vuepress，网址：|8|2021-12-16|
+|143|[DisasterMeng/Vue-Simple-Blog](https://github.com/DisasterMeng/Vue-Simple-Blog)|简约博客|8|2021-10-05|
+|144|[wgjh5/vueSummarize](https://github.com/wgjh5/vueSummarize)|vue知识积累|8|2022-01-14|
+|145|[AlpacaBi/bgk-resume](https://github.com/AlpacaBi/bgk-resume)|一个基于vue的在线动态简历，将来面试装逼用，你们可以直接改动简历内容部署在自己的服务器上|8|2022-01-15|
+|146|[calpa/zhihu-unlimited-web](https://github.com/calpa/zhihu-unlimited-web)|知乎无限 live 数据流网站|8|2021-09-01|
+|147|[yu-tou/frontend-modern-experience-share-slide](https://github.com/yu-tou/frontend-modern-experience-share-slide)|一个关于Web 体验技术发展前沿的小分享|7|2022-01-20|
+|148|[syzdev/vv-blog](https://github.com/syzdev/vv-blog)|😋 一个用Vue写的简单博客|7|2021-11-10|
 |149|[sam9831/datav-free-demo](https://github.com/sam9831/datav-free-demo)|慕课网免费课《快速入门ECharts4.0开发》项目源码|7|2022-01-14|
 |150|[ChanWahFung/vue-maoyan-app](https://github.com/ChanWahFung/vue-maoyan-app)|仿猫眼电影移动端，主要使用vue、axios、mint-ui。仅作为学习用途。|7|2022-01-13|
 |151|[ChenJiaH/blog](https://github.com/ChenJiaH/blog)| 📝个人博客 - 欢迎关注 👀 和点赞 ⭐️|7|2022-01-24|

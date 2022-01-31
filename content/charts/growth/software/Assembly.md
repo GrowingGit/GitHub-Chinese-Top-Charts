@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Assembly
-<sub>数据更新: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52420|18|2022-01-29|
-|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!|7778|2|2022-01-30|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52427|18|2022-01-31|
+|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!|7788|2|2022-01-30|
 |3|[BUAADreamer/BUAA-CO-2020](https://github.com/BUAADreamer/BUAA-CO-2020)|2020年北航计组课设代码 This is the BUAA Computer Orgnization code project files.|5|0|2022-01-27|
 |4|[Panda381/ATX80](https://github.com/Panda381/ATX80)|ZX-80 computer clone with ATmega8 processor and with BASIC interpreter written in AVR assembler.|22|0|2021-12-15|
 |5|[NEUzht/computer_system](https://github.com/NEUzht/computer_system)|孙仲武带带我|3|0|2022-01-09|
@@ -24,7 +24,7 @@
 |17|[djh-sudo/tiny-OS-kernel](https://github.com/djh-sudo/tiny-OS-kernel)|《从零开始写一个操作系统》|3|0|2021-10-10|
 |18|[YoooHaaa/Roster](https://github.com/YoooHaaa/Roster)|科锐三阶段项目---16位汇编通讯录|2|0|2021-09-22|
 |19|[junchao-ustc/csapp](https://github.com/junchao-ustc/csapp)|记录csapp的实验|2|0|2021-10-30|
-|20|[leomil72/LM80C](https://github.com/leomil72/LM80C)|A Z80-based homebrew computer withTMS9918, AY-3-8910, Z80 CTC, Z80 PIO, and Z80 SIO|64|0|2021-12-12|
+|20|[leomil72/LM80C](https://github.com/leomil72/LM80C)|A Z80-based homebrew computer withTMS9918, AY-3-8910, Z80 CTC, Z80 PIO, and Z80 SIO|65|0|2021-12-12|
 |21|[li-jinpeng/Colorful_Block](https://github.com/li-jinpeng/Colorful_Block)|汇编大作业|2|0|2021-11-10|
 |22|[xiyanxy/Cemu_graphicPacks_CHS](https://github.com/xiyanxy/Cemu_graphicPacks_CHS)|cemu模拟器的图像插件汉化包：graphicPacks|60|0|2021-12-12|
 |23|[n13eho/CalciferCompiler](https://github.com/n13eho/CalciferCompiler)|2021年全国大学生计算机系统能力大赛—— 编译系统设计赛（华为毕昇杯）中，Calcifer队伍的作品|2|0|2021-11-21|

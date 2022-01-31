@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > CSS
-<sub>数据更新: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20389|7|2021-12-13|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11922|6|2022-01-19|
-|3|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired mag ...|3901|5|2022-01-30|
-|4|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5998|3|2021-12-20|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11924|6|2022-01-19|
+|3|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired mag ...|3904|5|2022-01-30|
+|4|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5999|3|2021-12-20|
 |5|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4545|3|2022-01-09|
 |6|[apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh)|:book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】|3625|3|2021-08-09|
 |7|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|506|3|2021-12-13|
 |8|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|3834|2|2022-01-28|
-|9|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8370|2|2022-01-17|
+|9|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8369|2|2022-01-17|
 |10|[kaeyleo/jekyll-theme-H2O](https://github.com/kaeyleo/jekyll-theme-H2O)| 🎉 A clean and delicate Jekyll theme. Jekyll博客主题|908|1|2021-10-28|
 |11|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|2921|1|2021-12-02|
 |12|[Veal98/CS-Wiki](https://github.com/Veal98/CS-Wiki)|📙 致力打造完善的 Java 后端知识体系. Not only an Interview-Guide, but also a Learning-Direction.|545|1|2021-12-19|
 |13|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|340|1|2022-01-28|
-|14|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|199|1|2021-10-26|
+|14|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|200|1|2021-10-26|
 |15|[leopardpan/leopardpan.github.io](https://github.com/leopardpan/leopardpan.github.io)|个人博客，看效果进入|1165|1|2021-10-17|
 |16|[beeth0ven/RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation)|RxSwift 中文文档|1221|1|2021-10-25|
 |17|[LaneDu/Knowledge-Brain](https://github.com/LaneDu/Knowledge-Brain)|思源笔记主题 Knowledge Brain 寓意知识大脑|10|0|2022-01-23|
@@ -66,7 +66,7 @@
 |59|[caviare/clean](https://github.com/caviare/clean)|clean是一个简洁清新的ghost博客现代主题 https://www.imcaviare.com|14|0|2021-08-18|
 |60|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V1.0 Power by Jekyll   Github Action. Code by Bin4xin|6|0|2022-01-10|
 |61|[xdlianrong/XDLR-RXL](https://github.com/xdlianrong/XDLR-RXL)|微众比赛的融信链项目，通过区块链赋能教育证书和诚信评估|12|0|2021-12-09|
-|62|[TNK-Studio/Odoo-Book](https://github.com/TNK-Studio/Odoo-Book)|🤓Odoo 小书，Odoo 入门教程 （龟速填坑中...已更新到第 7 章第 2 节，要是看不到更新可以强制刷新一下浏览器。小书源码地址请看 README。）|84|0|2021-09-20|
+|62|[TNK-Studio/Odoo-Book](https://github.com/TNK-Studio/Odoo-Book)|🤓Odoo 小书，Odoo 入门教程 （龟速填坑中...已更新到第 7 章第 2 节，要是看不到更新可以强制刷新一下浏览器。小书源码地址请看 README。）|85|0|2021-09-20|
 |63|[viewweiwu/v2ex-zhihu-theme](https://github.com/viewweiwu/v2ex-zhihu-theme)|v2ex 知乎 主题样式|22|0|2022-01-06|
 |64|[zhangkn/zhangkn.github.io](https://github.com/zhangkn/zhangkn.github.io)|新博客地址：https://kunnan.blog.csdn.net|19|0|2021-09-03|
 |65|[RaphaHsu/goodidea-react-track](https://github.com/RaphaHsu/goodidea-react-track)|前端 React 學習實驗|7|0|2022-01-13|

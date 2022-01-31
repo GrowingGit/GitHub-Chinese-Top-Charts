@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2022-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|288|2022-01-13|2021-08-03|
+|1|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|289|2022-01-13|2021-08-03|
 |2|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|108|2021-10-13|2021-02-08|
 |3|[lionvoom/WeAppTongCeng](https://github.com/lionvoom/WeAppTongCeng)|小程序同层渲染|85|2021-10-29|2021-03-16|
 |4|[HighwayLaw/HWThrottle](https://github.com/HighwayLaw/HWThrottle)|A lite Objective-C library for throttle and debounce, supporting leading and trailing. 节流/限流/防反跳/防重复点击/防重复调用|85|2021-11-18|2021-02-20|
@@ -13,7 +13,7 @@
 |6|[FoneG/FGPopupScheduler](https://github.com/FoneG/FGPopupScheduler)| ✨ ✨ ✨ ✨ iOS弹窗调用器，控制弹窗按照指定的策略进行显示。Helps you control popups easily.  ✨ ✨ ✨ ✨|76|2021-11-08|2021-06-23|
 |7|[xrtc-cc/xrtc](https://github.com/xrtc-cc/xrtc)|WebRTC 融合音视频解决方案：封装声网Agora、华为云hrtc、腾讯云trtc及网易云信rtc，支持动态切换和定制，iOS、Android、Web极简集成WebRTC。|62|2021-11-05|2021-08-19|
 |8|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|55|2022-01-06|2021-03-08|
-|9|[FoneG/FGIAPService](https://github.com/FoneG/FGIAPService)|iap内购实现解决方案|49|2021-12-07|2021-05-14|
+|9|[FoneG/FGIAPService](https://github.com/FoneG/FGIAPService)|iap内购实现解决方案|50|2021-12-07|2021-05-14|
 |10|[HansenCCC/KKQuickDraw](https://github.com/HansenCCC/KKQuickDraw)|iOS实现HTML H5秒开、拦截请求替换资源、优化HTML加载速度|47|2021-08-25|2021-05-17|
 |11|[jiangzhengnan/NgGithubIos](https://github.com/jiangzhengnan/NgGithubIos)|🍎 基于iOS端，使用Objective-C编写的Github个人版本|46|2022-01-29|2021-07-04|
 |12|[Tliens/KillBug](https://github.com/Tliens/KillBug)|通过runtime记录用户日志，获取复现步骤的工具。Collect user data, guess repeat steps, and detect bugs.|46|2021-11-15|2021-03-29|
@@ -109,7 +109,6 @@
 |102|[yelinux/YHWaterFallLayout](https://github.com/yelinux/YHWaterFallLayout)|瀑布流简易使用|2|2021-10-29|2021-04-13|
 |103|[YJExpand/YJEmptyView](https://github.com/YJExpand/YJEmptyView)|空白页占位|2|2021-11-17|2021-02-22|
 |104|[wuyanghu/WPObserver](https://github.com/wuyanghu/WPObserver)|自定义一个通用的一对多的观察者|2|2021-11-12|2021-02-05|
-|105|[chbo297/BODragScrollView](https://github.com/chbo297/BODragScrollView)|卡片式滑动拖拽交互控件-支持卡片内嵌ScrollView|2|2021-08-30|2021-01-31|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
