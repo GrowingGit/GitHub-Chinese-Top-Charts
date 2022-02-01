@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Java
-<sub>数据更新: 2022-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -15,8 +15,8 @@
 |8|[canliture/nju-software-analysis-homework](https://github.com/canliture/nju-software-analysis-homework)|南京大学《软件分析》课程课后作业(非Bamboo)   NJU's software analysis homework; ... Not official, just a reference|183|2021-11-18|2021-10-09|
 |9|[algorithmzuo/coding-for-great-offer](https://github.com/algorithmzuo/coding-for-great-offer)|大厂算法和数据结构刷题班|130|2022-01-22|2021-04-13|
 |10|[TanaStudy/Java-Study](https://github.com/TanaStudy/Java-Study)|🚀Java学习过程中的的代码记录。Java基础、Spring、SpringBoot、分布式项目、Demo等等等等等👍👍👍。|96|2022-01-31|2021-07-27|
-|11|[bkfish/Apache-Log4j-Learning](https://github.com/bkfish/Apache-Log4j-Learning)|Apache-Log4j漏洞复现笔记|84|2021-12-10|2021-12-10|
-|12|[alangsuo/BILIBILI-HELPER-PRE](https://github.com/alangsuo/BILIBILI-HELPER-PRE)|这是一个利用 Linux Crontab , Docker等方式实现哔哩哔哩（Bilibili）每日任务投币，点赞，分享视频，直播签到，银瓜子兑换硬币，漫画每日签到，简单配置即可每日轻松获取 65 经验值，快来和我一起成为 Lv6 吧~~~~|84|2022-01-14|2021-04-29|
+|11|[bkfish/Apache-Log4j-Learning](https://github.com/bkfish/Apache-Log4j-Learning)|Apache-Log4j漏洞复现笔记|85|2021-12-10|2021-12-10|
+|12|[alangsuo/BILIBILI-HELPER-PRE](https://github.com/alangsuo/BILIBILI-HELPER-PRE)|这是一个利用 Linux Crontab , Docker等方式实现哔哩哔哩（Bilibili）每日任务投币，点赞，分享视频，直播签到，银瓜子兑换硬币，漫画每日签到，简单配置即可每日轻松获取 65 经验值，快来和我一起成为 Lv6 吧~~~~|85|2022-01-14|2021-04-29|
 |13|[MilitaryIntelligence6/Cva](https://github.com/MilitaryIntelligence6/Cva)|从0实现一个JVM语言Cva及教程, 目前实现编译器;|55|2021-09-01|2021-02-14|
 
 <div align="center">

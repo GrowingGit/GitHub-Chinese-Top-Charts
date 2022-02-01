@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Perl
-<sub>数据更新: 2022-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Oreomeow/checkinpanel](https://github.com/Oreomeow/checkinpanel)|一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）|662|4|2022-01-29|
-|2|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3958|2|2022-01-31|
-|3|[alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list)|Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!|619|1|2022-01-30|
+|1|[Oreomeow/checkinpanel](https://github.com/Oreomeow/checkinpanel)|一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）|661|4|2022-01-29|
+|2|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3959|2|2022-01-31|
+|3|[alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list)|Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!|620|1|2022-02-01|
 |4|[Yanstory/tpZHCNex](https://github.com/Yanstory/tpZHCNex)|thpatch zh-hans extra patches (Beta)|16|0|2022-01-15|
 |5|[leobbs/leobbs](https://github.com/leobbs/leobbs)|雷傲论坛, demo地址https://leobbs.org|5|0|2022-01-24|
 |6|[g0v/magic-mirror](https://github.com/g0v/magic-mirror)|定時 mirror *.gov.tw 上有時效性的資料到 git repository.|10|0|2021-08-03|
@@ -15,12 +15,12 @@
 |8|[cn27001/lua-resty-waf](https://github.com/cn27001/lua-resty-waf)|开源waf web 防火墙|9|0|2021-11-30|
 |9|[isi-nlp/uroman](https://github.com/isi-nlp/uroman)|Universal Romanizer that can convert any unicode script to roman (latin) script|38|0|2021-12-02|
 |10|[g0v/moedict-data-twblg](https://github.com/g0v/moedict-data-twblg)|臺灣閩南語常用詞辭典 資料檔|49|0|2021-12-13|
-|11|[uparrows/LANraragi_cn](https://github.com/uparrows/LANraragi_cn)|This repo is a fork of Difegue / LANraragi , those things i've done was to translate this repo into chinese ,and fix chrome browser js problem.|45|0|2022-01-16|
+|11|[uparrows/LANraragi_cn](https://github.com/uparrows/LANraragi_cn)|This repo is a fork of Difegue / LANraragi , those things i've done was to translate this repo into chinese ,and fix chrome browser js problem.|43|0|2022-01-16|
 |12|[dqwang122/MLROUGE](https://github.com/dqwang122/MLROUGE)|ROUGE for multilingual Summarization|6|0|2021-10-11|
 |13|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|376|0|2021-12-21|
 |14|[Songmu/p5-Riji](https://github.com/Songmu/p5-Riji)|git based simple static site generator mainly for blogging|22|0|2022-01-16|
 |15|[liaochenlanruo/pgcgap](https://github.com/liaochenlanruo/pgcgap)|The Prokaryotic Genomics and Comparative Genomics Analysis Pipeline|19|0|2021-12-23|
-|16|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|206|0|2022-01-31|
+|16|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|206|0|2022-02-01|
 |17|[texjporg/cjk-gs-support](https://github.com/texjporg/cjk-gs-support)|Scripts to ease the use of CJK fonts with Ghostscript|28|0|2021-09-30|
 |18|[MYDan/mayi](https://github.com/MYDan/mayi)|蚂蚁蛋运维助手(安装方式: curl -L http://update.mydan.org bash)|12|0|2021-10-14|
 |19|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|58|0|2022-01-29|

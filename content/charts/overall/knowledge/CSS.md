@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > CSS
-<sub>数据更新: 2022-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20389|2021-12-13|
+|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20390|2021-12-13|
 |2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|11924|2022-01-19|
 |3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8369|2022-01-17|
-|4|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|5999|2021-12-20|
+|4|[eastlakeside/interpy-zh](https://github.com/eastlakeside/interpy-zh)|📘《Python进阶》（Intermediate Python 中文版）|6000|2021-12-20|
 |5|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4545|2022-01-09|
-|6|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired mag ...|3904|2022-01-30|
-|7|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|3834|2022-01-28|
+|6|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired mag ...|3908|2022-01-30|
+|7|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|3835|2022-01-28|
 |8|[apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh)|:book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】|3625|2021-08-09|
 |9|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|2921|2021-12-02|
-|10|[beeth0ven/RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation)|RxSwift 中文文档|1221|2021-10-25|
+|10|[beeth0ven/RxSwift-Chinese-Documentation](https://github.com/beeth0ven/RxSwift-Chinese-Documentation)|RxSwift 中文文档|1223|2021-10-25|
 |11|[leopardpan/leopardpan.github.io](https://github.com/leopardpan/leopardpan.github.io)|个人博客，看效果进入|1165|2021-10-17|
-|12|[kaeyleo/jekyll-theme-H2O](https://github.com/kaeyleo/jekyll-theme-H2O)| 🎉 A clean and delicate Jekyll theme. Jekyll博客主题|908|2021-10-28|
+|12|[kaeyleo/jekyll-theme-H2O](https://github.com/kaeyleo/jekyll-theme-H2O)| 🎉 A clean and delicate Jekyll theme. Jekyll博客主题|909|2021-10-28|
 |13|[ldqk/Masuit.MyBlogs](https://github.com/ldqk/Masuit.MyBlogs)|masuit.org个人博客站项目源码，https://masuit.org ，供参考、学习、引用、非商业性质的部署。基于.net6|630|2022-01-24|
 |14|[Veal98/CS-Wiki](https://github.com/Veal98/CS-Wiki)|📙 致力打造完善的 Java 后端知识体系. Not only an Interview-Guide, but also a Learning-Direction.|545|2021-12-19|
 |15|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|506|2021-12-13|
@@ -31,14 +31,14 @@
 |24|[lbc-team/deep_ethereum](https://github.com/lbc-team/deep_ethereum)|电子书：以太坊技术与实现|139|2021-12-02|
 |25|[bit-ranger/blog](https://github.com/bit-ranger/blog)|博客|109|2021-10-14|
 |26|[qu5/mogu](https://github.com/qu5/mogu)|一个简约的php书签网址导航|99|2022-01-14|
-|27|[apachecn/quant-learning](https://github.com/apachecn/quant-learning)|:books: Quant 教程整理|98|2021-12-12|
+|27|[apachecn/quant-learning](https://github.com/apachecn/quant-learning)|:books: Quant 教程整理|99|2021-12-12|
 |28|[luokangyuan/ghost-theme-mj](https://github.com/luokangyuan/ghost-theme-mj)|This is a beautiful ghost blog theme，这是一个漂亮的Ghost博客主题。|94|2021-09-21|
 |29|[dhanishgajjar/css-flags](https://github.com/dhanishgajjar/css-flags)|A collection of pure CSS flags, all single divs.|90|2021-08-10|
 |30|[lsils/lstools-showcase](https://github.com/lsils/lstools-showcase)|Showcase examples for EPFL logic synthesis libraries|89|2021-08-03|
 |31|[hltj/kotlin-reference-chinese](https://github.com/hltj/kotlin-reference-chinese)|Kotlin 官方文档（参考部分）中文版|88|2021-08-26|
 |32|[TNK-Studio/Odoo-Book](https://github.com/TNK-Studio/Odoo-Book)|🤓Odoo 小书，Odoo 入门教程 （龟速填坑中...已更新到第 7 章第 2 节，要是看不到更新可以强制刷新一下浏览器。小书源码地址请看 README。）|85|2021-09-20|
 |33|[beaudar/beaudar](https://github.com/beaudar/beaudar)|基于 GitHub issue 的轻量评论插件，Utterances 的中文版本|75|2022-01-28|
-|34|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite|72|2022-01-22|
+|34|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite|72|2022-02-01|
 |35|[yitd/wxkp](https://github.com/yitd/wxkp)|微信卡片分享链接在线制作工具|71|2021-12-11|
 |36|[spring2go/spring-petclinic-msa](https://github.com/spring2go/spring-petclinic-msa)|微服务版spring-petlinic，课程《Kubernetes微服务实践》|70|2021-08-24|
 |37|[apachecn/ds-ipynb-zh](https://github.com/apachecn/ds-ipynb-zh)|:book:  [译] 数据科学 IPython 笔记本|68|2022-01-11|
@@ -59,7 +59,7 @@
 |52|[52bp/shadowrocket](https://github.com/52bp/shadowrocket)|iOS小火箭Shadowrocket ipa 在线安装公众号账号分享|36|2021-12-14|
 |53|[TerminusBot/terminus-jekyll-template](https://github.com/TerminusBot/terminus-jekyll-template)|一分钟搭网站和博客|35|2021-11-20|
 |54|[jsksxs360/xs-huxblog](https://github.com/jsksxs360/xs-huxblog)|一个用于搭建个人博客的 Jekyll 模板|35|2021-12-09|
-|55|[KawaiiZapic/Present](https://github.com/KawaiiZapic/Present)|一个简洁的个人主页,支持显示博客文章.|33|2021-10-01|
+|55|[KawaiiZapic/Present](https://github.com/KawaiiZapic/Present)|一个简洁的个人主页,支持显示博客文章.|34|2021-10-01|
 |56|[yn-zxj/Typecho_Admin_Theme](https://github.com/yn-zxj/Typecho_Admin_Theme)|Typecho博客后台主题|32|2021-08-20|
 |57|[zhaoolee/FrontEndClubIsBook](https://github.com/zhaoolee/FrontEndClubIsBook)|前端娱乐圈是本书!  The front end entertainment circle is the book!|31|2021-08-11|
 |58|[mcthulhu/jorkens](https://github.com/mcthulhu/jorkens)|epub reader based on epub.js for foreign language learners|30|2022-01-22|
@@ -67,7 +67,7 @@
 |60|[apachecn/lqcuq-zh](https://github.com/apachecn/lqcuq-zh)|使用Qiskit学习量子计算|28|2022-01-11|
 |61|[liangzr/blog](https://github.com/liangzr/blog)|北端的博客|28|2021-09-01|
 |62|[shandianlala/sdll-blog](https://github.com/shandianlala/sdll-blog)|博客|27|2021-12-09|
-|63|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主要提供以上原创教程的下载，教程皆为本人从零原创。目的不单是留下经验和理论，还有将难以理解的东西翻译的一语中的；即使不学，用的时候也能一看就懂；在文档的格式，大小，美观上也远超一般文档；最后不断跟进一些新内容。理论上，这就是最好的教程了|25|2022-01-27|
+|63|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主要提供以上原创教程的下载，教程皆为本人从零原创。目的不单是留下经验和理论，还有将难以理解的东西翻译的一语中的；即使不学，用的时候也能一看就懂；在文档的格式，大小，美观上也远超一般文档；最后不断跟进一些新内容。理论上，这就是最好的教程了|26|2022-01-27|
 |64|[lululuting/tgbk](https://github.com/lululuting/tgbk)|挺哥博客|24|2022-01-28|
 |65|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|23|2022-01-22|
 |66|[viewweiwu/v2ex-zhihu-theme](https://github.com/viewweiwu/v2ex-zhihu-theme)|v2ex 知乎 主题样式|22|2022-01-06|
