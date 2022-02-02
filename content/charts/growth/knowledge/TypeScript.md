@@ -1,31 +1,31 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > TypeScript
-<sub>数据更新: 2022-02-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|3681|10|2022-01-13|
-|2|[aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com)|Learn RegEx step by step, from zero to advanced.|1496|9|2022-01-30|
-|3|[chowa/ejyy](https://github.com/chowa/ejyy)|「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。|561|7|2022-01-25|
-|4|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16510|7|2022-01-30|
-|5|[cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue)|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|4110|7|2022-01-14|
+|1|[Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|3682|10|2022-01-13|
+|2|[aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com)|Learn RegEx step by step, from zero to advanced.|1499|9|2022-02-01|
+|3|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16513|7|2022-01-30|
+|4|[cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue)|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|4111|7|2022-01-14|
+|5|[chowa/ejyy](https://github.com/chowa/ejyy)|「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。|561|6|2022-01-25|
 |6|[doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn)|🇨🇳 《JavaScript 二十年》中文版|3720|6|2021-11-25|
 |7|[xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8542|4|2021-12-09|
-|8|[jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)|TypeScript Deep Dive 中文版 |5133|4|2022-01-19|
-|9|[alibaba/pipcook](https://github.com/alibaba/pipcook)|Machine learning platform for Web developers|2204|3|2022-02-01|
+|8|[jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)|TypeScript Deep Dive 中文版 |5135|4|2022-01-19|
+|9|[alibaba/pipcook](https://github.com/alibaba/pipcook)|Machine learning platform for Web developers|2204|3|2022-02-02|
 |10|[sorrycc/weekly](https://github.com/sorrycc/weekly)|前端周刊，每周一发布。|810|3|2022-01-30|
 |11|[btroncone/learn-rxjs](https://github.com/btroncone/learn-rxjs)|Clear examples, explanations, and resources for RxJS|3483|2|2022-01-13|
-|12|[soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)|🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)|1469|2|2022-01-31|
-|13|[zhongsp/TypeScript](https://github.com/zhongsp/TypeScript)|TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org|5512|2|2021-11-20|
+|12|[soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)|🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)|1471|2|2022-02-02|
+|13|[zhongsp/TypeScript](https://github.com/zhongsp/TypeScript)|TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org|5515|2|2021-11-20|
 |14|[bytedance/guide](https://github.com/bytedance/guide)|A new feature guide component by react 🧭|485|2|2022-01-24|
 |15|[alanhzw/WarblerHomepage](https://github.com/alanhzw/WarblerHomepage)|流莺书签|131|1|2021-12-14|
 |16|[dzzzzzy/Nestjs-Learning](https://github.com/dzzzzzy/Nestjs-Learning)|nestjs 学习教程 :books:，跟我一起学习 nest 框架~ :muscle:|779|1|2022-01-22|
 |17|[zenghongtu/react-use-chinese](https://github.com/zenghongtu/react-use-chinese)|中文文档@react-use|838|1|2021-12-06|
-|18|[loomnetwork/cryptozombie-lessons](https://github.com/loomnetwork/cryptozombie-lessons)|Lesson content for cryptozombies.io|826|1|2022-01-31|
+|18|[loomnetwork/cryptozombie-lessons](https://github.com/loomnetwork/cryptozombie-lessons)|Lesson content for cryptozombies.io|827|1|2022-02-01|
 |19|[alibaba/kiwi](https://github.com/alibaba/kiwi)|🐤 Kiwi-国际化翻译全流程解决方案|1943|1|2022-01-26|
-|20|[loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3316|1|2022-01-13|
-|21|[EhTagTranslation/EhSyringe](https://github.com/EhTagTranslation/EhSyringe)|E 站注射器，将中文翻译注入到 E 站体内|1309|1|2022-01-31|
+|20|[loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3318|1|2022-01-13|
+|21|[EhTagTranslation/EhSyringe](https://github.com/EhTagTranslation/EhSyringe)|E 站注射器，将中文翻译注入到 E 站体内|1311|1|2022-02-01|
 |22|[wistingcn/WiLearning](https://github.com/wistingcn/WiLearning)|Multiparty meeting&e-learning  using mediasoup, webrtc ,angular and ionic with powerful whiteboard support|411|1|2021-10-28|
 |23|[miao-lang/miao-lang](https://github.com/miao-lang/miao-lang)|喵语翻译：将人类语言翻译为喵语言。|424|1|2022-01-08|
 |24|[CodFrm/cxmooc-tools](https://github.com/CodFrm/cxmooc-tools)|一个 超星(学习通)/智慧树(知到)/中国大学mooc 学习工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)|1658|1|2021-12-13|
@@ -37,14 +37,14 @@
 |30|[hjlld/LearningWebGPU](https://github.com/hjlld/LearningWebGPU)|WebGPU tutorials inspired by LearningWebGL.com. Use both WGSL and GLSL/SPIR-V.|338|0|2022-01-27|
 |31|[brucx/mp-push-nestjs](https://github.com/brucx/mp-push-nestjs)|微信公众号消息推送服务，类似“server酱”，提供Docker镜像部署|100|0|2021-08-13|
 |32|[MrTreasure/Algorithm](https://github.com/MrTreasure/Algorithm)|算法学习以及一些编程领域的文档、知识、技巧、个人想法|174|0|2022-01-15|
-|33|[Firefox-Pro-Coding/iciba-translate-userscript](https://github.com/Firefox-Pro-Coding/iciba-translate-userscript)|iciba划词翻译 userscript|123|0|2021-12-24|
-|34|[topfullstack/topfullstack](https://github.com/topfullstack/topfullstack)|NodeJs+VueJs全栈开发《全栈之巅》视频网站 - 源码|318|0|2022-01-22|
+|33|[Firefox-Pro-Coding/iciba-translate-userscript](https://github.com/Firefox-Pro-Coding/iciba-translate-userscript)|iciba划词翻译 userscript|122|0|2021-12-24|
+|34|[topfullstack/topfullstack](https://github.com/topfullstack/topfullstack)|NodeJs+VueJs全栈开发《全栈之巅》视频网站 - 源码|319|0|2022-01-22|
 |35|[shidenggui/bloghub](https://github.com/shidenggui/bloghub)|一群自由而有趣的灵魂，终将在此相遇   独立个人博客推荐导航|322|0|2022-01-14|
 |36|[SSmJaE/WELearnHelper](https://github.com/SSmJaE/WELearnHelper)|显示WE Learn随行课堂题目答案；支持班级测试；自动答题；刷时长；开放自定义设置|172|0|2022-01-15|
 |37|[jiayisheji/jianshu](https://github.com/jiayisheji/jianshu)|仿简书nx+nodejs+nestjs6+express+mongodb+angular8+爬虫|304|0|2022-01-22|
-|38|[mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings)|Dynamically creates a user interface for adjusting theme, plugin, and snippet CSS variables|153|0|2022-01-31|
-|39|[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search)|知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。|87|0|2022-02-01|
-|40|[tuture-dev/tuture](https://github.com/tuture-dev/tuture)|Write tutorials from the future, with the power of Git and community. 『图雀写作工具』|196|0|2022-01-23|
+|38|[mgmeyers/obsidian-style-settings](https://github.com/mgmeyers/obsidian-style-settings)|Dynamically creates a user interface for adjusting theme, plugin, and snippet CSS variables|155|0|2022-01-31|
+|39|[justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search)|知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。|87|0|2022-02-02|
+|40|[tuture-dev/tuture](https://github.com/tuture-dev/tuture)|Write tutorials from the future, with the power of Git and community. 『图雀写作工具』|196|0|2022-02-02|
 |41|[yanlele/node-index](https://github.com/yanlele/node-index)|学习笔记、博文、简书、工作日常踩坑记录以及一些独立作品的汇总目录|324|0|2022-02-01|
 |42|[leer0911/myXHR](https://github.com/leer0911/myXHR)|TypeScript 重构 Axios 经验分享，包括开发技巧， API 实现，XMLHttpRequest 运用，单元测试等|108|0|2021-09-01|
 |43|[chuyun/taro-plugin-canvas](https://github.com/chuyun/taro-plugin-canvas)|基于 Taro 框架的微信小程序 canvas 绘图组件，封装了常用的操作，通过配置的方式生成分享图片|405|0|2022-01-13|

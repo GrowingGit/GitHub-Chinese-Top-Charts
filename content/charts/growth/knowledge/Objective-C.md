@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Objective-C
-<sub>数据更新: 2022-02-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4769|6|2022-01-15|
+|1|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|4776|6|2022-01-15|
 |2|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2355|2|2021-12-16|
 |3|[LGCooci/KCiOSGrocery](https://github.com/LGCooci/KCiOSGrocery)|iOS开发杂货铺: 面试题+考试试卷+懒人开发tips|435|1|2021-10-10|
 |4|[wwmz/WMZPageController](https://github.com/wwmz/WMZPageController)|分页控制器,替换UIPageController方案,具备完整的生命周期,多种指示器样式,多种标题样式,可悬浮,支持ios13暗黑模式(仿优酷,爱奇艺,今日头条,简书,京东等多种标题菜单) (Pagination controller with full life cycle, multiple indicator styles, multiple title styles)|548|1|2022-01-18|
 |5|[HeathWang/HWPanModal](https://github.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|880|1|2021-11-30|
-|6|[objccn/articles](https://github.com/objccn/articles)|Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本|2088|1|2021-11-02|
+|6|[objccn/articles](https://github.com/objccn/articles)|Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本|2087|1|2021-11-02|
 |7|[GGGHub/Reader](https://github.com/GGGHub/Reader)|iOS基于CoreText实现的电子书阅读器，支持txt，epub格式|1117|1|2021-08-28|
 |8|[H2OB/FFPage](https://github.com/H2OB/FFPage)|类似微博个人主页、抖音个人主页、简书个人主页的控件，支持刷新放大，可悬浮组件|33|0|2022-01-02|
 |9|[DJI-Mobile-SDK-Tutorials/iOS-PlaybackDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-PlaybackDemo)|A demo help you learn how to use DJI Mobile SDK to access the media resources in the SD card of the aircraft's camera to preview photos, play videos, download or delete files.|10|0|2021-10-11|
@@ -18,7 +18,7 @@
 |11|[FrizzleFur/DailyLearning](https://github.com/FrizzleFur/DailyLearning)|My Daily Learning~|45|0|2022-02-01|
 |12|[WangGuibin/TestDemo](https://github.com/WangGuibin/TestDemo)|平时学习或者测试轮子时的demo|5|0|2022-01-26|
 |13|[ZenonHuang/MyDemos](https://github.com/ZenonHuang/MyDemos)|💾 Demo 集合 . 黑发不知勤学早，白首方悔读书迟.|63|0|2021-11-26|
-|14|[muzipiao/OOB](https://github.com/muzipiao/OOB)|基于 OpenCV，使用模板匹配法识别图像，供参考学习。|124|0|2021-11-08|
+|14|[muzipiao/OOB](https://github.com/muzipiao/OOB)|基于 OpenCV，使用模板匹配法识别图像，供参考学习。|125|0|2021-11-08|
 |15|[BrooksWon/Blogs](https://github.com/BrooksWon/Blogs)|一些笔记|2|0|2021-12-08|
 |16|[crazypoo/PTools](https://github.com/crazypoo/PTools)|iOS开发工具小集合,不定期更新|9|0|2021-12-01|
 |17|[HemingTai/HTProject](https://github.com/HemingTai/HTProject)|记录平时的学习心得，包括AFN、SD、GCD、Socket...|4|0|2022-01-19|
@@ -27,15 +27,15 @@
 |20|[wjd-jax/WJDStudyLibrary](https://github.com/wjd-jax/WJDStudyLibrary)|这是一个大工程,里边包含了项目中常用模块的封装,我的简书地址:|343|0|2021-08-23|
 |21|[tianya2416/GKiOSNovel](https://github.com/tianya2416/GKiOSNovel)|Swift、小说、小说阅读、读书神器、自定义首页、千万部小说任你选择、数据缓存|97|0|2021-11-28|
 |22|[Veeco/WGExtension](https://github.com/Veeco/WGExtension)|iOS实用工具小合集|5|0|2021-08-09|
-|23|[xiaofei86/UIKitDynamics](https://github.com/xiaofei86/UIKitDynamics)|UIKit Dynamics demo with 11 example  学习动力学动画的11个Demo|324|0|2022-01-26|
+|23|[xiaofei86/UIKitDynamics](https://github.com/xiaofei86/UIKitDynamics)|UIKit Dynamics demo with 11 example  学习动力学动画的11个Demo|323|0|2022-01-26|
 |24|[dexterleslie1/ios-demo](https://github.com/dexterleslie1/ios-demo)|ios开发学习和demo例子|2|0|2022-01-12|
 |25|[onezens/WeChatBot](https://github.com/onezens/WeChatBot)|Tweak 工程创建、配置教程 & 实现logos语法自动补全|29|0|2021-09-24|
 |26|[DJI-Mobile-SDK-Tutorials/iOS-SimulatorDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-SimulatorDemo)|This demo shows you how to use the DJISimulator of DJI Mobile SDK.|17|0|2021-10-11|
-|27|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|1.抖音视频转场动画, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok  2.铃声多多,上传铃声音频到库乐队(GarageBand) 3.微博主页、简书主页等。多页面嵌套列表分页滚动，上下滑动，左右滑动切换页面。类似TableView共用HeaderView悬浮,仿头条标签编辑,铃声多多音乐播放界面(豆瓣电影主页)。|298|0|2022-01-26|
+|27|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|1.抖音视频转场动画, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok  2.铃声多多,上传铃声音频到库乐队(GarageBand) 3.微博主页、简书主页等。多页面嵌套列表分页滚动，上下滑动，左右滑动切换页面。类似TableView共用HeaderView悬浮,仿头条标签编辑,铃声多多音乐播放界面(豆瓣电影主页)。|299|0|2022-01-26|
 |28|[Xcoder1011/OC_StudyDemo](https://github.com/Xcoder1011/OC_StudyDemo)|记录个人学习Objective-C的一些demo ，基于AFNetworking3.x封装网络请求，实现GET、POST请求、多任务断点续传|2|0|2021-09-28|
 |29|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|451|0|2021-12-24|
 |30|[aolan/iOS_Develop](https://github.com/aolan/iOS_Develop)|该文档都是日常开发过程中解决问题的经验总结。|7|0|2021-11-30|
-|31|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1208|0|2022-02-01|
+|31|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1208|0|2022-02-02|
 |32|[Lin-Bing/SampleCode](https://github.com/Lin-Bing/SampleCode)|博客相关代码示例|7|0|2021-09-22|
 |33|[kopuCoder/iOS_Development-Book](https://github.com/kopuCoder/iOS_Development-Book)|适合iOS中高级开发工程狮提升个人能力业务水平的书籍|82|0|2021-11-01|
 |34|[Dioq/ReverseOC](https://github.com/Dioq/ReverseOC)|iOS逆向学习的一些记录|4|0|2021-12-06|

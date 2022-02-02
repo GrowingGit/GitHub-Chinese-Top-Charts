@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Vue
-<sub>数据更新: 2022-02-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|3040|4|2022-01-06|
-|2|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|80|3|2022-02-01|
+|1|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|3041|4|2022-01-06|
+|2|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|81|3|2022-02-02|
 |3|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|1726|2|2022-01-28|
 |4|[zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook)|教你如何打造舒适、高效、时尚的前端开发环境|642|1|2021-09-29|
-|5|[llldddbbb/dbblog](https://github.com/llldddbbb/dbblog)|基于SpringBoot2.x+Vue2.x+ElementUI+Iview+Elasticsearch+RabbitMQ+Redis+Shiro的多模块前后端分离的博客项目|1097|1|2022-01-15|
+|5|[llldddbbb/dbblog](https://github.com/llldddbbb/dbblog)|基于SpringBoot2.x+Vue2.x+ElementUI+Iview+Elasticsearch+RabbitMQ+Redis+Shiro的多模块前后端分离的博客项目|1098|1|2022-01-15|
 |6|[hql7/wl-micro-frontends](https://github.com/hql7/wl-micro-frontends)|Micro front end practical project tutorial. 微前端项目实战vue项目。基于vue3.0&qiankun2.0进阶版：https://github.com/wl-ui/wl-mfe|464|1|2022-01-14|
 |7|[qq449245884/vue-okr-tree](https://github.com/qq449245884/vue-okr-tree)|http://www.longstudy.club/vue-okr-tree-doc/index.html|412|1|2021-09-07|
-|8|[tnfe/shida](https://github.com/tnfe/shida)|《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。|23|1|2022-01-19|
+|8|[tnfe/shida](https://github.com/tnfe/shida)|《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。|24|1|2022-01-19|
 |9|[Evan-WH/MyBlog-With-Aurora](https://github.com/Evan-WH/MyBlog-With-Aurora)|个人博客|10|1|2022-01-19|
-|10|[inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|1652|1|2021-09-19|
-|11|[seeksdream/relation-graph](https://github.com/seeksdream/relation-graph)|Vue 关联关系图谱组件，可以展示如组织机构图谱、股权架构图谱、集团关系图谱等知识图谱，可提供多种图谱布局，包括树状布局、中心布局、力学布局自动布局等。Vue component for relationship graph , which can display knowledge graphs, such as organization graph, equity structure grap ...|519|1|2021-10-20|
+|10|[inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|1655|1|2021-09-19|
+|11|[seeksdream/relation-graph](https://github.com/seeksdream/relation-graph)|Vue 关联关系图谱组件，可以展示如组织机构图谱、股权架构图谱、集团关系图谱等知识图谱，可提供多种图谱布局，包括树状布局、中心布局、力学布局自动布局等。Vue component for relationship graph , which can display knowledge graphs, such as organization graph, equity structure grap ...|520|1|2021-10-20|
 |12|[CS-Tao/whu-library-seat](https://github.com/CS-Tao/whu-library-seat)|武汉大学图书馆助手 - 桌面端|668|1|2022-01-13|
 |13|[zhangyuang/vite-design](https://github.com/zhangyuang/vite-design)|下一代构建工具 vite 文档翻译 源码解析|284|1|2021-10-17|
 |14|[GitHub-Laziji/VBlog](https://github.com/GitHub-Laziji/VBlog)|使用GitHub API 搭建一个可动态发布文章的博客|1424|1|2022-01-15|
@@ -78,7 +78,7 @@
 |71|[Benbinbin/TagDown](https://github.com/Benbinbin/TagDown)|A bookmarks manager Chrome extension.|27|0|2021-10-24|
 |72|[leochen-g/alumin-connect](https://github.com/leochen-g/alumin-connect)|《校友来了》小程序，发现校友足迹，同城校友畅聊|24|0|2022-01-15|
 |73|[luoyunchong/lin-cms-vvlog](https://github.com/luoyunchong/lin-cms-vvlog)|增加了CMS博客的用户UI端|46|0|2022-01-28|
-|74|[wejectchen/Ginblog](https://github.com/wejectchen/Ginblog)|gin+vue+MySQL全栈制作一个博客|204|0|2022-01-22|
+|74|[wejectchen/Ginblog](https://github.com/wejectchen/Ginblog)|gin+vue+MySQL全栈制作一个博客|205|0|2022-01-22|
 |75|[ZzZzzzxc/node-vue-blog](https://github.com/ZzZzzzxc/node-vue-blog)|vue+express实现的小博客（已上线）|8|0|2021-11-29|
 |76|[mrwdhasd0903/cesonblogadmin](https://github.com/mrwdhasd0903/cesonblogadmin)|使用vue开发的博客后台页面|5|0|2021-11-29|
 |77|[smileShirmy/smile-blog-admin](https://github.com/smileShirmy/smile-blog-admin)|博客管理后台 @Vue.js|58|0|2021-10-05|
@@ -119,7 +119,7 @@
 |112|[ChangMM/blog](https://github.com/ChangMM/blog)|✍️个人博客（基于vuepress，自定义主题）。|19|0|2021-10-05|
 |113|[laizuan/basis-vue](https://github.com/laizuan/basis-vue)|基于Vue CLI 4构建的公司门户或者个人博客手脚架。已实现多语言切换，顶部导航固定，二级路由，按需加载，路由懒加载，CDN引入|13|0|2021-10-06|
 |114|[ChenJiaH/blog](https://github.com/ChenJiaH/blog)| 📝个人博客 - 欢迎关注 👀 和点赞 ⭐️|7|0|2022-01-24|
-|115|[pearmini/colorfu](https://github.com/pearmini/colorfu)|Make beautiful but also meaningful wallpapers with words, colors, patterns and images. 🌈|252|0|2021-12-27|
+|115|[pearmini/colorfu](https://github.com/pearmini/colorfu)|Make beautiful but also meaningful wallpapers with words, colors, patterns and images. 🌈|253|0|2021-12-27|
 |116|[Rychou/screen-share-recorder](https://github.com/Rychou/screen-share-recorder)|A web screen share recorder realized by WebRTC|9|0|2022-01-14|
 |117|[Kelichao/vue.js.2.0](https://github.com/Kelichao/vue.js.2.0)|针对vue2.0版本，以及关于MVVM框架学习，使用中的总结，附带backbone.js框架的思想与使用方法做使用记录，以及去年学过的backbone相关MVC框架学习总结与demo笔记思想设计模式 20170-01-12|41|0|2022-01-15|
 |118|[Civitasv/blog](https://github.com/Civitasv/blog)|个人博客 Vue+SpringBoot+MySQL 前后端分离|18|0|2021-11-29|
@@ -129,7 +129,7 @@
 |122|[NightCatSama/NightCat](https://github.com/NightCatSama/NightCat)|个人博客，技术栈：NodeJS + Express + mongoose + GraphQL + Vue 全家桶|96|0|2021-09-24|
 |123|[ericheshenghao/siques-doc-pro](https://github.com/ericheshenghao/siques-doc-pro)|🎁siques-doc-pro是基于Java开发的在线文档系统，支持漂亮的富文本编辑模式，适合作为个人和小型团队的文档、笔记和知识管理工具。|5|0|2021-11-26|
 |124|[luchx/ECHI_UI](https://github.com/luchx/ECHI_UI)|一款用于学习搭建 UI 组件库的示例，支持按需引入，在线组件预览，在线文档~|9|0|2022-01-14|
-|125|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|66|0|2022-01-31|
+|125|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|67|0|2022-01-31|
 |126|[toimc-team/front-end-notes](https://github.com/toimc-team/front-end-notes)|大前端课程电子书计划，前端知识总结 + 分享|27|0|2022-01-08|
 |127|[lcomplete/TechShare](https://github.com/lcomplete/TechShare)|分享Java、.NET、Javascript、效率、软件工程、编程语言等技术知识。|210|0|2022-01-28|
 |128|[superZhouDaLu/BlogExample](https://github.com/superZhouDaLu/BlogExample)|博客代码示例|22|0|2021-08-20|

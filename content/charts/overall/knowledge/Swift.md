@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Swift
-<sub>数据更新: 2022-02-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -20,8 +20,8 @@
 |13|[yungfan/SwiftUI-learning](https://github.com/yungfan/SwiftUI-learning)|SwiftUI教程配套代码(SwiftUI+SwiftUI 2.0+SwiftUI 3.0)|51|2021-12-30|
 |14|[MengLiMing/EasyKits](https://github.com/MengLiMing/EasyKits)|日常开发使用到的一些简单封装，目前包含：常用扩展，分类导航，类似简书的UIScrollView嵌套、复杂列表等|39|2022-01-05|
 |15|[ZhongshanHuang/PoReader](https://github.com/ZhongshanHuang/PoReader)|本地小说阅读器，支持深色模式，Wifi传书，代码简洁有注释(local text reader, support dark modal, upload text by wifi)|32|2021-10-20|
-|16|[yungfan/iOS-BasedOnSwift](https://github.com/yungfan/iOS-BasedOnSwift)|iOS开发教程案例代码|27|2022-01-19|
-|17|[easyui/algorithm-pattern-swift](https://github.com/easyui/algorithm-pattern-swift)|算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~|26|2021-11-07|
+|16|[easyui/algorithm-pattern-swift](https://github.com/easyui/algorithm-pattern-swift)|算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~|27|2021-11-07|
+|17|[yungfan/iOS-BasedOnSwift](https://github.com/yungfan/iOS-BasedOnSwift)|iOS开发教程案例代码|27|2022-01-19|
 |18|[lionsom/XiOS](https://github.com/lionsom/XiOS)|工作学习记录，留给以后的自己。希望能给大家些许帮助！|23|2022-01-07|
 |19|[yaoxp/DemoSwift](https://github.com/yaoxp/DemoSwift)|swift 学习demo|22|2021-12-01|
 |20|[ccworld1000/OKKLineMin](https://github.com/ccworld1000/OKKLineMin)|OKKLineMin kline for min for learning for iPhone (support Swift5 & the latest  iPhone & iOS 15)(min K线图 用于学习了解)|22|2021-08-09|
