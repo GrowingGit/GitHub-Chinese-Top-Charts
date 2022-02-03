@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2022-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|290|2022-01-13|2021-08-03|
+|1|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|292|2022-01-13|2021-08-03|
 |2|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|109|2021-10-13|2021-02-08|
 |3|[lionvoom/WeAppTongCeng](https://github.com/lionvoom/WeAppTongCeng)|小程序同层渲染|85|2021-10-29|2021-03-16|
 |4|[HighwayLaw/HWThrottle](https://github.com/HighwayLaw/HWThrottle)|A lite Objective-C library for throttle and debounce, supporting leading and trailing. 节流/限流/防反跳/防重复点击/防重复调用|85|2021-11-18|2021-02-20|
@@ -30,12 +30,12 @@
 |23|[pilaf-king/SwiftVTHook](https://github.com/pilaf-king/SwiftVTHook)|基于Swift虚函数表的hook方案（无需dynamic，但是Swift编译优化需要修改为None）|13|2021-11-17|2021-03-03|
 |24|[DataFlux-cn/datakit-ios](https://github.com/DataFlux-cn/datakit-ios)|-|12|2022-01-28|2021-05-31|
 |25|[HMS-Core/hms-3d-modeling-demo-ios](https://github.com/HMS-Core/hms-3d-modeling-demo-ios)|-|11|2021-11-15|2021-09-27|
-|26|[yangKJ/KJBannerViewDemo](https://github.com/yangKJ/KJBannerViewDemo)|🏂 🏂 🏂 轮播图无限自动循环滚动、缩放布局、缓存预加载读取、支持自定义继承，网络GIF和网图混合轮播，支持Storyboard和Xib中创建并配置属性，多种分页控件选择，自动清理缓存等等|10|2021-11-27|2021-11-27|
-|27|[venn0126/SNAugusPopView](https://github.com/venn0126/SNAugusPopView)|A super lightweight popView.|10|2021-11-11|2021-10-14|
-|28|[HansenCCC/KKFileBrowser](https://github.com/HansenCCC/KKFileBrowser)|一个非常实用的文件浏览工具，可以预览图片，也可以可视化数据库。|10|2021-11-02|2021-08-07|
-|29|[fluttercandies/flutter_qweather](https://github.com/fluttercandies/flutter_qweather)|和风天气  Flutter 插件|10|2021-12-11|2021-04-19|
-|30|[niyongsheng/EasyRelease](https://github.com/niyongsheng/EasyRelease)|SaaS场景下Mac上架工具📲 (easy release to app store)|10|2021-11-22|2021-02-24|
-|31|[kwai-ec/LottieExtensionDemo](https://github.com/kwai-ec/LottieExtensionDemo)|支持Native混合渲染和点击响应的DEMO工程|9|2021-12-23|2021-12-22|
+|26|[venn0126/SNAugusPopView](https://github.com/venn0126/SNAugusPopView)|A super lightweight popView.|10|2021-11-11|2021-10-14|
+|27|[HansenCCC/KKFileBrowser](https://github.com/HansenCCC/KKFileBrowser)|一个非常实用的文件浏览工具，可以预览图片，也可以可视化数据库。|10|2021-11-02|2021-08-07|
+|28|[fluttercandies/flutter_qweather](https://github.com/fluttercandies/flutter_qweather)|和风天气  Flutter 插件|10|2021-12-11|2021-04-19|
+|29|[niyongsheng/EasyRelease](https://github.com/niyongsheng/EasyRelease)|SaaS场景下Mac上架工具📲 (easy release to app store)|10|2021-11-22|2021-02-24|
+|30|[kwai-ec/LottieExtensionDemo](https://github.com/kwai-ec/LottieExtensionDemo)|支持Native混合渲染和点击响应的DEMO工程|9|2021-12-23|2021-12-22|
+|31|[yangKJ/KJBannerViewDemo](https://github.com/yangKJ/KJBannerViewDemo)|🏂 🏂 🏂 轮播图无限自动循环滚动、缩放布局、缓存预加载读取、支持自定义继承，网络GIF和网图混合轮播，支持Storyboard和Xib中创建并配置属性，多种分页控件选择，自动清理缓存等等|9|2021-11-27|2021-11-27|
 |32|[QDong415/QKeyboardEmotionView](https://github.com/QDong415/QKeyboardEmotionView)|仿微信聊天表情键盘，仿朋友圈底部表情键盘。仿微信表情面板，键盘与表情切换平滑 ChatEmotionKeyboard，useful in ChatViewController|9|2022-01-08|2021-08-20|
 |33|[XiFengLang/flutter_notes](https://github.com/XiFengLang/flutter_notes)|Flutter & flutter_boost开发iOS混合开发项目问题记录；iOS远程依赖Flutter Module组件代码；|9|2021-10-29|2021-07-06|
 |34|[Rycccccccc/YCCardView](https://github.com/Rycccccccc/YCCardView)|卡片左滑右滑框架|8|2021-12-01|2021-11-28|
@@ -55,17 +55,17 @@
 |48|[QuintGao/GKPlaceholder](https://github.com/QuintGao/GKPlaceholder)|UIScrollView空数据占位图|5|2021-12-03|2021-08-30|
 |49|[zeqinjie/TWMultiUploadFileManager](https://github.com/zeqinjie/TWMultiUploadFileManager)|基于 AWS3 设计的分片上传管理封装类|5|2021-08-31|2021-08-25|
 |50|[theseustech/SotDemo](https://github.com/theseustech/SotDemo)|SOT iOS热更新方案的示例DEMO|5|2021-09-25|2021-08-07|
-|51|[yahibo/InsertCode](https://github.com/yahibo/InsertCode)|iOS动态注入、重签名、hook代码、新增代码、查看图层|4|2022-01-17|2022-01-15|
-|52|[yt1124297507/Kline](https://github.com/yt1124297507/Kline)|这是一个KlineDemo包含常见指标：MA EMA BOLL MACD WR RSI KDJ，如果觉得不错 顺手来个Star。K线详情可查看markdown文档、源代码|4|2021-12-09|2021-12-08|
-|53|[fatboy-hard/react-native-gcy-datakit](https://github.com/fatboy-hard/react-native-gcy-datakit)|观测云RN集成|4|2021-12-09|2021-11-29|
-|54|[crifan/iOSAutomation](https://github.com/crifan/iOSAutomation)|iOS设备自动化操作的环境搭建和代码演示|4|2021-09-03|2021-09-03|
-|55|[CoderMSY/MSYTableView](https://github.com/CoderMSY/MSYTableView)|数据驱动型UITableView库，封装delegate/dataSource,开发者只需构造数据及自定义Cell|4|2021-12-03|2021-08-20|
-|56|[ljunb/Zelda](https://github.com/ljunb/Zelda)|支持链式语法的轻量FlexBox布局库|4|2021-08-17|2021-08-14|
-|57|[frankKiwi/FNKKeepAlive](https://github.com/frankKiwi/FNKKeepAlive)|ios后台保活策略|4|2021-08-21|2021-08-04|
-|58|[zhengmiaokai/MKWebSocket](https://github.com/zhengmiaokai/MKWebSocket)|使用SRWebSocket实现的长链接，支持cookie设置、连接异常   网络抖动重连、ping-pong心跳保活、一对多delegate|4|2021-09-13|2021-07-05|
-|59|[Smiacter/flutter_baidu_navi](https://github.com/Smiacter/flutter_baidu_navi)|Flutter baidu map navigation - Flutter百度地图导航|4|2021-10-13|2021-05-20|
-|60|[PetitStrawberry/InfiniteSushiBTT](https://github.com/PetitStrawberry/InfiniteSushiBTT)|BetterTouchTool TouchBar Plugin 無限回転寿司編|4|2021-09-21|2021-03-07|
-|61|[SmileZXLee/iOSSignatureAnalysis](https://github.com/SmileZXLee/iOSSignatureAnalysis)|iOSApp+springboot后端sign签名+aes加密流程&逆向破解分析示例(class-dump+Logos+monkeyDev+IDA)|3|2022-01-24|2022-01-21|
+|51|[SmileZXLee/iOSSignatureAnalysis](https://github.com/SmileZXLee/iOSSignatureAnalysis)|iOSApp+springboot后端sign签名+aes加密流程&逆向破解分析示例(class-dump+Logos+monkeyDev+IDA)|4|2022-01-24|2022-01-21|
+|52|[yahibo/InsertCode](https://github.com/yahibo/InsertCode)|iOS动态注入、重签名、hook代码、新增代码、查看图层|4|2022-01-17|2022-01-15|
+|53|[yt1124297507/Kline](https://github.com/yt1124297507/Kline)|这是一个KlineDemo包含常见指标：MA EMA BOLL MACD WR RSI KDJ，如果觉得不错 顺手来个Star。K线详情可查看markdown文档、源代码|4|2021-12-09|2021-12-08|
+|54|[fatboy-hard/react-native-gcy-datakit](https://github.com/fatboy-hard/react-native-gcy-datakit)|观测云RN集成|4|2021-12-09|2021-11-29|
+|55|[crifan/iOSAutomation](https://github.com/crifan/iOSAutomation)|iOS设备自动化操作的环境搭建和代码演示|4|2021-09-03|2021-09-03|
+|56|[CoderMSY/MSYTableView](https://github.com/CoderMSY/MSYTableView)|数据驱动型UITableView库，封装delegate/dataSource,开发者只需构造数据及自定义Cell|4|2021-12-03|2021-08-20|
+|57|[ljunb/Zelda](https://github.com/ljunb/Zelda)|支持链式语法的轻量FlexBox布局库|4|2021-08-17|2021-08-14|
+|58|[frankKiwi/FNKKeepAlive](https://github.com/frankKiwi/FNKKeepAlive)|ios后台保活策略|4|2021-08-21|2021-08-04|
+|59|[zhengmiaokai/MKWebSocket](https://github.com/zhengmiaokai/MKWebSocket)|使用SRWebSocket实现的长链接，支持cookie设置、连接异常   网络抖动重连、ping-pong心跳保活、一对多delegate|4|2021-09-13|2021-07-05|
+|60|[Smiacter/flutter_baidu_navi](https://github.com/Smiacter/flutter_baidu_navi)|Flutter baidu map navigation - Flutter百度地图导航|4|2021-10-13|2021-05-20|
+|61|[PetitStrawberry/InfiniteSushiBTT](https://github.com/PetitStrawberry/InfiniteSushiBTT)|BetterTouchTool TouchBar Plugin 無限回転寿司編|4|2021-09-21|2021-03-07|
 |62|[DFTT/XMMenuPopover](https://github.com/DFTT/XMMenuPopover)|自定义的长按选择菜单|3|2022-01-10|2022-01-10|
 |63|[hh1016/HHPackKit](https://github.com/hh1016/HHPackKit)|基于UIKit封装的基础控件库，使用链式编程思想对常用的控件进行封装,包含UIView,UILabel,UIButton,UITextFiled,UITextView,UITableView的封装|3|2021-12-21|2021-12-21|
 |64|[Rycccccccc/YCBannerView](https://github.com/Rycccccccc/YCBannerView)|一款轻量级的轮播框架|3|2021-12-11|2021-12-08|

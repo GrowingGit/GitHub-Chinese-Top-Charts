@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Vue
-<sub>数据更新: 2022-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|3041|4|2022-01-06|
-|2|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|81|3|2022-02-02|
-|3|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|1726|2|2022-01-28|
-|4|[zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook)|教你如何打造舒适、高效、时尚的前端开发环境|642|1|2021-09-29|
+|1|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|3042|4|2022-01-06|
+|2|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|82|3|2022-02-02|
+|3|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|1728|2|2022-01-28|
+|4|[zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook)|教你如何打造舒适、高效、时尚的前端开发环境|643|1|2021-09-29|
 |5|[llldddbbb/dbblog](https://github.com/llldddbbb/dbblog)|基于SpringBoot2.x+Vue2.x+ElementUI+Iview+Elasticsearch+RabbitMQ+Redis+Shiro的多模块前后端分离的博客项目|1098|1|2022-01-15|
 |6|[hql7/wl-micro-frontends](https://github.com/hql7/wl-micro-frontends)|Micro front end practical project tutorial. 微前端项目实战vue项目。基于vue3.0&qiankun2.0进阶版：https://github.com/wl-ui/wl-mfe|464|1|2022-01-14|
 |7|[qq449245884/vue-okr-tree](https://github.com/qq449245884/vue-okr-tree)|http://www.longstudy.club/vue-okr-tree-doc/index.html|412|1|2021-09-07|
-|8|[tnfe/shida](https://github.com/tnfe/shida)|《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。|24|1|2022-01-19|
+|8|[tnfe/shida](https://github.com/tnfe/shida)|《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。|25|1|2022-01-19|
 |9|[Evan-WH/MyBlog-With-Aurora](https://github.com/Evan-WH/MyBlog-With-Aurora)|个人博客|10|1|2022-01-19|
-|10|[inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|1655|1|2021-09-19|
+|10|[inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|1657|1|2021-09-19|
 |11|[seeksdream/relation-graph](https://github.com/seeksdream/relation-graph)|Vue 关联关系图谱组件，可以展示如组织机构图谱、股权架构图谱、集团关系图谱等知识图谱，可提供多种图谱布局，包括树状布局、中心布局、力学布局自动布局等。Vue component for relationship graph , which can display knowledge graphs, such as organization graph, equity structure grap ...|520|1|2021-10-20|
 |12|[CS-Tao/whu-library-seat](https://github.com/CS-Tao/whu-library-seat)|武汉大学图书馆助手 - 桌面端|668|1|2022-01-13|
 |13|[zhangyuang/vite-design](https://github.com/zhangyuang/vite-design)|下一代构建工具 vite 文档翻译 源码解析|284|1|2021-10-17|
-|14|[GitHub-Laziji/VBlog](https://github.com/GitHub-Laziji/VBlog)|使用GitHub API 搭建一个可动态发布文章的博客|1424|1|2022-01-15|
+|14|[GitHub-Laziji/VBlog](https://github.com/GitHub-Laziji/VBlog)|使用GitHub API 搭建一个可动态发布文章的博客|1425|1|2022-01-15|
 |15|[FXLP/MarkTool](https://github.com/FXLP/MarkTool)|DoTAT 是一款基于web、面向领域的通用文本标注工具，支持大规模实体标注、关系标注、事件标注、文本分类、基于字典匹配和正则匹配的自动标注以及用于实现归一化的标准名标注，同时也支持迭代标注、嵌套实体标注和嵌套事件标注。标注规范可自定义且同类型任务中可“一次创建多次复用”。通过分级实体集合扩大了实体类型的规模，并设计了全新高效的标注方式，提升了用户体验和标注效率。此外，本工具增加了审核环节，可对多 ...|276|0|2021-12-10|
 |16|[hyw123456/gugu](https://github.com/hyw123456/gugu)|咕咕语翻译器|15|0|2021-12-15|
-|17|[Allen10086/vue-pro](https://github.com/Allen10086/vue-pro)|个人博客后台管理|11|0|2022-01-15|
+|17|[Allen10086/vue-pro](https://github.com/Allen10086/vue-pro)|个人博客后台管理|12|0|2022-01-15|
 |18|[imoyao/idealyard](https://github.com/imoyao/idealyard)|使用 Vue 和 Flask 搭建前后端分离的 RESTful 个人博客|97|0|2022-01-21|
 |19|[wangxinleo/practise-vue-shop-front](https://github.com/wangxinleo/practise-vue-shop-front)|📦📈【2019】关于 element 的初级学习代码项目。 附全套学习资源和vscode配置|62|0|2022-01-14|
 |20|[jiangshanmeta/leetcode-notebook](https://github.com/jiangshanmeta/leetcode-notebook)|leetcode笔记桌面应用|11|0|2022-01-12|
@@ -97,7 +97,7 @@
 |90|[JingLuoChen/web-summary](https://github.com/JingLuoChen/web-summary)|前端知识总结|6|0|2021-11-03|
 |91|[yjgeek/vue-project](https://github.com/yjgeek/vue-project)|想到什么好东西，就实践，最后写下总结|7|0|2022-01-15|
 |92|[AlpacaBi/bgk-resume](https://github.com/AlpacaBi/bgk-resume)|一个基于vue的在线动态简历，将来面试装逼用，你们可以直接改动简历内容部署在自己的服务器上|8|0|2022-01-15|
-|93|[gywgithub/vue-d3-examples](https://github.com/gywgithub/vue-d3-examples)|vue d3 examples|110|0|2022-01-10|
+|93|[gywgithub/vue-d3-examples](https://github.com/gywgithub/vue-d3-examples)|vue d3 examples|111|0|2022-01-10|
 |94|[jones2000/HQChart-Super](https://github.com/jones2000/HQChart-Super)|HQChart对接第3放数据教程.|10|0|2022-01-21|
 |95|[zwp-hz/myBlog](https://github.com/zwp-hz/myBlog)|使用nuxt2 vue2 vuex typescript 框架开发的博客前台|6|0|2021-08-10|
 |96|[wenqiii/vue-redbk](https://github.com/wenqiii/vue-redbk)|vue仿小红书个人开源项目|118|0|2022-01-15|
@@ -129,7 +129,7 @@
 |122|[NightCatSama/NightCat](https://github.com/NightCatSama/NightCat)|个人博客，技术栈：NodeJS + Express + mongoose + GraphQL + Vue 全家桶|96|0|2021-09-24|
 |123|[ericheshenghao/siques-doc-pro](https://github.com/ericheshenghao/siques-doc-pro)|🎁siques-doc-pro是基于Java开发的在线文档系统，支持漂亮的富文本编辑模式，适合作为个人和小型团队的文档、笔记和知识管理工具。|5|0|2021-11-26|
 |124|[luchx/ECHI_UI](https://github.com/luchx/ECHI_UI)|一款用于学习搭建 UI 组件库的示例，支持按需引入，在线组件预览，在线文档~|9|0|2022-01-14|
-|125|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|67|0|2022-01-31|
+|125|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|69|0|2022-02-03|
 |126|[toimc-team/front-end-notes](https://github.com/toimc-team/front-end-notes)|大前端课程电子书计划，前端知识总结 + 分享|27|0|2022-01-08|
 |127|[lcomplete/TechShare](https://github.com/lcomplete/TechShare)|分享Java、.NET、Javascript、效率、软件工程、编程语言等技术知识。|210|0|2022-01-28|
 |128|[superZhouDaLu/BlogExample](https://github.com/superZhouDaLu/BlogExample)|博客代码示例|22|0|2021-08-20|

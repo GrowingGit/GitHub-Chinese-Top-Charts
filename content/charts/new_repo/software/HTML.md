@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > HTML
-<sub>数据更新: 2022-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -15,9 +15,9 @@
 |8|[easychen/not-only-fans](https://github.com/easychen/not-only-fans)|an open source, self-hosted digital content subscription platform like `onlyfans.com`  with  cryptocurrency payment|256|2021-08-28|2021-08-25|
 |9|[hua1995116/360-sneakers-viewer](https://github.com/hua1995116/360-sneakers-viewer)|鸿星尔克全景（360°）鞋子展示(包含建模过程)|231|2021-09-16|2021-07-25|
 |10|[shaoxiongdu/JVMStudy](https://github.com/shaoxiongdu/JVMStudy)|💊JVM 底层原理解析 |178|2021-08-26|2021-06-16|
-|11|[Alpha-Yang/CS-BAOYAN-2022](https://github.com/Alpha-Yang/CS-BAOYAN-2022)|计算机保研交流群（QQ群号：605176069）|172|2022-01-28|2021-10-16|
-|12|[admin360bug/bypass](https://github.com/admin360bug/bypass)|-|159|2021-12-23|2021-12-22|
-|13|[xiaolai/apple-computer-literacy](https://github.com/xiaolai/apple-computer-literacy)|个人电脑使用（以苹果产品为例）|157|2022-01-23|2021-10-02|
+|11|[Alpha-Yang/CS-BAOYAN-2022](https://github.com/Alpha-Yang/CS-BAOYAN-2022)|计算机保研交流群（QQ群号：605176069）|173|2022-01-28|2021-10-16|
+|12|[admin360bug/bypass](https://github.com/admin360bug/bypass)|-|163|2021-12-23|2021-12-22|
+|13|[xiaolai/apple-computer-literacy](https://github.com/xiaolai/apple-computer-literacy)|个人电脑使用（以苹果产品为例）|158|2022-01-23|2021-10-02|
 |14|[kingcos/JueJueZiGenerator](https://github.com/kingcos/JueJueZiGenerator)|绝绝子生成器，YYDS！仅供娱乐，切勿当真～|153|2021-08-24|2021-08-18|
 |15|[evmn/Paul-Graham](https://github.com/evmn/Paul-Graham)|Paul Graham's Essays, Kindle version, set several sections for easy navigation|141|2021-12-11|2021-10-29|
 |16|[apicloudcom/act](https://github.com/apicloudcom/act)|[AVM] [组件] [案例] ACT 是 AVM Component & Template 的缩写。 Vant 组件库的 AVM 实现。|131|2022-01-29|2021-02-05|
@@ -31,40 +31,40 @@
 |24|[bilibilifmk/ESP_Fishing](https://github.com/bilibilifmk/ESP_Fishing)|ESP82266 自动化WiFi密码钓鱼|105|2022-01-17|2021-03-11|
 |25|[misitebao/static-theme-misilog](https://github.com/misitebao/static-theme-misilog)|🛫 A server-side rendering template based on Vue runtime compilation, which can be used in any template engine.|92|2022-01-10|2021-03-21|
 |26|[anhao/TgMessage](https://github.com/anhao/TgMessage)|TG 消息推送机器人|83|2022-01-17|2021-02-07|
-|27|[BearLaboratory/smartdisplay-hardware](https://github.com/BearLaboratory/smartdisplay-hardware)|2.9寸墨水屏个人显示终端硬件显示|82|2021-09-24|2021-08-24|
-|28|[muggledy/typora-dyzj-theme](https://github.com/muggledy/typora-dyzj-theme)|Typora主题css样式|81|2021-12-21|2021-09-25|
+|27|[muggledy/typora-dyzj-theme](https://github.com/muggledy/typora-dyzj-theme)|Typora主题css样式|82|2021-12-21|2021-09-25|
+|28|[BearLaboratory/smartdisplay-hardware](https://github.com/BearLaboratory/smartdisplay-hardware)|2.9寸墨水屏个人显示终端硬件显示|82|2021-09-24|2021-08-24|
 |29|[ZiXia1/Mr.Film-Theme](https://github.com/ZiXia1/Mr.Film-Theme)|苹果csmV10仿电影先生第1-2版自适应模板|80|2022-01-18|2021-05-05|
 |30|[PerrorOne/miner-proxy](https://github.com/PerrorOne/miner-proxy)|it free, 高性能加密传输矿工与矿池中的数据, 适用所有币种/ssl/tcp, |79|2022-01-22|2021-11-21|
 |31|[jbloom/SARS-CoV-2_PRJNA612766](https://github.com/jbloom/SARS-CoV-2_PRJNA612766)|Analysis of early Wuhan SARS-CoV-2 sequences from deleted SRA BioProject PRJNA612766|79|2021-09-20|2021-05-18|
-|32|[yiqia/student_system](https://github.com/yiqia/student_system)|基于thinkphp6.0+mysql+bootstrap4的疫情防控系统毕业设计|76|2021-12-04|2021-12-04|
-|33|[qinlili23333/ctfileGet](https://github.com/qinlili23333/ctfileGet)|获取城通网盘一次性直连地址|74|2022-02-01|2021-02-11|
+|32|[qinlili23333/ctfileGet](https://github.com/qinlili23333/ctfileGet)|获取城通网盘一次性直连地址|79|2022-02-03|2021-02-11|
+|33|[yiqia/student_system](https://github.com/yiqia/student_system)|基于thinkphp6.0+mysql+bootstrap4的疫情防控系统毕业设计|76|2021-12-04|2021-12-04|
 |34|[CaoCaoMiner/CC-Miner-Tax-Proxy](https://github.com/CaoCaoMiner/CC-Miner-Tax-Proxy)|操哥抽水器 - 最稳定的ETH/ETC抽水&中转程序|69|2021-12-30|2021-12-06|
 |35|[Denkiame/Tategaki](https://github.com/Denkiame/Tategaki)|Translate Telegra.ph to vertical writing.|67|2021-11-23|2021-08-27|
 |36|[Oreomeow/freenom-py](https://github.com/Oreomeow/freenom-py)|Freenom 域名自动续约 python 项目|65|2021-10-22|2021-08-21|
 |37|[onlinemad/5000-lottery](https://github.com/onlinemad/5000-lottery)|振興五倍券加碼券速查|61|2021-11-05|2021-10-13|
 |38|[NolanHzy/nvjdcdocker](https://github.com/NolanHzy/nvjdcdocker)|-|60|2022-01-08|2021-11-13|
 |39|[wx-chevalier/Web-Tuning-Series](https://github.com/wx-chevalier/Web-Tuning-Series)|Web 性能优化系列：浏览器工作机制、性能优化、体验度量、PWA、录屏与重放|53|2021-11-02|2021-06-18|
-|40|[wx-chevalier/Web-Engineering-Series](https://github.com/wx-chevalier/Web-Engineering-Series)|Web 工程化体系与应用架构探究，模块化、组件化、微前端、框架设计与实现|52|2021-11-28|2021-04-23|
-|41|[Nick-Hopps/v2-ui-plus](https://github.com/Nick-Hopps/v2-ui-plus)|-|52|2021-09-16|2021-02-24|
-|42|[loogn/bulmarazor](https://github.com/loogn/bulmarazor)|BulmaRazor is a component library built on top of Bulma and Blazor.|52|2021-10-25|2021-02-05|
-|43|[OSCPU/ysyx](https://github.com/OSCPU/ysyx)|一生一芯的信息发布和内容网站|49|2022-01-24|2021-06-25|
+|40|[loogn/bulmarazor](https://github.com/loogn/bulmarazor)|BulmaRazor is a component library built on top of Bulma and Blazor.|53|2021-10-25|2021-02-05|
+|41|[wx-chevalier/Web-Engineering-Series](https://github.com/wx-chevalier/Web-Engineering-Series)|Web 工程化体系与应用架构探究，模块化、组件化、微前端、框架设计与实现|52|2021-11-28|2021-04-23|
+|42|[Nick-Hopps/v2-ui-plus](https://github.com/Nick-Hopps/v2-ui-plus)|-|52|2021-09-16|2021-02-24|
+|43|[OSCPU/ysyx](https://github.com/OSCPU/ysyx)|一生一芯的信息发布和内容网站|51|2022-01-24|2021-06-25|
 |44|[ECNUCSE/ECNU_ITers](https://github.com/ECNUCSE/ECNU_ITers)|ECNU CS & SE 信息收集; 华师大计软院友墙|49|2021-11-11|2021-03-13|
 |45|[PanDownload-Fix/PanDownload-Fix](https://github.com/PanDownload-Fix/PanDownload-Fix)|PanDownload 修复版|48|2021-12-14|2021-09-03|
 |46|[mrsanshui/WeChatPYAPI](https://github.com/mrsanshui/WeChatPYAPI)|基于微信PC端的Python接口，开发者可通过Python轻松调用。实现微信机器人、群管理等强大的功能！|46|2022-01-17|2021-07-29|
 |47|[chroblert/Flash-Pop2](https://github.com/chroblert/Flash-Pop2)|Flash-Pop升级版|45|2021-11-07|2021-11-07|
 |48|[giantbranch/pwn-env-init](https://github.com/giantbranch/pwn-env-init)|CTF PWN 做题环境一键搭建脚本|45|2021-11-25|2021-06-17|
 |49|[seanpm2001/Its-time-to-cut-WideVine-DRM](https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM)|An article on why Googles WideVine DRM should not be used.|45|2022-01-20|2021-02-09|
-|50|[witnessmenow/ESP32-Trinity](https://github.com/witnessmenow/ESP32-Trinity)|An Open Source ESP32 board for connecting to HUB75 Matrix Panels|43|2022-01-21|2021-07-14|
-|51|[firemakergk/aquar-home](https://github.com/firemakergk/aquar-home)|-|41|2022-01-02|2021-11-19|
-|52|[botuniverse/onebot-11](https://github.com/botuniverse/onebot-11)|OneBot 11 标准|41|2021-10-24|2021-10-10|
-|53|[TruthOriginem/Starsector-095-Localization](https://github.com/TruthOriginem/Starsector-095-Localization)|远行星号中文化|41|2022-02-01|2021-04-11|
-|54|[L-M-Sherlock/sm18-lazy-package](https://github.com/L-M-Sherlock/sm18-lazy-package)|SuperMemo 18 中文懒人包|40|2021-12-11|2021-11-06|
-|55|[aoaostar/aliyundrive_uploader_for_baota](https://github.com/aoaostar/aliyundrive_uploader_for_baota)|阿里云盘上传宝塔插件|40|2021-09-24|2021-07-20|
-|56|[rxdrag/rx-entities-ts](https://github.com/rxdrag/rx-entities-ts)|Codeless back end server. 模型驱动的后端，不需要代码就可以构建后端。|40|2022-01-23|2021-05-18|
-|57|[BearLaboratory/wifiaudio-tx-hardware](https://github.com/BearLaboratory/wifiaudio-tx-hardware)|WiFi无线麦克风硬件pcb设计|38|2021-12-02|2021-10-13|
-|58|[loivgehoto/Cloud-Disk-Website](https://github.com/loivgehoto/Cloud-Disk-Website)|基于springboot+mybatis实现的动态网盘网站|38|2021-10-11|2021-10-11|
-|59|[LibreDMR/OpenGD77_UserGuide](https://github.com/LibreDMR/OpenGD77_UserGuide)|-|38|2022-01-27|2021-05-06|
-|60|[DaoChen6/Heroku-v2ray](https://github.com/DaoChen6/Heroku-v2ray)|在Heroku上部署v2ray|37|2022-02-02|2021-08-24|
+|50|[botuniverse/onebot-11](https://github.com/botuniverse/onebot-11)|OneBot 11 标准|43|2021-10-24|2021-10-10|
+|51|[witnessmenow/ESP32-Trinity](https://github.com/witnessmenow/ESP32-Trinity)|An Open Source ESP32 board for connecting to HUB75 Matrix Panels|43|2022-01-21|2021-07-14|
+|52|[DaoChen6/Heroku-v2ray](https://github.com/DaoChen6/Heroku-v2ray)|在Heroku上部署v2ray|42|2022-02-02|2021-08-24|
+|53|[TruthOriginem/Starsector-0951-Localization](https://github.com/TruthOriginem/Starsector-0951-Localization)|远行星号中文化|42|2022-02-03|2021-04-11|
+|54|[firemakergk/aquar-home](https://github.com/firemakergk/aquar-home)|-|41|2022-01-02|2021-11-19|
+|55|[L-M-Sherlock/sm18-lazy-package](https://github.com/L-M-Sherlock/sm18-lazy-package)|SuperMemo 18 中文懒人包|40|2021-12-11|2021-11-06|
+|56|[aoaostar/aliyundrive_uploader_for_baota](https://github.com/aoaostar/aliyundrive_uploader_for_baota)|阿里云盘上传宝塔插件|40|2021-09-24|2021-07-20|
+|57|[rxdrag/rx-entities-ts](https://github.com/rxdrag/rx-entities-ts)|Codeless back end server. 模型驱动的后端，不需要代码就可以构建后端。|40|2022-01-23|2021-05-18|
+|58|[BearLaboratory/wifiaudio-tx-hardware](https://github.com/BearLaboratory/wifiaudio-tx-hardware)|WiFi无线麦克风硬件pcb设计|38|2021-12-02|2021-10-13|
+|59|[loivgehoto/Cloud-Disk-Website](https://github.com/loivgehoto/Cloud-Disk-Website)|基于springboot+mybatis实现的动态网盘网站|38|2021-10-11|2021-10-11|
+|60|[LibreDMR/OpenGD77_UserGuide](https://github.com/LibreDMR/OpenGD77_UserGuide)|-|38|2022-01-27|2021-05-06|
 |61|[AndyXFuture/MCar-Arduino-ESP01S](https://github.com/AndyXFuture/MCar-Arduino-ESP01S)|A Mecanum-wheel car based on ESP01S.|36|2021-12-06|2021-11-02|
 |62|[khuyentran1401/top-github-scraper](https://github.com/khuyentran1401/top-github-scraper)|Scape top GitHub repositories and users based on keywords|36|2021-08-27|2021-02-27|
 |63|[KemononLine/Mess-around](https://github.com/KemononLine/Mess-around)|一些好康的|35|2021-10-28|2021-10-06|
@@ -82,10 +82,10 @@
 |75|[insoxin/a](https://github.com/insoxin/a)|a.pages.dev源码|25|2021-10-15|2021-02-21|
 |76|[ayaka14732/FanWunHak](https://github.com/ayaka14732/FanWunHak)|A Simplified-Chinese-to-Traditional-Chinese font based on GenYoGothic, which can handle the one-to-many problem   繁媛黑體是基於源樣黑體開發的簡轉繁字型，能處理一簡對多繁|24|2021-09-12|2021-09-08|
 |77|[xlzy520/bili-short-url](https://github.com/xlzy520/bili-short-url)|哔哩哔哩短链生成器。将B站站内链接转化为Bilibili短链，例如：https://b23.tv/F78kbY|24|2022-01-24|2021-05-16|
-|78|[jonssonyan/aria2-x](https://github.com/jonssonyan/aria2-x)|一款基于AriaNg和Aria2的PC端下载器|23|2022-01-12|2021-10-25|
-|79|[AdhyWiranto44/object-detection-indonesian-traffic-signs-using-yolo-algorithm](https://github.com/AdhyWiranto44/object-detection-indonesian-traffic-signs-using-yolo-algorithm)|Pendeteksian rambu lalu lintas khas Indonesia menggunakan dataset custom dan menggunakan algoritma Deep Learning You Only Look Once v4|23|2021-10-30|2021-09-19|
-|80|[limboy/OhMyTimeline](https://github.com/limboy/OhMyTimeline)|-|23|2021-08-30|2021-08-30|
-|81|[SpeedyOrc-C/Hilipedia](https://github.com/SpeedyOrc-C/Hilipedia)|丘丘语语料库与词典 Hilichurlian Corpus and Dictionary|23|2022-01-22|2021-03-25|
+|78|[SpeedyOrc-C/Hilipedia](https://github.com/SpeedyOrc-C/Hilipedia)|丘丘语语料库与词典 Hilichurlian Corpus and Dictionary|24|2022-01-22|2021-03-25|
+|79|[jonssonyan/aria2-x](https://github.com/jonssonyan/aria2-x)|一款基于AriaNg和Aria2的PC端下载器|23|2022-01-12|2021-10-25|
+|80|[AdhyWiranto44/object-detection-indonesian-traffic-signs-using-yolo-algorithm](https://github.com/AdhyWiranto44/object-detection-indonesian-traffic-signs-using-yolo-algorithm)|Pendeteksian rambu lalu lintas khas Indonesia menggunakan dataset custom dan menggunakan algoritma Deep Learning You Only Look Once v4|23|2021-10-30|2021-09-19|
+|81|[limboy/OhMyTimeline](https://github.com/limboy/OhMyTimeline)|-|23|2021-08-30|2021-08-30|
 |82|[muzihuaner/wkyunnav](https://github.com/muzihuaner/wkyunnav)|玩客云导航页|22|2021-09-10|2021-06-23|
 |83|[oam-dev/kubevela.io](https://github.com/oam-dev/kubevela.io)|KubeVela documentations and website (https://kubevela.io).|22|2022-01-29|2021-03-25|
 |84|[wx-chevalier/DistributedStorage-Series](https://github.com/wx-chevalier/DistributedStorage-Series)|分布式存储系列：分布式 ID，分布式文件系统，复制，对象存储，区块链|18|2021-11-28|2021-07-20|

@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Assembly
-<sub>数据更新: 2022-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52433|2022-02-02|
-|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!|7800|2022-02-02|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|52440|2022-02-03|
+|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see CONTRIBUTING.md for contribution instructions!|7810|2022-02-02|
 |3|[TG9541/stm8ef](https://github.com/TG9541/stm8ef)|STM8 eForth: a user-friendly Forth for cheap µCs with docs|259|2021-11-30|
 |4|[leomil72/LM80C](https://github.com/leomil72/LM80C)|A Z80-based homebrew computer withTMS9918, AY-3-8910, Z80 CTC, Z80 PIO, and Z80 SIO|66|2021-12-12|
 |5|[xiyanxy/Cemu_graphicPacks_CHS](https://github.com/xiyanxy/Cemu_graphicPacks_CHS)|cemu模拟器的图像插件汉化包：graphicPacks|60|2021-12-12|
@@ -26,14 +26,15 @@
 |19|[mysterywolf/rt_memcpy_cm](https://github.com/mysterywolf/rt_memcpy_cm)|rt_memcpy Cortex-M 汇编加速版|3|2021-12-08|
 |20|[Wuzimeng/CO_BUAA](https://github.com/Wuzimeng/CO_BUAA)|北航计算机组成|3|2021-09-22|
 |21|[Chao-wei-chu/MIPS-Snake-Game](https://github.com/Chao-wei-chu/MIPS-Snake-Game)|這是我使用MIPS組合語言撰寫的貪食蛇遊戲|3|2021-09-03|
-|22|[junchao-ustc/csapp](https://github.com/junchao-ustc/csapp)|记录csapp的实验|2|2021-10-30|
-|23|[li-jinpeng/Colorful_Block](https://github.com/li-jinpeng/Colorful_Block)|汇编大作业|2|2021-11-10|
-|24|[YoooHaaa/Roster](https://github.com/YoooHaaa/Roster)|科锐三阶段项目---16位汇编通讯录|2|2021-09-22|
-|25|[n13eho/CalciferCompiler](https://github.com/n13eho/CalciferCompiler)|2021年全国大学生计算机系统能力大赛—— 编译系统设计赛（华为毕昇杯）中，Calcifer队伍的作品|2|2021-11-21|
-|26|[Cute-Cube/CubeOS](https://github.com/Cute-Cube/CubeOS)|Cute-Cube自己制作创新的操作系统。|2|2021-08-18|
-|27|[JimmyLiang-lzm/Simulation-of-PID-DC-Motor](https://github.com/JimmyLiang-lzm/Simulation-of-PID-DC-Motor)|基于AT89C52单片机搭建的PID直流电机控制程序，本程序为C语言编写，主要用于Proteus电路仿真。|2|2021-08-30|
-|28|[kimoye/XOS](https://github.com/kimoye/XOS)|由DLUT老年代码选手发起的业余操作系统项目|2|2021-09-04|
-|29|[yaoguangluo/Bell_Lab_Plan9](https://github.com/yaoguangluo/Bell_Lab_Plan9)|贝尔实验室plan9汇编基础研究|2|2022-01-27|
+|22|[LinChenjun2008/Pencil-Kernel](https://github.com/LinChenjun2008/Pencil-Kernel)|A tiny operating system kernel, "pencil" is its name . 一个小型的操作系统内核,叫 Pencil-Kernel,有时叫PKn|2|2022-02-03|
+|23|[junchao-ustc/csapp](https://github.com/junchao-ustc/csapp)|记录csapp的实验|2|2021-10-30|
+|24|[li-jinpeng/Colorful_Block](https://github.com/li-jinpeng/Colorful_Block)|汇编大作业|2|2021-11-10|
+|25|[YoooHaaa/Roster](https://github.com/YoooHaaa/Roster)|科锐三阶段项目---16位汇编通讯录|2|2021-09-22|
+|26|[n13eho/CalciferCompiler](https://github.com/n13eho/CalciferCompiler)|2021年全国大学生计算机系统能力大赛—— 编译系统设计赛（华为毕昇杯）中，Calcifer队伍的作品|2|2021-11-21|
+|27|[Cute-Cube/CubeOS](https://github.com/Cute-Cube/CubeOS)|Cute-Cube自己制作创新的操作系统。|2|2021-08-18|
+|28|[JimmyLiang-lzm/Simulation-of-PID-DC-Motor](https://github.com/JimmyLiang-lzm/Simulation-of-PID-DC-Motor)|基于AT89C52单片机搭建的PID直流电机控制程序，本程序为C语言编写，主要用于Proteus电路仿真。|2|2021-08-30|
+|29|[kimoye/XOS](https://github.com/kimoye/XOS)|由DLUT老年代码选手发起的业余操作系统项目|2|2021-09-04|
+|30|[yaoguangluo/Bell_Lab_Plan9](https://github.com/yaoguangluo/Bell_Lab_Plan9)|贝尔实验室plan9汇编基础研究|2|2022-01-27|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

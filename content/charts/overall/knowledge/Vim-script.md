@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Vim script
-<sub>数据更新: 2022-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[mhinz/vim-galore](https://github.com/mhinz/vim-galore)|:mortar_board: All things Vim!|13597|2021-11-17|
-|2|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|8782|2021-08-21|
+|1|[mhinz/vim-galore](https://github.com/mhinz/vim-galore)|:mortar_board: All things Vim!|13612|2021-11-17|
+|2|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|8783|2021-08-21|
 |3|[dolotech/ebook](https://github.com/dolotech/ebook)|学习资料|1467|2021-12-02|
-|4|[dofy/learn-vim](https://github.com/dofy/learn-vim)|Vim 实操教程（Learning Vim）Vim practical tutorial.|1314|2021-09-30|
+|4|[dofy/learn-vim](https://github.com/dofy/learn-vim)|Vim 实操教程（Learning Vim）Vim practical tutorial.|1315|2021-09-30|
 |5|[lymslive/vimllearn](https://github.com/lymslive/vimllearn)|A book for VimL Script language|401|2021-12-07|
 |6|[overmind1980/oeasyvim](https://github.com/overmind1980/oeasyvim)|这是oeasy制作的的一套关于vim的教程 可以在 https://www.lanqiao.cn/teacher/courses/2840 做实验 邀请码FJWYIMGB 本教程从0基础开始，到精通vim配置，和高级命令。希望能让vim是你的开发更高效。|132|2021-12-10|
 |7|[chloneda/vim-cheatsheet](https://github.com/chloneda/vim-cheatsheet)|🍁Vim cheat sheet with everything you want to know.|46|2022-01-01|
