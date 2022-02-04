@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Groovy
-<sub>数据更新: 2022-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3604|2021-09-15|
-|2|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2155|2022-01-18|
+|2|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2156|2022-01-18|
 |3|[luckybilly/AutoRegister](https://github.com/luckybilly/AutoRegister)|基于字节码插桩，在Android中实现跨module自动注册的gradle插件，可用于模块解耦。已应用于ARouter和CC|1005|2022-01-05|
 |4|[gogradle/gogradle](https://github.com/gogradle/gogradle)|A Gradle Plugin Providing Full Support for Go|747|2021-10-11|
 |5|[sensorsdata/sa-sdk-android-plugin2](https://github.com/sensorsdata/sa-sdk-android-plugin2)|神策数据官方 Android 埋点插件，用于 Android 端的数据采集。通过使用字节码插桩（ASM）的技术实现 Android 端的全埋点（无埋点、无码埋点、无痕埋点、自动埋点）。|306|2022-01-19|
@@ -23,13 +23,13 @@
 |16|[wzbos/chihiro](https://github.com/wzbos/chihiro)|🔥🔥 安卓组件化插件 🔥🔥 支持多工程联调、组件快速发布到Maven私服、企业微信机器人、钉钉机器人、自定义webhook|10|2022-01-07|
 |17|[dqzboy/DevOps](https://github.com/dqzboy/DevOps)|CICD流水线|9|2022-01-05|
 |18|[Peakmain/AsmActualCombat](https://github.com/Peakmain/AsmActualCombat)|ASM实战——埋点|7|2022-01-25|
-|19|[ihub-pub/plugins](https://github.com/ihub-pub/plugins)|IHub Plugins：一套Gradle插件集，封装了常用Gradle插件，并做了一些个性化缺省配置，极大的简化项目管理配置。|7|2022-01-29|
+|19|[ihub-pub/plugins](https://github.com/ihub-pub/plugins)|IHub Plugins：一套Gradle插件集，封装了常用Gradle插件，并做了一些个性化缺省配置，极大的简化项目管理配置。|7|2022-02-04|
 |20|[keepLove/android-jiagu-plugin](https://github.com/keepLove/android-jiagu-plugin)|360加固Gradle插件|6|2022-01-14|
 |21|[cn2oo8/autocode-template-example](https://github.com/cn2oo8/autocode-template-example)|代码模板示例|6|2021-09-06|
-|22|[TabooLib/shrinking-kotlin](https://github.com/TabooLib/shrinking-kotlin)|减少 Kotlin 编译后的文件体积|5|2022-02-02|
+|22|[TabooLib/shrinking-kotlin](https://github.com/TabooLib/shrinking-kotlin)|减少 Kotlin 编译后的文件体积|5|2022-02-04|
 |23|[xams-creator/navicat-resetter](https://github.com/xams-creator/navicat-resetter)|重置navicat激活时间的IDEA跨平台插件 |5|2022-01-18|
 |24|[dikeboy/DhMethodTime](https://github.com/dikeboy/DhMethodTime)|统计安卓所有方法执行耗时   ,用于开发 测试时分析性能,分析ANR,Calculate android method time,|5|2021-08-17|
-|25|[AyakuraYuki/content-storage-app](https://github.com/AyakuraYuki/content-storage-app)|泛用型内容管理工具，采用JSON存储内容，SQLite持久化数据，TOTP时间动态码校验用户，Base64/DES加密数据|4|2022-02-01|
+|25|[AyakuraYuki/content-storage-app](https://github.com/AyakuraYuki/content-storage-app)|泛用型内容管理工具，采用JSON存储内容，SQLite持久化数据，TOTP时间动态码校验用户，Base64/DES加密数据|4|2022-02-04|
 |26|[eonliu/packer](https://github.com/eonliu/packer)|Packer是Android打包工具插件，支持360加固、多渠道打包、将APK上传到FTP等功能。|3|2022-02-03|
 |27|[xiangwangrush/jiaguplugin](https://github.com/xiangwangrush/jiaguplugin)|360加固插件,帮助app打包后的apk自动加固并重签名|2|2022-01-06|
 |28|[piitw/gaea](https://github.com/piitw/gaea)|发布Library的轻量级插件|2|2021-09-02|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2022-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -99,15 +99,14 @@
 |92|[wangmingmin/WMVisualWorld](https://github.com/wangmingmin/WMVisualWorld)|音视频硬编解码、OpenGL ES、Metal、扫码人脸识别|2|2021-09-02|2021-08-25|
 |93|[frankKiwi/FNKPushandVOIP](https://github.com/frankKiwi/FNKPushandVOIP)|推送,静默推送和VOIP,CallKit|2|2021-08-20|2021-08-20|
 |94|[Jacky-LinPeng/onLineSeat-MQTT](https://github.com/Jacky-LinPeng/onLineSeat-MQTT)|环信MQTT参赛作品|2|2021-10-09|2021-08-18|
-|95|[andyccc/LanchMonitor](https://github.com/andyccc/LanchMonitor)|app启动时间计算(OC&Swift)|2|2021-08-05|2021-08-05|
-|96|[lele8446/CJSkin](https://github.com/lele8446/CJSkin)|APP动态换肤解决方案|2|2021-09-28|2021-06-27|
-|97|[zhengmiaokai/MKAPM](https://github.com/zhengmiaokai/MKAPM)|网络监听、卡顿/闪退收集，FPS检测（简单的功能实现）|2|2021-10-18|2021-06-07|
-|98|[growingio/growingio-sdk-ios-advertising](https://github.com/growingio/growingio-sdk-ios-advertising)|GrowingIO 广告SDK，基于TrackerCore|2|2021-09-01|2021-05-25|
-|99|[yelinux/YHNavigationBar](https://github.com/yelinux/YHNavigationBar)|UINavigationController封装，支持全屏侧滑pop，导航栏显示隐藏更便捷。|2|2022-01-06|2021-04-21|
-|100|[DengXiangHong/react-native-alipay-verify](https://github.com/DengXiangHong/react-native-alipay-verify)|支付宝实名认证（身份核实、生物识别、人脸识别）|2|2021-12-16|2021-04-20|
-|101|[yelinux/YHWaterFallLayout](https://github.com/yelinux/YHWaterFallLayout)|瀑布流简易使用|2|2021-10-29|2021-04-13|
-|102|[YJExpand/YJEmptyView](https://github.com/YJExpand/YJEmptyView)|空白页占位|2|2021-11-17|2021-02-22|
-|103|[wuyanghu/WPObserver](https://github.com/wuyanghu/WPObserver)|自定义一个通用的一对多的观察者|2|2021-11-12|2021-02-05|
+|95|[lele8446/CJSkin](https://github.com/lele8446/CJSkin)|APP动态换肤解决方案|2|2021-09-28|2021-06-27|
+|96|[zhengmiaokai/MKAPM](https://github.com/zhengmiaokai/MKAPM)|网络监听、卡顿/闪退收集，FPS检测（简单的功能实现）|2|2021-10-18|2021-06-07|
+|97|[growingio/growingio-sdk-ios-advertising](https://github.com/growingio/growingio-sdk-ios-advertising)|GrowingIO 广告SDK，基于TrackerCore|2|2021-09-01|2021-05-25|
+|98|[yelinux/YHNavigationBar](https://github.com/yelinux/YHNavigationBar)|UINavigationController封装，支持全屏侧滑pop，导航栏显示隐藏更便捷。|2|2022-01-06|2021-04-21|
+|99|[DengXiangHong/react-native-alipay-verify](https://github.com/DengXiangHong/react-native-alipay-verify)|支付宝实名认证（身份核实、生物识别、人脸识别）|2|2021-12-16|2021-04-20|
+|100|[yelinux/YHWaterFallLayout](https://github.com/yelinux/YHWaterFallLayout)|瀑布流简易使用|2|2021-10-29|2021-04-13|
+|101|[YJExpand/YJEmptyView](https://github.com/YJExpand/YJEmptyView)|空白页占位|2|2021-11-17|2021-02-22|
+|102|[wuyanghu/WPObserver](https://github.com/wuyanghu/WPObserver)|自定义一个通用的一对多的观察者|2|2021-11-12|2021-02-05|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

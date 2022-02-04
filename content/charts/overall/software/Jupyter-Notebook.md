@@ -1,112 +1,112 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Jupyter Notebook
-<sub>数据更新: 2022-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[MorvanZhou/PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)|Build your neural network easy and fast, 莫烦Python中文教学|6551|2022-01-20|
-|2|[ljpzzz/machinelearning](https://github.com/ljpzzz/machinelearning)|My blogs and code for machine learning. http://cnblogs.com/pinard|6127|2021-10-01|
+|1|[MorvanZhou/PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)|Build your neural network easy and fast, 莫烦Python中文教学|6552|2022-01-20|
+|2|[ljpzzz/machinelearning](https://github.com/ljpzzz/machinelearning)|My blogs and code for machine learning. http://cnblogs.com/pinard|6129|2021-10-01|
 |3|[roboticcam/machine-learning-notes](https://github.com/roboticcam/machine-learning-notes)|My continuously updated Machine Learning, Probabilistic Models and Deep Learning notes and demos (2000+ slides)  我不间断更新的机器学习，概率模型和深度学习的讲义(2000+页)和视频链接|5605|2022-01-17|
 |4|[cleverhans-lab/cleverhans](https://github.com/cleverhans-lab/cleverhans)|An adversarial example library for constructing attacks, building defenses, and benchmarking both|5394|2022-01-23|
-|5|[NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)|NeMo: a toolkit for conversational AI|3841|2022-02-03|
+|5|[NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)|NeMo: a toolkit for conversational AI|3845|2022-02-04|
 |6|[ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)|We are building an open database of COVID-19 cases with chest X-ray or CT images.|2775|2021-10-14|
 |7|[exacity/simplified-deeplearning](https://github.com/exacity/simplified-deeplearning)|Simplified implementations of deep learning related works|2395|2021-10-06|
 |8|[wangshub/RL-Stock](https://github.com/wangshub/RL-Stock)|📈 如何用深度强化学习自动炒股|2131|2022-01-21|
 |9|[yoyoyo-yo/Gasyori100knock](https://github.com/yoyoyo-yo/Gasyori100knock)|image processing codes to understand algorithm|1993|2022-01-20|
-|10|[wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)|🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.|1827|2022-02-01|
+|10|[wowchemy/starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)|🎓 Hugo Academic Theme 创建一个学术网站. Easily create a beautiful academic résumé or educational website using Hugo, GitHub, and Netlify.|1829|2022-02-01|
 |11|[AIZOOTech/FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection)|开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask.|1716|2022-01-05|
 |12|[FinMind/FinMind](https://github.com/FinMind/FinMind)|Open Data, more than 50 financial data. 提供超過 50 個金融資料(台股為主)，每天更新 https://finmind.github.io/|1660|2022-01-21|
-|13|[marcotcr/checklist](https://github.com/marcotcr/checklist)|Beyond Accuracy: Behavioral Testing of NLP models with CheckList|1573|2022-01-14|
-|14|[hangsz/pandas-tutorial](https://github.com/hangsz/pandas-tutorial)|适合初级到中级晋升者，有了体系之后就看熟练度了。|1419|2022-01-15|
+|13|[marcotcr/checklist](https://github.com/marcotcr/checklist)|Beyond Accuracy: Behavioral Testing of NLP models with CheckList|1575|2022-01-14|
+|14|[hangsz/pandas-tutorial](https://github.com/hangsz/pandas-tutorial)|适合初级到中级晋升者，有了体系之后就看熟练度了。|1420|2022-01-15|
 |15|[tugstugi/dl-colab-notebooks](https://github.com/tugstugi/dl-colab-notebooks)|Try out  deep learning models online on Google Colab|1297|2022-01-13|
-|16|[snakers4/silero-models](https://github.com/snakers4/silero-models)|Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple|1218|2022-01-20|
-|17|[matheusfacure/python-causality-handbook](https://github.com/matheusfacure/python-causality-handbook)|Causal Inference for the Brave and True. A light-hearted yet rigorous approach to learning about impact estimation and sensitivity analysis. |1008|2022-01-31|
-|18|[zslucky/awesome-AI-books](https://github.com/zslucky/awesome-AI-books)|Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning|976|2021-10-30|
-|19|[amaiya/ktrain](https://github.com/amaiya/ktrain)|ktrain is a Python library that makes deep learning and AI more accessible and easier to apply|945|2022-01-29|
-|20|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|854|2021-12-29|
-|21|[eastmountyxz/ImageProcessing-Python](https://github.com/eastmountyxz/ImageProcessing-Python)|该资源为作者在CSDN的撰写Python图像处理文章的支撑，主要是Python实现图像处理、图像识别、图像分类等算法代码实现，希望该资源对您有所帮助，一起加油。|844|2021-11-08|
-|22|[Tiiiger/bert_score](https://github.com/Tiiiger/bert_score)|BERT score for text generation|815|2021-12-10|
-|23|[serengil/tensorflow-101](https://github.com/serengil/tensorflow-101)|TensorFlow 101: Introduction to Deep Learning|778|2022-02-02|
-|24|[lxztju/pytorch_classification](https://github.com/lxztju/pytorch_classification)|利用pytorch实现图像分类的一个完整的代码，训练，预测，TTA，模型融合，模型部署，cnn提取特征，svm或者随机森林等进行分类，模型蒸馏，一个完整的代码|776|2021-11-26|
-|25|[fastai/course20](https://github.com/fastai/course20)|Deep Learning for Coders, 2020, the website|717|2022-01-14|
-|26|[wx-chevalier/AI-Series](https://github.com/wx-chevalier/AI-Series)|:books: [.md & .ipynb] Series of Artificial Intelligence & Deep Learning, including Mathematics Fundamentals, Python Practices, NLP Application, etc. 💫 人工智能与深度学习实战，数理统计篇   机器学习篇   深度学习篇   自然语言处理篇   工具 ...|714|2022-01-06|
-|27|[gengyanlei/fire-smoke-detect-yolov4](https://github.com/gengyanlei/fire-smoke-detect-yolov4)|fire-smoke-detect-yolov4-yolov5 and fire-smoke-detection-dataset 火灾检测，烟雾检测|621|2021-10-29|
-|28|[LYuhang/GNN_Review](https://github.com/LYuhang/GNN_Review)|GNN综述阅读报告|567|2021-08-17|
-|29|[patrick-llgc/Learning-Deep-Learning](https://github.com/patrick-llgc/Learning-Deep-Learning)|Paper reading notes on Deep Learning and Machine Learning|567|2022-01-18|
-|30|[LinXueyuanStdio/LaTeX_OCR_PRO](https://github.com/LinXueyuanStdio/LaTeX_OCR_PRO)|:art: 数学公式识别增强版：中英文手写印刷公式、支持初级符号推导（数据结构基于 LaTeX 抽象语法树）|528|2022-01-13|
-|31|[imistyrain/MTCNN](https://github.com/imistyrain/MTCNN)|人脸检测一网打尽Realtime Face Detection and Head pose estimation on Windows、Ubuntu、Mac、Android and iOS|422|2022-01-27|
-|32|[wbbhcb/stock_market](https://github.com/wbbhcb/stock_market)|-|415|2021-11-01|
-|33|[isee15/Card-Ocr](https://github.com/isee15/Card-Ocr)|身份证识别OCR|380|2021-09-22|
-|34|[linguishi/chinese_sentiment](https://github.com/linguishi/chinese_sentiment)|中文情感分析，CNN，BI-LSTM，文本分类|354|2021-12-02|
-|35|[zhongqiangwu960812/AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)|该仓库尝试整理推荐系统领域的一些经典算法模型|348|2022-01-28|
-|36|[PaddlePaddle/Quantum](https://github.com/PaddlePaddle/Quantum)|-|334|2021-12-15|
-|37|[SummerLife/EmbeddedSystem](https://github.com/SummerLife/EmbeddedSystem)|:books: 计算机体系架构、嵌入式系统基础与主流编程语言相关内容总结|323|2022-01-21|
-|38|[zhouwei713/data_analysis](https://github.com/zhouwei713/data_analysis)|一些爬虫和数据分析相关实战练习|305|2022-01-26|
-|39|[LogicJake/competition_baselines](https://github.com/LogicJake/competition_baselines)|开源的各大比赛baseline|277|2021-12-28|
-|40|[aishoot/LSTM_PIT_Speech_Separation](https://github.com/aishoot/LSTM_PIT_Speech_Separation)|Two-talker Speech Separation with LSTM/BLSTM by Permutation Invariant Training method.|273|2022-01-06|
-|41|[GavinHacker/recsys_core](https://github.com/GavinHacker/recsys_core)|[电影推荐系统] Based on the movie scoring data set, the movie recommendation system is built with FM and LR as the core(基于爬取的电影评分数据集，构建以FM和LR为核心的电影推荐系统). |271|2021-12-30|
-|42|[d2l-ai/d2l-zh-pytorch-slides](https://github.com/d2l-ai/d2l-zh-pytorch-slides)|Pytorch版代码幻灯片|269|2022-01-17|
-|43|[LinXueyuanStdio/LaTeX_OCR](https://github.com/LinXueyuanStdio/LaTeX_OCR)|:gem: 数学公式识别 Math Formula OCR|268|2022-01-13|
-|44|[enpeizhao/CVprojects](https://github.com/enpeizhao/CVprojects)|computer vision projects    计算机视觉等好玩的AI项目|265|2022-02-03|
-|45|[Mryangkaitong/python-Machine-learning](https://github.com/Mryangkaitong/python-Machine-learning)|机器学习算法项目|261|2021-10-15|
-|46|[Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB](https://github.com/Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB)|This is a repository about PCB defect detection.|247|2021-11-10|
-|47|[CUHKSZ-TQL/WeiboSpider_SentimentAnalysis](https://github.com/CUHKSZ-TQL/WeiboSpider_SentimentAnalysis)|借助Python抓取微博数据，并对抓取的数据进行情绪分析|239|2022-01-13|
-|48|[3778/COVID-19](https://github.com/3778/COVID-19)|Ciência de Dados aplicada à pandemia do novo coronavírus.|221|2022-01-21|
-|49|[ActiveConclusion/COVID19_mobility](https://github.com/ActiveConclusion/COVID19_mobility)|COVID-19 Mobility Data Aggregator. Scraper of Google, Apple, Waze and TomTom COVID-19 Mobility Reports🚶🚘🚉|220|2022-01-28|
-|50|[DeepTrial/Retina-VesselNet](https://github.com/DeepTrial/Retina-VesselNet)|A Simple U-net model for Retinal Blood Vessel Segmentation based on tensorflow2|219|2021-11-15|
-|51|[zll17/Neural_Topic_Models](https://github.com/zll17/Neural_Topic_Models)|Implementation of topic models based on neural network approaches.|218|2021-11-12|
-|52|[luo3300612/Visualizer](https://github.com/luo3300612/Visualizer)|assistant tools for attention visualization in deep learning|208|2021-08-11|
-|53|[ami66/ChineseTextClassifier](https://github.com/ami66/ChineseTextClassifier)|中文商品评论短文本分类器，可用于情感分析|207|2021-12-24|
-|54|[deepdialog/CPM-LM-TF2](https://github.com/deepdialog/CPM-LM-TF2)|-|204|2021-10-14|
-|55|[yutiansut/QAStrategy](https://github.com/yutiansut/QAStrategy)|策略基类/ 支持QIFI协议|202|2021-09-01|
-|56|[zwq2018/AI_UAV](https://github.com/zwq2018/AI_UAV)|在人工智能、机器视觉、高精度导航定位和多传感器融合等技术的助推下，众多行业迎来了前所未有的发展机遇，人工智能+无人机（AI+UAV）正是一个具有无限想象力的应用方向。|195|2022-01-21|
-|57|[chokkan/mlnote](https://github.com/chokkan/mlnote)|機械学習帳|187|2022-02-01|
-|58|[collective-action/tech](https://github.com/collective-action/tech)|Documentation of all collective action from tech workers.|186|2022-02-03|
-|59|[4paradigm/AutoX](https://github.com/4paradigm/AutoX)|AutoX is an efficient automl tool, which is mainly aimed at data mining competitions with tabular data.|181|2022-01-25|
-|60|[brain-zhang/xianglong](https://github.com/brain-zhang/xianglong)|资产配置方案|178|2021-09-07|
-|61|[44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel)|基于思源黑体的开源像素字体|172|2022-01-03|
-|62|[duoergun0729/adversarial_examples](https://github.com/duoergun0729/adversarial_examples)|对抗样本|160|2022-01-21|
-|63|[hscspring/All4NLP](https://github.com/hscspring/All4NLP)|All For NLP, especially Chinese.|159|2021-10-22|
-|64|[huseinzol05/malay-dataset](https://github.com/huseinzol05/malay-dataset)|Text corpus for Bahasa Malaysia, https://malaya.readthedocs.io/en/latest/Dataset.html|157|2022-01-28|
-|65|[simbafl/Data-analysis](https://github.com/simbafl/Data-analysis)|数据分析，挖掘建模。|155|2022-01-02|
-|66|[vespa-engine/sample-apps](https://github.com/vespa-engine/sample-apps)|Repository of sample applications|155|2022-02-03|
-|67|[Glacier-Ice/Covid-19-data-science](https://github.com/Glacier-Ice/Covid-19-data-science)|Welcome to Glacier Data Project. A post-wuhan2020 project for data science|148|2022-01-27|
-|68|[hugo2046/Quantitative-analysis](https://github.com/hugo2046/Quantitative-analysis)|量化研究-券商金工研报复现|146|2021-12-29|
-|69|[mindspore-ai/docs](https://github.com/mindspore-ai/docs)|MindSpore document|145|2022-01-07|
-|70|[makelove/Programer_Log](https://github.com/makelove/Programer_Log)|最新动态在这里【我的程序员日志】|145|2021-09-03|
-|71|[seaniezhao/torch_npss](https://github.com/seaniezhao/torch_npss)|pytorch implementation of Neural Parametric Singing Synthesizer 歌声合成|139|2021-12-27|
-|72|[wmn7/ML_Practice](https://github.com/wmn7/ML_Practice)|ML Records in 1110 Lab of BUPT. Some detailed information can be referenced on: https://mathpretty.com/10388.html|135|2021-11-02|
-|73|[chenmingxiang110/Chinese-automatic-speech-recognition](https://github.com/chenmingxiang110/Chinese-automatic-speech-recognition)|Chinese speech recognition|135|2021-09-13|
-|74|[wshuyi/demo-spacy-text-processing](https://github.com/wshuyi/demo-spacy-text-processing)|-|129|2022-01-21|
-|75|[nmcdev/meteva](https://github.com/nmcdev/meteva)|提供气象产品检验相关程序|126|2021-12-16|
-|76|[JackonYang/paper-reading](https://github.com/JackonYang/paper-reading)|比做算法的懂工程落地，比做工程的懂算法模型。|125|2022-01-30|
-|77|[datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)|-|122|2021-11-15|
-|78|[zhentaoshi/econ5170](https://github.com/zhentaoshi/econ5170)|Econ5170@CUHK: Computational Methods in Economics (2020 Spring). |122|2022-01-13|
-|79|[joewandy/hlda](https://github.com/joewandy/hlda)|Gibbs sampler for the Hierarchical Latent Dirichlet Allocation topic model|119|2022-01-21|
-|80|[azy1988/ML-CV](https://github.com/azy1988/ML-CV)|机器学习实战|117|2022-01-21|
-|81|[oldratlee/software-practice-thoughts](https://github.com/oldratlee/software-practice-thoughts)|📚 🐣 软件实践文集。主题不限，思考讨论有趣有料就好，包含如 系统的模型分析/量化分析、开源漫游者指南、软件可靠性设计实践…… 🥤|111|2021-12-20|
-|82|[chenghuige/pikachu2](https://github.com/chenghuige/pikachu2)|微信大数据2021 1st，qq浏览器2021 3rd，mind新闻推荐2020 1st，NAIC2020 AI+遥感影像 2nd|107|2021-11-17|
-|83|[tugstugi/mongolian-nlp](https://github.com/tugstugi/mongolian-nlp)|Useful resources for Mongolian NLP|105|2021-12-27|
-|84|[qwfy/doc-browser](https://github.com/qwfy/doc-browser)|A documentation browser with support for DevDocs, Dash and Hoogle, written in Haskell and QML|105|2021-10-09|
-|85|[excelsimon/AI](https://github.com/excelsimon/AI)|机器学习、深度学习、自然语言处理、计算机视觉等AI领域相关技术的算法推导及应用|104|2021-08-05|
+|16|[TheEconomist/big-mac-data](https://github.com/TheEconomist/big-mac-data)|Data and methodology for the Big Mac index|1245|2022-02-04|
+|17|[snakers4/silero-models](https://github.com/snakers4/silero-models)|Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple|1219|2022-01-20|
+|18|[matheusfacure/python-causality-handbook](https://github.com/matheusfacure/python-causality-handbook)|Causal Inference for the Brave and True. A light-hearted yet rigorous approach to learning about impact estimation and sensitivity analysis. |1009|2022-01-31|
+|19|[zslucky/awesome-AI-books](https://github.com/zslucky/awesome-AI-books)|Some awesome AI related books and pdfs for learning and downloading, also apply some playground models for learning|977|2021-10-30|
+|20|[amaiya/ktrain](https://github.com/amaiya/ktrain)|ktrain is a Python library that makes deep learning and AI more accessible and easier to apply|945|2022-01-29|
+|21|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|857|2021-12-29|
+|22|[eastmountyxz/ImageProcessing-Python](https://github.com/eastmountyxz/ImageProcessing-Python)|该资源为作者在CSDN的撰写Python图像处理文章的支撑，主要是Python实现图像处理、图像识别、图像分类等算法代码实现，希望该资源对您有所帮助，一起加油。|844|2021-11-08|
+|23|[Tiiiger/bert_score](https://github.com/Tiiiger/bert_score)|BERT score for text generation|815|2021-12-10|
+|24|[serengil/tensorflow-101](https://github.com/serengil/tensorflow-101)|TensorFlow 101: Introduction to Deep Learning|778|2022-02-02|
+|25|[lxztju/pytorch_classification](https://github.com/lxztju/pytorch_classification)|利用pytorch实现图像分类的一个完整的代码，训练，预测，TTA，模型融合，模型部署，cnn提取特征，svm或者随机森林等进行分类，模型蒸馏，一个完整的代码|776|2021-11-26|
+|26|[fastai/course20](https://github.com/fastai/course20)|Deep Learning for Coders, 2020, the website|717|2022-01-14|
+|27|[wx-chevalier/AI-Series](https://github.com/wx-chevalier/AI-Series)|:books: [.md & .ipynb] Series of Artificial Intelligence & Deep Learning, including Mathematics Fundamentals, Python Practices, NLP Application, etc. 💫 人工智能与深度学习实战，数理统计篇   机器学习篇   深度学习篇   自然语言处理篇   工具 ...|714|2022-01-06|
+|28|[gengyanlei/fire-smoke-detect-yolov4](https://github.com/gengyanlei/fire-smoke-detect-yolov4)|fire-smoke-detect-yolov4-yolov5 and fire-smoke-detection-dataset 火灾检测，烟雾检测|621|2021-10-29|
+|29|[LYuhang/GNN_Review](https://github.com/LYuhang/GNN_Review)|GNN综述阅读报告|568|2021-08-17|
+|30|[patrick-llgc/Learning-Deep-Learning](https://github.com/patrick-llgc/Learning-Deep-Learning)|Paper reading notes on Deep Learning and Machine Learning|567|2022-01-18|
+|31|[LinXueyuanStdio/LaTeX_OCR_PRO](https://github.com/LinXueyuanStdio/LaTeX_OCR_PRO)|:art: 数学公式识别增强版：中英文手写印刷公式、支持初级符号推导（数据结构基于 LaTeX 抽象语法树）|528|2022-01-13|
+|32|[imistyrain/MTCNN](https://github.com/imistyrain/MTCNN)|人脸检测一网打尽Realtime Face Detection and Head pose estimation on Windows、Ubuntu、Mac、Android and iOS|422|2022-01-27|
+|33|[wbbhcb/stock_market](https://github.com/wbbhcb/stock_market)|-|416|2021-11-01|
+|34|[isee15/Card-Ocr](https://github.com/isee15/Card-Ocr)|身份证识别OCR|380|2021-09-22|
+|35|[linguishi/chinese_sentiment](https://github.com/linguishi/chinese_sentiment)|中文情感分析，CNN，BI-LSTM，文本分类|354|2021-12-02|
+|36|[zhongqiangwu960812/AI-RecommenderSystem](https://github.com/zhongqiangwu960812/AI-RecommenderSystem)|该仓库尝试整理推荐系统领域的一些经典算法模型|348|2022-01-28|
+|37|[PaddlePaddle/Quantum](https://github.com/PaddlePaddle/Quantum)|-|335|2021-12-15|
+|38|[SummerLife/EmbeddedSystem](https://github.com/SummerLife/EmbeddedSystem)|:books: 计算机体系架构、嵌入式系统基础与主流编程语言相关内容总结|323|2022-01-21|
+|39|[zhouwei713/data_analysis](https://github.com/zhouwei713/data_analysis)|一些爬虫和数据分析相关实战练习|305|2022-01-26|
+|40|[LogicJake/competition_baselines](https://github.com/LogicJake/competition_baselines)|开源的各大比赛baseline|277|2021-12-28|
+|41|[aishoot/LSTM_PIT_Speech_Separation](https://github.com/aishoot/LSTM_PIT_Speech_Separation)|Two-talker Speech Separation with LSTM/BLSTM by Permutation Invariant Training method.|273|2022-01-06|
+|42|[GavinHacker/recsys_core](https://github.com/GavinHacker/recsys_core)|[电影推荐系统] Based on the movie scoring data set, the movie recommendation system is built with FM and LR as the core(基于爬取的电影评分数据集，构建以FM和LR为核心的电影推荐系统). |271|2021-12-30|
+|43|[enpeizhao/CVprojects](https://github.com/enpeizhao/CVprojects)|computer vision projects    计算机视觉等好玩的AI项目|268|2022-02-04|
+|44|[d2l-ai/d2l-zh-pytorch-slides](https://github.com/d2l-ai/d2l-zh-pytorch-slides)|Pytorch版代码幻灯片|268|2022-01-17|
+|45|[LinXueyuanStdio/LaTeX_OCR](https://github.com/LinXueyuanStdio/LaTeX_OCR)|:gem: 数学公式识别 Math Formula OCR|268|2022-01-13|
+|46|[Mryangkaitong/python-Machine-learning](https://github.com/Mryangkaitong/python-Machine-learning)|机器学习算法项目|262|2021-10-15|
+|47|[Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB](https://github.com/Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB)|This is a repository about PCB defect detection.|248|2021-11-10|
+|48|[CUHKSZ-TQL/WeiboSpider_SentimentAnalysis](https://github.com/CUHKSZ-TQL/WeiboSpider_SentimentAnalysis)|借助Python抓取微博数据，并对抓取的数据进行情绪分析|239|2022-01-13|
+|49|[3778/COVID-19](https://github.com/3778/COVID-19)|Ciência de Dados aplicada à pandemia do novo coronavírus.|221|2022-01-21|
+|50|[ActiveConclusion/COVID19_mobility](https://github.com/ActiveConclusion/COVID19_mobility)|COVID-19 Mobility Data Aggregator. Scraper of Google, Apple, Waze and TomTom COVID-19 Mobility Reports🚶🚘🚉|220|2022-02-04|
+|51|[DeepTrial/Retina-VesselNet](https://github.com/DeepTrial/Retina-VesselNet)|A Simple U-net model for Retinal Blood Vessel Segmentation based on tensorflow2|219|2021-11-15|
+|52|[zll17/Neural_Topic_Models](https://github.com/zll17/Neural_Topic_Models)|Implementation of topic models based on neural network approaches.|218|2021-11-12|
+|53|[luo3300612/Visualizer](https://github.com/luo3300612/Visualizer)|assistant tools for attention visualization in deep learning|208|2021-08-11|
+|54|[ami66/ChineseTextClassifier](https://github.com/ami66/ChineseTextClassifier)|中文商品评论短文本分类器，可用于情感分析|207|2021-12-24|
+|55|[deepdialog/CPM-LM-TF2](https://github.com/deepdialog/CPM-LM-TF2)|-|204|2021-10-14|
+|56|[yutiansut/QAStrategy](https://github.com/yutiansut/QAStrategy)|策略基类/ 支持QIFI协议|202|2021-09-01|
+|57|[zwq2018/AI_UAV](https://github.com/zwq2018/AI_UAV)|在人工智能、机器视觉、高精度导航定位和多传感器融合等技术的助推下，众多行业迎来了前所未有的发展机遇，人工智能+无人机（AI+UAV）正是一个具有无限想象力的应用方向。|196|2022-01-21|
+|58|[chokkan/mlnote](https://github.com/chokkan/mlnote)|機械学習帳|187|2022-02-01|
+|59|[collective-action/tech](https://github.com/collective-action/tech)|Documentation of all collective action from tech workers.|186|2022-02-04|
+|60|[4paradigm/AutoX](https://github.com/4paradigm/AutoX)|AutoX is an efficient automl tool, which is mainly aimed at data mining competitions with tabular data.|182|2022-02-04|
+|61|[brain-zhang/xianglong](https://github.com/brain-zhang/xianglong)|资产配置方案|178|2021-09-07|
+|62|[44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel)|基于思源黑体的开源像素字体|172|2022-01-03|
+|63|[duoergun0729/adversarial_examples](https://github.com/duoergun0729/adversarial_examples)|对抗样本|160|2022-01-21|
+|64|[hscspring/All4NLP](https://github.com/hscspring/All4NLP)|All For NLP, especially Chinese.|159|2021-10-22|
+|65|[huseinzol05/malay-dataset](https://github.com/huseinzol05/malay-dataset)|Text corpus for Bahasa Malaysia, https://malaya.readthedocs.io/en/latest/Dataset.html|157|2022-01-28|
+|66|[simbafl/Data-analysis](https://github.com/simbafl/Data-analysis)|数据分析，挖掘建模。|156|2022-01-02|
+|67|[vespa-engine/sample-apps](https://github.com/vespa-engine/sample-apps)|Repository of sample applications|155|2022-02-03|
+|68|[Glacier-Ice/Covid-19-data-science](https://github.com/Glacier-Ice/Covid-19-data-science)|Welcome to Glacier Data Project. A post-wuhan2020 project for data science|148|2022-01-27|
+|69|[hugo2046/Quantitative-analysis](https://github.com/hugo2046/Quantitative-analysis)|量化研究-券商金工研报复现|146|2021-12-29|
+|70|[mindspore-ai/docs](https://github.com/mindspore-ai/docs)|MindSpore document|145|2022-01-07|
+|71|[makelove/Programer_Log](https://github.com/makelove/Programer_Log)|最新动态在这里【我的程序员日志】|145|2021-09-03|
+|72|[seaniezhao/torch_npss](https://github.com/seaniezhao/torch_npss)|pytorch implementation of Neural Parametric Singing Synthesizer 歌声合成|139|2021-12-27|
+|73|[wmn7/ML_Practice](https://github.com/wmn7/ML_Practice)|ML Records in 1110 Lab of BUPT. Some detailed information can be referenced on: https://mathpretty.com/10388.html|136|2021-11-02|
+|74|[chenmingxiang110/Chinese-automatic-speech-recognition](https://github.com/chenmingxiang110/Chinese-automatic-speech-recognition)|Chinese speech recognition|135|2021-09-13|
+|75|[wshuyi/demo-spacy-text-processing](https://github.com/wshuyi/demo-spacy-text-processing)|-|129|2022-01-21|
+|76|[nmcdev/meteva](https://github.com/nmcdev/meteva)|提供气象产品检验相关程序|126|2021-12-16|
+|77|[JackonYang/paper-reading](https://github.com/JackonYang/paper-reading)|比做算法的懂工程落地，比做工程的懂算法模型。|125|2022-01-30|
+|78|[datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)|-|122|2021-11-15|
+|79|[zhentaoshi/econ5170](https://github.com/zhentaoshi/econ5170)|Econ5170@CUHK: Computational Methods in Economics (2020 Spring). |122|2022-01-13|
+|80|[joewandy/hlda](https://github.com/joewandy/hlda)|Gibbs sampler for the Hierarchical Latent Dirichlet Allocation topic model|119|2022-01-21|
+|81|[azy1988/ML-CV](https://github.com/azy1988/ML-CV)|机器学习实战|117|2022-01-21|
+|82|[oldratlee/software-practice-thoughts](https://github.com/oldratlee/software-practice-thoughts)|📚 🐣 软件实践文集。主题不限，思考讨论有趣有料就好，包含如 系统的模型分析/量化分析、开源漫游者指南、软件可靠性设计实践…… 🥤|111|2021-12-20|
+|83|[chenghuige/pikachu2](https://github.com/chenghuige/pikachu2)|微信大数据2021 1st，qq浏览器2021 3rd，mind新闻推荐2020 1st，NAIC2020 AI+遥感影像 2nd|107|2021-11-17|
+|84|[tugstugi/mongolian-nlp](https://github.com/tugstugi/mongolian-nlp)|Useful resources for Mongolian NLP|105|2021-12-27|
+|85|[qwfy/doc-browser](https://github.com/qwfy/doc-browser)|A documentation browser with support for DevDocs, Dash and Hoogle, written in Haskell and QML|105|2021-10-09|
 |86|[jonnor/embeddedml](https://github.com/jonnor/embeddedml)|-|103|2022-01-25|
 |87|[lyhue1991/PythonAiRoad](https://github.com/lyhue1991/PythonAiRoad)|source code of some articles  |100|2022-01-23|
 |88|[tinyms-ai/tinyms](https://github.com/tinyms-ai/tinyms)|Easy-to-Use deep learning development toolkit.|97|2022-01-28|
 |89|[PaddlePaddle/InterpretDL](https://github.com/PaddlePaddle/InterpretDL)|InterpretDL: Interpretation of Deep Learning Models，基于『飞桨』的模型可解释性算法库。https://interpretdl.readthedocs.io/en/latest/index.html|97|2022-01-20|
-|90|[neozhu/smartadmin.core.urf](https://github.com/neozhu/smartadmin.core.urf)|Domain Driven Design (DDD) lightweight development architecture(support .net 5.0)|96|2021-09-13|
-|91|[datamonday/Face-Recognition-Class-Attendance-System](https://github.com/datamonday/Face-Recognition-Class-Attendance-System)|基于人脸识别的课堂考勤系统v2.0|96|2021-08-09|
+|90|[datamonday/Face-Recognition-Class-Attendance-System](https://github.com/datamonday/Face-Recognition-Class-Attendance-System)|基于人脸识别的课堂考勤系统v2.0|97|2021-08-09|
+|91|[neozhu/smartadmin.core.urf](https://github.com/neozhu/smartadmin.core.urf)|Domain Driven Design (DDD) lightweight development architecture(support .net 5.0)|96|2021-09-13|
 |92|[covid-19-net/covid-19-community](https://github.com/covid-19-net/covid-19-community)| Community effort to build a Neo4j Knowledge Graph (KG) that links heterogeneous data about COVID-19 |94|2022-01-10|
 |93|[dsh0416/quantum-i-ching](https://github.com/dsh0416/quantum-i-ching)|A Quantum 爻 System Implementation for Divination |94|2022-01-21|
 |94|[HowardNTUST/Marketing-Data-Science-Application](https://github.com/HowardNTUST/Marketing-Data-Science-Application)|-|94|2021-12-22|
 |95|[binarybottle/engram](https://github.com/binarybottle/engram)|Arno's Engram v2.0 ("Engram") layout is an optimized key layout for touch typing in English based on ergonomic considerations, with a protocol and software for creating new, optimized key layouts in o ...|93|2022-01-08|
 |96|[1165048017/BlogLearning](https://github.com/1165048017/BlogLearning)|自己的学习历程，重点包括各种好玩的图像处理算法、运动捕捉、机器学习|93|2021-10-26|
-|97|[blueapplehe/car_identify](https://github.com/blueapplehe/car_identify)|汽车识别，汽车车型识别，汽车品牌识别，车辆识别，深度学习，神经网络|90|2022-01-28|
+|97|[blueapplehe/car_identify](https://github.com/blueapplehe/car_identify)|汽车识别，汽车车型识别，汽车品牌识别，车辆识别，深度学习，神经网络|91|2022-01-28|
 |98|[andy6804tw/2020-12th-ironman](https://github.com/andy6804tw/2020-12th-ironman)|[全民瘋AI系列] 第12屆iT邦幫忙鐵人賽 影片教學組 |89|2021-09-27|
 |99|[arjunmann73/Data-Analytics-Projects](https://github.com/arjunmann73/Data-Analytics-Projects)|:mag_right: Data analysis with real world data sets using Python :mag:|89|2021-10-16|
 |100|[mindslab-ai/wavegrad2](https://github.com/mindslab-ai/wavegrad2)|Unofficial Pytorch Implementation of WaveGrad2|84|2021-08-18|
 |101|[zhangzhiqiangccm/NLP-project](https://github.com/zhangzhiqiangccm/NLP-project)|自然语言处理中的基础任务，包含但不限于文本表示，文本分类，命名实体识别，关系抽取，文本生成，文本摘要等，基于tensorflow2或Pytorch，所有代码均经过测试，项目中也包含相关数据。|83|2021-11-02|
-|102|[montera34/escovid19data](https://github.com/montera34/escovid19data)|Recopilación de datos de COVID19 por provincias en España|82|2022-02-02|
+|102|[montera34/escovid19data](https://github.com/montera34/escovid19data)|Recopilación de datos de COVID19 por provincias en España|82|2022-02-04|
 |103|[je-santos/MPLBM-UT](https://github.com/je-santos/MPLBM-UT)|Library for performing multiphase simulations (based on the Shan-Chen model) in complicated geometries (i.e. porous media 3D images)|82|2022-02-01|
 |104|[svakulenk0/KBQA](https://github.com/svakulenk0/KBQA)|Complex Question Answering over Knowledge Graphs|82|2022-01-21|
 |105|[Lkruitwagen/solar-pv-global-inventory](https://github.com/Lkruitwagen/solar-pv-global-inventory)|Repository for machine learning and remote sensing pipeline described in Kruitwagen, L., Story, K., Friedrich, J, et. al. (2019) , used to produce a global inventory of utility-scale solar photvoltaic ...|81|2021-11-25|
@@ -116,7 +116,7 @@
 |109|[Flowingsun007/DeepLearningTutorial](https://github.com/Flowingsun007/DeepLearningTutorial)|Talk is cheap,show me the code ! Deep Learning,Leaning deep,Have fun!|75|2022-01-13|
 |110|[jajupmochi/graphkit-learn](https://github.com/jajupmochi/graphkit-learn)|A python package for graph kernels, graph edit distances, and graph pre-image problem.|73|2021-12-02|
 |111|[Daya-Jin/ML_for_learner](https://github.com/Daya-Jin/ML_for_learner)|Implementations of the machine learning algorithm with Python and numpy|72|2021-10-20|
-|112|[ni1o1/transbigdata](https://github.com/ni1o1/transbigdata)|A Python package develop for transportation spatio-temporal big data processing, analysis and visualization.|68|2022-02-03|
+|112|[ni1o1/transbigdata](https://github.com/ni1o1/transbigdata)|A Python package develop for transportation spatio-temporal big data processing, analysis and visualization.|68|2022-02-04|
 |113|[dglai/maxp_baseline_model](https://github.com/dglai/maxp_baseline_model)|-|66|2021-11-05|
 |114|[Liang-ZX/VectorNet](https://github.com/Liang-ZX/VectorNet)|Pytorch implementation of CVPR2020 paper “VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation”|66|2021-10-28|
 |115|[avantcontra/coding-druid](https://github.com/avantcontra/coding-druid)|"Coding Druid" series is my horizontal programming practice notes, each part around a topic (mathematical physics electronic graphics sound...), implemented in several programming languages.|64|2021-10-01|
@@ -125,17 +125,17 @@
 |118|[knowledgedefinednetworking/demo-routenet](https://github.com/knowledgedefinednetworking/demo-routenet)|Demo of RouteNet in ACM SIGCOMM'19|57|2021-08-25|
 |119|[Dustyposa/goSpider](https://github.com/Dustyposa/goSpider)|some small project and some articles|56|2021-12-03|
 |120|[datawhalechina/learn-python-the-smart-way](https://github.com/datawhalechina/learn-python-the-smart-way)|聪明方法学Python，简明且系统的 Python 入门教程。|55|2022-01-25|
-|121|[lingjzhu/charsiu](https://github.com/lingjzhu/charsiu)|Charsiu: A neural phonetic aligner.|53|2022-01-31|
+|121|[lingjzhu/charsiu](https://github.com/lingjzhu/charsiu)|Charsiu: A neural phonetic aligner.|54|2022-01-31|
 |122|[guyujun/pyrosetta-basic](https://github.com/guyujun/pyrosetta-basic)|-|53|2021-10-27|
 |123|[xinihe/jrxy_python_course](https://github.com/xinihe/jrxy_python_course)|Python in Finance |53|2021-12-20|
 |124|[kzbkzb/Python-AI](https://github.com/kzbkzb/Python-AI)|深度学习100例、深度学习DL、图片分类、目标识别、目标检测、自然语言处理nlp、文本分类、TensorFlow、PyTorch|52|2022-01-12|
 |125|[lvxingchang/Interesting-python](https://github.com/lvxingchang/Interesting-python)|-|50|2021-10-21|
 |126|[madhavmk/Noise2Noise-audio_denoising_without_clean_training_data](https://github.com/madhavmk/Noise2Noise-audio_denoising_without_clean_training_data)|Source code for the paper titled "Speech Denoising without Clean Training Data: a Noise2Noise Approach".  Paper accepted at the INTERSPEECH 2021 conference. This paper tackles the problem of the heavy ...|49|2021-09-04|
 |127|[zipzou/captcha-recognition](https://github.com/zipzou/captcha-recognition)|验证码OCR识别|49|2022-01-13|
-|128|[alext234/coronavirus-stats](https://github.com/alext234/coronavirus-stats)|Automatically scrape data and statistics on Coronavirus to make them easily accessible in CSV format|47|2021-12-13|
-|129|[letylin/pyprogbook](https://github.com/letylin/pyprogbook)|金融大數據首部曲 書名: Python 程式設計入門 — 金融商管實務案例 讀者可以在此下載教學資源含程式碼|47|2022-01-04|
-|130|[zhentaoshi/Econ5121A](https://github.com/zhentaoshi/Econ5121A)|Econ5121A@CUHK. This is an open-source writing project.|47|2022-01-22|
-|131|[RuifMaxx/Multidimensional-time-series-with-transformer](https://github.com/RuifMaxx/Multidimensional-time-series-with-transformer)|transformer/self-attention for Multidimensional time series forecasting 使用transformer架构实现多维时间预测|46|2021-08-10|
+|128|[RuifMaxx/Multidimensional-time-series-with-transformer](https://github.com/RuifMaxx/Multidimensional-time-series-with-transformer)|transformer/self-attention for Multidimensional time series forecasting 使用transformer架构实现多维时间预测|47|2021-08-10|
+|129|[alext234/coronavirus-stats](https://github.com/alext234/coronavirus-stats)|Automatically scrape data and statistics on Coronavirus to make them easily accessible in CSV format|47|2021-12-13|
+|130|[letylin/pyprogbook](https://github.com/letylin/pyprogbook)|金融大數據首部曲 書名: Python 程式設計入門 — 金融商管實務案例 讀者可以在此下載教學資源含程式碼|47|2022-01-04|
+|131|[zhentaoshi/Econ5121A](https://github.com/zhentaoshi/Econ5121A)|Econ5121A@CUHK. This is an open-source writing project.|47|2022-01-22|
 |132|[zengwb-lx/yolov5-deepsort-pedestrian-counting](https://github.com/zengwb-lx/yolov5-deepsort-pedestrian-counting)|yolov5 + deepsort实现了行人计数功能， 统计摄像头内出现过的总人数，以及对穿越自定义黄线行人计数效果如下|43|2021-09-04|
 |133|[BrambleXu/KGQA_SG](https://github.com/BrambleXu/KGQA_SG)|基于知识图谱的《三国演义》人物关系可视化及问答系统|43|2022-01-21|
 |134|[boyu-ai/Hands-on-RL](https://github.com/boyu-ai/Hands-on-RL)|https://hrl.boyuai.com/|41|2021-08-14|
@@ -155,9 +155,9 @@
 |148|[kevinfu1717/SuperInterstellarTerminal](https://github.com/kevinfu1717/SuperInterstellarTerminal)|【X世纪星际终端】A Wechat Social and AR Game: 基于微信聊天，结合增强现实技术AR+LBS（基于图像位置）的轻社交星际漂流瓶游戏。向外太空发送漂流信息，看看AI预测的外星人是长什么样的，寻找身边的外星人,逗逗外星生物，看看外星植物及外星建筑。Send the message to the outer space, find the aliens in the earth ...|33|2021-12-10|
 |149|[wp931120/nlpapp](https://github.com/wp931120/nlpapp)|tensorflow ,keras ,bert ,flask ,nlp, machine reading , translater，seq2seq |33|2021-08-25|
 |150|[maloyang/PLC-Python](https://github.com/maloyang/PLC-Python)|KHPy_2018-03-05_工業4.0: PLC與Python共舞|33|2021-12-09|
-|151|[hhhparty/security](https://github.com/hhhparty/security)|About cyber security, data scrapy , aisec analysis, vulnerability analysis, enterprise security, and so on.|32|2022-01-27|
-|152|[HuichuanLI/Recommand-Algorithme](https://github.com/HuichuanLI/Recommand-Algorithme)|推荐算法实战(Recommend algorithm)|32|2021-10-31|
-|153|[hansu1017/WSDM2022-Retention-Score-Prediction](https://github.com/hansu1017/WSDM2022-Retention-Score-Prediction)|WSDM2022留存预测挑战赛 第1名解决方案|31|2022-01-28|
+|151|[hansu1017/WSDM2022-Retention-Score-Prediction](https://github.com/hansu1017/WSDM2022-Retention-Score-Prediction)|WSDM2022留存预测挑战赛 第1名解决方案|32|2022-01-28|
+|152|[hhhparty/security](https://github.com/hhhparty/security)|About cyber security, data scrapy , aisec analysis, vulnerability analysis, enterprise security, and so on.|32|2022-01-27|
+|153|[HuichuanLI/Recommand-Algorithme](https://github.com/HuichuanLI/Recommand-Algorithme)|推荐算法实战(Recommend algorithm)|32|2021-10-31|
 |154|[DIUx-xView/xview3-reference](https://github.com/DIUx-xView/xview3-reference)|Reference data processing code and model for the xView3 prize challenge.|31|2021-11-29|
 |155|[Hongyu-Yue/yoloV5_modify_smalltarget](https://github.com/Hongyu-Yue/yoloV5_modify_smalltarget)|YOLOV5 小目标检测修改版|31|2021-08-21|
 |156|[uwjunqi/Pytorch-Tensor-Train-Network](https://github.com/uwjunqi/Pytorch-Tensor-Train-Network)|Jun and Huck's PyTorch-Tensor-Train Network Toolbox|31|2021-11-24|
