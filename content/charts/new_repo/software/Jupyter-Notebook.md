@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Jupyter Notebook
-<sub>数据更新: 2022-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -17,25 +17,25 @@
 |10|[ni1o1/transbigdata](https://github.com/ni1o1/transbigdata)|A Python package develop for transportation spatio-temporal big data processing, analysis and visualization.|68|2022-02-04|2021-10-21|
 |11|[dglai/maxp_baseline_model](https://github.com/dglai/maxp_baseline_model)|-|66|2021-11-05|2021-10-06|
 |12|[datawhalechina/learn-python-the-smart-way](https://github.com/datawhalechina/learn-python-the-smart-way)|聪明方法学Python，简明且系统的 Python 入门教程。|55|2022-01-25|2021-07-10|
-|13|[lingjzhu/charsiu](https://github.com/lingjzhu/charsiu)|Charsiu: A neural phonetic aligner.|54|2022-01-31|2021-08-29|
-|14|[kzbkzb/Python-AI](https://github.com/kzbkzb/Python-AI)|深度学习100例、深度学习DL、图片分类、目标识别、目标检测、自然语言处理nlp、文本分类、TensorFlow、PyTorch|52|2022-01-12|2021-10-18|
+|13|[kzbkzb/Python-AI](https://github.com/kzbkzb/Python-AI)|深度学习100例、深度学习DL、图片分类、目标识别、目标检测、自然语言处理nlp、文本分类、TensorFlow、PyTorch|54|2022-01-12|2021-10-18|
+|14|[lingjzhu/charsiu](https://github.com/lingjzhu/charsiu)|Charsiu: A neural phonetic aligner.|54|2022-01-31|2021-08-29|
 |15|[madhavmk/Noise2Noise-audio_denoising_without_clean_training_data](https://github.com/madhavmk/Noise2Noise-audio_denoising_without_clean_training_data)|Source code for the paper titled "Speech Denoising without Clean Training Data: a Noise2Noise Approach".  Paper accepted at the INTERSPEECH 2021 conference. This paper tackles the problem of the heavy ...|49|2021-09-04|2021-03-28|
 |16|[RuifMaxx/Multidimensional-time-series-with-transformer](https://github.com/RuifMaxx/Multidimensional-time-series-with-transformer)|transformer/self-attention for Multidimensional time series forecasting 使用transformer架构实现多维时间预测|47|2021-08-10|2021-07-16|
 |17|[boyu-ai/Hands-on-RL](https://github.com/boyu-ai/Hands-on-RL)|https://hrl.boyuai.com/|41|2021-08-14|2021-08-08|
-|18|[QikaiXu/Recommender-System-Pytorch](https://github.com/QikaiXu/Recommender-System-Pytorch)|基于 Pytorch 实现推荐系统相关的算法|38|2021-11-17|2021-07-10|
-|19|[datawhalechina/powerful-numpy](https://github.com/datawhalechina/powerful-numpy)|巨硬的NumPy|37|2022-01-29|2021-10-15|
+|18|[QikaiXu/Recommender-System-Pytorch](https://github.com/QikaiXu/Recommender-System-Pytorch)|基于 Pytorch 实现推荐系统相关的算法|39|2021-11-17|2021-07-10|
+|19|[datawhalechina/powerful-numpy](https://github.com/datawhalechina/powerful-numpy)|巨硬的NumPy|38|2022-01-29|2021-10-15|
 |20|[sunnyswag/StockRL](https://github.com/sunnyswag/StockRL)|在A股(股票)市场上训练强化学习交易智能体|37|2021-08-28|2021-04-18|
 |21|[kevinfu1717/SuperInterstellarTerminal](https://github.com/kevinfu1717/SuperInterstellarTerminal)|【X世纪星际终端】A Wechat Social and AR Game: 基于微信聊天，结合增强现实技术AR+LBS（基于图像位置）的轻社交星际漂流瓶游戏。向外太空发送漂流信息，看看AI预测的外星人是长什么样的，寻找身边的外星人,逗逗外星生物，看看外星植物及外星建筑。Send the message to the outer space, find the aliens in the earth ...|33|2021-12-10|2021-08-01|
 |22|[hansu1017/WSDM2022-Retention-Score-Prediction](https://github.com/hansu1017/WSDM2022-Retention-Score-Prediction)|WSDM2022留存预测挑战赛 第1名解决方案|32|2022-01-28|2022-01-28|
-|23|[DIUx-xView/xview3-reference](https://github.com/DIUx-xView/xview3-reference)|Reference data processing code and model for the xView3 prize challenge.|31|2021-11-29|2021-08-31|
-|24|[Hongyu-Yue/yoloV5_modify_smalltarget](https://github.com/Hongyu-Yue/yoloV5_modify_smalltarget)|YOLOV5 小目标检测修改版|31|2021-08-21|2021-08-21|
+|23|[Hongyu-Yue/yoloV5_modify_smalltarget](https://github.com/Hongyu-Yue/yoloV5_modify_smalltarget)|YOLOV5 小目标检测修改版|32|2021-08-21|2021-08-21|
+|24|[DIUx-xView/xview3-reference](https://github.com/DIUx-xView/xview3-reference)|Reference data processing code and model for the xView3 prize challenge.|31|2021-11-29|2021-08-31|
 |25|[Prayforhanluo/CTR_Algorithm](https://github.com/Prayforhanluo/CTR_Algorithm)|一些经典的CTR算法的复现; LR, FM, FFM, AFM, DeepFM，xDeepFM, PNN, DCN, DCNv2, DIFM, AutoInt, FiBiNet,DIN, DIEN ... （pytorch, tf2.0）|30|2022-01-19|2021-07-08|
 |26|[buzhidaoshenme/YOLOX-OBB](https://github.com/buzhidaoshenme/YOLOX-OBB)|YOLOX in DOTA with KLD loss. (Oriented Object Detection)（Rotated BBox）基于YOLOX的旋转目标检测|29|2021-11-19|2021-09-18|
 |27|[RMSnow/WWW2021](https://github.com/RMSnow/WWW2021)|This is the official repository to release the code and datasets in the paper "Mining Dual Emotion for Fake News Detection", WWW 2021.|29|2021-12-31|2021-02-08|
 |28|[PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial)|PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle. |27|2021-12-17|2021-07-12|
 |29|[lansinuote/Machine-Learning-In-Numpy](https://github.com/lansinuote/Machine-Learning-In-Numpy)|纯python实现机器学习算法,非套用sk-learn|26|2021-11-08|2021-05-08|
-|30|[EMUNES/Auto-Subtitle-File-Generation](https://github.com/EMUNES/Auto-Subtitle-File-Generation)|Generate subtitle files with timelines in an automatic way.|24|2021-11-09|2021-02-15|
-|31|[KristiyanVachev/Leaf-Question-Generation](https://github.com/KristiyanVachev/Leaf-Question-Generation)|Easy to use and understand multiple-choice question generation algorithm using T5 Transformers.|23|2022-02-02|2021-10-04|
+|30|[KristiyanVachev/Leaf-Question-Generation](https://github.com/KristiyanVachev/Leaf-Question-Generation)|Easy to use and understand multiple-choice question generation algorithm using T5 Transformers.|24|2022-02-02|2021-10-04|
+|31|[EMUNES/Auto-Subtitle-File-Generation](https://github.com/EMUNES/Auto-Subtitle-File-Generation)|Generate subtitle files with timelines in an automatic way.|24|2021-11-09|2021-02-15|
 |32|[accomdemy/accomdemy](https://github.com/accomdemy/accomdemy)|Welcome to Accomdemy! 歡迎來到伴伴學！|22|2021-12-24|2021-05-11|
 |33|[yijixiuxin/chanlun](https://github.com/yijixiuxin/chanlun)|基于缠中说禅所理解的市场行情的分析工具|19|2021-12-18|2021-12-10|
 |34|[hululuzhu/chinese-ai-writing-share](https://github.com/hululuzhu/chinese-ai-writing-share)|中文AI写作共享|18|2021-08-17|2021-06-15|

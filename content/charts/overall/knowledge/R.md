@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > R
-<sub>数据更新: 2022-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -11,7 +11,7 @@
 |4|[yufree/sciguide](https://github.com/yufree/sciguide)|现代科研指北|57|2021-12-22|
 |5|[cosname/rmarkdown-guide](https://github.com/cosname/rmarkdown-guide)|R Markdown 指南（一本八字还没一撇的中文书）|40|2021-12-08|
 |6|[yihui/MSG](https://github.com/yihui/MSG)|Modern Statistical Graphics （《现代统计图形》的附加包）|34|2021-08-15|
-|7|[wangyi-fudan/BIOL130173](https://github.com/wangyi-fudan/BIOL130173)|复旦大学生命科学学院《生命科学中的机器学习》|27|2021-10-02|
+|7|[wangyi-fudan/BIOL130173](https://github.com/wangyi-fudan/BIOL130173)|复旦大学生命科学学院《生命科学中的机器学习》|28|2021-10-02|
 |8|[lei-zhang/COSN_webinar](https://github.com/lei-zhang/COSN_webinar)|Tutorial talks at the Chinese Open Science Webinar series|22|2021-08-31|
 |9|[thomasWeise/bookbuildeR](https://github.com/thomasWeise/bookbuildeR)|An R Package for Building Books or Documents using pandoc|7|2021-08-31|
 |10|[Hayeke/RAssignment](https://github.com/Hayeke/RAssignment)|超市销售数据分析练习（R课程）|7|2021-10-10|

@@ -1,34 +1,34 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > TeX
-<sub>数据更新: 2022-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|5030|2021-12-15|
-|2|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3320|2022-01-24|
+|1|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|5034|2021-12-15|
+|2|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3321|2022-01-24|
 |3|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2540|2021-10-29|
 |4|[THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2200|2021-11-20|
 |5|[OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs)|The Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security.|1307|2022-01-26|
-|6|[ethereum/yellowpaper](https://github.com/ethereum/yellowpaper)|The "Yellow Paper": Ethereum's formal specification|1250|2022-02-03|
-|7|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|1103|2022-01-09|
+|6|[ethereum/yellowpaper](https://github.com/ethereum/yellowpaper)|The "Yellow Paper": Ethereum's formal specification|1251|2022-02-03|
+|7|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|1104|2022-01-09|
 |8|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|1066|2021-12-08|
-|9|[ustctug/ustcthesis](https://github.com/ustctug/ustcthesis)|LaTeX template for USTC thesis|923|2022-01-12|
-|10|[CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit)|Macro Packages and Scripts for Chinese TeX users|790|2022-01-26|
+|9|[ustctug/ustcthesis](https://github.com/ustctug/ustcthesis)|LaTeX template for USTC thesis|924|2022-01-12|
+|10|[CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit)|Macro Packages and Scripts for Chinese TeX users|791|2022-01-26|
 |11|[wzpan/BeamerStyleSlides](https://github.com/wzpan/BeamerStyleSlides)|🌈Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。|693|2022-01-20|
 |12|[gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en)|The English version of 14 lectures on visual SLAM.|644|2021-11-16|
 |13|[zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style)|GB/T 7714-2015 BibTeX Style|628|2022-01-13|
 |14|[ice1000/resume](https://github.com/ice1000/resume)|:space_invader: My resume / 我的简历|556|2021-12-30|
 |15|[stone-zeng/fduthesis](https://github.com/stone-zeng/fduthesis)|LaTeX thesis template for Fudan University|444|2022-01-26|
 |16|[hushidong/biblatex-gb7714-2015](https://github.com/hushidong/biblatex-gb7714-2015)|A biblatex implementation of the GB/T7714-2015 bibliography style     GB/T 7714-2015 参考文献著录和标注的biblatex样式包|427|2022-01-25|
-|17|[schoeberl/chisel-book](https://github.com/schoeberl/chisel-book)|Digital Design with Chisel|387|2022-02-02|
-|18|[beijinglug/fsfs-zh](https://github.com/beijinglug/fsfs-zh)|Chinese translation for "Free Software, Free Society"(3rd)|354|2021-12-25|
+|17|[schoeberl/chisel-book](https://github.com/schoeberl/chisel-book)|Digital Design with Chisel|388|2022-02-02|
+|18|[beijinglug/fsfs-zh](https://github.com/beijinglug/fsfs-zh)|Chinese translation for "Free Software, Free Society"(3rd)|355|2021-12-25|
 |19|[mohuangrui/ucasproposal](https://github.com/mohuangrui/ucasproposal)|LaTeX Proposal Template for the University of Chinese Academy of Sciences|344|2021-10-29|
 |20|[RichardLitt/low-resource-languages](https://github.com/RichardLitt/low-resource-languages)|Resources for conservation, development, and documentation of low resource (human) languages.|275|2022-01-11|
 |21|[BIT-thesis/LaTeX-template](https://github.com/BIT-thesis/LaTeX-template)|LaTeX template for BIT thesis|268|2021-11-01|
 |22|[rioxwang/BUPTGraduateThesis](https://github.com/rioxwang/BUPTGraduateThesis)|-|240|2022-01-25|
 |23|[huangxg/lnotes](https://github.com/huangxg/lnotes)|LaTeX Notes|213|2021-10-25|
-|24|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|203|2022-02-02|
+|24|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|204|2022-02-02|
 |25|[OsbertWang/install-latex-guide-zh-cn](https://github.com/OsbertWang/install-latex-guide-zh-cn)|一份简短的关于 LaTeX 安装的介绍|169|2021-12-08|
 |26|[TouchFishPioneer/SEU-Beamer-Slide](https://github.com/TouchFishPioneer/SEU-Beamer-Slide)|东南大学幻灯片模板（豪华版）:clipboard:|142|2021-10-15|
 |27|[PandaScience/FortySecondsCV](https://github.com/PandaScience/FortySecondsCV)|A highly customizable and improved version of Carmine Spagnuolo's Twenty Seconds Curriculum Vitae.|141|2021-12-25|
@@ -69,7 +69,7 @@
 |62|[RuixiZhang42/newxeCJK](https://github.com/RuixiZhang42/newxeCJK)|New implementation of xeCJK|14|2021-10-15|
 |63|[Miracle0565/BUCTthesis](https://github.com/Miracle0565/BUCTthesis)|📝A LaTeX writting template for BUCT thesis.|13|2021-09-10|
 |64|[Yixf-Education/course_Linux](https://github.com/Yixf-Education/course_Linux)|天津医科大学，生物医学工程与技术学院，《Linux系统概论》课程资料|13|2021-12-15|
-|65|[perrogg/Differential-Geometry-Notes](https://github.com/perrogg/Differential-Geometry-Notes)|-|12|2021-09-09|
+|65|[perrogg/Differential-Geometry-Notes](https://github.com/perrogg/Differential-Geometry-Notes)|-|12|2022-02-05|
 |66|[NelsonCheung-cn/SYSU-beamer-template](https://github.com/NelsonCheung-cn/SYSU-beamer-template)|a beamer template for sysu|11|2021-12-19|
 |67|[JmPotato/resume](https://github.com/JmPotato/resume)|📝 This is my résumé 这是我的简历|11|2022-01-26|
 |68|[Ianpundar/WHU-LaTex-Template](https://github.com/Ianpundar/WHU-LaTex-Template)|-|10|2021-12-13|

@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Swift
-<sub>数据更新: 2022-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4039|4|2021-09-14|
+|1|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4038|4|2021-09-14|
 |2|[Lakr233/myyearwithgit](https://github.com/Lakr233/myyearwithgit)|代码仓库年终总结报告。|173|3|2022-01-10|
 |3|[coyingcat/15DaysofAnimationsinSwift](https://github.com/coyingcat/15DaysofAnimationsinSwift)|Swift，学习动画，升级原版本 ， larrynatalicio/15DaysofAnimationsinSwift|9|0|2022-01-26|
 |4|[ZhongshanHuang/PoReader](https://github.com/ZhongshanHuang/PoReader)|本地小说阅读器，支持深色模式，Wifi传书，代码简洁有注释(local text reader, support dark modal, upload text by wifi)|32|0|2021-10-20|
@@ -21,13 +21,13 @@
 |14|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|367|0|2022-01-16|
 |15|[Noah37/zhuishushenqi](https://github.com/Noah37/zhuishushenqi)|追书神器Swift版客户端（非官方）。 不断更新中......|218|0|2022-01-06|
 |16|[MengLiMing/EasyKits](https://github.com/MengLiMing/EasyKits)|日常开发使用到的一些简单封装，目前包含：常用扩展，分类导航，类似简书的UIScrollView嵌套、复杂列表等|39|0|2022-01-05|
-|17|[even-cheng/ECSigner](https://github.com/even-cheng/ECSigner)|iOS签名Mac客户端，一键签名，网络地址直签，多文件同步签，自动区分企业签名和个人证书，一键Assets.car生成、解压导出和替换,自动注册设备并更新下载签名证书和签名文件进行签名，支持动态库注入。支持Swift5和iOS14，macOS10.15并向下兼容。|142|0|2022-01-21|
+|17|[even-cheng/ECSigner](https://github.com/even-cheng/ECSigner)|iOS签名Mac客户端，一键签名，网络地址直签，多文件同步签，自动区分企业签名和个人证书，一键Assets.car生成、解压导出和替换,自动注册设备并更新下载签名证书和签名文件进行签名，支持动态库注入。支持Swift5和iOS14，macOS10.15并向下兼容。|143|0|2022-01-21|
 |18|[SurveyCake/webhook](https://github.com/SurveyCake/webhook)|How to use SurveyCake webhook|12|0|2021-09-06|
 |19|[LINGLemon/LXFSwiftApp](https://github.com/LINGLemon/LXFSwiftApp)|学习swift记录使用|8|0|2021-09-29|
 |20|[DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift)|This demo teaches you how to import and activate DJI SDK in your Xcode project using Swift.|6|0|2021-10-11|
 |21|[ZXKitCode/ZXKitLogger](https://github.com/ZXKitCode/ZXKitLogger)|The iOS side displays the output log log on the screen, and can generate log file sharing, which is convenient for debugging information when the real machine is not connected to xcode. iOS端将输出日志log悬浮 ...|20|0|2021-12-26|
 |22|[easyui/algorithm-pattern-swift](https://github.com/easyui/algorithm-pattern-swift)|算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~|27|0|2021-11-07|
-|23|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|776|0|2022-02-04|
+|23|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|776|0|2022-02-05|
 |24|[KyleBing/WubiBuddy](https://github.com/KyleBing/WubiBuddy)|《码表助手》鼠须管五笔用户词添加工具 (macOS) |15|0|2021-08-11|
 |25|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo-Swift](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo-Swift)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|16|0|2021-10-11|
 |26|[tianguanghui/PushWithP8](https://github.com/tianguanghui/PushWithP8)|用P8证书发送Push|3|0|2021-08-30|

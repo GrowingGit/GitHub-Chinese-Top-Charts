@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Dart
-<sub>数据更新: 2022-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -11,7 +11,7 @@
 |4|[RxReader/wechat_kit](https://github.com/RxReader/wechat_kit)|Flutter 版微信登录/分享/支付 SDK|485|2022-01-28|
 |5|[lizhuoyuan/flutter_study](https://github.com/lizhuoyuan/flutter_study)|flutter 学习记录|250|2021-08-12|
 |6|[jiang111/flutter_code](https://github.com/jiang111/flutter_code)|b站视频教程： https://space.bilibili.com/480410119/ |249|2021-10-25|
-|7|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|238|2022-01-31|
+|7|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A highly versatile and modular framework enabling language-agnostic immersion learning on mobile.|238|2022-02-05|
 |8|[DevYao/flutter_wechat_clone](https://github.com/DevYao/flutter_wechat_clone)|flutter 学习 demo|218|2021-09-24|
 |9|[RxReader/tencent_kit](https://github.com/RxReader/tencent_kit)|flutter版QQ登录/分享|168|2022-01-28|
 |10|[Newcore-mobile/DynamicFlutter](https://github.com/Newcore-mobile/DynamicFlutter)|Flutter动态化热更新的思考与实践|145|2021-12-22|

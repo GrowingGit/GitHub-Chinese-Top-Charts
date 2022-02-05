@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Vue
-<sub>数据更新: 2022-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|3042|4|2022-01-06|
-|2|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|82|3|2022-02-04|
-|3|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|1729|2|2022-01-28|
-|4|[zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook)|教你如何打造舒适、高效、时尚的前端开发环境|645|1|2021-09-29|
-|5|[llldddbbb/dbblog](https://github.com/llldddbbb/dbblog)|基于SpringBoot2.x+Vue2.x+ElementUI+Iview+Elasticsearch+RabbitMQ+Redis+Shiro的多模块前后端分离的博客项目|1099|1|2022-01-15|
-|6|[hql7/wl-micro-frontends](https://github.com/hql7/wl-micro-frontends)|Micro front end practical project tutorial. 微前端项目实战vue项目。基于vue3.0&qiankun2.0进阶版：https://github.com/wl-ui/wl-mfe|464|1|2022-01-14|
-|7|[qq449245884/vue-okr-tree](https://github.com/qq449245884/vue-okr-tree)|http://www.longstudy.club/vue-okr-tree-doc/index.html|412|1|2021-09-07|
-|8|[tnfe/shida](https://github.com/tnfe/shida)|《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。|31|1|2022-01-19|
+|1|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|3044|4|2022-01-06|
+|2|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|83|3|2022-02-05|
+|3|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|1731|2|2022-01-28|
+|4|[tnfe/shida](https://github.com/tnfe/shida)|《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。|37|2|2022-01-19|
+|5|[zhangyuang/fe-dev-playbook](https://github.com/zhangyuang/fe-dev-playbook)|教你如何打造舒适、高效、时尚的前端开发环境|645|1|2021-09-29|
+|6|[llldddbbb/dbblog](https://github.com/llldddbbb/dbblog)|基于SpringBoot2.x+Vue2.x+ElementUI+Iview+Elasticsearch+RabbitMQ+Redis+Shiro的多模块前后端分离的博客项目|1099|1|2022-01-15|
+|7|[hql7/wl-micro-frontends](https://github.com/hql7/wl-micro-frontends)|Micro front end practical project tutorial. 微前端项目实战vue项目。基于vue3.0&qiankun2.0进阶版：https://github.com/wl-ui/wl-mfe|464|1|2022-01-14|
+|8|[qq449245884/vue-okr-tree](https://github.com/qq449245884/vue-okr-tree)|http://www.longstudy.club/vue-okr-tree-doc/index.html|412|1|2021-09-07|
 |9|[inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|1661|1|2021-09-19|
 |10|[seeksdream/relation-graph](https://github.com/seeksdream/relation-graph)|Vue 关联关系图谱组件，可以展示如组织机构图谱、股权架构图谱、集团关系图谱等知识图谱，可提供多种图谱布局，包括树状布局、中心布局、力学布局自动布局等。Vue component for relationship graph , which can display knowledge graphs, such as organization graph, equity structure grap ...|520|1|2021-10-20|
 |11|[CS-Tao/whu-library-seat](https://github.com/CS-Tao/whu-library-seat)|武汉大学图书馆助手 - 桌面端|668|1|2022-01-13|
@@ -110,7 +110,7 @@
 |103|[Aimee1608/myblog2.0](https://github.com/Aimee1608/myblog2.0)|个人博客2.0|13|0|2022-01-15|
 |104|[zhenquan321/vuePress-Blog](https://github.com/zhenquan321/vuePress-Blog)|🔥大前端进阶之道：前端性能优化，前端经典面试题，node面试题，webpack性能优化|17|0|2021-09-20|
 |105|[qiaolufei/kg_editor](https://github.com/qiaolufei/kg_editor)|基于vue+g6实现的知识图谱编辑器|12|0|2021-10-29|
-|106|[zhaopuming/vue-novel](https://github.com/zhaopuming/vue-novel)|vue.js实现的小说阅读网站。主要用来学习前端开发技术。|14|0|2021-10-05|
+|106|[zhaopuming/vue-novel](https://github.com/zhaopuming/vue-novel)|vue.js实现的小说阅读网站。主要用来学习前端开发技术。|15|0|2021-10-05|
 |107|[GlennLuo1992/vue4arcgis-example](https://github.com/GlennLuo1992/vue4arcgis-example)|vue简单教程，以及整合arcgis-js-api与vue的前端项目方案|23|0|2022-01-14|
 |108|[CS-Tao/whu-library-seat-mobile](https://github.com/CS-Tao/whu-library-seat-mobile)|武汉大学图书馆助手 - 移动端|583|0|2022-01-15|
 |109|[dateolive/vue-demo](https://github.com/dateolive/vue-demo)|学习vue的项目|6|0|2022-01-14|
@@ -164,7 +164,7 @@
 |157|[ragnar-document/Web-QuickStart](https://github.com/ragnar-document/Web-QuickStart)|颠覆学习web的知识路线|14|0|2022-01-13|
 |158|[LightAPIs/free-export-bookmarks](https://github.com/LightAPIs/free-export-bookmarks)|Freely bookmark export tool. 自由地书签导出工具。|8|0|2021-11-27|
 |159|[wenshaofeng/Travel](https://github.com/wenshaofeng/Travel)|慕课网dell-lee老师的课程，之前放在码云，搬运过来GitHub|17|0|2022-01-15|
-|160|[SunQQQ/SunQBlog-UserSide](https://github.com/SunQQQ/SunQBlog-UserSide)|孙权的个人博客 用户端|11|0|2022-01-23|
+|160|[SunQQQ/SunQBlog-UserSide](https://github.com/SunQQQ/SunQBlog-UserSide)|孙权的个人博客 用户端|11|0|2022-02-05|
 |161|[cgq001/admain-nodebook](https://github.com/cgq001/admain-nodebook)|Element-UI制作的新博客后台页面|12|0|2021-10-05|
 |162|[H-JW0829/glowing-octo-lamp](https://github.com/H-JW0829/glowing-octo-lamp)|基于Vue cli3和flask搭建的个人博客项目，前后端分离，使用axios进行前后端的通信，还运用了vuex、element-ui等，主要实现了登录注册、首页博客展示、添加博客、个人博客、我的收藏、评论博客等模块，是一个小型项目|17|0|2021-10-06|
 |163|[naihe138/naice-blog](https://github.com/naihe138/naice-blog)|😺   新的博客上线啦|96|0|2021-12-01|

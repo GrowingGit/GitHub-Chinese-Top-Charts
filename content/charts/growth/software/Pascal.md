@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2022-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -27,7 +27,7 @@
 |20|[dbyoung720/PBox](https://github.com/dbyoung720/PBox)|The modular development platform based on DLL Form|35|0|2022-01-21|
 |21|[PassByYou888/zGameWare](https://github.com/PassByYou888/zGameWare)|-|19|0|2021-09-22|
 |22|[PassByYou888/zSound](https://github.com/PassByYou888/zSound)|zSound Engine for All Platform(Android,IOS,OSX,Windows),supported delphi VCL/delphi FMX/fpc|26|0|2021-09-21|
-|23|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker for Windows|31|0|2021-12-14|
+|23|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker for Windows|32|0|2021-12-14|
 |24|[digao-dalpiaz/DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|91|0|2022-01-02|
 |25|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|235|0|2022-01-30|
 |26|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|194|0|2021-12-06|

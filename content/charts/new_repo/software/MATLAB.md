@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[ToKiNoBug/3dPixelPaintingInMinecraft](https://github.com/ToKiNoBug/3dPixelPaintingInMinecraft)|在minecraft中生成3d的地图画|19|2021-09-24|2021-02-20|
-|2|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|12|2022-02-02|2021-09-21|
+|2|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|12|2022-02-05|2021-09-21|
 |3|[cggos/opt_matlab](https://github.com/cggos/opt_matlab)|最优化方法及其MATLAB实现 源代码|10|2021-10-07|2021-10-07|
 |4|[himynameisfuego/SiTraNo](https://github.com/himynameisfuego/SiTraNo)|A MATLAB app for tonal-transient-noise decomposition of audio signals.|10|2021-09-08|2021-04-16|
 |5|[fuzhiqiang1230/DLRRPD](https://github.com/fuzhiqiang1230/DLRRPD)|This repository is used for sharing the source code of Double low-rank representation with projection distance penalty for clustering|9|2022-01-26|2021-03-19|
@@ -30,11 +30,10 @@
 |23|[acsamson/ImageFusion-Algorithm](https://github.com/acsamson/ImageFusion-Algorithm)|ImageFusion algorithm, SSIM and PSNR evaluation（常见图像融合算法以及SSIM和PSNR评价|3|2021-08-30|2021-08-30|
 |24|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|3|2021-12-25|2021-08-03|
 |25|[heihei2122/mag_cuboid](https://github.com/heihei2122/mag_cuboid)|a gui or app based matlab to calculate B  force stiffness  矩形磁体的计算|3|2021-11-20|2021-07-25|
-|26|[baishanca/Communication-Matlab](https://github.com/baishanca/Communication-Matlab)|对通信原理的内容的matlab实现|3|2021-08-06|2021-07-12|
-|27|[DietCokewithSugar/undamage-blood-glucose](https://github.com/DietCokewithSugar/undamage-blood-glucose)|基于改进深度回归网络的无创血糖检测算法|2|2021-12-02|2021-12-02|
-|28|[ja754969/Ocean-Current-Observation-and-Analysis](https://github.com/ja754969/Ocean-Current-Observation-and-Analysis)|洋流觀測分析 class at NTOU. File Station link : |2|2021-08-30|2021-08-28|
-|29|[CXris/computerVision-stitching](https://github.com/CXris/computerVision-stitching)|使用Harris角点检测算法、最小二乘拟合、随机抽样一致算法(RANSAC)以及 HOG 描述符、线性融合等计算机视觉算法，使用Matlab实现将多张图像拼接成一张全景图。|2|2021-08-25|2021-08-25|
-|30|[ScottXjw/Volterra_lms](https://github.com/ScottXjw/Volterra_lms)|Volterra_lms算法|2|2021-11-03|2021-07-02|
+|26|[DietCokewithSugar/undamage-blood-glucose](https://github.com/DietCokewithSugar/undamage-blood-glucose)|基于改进深度回归网络的无创血糖检测算法|2|2021-12-02|2021-12-02|
+|27|[ja754969/Ocean-Current-Observation-and-Analysis](https://github.com/ja754969/Ocean-Current-Observation-and-Analysis)|洋流觀測分析 class at NTOU. File Station link : |2|2021-08-30|2021-08-28|
+|28|[CXris/computerVision-stitching](https://github.com/CXris/computerVision-stitching)|使用Harris角点检测算法、最小二乘拟合、随机抽样一致算法(RANSAC)以及 HOG 描述符、线性融合等计算机视觉算法，使用Matlab实现将多张图像拼接成一张全景图。|2|2021-08-25|2021-08-25|
+|29|[ScottXjw/Volterra_lms](https://github.com/ScottXjw/Volterra_lms)|Volterra_lms算法|2|2021-11-03|2021-07-02|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

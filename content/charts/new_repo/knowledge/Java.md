@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Java
-<sub>数据更新: 2022-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base)|专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！|9701|2021-11-07|2021-03-17|
+|1|[chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base)|专门为刚开始刷题的同学准备的算法基地，没有最细只有更细，立志用动画将晦涩难懂的算法说的通俗易懂！|9702|2021-11-07|2021-03-17|
 |2|[fuzhengwei/small-spring](https://github.com/fuzhengwei/small-spring)|🌱《 Spring 手撸专栏》，本专栏以 Spring 源码学习为目的，通过手写简化版 Spring 框架，了解 Spring 核心原理。在手写的过程中会简化 Spring 源码，摘取整体框架中的核心逻辑，简化代码实现过程，保留核心功能，例如：IOC、AOP、Bean生命周期、上下文、作用域、资源处理等内容实现。|2503|2021-12-15|2021-05-15|
 |3|[Skykai521/AndroidDeveloperAdvancedManual](https://github.com/Skykai521/AndroidDeveloperAdvancedManual)|Android 工程师进阶手册（8 年 Android 开发者的成长感悟）|578|2021-11-21|2021-11-04|
 |4|[fynch3r/Gadgets](https://github.com/fynch3r/Gadgets)|Java反序列化漏洞利用链补全计划，仅用于个人归纳总结。|390|2021-12-03|2021-05-11|

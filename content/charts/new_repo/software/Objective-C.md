@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2022-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|292|2022-01-13|2021-08-03|
 |2|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|109|2021-10-13|2021-02-08|
-|3|[lionvoom/WeAppTongCeng](https://github.com/lionvoom/WeAppTongCeng)|小程序同层渲染|85|2021-10-29|2021-03-16|
-|4|[HighwayLaw/HWThrottle](https://github.com/HighwayLaw/HWThrottle)|A lite Objective-C library for throttle and debounce, supporting leading and trailing. 节流/限流/防反跳/防重复点击/防重复调用|85|2021-11-18|2021-02-20|
+|3|[HighwayLaw/HWThrottle](https://github.com/HighwayLaw/HWThrottle)|A lite Objective-C library for throttle and debounce, supporting leading and trailing. 节流/限流/防反跳/防重复点击/防重复调用|86|2021-11-18|2021-02-20|
+|4|[lionvoom/WeAppTongCeng](https://github.com/lionvoom/WeAppTongCeng)|小程序同层渲染|85|2021-10-29|2021-03-16|
 |5|[OpenIMSDK/Open-IM-SDK-iOS](https://github.com/OpenIMSDK/Open-IM-SDK-iOS)|OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，iOS版本IM SDK 可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。|82|2022-01-19|2021-05-26|
 |6|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|55|2022-01-06|2021-03-08|
 |7|[FoneG/FGPopupScheduler](https://github.com/FoneG/FGPopupScheduler)| ✨ ✨ ✨ ✨ iOS弹窗调用器，控制弹窗按照指定的策略进行显示。Helps you control popups easily.  ✨ ✨ ✨ ✨|54|2021-11-08|2021-06-23|
@@ -35,7 +35,7 @@
 |28|[fluttercandies/flutter_qweather](https://github.com/fluttercandies/flutter_qweather)|和风天气  Flutter 插件|10|2021-12-11|2021-04-19|
 |29|[niyongsheng/EasyRelease](https://github.com/niyongsheng/EasyRelease)|SaaS场景下Mac上架工具📲 (easy release to app store)|10|2021-11-22|2021-02-24|
 |30|[kwai-ec/LottieExtensionDemo](https://github.com/kwai-ec/LottieExtensionDemo)|支持Native混合渲染和点击响应的DEMO工程|9|2021-12-23|2021-12-22|
-|31|[yangKJ/KJBannerViewDemo](https://github.com/yangKJ/KJBannerViewDemo)|🏂 🏂 🏂 轮播图无限自动循环滚动、缩放布局、缓存预加载读取、支持自定义继承，网络GIF和网图混合轮播，支持Storyboard和Xib中创建并配置属性，多种分页控件选择，自动清理缓存等等|9|2021-11-27|2021-11-27|
+|31|[yangKJ/KJBannerViewDemo](https://github.com/yangKJ/KJBannerViewDemo)|轮播图无限自动循环滚动、缩放布局、缓存预加载读取、支持自定义继承，网络GIF和网图混合轮播，支持Storyboard和Xib中创建并配置属性，多种分页控件选择，自动清理缓存等等|9|2021-11-27|2021-11-27|
 |32|[QDong415/QKeyboardEmotionView](https://github.com/QDong415/QKeyboardEmotionView)|仿微信聊天表情键盘，仿朋友圈底部表情键盘。仿微信表情面板，键盘与表情切换平滑 ChatEmotionKeyboard，useful in ChatViewController|9|2022-01-08|2021-08-20|
 |33|[XiFengLang/flutter_notes](https://github.com/XiFengLang/flutter_notes)|Flutter & flutter_boost开发iOS混合开发项目问题记录；iOS远程依赖Flutter Module组件代码；|9|2021-10-29|2021-07-06|
 |34|[Rycccccccc/YCCardView](https://github.com/Rycccccccc/YCCardView)|卡片左滑右滑框架|8|2021-12-01|2021-11-28|
@@ -106,7 +106,6 @@
 |99|[DengXiangHong/react-native-alipay-verify](https://github.com/DengXiangHong/react-native-alipay-verify)|支付宝实名认证（身份核实、生物识别、人脸识别）|2|2021-12-16|2021-04-20|
 |100|[yelinux/YHWaterFallLayout](https://github.com/yelinux/YHWaterFallLayout)|瀑布流简易使用|2|2021-10-29|2021-04-13|
 |101|[YJExpand/YJEmptyView](https://github.com/YJExpand/YJEmptyView)|空白页占位|2|2021-11-17|2021-02-22|
-|102|[wuyanghu/WPObserver](https://github.com/wuyanghu/WPObserver)|自定义一个通用的一对多的观察者|2|2021-11-12|2021-02-05|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
