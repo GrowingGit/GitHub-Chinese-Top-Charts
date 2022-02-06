@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > PHP
-<sub>数据更新: 2022-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[luolongfei/freenom](https://github.com/luolongfei/freenom)|Freenom 域名自动续期。Freenom domain name renews automatically.|705|2022-01-21|2021-09-10|
+|1|[luolongfei/freenom](https://github.com/luolongfei/freenom)|Freenom 域名自动续期。Freenom domain name renews automatically.|710|2022-01-21|2021-09-10|
 |2|[maccmspro/maccms10](https://github.com/maccmspro/maccms10)|苹果cms-v10,maccms-v10,麦克cms,开源cms,内容管理系统,视频分享程序,分集剧情程序,网址导航程序,文章程序,漫画程序,图片程序|601|2022-01-12|2021-06-25|
 |3|[easychen/docker2saas](https://github.com/easychen/docker2saas)|An open source tool that lets you create a SaaS website from docker images in 10 minutes.|592|2022-01-18|2021-02-13|
 |4|[kalcaddle/kodbox](https://github.com/kalcaddle/kodbox)|kodbox is a file manager for web. It is a newly designed product based on kodexplorer. It is also a web code editor, which allows you to develop websites directly within the web browser.You can run ko ...|538|2022-01-12|2021-04-07|
@@ -23,10 +23,10 @@
 |16|[lizhipay/acg-faka](https://github.com/lizhipay/acg-faka)|个人发卡源码，发卡系统，二次元发卡系统，二次元发卡源码，发卡程序，动漫发卡，PHP发卡源码，异次元发卡|94|2022-01-30|2021-11-27|
 |17|[xielei/swoole-worker](https://github.com/xielei/swoole-worker)|SwooleWorker是基于swoole开发的一款分布式长连接开发框架。常驻内存，协程，高性能高并发；分布式部署，横向扩容，使得能支持庞大的连接数；无感知安全重启，无缝升级代码；接口丰富，支持单个发送，分组发送，群发广播等接口。可广泛应用于云计算、物联网（IOT）、车联网、智能家居、网络游戏等领域。|93|2021-12-20|2021-05-10|
 |18|[exp1orer/FastAdmin_Upload](https://github.com/exp1orer/FastAdmin_Upload)|FastAdmin 前台文件上传RCE|90|2021-10-12|2021-04-02|
-|19|[WGrape/esupdater](https://github.com/WGrape/esupdater)|A high-performance lightweight framework of PHP to achieve incremental update of ES documents / 一个基于Canal实现ES文档增量更新的高性能轻量框架|85|2022-01-29|2021-12-13|
+|19|[WGrape/esupdater](https://github.com/WGrape/esupdater)|A high-performance lightweight framework of PHP to achieve incremental update of ES documents / 一个基于Canal实现ES文档增量更新的高性能轻量框架|87|2022-02-06|2021-12-13|
 |20|[guanguans/notify](https://github.com/guanguans/notify)|多平台通知 SDK(Bark、Chanify、钉钉群机器人、邮件、飞书群机器人、Gitter、Google Chat、iGot、Logger、Mattermost、Now Push、PushBack、Push、PushPlus、Rocket Chat、Server 酱、企业微信群机器人、息知、Zulip)。|81|2022-01-09|2021-05-01|
 |21|[hipig/ddcard](https://github.com/hipig/ddcard)|【嘟嘟早教卡】 后端 api 源码，由 Laravel 构建而成。|80|2021-11-23|2021-06-18|
-|22|[zhufenghua1998/bp3](https://github.com/zhufenghua1998/bp3)|bp3是一款使用php开发的百度网盘接口程序，百度网盘目录搜索引擎，文件展示搜索目录树，在线目录搜索索引，百度网盘文件下载等。|74|2022-01-16|2021-09-24|
+|22|[zhufenghua1998/bp3](https://github.com/zhufenghua1998/bp3)|bp3是一款使用php开发的百度网盘接口程序，百度网盘目录搜索引擎，文件展示搜索目录树，在线目录搜索索引，百度网盘文件下载等。|75|2022-02-06|2021-09-24|
 |23|[whitebearcode/typecho-bearsimple](https://github.com/whitebearcode/typecho-bearsimple)|一款简洁大方的Typecho主题|70|2022-01-23|2021-05-03|
 |24|[kkguan/validation](https://github.com/kkguan/validation)|高性能的验证器组件(Validation)，适用于 Hyperf 或 Laravel 框架，可获得数百倍的性能提升|68|2021-11-02|2021-09-24|
 |25|[yitd/ICP-API](https://github.com/yitd/ICP-API)|ICP备案信息查询API接口|64|2021-08-08|2021-08-06|
@@ -34,8 +34,8 @@
 |27|[zhoumengkang/deliverer](https://github.com/zhoumengkang/deliverer)|PHP 祖传代码跑路拯救者，支持 PHP5 & PHP7|55|2021-09-18|2021-06-22|
 |28|[dnomd343/echoIP](https://github.com/dnomd343/echoIP)|显示客户端IP的详细信息|50|2021-10-25|2021-03-08|
 |29|[xflash-panda/v2board](https://github.com/xflash-panda/v2board)|🚀🚀🚀  完全开源优化版本的v2board|46|2021-12-17|2021-09-18|
-|30|[MatthK/swfd](https://github.com/MatthK/swfd)|Selfoss Webfront Docker|45|2021-09-22|2021-09-20|
-|31|[litepress/LitePress](https://github.com/litepress/LitePress)|LitePress 发行版|45|2022-01-30|2021-06-23|
+|30|[litepress/LitePress](https://github.com/litepress/LitePress)|LitePress 发行版|46|2022-01-30|2021-06-23|
+|31|[MatthK/swfd](https://github.com/MatthK/swfd)|Selfoss Webfront Docker|45|2021-09-22|2021-09-20|
 |32|[Lysice/laravel-xlswriter](https://github.com/Lysice/laravel-xlswriter)|an excel export/import tool for laravel based on php-xlswriter|45|2021-10-25|2021-04-25|
 |33|[vCards-Theme/Typecho-vCards-theme](https://github.com/vCards-Theme/Typecho-vCards-theme)|一款简约的vcard主题-typecho|42|2021-08-30|2021-07-15|
 |34|[mix-php/vega](https://github.com/mix-php/vega)|💫 Vega is a CLI mode HTTP web framework written in PHP supports Swoole, WorkerMan, FPM, CLI-Server / Vega 是一个用 PHP 编写的 CLI 模式 HTTP 网络框架，支持 Swoole、WorkerMan、FPM、CLI-Server|41|2022-01-22|2021-05-27|

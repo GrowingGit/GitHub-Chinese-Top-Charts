@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Assembly
-<sub>数据更新: 2022-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -20,7 +20,8 @@
 |13|[li-jinpeng/Colorful_Block](https://github.com/li-jinpeng/Colorful_Block)|汇编大作业|2|2021-11-10|2021-10-13|
 |14|[YoooHaaa/Roster](https://github.com/YoooHaaa/Roster)|科锐三阶段项目---16位汇编通讯录|2|2021-09-22|2021-09-22|
 |15|[n13eho/CalciferCompiler](https://github.com/n13eho/CalciferCompiler)|2021年全国大学生计算机系统能力大赛—— 编译系统设计赛（华为毕昇杯）中，Calcifer队伍的作品|2|2021-11-21|2021-09-09|
-|16|[Cute-Cube/CubeOS](https://github.com/Cute-Cube/CubeOS)|Cute-Cube自己制作创新的操作系统。|2|2021-08-18|2021-07-27|
+|16|[ymm135/Irvine](https://github.com/ymm135/Irvine)|汇编语言(第七版)源码|2|2022-01-17|2021-09-06|
+|17|[Cute-Cube/CubeOS](https://github.com/Cute-Cube/CubeOS)|Cute-Cube自己制作创新的操作系统。|2|2021-08-18|2021-07-27|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -1,35 +1,35 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > C++
-<sub>数据更新: 2022-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[oceanbase/oceanbase](https://github.com/oceanbase/oceanbase)|OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.|4094|2022-01-31|2021-05-31|
-|2|[CodingGay/BlackDex](https://github.com/CodingGay/BlackDex)|BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in sever ...|3017|2022-01-09|2021-05-21|
+|2|[CodingGay/BlackDex](https://github.com/CodingGay/BlackDex)|BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in sever ...|3020|2022-01-09|2021-05-21|
 |3|[Tencent/flare](https://github.com/Tencent/flare)| Flare是广泛投产于腾讯广告后台的现代化C++开发框架，包含了基础库、RPC、各种客户端等。主要特点为易用性强、长尾延迟低。 |841|2021-12-24|2021-05-26|
-|4|[DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit)|🍅🍅A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, YOLOv5, YOLOR, NanoDet, YOLOX, SCRFD, YOLOX .  MNN, NCNN, TNN, ONNXRuntime, CPU/GPU.|804|2022-02-05|2021-03-22|
-|5|[tuplex/tuplex](https://github.com/tuplex/tuplex)|Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather  ...|747|2022-02-04|2021-06-30|
-|6|[openppl-public/ppl.nn](https://github.com/openppl-public/ppl.nn)|A primitive library for neural network|670|2022-01-31|2021-06-30|
-|7|[vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader)|下载B站视频、直播、漫画（能看=能下载）。使用 Qt C++ 开发|667|2022-01-17|2021-09-22|
-|8|[Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt)|Everything 拼音搜索、快速选择扩展|625|2022-01-31|2021-09-18|
-|9|[MistEO/MeoAssistantArknights](https://github.com/MistEO/MeoAssistantArknights)|明日方舟助手，自动刷图、智能基建换班，全日常一键长草！|624|2022-02-04|2021-07-09|
-|10|[shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro)|C++ library based on tensorrt integration|621|2022-01-29|2021-07-26|
+|4|[DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit)|🍅🍅A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, YOLOv5, YOLOR, NanoDet, YOLOX, SCRFD, YOLOX .  MNN, NCNN, TNN, ONNXRuntime, CPU/GPU.|809|2022-02-05|2021-03-22|
+|5|[vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader)|下载B站视频、直播、漫画（能看=能下载）。使用 Qt C++ 开发|790|2022-01-17|2021-09-22|
+|6|[tuplex/tuplex](https://github.com/tuplex/tuplex)|Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather  ...|747|2022-02-04|2021-06-30|
+|7|[openppl-public/ppl.nn](https://github.com/openppl-public/ppl.nn)|A primitive library for neural network|672|2022-01-31|2021-06-30|
+|8|[MistEO/MeoAssistantArknights](https://github.com/MistEO/MeoAssistantArknights)|明日方舟助手，自动刷图、智能基建换班，全日常一键长草！|636|2022-02-06|2021-07-09|
+|9|[Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt)|Everything 拼音搜索、快速选择扩展|626|2022-01-31|2021-09-18|
+|10|[shouxieai/tensorRT_Pro](https://github.com/shouxieai/tensorRT_Pro)|C++ library based on tensorrt integration|621|2022-02-06|2021-07-26|
 |11|[open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)|OpenMMLab Model Deployment Framework|568|2022-01-31|2021-12-24|
 |12|[Tencent/Forward](https://github.com/Tencent/Forward)|A library for high performance deep learning inference on NVIDIA GPUs. |491|2022-01-29|2021-03-11|
-|13|[zenustech/zeno](https://github.com/zenustech/zeno)|ZEn NOde system|392|2022-02-04|2021-03-27|
+|13|[zenustech/zeno](https://github.com/zenustech/zeno)|ZEn NOde system|391|2022-02-04|2021-03-27|
 |14|[0x727/SqlKnife_0x727](https://github.com/0x727/SqlKnife_0x727)|适合在命令行中使用的轻巧的SQL Server数据库安全检测工具|329|2021-10-23|2021-08-02|
 |15|[Soreepeong/XivAlexander](https://github.com/Soreepeong/XivAlexander)|Double weave on high latency, and mishmash of modding tools - especially for fonts and internationalization for Final Fantasy XIV.|327|2022-02-03|2021-02-08|
 |16|[ToanTech/Deng-s-foc-controller](https://github.com/ToanTech/Deng-s-foc-controller)|灯哥开源 FOC 双路迷你无刷电机驱动|325|2021-12-31|2021-02-14|
 |17|[vczh/GacUIBlog](https://github.com/vczh/GacUIBlog)|记录 GacUI 开发10年来背后的故事，以及对架构设计的考量。|323|2021-12-20|2021-05-26|
-|18|[flomesh-io/pipy](https://github.com/flomesh-io/pipy)|Pipy is a tiny, high performance, highly stable, programmable proxy.|305|2022-02-05|2021-02-11|
+|18|[flomesh-io/pipy](https://github.com/flomesh-io/pipy)|Pipy is a tiny, high performance, highly stable, programmable proxy.|306|2022-02-05|2021-02-11|
 |19|[Tencent/ScriptX](https://github.com/Tencent/ScriptX)|A versatile script engine abstraction layer.|304|2021-12-19|2021-03-19|
-|20|[wfrest/wfrest](https://github.com/wfrest/wfrest)|C++ Web Framework REST API|288|2022-01-24|2021-10-27|
-|21|[MiRoboticsLab/cyberdog_ros2](https://github.com/MiRoboticsLab/cyberdog_ros2)|ROS 2 packages for CyberDog|264|2021-12-30|2021-09-15|
+|20|[wfrest/wfrest](https://github.com/wfrest/wfrest)|C++ Web Framework REST API|289|2022-01-24|2021-10-27|
+|21|[MiRoboticsLab/cyberdog_ros2](https://github.com/MiRoboticsLab/cyberdog_ros2)|ROS 2 packages for CyberDog|265|2021-12-30|2021-09-15|
 |22|[ZhuYanzhen1/miniFOC](https://github.com/ZhuYanzhen1/miniFOC)|你还在为有刷电机的高噪声、低响应速度和低寿命而烦恼吗？这个项目是一个20块钱就能搞定的FOC无刷电机控制方案！This project is a FOC (Field Oriented Control) BLDC Motor control scheme that can be done for 3$!|243|2021-11-08|2021-08-13|
 |23|[ToKiNoBug/SlopeCraft](https://github.com/ToKiNoBug/SlopeCraft)|Get your map pixel art in minecraft|230|2022-02-01|2021-04-25|
 |24|[metartc/yangwebrtc](https://github.com/metartc/yangwebrtc)|Webrtc Libary for PC, non-google lib|219|2022-01-23|2021-08-29|
-|25|[0x727/ShuiYing_0x727](https://github.com/0x727/ShuiYing_0x727)|检测域环境内，域机器的本地管理组成员是否存在弱口令和通用口令，对域用户的权限分配以及域内委派查询|217|2021-08-10|2021-08-10|
+|25|[0x727/ShuiYing_0x727](https://github.com/0x727/ShuiYing_0x727)|检测域环境内，域机器的本地管理组成员是否存在弱口令和通用口令，对域用户的权限分配以及域内委派查询|218|2021-08-10|2021-08-10|
 |26|[wdhao/tensorrtCV](https://github.com/wdhao/tensorrtCV)|-|213|2021-08-11|2021-05-29|
 |27|[Tencent/yadcc](https://github.com/Tencent/yadcc)|Yet Another Distributed C++ Compiler. yadcc是一套腾讯广告自研的分布式编译系统，用于支撑腾讯广告的日常开发及流水线。相对于已有的同类解决方案，我们针对实际的工业生产环境做了性能、可靠性、易用性等方面优化。|213|2021-12-26|2021-05-28|
 |28|[AllentDan/LibtorchSegmentation](https://github.com/AllentDan/LibtorchSegmentation)|A c++ trainable semantic segmentation library based on libtorch (pytorch c++). Backbone: VGG, ResNet, ResNext. Architecture: FPN, U-Net, PAN, LinkNet, PSPNet, DeepLab-V3, DeepLab-V3+ by now.|208|2021-11-17|2021-02-07|
@@ -38,10 +38,10 @@
 |31|[richardchien/modern-cmake-by-example](https://github.com/richardchien/modern-cmake-by-example)|IPADS 实验室新人培训第二讲：CMake（2021.11.3）|171|2021-11-04|2021-10-15|
 |32|[zhuzhu-Top/Wx_Socket_Helper](https://github.com/zhuzhu-Top/Wx_Socket_Helper)|PC微信助手|165|2021-08-27|2021-05-22|
 |33|[wecooperate/iMonitor](https://github.com/wecooperate/iMonitor)|iMonitor（冰镜 - 终端行为分析系统）|161|2022-01-30|2021-11-24|
-|34|[taptap/perf-doctor](https://github.com/taptap/perf-doctor)|性能医生，手机应用性能测试工具|154|2022-02-03|2021-09-24|
-|35|[APRIL-ZJU/clins](https://github.com/APRIL-ZJU/clins)|CLINS: Continuous-Time Trajectory Estimation for LiDAR-Inertial System|154|2022-01-19|2021-03-08|
+|34|[APRIL-ZJU/clins](https://github.com/APRIL-ZJU/clins)|CLINS: Continuous-Time Trajectory Estimation for LiDAR-Inertial System|156|2022-01-19|2021-03-08|
+|35|[taptap/perf-doctor](https://github.com/taptap/perf-doctor)|性能医生，手机应用性能测试工具|155|2022-02-03|2021-09-24|
 |36|[EdVince/ClothingTransfer-NCNN](https://github.com/EdVince/ClothingTransfer-NCNN)|CT-Net, OpenPose, LIP_JPPNet, DensePose running with ncnn⚡服装迁移/虚拟试穿⚡ClothingTransfer/Virtual-Try-On⚡|149|2022-01-01|2021-12-15|
-|37|[kaniol-lck/modmanager](https://github.com/kaniol-lck/modmanager)|A Qt-based mod manager for minecraft.|148|2022-02-04|2021-08-12|
+|37|[kaniol-lck/modmanager](https://github.com/kaniol-lck/modmanager)|A Qt-based mod manager for minecraft.|149|2022-02-06|2021-08-12|
 |38|[yongplus/tinypng](https://github.com/yongplus/tinypng)|基于TinyPNG图片压缩软件，操作简单高效，支持MacOS和Windows系统，无需其它依赖运行。|135|2022-01-08|2021-07-01|
 |39|[EdVince/QRCode-NCNN](https://github.com/EdVince/QRCode-NCNN)|QRCode(from WeChat) implement in ncnn⚡二维码检测&解码⚡ncnn⚡|134|2022-01-13|2022-01-12|
 |40|[0x727/CloneX_0x727](https://github.com/0x727/CloneX_0x727)|进行克隆用户、添加用户等账户防护安全检测的轻巧工具|131|2021-09-03|2021-08-16|
@@ -49,21 +49,21 @@
 |42|[soarqin/D2RMH](https://github.com/soarqin/D2RMH)|Diablo II Resurrected map revealing tool.|125|2022-01-19|2021-10-21|
 |43|[hova88/PointPillars_MultiHead_40FPS](https://github.com/hova88/PointPillars_MultiHead_40FPS)|A REAL-TIME 3D detection network [Pointpillars] compiled by CUDA/TensorRT/C++. |125|2021-12-13|2021-04-29|
 |44|[caochao39/tare_planner](https://github.com/caochao39/tare_planner)|TARE Exploration Planner for Ground Vehicles|124|2021-09-25|2021-05-08|
-|45|[guojianyang/cv-detect-robot](https://github.com/guojianyang/cv-detect-robot)|🔥🔥🔥🔥🔥🔥yolov5+YOLOX+yolo+tensorRT+ros+deepstream+jetson+nano+TX2+NX for High-performance deployment(高性能部署)|122|2022-01-09|2021-07-25|
-|46|[ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph)|一个简单的跨平台的基于流图的并行计算框架，支持注册依赖、循环执行、条件判断、面向切面、函数式编程、守护任务、自动优化、自定义分区等功能。欢迎star & fork，更多信息请参考：http://www.chunel.cn|122|2022-02-05|2021-04-26|
-|47|[dengqizhou30/AIAssistC](https://github.com/dengqizhou30/AIAssistC)|AIAssistC是一个AI游戏助手，使用OpenCv、DNN、Tensorflow、ssd_mobilenet/efficientdet、hidriver、MFC等技术，截取游戏屏幕进行对象识别，使用虚拟鼠标键盘驱动实现自动瞄准/自动开枪等功能，提升玩家的游戏体验。|121|2022-01-29|2021-10-27|
+|45|[ChunelFeng/CGraph](https://github.com/ChunelFeng/CGraph)|#A simple C++ DAG framework# 一个简单的跨平台的基于流图的并行计算框架，支持注册依赖、循环执行、条件判断、面向切面、函数式编程、守护任务、自动优化、自定义分区等功能。欢迎star & fork，更多信息请参考：http://www.chunel.cn|124|2022-02-06|2021-04-26|
+|46|[dengqizhou30/AIAssistC](https://github.com/dengqizhou30/AIAssistC)|AIAssistC是一个AI游戏助手，使用OpenCv、DNN、Tensorflow、ssd_mobilenet/efficientdet、hidriver、MFC等技术，截取游戏屏幕进行对象识别，使用虚拟鼠标键盘驱动实现自动瞄准/自动开枪等功能，提升玩家的游戏体验。|122|2022-01-29|2021-10-27|
+|47|[guojianyang/cv-detect-robot](https://github.com/guojianyang/cv-detect-robot)|🔥🔥🔥🔥🔥🔥yolov5+YOLOX+yolo+tensorRT+ros+deepstream+jetson+nano+TX2+NX for High-performance deployment(高性能部署)|122|2022-01-09|2021-07-25|
 |48|[Chuyu-Team/VC-LTL5](https://github.com/Chuyu-Team/VC-LTL5)|Shared to msvcrt.dll or ucrtbase.dll and optimize the C/C++ application file size.|118|2022-01-17|2021-08-08|
 |49|[crisprss/BypassUserAdd](https://github.com/crisprss/BypassUserAdd)|通过反射DLL注入、Win API、C#、以及底层实现NetUserAdd方式实现BypassAV进行增加用户的功能,实现Cobalt Strike插件化|115|2022-01-13|2022-01-04|
 |50|[EdVince/PSGAN-NCNN](https://github.com/EdVince/PSGAN-NCNN)|PSGAN running with ncnn⚡妆容迁移/仿妆⚡Imitation Makeup/Makeup Transfer⚡|114|2021-10-30|2021-10-23|
-|51|[wecooperate/iMonitorSDK](https://github.com/wecooperate/iMonitorSDK)|系统监控开发套件（sysmon、promon、edr、终端安全、主机安全、零信任、上网行为管理）|108|2022-01-30|2021-09-25|
+|51|[wecooperate/iMonitorSDK](https://github.com/wecooperate/iMonitorSDK)|系统监控开发套件（sysmon、promon、edr、终端安全、主机安全、零信任、上网行为管理）|109|2022-01-30|2021-09-25|
 |52|[vxfury/tabulate](https://github.com/vxfury/tabulate)|Table maker, true color, nested table, unicode, xterm & markdown syntax, ...|102|2021-12-26|2021-10-15|
-|53|[saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend)|A Powerful, Easy-to-Use, Compact, Cross-Platform and Installation-Free OpenPGP(pgp) Crypto Tool.  Also, it's one of the excellent GUI Frontends for Modern GnuPG(gpg).|98|2022-01-16|2021-06-19|
+|53|[saturneric/GpgFrontend](https://github.com/saturneric/GpgFrontend)|A Powerful, Easy-to-Use, Compact, Cross-Platform and Installation-Free OpenPGP(pgp) Crypto Tool.  Also, it's one of the excellent GUI Frontends for Modern GnuPG(gpg).|100|2022-01-16|2021-06-19|
 |54|[rvbust/Vis](https://github.com/rvbust/Vis)|Interactive & Asynchronous 3D Visualization Tool|97|2021-08-18|2021-07-23|
 |55|[GengGode/GenshinImpact_AutoTrack_DLL](https://github.com/GengGode/GenshinImpact_AutoTrack_DLL)|能够从原神中获取角色的位置、朝向以及视角的实时数据，通过图像算法获取，并非读内存。The real-time data of the position, orientation and angle of view of the character can be obtained from the Genshin Impact, which can be obtained through the i ...|97|2022-01-27|2021-06-17|
-|56|[LiteLDev/LiteXLoader](https://github.com/LiteLDev/LiteXLoader)|A cross-language script plugin loader for Bedrock Dedicated Server (BDS) , based on LiteLoaderBDS & ScriptX|89|2022-01-28|2021-04-17|
-|57|[netcan/config-loader](https://github.com/netcan/config-loader)|Simple C++ Config Loader Framework(Serialization & Reflection)|84|2022-01-05|2021-06-21|
-|58|[scarsty/nn-editor](https://github.com/scarsty/nn-editor)|Neural Net Editor 神经网络编辑器|83|2022-01-28|2022-01-05|
-|59|[Guyutongxue/VSCodeConfigHelper3](https://github.com/Guyutongxue/VSCodeConfigHelper3)|VS Code C++ 配置器|83|2022-01-25|2021-07-13|
+|56|[LiteLDev/LiteXLoader](https://github.com/LiteLDev/LiteXLoader)|A cross-language script plugin loader for Bedrock Dedicated Server (BDS) , based on LiteLoaderBDS & ScriptX|89|2022-02-06|2021-04-17|
+|57|[Guyutongxue/VSCodeConfigHelper3](https://github.com/Guyutongxue/VSCodeConfigHelper3)|VS Code C++ 配置器|84|2022-01-25|2021-07-13|
+|58|[netcan/config-loader](https://github.com/netcan/config-loader)|Simple C++ Config Loader Framework(Serialization & Reflection)|84|2022-01-05|2021-06-21|
+|59|[scarsty/nn-editor](https://github.com/scarsty/nn-editor)|Neural Net Editor 神经网络编辑器|83|2022-01-28|2022-01-05|
 |60|[luoyesiqiu/dpt-shell](https://github.com/luoyesiqiu/dpt-shell)|Android函数抽取壳实现|81|2022-01-16|2022-01-10|
 |61|[qiang/Riru-ModuleFridaGadget](https://github.com/qiang/Riru-ModuleFridaGadget)|一个magisk 的模块，简化版，依赖 riru，能够简单的hook，并且加载动态库，目前用来加载 frida 的gadget 库，从而使hook脱离命令行和server，并且能够在多进程中加载|81|2021-12-18|2021-09-01|
 |62|[ApsaraDB/PolarDB-FileSystem](https://github.com/ApsaraDB/PolarDB-FileSystem)|-|80|2021-11-10|2021-10-12|
