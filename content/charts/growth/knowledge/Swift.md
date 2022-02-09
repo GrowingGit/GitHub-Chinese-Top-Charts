@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Swift
-<sub>数据更新: 2022-02-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4040|4|2021-09-14|
+|1|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4041|4|2021-09-14|
 |2|[Lakr233/myyearwithgit](https://github.com/Lakr233/myyearwithgit)|代码仓库年终总结报告。|173|2|2022-01-10|
 |3|[coyingcat/15DaysofAnimationsinSwift](https://github.com/coyingcat/15DaysofAnimationsinSwift)|Swift，学习动画，升级原版本 ， larrynatalicio/15DaysofAnimationsinSwift|9|0|2022-01-26|
 |4|[ZhongshanHuang/PoReader](https://github.com/ZhongshanHuang/PoReader)|本地小说阅读器，支持深色模式，Wifi传书，代码简洁有注释(local text reader, support dark modal, upload text by wifi)|32|0|2021-10-20|
@@ -15,8 +15,8 @@
 |8|[Li-JianXin/Swift_Leetcode](https://github.com/Li-JianXin/Swift_Leetcode)|leetcode学习|5|0|2022-01-19|
 |9|[ZamzamInc/ZamzamKit](https://github.com/ZamzamInc/ZamzamKit)|A Swift package for rapid development using a collection of micro utility extensions for Standard Library, Foundation, and other native frameworks.|252|0|2022-01-30|
 |10|[gl-lei/algorithm](https://github.com/gl-lei/algorithm)|《数据结构与算法之美》学习笔记以及 Swift 代码实现 ，原始仓库 https://github.com/wangzheng0822/algo|117|0|2021-08-24|
-|11|[yungfan/SwiftUI-learning](https://github.com/yungfan/SwiftUI-learning)|SwiftUI教程配套代码(SwiftUI+SwiftUI 2.0+SwiftUI 3.0)|51|0|2021-12-30|
-|12|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|367|0|2022-01-16|
+|11|[yungfan/SwiftUI-learning](https://github.com/yungfan/SwiftUI-learning)|SwiftUI教程配套代码(SwiftUI+SwiftUI 2.0+SwiftUI 3.0)|52|0|2021-12-30|
+|12|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|368|0|2022-01-16|
 |13|[Noah37/zhuishushenqi](https://github.com/Noah37/zhuishushenqi)|追书神器Swift版客户端（非官方）。 不断更新中......|218|0|2022-01-06|
 |14|[MengLiMing/EasyKits](https://github.com/MengLiMing/EasyKits)|日常开发使用到的一些简单封装，目前包含：常用扩展，分类导航，类似简书的UIScrollView嵌套、复杂列表等|39|0|2022-01-05|
 |15|[even-cheng/ECSigner](https://github.com/even-cheng/ECSigner)|iOS签名Mac客户端，一键签名，网络地址直签，多文件同步签，自动区分企业签名和个人证书，一键Assets.car生成、解压导出和替换,自动注册设备并更新下载签名证书和签名文件进行签名，支持动态库注入。支持Swift5和iOS14，macOS10.15并向下兼容。|143|0|2022-01-21|
@@ -35,7 +35,7 @@
 |28|[Hardercoder/blog](https://github.com/Hardercoder/blog)|博客记录|5|0|2021-10-15|
 |29|[zhangzhb369/x-reader-languages](https://github.com/zhangzhb369/x-reader-languages)|Txt,Pdf,Epub,Mobi,Azw book reader for iOS/iPad/Mac OS. 苹果多平台文档阅读器.多语言翻译工程.|3|0|2021-12-04|
 |30|[simplismvip/SRBook](https://github.com/simplismvip/SRBook)|电子书阅读器，支持epub和txt格式|21|0|2022-01-05|
-|31|[fanyunfei786452470/learningSwift](https://github.com/fanyunfei786452470/learningSwift)|基于swift4.2的语言、框架、项目学习|6|0|2022-02-07|
+|31|[fanyunfei786452470/learningSwift](https://github.com/fanyunfei786452470/learningSwift)|基于swift4.2的语言、框架、项目学习|6|0|2022-02-09|
 |32|[JmoVxia/CLDemo](https://github.com/JmoVxia/CLDemo)|记录平时博客中的Demo，持续更新|366|0|2022-01-21|
 |33|[tw93/MiaoYan](https://github.com/tw93/MiaoYan)|⛷  轻灵的 Mac Markdown 笔记本伴你写出妙言|11|0|2022-02-07|
 |34|[christhoper/WorkingIssues](https://github.com/christhoper/WorkingIssues)|记录一些工作上的问题、优秀博客等|4|0|2021-11-23|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2022-02-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -13,7 +13,7 @@
 |6|[royqh1979/Dev-CPP](https://github.com/royqh1979/Dev-CPP)|A lightweighted C/C++ IDE|315|0|2021-10-03|
 |7|[digao-dalpiaz/Dam](https://github.com/digao-dalpiaz/Dam)|Delphi and Lazarus Message Dialogs with Formatted Text|74|0|2021-09-19|
 |8|[yangyxd/YxdIOCP](https://github.com/yangyxd/YxdIOCP)|Delphi Windows IOCP 通讯模型封装，基于DIOCP。YxdIocp包含有支持大并发的TCP服务组件、HTTP服务组件、UDP服务组件、WebSocket服务组件，和TCP、UDP等基础客户端组件。|77|0|2022-01-14|
-|9|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|428|0|2022-02-07|
+|9|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|429|0|2022-02-09|
 |10|[59079096/HCView-Pascal](https://github.com/59079096/HCView-Pascal)|A control similar to Word or WPS(一个类似word或wps用于文字排版相关功能的控件)|65|0|2022-02-06|
 |11|[hkoi/hkoi-solutions](https://github.com/hkoi/hkoi-solutions)|HKOI Final Event solutions|10|0|2022-02-03|
 |12|[ying32/liblcl](https://github.com/ying32/liblcl)|A common cross-platform GUI library, the core uses Lazarus LCL.|64|0|2022-01-11|
@@ -28,7 +28,7 @@
 |21|[PassByYou888/zSound](https://github.com/PassByYou888/zSound)|zSound Engine for All Platform(Android,IOS,OSX,Windows),supported delphi VCL/delphi FMX/fpc|26|0|2021-09-21|
 |22|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker for Windows|32|0|2021-12-14|
 |23|[digao-dalpiaz/DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|92|0|2022-01-02|
-|24|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|236|0|2022-01-30|
+|24|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|236|0|2022-02-09|
 |25|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|194|0|2021-12-06|
 |26|[ying32/res2go-ide-plugin](https://github.com/ying32/res2go-ide-plugin)|res2go Lazarus IDE plug-in|13|0|2021-11-13|
 |27|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|272|0|2022-01-19|

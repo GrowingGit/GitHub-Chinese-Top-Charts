@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Dart
-<sub>数据更新: 2022-02-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[huanxsd/flutter_shuqi](https://github.com/huanxsd/flutter_shuqi)|高仿书旗小说 Flutter版，支持iOS、Android|2318|2021-12-03|
+|1|[huanxsd/flutter_shuqi](https://github.com/huanxsd/flutter_shuqi)|高仿书旗小说 Flutter版，支持iOS、Android|2320|2021-12-03|
 |2|[canhuah/WanAndroid-Flutter](https://github.com/canhuah/WanAndroid-Flutter)|Flutter版本 WanAndroid客户端  适合Flutter入门学习 被张鸿洋微信公众号推荐为优质Flutter开源项目啦|610|2021-12-17|
 |3|[AgoraIO-Community/Agora-Flutter-Quickstart](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart)|Quickstart guide for the Agora Flutter SDK(Android/iOS)|488|2021-10-14|
 |4|[RxReader/wechat_kit](https://github.com/RxReader/wechat_kit)|Flutter 版微信登录/分享/支付 SDK|487|2022-01-28|
@@ -15,7 +15,7 @@
 |8|[DevYao/flutter_wechat_clone](https://github.com/DevYao/flutter_wechat_clone)|flutter 学习 demo|218|2021-09-24|
 |9|[RxReader/tencent_kit](https://github.com/RxReader/tencent_kit)|flutter版QQ登录/分享|169|2022-01-28|
 |10|[Newcore-mobile/DynamicFlutter](https://github.com/Newcore-mobile/DynamicFlutter)|Flutter动态化热更新的思考与实践|145|2021-12-22|
-|11|[longer96/flutter_pickers](https://github.com/longer96/flutter_pickers)|flutter 选择器库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、民族、学历、星座、年龄、身高、体重、温度等）、城市地址选择器（分省级、地级及县级）、多项选择器等…… 欢迎Fork & pr贡献您的代码，大家共同学习|138|2022-02-03|
+|11|[longer96/flutter_pickers](https://github.com/longer96/flutter_pickers)|flutter 选择器库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、民族、学历、星座、年龄、身高、体重、温度等）、城市地址选择器（分省级、地级及县级）、多项选择器等…… 欢迎Fork & pr贡献您的代码，大家共同学习|139|2022-02-03|
 |12|[pheromone/Flutter_learn_demo](https://github.com/pheromone/Flutter_learn_demo)|Flutter_learn_demo  Flutter学习历程|107|2022-02-08|
 |13|[RxReader/weibo_kit](https://github.com/RxReader/weibo_kit)|flutter版新浪微博登录/分享|82|2022-01-28|
 |14|[nightmare-space/speed_share](https://github.com/nightmare-space/speed_share)|Speed Share is a highly available file sharing terminal on LAN(local area network) developed by flutter framework.|76|2022-01-07|
@@ -27,11 +27,11 @@
 |20|[ifgyong/flutter-example](https://github.com/ifgyong/flutter-example)|120多种小部件的使用例子，根据 flutter-book的例子,可以直接运行的哦|32|2021-08-12|
 |21|[jiangkang/flutter-system](https://github.com/jiangkang/flutter-system)|Flutter Widgets,Components,Demos,Pages:从入门到产品级开发|23|2021-12-25|
 |22|[mikai233/fstar-client](https://github.com/mikai233/fstar-client)|繁星课程表客户端|17|2022-01-02|
-|23|[HuRuWo/HowToReserveFlutter](https://github.com/HuRuWo/HowToReserveFlutter)|HowToReserveFlutter is some  reverse flutter note 。flutter逆向笔记，如何一步一步分析 flutter apk。|13|2022-01-22|
+|23|[HuRuWo/HowToReserveFlutter](https://github.com/HuRuWo/HowToReserveFlutter)|HowToReserveFlutter is some  reverse flutter note 。flutter逆向笔记，如何一步一步分析 flutter apk。|14|2022-01-22|
 |24|[baiyuliang/Flutter-WanWan](https://github.com/baiyuliang/Flutter-WanWan)|Flutter入门项目（首页，消息，圈子，我的）|13|2021-08-17|
 |25|[cocojian/flutter100days](https://github.com/cocojian/flutter100days)|这是一个flutter教程，用100天的时间来完成挑战，每天只需要完成一课，100天之后，你将遇见更好的自己。|8|2021-11-24|
 |26|[ifredom/flutter_plugins_example](https://github.com/ifredom/flutter_plugins_example)|flutter第三方插件：地图，图表，蓝牙，等使用示例集合|7|2022-01-20|
-|27|[ITmxs/Flutter-Web-template](https://github.com/ITmxs/Flutter-Web-template)|Flutter Web - 仪表板网站模板教你如何构建响应式仪表板网站。|6|2021-10-04|
+|27|[ITmxs/Flutter-Web-template](https://github.com/ITmxs/Flutter-Web-template)|Flutter Web - 仪表板网站模板教你如何构建响应式仪表板网站。|6|2022-02-09|
 |28|[kangshaojun/study-notes](https://github.com/kangshaojun/study-notes)|Flutter React Golang WebRTC等技术学习笔记|6|2022-01-30|
 |29|[zhou-Flutter/flutter_dome](https://github.com/zhou-Flutter/flutter_dome)|实战小红书|6|2021-10-31|
 |30|[woshiluoyong/FlutterNcpApp](https://github.com/woshiluoyong/FlutterNcpApp)|本应用采用kotlin语言编写查看NCP(新型冠状肺炎)疫情数据(可做Flutter入门参考项目)|6|2021-08-16|

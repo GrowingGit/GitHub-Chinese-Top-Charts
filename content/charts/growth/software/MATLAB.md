@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-02-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -31,7 +31,7 @@
 |24|[cmtso/EKI_geophysics_2020](https://github.com/cmtso/EKI_geophysics_2020)|Example MATLAB scripts for running ensemble Kalman inversion for electrical resistivity tomography data to accompany paper.|7|0|2021-10-20|
 |25|[MrCaiDev/matlab-experiment](https://github.com/MrCaiDev/matlab-experiment)|程序基础+微积分+数值计算+最优化+随机模拟+椭球寻径。|3|0|2021-12-23|
 |26|[zxb17zxb/SLIC](https://github.com/zxb17zxb/SLIC)|一个SLIC算法用于图像分割的matlab实现|3|0|2021-12-07|
-|27|[xingchenzhang/VIFB](https://github.com/xingchenzhang/VIFB)|Visible and Infrared Image Fusion Benchmark|158|0|2021-09-27|
+|27|[xingchenzhang/VIFB](https://github.com/xingchenzhang/VIFB)|Visible and Infrared Image Fusion Benchmark|159|0|2021-09-27|
 |28|[seer-group329/PositionAndPosConnectionOfTheCar](https://github.com/seer-group329/PositionAndPosConnectionOfTheCar)|在已知无人仓储车的起始与目标位姿的条件下，得到三阶连续的曲线路径|5|0|2021-09-18|
 |29|[yeyuanxin110/CFOG](https://github.com/yeyuanxin110/CFOG)|-|11|0|2021-11-20|
 |30|[yfor1008/saliency_detection](https://github.com/yfor1008/saliency_detection)|显著性检测|5|0|2022-01-23|
@@ -49,17 +49,17 @@
 |42|[zephyrhours/Hyperspectyral-Change-Detection-TDRD](https://github.com/zephyrhours/Hyperspectyral-Change-Detection-TDRD)|Three-Order Tucker Decomposition and Reconstruction Detector for Unsupervised Hyperspectral Change Detection|7|0|2021-09-15|
 |43|[ZhangHongBo2019/Constraint_NSGA-II_Algorithms](https://github.com/ZhangHongBo2019/Constraint_NSGA-II_Algorithms)|这是一个带约束条件的非支配排序遗传算法NSGA-II，解决了一个多目标优化问题|25|0|2021-09-10|
 |44|[himynameisfuego/SiTraNo](https://github.com/himynameisfuego/SiTraNo)|A MATLAB app for tonal-transient-noise decomposition of audio signals.|10|0|2021-09-08|
-|45|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|3|0|2021-12-25|
-|46|[WoodyBuendia/HFSS-MATLAB-API](https://github.com/WoodyBuendia/HFSS-MATLAB-API)|HFSS-MATLAB-API is a library toolbox to control Ansoft HFSS from MATLAB using  the HFSS Scripting Interface. This tool provides a set of MATLAB functions to  create 3D objects in HFSS by generating th ...|44|0|2021-09-17|
+|45|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|3|0|2022-02-09|
+|46|[WoodyBuendia/HFSS-MATLAB-API](https://github.com/WoodyBuendia/HFSS-MATLAB-API)|HFSS-MATLAB-API is a library toolbox to control Ansoft HFSS from MATLAB using  the HFSS Scripting Interface. This tool provides a set of MATLAB functions to  create 3D objects in HFSS by generating th ...|45|0|2021-09-17|
 |47|[scliubit/complex-DnCNN](https://github.com/scliubit/complex-DnCNN)|-|13|0|2022-01-17|
-|48|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|381|0|2022-01-26|
+|48|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|382|0|2022-01-26|
 |49|[wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve](https://github.com/wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve)|使用贝塞尔曲线，通过合理选取控制点使轨迹在拼接点处曲率连续|6|0|2021-09-06|
 |50|[YuJie2020/MATLAB-HFSS-API](https://github.com/YuJie2020/MATLAB-HFSS-API)|HFSS-MATLAB-API 是通过 MATLAB 编写的一套可调用的 HFSS-MATLAB 应用程序编程接口，通过编写 MATLAB 代码来生成执行相关特定操作的 HFSS 程序所需的 VBS 脚本|6|0|2021-08-19|
 |51|[fuzhiqiang1230/DLRRPD](https://github.com/fuzhiqiang1230/DLRRPD)|This repository is used for sharing the source code of Double low-rank representation with projection distance penalty for clustering|9|0|2022-01-26|
 |52|[Magica-Chen/zhihu_writing](https://github.com/Magica-Chen/zhihu_writing)|Some simple codes for zhihu column writing: 高斯世界下的Machine Learning|3|0|2021-12-26|
 |53|[WeisongZhao/Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|Official MATLAB implementation of the "Sparse deconvolution" -v1.0.3|25|0|2021-12-31|
 |54|[AomanHao/Matlab-Image-Dehaze-Enhance](https://github.com/AomanHao/Matlab-Image-Dehaze-Enhance)|图像去雾、图像增强、灰度直方图均衡化等|42|0|2021-10-23|
-|55|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|4|0|2021-12-29|
+|55|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|5|0|2021-12-29|
 |56|[DietCokewithSugar/undamage-blood-glucose](https://github.com/DietCokewithSugar/undamage-blood-glucose)|基于改进深度回归网络的无创血糖检测算法|2|0|2021-12-02|
 |57|[mingsongli/acycle](https://github.com/mingsongli/acycle)|Acycle: Time-series analysis software for research and education|54|0|2021-12-12|
 |58|[heihei2122/mag_cuboid](https://github.com/heihei2122/mag_cuboid)|a gui or app based matlab to calculate B  force stiffness  矩形磁体的计算|3|0|2021-11-20|
