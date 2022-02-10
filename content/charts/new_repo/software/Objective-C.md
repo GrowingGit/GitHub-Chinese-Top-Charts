@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2022-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[HighwayLaw/HWThrottle](https://github.com/HighwayLaw/HWThrottle)|A lite Objective-C library for throttle and debounce, supporting leading and trailing. 节流/限流/防反跳/防重复点击/防重复调用|86|2021-11-18|2021-02-20|
 |3|[lionvoom/WeAppTongCeng](https://github.com/lionvoom/WeAppTongCeng)|小程序同层渲染|85|2021-10-29|2021-03-16|
 |4|[OpenIMSDK/Open-IM-SDK-iOS](https://github.com/OpenIMSDK/Open-IM-SDK-iOS)|OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，iOS版本IM SDK 可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。|82|2022-01-19|2021-05-26|
-|5|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|56|2022-01-06|2021-03-08|
+|5|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|57|2022-01-06|2021-03-08|
 |6|[FoneG/FGPopupScheduler](https://github.com/FoneG/FGPopupScheduler)| ✨ ✨ ✨ ✨ iOS弹窗调用器，控制弹窗按照指定的策略进行显示。Helps you control popups easily.  ✨ ✨ ✨ ✨|54|2021-11-08|2021-06-23|
 |7|[FoneG/FGIAPService](https://github.com/FoneG/FGIAPService)|iap内购实现解决方案|50|2021-12-07|2021-05-14|
 |8|[HansenCCC/KKQuickDraw](https://github.com/HansenCCC/KKQuickDraw)|iOS实现HTML H5秒开、拦截请求替换资源、优化HTML加载速度|47|2021-08-25|2021-05-17|
@@ -24,8 +24,8 @@
 |17|[sonsongithub/museum2tch](https://github.com/sonsongithub/museum2tch)|2tch博物館|16|2021-09-18|2021-09-17|
 |18|[yanshuimu/MangoFixUtil](https://github.com/yanshuimu/MangoFixUtil)|依赖MangoFix，封装补丁拉取、执行、设备激活、补丁激活完整流程，另外提供本地加密或未加密补丁执行、生成加密补丁等方法。|16|2022-01-22|2021-02-26|
 |19|[xrtc-cc/xrtc](https://github.com/xrtc-cc/xrtc)|WebRTC 融合音视频解决方案：封装声网Agora、华为云hrtc、腾讯云trtc及网易云信rtc，支持动态切换和定制，iOS、Android、Web极简集成WebRTC。|15|2021-11-05|2021-08-19|
-|20|[pianxian/alphaVideoPlayTool](https://github.com/pianxian/alphaVideoPlayTool)|透明视频播放工具类|14|2022-01-24|2021-03-06|
-|21|[netease-kit/NECallKit](https://github.com/netease-kit/NECallKit)|实现呼叫、接听、挂断能力，应用于语音、视频通话场景|13|2022-01-27|2021-04-27|
+|20|[netease-kit/NECallKit](https://github.com/netease-kit/NECallKit)|实现呼叫、接听、挂断能力，应用于语音、视频通话场景|14|2022-01-27|2021-04-27|
+|21|[pianxian/alphaVideoPlayTool](https://github.com/pianxian/alphaVideoPlayTool)|透明视频播放工具类|14|2022-01-24|2021-03-06|
 |22|[pilaf-king/SwiftVTHook](https://github.com/pilaf-king/SwiftVTHook)|基于Swift虚函数表的hook方案（无需dynamic，但是Swift编译优化需要修改为None）|13|2021-11-17|2021-03-03|
 |23|[DataFlux-cn/datakit-ios](https://github.com/DataFlux-cn/datakit-ios)|-|12|2022-01-28|2021-05-31|
 |24|[HMS-Core/hms-3d-modeling-demo-ios](https://github.com/HMS-Core/hms-3d-modeling-demo-ios)|-|11|2021-11-15|2021-09-27|
@@ -81,32 +81,33 @@
 |74|[HeadmasterHong/MVVM-OC-IOS-demo](https://github.com/HeadmasterHong/MVVM-OC-IOS-demo)|基于MVVM模式的iOS/OC demo|3|2021-10-25|2021-08-09|
 |75|[tencentyun/TRTCUnitySDK](https://github.com/tencentyun/TRTCUnitySDK)|腾讯云实时音视频Unity SDK|3|2022-01-21|2021-07-14|
 |76|[Rico358097990/ssl-kill-switch2-Preferences](https://github.com/Rico358097990/ssl-kill-switch2-Preferences)|ssl-kill-switch2 Preferences优化|3|2021-10-11|2021-03-12|
-|77|[mlcldh/GNUstepBase](https://github.com/mlcldh/GNUstepBase)|GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一遍。|2|2022-01-14|2022-01-08|
-|78|[nongshifu/iOS-](https://github.com/nongshifu/iOS-)|iOS模拟点击/拖动 各种游戏王座,自瞄,压枪基址,只需要简单的一行代码记录屏幕xy坐标|2|2021-11-29|2021-11-29|
-|79|[Jdb156158/JBBPuzzleView](https://github.com/Jdb156158/JBBPuzzleView)|模板拼图、宫格拼图、不规则拼图、视频图片拼图、GIF拼图|2|2021-12-03|2021-11-24|
-|80|[qingqiusuomeng/LQAlertViewKit](https://github.com/qingqiusuomeng/LQAlertViewKit)|自定义UIAlertViewController|2|2021-11-16|2021-11-10|
-|81|[oychshy/AppleRegister](https://github.com/oychshy/AppleRegister)|appleId 模点|2|2022-01-24|2021-11-03|
-|82|[chenXming/QhSaveImageToLibrary](https://github.com/chenXming/QhSaveImageToLibrary)|多线程下载、上传图片。支持下载到自定义相册，支持设置最大并发数，支持后台处理任务。没有使用任何第三方相关类库，系统原生方法实现，无依赖负担。|2|2021-12-02|2021-11-03|
-|83|[AlexanderWei/cjlm](https://github.com/AlexanderWei/cjlm)|菜鸡联盟|2|2021-10-25|2021-10-25|
-|84|[chinaxxren/VVModule](https://github.com/chinaxxren/VVModule)|VVModule是面向协议的iOS模块化框架，同时它还支持URL路由和模块间通信机制,并且覆盖启动阶段的main函数的前后|2|2021-10-28|2021-10-22|
-|85|[lishangjing-spec/lsj-PrivateProtocolAlert](https://github.com/lishangjing-spec/lsj-PrivateProtocolAlert)|隐私政策弹窗|2|2021-10-17|2021-10-15|
-|86|[pirder/PRSleepApp](https://github.com/pirder/PRSleepApp)| 2020年毕业答辩iOS项目|2|2021-10-09|2021-10-09|
-|87|[Lester2020/YZTimerDemo](https://github.com/Lester2020/YZTimerDemo)|处理解决NSTimer造成循环引用的几种实现方式|2|2021-09-30|2021-09-30|
-|88|[chiyun1/gcovFlushAdapter](https://github.com/chiyun1/gcovFlushAdapter)|解决升级Xcode13, 检测代码覆盖度时找不到__gcov_flush方法的问题|2|2021-09-27|2021-09-27|
-|89|[tqhnet/MacCatalyst_Learn](https://github.com/tqhnet/MacCatalyst_Learn)|Mac Catalyst的练习|2|2021-10-26|2021-09-13|
-|90|[shark-chen/MLLogin](https://github.com/shark-chen/MLLogin)|登陆SDK|2|2021-10-13|2021-09-08|
-|91|[MrLuanJX/Filter](https://github.com/MrLuanJX/Filter)|仿链家、美团、京东筛选|2|2021-11-18|2021-09-01|
-|92|[Lester2020/TabbarInteractionDemo](https://github.com/Lester2020/TabbarInteractionDemo)|实现UITabBarController可交互式转场动画|2|2021-08-30|2021-08-30|
-|93|[wangmingmin/WMVisualWorld](https://github.com/wangmingmin/WMVisualWorld)|音视频硬编解码、OpenGL ES、Metal、扫码人脸识别|2|2021-09-02|2021-08-25|
-|94|[frankKiwi/FNKPushandVOIP](https://github.com/frankKiwi/FNKPushandVOIP)|推送,静默推送和VOIP,CallKit|2|2021-08-20|2021-08-20|
-|95|[Jacky-LinPeng/onLineSeat-MQTT](https://github.com/Jacky-LinPeng/onLineSeat-MQTT)|环信MQTT参赛作品|2|2021-10-09|2021-08-18|
-|96|[lele8446/CJSkin](https://github.com/lele8446/CJSkin)|APP动态换肤解决方案|2|2021-09-28|2021-06-27|
-|97|[zhengmiaokai/MKAPM](https://github.com/zhengmiaokai/MKAPM)|网络监听、卡顿/闪退收集，FPS检测（简单的功能实现）|2|2021-10-18|2021-06-07|
-|98|[growingio/growingio-sdk-ios-advertising](https://github.com/growingio/growingio-sdk-ios-advertising)|GrowingIO 广告SDK，基于TrackerCore|2|2021-09-01|2021-05-25|
-|99|[yelinux/YHNavigationBar](https://github.com/yelinux/YHNavigationBar)|UINavigationController封装，支持全屏侧滑pop，导航栏显示隐藏更便捷。|2|2022-01-06|2021-04-21|
-|100|[DengXiangHong/react-native-alipay-verify](https://github.com/DengXiangHong/react-native-alipay-verify)|支付宝实名认证（身份核实、生物识别、人脸识别）|2|2021-12-16|2021-04-20|
-|101|[yelinux/YHWaterFallLayout](https://github.com/yelinux/YHWaterFallLayout)|瀑布流简易使用|2|2021-10-29|2021-04-13|
-|102|[YJExpand/YJEmptyView](https://github.com/YJExpand/YJEmptyView)|空白页占位|2|2021-11-17|2021-02-22|
+|77|[Bruce-7/BinarySymbol](https://github.com/Bruce-7/BinarySymbol)|二进制重排（Page Falut）|2|2022-02-10|2022-01-28|
+|78|[mlcldh/GNUstepBase](https://github.com/mlcldh/GNUstepBase)|GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一遍。|2|2022-01-14|2022-01-08|
+|79|[nongshifu/iOS-](https://github.com/nongshifu/iOS-)|iOS模拟点击/拖动 各种游戏王座,自瞄,压枪基址,只需要简单的一行代码记录屏幕xy坐标|2|2021-11-29|2021-11-29|
+|80|[Jdb156158/JBBPuzzleView](https://github.com/Jdb156158/JBBPuzzleView)|模板拼图、宫格拼图、不规则拼图、视频图片拼图、GIF拼图|2|2021-12-03|2021-11-24|
+|81|[qingqiusuomeng/LQAlertViewKit](https://github.com/qingqiusuomeng/LQAlertViewKit)|自定义UIAlertViewController|2|2021-11-16|2021-11-10|
+|82|[oychshy/AppleRegister](https://github.com/oychshy/AppleRegister)|appleId 模点|2|2022-01-24|2021-11-03|
+|83|[chenXming/QhSaveImageToLibrary](https://github.com/chenXming/QhSaveImageToLibrary)|多线程下载、上传图片。支持下载到自定义相册，支持设置最大并发数，支持后台处理任务。没有使用任何第三方相关类库，系统原生方法实现，无依赖负担。|2|2021-12-02|2021-11-03|
+|84|[AlexanderWei/cjlm](https://github.com/AlexanderWei/cjlm)|菜鸡联盟|2|2021-10-25|2021-10-25|
+|85|[chinaxxren/VVModule](https://github.com/chinaxxren/VVModule)|VVModule是面向协议的iOS模块化框架，同时它还支持URL路由和模块间通信机制,并且覆盖启动阶段的main函数的前后|2|2021-10-28|2021-10-22|
+|86|[lishangjing-spec/lsj-PrivateProtocolAlert](https://github.com/lishangjing-spec/lsj-PrivateProtocolAlert)|隐私政策弹窗|2|2021-10-17|2021-10-15|
+|87|[pirder/PRSleepApp](https://github.com/pirder/PRSleepApp)| 2020年毕业答辩iOS项目|2|2021-10-09|2021-10-09|
+|88|[Lester2020/YZTimerDemo](https://github.com/Lester2020/YZTimerDemo)|处理解决NSTimer造成循环引用的几种实现方式|2|2021-09-30|2021-09-30|
+|89|[chiyun1/gcovFlushAdapter](https://github.com/chiyun1/gcovFlushAdapter)|解决升级Xcode13, 检测代码覆盖度时找不到__gcov_flush方法的问题|2|2021-09-27|2021-09-27|
+|90|[tqhnet/MacCatalyst_Learn](https://github.com/tqhnet/MacCatalyst_Learn)|Mac Catalyst的练习|2|2021-10-26|2021-09-13|
+|91|[shark-chen/MLLogin](https://github.com/shark-chen/MLLogin)|登陆SDK|2|2021-10-13|2021-09-08|
+|92|[MrLuanJX/Filter](https://github.com/MrLuanJX/Filter)|仿链家、美团、京东筛选|2|2021-11-18|2021-09-01|
+|93|[Lester2020/TabbarInteractionDemo](https://github.com/Lester2020/TabbarInteractionDemo)|实现UITabBarController可交互式转场动画|2|2021-08-30|2021-08-30|
+|94|[wangmingmin/WMVisualWorld](https://github.com/wangmingmin/WMVisualWorld)|音视频硬编解码、OpenGL ES、Metal、扫码人脸识别|2|2021-09-02|2021-08-25|
+|95|[frankKiwi/FNKPushandVOIP](https://github.com/frankKiwi/FNKPushandVOIP)|推送,静默推送和VOIP,CallKit|2|2021-08-20|2021-08-20|
+|96|[Jacky-LinPeng/onLineSeat-MQTT](https://github.com/Jacky-LinPeng/onLineSeat-MQTT)|环信MQTT参赛作品|2|2021-10-09|2021-08-18|
+|97|[lele8446/CJSkin](https://github.com/lele8446/CJSkin)|APP动态换肤解决方案|2|2021-09-28|2021-06-27|
+|98|[zhengmiaokai/MKAPM](https://github.com/zhengmiaokai/MKAPM)|网络监听、卡顿/闪退收集，FPS检测（简单的功能实现）|2|2021-10-18|2021-06-07|
+|99|[growingio/growingio-sdk-ios-advertising](https://github.com/growingio/growingio-sdk-ios-advertising)|GrowingIO 广告SDK，基于TrackerCore|2|2021-09-01|2021-05-25|
+|100|[yelinux/YHNavigationBar](https://github.com/yelinux/YHNavigationBar)|UINavigationController封装，支持全屏侧滑pop，导航栏显示隐藏更便捷。|2|2022-01-06|2021-04-21|
+|101|[DengXiangHong/react-native-alipay-verify](https://github.com/DengXiangHong/react-native-alipay-verify)|支付宝实名认证（身份核实、生物识别、人脸识别）|2|2021-12-16|2021-04-20|
+|102|[yelinux/YHWaterFallLayout](https://github.com/yelinux/YHWaterFallLayout)|瀑布流简易使用|2|2021-10-29|2021-04-13|
+|103|[YJExpand/YJEmptyView](https://github.com/YJExpand/YJEmptyView)|空白页占位|2|2021-11-17|2021-02-22|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

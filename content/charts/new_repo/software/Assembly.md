@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Assembly
-<sub>数据更新: 2022-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -16,7 +16,7 @@
 |9|[fumiama/c64-snake](https://github.com/fumiama/c64-snake)|C64上的贪吃蛇|4|2021-10-18|2021-03-30|
 |10|[ZhouZhihaos/Powerint-DOS-16bits-](https://github.com/ZhouZhihaos/Powerint-DOS-16bits-)|这是一个运行在实模式的操作系统，完全由本人一人独自使用汇编语言完成（当然有人帮助）。兼容FAT16文件系统，可安装在硬盘上，实现了执行程序、执行批处理文件、文件管理、时钟日历、安装、简单调试、切换驱动器、浏览BMP图片等功能，使用与MS-DOS相似。|3|2022-01-19|2022-01-19|
 |11|[NEUzht/computer_system](https://github.com/NEUzht/computer_system)|孙仲武带带我|3|2022-01-09|2021-11-20|
-|12|[LinChenjun2008/Pencil-Kernel](https://github.com/LinChenjun2008/Pencil-Kernel)|A tiny operating system kernel, "pencil" is its name . 一个小型的操作系统内核,叫 Pencil-Kernel,有时叫PKn|2|2022-02-09|2021-12-16|
+|12|[LinChenjun2008/Pencil-Kernel](https://github.com/LinChenjun2008/Pencil-Kernel)|A tiny operating system kernel, "pencil" is its name . 一个小型的操作系统内核,叫 Pencil-Kernel,有时叫PKn|2|2022-02-10|2021-12-16|
 |13|[junchao-ustc/csapp](https://github.com/junchao-ustc/csapp)|记录csapp的实验|2|2021-10-30|2021-10-16|
 |14|[li-jinpeng/Colorful_Block](https://github.com/li-jinpeng/Colorful_Block)|汇编大作业|2|2021-11-10|2021-10-13|
 |15|[YoooHaaa/Roster](https://github.com/YoooHaaa/Roster)|科锐三阶段项目---16位汇编通讯录|2|2021-09-22|2021-09-22|

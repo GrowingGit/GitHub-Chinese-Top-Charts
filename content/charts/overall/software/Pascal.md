@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Pascal
-<sub>数据更新: 2022-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|429|2022-02-09|
+|1|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|429|2022-02-10|
 |2|[royqh1979/Dev-CPP](https://github.com/royqh1979/Dev-CPP)|A lightweighted C/C++ IDE|315|2021-10-03|
 |3|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|272|2022-01-19|
 |4|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|236|2022-02-09|
@@ -18,10 +18,10 @@
 |11|[59079096/HCView-Pascal](https://github.com/59079096/HCView-Pascal)|A control similar to Word or WPS(一个类似word或wps用于文字排版相关功能的控件)|65|2022-02-06|
 |12|[ying32/liblcl](https://github.com/ying32/liblcl)|A common cross-platform GUI library, the core uses Lazarus LCL.|64|2022-01-11|
 |13|[laciba96/WinBox-for-86Box](https://github.com/laciba96/WinBox-for-86Box)|WinBox for 86Box: The newest way to manage the oldest computers.|60|2022-01-05|
-|14|[supersoho/Delphi-DirectUI](https://github.com/supersoho/Delphi-DirectUI)|Delphi DirectUI Controls|49|2021-08-23|
+|14|[supersoho/Delphi-DirectUI](https://github.com/supersoho/Delphi-DirectUI)|Delphi DirectUI Controls|50|2021-08-23|
 |15|[PassByYou888/zExpression](https://github.com/PassByYou888/zExpression)|脚本与编译器内部的语法引擎内核，也是一种op内核，zExpression可以轻松实现自己的脚本引擎|39|2021-09-21|
 |16|[59079096/emr](https://github.com/59079096/emr)|基于HCView开发的电子病历程序|37|2021-09-12|
-|17|[dbyoung720/PBox](https://github.com/dbyoung720/PBox)|The modular development platform based on DLL Form|35|2022-01-21|
+|17|[dbyoung720/PBox](https://github.com/dbyoung720/PBox)|The modular development platform based on DLL Form|36|2022-01-21|
 |18|[PassByYou888/zChinese](https://github.com/PassByYou888/zChinese)|自然语言项目：大规模词汇数据库 分词器 词性分析 语法依存性分析 关键词分析 简繁转 简港转 拼词转换 拼字转换 姓名识别|35|2021-09-21|
 |19|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker for Windows|32|2021-12-14|
 |20|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|30|2021-12-14|
@@ -31,7 +31,7 @@
 |24|[PassByYou888/ZDB2.0](https://github.com/PassByYou888/ZDB2.0)|ZDB2.0将是未来大数据支持的内核，ZDB2.0有自己的独立支持体系，跨平台特性，不依赖操作系统|17|2021-10-21|
 |25|[ying32/DDNRuntime-examples](https://github.com/ying32/DDNRuntime-examples)|DDNRuntime(Delphi .NET Framework/.NET Core Runtime) example. DDNRuntime is a library for Delphi to call .net dll. Support the assembly written by c#, vb.net. Support importing .net dll to delphi, can  ...|14|2021-12-10|
 |26|[ying32/res2go-ide-plugin](https://github.com/ying32/res2go-ide-plugin)|res2go Lazarus IDE plug-in|13|2021-11-13|
-|27|[PassByYou888/ZNet](https://github.com/PassByYou888/ZNet)|ZServer4D 2.0的进化版本，也是未来对p2pVM，云服务器，SAAS系统支持的核心项目|12|2022-02-07|
+|27|[PassByYou888/ZNet](https://github.com/PassByYou888/ZNet)|ZServer4D 2.0的进化版本，也是未来对p2pVM，云服务器，SAAS系统支持的核心项目|12|2022-02-10|
 |28|[dbyoung720/ImageGray](https://github.com/dbyoung720/ImageGray)|MMX/SSE/SSE2/SSE4/AVX/AVX2/AVX512 optimization|12|2022-01-10|
 |29|[PassByYou888/zCloud](https://github.com/PassByYou888/zCloud)|zCloud 是去中心化的SAAS后台框架，SAAS后台就是zCloud|11|2021-11-06|
 |30|[axpokl/midiplayer3-for-BLACK-MIDI](https://github.com/axpokl/midiplayer3-for-BLACK-MIDI)|Free Pascal midiplayer3 for Black MIDI by ax_pokl|10|2022-02-07|
