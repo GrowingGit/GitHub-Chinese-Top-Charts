@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2022-02-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -24,7 +24,7 @@
 |17|[Hong-Kong-Districts-Info/hkdatasets](https://github.com/Hong-Kong-Districts-Info/hkdatasets)|Datasets relating to Hong Kong|12|0|2021-09-04|
 |18|[fragla/eq5d](https://github.com/fragla/eq5d)|-|13|0|2021-12-25|
 |19|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|112|0|2022-02-09|
-|20|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|365|0|2022-02-11|
+|20|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|364|0|2022-02-12|
 |21|[hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|56|0|2021-12-21|
 |22|[uribo/zipangu](https://github.com/uribo/zipangu)|Japanese utility functions and data|42|0|2021-12-11|
 |23|[ahb108/rcarbon](https://github.com/ahb108/rcarbon)|Methods for calibrating and analysing radiocarbon dates|31|0|2022-02-09|
@@ -43,7 +43,7 @@
 |36|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|11|0|2022-01-26|
 |37|[chainsawriot/sweater](https://github.com/chainsawriot/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|7|0|2022-02-09|
 |38|[mlampros/textTinyR](https://github.com/mlampros/textTinyR)|Text Processing for Small or Big Data Files in R|29|0|2021-11-30|
-|39|[koheiw/newsmap](https://github.com/koheiw/newsmap)|Newsmap: geographical news classifier|46|0|2022-02-10|
+|39|[koheiw/newsmap](https://github.com/koheiw/newsmap)|Newsmap: geographical news classifier|46|0|2022-02-11|
 |40|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |30|0|2022-02-06|
 |41|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|162|0|2021-12-19|
 |42|[koheiw/seededlda](https://github.com/koheiw/seededlda)|Semisupervided LDA for theory-driven text analysis|29|0|2022-01-07|
@@ -62,7 +62,7 @@
 |55|[yukiyanai/quant-methods-R](https://github.com/yukiyanai/quant-methods-R)|Repository for "Quantitative Methods in Political Science Using R" by Masahiko Asano and Yuki Yanai|16|0|2021-11-17|
 |56|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|19|0|2022-01-25|
 |57|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit (kw: field observation, air polltion, time series summary, time series resampling, average variation, ozone formation potential (OFP), MIR, tuv). |25|0|2022-02-01|
-|58|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|0|2022-02-11|
+|58|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|0|2022-02-12|
 |59|[pzhaonet/beginr](https://github.com/pzhaonet/beginr)|an R package for beginners|15|0|2021-12-03|
 |60|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|13|0|2021-11-26|
 |61|[kevinwang09/learningtower](https://github.com/kevinwang09/learningtower)|Easily accessible PISA data|18|0|2021-09-07|
@@ -74,7 +74,7 @@
 |67|[pzhaonet/mindr](https://github.com/pzhaonet/mindr)|an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms)|541|0|2021-11-22|
 |68|[hrbrmstr/docxtractr](https://github.com/hrbrmstr/docxtractr)|:scissors: Extract Tables from Microsoft Word Documents with R|149|0|2021-10-02|
 |69|[lexcomber/SpatInt](https://github.com/lexcomber/SpatInt)|Examples of different Spatial Interpolation approaches in R |7|0|2022-01-20|
-|70|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|🛠 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|79|0|2022-01-26|
+|70|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|🛠 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|79|0|2022-02-12|
 |71|[cjgeyer/foo](https://github.com/cjgeyer/foo)|A demo for a class|32|0|2022-01-04|
 |72|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|94|0|2022-01-28|
 |73|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|11|0|2021-11-23|

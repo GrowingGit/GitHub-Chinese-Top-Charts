@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2022-02-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -35,30 +35,30 @@
 |28|[fluttercandies/flutter_qweather](https://github.com/fluttercandies/flutter_qweather)|和风天气  Flutter 插件|10|2021-12-11|2021-04-19|
 |29|[niyongsheng/EasyRelease](https://github.com/niyongsheng/EasyRelease)|SaaS场景下Mac上架工具📲 (easy release to app store)|10|2021-11-22|2021-02-24|
 |30|[kwai-ec/LottieExtensionDemo](https://github.com/kwai-ec/LottieExtensionDemo)|支持Native混合渲染和点击响应的DEMO工程|9|2021-12-23|2021-12-22|
-|31|[yangKJ/KJBannerView](https://github.com/yangKJ/KJBannerView)|轮播图无限自动循环滚动、缩放布局、缓存预加载读取、支持自定义继承，网络GIF和网图混合轮播，支持Storyboard和Xib中创建并配置属性，多种分页控件选择，自动清理缓存等等|9|2021-11-27|2021-11-27|
-|32|[QDong415/QKeyboardEmotionView](https://github.com/QDong415/QKeyboardEmotionView)|仿微信聊天表情键盘，仿朋友圈底部表情键盘。仿微信表情面板，键盘与表情切换平滑 ChatEmotionKeyboard，useful in ChatViewController|9|2022-01-08|2021-08-20|
-|33|[XiFengLang/flutter_notes](https://github.com/XiFengLang/flutter_notes)|Flutter & flutter_boost开发iOS混合开发项目问题记录；iOS远程依赖Flutter Module组件代码；|9|2021-10-29|2021-07-06|
-|34|[Rycccccccc/YCCardView](https://github.com/Rycccccccc/YCCardView)|卡片左滑右滑框架|8|2021-12-01|2021-11-28|
-|35|[syanbo/react-native-ly-refresh-control](https://github.com/syanbo/react-native-ly-refresh-control)|React Native 实现无侵入自定义下拉刷新组件|8|2021-09-11|2021-09-11|
-|36|[mokong/DetectFakeLocation](https://github.com/mokong/DetectFakeLocation)|iOS检测虚拟位置，比如使用Xcode模拟位置、使用爱思助手模拟位置等|8|2021-09-06|2021-08-06|
+|31|[QDong415/QKeyboardEmotionView](https://github.com/QDong415/QKeyboardEmotionView)|仿微信聊天表情键盘，仿朋友圈底部表情键盘。仿微信表情面板，键盘与表情切换平滑 ChatEmotionKeyboard，useful in ChatViewController|9|2022-01-08|2021-08-20|
+|32|[XiFengLang/flutter_notes](https://github.com/XiFengLang/flutter_notes)|Flutter & flutter_boost开发iOS混合开发项目问题记录；iOS远程依赖Flutter Module组件代码；|9|2021-10-29|2021-07-06|
+|33|[Rycccccccc/YCCardView](https://github.com/Rycccccccc/YCCardView)|卡片左滑右滑框架|8|2021-12-01|2021-11-28|
+|34|[syanbo/react-native-ly-refresh-control](https://github.com/syanbo/react-native-ly-refresh-control)|React Native 实现无侵入自定义下拉刷新组件|8|2021-09-11|2021-09-11|
+|35|[mokong/DetectFakeLocation](https://github.com/mokong/DetectFakeLocation)|iOS检测虚拟位置，比如使用Xcode模拟位置、使用爱思助手模拟位置等|8|2021-09-06|2021-08-06|
+|36|[yangKJ/KJBannerView](https://github.com/yangKJ/KJBannerView)|轮播图无限自动循环滚动、缩放布局、缓存预加载读取、支持自定义继承，网络GIF和网图混合轮播，支持Storyboard和Xib中创建并配置属性，多种分页控件选择，自动清理缓存等等|7|2021-11-27|2021-11-27|
 |37|[leon2017/cmbpb-flutter](https://github.com/leon2017/cmbpb-flutter)|Flutter 招商银行一网通支付|7|2021-10-15|2021-08-31|
 |38|[zxinsunshine/NinePatchKit](https://github.com/zxinsunshine/NinePatchKit)|A ninepatch image render framework for iOS and MacOS|7|2021-12-27|2021-08-26|
 |39|[ebamboo/BBPictureBrowser](https://github.com/ebamboo/BBPictureBrowser)|一个轻量级的图片浏览器，支持本地图片和网络图片的展示，适用于 Objective-C 和 Swift。|7|2022-01-07|2021-07-01|
-|40|[yangKJ/KJEmitterView](https://github.com/yangKJ/KJEmitterView)|开发加速库 🚗|6|2022-02-07|2021-11-29|
-|41|[LianjiaTech/BKFlutterWebNativeBridge](https://github.com/LianjiaTech/BKFlutterWebNativeBridge)|Flutter Web和Flutter Mobile桥接。|6|2022-02-08|2021-11-22|
-|42|[rueen/react-native-ottpay](https://github.com/rueen/react-native-ottpay)|react-native ottpay跨境支付|6|2021-11-25|2021-10-26|
-|43|[ebamboo/BBPlayerView](https://github.com/ebamboo/BBPlayerView)|一个高度封装的视频播放器视图，基于 AVPlayer、AVPlayerLayer、AVPlayerItem。 继承自 UIView，可以当做一般视图使用，适用于 Swift 和 Objective-C。|6|2021-12-23|2021-07-03|
-|44|[DNSPod/httpdns-sdk-ios](https://github.com/DNSPod/httpdns-sdk-ios)|iOS 平台 httpdns sdk 源码|6|2022-02-08|2021-04-09|
-|45|[snice/uniapp-flutter](https://github.com/snice/uniapp-flutter)|uniapp 与 Flutter 混合案例|6|2021-09-26|2021-03-14|
-|46|[QiShare/QiDownloadAndUploadPic](https://github.com/QiShare/QiDownloadAndUploadPic)|iOS原生框架下异步多图片上传、下载工具。支持下载图片到自定义相册,支持后台操作，支持设置最大并发数，无第三方依赖。|5|2021-11-26|2021-11-24|
-|47|[QuintGao/GKPlaceholder](https://github.com/QuintGao/GKPlaceholder)|UIScrollView空数据占位图|5|2021-12-03|2021-08-30|
-|48|[zeqinjie/TWMultiUploadFileManager](https://github.com/zeqinjie/TWMultiUploadFileManager)|基于 AWS3 设计的分片上传管理封装类|5|2021-08-31|2021-08-25|
-|49|[theseustech/SotDemo](https://github.com/theseustech/SotDemo)|SOT iOS热更新方案的示例DEMO|5|2021-09-25|2021-08-07|
-|50|[SmileZXLee/iOSSignatureAnalysis](https://github.com/SmileZXLee/iOSSignatureAnalysis)|iOSApp+springboot后端sign签名+aes加密流程&逆向破解分析示例(class-dump+Logos+monkeyDev+IDA)|4|2022-02-06|2022-01-21|
-|51|[yahibo/InsertCode](https://github.com/yahibo/InsertCode)|iOS动态注入、重签名、hook代码、新增代码、查看图层|4|2022-01-17|2022-01-15|
-|52|[tencentyun/TRTCFlutterBeautyDemo](https://github.com/tencentyun/TRTCFlutterBeautyDemo)|基于腾讯云TRTC Flutter sdk，提供的美颜版源码Demo|4|2022-02-08|2022-01-13|
-|53|[yt1124297507/Kline](https://github.com/yt1124297507/Kline)|这是一个KlineDemo包含常见指标：MA EMA BOLL MACD WR RSI KDJ，如果觉得不错 顺手来个Star。K线详情可查看markdown文档、源代码|4|2021-12-09|2021-12-08|
-|54|[fatboy-hard/react-native-gcy-datakit](https://github.com/fatboy-hard/react-native-gcy-datakit)|观测云RN集成|4|2021-12-09|2021-11-29|
+|40|[LianjiaTech/BKFlutterWebNativeBridge](https://github.com/LianjiaTech/BKFlutterWebNativeBridge)|Flutter Web和Flutter Mobile桥接。|6|2022-02-08|2021-11-22|
+|41|[rueen/react-native-ottpay](https://github.com/rueen/react-native-ottpay)|react-native ottpay跨境支付|6|2021-11-25|2021-10-26|
+|42|[ebamboo/BBPlayerView](https://github.com/ebamboo/BBPlayerView)|一个高度封装的视频播放器视图，基于 AVPlayer、AVPlayerLayer、AVPlayerItem。 继承自 UIView，可以当做一般视图使用，适用于 Swift 和 Objective-C。|6|2021-12-23|2021-07-03|
+|43|[DNSPod/httpdns-sdk-ios](https://github.com/DNSPod/httpdns-sdk-ios)|iOS 平台 httpdns sdk 源码|6|2022-02-08|2021-04-09|
+|44|[snice/uniapp-flutter](https://github.com/snice/uniapp-flutter)|uniapp 与 Flutter 混合案例|6|2021-09-26|2021-03-14|
+|45|[QiShare/QiDownloadAndUploadPic](https://github.com/QiShare/QiDownloadAndUploadPic)|iOS原生框架下异步多图片上传、下载工具。支持下载图片到自定义相册,支持后台操作，支持设置最大并发数，无第三方依赖。|5|2021-11-26|2021-11-24|
+|46|[QuintGao/GKPlaceholder](https://github.com/QuintGao/GKPlaceholder)|UIScrollView空数据占位图|5|2021-12-03|2021-08-30|
+|47|[zeqinjie/TWMultiUploadFileManager](https://github.com/zeqinjie/TWMultiUploadFileManager)|基于 AWS3 设计的分片上传管理封装类|5|2021-08-31|2021-08-25|
+|48|[theseustech/SotDemo](https://github.com/theseustech/SotDemo)|SOT iOS热更新方案的示例DEMO|5|2021-09-25|2021-08-07|
+|49|[SmileZXLee/iOSSignatureAnalysis](https://github.com/SmileZXLee/iOSSignatureAnalysis)|iOSApp+springboot后端sign签名+aes加密流程&逆向破解分析示例(class-dump+Logos+monkeyDev+IDA)|4|2022-02-06|2022-01-21|
+|50|[yahibo/InsertCode](https://github.com/yahibo/InsertCode)|iOS动态注入、重签名、hook代码、新增代码、查看图层|4|2022-01-17|2022-01-15|
+|51|[tencentyun/TRTCFlutterBeautyDemo](https://github.com/tencentyun/TRTCFlutterBeautyDemo)|基于腾讯云TRTC Flutter sdk，提供的美颜版源码Demo|4|2022-02-08|2022-01-13|
+|52|[yt1124297507/Kline](https://github.com/yt1124297507/Kline)|这是一个KlineDemo包含常见指标：MA EMA BOLL MACD WR RSI KDJ，如果觉得不错 顺手来个Star。K线详情可查看markdown文档、源代码|4|2021-12-09|2021-12-08|
+|53|[fatboy-hard/react-native-gcy-datakit](https://github.com/fatboy-hard/react-native-gcy-datakit)|观测云RN集成|4|2021-12-09|2021-11-29|
+|54|[yangKJ/KJEmitterView](https://github.com/yangKJ/KJEmitterView)|开发加速库 🚗|4|2022-02-07|2021-11-29|
 |55|[crifan/iOSAutomation](https://github.com/crifan/iOSAutomation)|iOS设备自动化操作的环境搭建和代码演示|4|2021-09-03|2021-09-03|
 |56|[CoderMSY/MSYTableView](https://github.com/CoderMSY/MSYTableView)|数据驱动型UITableView库，封装delegate/dataSource,开发者只需构造数据及自定义Cell|4|2021-12-03|2021-08-20|
 |57|[ljunb/Zelda](https://github.com/ljunb/Zelda)|支持链式语法的轻量FlexBox布局库|4|2021-08-17|2021-08-14|

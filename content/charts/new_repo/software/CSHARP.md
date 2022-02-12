@@ -1,65 +1,65 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > C#
-<sub>数据更新: 2022-02-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub)|github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题|4413|2022-01-18|2021-06-11|
-|2|[jynew/jynew](https://github.com/jynew/jynew)|金庸群侠传3D重制版|4241|2022-02-11|2021-05-12|
-|3|[Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp)|适用于新系统UI的哔哩|3719|2022-02-09|2021-05-30|
-|4|[Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer)|An Android Application Installer for Windows|708|2022-02-10|2021-10-21|
-|5|[feature-flags-co/feature-flags-co](https://github.com/feature-flags-co/feature-flags-co)|Feature flags-driven product intelligence platform that makes iterating on products as fast as Commit code|686|2022-02-11|2021-07-27|
+|1|[dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub)|github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题|4415|2022-01-18|2021-06-11|
+|2|[jynew/jynew](https://github.com/jynew/jynew)|金庸群侠传3D重制版|4244|2022-02-12|2021-05-12|
+|3|[Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp)|适用于新系统UI的哔哩|3729|2022-02-09|2021-05-30|
+|4|[Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer)|An Android Application Installer for Windows|709|2022-02-12|2021-10-21|
+|5|[feature-flags-co/feature-flags-co](https://github.com/feature-flags-co/feature-flags-co)|Feature flags-driven product intelligence platform that makes iterating on products as fast as Commit code|686|2022-02-12|2021-07-27|
 |6|[XINCGer/UnityToolchainsTrick](https://github.com/XINCGer/UnityToolchainsTrick)|提供一些UnityEditor工具链开发的常用小技巧与示例(Provides some common tips and examples for developing the UnityEditor toolchain)|614|2022-01-20|2021-03-19|
-|7|[qwqdanchun/DcRat](https://github.com/qwqdanchun/DcRat)|A simple remote tool in C#.|546|2022-02-07|2021-03-12|
-|8|[HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer)|第三方网易云音乐播放器   A Netease Cloud Music Player|540|2022-02-11|2021-02-14|
-|9|[X-Lucifer/AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer)|AI无损放大工具|531|2021-10-03|2021-10-01|
-|10|[cuiliang/ClickShow](https://github.com/cuiliang/ClickShow)|鼠标点击特效|497|2021-10-09|2021-06-22|
-|11|[WPFDevelopersOrg/WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)|WPF Developers Daily Share 🎉Ongoing update.|480|2022-02-10|2021-05-25|
-|12|[mai1zhi2/SharpBeacon](https://github.com/mai1zhi2/SharpBeacon)|CobaltStrike Beacon written in .Net 4  用.net重写了stager及Beacon，其中包括正常上线、文件管理、进程管理、令牌管理、结合SysCall进行注入、原生端口转发、关ETW等一系列功能|474|2021-09-01|2021-08-29|
+|7|[qwqdanchun/DcRat](https://github.com/qwqdanchun/DcRat)|A simple remote tool in C#.|547|2022-02-07|2021-03-12|
+|8|[HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer)|第三方网易云音乐播放器   A Netease Cloud Music Player|539|2022-02-12|2021-02-14|
+|9|[X-Lucifer/AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer)|AI无损放大工具|533|2021-10-03|2021-10-01|
+|10|[cuiliang/ClickShow](https://github.com/cuiliang/ClickShow)|鼠标点击特效|498|2021-10-09|2021-06-22|
+|11|[WPFDevelopersOrg/WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)|WPF Developers Daily Share 🎉Ongoing update.|486|2022-02-10|2021-05-25|
+|12|[mai1zhi2/SharpBeacon](https://github.com/mai1zhi2/SharpBeacon)|CobaltStrike Beacon written in .Net 4  用.net重写了stager及Beacon，其中包括正常上线、文件管理、进程管理、令牌管理、结合SysCall进行注入、原生端口转发、关ETW等一系列功能|473|2021-09-01|2021-08-29|
 |13|[CopyPlusPlus/CopyPlusPlus](https://github.com/CopyPlusPlus/CopyPlusPlus)|让复制变得更加简单！|449|2022-01-21|2021-04-12|
-|14|[Scighost/KeqingNiuza](https://github.com/Scighost/KeqingNiuza)|刻记牛杂店|443|2022-01-27|2021-04-24|
-|15|[skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload)|Xbox下载助手，支持Xbox、微软商店、PSN、NS、EA Desktop & Origin、战网国际服、Epic 下载加速。|429|2022-02-01|2021-06-14|
-|16|[91270/Emby.MeiamSub](https://github.com/91270/Emby.MeiamSub)|Emby Server 端字幕插件 ，使用  迅雷影音、 射手网 接口精准匹配视频字幕|404|2021-12-23|2021-07-01|
+|14|[Scighost/KeqingNiuza](https://github.com/Scighost/KeqingNiuza)|刻记牛杂店|446|2022-01-27|2021-04-24|
+|15|[skydevil88/XboxDownload](https://github.com/skydevil88/XboxDownload)|Xbox下载助手，支持Xbox、微软商店、PSN、NS、EA Desktop & Origin、战网国际服、Epic 下载加速。|432|2022-02-01|2021-06-14|
+|16|[91270/Emby.MeiamSub](https://github.com/91270/Emby.MeiamSub)|Emby Server 端字幕插件 ，使用  迅雷影音、 射手网 接口精准匹配视频字幕|406|2021-12-23|2021-07-01|
 |17|[fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat)|可能是目前全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，支持公众平台（订阅号、服务号、小程序、小游戏、小商店）& 开放平台 & 商户平台（微信支付）& 企业微信（企业号）& 广告平台（广点通）& 对话开放平台（微信智能对话）等模块，可跨平台。持续随官方更新，欢迎 Star / Fork。QQ 交流群 875580418。|389|2022-02-07|2021-04-23|
-|18|[WindFgg/kingfeng](https://github.com/WindFgg/kingfeng)|fork多了就跑路了|297|2021-10-18|2021-09-09|
-|19|[DawnFz/GenShin-LauncherDIY](https://github.com/DawnFz/GenShin-LauncherDIY)|【原神启动器Plus】快速换号登录，支持官B国际三端快速切换，自定义任意分辨率全屏或窗口启动，快速打开照相目录，好看的界面|285|2022-01-29|2021-11-24|
+|18|[WindFgg/kingfeng](https://github.com/WindFgg/kingfeng)|fork多了就跑路了|298|2021-10-18|2021-09-09|
+|19|[DawnFz/GenShin-LauncherDIY](https://github.com/DawnFz/GenShin-LauncherDIY)|【原神启动器Plus】快速换号登录，支持官B国际三端快速切换，自定义任意分辨率全屏或窗口启动，快速打开照相目录，好看的界面|288|2022-01-29|2021-11-24|
 |20|[abigsoft/jdog202201](https://github.com/abigsoft/jdog202201)|京东2022炸年兽|255|2022-01-12|2022-01-12|
-|21|[Azure99/GenshinPlayerQuery](https://github.com/Azure99/GenshinPlayerQuery)|根据原神uid查询玩家信息(基础数据、角色&装备、深境螺旋战绩等)|251|2021-12-24|2021-02-28|
+|21|[Azure99/GenshinPlayerQuery](https://github.com/Azure99/GenshinPlayerQuery)|根据原神uid查询玩家信息(基础数据、角色&装备、深境螺旋战绩等)|252|2021-12-24|2021-02-28|
 |22|[Planshit/Tai](https://github.com/Planshit/Tai)|👻在Windows上记录软件使用时长|229|2022-01-12|2021-11-19|
 |23|[sdcb/PaddleSharp](https://github.com/sdcb/PaddleSharp)|.NET/C# binding for Baidu paddle inference library and PaddleOCR|220|2022-02-08|2021-12-16|
 |24|[CoreUnion/CoreShop](https://github.com/CoreUnion/CoreShop)|基于 Asp.Net Core 5.0、Uni-App开发，支持可视化布局的小程序商城系统，前后端分离，支持分布式部署，跨平台运行，拥有分销、代理、团购、拼团、秒杀、直播、优惠券、自定义表单等众多营销功能，拥有完整SKU、下单、售后、物流流程。支持一套代码编译发布微信小程序版、H5版、Android版、iOS版、支付宝小程序版、字节跳动小程序版、QQ小程序版等共10个平台。|215|2022-01-25|2021-06-01|
-|25|[Panuon/Panuon.UI.Silver](https://github.com/Panuon/Panuon.UI.Silver)|Professional wpf ui library.|206|2022-02-05|2021-03-12|
-|26|[AlifeLine/Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban)|Emby的豆瓣削刮器|203|2021-08-21|2021-03-29|
+|25|[Panuon/Panuon.UI.Silver](https://github.com/Panuon/Panuon.UI.Silver)|Professional wpf ui library.|207|2022-02-05|2021-03-12|
+|26|[AlifeLine/Emby.Plugins.Douban](https://github.com/AlifeLine/Emby.Plugins.Douban)|Emby的豆瓣削刮器|204|2021-08-21|2021-03-29|
 |27|[he55/DreamScene2](https://github.com/he55/DreamScene2)|一个小而快并且功能强大的 Windows 动态桌面软件|190|2022-01-28|2021-12-11|
-|28|[xjasonlyu/jellyfin-plugin-avdc](https://github.com/xjasonlyu/jellyfin-plugin-avdc)|Metadata Provider Plugin for Jellyfin/Emby.|175|2021-11-17|2021-03-18|
-|29|[0x727/SchTask_0x727](https://github.com/0x727/SchTask_0x727)|创建隐藏计划任务，权限维持，Bypass AV|168|2021-09-01|2021-08-30|
+|28|[xjasonlyu/jellyfin-plugin-avdc](https://github.com/xjasonlyu/jellyfin-plugin-avdc)|Metadata Provider Plugin for Jellyfin/Emby.|176|2021-11-17|2021-03-18|
+|29|[0x727/SchTask_0x727](https://github.com/0x727/SchTask_0x727)|创建隐藏计划任务，权限维持，Bypass AV|169|2021-09-01|2021-08-30|
 |30|[evilashz/SharpADUserIP](https://github.com/evilashz/SharpADUserIP)|提取DC日志，快速获取域用户对应IP地址|166|2021-09-28|2021-09-02|
-|31|[laomms/KmsTool](https://github.com/laomms/KmsTool)|KMS Local Activation ...|149|2022-01-11|2021-03-20|
+|31|[laomms/KmsTool](https://github.com/laomms/KmsTool)|KMS Local Activation ...|150|2022-01-11|2021-03-20|
 |32|[An0nySec/UserAdd](https://github.com/An0nySec/UserAdd)|Bypass AV 用户添加|128|2021-12-30|2021-07-02|
-|33|[wqaetly/NKGMobaBasedOnET](https://github.com/wqaetly/NKGMobaBasedOnET)|基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！The Moba game based on ET framework pays tribute to LOL, including complete client-server interaction, hot updates, skill system based on do ...|126|2021-09-04|2021-03-27|
+|33|[wqaetly/NKGMobaBasedOnET](https://github.com/wqaetly/NKGMobaBasedOnET)|基于ET框架致敬LOL的Moba游戏，包含完整的客户端与服务端交互，热更新，基于双端行为树的技能系统，更多精彩等你发现！The Moba game based on ET framework pays tribute to LOL, including complete client-server interaction, hot updates, skill system based on do ...|127|2021-09-04|2021-03-27|
 |34|[taptap/pkg-doctor](https://github.com/taptap/pkg-doctor)|包体医生，Unity 及 Unreal 游戏包体优化工具|126|2021-12-02|2021-02-20|
 |35|[dcsoft-yyf/JIEJIE.NET](https://github.com/dcsoft-yyf/JIEJIE.NET)|An open source tool to obfuscation .NET assembly file, help you protect your copyright. small,fast and powerfu.|120|2022-02-09|2021-03-20|
 |36|[zhanggaolei001/JdLoginTool](https://github.com/zhanggaolei001/JdLoginTool)|手机验证码登陆jd,获取ck,可选自动提交到服务器.|118|2022-02-08|2021-06-25|
-|37|[TastSong/CrazyCar](https://github.com/TastSong/CrazyCar)|Unity制作的联机赛车游戏，后台为Java，数据库为MySql；游戏采用QFramework框架，支持KCP和WebSocket网络(商用级) |116|2022-02-11|2021-10-13|
+|37|[TastSong/CrazyCar](https://github.com/TastSong/CrazyCar)|Unity制作的联机赛车游戏，后台为Java，数据库为MySql；游戏采用QFramework框架，支持KCP和WebSocket网络(商用级) |116|2022-02-12|2021-10-13|
 |38|[xianhc/apevolo-api](https://github.com/xianhc/apevolo-api)|.Net 6.0 、SqlSugar、Vue、RBAC、前后端分离的开箱即用的企业级中后台权限管理系统|115|2022-01-13|2021-11-17|
 |39|[zzjfengqing/ET-EUI](https://github.com/zzjfengqing/ET-EUI)|基于ET框架的UI模块|115|2022-02-07|2021-10-27|
 |40|[7hr0wer/V4mp1r3](https://github.com/7hr0wer/V4mp1r3)|C#编写的远程控制软件。A remote tool(RAT) written in C#.|109|2021-12-20|2021-11-13|
 |41|[xpnas/inotify](https://github.com/xpnas/inotify)|一个简易消息通知系统，支持企业微信、电报机器人、邮件推送、内置BARK推送、钉钉群机器人、飞书群机器人，类似Server酱，支持私有Docker部署|95|2022-02-07|2021-03-24|
-|42|[wangfreexx/wangfreexx-tianruoocr-cl-paddle](https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle)|天若ocr开源版本的本地版，采用Chinese-lite和paddleocr识别框架|91|2022-01-29|2021-09-26|
+|42|[wangfreexx/wangfreexx-tianruoocr-cl-paddle](https://github.com/wangfreexx/wangfreexx-tianruoocr-cl-paddle)|天若ocr开源版本的本地版，采用Chinese-lite和paddleocr识别框架|92|2022-01-29|2021-09-26|
 |43|[FingerCaster/UGFExtensions](https://github.com/FingerCaster/UGFExtensions)|一些对UnityGameFramework的扩展|91|2022-01-26|2021-07-15|
-|44|[xingchuanzhen/Minecraft_Bypass_the_program](https://github.com/xingchuanzhen/Minecraft_Bypass_the_program)|Minecraft for Windows 10 绕过程序|87|2022-01-27|2021-07-21|
-|45|[iioter/iotgateway](https://github.com/iioter/iotgateway)|A cross-platform IoT gateway based on .net6. Through visual configuration, you can easily connect to any of your devices and systems (such as PLC, barcode scanner, CNC, database, serial device, host c ...|86|2022-01-25|2021-12-08|
+|44|[iioter/iotgateway](https://github.com/iioter/iotgateway)|A cross-platform IoT gateway based on .net6. Through visual configuration, you can easily connect to any of your devices and systems (such as PLC, barcode scanner, CNC, database, serial device, host c ...|87|2022-01-25|2021-12-08|
+|45|[xingchuanzhen/Minecraft_Bypass_the_program](https://github.com/xingchuanzhen/Minecraft_Bypass_the_program)|Minecraft for Windows 10 绕过程序|87|2022-01-27|2021-07-21|
 |46|[babalae/genshin-fishing-toy](https://github.com/babalae/genshin-fishing-toy)|🐟 原神自动钓鱼机，有界面且操作简单。Genshin Impact Automatic Fishing Machine.|85|2021-10-01|2021-10-01|
 |47|[IUpdatable/WeUiSharp](https://github.com/IUpdatable/WeUiSharp)|基于 WPF 实现的仿 Windows 桌面版微信 UI 界面库 An unofficial UI library for Windows WeChat based on WPF implementation|81|2021-08-30|2021-08-19|
-|48|[ls9512/UTween](https://github.com/ls9512/UTween)|UTween is an interpolation animation component for Unity. You can quickly configure animations through built-in components or write animations through code.|80|2021-11-26|2021-02-19|
-|49|[RRQM/RRQMSocket](https://github.com/RRQM/RRQMSocket)|RRQMSocket是一个整合性网络通信框架，特点是支持高并发、事件驱动、易用性强、二次开发难度低等。其中主要内容包括:TCP、UDP服务通信框架、大文件传输、RPC、WebSocket、WebApi、XmlRpc、JsonRpc等内容|79|2022-02-06|2021-04-06|
+|48|[RRQM/RRQMSocket](https://github.com/RRQM/RRQMSocket)|RRQMSocket是一个整合性网络通信框架，特点是支持高并发、事件驱动、易用性强、二次开发难度低等。其中主要内容包括:TCP、UDP服务通信框架、大文件传输、RPC、WebSocket、WebApi、XmlRpc、JsonRpc等内容|80|2022-02-06|2021-04-06|
+|49|[ls9512/UTween](https://github.com/ls9512/UTween)|UTween is an interpolation animation component for Unity. You can quickly configure animations through built-in components or write animations through code.|80|2021-11-26|2021-02-19|
 |50|[caryyu/jellyfin-plugin-opendouban](https://github.com/caryyu/jellyfin-plugin-opendouban)|Douban metadata provider for Jellyfin|77|2022-01-21|2021-05-06|
 |51|[monitor1394/XUGL](https://github.com/monitor1394/XUGL)|UGUI Graphics Library for Unity.  一款 UGUI 图形库。|74|2021-09-12|2021-04-25|
 |52|[Demo-Liu/GeekDesk](https://github.com/Demo-Liu/GeekDesk)|小巧、美观的桌面快速启动工具|74|2022-01-27|2021-04-12|
 |53|[17MKH/Mkh](https://github.com/17MKH/Mkh)|基于.Net 6+Vue3开发的业务模块化快速开发框架|73|2022-02-08|2021-07-25|
 |54|[xiaoyaocz/AllLive](https://github.com/xiaoyaocz/AllLive)|获取多个直播平台的信息和弹幕|73|2022-01-05|2021-05-26|
-|55|[Chianne1025/QQChannelFramework](https://github.com/Chianne1025/QQChannelFramework)|MyBot - QQ频道机器人开发框架(C#)|68|2022-02-11|2021-11-27|
+|55|[Chianne1025/QQChannelFramework](https://github.com/Chianne1025/QQChannelFramework)|MyBot - QQ频道机器人开发框架(C#)|68|2022-02-12|2021-11-27|
 |56|[CatImmortal/CatAsset](https://github.com/CatImmortal/CatAsset)|Unity AssetBundle资源管理框架|66|2021-11-23|2021-08-22|
 |57|[CatImmortal/CatJson](https://github.com/CatImmortal/CatJson)|为Unity开发者量身打造的功能强大的高性能Json库，内置ILRuntime支持|59|2021-11-28|2021-07-18|
 |58|[Sanheiii/Mageki](https://github.com/Sanheiii/Mageki)|一个在移动设备上模拟的音击控制器|55|2022-02-11|2021-12-13|
