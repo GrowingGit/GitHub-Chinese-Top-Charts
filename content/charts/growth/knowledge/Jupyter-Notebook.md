@@ -1,44 +1,44 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Jupyter Notebook
-<sub>数据更新: 2022-02-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[fastai/fastbook](https://github.com/fastai/fastbook)|The fastai book, published as Jupyter Notebooks|14270|20|2022-02-10|
-|2|[zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook)|pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行|16034|14|2022-02-07|
-|3|[dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)|深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.|12190|13|2021-08-30|
-|4|[ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)|本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。|14486|13|2021-10-14|
-|5|[NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP)|此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。|11136|12|2021-12-24|
-|6|[selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)|One has no future if one couldn't teach themself.|13082|12|2022-02-10|
+|1|[fastai/fastbook](https://github.com/fastai/fastbook)|The fastai book, published as Jupyter Notebooks|14327|20|2022-02-10|
+|2|[zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook)|pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行|16035|14|2022-02-07|
+|3|[dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book)|深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.|12189|13|2021-08-30|
+|4|[ShusenTang/Dive-into-DL-PyTorch](https://github.com/ShusenTang/Dive-into-DL-PyTorch)|本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为PyTorch实现。|14493|13|2021-10-14|
+|5|[NLP-LOVE/ML-NLP](https://github.com/NLP-LOVE/ML-NLP)|此项目是机器学习(Machine Learning)、深度学习(Deep Learning)、NLP面试中常考到的知识点和代码实现，也是作为一个算法工程师必会的理论基础知识。|11143|12|2021-12-24|
+|6|[selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)|One has no future if one couldn't teach themself.|13084|12|2022-02-10|
 |7|[fengdu78/Data-Science-Notes](https://github.com/fengdu78/Data-Science-Notes)|数据科学的笔记以及资料搜集|6241|7|2021-08-16|
-|8|[leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction)|A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).|12335|7|2021-11-24|
-|9|[datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl)|强化学习中文教程，在线阅读地址：https://datawhalechina.github.io/easy-rl/|3294|6|2022-02-06|
-|10|[apachecn/Interview](https://github.com/apachecn/Interview)|Interview = 简历指南 + 算法题 + 八股文 + 源码分析|7265|5|2022-01-19|
-|11|[wesm/pydata-book](https://github.com/wesm/pydata-book)|Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media|16564|5|2022-02-10|
-|12|[Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning)|深度学习入门教程, 优秀文章, Deep Learning Tutorial|7028|5|2021-12-27|
-|13|[Fafa-DL/Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021春季机器学习课程课件及作业|1662|5|2022-02-05|
-|14|[Charmve/computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action)|学习闭环《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页|1297|4|2022-02-09|
-|15|[yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook)|《Python Cookbook》 3rd Edition Translation|9796|4|2022-02-01|
-|16|[datawhalechina/joyful-pandas](https://github.com/datawhalechina/joyful-pandas)|pandas中文教程|2872|4|2021-10-05|
-|17|[xianhu/LearnPython](https://github.com/xianhu/LearnPython)|以撸代码的形式学习Python|6117|3|2021-11-11|
-|18|[datawhalechina/competition-baseline](https://github.com/datawhalechina/competition-baseline)|数据科学竞赛知识、代码、思路|2630|3|2022-01-29|
-|19|[snowkylin/tensorflow-handbook](https://github.com/snowkylin/tensorflow-handbook)|简单粗暴 TensorFlow 2   A Concise Handbook of TensorFlow 2   一本简明的 TensorFlow 2 入门指导教程|3656|3|2021-09-04|
-|20|[fengdu78/WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course)|温州大学《机器学习》课程资料（代码、课件等）|919|3|2022-02-12|
-|21|[gedeck/practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)|Code repository for O'Reilly book|1118|2|2022-01-28|
-|22|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|530|2|2022-02-12|
+|8|[leandromoreira/digital_video_introduction](https://github.com/leandromoreira/digital_video_introduction)|A hands-on introduction to video technology: image, video, codec (av1, vp9, h265) and more (ffmpeg encoding).|12339|7|2021-11-24|
+|9|[datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl)|强化学习中文教程，在线阅读地址：https://datawhalechina.github.io/easy-rl/|3297|6|2022-02-06|
+|10|[apachecn/Interview](https://github.com/apachecn/Interview)|Interview = 简历指南 + 算法题 + 八股文 + 源码分析|7266|5|2022-01-19|
+|11|[wesm/pydata-book](https://github.com/wesm/pydata-book)|Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media|16566|5|2022-02-10|
+|12|[Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning)|深度学习入门教程, 优秀文章, Deep Learning Tutorial|7033|5|2021-12-27|
+|13|[Fafa-DL/Lhy_Machine_Learning](https://github.com/Fafa-DL/Lhy_Machine_Learning)|李宏毅2021春季机器学习课程课件及作业|1668|5|2022-02-05|
+|14|[Charmve/computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action)|学习闭环《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页|1296|4|2022-02-09|
+|15|[yidao620c/python3-cookbook](https://github.com/yidao620c/python3-cookbook)|《Python Cookbook》 3rd Edition Translation|9797|4|2022-02-01|
+|16|[datawhalechina/joyful-pandas](https://github.com/datawhalechina/joyful-pandas)|pandas中文教程|2874|4|2021-10-05|
+|17|[xianhu/LearnPython](https://github.com/xianhu/LearnPython)|以撸代码的形式学习Python|6119|3|2021-11-11|
+|18|[datawhalechina/competition-baseline](https://github.com/datawhalechina/competition-baseline)|数据科学竞赛知识、代码、思路|2632|3|2022-01-29|
+|19|[snowkylin/tensorflow-handbook](https://github.com/snowkylin/tensorflow-handbook)|简单粗暴 TensorFlow 2   A Concise Handbook of TensorFlow 2   一本简明的 TensorFlow 2 入门指导教程|3657|3|2021-09-04|
+|20|[fengdu78/WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course)|温州大学《机器学习》课程资料（代码、课件等）|920|3|2022-02-12|
+|21|[gedeck/practical-statistics-for-data-scientists](https://github.com/gedeck/practical-statistics-for-data-scientists)|Code repository for O'Reilly book|1120|2|2022-01-28|
+|22|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|530|2|2022-02-13|
 |23|[datawhalechina/team-learning-data-mining](https://github.com/datawhalechina/team-learning-data-mining)|主要存储Datawhale组队学习中“数据挖掘/机器学习”方向的资料。|952|2|2021-12-02|
-|24|[PaddlePaddle/awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning)|深度学习入门课、资深课、特色课、学术案例、产业实践案例、深度学习知识百科及面试题库The course, case and knowledge of Deep Learning and AI|1212|2|2022-02-11|
+|24|[PaddlePaddle/awesome-DeepLearning](https://github.com/PaddlePaddle/awesome-DeepLearning)|深度学习入门课、资深课、特色课、学术案例、产业实践案例、深度学习知识百科及面试题库The course, case and knowledge of Deep Learning and AI|1214|2|2022-02-13|
 |25|[TrickyGo/Dive-into-DL-TensorFlow2.0](https://github.com/TrickyGo/Dive-into-DL-TensorFlow2.0)|本项目将《动手学深度学习》(Dive into Deep Learning)原书中的MXNet实现改为TensorFlow 2.0实现，项目已得到李沐老师的认可|3409|2|2021-08-31|
-|26|[ben1234560/AiLearning-Theory-Applying](https://github.com/ben1234560/AiLearning-Theory-Applying)|快速上手Ai理论及应用实战：基础知识Basic knowledge、机器学习MachineLearning、深度学习DeepLearning2、自然语言处理BERT，持续更新中。含大量注释及数据集，力求每一位能看懂并复现。|1023|2|2021-10-27|
+|26|[ben1234560/AiLearning-Theory-Applying](https://github.com/ben1234560/AiLearning-Theory-Applying)|快速上手Ai理论及应用实战：基础知识Basic knowledge、机器学习MachineLearning、深度学习DeepLearning2、自然语言处理BERT，持续更新中。含大量注释及数据集，力求每一位能看懂并复现。|1024|2|2021-10-27|
 |27|[datawhalechina/team-learning-program](https://github.com/datawhalechina/team-learning-program)|主要存储Datawhale组队学习中“编程、数据结构与算法”方向的资料。|589|1|2022-02-12|
 |28|[ssssww0905/-PyTorch-](https://github.com/ssssww0905/-PyTorch-)|【PyTorch】手把手教你跑通第一个神经网络|53|1|2022-01-03|
 |29|[xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)|LaTeX论文写作教程 (中文版)|222|1|2022-02-12|
 |30|[datawhalechina/fantastic-matplotlib](https://github.com/datawhalechina/fantastic-matplotlib)|Matplotlib中文教程，在线阅读地址：https://datawhalechina.github.io/fantastic-matplotlib/|249|1|2022-01-07|
 |31|[huaweicloud/ModelArts-Lab](https://github.com/huaweicloud/ModelArts-Lab)|ModelArts-Lab是示例代码库。更多AI开发学习交流信息，请访问华为云AI开发者社区：huaweicloud.ai|891|1|2021-11-26|
 |32|[zlotus/notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra)|线性代数笔记|2449|1|2021-12-13|
-|33|[luwill/Machine_Learning_Code_Implementation](https://github.com/luwill/Machine_Learning_Code_Implementation)|Mathematical derivation and pure Python code implementation of machine learning algorithms.|967|1|2022-02-10|
-|34|[bighuang624/Andrew-Ng-Deep-Learning-notes](https://github.com/bighuang624/Andrew-Ng-Deep-Learning-notes)|吴恩达《深度学习》系列课程笔记及代码   Notes in Chinese for Andrew Ng Deep Learning Course|868|1|2022-01-19|
+|33|[luwill/Machine_Learning_Code_Implementation](https://github.com/luwill/Machine_Learning_Code_Implementation)|Mathematical derivation and pure Python code implementation of machine learning algorithms.|969|1|2022-02-10|
+|34|[bighuang624/Andrew-Ng-Deep-Learning-notes](https://github.com/bighuang624/Andrew-Ng-Deep-Learning-notes)|吴恩达《深度学习》系列课程笔记及代码   Notes in Chinese for Andrew Ng Deep Learning Course|869|1|2022-01-19|
 |35|[ZhiqingXiao/rl-book](https://github.com/ZhiqingXiao/rl-book)|Source codes for the book "Reinforcement Learning: Theory and Python Implementation"|614|1|2022-02-06|
 |36|[PaddlePaddle/book](https://github.com/PaddlePaddle/book)|Deep Learning 101 with PaddlePaddle （『飞桨』深度学习框架入门教程）|2633|1|2021-11-12|
 |37|[MemorialCheng/deep-learning-from-scratch](https://github.com/MemorialCheng/deep-learning-from-scratch)|《深度学习入门-基于Python的理论与实现》，包含源代码和高清PDF(带书签)；慕课网imooc《深度学习之神经网络(CNN-RNN-GAN)算法原理-实战》；《菜菜的机器学习sklearn》|700|1|2021-11-03|
@@ -46,22 +46,22 @@
 |39|[DataXujing/YOLO-v5](https://github.com/DataXujing/YOLO-v5)|:art: Pytorch YOLO v5 训练自己的数据集超详细教程！！！ :art: (提供PDF训练教程下载）|611|1|2021-12-17|
 |40|[liuhuanshuo/Pandas_Advanced_Exercise](https://github.com/liuhuanshuo/Pandas_Advanced_Exercise)|Pandas进阶修炼300题|160|1|2021-09-22|
 |41|[advboxes/AdvBox](https://github.com/advboxes/AdvBox)|Advbox is a toolbox to generate adversarial examples that fool neural networks in PaddlePaddle、PyTorch、Caffe2、MxNet、Keras、TensorFlow and Advbox can benchmark the robustness of machine learning models. ...|1200|1|2022-02-11|
-|42|[CNFeffery/DataScienceStudyNotes](https://github.com/CNFeffery/DataScienceStudyNotes)|这个仓库保管从（数据科学学习手札69）开始的所有代码、数据等相关附件内容|733|1|2022-01-12|
+|42|[CNFeffery/DataScienceStudyNotes](https://github.com/CNFeffery/DataScienceStudyNotes)|这个仓库保管从（数据科学学习手札69）开始的所有代码、数据等相关附件内容|735|1|2022-01-12|
 |43|[zhouyanasd/or-pandas](https://github.com/zhouyanasd/or-pandas)|【运筹OR帷幄 数据科学】pandas教程系列电子书|683|1|2021-10-17|
-|44|[datawhalechina/statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual)|《统计学习方法》（第二版）习题解答，在线阅读地址：https://datawhalechina.github.io/statistical-learning-method-solutions-manual|648|1|2022-01-21|
-|45|[szcf-weiya/ESL-CN](https://github.com/szcf-weiya/ESL-CN)|The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答。|1901|1|2022-01-14|
+|44|[datawhalechina/statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual)|《统计学习方法》（第二版）习题解答，在线阅读地址：https://datawhalechina.github.io/statistical-learning-method-solutions-manual|650|1|2022-01-21|
+|45|[szcf-weiya/ESL-CN](https://github.com/szcf-weiya/ESL-CN)|The Elements of Statistical Learning (ESL)的中文翻译、代码实现及其习题解答。|1903|1|2022-01-14|
 |46|[datawhalechina/machine-learning-toy-code](https://github.com/datawhalechina/machine-learning-toy-code)|《机器学习》（西瓜书）代码实战|132|1|2022-01-04|
-|47|[datawhalechina/hands-on-data-analysis](https://github.com/datawhalechina/hands-on-data-analysis)|动手学数据分析以项目为主线，知识点孕育其中，通过边学、边做、边引导来得到更好的学习效果|552|1|2021-09-09|
+|47|[datawhalechina/hands-on-data-analysis](https://github.com/datawhalechina/hands-on-data-analysis)|动手学数据分析以项目为主线，知识点孕育其中，通过边学、边做、边引导来得到更好的学习效果|553|1|2021-09-09|
 |48|[datawhalechina/team-learning-nlp](https://github.com/datawhalechina/team-learning-nlp)|主要存储Datawhale组队学习中“自然语言处理”方向的资料。|423|1|2021-09-17|
 |49|[evanzd/ICLR2021-OpenReviewData](https://github.com/evanzd/ICLR2021-OpenReviewData)|Crawl & visualize ICLR papers and reviews.|401|1|2021-11-09|
 |50|[LiuChuang0059/Complex-Network](https://github.com/LiuChuang0059/Complex-Network)|复杂网络研究资源整理和基础知识学习|321|0|2022-02-08|
 |51|[wmpscc/CNN-Series-Getting-Started-and-PyTorch-Implementation](https://github.com/wmpscc/CNN-Series-Getting-Started-and-PyTorch-Implementation)|我的笔记和Demo，包含分类，检测、分割、知识蒸馏。|49|0|2022-01-21|
 |52|[zzy99/competition-solutions](https://github.com/zzy99/competition-solutions)|我的数据竞赛方案总结|17|0|2021-11-16|
-|53|[fry404006308/fry_course_materials](https://github.com/fry404006308/fry_course_materials)|范仁义录播课资料|20|0|2022-01-14|
+|53|[fry404006308/fry_course_materials](https://github.com/fry404006308/fry_course_materials)|范仁义录播课资料|20|0|2022-02-13|
 |54|[neolee/pilot-student](https://github.com/neolee/pilot-student)|“进入编程世界的第一课” 的学习用书|79|0|2022-01-28|
 |55|[hitlic/python_book](https://github.com/hitlic/python_book)|清华大学出版社《Python从入门到提高》源代码、课件|14|0|2022-01-13|
 |56|[shibing624/python-tutorial](https://github.com/shibing624/python-tutorial)|Python实用教程，包括：Python基础，Python高级特性，面向对象编程，多线程，数据库，数据科学，Flask，爬虫开发教程。|567|0|2021-11-05|
-|57|[wowchemy/hugo-blog-theme](https://github.com/wowchemy/hugo-blog-theme)|📝 Hugo Academic Blog Theme. 轻松创建一个简约博客. No code, highly customizable using widgets.|54|0|2022-02-08|
+|57|[wowchemy/hugo-blog-theme](https://github.com/wowchemy/hugo-blog-theme)|📝 Hugo Academic Blog Theme. 轻松创建一个简约博客. No code, highly customizable using widgets.|54|0|2022-02-13|
 |58|[binzhouchn/machine_learning](https://github.com/binzhouchn/machine_learning)|抽象来讲，机器学习问题是把数据转换成信息再提炼到知识的过程，特征是“数据-->信息”的过程，决定了结果的上限，而分类器是“信息-->知识”的过程，则是去逼近这个上限|18|0|2021-10-15|
 |59|[sijichun/MathStatsCode](https://github.com/sijichun/MathStatsCode)|Codes for my mathematical statistics course|151|0|2021-12-27|
 |60|[ymzis69/gddw_track3](https://github.com/ymzis69/gddw_track3)|阿里云天池广东电网识别挑战赛（赛道三） 亚军方案分享|11|0|2021-09-15|
@@ -98,14 +98,14 @@
 |91|[hzcforever/Something](https://github.com/hzcforever/Something)|面试知识点 + 笔试刷题总结。|21|0|2021-09-15|
 |92|[dmarx/anthology-of-modern-ml](https://github.com/dmarx/anthology-of-modern-ml)|Collection of important articles to be treated as a textbook|20|0|2022-01-14|
 |93|[tsaac/Python](https://github.com/tsaac/Python)|YINUXY的python脚本分享|23|0|2021-09-20|
-|94|[beiciliang/intro2musictech](https://github.com/beiciliang/intro2musictech)|公众号“无痛入门音乐科技”开源代码|127|0|2021-10-31|
+|94|[beiciliang/intro2musictech](https://github.com/beiciliang/intro2musictech)|公众号“无痛入门音乐科技”开源代码|128|0|2021-10-31|
 |95|[zhangjx831/Data-Science-Notes](https://github.com/zhangjx831/Data-Science-Notes)|数据科学与机器学习炼成笔记|54|0|2022-01-29|
 |96|[wss1996/Name-disambiguation](https://github.com/wss1996/Name-disambiguation)|同名论文消歧的工程化方案（参考2019智源-aminer人名消歧竞赛第一名方案）|14|0|2021-08-25|
 |97|[newaetech/chipwhisperer-jupyter](https://github.com/newaetech/chipwhisperer-jupyter)|Interactive ChipWhisperer tutorials using Jupyter notebooks.|61|0|2022-02-09|
 |98|[HeXavi8/Mathematical-Modeling](https://github.com/HeXavi8/Mathematical-Modeling)|A sharing of the learning process of mathematical modeling 数学建模常用工具模型算法分享：数学建模竞赛优秀论文，数学建模常用算法模型，LaTeX论文模板，SPSS工具分享。|26|0|2021-11-20|
 |99|[eagle-dai/OptimizingSoftwareInCpp](https://github.com/eagle-dai/OptimizingSoftwareInCpp)|Optimizing Software In C++ 非正式中文翻译|23|0|2022-01-17|
 |100|[Relph1119/Pytorch-Camp](https://github.com/Relph1119/Pytorch-Camp)|深度之眼《Pytorch框架训练营》|14|0|2021-10-12|
-|101|[JamesLavin/my_tech_resources](https://github.com/JamesLavin/my_tech_resources)|List of tech resources future me and other Javascript/Ruby/Python/Elixir/Elm developers might find useful|249|0|2022-02-11|
+|101|[JamesLavin/my_tech_resources](https://github.com/JamesLavin/my_tech_resources)|List of tech resources future me and other Javascript/Ruby/Python/Elixir/Elm developers might find useful|249|0|2022-02-12|
 |102|[lululxvi/tutorials](https://github.com/lululxvi/tutorials)|Tutorials on deep learning, Python, and dissipative particle dynamics|51|0|2021-12-14|
 |103|[SocratesAcademy/ccbook](https://github.com/SocratesAcademy/ccbook)|Elements of Computational Communication 《计算传播基础》|26|0|2021-09-27|
 |104|[LawsonAbs/learn](https://github.com/LawsonAbs/learn)|记录python,pytorch,git等工具的学习过程，主要是对该工具常用部分进行实践。|14|0|2022-01-18|
@@ -125,7 +125,7 @@
 |118|[johnjim0816/rl-tutorials](https://github.com/johnjim0816/rl-tutorials)|basic algorithms of reinforcement learning|39|0|2021-12-29|
 |119|[xiaoxiaoyao/MyApp](https://github.com/xiaoxiaoyao/MyApp)|随便写的各种，点链接可以进入我的知乎|51|0|2022-02-11|
 |120|[1am9trash/Hung_Yi_Lee_ML_2021](https://github.com/1am9trash/Hung_Yi_Lee_ML_2021)|李宏毅教授 2021年機器學習 作業與筆記匯總|18|0|2021-09-17|
-|121|[batermj/data_sciences_campaign](https://github.com/batermj/data_sciences_campaign)|【数据科学家系列课程】|85|0|2022-02-12|
+|121|[batermj/data_sciences_campaign](https://github.com/batermj/data_sciences_campaign)|【数据科学家系列课程】|85|0|2022-02-13|
 |122|[oubindo/cs231n-cnn](https://github.com/oubindo/cs231n-cnn)|斯坦福的cs231n课程的assignments，非常好的课程，在这里也要强推|39|0|2022-01-21|
 |123|[lvyufeng/d2l-mindspore](https://github.com/lvyufeng/d2l-mindspore)|《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。|16|0|2022-02-02|
 |124|[liuhuanshuo/zaoqi-Python](https://github.com/liuhuanshuo/zaoqi-Python)|公众号：早起Python|311|0|2022-02-07|
@@ -149,7 +149,7 @@
 |142|[bobo0810/PytorchNetHub](https://github.com/bobo0810/PytorchNetHub)|项目注释+论文复现+算法竞赛+Pytorch指北|408|0|2022-02-11|
 |143|[xuwening/blog](https://github.com/xuwening/blog)|对过往做做总结|91|0|2021-09-16|
 |144|[laisimiao/cs231n-Spring2019-assignment](https://github.com/laisimiao/cs231n-Spring2019-assignment)|This is the all answer for stanford course CS231n spring 2019.|31|0|2021-08-27|
-|145|[xieliaing/CausalInferenceIntro](https://github.com/xieliaing/CausalInferenceIntro)|Causal Inference for the Brave and True的中文翻译版。全部代码基于Python，适用于计量经济学、量化社会学、策略评估等领域。英文版原作者：Matheus Facure|25|0|2022-02-11|
+|145|[xieliaing/CausalInferenceIntro](https://github.com/xieliaing/CausalInferenceIntro)|Causal Inference for the Brave and True的中文翻译版。全部代码基于Python，适用于计量经济学、量化社会学、策略评估等领域。英文版原作者：Matheus Facure|25|0|2022-02-13|
 |146|[wwtm/gitpython_examples](https://github.com/wwtm/gitpython_examples)|some interesting python examples|52|0|2021-10-16|
 |147|[Valuebai/learn-NLP-luhuibo](https://github.com/Valuebai/learn-NLP-luhuibo)|记录学习NLP之路，一起加油|11|0|2021-09-08|
 |148|[jikeruohai/machine-learning-example](https://github.com/jikeruohai/machine-learning-example)|我的同名B站和公众号中用到的视频|14|0|2021-10-21|
@@ -161,7 +161,7 @@
 |154|[aialgorithm/Blog](https://github.com/aialgorithm/Blog)|Python机器学习算法技术博客，有原创干货！有code实践！ |120|0|2021-12-29|
 |155|[lipengyuan1994/Patrick-s-DS-Station](https://github.com/lipengyuan1994/Patrick-s-DS-Station)|The Data Science 🔋Learning Station of Pytrick🌰 （ From Coursera, edX, LinkedIn Learning, etc... and Also contains Books).  I am still updating it.|19|0|2021-09-04|
 |156|[hanzhenlei767/NLP_Learn](https://github.com/hanzhenlei767/NLP_Learn)|NLP学习笔记-前沿追踪|17|0|2022-02-10|
-|157|[zhangjunhd/reading-notes](https://github.com/zhangjunhd/reading-notes)|张俊的读书笔记|81|0|2022-02-10|
+|157|[zhangjunhd/reading-notes](https://github.com/zhangjunhd/reading-notes)|张俊的读书笔记|82|0|2022-02-10|
 |158|[sangyy/CUDA_Python](https://github.com/sangyy/CUDA_Python)|CUDA Python 科普之夜   手把手教你写GPU加速代码|15|0|2021-08-26|
 |159|[yunwei37/ZJU-CS-GIS-ClassNotes](https://github.com/yunwei37/ZJU-CS-GIS-ClassNotes)|一个浙江大学本科生的计算机、地理信息科学知识库 包含课程资料 学习笔记 大作业等（ 数据结构与算法、人工智能、地理空间数据库、计算机组成、计算机网络、图形学、编译原理等课程）|308|0|2021-12-06|
 |160|[evenchange4/nextjs-tfjs-cnn](https://github.com/evenchange4/nextjs-tfjs-cnn)|🐕 🐈 Classifier using Keras VGG16 transfer learning with kaggle dataset.|11|0|2021-10-18|

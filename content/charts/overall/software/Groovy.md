@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Groovy
-<sub>数据更新: 2022-02-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -30,7 +30,7 @@
 |23|[xams-creator/navicat-resetter](https://github.com/xams-creator/navicat-resetter)|重置navicat激活时间的IDEA跨平台插件 |5|2022-01-18|
 |24|[dikeboy/DhMethodTime](https://github.com/dikeboy/DhMethodTime)|统计安卓所有方法执行耗时   ,用于开发 测试时分析性能,分析ANR,Calculate android method time,|5|2021-08-17|
 |25|[AyakuraYuki/content-storage-app](https://github.com/AyakuraYuki/content-storage-app)|泛用型内容管理工具，采用JSON存储内容，SQLite持久化数据，TOTP时间动态码校验用户，Base64/DES加密数据|4|2022-02-11|
-|26|[eonliu/packer](https://github.com/eonliu/packer)|Packer是Android打包工具插件，支持360加固、多渠道打包、将APK上传到FTP等功能。|3|2022-02-11|
+|26|[eonliu/packer](https://github.com/eonliu/packer)|Packer是Android打包工具插件，支持360加固、多渠道打包、将APK上传到FTP等功能。|3|2022-02-13|
 |27|[Tim-Fang/MineGenshin](https://github.com/Tim-Fang/MineGenshin)|使 Minecraft 更加 Genshin Impact 化|3|2022-01-09|
 |28|[xiangwangrush/jiaguplugin](https://github.com/xiangwangrush/jiaguplugin)|360加固插件,帮助app打包后的apk自动加固并重签名|2|2022-01-06|
 |29|[piitw/gaea](https://github.com/piitw/gaea)|发布Library的轻量级插件|2|2021-09-02|

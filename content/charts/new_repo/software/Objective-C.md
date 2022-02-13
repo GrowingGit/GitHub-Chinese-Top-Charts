@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2022-02-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -10,7 +10,7 @@
 |3|[lionvoom/WeAppTongCeng](https://github.com/lionvoom/WeAppTongCeng)|小程序同层渲染|85|2021-10-29|2021-03-16|
 |4|[OpenIMSDK/Open-IM-SDK-iOS](https://github.com/OpenIMSDK/Open-IM-SDK-iOS)|OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，iOS版本IM SDK 可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。|82|2022-01-19|2021-05-26|
 |5|[arcticfox1919/flutter-scankit](https://github.com/arcticfox1919/flutter-scankit)|Flutter QR code scanning|57|2022-01-06|2021-03-08|
-|6|[FoneG/FGPopupScheduler](https://github.com/FoneG/FGPopupScheduler)| ✨ ✨ ✨ ✨ iOS弹窗调用器，控制弹窗按照指定的策略进行显示。Helps you control popups easily.  ✨ ✨ ✨ ✨|54|2021-11-08|2021-06-23|
+|6|[FoneG/FGPopupScheduler](https://github.com/FoneG/FGPopupScheduler)| ✨ ✨ ✨ ✨ iOS弹窗调用器，控制弹窗按照指定的策略进行显示。Helps you control popups easily.  ✨ ✨ ✨ ✨|55|2021-11-08|2021-06-23|
 |7|[FoneG/FGIAPService](https://github.com/FoneG/FGIAPService)|iap内购实现解决方案|50|2021-12-07|2021-05-14|
 |8|[HansenCCC/KKQuickDraw](https://github.com/HansenCCC/KKQuickDraw)|iOS实现HTML H5秒开、拦截请求替换资源、优化HTML加载速度|48|2021-08-25|2021-05-17|
 |9|[jiangzhengnan/NgGithubIos](https://github.com/jiangzhengnan/NgGithubIos)|🍎 基于iOS端，使用Objective-C编写的Github个人版本|46|2022-01-29|2021-07-04|
@@ -25,11 +25,11 @@
 |18|[yanshuimu/MangoFixUtil](https://github.com/yanshuimu/MangoFixUtil)|依赖MangoFix，封装补丁拉取、执行、设备激活、补丁激活完整流程，另外提供本地加密或未加密补丁执行、生成加密补丁等方法。|16|2022-01-22|2021-02-26|
 |19|[Spriea/iOSInterview](https://github.com/Spriea/iOSInterview)|App Store《面试题大全》开源，设计全套无服务器实现上线，版本更新。markdown语法展示等。|15|2022-02-11|2022-02-10|
 |20|[xrtc-cc/xrtc](https://github.com/xrtc-cc/xrtc)|WebRTC 融合音视频解决方案：封装声网Agora、华为云hrtc、腾讯云trtc及网易云信rtc，支持动态切换和定制，iOS、Android、Web极简集成WebRTC。|15|2021-11-05|2021-08-19|
-|21|[netease-kit/NECallKit](https://github.com/netease-kit/NECallKit)|实现呼叫、接听、挂断能力，应用于语音、视频通话场景|14|2022-01-27|2021-04-27|
+|21|[netease-kit/NECallKit](https://github.com/netease-kit/NECallKit)|实现呼叫、接听、挂断能力，应用于语音、视频通话场景|15|2022-01-27|2021-04-27|
 |22|[pianxian/alphaVideoPlayTool](https://github.com/pianxian/alphaVideoPlayTool)|透明视频播放工具类|14|2022-01-24|2021-03-06|
 |23|[pilaf-king/SwiftVTHook](https://github.com/pilaf-king/SwiftVTHook)|基于Swift虚函数表的hook方案（无需dynamic，但是Swift编译优化需要修改为None）|13|2021-11-17|2021-03-03|
-|24|[DataFlux-cn/datakit-ios](https://github.com/DataFlux-cn/datakit-ios)|-|12|2022-01-28|2021-05-31|
-|25|[HMS-Core/hms-3d-modeling-demo-ios](https://github.com/HMS-Core/hms-3d-modeling-demo-ios)|-|11|2021-11-15|2021-09-27|
+|24|[HMS-Core/hms-3d-modeling-demo-ios](https://github.com/HMS-Core/hms-3d-modeling-demo-ios)|-|12|2021-11-15|2021-09-27|
+|25|[DataFlux-cn/datakit-ios](https://github.com/DataFlux-cn/datakit-ios)|-|12|2022-01-28|2021-05-31|
 |26|[venn0126/SNAugusPopView](https://github.com/venn0126/SNAugusPopView)|A super lightweight popView.|10|2021-11-11|2021-10-14|
 |27|[HansenCCC/KKFileBrowser](https://github.com/HansenCCC/KKFileBrowser)|一个非常实用的文件浏览工具，可以预览图片，也可以可视化数据库。|10|2021-11-02|2021-08-07|
 |28|[fluttercandies/flutter_qweather](https://github.com/fluttercandies/flutter_qweather)|和风天气  Flutter 插件|10|2021-12-11|2021-04-19|

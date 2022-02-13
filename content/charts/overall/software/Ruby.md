@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Ruby
-<sub>数据更新: 2022-02-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|5810|2022-02-10|
-|2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3534|2022-02-11|
+|1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|5812|2022-02-10|
+|2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3535|2022-02-13|
 |3|[peatio/peatio](https://github.com/peatio/peatio)|An open-source assets exchange.|3507|2022-02-05|
-|4|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3409|2022-02-06|
+|4|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3409|2022-02-13|
 |5|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|2043|2022-01-21|
 |6|[pluosi/app-host](https://github.com/pluosi/app-host)|应用内网发布   iOS OTA (Over-the-Air)   APP publish website like fir.im    适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包|1813|2022-02-11|
-|7|[publify/publify](https://github.com/publify/publify)|A self hosted Web publishing platform on Rails.|1777|2022-02-12|
-|8|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1755|2022-02-11|
+|7|[publify/publify](https://github.com/publify/publify)|A self hosted Web publishing platform on Rails.|1777|2022-02-13|
+|8|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1756|2022-02-11|
 |9|[thredded/thredded](https://github.com/thredded/thredded)|The best Rails forums engine ever.|1309|2021-10-24|
-|10|[Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1268|2022-02-11|
-|11|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1254|2022-02-12|
+|10|[Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1268|2022-02-13|
+|11|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1255|2022-02-12|
 |12|[michelson/lazy_high_charts](https://github.com/michelson/lazy_high_charts)|Make highcharts a la ruby , works in rails 5.X / 4.X / 3.X, and other ruby web frameworks|1044|2022-01-18|
 |13|[FIRHQ/fir-cli](https://github.com/FIRHQ/fir-cli)|fir.im(betaqr.com) command-line interface|1006|2021-08-30|
 |14|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|964|2022-02-04|
@@ -28,9 +28,9 @@
 |21|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|636|2022-01-18|
 |22|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|634|2021-11-05|
 |23|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast and smart citation reference parsing|583|2021-11-28|
-|24|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|539|2022-02-05|
+|24|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|541|2022-02-05|
 |25|[janx/ruby-pinyin](https://github.com/janx/ruby-pinyin)|中文汉字转拼音,　支持中英文符号混合词语。Pinyin is a romanization system (phonemic notation) of Chinese characters, this gem helps you to convert Chinese characters into pinyin form.|525|2021-08-21|
-|26|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|474|2022-02-11|
+|26|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|474|2022-02-13|
 |27|[lanrion/weixin_rails_middleware](https://github.com/lanrion/weixin_rails_middleware)|微信集成 ruby weixin_rails_middleware for integration weixin. |414|2021-09-27|
 |28|[darkbitio/aws-recon](https://github.com/darkbitio/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|396|2021-12-02|
 |29|[oott123/alfred-clipboard-ocr](https://github.com/oott123/alfred-clipboard-ocr)|Use Baidu OCR API to covert your clipboard image to text.|386|2021-10-20|
@@ -67,12 +67,12 @@
 |60|[inspec/inspec-azure](https://github.com/inspec/inspec-azure)|InSpec Azure Resource Pack|83|2022-02-10|
 |61|[uasi/skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo)|SKK 絵文字辞書|83|2021-08-18|
 |62|[iPermanent/rubyTools](https://github.com/iPermanent/rubyTools)|日常使用ruby脚本|82|2021-10-18|
-|63|[quzhi1/ChineseHistoricalSource](https://github.com/quzhi1/ChineseHistoricalSource)|This is my personal stash of Chinese Historical Source|81|2021-09-27|
+|63|[quzhi1/ChineseHistoricalSource](https://github.com/quzhi1/ChineseHistoricalSource)|This is my personal stash of Chinese Historical Source|82|2021-09-27|
 |64|[jasonknight/salor-retail](https://github.com/jasonknight/salor-retail)|Rails Based Point of Sale and Store Management Software|78|2022-02-12|
 |65|[kufu/kiji](https://github.com/kufu/kiji)|e-Gov API 連携 gem|75|2022-01-04|
 |66|[yuan-xy/kaola](https://github.com/yuan-xy/kaola)|A Restful API Server For Database|72|2022-02-11|
 |67|[chenxGen/cocoapods-project-hmap](https://github.com/chenxGen/cocoapods-project-hmap)|A cocoapods plugin to improve the compilation speed of the preprocessing stage.|70|2021-09-23|
-|68|[icyleaf/hpr](https://github.com/icyleaf/hpr)|镜像任意 git 仓库到 gitlab 的同步工具，具有定时更新的功能|69|2022-02-11|
+|68|[icyleaf/hpr](https://github.com/icyleaf/hpr)|镜像任意 git 仓库到 gitlab 的同步工具，具有定时更新的功能|69|2022-02-13|
 |69|[brenes/stopwords-filter](https://github.com/brenes/stopwords-filter)|Project for filtering stopwords|64|2021-12-19|
 |70|[two-pack/redmine_xls_export](https://github.com/two-pack/redmine_xls_export)|Redmine XLS Export plugin from http://www.redmine.org/plugins/redmine_xls_export|63|2021-11-03|
 |71|[etrex/kamigo](https://github.com/etrex/kamigo)|a chatbot framework based on rails|61|2022-01-22|
@@ -85,7 +85,7 @@
 |78|[test-kitchen/kitchen-azurerm](https://github.com/test-kitchen/kitchen-azurerm)|A driver for Test Kitchen that works with Azure Resource Manager|51|2022-02-04|
 |79|[FunnyWolf/vipermsf](https://github.com/FunnyWolf/vipermsf)|viper 自定义的msf|49|2021-12-29|
 |80|[ChrisZou/geekweibo](https://github.com/ChrisZou/geekweibo)|A twitter-like app where you can save and share short notes around programming. You can think of it as "twitter for programmers".|45|2022-02-12|
-|81|[aozorahack/aozorabunko_text](https://github.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|45|2022-02-12|
+|81|[aozorahack/aozorabunko_text](https://github.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|45|2022-02-13|
 |82|[ankane/blingfire-ruby](https://github.com/ankane/blingfire-ruby)|High speed text tokenization for Ruby|44|2022-01-10|
 |83|[yangKJ/PT](https://github.com/yangKJ/PT)|Automatically generate componentized modules 自动生成组件化模块|41|2022-01-19|
 |84|[FIRHQ/fastlane-plugin-fir_cli](https://github.com/FIRHQ/fastlane-plugin-fir_cli)|betaqr.com(fir.im) fastlane plugin|38|2021-10-27|
@@ -109,8 +109,8 @@
 |102|[HugoHasenbein/redmine_more_previews](https://github.com/HugoHasenbein/redmine_more_previews)|Redmine plugin to preview various file types in redmine's preview pane|19|2021-08-18|
 |103|[YunzheZJU/non-stop-story](https://github.com/YunzheZJU/non-stop-story)|Backend for holo-schedule on Rails.|19|2022-02-12|
 |104|[dao42/qywechat-notifier](https://github.com/dao42/qywechat-notifier)|RubyGem: 企业微信 notification exception 插件|18|2021-09-27|
-|105|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|18|2022-02-06|
-|106|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|18|2022-02-12|
+|105|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|18|2022-02-13|
+|106|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|18|2022-02-13|
 |107|[diylove/wiki](https://github.com/diylove/wiki)|diy万事万物的程序|17|2022-01-23|
 |108|[hiroshiyui/youbike](https://github.com/hiroshiyui/youbike)|臺北市公共自行車「YouBike 微笑單車」租賃站資料轉換程式|17|2021-09-28|
 |109|[junegunn/tabularize](https://github.com/junegunn/tabularize)|Formatting tabular data with paddings|17|2021-08-17|
