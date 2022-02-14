@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Groovy
-<sub>数据更新: 2022-02-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[pengxurui/EasyPrivacy](https://github.com/pengxurui/EasyPrivacy)|一个帮助开发者快速找到国内隐私整改问题的工具|80|2021-12-27|2021-10-25|
+|1|[pengxurui/EasyPrivacy](https://github.com/pengxurui/EasyPrivacy)|一个帮助开发者快速找到国内隐私整改问题的工具|82|2021-12-27|2021-10-25|
 |2|[dqzboy/DevOps](https://github.com/dqzboy/DevOps)|CICD流水线|9|2022-01-05|2021-12-02|
 |3|[Peakmain/AsmActualCombat](https://github.com/Peakmain/AsmActualCombat)|ASM实战——埋点|7|2022-01-25|2021-06-15|
 |4|[TabooLib/shrinking-kotlin](https://github.com/TabooLib/shrinking-kotlin)|减少 Kotlin 编译后的文件体积|5|2022-02-11|2022-01-27|
 |5|[xams-creator/navicat-resetter](https://github.com/xams-creator/navicat-resetter)|重置navicat激活时间的IDEA跨平台插件 |5|2022-01-18|2021-12-23|
-|6|[eonliu/packer](https://github.com/eonliu/packer)|Packer是Android打包工具插件，支持360加固、多渠道打包、将APK上传到FTP等功能。|3|2022-02-13|2022-01-24|
+|6|[eonliu/packer](https://github.com/eonliu/packer)|一个Android打包工具插件，支持360加固、多渠道打包、将APK上传到FTP等功能。|3|2022-02-14|2022-01-24|
 |7|[Tim-Fang/MineGenshin](https://github.com/Tim-Fang/MineGenshin)|使 Minecraft 更加 Genshin Impact 化|3|2022-01-09|2022-01-07|
 
 <div align="center">
