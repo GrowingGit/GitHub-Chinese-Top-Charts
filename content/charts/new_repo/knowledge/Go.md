@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Go
-<sub>数据更新: 2022-02-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)|【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt|4413|2022-01-13|2021-08-09|
-|2|[wa-lang/ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book)|:books: µGo语言实现(从头开发一个迷你Go语言编译器)[Go版本+Rust版本]|884|2022-02-13|2021-11-03|
+|1|[0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)|【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt|4420|2022-01-13|2021-08-09|
+|2|[wa-lang/ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book)|:books: µGo语言实现(从头开发一个迷你Go语言编译器)[Go版本+Rust版本]|886|2022-02-13|2021-11-03|
 |3|[Metarget/cloud-native-security-book](https://github.com/Metarget/cloud-native-security-book)|《云原生安全：攻防实践与体系构建》资料仓库|344|2022-02-10|2021-09-25|
 |4|[lemoex/oci-help](https://github.com/lemoex/oci-help)|甲骨文实例抢购教程|191|2021-12-26|2021-10-18|
 |5|[sci-hub-p2p/sci-hub-p2p](https://github.com/sci-hub-p2p/sci-hub-p2p)|fetch and serve papers in p2p network|176|2021-08-18|2021-07-11|
-|6|[yongxinz/gopher](https://github.com/yongxinz/gopher)|Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战开发，面试刷题，必读书单等一系列资源|111|2022-02-08|2021-07-13|
+|6|[yongxinz/gopher](https://github.com/yongxinz/gopher)|Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战开发，面试刷题，必读书单等一系列资源|118|2022-02-08|2021-07-13|
 |7|[ymm135/golang-cookbook](https://github.com/ymm135/golang-cookbook)|golang基础知识及实现，偏重于数据结构。另外包含web开源项目(中间件)的日常使用|92|2022-02-12|2021-11-20|
 |8|[virusdefender/copy-cert](https://github.com/virusdefender/copy-cert)|基于已知网站 ssl 证书的信息生成新的自签名证书，除了证书是不被信任的以外，其他的信息看上去基本一致，用于伪装流量。|85|2021-11-09|2021-11-08|
 
