@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-02-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[ToKiNoBug/3dPixelPaintingInMinecraft](https://github.com/ToKiNoBug/3dPixelPaintingInMinecraft)|在minecraft中生成3d的地图画|19|2021-09-24|2021-02-20|
-|2|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|15|2022-02-15|2021-09-21|
+|2|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|15|2022-02-17|2021-09-21|
 |3|[cggos/opt_matlab](https://github.com/cggos/opt_matlab)|最优化方法及其MATLAB实现 源代码|10|2021-10-07|2021-10-07|
 |4|[himynameisfuego/SiTraNo](https://github.com/himynameisfuego/SiTraNo)|A MATLAB app for tonal-transient-noise decomposition of audio signals.|10|2021-09-08|2021-04-16|
 |5|[fuzhiqiang1230/DLRRPD](https://github.com/fuzhiqiang1230/DLRRPD)|This repository is used for sharing the source code of Double low-rank representation with projection distance penalty for clustering|9|2022-01-26|2021-03-19|
@@ -21,8 +21,8 @@
 |14|[wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve](https://github.com/wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve)|使用贝塞尔曲线，通过合理选取控制点使轨迹在拼接点处曲率连续|5|2021-09-06|2021-09-06|
 |15|[seer-group329/PositionAndPosConnectionOfTheCar](https://github.com/seer-group329/PositionAndPosConnectionOfTheCar)|在已知无人仓储车的起始与目标位姿的条件下，得到三阶连续的曲线路径|5|2021-09-18|2021-08-15|
 |16|[a839290771/SSVEP-BCI-OpenBCI](https://github.com/a839290771/SSVEP-BCI-OpenBCI)|基于OpenBCI（Bciduino）完成的SSVEP项目，包括刺激器、信号实时传输、以及基于FFT方式的信号处理|4|2022-02-11|2022-01-13|
-|17|[zxb17zxb/SLIC](https://github.com/zxb17zxb/SLIC)|一个SLIC算法用于图像分割的matlab实现|3|2021-12-07|2021-12-07|
-|18|[BetterBench/2021-APMCM-Problem-A](https://github.com/BetterBench/2021-APMCM-Problem-A)|2021年亚太地区数学建模赛题A(图像边缘分析与应用) Halcon方案实现、代码、实验数据|3|2021-11-30|2021-11-30|
+|17|[BetterBench/2021-APMCM-Problem-A](https://github.com/BetterBench/2021-APMCM-Problem-A)|2021年亚太地区数学建模赛题A(图像边缘分析与应用) Halcon方案实现、代码、实验数据|4|2021-11-30|2021-11-30|
+|18|[zxb17zxb/SLIC](https://github.com/zxb17zxb/SLIC)|一个SLIC算法用于图像分割的matlab实现|3|2021-12-07|2021-12-07|
 |19|[JackHCC/Computer-Generated-Hologram](https://github.com/JackHCC/Computer-Generated-Hologram)|计算机全息计算与仿真框架【This library introduces the current production process of computer holography, and uses MATLAB and Python to record and reproduce holograms. In the future, I will build a computer hologra ...|3|2022-01-14|2021-11-29|
 |20|[MrCaiDev/matlab-experiment](https://github.com/MrCaiDev/matlab-experiment)|程序基础+微积分+数值计算+最优化+随机模拟+椭球寻径。|3|2021-12-23|2021-11-08|
 |21|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|2021-12-21|2021-10-21|

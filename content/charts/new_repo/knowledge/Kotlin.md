@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Kotlin
-<sub>数据更新: 2022-02-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[milklabdev/jetpack-compose-book](https://github.com/milklabdev/jetpack-compose-book)|Jetpack Compose 基础教程，持续更新|555|2022-02-16|2021-04-03|
+|1|[milklabdev/jetpack-compose-book](https://github.com/milklabdev/jetpack-compose-book)|Jetpack Compose 基础教程，持续更新|555|2022-02-17|2021-04-03|
 |2|[biubiuqiu0/flow-event-bus](https://github.com/biubiuqiu0/flow-event-bus)|EventBus for Android，消息总线，基于SharedFlow，具有生命周期感知能力，支持Sticky，支持线程切换，支持延迟发送。|95|2022-01-18|2021-07-15|
 |3|[leavesCZY/RobustWebView](https://github.com/leavesCZY/RobustWebView)|Android WebView H5 秒开方案总结|27|2022-01-14|2021-09-12|
 |4|[Anddd7/a-blackhorse](https://github.com/Anddd7/a-blackhorse)|tell you how to manage your blackhorse|16|2022-02-14|2021-06-25|

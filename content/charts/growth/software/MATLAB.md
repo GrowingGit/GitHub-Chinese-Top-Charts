@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-02-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -12,11 +12,11 @@
 |5|[Say-Hello2y/Path-planning-for-robots](https://github.com/Say-Hello2y/Path-planning-for-robots)|use Dijkstra 使用Dijkstra法实现了基于栅格地图的移动机器人路径规划|5|0|2021-12-29|
 |6|[AngeloUNIMI/Demo_FusionNet](https://github.com/AngeloUNIMI/Demo_FusionNet)|Demonstration of FusionNet for touchless palmprint and finger texture recognition. Based on the source code for the 2019 IEEE CIVEMSA paper "Touchless palmprint and finger texture recognition: A Deep  ...|9|0|2021-09-06|
 |7|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|71|0|2022-02-05|
-|8|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|6|0|2022-02-08|
+|8|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|6|0|2022-02-17|
 |9|[AngeloUNIMI/FusionNet](https://github.com/AngeloUNIMI/FusionNet)|Source code for the 2019 IEEE CIVEMSA paper "Touchless palmprint and finger texture recognition: A Deep Learning fusion approach"|15|0|2021-09-06|
 |10|[fzzfbyx/Audio-FIR-denoising-filter-MATLAB_GUI](https://github.com/fzzfbyx/Audio-FIR-denoising-filter-MATLAB_GUI)|利用MATLAB GUI设计平台，用窗函数法设计FIR数字滤波器，对所给出的含有噪声的声音信号进行数字滤波处理，得到降噪的声音信号，进行时域频域分析，同时分析不同窗函数的效果。|6|0|2021-09-13|
 |11|[zhyantao/GA-shortest_path](https://github.com/zhyantao/GA-shortest_path)|遗传算法解决最短路径问题(两个出发点)|5|0|2021-12-25|
-|12|[BetterBench/2021-APMCM-Problem-A](https://github.com/BetterBench/2021-APMCM-Problem-A)|2021年亚太地区数学建模赛题A(图像边缘分析与应用) Halcon方案实现、代码、实验数据|3|0|2021-11-30|
+|12|[BetterBench/2021-APMCM-Problem-A](https://github.com/BetterBench/2021-APMCM-Problem-A)|2021年亚太地区数学建模赛题A(图像边缘分析与应用) Halcon方案实现、代码、实验数据|4|0|2021-11-30|
 |13|[yqx7150/EDAEPRec](https://github.com/yqx7150/EDAEPRec)|Enhanced Denoising Auto-Encoding Priors for Reconstruction |7|0|2022-02-14|
 |14|[CXris/computerVision-stitching](https://github.com/CXris/computerVision-stitching)|使用Harris角点检测算法、最小二乘拟合、随机抽样一致算法(RANSAC)以及 HOG 描述符、线性融合等计算机视觉算法，使用Matlab实现将多张图像拼接成一张全景图。|2|0|2021-08-25|
 |15|[bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm](https://github.com/bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm)|-|8|0|2021-11-24|
@@ -53,7 +53,7 @@
 |46|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|3|0|2022-02-10|
 |47|[WoodyBuendia/HFSS-MATLAB-API](https://github.com/WoodyBuendia/HFSS-MATLAB-API)|HFSS-MATLAB-API is a library toolbox to control Ansoft HFSS from MATLAB using  the HFSS Scripting Interface. This tool provides a set of MATLAB functions to  create 3D objects in HFSS by generating th ...|45|0|2021-09-17|
 |48|[scliubit/complex-DnCNN](https://github.com/scliubit/complex-DnCNN)|-|13|0|2022-01-17|
-|49|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|383|0|2022-02-15|
+|49|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|384|0|2022-02-17|
 |50|[wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve](https://github.com/wangweike123/Smooth-trajectory-splicing-based-on-Bezier-curve)|使用贝塞尔曲线，通过合理选取控制点使轨迹在拼接点处曲率连续|5|0|2021-09-06|
 |51|[YuJie2020/MATLAB-HFSS-API](https://github.com/YuJie2020/MATLAB-HFSS-API)|HFSS-MATLAB-API 是通过 MATLAB 编写的一套可调用的 HFSS-MATLAB 应用程序编程接口，通过编写 MATLAB 代码来生成执行相关特定操作的 HFSS 程序所需的 VBS 脚本|6|0|2021-08-19|
 |52|[fuzhiqiang1230/DLRRPD](https://github.com/fuzhiqiang1230/DLRRPD)|This repository is used for sharing the source code of Double low-rank representation with projection distance penalty for clustering|9|0|2022-01-26|
@@ -67,8 +67,8 @@
 |60|[NOCIONS/letswave6](https://github.com/NOCIONS/letswave6)|Letswave 6 - Matlab EEG signal processing toolbox |44|0|2021-08-23|
 |61|[JackHCC/Routing-Algorithm](https://github.com/JackHCC/Routing-Algorithm)|MATLAB实现路由算法基本原理（内附报告）[MATLAB realizes the basic principle of routing algorithm - mathematics experiment work (with report)]|10|0|2021-12-15|
 |62|[fzzfbyx/CFAR-radar-algorithm_MATLAB_GUI](https://github.com/fzzfbyx/CFAR-radar-algorithm_MATLAB_GUI)|利用MATLAB GUI设计平台，设计多算法雷达一维恒虚警检测CFAR可视化界面，通过选择噪声类型、目标类型、算法类型，手动输入相关参数，可视化显示噪声波形与目标检测的回波-检测门限波形图。|7|0|2021-09-13|
-|63|[liuziwei7/fashion-landmarks](https://github.com/liuziwei7/fashion-landmarks)|Fashion Landmark Detection in the Wild|329|0|2021-10-09|
-|64|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|15|0|2022-02-15|
+|63|[liuziwei7/fashion-landmarks](https://github.com/liuziwei7/fashion-landmarks)|Fashion Landmark Detection in the Wild|328|0|2021-10-09|
+|64|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|15|0|2022-02-17|
 |65|[mingli-ai/FaVeST](https://github.com/mingli-ai/FaVeST)|Fast Vector Spherical Harmonic Transforms|11|0|2021-10-13|
 |66|[chdilo/BadAppleOSC](https://github.com/chdilo/BadAppleOSC)|在示波器上播放Bad Apple!!|11|0|2022-02-12|
 |67|[cggos/opt_matlab](https://github.com/cggos/opt_matlab)|最优化方法及其MATLAB实现 源代码|10|0|2021-10-07|
