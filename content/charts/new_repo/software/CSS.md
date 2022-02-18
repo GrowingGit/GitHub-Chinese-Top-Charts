@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > CSS
-<sub>数据更新: 2022-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[fingerchar/fingernft](https://github.com/fingerchar/fingernft)|FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。|625|2022-02-09|2021-11-21|
-|2|[cool-team-official/cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue)|cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 2.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建|593|2021-12-18|2021-02-27|
+|1|[fingerchar/fingernft](https://github.com/fingerchar/fingernft)|FingerNFT是一款开源NFT市场，兼容Opensea、Rarible。|635|2022-02-09|2021-11-21|
+|2|[cool-team-official/cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue)|cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 2.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建|606|2021-12-18|2021-02-27|
 |3|[phith0n/conote-community](https://github.com/phith0n/conote-community)|Conote 综合安全测试平台社区版。|307|2022-02-02|2021-12-09|
 |4|[SiJiDo/H](https://github.com/SiJiDo/H)|H是一款强大的资产收集管理平台|294|2022-01-20|2021-09-10|
-|5|[vanyouseea/o365](https://github.com/vanyouseea/o365)|O365管理系统是一个以java语言开发的基于Microsoft Graph Restful API的多全局管理系统，理论上支持任何Office全局的管理(A1,A3,A1P,E3,E5等)，你可以很方便的使用它来批量添加，批量删除，批量启用，批量禁用，搜索和查看用户，生成邀请码，邀请朋友注册，提升和收回管理员权限，更新密钥，查看订阅，分配订阅(创新用户时)，查看多全局报告|153|2021-12-11|2021-04-22|
-|6|[ChisBread/transmission_skip_patch](https://github.com/ChisBread/transmission_skip_patch)|为transmission v3.0 增加 "快速校验" 功能|142|2022-01-01|2021-09-04|
-|7|[xiangjianan/lks](https://github.com/xiangjianan/lks)|🔗 B站博主 -LKs- 网站推荐 🔗|142|2022-02-14|2021-03-02|
+|5|[vanyouseea/o365](https://github.com/vanyouseea/o365)|O365管理系统是一个以java语言开发的基于Microsoft Graph Restful API的多全局管理系统，理论上支持任何Office全局的管理(A1,A3,A1P,E3,E5等)，你可以很方便的使用它来批量添加，批量删除，批量启用，批量禁用，搜索和查看用户，生成邀请码，邀请朋友注册，提升和收回管理员权限，更新密钥，查看订阅，分配订阅(创新用户时)，查看多全局报告|155|2021-12-11|2021-04-22|
+|6|[ChisBread/transmission_skip_patch](https://github.com/ChisBread/transmission_skip_patch)|为transmission v3.0 增加 "快速校验" 功能|143|2022-01-01|2021-09-04|
+|7|[xiangjianan/lks](https://github.com/xiangjianan/lks)|🔗 B站博主 -LKs- 网站推荐 🔗|143|2022-02-18|2021-03-02|
 |8|[zonble/understanding_audio_files](https://github.com/zonble/understanding_audio_files)|認識音檔（公開版本）|141|2022-02-07|2022-02-03|
 |9|[GoneTone/genshin-impact-wish-gacha-analyzer](https://github.com/GoneTone/genshin-impact-wish-gacha-analyzer)|原神祈願卡池分析 Genshin Impact Wish Gacha Analyzer   A utility for analyzing gacha history, where all data and numbers are well-organized in a convenient manner!|104|2022-02-17|2021-03-05|
 |10|[BobCoderS9/SSPanel-Metron](https://github.com/BobCoderS9/SSPanel-Metron)|SSPanel-Metron主题，目前由@Bobs9维护开发中。|91|2022-02-15|2021-06-24|
@@ -19,16 +19,16 @@
 |12|[q19980722/Typora-theme-jiaran](https://github.com/q19980722/Typora-theme-jiaran)|-|74|2022-01-31|2021-09-16|
 |13|[niclin/bernard](https://github.com/niclin/bernard)|這是你最後一次忘記打卡|54|2022-01-19|2021-06-18|
 |14|[git9527/anki-awesome-select](https://github.com/git9527/anki-awesome-select)|This is the select template for Anki with awesome interface/Anki选择题模板|54|2022-01-25|2021-03-20|
-|15|[nijun008/sit_back](https://github.com/nijun008/sit_back)|摸鱼神器，无需安装，即刻摸鱼|50|2022-01-05|2021-12-25|
-|16|[cndiandian/zuanbot.com](https://github.com/cndiandian/zuanbot.com)|骂人宝典（祖安语录）|48|2022-01-08|2022-01-08|
+|15|[cndiandian/zuanbot.com](https://github.com/cndiandian/zuanbot.com)|骂人宝典（祖安语录）|50|2022-01-08|2022-01-08|
+|16|[nijun008/sit_back](https://github.com/nijun008/sit_back)|摸鱼神器，无需安装，即刻摸鱼|50|2022-01-05|2021-12-25|
 |17|[teddy21019/weeb-message](https://github.com/teddy21019/weeb-message)|肥宅講話模擬器|43|2021-09-20|2021-09-16|
-|18|[Nacandev/Ohmine-Dark-Theme-For-Joplin](https://github.com/Nacandev/Ohmine-Dark-Theme-For-Joplin)|This is a custom CSS theme for the opensource note-taking app Joplin.|33|2021-12-31|2021-09-14|
-|19|[AuroraTea/Web](https://github.com/AuroraTea/Web)|发在B站上的视频对应的源代码，有些内容不是原创的会在代码中注释。|30|2021-10-28|2021-02-25|
-|20|[yu120/lemon-guide](https://github.com/yu120/lemon-guide)|收纳操作系统、JAVA、算法、数据库、中间件、解决方案、架构、DevOps和大数据等技术栈总结！|29|2021-11-06|2021-07-10|
-|21|[wkylin/promotion-web](https://github.com/wkylin/promotion-web)|基于React: v17.02/Webpack: v5.67.0/React Router v6.2.1/ Antd: v4.18.4/Fetch Api 等前端技术构建的企业级中台研发项目....|29|2022-02-14|2021-04-09|
+|18|[Nacandev/Ohmine-Dark-Theme-For-Joplin](https://github.com/Nacandev/Ohmine-Dark-Theme-For-Joplin)|This is a custom CSS theme for the opensource note-taking app Joplin.|34|2021-12-31|2021-09-14|
+|19|[yu120/lemon-guide](https://github.com/yu120/lemon-guide)|收纳操作系统、JAVA、算法、数据库、中间件、解决方案、架构、DevOps和大数据等技术栈总结！|29|2021-11-06|2021-07-10|
+|20|[wkylin/promotion-web](https://github.com/wkylin/promotion-web)|基于React: v17.02/Webpack: v5.67.0/React Router v6.2.1/ Antd: v4.18.4/Fetch Api 等前端技术构建的企业级中台研发项目....|29|2022-02-14|2021-04-09|
+|21|[AuroraTea/Web](https://github.com/AuroraTea/Web)|发在B站上的视频对应的源代码，有些内容不是原创的会在代码中注释。|29|2021-10-28|2021-02-25|
 |22|[jasonLaw1015/GfEasyAdmin](https://github.com/jasonLaw1015/GfEasyAdmin)|快速crud开发框架，甚至于一行代码不用敲；自动根据数据库表结构自动生成crud代码；低代码开发框架；至少减少百分90%工作量；可快速把现有系统转成GfEasy版本；后端使用GoFrame开发;后台前端使用 cool-admin-vue；后台使用自适应布局，手机、PC完美使用。|28|2021-12-09|2021-09-02|
 |23|[MarleneJiang/WebDemo](https://github.com/MarleneJiang/WebDemo)|开源一些自制的小网页|27|2021-10-07|2021-08-20|
-|24|[scopion/security_test_guide](https://github.com/scopion/security_test_guide)|安全测试导论|25|2022-01-27|2021-09-30|
+|24|[scopion/security_test_guide](https://github.com/scopion/security_test_guide)|安全测试导论|26|2022-01-27|2021-09-30|
 |25|[jrainlau/MY-Kit](https://github.com/jrainlau/MY-Kit)|基于 Vite 的超丝滑 Vue3 组件库开发框架|24|2021-12-12|2021-12-11|
 |26|[zhuozhiyongde/PKU-Art](https://github.com/zhuozhiyongde/PKU-Art)|一个对北大教学网、编程网格等北大相关网站的CSS美化样式|22|2021-12-08|2021-11-27|
 |27|[nuanxinqing123/HomeNavigation](https://github.com/nuanxinqing123/HomeNavigation)|动态个人导航程序|22|2022-01-26|2021-11-16|
@@ -61,17 +61,18 @@
 |54|[wanghao221/zhongqiulipinka](https://github.com/wanghao221/zhongqiulipinka)|使用HTML、CSS 创建完全响应式的中秋礼品卡|8|2021-09-11|2021-09-11|
 |55|[chen310/music](https://github.com/chen310/music)|领取网易云音乐NeteaseCloudMusic数字专辑、付费单曲和礼品卡|8|2021-12-31|2021-05-18|
 |56|[the1812/dizzylab-auto-theme](https://github.com/the1812/dizzylab-auto-theme)|dizzylab 自适应 Stylus 主题, 跟随系统亮/暗设定.|8|2022-02-01|2021-03-20|
-|57|[foxhsx/front-project-every](https://github.com/foxhsx/front-project-every)|每天一个前端小练习|7|2022-02-16|2022-01-03|
-|58|[shuziyimin/shuziyimin.org](https://github.com/shuziyimin/shuziyimin.org)|数字移民导航站源码|7|2022-01-05|2021-12-23|
-|59|[ArvinZJC/Kobe](https://github.com/ArvinZJC/Kobe)|神户座（Kobe）是一个 Windows/macOS 桌面应用程序，它用来帮助用户搜索北交所、上交所和深交所股票成交价和成交量，可看作是对分价表的组合加工。|7|2022-02-17|2021-12-07|
-|60|[MisaLiu/afdian-sponsor-page](https://github.com/MisaLiu/afdian-sponsor-page)|一个独立展示爱发电赞助用户的网页|7|2021-12-15|2021-09-19|
-|61|[sanqi377/bilibibli](https://github.com/sanqi377/bilibibli)|基于electron-vue开发的b站直播弹幕姬|7|2021-09-10|2021-08-06|
-|62|[dolaCmeo/EasyNav](https://github.com/dolaCmeo/EasyNav)|单页导航，仅需简单配置。|6|2022-02-07|2022-02-06|
-|63|[mengfanfei/vite-vue3-h5-template](https://github.com/mengfanfei/vite-vue3-h5-template)|使用vite,vue3,vue-router,vuex(pinia),vw， vant等搭建的移动端模版，适配低端浏览器（可自行修改）|6|2022-01-21|2022-01-05|
-|64|[skyhack1212/repeater_console_qiankun](https://github.com/skyhack1212/repeater_console_qiankun)|基于qiankun框架，重写流量回放框架jvm-sandbox-repeater的console页面|6|2021-12-07|2021-11-13|
-|65|[ArcherLinsu/life-simulator](https://github.com/ArcherLinsu/life-simulator)|人生模拟器，自定义剧本版|6|2021-09-06|2021-09-04|
-|66|[YuKongA/HQ-ICON](https://github.com/YuKongA/HQ-ICON)|[Web]Get icons from App Store/从App Store获取应用图标|6|2021-11-29|2021-06-11|
-|67|[coronaPolvo/report-typora-theme](https://github.com/coronaPolvo/report-typora-theme)|中文实验报告专用模版|5|2021-11-21|2021-11-06|
+|57|[foxhsx/front-project-every](https://github.com/foxhsx/front-project-every)|每天一个前端小练习|7|2022-02-17|2022-01-03|
+|58|[aisuda/amis-widget](https://github.com/aisuda/amis-widget)|开发amis自定义组件的工具集（支持react、vue2.0和jQuery技术栈）|7|2022-02-16|2021-12-27|
+|59|[shuziyimin/shuziyimin.org](https://github.com/shuziyimin/shuziyimin.org)|数字移民导航站源码|7|2022-01-05|2021-12-23|
+|60|[ArvinZJC/Kobe](https://github.com/ArvinZJC/Kobe)|神户座（Kobe）是一个 Windows/macOS 桌面应用程序，它用来帮助用户搜索北交所、上交所和深交所股票成交价和成交量，可看作是对分价表的组合加工。|7|2022-02-17|2021-12-07|
+|61|[MisaLiu/afdian-sponsor-page](https://github.com/MisaLiu/afdian-sponsor-page)|一个独立展示爱发电赞助用户的网页|7|2021-12-15|2021-09-19|
+|62|[sanqi377/bilibibli](https://github.com/sanqi377/bilibibli)|基于electron-vue开发的b站直播弹幕姬|7|2021-09-10|2021-08-06|
+|63|[dolaCmeo/EasyNav](https://github.com/dolaCmeo/EasyNav)|单页导航，仅需简单配置。|6|2022-02-07|2022-02-06|
+|64|[mengfanfei/vite-vue3-h5-template](https://github.com/mengfanfei/vite-vue3-h5-template)|使用vite,vue3,vue-router,vuex(pinia),vw， vant等搭建的移动端模版，适配低端浏览器（可自行修改）|6|2022-01-21|2022-01-05|
+|65|[skyhack1212/repeater_console_qiankun](https://github.com/skyhack1212/repeater_console_qiankun)|基于qiankun框架，重写流量回放框架jvm-sandbox-repeater的console页面|6|2021-12-07|2021-11-13|
+|66|[ArcherLinsu/life-simulator](https://github.com/ArcherLinsu/life-simulator)|人生模拟器，自定义剧本版|6|2021-09-06|2021-09-04|
+|67|[YuKongA/HQ-ICON](https://github.com/YuKongA/HQ-ICON)|[Web]Get icons from App Store/从App Store获取应用图标|6|2021-11-29|2021-06-11|
+|68|[coronaPolvo/report-typora-theme](https://github.com/coronaPolvo/report-typora-theme)|中文实验报告专用模版|5|2021-11-21|2021-11-06|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

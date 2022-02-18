@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Jupyter Notebook
-<sub>数据更新: 2022-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|883|2021-12-29|2021-04-07|
-|2|[enpeizhao/CVprojects](https://github.com/enpeizhao/CVprojects)|computer vision projects    计算机视觉等好玩的AI项目|282|2022-02-06|2021-11-22|
+|1|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|887|2021-12-29|2021-04-07|
+|2|[enpeizhao/CVprojects](https://github.com/enpeizhao/CVprojects)|computer vision projects    计算机视觉等好玩的AI项目|283|2022-02-06|2021-11-22|
 |3|[chokkan/mlnote](https://github.com/chokkan/mlnote)|機械学習帳|193|2022-02-01|2021-09-29|
 |4|[4paradigm/AutoX](https://github.com/4paradigm/AutoX)|AutoX is an efficient automl tool, which is mainly aimed at data mining competitions with tabular data.|189|2022-02-17|2021-07-21|
 |5|[44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel)|基于思源黑体的开源像素字体|172|2022-01-03|2021-08-18|
@@ -16,20 +16,20 @@
 |9|[ni1o1/transbigdata](https://github.com/ni1o1/transbigdata)|A Python package develop for transportation spatio-temporal big data processing, analysis and visualization.|73|2022-02-08|2021-10-21|
 |10|[dglai/maxp_baseline_model](https://github.com/dglai/maxp_baseline_model)|-|66|2021-11-05|2021-10-06|
 |11|[lingjzhu/charsiu](https://github.com/lingjzhu/charsiu)|Charsiu: A neural phonetic aligner.|63|2022-02-12|2021-08-29|
-|12|[datawhalechina/learn-python-the-smart-way](https://github.com/datawhalechina/learn-python-the-smart-way)|聪明方法学Python，简明且系统的 Python 入门教程。|62|2022-01-25|2021-07-10|
-|13|[kzbkzb/Python-AI](https://github.com/kzbkzb/Python-AI)|深度学习100例、深度学习DL、图片分类、目标识别、目标检测、自然语言处理nlp、文本分类、TensorFlow、PyTorch|61|2022-01-12|2021-10-18|
-|14|[madhavmk/Noise2Noise-audio_denoising_without_clean_training_data](https://github.com/madhavmk/Noise2Noise-audio_denoising_without_clean_training_data)|Source code for the paper titled "Speech Denoising without Clean Training Data: a Noise2Noise Approach".  Paper accepted at the INTERSPEECH 2021 conference. This paper tackles the problem of the heavy ...|51|2021-09-04|2021-03-28|
-|15|[datawhalechina/powerful-numpy](https://github.com/datawhalechina/powerful-numpy)|巨硬的NumPy|49|2022-02-17|2021-10-15|
-|16|[hansu1017/WSDM2022-Retention-Score-Prediction](https://github.com/hansu1017/WSDM2022-Retention-Score-Prediction)|WSDM2022留存预测挑战赛 第1名解决方案|44|2022-02-08|2022-01-28|
-|17|[QikaiXu/Recommender-System-Pytorch](https://github.com/QikaiXu/Recommender-System-Pytorch)|基于 Pytorch 实现推荐系统相关的算法|41|2021-11-17|2021-07-10|
-|18|[sunnyswag/StockRL](https://github.com/sunnyswag/StockRL)|在A股(股票)市场上训练强化学习交易智能体|40|2021-08-28|2021-04-18|
-|19|[EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker)|Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 挂刀比例数据   Track cheap Steam Community Market items on buff.163.com, igxe.cn and c5game.com|37|2022-02-16|2021-10-11|
+|12|[kzbkzb/Python-AI](https://github.com/kzbkzb/Python-AI)|深度学习100例、深度学习DL、图片分类、目标识别、目标检测、自然语言处理nlp、文本分类、TensorFlow、PyTorch|62|2022-01-12|2021-10-18|
+|13|[datawhalechina/learn-python-the-smart-way](https://github.com/datawhalechina/learn-python-the-smart-way)|聪明方法学Python，简明且系统的 Python 入门教程。|62|2022-01-25|2021-07-10|
+|14|[datawhalechina/powerful-numpy](https://github.com/datawhalechina/powerful-numpy)|巨硬的NumPy|55|2022-02-17|2021-10-15|
+|15|[madhavmk/Noise2Noise-audio_denoising_without_clean_training_data](https://github.com/madhavmk/Noise2Noise-audio_denoising_without_clean_training_data)|Source code for the paper titled "Speech Denoising without Clean Training Data: a Noise2Noise Approach".  Paper accepted at the INTERSPEECH 2021 conference. This paper tackles the problem of the heavy ...|51|2021-09-04|2021-03-28|
+|16|[hansu1017/WSDM2022-Retention-Score-Prediction](https://github.com/hansu1017/WSDM2022-Retention-Score-Prediction)|WSDM2022留存预测挑战赛 第1名解决方案|45|2022-02-08|2022-01-28|
+|17|[QikaiXu/Recommender-System-Pytorch](https://github.com/QikaiXu/Recommender-System-Pytorch)|基于 Pytorch 实现推荐系统相关的算法|42|2021-11-17|2021-07-10|
+|18|[sunnyswag/StockRL](https://github.com/sunnyswag/StockRL)|在A股(股票)市场上训练强化学习交易智能体|41|2021-08-28|2021-04-18|
+|19|[EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker)|Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 挂刀比例数据   Track cheap Steam Community Market items on buff.163.com, igxe.cn and c5game.com|37|2022-02-18|2021-10-11|
 |20|[Prayforhanluo/CTR_Algorithm](https://github.com/Prayforhanluo/CTR_Algorithm)|一些经典的CTR算法的复现; LR, FM, FFM, AFM, DeepFM，xDeepFM, PNN, DCN, DCNv2, DIFM, AutoInt, FiBiNet,DIN, DIEN ... （pytorch, tf2.0）|36|2022-01-19|2021-07-08|
 |21|[kevinfu1717/SuperInterstellarTerminal](https://github.com/kevinfu1717/SuperInterstellarTerminal)|【X世纪星际终端】A Wechat Social and AR Game: 基于微信聊天，结合增强现实技术AR+LBS（基于图像位置）的轻社交星际漂流瓶游戏。向外太空发送漂流信息，看看AI预测的外星人是长什么样的，寻找身边的外星人,逗逗外星生物，看看外星植物及外星建筑。Send the message to the outer space, find the aliens in the earth ...|34|2021-12-10|2021-08-01|
 |22|[Hongyu-Yue/yoloV5_modify_smalltarget](https://github.com/Hongyu-Yue/yoloV5_modify_smalltarget)|YOLOV5 小目标检测修改版|33|2021-08-21|2021-08-21|
 |23|[DIUx-xView/xview3-reference](https://github.com/DIUx-xView/xview3-reference)|Reference data processing code and model for the xView3 prize challenge.|31|2021-11-29|2021-08-31|
 |24|[buzhidaoshenme/YOLOX-OBB](https://github.com/buzhidaoshenme/YOLOX-OBB)|YOLOX in DOTA with KLD loss. (Oriented Object Detection)（Rotated BBox）基于YOLOX的旋转目标检测|30|2021-11-19|2021-09-18|
-|25|[PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial)|PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle. |28|2021-12-17|2021-07-12|
+|25|[PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial)|PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle. |29|2021-12-17|2021-07-12|
 |26|[lansinuote/Machine-Learning-In-Numpy](https://github.com/lansinuote/Machine-Learning-In-Numpy)|纯python实现机器学习算法,非套用sk-learn|26|2021-11-08|2021-05-08|
 |27|[KristiyanVachev/Leaf-Question-Generation](https://github.com/KristiyanVachev/Leaf-Question-Generation)|Easy to use and understand multiple-choice question generation algorithm using T5 Transformers.|25|2022-02-02|2021-10-04|
 |28|[accomdemy/accomdemy](https://github.com/accomdemy/accomdemy)|Welcome to Accomdemy! 歡迎來到伴伴學！|22|2021-12-24|2021-05-11|
