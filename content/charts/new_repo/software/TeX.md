@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2022-02-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|206|2022-02-18|2021-04-18|
+|1|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|206|2022-02-19|2021-04-18|
 |2|[jamesfang8499/physics1](https://github.com/jamesfang8499/physics1)|-|79|2021-12-17|2021-07-15|
 |3|[LogCreative/SJTUBeamermin](https://github.com/LogCreative/SJTUBeamermin)|上海交通大学 LaTeX Beamer 幻灯片模板 - VI 最小工作集|56|2021-11-05|2021-03-15|
 |4|[HFUTTUG/HFUT_Thesis](https://github.com/HFUTTUG/HFUT_Thesis)|LaTeX Thesis Template for Hefei University of Technology|42|2021-08-31|2021-05-17|
@@ -24,8 +24,8 @@
 |17|[ARS-MC/RRDC](https://github.com/ARS-MC/RRDC)|红石数电评论 Review of Redstonic Digital Circuit|8|2022-02-14|2022-01-22|
 |18|[Jinwen-XU/minimalist](https://github.com/Jinwen-XU/minimalist)|-|8|2021-12-16|2021-03-10|
 |19|[syvshc/tlmgr-intro-zh-cn](https://github.com/syvshc/tlmgr-intro-zh-cn)|关于 tlmgr 使用的简短的介绍. :heart:|8|2021-09-05|2021-03-06|
-|20|[Jinwen-XU/colorist](https://github.com/Jinwen-XU/colorist)|-|7|2021-12-17|2021-03-10|
-|21|[nju-lug/NJUVisual](https://github.com/nju-lug/NJUVisual)|实现南京大学标准配色方案和标识|6|2022-01-11|2021-11-21|
+|20|[nju-lug/NJUVisual](https://github.com/nju-lug/NJUVisual)|实现南京大学标准配色方案和标识|7|2022-01-11|2021-11-21|
+|21|[Jinwen-XU/colorist](https://github.com/Jinwen-XU/colorist)|-|7|2021-12-17|2021-03-10|
 |22|[guoclay/interesting-project](https://github.com/guoclay/interesting-project)|一些有趣的项目|5|2021-09-30|2021-09-28|
 |23|[xiyie/UPC_LATEX_TEMPLATE](https://github.com/xiyie/UPC_LATEX_TEMPLATE)|中国石油大学（华东）控制科学与工程学院课题模板（不保证通用）|4|2021-10-01|2021-09-29|
 |24|[phonixer/NWPU-BEAMER](https://github.com/phonixer/NWPU-BEAMER)|Latex-Beamer-ppt-NWPU-西北工业大学ppt模板-LaTex-Beamer|4|2021-08-25|2021-08-25|

@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Swift
-<sub>数据更新: 2022-02-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1437|2022-02-18|2021-11-13|
-|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One menu bar app, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|834|2022-02-18|2021-11-30|
+|1|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1445|2022-02-18|2021-11-13|
+|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|All-in-One menu bar app, hide MacBook Pro's notch, dark mode, AirPods, Shortcuts|844|2022-02-19|2021-11-30|
 |3|[Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11)| 💻 Windows 11 in SwiftUI.|122|2021-10-13|2021-08-31|
-|4|[william0wang/MagicCamera](https://github.com/william0wang/MagicCamera)|iOS多功能AI相机：人像卡通化、变老变年轻、美颜、滤镜、艺术效果等|97|2021-11-08|2021-10-29|
+|4|[william0wang/MagicCamera](https://github.com/william0wang/MagicCamera)|iOS多功能AI相机：人像卡通化、变老变年轻、美颜、滤镜、艺术效果等|98|2021-11-08|2021-10-29|
 |5|[Lakr233/FishUpgrade](https://github.com/Lakr233/FishUpgrade)|macOS 摸鱼模拟器|87|2021-12-19|2021-12-16|
 |6|[BugenZhao/MNGA](https://github.com/BugenZhao/MNGA)|💬 A refreshing NGA Forum App in SwiftUI. Make NGA Great Again! aka "NGA 论坛 iOS 开源客户端"|75|2022-01-03|2021-06-27|
 |7|[pujiaxin33/StackUI](https://github.com/pujiaxin33/StackUI)|StackUI just like SwiftUI|73|2022-01-25|2021-10-14|
-|8|[MikeWang000000/PD-Runner-Revive](https://github.com/MikeWang000000/PD-Runner-Revive)|PD-Runner (Parallels Desktop) 补档|57|2022-01-25|2022-01-25|
+|8|[MikeWang000000/PD-Runner-Revive](https://github.com/MikeWang000000/PD-Runner-Revive)|PD-Runner (Parallels Desktop) 补档|61|2022-01-25|2022-01-25|
 |9|[yangKJ/RxNetworks](https://github.com/yangKJ/RxNetworks)|🧚Network API With RxSwift + Moya + HandyJSON + Plugins.|54|2022-02-07|2021-05-08|
 |10|[Astrian/switshot](https://github.com/Astrian/switshot)|Console screenshot transfer|53|2022-01-28|2021-09-10|
 |11|[simon9211/privacyInsight](https://github.com/simon9211/privacyInsight)|读取app「记录App活动」文件，展示app访问权限及网络记录|44|2021-10-28|2021-10-18|
 |12|[fatbobman/NavigationViewKit](https://github.com/fatbobman/NavigationViewKit)|NavigationViewKit is a NavigationView extension library for SwiftUI.|39|2021-12-16|2021-08-31|
 |13|[breadwallet/brd-mobile](https://github.com/breadwallet/brd-mobile)|-|37|2021-11-07|2021-06-28|
 |14|[Tliens/SSPlan](https://github.com/Tliens/SSPlan)|《今日计划》源代码（open source for the app：今日计划）|35|2021-10-07|2021-10-07|
-|15|[fatbobman/SheetKit](https://github.com/fatbobman/SheetKit)|an extension library for SwiftUI sheets. |31|2021-09-17|2021-09-16|
+|15|[fatbobman/SheetKit](https://github.com/fatbobman/SheetKit)|an extension library for SwiftUI sheets. |33|2021-09-17|2021-09-16|
 |16|[ts666823/Codesigner](https://github.com/ts666823/Codesigner)|-|30|2021-12-11|2021-10-29|
 |17|[swiftdo/design-patterns](https://github.com/swiftdo/design-patterns)|设计模式，经典样例|30|2022-02-08|2021-03-24|
 |18|[Cantoboard/Cantoboard](https://github.com/Cantoboard/Cantoboard)|Cantoboard - Smart Cantonese Keyboard on iOS |29|2022-02-15|2021-03-19|
@@ -47,12 +47,12 @@
 |40|[ysbrowser/Doodle-TowerDefense](https://github.com/ysbrowser/Doodle-TowerDefense)|涂鸦塔防 A*寻路|8|2021-08-23|2021-08-20|
 |41|[Rogue24/OneDay](https://github.com/Rogue24/OneDay)|精美的桌面小组件。|8|2022-01-27|2021-07-08|
 |42|[37iOS/Assets-Alternate-App-Icons](https://github.com/37iOS/Assets-Alternate-App-Icons)|Xcode13 配置多套 App 图标的方法 --- AppStore 图标 A/B Test 实践|7|2021-12-23|2021-12-23|
-|43|[zeqinjie/ZQEndlessPageControl](https://github.com/zeqinjie/ZQEndlessPageControl)|自定义 iOS14 PageControl 控件新功能|7|2021-10-21|2021-09-23|
-|44|[Coder-Star/CSPickerView](https://github.com/Coder-Star/CSPickerView)|多样式底部弹出样式选择器|7|2022-02-06|2021-06-07|
-|45|[ListenNotes/podcast-api-swift](https://github.com/ListenNotes/podcast-api-swift)|The Official Swift Library for the Listen Notes Podcast API.|7|2021-10-26|2021-05-13|
-|46|[luoxuhai/react-native-smart-cropper](https://github.com/luoxuhai/react-native-smart-cropper)|智能裁剪图像重点区域的 react-native 库，支持基于注意力、对象和人脸。   A react-native library for intelligently cropping key areas of images, supporting attention based, object and face based.|6|2022-01-17|2022-01-17|
-|47|[37iOS/Easy-Signer](https://github.com/37iOS/Easy-Signer)| iOS App 的 Mac 重签名工具|6|2022-01-05|2022-01-04|
-|48|[baozoudiudiu/CustomWechatHomePage](https://github.com/baozoudiudiu/CustomWechatHomePage)|仿微信下拉展示小程序列表效果|6|2021-11-16|2021-11-16|
+|43|[baozoudiudiu/CustomWechatHomePage](https://github.com/baozoudiudiu/CustomWechatHomePage)|仿微信下拉展示小程序列表效果|7|2021-11-16|2021-11-16|
+|44|[zeqinjie/ZQEndlessPageControl](https://github.com/zeqinjie/ZQEndlessPageControl)|自定义 iOS14 PageControl 控件新功能|7|2021-10-21|2021-09-23|
+|45|[Coder-Star/CSPickerView](https://github.com/Coder-Star/CSPickerView)|多样式底部弹出样式选择器|7|2022-02-06|2021-06-07|
+|46|[ListenNotes/podcast-api-swift](https://github.com/ListenNotes/podcast-api-swift)|The Official Swift Library for the Listen Notes Podcast API.|7|2021-10-26|2021-05-13|
+|47|[luoxuhai/react-native-smart-cropper](https://github.com/luoxuhai/react-native-smart-cropper)|智能裁剪图像重点区域的 react-native 库，支持基于注意力、对象和人脸。   A react-native library for intelligently cropping key areas of images, supporting attention based, object and face based.|6|2022-01-17|2022-01-17|
+|48|[37iOS/Easy-Signer](https://github.com/37iOS/Easy-Signer)| iOS App 的 Mac 重签名工具|6|2022-01-05|2022-01-04|
 |49|[lele8446/CJSkinSwift](https://github.com/lele8446/CJSkinSwift)|APP动态换肤解决方案|6|2021-09-28|2021-09-08|
 |50|[shutut/SSURLSession](https://github.com/shutut/SSURLSession)|对swift的URLSession进行拆分，增加支持设置resolve和connectTo的能力|5|2021-12-17|2021-12-11|
 |51|[ZPP506/ZPPRouter](https://github.com/ZPP506/ZPPRouter)|组件化路由 swift|5|2021-11-19|2021-09-06|
