@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2022-02-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|158|2022-02-19|2022-01-05|
-|2|[tnfe/shida](https://github.com/tnfe/shida)|《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。|142|2022-02-15|2022-01-15|
-|3|[OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around)|自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。|88|2022-02-16|2021-05-19|
-|4|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|76|2022-02-19|2021-08-22|
-|5|[eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)|大千世界，何其茫茫。谨此笔记，记录过往。凭君阅览，小站洛荒。如能收益，莫大奢望|39|2022-02-19|2021-05-24|
+|1|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|163|2022-02-20|2022-01-05|
+|2|[tnfe/shida](https://github.com/tnfe/shida)|《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。|147|2022-02-15|2022-01-15|
+|3|[OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around)|自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。|88|2022-02-20|2021-05-19|
+|4|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|77|2022-02-20|2021-08-22|
+|5|[eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)|大千世界，何其茫茫。谨此笔记，记录过往。凭君阅览，小站洛荒。如能收益，莫大奢望|39|2022-02-20|2021-05-24|
 |6|[toimc-team/front-end-notes](https://github.com/toimc-team/front-end-notes)|大前端课程电子书计划，前端知识总结 + 分享|28|2022-01-08|2021-04-16|
 |7|[SSmJaE/XueXiTonsSign_Electron](https://github.com/SSmJaE/XueXiTonsSign_Electron)|基于Electron的超星学习通签到小工具，支持手动签到、签到队列自动签到|24|2021-11-02|2021-04-19|
 |8|[Creator-SN/IKFB](https://github.com/Creator-SN/IKFB)|Involution King Fun Book (IKFB, Chinese: 卷王快乐本) is an integrated management system for papers and literature. Powered by Electron.|19|2021-12-08|2021-09-20|
@@ -33,7 +33,6 @@
 |26|[scudev/qndxx](https://github.com/scudev/qndxx)|青年大学习截图生成|6|2022-02-04|2021-12-16|
 |27|[DiF1202/vue3.0_music](https://github.com/DiF1202/vue3.0_music)|因为本人超级喜欢听音乐，尤其喜欢网易云，所想开发一个音乐播放器，仅学习使用无任何商业用处，代码开源，若有问题可以多多交流。|6|2021-10-14|2021-09-15|
 |28|[ZARD0520/ZARD_Boke](https://github.com/ZARD0520/ZARD_Boke)|基于vue+node+mongodb的个人博客小站，node采用了express框架，mongodb用了mongoose驱动库|5|2021-08-25|2021-08-24|
-|29|[JS-Encoder/JS-Encoder-Online](https://github.com/JS-Encoder/JS-Encoder-Online)|JS Encoder Online 在线编辑代码分享平台前端部分|5|2021-11-24|2021-08-16|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

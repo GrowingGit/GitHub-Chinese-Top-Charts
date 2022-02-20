@@ -1,30 +1,30 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > HTML
-<sub>数据更新: 2022-02-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[rubickCenter/rubick](https://github.com/rubickCenter/rubick)|🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。|2615|2022-02-18|2021-06-11|
-|2|[timb-machine/linux-malware](https://github.com/timb-machine/linux-malware)|Tracking interesting Linux (and UNIX) malware. Send PRs|811|2022-02-07|2021-07-20|
+|1|[rubickCenter/rubick](https://github.com/rubickCenter/rubick)|🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。|2616|2022-02-18|2021-06-11|
+|2|[timb-machine/linux-malware](https://github.com/timb-machine/linux-malware)|Tracking interesting Linux (and UNIX) malware. Send PRs|814|2022-02-07|2021-07-20|
 |3|[Ed1s0nZ/cool](https://github.com/Ed1s0nZ/cool)|Golang-Gin 框架写的免杀平台，内置分离、捆绑等多种BypassAV方式。|500|2021-11-25|2021-11-10|
-|4|[momo0853/kkndme](https://github.com/momo0853/kkndme)|kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。|442|2021-12-24|2021-09-10|
-|5|[nkeonkeo/nekonekostatus](https://github.com/nkeonkeo/nekonekostatus)|一个Material Design风格的探针|309|2022-02-08|2021-06-15|
+|4|[momo0853/kkndme](https://github.com/momo0853/kkndme)|kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。|443|2021-12-24|2021-09-10|
+|5|[nkeonkeo/nekonekostatus](https://github.com/nkeonkeo/nekonekostatus)|一个Material Design风格的探针|310|2022-02-08|2021-06-15|
 |6|[ecnice/flow](https://github.com/ecnice/flow)|企业级流程中心（基于flowable和bpmn.js封装的流程引擎，采用Springboot，Mybatis-plus, Ehcache, Shiro 等框架技术,前端采用Vue3&Antd，Vben）|305|2022-01-24|2021-05-27|
 |7|[NNNNolan/Ark](https://github.com/NNNNolan/Ark)|诺兰方舟|300|2022-01-24|2022-01-18|
 |8|[easychen/not-only-fans](https://github.com/easychen/not-only-fans)|an open source, self-hosted digital content subscription platform like `onlyfans.com`  with  cryptocurrency payment|261|2021-08-28|2021-08-25|
-|9|[hua1995116/360-sneakers-viewer](https://github.com/hua1995116/360-sneakers-viewer)|鸿星尔克全景（360°）鞋子展示(包含建模过程)|233|2021-09-16|2021-07-25|
-|10|[Alpha-Yang/CS-BAOYAN-2022](https://github.com/Alpha-Yang/CS-BAOYAN-2022)|计算机保研交流群（QQ群号：605176069）|204|2022-02-16|2021-10-16|
+|9|[hua1995116/360-sneakers-viewer](https://github.com/hua1995116/360-sneakers-viewer)|鸿星尔克全景（360°）鞋子展示(包含建模过程)|234|2021-09-16|2021-07-25|
+|10|[Alpha-Yang/CS-BAOYAN-2022](https://github.com/Alpha-Yang/CS-BAOYAN-2022)|计算机保研交流群（QQ群号：605176069）|205|2022-02-16|2021-10-16|
 |11|[shaoxiongdu/JVMStudy](https://github.com/shaoxiongdu/JVMStudy)|💊JVM 底层原理解析 |182|2021-08-26|2021-06-16|
-|12|[admin360bug/bypass](https://github.com/admin360bug/bypass)|-|169|2021-12-23|2021-12-22|
+|12|[admin360bug/bypass](https://github.com/admin360bug/bypass)|-|170|2021-12-23|2021-12-22|
 |13|[xiaolai/apple-computer-literacy](https://github.com/xiaolai/apple-computer-literacy)|个人电脑使用（以苹果产品为例）|160|2022-01-23|2021-10-02|
-|14|[kingcos/JueJueZiGenerator](https://github.com/kingcos/JueJueZiGenerator)|绝绝子生成器，YYDS！仅供娱乐，切勿当真～|154|2021-08-24|2021-08-18|
+|14|[kingcos/JueJueZiGenerator](https://github.com/kingcos/JueJueZiGenerator)|绝绝子生成器，YYDS！仅供娱乐，切勿当真～|156|2021-08-24|2021-08-18|
 |15|[evmn/Paul-Graham](https://github.com/evmn/Paul-Graham)|Paul Graham's Essays, Kindle version, set several sections for easy navigation|144|2021-12-11|2021-10-29|
 |16|[LesFerch/WinSetView](https://github.com/LesFerch/WinSetView)|Globally Set Explorer Folder Views|131|2022-02-16|2021-03-26|
 |17|[plazum/find-keke](https://github.com/plazum/find-keke)|寻找唐可可|128|2022-02-14|2021-11-23|
 |18|[knowsex/knowsex.github.io](https://github.com/knowsex/knowsex.github.io)|知性，开放式性教育网站。KnowSex.net is a sex education website.|127|2022-01-28|2021-03-05|
 |19|[doersino/nyum](https://github.com/doersino/nyum)|A simple Pandoc-powered static site generator for your recipe collection – it effortlessly turns a set of Markdown-formatted recipes into a lightweight, responsive, searchable website.|117|2022-02-09|2021-03-11|
-|20|[wx-chevalier/K8s-Series](https://github.com/wx-chevalier/K8s-Series)|深入浅出 K8s：概念与部署 工作载荷 服务负载 存储 权限 网络 生态扩展|112|2021-11-02|2021-02-21|
+|20|[wx-chevalier/K8s-Series](https://github.com/wx-chevalier/K8s-Series)|深入浅出 K8s：概念与部署 工作载荷 服务负载 存储 权限 网络 生态扩展|112|2022-02-20|2021-02-21|
 |21|[loongson/LoongArch-Documentation](https://github.com/loongson/LoongArch-Documentation)|The documentation for LoongArch.|109|2022-02-19|2021-05-21|
 |22|[bilibilifmk/ESP_Fishing](https://github.com/bilibilifmk/ESP_Fishing)|ESP82266 自动化WiFi密码钓鱼|108|2022-01-17|2021-03-11|
 |23|[smxl/500](https://github.com/smxl/500)|精简 GeoIP for Quantumult X / Clash 预配置文件: Apple News 解锁规则 + 捷径, 去广告分流规则, TikTok 解锁 Rewrite, 神机分流规则, VIP 视频解析重写 + 捷径|98|2022-02-18|2021-11-18|
@@ -35,14 +35,14 @@
 |28|[jbloom/SARS-CoV-2_PRJNA612766](https://github.com/jbloom/SARS-CoV-2_PRJNA612766)|Analysis of early Wuhan SARS-CoV-2 sequences from deleted SRA BioProject PRJNA612766|79|2021-09-20|2021-05-18|
 |29|[yiqia/student_system](https://github.com/yiqia/student_system)|基于thinkphp6.0+mysql+bootstrap4的疫情防控系统毕业设计|77|2021-12-04|2021-12-04|
 |30|[CaoCaoMiner/CC-Miner-Tax-Proxy](https://github.com/CaoCaoMiner/CC-Miner-Tax-Proxy)|操哥抽水器 - 最稳定的ETH/ETC抽水&中转程序|69|2021-12-30|2021-12-06|
-|31|[DaoChen6/Heroku-v2ray](https://github.com/DaoChen6/Heroku-v2ray)|在Heroku上部署v2ray|68|2022-02-02|2021-08-24|
-|32|[Denkiame/Tategaki](https://github.com/Denkiame/Tategaki)|Translate Telegra.ph to vertical writing.|67|2021-11-23|2021-08-27|
+|31|[Denkiame/Tategaki](https://github.com/Denkiame/Tategaki)|Translate Telegra.ph to vertical writing.|67|2021-11-23|2021-08-27|
+|32|[DaoChen6/Heroku-v2ray](https://github.com/DaoChen6/Heroku-v2ray)|在Heroku上部署v2ray|67|2022-02-02|2021-08-24|
 |33|[Oreomeow/freenom-py](https://github.com/Oreomeow/freenom-py)|Freenom 域名自动续约 python 项目|65|2021-10-22|2021-08-21|
 |34|[onlinemad/5000-lottery](https://github.com/onlinemad/5000-lottery)|振興五倍券加碼券速查|61|2021-11-05|2021-10-13|
 |35|[NolanHzy/nvjdcdocker](https://github.com/NolanHzy/nvjdcdocker)|-|60|2022-01-08|2021-11-13|
-|36|[wx-chevalier/Web-Tuning-Series](https://github.com/wx-chevalier/Web-Tuning-Series)|Web 性能优化系列：浏览器工作机制、性能优化、体验度量、PWA、录屏与重放|53|2021-11-02|2021-06-18|
+|36|[wx-chevalier/Web-Tuning-Series](https://github.com/wx-chevalier/Web-Tuning-Series)|Web 性能优化系列：浏览器工作机制、性能优化、体验度量、PWA、录屏与重放|53|2022-02-20|2021-06-18|
 |37|[wx-chevalier/Web-Engineering-Series](https://github.com/wx-chevalier/Web-Engineering-Series)|Web 工程化体系与应用架构探究，模块化、组件化、微前端、框架设计与实现|53|2021-11-28|2021-04-23|
-|38|[TruthOriginem/Starsector-0951-Localization](https://github.com/TruthOriginem/Starsector-0951-Localization)|远行星号中文化|53|2022-02-15|2021-04-11|
+|38|[TruthOriginem/Starsector-0951-Localization](https://github.com/TruthOriginem/Starsector-0951-Localization)|远行星号中文化|53|2022-02-19|2021-04-11|
 |39|[Nick-Hopps/v2-ui-plus](https://github.com/Nick-Hopps/v2-ui-plus)|-|53|2021-09-16|2021-02-24|
 |40|[OSCPU/ysyx](https://github.com/OSCPU/ysyx)|一生一芯的信息发布和内容网站|52|2022-02-19|2021-06-25|
 |41|[mrsanshui/WeChatPYAPI](https://github.com/mrsanshui/WeChatPYAPI)|基于微信PC端的Python接口，开发者可通过Python轻松调用。实现微信机器人、群管理等强大的功能！|51|2022-02-13|2021-07-29|
@@ -53,9 +53,9 @@
 |46|[chroblert/Flash-Pop2](https://github.com/chroblert/Flash-Pop2)|Flash-Pop升级版|45|2021-11-07|2021-11-07|
 |47|[witnessmenow/ESP32-Trinity](https://github.com/witnessmenow/ESP32-Trinity)|An Open Source ESP32 board for connecting to HUB75 Matrix Panels|44|2022-01-21|2021-07-14|
 |48|[firemakergk/aquar-home](https://github.com/firemakergk/aquar-home)|-|43|2022-01-02|2021-11-19|
-|49|[aoaostar/aliyundrive_uploader_for_baota](https://github.com/aoaostar/aliyundrive_uploader_for_baota)|阿里云盘上传宝塔插件|42|2021-09-24|2021-07-20|
-|50|[L-M-Sherlock/sm18-lazy-package](https://github.com/L-M-Sherlock/sm18-lazy-package)|SuperMemo 18 中文懒人包|41|2021-12-11|2021-11-06|
-|51|[BearLaboratory/wifiaudio-tx-hardware](https://github.com/BearLaboratory/wifiaudio-tx-hardware)|WiFi无线麦克风硬件pcb设计|41|2021-12-02|2021-10-13|
+|49|[BearLaboratory/wifiaudio-tx-hardware](https://github.com/BearLaboratory/wifiaudio-tx-hardware)|WiFi无线麦克风硬件pcb设计|42|2021-12-02|2021-10-13|
+|50|[aoaostar/aliyundrive_uploader_for_baota](https://github.com/aoaostar/aliyundrive_uploader_for_baota)|阿里云盘上传宝塔插件|42|2021-09-24|2021-07-20|
+|51|[L-M-Sherlock/sm18-lazy-package](https://github.com/L-M-Sherlock/sm18-lazy-package)|SuperMemo 18 中文懒人包|41|2021-12-11|2021-11-06|
 |52|[rxdrag/rx-entities-ts](https://github.com/rxdrag/rx-entities-ts)|Codeless back end server. 模型驱动的后端，不需要代码就可以构建后端。|41|2022-01-23|2021-05-18|
 |53|[LibreDMR/OpenGD77_UserGuide](https://github.com/LibreDMR/OpenGD77_UserGuide)|-|40|2022-01-27|2021-05-06|
 |54|[loivgehoto/Cloud-Disk-Website](https://github.com/loivgehoto/Cloud-Disk-Website)|基于springboot+mybatis实现的动态网盘网站|38|2021-10-11|2021-10-11|
