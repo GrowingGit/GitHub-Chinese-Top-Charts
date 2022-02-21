@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2022-02-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|206|2022-02-19|2021-04-18|
+|1|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|207|2022-02-21|2021-04-18|
 |2|[jamesfang8499/physics1](https://github.com/jamesfang8499/physics1)|-|79|2022-02-20|2021-07-15|
 |3|[LogCreative/SJTUBeamermin](https://github.com/LogCreative/SJTUBeamermin)|上海交通大学 LaTeX Beamer 幻灯片模板 - VI 最小工作集|56|2021-11-05|2021-03-15|
 |4|[HFUTTUG/HFUT_Thesis](https://github.com/HFUTTUG/HFUT_Thesis)|LaTeX Thesis Template for Hefei University of Technology|42|2021-08-31|2021-05-17|
@@ -17,8 +17,8 @@
 |10|[songxiaolin2009/tjuthesis_xelatex_template](https://github.com/songxiaolin2009/tjuthesis_xelatex_template)|Thesis Template in Tianjin University compiled with XeLaTeX|18|2021-12-10|2021-07-01|
 |11|[DemerzelSun12/hitletter](https://github.com/DemerzelSun12/hitletter)|一个简单的哈工大信纸模板|17|2021-12-15|2021-03-07|
 |12|[NelsonCheung-cn/SYSU-beamer-template](https://github.com/NelsonCheung-cn/SYSU-beamer-template)|a beamer template for sysu|11|2021-12-19|2021-06-16|
-|13|[ianpundar/WHU-LaTex-Template](https://github.com/ianpundar/WHU-LaTex-Template)|-|10|2021-12-13|2021-10-11|
-|14|[wenddymacro/AppliedEconometrics](https://github.com/wenddymacro/AppliedEconometrics)|Stata、计量经济学、DSGE|10|2021-10-28|2021-08-29|
+|13|[wenddymacro/AppliedEconometrics](https://github.com/wenddymacro/AppliedEconometrics)|Stata、计量经济学、DSGE|10|2021-10-28|2021-08-29|
+|14|[ianpundar/WHU-LaTex-Template](https://github.com/ianpundar/WHU-LaTex-Template)|-|9|2021-12-13|2021-10-11|
 |15|[WoodyBryant/Report_Template](https://github.com/WoodyBryant/Report_Template)|Report_Template|9|2021-11-05|2021-09-19|
 |16|[syvshc/HITBeamer](https://github.com/syvshc/HITBeamer)|基于 THU-Beamer-Theme (https://github.com/Trinkle23897/THU-Beamer-Theme) 删删改改而成的 :bug:|9|2021-11-17|2021-05-17|
 |17|[ARS-MC/RRDC](https://github.com/ARS-MC/RRDC)|红石数电评论 Review of Redstonic Digital Circuit|8|2022-02-14|2022-01-22|
