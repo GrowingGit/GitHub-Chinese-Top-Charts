@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Swift
-<sub>数据更新: 2022-02-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4065|2022-02-17|
-|2|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|783|2022-02-15|
+|2|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|784|2022-02-15|
 |3|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|371|2022-01-16|
 |4|[JmoVxia/CLDemo](https://github.com/JmoVxia/CLDemo)|记录平时博客中的Demo，持续更新|367|2022-02-14|
 |5|[Liaoworking/Advanced-Swift](https://github.com/Liaoworking/Advanced-Swift)|Notes of Advanced Swift. 《swift进阶》学习笔记 swift 5.3|316|2022-02-11|
@@ -26,7 +26,7 @@
 |19|[simplismvip/SRBook](https://github.com/simplismvip/SRBook)|电子书阅读器，支持epub和txt格式|21|2022-01-05|
 |20|[ZXKitCode/ZXKitLogger](https://github.com/ZXKitCode/ZXKitLogger)|The iOS side displays the output log log on the screen, and can generate log file sharing, which is convenient for debugging information when the real machine is not connected to xcode. iOS端将输出日志log悬浮 ...|20|2021-12-26|
 |21|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo-Swift](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo-Swift)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|16|2021-10-11|
-|22|[tw93/MiaoYan](https://github.com/tw93/MiaoYan)|⛷  轻灵的 Mac Markdown 笔记本伴你写出妙言|13|2022-02-07|
+|22|[tw93/MiaoYan](https://github.com/tw93/MiaoYan)|⛷  轻灵的 Mac Markdown 笔记本伴你写出妙言|14|2022-02-07|
 |23|[SurveyCake/webhook](https://github.com/SurveyCake/webhook)|How to use SurveyCake webhook|12|2021-09-06|
 |24|[coyingcat/15DaysofAnimationsinSwift](https://github.com/coyingcat/15DaysofAnimationsinSwift)|Swift，学习动画，升级原版本 ， larrynatalicio/15DaysofAnimationsinSwift|9|2022-01-26|
 |25|[LINGLemon/LXFSwiftApp](https://github.com/LINGLemon/LXFSwiftApp)|学习swift记录使用|8|2021-09-29|

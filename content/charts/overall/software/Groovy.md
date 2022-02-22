@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Groovy
-<sub>数据更新: 2022-02-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3616|2021-09-15|
-|2|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2181|2022-02-17|
-|3|[luckybilly/AutoRegister](https://github.com/luckybilly/AutoRegister)|基于字节码插桩，在Android中实现跨module自动注册的gradle插件，可用于模块解耦。已应用于ARouter和CC|1010|2022-01-05|
-|4|[gogradle/gogradle](https://github.com/gogradle/gogradle)|A Gradle Plugin Providing Full Support for Go|751|2021-10-11|
+|2|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2184|2022-02-17|
+|3|[luckybilly/AutoRegister](https://github.com/luckybilly/AutoRegister)|基于字节码插桩，在Android中实现跨module自动注册的gradle插件，可用于模块解耦。已应用于ARouter和CC|1016|2022-01-05|
+|4|[gogradle/gogradle](https://github.com/gogradle/gogradle)|A Gradle Plugin Providing Full Support for Go|752|2021-10-11|
 |5|[chenenyu/img-optimizer-gradle-plugin](https://github.com/chenenyu/img-optimizer-gradle-plugin)|一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩。|745|2022-02-21|
-|6|[sensorsdata/sa-sdk-android-plugin2](https://github.com/sensorsdata/sa-sdk-android-plugin2)|神策数据官方 Android 埋点插件，用于 Android 端的数据采集。通过使用字节码插桩（ASM）的技术实现 Android 端的全埋点（无埋点、无码埋点、无痕埋点、自动埋点）。|312|2022-02-08|
-|7|[lingochamp/okcheck](https://github.com/lingochamp/okcheck)|Incremental scan，integrate Lint、KtLint、UnitTest、Checkstyle、Findbugs、Pmd, powerful and easy to use|294|2021-09-27|
+|6|[sensorsdata/sa-sdk-android-plugin2](https://github.com/sensorsdata/sa-sdk-android-plugin2)|神策数据官方 Android 埋点插件，用于 Android 端的数据采集。通过使用字节码插桩（ASM）的技术实现 Android 端的全埋点（无埋点、无码埋点、无痕埋点、自动埋点）。|314|2022-02-08|
+|7|[lingochamp/okcheck](https://github.com/lingochamp/okcheck)|Incremental scan，integrate Lint、KtLint、UnitTest、Checkstyle、Findbugs、Pmd, powerful and easy to use|295|2021-09-27|
 |8|[qq549631030/AndroidJunkCode](https://github.com/qq549631030/AndroidJunkCode)|Android马甲包生成垃圾代码插件|265|2021-11-08|
 |9|[zeyangli/jenkinslibrary](https://github.com/zeyangli/jenkinslibrary)|Jenkins共享库|101|2021-10-17|
 |10|[duking666/ImgCompressPlugin](https://github.com/duking666/ImgCompressPlugin)|一款Android端自动化图片压缩的gradle插件,一键扫描项目中的资源目录并进行批量图片压缩,提供3种压缩方式,支持有损及无损压缩.同时会记录已压缩的文件,适合个人及团队协同使用.|92|2021-11-03|
@@ -30,7 +30,7 @@
 |23|[TabooLib/shrinking-kotlin](https://github.com/TabooLib/shrinking-kotlin)|减少 Kotlin 编译后的文件体积|5|2022-02-11|
 |24|[xams-creator/navicat-resetter](https://github.com/xams-creator/navicat-resetter)|重置navicat激活时间的IDEA跨平台插件 |5|2022-01-18|
 |25|[dikeboy/DhMethodTime](https://github.com/dikeboy/DhMethodTime)|统计安卓所有方法执行耗时   ,用于开发 测试时分析性能,分析ANR,Calculate android method time,|5|2022-02-21|
-|26|[AyakuraYuki/content-storage-app](https://github.com/AyakuraYuki/content-storage-app)|泛用型内容管理工具，采用JSON存储内容，SQLite持久化数据，TOTP时间动态码校验用户，Base64/DES加密数据|4|2022-02-11|
+|26|[AyakuraYuki/content-storage-app](https://github.com/AyakuraYuki/content-storage-app)|泛用型内容管理工具，采用JSON存储内容，SQLite持久化数据，TOTP时间动态码校验用户，Base64/DES加密数据|4|2022-02-22|
 |27|[eonliu/packer](https://github.com/eonliu/packer)|一个Android打包工具插件，支持360加固、多渠道打包、将APK上传到FTP等功能。|3|2022-02-14|
 |28|[Tim-Fang/MineGenshin](https://github.com/Tim-Fang/MineGenshin)|使 Minecraft 更加 Genshin Impact 化|3|2022-01-09|
 |29|[xiangwangrush/jiaguplugin](https://github.com/xiangwangrush/jiaguplugin)|360加固插件,帮助app打包后的apk自动加固并重签名|2|2022-01-06|

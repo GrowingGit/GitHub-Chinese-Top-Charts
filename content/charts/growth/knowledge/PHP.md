@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > PHP
-<sub>数据更新: 2022-02-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1575|9|2022-02-18|
-|2|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|sample code for several design patterns in PHP 8|20321|5|2022-01-09|
-|3|[hlmd/Postman-cn](https://github.com/hlmd/Postman-cn)|Postman汉化中文版|3439|5|2022-02-05|
-|4|[helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)|:octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）|7923|4|2022-02-12|
-|5|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|2503|2|2021-11-13|
-|6|[splitline/How-to-Hack-Websites](https://github.com/splitline/How-to-Hack-Websites)|開源的正體中文 Web Hacking 學習資源 - 程式安全 2021 Fall|237|2|2022-02-09|
+|1|[kuaifan/dootask](https://github.com/kuaifan/dootask)|DooTask是一款轻量级的开源在线项目任务管理工具，提供各类文档协作工具、在线思维导图、在线流程图、项目管理、任务分发、即时IM，文件管理等工具。|1579|9|2022-02-22|
+|2|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|sample code for several design patterns in PHP 8|20322|5|2022-01-09|
+|3|[hlmd/Postman-cn](https://github.com/hlmd/Postman-cn)|Postman汉化中文版|3451|5|2022-02-05|
+|4|[helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)|:octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）|7930|4|2022-02-12|
+|5|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|2504|2|2021-11-13|
+|6|[splitline/How-to-Hack-Websites](https://github.com/splitline/How-to-Hack-Websites)|開源的正體中文 Web Hacking 學習資源 - 程式安全 2021 Fall|238|2|2022-02-09|
 |7|[summerblue/laravel-shop](https://github.com/summerblue/laravel-shop)|Laravel 电商实战教程的项目代码|2359|2|2022-02-17|
-|8|[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)|A list of ICs and IPs for AI, Machine Learning and Deep Learning.|1280|1|2022-02-03|
+|8|[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)|A list of ICs and IPs for AI, Machine Learning and Deep Learning.|1281|1|2022-02-03|
 |9|[xianyunyh/PHP-Interview](https://github.com/xianyunyh/PHP-Interview)|This is the information I prepared for the PHP interview.The notes include PHP, MySql, Linux, etc.|1136|1|2021-12-12|
 |10|[owner888/phpspider](https://github.com/owner888/phpspider)|《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序|3416|1|2022-01-03|
 |11|[orangetw/My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges)|Collection of CTF Web challenges I made|2290|1|2021-12-05|
@@ -24,7 +24,7 @@
 |17|[aliliin/LeetCode-Algorithms](https://github.com/aliliin/LeetCode-Algorithms)| LeetCode Algorithms PHP 算法   leetcode php|70|0|2022-01-11|
 |18|[LychApe/DreamCat](https://github.com/LychApe/DreamCat)|DreamCat 是一个极简自适应博客主题,年轻人追梦良品!|149|0|2022-02-11|
 |19|[magicblack/maccms8](https://github.com/magicblack/maccms8)|苹果cms官方,苹果cmsv8,maccmsv8,麦克cms,开源cms,视频分享程序,文章程序,专题程序,免费程序|60|0|2022-01-09|
-|20|[opensource-socialnetwork/opensource-socialnetwork](https://github.com/opensource-socialnetwork/opensource-socialnetwork)|Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who s ...|844|0|2022-02-18|
+|20|[opensource-socialnetwork/opensource-socialnetwork](https://github.com/opensource-socialnetwork/opensource-socialnetwork)|Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who s ...|845|0|2022-02-18|
 |21|[learnku/learnku](https://github.com/learnku/learnku)|learnku.net 网站使用 laravel5.5 重新架构|160|0|2022-02-17|
 |22|[summerblue/weibo](https://github.com/summerblue/weibo)|Laravel 中文新手课程《L01 Laravel 教程 - Web 开发实战入门》的源代码 |88|0|2022-02-17|
 |23|[mokeyjay/Pixiv-daily-ranking-widget](https://github.com/mokeyjay/Pixiv-daily-ranking-widget)|会自动更新的P站每日榜小挂件，适合放在博客侧边栏等地方 Pixiv daily list widget that automatically updates, suitable for blog sidebar, etc.|213|0|2021-09-26|
@@ -35,23 +35,23 @@
 |28|[FlyingSky-CN/MDr](https://github.com/FlyingSky-CN/MDr)|Typecho Theme   MDr - 书写你的篇章|87|0|2022-02-14|
 |29|[Seevil/fantasy](https://github.com/Seevil/fantasy)|一款极简Typecho 博客主题|161|0|2021-11-22|
 |30|[Hanson/laravel-admin-wechat](https://github.com/Hanson/laravel-admin-wechat)|laravel admin 的微信扩展包，支持多公众号、多小程序、多微信支付，包含基础接口与后台|229|0|2022-02-10|
-|31|[422926799/note](https://github.com/422926799/note)|记录自己写的工具和学习笔记|299|0|2022-02-11|
-|32|[PrintNow/ChaoxingSign](https://github.com/PrintNow/ChaoxingSign)|PHP版超星学习通自动签到（包括普通签到、手势签到、位置签到，不支持二维码签到），支持多用户，二次开发便捷！|41|0|2021-09-03|
+|31|[422926799/note](https://github.com/422926799/note)|记录自己写的工具和学习笔记|300|0|2022-02-21|
+|32|[PrintNow/ChaoxingSign](https://github.com/PrintNow/ChaoxingSign)|PHP版超星学习通自动签到（包括普通签到、手势签到、位置签到，不支持二维码签到），支持多用户，二次开发便捷！|40|0|2021-09-03|
 |33|[cxp1539/laravel-core-learn](https://github.com/cxp1539/laravel-core-learn)|laravel核心知识学习|174|0|2021-11-17|
-|34|[zblogcn/zblogphp](https://github.com/zblogcn/zblogphp)|Z-BlogPHP博客程序|610|0|2022-02-20|
+|34|[zblogcn/zblogphp](https://github.com/zblogcn/zblogphp)|Z-BlogPHP博客程序|610|0|2022-02-22|
 |35|[xianyunyh/studynotes](https://github.com/xianyunyh/studynotes)|学习和工作记录笔记的地方。整理包含遇到的问题，以及学习的笔记的记录，内容涵盖了PHP、Python、Go等编程语言，主要为自己作记录，方便自己以后查阅|52|0|2022-01-20|
 |36|[luvvien/laravel-blog](https://github.com/luvvien/laravel-blog)|基于Laravel5.8构建的轻量博客应用，支持Markdown，支持图片拖拽上传，界面简洁，SEO友好，支持百度链接自动和手动提交|93|0|2022-02-17|
 |37|[dingzd1995/typecho-theme-waxy](https://github.com/dingzd1995/typecho-theme-waxy)|Waxy 简洁自适应博客主题，轻量高效，悦于书写！演示地址：https://www.idzd.top/|93|0|2022-01-30|
 |38|[filhodanuvem/awesome-php-jobs](https://github.com/filhodanuvem/awesome-php-jobs)|🐘A curated list of companies using php |116|0|2021-10-21|
 |39|[0xs1riu5/vulawdhub](https://github.com/0xs1riu5/vulawdhub)|该项目是利用docker技术创建的有漏洞的cms环境集合，可以进行练习|136|0|2022-01-13|
-|40|[k-skye/OpenVpn-Flow-Control-System](https://github.com/k-skye/OpenVpn-Flow-Control-System)|康师傅流控4.1纪念版PHP源码，使用PHP7.3制作，仅供交流学习与研究。|67|0|2022-02-04|
+|40|[k-skye/OpenVpn-Flow-Control-System](https://github.com/k-skye/OpenVpn-Flow-Control-System)|康师傅流控4.1纪念版PHP源码，使用PHP7.3制作，仅供交流学习与研究。|68|0|2022-02-04|
 |41|[ipaperclip/paperclipfans](https://github.com/ipaperclip/paperclipfans)|Hi~ 这里是 回形针 PaperClip 非官方的资料整理仓库，我们迫切的希望您的帮助整理，这将加速我们的网站维护每一期的文字稿及图片内容。|135|0|2022-02-12|
 |42|[storyflow/PHPer](https://github.com/storyflow/PHPer)|一个PHPer的升级之路|372|0|2021-11-01|
 |43|[OMGZui/noteBook](https://github.com/OMGZui/noteBook)|🍎  笔记本|387|0|2022-02-19|
 |44|[sy-records/design-patterns](https://github.com/sy-records/design-patterns)|👨🏻‍💻 Swoole微课程-PHP设计模式相关代码|51|0|2021-11-22|
 |45|[zhan3333/note](https://github.com/zhan3333/note)|编程笔记：算法、语言、工具、面试|53|0|2022-02-11|
 |46|[oubingbing/wechatAlliance](https://github.com/oubingbing/wechatAlliance)|微信小程序--校园小情书后台源码，好玩的表白墙，告白墙。|383|0|2021-10-20|
-|47|[changbin1997/MWordStar](https://github.com/changbin1997/MWordStar)|响应式双栏 Typecho 博客主题|113|0|2022-02-12|
+|47|[changbin1997/MWordStar](https://github.com/changbin1997/MWordStar)|响应式双栏 Typecho 博客主题|114|0|2022-02-12|
 |48|[anerg2046/sns_auth](https://github.com/anerg2046/sns_auth)|通用第三方登录SDK，支持微信，微信扫码，QQ，微博登录，支付宝登录，Facebook，Line，Twitter，Google|550|0|2021-11-15|
 |49|[poetries/mywiki](https://github.com/poetries/mywiki)|:books:收集整理日常发现的好资源、前端资源汇总。关注公众号「前端进阶之旅」，一起学习|646|0|2021-10-03|
 
