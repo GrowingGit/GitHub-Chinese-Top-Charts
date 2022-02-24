@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2022-02-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -16,7 +16,7 @@
 |9|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|432|0|2022-02-23|
 |10|[59079096/HCView-Pascal](https://github.com/59079096/HCView-Pascal)|A control similar to Word or WPS(一个类似word或wps用于文字排版相关功能的控件)|65|0|2022-02-20|
 |11|[hkoi/hkoi-solutions](https://github.com/hkoi/hkoi-solutions)|HKOI Final Event solutions|10|0|2022-02-03|
-|12|[ying32/liblcl](https://github.com/ying32/liblcl)|A common cross-platform GUI library, the core uses Lazarus LCL.|64|0|2022-01-11|
+|12|[ying32/liblcl](https://github.com/ying32/liblcl)|A common cross-platform GUI library, the core uses Lazarus LCL.|64|0|2022-02-24|
 |13|[2o181o28/MyProg](https://github.com/2o181o28/MyProg)|蒟蒻的小学生水平程序|5|0|2021-10-17|
 |14|[PassByYou888/ZDB2.0](https://github.com/PassByYou888/ZDB2.0)|ZDB2.0将是未来大数据支持的内核，ZDB2.0有自己的独立支持体系，跨平台特性，不依赖操作系统|17|0|2021-10-21|
 |15|[coder163/delphi-socket](https://github.com/coder163/delphi-socket)|Delphi第二季网络编程|6|0|2021-10-26|
@@ -31,7 +31,7 @@
 |24|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|239|0|2022-02-23|
 |25|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|196|0|2022-02-13|
 |26|[ying32/res2go-ide-plugin](https://github.com/ying32/res2go-ide-plugin)|res2go Lazarus IDE plug-in|13|0|2021-11-13|
-|27|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|274|0|2022-02-18|
+|27|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|274|0|2022-02-24|
 |28|[59079096/emr](https://github.com/59079096/emr)|基于HCView开发的电子病历程序|37|0|2021-09-12|
 |29|[supersoho/Delphi-DirectUI](https://github.com/supersoho/Delphi-DirectUI)|Delphi DirectUI Controls|51|0|2022-02-20|
 |30|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|30|0|2021-12-14|
@@ -40,7 +40,7 @@
 |33|[ying32/DDNRuntime-examples](https://github.com/ying32/DDNRuntime-examples)|DDNRuntime(Delphi .NET Framework/.NET Core Runtime) example. DDNRuntime is a library for Delphi to call .net dll. Support the assembly written by c#, vb.net. Support importing .net dll to delphi, can  ...|14|0|2021-12-10|
 |34|[NewCityLetter/Digital-Logic----Electric-Piano](https://github.com/NewCityLetter/Digital-Logic----Electric-Piano)|同济大学数字逻辑大作业，基于OLED显示屏、MP3播放器和PS/2键盘的电子琴|3|0|2022-01-07|
 |35|[laciba96/WinBox-for-86Box](https://github.com/laciba96/WinBox-for-86Box)|WinBox for 86Box: The newest way to manage the oldest computers.|60|0|2022-01-05|
-|36|[coder163/DesignPatternForDelphi](https://github.com/coder163/DesignPatternForDelphi)|网络上流传的设计模式多以Java、C++语言描述，用Delphi描述的资源几乎为零，特此整理|3|0|2021-11-21|
+|36|[coder163/DesignPatternForDelphi](https://github.com/coder163/DesignPatternForDelphi)|网络上流传的设计模式多以Java、C++语言描述，用Delphi描述的资源几乎为零，特此整理|4|0|2021-11-21|
 |37|[dbyoung720/ADOS](https://github.com/dbyoung720/ADOS)|给鼠标右键添加 "在此处打开命令窗口(管理员)" 菜单|2|0|2021-10-28|
 |38|[PassByYou888/zExpression](https://github.com/PassByYou888/zExpression)|脚本与编译器内部的语法引擎内核，也是一种op内核，zExpression可以轻松实现自己的脚本引擎|39|0|2021-09-21|
 |39|[LordStarMUDClient/LordStar](https://github.com/LordStarMUDClient/LordStar)|LordStar MUD Client -- 最好用的中文 MUD 客户端，支持 Lua 语言，QQ 交流群: 618631269|19|0|2022-01-11|

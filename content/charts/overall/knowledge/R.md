@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > R
-<sub>数据更新: 2022-02-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)|A curated list of awesome network analysis resources.|2588|2021-11-17|
+|1|[briatte/awesome-network-analysis](https://github.com/briatte/awesome-network-analysis)|A curated list of awesome network analysis resources.|2589|2021-11-17|
 |2|[pzhaonet/bookdownplus](https://github.com/pzhaonet/bookdownplus)|The easiest way to use R package bookdown for  writing varied types of books and documents |229|2021-12-31|
-|3|[GuangchuangYu/biobabble](https://github.com/GuangchuangYu/biobabble)|公众号：biobabble|58|2021-09-26|
+|3|[GuangchuangYu/biobabble](https://github.com/GuangchuangYu/biobabble)|公众号：biobabble|59|2021-09-26|
 |4|[yufree/sciguide](https://github.com/yufree/sciguide)|现代科研指北|57|2021-12-22|
 |5|[cosname/rmarkdown-guide](https://github.com/cosname/rmarkdown-guide)|R Markdown 指南（一本八字还没一撇的中文书）|40|2022-02-23|
 |6|[wangyi-fudan/BIOL130173](https://github.com/wangyi-fudan/BIOL130173)|复旦大学生命科学学院《生命科学中的机器学习》|28|2021-10-02|

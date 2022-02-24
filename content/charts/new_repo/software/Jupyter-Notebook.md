@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Jupyter Notebook
-<sub>数据更新: 2022-02-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|892|2021-12-29|2021-04-07|
-|2|[enpeizhao/CVprojects](https://github.com/enpeizhao/CVprojects)|computer vision projects    计算机视觉等好玩的AI项目|310|2022-02-20|2021-11-22|
+|1|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|893|2021-12-29|2021-04-07|
+|2|[enpeizhao/CVprojects](https://github.com/enpeizhao/CVprojects)|computer vision projects    计算机视觉等好玩的AI项目|312|2022-02-20|2021-11-22|
 |3|[chokkan/mlnote](https://github.com/chokkan/mlnote)|機械学習帳|193|2022-02-01|2021-09-29|
 |4|[4paradigm/AutoX](https://github.com/4paradigm/AutoX)|AutoX is an efficient automl tool, which is mainly aimed at data mining competitions with tabular data.|190|2022-02-20|2021-07-21|
 |5|[44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel)|基于思源黑体的开源像素字体|172|2022-01-03|2021-08-18|
-|6|[datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)|-|126|2021-11-15|2021-07-31|
+|6|[datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)|-|127|2021-11-15|2021-07-31|
 |7|[chenghuige/pikachu2](https://github.com/chenghuige/pikachu2)|微信大数据2021 1st，qq浏览器2021 3rd，mind新闻推荐2020 1st，NAIC2020 AI+遥感影像 2nd|108|2021-11-17|2021-11-04|
 |8|[hhiim/Lacan](https://github.com/hhiim/Lacan)|利用四层LSTM生成拉康精神分析黑话，用于讽刺（但过拟合……|77|2022-02-07|2022-02-04|
-|9|[ni1o1/transbigdata](https://github.com/ni1o1/transbigdata)|A Python package develop for transportation spatio-temporal big data processing, analysis and visualization.|75|2022-02-23|2021-10-21|
-|10|[kzbkzb/Python-AI](https://github.com/kzbkzb/Python-AI)|深度学习100例、深度学习DL、图片分类、目标识别、目标检测、自然语言处理nlp、文本分类、TensorFlow、PyTorch|68|2022-01-12|2021-10-18|
+|9|[ni1o1/transbigdata](https://github.com/ni1o1/transbigdata)|A Python package develop for transportation spatio-temporal big data processing, analysis and visualization.|77|2022-02-23|2021-10-21|
+|10|[kzbkzb/Python-AI](https://github.com/kzbkzb/Python-AI)|深度学习100例、深度学习DL、图片分类、目标识别、目标检测、自然语言处理nlp、文本分类、TensorFlow、PyTorch|73|2022-01-12|2021-10-18|
 |11|[dglai/maxp_baseline_model](https://github.com/dglai/maxp_baseline_model)|-|67|2021-11-05|2021-10-06|
 |12|[datawhalechina/learn-python-the-smart-way](https://github.com/datawhalechina/learn-python-the-smart-way)|聪明方法学Python，简明且系统的 Python 入门教程。|66|2022-01-25|2021-07-10|
 |13|[lingjzhu/charsiu](https://github.com/lingjzhu/charsiu)|Charsiu: A neural phonetic aligner.|63|2022-02-12|2021-08-29|
 |14|[datawhalechina/powerful-numpy](https://github.com/datawhalechina/powerful-numpy)|巨硬的NumPy|60|2022-02-17|2021-10-15|
-|15|[EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker)|Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 挂刀比例数据   Track cheap Steam Community Market items on buff.163.com, igxe.cn and c5game.com|51|2022-02-18|2021-10-11|
+|15|[EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker)|Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 挂刀比例数据   Track cheap Steam Community Market items on buff.163.com, igxe.cn and c5game.com|57|2022-02-18|2021-10-11|
 |16|[madhavmk/Noise2Noise-audio_denoising_without_clean_training_data](https://github.com/madhavmk/Noise2Noise-audio_denoising_without_clean_training_data)|Source code for the paper titled "Speech Denoising without Clean Training Data: a Noise2Noise Approach".  Paper accepted at the INTERSPEECH 2021 conference. This paper tackles the problem of the heavy ...|51|2021-09-04|2021-03-28|
-|17|[jonatasgrosman/wav2vec2-sprint](https://github.com/jonatasgrosman/wav2vec2-sprint)|-|47|2022-02-22|2021-03-22|
+|17|[jonatasgrosman/wav2vec2-sprint](https://github.com/jonatasgrosman/wav2vec2-sprint)|-|48|2022-02-22|2021-03-22|
 |18|[hansu1017/WSDM2022-Retention-Score-Prediction](https://github.com/hansu1017/WSDM2022-Retention-Score-Prediction)|WSDM2022留存预测挑战赛 第1名解决方案|46|2022-02-08|2022-01-28|
 |19|[QikaiXu/Recommender-System-Pytorch](https://github.com/QikaiXu/Recommender-System-Pytorch)|基于 Pytorch 实现推荐系统相关的算法|43|2021-11-17|2021-07-10|
 |20|[sunnyswag/StockRL](https://github.com/sunnyswag/StockRL)|在A股(股票)市场上训练强化学习交易智能体|42|2021-08-28|2021-04-18|
