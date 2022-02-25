@@ -1,26 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2022-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|576|2022-02-07|
-|2|[pzhaonet/mindr](https://github.com/pzhaonet/mindr)|an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms)|542|2021-11-22|
-|3|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|502|2022-02-03|
-|4|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|366|2022-02-24|
-|5|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|361|2022-02-18|
+|1|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|577|2022-02-07|
+|2|[pzhaonet/mindr](https://github.com/pzhaonet/mindr)|an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms)|543|2021-11-22|
+|3|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|503|2022-02-03|
+|4|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|365|2022-02-25|
+|5|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|361|2022-02-25|
 |6|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|228|2022-02-16|
 |7|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|162|2021-12-19|
 |8|[hrbrmstr/docxtractr](https://github.com/hrbrmstr/docxtractr)|:scissors: Extract Tables from Microsoft Word Documents with R|151|2021-10-02|
-|9|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|151|2022-02-02|
-|10|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|2022-02-24|
+|9|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|151|2022-02-25|
+|10|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|2022-02-25|
 |11|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|132|2021-11-28|
-|12|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|112|2022-02-18|
+|12|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|112|2022-02-25|
 |13|[quanteda/stopwords](https://github.com/quanteda/stopwords)|Multilingual Stopword Lists in R|103|2022-01-07|
 |14|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|95|2022-01-28|
 |15|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008)|85|2021-11-29|
-|16|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|🛠 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|80|2022-02-24|
+|16|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|🛠 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|80|2022-02-25|
 |17|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|66|2021-09-15|
 |18|[ykang/gratis](https://github.com/ykang/gratis)|GRATIS: GeneRAting TIme Series with diverse and controllable characteristics|64|2022-02-06|
 |19|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|62|2022-02-24|
@@ -28,7 +28,7 @@
 |21|[hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|58|2021-12-21|
 |22|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/|52|2022-02-10|
 |23|[harryprince/geospark](https://github.com/harryprince/geospark)|bring sf to spark in production|48|2021-12-13|
-|24|[koheiw/newsmap](https://github.com/koheiw/newsmap)|Newsmap: geographical news classifier|46|2022-02-22|
+|24|[koheiw/newsmap](https://github.com/koheiw/newsmap)|Newsmap: geographical news classifier|47|2022-02-22|
 |25|[eco-hydro/phenofit](https://github.com/eco-hydro/phenofit)|R package: A state-of-the-art Vegetation Phenology extraction package, phenofit|44|2022-02-23|
 |26|[uribo/zipangu](https://github.com/uribo/zipangu)|Japanese utility functions and data|42|2022-02-24|
 |27|[koheiw/LSX](https://github.com/koheiw/LSX)|A word embeddings-based semi-supervised model for document scaling|42|2022-02-24|
@@ -43,7 +43,7 @@
 |36|[jincheng9/stock_crawler](https://github.com/jincheng9/stock_crawler)|R API for Crawling Stock and Index Data from Sina Finance|31|2021-11-08|
 |37|[YongxinLiu/EasyMicrobiome](https://github.com/YongxinLiu/EasyMicrobiome)|Scripts and databases for amplicon and metagenome|30|2022-01-28|
 |38|[koheiw/seededlda](https://github.com/koheiw/seededlda)|Semisupervided LDA for theory-driven text analysis|30|2022-01-07|
-|39|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |30|2022-02-20|
+|39|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |30|2022-02-25|
 |40|[mlampros/textTinyR](https://github.com/mlampros/textTinyR)|Text Processing for Small or Big Data Files in R|29|2021-11-30|
 |41|[bnosac/ETM](https://github.com/bnosac/ETM)|Topic Modelling in Semantic Embedding Spaces|28|2021-11-11|
 |42|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit (kw: field observation, air polltion, time series summary, time series resampling, average variation, ozone formation potential (OFP), MIR, tuv). |25|2022-02-01|
@@ -60,7 +60,7 @@
 |53|[IshidaMotohiro/TextMining](https://github.com/IshidaMotohiro/TextMining)|-|16|2022-01-25|
 |54|[zumbov2/deeplr](https://github.com/zumbov2/deeplr)|An R wrapper for the DeepL Translator API|15|2022-01-27|
 |55|[pzhaonet/beginr](https://github.com/pzhaonet/beginr)|an R package for beginners|15|2021-12-03|
-|56|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|13|2021-11-26|
+|56|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|14|2021-11-26|
 |57|[fragla/eq5d](https://github.com/fragla/eq5d)|-|13|2022-02-24|
 |58|[Hong-Kong-Districts-Info/hkdatasets](https://github.com/Hong-Kong-Districts-Info/hkdatasets)|Datasets relating to Hong Kong|12|2021-09-04|
 |59|[davidycliao/redguards](https://github.com/davidycliao/redguards)|This is a designed package for replicating the estimates and findings in the article of Factionalism and the Red Guards under Mao's China: Ideal Point Estimation Using Text Data. |11|2022-02-22|
@@ -71,11 +71,11 @@
 |64|[Wytamma/GISAIDR](https://github.com/Wytamma/GISAIDR)|Programmatically interact with the GISAID database.|9|2022-02-18|
 |65|[dazamora/DWBmodelUN](https://github.com/dazamora/DWBmodelUN)|R native implementation of the Dynamic Water Balance hydrologic model in a monthly time step |9|2021-09-29|
 |66|[YuLab-SMU/nCov2019](https://github.com/YuLab-SMU/nCov2019)|:microbe: Exploring COVID-19 data|8|2021-12-13|
-|67|[majianthu/aps2020](https://github.com/majianthu/aps2020)|Code for the paper 'Variable Selection with Copula Entropy' published on Chinese Journal of Applied Probability and Statistics|8|2021-12-31|
-|68|[esowc/UNSEEN-open](https://github.com/esowc/UNSEEN-open)|An open, reproducible and transferable workflow to assess and anticipate climate extremes beyond the observed record|8|2021-09-14|
-|69|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|8|2022-01-26|
-|70|[OxDemTech/china_diplomats](https://github.com/OxDemTech/china_diplomats)|-|7|2021-11-16|
-|71|[chainsawriot/sweater](https://github.com/chainsawriot/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|7|2022-02-09|
+|67|[chainsawriot/sweater](https://github.com/chainsawriot/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|8|2022-02-09|
+|68|[majianthu/aps2020](https://github.com/majianthu/aps2020)|Code for the paper 'Variable Selection with Copula Entropy' published on Chinese Journal of Applied Probability and Statistics|8|2021-12-31|
+|69|[esowc/UNSEEN-open](https://github.com/esowc/UNSEEN-open)|An open, reproducible and transferable workflow to assess and anticipate climate extremes beyond the observed record|8|2021-09-14|
+|70|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|8|2022-01-26|
+|71|[OxDemTech/china_diplomats](https://github.com/OxDemTech/china_diplomats)|-|7|2021-11-16|
 |72|[lexcomber/GWRroutemap](https://github.com/lexcomber/GWRroutemap)|the GWR route maps for physical and human geography|7|2022-01-11|
 |73|[sascha2schroeder/popEye](https://github.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|7|2021-11-01|
 |74|[lexcomber/SpatInt](https://github.com/lexcomber/SpatInt)|Examples of different Spatial Interpolation approaches in R |7|2022-01-20|

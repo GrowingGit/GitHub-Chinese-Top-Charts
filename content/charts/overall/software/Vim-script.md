@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Vim script
-<sub>数据更新: 2022-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|17849|2022-02-24|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|7101|2022-02-16|
-|3|[mattn/emmet-vim](https://github.com/mattn/emmet-vim)|emmet for vim: http://emmet.io/|5854|2021-12-04|
+|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|17857|2022-02-24|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|7105|2022-02-16|
+|3|[mattn/emmet-vim](https://github.com/mattn/emmet-vim)|emmet for vim: http://emmet.io/|5855|2021-12-04|
 |4|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4849|2022-02-21|
 |5|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1525|2021-12-27|
 |6|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1520|2022-02-20|
 |7|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1344|2021-12-25|
-|8|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|648|2022-01-12|
+|8|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|649|2022-01-12|
 |9|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|627|2022-02-21|
 |10|[jaywcjlove/vim-web](https://github.com/jaywcjlove/vim-web)|◈ 搞得像IDE一样的Vim，安装配置自己的Vim。|567|2021-12-05|
 |11|[mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)|A vim 7.4+ plugin to generate table of contents for Markdown files.|484|2022-02-11|
@@ -21,7 +21,7 @@
 |14|[sillybun/vim-repl](https://github.com/sillybun/vim-repl)|Best REPL environment for Vim|379|2022-02-13|
 |15|[lyokha/vim-xkbswitch](https://github.com/lyokha/vim-xkbswitch)|vim plugin for automatic keyboard layout switching in insert mode|373|2021-12-29|
 |16|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|348|2021-10-26|
-|17|[fgheng/vime](https://github.com/fgheng/vime)|vime, an easy and structural config for (neo)vim users|302|2022-01-20|
+|17|[fgheng/vime](https://github.com/fgheng/vime)|vime, an easy and structural config for (neo)vim users|304|2022-01-20|
 |18|[lilydjwg/dotvim](https://github.com/lilydjwg/dotvim)|My vim config|260|2022-01-19|
 |19|[hotoo/pangu.vim](https://github.com/hotoo/pangu.vim)|『盘古之白』中文排版自动规范化的 Vim 插件|259|2022-02-24|
 |20|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|256|2022-01-10|
@@ -36,7 +36,7 @@
 |29|[hotoo/vimrc](https://github.com/hotoo/vimrc)|:v: 闲耘™ 的 Vim 配置。|83|2022-02-21|
 |30|[pi314/ime.vim](https://github.com/pi314/ime.vim)|A Vim input method engine|71|2022-01-22|
 |31|[mbbill/fencview](https://github.com/mbbill/fencview)|Auto detect CJK and Unicode file encodings.|61|2021-10-12|
-|32|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog based on vimscript|54|2022-02-24|
+|32|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog based on vimscript|55|2022-02-25|
 |33|[wlemuel/vim-tldr](https://github.com/wlemuel/vim-tldr)|tldr client for vim/neovim|46|2021-12-26|
 |34|[iokfine/bee-dashboard](https://github.com/iokfine/bee-dashboard)|管理多个bee节点 提现工具|43|2022-02-21|
 |35|[mrbeardad/SpaceVim](https://github.com/mrbeardad/SpaceVim)|基于SpaceVim的真正开箱即用、无需配置的IDE，你只需要记住快捷键即可。（目前默认支持C/C++、Go、Python、Shell、Markdown、VimL）|43|2021-09-26|

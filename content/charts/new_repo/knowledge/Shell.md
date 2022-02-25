@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Shell
-<sub>数据更新: 2022-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[rootsongjc/kubernetes-hardening-guidance](https://github.com/rootsongjc/kubernetes-hardening-guidance)|《Kubernetes 加固手册》（美国国家安全局出品）- https://jimmysong.io/kubernetes-hardening-guidance|446|2022-02-23|2021-08-08|
-|2|[Petit-Abba/backup_script_zh-CN](https://github.com/Petit-Abba/backup_script_zh-CN)|数据备份脚本 简体中文版|248|2022-02-24|2021-09-08|
+|2|[Petit-Abba/backup_script_zh-CN](https://github.com/Petit-Abba/backup_script_zh-CN)|数据备份脚本 简体中文版|250|2022-02-25|2021-09-08|
 |3|[overmind1980/oeasypython](https://github.com/overmind1980/oeasypython)|面向初学者的简明易懂的 Python3 课程，对没有编程经验的同学也非常友好。在vim下从浅入深，逐步学习。|199|2021-12-10|2021-08-04|
 |4|[AlphabugX/csOnvps](https://github.com/AlphabugX/csOnvps)|CobaltStrike4.4 一键部署脚本 随机生成密码、key、端口号、证书等，解决cs4.x无法运行在Linux上报错问题 灰常银杏化设计|165|2022-02-11|2021-12-02|
 |5|[marmotedu/geekbang-go](https://github.com/marmotedu/geekbang-go)|极客时间 《Go 语言项目开发实战》课程补充教程。|154|2021-11-05|2021-05-27|
