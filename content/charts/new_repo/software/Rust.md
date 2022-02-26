@@ -1,33 +1,33 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Rust
-<sub>数据更新: 2022-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[rapiz1/rathole](https://github.com/rapiz1/rathole)|A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.|2877|2022-02-25|2021-12-14|
-|2|[gyroflow/gyroflow](https://github.com/gyroflow/gyroflow)|Video stabilization using gyroscope data|2791|2022-02-25|2021-11-11|
-|3|[messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)|阿里云盘 WebDAV 服务|2264|2022-02-20|2021-08-18|
-|4|[hora-search/hora](https://github.com/hora-search/hora)|🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 . |2146|2021-10-23|2021-05-15|
-|5|[0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)|Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.|1895|2022-02-19|2021-10-07|
+|1|[rapiz1/rathole](https://github.com/rapiz1/rathole)|A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.|2883|2022-02-25|2021-12-14|
+|2|[gyroflow/gyroflow](https://github.com/gyroflow/gyroflow)|Video stabilization using gyroscope data|2805|2022-02-25|2021-11-11|
+|3|[messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav)|阿里云盘 WebDAV 服务|2279|2022-02-20|2021-08-18|
+|4|[hora-search/hora](https://github.com/hora-search/hora)|🚀  efficient approximate nearest neighbor search algorithm collections library written in Rust 🦀 . |2145|2021-10-23|2021-05-15|
+|5|[0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater)|Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.|1897|2022-02-19|2021-10-07|
 |6|[bytedance/monoio](https://github.com/bytedance/monoio)|Rust async runtime based on io-uring.|1801|2022-02-23|2021-11-30|
-|7|[ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf)|基于 Rust + eBPF 丢弃 GFW DNS 污染包|941|2021-12-05|2021-10-02|
-|8|[bnjbvr/rouille](https://github.com/bnjbvr/rouille)|Rust programming, in French.|774|2022-01-07|2021-09-09|
-|9|[wubx/rust-in-databend](https://github.com/wubx/rust-in-databend)|Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend|645|2022-02-21|2021-09-22|
-|10|[LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)|A tiling window manager for Windows|610|2022-02-05|2021-07-29|
-|11|[editso/fuso](https://github.com/editso/fuso)|一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy,  ...|583|2022-02-19|2021-11-26|
-|12|[risinglightdb/risinglight](https://github.com/risinglightdb/risinglight)|An OLAP database system for educational purpose|510|2022-02-25|2021-08-06|
+|7|[ihciah/clean-dns-bpf](https://github.com/ihciah/clean-dns-bpf)|基于 Rust + eBPF 丢弃 GFW DNS 污染包|940|2021-12-05|2021-10-02|
+|8|[bnjbvr/rouille](https://github.com/bnjbvr/rouille)|Rust programming, in French.|776|2022-01-07|2021-09-09|
+|9|[wubx/rust-in-databend](https://github.com/wubx/rust-in-databend)|Rust 培养提高计划, 感谢 Databend 社区 支持https://github.com/datafuselabs/databend|646|2022-02-21|2021-09-22|
+|10|[LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)|A tiling window manager for Windows|611|2022-02-05|2021-07-29|
+|11|[editso/fuso](https://github.com/editso/fuso)|一款体积小, 快速, 稳定, 高效, 轻量的内网穿透, 端口转发工具 支持多连接,级联代理,传输加密 (A small volume, fast, stable, efficient, and lightweight intranet penetration, port forwarding tool supports multiple connections, cascading proxy,  ...|584|2022-02-19|2021-11-26|
+|12|[risinglightdb/risinglight](https://github.com/risinglightdb/risinglight)|An OLAP database system for educational purpose|512|2022-02-26|2021-08-06|
 |13|[Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow)|将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart|342|2022-01-21|2021-08-17|
-|14|[wormtql/yas](https://github.com/wormtql/yas)|Superfast Genshin Impact artifacts scanner|287|2022-02-21|2021-10-06|
+|14|[wormtql/yas](https://github.com/wormtql/yas)|Superfast Genshin Impact artifacts scanner|293|2022-02-26|2021-10-06|
 |15|[0x727/ObserverWard](https://github.com/0x727/ObserverWard)|Cross platform community web fingerprint identification tool|274|2022-02-17|2021-08-21|
 |16|[PersiaML/PERSIA](https://github.com/PersiaML/PERSIA)|High performance distributed framework for training deep learning recommendation models based on PyTorch.|260|2022-02-23|2021-06-24|
 |17|[al8n/stretto](https://github.com/al8n/stretto)|Stretto is a Rust implementation for https://github.com/dgraph-io/ristretto. A high performance memory-bound Rust cache.|235|2021-12-18|2021-07-27|
 |18|[Kingbultsea/vite-analysis](https://github.com/Kingbultsea/vite-analysis)|出最新版本的全部源码分析中...（换了m1芯片arm64架构的电脑，旧版本无法运行，如esbuild Chromium）|223|2022-01-01|2021-04-02|
 |19|[zu1k/good-mitm](https://github.com/zu1k/good-mitm)|利用MITM技术实现请求和返回的重写、重定向、阻断等操作|185|2022-01-16|2021-09-14|
-|20|[tramhao/termusic](https://github.com/tramhao/termusic)|Music Player TUI written in Rust|174|2022-02-25|2021-06-01|
-|21|[messense/aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse)|阿里云盘 FUSE 磁盘挂载|155|2022-02-19|2022-01-05|
-|22|[lz1998/rs-qq](https://github.com/lz1998/rs-qq)|Rust 模拟QQ客户端协议|109|2022-02-24|2021-10-24|
-|23|[stalwartlabs/mail-parser](https://github.com/stalwartlabs/mail-parser)|Fast and robust e-mail parsing library for Rust|97|2022-02-01|2021-10-03|
+|20|[tramhao/termusic](https://github.com/tramhao/termusic)|Music Player TUI written in Rust|175|2022-02-25|2021-06-01|
+|21|[messense/aliyundrive-fuse](https://github.com/messense/aliyundrive-fuse)|阿里云盘 FUSE 磁盘挂载|158|2022-02-19|2022-01-05|
+|22|[lz1998/rs-qq](https://github.com/lz1998/rs-qq)|Rust 模拟QQ客户端协议|109|2022-02-26|2021-10-24|
+|23|[stalwartlabs/mail-parser](https://github.com/stalwartlabs/mail-parser)|Fast and robust e-mail parsing library for Rust|98|2022-02-01|2021-10-03|
 |24|[ForgQi/biliup-rs](https://github.com/ForgQi/biliup-rs)|B站命令行投稿工具，支持多p、线路选择|74|2022-02-20|2021-12-10|
 |25|[ElnuDev/hebi](https://github.com/ElnuDev/hebi)|A highly customizable snake clone made in Rust with the Bevy engine, named after the Japanese word for snake, 蛇.|72|2022-02-18|2021-08-22|
 |26|[Tencent/tat-agent](https://github.com/Tencent/tat-agent)|TAT agent is an agent written in Rust, which run in CVM, Lighthouse or CPM 2.0 instances. Its role is to run commands remotely without ssh login, invoked from TencentCloud Console/API. Commands includ ...|70|2022-02-16|2021-11-23|
