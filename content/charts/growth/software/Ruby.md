@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Ruby
-<sub>数据更新: 2022-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-02-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[MBoxPlus/mbox](https://github.com/MBoxPlus/mbox)|Toolchain for Mobile App Development 移动研发工具链|666|3|2022-01-13|
-|2|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|5840|2|2022-02-24|
-|3|[darkbitio/aws-recon](https://github.com/darkbitio/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|400|1|2022-02-23|
+|1|[MBoxPlus/mbox](https://github.com/MBoxPlus/mbox)|Toolchain for Mobile App Development 移动研发工具链|667|3|2022-01-13|
+|2|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|5839|2|2022-02-27|
+|3|[darkbitio/aws-recon](https://github.com/darkbitio/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|401|1|2022-02-23|
 |4|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3542|1|2022-02-26|
-|5|[peatio/peatio](https://github.com/peatio/peatio)|An open-source assets exchange.|3511|1|2022-02-18|
-|6|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3408|1|2022-02-20|
-|7|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1774|1|2022-02-11|
+|5|[peatio/peatio](https://github.com/peatio/peatio)|An open-source assets exchange.|3512|1|2022-02-18|
+|6|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3409|1|2022-02-27|
+|7|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1775|1|2022-02-11|
 |8|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|548|1|2022-02-25|
 |9|[yangKJ/PT](https://github.com/yangKJ/PT)|Automatically generate componentized modules 自动生成组件化模块|41|1|2022-01-19|
 |10|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|2044|1|2022-02-14|
 |11|[pluosi/app-host](https://github.com/pluosi/app-host)|应用内网发布   iOS OTA (Over-the-Air)   APP publish website like fir.im    适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包|1819|1|2022-02-25|
 |12|[rikas/zoho_hub](https://github.com/rikas/zoho_hub)|Zoho CRM API V2 Wrapper|20|0|2022-02-24|
-|13|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|480|0|2022-02-23|
+|13|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|480|0|2022-02-26|
 |14|[huacnlee/sql-builder](https://github.com/huacnlee/sql-builder)|A simple SQL builder for generate SQL for non-ActiveRecord supports databases|32|0|2022-01-13|
 |15|[courtenay/splam](https://github.com/courtenay/splam)|Simple, pluggable, easily customizable score-based spam filter plugin for Ruby-based applications|108|0|2021-10-25|
-|16|[kenn/active_flag](https://github.com/kenn/active_flag)|Bit array for ActiveRecord|106|0|2022-02-16|
-|17|[aozorahack/aozorabunko_text](https://github.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|46|0|2022-02-26|
+|16|[kenn/active_flag](https://github.com/kenn/active_flag)|Bit array for ActiveRecord|107|0|2022-02-16|
+|17|[aozorahack/aozorabunko_text](https://github.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|46|0|2022-02-27|
 |18|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|18|0|2022-02-25|
 |19|[ruilisi/rails-pangu](https://github.com/ruilisi/rails-pangu)|Rails starter kit that every startup needs|195|0|2022-02-26|
 |20|[NeverMin/omniauth-wechat-oauth2](https://github.com/NeverMin/omniauth-wechat-oauth2)|Wechat OAuth2 Strategy for OmniAuth 1.0.|267|0|2021-10-14|
@@ -50,10 +50,10 @@
 |43|[citahub/re-birth](https://github.com/citahub/re-birth)|A blockchain explorer cache server for CITA|12|0|2022-02-11|
 |44|[coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp)|☯️ CoderDojo Japan (@coderdojo-japan) official website developed by Ruby on Rails with @YassLab team. 💎|54|0|2022-02-23|
 |45|[algobasket/PeatioCryptoExchange](https://github.com/algobasket/PeatioCryptoExchange)|An open-source Crypto-Currency exchange. Peatio v3.0 Coming Soon !  |154|0|2022-02-26|
-|46|[rkh/nii](https://github.com/rkh/nii)|Modern internationalization and localization solution for Ruby|19|0|2021-10-20|
+|46|[rkh/nii](https://github.com/rkh/nii)|Modern internationalization and localization solution for Ruby|20|0|2021-10-20|
 |47|[dao42/qywechat-notifier](https://github.com/dao42/qywechat-notifier)|RubyGem: 企业微信 notification exception 插件|18|0|2022-02-26|
 |48|[Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1270|0|2022-02-16|
-|49|[huacnlee/activestorage-aliyun](https://github.com/huacnlee/activestorage-aliyun)|Wraps the Aliyun OSS as an Active Storage service. |112|0|2022-02-09|
+|49|[huacnlee/activestorage-aliyun](https://github.com/huacnlee/activestorage-aliyun)|Wraps the Aliyun OSS as an Active Storage service. |113|0|2022-02-09|
 |50|[lanrion/weixin_rails_middleware](https://github.com/lanrion/weixin_rails_middleware)|微信集成 ruby weixin_rails_middleware for integration weixin. |414|0|2022-02-26|
 |51|[JunichiIto/be_vimmer](https://github.com/JunichiIto/be_vimmer)|A bot that tweets Vim tips |20|0|2022-02-26|
 |52|[aliyun/openapi-core-ruby-sdk](https://github.com/aliyun/openapi-core-ruby-sdk)|Alibaba Cloud Core SDK for Ruby|34|0|2022-02-25|
@@ -63,11 +63,11 @@
 |56|[didww/credit_card_validations](https://github.com/didww/credit_card_validations)|:credit_card: ruby gem for validating credit card numbers, generating valid numbers, luhn checks|191|0|2022-01-02|
 |57|[ankane/blingfire-ruby](https://github.com/ankane/blingfire-ruby)|High speed text tokenization for Ruby|44|0|2022-01-10|
 |58|[thierryxing/dingtalk-bot](https://github.com/thierryxing/dingtalk-bot)|钉钉自定义机器人Ruby SDK|33|0|2021-09-09|
-|59|[Tabll/gemnasium-db](https://github.com/Tabll/gemnasium-db)|GitLab 依赖项扫描的咨询数据库，每天17:00自动更新|29|0|2022-02-26|
+|59|[Tabll/gemnasium-db](https://github.com/Tabll/gemnasium-db)|GitLab 依赖项扫描的咨询数据库，每天17:00自动更新|29|0|2022-02-27|
 |60|[diylove/wiki](https://github.com/diylove/wiki)|diy万事万物的程序|18|0|2022-01-23|
 |61|[SciRuby/daru](https://github.com/SciRuby/daru)|Data Analysis in RUby|928|0|2021-12-31|
 |62|[doorkeeper-gem/doorkeeper-i18n](https://github.com/doorkeeper-gem/doorkeeper-i18n)|Translation files for Doorkeeper OAuth 2 provider|27|0|2021-09-24|
-|63|[piotrmurach/strings-truncation](https://github.com/piotrmurach/strings-truncation)|Truncate strings with fullwidth characters and ANSI codes.|41|0|2022-02-14|
+|63|[piotrmurach/strings-truncation](https://github.com/piotrmurach/strings-truncation)|Truncate strings with fullwidth characters and ANSI codes.|42|0|2022-02-14|
 |64|[crispgm/weekly](https://github.com/crispgm/weekly)|A personal curation of tech articles|9|0|2021-11-12|
 |65|[huacnlee/enumize](https://github.com/huacnlee/enumize)|Extend ActiveRecord::Enum for add more helpful methods.|24|0|2021-12-17|
 |66|[yuchiXiong/pilipala](https://github.com/yuchiXiong/pilipala)|基于rails构建的博客系统|9|0|2021-11-29|
@@ -75,14 +75,14 @@
 |68|[etrex/kamigo](https://github.com/etrex/kamigo)|a chatbot framework based on rails|61|0|2022-02-26|
 |69|[mataki/dekiru](https://github.com/mataki/dekiru)|Usefull helper methods for Ruby on Rails|25|0|2022-01-17|
 |70|[bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD)|-|130|0|2022-02-24|
-|71|[wu-kan/wu-kan.github.io](https://github.com/wu-kan/wu-kan.github.io)|:sparkles: my homepage & template for jekyll-theme-WuK|192|0|2022-02-25|
+|71|[wu-kan/wu-kan.github.io](https://github.com/wu-kan/wu-kan.github.io)|:sparkles: my homepage & template for jekyll-theme-WuK|192|0|2022-02-27|
 |72|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|14|0|2022-02-23|
 |73|[jpmobile/jpmobile](https://github.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|317|0|2022-02-26|
 |74|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|13|0|2022-01-13|
 |75|[bingohuang/progit2-gitbook](https://github.com/bingohuang/progit2-gitbook)|Pro Gi­t 第二版 ­简体中文|301|0|2021-09-06|
 |76|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast and smart citation reference parsing|592|0|2021-11-28|
 |77|[saberma/shopqi](https://github.com/saberma/shopqi)|An open source clone of Shopify.|812|0|2022-02-26|
-|78|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|18|0|2022-02-26|
+|78|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|18|0|2022-02-27|
 |79|[jfqd/redmine_helpdesk](https://github.com/jfqd/redmine_helpdesk)|Lightweight helpdesk plugin for redmine.|170|0|2021-12-23|
 |80|[qiniu/ruby-sdk](https://github.com/qiniu/ruby-sdk)|Qiniu Resource (Cloud) Storage SDK for Ruby|161|0|2021-09-23|
 |81|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|9|0|2021-12-09|
@@ -119,8 +119,8 @@
 |112|[wit-ai/wit-ruby](https://github.com/wit-ai/wit-ruby)|Ruby library for Wit.ai|278|0|2022-02-16|
 |113|[YunzheZJU/non-stop-story](https://github.com/YunzheZJU/non-stop-story)|Backend for holo-schedule on Rails.|19|0|2022-02-26|
 |114|[YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby)|A Ruby port of Puppeteer|130|0|2022-02-10|
-|115|[dblock/slack-gamebot](https://github.com/dblock/slack-gamebot)|Ping pong, chess, pool and other games bot for Slack.|128|0|2022-02-26|
-|116|[michelson/lazy_high_charts](https://github.com/michelson/lazy_high_charts)|Make highcharts a la ruby , works in rails 5.X / 4.X / 3.X, and other ruby web frameworks|1044|0|2022-01-18|
+|115|[dblock/slack-gamebot](https://github.com/dblock/slack-gamebot)|Ping pong, chess, pool and other games bot for Slack.|128|0|2022-02-27|
+|116|[michelson/lazy_high_charts](https://github.com/michelson/lazy_high_charts)|Make highcharts a la ruby , works in rails 5.X / 4.X / 3.X, and other ruby web frameworks|1045|0|2022-01-18|
 |117|[OuYangJinTing/ar_cache](https://github.com/OuYangJinTing/ar_cache)|An modern cacheing library for ActiveRecord inspired by cache-money and second_level_cache.|13|0|2021-09-22|
 |118|[SaulLawliet/watchdog](https://github.com/SaulLawliet/watchdog)|IF (接口/网页 有变化) THEN (提醒你)|51|0|2022-02-23|
 |119|[refinery/refinerycms-i18n](https://github.com/refinery/refinerycms-i18n)|I18n logic for Refinery CMS|54|0|2021-09-17|
