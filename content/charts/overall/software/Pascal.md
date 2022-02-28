@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Pascal
-<sub>数据更新: 2022-02-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|433|2022-02-26|
+|1|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|433|2022-02-28|
 |2|[royqh1979/Dev-CPP](https://github.com/royqh1979/Dev-CPP)|A greatly improved Dev-Cpp|321|2021-10-03|
 |3|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|274|2022-02-24|
 |4|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|239|2022-02-25|
@@ -23,7 +23,7 @@
 |16|[dbyoung720/PBox](https://github.com/dbyoung720/PBox)|The modular development platform based on DLL Form|37|2022-01-21|
 |17|[59079096/emr](https://github.com/59079096/emr)|基于HCView开发的电子病历程序|36|2021-09-12|
 |18|[PassByYou888/zChinese](https://github.com/PassByYou888/zChinese)|自然语言项目：大规模词汇数据库 分词器 词性分析 语法依存性分析 关键词分析 简繁转 简港转 拼词转换 拼字转换 姓名识别|35|2021-09-21|
-|19|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker for Windows|32|2021-12-14|
+|19|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker for Windows|33|2021-12-14|
 |20|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|30|2021-12-14|
 |21|[PassByYou888/zSound](https://github.com/PassByYou888/zSound)|zSound Engine for All Platform(Android,IOS,OSX,Windows),supported delphi VCL/delphi FMX/fpc|27|2021-09-21|
 |22|[LordStarMUDClient/LordStar](https://github.com/LordStarMUDClient/LordStar)|LordStar MUD Client -- 最好用的中文 MUD 客户端，支持 Lua 语言，QQ 交流群: 618631269|19|2022-01-11|
@@ -36,7 +36,7 @@
 |29|[PassByYou888/zCloud](https://github.com/PassByYou888/zCloud)|zCloud 是去中心化的SAAS后台框架，SAAS后台就是zCloud|11|2021-11-06|
 |30|[axpokl/midiplayer3-for-BLACK-MIDI](https://github.com/axpokl/midiplayer3-for-BLACK-MIDI)|Free Pascal midiplayer3 for Black MIDI by ax_pokl|11|2022-02-16|
 |31|[hkoi/hkoi-solutions](https://github.com/hkoi/hkoi-solutions)|HKOI Final Event solutions|10|2022-02-03|
-|32|[ericwang2006/bcut2srt](https://github.com/ericwang2006/bcut2srt)|从必剪导出srt格式字幕 export srt subtitle from bcut project|6|2022-01-29|
+|32|[ericwang2006/bcut2srt](https://github.com/ericwang2006/bcut2srt)|从必剪导出srt格式字幕 export srt subtitle from bcut project|7|2022-01-29|
 |33|[coder163/delphi-socket](https://github.com/coder163/delphi-socket)|Delphi第二季网络编程|6|2021-10-26|
 |34|[pmiscn/MuObjectPool](https://github.com/pmiscn/MuObjectPool)|我用的delphi的公共库|5|2021-11-22|
 |35|[2o181o28/MyProg](https://github.com/2o181o28/MyProg)|蒟蒻的小学生水平程序|5|2021-10-17|
