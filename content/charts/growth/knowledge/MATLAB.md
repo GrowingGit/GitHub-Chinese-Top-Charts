@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > MATLAB
-<sub>数据更新: 2022-03-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model)|数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法|605|4|2022-02-15|
+|1|[personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model)|数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法|609|4|2022-03-02|
 |2|[cycleuser/Stanford-CS-229-CN](https://github.com/cycleuser/Stanford-CS-229-CN)|A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译|3021|2|2022-03-01|
 |3|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|401|1|2022-02-23|
 |4|[iChunyu/LearnCtrlSys](https://github.com/iChunyu/LearnCtrlSys)|控制理论学习记录|4|0|2021-12-08|
 |5|[Tyler2025/Machine_Learning](https://github.com/Tyler2025/Machine_Learning)|台湾大学李宏毅教授课程作业练习|9|0|2021-09-02|
-|6|[zephyrhours/Hyperspectral-Anomaly-Detection-2S-GLRT](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-2S-GLRT)|This is the code of paper named "Multipixel Anomaly Detection With Unknown Patterns for  Imagery"|8|0|2021-09-28|
+|6|[zephyrhours/Hyperspectral-Anomaly-Detection-2S-GLRT](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-2S-GLRT)|This is the code of paper named "Multipixel Anomaly Detection With Unknown Patterns for  Imagery"|9|0|2021-09-28|
 |7|[kerenfu/JLDCF](https://github.com/kerenfu/JLDCF)|Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection"|59|0|2022-01-12|
 |8|[qxr777/NumericalMethod](https://github.com/qxr777/NumericalMethod)|数值计算方法课程|18|0|2021-11-15|
-|9|[sunshineclover/HFUT-EISAT-CoursesData](https://github.com/sunshineclover/HFUT-EISAT-CoursesData)|合肥工业大学宣城校区 电子信息科学与技术专业课程资料|7|0|2022-03-01|
+|9|[sunshineclover/HFUT-EISAT-CoursesData](https://github.com/sunshineclover/HFUT-EISAT-CoursesData)|合肥工业大学宣城校区 电子信息科学与技术专业课程资料|8|0|2022-03-02|
 |10|[AngeloUNIMI/PalmSeg](https://github.com/AngeloUNIMI/PalmSeg)|Source code for palmprint segmentation and ROI extraction used in the IEEE TIFS 2019 and IEEE CIVEMSA 2019 papers|16|0|2021-09-06|
 |11|[89461561511656/matlab](https://github.com/89461561511656/matlab)|matlab数学建模学习。CSDN配套源码，讲解看博客。|2|0|2021-10-29|
 |12|[QiuJueqin/ISP-based-on-responses-prediction-model](https://github.com/QiuJueqin/ISP-based-on-responses-prediction-model)|Study on Methodology and Technology of Digital Camera Image signal Processing Based on Raw Responses Prediction Model|27|0|2021-10-09|
