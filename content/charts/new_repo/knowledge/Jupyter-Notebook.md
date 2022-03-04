@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Jupyter Notebook
-<sub>数据更新: 2022-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Charmve/computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action)|学习闭环《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页|1314|2022-02-21|2021-04-29|
-|2|[fengdu78/WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course)|温州大学《机器学习》课程资料（代码、课件等）|946|2022-02-12|2021-03-21|
-|3|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|549|2022-03-03|2021-03-11|
-|4|[xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)|LaTeX论文写作教程 (中文版)|235|2022-02-28|2021-03-29|
+|1|[Charmve/computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action)|学习闭环《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页|1315|2022-02-21|2021-04-29|
+|2|[fengdu78/WZU-machine-learning-course](https://github.com/fengdu78/WZU-machine-learning-course)|温州大学《机器学习》课程资料（代码、课件等）|945|2022-02-12|2021-03-21|
+|3|[openvinotoolkit/openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks)|📚 A collection of Jupyter notebooks for learning and experimenting with OpenVINO 👓|549|2022-03-04|2021-03-11|
+|4|[xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)|LaTeX论文写作教程 (中文版)|236|2022-02-28|2021-03-29|
 |5|[liuhuanshuo/Pandas_Advanced_Exercise](https://github.com/liuhuanshuo/Pandas_Advanced_Exercise)|Pandas进阶修炼300题|164|2021-09-22|2021-09-22|
 |6|[datawhalechina/machine-learning-toy-code](https://github.com/datawhalechina/machine-learning-toy-code)|《机器学习》（西瓜书）代码实战|137|2022-01-04|2021-07-16|
-|7|[ZitongLu1996/Python-EEG-Handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook)|Python脑电数据处理中文手册 - A Chinese handbook for EEG data analysis based on Python|95|2021-09-23|2021-07-02|
-|8|[virginiakm1988/ML2022-Spring](https://github.com/virginiakm1988/ML2022-Spring)|**Official** 李宏毅 (Hung-yi Lee) 機器學習 Machine Learning 2022 Spring|93|2022-03-03|2022-02-20|
+|7|[virginiakm1988/ML2022-Spring](https://github.com/virginiakm1988/ML2022-Spring)|**Official** 李宏毅 (Hung-yi Lee) 機器學習 Machine Learning 2022 Spring|101|2022-03-04|2022-02-20|
+|8|[ZitongLu1996/Python-EEG-Handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook)|Python脑电数据处理中文手册 - A Chinese handbook for EEG data analysis based on Python|95|2021-09-23|2021-07-02|
 |9|[shibing624/nlp-tutorial](https://github.com/shibing624/nlp-tutorial)|自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。|74|2021-10-21|2021-08-06|
 |10|[fanfansann/fanfan-deep-learning-note](https://github.com/fanfansann/fanfan-deep-learning-note)|《繁凡的深度学习笔记》代码、PDF文件仓库|65|2022-02-15|2021-10-20|
 |11|[skywateryang/timeseries101](https://github.com/skywateryang/timeseries101)|本教程独立网站已上线|60|2021-12-28|2021-06-11|
@@ -29,11 +29,12 @@
 |22|[lvyufeng/d2l-mindspore](https://github.com/lvyufeng/d2l-mindspore)|《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。|17|2022-02-02|2021-10-28|
 |23|[raymondlo84/openvino-paddlepaddle-demo](https://github.com/raymondlo84/openvino-paddlepaddle-demo)|This repository provides examples of PaddlePaddle and OpenVINO integration. |17|2021-12-22|2021-08-13|
 |24|[zzy99/competition-solutions](https://github.com/zzy99/competition-solutions)|我的数据竞赛方案总结|17|2021-11-16|2021-06-19|
-|25|[whyAndBetter/python_grammar](https://github.com/whyAndBetter/python_grammar)|Python的基础语法学习|15|2022-01-09|2021-08-29|
-|26|[jikeruohai/machine-learning-example](https://github.com/jikeruohai/machine-learning-example)|我的同名B站和公众号中用到的视频|15|2021-10-21|2021-05-22|
-|27|[chinobing/QuantInvest](https://github.com/chinobing/QuantInvest)|cnvar.cn及个人微信公众号【QuantInvest】里面提及的编程代码, 对股票各种研究和折腾分析A股市场的各种现象和投资机会，涉及编程、股票模型、分析研究、杂谈等，代码是python，以jupyter notebook展示。|15|2022-01-13|2021-05-14|
-|28|[Alex-Shen1121/SZU_Learning_Resource](https://github.com/Alex-Shen1121/SZU_Learning_Resource)|深圳大学CS本科 课程资源共享|14|2021-12-30|2021-05-16|
-|29|[ymzis69/gddw_track3](https://github.com/ymzis69/gddw_track3)|阿里云天池广东电网识别挑战赛（赛道三） 亚军方案分享|11|2021-09-15|2021-09-15|
+|25|[jikeruohai/machine-learning-example](https://github.com/jikeruohai/machine-learning-example)|我的同名B站和公众号中用到的视频|16|2021-10-21|2021-05-22|
+|26|[whyAndBetter/python_grammar](https://github.com/whyAndBetter/python_grammar)|Python的基础语法学习|15|2022-01-09|2021-08-29|
+|27|[AccumulateMore/CPlusPlus](https://github.com/AccumulateMore/CPlusPlus)|最细致的 C++ 笔记|15|2022-01-28|2021-08-07|
+|28|[chinobing/QuantInvest](https://github.com/chinobing/QuantInvest)|cnvar.cn及个人微信公众号【QuantInvest】里面提及的编程代码, 对股票各种研究和折腾分析A股市场的各种现象和投资机会，涉及编程、股票模型、分析研究、杂谈等，代码是python，以jupyter notebook展示。|15|2022-01-13|2021-05-14|
+|29|[Alex-Shen1121/SZU_Learning_Resource](https://github.com/Alex-Shen1121/SZU_Learning_Resource)|深圳大学CS本科 课程资源共享|14|2021-12-30|2021-05-16|
+|30|[ymzis69/gddw_track3](https://github.com/ymzis69/gddw_track3)|阿里云天池广东电网识别挑战赛（赛道三） 亚军方案分享|11|2021-09-15|2021-09-15|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

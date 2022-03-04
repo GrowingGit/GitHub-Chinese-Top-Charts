@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Pascal
-<sub>数据更新: 2022-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|433|2022-03-02|
-|2|[royqh1979/Dev-CPP](https://github.com/royqh1979/Dev-CPP)|A greatly improved Dev-Cpp|319|2021-10-03|
+|1|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|433|2022-03-04|
+|2|[royqh1979/Dev-CPP](https://github.com/royqh1979/Dev-CPP)|A greatly improved Dev-Cpp|320|2021-10-03|
 |3|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|275|2022-02-24|
 |4|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|240|2022-02-25|
 |5|[PassByYou888/ZServer4D](https://github.com/PassByYou888/ZServer4D)|ZServer4D 是一套从商业项目剥离而出的云服务器中间件，可以承载百万级的分布式负载服务，并且支持IoT及内网穿透|228|2022-02-15|
@@ -36,7 +36,7 @@
 |29|[PassByYou888/zCloud](https://github.com/PassByYou888/zCloud)|zCloud 是去中心化的SAAS后台框架，SAAS后台就是zCloud|11|2021-11-06|
 |30|[axpokl/midiplayer3-for-BLACK-MIDI](https://github.com/axpokl/midiplayer3-for-BLACK-MIDI)|Free Pascal midiplayer3 for Black MIDI by ax_pokl|11|2022-02-16|
 |31|[hkoi/hkoi-solutions](https://github.com/hkoi/hkoi-solutions)|HKOI Final Event solutions|10|2022-02-03|
-|32|[ericwang2006/bcut2srt](https://github.com/ericwang2006/bcut2srt)|从必剪导出srt格式字幕 export srt subtitle from bcut project|7|2022-01-29|
+|32|[ericwang2006/bcut2srt](https://github.com/ericwang2006/bcut2srt)|从必剪导出srt格式字幕 export srt subtitle from bcut project|8|2022-01-29|
 |33|[coder163/delphi-socket](https://github.com/coder163/delphi-socket)|Delphi第二季网络编程|6|2021-10-26|
 |34|[pmiscn/MuObjectPool](https://github.com/pmiscn/MuObjectPool)|我用的delphi的公共库|5|2021-11-22|
 |35|[2o181o28/MyProg](https://github.com/2o181o28/MyProg)|蒟蒻的小学生水平程序|5|2021-10-17|

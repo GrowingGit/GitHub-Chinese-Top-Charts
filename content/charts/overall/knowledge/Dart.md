@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Dart
-<sub>数据更新: 2022-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[AweiLoveAndroid/Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning)|:octocat::fire: :+1:  :star2:  :star: :star::star: Flutter all you want.Flutter install,flutter samples,Flutter projects,Flutter plugin,Flutter problems,Dart codes,etc.Flutter安装和配置，Flutter开发遇到的难题，Flut ...|4977|2022-02-12|
-|2|[huanxsd/flutter_shuqi](https://github.com/huanxsd/flutter_shuqi)|高仿书旗小说 Flutter版，支持iOS、Android|2335|2021-12-03|
+|1|[AweiLoveAndroid/Flutter-learning](https://github.com/AweiLoveAndroid/Flutter-learning)|:octocat::fire: :+1:  :star2:  :star: :star::star: Flutter all you want.Flutter install,flutter samples,Flutter projects,Flutter plugin,Flutter problems,Dart codes,etc.Flutter安装和配置，Flutter开发遇到的难题，Flut ...|4978|2022-02-12|
+|2|[huanxsd/flutter_shuqi](https://github.com/huanxsd/flutter_shuqi)|高仿书旗小说 Flutter版，支持iOS、Android|2337|2021-12-03|
 |3|[canhuah/WanAndroid-Flutter](https://github.com/canhuah/WanAndroid-Flutter)|Flutter版本 WanAndroid客户端  适合Flutter入门学习 被张鸿洋微信公众号推荐为优质Flutter开源项目啦|609|2021-12-17|
 |4|[RxReader/wechat_kit](https://github.com/RxReader/wechat_kit)|Flutter 版微信登录/分享/支付 SDK|498|2022-02-10|
 |5|[AgoraIO-Community/Agora-Flutter-Quickstart](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart)|Quickstart guide for the Agora Flutter SDK(Android/iOS)|491|2021-10-14|
@@ -17,7 +17,7 @@
 |10|[longer96/flutter_pickers](https://github.com/longer96/flutter_pickers)|flutter 选择器库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、民族、学历、星座、年龄、身高、体重、温度等）、城市地址选择器（分省级、地级及县级）、多项选择器等…… 欢迎Fork & pr贡献您的代码，大家共同学习|151|2022-02-03|
 |11|[Newcore-mobile/DynamicFlutter](https://github.com/Newcore-mobile/DynamicFlutter)|Flutter动态化热更新的思考与实践|147|2021-12-22|
 |12|[pheromone/Flutter_learn_demo](https://github.com/pheromone/Flutter_learn_demo)|Flutter_learn_demo  Flutter学习历程|107|2022-02-23|
-|13|[nightmare-space/speed_share](https://github.com/nightmare-space/speed_share)|Speed Share is a highly available file sharing terminal on LAN(local area network) developed by flutter framework.|84|2022-01-07|
+|13|[nightmare-space/speed_share](https://github.com/nightmare-space/speed_share)|Speed Share is a highly available file sharing terminal on LAN(local area network) developed by flutter framework.|88|2022-01-07|
 |14|[RxReader/weibo_kit](https://github.com/RxReader/weibo_kit)|flutter版新浪微博登录/分享|83|2022-02-10|
 |15|[longer96/flutter-demo](https://github.com/longer96/flutter-demo)|🔥Flutter 那些花里胡哨的界面🔥，花里胡哨的底部导航，仿抖音、小红书底部菜单，向上展开菜单，半圆菜单，中间凹进去的菜单，动画底部导航|77|2021-10-14|
 |16|[xiedong11/flutter_app](https://github.com/xiedong11/flutter_app)|Flutter进阶之旅专栏|76|2022-01-27|
@@ -32,7 +32,7 @@
 |25|[ITmxs/Flutter-Web-template](https://github.com/ITmxs/Flutter-Web-template)|Flutter Web - 仪表板网站模板教你如何构建响应式仪表板网站。|6|2022-02-09|
 |26|[kangshaojun/study-notes](https://github.com/kangshaojun/study-notes)|Flutter React Golang WebRTC等技术学习笔记|6|2022-01-30|
 |27|[zhou-Flutter/flutter_dome](https://github.com/zhou-Flutter/flutter_dome)|实战小红书|6|2021-10-31|
-|28|[JoneYng/course_flutter](https://github.com/JoneYng/course_flutter)|课程|5|2021-12-23|
+|28|[JoneYng/course_flutter](https://github.com/JoneYng/course_flutter)|课程|6|2021-12-23|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

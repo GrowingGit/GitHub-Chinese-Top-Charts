@@ -1,59 +1,59 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Lua
-<sub>数据更新: 2022-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|8602|2022-03-03|
-|2|[skywind3000/z.lua](https://github.com/skywind3000/z.lua)|:zap: A new cd command that helps you navigate faster by learning your habits.|2220|2022-01-30|
-|3|[orlabs/orange](https://github.com/orlabs/orange)|OpenResty/Nginx Gateway for API Monitoring and Management.|2220|2021-12-22|
-|4|[openresty/lua-resty-redis](https://github.com/openresty/lua-resty-redis)|Lua redis client driver for the ngx_lua based on the cosocket API|1673|2022-03-01|
-|5|[jerrykuku/luci-app-vssr](https://github.com/jerrykuku/luci-app-vssr)|HelloWorld是一个以用户最佳主观体验为导向的插件，它支持多种主流协议和多种自定义视频分流服务，拥有精美的操作界面，并配上直观的节点信息。|1649|2022-01-09|
+|1|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|8618|2022-03-04|
+|2|[orlabs/orange](https://github.com/orlabs/orange)|OpenResty/Nginx Gateway for API Monitoring and Management.|2221|2021-12-22|
+|3|[skywind3000/z.lua](https://github.com/skywind3000/z.lua)|:zap: A new cd command that helps you navigate faster by learning your habits.|2220|2022-01-30|
+|4|[openresty/lua-resty-redis](https://github.com/openresty/lua-resty-redis)|Lua redis client driver for the ngx_lua based on the cosocket API|1676|2022-03-01|
+|5|[jerrykuku/luci-app-vssr](https://github.com/jerrykuku/luci-app-vssr)|HelloWorld是一个以用户最佳主观体验为导向的插件，它支持多种主流协议和多种自定义视频分流服务，拥有精美的操作界面，并配上直观的节点信息。|1654|2022-01-09|
 |6|[starwing/lua-protobuf](https://github.com/starwing/lua-protobuf)|A Lua module to work with Google protobuf|1288|2022-02-22|
-|7|[wongdean/rime-settings](https://github.com/wongdean/rime-settings)|接近原生的鼠须管 Rime 配置|1132|2021-12-14|
+|7|[wongdean/rime-settings](https://github.com/wongdean/rime-settings)|接近原生的鼠须管 Rime 配置|1135|2022-03-04|
 |8|[starjun/openstar](https://github.com/starjun/openstar)|lua waf,nginx+lua,openresty,luajit,waf+,cdn,nginx|1044|2021-10-10|
-|9|[threathunterX/nebula](https://github.com/threathunterX/nebula)|"星云"业务风控系统，主工程|989|2022-03-03|
-|10|[ssnhd/rime](https://github.com/ssnhd/rime)|Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）|979|2022-01-27|
+|9|[ssnhd/rime](https://github.com/ssnhd/rime)|Rime Squirrel 鼠须管配置文件（朙月拼音、小鹤双拼、自然码双拼）|989|2022-01-27|
+|10|[threathunterX/nebula](https://github.com/threathunterX/nebula)|"星云"业务风控系统，主工程|989|2022-03-03|
 |11|[sumory/lor](https://github.com/sumory/lor)|a fast, minimalist web framework for lua based on OpenResty|966|2022-01-04|
-|12|[Tencent/LuaPanda](https://github.com/Tencent/LuaPanda)|lua debug and code tools for VS Code|937|2021-11-12|
+|12|[Tencent/LuaPanda](https://github.com/Tencent/LuaPanda)|lua debug and code tools for VS Code|938|2021-11-12|
 |13|[jx-sec/jxwaf](https://github.com/jx-sec/jxwaf)|JXWAF(锦衣盾)是一款开源web应用防火墙|829|2021-10-11|
 |14|[bungle/lua-resty-template](https://github.com/bungle/lua-resty-template)|Templating Engine (HTML) for Lua and OpenResty.|827|2022-01-14|
-|15|[kiccer/Soldier76](https://github.com/kiccer/Soldier76)|PUBG - 罗技鼠标宏   兴趣使然的项目，完虐收费宏！点个Star支持一下作者！[PUBG - Logitech mouse macro   Support 12 kinds of guns without recoil!]|784|2022-01-24|
-|16|[openresty/lua-resty-limit-traffic](https://github.com/openresty/lua-resty-limit-traffic)|Lua library for limiting and controlling traffic in OpenResty/ngx_lua|713|2021-12-10|
-|17|[acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion)|Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...|712|2022-02-07|
+|15|[kiccer/Soldier76](https://github.com/kiccer/Soldier76)|PUBG - 罗技鼠标宏   兴趣使然的项目，完虐收费宏！点个Star支持一下作者！[PUBG - Logitech mouse macro   Support 12 kinds of guns without recoil!]|788|2022-01-24|
+|16|[acecilia/OpenWRTInvasion](https://github.com/acecilia/OpenWRTInvasion)|Root shell exploit for several Xiaomi routers: 4A Gigabit, 4A 100M, 4, 4C, 3Gv2, 4Q, miWifi 3C...|713|2022-02-07|
+|17|[openresty/lua-resty-limit-traffic](https://github.com/openresty/lua-resty-limit-traffic)|Lua library for limiting and controlling traffic in OpenResty/ngx_lua|713|2021-12-10|
 |18|[openresty/lua-resty-mysql](https://github.com/openresty/lua-resty-mysql)|Nonblocking Lua MySQL driver library for ngx_lua or OpenResty|648|2022-01-28|
 |19|[rsjaffe/MIDI2LR](https://github.com/rsjaffe/MIDI2LR)|An application and plugin to remotely control Lightroom with a MIDI controller|536|2022-02-15|
 |20|[lisaac/luci-app-dockerman](https://github.com/lisaac/luci-app-dockerman)|Docker Manager interface for LuCI|516|2022-02-26|
 |21|[citizenlab/chat-censorship](https://github.com/citizenlab/chat-censorship)|Data related to the investigation of realtime censorship|505|2022-01-18|
-|22|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|474|2022-03-03|
+|22|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|477|2022-03-03|
 |23|[EmmyLua/VSCode-EmmyLua](https://github.com/EmmyLua/VSCode-EmmyLua)|Lua IDE/Debugger Plugin for VSCode|474|2021-09-27|
-|24|[IgorTimofeev/MineOS](https://github.com/IgorTimofeev/MineOS)|Home of MineOS and it's software for OpenComputers mod|471|2022-01-08|
+|24|[IgorTimofeev/MineOS](https://github.com/IgorTimofeev/MineOS)|Home of MineOS and it's software for OpenComputers mod|472|2022-01-08|
 |25|[422658476/MPV-EASY-Player](https://github.com/422658476/MPV-EASY-Player)|MPV-EASY Player - An easy to use, modern video player based on mpv|454|2022-03-02|
 |26|[openresty/lua-resty-upstream-healthcheck](https://github.com/openresty/lua-resty-upstream-healthcheck)|Health Checker for Nginx Upstream Servers in Pure Lua|448|2021-10-08|
 |27|[openresty/lua-resty-websocket](https://github.com/openresty/lua-resty-websocket)|WebSocket support for the ngx_lua module (and OpenResty)|448|2022-02-25|
-|28|[KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian)|86五笔极点码表 for 鼠须管(macOs)、小狼毫(Windows)、中州韵(Ubuntu) 五笔输入法|444|2022-02-17|
+|28|[KyleBing/rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian)|86五笔极点码表 for 鼠须管(macOs)、小狼毫(Windows)、中州韵(Ubuntu) 五笔输入法|443|2022-02-17|
 |29|[Kamikaze94/WolfHUD](https://github.com/Kamikaze94/WolfHUD)|Payday 2 HUD|407|2021-09-22|
-|30|[scomper/Rime](https://github.com/scomper/Rime)|鼠须管配置|396|2022-02-02|
+|30|[scomper/Rime](https://github.com/scomper/Rime)|鼠须管配置|397|2022-02-02|
 |31|[openresty/lua-resty-lrucache](https://github.com/openresty/lua-resty-lrucache)|Lua-land LRU Cache based on LuaJIT FFI|382|2021-10-15|
-|32|[apioak/apioak](https://github.com/apioak/apioak)|Full Lifecycle Management API Gateway.|362|2021-11-06|
+|32|[apioak/apioak](https://github.com/apioak/apioak)|Full Lifecycle Management API Gateway.|363|2021-11-06|
 |33|[cloudwu/stellaris_cn](https://github.com/cloudwu/stellaris_cn)|Stellaris 群星 汉化 Mod|362|2022-03-01|
 |34|[ElvUI-WotLK/ElvUI](https://github.com/ElvUI-WotLK/ElvUI)|ElvUI for World of Warcraft - Wrath of the Lich King (3.3.5a)|281|2021-09-26|
-|35|[SivanLaai/rime-pure](https://github.com/SivanLaai/rime-pure)|【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼音\小鹤双拼\极品五笔\QQ五笔\徐码\郑码】|263|2021-10-28|
-|36|[cfadmin-cn/cfadmin](https://github.com/cfadmin-cn/cfadmin)|A lua web network framework.|251|2022-02-20|
+|35|[SivanLaai/rime-pure](https://github.com/SivanLaai/rime-pure)|【rime 小狼毫\trime 同文】手机/PC一站式配置【简约皮肤\拼音搜狗词库\原创trime同文 四叶草 九宫格 拼音方案\四叶草拼音\四叶草地球拼音\小鹤双拼\极品五笔\QQ五笔\徐码\郑码】|264|2021-10-28|
+|36|[cfadmin-cn/cfadmin](https://github.com/cfadmin-cn/cfadmin)|A lua web network framework.|252|2022-02-20|
 |37|[shagu/pfUI](https://github.com/shagu/pfUI)|A User Interface Replacement for World of Warcraft: Vanilla & TBC|243|2022-01-23|
 |38|[ONElua/AutoPlugin2](https://github.com/ONElua/AutoPlugin2)|Next AutoPlugin 2|241|2021-11-26|
 |39|[lisaac/luci-app-diskman](https://github.com/lisaac/luci-app-diskman)|Disk Manager for LuCI|231|2022-02-05|
 |40|[adamqqqplay/dota2ai](https://github.com/adamqqqplay/dota2ai)|This project is a improved Dota2 Bot script based on Valve's default AI. Relase on steam workshop as Ranked Matchmaking AI. This script has more than 1 million current subscribers on Steam Workshop.|229|2021-11-23|
 |41|[kurapica/PLoop](https://github.com/kurapica/PLoop)|Prototype Lua object-oriented program system and frameworks. |190|2022-02-19|
-|42|[siweia/NDui](https://github.com/siweia/NDui)|NDui for World of Warcraft|162|2022-03-03|
-|43|[DeadlyBossMods/DBM-Retail](https://github.com/DeadlyBossMods/DBM-Retail)|The ultimate encounter helper (for Retail) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|160|2022-03-03|
+|42|[siweia/NDui](https://github.com/siweia/NDui)|NDui for World of Warcraft|162|2022-03-04|
+|43|[DeadlyBossMods/DBM-Retail](https://github.com/DeadlyBossMods/DBM-Retail)|The ultimate encounter helper (for Retail) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|160|2022-03-04|
 |44|[tkkcc/arknights](https://github.com/tkkcc/arknights)|明日方舟速通 |158|2022-03-01|
-|45|[linkease/istore](https://github.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|139|2022-02-28|
+|45|[linkease/istore](https://github.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|141|2022-02-28|
 |46|[BlindingDark/rime-easy-en](https://github.com/BlindingDark/rime-easy-en)|Rime / Easy English 英文输入法|138|2022-01-30|
 |47|[luastar/luastar](https://github.com/luastar/luastar)|一个基于openresty的http接口开发框架或网关|134|2022-03-01|
-|48|[26F-Studio/Techmino](https://github.com/26F-Studio/Techmino)|Techmino:方块研究所唯一官方仓库(Github)|127|2022-03-02|
-|49|[HDoujinDownloader/HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader)|An easy-to-use manga and dōjinshi downloader supporting 800+ different websites|119|2022-02-21|
+|48|[26F-Studio/Techmino](https://github.com/26F-Studio/Techmino)|Techmino:方块研究所唯一官方仓库(Github)|127|2022-03-04|
+|49|[HDoujinDownloader/HDoujinDownloader](https://github.com/HDoujinDownloader/HDoujinDownloader)|An easy-to-use manga and dōjinshi downloader supporting 800+ different websites|120|2022-02-21|
 |50|[Creckeryop/NOBORU](https://github.com/Creckeryop/NOBORU)|Application for PlayStation Vita to read manga or comics|117|2022-02-27|
 |51|[EsreverWoW/ShestakUI_Classic](https://github.com/EsreverWoW/ShestakUI_Classic)|ShestakUI for WoW Classic (1.14.0) and Burning Crusade Classic (2.5.2)|115|2022-01-19|
 |52|[Iorest/rime-setting](https://github.com/Iorest/rime-setting)|rime 输入法配置|108|2021-10-03|
@@ -64,7 +64,7 @@
 |57|[horan-geeker/nana](https://github.com/horan-geeker/nana)|Lua http api framework|97|2021-11-20|
 |58|[fffonion/lua-resty-acme](https://github.com/fffonion/lua-resty-acme)|Automatic Let's Encrypt certificate serving and Lua implementation of ACMEv2 procotol |94|2022-02-09|
 |59|[WolvenKit/BraindanceProtocol](https://github.com/WolvenKit/BraindanceProtocol)|A GUI to modify your Cyberpunk 2077 experience|84|2021-09-12|
-|60|[DeadlyBossMods/DBM-Classic](https://github.com/DeadlyBossMods/DBM-Classic)|The ultimate encounter helper (for Classic) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|83|2022-03-02|
+|60|[DeadlyBossMods/DBM-Classic](https://github.com/DeadlyBossMods/DBM-Classic)|The ultimate encounter helper (for Classic) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|83|2022-03-04|
 |61|[Wolferos/Hearts-of-Iron-IV-The-Great-War](https://github.com/Wolferos/Hearts-of-Iron-IV-The-Great-War)|The Great War has been created by Wolferos with the help of the Community.|82|2022-02-26|
 |62|[sumneko/w3x2lni](https://github.com/sumneko/w3x2lni)|魔兽地图格式转换工具|82|2022-02-14|
 |63|[shagu/pfQuest](https://github.com/shagu/pfQuest)|A Questhelper and Database Addon for World of Warcraft: Vanilla & TBC|80|2022-02-21|
@@ -74,31 +74,31 @@
 |67|[Pergame35/Divergences](https://github.com/Pergame35/Divergences)|Newest version of the Divergences mod for Victoria 2|77|2021-10-12|
 |68|[freeioe/freeioe](https://github.com/freeioe/freeioe)|FreeIOE is a framework for building IOE (Internet Of Everything) edge-computing gateway 开源的边缘计算网关框架.  讨论群: 291292378|76|2022-02-10|
 |69|[wofsauge/External-Item-Descriptions](https://github.com/wofsauge/External-Item-Descriptions)|A mod for the game "The Binding of Isaac: Rebirth" that displays useful informations for items, trinkets, rooms and more!|75|2022-03-03|
-|70|[siweia/NDuiClassic](https://github.com/siweia/NDuiClassic)|NDui for Classic WoW|72|2022-03-01|
+|70|[siweia/NDuiClassic](https://github.com/siweia/NDuiClassic)|NDui for Classic WoW|72|2022-03-04|
 |71|[defold/doc](https://github.com/defold/doc)|Defold game engine documentation for www.defold.com|69|2022-02-23|
 |72|[ryohuang/slim-wrt](https://github.com/ryohuang/slim-wrt)|Armor for Openwrt|66|2021-11-15|
 |73|[fang2hou/ElvUI_WindTools](https://github.com/fang2hou/ElvUI_WindTools)|Customizable Enhancement for ElvUI|66|2022-03-03|
 |74|[FrSkyRC/ETHOS-Feedback-Community](https://github.com/FrSkyRC/ETHOS-Feedback-Community)|Feedbacks & suggestion are very appreciated on ETHOS of FrSky|63|2022-02-14|
-|75|[oniondelta/Onion_Rime_Files](https://github.com/oniondelta/Onion_Rime_Files)|電腦 Rime 洋蔥方案（注音、雙拼、拼音、形碼、行列30）|61|2022-03-03|
+|75|[oniondelta/Onion_Rime_Files](https://github.com/oniondelta/Onion_Rime_Files)|電腦 Rime 洋蔥方案（注音、雙拼、拼音、形碼、行列30）|61|2022-03-04|
 |76|[wubonetcn/luawaf](https://github.com/wubonetcn/luawaf)|A secure and privately deployable web application firewall(WAF).一个安全、可私有部署的Web应用防火墙(WAF)。|61|2022-01-14|
 |77|[hunzsig-warcraft3/h-lua](https://github.com/hunzsig-warcraft3/h-lua)|H-Lua SDK. This project has been stopped.|61|2022-01-02|
 |78|[tech-microworld/ws-cloud-gateway](https://github.com/tech-microworld/ws-cloud-gateway)|基于 openresty + etcd 实现的轻量级网关服务|60|2022-03-02|
 |79|[KURANADO2/hammerspoon-kuranado](https://github.com/KURANADO2/hammerspoon-kuranado)|Hammerspoon 配置|58|2022-01-23|
 |80|[Auranis/HighDigitSAMs](https://github.com/Auranis/HighDigitSAMs)|A simple, IC-compliant mod for DCS to add more modern SAM systems to the game.|55|2021-09-15|
-|81|[sniper00/BallGame](https://github.com/sniper00/BallGame)|moon game server的一个使用示例，搭建简单的服务器框架|52|2022-01-26|
-|82|[Solor/FreeUI](https://github.com/Solor/FreeUI)|A user interface replacement for World of Warcraft.|52|2022-03-03|
-|83|[Seekladoom/Aegisub-Karaoke-Effect-481-Templates](https://github.com/Seekladoom/Aegisub-Karaoke-Effect-481-Templates)|转载自https://huyhuu.com/news/1282/Aegisub-Karaoke-Effect|51|2021-09-04|
-|84|[zhyupe/FFXIV-Packet-Dissector](https://github.com/zhyupe/FFXIV-Packet-Dissector)|Wireshark plugins for dissecting FFXIV packets.|49|2021-11-09|
-|85|[bs10081/Rime-Cx330](https://github.com/bs10081/Rime-Cx330)|適配小鶴雙拼、全拼、五筆：支持部分中英混合輸入、Emoji輸入、簡繁轉換、傳承字標準字轉換、UTF-8 GBK編碼轉換、200萬詞庫覆蓋日常絕大多數場景。|48|2021-11-05|
-|86|[XavierCHN/x-template](https://github.com/XavierCHN/x-template)|Xavier's DOTA 2 modding template using typescript and react-panorama|46|2022-03-02|
-|87|[zuorn/hammerspoon_config](https://github.com/zuorn/hammerspoon_config)|hammerspoon 配置文件|46|2022-02-26|
-|88|[cissusnar/cpluginscript](https://github.com/cissusnar/cpluginscript)|快贴插件|46|2021-11-10|
-|89|[narc0tiq/YARM](https://github.com/narc0tiq/YARM)|Yet another variant of the Resource Monitor for Factorio|46|2022-02-28|
-|90|[Ace-Who/rime-xuma](https://github.com/Ace-Who/rime-xuma)|徐码／爾雅：三重注解、双重反查、屏蔽词组、全码后置、顶功版本……|45|2022-02-17|
-|91|[hongch911/WiresharkPlugin](https://github.com/hongch911/WiresharkPlugin)|The H265 H264 PS PCM AMR SILK plugin for Wireshark Lua|45|2022-01-07|
-|92|[thisdp/dgs](https://github.com/thisdp/dgs)|Thisdp's Dx Graphical User Interface System (MTA Dx Lib)|44|2022-03-03|
-|93|[jerrykuku/luci-app-go-aliyundrive-webdav](https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav)|本项目是go-aliyun-webdav 的Luci 控制面板。|42|2021-11-10|
-|94|[iDvel/rime-settings](https://github.com/iDvel/rime-settings)|自用 Rime 配置|42|2022-03-01|
+|81|[iDvel/rime-settings](https://github.com/iDvel/rime-settings)|自用 Rime 配置|53|2022-03-01|
+|82|[sniper00/BallGame](https://github.com/sniper00/BallGame)|moon game server的一个使用示例，搭建简单的服务器框架|52|2022-01-26|
+|83|[Solor/FreeUI](https://github.com/Solor/FreeUI)|A user interface replacement for World of Warcraft.|52|2022-03-03|
+|84|[Seekladoom/Aegisub-Karaoke-Effect-481-Templates](https://github.com/Seekladoom/Aegisub-Karaoke-Effect-481-Templates)|转载自https://huyhuu.com/news/1282/Aegisub-Karaoke-Effect|51|2021-09-04|
+|85|[zhyupe/FFXIV-Packet-Dissector](https://github.com/zhyupe/FFXIV-Packet-Dissector)|Wireshark plugins for dissecting FFXIV packets.|50|2021-11-09|
+|86|[bs10081/Rime-Cx330](https://github.com/bs10081/Rime-Cx330)|適配小鶴雙拼、全拼、五筆：支持部分中英混合輸入、Emoji輸入、簡繁轉換、傳承字標準字轉換、UTF-8 GBK編碼轉換、200萬詞庫覆蓋日常絕大多數場景。|48|2021-11-05|
+|87|[XavierCHN/x-template](https://github.com/XavierCHN/x-template)|Xavier's DOTA 2 modding template using typescript and react-panorama|46|2022-03-02|
+|88|[zuorn/hammerspoon_config](https://github.com/zuorn/hammerspoon_config)|hammerspoon 配置文件|46|2022-02-26|
+|89|[hongch911/WiresharkPlugin](https://github.com/hongch911/WiresharkPlugin)|The H265 H264 PS PCM AMR SILK plugin for Wireshark Lua|46|2022-01-07|
+|90|[cissusnar/cpluginscript](https://github.com/cissusnar/cpluginscript)|快贴插件|46|2021-11-10|
+|91|[narc0tiq/YARM](https://github.com/narc0tiq/YARM)|Yet another variant of the Resource Monitor for Factorio|46|2022-02-28|
+|92|[Ace-Who/rime-xuma](https://github.com/Ace-Who/rime-xuma)|徐码／爾雅：三重注解、双重反查、屏蔽词组、全码后置、顶功版本……|45|2022-02-17|
+|93|[thisdp/dgs](https://github.com/thisdp/dgs)|Thisdp's Dx Graphical User Interface System (MTA Dx Lib)|44|2022-03-04|
+|94|[jerrykuku/luci-app-go-aliyundrive-webdav](https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav)|本项目是go-aliyun-webdav 的Luci 控制面板。|42|2021-11-10|
 |95|[taoso/vim](https://github.com/taoso/vim)|涛叔的 vim 配置|42|2021-12-12|
 |96|[astog/MoreLenses](https://github.com/astog/MoreLenses)|More Lenses - Mod for Civilization VI|41|2022-02-26|
 |97|[Ponpon55837/Squirrel](https://github.com/Ponpon55837/Squirrel)|鼠鬚管洋蔥純注音版簡化安裝與外觀設計|40|2022-02-24|
@@ -113,9 +113,9 @@
 |106|[Warehousing/Warehousing](https://github.com/Warehousing/Warehousing)|:building_construction: Mod for Factorio. Store all the things! (We heard you like boxes, you packrat you!)|28|2022-02-18|
 |107|[nybdech/skynet-qp-server](https://github.com/nybdech/skynet-qp-server)|一个基于skynet的棋牌游戏服务端，也可以作为其他类型的游戏服务端|27|2021-09-23|
 |108|[xkinput/Rime_JD](https://github.com/xkinput/Rime_JD)|星空键道6是星空系列输入法中的一款音形码中文输入法方案，「Rime键道」是该方案借助RIME开源输入平台的实现。|26|2022-02-12|
-|109|[payday-restoration/restoration-mod](https://github.com/payday-restoration/restoration-mod)|This repository is the home of Restoration Mod for Payday 2|25|2022-03-03|
-|110|[JaredScar/Badger-Anticheat](https://github.com/JaredScar/Badger-Anticheat)|Badger's Official Anticheat [code inspirations from DevLanceGood and Bluethefurry on GitHub]|24|2021-09-12|
-|111|[denstiny/awesome-config](https://github.com/denstiny/awesome-config)|awesome config file ,sava my config|24|2022-02-24|
+|109|[denstiny/awesome-config](https://github.com/denstiny/awesome-config)|awesome config file ,sava my config|25|2022-02-24|
+|110|[payday-restoration/restoration-mod](https://github.com/payday-restoration/restoration-mod)|This repository is the home of Restoration Mod for Payday 2|25|2022-03-04|
+|111|[JaredScar/Badger-Anticheat](https://github.com/JaredScar/Badger-Anticheat)|Badger's Official Anticheat [code inspirations from DevLanceGood and Bluethefurry on GitHub]|24|2021-09-12|
 |112|[TheOddler/FactorioWorld](https://github.com/TheOddler/FactorioWorld)|A mod for factorio that changes the map into a real-world map.|24|2021-09-26|
 |113|[loaden/rime](https://github.com/loaden/rime)|中州韵输入法|23|2021-09-10|
 |114|[whjiang/cqeb](https://github.com/whjiang/cqeb)|超强二笔（超强音形、超强快码）适配RIME（鼠须管、中州韵、安卓同文、iRIME等输入框架）|23|2022-02-28|
@@ -134,7 +134,7 @@
 |127|[jpanther/dectorio](https://github.com/jpanther/dectorio)|Dectorio is a large mod that adds decorative elements to Factorio.|17|2022-02-21|
 |128|[EtherProject/EtherWorkCollection](https://github.com/EtherProject/EtherWorkCollection)|EtherEngine 作品集|16|2021-09-04|
 |129|[lilith-avatar/avatar-ava](https://github.com/lilith-avatar/avatar-ava)|:hammer_and_wrench: AvaKit开发框架|16|2021-12-09|
-|130|[ck2plus/CleanSlate](https://github.com/ck2plus/CleanSlate)|A community resource, clean base from which to begin mods for CrusaderKings 2|16|2022-03-03|
+|130|[ck2plus/CleanSlate](https://github.com/ck2plus/CleanSlate)|A community resource, clean base from which to begin mods for CrusaderKings 2|16|2022-03-04|
 |131|[chenxuuu/lua-online](https://github.com/chenxuuu/lua-online)|在线测试lua代码，无需后端。test lua code online.|16|2021-12-29|
 |132|[shengnoah/blues](https://github.com/shengnoah/blues)|Blues是一个基于Openresty + LUA的WEB演示框架|16|2021-10-29|
 |133|[lxyoucan/nvim](https://github.com/lxyoucan/nvim)|set up Neovim 0.5 +(LSP, Treesitter, fuzzy finder, etc)|15|2021-12-06|
@@ -142,7 +142,7 @@
 |135|[lxfly2000/Acy-Font](https://github.com/lxfly2000/Acy-Font)|自制手写字体。A hand-writing font set.|15|2022-01-10|
 |136|[thenumbernine/hydro-cl-lua](https://github.com/thenumbernine/hydro-cl-lua)|yet *another* hydrodynamics/hyperbolic conservation law solver, this one in LuaJIT using OpenCL/OpenGL|15|2022-03-03|
 |137|[TheDeNuke/Divergences-of-Darkness-Rework-Public](https://github.com/TheDeNuke/Divergences-of-Darkness-Rework-Public)|-|14|2022-02-19|
-|138|[enderneko/Cell](https://github.com/enderneko/Cell)|A World of Warcraft raid frame addon.|14|2022-03-03|
+|138|[enderneko/Cell](https://github.com/enderneko/Cell)|A World of Warcraft raid frame addon.|14|2022-03-04|
 |139|[f8q8/luci-app-frpc](https://github.com/f8q8/luci-app-frpc)|frpc的管理界面|14|2021-12-03|
 |140|[UsbPacketViewer/parser](https://github.com/UsbPacketViewer/parser)|-|13|2021-11-30|
 |141|[ybhuxiao/BadRotations_CN](https://github.com/ybhuxiao/BadRotations_CN)|QQ群578928506，这个插件是在尽量不动badrotations的情况下进行汉化，支持9.x，有兴趣star一下吧|13|2022-02-25|
@@ -153,7 +153,7 @@
 |146|[tg123/RaidLedger](https://github.com/tg123/RaidLedger)|A ledger for GDKP/gold run raid in World of Warcraft|12|2022-01-04|
 |147|[brendonjkding/fgoScript](https://github.com/brendonjkding/fgoScript)|Fgo script based on touchelf. 适用于越狱iOS的Fgo脚本|12|2021-12-25|
 |148|[xiyoo0812/luabt](https://github.com/xiyoo0812/luabt)|基于lua的AI行为树框架|12|2022-02-21|
-|149|[yechentide/DSTServerManager](https://github.com/yechentide/DSTServerManager)|Don't Starve Together dedicated server manager / 饥荒傻瓜式服务器管理脚本 / Bug反馈QQ群927694504 / 准备使用Go语言写个TUI版本 <-- 已放弃hh|11|2022-03-03|
+|149|[yechentide/DSTServerManager](https://github.com/yechentide/DSTServerManager)|Don't Starve Together dedicated server manager / 饥荒傻瓜式服务器管理脚本 / Bug反馈QQ群927694504 / 准备使用Go语言写个TUI版本 <-- 已放弃hh|11|2022-03-04|
 |150|[kaniol-lck/FusionHelpManual-zh_CN](https://github.com/kaniol-lck/FusionHelpManual-zh_CN)|Fusion help manual in simplified Chinese translation|10|2021-11-23|
 |151|[zhandouxiaojiji/skynet-creator](https://github.com/zhandouxiaojiji/skynet-creator)|skynet脚手架|9|2022-02-13|
 |152|[yuanyan3060/Arknights-Bot-Resource](https://github.com/yuanyan3060/Arknights-Bot-Resource)|明日方舟bot常用素材|9|2022-03-02|
@@ -163,14 +163,14 @@
 |156|[Pd2VoidTeam/VoidUI](https://github.com/Pd2VoidTeam/VoidUI)|VoidUI BLT code and textures|9|2022-01-30|
 |157|[ainrm/safeGate](https://github.com/ainrm/safeGate)|一个基于openresty开发的安全网关demo|8|2022-03-03|
 |158|[k8scat/lua-resty-weauth](https://github.com/k8scat/lua-resty-weauth)|适用于 OpenResty / ngx_lua 的基于企业微信组织架构的登录认证|8|2021-11-24|
-|159|[DreamAfar/Rime-IME-for-iOS-iRime](https://github.com/DreamAfar/Rime-IME-for-iOS-iRime)|这是个人的使用的iRime仓库，主要用于记录： iRime輸入法-   基于Rime输入法框架开发的iOS端Rime输入法|8|2022-02-25|
-|160|[DeadlyBossMods/DBM-TBC-Classic](https://github.com/DeadlyBossMods/DBM-TBC-Classic)|The ultimate encounter helper (for TBC) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|8|2022-03-02|
+|159|[DreamAfar/Rime-IME-for-iOS-iRime](https://github.com/DreamAfar/Rime-IME-for-iOS-iRime)|这是个人的使用的iRime仓库，主要用于记录： iRime輸入法-   基于Rime输入法框架开发的iOS端Rime输入法|8|2022-03-04|
+|160|[DeadlyBossMods/DBM-TBC-Classic](https://github.com/DeadlyBossMods/DBM-TBC-Classic)|The ultimate encounter helper (for TBC) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|8|2022-03-04|
 |161|[CNMan/rime-data](https://github.com/CNMan/rime-data)|新世纪五笔字型 for Rime|8|2022-01-05|
 |162|[hunzsig-warcraft3/w3x-my-tower](https://github.com/hunzsig-warcraft3/w3x-my-tower)|【h-lua实践开源地图】我塔非凡|8|2021-10-12|
 |163|[KikoPlayProject/KikoPlayScript](https://github.com/KikoPlayProject/KikoPlayScript)|KikoPlay脚本仓库|8|2022-02-13|
 |164|[tkzcfc/Kurumi](https://github.com/tkzcfc/Kurumi)|cocos2dx制作的动作游戏~|8|2022-02-06|
 |165|[copy0401/irime-bopomo-config](https://github.com/copy0401/irime-bopomo-config)|iRime 設定 新增注音輸入法 及 注音鍵盤主題|7|2022-02-22|
-|166|[N0zza/MappaMundi](https://github.com/N0zza/MappaMundi)|-|7|2022-03-03|
+|166|[N0zza/MappaMundi](https://github.com/N0zza/MappaMundi)|-|7|2022-03-04|
 |167|[VgerMods/Pawn](https://github.com/VgerMods/Pawn)|Pawn: find upgrades, do more damage, win. (Download releases and ask questions at CurseForge.)|7|2022-02-24|
 |168|[IT1187541749/Rime-data](https://github.com/IT1187541749/Rime-data)|个人输入法仓库-备份|7|2022-02-13|
 |169|[oclip/oclip-server-lite](https://github.com/oclip/oclip-server-lite)|oclip server 轻量版本，不依赖数据库且支持多用户|7|2021-09-10|

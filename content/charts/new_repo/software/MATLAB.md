@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|15|2022-03-03|2021-09-21|
-|2|[cggos/opt_matlab](https://github.com/cggos/opt_matlab)|最优化方法及其MATLAB实现 源代码|10|2021-10-07|2021-10-07|
+|1|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|15|2022-03-04|2021-09-21|
+|2|[cggos/opt_matlab](https://github.com/cggos/opt_matlab)|最优化方法及其MATLAB实现 源代码|11|2021-10-07|2021-10-07|
 |3|[himynameisfuego/SiTraNo](https://github.com/himynameisfuego/SiTraNo)|A MATLAB app for tonal-transient-noise decomposition of audio signals.|10|2021-09-08|2021-04-16|
 |4|[fuzhiqiang1230/DLRRPD](https://github.com/fuzhiqiang1230/DLRRPD)|This repository is used for sharing the source code of Double low-rank representation with projection distance penalty for clustering|9|2022-01-26|2021-03-19|
 |5|[bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm](https://github.com/bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm)|-|8|2021-11-24|2021-10-15|
@@ -24,7 +24,7 @@
 |17|[sychen-sjtu/RRT](https://github.com/sychen-sjtu/RRT)|基于matlab仿真的puma560机械臂RRT路径规划算法|4|2021-11-15|2021-11-15|
 |18|[Zhao-Jichao/Distributed_optimal_-formation_control_of_heterogeneous_multi-agent_systems_with_mixed-orders](https://github.com/Zhao-Jichao/Distributed_optimal_-formation_control_of_heterogeneous_multi-agent_systems_with_mixed-orders)|异构混合阶多智能体系统编队控制的分布式优化|4|2021-09-11|2021-09-08|
 |19|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|4|2022-02-25|2021-08-03|
-|20|[heihei2122/mag_cuboid](https://github.com/heihei2122/mag_cuboid)|a gui or app based matlab to calculate B  force stiffness  矩形磁体的计算|4|2021-11-20|2021-07-25|
+|20|[heihei2122/mag_cuboid](https://github.com/heihei2122/mag_cuboid)|a gui or app based matlab to calculate B  force stiffness  矩形磁体的计算|4|2022-03-04|2021-07-25|
 |21|[zxb17zxb/SLIC](https://github.com/zxb17zxb/SLIC)|一个SLIC算法用于图像分割的matlab实现|3|2021-12-07|2021-12-07|
 |22|[mrcaidev/matlab-experiment](https://github.com/mrcaidev/matlab-experiment)|程序基础+微积分+数值计算+最优化+随机模拟+椭球寻径。|3|2021-12-23|2021-11-08|
 |23|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|2021-12-21|2021-10-21|

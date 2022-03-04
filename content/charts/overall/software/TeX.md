@@ -1,48 +1,48 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > TeX
-<sub>数据更新: 2022-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|5255|2021-12-15|
-|2|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3360|2022-03-01|
-|3|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2614|2021-10-29|
-|4|[THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2214|2021-11-20|
-|5|[OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs)|The Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security.|1323|2022-02-28|
+|1|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|5262|2021-12-15|
+|2|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|3361|2022-03-01|
+|3|[mohuangrui/ucasthesis](https://github.com/mohuangrui/ucasthesis)|LaTeX Thesis Template for the University of Chinese Academy of Sciences |2615|2021-10-29|
+|4|[THUNLP-MT/MT-Reading-List](https://github.com/THUNLP-MT/MT-Reading-List)|A machine translation reading list maintained by Tsinghua Natural Language Processing Group|2217|2021-11-20|
+|5|[OWASP/owasp-masvs](https://github.com/OWASP/owasp-masvs)|The Mobile Application Security Verification Standard (MASVS) is a standard for mobile app security.|1324|2022-02-28|
 |6|[ethereum/yellowpaper](https://github.com/ethereum/yellowpaper)|The "Yellow Paper": Ethereum's formal specification|1293|2022-02-24|
-|7|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|1131|2022-03-03|
-|8|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|1107|2021-12-08|
-|9|[ustctug/ustcthesis](https://github.com/ustctug/ustcthesis)|LaTeX template for USTC thesis|945|2022-02-28|
+|7|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|1139|2022-03-03|
+|8|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|1109|2021-12-08|
+|9|[ustctug/ustcthesis](https://github.com/ustctug/ustcthesis)|LaTeX template for USTC thesis|946|2022-02-28|
 |10|[CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit)|Macro Packages and Scripts for Chinese TeX users|790|2022-01-26|
-|11|[wzpan/BeamerStyleSlides](https://github.com/wzpan/BeamerStyleSlides)|🌈Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。|701|2022-01-20|
-|12|[gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en)|The English version of 14 lectures on visual SLAM.|664|2021-11-16|
+|11|[wzpan/BeamerStyleSlides](https://github.com/wzpan/BeamerStyleSlides)|🌈Beamer风格的幻灯片模板集。包含了PowerPoint和Keynote两套格式。|700|2022-01-20|
+|12|[gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en)|The English version of 14 lectures on visual SLAM.|666|2021-11-16|
 |13|[zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style)|GB/T 7714-2015 BibTeX Style|648|2022-02-08|
 |14|[ice1000/resume](https://github.com/ice1000/resume)|:space_invader: My resume / 我的简历|566|2021-12-30|
-|15|[stone-zeng/fduthesis](https://github.com/stone-zeng/fduthesis)|LaTeX thesis template for Fudan University|455|2022-02-17|
+|15|[stone-zeng/fduthesis](https://github.com/stone-zeng/fduthesis)|LaTeX thesis template for Fudan University|456|2022-02-17|
 |16|[hushidong/biblatex-gb7714-2015](https://github.com/hushidong/biblatex-gb7714-2015)|A biblatex implementation of the GB/T7714-2015 bibliography style     GB/T 7714-2015 参考文献著录和标注的biblatex样式包|433|2022-02-23|
-|17|[schoeberl/chisel-book](https://github.com/schoeberl/chisel-book)|Digital Design with Chisel|409|2022-03-03|
+|17|[schoeberl/chisel-book](https://github.com/schoeberl/chisel-book)|Digital Design with Chisel|410|2022-03-03|
 |18|[beijinglug/fsfs-zh](https://github.com/beijinglug/fsfs-zh)|Chinese translation for "Free Software, Free Society"(3rd)|358|2021-12-25|
 |19|[mohuangrui/ucasproposal](https://github.com/mohuangrui/ucasproposal)|LaTeX Proposal Template for the University of Chinese Academy of Sciences|353|2021-10-29|
 |20|[eliocamp/ggnewscale](https://github.com/eliocamp/ggnewscale)|Multiple Fill, Color and Other Scales in `ggplot2`|302|2022-02-15|
 |21|[RichardLitt/low-resource-languages](https://github.com/RichardLitt/low-resource-languages)|Resources for conservation, development, and documentation of low resource (human) languages.|279|2022-01-11|
 |22|[BIT-thesis/LaTeX-template](https://github.com/BIT-thesis/LaTeX-template)|LaTeX template for BIT thesis|271|2021-11-01|
 |23|[rioxwang/BUPTGraduateThesis](https://github.com/rioxwang/BUPTGraduateThesis)|-|262|2022-01-25|
-|24|[LearningOS/os-lectures](https://github.com/LearningOS/os-lectures)|OS Lectures 2022 Spring|216|2022-03-03|
+|24|[LearningOS/os-lectures](https://github.com/LearningOS/os-lectures)|OS Lectures 2022 Spring|217|2022-03-03|
 |25|[huangxg/lnotes](https://github.com/huangxg/lnotes)|LaTeX Notes|216|2021-10-25|
 |26|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|211|2022-02-28|
 |27|[OsbertWang/install-latex-guide-zh-cn](https://github.com/OsbertWang/install-latex-guide-zh-cn)|一份简短的关于 LaTeX 安装的介绍|171|2022-02-25|
-|28|[TouchFishPioneer/SEU-Beamer-Slide](https://github.com/TouchFishPioneer/SEU-Beamer-Slide)|东南大学幻灯片模板（豪华版）:clipboard:|144|2021-10-15|
+|28|[TouchFishPioneer/SEU-Beamer-Slide](https://github.com/TouchFishPioneer/SEU-Beamer-Slide)|东南大学幻灯片模板（豪华版）:clipboard:|145|2021-10-15|
 |29|[PandaScience/FortySecondsCV](https://github.com/PandaScience/FortySecondsCV)|A highly customizable and improved version of Carmine Spagnuolo's Twenty Seconds Curriculum Vitae.|143|2021-12-25|
-|30|[xjtu-blacksmith/easymcm](https://github.com/xjtu-blacksmith/easymcm)|A simple LaTeX package for Mathematical Contest in Modeling (MCM)|126|2022-01-05|
+|30|[xjtu-blacksmith/easymcm](https://github.com/xjtu-blacksmith/easymcm)|A simple LaTeX package for Mathematical Contest in Modeling (MCM)|125|2022-01-05|
 |31|[sppmg/TW_Thesis_Template](https://github.com/sppmg/TW_Thesis_Template)|The LaTeX Template for TW Thesis 台灣碩博士 LaTeX 論文樣板|91|2021-10-05|
-|32|[Didnelpsun/Math](https://github.com/Didnelpsun/Math)|考研数学，数学一，包括高等数学、线性代数、概率统计|87|2021-12-11|
+|32|[Didnelpsun/Math](https://github.com/Didnelpsun/Math)|考研数学，数学一，包括高等数学、线性代数、概率统计|90|2021-12-11|
 |33|[yuxtech/ShiJihuai-complex](https://github.com/yuxtech/ShiJihuai-complex)|史济怀复变函数LaTeX重排|81|2021-11-10|
 |34|[jamesfang8499/physics1](https://github.com/jamesfang8499/physics1)|-|80|2022-02-20|
 |35|[redleafnew/Zotero_introduction](https://github.com/redleafnew/Zotero_introduction)|A Short Chinese Introduction to Zotero|68|2021-12-28|
 |36|[LogCreative/SJTUBeamermin](https://github.com/LogCreative/SJTUBeamermin)|上海交通大学 LaTeX Beamer 幻灯片模板 - VI 最小工作集|56|2021-11-05|
-|37|[SJTU-HPC/docs.hpc.sjtu.edu.cn](https://github.com/SJTU-HPC/docs.hpc.sjtu.edu.cn)|SJTU HPC 用户文档站点|53|2022-03-02|
-|38|[MacroUniverse/PhysWiki-log](https://github.com/MacroUniverse/PhysWiki-log)|小时百科|51|2022-03-02|
+|37|[SJTU-HPC/docs.hpc.sjtu.edu.cn](https://github.com/SJTU-HPC/docs.hpc.sjtu.edu.cn)|SJTU HPC 用户文档站点|53|2022-03-04|
+|38|[MacroUniverse/PhysWiki-log](https://github.com/MacroUniverse/PhysWiki-log)|小时百科|52|2022-03-02|
 |39|[seisman/cv](https://github.com/seisman/cv)|My academic CV powered by LaTeX|51|2022-03-01|
 |40|[Mulliken/szaboqc](https://github.com/Mulliken/szaboqc)|-|42|2021-11-14|
 |41|[sailist/MarkTex](https://github.com/sailist/MarkTex)|convert markdown to latex code perfectly, support chinese|35|2021-09-28|
@@ -104,22 +104,24 @@
 |97|[GeeLaw/laomian](https://github.com/GeeLaw/laomian)|老面 (sourdough, lit. "old dough") is used as the starter for fermenting dough. This repository contains my digital 老面.|4|2022-02-09|
 |98|[fanhongtao/ebooks](https://github.com/fanhongtao/ebooks)|80年代高中数理化甲种本|4|2022-01-05|
 |99|[YiJiang1992/CV](https://github.com/YiJiang1992/CV)|Curriculum Vitae / 简历|4|2022-01-23|
-|100|[lxlonlyn/CSP-Project](https://github.com/lxlonlyn/CSP-Project)|历年 CCF CSP 题目解析|3|2022-01-29|
-|101|[LLLgoyour/Handout](https://github.com/LLLgoyour/Handout)|王一老师上课配套的物理讲义|3|2022-01-10|
-|102|[jiajunfanthu/NKU_Thisis](https://github.com/jiajunfanthu/NKU_Thisis)|南开人工智能学院毕业设计模板|3|2021-09-26|
-|103|[longyuan94/PerfDogService_HL001](https://github.com/longyuan94/PerfDogService_HL001)|专家组|3|2021-11-22|
-|104|[VohsiLiu/Probability-Problems](https://github.com/VohsiLiu/Probability-Problems)|概率论与数理统计（浙大第四版）课后习题整理|3|2021-12-25|
-|105|[Chen-Jialin/CV](https://github.com/Chen-Jialin/CV)|基于 LaTeX 的个人中英简历。CV in Chinese and English version based on LaTeX.|3|2021-10-06|
-|106|[a358003542/zhouyi](https://github.com/a358003542/zhouyi)|周易初讲【讲解部分编写中......】|3|2022-02-05|
-|107|[Poncirus/Resume](https://github.com/Poncirus/Resume)|My Resume / 我的简历|3|2021-10-25|
-|108|[kaleidoscope257-git/SHUbeamer](https://github.com/kaleidoscope257-git/SHUbeamer)|SHUbeamer是为了帮助上海大学师生撰写演示文稿而编写的LaTex Beamer模版文件 |2|2021-12-01|
-|109|[cccresearch/nnModelAuto](https://github.com/cccresearch/nnModelAuto)|神經網路自動建模|2|2021-10-17|
-|110|[XingZhiang/shu-report-latex-template](https://github.com/XingZhiang/shu-report-latex-template)|shu的一些实验报告的latex模板|2|2021-09-24|
-|111|[wangchang327/ics2021-ps](https://github.com/wangchang327/ics2021-ps)|2021 年秋计算机系统导论讨论班 16 使用的材料|2|2022-02-21|
-|112|[ritscc/soukai-2021-1](https://github.com/ritscc/soukai-2021-1)|2021年度春学期総会|2|2021-10-24|
-|113|[andrewx100/rheology_lecture_note](https://github.com/andrewx100/rheology_lecture_note)|这是一个流变学讲义的项目。作者：孙尉翔。邮箱：mswxsun@scut.edu.cn|2|2021-10-11|
-|114|[xinetzone/cv-actions](https://github.com/xinetzone/cv-actions)|计算机视觉实践|2|2021-10-08|
-|115|[ricosjp/Articles](https://github.com/ricosjp/Articles)|定款（会社法第27条）|2|2021-12-08|
+|100|[AyaTheCrow/AyaCV](https://github.com/AyaTheCrow/AyaCV)|LaTeX中文简历模板|3|2022-03-01|
+|101|[lxlonlyn/CSP-Project](https://github.com/lxlonlyn/CSP-Project)|历年 CCF CSP 题目解析|3|2022-01-29|
+|102|[LLLgoyour/Handout](https://github.com/LLLgoyour/Handout)|王一老师上课配套的物理讲义|3|2022-01-10|
+|103|[jiajunfanthu/NKU_Thisis](https://github.com/jiajunfanthu/NKU_Thisis)|南开人工智能学院毕业设计模板|3|2021-09-26|
+|104|[longyuan94/PerfDogService_HL001](https://github.com/longyuan94/PerfDogService_HL001)|专家组|3|2021-11-22|
+|105|[VohsiLiu/Probability-Problems](https://github.com/VohsiLiu/Probability-Problems)|概率论与数理统计（浙大第四版）课后习题整理|3|2021-12-25|
+|106|[syvshc/exam](https://github.com/syvshc/exam)|考研复习时的好题|3|2022-03-01|
+|107|[Chen-Jialin/CV](https://github.com/Chen-Jialin/CV)|基于 LaTeX 的个人中英简历。CV in Chinese and English version based on LaTeX.|3|2021-10-06|
+|108|[a358003542/zhouyi](https://github.com/a358003542/zhouyi)|周易初讲【讲解部分编写中......】|3|2022-02-05|
+|109|[Poncirus/Resume](https://github.com/Poncirus/Resume)|My Resume / 我的简历|3|2021-10-25|
+|110|[kaleidoscope257-git/SHUbeamer](https://github.com/kaleidoscope257-git/SHUbeamer)|SHUbeamer是为了帮助上海大学师生撰写演示文稿而编写的LaTex Beamer模版文件 |2|2021-12-01|
+|111|[cccresearch/nnModelAuto](https://github.com/cccresearch/nnModelAuto)|神經網路自動建模|2|2021-10-17|
+|112|[XingZhiang/shu-report-latex-template](https://github.com/XingZhiang/shu-report-latex-template)|shu的一些实验报告的latex模板|2|2021-09-24|
+|113|[wangchang327/ics2021-ps](https://github.com/wangchang327/ics2021-ps)|2021 年秋计算机系统导论讨论班 16 使用的材料|2|2022-02-21|
+|114|[ritscc/soukai-2021-1](https://github.com/ritscc/soukai-2021-1)|2021年度春学期総会|2|2021-10-24|
+|115|[andrewx100/rheology_lecture_note](https://github.com/andrewx100/rheology_lecture_note)|这是一个流变学讲义的项目。作者：孙尉翔。邮箱：mswxsun@scut.edu.cn|2|2021-10-11|
+|116|[xinetzone/cv-actions](https://github.com/xinetzone/cv-actions)|计算机视觉实践|2|2021-10-08|
+|117|[ricosjp/Articles](https://github.com/ricosjp/Articles)|定款（会社法第27条）|2|2021-12-08|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
