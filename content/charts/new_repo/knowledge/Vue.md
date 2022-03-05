@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2022-03-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|214|2022-03-04|2022-01-05|
+|1|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|218|2022-03-04|2022-01-05|
 |2|[tnfe/shida](https://github.com/tnfe/shida)|《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。|168|2022-02-15|2022-01-15|
 |3|[OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around)|自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。|89|2022-02-20|2021-05-19|
 |4|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|82|2022-03-04|2021-08-22|
@@ -25,12 +25,12 @@
 |18|[Evan-WH/MyBlog-With-Aurora](https://github.com/Evan-WH/MyBlog-With-Aurora)|个人博客|10|2022-02-12|2022-01-15|
 |19|[ljnMeow/360-house-viewing](https://github.com/ljnMeow/360-house-viewing)|基于threejs制作的3d看房demo，仅供学习使用|10|2021-12-31|2021-12-27|
 |20|[Sweet0954/supermall](https://github.com/Sweet0954/supermall)|学习coderwhy老师的vue课程,里面的vue移动端项目|10|2021-10-10|2021-09-25|
-|21|[flaribbit/vitepress-theme-sakura](https://github.com/flaribbit/vitepress-theme-sakura)|A lovely blog theme for vitepress. 可爱又轻量的二次元博客主题！大概是隔壁wp主题的移植吧|8|2022-03-04|2022-02-10|
-|22|[cumt-robin/vue3-ts-blog-frontend](https://github.com/cumt-robin/vue3-ts-blog-frontend)|基于 vue3 + ts + ant-design-vue 的个人博客|8|2022-03-02|2021-08-19|
-|23|[scriptscat/scriptlist-frontend](https://github.com/scriptscat/scriptlist-frontend)|脚本猫脚本站前端页面，与世界分享你的脚本|8|2022-02-26|2021-06-06|
-|24|[waywardcode918/myblog](https://github.com/waywardcode918/myblog)|基于vue2实现的前端博客，ui采用elementUI，通过读取本地md文件实现博客展示和导航配置|7|2022-02-15|2022-01-24|
-|25|[yu-tou/frontend-modern-experience-share-slide](https://github.com/yu-tou/frontend-modern-experience-share-slide)|一个关于Web 体验技术发展前沿的小分享|7|2022-01-20|2022-01-18|
-|26|[scudev/qndxx](https://github.com/scudev/qndxx)|青年大学习截图生成|7|2022-02-04|2021-12-16|
+|21|[flaribbit/vitepress-theme-sakura](https://github.com/flaribbit/vitepress-theme-sakura)|A lovely blog theme for vitepress. 可爱又轻量的二次元博客主题！大概是隔壁wp主题的移植吧|8|2022-03-05|2022-02-10|
+|22|[scudev/qndxx](https://github.com/scudev/qndxx)|青年大学习截图生成|8|2022-02-04|2021-12-16|
+|23|[cumt-robin/vue3-ts-blog-frontend](https://github.com/cumt-robin/vue3-ts-blog-frontend)|基于 vue3 + ts + ant-design-vue 的个人博客|8|2022-03-02|2021-08-19|
+|24|[scriptscat/scriptlist-frontend](https://github.com/scriptscat/scriptlist-frontend)|脚本猫脚本站前端页面，与世界分享你的脚本|8|2022-02-26|2021-06-06|
+|25|[waywardcode918/myblog](https://github.com/waywardcode918/myblog)|基于vue2实现的前端博客，ui采用elementUI，通过读取本地md文件实现博客展示和导航配置|7|2022-02-15|2022-01-24|
+|26|[yu-tou/frontend-modern-experience-share-slide](https://github.com/yu-tou/frontend-modern-experience-share-slide)|一个关于Web 体验技术发展前沿的小分享|7|2022-01-20|2022-01-18|
 |27|[mvpyb/vite-vant-template](https://github.com/mvpyb/vite-vant-template)|Vite Vant Template 是一个免费开源的移动端模版。使用了最新的`vue3`,`vite2`等主流技术开发，开箱即用的移动端解决方案，也可用于学习参考。|7|2021-10-28|2021-10-27|
 |28|[zb2313/DB-frontend](https://github.com/zb2313/DB-frontend)|同济大学2019级数据库课程设计项目|7|2021-09-11|2021-06-04|
 |29|[DiF1202/vue3.0_music](https://github.com/DiF1202/vue3.0_music)|因为本人超级喜欢听音乐，尤其喜欢网易云，所想开发一个音乐播放器，仅学习使用无任何商业用处，代码开源，若有问题可以多多交流。|6|2021-10-14|2021-09-15|

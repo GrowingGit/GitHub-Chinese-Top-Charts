@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Dart
-<sub>数据更新: 2022-03-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -12,7 +12,7 @@
 |5|[JoneYng/course_flutter](https://github.com/JoneYng/course_flutter)|课程|6|0|2021-12-23|
 |6|[RxReader/tencent_kit](https://github.com/RxReader/tencent_kit)|flutter版QQ登录/分享|173|0|2022-02-10|
 |7|[pheromone/Flutter_learn_demo](https://github.com/pheromone/Flutter_learn_demo)|Flutter_learn_demo  Flutter学习历程|107|0|2022-02-23|
-|8|[nightmare-space/speed_share](https://github.com/nightmare-space/speed_share)|Speed Share is a highly available file sharing terminal on LAN(local area network) developed by flutter framework.|88|0|2022-01-07|
+|8|[nightmare-space/speed_share](https://github.com/nightmare-space/speed_share)|Speed Share is a highly available file sharing terminal on LAN(local area network) developed by flutter framework.|91|0|2022-01-07|
 |9|[xiedong11/flutter_app](https://github.com/xiedong11/flutter_app)|Flutter进阶之旅专栏|76|0|2022-01-27|
 |10|[NewPracticer/Flutter-Dart-DataStructure](https://github.com/NewPracticer/Flutter-Dart-DataStructure)|使用flutter的dart语言重写数据结构与算法。包括线性搜索、选择排序、插入排序、栈，队列，链表、递归、归并排序、快速排序、二分搜索、二分搜索树、集合 和 映射、堆、优先队列、冒泡排序、希尔排序、线段树、Trie字典树、并查集、AVL树、红黑树、哈希表、计数排序、LSD基数排序、MSD排序，桶排序、字符串匹配、图的邻接矩阵、邻接表，深度优先遍历及应用|65|0|2021-09-24|
 |11|[longer96/flutter_pickers](https://github.com/longer96/flutter_pickers)|flutter 选择器库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、民族、学历、星座、年龄、身高、体重、温度等）、城市地址选择器（分省级、地级及县级）、多项选择器等…… 欢迎Fork & pr贡献您的代码，大家共同学习|151|0|2022-02-03|
@@ -23,7 +23,7 @@
 |16|[zhou-Flutter/flutter_dome](https://github.com/zhou-Flutter/flutter_dome)|实战小红书|6|0|2021-10-31|
 |17|[mikai233/fstar-client](https://github.com/mikai233/fstar-client)|繁星课程表客户端|16|0|2022-01-02|
 |18|[RxReader/weibo_kit](https://github.com/RxReader/weibo_kit)|flutter版新浪微博登录/分享|83|0|2022-02-10|
-|19|[AgoraIO-Community/Agora-Flutter-Quickstart](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart)|Quickstart guide for the Agora Flutter SDK(Android/iOS)|491|0|2021-10-14|
+|19|[AgoraIO-Community/Agora-Flutter-Quickstart](https://github.com/AgoraIO-Community/Agora-Flutter-Quickstart)|Quickstart guide for the Agora Flutter SDK(Android/iOS)|492|0|2021-10-14|
 |20|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|38|0|2022-02-28|
 |21|[longer96/flutter-demo](https://github.com/longer96/flutter-demo)|🔥Flutter 那些花里胡哨的界面🔥，花里胡哨的底部导航，仿抖音、小红书底部菜单，向上展开菜单，半圆菜单，中间凹进去的菜单，动画底部导航|77|0|2021-10-14|
 |22|[RxReader/wechat_kit](https://github.com/RxReader/wechat_kit)|Flutter 版微信登录/分享/支付 SDK|498|0|2022-02-10|

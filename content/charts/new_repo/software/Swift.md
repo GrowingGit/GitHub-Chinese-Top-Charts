@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Swift
-<sub>数据更新: 2022-03-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1504|2022-03-04|2021-11-13|
-|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts|901|2022-03-02|2021-11-30|
+|1|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1506|2022-03-04|2021-11-13|
+|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts|902|2022-03-02|2021-11-30|
 |3|[Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11)| 💻 Windows 11 in SwiftUI.|125|2021-10-13|2021-08-31|
 |4|[william0wang/MagicCamera](https://github.com/william0wang/MagicCamera)|iOS多功能AI相机：人像卡通化、变老变年轻、美颜、滤镜、艺术效果等|102|2021-11-08|2021-10-29|
-|5|[MikeWang000000/PD-Runner-Revived](https://github.com/MikeWang000000/PD-Runner-Revived)|PD-Runner (Parallels Desktop) 补档|95|2022-02-26|2022-01-25|
-|6|[Lakr233/FishUpgrade](https://github.com/Lakr233/FishUpgrade)|macOS 摸鱼模拟器|87|2021-12-19|2021-12-16|
+|5|[MikeWang000000/PD-Runner-Revived](https://github.com/MikeWang000000/PD-Runner-Revived)|PD-Runner (Parallels Desktop) 补档|96|2022-02-26|2022-01-25|
+|6|[Lakr233/FishUpgrade](https://github.com/Lakr233/FishUpgrade)|macOS 摸鱼模拟器|88|2021-12-19|2021-12-16|
 |7|[BugenZhao/MNGA](https://github.com/BugenZhao/MNGA)|💬 A refreshing NGA Forum App in SwiftUI. Make NGA Great Again! aka "NGA 论坛 iOS 开源客户端"|78|2022-01-03|2021-06-27|
 |8|[pujiaxin33/StackUI](https://github.com/pujiaxin33/StackUI)|StackUI just like SwiftUI|74|2022-01-25|2021-10-14|
 |9|[yangKJ/RxNetworks](https://github.com/yangKJ/RxNetworks)|🧚Network API With RxSwift + Moya + HandyJSON + Plugins.|59|2022-02-07|2021-05-08|
@@ -40,7 +40,7 @@
 |33|[Rui4u/PrivateApp](https://github.com/Rui4u/PrivateApp)|隐私查看|10|2022-01-20|2021-10-21|
 |34|[TBoyLi/FunIOS](https://github.com/TBoyLi/FunIOS)|玩Android IOS Swift 版本|10|2021-09-08|2021-08-10|
 |35|[ZXKitCode/ZXFileBrowser](https://github.com/ZXKitCode/ZXFileBrowser)|The iOS sandbox file browser, which has view, copy, move, delete files and other operations. iOS端沙盒文件浏览器，可以查看、拷贝、移动、删除等操作|10|2021-10-27|2021-05-11|
-|36|[ShikiSuen/vChewing-macOS](https://github.com/ShikiSuen/vChewing-macOS)|威注音输入法的 macOS 版，以小麦注音输入法的引擎为主、搭配特制的简体中文专用辞库。是纯粹的简体中文注音输入法（也有原生的繁体中文输入模式，并非简繁转换）。|9|2022-03-04|2021-12-13|
+|36|[ShikiSuen/vChewing-macOS](https://github.com/ShikiSuen/vChewing-macOS)|威注音输入法的 macOS 版，以小麦注音输入法的引擎为主、搭配特制的简体中文专用辞库。是纯粹的简体中文注音输入法（也有原生的繁体中文输入模式，并非简繁转换）。|9|2022-03-05|2021-12-13|
 |37|[Rogue24/OneDay](https://github.com/Rogue24/OneDay)|精美的桌面小组件。|9|2022-01-27|2021-07-08|
 |38|[Leonard-iOS/PaddleOCR](https://github.com/Leonard-iOS/PaddleOCR)|PaddleOCR是一款应用于iOS设备上的通用文字识别的OCR库.|9|2021-10-25|2021-05-13|
 |39|[litecoin-foundation/litewallet-ios](https://github.com/litecoin-foundation/litewallet-ios)|iOS version of Litewallet , official SPV Wallet from the Litecoin Foundation. Maintained by the Litewallet Team & Charlie Lee (Creator of Litecoin)|9|2022-02-28|2021-04-10|
