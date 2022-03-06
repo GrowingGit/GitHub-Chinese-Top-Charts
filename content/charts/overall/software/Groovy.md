@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Groovy
-<sub>数据更新: 2022-03-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3629|2021-09-15|
-|2|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2198|2022-02-25|
+|1|[HujiangTechnology/gradle_plugin_android_aspectjx](https://github.com/HujiangTechnology/gradle_plugin_android_aspectjx)|A Android gradle plugin that effects AspectJ on Android project and can hook methods in Kotlin, aar and jar file.|3630|2021-09-15|
+|2|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2199|2022-02-25|
 |3|[luckybilly/AutoRegister](https://github.com/luckybilly/AutoRegister)|基于字节码插桩，在Android中实现跨module自动注册的gradle插件，可用于模块解耦。已应用于ARouter和CC|1026|2022-01-05|
 |4|[gogradle/gogradle](https://github.com/gogradle/gogradle)|A Gradle Plugin Providing Full Support for Go|751|2021-10-11|
 |5|[chenenyu/img-optimizer-gradle-plugin](https://github.com/chenenyu/img-optimizer-gradle-plugin)|一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩。|746|2022-02-21|
@@ -23,7 +23,7 @@
 |16|[ZakAnun/UploadApkPlugin](https://github.com/ZakAnun/UploadApkPlugin)|上传 apk 文件到指定测试平台的插件|13|2021-10-18|
 |17|[dqzboy/DevOps](https://github.com/dqzboy/DevOps)|CICD流水线|11|2022-01-05|
 |18|[wzbos/chihiro](https://github.com/wzbos/chihiro)|🔥🔥 安卓组件化插件 🔥🔥 支持多工程联调、组件快速发布到Maven私服、企业微信机器人、钉钉机器人、自定义webhook|10|2022-01-07|
-|19|[ihub-pub/plugins](https://github.com/ihub-pub/plugins)|IHub Plugins：一套Gradle插件集，封装了常用Gradle插件，并做了一些个性化缺省配置，极大的简化项目管理配置。|8|2022-03-05|
+|19|[ihub-pub/plugins](https://github.com/ihub-pub/plugins)|IHub Plugins：一套Gradle插件集，封装了常用Gradle插件，并做了一些个性化缺省配置，极大的简化项目管理配置。|8|2022-03-06|
 |20|[Peakmain/AsmActualCombat](https://github.com/Peakmain/AsmActualCombat)|ASM实战——埋点|7|2022-01-25|
 |21|[keepLove/android-jiagu-plugin](https://github.com/keepLove/android-jiagu-plugin)|360加固Gradle插件|6|2022-01-14|
 |22|[cn2oo8/autocode-template-example](https://github.com/cn2oo8/autocode-template-example)|代码模板示例|6|2021-09-06|

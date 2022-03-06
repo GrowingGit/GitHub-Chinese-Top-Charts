@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Kotlin
-<sub>数据更新: 2022-03-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[milklabdev/jetpack-compose-book](https://github.com/milklabdev/jetpack-compose-book)|Jetpack Compose 基础教程，持续更新|576|2022-03-01|2021-04-03|
+|1|[milklabdev/jetpack-compose-book](https://github.com/milklabdev/jetpack-compose-book)|Jetpack Compose 基础教程，持续更新|577|2022-03-01|2021-04-03|
 |2|[biubiuqiu0/flow-event-bus](https://github.com/biubiuqiu0/flow-event-bus)|EventBus for Android，消息总线，基于SharedFlow，具有生命周期感知能力，支持Sticky，支持线程切换，支持延迟发送。|98|2022-01-18|2021-07-15|
 |3|[leavesCZY/RobustWebView](https://github.com/leavesCZY/RobustWebView)|Android WebView H5 秒开方案总结|27|2022-02-28|2021-09-12|
 |4|[Anddd7/a-blackhorse](https://github.com/Anddd7/a-blackhorse)|tell you how to manage your blackhorse|16|2022-03-02|2021-06-25|
 |5|[Iseason2000/DeEnchantment](https://github.com/Iseason2000/DeEnchantment)|负魔书|16|2022-02-20|2021-03-12|
-|6|[RyensX/MediaBox](https://github.com/RyensX/MediaBox)|规范化媒体浏览器，不含广告，免费开源，便于学习Android开发。|14|2022-03-05|2022-02-13|
+|6|[RyensX/MediaBox](https://github.com/RyensX/MediaBox)|规范化媒体浏览器，不含广告，免费开源，便于学习Android开发。|15|2022-03-05|2022-02-13|
 |7|[Edsuns/Star](https://github.com/Edsuns/Star)|超星学习通签到助手（使用JetpackCompose开发）|14|2021-10-28|2021-06-23|
 |8|[JiaYang627/QuickAndroid](https://github.com/JiaYang627/QuickAndroid)|:octocat:使用Kotlin搭建的一个基础框架。目的旨在学习Kotlin，更好的从Java过渡到Kotlin，并且针对此项目编写了一键生成页面插件。具体可看README:book:|12|2022-03-02|2021-12-01|
 |9|[yang961226/Spacecraft](https://github.com/yang961226/Spacecraft)|《论jetpack和安卓进阶技术的理论与实践》|11|2022-03-02|2022-02-19|

@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Perl
-<sub>数据更新: 2022-03-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[Oreomeow/checkinpanel](https://github.com/Oreomeow/checkinpanel)|一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）|736|4|2022-03-05|
-|2|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3974|2|2022-02-15|
-|3|[alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list)|Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!|628|1|2022-03-03|
+|2|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3973|2|2022-02-15|
+|3|[alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list)|Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!|629|1|2022-03-06|
 |4|[Yanstory/tpZHCNex](https://github.com/Yanstory/tpZHCNex)|thpatch zh-hans extra patches (Beta)|16|0|2022-02-19|
 |5|[leobbs/leobbs](https://github.com/leobbs/leobbs)|雷傲论坛, demo地址https://leobbs.org|5|0|2022-01-24|
 |6|[xy2jianjia/Crashsymbol](https://github.com/xy2jianjia/Crashsymbol)|iOS crash文件解析 项目符号不显示解决方案|2|0|2021-11-02|
@@ -19,7 +19,7 @@
 |12|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|378|0|2022-02-26|
 |13|[Songmu/p5-Riji](https://github.com/Songmu/p5-Riji)|git based simple static site generator mainly for blogging|23|0|2022-01-16|
 |14|[liaochenlanruo/pgcgap](https://github.com/liaochenlanruo/pgcgap)|The Prokaryotic Genomics and Comparative Genomics Analysis Pipeline|19|0|2022-03-03|
-|15|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|209|0|2022-03-05|
+|15|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|209|0|2022-03-06|
 |16|[texjporg/cjk-gs-support](https://github.com/texjporg/cjk-gs-support)|Scripts to ease the use of CJK fonts with Ghostscript|29|0|2021-09-30|
 |17|[MYDan/mayi](https://github.com/MYDan/mayi)|蚂蚁蛋运维助手(安装方式: curl -L http://update.mydan.org bash)|12|0|2021-10-14|
 |18|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|58|0|2022-03-02|

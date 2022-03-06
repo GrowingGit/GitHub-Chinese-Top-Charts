@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > CSS
-<sub>数据更新: 2022-03-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[Lihaogx/graph-note-of-greek-myth](https://github.com/Lihaogx/graph-note-of-greek-myth)|希腊神话读书笔记|517|2021-12-13|2021-08-01|
-|2|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|390|2022-03-02|2021-03-11|
-|3|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|205|2022-02-12|2021-04-05|
+|2|[SummerSec/learning-codeql](https://github.com/SummerSec/learning-codeql)|CodeQL Java 全网最全的中文学习资料|391|2022-03-02|2021-03-11|
+|3|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|206|2022-02-12|2021-04-05|
 |4|[yitd/wxkp](https://github.com/yitd/wxkp)|微信卡片分享链接在线制作工具|72|2021-12-11|2021-08-14|
 |5|[AIAHUB/HUST-AIA-Courses-Resource](https://github.com/AIAHUB/HUST-AIA-Courses-Resource)|HUST-AIA学院课程资源|43|2022-01-17|2021-05-10|
 |6|[viewweiwu/v2ex-zhihu-theme](https://github.com/viewweiwu/v2ex-zhihu-theme)|v2ex 知乎 主题样式|26|2022-01-06|2021-12-06|
@@ -18,7 +18,7 @@
 |11|[WindSnowLi/vue-ssr-blog](https://github.com/WindSnowLi/vue-ssr-blog)|w-blog的前台部分，一个简单的nuxtJs的博客前台项目|14|2021-11-23|2021-07-19|
 |12|[LaneDu/Knowledge-Brain](https://github.com/LaneDu/Knowledge-Brain)|思源笔记主题 Knowledge Brain 寓意知识大脑|14|2022-02-27|2021-07-04|
 |13|[dujiajun/jcourse](https://github.com/dujiajun/jcourse)|SJTU选课社区，本科课程体验评价|14|2022-03-03|2021-05-29|
-|14|[calebman/girlfriend-gift-collection](https://github.com/calebman/girlfriend-gift-collection)|送给女朋友的礼物合集，生日/情人节/纪念日等，程序员的创意。|11|2022-02-11|2022-02-10|
+|14|[calebman/girlfriend-gift-collection](https://github.com/calebman/girlfriend-gift-collection)|送给女朋友的礼物合集，生日/情人节/纪念日等，程序员的创意。|12|2022-02-11|2022-02-10|
 |15|[Nov8nana/typecho-theme-SimpleZ](https://github.com/Nov8nana/typecho-theme-SimpleZ)|SimpleZ 一款基于 typecho 的简约风单栏博客主题，专注于写作，抛弃了一切臃肿的功能。|11|2021-11-16|2021-06-21|
 |16|[Dreamer-Paul/Hingle](https://github.com/Dreamer-Paul/Hingle)|🎈 一个简洁大气，含夜间模式的 Hexo 博客主题|9|2021-10-24|2021-10-24|
 |17|[whuanle/kubernetes](https://github.com/whuanle/kubernetes)|痴者工良 - Kubernetes 电子书|9|2022-01-22|2021-05-20|

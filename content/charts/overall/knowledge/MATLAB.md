@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > MATLAB
-<sub>数据更新: 2022-03-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[cycleuser/Stanford-CS-229-CN](https://github.com/cycleuser/Stanford-CS-229-CN)|A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译|3021|2022-03-01|
-|2|[personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model)|数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法|617|2022-03-03|
+|1|[cycleuser/Stanford-CS-229-CN](https://github.com/cycleuser/Stanford-CS-229-CN)|A Chinese Translation of Stanford CS229 notes 斯坦福机器学习CS229课程讲义的中文翻译|3023|2022-03-01|
+|2|[personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model)|数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法|620|2022-03-03|
 |3|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|403|2022-02-23|
 |4|[NMID-CQUPT/CLF-CQPUT](https://github.com/NMID-CQUPT/CLF-CQPUT)|🛰重庆邮电大学课程攻略 Learning files for courses and training in  Chongqing University of Posts and Telecommunications|62|2021-11-13|
 |5|[kerenfu/JLDCF](https://github.com/kerenfu/JLDCF)|Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection"|59|2022-01-12|
 |6|[zuster/EconometricsResources](https://github.com/zuster/EconometricsResources)|经济学相关专业资料集|46|2021-12-16|
-|7|[kaichen686/GINav](https://github.com/kaichen686/GINav)|GNSS and GNSS/INS integration algorithms|43|2022-03-05|
+|7|[kaichen686/GINav](https://github.com/kaichen686/GINav)|GNSS and GNSS/INS integration algorithms|44|2022-03-06|
 |8|[QiuJueqin/ISP-based-on-responses-prediction-model](https://github.com/QiuJueqin/ISP-based-on-responses-prediction-model)|Study on Methodology and Technology of Digital Camera Image signal Processing Based on Raw Responses Prediction Model|27|2021-10-09|
 |9|[qxr777/NumericalMethod](https://github.com/qxr777/NumericalMethod)|数值计算方法课程|18|2021-11-15|
 |10|[AngeloUNIMI/PalmSeg](https://github.com/AngeloUNIMI/PalmSeg)|Source code for palmprint segmentation and ROI extraction used in the IEEE TIFS 2019 and IEEE CIVEMSA 2019 papers|16|2021-09-06|
