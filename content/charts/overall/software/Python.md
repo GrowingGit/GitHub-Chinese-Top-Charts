@@ -1,209 +1,209 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Python
-<sub>数据更新: 2022-03-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[huggingface/transformers](https://github.com/huggingface/transformers)|🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.|58938|2022-03-06|
-|2|[ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)|The world's simplest facial recognition api for Python and the command line|43334|2021-12-04|
-|3|[3b1b/manim](https://github.com/3b1b/manim)|Animation engine for explanatory math videos|42635|2022-03-06|
-|4|[Textualize/rich](https://github.com/Textualize/rich)|Rich is a Python library for rich text and beautiful formatting in the terminal.|35623|2022-03-03|
-|5|[testerSunshine/12306](https://github.com/testerSunshine/12306)|12306智能刷票，订票|30585|2022-02-10|
-|6|[hankcs/HanLP](https://github.com/hankcs/HanLP)|Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification|25121|2022-02-27|
-|7|[sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)|Automatic SQL injection and database takeover tool|22628|2022-03-03|
-|8|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de ...|19197|2022-03-05|
-|9|[celery/celery](https://github.com/celery/celery)|Distributed Task Queue (development branch)|18754|2022-03-06|
-|10|[open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)|OpenMMLab Detection Toolbox and Benchmark|18524|2022-03-06|
-|11|[jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)|JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。|18041|2022-03-04|
-|12|[taosdata/TDengine](https://github.com/taosdata/TDengine)|An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields|17855|2022-03-06|
-|13|[vnpy/vnpy](https://github.com/vnpy/vnpy)|基于Python的开源量化交易平台开发框架|17719|2022-02-23|
-|14|[PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle)|PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）|17711|2022-03-06|
+|1|[huggingface/transformers](https://github.com/huggingface/transformers)|🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.|58993|2022-03-07|
+|2|[ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)|The world's simplest facial recognition api for Python and the command line|43357|2021-12-04|
+|3|[3b1b/manim](https://github.com/3b1b/manim)|Animation engine for explanatory math videos|42674|2022-03-06|
+|4|[Textualize/rich](https://github.com/Textualize/rich)|Rich is a Python library for rich text and beautiful formatting in the terminal.|35687|2022-03-07|
+|5|[testerSunshine/12306](https://github.com/testerSunshine/12306)|12306智能刷票，订票|30586|2022-02-10|
+|6|[hankcs/HanLP](https://github.com/hankcs/HanLP)|Natural Language Processing for the next decade. Tokenization, Part-of-Speech Tagging, Named Entity Recognition, Syntactic & Semantic Dependency Parsing, Document Classification|25133|2022-02-27|
+|7|[sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)|Automatic SQL injection and database takeover tool|22649|2022-03-07|
+|8|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de ...|19206|2022-03-07|
+|9|[celery/celery](https://github.com/celery/celery)|Distributed Task Queue (development branch)|18755|2022-03-06|
+|10|[open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)|OpenMMLab Detection Toolbox and Benchmark|18543|2022-03-07|
+|11|[jumpserver/jumpserver](https://github.com/jumpserver/jumpserver)|JumpServer 是全球首款开源的堡垒机，是符合 4A 的专业运维安全审计系统。|18044|2022-03-07|
+|12|[taosdata/TDengine](https://github.com/taosdata/TDengine)|An open-source time-series database with high-performance, scalability and SQL support. It can be widely used in IoT, Connected Vehicles, DevOps, Energy, Finance and other fields|17865|2022-03-07|
+|13|[vnpy/vnpy](https://github.com/vnpy/vnpy)|基于Python的开源量化交易平台开发框架|17727|2022-02-23|
+|14|[PaddlePaddle/Paddle](https://github.com/PaddlePaddle/Paddle)|PArallel Distributed Deep LEarning: Machine Learning Framework from Industrial Practice （『飞桨』核心框架，深度学习&机器学习高性能单机、分布式训练和跨平台部署）|17723|2022-03-07|
 |15|[binux/pyspider](https://github.com/binux/pyspider)|A Powerful Spider(Web Crawler) System in Python.|15336|2022-01-20|
-|16|[jhao104/proxy_pool](https://github.com/jhao104/proxy_pool)|Python爬虫代理IP池(proxy pool)|14508|2021-12-31|
-|17|[Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider)|:rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等|14492|2021-12-13|
-|18|[Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model)|😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟|14126|2022-02-17|
+|16|[jhao104/proxy_pool](https://github.com/jhao104/proxy_pool)|Python爬虫代理IP池(proxy pool)|14516|2021-12-31|
+|17|[Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider)|:rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等|14498|2021-12-13|
+|18|[Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model)|😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟|14130|2022-02-17|
 |19|[wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game)|微信《跳一跳》Python 辅助|13879|2022-02-09|
-|20|[pyecharts/pyecharts](https://github.com/pyecharts/pyecharts)|🎨 Python Echarts Plotting Library|12043|2022-02-18|
+|20|[pyecharts/pyecharts](https://github.com/pyecharts/pyecharts)|🎨 Python Echarts Plotting Library|12045|2022-02-18|
 |21|[pjialin/py12306](https://github.com/pjialin/py12306)|🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理 |11681|2021-12-13|
-|22|[meolu/walle-web](https://github.com/meolu/walle-web)|walle - 瓦力 Devops开源项目代码部署平台|11351|2022-01-06|
-|23|[microsoft/nni](https://github.com/microsoft/nni)|An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.|11084|2022-03-06|
-|24|[521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520)|:kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）|9934|2022-03-06|
-|25|[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.|9831|2022-02-23|
+|22|[meolu/walle-web](https://github.com/meolu/walle-web)|walle - 瓦力 Devops开源项目代码部署平台|11352|2022-01-06|
+|23|[microsoft/nni](https://github.com/microsoft/nni)|An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.|11088|2022-03-07|
+|24|[521xueweihan/GitHub520](https://github.com/521xueweihan/GitHub520)|:kissing_heart: 让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。（无需安装）|9942|2022-03-07|
+|25|[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.|9849|2022-02-23|
 |26|[darknessomi/musicbox](https://github.com/darknessomi/musicbox)|网易云音乐命令行版本|9208|2022-01-30|
-|27|[dmlc/dgl](https://github.com/dmlc/dgl)|Python package built to ease deep learning on graph, on top of existing DL frameworks.|9058|2022-03-06|
-|28|[tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)|🎬 人人影视bot，完全对接人人影视全部无删减资源|8817|2022-03-04|
-|29|[x-hw/amazing-qr](https://github.com/x-hw/amazing-qr)|💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）|8768|2022-01-13|
-|30|[wangshub/Douyin-Bot](https://github.com/wangshub/Douyin-Bot)|😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？ |7739|2022-01-27|
-|31|[PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub)|Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)|7601|2022-03-04|
-|32|[luyishisi/Anti-Anti-Spider](https://github.com/luyishisi/Anti-Anti-Spider)|越来越多的网站具有反爬虫特性，有的用图片隐藏关键数据，有的使用反人类的验证码，建立反反爬虫的代码仓库，通过与不同特性的网站做斗争（无恶意）提高技术。（欢迎提交难以采集的网站）（因工作原因，项目暂停） |6952|2021-10-17|
+|27|[dmlc/dgl](https://github.com/dmlc/dgl)|Python package built to ease deep learning on graph, on top of existing DL frameworks.|9065|2022-03-07|
+|28|[tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)|🎬 人人影视bot，完全对接人人影视全部无删减资源|8821|2022-03-04|
+|29|[x-hw/amazing-qr](https://github.com/x-hw/amazing-qr)|💮 amazing QRCode generator in Python (supporting animated gif) - Python amazing 二维码生成器（支持 gif 动态图片二维码）|8777|2022-01-13|
+|30|[wangshub/Douyin-Bot](https://github.com/wangshub/Douyin-Bot)|😍 Python 抖音机器人，论如何在抖音上找到漂亮小姐姐？ |7741|2022-01-27|
+|31|[PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub)|Awesome pre-trained models toolkit based on PaddlePaddle.(300+ models including Image, Text, Audio and Video with Easy Inference & Serving deployment)|7609|2022-03-07|
+|32|[luyishisi/Anti-Anti-Spider](https://github.com/luyishisi/Anti-Anti-Spider)|越来越多的网站具有反爬虫特性，有的用图片隐藏关键数据，有的使用反人类的验证码，建立反反爬虫的代码仓库，通过与不同特性的网站做斗争（无恶意）提高技术。（欢迎提交难以采集的网站）（因工作原因，项目暂停） |6953|2021-10-17|
 |33|[tensorlayer/TensorLayer](https://github.com/tensorlayer/TensorLayer)|Deep Learning and Reinforcement Learning Library for Scientists and Engineers |6915|2022-02-15|
-|34|[WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)|deep learning for image processing including classification and object-detection etc.|6897|2022-03-06|
-|35|[OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI)|A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities|6871|2022-02-16|
-|36|[rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games)|🎮 Chinese DOS games collections.|6662|2022-03-05|
-|37|[ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)|Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）|6603|2022-01-24|
+|34|[WZMIAOMIAO/deep-learning-for-image-processing](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing)|deep learning for image processing including classification and object-detection etc.|6909|2022-03-06|
+|35|[OlafenwaMoses/ImageAI](https://github.com/OlafenwaMoses/ImageAI)|A python library built to empower developers to build applications and systems  with self-contained Computer Vision capabilities|6873|2022-02-16|
+|36|[rwv/chinese-dos-games](https://github.com/rwv/chinese-dos-games)|🎮 Chinese DOS games collections.|6665|2022-03-05|
+|37|[ymcui/Chinese-BERT-wwm](https://github.com/ymcui/Chinese-BERT-wwm)|Pre-Training with Whole Word Masking for Chinese BERT（中文BERT-wwm系列模型）|6609|2022-01-24|
 |38|[PaddlePaddle/PaddleDetection](https://github.com/PaddlePaddle/PaddleDetection)|Object Detection toolkit based on PaddlePaddle. It supports object detection, instance segmentation, multiple object tracking and real-time multi-person keypoint detection.|6416|2022-03-05|
-|39|[PaddlePaddle/models](https://github.com/PaddlePaddle/models)|Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）|6390|2022-03-04|
-|40|[QUANTAXIS/QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS)|QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案|6374|2022-02-08|
-|41|[shidenggui/easytrader](https://github.com/shidenggui/easytrader)|提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件|6348|2021-12-13|
-|42|[asweigart/pyautogui](https://github.com/asweigart/pyautogui)|A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.|6320|2022-01-19|
-|43|[Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)| 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)|6260|2022-02-10|
-|44|[houtianze/bypy](https://github.com/houtianze/bypy)|Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端|6248|2022-01-22|
-|45|[kornia/kornia](https://github.com/kornia/kornia)|Open Source Differentiable Computer Vision Library|5992|2022-03-06|
-|46|[lancopku/pkuseg-python](https://github.com/lancopku/pkuseg-python)|pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation|5762|2021-10-19|
-|47|[Jrohy/multi-v2ray](https://github.com/Jrohy/multi-v2ray)|v2ray/xray多用户管理部署程序|5543|2022-02-23|
-|48|[PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)|PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.|5451|2022-03-04|
-|49|[biancangming/wtv](https://github.com/biancangming/wtv)|解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站|5324|2022-03-03|
-|50|[PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)|Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!|5275|2022-01-14|
+|39|[PaddlePaddle/models](https://github.com/PaddlePaddle/models)|Pre-trained and Reproduced Deep Learning Models （『飞桨』官方模型库，包含多种学术前沿和工业场景验证的深度学习模型）|6392|2022-03-07|
+|40|[QUANTAXIS/QUANTAXIS](https://github.com/QUANTAXIS/QUANTAXIS)|QUANTAXIS 支持任务调度 分布式部署的 股票/期货/期权  数据/回测/模拟/交易/可视化/多账户 纯本地量化解决方案|6379|2022-02-08|
+|41|[shidenggui/easytrader](https://github.com/shidenggui/easytrader)|提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件|6352|2021-12-13|
+|42|[asweigart/pyautogui](https://github.com/asweigart/pyautogui)|A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.|6322|2022-01-19|
+|43|[Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)| 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)|6261|2022-02-10|
+|44|[houtianze/bypy](https://github.com/houtianze/bypy)|Python client for Baidu Yun (Personal Cloud Storage) 百度云/百度网盘Python客户端|6247|2022-01-22|
+|45|[kornia/kornia](https://github.com/kornia/kornia)|Open Source Differentiable Computer Vision Library|5999|2022-03-07|
+|46|[lancopku/pkuseg-python](https://github.com/lancopku/pkuseg-python)|pkuseg多领域中文分词工具; The pkuseg toolkit for multi-domain Chinese word segmentation|5764|2021-10-19|
+|47|[Jrohy/multi-v2ray](https://github.com/Jrohy/multi-v2ray)|v2ray/xray多用户管理部署程序|5546|2022-02-23|
+|48|[PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)|PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.|5457|2022-03-07|
+|49|[biancangming/wtv](https://github.com/biancangming/wtv)|解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站|5328|2022-03-03|
+|50|[PeterL1n/RobustVideoMatting](https://github.com/PeterL1n/RobustVideoMatting)|Robust Video Matting in PyTorch, TensorFlow, TensorFlow.js, ONNX, CoreML!|5283|2022-01-14|
 |51|[wb14123/seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet)|Play couplet with seq2seq model. 用深度学习对对联。|5204|2021-10-15|
-|52|[nl8590687/ASRT_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition)|A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统|5146|2022-03-05|
-|53|[dataabc/weiboSpider](https://github.com/dataabc/weiboSpider)|新浪微博爬虫，用python爬取新浪微博数据|5136|2022-01-03|
-|54|[SpiderClub/haipproxy](https://github.com/SpiderClub/haipproxy)|:sparkling_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis|5058|2022-03-02|
-|55|[pythonstock/stock](https://github.com/pythonstock/stock)|stock，股票系统。使用python进行开发。|5006|2022-01-12|
-|56|[Morizeyao/GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)|Chinese version of GPT2 training code, using BERT tokenizer.|4762|2022-01-26|
-|57|[PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE)|Official implementations for various pre-training models of ERNIE-family, covering topics of Language Understanding & Generation, Multimodal Understanding & Generation, and beyond.|4749|2022-02-28|
-|58|[chineseocr/chineseocr](https://github.com/chineseocr/chineseocr)|yolo3+ocr|4681|2021-11-02|
-|59|[akfamily/akshare](https://github.com/akfamily/akshare)|AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库|4669|2022-03-06|
-|60|[QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge)|open source online judge based on Vue, Django and Docker.   青岛大学开源 Online Judge   QQ群 496710125   admin@qduoj.com|4588|2021-12-17|
-|61|[ricequant/rqalpha](https://github.com/ricequant/rqalpha)|A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities|4506|2022-03-03|
-|62|[tychxn/jd-assistant](https://github.com/tychxn/jd-assistant)|京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能|4495|2022-02-12|
-|63|[shmilylty/OneForAll](https://github.com/shmilylty/OneForAll)|OneForAll是一款功能强大的子域收集工具|4458|2022-02-18|
-|64|[liangliangyy/DjangoBlog](https://github.com/liangliangyy/DjangoBlog)|🍺基于Django的博客系统|4391|2022-02-23|
-|65|[TheKingOfDuck/fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)|Web Pentesting Fuzz 字典,一个就够了。|4376|2021-12-11|
-|66|[thu-ml/tianshou](https://github.com/thu-ml/tianshou)|An elegant PyTorch deep reinforcement learning library.|4356|2022-03-06|
-|67|[wepe/MachineLearning](https://github.com/wepe/MachineLearning)|Basic Machine Learning and Deep Learning|4319|2021-10-04|
-|68|[EssayKillerBrain/EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2)|基于开源GPT2.0的初代创作型人工智能   可扩展、可进化|4296|2022-01-05|
-|69|[bojone/bert4keras](https://github.com/bojone/bert4keras)|keras implement of transformers for humans|4173|2022-03-03|
-|70|[wbt5/real-url](https://github.com/wbt5/real-url)|获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。|4143|2022-02-16|
-|71|[RangiLyu/nanodet](https://github.com/RangiLyu/nanodet)|NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥|4130|2022-01-29|
-|72|[chatopera/Synonyms](https://github.com/chatopera/Synonyms)|:herb: 中文近义词：聊天机器人，智能问答工具包|4104|2021-09-14|
+|52|[nl8590687/ASRT_SpeechRecognition](https://github.com/nl8590687/ASRT_SpeechRecognition)|A Deep-Learning-Based Chinese Speech Recognition System 基于深度学习的中文语音识别系统|5150|2022-03-07|
+|53|[dataabc/weiboSpider](https://github.com/dataabc/weiboSpider)|新浪微博爬虫，用python爬取新浪微博数据|5138|2022-01-03|
+|54|[SpiderClub/haipproxy](https://github.com/SpiderClub/haipproxy)|:sparkling_heart: High available distributed ip proxy pool, powerd by Scrapy and Redis|5059|2022-03-02|
+|55|[pythonstock/stock](https://github.com/pythonstock/stock)|stock，股票系统。使用python进行开发。|5010|2022-01-12|
+|56|[Morizeyao/GPT2-Chinese](https://github.com/Morizeyao/GPT2-Chinese)|Chinese version of GPT2 training code, using BERT tokenizer.|4767|2022-01-26|
+|57|[PaddlePaddle/ERNIE](https://github.com/PaddlePaddle/ERNIE)|Official implementations for various pre-training models of ERNIE-family, covering topics of Language Understanding & Generation, Multimodal Understanding & Generation, and beyond.|4752|2022-02-28|
+|58|[chineseocr/chineseocr](https://github.com/chineseocr/chineseocr)|yolo3+ocr|4682|2021-11-02|
+|59|[akfamily/akshare](https://github.com/akfamily/akshare)|AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库|4670|2022-03-07|
+|60|[QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge)|open source online judge based on Vue, Django and Docker.   青岛大学开源 Online Judge   QQ群 496710125   admin@qduoj.com|4592|2021-12-17|
+|61|[ricequant/rqalpha](https://github.com/ricequant/rqalpha)|A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities|4507|2022-03-07|
+|62|[tychxn/jd-assistant](https://github.com/tychxn/jd-assistant)|京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能|4497|2022-02-12|
+|63|[shmilylty/OneForAll](https://github.com/shmilylty/OneForAll)|OneForAll是一款功能强大的子域收集工具|4466|2022-02-18|
+|64|[liangliangyy/DjangoBlog](https://github.com/liangliangyy/DjangoBlog)|🍺基于Django的博客系统|4392|2022-02-23|
+|65|[TheKingOfDuck/fuzzDicts](https://github.com/TheKingOfDuck/fuzzDicts)|Web Pentesting Fuzz 字典,一个就够了。|4378|2021-12-11|
+|66|[thu-ml/tianshou](https://github.com/thu-ml/tianshou)|An elegant PyTorch deep reinforcement learning library.|4361|2022-03-07|
+|67|[wepe/MachineLearning](https://github.com/wepe/MachineLearning)|Basic Machine Learning and Deep Learning|4320|2021-10-04|
+|68|[EssayKillerBrain/EssayKiller_V2](https://github.com/EssayKillerBrain/EssayKiller_V2)|基于开源GPT2.0的初代创作型人工智能   可扩展、可进化|4298|2022-01-05|
+|69|[bojone/bert4keras](https://github.com/bojone/bert4keras)|keras implement of transformers for humans|4175|2022-03-03|
+|70|[wbt5/real-url](https://github.com/wbt5/real-url)|获取斗鱼&虎牙&哔哩哔哩&抖音&快手等 58 个直播平台的真实流媒体地址(直播源)和弹幕，直播源可在 PotPlayer、flv.js 等播放器中播放。|4146|2022-02-16|
+|71|[RangiLyu/nanodet](https://github.com/RangiLyu/nanodet)|NanoDet-Plus⚡Super fast and lightweight anchor-free object detection model. 🔥Only 980 KB(int8) / 1.8MB (fp16) and run 97FPS on cellphone🔥|4135|2022-01-29|
+|72|[chatopera/Synonyms](https://github.com/chatopera/Synonyms)|:herb: 中文近义词：聊天机器人，智能问答工具包|4105|2021-09-14|
 |73|[yuanxiaosc/DeepNude-an-Image-to-Image-technology](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology)|DeepNude's algorithm and general image generation theory and practice research, including pix2pix, CycleGAN, UGATIT, DCGAN, SinGAN, ALAE, mGANprior, StarGAN-v2 and VAE models (TensorFlow2 implementati ...|4081|2021-10-02|
-|74|[yoshiko2/Movie_Data_Capture](https://github.com/yoshiko2/Movie_Data_Capture)|本地电影刮削与整理一体化解决方案|3851|2022-03-06|
-|75|[PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)|Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Mat ...|3766|2022-03-04|
-|76|[HIT-SCIR/ltp](https://github.com/HIT-SCIR/ltp)|Language Technology Platform|3753|2022-02-20|
+|74|[yoshiko2/Movie_Data_Capture](https://github.com/yoshiko2/Movie_Data_Capture)|本地电影刮削与整理一体化解决方案|3854|2022-03-06|
+|75|[PaddlePaddle/PaddleSeg](https://github.com/PaddlePaddle/PaddleSeg)|Easy-to-use image segmentation library with awesome pre-trained model zoo, supporting wide-range of practical tasks in Semantic Segmentation, Interactive Segmentation, Panoptic Segmentation, Image Mat ...|3770|2022-03-07|
+|76|[HIT-SCIR/ltp](https://github.com/HIT-SCIR/ltp)|Language Technology Platform|3754|2022-02-20|
 |77|[mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin)|汉字转拼音(pypinyin)|3740|2022-02-12|
-|78|[open-mmlab/mmcv](https://github.com/open-mmlab/mmcv)|OpenMMLab Computer Vision Foundation|3561|2022-03-06|
-|79|[PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX)|PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）|3546|2022-02-09|
-|80|[r0ysue/r0capture](https://github.com/r0ysue/r0capture)|安卓应用层抓包通杀脚本|3542|2022-03-02|
-|81|[imWildCat/scylla](https://github.com/imWildCat/scylla)|Intelligent proxy pool for Humans™ (Maintainer needed)|3457|2022-03-06|
-|82|[hhyo/Archery](https://github.com/hhyo/Archery)|SQL 审核查询平台|3455|2022-03-06|
-|83|[shidenggui/easyquotation](https://github.com/shidenggui/easyquotation)|实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情|3384|2022-01-22|
-|84|[7eu7d7/genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish)|基于深度强化学习的原神自动钓鱼AI|3381|2022-02-28|
+|78|[open-mmlab/mmcv](https://github.com/open-mmlab/mmcv)|OpenMMLab Computer Vision Foundation|3567|2022-03-07|
+|79|[PaddlePaddle/PaddleX](https://github.com/PaddlePaddle/PaddleX)|PaddlePaddle End-to-End Development Toolkit（『飞桨』深度学习全流程开发工具）|3549|2022-02-09|
+|80|[r0ysue/r0capture](https://github.com/r0ysue/r0capture)|安卓应用层抓包通杀脚本|3548|2022-03-02|
+|81|[hhyo/Archery](https://github.com/hhyo/Archery)|SQL 审核查询平台|3459|2022-03-07|
+|82|[imWildCat/scylla](https://github.com/imWildCat/scylla)|Intelligent proxy pool for Humans™ (Maintainer needed)|3458|2022-03-06|
+|83|[shidenggui/easyquotation](https://github.com/shidenggui/easyquotation)|实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情|3385|2022-01-22|
+|84|[7eu7d7/genshin_auto_fish](https://github.com/7eu7d7/genshin_auto_fish)|基于深度强化学习的原神自动钓鱼AI|3383|2022-02-28|
 |85|[tmux-python/tmuxp](https://github.com/tmux-python/tmuxp)|:computer: tmux session manager. built on libtmux|3343|2022-03-06|
-|86|[PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas)|A treasure chest for visual recognition powered by PaddlePaddle|3333|2022-03-04|
-|87|[Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool)|An Efficient ProxyPool with Getter, Tester and Server|3293|2022-03-06|
-|88|[aaPanel/BaoTa](https://github.com/aaPanel/BaoTa)|宝塔Linux面板 - 简单好用的服务器运维面板|3290|2022-01-14|
-|89|[open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)|OpenMMLab Semantic Segmentation Toolbox and Benchmark.|3268|2022-03-05|
-|90|[wzpan/wukong-robot](https://github.com/wzpan/wukong-robot)|🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，还可能是首个支持脑机交互的开源智能音箱项目。|3259|2022-01-23|
-|91|[zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals)|Dive into CPython internals, trying to illustrate every detail of CPython implementation|3218|2021-12-20|
-|92|[skywind3000/ECDICT](https://github.com/skywind3000/ECDICT)|Free English to Chinese Dictionary Database|3212|2022-02-09|
-|93|[man-group/dtale](https://github.com/man-group/dtale)|Visualizer for pandas data structures|3203|2022-03-03|
-|94|[Rockyzsu/stock](https://github.com/Rockyzsu/stock)|30天掌握量化交易 (持续更新)|3180|2022-03-05|
+|86|[PaddlePaddle/PaddleClas](https://github.com/PaddlePaddle/PaddleClas)|A treasure chest for visual recognition powered by PaddlePaddle|3336|2022-03-07|
+|87|[Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool)|An Efficient ProxyPool with Getter, Tester and Server|3295|2022-03-06|
+|88|[aaPanel/BaoTa](https://github.com/aaPanel/BaoTa)|宝塔Linux面板 - 简单好用的服务器运维面板|3291|2022-01-14|
+|89|[open-mmlab/mmsegmentation](https://github.com/open-mmlab/mmsegmentation)|OpenMMLab Semantic Segmentation Toolbox and Benchmark.|3275|2022-03-07|
+|90|[wzpan/wukong-robot](https://github.com/wzpan/wukong-robot)|🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，还可能是首个支持脑机交互的开源智能音箱项目。|3262|2022-01-23|
+|91|[zpoint/CPython-Internals](https://github.com/zpoint/CPython-Internals)|Dive into CPython internals, trying to illustrate every detail of CPython implementation|3219|2021-12-20|
+|92|[skywind3000/ECDICT](https://github.com/skywind3000/ECDICT)|Free English to Chinese Dictionary Database|3216|2022-02-09|
+|93|[man-group/dtale](https://github.com/man-group/dtale)|Visualizer for pandas data structures|3206|2022-03-03|
+|94|[Rockyzsu/stock](https://github.com/Rockyzsu/stock)|30天掌握量化交易 (持续更新)|3182|2022-03-05|
 |95|[garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots)|Matplotlib styles for scientific plotting|3177|2021-11-16|
-|96|[zq1997/deepin-wine](https://github.com/zq1997/deepin-wine)|【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式|3101|2022-01-20|
+|96|[zq1997/deepin-wine](https://github.com/zq1997/deepin-wine)|【deepin源移植】Debian/Ubuntu上最快的QQ/微信安装方式|3104|2022-01-20|
 |97|[opendevops-cn/opendevops](https://github.com/opendevops-cn/opendevops)|CODO是一款为用户提供企业多混合云、一站式DevOps、自动化运维、完全开源的云管理平台、自动化运维平台|3090|2022-02-27|
-|98|[qiwsir/algorithm](https://github.com/qiwsir/algorithm)|-|3089|2021-10-22|
-|99|[xfangfang/Macast](https://github.com/xfangfang/Macast)|Macast is a cross-platform application which using mpv as DLNA Media Renderer.|3076|2022-03-01|
-|100|[shibing624/pycorrector](https://github.com/shibing624/pycorrector)|pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，Seq2Seq_Attention，BERT，MacBERT，ELECTRA，ERNIE，Transformer等模型实现，开箱即用。|3022|2022-03-04|
-|101|[minivision-ai/photo2cartoon](https://github.com/minivision-ai/photo2cartoon)|人像卡通化探索项目 (photo-to-cartoon translation project)|2994|2021-12-02|
-|102|[xinntao/BasicSR](https://github.com/xinntao/BasicSR)|Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also sup ...|2975|2022-03-06|
-|103|[guofei9987/scikit-opt](https://github.com/guofei9987/scikit-opt)|Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling sales ...|2963|2022-01-18|
+|98|[qiwsir/algorithm](https://github.com/qiwsir/algorithm)|-|3090|2021-10-22|
+|99|[xfangfang/Macast](https://github.com/xfangfang/Macast)|Macast is a cross-platform application which using mpv as DLNA Media Renderer.|3079|2022-03-01|
+|100|[shibing624/pycorrector](https://github.com/shibing624/pycorrector)|pycorrector is a toolkit for text error correction. 文本纠错，Kenlm，Seq2Seq_Attention，BERT，MacBERT，ELECTRA，ERNIE，Transformer等模型实现，开箱即用。|3025|2022-03-04|
+|101|[minivision-ai/photo2cartoon](https://github.com/minivision-ai/photo2cartoon)|人像卡通化探索项目 (photo-to-cartoon translation project)|3002|2021-12-02|
+|102|[xinntao/BasicSR](https://github.com/xinntao/BasicSR)|Open Source Image and Video Restoration Toolbox for Super-resolution, Denoise, Deblurring, etc. Currently, it includes EDSR, RCAN, SRResNet, SRGAN, ESRGAN, EDVR, BasicVSR, SwinIR, ECBSR, etc. Also sup ...|2979|2022-03-06|
+|103|[guofei9987/scikit-opt](https://github.com/guofei9987/scikit-opt)|Genetic Algorithm, Particle Swarm Optimization, Simulated Annealing, Ant Colony Optimization Algorithm,Immune Algorithm, Artificial Fish Swarm Algorithm, Differential Evolution and TSP(Traveling sales ...|2965|2022-01-18|
 |104|[welliamcao/OpsManage](https://github.com/welliamcao/OpsManage)|自动化运维平台: 代码及应用部署CI/CD、资产管理CMDB、计划任务管理平台、SQL审核 回滚、任务调度、站内WIKI|2900|2022-02-11|
-|105|[PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)|Easy-to-use and Fast NLP library with awesome model zoo,  supporting wide-range of NLP tasks from research to industrial applications.|2891|2022-03-06|
-|106|[taxigps/xbmc-addons-chinese](https://github.com/taxigps/xbmc-addons-chinese)|Addon scripts, plugins, and skins for XBMC Media Center. Special for chinese laguage.|2878|2022-01-07|
-|107|[FeeiCN/Cobra](https://github.com/FeeiCN/Cobra)|Source Code Security Audit (源代码安全审计)|2825|2022-01-06|
-|108|[jiangxufeng/v2rayL](https://github.com/jiangxufeng/v2rayL)|v2ray linux GUI客户端，支持订阅、vemss、ss等协议，自动更新订阅、检查版本更新|2804|2022-01-13|
+|105|[PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)|Easy-to-use and Fast NLP library with awesome model zoo,  supporting wide-range of NLP tasks from research to industrial applications.|2896|2022-03-07|
+|106|[taxigps/xbmc-addons-chinese](https://github.com/taxigps/xbmc-addons-chinese)|Addon scripts, plugins, and skins for XBMC Media Center. Special for chinese laguage.|2879|2022-01-07|
+|107|[FeeiCN/Cobra](https://github.com/FeeiCN/Cobra)|Source Code Security Audit (源代码安全审计)|2827|2022-01-06|
+|108|[jiangxufeng/v2rayL](https://github.com/jiangxufeng/v2rayL)|v2ray linux GUI客户端，支持订阅、vemss、ss等协议，自动更新订阅、检查版本更新|2808|2022-01-13|
 |109|[JustMachiavelli/javsdt](https://github.com/JustMachiavelli/javsdt)|影片信息整理工具，抓取元数据nfo，自定义重命名文件(夹)，下载fanart裁剪poster，为emby、kodi、极影派铺路。|2792|2022-01-13|
-|110|[NewFuture/DDNS](https://github.com/NewFuture/DDNS)|:triangular_flag_on_post: 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)|2786|2022-03-01|
-|111|[open-mmlab/mmediting](https://github.com/open-mmlab/mmediting)|OpenMMLab Image and Video Editing Toolbox|2781|2022-03-04|
-|112|[PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)|Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.|2680|2022-03-04|
+|110|[open-mmlab/mmediting](https://github.com/open-mmlab/mmediting)|OpenMMLab Image and Video Editing Toolbox|2788|2022-03-07|
+|111|[NewFuture/DDNS](https://github.com/NewFuture/DDNS)|:triangular_flag_on_post: 自动更新域名解析到本机IP(支持dnspod,阿里DNS,CloudFlare,华为云,DNSCOM...)|2786|2022-03-01|
+|112|[PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)|Easy-to-use Speech Toolkit including SOTA ASR pipeline, influential TTS with text frontend and End-to-End Speech Simultaneous Translation.|2688|2022-03-07|
 |113|[makelove/OpenCV-Python-Tutorial](https://github.com/makelove/OpenCV-Python-Tutorial)|OpenCV问答群不再维护。有问题，自己去搜索。Google能找到大部分答案。|2653|2021-10-12|
-|114|[hankcs/pyhanlp](https://github.com/hankcs/pyhanlp)|中文分词|2629|2022-01-11|
-|115|[hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy)|github release、archive以及项目文件的加速项目|2568|2022-02-15|
+|114|[hankcs/pyhanlp](https://github.com/hankcs/pyhanlp)|中文分词|2631|2022-01-11|
+|115|[hunshcn/gh-proxy](https://github.com/hunshcn/gh-proxy)|github release、archive以及项目文件的加速项目|2574|2022-02-15|
 |116|[zhaoyingjun/chatbot](https://github.com/zhaoyingjun/chatbot)|一个可以自己进行训练的中文聊天机器人， 根据自己的语料训练出自己想要的聊天机器人，可以用于智能客服、在线问答、智能聊天等场景。目前包含seq2seq、seqGAN版本、tf2.0版本、pytorch版本。|2550|2021-12-30|
-|117|[CLUEbenchmark/CLUE](https://github.com/CLUEbenchmark/CLUE)|中文语言理解测评基准 Chinese Language Understanding Evaluation Benchmark: datasets, baselines, pre-trained models, corpus and leaderboard  |2543|2022-01-07|
+|117|[CLUEbenchmark/CLUE](https://github.com/CLUEbenchmark/CLUE)|中文语言理解测评基准 Chinese Language Understanding Evaluation Benchmark: datasets, baselines, pre-trained models, corpus and leaderboard  |2545|2022-01-07|
 |118|[cdhigh/KindleEar](https://github.com/cdhigh/KindleEar)|A website application running in Google app engine, deliver rss news to your kindle. generate mobi using python, multilanguages supported.|2525|2021-09-07|
-|119|[fastnlp/fastNLP](https://github.com/fastnlp/fastNLP)|fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.|2512|2021-12-06|
-|120|[newpanjing/simpleui](https://github.com/newpanjing/simpleui)|A modern theme based on vue+element-ui for django admin.一款基于vue+element-ui的django admin现代化主题。全球20000+网站都在使用！喜欢可以点个star✨|2485|2022-03-01|
-|121|[shinnytech/tqsdk-python](https://github.com/shinnytech/tqsdk-python)|天勤量化开发包, 期货量化, 实时行情/历史数据/实盘交易|2460|2022-02-17|
-|122|[nghuyong/WeiboSpider](https://github.com/nghuyong/WeiboSpider)|This is a sina weibo spider built by scrapy [微博爬虫/持续维护]|2451|2022-03-02|
-|123|[PaddlePaddle/PARL](https://github.com/PaddlePaddle/PARL)|A high-performance distributed training framework for Reinforcement Learning |2446|2022-03-04|
+|119|[fastnlp/fastNLP](https://github.com/fastnlp/fastNLP)|fastNLP: A Modularized and Extensible NLP Framework. Currently still in incubation.|2516|2021-12-06|
+|120|[newpanjing/simpleui](https://github.com/newpanjing/simpleui)|A modern theme based on vue+element-ui for django admin.一款基于vue+element-ui的django admin现代化主题。全球20000+网站都在使用！喜欢可以点个star✨|2487|2022-03-01|
+|121|[shinnytech/tqsdk-python](https://github.com/shinnytech/tqsdk-python)|天勤量化开发包, 期货量化, 实时行情/历史数据/实盘交易|2463|2022-02-17|
+|122|[nghuyong/WeiboSpider](https://github.com/nghuyong/WeiboSpider)|This is a sina weibo spider built by scrapy [微博爬虫/持续维护]|2453|2022-03-02|
+|123|[PaddlePaddle/PARL](https://github.com/PaddlePaddle/PARL)|A high-performance distributed training framework for Reinforcement Learning |2449|2022-03-04|
 |124|[my8100/scrapydweb](https://github.com/my8100/scrapydweb)|Web app for Scrapyd cluster management, Scrapy log analysis & visualization, Auto packaging, Timer tasks, Monitor & Alert, and Mobile UI. DEMO :point_right:|2440|2022-01-13|
-|125|[GeneralNewsExtractor/GeneralNewsExtractor](https://github.com/GeneralNewsExtractor/GeneralNewsExtractor)| 新闻网页正文通用抽取器 Beta 版.|2372|2021-10-11|
-|126|[python-gino/gino](https://github.com/python-gino/gino)|GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.|2354|2022-02-12|
-|127|[Jittor/jittor](https://github.com/Jittor/jittor)|Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.|2352|2022-03-02|
-|128|[TophantTechnology/ARL](https://github.com/TophantTechnology/ARL)|ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。|2339|2022-03-02|
+|125|[GeneralNewsExtractor/GeneralNewsExtractor](https://github.com/GeneralNewsExtractor/GeneralNewsExtractor)| 新闻网页正文通用抽取器 Beta 版.|2375|2021-10-11|
+|126|[Jittor/jittor](https://github.com/Jittor/jittor)|Jittor is a high-performance deep learning framework based on JIT compiling and meta-operators.|2355|2022-03-07|
+|127|[python-gino/gino](https://github.com/python-gino/gino)|GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.|2354|2022-02-12|
+|128|[TophantTechnology/ARL](https://github.com/TophantTechnology/ARL)|ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。 协助甲方安全团队或者渗透测试人员有效侦察和检索资产，发现存在的薄弱点和攻击面。|2343|2022-03-02|
 |129|[nickliqian/cnn_captcha](https://github.com/nickliqian/cnn_captcha)|use cnn recognize captcha by tensorflow. 本项目针对字符型图片验证码，使用tensorflow实现卷积神经网络，进行验证码识别。|2326|2022-02-11|
-|130|[kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer)|[验证码识别-训练] This project is based on CNN/ResNet/DenseNet+GRU/LSTM+CTC/CrossEntropy to realize verification code identification. This project is only for training the model.|2314|2021-11-07|
-|131|[hzwer/arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)|RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation|2302|2022-03-05|
-|132|[andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli)|Command line interface to the freedesktop.org trashcan.|2293|2022-02-12|
-|133|[CyberZHG/keras-bert](https://github.com/CyberZHG/keras-bert)|Implementation of BERT that could load official pre-trained models for feature extraction and prediction|2290|2022-01-22|
+|130|[kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer)|[验证码识别-训练] This project is based on CNN/ResNet/DenseNet+GRU/LSTM+CTC/CrossEntropy to realize verification code identification. This project is only for training the model.|2315|2021-11-07|
+|131|[hzwer/arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE)|RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation|2306|2022-03-05|
+|132|[andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli)|Command line interface to the freedesktop.org trashcan.|2295|2022-02-12|
+|133|[CyberZHG/keras-bert](https://github.com/CyberZHG/keras-bert)|Implementation of BERT that could load official pre-trained models for feature extraction and prediction|2291|2022-01-22|
 |134|[H4ckForJob/dirmap](https://github.com/H4ckForJob/dirmap)|An advanced web directory & file scanning tool that will be more powerful than DirBuster, Dirsearch, cansina, and Yu Jian.一个高级web目录、文件扫描工具，功能将会强于DirBuster、Dirsearch、cansina、御剑。|2200|2022-01-29|
-|135|[howie6879/owllook](https://github.com/howie6879/owllook)|owllook-小说搜索引擎|2192|2021-12-23|
-|136|[open-mmlab/mmocr](https://github.com/open-mmlab/mmocr)|OpenMMLab Text Detection, Recognition and Understanding Toolbox|2174|2022-03-06|
-|137|[zhzyker/vulmap](https://github.com/zhzyker/vulmap)|Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能|2162|2021-11-15|
+|135|[howie6879/owllook](https://github.com/howie6879/owllook)|owllook-小说搜索引擎|2196|2021-12-23|
+|136|[open-mmlab/mmocr](https://github.com/open-mmlab/mmocr)|OpenMMLab Text Detection, Recognition and Understanding Toolbox|2175|2022-03-07|
+|137|[zhzyker/vulmap](https://github.com/zhzyker/vulmap)|Vulmap 是一款 web 漏洞扫描和验证工具, 可对 webapps 进行漏洞扫描, 并且具备漏洞验证功能|2163|2021-11-15|
 |138|[LandGrey/pydictor](https://github.com/LandGrey/pydictor)|A powerful and useful hacker dictionary builder for a brute-force attack|2144|2022-02-22|
-|139|[pdm-project/pdm](https://github.com/pdm-project/pdm)|A modern Python package manager with PEP 582 support.|2132|2022-03-05|
-|140|[Henryhaohao/Bilibili_video_download](https://github.com/Henryhaohao/Bilibili_video_download)|:rainbow:Bilibili_video_download-B站视频下载|2130|2022-02-19|
-|141|[titoBouzout/SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)|Enhancements to Sublime Text sidebar. Files and folders.|2117|2022-01-16|
+|139|[pdm-project/pdm](https://github.com/pdm-project/pdm)|A modern Python package manager with PEP 582 support.|2135|2022-03-05|
+|140|[Henryhaohao/Bilibili_video_download](https://github.com/Henryhaohao/Bilibili_video_download)|:rainbow:Bilibili_video_download-B站视频下载|2132|2022-02-19|
+|141|[titoBouzout/SideBarEnhancements](https://github.com/titoBouzout/SideBarEnhancements)|Enhancements to Sublime Text sidebar. Files and folders.|2118|2022-03-07|
 |142|[Tramac/awesome-semantic-segmentation-pytorch](https://github.com/Tramac/awesome-semantic-segmentation-pytorch)|Semantic Segmentation on PyTorch (include FCN, PSPNet, Deeplabv3, Deeplabv3+, DANet, DenseASPP, BiSeNet, EncNet, DUNet, ICNet, ENet, OCNet, CCNet, PSANet, CGNet, ESPNet, LEDNet, DFANet)|2101|2021-09-15|
-|143|[CharlesPikachu/DecryptLogin](https://github.com/CharlesPikachu/DecryptLogin)|DecryptLogin: APIs for loginning some websites by using requests.|2098|2022-03-02|
-|144|[open-mmlab/mmdetection3d](https://github.com/open-mmlab/mmdetection3d)|OpenMMLab's next-generation platform for general 3D object detection.|2093|2022-03-04|
-|145|[649453932/Bert-Chinese-Text-Classification-Pytorch](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch)|使用Bert，ERNIE，进行中文文本分类|2083|2021-12-19|
-|146|[open-mmlab/mmtracking](https://github.com/open-mmlab/mmtracking)|OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.|2057|2022-03-06|
-|147|[BlankerL/DXY-COVID-19-Data](https://github.com/BlankerL/DXY-COVID-19-Data)|2019新型冠状病毒疫情时间序列数据仓库   COVID-19/2019-nCoV Infection Time Series Data Warehouse|2049|2022-03-06|
-|148|[emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework)|A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs|2044|2022-03-02|
-|149|[megvii-research/ICCV2019-LearningToPaint](https://github.com/megvii-research/ICCV2019-LearningToPaint)|ICCV2019 - A painting AI that can reproduce paintings stroke by stroke using deep reinforcement learning.|2042|2021-12-16|
-|150|[dbiir/UER-py](https://github.com/dbiir/UER-py)|Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo|1939|2022-03-06|
+|143|[CharlesPikachu/DecryptLogin](https://github.com/CharlesPikachu/DecryptLogin)|DecryptLogin: APIs for loginning some websites by using requests.|2101|2022-03-02|
+|144|[open-mmlab/mmdetection3d](https://github.com/open-mmlab/mmdetection3d)|OpenMMLab's next-generation platform for general 3D object detection.|2096|2022-03-04|
+|145|[649453932/Bert-Chinese-Text-Classification-Pytorch](https://github.com/649453932/Bert-Chinese-Text-Classification-Pytorch)|使用Bert，ERNIE，进行中文文本分类|2086|2021-12-19|
+|146|[open-mmlab/mmtracking](https://github.com/open-mmlab/mmtracking)|OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework.|2059|2022-03-07|
+|147|[BlankerL/DXY-COVID-19-Data](https://github.com/BlankerL/DXY-COVID-19-Data)|2019新型冠状病毒疫情时间序列数据仓库   COVID-19/2019-nCoV Infection Time Series Data Warehouse|2049|2022-03-07|
+|148|[emacs-eaf/emacs-application-framework](https://github.com/emacs-eaf/emacs-application-framework)|A free/libre and open-source extensible framework that revolutionizes the graphical capabilities of Emacs, the key to ultimately Live in Emacs|2046|2022-03-02|
+|149|[megvii-research/ICCV2019-LearningToPaint](https://github.com/megvii-research/ICCV2019-LearningToPaint)|ICCV2019 - A painting AI that can reproduce paintings stroke by stroke using deep reinforcement learning.|2043|2021-12-16|
+|150|[dbiir/UER-py](https://github.com/dbiir/UER-py)|Open Source Pre-training Model Framework in PyTorch & Pre-trained Model Zoo|1941|2022-03-07|
 |151|[crownpku/Information-Extraction-Chinese](https://github.com/crownpku/Information-Extraction-Chinese)|Chinese Named Entity Recognition with IDCNN/biLSTM+CRF, and Relation Extraction with biGRU+2ATT 中文实体识别与关系提取|1929|2022-02-15|
-|152|[taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo)|类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入   automate mouse clicks and keyboard input|1925|2022-02-23|
-|153|[zvtvz/zvt](https://github.com/zvtvz/zvt)|modular quant framework.|1901|2022-03-01|
-|154|[kizniche/Mycodo](https://github.com/kizniche/Mycodo)|An environmental monitoring and regulation system|1884|2022-03-05|
+|152|[taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo)|类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入   automate mouse clicks and keyboard input|1926|2022-02-23|
+|153|[zvtvz/zvt](https://github.com/zvtvz/zvt)|modular quant framework.|1902|2022-03-01|
+|154|[kizniche/Mycodo](https://github.com/kizniche/Mycodo)|An environmental monitoring and regulation system|1884|2022-03-06|
 |155|[zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei)|东北方言编程语言|1861|2021-10-07|
-|156|[EugeneLiu/translationCSAPP](https://github.com/EugeneLiu/translationCSAPP)|为 CSAPP 视频课程提供字幕，翻译 PPT，Lab。|1855|2022-01-24|
+|156|[EugeneLiu/translationCSAPP](https://github.com/EugeneLiu/translationCSAPP)|为 CSAPP 视频课程提供字幕，翻译 PPT，Lab。|1856|2022-01-24|
 |157|[seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile)|跟我一起写Makefile重制版|1846|2022-02-19|
-|158|[awolfly9/IPProxyTool](https://github.com/awolfly9/IPProxyTool)|python ip proxy tool  scrapy crawl. 抓取大量免费代理 ip，提取有效 ip 使用|1829|2022-03-02|
+|158|[awolfly9/IPProxyTool](https://github.com/awolfly9/IPProxyTool)|python ip proxy tool  scrapy crawl. 抓取大量免费代理 ip，提取有效 ip 使用|1830|2022-03-02|
 |159|[FeeiCN/GSIL](https://github.com/FeeiCN/GSIL)|GitHub Sensitive Information Leakage（GitHub敏感信息泄露监控）|1811|2021-11-13|
 |160|[knownsec/Pocsuite](https://github.com/knownsec/Pocsuite)|This project has stopped to maintenance, please to https://github.com/knownsec/pocsuite3 project.|1767|2022-02-23|
-|161|[open-mmlab/mmaction2](https://github.com/open-mmlab/mmaction2)|OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark|1759|2022-03-05|
+|161|[open-mmlab/mmaction2](https://github.com/open-mmlab/mmaction2)|OpenMMLab's Next Generation Video Understanding Toolbox and Benchmark|1762|2022-03-07|
 |162|[Xyntax/POC-T](https://github.com/Xyntax/POC-T)|渗透测试插件化并发框架 / Open-sourced remote vulnerability PoC/EXP framework|1755|2021-09-24|
 |163|[chen3feng/blade-build](https://github.com/chen3feng/blade-build)|Blade is a powerful build system from Tencent, supports many mainstream programming languages, such as C/C++, java, scala, python, protobuf...|1751|2022-01-27|
-|164|[jerry3747/taobao_seckill](https://github.com/jerry3747/taobao_seckill)|淘宝、天猫半价抢购，抢电视、抢茅台，干死黄牛党|1738|2022-02-07|
-|165|[sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)|带带弟弟 通用验证码识别OCR pypi版|1698|2022-03-01|
-|166|[yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat)|GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)|1689|2022-02-17|
-|167|[open-mmlab/mmpose](https://github.com/open-mmlab/mmpose)|OpenMMLab Pose Estimation Toolbox and Benchmark.|1669|2022-03-06|
-|168|[666DZY666/micronet](https://github.com/666DZY666/micronet)|micronet, a model compression and deploy lib. compression: 1、quantization: quantization-aware-training(QAT), High-Bit(>2b)(DoReFa/Quantization and Training of Neural Networks for Efficient Integer-Ari ...|1663|2021-10-06|
-|169|[RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole)|A unified, comprehensive and efficient recommendation library|1649|2022-03-03|
-|170|[thunlp/THULAC-Python](https://github.com/thunlp/THULAC-Python)|An Efficient Lexical Analyzer for Chinese|1649|2022-01-31|
-|171|[xianhu/PSpider](https://github.com/xianhu/PSpider)|简单易用的Python爬虫框架，QQ交流群：597510560|1645|2022-01-19|
-|172|[yihong0618/running_page](https://github.com/yihong0618/running_page)|Make your own running home page|1641|2022-02-16|
-|173|[nonebot/nonebot](https://github.com/nonebot/nonebot)|基于 OneBot 标准的 Python 异步 QQ 机器人框架 / Asynchronous QQ robot framework based on OneBot for Python|1637|2022-02-26|
-|174|[datamllab/rlcard](https://github.com/datamllab/rlcard)|Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.|1629|2022-03-05|
-|175|[guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark)|Blind&Invisible Watermark （图片盲水印，提取水印无须原图！）|1627|2022-03-03|
-|176|[rabbitmask/WeblogicScan](https://github.com/rabbitmask/WeblogicScan)|Weblogic一键漏洞检测工具，V1.5，更新时间：20200730|1627|2022-01-26|
-|177|[0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727)|信息收集自动化工具|1617|2022-01-17|
-|178|[dataabc/weibo-crawler](https://github.com/dataabc/weibo-crawler)|新浪微博爬虫，用python爬取新浪微博数据，并下载微博图片和微博视频|1616|2022-01-19|
+|164|[jerry3747/taobao_seckill](https://github.com/jerry3747/taobao_seckill)|淘宝、天猫半价抢购，抢电视、抢茅台，干死黄牛党|1741|2022-02-07|
+|165|[sml2h3/ddddocr](https://github.com/sml2h3/ddddocr)|带带弟弟 通用验证码识别OCR pypi版|1704|2022-03-01|
+|166|[yangjianxin1/GPT2-chitchat](https://github.com/yangjianxin1/GPT2-chitchat)|GPT2 for Chinese chitchat/用于中文闲聊的GPT2模型(实现了DialoGPT的MMI思想)|1690|2022-02-17|
+|167|[open-mmlab/mmpose](https://github.com/open-mmlab/mmpose)|OpenMMLab Pose Estimation Toolbox and Benchmark.|1672|2022-03-06|
+|168|[666DZY666/micronet](https://github.com/666DZY666/micronet)|micronet, a model compression and deploy lib. compression: 1、quantization: quantization-aware-training(QAT), High-Bit(>2b)(DoReFa/Quantization and Training of Neural Networks for Efficient Integer-Ari ...|1668|2021-10-06|
+|169|[guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark)|Blind&Invisible Watermark （图片盲水印，提取水印无须原图！）|1657|2022-03-03|
+|170|[RUCAIBox/RecBole](https://github.com/RUCAIBox/RecBole)|A unified, comprehensive and efficient recommendation library|1653|2022-03-03|
+|171|[thunlp/THULAC-Python](https://github.com/thunlp/THULAC-Python)|An Efficient Lexical Analyzer for Chinese|1649|2022-01-31|
+|172|[xianhu/PSpider](https://github.com/xianhu/PSpider)|简单易用的Python爬虫框架，QQ交流群：597510560|1645|2022-01-19|
+|173|[yihong0618/running_page](https://github.com/yihong0618/running_page)|Make your own running home page|1642|2022-02-16|
+|174|[nonebot/nonebot](https://github.com/nonebot/nonebot)|基于 OneBot 标准的 Python 异步 QQ 机器人框架 / Asynchronous QQ robot framework based on OneBot for Python|1640|2022-02-26|
+|175|[datamllab/rlcard](https://github.com/datamllab/rlcard)|Reinforcement Learning / AI Bots in Card (Poker) Games - Blackjack, Leduc, Texas, DouDizhu, Mahjong, UNO.|1634|2022-03-07|
+|176|[rabbitmask/WeblogicScan](https://github.com/rabbitmask/WeblogicScan)|Weblogic一键漏洞检测工具，V1.5，更新时间：20200730|1628|2022-01-26|
+|177|[0x727/ShuiZe_0x727](https://github.com/0x727/ShuiZe_0x727)|信息收集自动化工具|1627|2022-01-17|
+|178|[dataabc/weibo-crawler](https://github.com/dataabc/weibo-crawler)|新浪微博爬虫，用python爬取新浪微博数据，并下载微博图片和微博视频|1620|2022-03-06|
 |179|[ChineseGLUE/ChineseGLUE](https://github.com/ChineseGLUE/ChineseGLUE)|Language Understanding Evaluation benchmark for Chinese: datasets, baselines, pre-trained models,corpus and leaderboard|1571|2021-12-01|
-|180|[caj2pdf/caj2pdf](https://github.com/caj2pdf/caj2pdf)|Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。|1473|2022-01-21|
+|180|[caj2pdf/caj2pdf](https://github.com/caj2pdf/caj2pdf)|Convert CAJ (China Academic Journals) files to PDF. 转换中国知网 CAJ 格式文献为 PDF。佛系转换，成功与否，皆是玄学。|1474|2022-01-21|
 |181|[Threezh1/JSFinder](https://github.com/Threezh1/JSFinder)|JSFinder is a tool for quickly extracting URLs and subdomains from JS files on a website.|1472|2021-11-24|
-|182|[Ascotbe/Medusa](https://github.com/Ascotbe/Medusa)|:cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 |1466|2022-02-28|
+|182|[Ascotbe/Medusa](https://github.com/Ascotbe/Medusa)|:cat2:Medusa是一个红队武器库平台，目前包括XSS平台、协同平台、CVE监控、免杀生成、DNSLOG、钓鱼邮件、文件获取等功能，持续开发中 |1467|2022-02-28|
 |183|[bubbliiiing/yolov4-pytorch](https://github.com/bubbliiiing/yolov4-pytorch)|这是一个YoloV4-pytorch的源码，可以用于训练自己的模型。|1464|2022-03-02|
 |184|[ckiplab/ckiptagger](https://github.com/ckiplab/ckiptagger)|CKIP Neural Chinese Word Segmentation, POS Tagging, and NER|1451|2021-11-07|
-|185|[HaujetZhao/QuickCut](https://github.com/HaujetZhao/QuickCut)|Your most handy video processing software|1423|2022-01-14|
-|186|[blackholll/loonflow](https://github.com/blackholll/loonflow)|基于django的工作流引擎,工单(a workflow engine base on django python)|1420|2022-02-27|
-|187|[ymcui/Chinese-XLNet](https://github.com/ymcui/Chinese-XLNet)|Pre-Trained Chinese XLNet（中文XLNet预训练模型）|1406|2022-01-10|
-|188|[dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor)|A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.|1388|2022-03-02|
+|185|[HaujetZhao/QuickCut](https://github.com/HaujetZhao/QuickCut)|Your most handy video processing software|1425|2022-01-14|
+|186|[blackholll/loonflow](https://github.com/blackholll/loonflow)|基于django的工作流引擎,工单(a workflow engine base on django python)|1419|2022-02-27|
+|187|[ymcui/Chinese-XLNet](https://github.com/ymcui/Chinese-XLNet)|Pre-Trained Chinese XLNet（中文XLNet预训练模型）|1407|2022-01-10|
+|188|[dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor)|A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.|1389|2022-03-02|
 |189|[LoRexxar/Kunlun-M](https://github.com/LoRexxar/Kunlun-M)|KunLun-M是一个完全开源的静态白盒扫描工具，支持PHP、JavaScript的语义扫描，基础安全、组件安全扫描，Chrome Ext\Solidity的基础扫描。|1386|2022-03-02|
 |190|[cn/GB2260](https://github.com/cn/GB2260)|中华人民共和国国家标准 GB/T 2260 行政区划代码|1386|2021-12-26|
-|191|[alibaba/taobao-iphone-device](https://github.com/alibaba/taobao-iphone-device)| tidevice can be used to communicate with iPhone device|1373|2022-02-24|
-|192|[imcaspar/gpt2-ml](https://github.com/imcaspar/gpt2-ml)|GPT2 for Multiple Languages, including pretrained models. GPT2 多语言支持, 15亿参数中文预训练模型|1365|2022-02-10|
-|193|[nonebot/nonebot2](https://github.com/nonebot/nonebot2)|跨平台 Python 异步机器人框架 / Asynchronous multi-platform robot framework written in Python|1355|2022-03-05|
-|194|[L-codes/Neo-reGeorg](https://github.com/L-codes/Neo-reGeorg)|Neo-reGeorg is a project that seeks to aggressively refactor reGeorg|1342|2021-11-26|
-|195|[ZiyaoGeng/Recommender-System-with-TF2.0](https://github.com/ZiyaoGeng/Recommender-System-with-TF2.0)|Recurrence the recommender paper with Tensorflow2.0|1327|2021-12-13|
-|196|[AlexxIT/XiaomiGateway3](https://github.com/AlexxIT/XiaomiGateway3)|Control Zigbee, BLE and Mesh devices from Home Assistant with Xiaomi Gateway 3 on original firmware|1313|2022-03-06|
-|197|[upbit/pixivpy](https://github.com/upbit/pixivpy)|Pixiv API for Python|1309|2022-03-06|
+|191|[alibaba/taobao-iphone-device](https://github.com/alibaba/taobao-iphone-device)| tidevice can be used to communicate with iPhone device|1376|2022-02-24|
+|192|[imcaspar/gpt2-ml](https://github.com/imcaspar/gpt2-ml)|GPT2 for Multiple Languages, including pretrained models. GPT2 多语言支持, 15亿参数中文预训练模型|1366|2022-02-10|
+|193|[nonebot/nonebot2](https://github.com/nonebot/nonebot2)|跨平台 Python 异步机器人框架 / Asynchronous multi-platform robot framework written in Python|1361|2022-03-05|
+|194|[L-codes/Neo-reGeorg](https://github.com/L-codes/Neo-reGeorg)|Neo-reGeorg is a project that seeks to aggressively refactor reGeorg|1343|2021-11-26|
+|195|[ZiyaoGeng/Recommender-System-with-TF2.0](https://github.com/ZiyaoGeng/Recommender-System-with-TF2.0)|Recurrence the recommender paper with Tensorflow2.0|1329|2021-12-13|
+|196|[AlexxIT/XiaomiGateway3](https://github.com/AlexxIT/XiaomiGateway3)|Control Zigbee, BLE and Mesh devices from Home Assistant with Xiaomi Gateway 3 on original firmware|1316|2022-03-06|
+|197|[upbit/pixivpy](https://github.com/upbit/pixivpy)|Pixiv API for Python|1312|2022-03-07|
 |198|[jimmy201602/webterminal](https://github.com/jimmy201602/webterminal)|ssh rdp vnc telnet sftp bastion/jump web putty xshell terminal jumpserver audit realtime monitor rz/sz 堡垒机 云桌面 linux devops sftp websocket  file management rz/sz otp 自动化运维 审计 录像 文件管理 sftp上传 实时监控 录像回放  ...|1306|2022-02-26|
-|199|[dingdang-robot/dingdang-robot](https://github.com/dingdang-robot/dingdang-robot)|🤖 叮当是一款可以工作在 Raspberry Pi 上的中文语音对话机器人/智能音箱项目。|1304|2021-10-28|
+|199|[dingdang-robot/dingdang-robot](https://github.com/dingdang-robot/dingdang-robot)|🤖 叮当是一款可以工作在 Raspberry Pi 上的中文语音对话机器人/智能音箱项目。|1305|2021-10-28|
 |200|[crownpku/Rasa_NLU_Chi](https://github.com/crownpku/Rasa_NLU_Chi)|Turn Chinese natural language into structured data 中文自然语言理解|1302|2022-02-15|
 
 <div align="center">

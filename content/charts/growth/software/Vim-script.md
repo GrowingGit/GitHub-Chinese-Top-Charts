@@ -1,28 +1,28 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Vim script
-<sub>数据更新: 2022-03-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|17891|9|2022-03-03|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|7117|2|2022-02-16|
-|3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4850|2|2022-02-21|
+|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|17892|9|2022-03-03|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|7120|2|2022-02-16|
+|3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4851|2|2022-02-21|
 |4|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1349|1|2021-12-25|
-|5|[mattn/emmet-vim](https://github.com/mattn/emmet-vim)|emmet for vim: http://emmet.io/|5867|1|2021-12-04|
+|5|[mattn/emmet-vim](https://github.com/mattn/emmet-vim)|emmet for vim: http://emmet.io/|5868|1|2021-12-04|
 |6|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1529|1|2022-02-20|
-|7|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|656|1|2022-01-12|
+|7|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|657|1|2022-01-12|
 |8|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1527|1|2021-12-27|
 |9|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|259|1|2022-01-10|
 |10|[StarryLeo/starry-vim](https://github.com/StarryLeo/starry-vim)|🌠 Starry vim distribution|12|0|2022-02-19|
 |11|[ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)|vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files|101|0|2022-02-23|
 |12|[csfenghan/linux_config](https://github.com/csfenghan/linux_config)|我的Linux系统常用工具的配置文件|5|0|2022-03-04|
 |13|[yszou/env](https://github.com/yszou/env)|我平时使用的环境的配置文件|5|0|2022-01-09|
-|14|[fgheng/vime](https://github.com/fgheng/vime)|vime, an easy and structural config for (neo)vim users|313|0|2022-01-20|
+|14|[fgheng/vime](https://github.com/fgheng/vime)|vime, an easy and structural config for (neo)vim users|312|0|2022-01-20|
 |15|[wkcn/MyVimConfig](https://github.com/wkcn/MyVimConfig)|我的Vim配置文件|4|0|2022-02-11|
 |16|[anzhihe/Efficient-office](https://github.com/anzhihe/Efficient-office)|Alfred-Workflows，Vim，Script，Mac|21|0|2022-03-05|
-|17|[FengShangWuQi/to-vim-tmux-zsh](https://github.com/FengShangWuQi/to-vim-tmux-zsh)|如何让 vim，tmux，zsh 成为我们的神器|86|0|2022-02-13|
-|18|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|368|0|2021-10-26|
+|17|[FengShangWuQi/to-vim-tmux-zsh](https://github.com/FengShangWuQi/to-vim-tmux-zsh)|如何让 vim，tmux，zsh 成为我们的神器|86|0|2022-03-07|
+|18|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|370|0|2021-10-26|
 |19|[wandercn/go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf)|my vim conf for golang IDE and rust IDE|11|0|2022-02-11|
 |20|[bootleq/vim-ref-bingzh](https://github.com/bootleq/vim-ref-bingzh)|vim-ref source for Bing dictionary|8|0|2021-11-13|
 |21|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|630|0|2022-03-06|
@@ -37,7 +37,7 @@
 |30|[xu-chaojie/VIM](https://github.com/xu-chaojie/VIM)|精简vim配置，精简插件，只保留必要设置，并添加注释，不修改vim原有快捷键|3|0|2021-12-01|
 |31|[hotoo/pangu.vim](https://github.com/hotoo/pangu.vim)|『盘古之白』中文排版自动规范化的 Vim 插件|261|0|2022-02-24|
 |32|[Yeatol/vimrc](https://github.com/Yeatol/vimrc)|自用 VIM 配置文件|3|0|2021-12-18|
-|33|[owner888/vimer](https://github.com/owner888/vimer)|vim editor|11|0|2022-03-02|
+|33|[owner888/vimer](https://github.com/owner888/vimer)|vim editor|11|0|2022-03-07|
 |34|[rlue/vim-barbaric](https://github.com/rlue/vim-barbaric)|Automatic input method switching for vim|142|0|2022-01-02|
 |35|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|166|0|2022-02-18|
 |36|[silenceboychen/vimconfig](https://github.com/silenceboychen/vimconfig)|vim使用配置|2|0|2021-10-12|
@@ -58,11 +58,11 @@
 |51|[ZSaberLv0/ZFVimIM_pinyin_base](https://github.com/ZSaberLv0/ZFVimIM_pinyin_base)|vim拼音输入法 / pinyin for ZFVimIM|4|0|2021-09-19|
 |52|[ppwwyyxx/vim-PinyinSearch](https://github.com/ppwwyyxx/vim-PinyinSearch)|help vim search Chinese by Pinyin|27|0|2022-03-05|
 |53|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog based on vimscript|57|0|2022-03-06|
-|54|[SidOfc/mkdx](https://github.com/SidOfc/mkdx)|A vim plugin that adds some nice extra's for working with markdown documents|389|0|2022-03-01|
+|54|[SidOfc/mkdx](https://github.com/SidOfc/mkdx)|A vim plugin that adds some nice extra's for working with markdown documents|390|0|2022-03-01|
 |55|[Genki-S/dotfiles](https://github.com/Genki-S/dotfiles)|My lovely settings.|23|0|2022-02-28|
 |56|[hotoo/vimrc](https://github.com/hotoo/vimrc)|:v: 闲耘™ 的 Vim 配置。|82|0|2022-02-26|
 |57|[dofy/7th-vim](https://github.com/dofy/7th-vim)|安装简单，轻量、易用、高可配置性。 Lightweight & Customizable Vim configuration options.|93|0|2021-11-16|
-|58|[lilydjwg/fcitx.vim](https://github.com/lilydjwg/fcitx.vim)|keep and restore fcitx state when leaving/re-entering insert mode|179|0|2021-10-26|
+|58|[lilydjwg/fcitx.vim](https://github.com/lilydjwg/fcitx.vim)|keep and restore fcitx state when leaving/re-entering insert mode|180|0|2021-10-26|
 |59|[marslo/myvim](https://github.com/marslo/myvim)|My Vim configuratons |13|0|2021-10-20|
 |60|[EthanYan6/vim-nice](https://github.com/EthanYan6/vim-nice)|懒人配置vim方案，有详细说明，以及现成的.vimrc配置文件供使用。The lazy person configures the vim scheme, with detailed instructions, and the ready-made `.vimrc` configuration file for use.|2|0|2021-11-11|
 |61|[pi314/ime.vim](https://github.com/pi314/ime.vim)|A Vim input method engine|71|0|2022-01-22|
@@ -89,7 +89,7 @@
 |82|[wlemuel/vim-tldr](https://github.com/wlemuel/vim-tldr)|tldr client for vim/neovim|46|0|2021-12-26|
 |83|[guerbai/ohmyarch](https://github.com/guerbai/ohmyarch)|-|19|0|2021-10-15|
 |84|[toby0000/linux_config](https://github.com/toby0000/linux_config)|ubuntu上自动安装和配置相关开发工具|6|0|2022-02-09|
-|85|[sillybun/vim-repl](https://github.com/sillybun/vim-repl)|Best REPL environment for Vim|381|0|2022-02-13|
+|85|[sillybun/vim-repl](https://github.com/sillybun/vim-repl)|Best REPL environment for Vim|382|0|2022-02-13|
 |86|[tenfyzhong/macos-autoim.vim](https://github.com/tenfyzhong/macos-autoim.vim)|macos自动切换输入法|3|0|2021-11-23|
 |87|[tenfyzhong/VimScripts](https://github.com/tenfyzhong/VimScripts)|myself vim scripts|13|0|2021-12-16|
 |88|[mrbeardad/SpaceVim](https://github.com/mrbeardad/SpaceVim)|基于SpaceVim的真正开箱即用、无需配置的IDE，你只需要记住快捷键即可。（目前默认支持C/C++、Go、Python、Shell、Markdown、VimL）|43|0|2021-09-26|

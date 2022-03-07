@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Jupyter Notebook
-<sub>数据更新: 2022-03-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|904|2022-03-04|2021-04-07|
-|2|[enpeizhao/CVprojects](https://github.com/enpeizhao/CVprojects)|computer vision projects    计算机视觉等好玩的AI项目|322|2022-03-05|2021-11-22|
-|3|[4paradigm/AutoX](https://github.com/4paradigm/AutoX)|AutoX is an efficient automl tool, which is mainly aimed at data mining competitions with tabular data.|199|2022-03-05|2021-07-21|
+|2|[enpeizhao/CVprojects](https://github.com/enpeizhao/CVprojects)|computer vision projects    计算机视觉等好玩的AI项目|324|2022-03-07|2021-11-22|
+|3|[4paradigm/AutoX](https://github.com/4paradigm/AutoX)|AutoX is an efficient automl tool, which is mainly aimed at data mining competitions with tabular data.|198|2022-03-05|2021-07-21|
 |4|[chokkan/mlnote](https://github.com/chokkan/mlnote)|機械学習帳|192|2022-02-01|2021-09-29|
-|5|[44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel)|基于思源黑体的开源像素字体|172|2022-01-03|2021-08-18|
-|6|[datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)|-|139|2022-03-01|2021-07-31|
+|5|[44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel)|基于思源黑体的开源像素字体|173|2022-01-03|2021-08-18|
+|6|[datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)|-|140|2022-03-07|2021-07-31|
 |7|[chenghuige/pikachu2](https://github.com/chenghuige/pikachu2)|微信大数据2021 1st，qq浏览器2021 3rd，mind新闻推荐2020 1st，NAIC2020 AI+遥感影像 2nd|107|2021-11-17|2021-11-04|
-|8|[kzbkzb/Python-AI](https://github.com/kzbkzb/Python-AI)|深度学习100例、深度学习DL、图片分类、目标识别、目标检测、自然语言处理nlp、文本分类、TensorFlow、PyTorch|86|2022-01-12|2021-10-18|
-|9|[hhiim/Lacan](https://github.com/hhiim/Lacan)|利用四层LSTM生成拉康精神分析黑话，用于讽刺（但过拟合……|85|2022-02-07|2022-02-04|
-|10|[ni1o1/transbigdata](https://github.com/ni1o1/transbigdata)|A Python package develop for transportation spatio-temporal big data processing, analysis and visualization.|81|2022-03-06|2021-10-21|
+|8|[kzbkzb/Python-AI](https://github.com/kzbkzb/Python-AI)|深度学习100例、深度学习DL、图片分类、目标识别、目标检测、自然语言处理nlp、文本分类、TensorFlow、PyTorch|89|2022-01-12|2021-10-18|
+|9|[hhiim/Lacan](https://github.com/hhiim/Lacan)|利用四层LSTM生成拉康精神分析黑话，用于讽刺（但过拟合……|86|2022-02-07|2022-02-04|
+|10|[ni1o1/transbigdata](https://github.com/ni1o1/transbigdata)|A Python package develop for transportation spatio-temporal big data processing, analysis and visualization.|81|2022-03-07|2021-10-21|
 |11|[datawhalechina/powerful-numpy](https://github.com/datawhalechina/powerful-numpy)|巨硬的NumPy|72|2022-03-04|2021-10-15|
-|12|[datawhalechina/learn-python-the-smart-way](https://github.com/datawhalechina/learn-python-the-smart-way)|聪明方法学Python，简明且系统的 Python 入门教程。|71|2022-01-25|2021-07-10|
+|12|[datawhalechina/learn-python-the-smart-way](https://github.com/datawhalechina/learn-python-the-smart-way)|聪明方法学Python，简明且系统的 Python 入门教程。|72|2022-01-25|2021-07-10|
 |13|[dglai/maxp_baseline_model](https://github.com/dglai/maxp_baseline_model)|-|67|2021-11-05|2021-10-06|
-|14|[EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker)|Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 挂刀比例数据   Track cheap Steam Community Market items on buff.163.com, igxe.cn and c5game.com|64|2022-03-06|2021-10-11|
+|14|[EricZhu-42/SteamTradingSiteTracker](https://github.com/EricZhu-42/SteamTradingSiteTracker)|Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 挂刀比例数据   Track cheap Steam Community Market items on buff.163.com, igxe.cn and c5game.com|65|2022-03-06|2021-10-11|
 |15|[lingjzhu/charsiu](https://github.com/lingjzhu/charsiu)|Charsiu: A neural phonetic aligner.|63|2022-02-12|2021-08-29|
 |16|[chokkan/python](https://github.com/chokkan/python)|Python早見帳|58|2021-11-28|2021-10-04|
 |17|[madhavmk/Noise2Noise-audio_denoising_without_clean_training_data](https://github.com/madhavmk/Noise2Noise-audio_denoising_without_clean_training_data)|Source code for the paper titled "Speech Denoising without Clean Training Data: a Noise2Noise Approach".  Paper accepted at the INTERSPEECH 2021 conference. This paper tackles the problem of the heavy ...|52|2022-03-03|2021-03-28|
@@ -29,8 +29,8 @@
 |22|[kevinfu1717/SuperInterstellarTerminal](https://github.com/kevinfu1717/SuperInterstellarTerminal)|【X世纪星际终端】A Wechat Social and AR Game: 基于微信聊天，结合增强现实技术AR+LBS（基于图像位置）的轻社交星际漂流瓶游戏。向外太空发送漂流信息，看看AI预测的外星人是长什么样的，寻找身边的外星人,逗逗外星生物，看看外星植物及外星建筑。Send the message to the outer space, find the aliens in the earth ...|35|2021-12-10|2021-08-01|
 |23|[buzhidaoshenme/YOLOX-OBB](https://github.com/buzhidaoshenme/YOLOX-OBB)|YOLOX in DOTA with KLD loss. (Oriented Object Detection)（Rotated BBox）基于YOLOX的旋转目标检测|31|2021-11-19|2021-09-18|
 |24|[DIUx-xView/xview3-reference](https://github.com/DIUx-xView/xview3-reference)|Reference data processing code and model for the xView3 prize challenge.|31|2021-11-29|2021-08-31|
-|25|[PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial)|PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle. |29|2021-12-17|2021-07-12|
-|26|[KristiyanVachev/Leaf-Question-Generation](https://github.com/KristiyanVachev/Leaf-Question-Generation)|Easy to use and understand multiple-choice question generation algorithm using T5 Transformers.|28|2022-02-02|2021-10-04|
+|25|[KristiyanVachev/Leaf-Question-Generation](https://github.com/KristiyanVachev/Leaf-Question-Generation)|Easy to use and understand multiple-choice question generation algorithm using T5 Transformers.|29|2022-03-07|2021-10-04|
+|26|[PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial)|PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle. |29|2021-12-17|2021-07-12|
 |27|[lansinuote/Machine-Learning-In-Numpy](https://github.com/lansinuote/Machine-Learning-In-Numpy)|纯python实现机器学习算法,非套用sk-learn|28|2021-11-08|2021-05-08|
 |28|[accomdemy/accomdemy](https://github.com/accomdemy/accomdemy)|Welcome to Accomdemy! 歡迎來到伴伴學！|22|2021-12-24|2021-05-11|
 |29|[yijixiuxin/chanlun](https://github.com/yijixiuxin/chanlun)|基于缠中说禅所理解的市场行情的分析工具|19|2021-12-18|2021-12-10|
