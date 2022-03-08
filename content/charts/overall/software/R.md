@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2022-03-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|580|2022-03-07|
 |2|[pzhaonet/mindr](https://github.com/pzhaonet/mindr)|an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms)|543|2021-11-22|
-|3|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|504|2022-03-07|
-|4|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|367|2022-03-07|
+|3|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|505|2022-03-07|
+|4|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|367|2022-03-08|
 |5|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|360|2022-02-25|
 |6|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|231|2022-02-16|
 |7|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|162|2021-12-19|
 |8|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|153|2022-02-25|
 |9|[hrbrmstr/docxtractr](https://github.com/hrbrmstr/docxtractr)|:scissors: Extract Tables from Microsoft Word Documents with R|151|2021-10-02|
-|10|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|2022-03-07|
+|10|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|2022-03-08|
 |11|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|132|2021-11-28|
 |12|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|111|2022-03-07|
 |13|[quanteda/stopwords](https://github.com/quanteda/stopwords)|Multilingual Stopword Lists in R|103|2022-01-07|
@@ -23,17 +23,17 @@
 |16|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|🛠 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|80|2022-03-02|
 |17|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|66|2021-09-15|
 |18|[ykang/gratis](https://github.com/ykang/gratis)|GRATIS: GeneRAting TIme Series with diverse and controllable characteristics|65|2022-02-06|
-|19|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|63|2022-03-07|
+|19|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|63|2022-03-08|
 |20|[lilywang1988/eSIR](https://github.com/lilywang1988/eSIR)|Extended state-space SIR epidemiological models|62|2021-11-08|
 |21|[hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|58|2021-12-21|
 |22|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/|52|2022-02-10|
 |23|[harryprince/geospark](https://github.com/harryprince/geospark)|bring sf to spark in production|48|2021-12-13|
 |24|[koheiw/newsmap](https://github.com/koheiw/newsmap)|Newsmap: geographical news classifier|47|2022-02-22|
 |25|[eco-hydro/phenofit](https://github.com/eco-hydro/phenofit)|R package: A state-of-the-art Vegetation Phenology extraction package, phenofit|44|2022-03-01|
-|26|[uribo/zipangu](https://github.com/uribo/zipangu)|Japanese utility functions and data|43|2022-02-24|
+|26|[uribo/zipangu](https://github.com/uribo/zipangu)|Japanese utility functions and data|43|2022-03-08|
 |27|[koheiw/LSX](https://github.com/koheiw/LSX)|A word embeddings-based semi-supervised model for document scaling|42|2022-03-04|
 |28|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|37|2021-11-26|
-|29|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|36|2022-03-05|
+|29|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|36|2022-03-08|
 |30|[koheiw/seededlda](https://github.com/koheiw/seededlda)|Semisupervided LDA for theory-driven text analysis|33|2022-01-07|
 |31|[rOpenStats/COVID19analyticsBak2109](https://github.com/rOpenStats/COVID19analyticsBak2109)|-|32|2021-10-03|
 |32|[mponce0/covid19.analytics](https://github.com/mponce0/covid19.analytics)|R package to obtain and analyze live data from the nCOVID19 coronavirus|32|2021-09-13|
@@ -49,8 +49,8 @@
 |42|[skgrange/rmweather](https://github.com/skgrange/rmweather)|Tools to Conduct Meteorological Normalisation on Air Quality Data|26|2022-02-10|
 |43|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit (kw: field observation, air polltion, time series summary, time series resampling, average variation, ozone formation potential (OFP), MIR, tuv). |25|2022-03-06|
 |44|[mountainMath/tongfen](https://github.com/mountainMath/tongfen)|Convenience functions for making data on different geometries, especially Canadian census geometries, comparable.|25|2022-02-24|
-|45|[msberends/cleaner](https://github.com/msberends/cleaner)|Fast and Easy Data Cleaning (in R)|23|2022-02-13|
-|46|[XSLiuLab/tumor-immunogenicity-score](https://github.com/XSLiuLab/tumor-immunogenicity-score)|TIGS (Tumor Immunogenicity Score) project https://doi.org/10.7554/eLife.49020|23|2021-09-16|
+|45|[XSLiuLab/tumor-immunogenicity-score](https://github.com/XSLiuLab/tumor-immunogenicity-score)|TIGS (Tumor Immunogenicity Score) project https://doi.org/10.7554/eLife.49020|24|2021-09-16|
+|46|[msberends/cleaner](https://github.com/msberends/cleaner)|Fast and Easy Data Cleaning (in R)|23|2022-02-13|
 |47|[wu-yc/scMetabolism](https://github.com/wu-yc/scMetabolism)|Quantifying metabolism activity at the single-cell resolution|21|2021-09-14|
 |48|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|21|2022-01-25|
 |49|[CBIIT/LDlinkR](https://github.com/CBIIT/LDlinkR)|LDlinkR|19|2021-10-07|
@@ -61,7 +61,7 @@
 |54|[IshidaMotohiro/TextMining](https://github.com/IshidaMotohiro/TextMining)|-|16|2022-01-25|
 |55|[pzhaonet/beginr](https://github.com/pzhaonet/beginr)|an R package for beginners|15|2021-12-03|
 |56|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|14|2021-11-26|
-|57|[fragla/eq5d](https://github.com/fragla/eq5d)|-|13|2022-03-02|
+|57|[fragla/eq5d](https://github.com/fragla/eq5d)|-|13|2022-03-08|
 |58|[davidycliao/redguards](https://github.com/davidycliao/redguards)|This is a designed package for replicating the estimates and findings in the article of Factionalism and the Red Guards under Mao's China: Ideal Point Estimation Using Text Data. |11|2022-02-22|
 |59|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|11|2021-11-23|
 |60|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|11|2022-01-26|
