@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Ruby
-<sub>数据更新: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -92,39 +92,38 @@
 |85|[huacnlee/sql-builder](https://github.com/huacnlee/sql-builder)|A simple SQL builder for generate SQL for non-ActiveRecord supports databases|32|2022-01-13|
 |86|[Tabll/gemnasium-db](https://github.com/Tabll/gemnasium-db)|GitLab 依赖项扫描的咨询数据库，每天17:00自动更新|29|2022-03-08|
 |87|[yuchuanfeng/CFGifEmotionDemo](https://github.com/yuchuanfeng/CFGifEmotionDemo)|gif图文混排、动态图片、动态表情、网络图片图文混排、gif表情|28|2021-11-22|
-|88|[davearonson/pull-request-roulette](https://github.com/davearonson/pull-request-roulette)|Site to match up developers with people willing to comment on their pull requests|28|2021-09-07|
-|89|[doorkeeper-gem/doorkeeper-i18n](https://github.com/doorkeeper-gem/doorkeeper-i18n)|Translation files for Doorkeeper OAuth 2 provider|27|2021-09-24|
-|90|[npezza93/redi_search](https://github.com/npezza93/redi_search)|Ruby wrapper around RediSearch that can integrate with Rails|26|2022-02-06|
-|91|[mycolorway/wework](https://github.com/mycolorway/wework)|Wework is ruby API wrapper for  wechat work「企业微信」.|25|2021-11-11|
-|92|[mataki/dekiru](https://github.com/mataki/dekiru)|Usefull helper methods for Ruby on Rails|25|2022-01-17|
-|93|[huacnlee/enumize](https://github.com/huacnlee/enumize)|Extend ActiveRecord::Enum for add more helpful methods.|24|2021-12-17|
-|94|[encoreshao/china_regions](https://github.com/encoreshao/china_regions)|Ruby Library for China Regions|23|2021-12-02|
-|95|[rkh/nii](https://github.com/rkh/nii)|Modern internationalization and localization solution for Ruby|21|2021-10-20|
-|96|[rikas/zoho_hub](https://github.com/rikas/zoho_hub)|Zoho CRM API V2 Wrapper|20|2022-03-01|
-|97|[JunichiIto/be_vimmer](https://github.com/JunichiIto/be_vimmer)|A bot that tweets Vim tips |20|2022-02-26|
-|98|[HugoHasenbein/redmine_more_previews](https://github.com/HugoHasenbein/redmine_more_previews)|Redmine plugin to preview various file types in redmine's preview pane|19|2022-02-22|
-|99|[YunzheZJU/non-stop-story](https://github.com/YunzheZJU/non-stop-story)|Backend for holo-schedule on Rails.|19|2022-03-02|
-|100|[diylove/wiki](https://github.com/diylove/wiki)|diy万事万物的程序|18|2022-01-23|
-|101|[dao42/qywechat-notifier](https://github.com/dao42/qywechat-notifier)|RubyGem: 企业微信 notification exception 插件|18|2022-02-26|
-|102|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|18|2022-03-06|
-|103|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|18|2022-03-06|
-|104|[hiroshiyui/youbike](https://github.com/hiroshiyui/youbike)|臺北市公共自行車「YouBike 微笑單車」租賃站資料轉換程式|17|2022-02-26|
-|105|[yohasebe/deepl-alfred-translate-rewrite-workflow](https://github.com/yohasebe/deepl-alfred-translate-rewrite-workflow)|An Alfred workflow to help translate and rewrite text using DeepL API|15|2022-01-26|
-|106|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|15|2022-03-07|
-|107|[petertseng/adventofcode-rb-2019](https://github.com/petertseng/adventofcode-rb-2019)|Solutions to http://adventofcode.com/2019 (complete)|14|2021-12-28|
-|108|[aozorahack/aozora2html](https://github.com/aozorahack/aozora2html)|-|14|2022-02-11|
-|109|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|13|2022-01-13|
-|110|[OuYangJinTing/ar_cache](https://github.com/OuYangJinTing/ar_cache)|An modern cacheing library for ActiveRecord inspired by cache-money and second_level_cache.|13|2021-09-22|
-|111|[mika-cn/maoxian-assistant](https://github.com/mika-cn/maoxian-assistant)|-|13|2022-02-25|
-|112|[Ezviz-OpenBiz/SDK-iOS](https://github.com/Ezviz-OpenBiz/SDK-iOS)|Ezviz SDK，功能更强大的开发套件，可以实现预览、回放、配网、对讲、设备控制、oAuth授权等功能|13|2022-03-01|
-|113|[tdiary/tdiary-blogkit](https://github.com/tdiary/tdiary-blogkit)|more blogged for tDiary|13|2022-02-28|
-|114|[citahub/re-birth](https://github.com/citahub/re-birth)|A blockchain explorer cache server for CITA|12|2022-02-11|
-|115|[Dounx/live-music](https://github.com/Dounx/live-music)|网易云同步听歌|10|2021-10-12|
-|116|[jodeci/fortuna](https://github.com/jodeci/fortuna)|台灣公司專用薪資計算系統|10|2021-11-04|
-|117|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|10|2021-10-29|
-|118|[yuchiXiong/pilipala](https://github.com/yuchiXiong/pilipala)|基于rails构建的博客系统|9|2021-11-29|
-|119|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|9|2021-12-09|
-|120|[crispgm/weekly](https://github.com/crispgm/weekly)|A personal curation of tech articles|9|2021-11-12|
+|88|[doorkeeper-gem/doorkeeper-i18n](https://github.com/doorkeeper-gem/doorkeeper-i18n)|Translation files for Doorkeeper OAuth 2 provider|27|2021-09-24|
+|89|[npezza93/redi_search](https://github.com/npezza93/redi_search)|Ruby wrapper around RediSearch that can integrate with Rails|26|2022-02-06|
+|90|[mycolorway/wework](https://github.com/mycolorway/wework)|Wework is ruby API wrapper for  wechat work「企业微信」.|25|2021-11-11|
+|91|[mataki/dekiru](https://github.com/mataki/dekiru)|Usefull helper methods for Ruby on Rails|25|2022-01-17|
+|92|[huacnlee/enumize](https://github.com/huacnlee/enumize)|Extend ActiveRecord::Enum for add more helpful methods.|24|2021-12-17|
+|93|[encoreshao/china_regions](https://github.com/encoreshao/china_regions)|Ruby Library for China Regions|23|2021-12-02|
+|94|[rkh/nii](https://github.com/rkh/nii)|Modern internationalization and localization solution for Ruby|21|2021-10-20|
+|95|[rikas/zoho_hub](https://github.com/rikas/zoho_hub)|Zoho CRM API V2 Wrapper|20|2022-03-01|
+|96|[JunichiIto/be_vimmer](https://github.com/JunichiIto/be_vimmer)|A bot that tweets Vim tips |20|2022-02-26|
+|97|[HugoHasenbein/redmine_more_previews](https://github.com/HugoHasenbein/redmine_more_previews)|Redmine plugin to preview various file types in redmine's preview pane|19|2022-02-22|
+|98|[YunzheZJU/non-stop-story](https://github.com/YunzheZJU/non-stop-story)|Backend for holo-schedule on Rails.|19|2022-03-02|
+|99|[diylove/wiki](https://github.com/diylove/wiki)|diy万事万物的程序|18|2022-01-23|
+|100|[dao42/qywechat-notifier](https://github.com/dao42/qywechat-notifier)|RubyGem: 企业微信 notification exception 插件|18|2022-02-26|
+|101|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|18|2022-03-06|
+|102|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|18|2022-03-06|
+|103|[hiroshiyui/youbike](https://github.com/hiroshiyui/youbike)|臺北市公共自行車「YouBike 微笑單車」租賃站資料轉換程式|17|2022-02-26|
+|104|[yohasebe/deepl-alfred-translate-rewrite-workflow](https://github.com/yohasebe/deepl-alfred-translate-rewrite-workflow)|An Alfred workflow to help translate and rewrite text using DeepL API|15|2022-01-26|
+|105|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|15|2022-03-07|
+|106|[petertseng/adventofcode-rb-2019](https://github.com/petertseng/adventofcode-rb-2019)|Solutions to http://adventofcode.com/2019 (complete)|14|2021-12-28|
+|107|[aozorahack/aozora2html](https://github.com/aozorahack/aozora2html)|-|14|2022-02-11|
+|108|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|13|2022-01-13|
+|109|[OuYangJinTing/ar_cache](https://github.com/OuYangJinTing/ar_cache)|An modern cacheing library for ActiveRecord inspired by cache-money and second_level_cache.|13|2021-09-22|
+|110|[mika-cn/maoxian-assistant](https://github.com/mika-cn/maoxian-assistant)|-|13|2022-02-25|
+|111|[Ezviz-OpenBiz/SDK-iOS](https://github.com/Ezviz-OpenBiz/SDK-iOS)|Ezviz SDK，功能更强大的开发套件，可以实现预览、回放、配网、对讲、设备控制、oAuth授权等功能|13|2022-03-01|
+|112|[tdiary/tdiary-blogkit](https://github.com/tdiary/tdiary-blogkit)|more blogged for tDiary|13|2022-02-28|
+|113|[citahub/re-birth](https://github.com/citahub/re-birth)|A blockchain explorer cache server for CITA|12|2022-02-11|
+|114|[Dounx/live-music](https://github.com/Dounx/live-music)|网易云同步听歌|10|2021-10-12|
+|115|[jodeci/fortuna](https://github.com/jodeci/fortuna)|台灣公司專用薪資計算系統|10|2021-11-04|
+|116|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|10|2021-10-29|
+|117|[yuchiXiong/pilipala](https://github.com/yuchiXiong/pilipala)|基于rails构建的博客系统|9|2021-11-29|
+|118|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|9|2021-12-09|
+|119|[crispgm/weekly](https://github.com/crispgm/weekly)|A personal curation of tech articles|9|2021-11-12|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

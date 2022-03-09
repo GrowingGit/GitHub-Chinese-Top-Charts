@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Rust
-<sub>数据更新: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -67,14 +67,13 @@
 |60|[cc-morning/river](https://github.com/cc-morning/river)|灵活，快速的数据迁移工具|18|2022-03-07|2022-02-19|
 |61|[inherd/writing](https://github.com/inherd/writing)|A document-code sync tools for document engineering. Writing 是一个自动 “文档-代码” 同步工具。解析 Markdown 中的代码定义，读取目标代码，并嵌入到新的文档中。|18|2021-10-25|2021-10-22|
 |62|[eatradish/meowdict](https://github.com/eatradish/meowdict)|喵典 - CLI Web client for moedict.tw|17|2022-02-11|2021-05-23|
-|63|[rmqtt-rs/rmqtt](https://github.com/rmqtt-rs/rmqtt)|MQTT Server/MQTT Broker - Scalable Distributed MQTT Message Broker for IoT in the 5G Era|17|2022-02-06|2021-03-09|
-|64|[Chi-Task-Force/Chi-Telegram-Inline-Bot-Neo](https://github.com/Chi-Task-Force/Chi-Telegram-Inline-Bot-Neo)|  在 Telegram 上快速模仿迟先生卖弱。|16|2022-02-28|2021-10-26|
-|65|[1148118271/ssh-rs](https://github.com/1148118271/ssh-rs)|In addition to encryption library, pure RUST implementation of SSH-2.0 client protocol (除加密库之外 纯rust实现的  ssh-2.0 client 协议)|14|2022-01-26|2021-12-29|
-|66|[wushikj/mix-agent](https://github.com/wushikj/mix-agent)|基于rust语言开发的一套运维监控探针，支持widnows、linux、macos系统|14|2021-11-16|2021-07-30|
-|67|[TianLiangZhou/ffi-pinyin](https://github.com/TianLiangZhou/ffi-pinyin)|最快速的PHP中文转拼音库|14|2021-12-07|2021-04-16|
-|68|[KernelErr/fourth](https://github.com/KernelErr/fourth)|Simple and fast layer 4 proxy in Rust|13|2021-12-30|2021-10-21|
-|69|[KernelErr/shallow-container](https://github.com/KernelErr/shallow-container)|A light-weight container tool written in Rust.|12|2021-09-22|2021-09-19|
-|70|[JASory/Iridium](https://github.com/JASory/Iridium)|Atomic Physics Library|11|2021-11-18|2021-07-15|
+|63|[Chi-Task-Force/Chi-Telegram-Inline-Bot-Neo](https://github.com/Chi-Task-Force/Chi-Telegram-Inline-Bot-Neo)|  在 Telegram 上快速模仿迟先生卖弱。|16|2022-02-28|2021-10-26|
+|64|[1148118271/ssh-rs](https://github.com/1148118271/ssh-rs)|In addition to encryption library, pure RUST implementation of SSH-2.0 client protocol (除加密库之外 纯rust实现的  ssh-2.0 client 协议)|14|2022-01-26|2021-12-29|
+|65|[wushikj/mix-agent](https://github.com/wushikj/mix-agent)|基于rust语言开发的一套运维监控探针，支持widnows、linux、macos系统|14|2021-11-16|2021-07-30|
+|66|[TianLiangZhou/ffi-pinyin](https://github.com/TianLiangZhou/ffi-pinyin)|最快速的PHP中文转拼音库|14|2021-12-07|2021-04-16|
+|67|[KernelErr/fourth](https://github.com/KernelErr/fourth)|Simple and fast layer 4 proxy in Rust|13|2021-12-30|2021-10-21|
+|68|[KernelErr/shallow-container](https://github.com/KernelErr/shallow-container)|A light-weight container tool written in Rust.|12|2021-09-22|2021-09-19|
+|69|[JASory/Iridium](https://github.com/JASory/Iridium)|Atomic Physics Library|11|2021-11-18|2021-07-15|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

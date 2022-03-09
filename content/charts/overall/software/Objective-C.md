@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Objective-C
-<sub>数据更新: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -88,123 +88,123 @@
 |81|[OpenFlutter/tobias](https://github.com/OpenFlutter/tobias)|AliPay For Flutter.支付宝Flutter插件|548|2022-03-05|
 |82|[pili-engineering/PLMediaStreamingKit](https://github.com/pili-engineering/PLMediaStreamingKit)|PLMediaStreamingKit 是七牛推出的一款适用于 iOS 平台的推流 SDK，支持 RTMP 推流，h.264 和 AAC 编码，硬编、软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能。|536|2022-02-08|
 |83|[2621532542/iOS_NQConfuseTool](https://github.com/2621532542/iOS_NQConfuseTool)|iOS代码混淆(iOS_NQConfuseTool)是一款运行在MACOS平台的App、完美支持OC和Swift项目代码的自动混淆、支持、文件名、修改资源文件、类名、方法名、属性名、添加混淆函数方法体、添加混淆属性、自动调用生成的混淆代码，功能强大而稳定，全局自动化，安全加固。马甲包混淆工具，最重要的是完全免费。（随机单词拼接）|535|2021-12-11|
-|84|[anyrtcIO-Community/anyRTC-RTMPC-iOS](https://github.com/anyrtcIO-Community/anyRTC-RTMPC-iOS)|基于RTMP和RTC混合引擎的视频连麦互动直播|535|2021-09-07|
-|85|[dji-sdk/Mobile-SDK-iOS](https://github.com/dji-sdk/Mobile-SDK-iOS)|DJI Mobile SDK for iOS: http://developer.dji.com/mobile-sdk/|521|2022-02-24|
-|86|[g0v/moedict-webkit](https://github.com/g0v/moedict-webkit)|萌典網站|509|2022-02-26|
-|87|[MQL9011/MRDLNA](https://github.com/MQL9011/MRDLNA)|纯OC实现的iOS DLNA 投屏功能, 支持各大主流电视盒子(小米,华为,乐视,移动魔百盒等), 可以播放,暂停,快进退,调音量,退出.|505|2022-02-25|
-|88|[04zhujunjie/ZJJTimeCountDown](https://github.com/04zhujunjie/ZJJTimeCountDown)|iOS倒计时 验证码倒计时 秒杀倒计时 支持cell中的多个倒计时 支持自定义 样式多 支持时间差设置|498|2021-11-04|
-|89|[adjust/ios_sdk](https://github.com/adjust/ios_sdk)|This is the iOS SDK of|498|2022-02-16|
-|90|[SilverFruity/OCRunner](https://github.com/SilverFruity/OCRunner)|Execute Objective-C code as script.  AST Interpreter. iOS hotfix SDK.  |474|2022-02-28|
-|91|[yangyangFeng/TTPatch](https://github.com/yangyangFeng/TTPatch)|热修复、热更新、JS代码动态下发、动态创建类|459|2022-03-04|
-|92|[lincf0912/LFMediaEditingController](https://github.com/lincf0912/LFMediaEditingController)|Media Editor (图片编辑、视频编辑)|458|2021-10-15|
-|93|[li6185377/IMYAOPTableView](https://github.com/li6185377/IMYAOPTableView)|无业务入侵，无逻辑入侵，外部察觉不到的 UITableView/UICollectionView AOP 框架|456|2022-01-25|
-|94|[ZFbaby/ZFSeatsSelection](https://github.com/ZFbaby/ZFSeatsSelection)|高仿猫眼电影选座（选票）模块（High imitation opal film seat selection (vote) module）|453|2021-12-09|
-|95|[zhengwenming/ScreenShotBack](https://github.com/zhengwenming/ScreenShotBack)|全屏返回，截图手势返回，景深效果，类似斗鱼、天天快报、腾讯新闻等APP的手势返回。|450|2021-12-29|
-|96|[PingPlusPlus/pingpp-ios](https://github.com/PingPlusPlus/pingpp-ios)|-|441|2021-12-27|
-|97|[pili-engineering/PLShortVideoKit](https://github.com/pili-engineering/PLShortVideoKit)|PLShortVideoKit 是七牛推出的一款适用于 iOS 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、视频剪辑、本地转码、视频上传在内的多种功能，支持高度定制以及二次开发。|426|2021-12-23|
-|98|[qiniu/objc-sdk](https://github.com/qiniu/objc-sdk)|Qiniu Resource (Cloud) Storage Objective-C SDK for Mac/iOS|426|2022-03-02|
-|99|[tbl00c/ZZFLEX](https://github.com/tbl00c/ZZFLEX)|一个完善的iOS敏捷开发框架，基于UIKit实现，包含常用控件的链式API拓展、一个数据驱动的列表框架、一个事件处理队列。|415|2022-03-05|
-|100|[aliyun/aliyun-oss-ios-sdk](https://github.com/aliyun/aliyun-oss-ios-sdk)|iOS SDK for aliyun object storage service|415|2022-02-14|
-|101|[zhengwenming/CountDown](https://github.com/zhengwenming/CountDown)|iOS倒计时，60s验证码倒计时，cell中倒计时，后台给的时间戳倒计时，全部适合。比如：离活动结束还有   0天 01: 14: 59|388|2021-12-29|
-|102|[donggelaile/HDCollectionView](https://github.com/donggelaile/HDCollectionView)|An efficient and flexible listView (data driven). Based on Flexbox, it supports floating, waterfall, decorative view, horizontal sliding, segmented layout, and various alignments. Support diff refresh ...|375|2022-03-03|
-|103|[sealtalk/sealtalk-ios](https://github.com/sealtalk/sealtalk-ios)|iOS App of SealTalk powered by RongCloud. 基于融云开发的 iOS 版即时通讯（IM）应用程序 - 嗨豹。|363|2021-10-09|
-|104|[BlinkID/blinkid-ios](https://github.com/BlinkID/blinkid-ios)|Everything you need to add AI-driven ID scanning into your native iOS app.|352|2022-02-10|
-|105|[mengxianliang/XLPageViewController](https://github.com/mengxianliang/XLPageViewController)|一个开放、高度可定制化的分页视图控制器|345|2022-01-18|
-|106|[ZFbaby/ZFVoteViewDemo](https://github.com/ZFbaby/ZFVoteViewDemo)|UITableView实现格瓦拉飞天投票效果|345|2021-12-09|
-|107|[LuKane/KNPhotoBrowser](https://github.com/LuKane/KNPhotoBrowser)|图片浏览器(本地和网络) ,视频浏览器 (本地和网络), 无耦合性,自定义控件,资源路径保存和获取,  完美适配 iPhone 以及 iPad ,屏幕旋转功能.|339|2022-03-08|
-|108|[boai/BANetManager](https://github.com/boai/BANetManager)|基于AFNetworking 3.0、3.1最新版本的封装，集成了 get / post / put / delete 方法请求数据，单图/多图上传，视频上传/下载，网络监测 等多种网络请求方式，|333|2021-10-27|
-|109|[FantasticLBP/Hotels](https://github.com/FantasticLBP/Hotels)|酒店预订App|332|2022-02-12|
-|110|[yuping1989/YPTabBarController](https://github.com/yuping1989/YPTabBarController)|功能强大，使用方便，可高度自定义的TabBarController。|330|2021-10-09|
-|111|[huangxuan518/HXTagsView](https://github.com/huangxuan518/HXTagsView)|HXTagsView是一款支持自动布局的标签tag 演示地址:https://appetize.io/app/f9a5kn2tnfe0kade2zy7g2mja|318|2021-09-10|
-|112|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|317|2022-02-14|
-|113|[SmileZXLee/ZXHookDetection](https://github.com/SmileZXLee/ZXHookDetection)|【iOS应用安全、安全攻防】hook及越狱的基本防护与检测(动态库注入检测、hook检测与防护、越狱检测、签名校验、IDA反编译分析加密协议Demo)；【数据传输安全】浅谈http、https与数据加密|313|2022-01-23|
-|114|[yangKJ/KJCategories](https://github.com/yangKJ/KJCategories)|Common categories for daily development. Such as  UIKit, Foundation, QuartzCore, Accelerate, OpenCV and more.|300|2022-02-08|
-|115|[jiaxiaogang/he4o](https://github.com/jiaxiaogang/he4o)|HE —— “信息熵减机系统”|299|2022-03-06|
-|116|[SmileZXLee/ZXNavigationBar](https://github.com/SmileZXLee/ZXNavigationBar)|灵活轻量的自定义导航栏，导航栏属于控制器view，支持导航栏联动，一行代码实现【导航栏背景图片设置、导航栏渐变、折叠、修改Item大小和边距、自定义导航栏高度、全屏手势返回、pop拦截、仿系统导航栏历史堆栈】等各种效果|286|2021-10-14|
-|117|[indulgeIn/YBTaskScheduler](https://github.com/indulgeIn/YBTaskScheduler)|iOS 任务调度器，为 CPU 和内存减负（用于性能优化）|282|2022-01-12|
-|118|[cqzhong/iPadReader](https://github.com/cqzhong/iPadReader)|iPad版本的阅读器|281|2021-12-10|
-|119|[puti94/react-native-puti-pay](https://github.com/puti94/react-native-puti-pay)|基于 React Native 的微信支付，支付宝支付插件|281|2021-09-14|
-|120|[Faceunity/FULiveDemo](https://github.com/Faceunity/FULiveDemo)|Faceunity 面部跟踪和虚拟道具 SDK 在 iOS 平台中的集成 Demo|269|2022-02-25|
-|121|[baozoudiudiu/CWCarousel](https://github.com/baozoudiudiu/CWCarousel)|轮播图banner|261|2021-10-28|
-|122|[QuintGao/GKNavigationBar](https://github.com/QuintGao/GKNavigationBar)|GKNavigationBarViewController的分类实现方式，耦合度底，使用更加便捷|259|2022-02-24|
-|123|[januslo/react-native-bluetooth-escpos-printer](https://github.com/januslo/react-native-bluetooth-escpos-printer)|React-Native plugin for the bluetooth ESC/POS & TSC printers.|247|2022-03-06|
-|124|[finogeeks/finclip-ios-demo](https://github.com/finogeeks/finclip-ios-demo)|FinClip 苹果运行环境，让小程序在苹果应用中无缝运行  / iOS DEMO for FinClip|242|2022-02-08|
-|125|[Tate-zwt/WTSDK](https://github.com/Tate-zwt/WTSDK)|开发项目积累的一些category、tools、自定义View，持续更新|239|2021-10-19|
-|126|[NodeMedia/NodeMediaClient-iOS](https://github.com/NodeMedia/NodeMediaClient-iOS)|NodeMedia RTMP/RTSP/HTTP Play/Publish Client SDK for iOS|239|2021-11-25|
-|127|[muzipiao/GMObjC](https://github.com/muzipiao/GMObjC)|SM2/SM3/SM4/ECDH library based on OpenSSL.|231|2021-12-02|
-|128|[mengxianliang/XLPlayButton](https://github.com/mengxianliang/XLPlayButton)|爱奇艺、优酷的播放/暂停按钮动画效果|230|2021-11-30|
-|129|[SmileZXLee/ZXRequestBlock](https://github.com/SmileZXLee/ZXRequestBlock)|基于NSURLProtocol一句话实现iOS应用底层所有网络请求拦截(含网页ajax请求拦截【不支持WKWebView】)、一句话实现防抓包(使Thor，Charles，Burp等代理抓包方式全部失效，且即使开启了代理，也不影响App内部的正常请求)。包含http-dns解决方法，有效防止DNS劫持。用于分析http，https请求等|222|2022-02-13|
-|130|[shixueqian/PrintBeautifulLog](https://github.com/shixueqian/PrintBeautifulLog)|将字典(NSDictionary)和数组(NSArray)打印的Log显示为Json格式。直接将分类拖入到工程即可使用。|217|2021-09-22|
-|131|[KonsomeJona/OctoMouse](https://github.com/KonsomeJona/OctoMouse)|OctoMouse is an open-source application for MAC OSX that measures your mouse and keyboard activities.|210|2021-12-08|
-|132|[Suzhibin/ZBNetworking](https://github.com/Suzhibin/ZBNetworking)| AFNetworking4.X封装  GET/POST /PUT/PATCH /DELETE / UPLOAD /DOWNLOAD 网络请求 添加了缓存机制,插件机制,断点下载,重复请求的处理,取消当前请求等功能|209|2022-01-18|
-|133|[nijino/CircularProgressView](https://github.com/nijino/CircularProgressView)|An audio circular progress view for iOS.You can customize its frame,background circle color & progress circle color,circle width as you wish. 一个iOS圆形进度条开源库，你可以定制它的大小、进度条背景色和前景色以及进度条的宽度。|206|2021-12-02|
-|134|[Zws-China/startMovie](https://github.com/Zws-China/startMovie)|启动视频  APP第一次启动播放视频欢迎  启动页|202|2021-10-08|
-|135|[paradiseduo/IPAPatch](https://github.com/paradiseduo/IPAPatch)|Patch iOS Apps, The Easy Way, Without Jailbreak.|199|2021-11-05|
-|136|[Jacke-xu/WYBasisKit](https://github.com/Jacke-xu/WYBasisKit)|"WYBasisKit" is a toolkit aimed at greatly improving efficiency.|193|2021-09-16|
-|137|[QuintGao/GKCover](https://github.com/QuintGao/GKCover)|GKCover-一行代码实现遮罩视图，让你的弹窗更easy|184|2021-12-31|
-|138|[maltsugar/CustomPopoverView](https://github.com/maltsugar/CustomPopoverView)|一款小巧灵活的自定义弹出视图, 可以做自定义AlertView、弹出窗口等等, A tiny and sweet custom popView (pop popup)|180|2021-11-30|
-|139|[umeng/React_Native_Compent](https://github.com/umeng/React_Native_Compent)|-|170|2022-02-10|
-|140|[fanyuecheng/Pica](https://github.com/fanyuecheng/Pica)|一个简约的哔咔漫画iOS App|166|2022-03-08|
-|141|[li6185377/DouQu_IOS](https://github.com/li6185377/DouQu_IOS)|Leancloud BaaS Demo，前后端全包|166|2022-01-12|
-|142|[deng690990/SF_GaoDeMAP](https://github.com/deng690990/SF_GaoDeMAP)|高德地图sdk的二次封装，有定位，绘制大头针，APP内部导航，语音导航，轨迹绘制，跑步轨迹回放(3D卫星地图版)，电子围栏，附近搜索并标记，要运行demo，请先pod install，有问题，请提交Issues。|163|2021-12-15|
-|143|[jinht/DocViewer](https://github.com/jinht/DocViewer)|文档/文件查看器（支持本地或者其他app分享过来的word、excel、pdf、rtf等格式文件）|163|2022-03-02|
-|144|[mengxianliang/XLImageViewer](https://github.com/mengxianliang/XLImageViewer)|iOS 仿照今日头条的图片浏览工具。|162|2021-09-08|
-|145|[zfdang/chinese-lunar-calendar-for-mac](https://github.com/zfdang/chinese-lunar-calendar-for-mac)|Chinese Lunar Calendar for Mac|159|2021-11-19|
-|146|[BuglyDevTeam/Bugly-iOS](https://github.com/BuglyDevTeam/Bugly-iOS)|Bugly iOS SDK|158|2021-12-02|
-|147|[changsanjiang/SJMediaCacheServer](https://github.com/changsanjiang/SJMediaCacheServer)|A HTTP Media Caching Framework. It can cache FILE or HLS media. 音视频边播边缓存框架, 支持 HLS(m3u8) 和 FILE(mp4, mp3等).|154|2022-01-13|
-|148|[Resory/RYCuteView](https://github.com/Resory/RYCuteView)|🍮 用UIBezierPath实现果冻效果|151|2021-09-17|
-|149|[react-native-studio/react-native-MJRefresh](https://github.com/react-native-studio/react-native-MJRefresh)|基于ios MJRefresh https://github.com/CoderMJLee/MJRefresh 开发的插件，可提供自定义的弹性刷新|146|2022-02-11|
-|150|[Soldoros/SSChat](https://github.com/Soldoros/SSChat)|社交网络|146|2021-10-04|
-|151|[GetuiLaboratory/react-native-getui](https://github.com/GetuiLaboratory/react-native-getui)|个推官方提供的推送SDK React Native 插件（支持 Android & iOS）|145|2022-02-13|
-|152|[CodeTips/ThunderPlugin-macOS](https://github.com/CodeTips/ThunderPlugin-macOS)|For macOS。Mac版 迅雷的反hook绕过~|144|2021-12-24|
-|153|[tencentyun/httpdns-ios-sdk](https://github.com/tencentyun/httpdns-ios-sdk)|智营防劫持SDK|142|2022-02-25|
-|154|[wsl2ls/UIActivityViewController](https://github.com/wsl2ls/UIActivityViewController)|仿简书分享--系统原生分享:利用UIActivityViewController实现系统原生分享，不需要三方SDK，支持自定义分享，可以分享到微博、微信、QQ、信息、邮件、备忘录、通讯录、剪贴板、FaceBook.....等等|141|2021-10-07|
-|155|[NervJS/taro-native-shell](https://github.com/NervJS/taro-native-shell)|Taro 原生 React Native 壳子|140|2022-03-02|
-|156|[wwmz/WMZTreeView](https://github.com/wwmz/WMZTreeView)|类似前端elementUI的树形控件,可自定义节点内容,支持无限极节点,可拖拽增删节点等等,非递归实现|138|2021-12-31|
-|157|[midoks/mdserver-mac](https://github.com/midoks/mdserver-mac)|mdserver (mac version, secondary development)|134|2021-12-16|
-|158|[Roen-Ro/RRViewControllerExtension](https://github.com/Roen-Ro/RRViewControllerExtension)| UINavigationBar appearance management, memory leak detection, convenient UIViewController property and methods|133|2021-12-28|
-|159|[GenerallyHelpfulSoftware/SVGgh](https://github.com/GenerallyHelpfulSoftware/SVGgh)|A framework for using SVG artwork in iOS Apps. Includes a UIView and a button class, printing and PDF export.|132|2021-10-05|
-|160|[li6185377/WaterDropRefresh](https://github.com/li6185377/WaterDropRefresh)|path waterdrop refresh effect 水滴刷新效果|131|2022-01-12|
-|161|[iotjin/JhForm](https://github.com/iotjin/JhForm)|JhForm - 自定义表单工具,更加简单,快捷的创建表单、设置页面|129|2021-12-10|
-|162|[RITL/RITLPhotos](https://github.com/RITL/RITLPhotos)|一个基于Photos.framework的图片多选，模仿微信，还有很多不足，正在改进和优化|128|2021-09-07|
-|163|[xiaozi/awake-app](https://github.com/xiaozi/awake-app)|An app for mac osx to prevent sleeping; inspired by Caffeine.|126|2021-11-10|
-|164|[zhengwenming/ExpandTableView](https://github.com/zhengwenming/ExpandTableView)|可折叠展开的tableView，QQ好友分组列表。|125|2021-12-29|
-|165|[internetWei/LLDynamicLaunchScreen](https://github.com/internetWei/LLDynamicLaunchScreen)|自动修复iPhone启动图显示异常，1行代码动态修改启动图|123|2021-12-08|
-|166|[kingjiajie/JJCollectionViewRoundFlowLayout](https://github.com/kingjiajie/JJCollectionViewRoundFlowLayout)|JJCollectionViewRoundFlowLayout可设置CollectionView的BackgroundColor、Cell的对齐方式，可跟据用户Cell个数计算背景图尺寸，可自定义是否包括计算CollectionViewHeaderView、CollectionViewFootererView或只计算Cells。设置简单，可自定义背景颜色偏移，设置显示方向（竖向、横向）显示,不同S ...|123|2021-09-12|
-|167|[helloted/HTMonitor](https://github.com/helloted/HTMonitor)|监测内存泄漏，统计UI渲染，卡顿等情况|123|2021-12-16|
-|168|[uiwjs/react-native-alipay](https://github.com/uiwjs/react-native-alipay)|基于 React Native 的宝支付包，已更新到最新的支付宝 SDK 版本，支持Android/iOS。|122|2022-03-07|
-|169|[jiaxiaogang/HELIX_THEORY](https://github.com/jiaxiaogang/HELIX_THEORY)|theory of helix—— “熵减机理论（可用来构建信息熵减机、及自然演化熵减机系统等）”|122|2022-03-07|
-|170|[yangKJ/KJPlayerDemo](https://github.com/yangKJ/KJPlayerDemo)|Audio and video player, breakpoint resuming playback, record played time, free watching limit, etc. 🎷|121|2022-01-24|
-|171|[hydreamit/HyCycleView](https://github.com/hydreamit/HyCycleView)|多页面分页、循环、嵌套滑动悬停|121|2021-12-06|
-|172|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|116|2021-10-13|
-|173|[muzipiao/LFPhoneInfo](https://github.com/muzipiao/LFPhoneInfo)|iOS 快速获取硬件信息。|115|2022-02-25|
-|174|[umeng/MultiFunctioniOSDemo](https://github.com/umeng/MultiFunctioniOSDemo)|友盟多功能iOS Demo|112|2021-09-26|
-|175|[Meiqia/MeiqiaSDK-iOS](https://github.com/Meiqia/MeiqiaSDK-iOS)|美洽 iOS SDK 3.7.9 面向开发者的 Demo。|111|2022-01-20|
-|176|[tianya2416/GKiOSApp](https://github.com/tianya2416/GKiOSApp)|项目，新闻、视频、壁纸。主要功能有：开机启动图、图片壁纸、新闻（仿头条新闻、搜索框）、视频、短视频、视频播放|106|2021-11-28|
-|177|[Maxwin-z/xsmth-newsmth](https://github.com/Maxwin-z/xsmth-newsmth)|水木社区第三方客户端|101|2022-02-27|
-|178|[brightcove/brightcove-player-sdk-ios](https://github.com/brightcove/brightcove-player-sdk-ios)|Brightcove Player SDK for iOS|101|2021-12-02|
-|179|[changsanjiang/SJBaseVideoPlayer](https://github.com/changsanjiang/SJBaseVideoPlayer)|video player. rotation, volume, brightness, rate, play, pause, stop, seekToTime, present.|99|2021-11-22|
-|180|[mengxianliang/XLCircleProgress](https://github.com/mengxianliang/XLCircleProgress)|iOS 圆环进度指示器 |99|2021-11-30|
-|181|[bestDew/ZKTreeTableView](https://github.com/bestDew/ZKTreeTableView)|A view of the tree structure.树状结构列表。|97|2022-02-09|
-|182|[Rain-dew/YLTextView](https://github.com/Rain-dew/YLTextView)|一行代码搞定textView占位符、字数限制、行数限制、自动计算高度— OC和Swift|97|2022-01-18|
-|183|[daipeihust/DPScrollNumberLabel](https://github.com/daipeihust/DPScrollNumberLabel)|🔥 A label extension for iOS📱, It display numbers and when you change the number it has a real logic animation.🌟|96|2021-12-26|
-|184|[CodeTips/WeChatPlugin-iOS](https://github.com/CodeTips/WeChatPlugin-iOS)|For iOS. 防封号处理、一键远程控制、实时后台推送、自动抢红包、消息防撤回等功能~|91|2021-12-24|
-|185|[Zws-China/CAAnimation](https://github.com/Zws-China/CAAnimation)|iOS动画演示，核心动画演示，CAAnimation动画|91|2021-09-24|
-|186|[WMSmile/WMLinkMapAnalyzer](https://github.com/WMSmile/WMLinkMapAnalyzer)|linkmap文件分析工具，分析每个类所占用的大小。|91|2022-01-11|
-|187|[liangdahong/AMLeaksFinder](https://github.com/liangdahong/AMLeaksFinder)|A small tool for automatically detecting the [controller, view memory leak] in the project.  一款用于自动检测项目中【控制器内存泄漏，View 内存泄漏】的小工具，支持 ObjC，Swift。|90|2021-10-25|
-|188|[jpush/jverify-flutter-plugin](https://github.com/jpush/jverify-flutter-plugin)|JPush's officially supported Flutter plugin (Android & iOS). 极光推送官方支持的 Flutter 插件（Android & iOS）。|89|2022-01-26|
-|189|[banchichen/TZImagePreviewController](https://github.com/banchichen/TZImagePreviewController)|对TZImagePickerController库的增强，支持用UIImage、NSURL预览照片和用NSURL预览视频。|89|2021-11-26|
-|190|[OpenIMSDK/Open-IM-SDK-iOS](https://github.com/OpenIMSDK/Open-IM-SDK-iOS)|OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，iOS版本IM SDK 可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。|88|2022-03-08|
-|191|[HighwayLaw/HWThrottle](https://github.com/HighwayLaw/HWThrottle)|A lite Objective-C library for throttle and debounce, supporting leading and trailing. 节流/限流/防反跳/防重复点击/防重复调用|88|2021-11-18|
-|192|[lionvoom/WeAppTongCeng](https://github.com/lionvoom/WeAppTongCeng)|小程序同层渲染|85|2021-10-29|
-|193|[KeenTeam1990/HXWeiboPhotoPicker](https://github.com/KeenTeam1990/HXWeiboPhotoPicker)|🏂HXWeiboPhotoPicker-高仿微博照片选择，使用的是PhotoKit框架来获取系统相册以及照片/视频，支持查看/选择GIF图片 ， 照片、视频可同时多选/原图 ， 3DTouch预览照片 ， 长按拖动改变顺序 ， 自定义相机拍照/录制视频 ， 自定义转场动画 ， 查看/选择LivePhoto IOS9.1以上才有用 ， 支持浏览网络图片 ， 支持自定义裁剪图片， 支持传入本地图片，支 ...|85|2021-11-11|
-|194|[qinqi777/QQCorner](https://github.com/qinqi777/QQCorner)|给 UIView 或 UIImage 高性能添加(之后可以修改)圆角，生成渐变色图片等|84|2022-01-18|
-|195|[BAHome/BAGridView](https://github.com/BAHome/BAGridView)|支付宝首页 九宫格 布局封装，可以自定义多种样式，自定义角标、分割线显示/隐藏、颜色等功能应有尽有！|84|2022-03-07|
-|196|[du1992/DProgram_ios](https://github.com/du1992/DProgram_ios)|做的一款小项目-编程宝典iOS版|84|2021-10-08|
-|197|[aliyunvideo/AliPlayerSDK](https://github.com/aliyunvideo/AliPlayerSDK)|AliyunPlayer SDK 4.x version|83|2022-02-22|
-|198|[rongcloud/callkit-ios](https://github.com/rongcloud/callkit-ios)|Open-source code of RongCloud VoIP Audio/Video UI. 融云音视频通话功能 UI 界面 SDK 开源代码。|83|2022-03-02|
-|199|[tencentyun/UGSVSDK](https://github.com/tencentyun/UGSVSDK)|短视频 SDK，国内下载镜像：|81|2022-03-04|
-|200|[MinMao-Hub/MMScan](https://github.com/MinMao-Hub/MMScan)|QRCode and barcode scanning tool【轻量级的二维码以及条码扫描-> 使用iOS自带API开发】|78|2021-10-29|
+|84|[dji-sdk/Mobile-SDK-iOS](https://github.com/dji-sdk/Mobile-SDK-iOS)|DJI Mobile SDK for iOS: http://developer.dji.com/mobile-sdk/|521|2022-02-24|
+|85|[g0v/moedict-webkit](https://github.com/g0v/moedict-webkit)|萌典網站|509|2022-02-26|
+|86|[MQL9011/MRDLNA](https://github.com/MQL9011/MRDLNA)|纯OC实现的iOS DLNA 投屏功能, 支持各大主流电视盒子(小米,华为,乐视,移动魔百盒等), 可以播放,暂停,快进退,调音量,退出.|505|2022-02-25|
+|87|[04zhujunjie/ZJJTimeCountDown](https://github.com/04zhujunjie/ZJJTimeCountDown)|iOS倒计时 验证码倒计时 秒杀倒计时 支持cell中的多个倒计时 支持自定义 样式多 支持时间差设置|498|2021-11-04|
+|88|[adjust/ios_sdk](https://github.com/adjust/ios_sdk)|This is the iOS SDK of|498|2022-02-16|
+|89|[SilverFruity/OCRunner](https://github.com/SilverFruity/OCRunner)|Execute Objective-C code as script.  AST Interpreter. iOS hotfix SDK.  |474|2022-02-28|
+|90|[yangyangFeng/TTPatch](https://github.com/yangyangFeng/TTPatch)|热修复、热更新、JS代码动态下发、动态创建类|459|2022-03-04|
+|91|[lincf0912/LFMediaEditingController](https://github.com/lincf0912/LFMediaEditingController)|Media Editor (图片编辑、视频编辑)|458|2021-10-15|
+|92|[li6185377/IMYAOPTableView](https://github.com/li6185377/IMYAOPTableView)|无业务入侵，无逻辑入侵，外部察觉不到的 UITableView/UICollectionView AOP 框架|456|2022-01-25|
+|93|[ZFbaby/ZFSeatsSelection](https://github.com/ZFbaby/ZFSeatsSelection)|高仿猫眼电影选座（选票）模块（High imitation opal film seat selection (vote) module）|453|2021-12-09|
+|94|[zhengwenming/ScreenShotBack](https://github.com/zhengwenming/ScreenShotBack)|全屏返回，截图手势返回，景深效果，类似斗鱼、天天快报、腾讯新闻等APP的手势返回。|450|2021-12-29|
+|95|[PingPlusPlus/pingpp-ios](https://github.com/PingPlusPlus/pingpp-ios)|-|441|2021-12-27|
+|96|[pili-engineering/PLShortVideoKit](https://github.com/pili-engineering/PLShortVideoKit)|PLShortVideoKit 是七牛推出的一款适用于 iOS 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、视频剪辑、本地转码、视频上传在内的多种功能，支持高度定制以及二次开发。|426|2021-12-23|
+|97|[qiniu/objc-sdk](https://github.com/qiniu/objc-sdk)|Qiniu Resource (Cloud) Storage Objective-C SDK for Mac/iOS|426|2022-03-02|
+|98|[tbl00c/ZZFLEX](https://github.com/tbl00c/ZZFLEX)|一个完善的iOS敏捷开发框架，基于UIKit实现，包含常用控件的链式API拓展、一个数据驱动的列表框架、一个事件处理队列。|415|2022-03-05|
+|99|[aliyun/aliyun-oss-ios-sdk](https://github.com/aliyun/aliyun-oss-ios-sdk)|iOS SDK for aliyun object storage service|415|2022-02-14|
+|100|[zhengwenming/CountDown](https://github.com/zhengwenming/CountDown)|iOS倒计时，60s验证码倒计时，cell中倒计时，后台给的时间戳倒计时，全部适合。比如：离活动结束还有   0天 01: 14: 59|388|2021-12-29|
+|101|[donggelaile/HDCollectionView](https://github.com/donggelaile/HDCollectionView)|An efficient and flexible listView (data driven). Based on Flexbox, it supports floating, waterfall, decorative view, horizontal sliding, segmented layout, and various alignments. Support diff refresh ...|375|2022-03-03|
+|102|[sealtalk/sealtalk-ios](https://github.com/sealtalk/sealtalk-ios)|iOS App of SealTalk powered by RongCloud. 基于融云开发的 iOS 版即时通讯（IM）应用程序 - 嗨豹。|363|2021-10-09|
+|103|[BlinkID/blinkid-ios](https://github.com/BlinkID/blinkid-ios)|Everything you need to add AI-driven ID scanning into your native iOS app.|352|2022-02-10|
+|104|[mengxianliang/XLPageViewController](https://github.com/mengxianliang/XLPageViewController)|一个开放、高度可定制化的分页视图控制器|345|2022-01-18|
+|105|[ZFbaby/ZFVoteViewDemo](https://github.com/ZFbaby/ZFVoteViewDemo)|UITableView实现格瓦拉飞天投票效果|345|2021-12-09|
+|106|[LuKane/KNPhotoBrowser](https://github.com/LuKane/KNPhotoBrowser)|图片浏览器(本地和网络) ,视频浏览器 (本地和网络), 无耦合性,自定义控件,资源路径保存和获取,  完美适配 iPhone 以及 iPad ,屏幕旋转功能.|339|2022-03-08|
+|107|[boai/BANetManager](https://github.com/boai/BANetManager)|基于AFNetworking 3.0、3.1最新版本的封装，集成了 get / post / put / delete 方法请求数据，单图/多图上传，视频上传/下载，网络监测 等多种网络请求方式，|333|2021-10-27|
+|108|[FantasticLBP/Hotels](https://github.com/FantasticLBP/Hotels)|酒店预订App|332|2022-02-12|
+|109|[yuping1989/YPTabBarController](https://github.com/yuping1989/YPTabBarController)|功能强大，使用方便，可高度自定义的TabBarController。|330|2021-10-09|
+|110|[huangxuan518/HXTagsView](https://github.com/huangxuan518/HXTagsView)|HXTagsView是一款支持自动布局的标签tag 演示地址:https://appetize.io/app/f9a5kn2tnfe0kade2zy7g2mja|318|2021-09-10|
+|111|[bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS)|About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems|317|2022-02-14|
+|112|[SmileZXLee/ZXHookDetection](https://github.com/SmileZXLee/ZXHookDetection)|【iOS应用安全、安全攻防】hook及越狱的基本防护与检测(动态库注入检测、hook检测与防护、越狱检测、签名校验、IDA反编译分析加密协议Demo)；【数据传输安全】浅谈http、https与数据加密|313|2022-01-23|
+|113|[yangKJ/KJCategories](https://github.com/yangKJ/KJCategories)|Common categories for daily development. Such as  UIKit, Foundation, QuartzCore, Accelerate, OpenCV and more.|300|2022-02-08|
+|114|[jiaxiaogang/he4o](https://github.com/jiaxiaogang/he4o)|HE —— “信息熵减机系统”|299|2022-03-06|
+|115|[SmileZXLee/ZXNavigationBar](https://github.com/SmileZXLee/ZXNavigationBar)|灵活轻量的自定义导航栏，导航栏属于控制器view，支持导航栏联动，一行代码实现【导航栏背景图片设置、导航栏渐变、折叠、修改Item大小和边距、自定义导航栏高度、全屏手势返回、pop拦截、仿系统导航栏历史堆栈】等各种效果|286|2021-10-14|
+|116|[indulgeIn/YBTaskScheduler](https://github.com/indulgeIn/YBTaskScheduler)|iOS 任务调度器，为 CPU 和内存减负（用于性能优化）|282|2022-01-12|
+|117|[cqzhong/iPadReader](https://github.com/cqzhong/iPadReader)|iPad版本的阅读器|281|2021-12-10|
+|118|[puti94/react-native-puti-pay](https://github.com/puti94/react-native-puti-pay)|基于 React Native 的微信支付，支付宝支付插件|281|2021-09-14|
+|119|[Faceunity/FULiveDemo](https://github.com/Faceunity/FULiveDemo)|Faceunity 面部跟踪和虚拟道具 SDK 在 iOS 平台中的集成 Demo|269|2022-02-25|
+|120|[baozoudiudiu/CWCarousel](https://github.com/baozoudiudiu/CWCarousel)|轮播图banner|261|2021-10-28|
+|121|[QuintGao/GKNavigationBar](https://github.com/QuintGao/GKNavigationBar)|GKNavigationBarViewController的分类实现方式，耦合度底，使用更加便捷|259|2022-02-24|
+|122|[januslo/react-native-bluetooth-escpos-printer](https://github.com/januslo/react-native-bluetooth-escpos-printer)|React-Native plugin for the bluetooth ESC/POS & TSC printers.|247|2022-03-06|
+|123|[finogeeks/finclip-ios-demo](https://github.com/finogeeks/finclip-ios-demo)|FinClip 苹果运行环境，让小程序在苹果应用中无缝运行  / iOS DEMO for FinClip|242|2022-02-08|
+|124|[Tate-zwt/WTSDK](https://github.com/Tate-zwt/WTSDK)|开发项目积累的一些category、tools、自定义View，持续更新|239|2021-10-19|
+|125|[NodeMedia/NodeMediaClient-iOS](https://github.com/NodeMedia/NodeMediaClient-iOS)|NodeMedia RTMP/RTSP/HTTP Play/Publish Client SDK for iOS|239|2021-11-25|
+|126|[muzipiao/GMObjC](https://github.com/muzipiao/GMObjC)|SM2/SM3/SM4/ECDH library based on OpenSSL.|231|2021-12-02|
+|127|[mengxianliang/XLPlayButton](https://github.com/mengxianliang/XLPlayButton)|爱奇艺、优酷的播放/暂停按钮动画效果|230|2021-11-30|
+|128|[SmileZXLee/ZXRequestBlock](https://github.com/SmileZXLee/ZXRequestBlock)|基于NSURLProtocol一句话实现iOS应用底层所有网络请求拦截(含网页ajax请求拦截【不支持WKWebView】)、一句话实现防抓包(使Thor，Charles，Burp等代理抓包方式全部失效，且即使开启了代理，也不影响App内部的正常请求)。包含http-dns解决方法，有效防止DNS劫持。用于分析http，https请求等|222|2022-02-13|
+|129|[shixueqian/PrintBeautifulLog](https://github.com/shixueqian/PrintBeautifulLog)|将字典(NSDictionary)和数组(NSArray)打印的Log显示为Json格式。直接将分类拖入到工程即可使用。|217|2021-09-22|
+|130|[KonsomeJona/OctoMouse](https://github.com/KonsomeJona/OctoMouse)|OctoMouse is an open-source application for MAC OSX that measures your mouse and keyboard activities.|210|2021-12-08|
+|131|[Suzhibin/ZBNetworking](https://github.com/Suzhibin/ZBNetworking)| AFNetworking4.X封装  GET/POST /PUT/PATCH /DELETE / UPLOAD /DOWNLOAD 网络请求 添加了缓存机制,插件机制,断点下载,重复请求的处理,取消当前请求等功能|209|2022-01-18|
+|132|[nijino/CircularProgressView](https://github.com/nijino/CircularProgressView)|An audio circular progress view for iOS.You can customize its frame,background circle color & progress circle color,circle width as you wish. 一个iOS圆形进度条开源库，你可以定制它的大小、进度条背景色和前景色以及进度条的宽度。|206|2021-12-02|
+|133|[Zws-China/startMovie](https://github.com/Zws-China/startMovie)|启动视频  APP第一次启动播放视频欢迎  启动页|202|2021-10-08|
+|134|[paradiseduo/IPAPatch](https://github.com/paradiseduo/IPAPatch)|Patch iOS Apps, The Easy Way, Without Jailbreak.|199|2021-11-05|
+|135|[Jacke-xu/WYBasisKit](https://github.com/Jacke-xu/WYBasisKit)|"WYBasisKit" is a toolkit aimed at greatly improving efficiency.|193|2021-09-16|
+|136|[QuintGao/GKCover](https://github.com/QuintGao/GKCover)|GKCover-一行代码实现遮罩视图，让你的弹窗更easy|184|2021-12-31|
+|137|[maltsugar/CustomPopoverView](https://github.com/maltsugar/CustomPopoverView)|一款小巧灵活的自定义弹出视图, 可以做自定义AlertView、弹出窗口等等, A tiny and sweet custom popView (pop popup)|180|2021-11-30|
+|138|[umeng/React_Native_Compent](https://github.com/umeng/React_Native_Compent)|-|170|2022-02-10|
+|139|[fanyuecheng/Pica](https://github.com/fanyuecheng/Pica)|一个简约的哔咔漫画iOS App|166|2022-03-08|
+|140|[li6185377/DouQu_IOS](https://github.com/li6185377/DouQu_IOS)|Leancloud BaaS Demo，前后端全包|166|2022-01-12|
+|141|[deng690990/SF_GaoDeMAP](https://github.com/deng690990/SF_GaoDeMAP)|高德地图sdk的二次封装，有定位，绘制大头针，APP内部导航，语音导航，轨迹绘制，跑步轨迹回放(3D卫星地图版)，电子围栏，附近搜索并标记，要运行demo，请先pod install，有问题，请提交Issues。|163|2021-12-15|
+|142|[jinht/DocViewer](https://github.com/jinht/DocViewer)|文档/文件查看器（支持本地或者其他app分享过来的word、excel、pdf、rtf等格式文件）|163|2022-03-02|
+|143|[mengxianliang/XLImageViewer](https://github.com/mengxianliang/XLImageViewer)|iOS 仿照今日头条的图片浏览工具。|162|2021-09-08|
+|144|[zfdang/chinese-lunar-calendar-for-mac](https://github.com/zfdang/chinese-lunar-calendar-for-mac)|Chinese Lunar Calendar for Mac|159|2021-11-19|
+|145|[BuglyDevTeam/Bugly-iOS](https://github.com/BuglyDevTeam/Bugly-iOS)|Bugly iOS SDK|158|2021-12-02|
+|146|[changsanjiang/SJMediaCacheServer](https://github.com/changsanjiang/SJMediaCacheServer)|A HTTP Media Caching Framework. It can cache FILE or HLS media. 音视频边播边缓存框架, 支持 HLS(m3u8) 和 FILE(mp4, mp3等).|154|2022-01-13|
+|147|[Resory/RYCuteView](https://github.com/Resory/RYCuteView)|🍮 用UIBezierPath实现果冻效果|151|2021-09-17|
+|148|[react-native-studio/react-native-MJRefresh](https://github.com/react-native-studio/react-native-MJRefresh)|基于ios MJRefresh https://github.com/CoderMJLee/MJRefresh 开发的插件，可提供自定义的弹性刷新|146|2022-02-11|
+|149|[Soldoros/SSChat](https://github.com/Soldoros/SSChat)|社交网络|146|2021-10-04|
+|150|[GetuiLaboratory/react-native-getui](https://github.com/GetuiLaboratory/react-native-getui)|个推官方提供的推送SDK React Native 插件（支持 Android & iOS）|145|2022-02-13|
+|151|[CodeTips/ThunderPlugin-macOS](https://github.com/CodeTips/ThunderPlugin-macOS)|For macOS。Mac版 迅雷的反hook绕过~|144|2021-12-24|
+|152|[tencentyun/httpdns-ios-sdk](https://github.com/tencentyun/httpdns-ios-sdk)|智营防劫持SDK|142|2022-02-25|
+|153|[wsl2ls/UIActivityViewController](https://github.com/wsl2ls/UIActivityViewController)|仿简书分享--系统原生分享:利用UIActivityViewController实现系统原生分享，不需要三方SDK，支持自定义分享，可以分享到微博、微信、QQ、信息、邮件、备忘录、通讯录、剪贴板、FaceBook.....等等|141|2021-10-07|
+|154|[NervJS/taro-native-shell](https://github.com/NervJS/taro-native-shell)|Taro 原生 React Native 壳子|140|2022-03-02|
+|155|[wwmz/WMZTreeView](https://github.com/wwmz/WMZTreeView)|类似前端elementUI的树形控件,可自定义节点内容,支持无限极节点,可拖拽增删节点等等,非递归实现|138|2021-12-31|
+|156|[midoks/mdserver-mac](https://github.com/midoks/mdserver-mac)|mdserver (mac version, secondary development)|134|2021-12-16|
+|157|[Roen-Ro/RRViewControllerExtension](https://github.com/Roen-Ro/RRViewControllerExtension)| UINavigationBar appearance management, memory leak detection, convenient UIViewController property and methods|133|2021-12-28|
+|158|[GenerallyHelpfulSoftware/SVGgh](https://github.com/GenerallyHelpfulSoftware/SVGgh)|A framework for using SVG artwork in iOS Apps. Includes a UIView and a button class, printing and PDF export.|132|2021-10-05|
+|159|[li6185377/WaterDropRefresh](https://github.com/li6185377/WaterDropRefresh)|path waterdrop refresh effect 水滴刷新效果|131|2022-01-12|
+|160|[iotjin/JhForm](https://github.com/iotjin/JhForm)|JhForm - 自定义表单工具,更加简单,快捷的创建表单、设置页面|129|2021-12-10|
+|161|[xiaozi/awake-app](https://github.com/xiaozi/awake-app)|An app for mac osx to prevent sleeping; inspired by Caffeine.|126|2021-11-10|
+|162|[zhengwenming/ExpandTableView](https://github.com/zhengwenming/ExpandTableView)|可折叠展开的tableView，QQ好友分组列表。|125|2021-12-29|
+|163|[internetWei/LLDynamicLaunchScreen](https://github.com/internetWei/LLDynamicLaunchScreen)|自动修复iPhone启动图显示异常，1行代码动态修改启动图|123|2021-12-08|
+|164|[kingjiajie/JJCollectionViewRoundFlowLayout](https://github.com/kingjiajie/JJCollectionViewRoundFlowLayout)|JJCollectionViewRoundFlowLayout可设置CollectionView的BackgroundColor、Cell的对齐方式，可跟据用户Cell个数计算背景图尺寸，可自定义是否包括计算CollectionViewHeaderView、CollectionViewFootererView或只计算Cells。设置简单，可自定义背景颜色偏移，设置显示方向（竖向、横向）显示,不同S ...|123|2021-09-12|
+|165|[helloted/HTMonitor](https://github.com/helloted/HTMonitor)|监测内存泄漏，统计UI渲染，卡顿等情况|123|2021-12-16|
+|166|[uiwjs/react-native-alipay](https://github.com/uiwjs/react-native-alipay)|基于 React Native 的宝支付包，已更新到最新的支付宝 SDK 版本，支持Android/iOS。|122|2022-03-07|
+|167|[jiaxiaogang/HELIX_THEORY](https://github.com/jiaxiaogang/HELIX_THEORY)|theory of helix—— “熵减机理论（可用来构建信息熵减机、及自然演化熵减机系统等）”|122|2022-03-07|
+|168|[yangKJ/KJPlayerDemo](https://github.com/yangKJ/KJPlayerDemo)|Audio and video player, breakpoint resuming playback, record played time, free watching limit, etc. 🎷|121|2022-01-24|
+|169|[hydreamit/HyCycleView](https://github.com/hydreamit/HyCycleView)|多页面分页、循环、嵌套滑动悬停|121|2021-12-06|
+|170|[chanify/chanify-ios](https://github.com/chanify/chanify-ios)|Chanify is a safe and simple notification tools. This repository is iOS clinet for Chanify.|116|2021-10-13|
+|171|[muzipiao/LFPhoneInfo](https://github.com/muzipiao/LFPhoneInfo)|iOS 快速获取硬件信息。|115|2022-02-25|
+|172|[umeng/MultiFunctioniOSDemo](https://github.com/umeng/MultiFunctioniOSDemo)|友盟多功能iOS Demo|112|2021-09-26|
+|173|[Meiqia/MeiqiaSDK-iOS](https://github.com/Meiqia/MeiqiaSDK-iOS)|美洽 iOS SDK 3.7.9 面向开发者的 Demo。|111|2022-01-20|
+|174|[tianya2416/GKiOSApp](https://github.com/tianya2416/GKiOSApp)|项目，新闻、视频、壁纸。主要功能有：开机启动图、图片壁纸、新闻（仿头条新闻、搜索框）、视频、短视频、视频播放|106|2021-11-28|
+|175|[Maxwin-z/xsmth-newsmth](https://github.com/Maxwin-z/xsmth-newsmth)|水木社区第三方客户端|101|2022-02-27|
+|176|[brightcove/brightcove-player-sdk-ios](https://github.com/brightcove/brightcove-player-sdk-ios)|Brightcove Player SDK for iOS|101|2021-12-02|
+|177|[changsanjiang/SJBaseVideoPlayer](https://github.com/changsanjiang/SJBaseVideoPlayer)|video player. rotation, volume, brightness, rate, play, pause, stop, seekToTime, present.|99|2021-11-22|
+|178|[mengxianliang/XLCircleProgress](https://github.com/mengxianliang/XLCircleProgress)|iOS 圆环进度指示器 |99|2021-11-30|
+|179|[bestDew/ZKTreeTableView](https://github.com/bestDew/ZKTreeTableView)|A view of the tree structure.树状结构列表。|97|2022-02-09|
+|180|[Rain-dew/YLTextView](https://github.com/Rain-dew/YLTextView)|一行代码搞定textView占位符、字数限制、行数限制、自动计算高度— OC和Swift|97|2022-01-18|
+|181|[daipeihust/DPScrollNumberLabel](https://github.com/daipeihust/DPScrollNumberLabel)|🔥 A label extension for iOS📱, It display numbers and when you change the number it has a real logic animation.🌟|96|2021-12-26|
+|182|[CodeTips/WeChatPlugin-iOS](https://github.com/CodeTips/WeChatPlugin-iOS)|For iOS. 防封号处理、一键远程控制、实时后台推送、自动抢红包、消息防撤回等功能~|91|2021-12-24|
+|183|[Zws-China/CAAnimation](https://github.com/Zws-China/CAAnimation)|iOS动画演示，核心动画演示，CAAnimation动画|91|2021-09-24|
+|184|[WMSmile/WMLinkMapAnalyzer](https://github.com/WMSmile/WMLinkMapAnalyzer)|linkmap文件分析工具，分析每个类所占用的大小。|91|2022-01-11|
+|185|[liangdahong/AMLeaksFinder](https://github.com/liangdahong/AMLeaksFinder)|A small tool for automatically detecting the [controller, view memory leak] in the project.  一款用于自动检测项目中【控制器内存泄漏，View 内存泄漏】的小工具，支持 ObjC，Swift。|90|2021-10-25|
+|186|[jpush/jverify-flutter-plugin](https://github.com/jpush/jverify-flutter-plugin)|JPush's officially supported Flutter plugin (Android & iOS). 极光推送官方支持的 Flutter 插件（Android & iOS）。|89|2022-01-26|
+|187|[banchichen/TZImagePreviewController](https://github.com/banchichen/TZImagePreviewController)|对TZImagePickerController库的增强，支持用UIImage、NSURL预览照片和用NSURL预览视频。|89|2021-11-26|
+|188|[OpenIMSDK/Open-IM-SDK-iOS](https://github.com/OpenIMSDK/Open-IM-SDK-iOS)|OpenIM：由前微信技术专家打造的基于 Go 实现的即时通讯（IM）项目，iOS版本IM SDK 可以轻松替代第三方IM云服务，打造具备聊天、社交功能的app。|88|2022-03-08|
+|189|[HighwayLaw/HWThrottle](https://github.com/HighwayLaw/HWThrottle)|A lite Objective-C library for throttle and debounce, supporting leading and trailing. 节流/限流/防反跳/防重复点击/防重复调用|88|2021-11-18|
+|190|[lionvoom/WeAppTongCeng](https://github.com/lionvoom/WeAppTongCeng)|小程序同层渲染|85|2021-10-29|
+|191|[KeenTeam1990/HXWeiboPhotoPicker](https://github.com/KeenTeam1990/HXWeiboPhotoPicker)|🏂HXWeiboPhotoPicker-高仿微博照片选择，使用的是PhotoKit框架来获取系统相册以及照片/视频，支持查看/选择GIF图片 ， 照片、视频可同时多选/原图 ， 3DTouch预览照片 ， 长按拖动改变顺序 ， 自定义相机拍照/录制视频 ， 自定义转场动画 ， 查看/选择LivePhoto IOS9.1以上才有用 ， 支持浏览网络图片 ， 支持自定义裁剪图片， 支持传入本地图片，支 ...|85|2021-11-11|
+|192|[qinqi777/QQCorner](https://github.com/qinqi777/QQCorner)|给 UIView 或 UIImage 高性能添加(之后可以修改)圆角，生成渐变色图片等|84|2022-01-18|
+|193|[BAHome/BAGridView](https://github.com/BAHome/BAGridView)|支付宝首页 九宫格 布局封装，可以自定义多种样式，自定义角标、分割线显示/隐藏、颜色等功能应有尽有！|84|2022-03-07|
+|194|[du1992/DProgram_ios](https://github.com/du1992/DProgram_ios)|做的一款小项目-编程宝典iOS版|84|2021-10-08|
+|195|[aliyunvideo/AliPlayerSDK](https://github.com/aliyunvideo/AliPlayerSDK)|AliyunPlayer SDK 4.x version|83|2022-02-22|
+|196|[rongcloud/callkit-ios](https://github.com/rongcloud/callkit-ios)|Open-source code of RongCloud VoIP Audio/Video UI. 融云音视频通话功能 UI 界面 SDK 开源代码。|83|2022-03-02|
+|197|[tencentyun/UGSVSDK](https://github.com/tencentyun/UGSVSDK)|短视频 SDK，国内下载镜像：|81|2022-03-04|
+|198|[MinMao-Hub/MMScan](https://github.com/MinMao-Hub/MMScan)|QRCode and barcode scanning tool【轻量级的二维码以及条码扫描-> 使用iOS自带API开发】|78|2021-10-29|
+|199|[l1Dan/NXNavigationExtension](https://github.com/l1Dan/NXNavigationExtension)|🔥 NXNavigationExtension 是为 iOS 应用设计的一个轻量级的导航栏处理框架，同时支持 SwiftUI 和 UIKit。|77|2022-01-17|
+|200|[Rogue24/JPSuspensionEntrance](https://github.com/Rogue24/JPSuspensionEntrance)|高仿微信初版的网页悬浮小窗口的小框架|76|2022-01-08|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

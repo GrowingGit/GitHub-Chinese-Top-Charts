@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > TeX
-<sub>数据更新: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -121,43 +121,41 @@
 |114|[doubleZ0108/pkuthss-mac](https://github.com/doubleZ0108/pkuthss-mac)|北京大学学位论文Latex模板(for Mac)，基于pkuthss v1.9.1修改，主要进行Mac的适配修改、个人最佳实践说明、配置踩坑经验|7|2021-12-18|
 |115|[AlphaZTX/phyasgn](https://github.com/AlphaZTX/phyasgn)|北京大学物理学院课程作业模板|7|2021-11-30|
 |116|[Monoceros393/AHUThesis](https://github.com/Monoceros393/AHUThesis)|安徽大学硕士学位论文LaTeX模板|7|2022-02-23|
-|117|[SUSTech-CRA/latex-talk](https://github.com/SUSTech-CRA/latex-talk)|南方科技大学图书馆LaTeX培训讲座，⬇️是讨论区|7|2021-09-07|
-|118|[cucJ2014/CUC_Template-of-thesis_Latex](https://github.com/cucJ2014/CUC_Template-of-thesis_Latex)|中国传媒大学论文模板Latex|7|2021-11-09|
-|119|[PTYin/ml-basics](https://github.com/PTYin/ml-basics)|山东大学计算机学院机器学习课程笔记|6|2022-01-18|
-|120|[boudinfl/acm-cr](https://github.com/boudinfl/acm-cr)|ACM-CR: A Manually Annotated Test Collection for Citation Recommendation|6|2021-10-15|
-|121|[kevinleeex/scu_thesis_template](https://github.com/kevinleeex/scu_thesis_template)|四川大学2020研究生学业论文LaTex模版样式文件|6|2022-03-03|
-|122|[GasinAn/AstrophyIntroNotes](https://github.com/GasinAn/AstrophyIntroNotes)|天体物理导论笔记|5|2021-12-27|
-|123|[arisukawa/SDU-Latex-Template-for-dissertations](https://github.com/arisukawa/SDU-Latex-Template-for-dissertations)|适用于山东大学硕博论文写作规范的Latex模板，根据北大模板pkuthss改编。|5|2021-09-07|
-|124|[circlelq/PKU_COE_Thss](https://github.com/circlelq/PKU_COE_Thss)|北京大学工学院本科毕业论文参考模版|5|2021-11-26|
-|125|[UnnamedOrange/Advanced-Algebra](https://github.com/UnnamedOrange/Advanced-Algebra)|《高等代数》学习笔记|5|2021-10-10|
-|126|[EdwardSaidZhou/NJU-thesis-esz](https://github.com/EdwardSaidZhou/NJU-thesis-esz)|南京大学研究生学位论文模板（自己修改）|5|2021-10-09|
-|127|[andy123t/shnuthesis](https://github.com/andy123t/shnuthesis)|上海师范大学研究生毕业论文 LaTeX 模板 LaTeX Thesis Template for SHNU|5|2022-01-27|
-|128|[shaodongtang/calculus-note](https://github.com/shaodongtang/calculus-note)|微积分笔记—简单题和野鸡题|5|2021-10-01|
-|129|[hyangq/HyNote](https://github.com/hyangq/HyNote)|HyNote 个人笔记|5|2021-11-05|
-|130|[xkwxdyy/CCNUthesis](https://github.com/xkwxdyy/CCNUthesis)|（非官方）华中师范大学理科毕业论文（设计）模版|4|2022-03-07|
-|131|[inyscc/MathFormula](https://github.com/inyscc/MathFormula)|考研数学公式简单集合|4|2021-10-04|
-|132|[HuangCongQing/LaTeX](https://github.com/HuangCongQing/LaTeX)|LaTeX学习记录|4|2021-10-27|
-|133|[zhong-yy/CSU_Thesis_Proposal](https://github.com/zhong-yy/CSU_Thesis_Proposal)|中南大学研究生学位论文开题报告LaTeX模板|4|2021-11-19|
-|134|[Nat-Sci/NWU-dissertation-template](https://github.com/Nat-Sci/NWU-dissertation-template)|西北大学 学位论文 latex 模板|3|2022-01-06|
-|135|[bearcatat/SZUThesis](https://github.com/bearcatat/SZUThesis)|深圳大学研究生毕业论文latex模板（不全，格式不对不负责哈哈哈哈|3|2022-01-09|
-|136|[ColaForced/ControlTheoryNote](https://github.com/ColaForced/ControlTheoryNote)|控制相关学习笔记|3|2021-10-04|
-|137|[summitgao/OUC-LaTex-master](https://github.com/summitgao/OUC-LaTex-master)|中国海洋大学硕士博士学位论文 LaTeX 模板（Overleaf版）|3|2022-02-21|
-|138|[sjtug/sjtulib-latex-talk](https://github.com/sjtug/sjtulib-latex-talk)|上海交通大学图书馆专题培训讲座 《如何使用 LaTeX 排版论文》|3|2022-03-07|
-|139|[BenderBlog/Subtitles](https://github.com/BenderBlog/Subtitles)|我翻译的字幕|3|2022-02-10|
-|140|[BadGuy-wang/JUST-master-student-thesis-template](https://github.com/BadGuy-wang/JUST-master-student-thesis-template)|江西理工大学硕士研究生开题报告与毕业论文LaTex模版|3|2022-02-13|
-|141|[andy123t/Thesis-Slides](https://github.com/andy123t/Thesis-Slides)|毕业论文开题报告与答辩幻灯片模板|3|2022-01-08|
-|142|[BasinChen/USTL-Undergraduate-Thesis](https://github.com/BasinChen/USTL-Undergraduate-Thesis)|辽宁科技大学本科生毕业论文LaTeX模板|3|2022-02-23|
-|143|[yufree/hjhbb](https://github.com/yufree/hjhbb)|公众号 环境黑板报 的文章存档|3|2022-03-01|
-|144|[ops-itop/itop-book](https://github.com/ops-itop/itop-book)|iTop CMDB 文档翻译及实施杂记|3|2021-10-11|
-|145|[breezedeus/Learning-Notes](https://github.com/breezedeus/Learning-Notes)|各种学习笔记|3|2022-01-01|
-|146|[skyleaworlder/WeiXinCase](https://github.com/skyleaworlder/WeiXinCase)|:closed_book: [短中篇虚构小说] 惟心馆血案。二十一世纪二十年代，黄渡大学济心学堂部分学生学习生活状况综述。|2|2022-02-03|
-|147|[Reanon/SEUThesisLatexTemplate](https://github.com/Reanon/SEUThesisLatexTemplate)|东南大学 硕士毕业论文 Latex 模版 网络空间安全学院|2|2022-01-10|
-|148|[LLLgoyour/Math_Olympiad_moyuNotes](https://github.com/LLLgoyour/Math_Olympiad_moyuNotes)|用来摸鱼的数竞笔记|2|2021-10-31|
-|149|[loaden/linux-notes](https://github.com/loaden/linux-notes)|Linux技术笔记：拥抱开源，专注 Linux 技术分享与交流，共同解决 Linux 系统办公娱乐遇到的各种问题。欢迎加群19346666、111601117交流维护。|2|2021-11-01|
-|150|[bxrjmfh/Learn_latex_tabular](https://github.com/bxrjmfh/Learn_latex_tabular)|学习latex表格的排版|2|2021-10-08|
-|151|[ChimesZ/THU-PUMC-Courses-Project](https://github.com/ChimesZ/THU-PUMC-Courses-Project)|收集协和预科相关资料。|2|2021-09-08|
-|152|[MonteCarloClub/PaperNote](https://github.com/MonteCarloClub/PaperNote)|“大家一边要参加应用项目开发，同时也要加强基础理论学习。请大家一定要抓紧时间”|2|2021-11-19|
-|153|[applekajela/new-world-of-jelin](https://github.com/applekajela/new-world-of-jelin)|原名《叶林的平行世界》|2|2021-11-24|
+|117|[cucJ2014/CUC_Template-of-thesis_Latex](https://github.com/cucJ2014/CUC_Template-of-thesis_Latex)|中国传媒大学论文模板Latex|7|2021-11-09|
+|118|[PTYin/ml-basics](https://github.com/PTYin/ml-basics)|山东大学计算机学院机器学习课程笔记|6|2022-01-18|
+|119|[boudinfl/acm-cr](https://github.com/boudinfl/acm-cr)|ACM-CR: A Manually Annotated Test Collection for Citation Recommendation|6|2021-10-15|
+|120|[kevinleeex/scu_thesis_template](https://github.com/kevinleeex/scu_thesis_template)|四川大学2020研究生学业论文LaTex模版样式文件|6|2022-03-03|
+|121|[GasinAn/AstrophyIntroNotes](https://github.com/GasinAn/AstrophyIntroNotes)|天体物理导论笔记|5|2021-12-27|
+|122|[circlelq/PKU_COE_Thss](https://github.com/circlelq/PKU_COE_Thss)|北京大学工学院本科毕业论文参考模版|5|2021-11-26|
+|123|[UnnamedOrange/Advanced-Algebra](https://github.com/UnnamedOrange/Advanced-Algebra)|《高等代数》学习笔记|5|2021-10-10|
+|124|[EdwardSaidZhou/NJU-thesis-esz](https://github.com/EdwardSaidZhou/NJU-thesis-esz)|南京大学研究生学位论文模板（自己修改）|5|2021-10-09|
+|125|[andy123t/shnuthesis](https://github.com/andy123t/shnuthesis)|上海师范大学研究生毕业论文 LaTeX 模板 LaTeX Thesis Template for SHNU|5|2022-01-27|
+|126|[shaodongtang/calculus-note](https://github.com/shaodongtang/calculus-note)|微积分笔记—简单题和野鸡题|5|2021-10-01|
+|127|[hyangq/HyNote](https://github.com/hyangq/HyNote)|HyNote 个人笔记|5|2021-11-05|
+|128|[xkwxdyy/CCNUthesis](https://github.com/xkwxdyy/CCNUthesis)|（非官方）华中师范大学理科毕业论文（设计）模版|4|2022-03-07|
+|129|[inyscc/MathFormula](https://github.com/inyscc/MathFormula)|考研数学公式简单集合|4|2021-10-04|
+|130|[HuangCongQing/LaTeX](https://github.com/HuangCongQing/LaTeX)|LaTeX学习记录|4|2021-10-27|
+|131|[zhong-yy/CSU_Thesis_Proposal](https://github.com/zhong-yy/CSU_Thesis_Proposal)|中南大学研究生学位论文开题报告LaTeX模板|4|2021-11-19|
+|132|[Nat-Sci/NWU-dissertation-template](https://github.com/Nat-Sci/NWU-dissertation-template)|西北大学 学位论文 latex 模板|3|2022-01-06|
+|133|[bearcatat/SZUThesis](https://github.com/bearcatat/SZUThesis)|深圳大学研究生毕业论文latex模板（不全，格式不对不负责哈哈哈哈|3|2022-01-09|
+|134|[ColaForced/ControlTheoryNote](https://github.com/ColaForced/ControlTheoryNote)|控制相关学习笔记|3|2021-10-04|
+|135|[summitgao/OUC-LaTex-master](https://github.com/summitgao/OUC-LaTex-master)|中国海洋大学硕士博士学位论文 LaTeX 模板（Overleaf版）|3|2022-02-21|
+|136|[sjtug/sjtulib-latex-talk](https://github.com/sjtug/sjtulib-latex-talk)|上海交通大学图书馆专题培训讲座 《如何使用 LaTeX 排版论文》|3|2022-03-07|
+|137|[BenderBlog/Subtitles](https://github.com/BenderBlog/Subtitles)|我翻译的字幕|3|2022-02-10|
+|138|[BadGuy-wang/JUST-master-student-thesis-template](https://github.com/BadGuy-wang/JUST-master-student-thesis-template)|江西理工大学硕士研究生开题报告与毕业论文LaTex模版|3|2022-02-13|
+|139|[andy123t/Thesis-Slides](https://github.com/andy123t/Thesis-Slides)|毕业论文开题报告与答辩幻灯片模板|3|2022-01-08|
+|140|[BasinChen/USTL-Undergraduate-Thesis](https://github.com/BasinChen/USTL-Undergraduate-Thesis)|辽宁科技大学本科生毕业论文LaTeX模板|3|2022-02-23|
+|141|[yufree/hjhbb](https://github.com/yufree/hjhbb)|公众号 环境黑板报 的文章存档|3|2022-03-01|
+|142|[ops-itop/itop-book](https://github.com/ops-itop/itop-book)|iTop CMDB 文档翻译及实施杂记|3|2021-10-11|
+|143|[breezedeus/Learning-Notes](https://github.com/breezedeus/Learning-Notes)|各种学习笔记|3|2022-01-01|
+|144|[skyleaworlder/WeiXinCase](https://github.com/skyleaworlder/WeiXinCase)|:closed_book: [短中篇虚构小说] 惟心馆血案。二十一世纪二十年代，黄渡大学济心学堂部分学生学习生活状况综述。|2|2022-02-03|
+|145|[Reanon/SEUThesisLatexTemplate](https://github.com/Reanon/SEUThesisLatexTemplate)|东南大学 硕士毕业论文 Latex 模版 网络空间安全学院|2|2022-01-10|
+|146|[LLLgoyour/Math_Olympiad_moyuNotes](https://github.com/LLLgoyour/Math_Olympiad_moyuNotes)|用来摸鱼的数竞笔记|2|2021-10-31|
+|147|[loaden/linux-notes](https://github.com/loaden/linux-notes)|Linux技术笔记：拥抱开源，专注 Linux 技术分享与交流，共同解决 Linux 系统办公娱乐遇到的各种问题。欢迎加群19346666、111601117交流维护。|2|2021-11-01|
+|148|[bxrjmfh/Learn_latex_tabular](https://github.com/bxrjmfh/Learn_latex_tabular)|学习latex表格的排版|2|2021-10-08|
+|149|[ChimesZ/THU-PUMC-Courses-Project](https://github.com/ChimesZ/THU-PUMC-Courses-Project)|收集协和预科相关资料。|2|2021-09-08|
+|150|[MonteCarloClub/PaperNote](https://github.com/MonteCarloClub/PaperNote)|“大家一边要参加应用项目开发，同时也要加强基础理论学习。请大家一定要抓紧时间”|2|2021-11-19|
+|151|[applekajela/new-world-of-jelin](https://github.com/applekajela/new-world-of-jelin)|原名《叶林的平行世界》|2|2021-11-24|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

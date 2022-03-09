@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Kotlin
-<sub>数据更新: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -9,28 +9,28 @@
 |2|[mamoe/mirai](https://github.com/mamoe/mirai)|高效率 QQ 机器人支持库|8758|9|2022-03-08|
 |3|[coil-kt/coil](https://github.com/coil-kt/coil)|Image loading for Android backed by Kotlin Coroutines.|7826|8|2022-03-07|
 |4|[gedoor/legado](https://github.com/gedoor/legado)|阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|7063|7|2022-03-08|
-|5|[xiaojinzi123/TallyApp](https://github.com/xiaojinzi123/TallyApp)|一个 Android 的记账 App, 完全的 Compose + Kotlin + 响应式编程 + Room 数据库|56|7|2022-03-07|
+|5|[xiaojinzi123/TallyApp](https://github.com/xiaojinzi123/TallyApp)|一个 Android 的记账 App, 完全的 Compose + Kotlin + 响应式编程 + Room 数据库|56|6|2022-03-07|
 |6|[didi/booster](https://github.com/didi/booster)|🚀Optimizer for mobile applications|3897|4|2022-03-06|
 |7|[yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming)|哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.|3185|4|2022-03-06|
 |8|[guolindev/PermissionX](https://github.com/guolindev/PermissionX)|An open source Android library that makes handling runtime permissions extremely easy.|2322|3|2021-12-24|
 |9|[liujingxing/rxhttp](https://github.com/liujingxing/rxhttp)| 🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.|3223|3|2022-03-03|
-|10|[LittleTurtle2333/SimplicityTools](https://github.com/LittleTurtle2333/SimplicityTools)|基于 MIUI13(Android 12) 适配的自定义工具|61|3|2022-03-08|
-|11|[mockk/mockk](https://github.com/mockk/mockk)|mocking library for Kotlin|4340|3|2022-03-02|
-|12|[trycatchx/RocketXPlugin](https://github.com/trycatchx/RocketXPlugin)|🔥🔥 android 端编译加速插件🚀 自动识别未改动 module 并在编译流程中替换为 aar ，只编译改动模块，加速 Android apk 的编译速度。|408|3|2022-03-07|
-|13|[FreddyChen/Silhouette](https://github.com/FreddyChen/Silhouette)|封装的Android常用控件，比如：SleTextButton、SleImageButton、SleConstraintLayout、SleFrameLayout、SleLinearLayout、SleRelativeLayout等。使控件具备Shape、Selector等功能，省去编写shape或selector文件的繁琐步骤。另外支持N种颜色渐变，弥补原生shape文件只支持三种颜色（star ...|95|3|2022-02-24|
-|14|[hegaojian/JetpackMvvm](https://github.com/hegaojian/JetpackMvvm)|:chicken::basketball:一个Jetpack结合MVVM的快速开发框架，基于MVVM模式集成谷歌官方推荐的JetPack组件库：LiveData、ViewModel、Lifecycle、Navigation组件 使用Kotlin语言，添加大量拓展函数，简化代码 加入Retrofit网络请求,协程，帮你简化各种操作，让你快速开发项目|2023|3|2022-01-13|
-|15|[allenymt/PrivacySentry](https://github.com/allenymt/PrivacySentry)|Android隐私合规检测，注解+Asm修改字节码的检测方案|292|3|2022-03-04|
-|16|[running-libo/Tiktok](https://github.com/running-libo/Tiktok)|高仿抖音APP|1785|3|2022-01-19|
-|17|[huannan/XArch](https://github.com/huannan/XArch)|🔥🔥🔥Android架构最佳实践 - 手把手带你搭建一个优秀的Android项目架构|429|2|2021-12-28|
-|18|[Block-Network/StatusBarLyric](https://github.com/Block-Network/StatusBarLyric)|[Xposed] Status Bar Lyric / 状态栏歌词|177|2|2022-03-07|
-|19|[idisfkj/android-startup](https://github.com/idisfkj/android-startup)|🔥The Android Startup library provides a straightforward, performant way to initialize components at the application startup. Both library developers and app developers can use Android Startup to strea ...|1019|2|2022-02-09|
-|20|[devzwy/open_nsfw_android](https://github.com/devzwy/open_nsfw_android)|🔥🔥🔥色情图片离线识别，基于TensorFlow实现。识别只需20ms,可断网测试，成功率99%，调用只要一行代码，从雅虎的开源项目open_nsfw移植，该模型文件可用于iOS、java、C++等平台|1618|2|2022-01-05|
-|21|[miaowmiaow/fragmject](https://github.com/miaowmiaow/fragmject)|一个入门级的项目，通过对Kotlin和Jetpack全家桶的系统运用，实现的一个功能完备符合主流市场标准App。 代码简单，内容全面，知识详细，快速上手，对理解其他项目设计思想和封装技巧也很有帮助。|542|2|2022-03-03|
-|22|[princekin-f/EasyFloat](https://github.com/princekin-f/EasyFloat)|🔥 EasyFloat：浮窗从未如此简单（Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）|2350|2|2021-12-01|
-|23|[ssseasonnn/RxDownload](https://github.com/ssseasonnn/RxDownload)|A multi-threaded download tool written with RxJava and Kotlin|4045|2|2021-10-28|
-|24|[Szaki/XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)|A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot|2981|2|2021-12-27|
-|25|[KwaiAppTeam/AkDanmaku](https://github.com/KwaiAppTeam/AkDanmaku)|一款利用游戏引擎理念打造的原生弹幕库|306|2|2021-12-30|
-|26|[shaokeyibb/ChsiStatusOnlineVerification4J](https://github.com/shaokeyibb/ChsiStatusOnlineVerification4J)|学信网学籍/学历在线验证报告查询 API|11|2|2022-03-03|
+|10|[mockk/mockk](https://github.com/mockk/mockk)|mocking library for Kotlin|4340|3|2022-03-02|
+|11|[trycatchx/RocketXPlugin](https://github.com/trycatchx/RocketXPlugin)|🔥🔥 android 端编译加速插件🚀 自动识别未改动 module 并在编译流程中替换为 aar ，只编译改动模块，加速 Android apk 的编译速度。|408|3|2022-03-07|
+|12|[FreddyChen/Silhouette](https://github.com/FreddyChen/Silhouette)|封装的Android常用控件，比如：SleTextButton、SleImageButton、SleConstraintLayout、SleFrameLayout、SleLinearLayout、SleRelativeLayout等。使控件具备Shape、Selector等功能，省去编写shape或selector文件的繁琐步骤。另外支持N种颜色渐变，弥补原生shape文件只支持三种颜色（star ...|95|3|2022-02-24|
+|13|[allenymt/PrivacySentry](https://github.com/allenymt/PrivacySentry)|Android隐私合规检测，注解+Asm修改字节码的检测方案|292|3|2022-03-04|
+|14|[running-libo/Tiktok](https://github.com/running-libo/Tiktok)|高仿抖音APP|1785|3|2022-01-19|
+|15|[huannan/XArch](https://github.com/huannan/XArch)|🔥🔥🔥Android架构最佳实践 - 手把手带你搭建一个优秀的Android项目架构|429|2|2021-12-28|
+|16|[Block-Network/StatusBarLyric](https://github.com/Block-Network/StatusBarLyric)|[Xposed] Status Bar Lyric / 状态栏歌词|177|2|2022-03-07|
+|17|[LittleTurtle2333/SimplicityTools](https://github.com/LittleTurtle2333/SimplicityTools)|基于 MIUI13(Android 12) 适配的自定义工具|61|2|2022-03-08|
+|18|[idisfkj/android-startup](https://github.com/idisfkj/android-startup)|🔥The Android Startup library provides a straightforward, performant way to initialize components at the application startup. Both library developers and app developers can use Android Startup to strea ...|1019|2|2022-02-09|
+|19|[devzwy/open_nsfw_android](https://github.com/devzwy/open_nsfw_android)|🔥🔥🔥色情图片离线识别，基于TensorFlow实现。识别只需20ms,可断网测试，成功率99%，调用只要一行代码，从雅虎的开源项目open_nsfw移植，该模型文件可用于iOS、java、C++等平台|1618|2|2022-01-05|
+|20|[miaowmiaow/fragmject](https://github.com/miaowmiaow/fragmject)|一个入门级的项目，通过对Kotlin和Jetpack全家桶的系统运用，实现的一个功能完备符合主流市场标准App。 代码简单，内容全面，知识详细，快速上手，对理解其他项目设计思想和封装技巧也很有帮助。|542|2|2022-03-03|
+|21|[princekin-f/EasyFloat](https://github.com/princekin-f/EasyFloat)|🔥 EasyFloat：浮窗从未如此简单（Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）|2350|2|2021-12-01|
+|22|[ssseasonnn/RxDownload](https://github.com/ssseasonnn/RxDownload)|A multi-threaded download tool written with RxJava and Kotlin|4045|2|2021-10-28|
+|23|[Szaki/XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)|A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot|2981|2|2021-12-27|
+|24|[KwaiAppTeam/AkDanmaku](https://github.com/KwaiAppTeam/AkDanmaku)|一款利用游戏引擎理念打造的原生弹幕库|306|2|2021-12-30|
+|25|[shaokeyibb/ChsiStatusOnlineVerification4J](https://github.com/shaokeyibb/ChsiStatusOnlineVerification4J)|学信网学籍/学历在线验证报告查询 API|11|2|2022-03-03|
+|26|[hegaojian/JetpackMvvm](https://github.com/hegaojian/JetpackMvvm)|:chicken::basketball:一个Jetpack结合MVVM的快速开发框架，基于MVVM模式集成谷歌官方推荐的JetPack组件库：LiveData、ViewModel、Lifecycle、Navigation组件 使用Kotlin语言，添加大量拓展函数，简化代码 加入Retrofit网络请求,协程，帮你简化各种操作，让你快速开发项目|2023|2|2022-01-13|
 |27|[wuseal/JsonToKotlinClass](https://github.com/wuseal/JsonToKotlinClass)|🚀 Plugin for Android Studio And IntelliJ Idea to generate Kotlin data class code from JSON text ( Json to Kotlin )|2517|2|2021-11-01|
 |28|[VIPyinzhiwei/Eyepetizer](https://github.com/VIPyinzhiwei/Eyepetizer)|🔥基于 Kotlin 语言仿写「开眼 Eyepetizer」的一个短视频 Android 客户端项目，采用 Jetpack + 协程实现的 MVVM 架构。|1416|2|2022-02-12|
 |29|[Tencent/bk-ci](https://github.com/Tencent/bk-ci)|蓝鲸CI平台(BlueKing CI) |1829|2|2022-03-08|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > CSS
-<sub>数据更新: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -131,8 +131,7 @@
 |124|[feikaixin/blog](https://github.com/feikaixin/blog)|个人博客，把个人的学习收获放到这个网站上|5|2021-12-09|
 |125|[vivatoviva/Genluo](https://github.com/vivatoviva/Genluo)|个人站点建设，会将学习的优化技术都用到这个网站上|5|2021-12-09|
 |126|[kelby/rails-beginner-s-guide](https://github.com/kelby/rails-beginner-s-guide)|Rails 6 开发进阶|5|2021-11-12|
-|127|[haozhengeng/-Django-](https://github.com/haozhengeng/-Django-)|阅读该项目得具备Python，数据库， 数据结构，前端的知识|5|2021-09-07|
-|128|[DLonng/dlonng.github.io](https://github.com/DLonng/dlonng.github.io)|个人博客|5|2021-09-27|
+|127|[DLonng/dlonng.github.io](https://github.com/DLonng/dlonng.github.io)|个人博客|5|2021-09-27|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

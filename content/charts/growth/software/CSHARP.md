@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > C#
-<sub>数据更新: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[JDArmy/SharpXDecrypt](https://github.com/JDArmy/SharpXDecrypt)|Xshell全版本密码恢复工具|365|26|2022-03-02|
+|1|[JDArmy/SharpXDecrypt](https://github.com/JDArmy/SharpXDecrypt)|Xshell全版本密码恢复工具|365|24|2022-03-02|
 |2|[dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub)|github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题|4784|18|2022-03-01|
 |3|[jynew/jynew](https://github.com/jynew/jynew)|金庸群侠传3D重制版|4329|14|2022-03-08|
 |4|[Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp)|适用于新系统UI的哔哩|3968|14|2022-03-06|
 |5|[huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)|:trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）|13671|14|2022-01-22|
-|6|[BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)|🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。|5618|13|2022-03-08|
-|7|[Ryze-T/CNVD-2022-10270-LPE](https://github.com/Ryze-T/CNVD-2022-10270-LPE)|基于向日葵RCE的本地权限提升，无需指定端口|152|12|2022-02-24|
+|6|[BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)|🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。|5618|12|2022-03-08|
+|7|[Ryze-T/CNVD-2022-10270-LPE](https://github.com/Ryze-T/CNVD-2022-10270-LPE)|基于向日葵RCE的本地权限提升，无需指定端口|152|11|2022-02-24|
 |8|[leiurayer/downkyi](https://github.com/leiurayer/downkyi)|哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持4K，支持解除地区限制下载，提供工具箱（音视频提取、去水印等）。|3933|9|2022-03-06|
 |9|[BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)|🖱️ 纯粹的Windows右键菜单管理程序|4186|8|2022-01-10|
-|10|[JasonStein/Pal3.Unity](https://github.com/JasonStein/Pal3.Unity)|PAL3(仙剑奇侠传三) & PAL3a(仙剑奇侠传三外传) reimplementation using C#/Unity|59|7|2022-03-08|
-|11|[nilaoda/N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI)|[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.|7510|7|2021-12-13|
-|12|[Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer)|An Android Application Installer for Windows|765|6|2022-03-08|
-|13|[JasonStein/Notepads](https://github.com/JasonStein/Notepads)|A modern, lightweight text editor with a minimalist design.|5866|6|2022-03-07|
-|14|[ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor)|🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.|4082|5|2022-03-08|
-|15|[felixse/FluentTerminal](https://github.com/felixse/FluentTerminal)|A Terminal Emulator based on UWP and web technologies.|8209|5|2022-02-12|
+|10|[nilaoda/N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI)|[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.|7510|7|2021-12-13|
+|11|[JasonStein/Pal3.Unity](https://github.com/JasonStein/Pal3.Unity)|PAL3(仙剑奇侠传三) & PAL3a(仙剑奇侠传三外传) reimplementation using C#/Unity|59|6|2022-03-08|
+|12|[JasonStein/Notepads](https://github.com/JasonStein/Notepads)|A modern, lightweight text editor with a minimalist design.|5866|6|2022-03-07|
+|13|[ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor)|🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.|4082|5|2022-03-08|
+|14|[felixse/FluentTerminal](https://github.com/felixse/FluentTerminal)|A Terminal Emulator based on UWP and web technologies.|8209|5|2022-02-12|
+|15|[Paving-Base/APK-Installer](https://github.com/Paving-Base/APK-Installer)|An Android Application Installer for Windows|765|5|2022-03-08|
 |16|[nilaoda/BBDown](https://github.com/nilaoda/BBDown)|Bilibili Downloader. 一款命令行式哔哩哔哩下载器.|2572|4|2022-03-08|
 |17|[mister91jiao/BundleMaster](https://github.com/mister91jiao/BundleMaster)|Unity资源加载大师|87|4|2022-03-06|
 |18|[k8gege/Ladon](https://github.com/k8gege/Ladon)|大型内网渗透扫描器&Cobalt Strike，Ladon8.9内置120个模块，包含信息收集/存活主机/端口扫描/服务识别/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010/SMBGhost/Weblogic/ActiveMQ/Tomcat/Struts2，密码口令爆破(Mysql/Oracle/MSSQL)/FTP/SSH(Linux)/VNC/Windows(IPC/WMI/SMB/N ...|3016|4|2022-03-02|

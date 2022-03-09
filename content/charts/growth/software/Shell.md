@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Shell
-<sub>数据更新: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[imfiver/CVE-2022-0847](https://github.com/imfiver/CVE-2022-0847)|CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此 ...|48|24|2022-03-07|
+|1|[imfiver/CVE-2022-0847](https://github.com/imfiver/CVE-2022-0847)|CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此 ...|48|16|2022-03-07|
 |2|[Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust)|Rust explained using easy English|6496|11|2022-02-15|
 |3|[acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)|A pure Unix shell script implementing ACME client protocol|25631|11|2022-03-07|
-|4|[csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China)|介绍中国各二线以上城市的互联网环境以及生活成本|1963|9|2022-03-03|
+|4|[csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China)|介绍中国各二线以上城市的互联网环境以及生活成本|1963|8|2022-03-03|
 |5|[EtherDream/jsproxy](https://github.com/EtherDream/jsproxy)|An online proxy based on ServiceWorker|8635|8|2021-12-24|
 |6|[Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin)|基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜|2039|7|2022-01-21|
 |7|[quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)|Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.|4434|6|2022-03-07|
@@ -163,48 +163,48 @@
 |156|[travislee8964/ocserv-auto](https://github.com/travislee8964/ocserv-auto)|Auto Install Ocserv Server for CentOS/RedHat 7|310|0|2022-01-11|
 |157|[Jamesits/menhera.sh](https://github.com/Jamesits/menhera.sh)|Start a RAM Linux system and free your system disk without physical access to your server.|69|0|2021-10-12|
 |158|[zhaotao1987/SynNet-Pipeline](https://github.com/zhaotao1987/SynNet-Pipeline)|Workflow for Building  Microsynteny Networks|29|0|2022-01-14|
-|159|[musistudio/wukong-robot-install-script](https://github.com/musistudio/wukong-robot-install-script)|wukong-robot的一键安装脚本.|61|0|2021-09-07|
-|160|[xiaoluoboding/monthly](https://github.com/xiaoluoboding/monthly)|📖 聚焦前端，记录过去一个月看到的优秀的文章、工具，丰富前端技术栈。每月28日更新。你可以 Watch 它，相当于订阅。|79|0|2022-02-28|
-|161|[M1Screw/Airport-toolkit](https://github.com/M1Screw/Airport-toolkit)|各類方便機場主進行安裝維護的shell腳本|164|0|2022-03-08|
-|162|[rptec/vps-shell](https://github.com/rptec/vps-shell)|收集一些自用的shell脚本，适用于懒人使用。|32|0|2022-03-07|
-|163|[zhucaidan/mtr_trace](https://github.com/zhucaidan/mtr_trace)|检测VPS回程国内三网路由|51|0|2022-01-07|
-|164|[rcmdnk/sentaku](https://github.com/rcmdnk/sentaku)|Utility to make sentaku (selection, 選択(sentaku)) window with shell command.|124|0|2022-03-07|
-|165|[zhangguanzhang/bash](https://github.com/zhangguanzhang/bash)|:sunglasses:记录我写的bash shell |31|0|2021-11-08|
-|166|[felix-fly/v2ray-dnsmasq-dnscrypt](https://github.com/felix-fly/v2ray-dnsmasq-dnscrypt)|路由器openwrt配置dnsmasq、doh，高性能v2ray解决方案。|165|0|2022-01-14|
-|167|[Qv2ray/mochi](https://github.com/Qv2ray/mochi)|🍡Mochi: A Tasty Solution for Chinese Scoop Users|19|0|2021-12-10|
-|168|[xfg0218/greenplum--summarize](https://github.com/xfg0218/greenplum--summarize)|主要介绍作者使用过的Greenplum技术,欢迎大家交流|107|0|2022-03-07|
-|169|[aesophor/dotfiles](https://github.com/aesophor/dotfiles)|📦 Plasma5 + wmderland: GNU/Linux dotfiles managed via GNU stow|94|0|2021-12-01|
-|170|[liqianggh/blog](https://github.com/liqianggh/blog)|简洁至上|166|0|2022-02-23|
-|171|[helloxz/shell](https://github.com/helloxz/shell)|平时写的各种linux shell脚本|19|0|2021-12-10|
-|172|[crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli)|Compile static PHP binary in linux, including swoole and other extensions, make PHP more portable.|40|0|2022-02-25|
-|173|[synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons)|My Hass.IO add-ons|32|0|2021-10-27|
-|174|[soulteary/docker-outline](https://github.com/soulteary/docker-outline)|A simple 🧑‍💻 and reliable self-hosted plan for Outline.|62|0|2021-11-19|
-|175|[kuoruan/iterm2-zmodem](https://github.com/kuoruan/iterm2-zmodem)|Zmodem(lrzsz) for iTerm2|33|0|2022-03-08|
-|176|[trombonist852/multi-device-openwrt](https://github.com/trombonist852/multi-device-openwrt)|客制化多设备固件包括x86-64，树莓派全系，R2s，N1,k3|55|0|2022-03-01|
-|177|[skiy/golang-install](https://github.com/skiy/golang-install)|One key installation of the latest version of the golang|31|0|2022-01-15|
-|178|[yuchuangu85/Develop-Source](https://github.com/yuchuangu85/Develop-Source)|Open source for developer.(开发资源整理：Java，Android，算法，iOS，MacOS等等)|233|0|2022-03-06|
-|179|[owent-utils/bash-shell](https://github.com/owent-utils/bash-shell)|OWenT's Utils -- Bash&Shell branch|77|0|2022-02-23|
-|180|[CNMan/C2R](https://github.com/CNMan/C2R)|-|26|0|2022-03-08|
-|181|[ibook86/newifi3-d2-openwrt](https://github.com/ibook86/newifi3-d2-openwrt)|新三路由器openwrt固件|94|0|2022-03-07|
-|182|[skiy/docker-nginx-php](https://github.com/skiy/docker-nginx-php)|Nginx PHP for Docker|118|0|2022-01-26|
-|183|[jinfeijie/yapi](https://github.com/jinfeijie/yapi)|Docker for YApi 一键部署YApi|209|0|2022-01-12|
-|184|[skytotwo/NanoPi-R1S-Build-By-Actions](https://github.com/skytotwo/NanoPi-R1S-Build-By-Actions)|NanoPi R1S H5 Build By Actions|180|0|2021-09-14|
-|185|[Alcatraz323/audiohq_module](https://github.com/Alcatraz323/audiohq_module)|Provide binary and apk for controlling each applications volume using Magisk|89|0|2021-11-15|
-|186|[0x192/Bash-Android-Debloater](https://github.com/0x192/Bash-Android-Debloater)|Bash script using ADB to debloat non-rooted smartphones. Improve your privacy, the security and battery life of your device. THIS REPO IS ONLY A MIRROR.|32|0|2021-10-07|
-|187|[EdNovas/vpstoolbox](https://github.com/EdNovas/vpstoolbox)|EdNovas的VPS工具箱|35|0|2022-02-01|
-|188|[Asterisk4Magisk/Xray4Magisk](https://github.com/Asterisk4Magisk/Xray4Magisk)|Xray core with service scripts for Android|136|0|2022-02-23|
-|189|[neroxps/hassio_install](https://github.com/neroxps/hassio_install)|hassio 一键脚本，适配国内网络环境目前兼容(Debian Ubuntu Raspbian)|106|0|2021-10-29|
-|190|[pingcap/blog-cn](https://github.com/pingcap/blog-cn)|-|117|0|2021-11-25|
-|191|[travislee8964/Ocserv-install-script-for-CentOS-RHEL-7](https://github.com/travislee8964/Ocserv-install-script-for-CentOS-RHEL-7)|Ocserv(AnyConnect Server) install script for CentOS/RHEL 7|282|0|2022-01-11|
-|192|[ruzickap/k8s-harbor](https://github.com/ruzickap/k8s-harbor)|Harbor in Kubernetes|26|0|2022-02-27|
-|193|[caippx/bash](https://github.com/caippx/bash)|一些自己写（chao）的jio本|18|0|2021-12-09|
-|194|[Magisk-Modules-Repo/BluetoothLibraryPatcher](https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher)|-|21|0|2021-11-12|
-|195|[BUAA-SE-Compiling/miniSysY-tutorial](https://github.com/BUAA-SE-Compiling/miniSysY-tutorial)|BUAASE2019级的编译实验的实验指导与实验安排|39|0|2022-01-01|
-|196|[dbkangaroo/kangaroo](https://github.com/dbkangaroo/kangaroo)|Kangaroo is a SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfo ...|204|0|2022-02-28|
-|197|[unkaer/Actions-OpenWrt-Xiaomi-R4A](https://github.com/unkaer/Actions-OpenWrt-Xiaomi-R4A)|自己编译小米R4A千兆breed直刷版用|26|0|2021-09-24|
-|198|[MartineauUK/wireguard](https://github.com/MartineauUK/wireguard)|Manage/Install WireGuard on applicable ASUS routers|41|0|2022-03-06|
-|199|[unframework/licheepi-nano-buildroot](https://github.com/unframework/licheepi-nano-buildroot)|Config files for full Lichee Pi Nano Linux image build|46|0|2022-03-07|
-|200|[abcdabcd987/lxc-gpu](https://github.com/abcdabcd987/lxc-gpu)|Enjoy computation resources sharing at your laboratory with lxc-gpu!|43|0|2021-11-29|
+|159|[xiaoluoboding/monthly](https://github.com/xiaoluoboding/monthly)|📖 聚焦前端，记录过去一个月看到的优秀的文章、工具，丰富前端技术栈。每月28日更新。你可以 Watch 它，相当于订阅。|79|0|2022-02-28|
+|160|[M1Screw/Airport-toolkit](https://github.com/M1Screw/Airport-toolkit)|各類方便機場主進行安裝維護的shell腳本|164|0|2022-03-08|
+|161|[rptec/vps-shell](https://github.com/rptec/vps-shell)|收集一些自用的shell脚本，适用于懒人使用。|32|0|2022-03-07|
+|162|[zhucaidan/mtr_trace](https://github.com/zhucaidan/mtr_trace)|检测VPS回程国内三网路由|51|0|2022-01-07|
+|163|[rcmdnk/sentaku](https://github.com/rcmdnk/sentaku)|Utility to make sentaku (selection, 選択(sentaku)) window with shell command.|124|0|2022-03-07|
+|164|[zhangguanzhang/bash](https://github.com/zhangguanzhang/bash)|:sunglasses:记录我写的bash shell |31|0|2021-11-08|
+|165|[felix-fly/v2ray-dnsmasq-dnscrypt](https://github.com/felix-fly/v2ray-dnsmasq-dnscrypt)|路由器openwrt配置dnsmasq、doh，高性能v2ray解决方案。|165|0|2022-01-14|
+|166|[Qv2ray/mochi](https://github.com/Qv2ray/mochi)|🍡Mochi: A Tasty Solution for Chinese Scoop Users|19|0|2021-12-10|
+|167|[xfg0218/greenplum--summarize](https://github.com/xfg0218/greenplum--summarize)|主要介绍作者使用过的Greenplum技术,欢迎大家交流|107|0|2022-03-07|
+|168|[aesophor/dotfiles](https://github.com/aesophor/dotfiles)|📦 Plasma5 + wmderland: GNU/Linux dotfiles managed via GNU stow|94|0|2021-12-01|
+|169|[liqianggh/blog](https://github.com/liqianggh/blog)|简洁至上|166|0|2022-02-23|
+|170|[helloxz/shell](https://github.com/helloxz/shell)|平时写的各种linux shell脚本|19|0|2021-12-10|
+|171|[crazywhalecc/static-php-cli](https://github.com/crazywhalecc/static-php-cli)|Compile static PHP binary in linux, including swoole and other extensions, make PHP more portable.|40|0|2022-02-25|
+|172|[synesthesiam/hassio-addons](https://github.com/synesthesiam/hassio-addons)|My Hass.IO add-ons|32|0|2021-10-27|
+|173|[soulteary/docker-outline](https://github.com/soulteary/docker-outline)|A simple 🧑‍💻 and reliable self-hosted plan for Outline.|62|0|2021-11-19|
+|174|[kuoruan/iterm2-zmodem](https://github.com/kuoruan/iterm2-zmodem)|Zmodem(lrzsz) for iTerm2|33|0|2022-03-08|
+|175|[trombonist852/multi-device-openwrt](https://github.com/trombonist852/multi-device-openwrt)|客制化多设备固件包括x86-64，树莓派全系，R2s，N1,k3|55|0|2022-03-01|
+|176|[skiy/golang-install](https://github.com/skiy/golang-install)|One key installation of the latest version of the golang|31|0|2022-01-15|
+|177|[yuchuangu85/Develop-Source](https://github.com/yuchuangu85/Develop-Source)|Open source for developer.(开发资源整理：Java，Android，算法，iOS，MacOS等等)|233|0|2022-03-06|
+|178|[owent-utils/bash-shell](https://github.com/owent-utils/bash-shell)|OWenT's Utils -- Bash&Shell branch|77|0|2022-02-23|
+|179|[CNMan/C2R](https://github.com/CNMan/C2R)|-|26|0|2022-03-08|
+|180|[ibook86/newifi3-d2-openwrt](https://github.com/ibook86/newifi3-d2-openwrt)|新三路由器openwrt固件|94|0|2022-03-07|
+|181|[skiy/docker-nginx-php](https://github.com/skiy/docker-nginx-php)|Nginx PHP for Docker|118|0|2022-01-26|
+|182|[jinfeijie/yapi](https://github.com/jinfeijie/yapi)|Docker for YApi 一键部署YApi|209|0|2022-01-12|
+|183|[skytotwo/NanoPi-R1S-Build-By-Actions](https://github.com/skytotwo/NanoPi-R1S-Build-By-Actions)|NanoPi R1S H5 Build By Actions|180|0|2021-09-14|
+|184|[Alcatraz323/audiohq_module](https://github.com/Alcatraz323/audiohq_module)|Provide binary and apk for controlling each applications volume using Magisk|89|0|2021-11-15|
+|185|[0x192/Bash-Android-Debloater](https://github.com/0x192/Bash-Android-Debloater)|Bash script using ADB to debloat non-rooted smartphones. Improve your privacy, the security and battery life of your device. THIS REPO IS ONLY A MIRROR.|32|0|2021-10-07|
+|186|[EdNovas/vpstoolbox](https://github.com/EdNovas/vpstoolbox)|EdNovas的VPS工具箱|35|0|2022-02-01|
+|187|[Asterisk4Magisk/Xray4Magisk](https://github.com/Asterisk4Magisk/Xray4Magisk)|Xray core with service scripts for Android|136|0|2022-02-23|
+|188|[neroxps/hassio_install](https://github.com/neroxps/hassio_install)|hassio 一键脚本，适配国内网络环境目前兼容(Debian Ubuntu Raspbian)|106|0|2021-10-29|
+|189|[pingcap/blog-cn](https://github.com/pingcap/blog-cn)|-|117|0|2021-11-25|
+|190|[travislee8964/Ocserv-install-script-for-CentOS-RHEL-7](https://github.com/travislee8964/Ocserv-install-script-for-CentOS-RHEL-7)|Ocserv(AnyConnect Server) install script for CentOS/RHEL 7|282|0|2022-01-11|
+|191|[ruzickap/k8s-harbor](https://github.com/ruzickap/k8s-harbor)|Harbor in Kubernetes|26|0|2022-02-27|
+|192|[caippx/bash](https://github.com/caippx/bash)|一些自己写（chao）的jio本|18|0|2021-12-09|
+|193|[Magisk-Modules-Repo/BluetoothLibraryPatcher](https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher)|-|21|0|2021-11-12|
+|194|[BUAA-SE-Compiling/miniSysY-tutorial](https://github.com/BUAA-SE-Compiling/miniSysY-tutorial)|BUAASE2019级的编译实验的实验指导与实验安排|39|0|2022-01-01|
+|195|[dbkangaroo/kangaroo](https://github.com/dbkangaroo/kangaroo)|Kangaroo is a SQL client and admin tool for popular databases(SQLite / MySQL / PostgreSQL / ...) on Windows / MacOS / Linux, support table design, query, model, sync, export/import etc, focus on comfo ...|204|0|2022-02-28|
+|196|[unkaer/Actions-OpenWrt-Xiaomi-R4A](https://github.com/unkaer/Actions-OpenWrt-Xiaomi-R4A)|自己编译小米R4A千兆breed直刷版用|26|0|2021-09-24|
+|197|[MartineauUK/wireguard](https://github.com/MartineauUK/wireguard)|Manage/Install WireGuard on applicable ASUS routers|41|0|2022-03-06|
+|198|[unframework/licheepi-nano-buildroot](https://github.com/unframework/licheepi-nano-buildroot)|Config files for full Lichee Pi Nano Linux image build|46|0|2022-03-07|
+|199|[abcdabcd987/lxc-gpu](https://github.com/abcdabcd987/lxc-gpu)|Enjoy computation resources sharing at your laboratory with lxc-gpu!|43|0|2021-11-29|
+|200|[Magisk-Modules-Repo/acc](https://github.com/Magisk-Modules-Repo/acc)|Upstream repo: |156|0|2022-02-22|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

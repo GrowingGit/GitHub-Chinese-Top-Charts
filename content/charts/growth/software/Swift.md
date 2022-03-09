@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Swift
-<sub>数据更新: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1510|13|2022-03-04|
 |2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts|909|9|2022-03-02|
-|3|[mokong/buzhimeiju](https://github.com/mokong/buzhimeiju)|不止美剧|16|8|2022-03-07|
-|4|[pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)|A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.|5687|8|2022-02-24|
-|5|[Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI)|Gathering all info published, both by Apple and by others, about new framework SwiftUI. |6070|6|2021-11-28|
-|6|[realm/SwiftLint](https://github.com/realm/SwiftLint)|A tool to enforce Swift style and conventions.|15807|6|2022-03-08|
+|3|[pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)|A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.|5687|8|2022-02-24|
+|4|[Juanpe/About-SwiftUI](https://github.com/Juanpe/About-SwiftUI)|Gathering all info published, both by Apple and by others, about new framework SwiftUI. |6070|6|2021-11-28|
+|5|[realm/SwiftLint](https://github.com/realm/SwiftLint)|A tool to enforce Swift style and conventions.|15807|6|2022-03-08|
+|6|[mokong/buzhimeiju](https://github.com/mokong/buzhimeiju)|不止美剧|16|5|2022-03-07|
 |7|[xmartlabs/Eureka](https://github.com/xmartlabs/Eureka)|Elegant iOS form builder in Swift|11394|5|2022-03-01|
 |8|[Moya/Moya](https://github.com/Moya/Moya)|Network abstraction layer written in Swift.|13803|5|2022-02-27|
 |9|[Ji4n1ng/OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal)|✨ Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty.|4313|4|2022-03-01|
@@ -182,29 +182,29 @@
 |175|[YoSwiftKing/Yo](https://github.com/YoSwiftKing/Yo)|C++播放播放器和腾讯云直播播放器|14|0|2021-11-17|
 |176|[xiaoyouPrince/XYNav](https://github.com/xiaoyouPrince/XYNav)|简单易用的全屏导航控制器 Swift 5.0|11|0|2022-01-04|
 |177|[yujinqiu/pbadd](https://github.com/yujinqiu/pbadd)|Fast copy file itself instead of content from macOS CLI  |15|0|2021-10-15|
-|178|[anyrtcIO-Community/anyRTC-RTMPC-Swift](https://github.com/anyrtcIO-Community/anyRTC-RTMPC-Swift)|基于RTMP和RTC混合引擎的视频连麦互动直播|8|0|2021-09-07|
-|179|[liuweigeek/NeptuneBlog-iOS](https://github.com/liuweigeek/NeptuneBlog-iOS)|Twitter clone project，模仿Twitter的社交平台，基于SwiftUI开发。|11|0|2022-02-08|
-|180|[usernameyangyan/CollectioniOS](https://github.com/usernameyangyan/CollectioniOS)|Collection aggregates some of the basic modules of the project, saving developer time.|43|0|2021-10-18|
-|181|[spirit-jsb/Yagi](https://github.com/spirit-jsb/Yagi)|Yagi 是一个自定义 AVAssetExportSession 框架，希望在不降低压缩效果的前提下获得更小的压缩体积。|7|0|2021-09-11|
-|182|[jackiehu/SwiftyForm](https://github.com/jackiehu/SwiftyForm)|swift砖块系列：快速集成表单|5|0|2022-02-24|
-|183|[CoderHuiYu/MMAdvertScrollView](https://github.com/CoderHuiYu/MMAdvertScrollView)|一个简单、轻量级的swift版公告轮播框架|42|0|2021-09-15|
-|184|[nuomi1/NBus](https://github.com/nuomi1/NBus)|NBus is a sharing and signin library for Chinese Social Application, such as WeChat, QQ and Weibo. NBus also supports system's sharing and Sign in with Apple.|24|0|2022-02-23|
-|185|[henrik-dmg/HPOpenWeather](https://github.com/henrik-dmg/HPOpenWeather)|Request OpenWeather data with ease in Swift|14|0|2022-02-27|
-|186|[LvJianfeng/LLCycleScrollView](https://github.com/LvJianfeng/LLCycleScrollView)|Swift - 轮播图，文本轮播，支持左右箭头|345|0|2021-10-26|
-|187|[jackiehu/SwiftMesh](https://github.com/jackiehu/SwiftMesh)|swift砖块系列：基于Alamofire5的封装，更加快捷的发起网络请求，post，get，download，表单upload等等|9|0|2022-03-03|
-|188|[wxxsw/Refresh](https://github.com/wxxsw/Refresh)|🎈 Great SwiftUI drop-down refresh and scroll up to load more. 下拉刷新、上拉加载|115|0|2021-12-08|
-|189|[ysCharles/TLCommon](https://github.com/ysCharles/TLCommon)|iOS常用扩展,方法,常量|3|0|2021-11-12|
-|190|[EggsBlue/youtube-transition](https://github.com/EggsBlue/youtube-transition)|使用SwiftUI模仿Youtube的播放动画|3|0|2021-10-10|
-|191|[bolagong/Toast](https://github.com/bolagong/Toast)|Toast提示框|8|0|2021-09-22|
-|192|[yangKJ/RxNetworks](https://github.com/yangKJ/RxNetworks)|🧚Network API With RxSwift + Moya + HandyJSON + Plugins.|63|0|2022-03-07|
-|193|[chrisdhaan/CDYelpFusionKit](https://github.com/chrisdhaan/CDYelpFusionKit)|An extensive Swift wrapper for the Yelp Fusion API.|48|0|2021-09-17|
-|194|[stripe/stripe-ios](https://github.com/stripe/stripe-ios)|Stripe iOS SDK    |1578|0|2022-03-07|
-|195|[natfrp/SakuraFrpLauncherMac](https://github.com/natfrp/SakuraFrpLauncherMac)|[WIP] SakuraFrp macOS 启动器|5|0|2021-10-28|
-|196|[zhangzhao4444/Fastmonkey](https://github.com/zhangzhao4444/Fastmonkey)|非插桩 iOS Monkey,  支持控件，每秒4-5 action事件|262|0|2021-10-11|
-|197|[yuanshuainiuniu/MSRouter](https://github.com/yuanshuainiuniu/MSRouter)|封装的路由组件|12|0|2022-02-17|
-|198|[Allen0828/AEAlertView](https://github.com/Allen0828/AEAlertView)|Custom AlertView supports multiple modes 自定义AlertView 支持多种模式弹窗|298|0|2022-02-11|
-|199|[Rogue24/OneDay](https://github.com/Rogue24/OneDay)|精美的桌面小组件。|9|0|2022-01-27|
-|200|[rztime/RZRichTextView](https://github.com/rztime/RZRichTextView)|iOS 原生UITextView 富文本编辑器|145|0|2021-11-18|
+|178|[liuweigeek/NeptuneBlog-iOS](https://github.com/liuweigeek/NeptuneBlog-iOS)|Twitter clone project，模仿Twitter的社交平台，基于SwiftUI开发。|11|0|2022-02-08|
+|179|[usernameyangyan/CollectioniOS](https://github.com/usernameyangyan/CollectioniOS)|Collection aggregates some of the basic modules of the project, saving developer time.|43|0|2021-10-18|
+|180|[spirit-jsb/Yagi](https://github.com/spirit-jsb/Yagi)|Yagi 是一个自定义 AVAssetExportSession 框架，希望在不降低压缩效果的前提下获得更小的压缩体积。|7|0|2021-09-11|
+|181|[jackiehu/SwiftyForm](https://github.com/jackiehu/SwiftyForm)|swift砖块系列：快速集成表单|5|0|2022-02-24|
+|182|[CoderHuiYu/MMAdvertScrollView](https://github.com/CoderHuiYu/MMAdvertScrollView)|一个简单、轻量级的swift版公告轮播框架|42|0|2021-09-15|
+|183|[nuomi1/NBus](https://github.com/nuomi1/NBus)|NBus is a sharing and signin library for Chinese Social Application, such as WeChat, QQ and Weibo. NBus also supports system's sharing and Sign in with Apple.|24|0|2022-02-23|
+|184|[henrik-dmg/HPOpenWeather](https://github.com/henrik-dmg/HPOpenWeather)|Request OpenWeather data with ease in Swift|14|0|2022-02-27|
+|185|[LvJianfeng/LLCycleScrollView](https://github.com/LvJianfeng/LLCycleScrollView)|Swift - 轮播图，文本轮播，支持左右箭头|345|0|2021-10-26|
+|186|[jackiehu/SwiftMesh](https://github.com/jackiehu/SwiftMesh)|swift砖块系列：基于Alamofire5的封装，更加快捷的发起网络请求，post，get，download，表单upload等等|9|0|2022-03-03|
+|187|[wxxsw/Refresh](https://github.com/wxxsw/Refresh)|🎈 Great SwiftUI drop-down refresh and scroll up to load more. 下拉刷新、上拉加载|115|0|2021-12-08|
+|188|[ysCharles/TLCommon](https://github.com/ysCharles/TLCommon)|iOS常用扩展,方法,常量|3|0|2021-11-12|
+|189|[EggsBlue/youtube-transition](https://github.com/EggsBlue/youtube-transition)|使用SwiftUI模仿Youtube的播放动画|3|0|2021-10-10|
+|190|[bolagong/Toast](https://github.com/bolagong/Toast)|Toast提示框|8|0|2021-09-22|
+|191|[yangKJ/RxNetworks](https://github.com/yangKJ/RxNetworks)|🧚Network API With RxSwift + Moya + HandyJSON + Plugins.|63|0|2022-03-07|
+|192|[chrisdhaan/CDYelpFusionKit](https://github.com/chrisdhaan/CDYelpFusionKit)|An extensive Swift wrapper for the Yelp Fusion API.|48|0|2021-09-17|
+|193|[stripe/stripe-ios](https://github.com/stripe/stripe-ios)|Stripe iOS SDK    |1578|0|2022-03-07|
+|194|[natfrp/SakuraFrpLauncherMac](https://github.com/natfrp/SakuraFrpLauncherMac)|[WIP] SakuraFrp macOS 启动器|5|0|2021-10-28|
+|195|[zhangzhao4444/Fastmonkey](https://github.com/zhangzhao4444/Fastmonkey)|非插桩 iOS Monkey,  支持控件，每秒4-5 action事件|262|0|2021-10-11|
+|196|[yuanshuainiuniu/MSRouter](https://github.com/yuanshuainiuniu/MSRouter)|封装的路由组件|12|0|2022-02-17|
+|197|[Allen0828/AEAlertView](https://github.com/Allen0828/AEAlertView)|Custom AlertView supports multiple modes 自定义AlertView 支持多种模式弹窗|298|0|2022-02-11|
+|198|[Rogue24/OneDay](https://github.com/Rogue24/OneDay)|精美的桌面小组件。|9|0|2022-01-27|
+|199|[rztime/RZRichTextView](https://github.com/rztime/RZRichTextView)|iOS 原生UITextView 富文本编辑器|145|0|2021-11-18|
+|200|[jackiehu/SwiftBrick](https://github.com/jackiehu/SwiftBrick)|swift砖块系列：UI基础框架，有各种工具方便快速搭建APP|16|0|2022-03-03|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

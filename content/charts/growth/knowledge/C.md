@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > C
-<sub>数据更新: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[0voice/ffmpeg_develop_doc](https://github.com/0voice/ffmpeg_develop_doc)|2022年，最新ffmpeg资料整理，项目（调试可用），命令手册，文章，编解码论文，视频讲解，面试题全套资料|545|9|2022-01-15|
+|1|[0voice/ffmpeg_develop_doc](https://github.com/0voice/ffmpeg_develop_doc)|2022年，最新ffmpeg资料整理，项目（调试可用），命令手册，文章，编解码论文，视频讲解，面试题全套资料|545|8|2022-01-15|
 |2|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|5718|3|2022-02-04|
 |3|[Ascotbe/Kernelhub](https://github.com/Ascotbe/Kernelhub)|:palm_tree:Kernel privilege escalation vulnerability collection, with compilation environment, demo GIF map, vulnerability details, executable file  (提权漏洞合集) |1733|3|2022-01-20|
 |4|[nonstriater/Learn-Algorithms](https://github.com/nonstriater/Learn-Algorithms)|算法学习笔记|6375|2|2021-12-23|

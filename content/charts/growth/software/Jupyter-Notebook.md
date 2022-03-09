@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Jupyter Notebook
-<sub>数据更新: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -169,42 +169,42 @@
 |162|[lukewys/SunXiaoChuan-spider](https://github.com/lukewys/SunXiaoChuan-spider)|A scrapper and analyze result on weibos of SunXiaoChuan. 孙笑川微博的爬虫与分析|34|0|2022-03-02|
 |163|[avantcontra/coding-druid](https://github.com/avantcontra/coding-druid)|"Coding Druid" series is my horizontal programming practice notes, each part around a topic (mathematical physics electronic graphics sound...), implemented in several programming languages.|65|0|2021-10-01|
 |164|[Yefee/xMCA](https://github.com/Yefee/xMCA)|Maximum Covariance Analysis in xarray for Climate Science|41|0|2021-11-07|
-|165|[brain-zhang/xianglong](https://github.com/brain-zhang/xianglong)|资产配置方案|179|0|2021-09-07|
-|166|[HuichuanLI/play-with-graph-algorithme](https://github.com/HuichuanLI/play-with-graph-algorithme)|python实现的初级图论算法库:环检测问题,桥和割点,最小生成树,最短路径,欧拉路径,哈密尔顿路径,拓扑排序，最大流问题，匹配问题(匈牙利算法)|24|0|2021-09-16|
-|167|[eval4nlp/SharedTask2021](https://github.com/eval4nlp/SharedTask2021)|-|13|0|2021-11-23|
-|168|[azy1988/ML-CV](https://github.com/azy1988/ML-CV)|机器学习实战|119|0|2022-02-11|
-|169|[edwardlikaiyuan/QiPy](https://github.com/edwardlikaiyuan/QiPy)|OLDLee的Python气象应用私教课|17|0|2021-09-12|
-|170|[EmbraceLife/fastai_treasures](https://github.com/EmbraceLife/fastai_treasures)|digging the endless treasures of fastai|20|0|2022-02-26|
-|171|[guyujun/pyrosetta-basic](https://github.com/guyujun/pyrosetta-basic)|-|55|0|2021-10-27|
-|172|[IvanaXu/TianChiProj](https://github.com/IvanaXu/TianChiProj)|TianChiProj 天池|16|0|2021-11-21|
-|173|[linhduongtuan/Tuberculosis_ChestXray_Classifier](https://github.com/linhduongtuan/Tuberculosis_ChestXray_Classifier)|Classification for chest X ray images of tuberculosis using PyTorch, Timm, and modified EfficientNet family|16|0|2021-12-22|
-|174|[mindspore-ai/docs](https://github.com/mindspore-ai/docs)|MindSpore document|145|0|2022-03-08|
-|175|[Daya-Jin/ML_for_learner](https://github.com/Daya-Jin/ML_for_learner)|Implementations of the machine learning algorithm with Python and numpy|72|0|2021-10-20|
-|176|[PanJinquan/python-learning-notes](https://github.com/PanJinquan/python-learning-notes)|代码|26|0|2022-01-13|
-|177|[LogicJake/competition_baselines](https://github.com/LogicJake/competition_baselines)|开源的各大比赛baseline|286|0|2022-03-08|
-|178|[DeepTrial/Retina-VesselNet](https://github.com/DeepTrial/Retina-VesselNet)|A Simple U-net model for Retinal Blood Vessel Segmentation based on tensorflow2|222|0|2022-02-09|
-|179|[simbafl/Data-analysis](https://github.com/simbafl/Data-analysis)|数据分析，挖掘建模。|159|0|2022-01-02|
-|180|[Sanzo00/ML-homework](https://github.com/Sanzo00/ML-homework)|吴恩达机器学习作业|17|0|2021-10-18|
-|181|[tcmyxc/DL-AndrewNg](https://github.com/tcmyxc/DL-AndrewNg)|吴恩达深度学习2021年空白作业|17|0|2021-09-13|
-|182|[blueapplehe/car_identify](https://github.com/blueapplehe/car_identify)|汽车识别，汽车车型识别，汽车品牌识别，车辆识别，深度学习，神经网络|93|0|2022-01-28|
-|183|[lsh1994/remote_sensing_pretrained_models](https://github.com/lsh1994/remote_sensing_pretrained_models)|Remote Sensing pretrained weights with CNN finetune（PyTorch）|11|0|2021-09-17|
-|184|[Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB](https://github.com/Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB)|This is a repository about PCB defect detection.|254|0|2022-02-10|
-|185|[PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial)|PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle. |29|0|2021-12-17|
-|186|[KoichiYasuoka/SuPar-Kanbun-1.3.4](https://github.com/KoichiYasuoka/SuPar-Kanbun-1.3.4)|Tokenizer POS-tagger and Dependency-parser for Classical Chinese|14|0|2021-12-16|
-|187|[lures2019/lures2020-demos](https://github.com/lures2019/lures2020-demos)|lures2020年写的一些项目和程序|26|0|2021-09-11|
-|188|[codecat0/CV](https://github.com/codecat0/CV)|本仓库将使用Pytorch框架实现经典的图像分类网络、目标检测网络、图像分割网络，图像生成网络等，并会持续更新！！！|15|0|2022-01-01|
-|189|[EMUNES/Auto-Subtitle-File-Generation](https://github.com/EMUNES/Auto-Subtitle-File-Generation)|Generate subtitle files with timelines in an automatic way.|26|0|2021-11-09|
-|190|[arjunmann73/Data-Analytics-Projects](https://github.com/arjunmann73/Data-Analytics-Projects)|:mag_right: Data analysis with real world data sets using Python :mag:|102|0|2021-10-16|
-|191|[HuichuanLI/Recommand-Algorithme](https://github.com/HuichuanLI/Recommand-Algorithme)|推荐算法实战(Recommend algorithm)|37|0|2021-10-31|
-|192|[Masterchiefm/Thirdparty-huawei-Share-OneHop](https://github.com/Masterchiefm/Thirdparty-huawei-Share-OneHop)|制作第三方华为一碰传标签/已完成历史使命，擦除标签的方案已整合入@汉客儿 最新工具。|96|0|2022-02-27|
-|193|[moeheart/jx3bla](https://github.com/moeheart/jx3bla)|JX3 Battle Log Analyse|10|0|2021-12-06|
-|194|[zll17/Neural_Topic_Models](https://github.com/zll17/Neural_Topic_Models)|Implementation of topic models based on neural network approaches.|233|0|2021-11-12|
-|195|[SocratesAcademy/datascience](https://github.com/SocratesAcademy/datascience)|Introduction to Python Programming for Data Science|30|0|2022-01-13|
-|196|[collective-action/tech](https://github.com/collective-action/tech)|Documentation of all collective action from tech workers.|186|0|2022-03-08|
-|197|[BohriumKwong/Deep_learning_in_WSI](https://github.com/BohriumKwong/Deep_learning_in_WSI)|将深度学习用于病理图像分析以及Openslide和OpenCV使用入門資料|41|0|2022-02-09|
-|198|[ShowMeAI-Hub/awesome-AI-cheatsheets](https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets)|AI与数据科学各类工具库速查表与参考代码|14|0|2021-12-18|
-|199|[leolle/deep_learning](https://github.com/leolle/deep_learning)|projects about NLP knowledge graph, web crawling, word embedding, entity&relation extraction.|11|0|2021-11-10|
-|200|[zhaihulu/DataScience](https://github.com/zhaihulu/DataScience)|-|21|0|2021-10-12|
+|165|[HuichuanLI/play-with-graph-algorithme](https://github.com/HuichuanLI/play-with-graph-algorithme)|python实现的初级图论算法库:环检测问题,桥和割点,最小生成树,最短路径,欧拉路径,哈密尔顿路径,拓扑排序，最大流问题，匹配问题(匈牙利算法)|24|0|2021-09-16|
+|166|[eval4nlp/SharedTask2021](https://github.com/eval4nlp/SharedTask2021)|-|13|0|2021-11-23|
+|167|[azy1988/ML-CV](https://github.com/azy1988/ML-CV)|机器学习实战|119|0|2022-02-11|
+|168|[edwardlikaiyuan/QiPy](https://github.com/edwardlikaiyuan/QiPy)|OLDLee的Python气象应用私教课|17|0|2021-09-12|
+|169|[EmbraceLife/fastai_treasures](https://github.com/EmbraceLife/fastai_treasures)|digging the endless treasures of fastai|20|0|2022-02-26|
+|170|[guyujun/pyrosetta-basic](https://github.com/guyujun/pyrosetta-basic)|-|55|0|2021-10-27|
+|171|[IvanaXu/TianChiProj](https://github.com/IvanaXu/TianChiProj)|TianChiProj 天池|16|0|2021-11-21|
+|172|[linhduongtuan/Tuberculosis_ChestXray_Classifier](https://github.com/linhduongtuan/Tuberculosis_ChestXray_Classifier)|Classification for chest X ray images of tuberculosis using PyTorch, Timm, and modified EfficientNet family|16|0|2021-12-22|
+|173|[mindspore-ai/docs](https://github.com/mindspore-ai/docs)|MindSpore document|145|0|2022-03-08|
+|174|[Daya-Jin/ML_for_learner](https://github.com/Daya-Jin/ML_for_learner)|Implementations of the machine learning algorithm with Python and numpy|72|0|2021-10-20|
+|175|[PanJinquan/python-learning-notes](https://github.com/PanJinquan/python-learning-notes)|代码|26|0|2022-01-13|
+|176|[LogicJake/competition_baselines](https://github.com/LogicJake/competition_baselines)|开源的各大比赛baseline|286|0|2022-03-08|
+|177|[DeepTrial/Retina-VesselNet](https://github.com/DeepTrial/Retina-VesselNet)|A Simple U-net model for Retinal Blood Vessel Segmentation based on tensorflow2|222|0|2022-02-09|
+|178|[simbafl/Data-analysis](https://github.com/simbafl/Data-analysis)|数据分析，挖掘建模。|159|0|2022-01-02|
+|179|[Sanzo00/ML-homework](https://github.com/Sanzo00/ML-homework)|吴恩达机器学习作业|17|0|2021-10-18|
+|180|[tcmyxc/DL-AndrewNg](https://github.com/tcmyxc/DL-AndrewNg)|吴恩达深度学习2021年空白作业|17|0|2021-09-13|
+|181|[blueapplehe/car_identify](https://github.com/blueapplehe/car_identify)|汽车识别，汽车车型识别，汽车品牌识别，车辆识别，深度学习，神经网络|93|0|2022-01-28|
+|182|[lsh1994/remote_sensing_pretrained_models](https://github.com/lsh1994/remote_sensing_pretrained_models)|Remote Sensing pretrained weights with CNN finetune（PyTorch）|11|0|2021-09-17|
+|183|[Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB](https://github.com/Ixiaohuihuihui/Tiny-Defect-Detection-for-PCB)|This is a repository about PCB defect detection.|254|0|2022-02-10|
+|184|[PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial)|PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle. |29|0|2021-12-17|
+|185|[KoichiYasuoka/SuPar-Kanbun-1.3.4](https://github.com/KoichiYasuoka/SuPar-Kanbun-1.3.4)|Tokenizer POS-tagger and Dependency-parser for Classical Chinese|14|0|2021-12-16|
+|186|[lures2019/lures2020-demos](https://github.com/lures2019/lures2020-demos)|lures2020年写的一些项目和程序|26|0|2021-09-11|
+|187|[codecat0/CV](https://github.com/codecat0/CV)|本仓库将使用Pytorch框架实现经典的图像分类网络、目标检测网络、图像分割网络，图像生成网络等，并会持续更新！！！|15|0|2022-01-01|
+|188|[EMUNES/Auto-Subtitle-File-Generation](https://github.com/EMUNES/Auto-Subtitle-File-Generation)|Generate subtitle files with timelines in an automatic way.|26|0|2021-11-09|
+|189|[arjunmann73/Data-Analytics-Projects](https://github.com/arjunmann73/Data-Analytics-Projects)|:mag_right: Data analysis with real world data sets using Python :mag:|102|0|2021-10-16|
+|190|[HuichuanLI/Recommand-Algorithme](https://github.com/HuichuanLI/Recommand-Algorithme)|推荐算法实战(Recommend algorithm)|37|0|2021-10-31|
+|191|[Masterchiefm/Thirdparty-huawei-Share-OneHop](https://github.com/Masterchiefm/Thirdparty-huawei-Share-OneHop)|制作第三方华为一碰传标签/已完成历史使命，擦除标签的方案已整合入@汉客儿 最新工具。|96|0|2022-02-27|
+|192|[moeheart/jx3bla](https://github.com/moeheart/jx3bla)|JX3 Battle Log Analyse|10|0|2021-12-06|
+|193|[zll17/Neural_Topic_Models](https://github.com/zll17/Neural_Topic_Models)|Implementation of topic models based on neural network approaches.|233|0|2021-11-12|
+|194|[SocratesAcademy/datascience](https://github.com/SocratesAcademy/datascience)|Introduction to Python Programming for Data Science|30|0|2022-01-13|
+|195|[collective-action/tech](https://github.com/collective-action/tech)|Documentation of all collective action from tech workers.|186|0|2022-03-08|
+|196|[BohriumKwong/Deep_learning_in_WSI](https://github.com/BohriumKwong/Deep_learning_in_WSI)|将深度学习用于病理图像分析以及Openslide和OpenCV使用入門資料|41|0|2022-02-09|
+|197|[ShowMeAI-Hub/awesome-AI-cheatsheets](https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets)|AI与数据科学各类工具库速查表与参考代码|14|0|2021-12-18|
+|198|[leolle/deep_learning](https://github.com/leolle/deep_learning)|projects about NLP knowledge graph, web crawling, word embedding, entity&relation extraction.|11|0|2021-11-10|
+|199|[zhaihulu/DataScience](https://github.com/zhaihulu/DataScience)|-|21|0|2021-10-12|
+|200|[cliuxinxin/TX-WORD2VEC-SMALL](https://github.com/cliuxinxin/TX-WORD2VEC-SMALL)|腾讯word2vec模型缩小版|402|0|2022-02-21|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

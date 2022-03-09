@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Jupyter Notebook
-<sub>数据更新: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -43,12 +43,11 @@
 |36|[W-Java/Population-Prediction](https://github.com/W-Java/Population-Prediction)|The future population of Singapore is predicted by SVM algorithm|15|2021-10-29|2021-10-29|
 |37|[moliqingwa/carbon_challenge](https://github.com/moliqingwa/carbon_challenge)|捕碳大作战|14|2021-12-22|2021-10-26|
 |38|[ShowMeAI-Hub/awesome-AI-cheatsheets](https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets)|AI与数据科学各类工具库速查表与参考代码|14|2021-12-18|2021-06-06|
-|39|[KoichiYasuoka/SuPar-Kanbun-1.3.4](https://github.com/KoichiYasuoka/SuPar-Kanbun-1.3.4)|Tokenizer POS-tagger and Dependency-parser for Classical Chinese|14|2021-12-16|2021-03-09|
-|40|[eval4nlp/SharedTask2021](https://github.com/eval4nlp/SharedTask2021)|-|13|2021-11-23|2021-05-21|
-|41|[deepjavalibrary/d2l-java-zh](https://github.com/deepjavalibrary/d2l-java-zh)|-|11|2021-12-06|2021-08-16|
-|42|[whyjz/rime-moetaigi](https://github.com/whyjz/rime-moetaigi)|萌台語：基於萌典 API 的 RIME 臺語輸入法，使用注音符號輕鬆輸入台語。|11|2021-11-09|2021-06-29|
-|43|[KXCY-AI/AI-Case-Studies](https://github.com/KXCY-AI/AI-Case-Studies)|人工智能垂直行业实战项目案例库|11|2021-11-28|2021-03-11|
-|44|[xiaonan8826/jeffindex](https://github.com/xiaonan8826/jeffindex)|-|10|2021-09-08|2021-08-19|
+|39|[eval4nlp/SharedTask2021](https://github.com/eval4nlp/SharedTask2021)|-|13|2021-11-23|2021-05-21|
+|40|[deepjavalibrary/d2l-java-zh](https://github.com/deepjavalibrary/d2l-java-zh)|-|11|2021-12-06|2021-08-16|
+|41|[whyjz/rime-moetaigi](https://github.com/whyjz/rime-moetaigi)|萌台語：基於萌典 API 的 RIME 臺語輸入法，使用注音符號輕鬆輸入台語。|11|2021-11-09|2021-06-29|
+|42|[KXCY-AI/AI-Case-Studies](https://github.com/KXCY-AI/AI-Case-Studies)|人工智能垂直行业实战项目案例库|11|2021-11-28|2021-03-11|
+|43|[xiaonan8826/jeffindex](https://github.com/xiaonan8826/jeffindex)|-|10|2021-09-08|2021-08-19|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

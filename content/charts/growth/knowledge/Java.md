@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Java
-<sub>数据更新: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -28,11 +28,11 @@
 |21|[fuzhengwei/itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design)|:art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn|4470|7|2022-02-01|
 |22|[frank-lam/fullstack-tutorial](https://github.com/frank-lam/fullstack-tutorial)|🚀 fullstack tutorial 2021，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试|10394|7|2022-03-07|
 |23|[dyc87112/SpringBoot-Learning](https://github.com/dyc87112/SpringBoot-Learning)|《Spring Boot基础教程》，2.x版本持续连载中！点击下方链接直达教程目录！|14173|7|2022-02-14|
-|24|[bjmashibing/InternetArchitect](https://github.com/bjmashibing/InternetArchitect)|年薪百万互联网架构师课程文档及源码(公开部分)|3927|5|2022-01-12|
-|25|[Skykai521/AndroidDeveloperAdvancedManual](https://github.com/Skykai521/AndroidDeveloperAdvancedManual)|Android 工程师进阶手册（8 年 Android 开发者的成长感悟）|593|5|2021-11-21|
-|26|[macrozheng/springcloud-learning](https://github.com/macrozheng/springcloud-learning)|一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。22篇文章，篇篇精华，32个Demo，涵盖大部分应用场景。|4594|5|2022-02-09|
-|27|[krahets/LeetCode-Book](https://github.com/krahets/LeetCode-Book)|《剑指 Offer》 Python, Java, C++ 解题代码，LeetBook《图解算法数据结构》配套代码仓。|321|4|2022-02-21|
-|28|[h2pl/Java-Tutorial](https://github.com/h2pl/Java-Tutorial)|【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！|5510|4|2021-12-09|
+|24|[Skykai521/AndroidDeveloperAdvancedManual](https://github.com/Skykai521/AndroidDeveloperAdvancedManual)|Android 工程师进阶手册（8 年 Android 开发者的成长感悟）|593|5|2021-11-21|
+|25|[macrozheng/springcloud-learning](https://github.com/macrozheng/springcloud-learning)|一套涵盖大部分核心组件使用的Spring Cloud教程，包括Spring Cloud Alibaba及分布式事务Seata，基于Spring Cloud Greenwich及SpringBoot 2.1.7。22篇文章，篇篇精华，32个Demo，涵盖大部分应用场景。|4594|5|2022-02-09|
+|26|[krahets/LeetCode-Book](https://github.com/krahets/LeetCode-Book)|《剑指 Offer》 Python, Java, C++ 解题代码，LeetBook《图解算法数据结构》配套代码仓。|321|4|2022-02-21|
+|27|[h2pl/Java-Tutorial](https://github.com/h2pl/Java-Tutorial)|【Java工程师面试复习指南】本仓库涵盖大部分Java程序员所需要掌握的核心知识，整合了互联网上的很多优质Java技术文章，力求打造为最完整最实用的Java开发者学习指南，如果对你有帮助，给个star告诉我吧，谢谢！|5510|4|2021-12-09|
+|28|[bjmashibing/InternetArchitect](https://github.com/bjmashibing/InternetArchitect)|年薪百万互联网架构师课程文档及源码(公开部分)|3927|4|2022-01-12|
 |29|[CodingDocs/springboot-guide](https://github.com/CodingDocs/springboot-guide)|SpringBoot2.0+从入门到实战！|4280|4|2021-09-09|
 |30|[mercyblitz/tech-weekly](https://github.com/mercyblitz/tech-weekly)|「小马哥技术周报」|3586|3|2022-01-10|
 |31|[CoderLeixiaoshuai/java-eight-part](https://github.com/CoderLeixiaoshuai/java-eight-part)|『Java八股文』Java面试套路，Java进阶学习，打破内卷拿大厂Offer，升职加薪！|1628|3|2022-01-18|
@@ -179,32 +179,32 @@
 |172|[sunjincheng121/know_how_know_why](https://github.com/sunjincheng121/know_how_know_why)|For every learner|274|0|2022-02-06|
 |173|[fengyuecanzhu/FYReader](https://github.com/fengyuecanzhu/FYReader)|风月读书，一款开源、免费的小说阅读软件，支持自定义书源，支持本地txt和epub导入阅读。|78|0|2022-02-07|
 |174|[maxiaozhou1234/AndroidDemo](https://github.com/maxiaozhou1234/AndroidDemo)|这个项目仅仅是一些测试代码汇总|94|0|2021-11-21|
-|175|[Henryyyyyyy/Better](https://github.com/Henryyyyyyy/Better)|Better 20188888888~集干货、音乐、视频、打卡于一体的app。|58|0|2021-09-07|
-|176|[alangsuo/BILIBILI-HELPER-PRE](https://github.com/alangsuo/BILIBILI-HELPER-PRE)|这是一个利用 Linux Crontab , Docker等方式实现哔哩哔哩（Bilibili）每日任务投币，点赞，分享视频，直播签到，银瓜子兑换硬币，漫画每日签到，简单配置即可每日轻松获取 65 经验值，快来和我一起成为 Lv6 吧~~~~|103|0|2022-01-14|
-|177|[littlecurl/AppProjects](https://github.com/littlecurl/AppProjects)|存放一些Java、JavaEE、Android和iOS的源码；里面同时有zip压缩文件，可以直接下载，不需要clone整个仓库！！！都是一些小Demo，注释详细一点，就不写教程文档了。|165|0|2022-02-09|
-|178|[zhailuxu/Dubbo-Demo](https://github.com/zhailuxu/Dubbo-Demo)|《深度剖析Apache Dubbo技术内幕》一书Demo|69|0|2021-09-08|
-|179|[lsgwr/algorithms](https://github.com/lsgwr/algorithms)|算法学习与总结，包括慕课网刘宇波老师、算法竞赛入门经典、挑战程序设计竞赛、算法竞赛宝典等|253|0|2021-10-24|
-|180|[McoyJiang/LagouAndroidShare](https://github.com/McoyJiang/LagouAndroidShare)|本应用是拉勾教育《Android 工程师进阶34讲》专栏的示例应用|350|0|2021-11-11|
-|181|[DAQ121/Lexer-Parser](https://github.com/DAQ121/Lexer-Parser)| :loudspeaker:编译原理，java实现的词法分析器&语法分析器，有运行窗口:computer:，附带使用说明:green_book:|75|0|2021-10-21|
-|182|[algorithmzuo/coding-for-great-offer](https://github.com/algorithmzuo/coding-for-great-offer)|大厂算法和数据结构刷题班|146|0|2022-03-01|
-|183|[DiCaprio17/seckill-ssm](https://github.com/DiCaprio17/seckill-ssm)|一个整合SSM框架的高并发和商品秒杀项目，学习目前较流行的Java框架组合实现高并发秒杀API|69|0|2021-12-09|
-|184|[TanaStudy/Java-Study](https://github.com/TanaStudy/Java-Study)|🚀Java学习过程中的的代码记录。Java基础、Spring、SpringBoot、分布式项目、Demo等等等等等👍👍👍。|96|0|2022-01-31|
-|185|[chen-xing/RgBlog](https://github.com/chen-xing/RgBlog)|RgBlog，一个简洁美观、功能强大并且自适应的Java博客。内置SEO模板，高效建站。是在开源博客oneblog的基础上进行了优化处理。|60|0|2021-11-03|
-|186|[wucao/mina-netty-twisted](https://github.com/wucao/mina-netty-twisted)|《MINA、Netty、Twisted一起学》系列教程源码|86|0|2022-01-07|
-|187|[2020GetGoodOffer/test](https://github.com/2020GetGoodOffer/test)|Java复习合集|434|0|2022-02-27|
-|188|[Vip-Augus/springboot-note](https://github.com/Vip-Augus/springboot-note)|Spring Boot+Vue 书籍学习 demo|80|0|2022-02-11|
-|189|[moxi624/LearningNotes](https://github.com/moxi624/LearningNotes)|Java学习笔记，主要来源于B站上视频的学习，同时会记录平时一些学习和项目中遇到的问题，同步更新在蘑菇博客，如果对我的博客网站感兴趣的话，欢迎关注我的 蘑菇博客项目 笔记主要涵盖：Java，Spring，SpringCloud，计算机网络，操作系统，数据结构，Vue等 如果笔记对您有帮助的话，欢迎star支持，谢谢~|391|0|2022-02-27|
-|190|[siegluo/demo](https://github.com/siegluo/demo)|学习总结demo|60|0|2021-10-13|
-|191|[Zouxxyy/bigdata-learning](https://github.com/Zouxxyy/bigdata-learning)|大数据学习记录|142|0|2022-02-09|
-|192|[JeffLi1993/springcloud-learning-example](https://github.com/JeffLi1993/springcloud-learning-example)|spring cloud 实践学习案例，是 spring cloud 初学者及核心技术巩固的最佳实践。|356|0|2021-12-10|
-|193|[memo012/ac-blog](https://github.com/memo012/ac-blog)|适合学生搭建的个人博客-从零开始(网站地址：www.lqnb.xyz)|409|0|2022-02-09|
-|194|[fancyyawn/zhacker-sample-ovation](https://github.com/fancyyawn/zhacker-sample-ovation)|微服务与DDD：《实现领域驱动设计》示例代码|105|0|2022-02-11|
-|195|[ProgrammerAnthony/SentinelC](https://github.com/ProgrammerAnthony/SentinelC)|官方代码release 1.8 源码学习Sentinel添加注释，新增支持以Nacos作为dashboard数据源|131|0|2022-01-19|
-|196|[daishengda2018/AndroidKnowledgeSystem](https://github.com/daishengda2018/AndroidKnowledgeSystem)|Android 高手核心知识点笔记（不断更新中🔥）|56|0|2021-11-26|
-|197|[code4wt/mybatis-test](https://github.com/code4wt/mybatis-test)|《一本小小的MyBatis源码分析书》一书的附属代码|117|0|2022-02-09|
-|198|[javastacks/javastack](https://github.com/javastacks/javastack)|Java技术栈，分享最主流的 Java 技术。|376|0|2022-02-14|
-|199|[andavid/leetcode-java](https://github.com/andavid/leetcode-java)|LeetCode solutions written in Java|155|0|2021-09-15|
-|200|[roseduan/algo-learn](https://github.com/roseduan/algo-learn)|学习数据结构与算法的代码示例，目前提供 Java、Python、Go、C++ 多种语言支持。|152|0|2022-02-27|
+|175|[alangsuo/BILIBILI-HELPER-PRE](https://github.com/alangsuo/BILIBILI-HELPER-PRE)|这是一个利用 Linux Crontab , Docker等方式实现哔哩哔哩（Bilibili）每日任务投币，点赞，分享视频，直播签到，银瓜子兑换硬币，漫画每日签到，简单配置即可每日轻松获取 65 经验值，快来和我一起成为 Lv6 吧~~~~|103|0|2022-01-14|
+|176|[littlecurl/AppProjects](https://github.com/littlecurl/AppProjects)|存放一些Java、JavaEE、Android和iOS的源码；里面同时有zip压缩文件，可以直接下载，不需要clone整个仓库！！！都是一些小Demo，注释详细一点，就不写教程文档了。|165|0|2022-02-09|
+|177|[zhailuxu/Dubbo-Demo](https://github.com/zhailuxu/Dubbo-Demo)|《深度剖析Apache Dubbo技术内幕》一书Demo|69|0|2021-09-08|
+|178|[lsgwr/algorithms](https://github.com/lsgwr/algorithms)|算法学习与总结，包括慕课网刘宇波老师、算法竞赛入门经典、挑战程序设计竞赛、算法竞赛宝典等|253|0|2021-10-24|
+|179|[McoyJiang/LagouAndroidShare](https://github.com/McoyJiang/LagouAndroidShare)|本应用是拉勾教育《Android 工程师进阶34讲》专栏的示例应用|350|0|2021-11-11|
+|180|[DAQ121/Lexer-Parser](https://github.com/DAQ121/Lexer-Parser)| :loudspeaker:编译原理，java实现的词法分析器&语法分析器，有运行窗口:computer:，附带使用说明:green_book:|75|0|2021-10-21|
+|181|[algorithmzuo/coding-for-great-offer](https://github.com/algorithmzuo/coding-for-great-offer)|大厂算法和数据结构刷题班|146|0|2022-03-01|
+|182|[DiCaprio17/seckill-ssm](https://github.com/DiCaprio17/seckill-ssm)|一个整合SSM框架的高并发和商品秒杀项目，学习目前较流行的Java框架组合实现高并发秒杀API|69|0|2021-12-09|
+|183|[TanaStudy/Java-Study](https://github.com/TanaStudy/Java-Study)|🚀Java学习过程中的的代码记录。Java基础、Spring、SpringBoot、分布式项目、Demo等等等等等👍👍👍。|96|0|2022-01-31|
+|184|[chen-xing/RgBlog](https://github.com/chen-xing/RgBlog)|RgBlog，一个简洁美观、功能强大并且自适应的Java博客。内置SEO模板，高效建站。是在开源博客oneblog的基础上进行了优化处理。|60|0|2021-11-03|
+|185|[wucao/mina-netty-twisted](https://github.com/wucao/mina-netty-twisted)|《MINA、Netty、Twisted一起学》系列教程源码|86|0|2022-01-07|
+|186|[2020GetGoodOffer/test](https://github.com/2020GetGoodOffer/test)|Java复习合集|434|0|2022-02-27|
+|187|[Vip-Augus/springboot-note](https://github.com/Vip-Augus/springboot-note)|Spring Boot+Vue 书籍学习 demo|80|0|2022-02-11|
+|188|[moxi624/LearningNotes](https://github.com/moxi624/LearningNotes)|Java学习笔记，主要来源于B站上视频的学习，同时会记录平时一些学习和项目中遇到的问题，同步更新在蘑菇博客，如果对我的博客网站感兴趣的话，欢迎关注我的 蘑菇博客项目 笔记主要涵盖：Java，Spring，SpringCloud，计算机网络，操作系统，数据结构，Vue等 如果笔记对您有帮助的话，欢迎star支持，谢谢~|391|0|2022-02-27|
+|189|[siegluo/demo](https://github.com/siegluo/demo)|学习总结demo|60|0|2021-10-13|
+|190|[Zouxxyy/bigdata-learning](https://github.com/Zouxxyy/bigdata-learning)|大数据学习记录|142|0|2022-02-09|
+|191|[JeffLi1993/springcloud-learning-example](https://github.com/JeffLi1993/springcloud-learning-example)|spring cloud 实践学习案例，是 spring cloud 初学者及核心技术巩固的最佳实践。|356|0|2021-12-10|
+|192|[memo012/ac-blog](https://github.com/memo012/ac-blog)|适合学生搭建的个人博客-从零开始(网站地址：www.lqnb.xyz)|409|0|2022-02-09|
+|193|[fancyyawn/zhacker-sample-ovation](https://github.com/fancyyawn/zhacker-sample-ovation)|微服务与DDD：《实现领域驱动设计》示例代码|105|0|2022-02-11|
+|194|[ProgrammerAnthony/SentinelC](https://github.com/ProgrammerAnthony/SentinelC)|官方代码release 1.8 源码学习Sentinel添加注释，新增支持以Nacos作为dashboard数据源|131|0|2022-01-19|
+|195|[daishengda2018/AndroidKnowledgeSystem](https://github.com/daishengda2018/AndroidKnowledgeSystem)|Android 高手核心知识点笔记（不断更新中🔥）|56|0|2021-11-26|
+|196|[code4wt/mybatis-test](https://github.com/code4wt/mybatis-test)|《一本小小的MyBatis源码分析书》一书的附属代码|117|0|2022-02-09|
+|197|[javastacks/javastack](https://github.com/javastacks/javastack)|Java技术栈，分享最主流的 Java 技术。|376|0|2022-02-14|
+|198|[andavid/leetcode-java](https://github.com/andavid/leetcode-java)|LeetCode solutions written in Java|155|0|2021-09-15|
+|199|[roseduan/algo-learn](https://github.com/roseduan/algo-learn)|学习数据结构与算法的代码示例，目前提供 Java、Python、Go、C++ 多种语言支持。|152|0|2022-02-27|
+|200|[levonmo/Thinking-in-Java](https://github.com/levonmo/Thinking-in-Java)|《Thinking In java》- Note 《Java编程思想》笔记  作者:  [美] Bruce Eckel |98|0|2021-09-29|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

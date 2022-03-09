@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > C++
-<sub>数据更新: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -12,8 +12,8 @@
 |5|[Tencent/MMKV](https://github.com/Tencent/MMKV)|An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.|14172|11|2022-02-09|
 |6|[CodingGay/BlackDex](https://github.com/CodingGay/BlackDex)|BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in sever ...|3136|11|2022-01-09|
 |7|[vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader)|下载B站视频、直播、漫画（能看=能下载）。使用 Qt C++ 开发|1759|10|2022-02-20|
-|8|[taichi-dev/taichi](https://github.com/taichi-dev/taichi)|Productive & portable high-performance programming in Python.|18345|10|2022-03-08|
-|9|[zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)|这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。|16514|10|2022-03-06|
+|8|[zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)|这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。|16514|10|2022-03-06|
+|9|[taichi-dev/taichi](https://github.com/taichi-dev/taichi)|Productive & portable high-performance programming in Python.|18345|9|2022-03-08|
 |10|[envoyproxy/envoy](https://github.com/envoyproxy/envoy)|Cloud-native high-performance edge/middle/service proxy|19111|9|2022-03-08|
 |11|[Tencent/ncnn](https://github.com/Tencent/ncnn)|ncnn is a high-performance neural network inference framework optimized for the mobile platform|13962|8|2022-03-08|
 |12|[Tencent/matrix](https://github.com/Tencent/matrix)|Matrix is a plugin style, non-invasive APM system developed by WeChat.|9615|8|2022-03-02|
@@ -67,37 +67,37 @@
 |60|[DefTruth/lite.ai.toolkit](https://github.com/DefTruth/lite.ai.toolkit)|🛠 A lite C++ toolkit of awesome AI models with ONNXRuntime, NCNN, MNN and TNN. YOLOX, YOLOP, YOLOv5, YOLOR, NanoDet, YOLOX, SCRFD, YOLOX .  MNN, NCNN, TNN, ONNXRuntime, CPU/GPU.|1056|3|2022-03-03|
 |61|[Tencent/libpag](https://github.com/Tencent/libpag)|The official rendering library for PAG (Portable Animated Graphics) files that renders After Effects animations natively across multiple platforms.|1496|3|2022-03-08|
 |62|[FiYHer/kernel_window_hide](https://github.com/FiYHer/kernel_window_hide)|内核级别隐藏指定窗口|95|3|2022-02-09|
-|63|[EdVince/QRCode-NCNN](https://github.com/EdVince/QRCode-NCNN)|QRCode(from WeChat) implement in ncnn⚡二维码检测&解码⚡ncnn⚡|140|3|2022-01-13|
-|64|[WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)|WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm ...|2818|3|2022-03-08|
-|65|[XiaoMi/mace](https://github.com/XiaoMi/mace)|MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.|4585|3|2022-02-27|
-|66|[Tencent/flare](https://github.com/Tencent/flare)| Flare是广泛投产于腾讯广告后台的现代化C++开发框架，包含了基础库、RPC、各种客户端等。主要特点为易用性强、长尾延迟低。 |850|3|2021-12-24|
-|67|[feiyangqingyun/QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo)|Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！|2994|3|2022-02-27|
-|68|[MistEO/MeoAssistantArknights](https://github.com/MistEO/MeoAssistantArknights)|明日方舟助手，自动刷图、智能基建换班，全日常一键长草！|837|3|2022-03-08|
-|69|[openppl-public/ppl.nn](https://github.com/openppl-public/ppl.nn)|A primitive library for neural network|707|3|2022-03-07|
-|70|[xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)|Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from  ...|5851|2|2022-03-08|
-|71|[duilib/duilib](https://github.com/duilib/duilib)|-|4720|2|2022-01-11|
-|72|[seetafaceengine/SeetaFace2](https://github.com/seetafaceengine/SeetaFace2)|SeetaFace 2: open source, full stack face recognization toolkit.|1914|2|2021-09-28|
-|73|[anyrtcIO-Community/anyRTC-RTMP-OpenSource](https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource)|RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS,Android）开源代码|3933|2|2022-03-08|
-|74|[hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)|A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for ...|6990|2|2022-03-05|
-|75|[githubhaohao/NDK_OpenGLES_3_0](https://github.com/githubhaohao/NDK_OpenGLES_3_0)|Android OpenGL ES 3.0 从入门到精通系统性学习教程|1658|2|2022-01-25|
-|76|[TianZerL/Anime4KCPP](https://github.com/TianZerL/Anime4KCPP)|A high performance anime upscaler|1274|2|2022-02-12|
-|77|[PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl)|Point Cloud Library (PCL)|7149|2|2022-03-08|
-|78|[MiRoboticsLab/cyberdog_ros2](https://github.com/MiRoboticsLab/cyberdog_ros2)|ROS 2 packages for CyberDog|279|2|2022-02-13|
-|79|[Tencent/Hardcoder](https://github.com/Tencent/Hardcoder)|Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the har ...|1958|2|2021-11-11|
-|80|[baidu/braft](https://github.com/baidu/braft)|An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.|3087|2|2022-02-25|
-|81|[sogou/srpc](https://github.com/sogou/srpc)|RPC based on C++ Workflow. Supports Baidu bRPC, Tencent tRPC, thrift protocols.|1167|2|2022-03-08|
-|82|[OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika)|Pika is a nosql compatible with redis, it is developed by Qihoo's DBA and infrastructure team|4548|2|2022-01-03|
-|83|[sass/node-sass](https://github.com/sass/node-sass)|:rainbow: Node.js bindings to libsass|8063|2|2022-03-07|
-|84|[EdVince/ClothingTransfer-NCNN](https://github.com/EdVince/ClothingTransfer-NCNN)|CT-Net, OpenPose, LIP_JPPNet, DensePose running with ncnn⚡服装迁移/虚拟试穿⚡ClothingTransfer/Virtual-Try-On⚡|155|2|2022-01-01|
-|85|[ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)|Cross-platform GUI management tools for OpenCore（OCAT）|1089|2|2022-03-08|
-|86|[Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow)|OneFlow is a performance-centered and open-source deep learning framework.|3062|2|2022-03-08|
-|87|[alibaba/euler](https://github.com/alibaba/euler)|A distributed graph deep learning framework.|2735|2|2021-12-30|
-|88|[ideawu/ssdb](https://github.com/ideawu/ssdb)|SSDB - A fast NoSQL database, an alternative to Redis|7785|2|2021-12-22|
-|89|[0x727/SqlKnife_0x727](https://github.com/0x727/SqlKnife_0x727)|适合在命令行中使用的轻巧的SQL Server数据库安全检测工具|342|2|2021-10-23|
-|90|[wecooperate/iMonitor](https://github.com/wecooperate/iMonitor)|iMonitor（冰镜 - 终端行为分析系统）|183|2|2022-01-30|
-|91|[BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk)|OpenArk is an open source anti-rookit(ARK) tool for Windows. |2617|2|2022-01-28|
-|92|[SpriteOvO/Telegram-Anti-Revoke](https://github.com/SpriteOvO/Telegram-Anti-Revoke)|Telegram anti-revoke plugin|1493|2|2021-12-10|
-|93|[visualfc/liteide](https://github.com/visualfc/liteide)|LiteIDE is a simple, open source, cross-platform Go IDE. |6744|2|2022-03-08|
+|63|[WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)|WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm ...|2818|3|2022-03-08|
+|64|[XiaoMi/mace](https://github.com/XiaoMi/mace)|MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.|4585|3|2022-02-27|
+|65|[Tencent/flare](https://github.com/Tencent/flare)| Flare是广泛投产于腾讯广告后台的现代化C++开发框架，包含了基础库、RPC、各种客户端等。主要特点为易用性强、长尾延迟低。 |850|3|2021-12-24|
+|66|[feiyangqingyun/QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo)|Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！|2994|3|2022-02-27|
+|67|[MistEO/MeoAssistantArknights](https://github.com/MistEO/MeoAssistantArknights)|明日方舟助手，自动刷图、智能基建换班，全日常一键长草！|837|3|2022-03-08|
+|68|[openppl-public/ppl.nn](https://github.com/openppl-public/ppl.nn)|A primitive library for neural network|707|3|2022-03-07|
+|69|[xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)|Xournal++ is a handwriting notetaking software with PDF annotation support. Written in C++ with GTK3, supporting Linux (e.g. Ubuntu, Debian, Arch, SUSE), macOS and Windows 10. Supports pen input from  ...|5851|2|2022-03-08|
+|70|[duilib/duilib](https://github.com/duilib/duilib)|-|4720|2|2022-01-11|
+|71|[seetafaceengine/SeetaFace2](https://github.com/seetafaceengine/SeetaFace2)|SeetaFace 2: open source, full stack face recognization toolkit.|1914|2|2021-09-28|
+|72|[anyrtcIO-Community/anyRTC-RTMP-OpenSource](https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource)|RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS,Android）开源代码|3933|2|2022-03-08|
+|73|[hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)|A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for ...|6990|2|2022-03-05|
+|74|[githubhaohao/NDK_OpenGLES_3_0](https://github.com/githubhaohao/NDK_OpenGLES_3_0)|Android OpenGL ES 3.0 从入门到精通系统性学习教程|1658|2|2022-01-25|
+|75|[TianZerL/Anime4KCPP](https://github.com/TianZerL/Anime4KCPP)|A high performance anime upscaler|1274|2|2022-02-12|
+|76|[PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl)|Point Cloud Library (PCL)|7149|2|2022-03-08|
+|77|[MiRoboticsLab/cyberdog_ros2](https://github.com/MiRoboticsLab/cyberdog_ros2)|ROS 2 packages for CyberDog|279|2|2022-02-13|
+|78|[Tencent/Hardcoder](https://github.com/Tencent/Hardcoder)|Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the har ...|1958|2|2021-11-11|
+|79|[baidu/braft](https://github.com/baidu/braft)|An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.|3087|2|2022-02-25|
+|80|[sogou/srpc](https://github.com/sogou/srpc)|RPC based on C++ Workflow. Supports Baidu bRPC, Tencent tRPC, thrift protocols.|1167|2|2022-03-08|
+|81|[OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika)|Pika is a nosql compatible with redis, it is developed by Qihoo's DBA and infrastructure team|4548|2|2022-01-03|
+|82|[sass/node-sass](https://github.com/sass/node-sass)|:rainbow: Node.js bindings to libsass|8063|2|2022-03-07|
+|83|[EdVince/ClothingTransfer-NCNN](https://github.com/EdVince/ClothingTransfer-NCNN)|CT-Net, OpenPose, LIP_JPPNet, DensePose running with ncnn⚡服装迁移/虚拟试穿⚡ClothingTransfer/Virtual-Try-On⚡|155|2|2022-01-01|
+|84|[ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools)|Cross-platform GUI management tools for OpenCore（OCAT）|1089|2|2022-03-08|
+|85|[Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow)|OneFlow is a performance-centered and open-source deep learning framework.|3062|2|2022-03-08|
+|86|[alibaba/euler](https://github.com/alibaba/euler)|A distributed graph deep learning framework.|2735|2|2021-12-30|
+|87|[ideawu/ssdb](https://github.com/ideawu/ssdb)|SSDB - A fast NoSQL database, an alternative to Redis|7785|2|2021-12-22|
+|88|[0x727/SqlKnife_0x727](https://github.com/0x727/SqlKnife_0x727)|适合在命令行中使用的轻巧的SQL Server数据库安全检测工具|342|2|2021-10-23|
+|89|[wecooperate/iMonitor](https://github.com/wecooperate/iMonitor)|iMonitor（冰镜 - 终端行为分析系统）|183|2|2022-01-30|
+|90|[BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk)|OpenArk is an open source anti-rookit(ARK) tool for Windows. |2617|2|2022-01-28|
+|91|[SpriteOvO/Telegram-Anti-Revoke](https://github.com/SpriteOvO/Telegram-Anti-Revoke)|Telegram anti-revoke plugin|1493|2|2021-12-10|
+|92|[visualfc/liteide](https://github.com/visualfc/liteide)|LiteIDE is a simple, open source, cross-platform Go IDE. |6744|2|2022-03-08|
+|93|[EdVince/QRCode-NCNN](https://github.com/EdVince/QRCode-NCNN)|QRCode(from WeChat) implement in ncnn⚡二维码检测&解码⚡ncnn⚡|140|2|2022-01-13|
 |94|[opencurve/curve](https://github.com/opencurve/curve)|Curve is a better-used cloud-native SDS storage system, featured with high performance, easy operation, cloud native. Curve is composed with CurveBS and CurveFS based on Raft.|973|2|2022-03-08|
 |95|[kungfu-origin/kungfu](https://github.com/kungfu-origin/kungfu)|Kungfu Trader|2586|2|2022-02-27|
 |96|[yuanming-hu/taichi_mpm](https://github.com/yuanming-hu/taichi_mpm)|High-performance moving least squares material point method (MLS-MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)|2055|2|2022-02-23|

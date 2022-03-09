@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Python
-<sub>数据更新: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -155,8 +155,7 @@
 |148|[jwt1399/Sec-Tools](https://github.com/jwt1399/Sec-Tools)|🍉一款基于Python-Django的多功能Web安全渗透测试工具，包含漏洞扫描，端口扫描，指纹识别，目录扫描，旁站扫描，域名扫描等功能。|93|2021-11-25|2021-11-05|
 |149|[xiazhongyv/PKUAutoSubmit_online](https://github.com/xiazhongyv/PKUAutoSubmit_online)|萌新友好的，无需下载文件与配环境的，基于Github Actions的，P大学生出入校自动报备程序|93|2021-11-28|2021-10-28|
 |150|[TsinghuaAI/CPM-2-Pretrain](https://github.com/TsinghuaAI/CPM-2-Pretrain)|Code for CPM-2 Pre-Train|93|2021-10-07|2021-05-31|
-|151|[THUDM/Chinese-Transformer-XL](https://github.com/THUDM/Chinese-Transformer-XL)|-|93|2021-10-25|2021-03-09|
-|152|[Vincentzyx/DouZero_For_HLDDZ_FullAuto](https://github.com/Vincentzyx/DouZero_For_HLDDZ_FullAuto)|将DouZero用于欢乐斗地主自动化|92|2021-11-05|2021-07-28|
+|151|[Vincentzyx/DouZero_For_HLDDZ_FullAuto](https://github.com/Vincentzyx/DouZero_For_HLDDZ_FullAuto)|将DouZero用于欢乐斗地主自动化|92|2021-11-05|2021-07-28|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

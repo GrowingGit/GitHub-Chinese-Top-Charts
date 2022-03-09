@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > C++
-<sub>数据更新: 2022-03-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -13,12 +13,11 @@
 |6|[aaaddress1/Windows-APT-Warfare](https://github.com/aaaddress1/Windows-APT-Warfare)|著作《Windows APT Warfare：惡意程式前線戰術指南》各章節技術實作之原始碼內容|241|2022-03-08|2021-04-16|
 |7|[muluoleiguo/interview](https://github.com/muluoleiguo/interview)|linux C++ 服务器/后台开发 秋招整理资料 |209|2021-11-07|2021-07-09|
 |8|[ShujiaHuang/Cpp-Primer-Plus-6th](https://github.com/ShujiaHuang/Cpp-Primer-Plus-6th)| 《C++ Primer Plus 第6版（中文版）》原书代码、习题答案和个人笔记，仅供学习和交流。|165|2022-02-14|2021-07-15|
-|9|[ThisisGame/cpp-game-engine-book](https://github.com/ThisisGame/cpp-game-engine-book)|从零编写游戏引擎教程|141|2022-03-08|2021-03-09|
-|10|[MinerProxy/WiseNoDevFee](https://github.com/MinerProxy/WiseNoDevFee)|Ethereum NoDevFee: Support for GMiner, Phoenix Miner, Claymore, NBMiner, lolMiner, TeamRedMiner,T-Rex Miner, miniZ/老矿工以太坊反抽水软件，支持大多数主流内核和主流币种(eth, rvn,ergo,cfx等)，仅供内部参考学习|127|2021-11-09|2021-07-21|
-|11|[Sugar0612/ReBirth](https://github.com/Sugar0612/ReBirth)|基于C++的Unreal4第三人称游戏学习笔记与制作过程(创建 ~ 架构思想~ 打包)   A third-person game based on ue4.|111|2021-12-28|2021-11-04|
-|12|[heyhu/AndroidReverseStudy](https://github.com/heyhu/AndroidReverseStudy)|安卓逆向学习|102|2022-02-23|2021-04-07|
-|13|[liuzengh/design-pattern](https://github.com/liuzengh/design-pattern)|Design Patterns In Modern C++ 中文版翻译|91|2021-10-03|2021-03-17|
-|14|[weiyu666/GAMES202homework](https://github.com/weiyu666/GAMES202homework)|主要是学习闫老师的GAMES202高质量实时渲染完成的大作业|56|2021-10-08|2021-04-06|
+|9|[MinerProxy/WiseNoDevFee](https://github.com/MinerProxy/WiseNoDevFee)|Ethereum NoDevFee: Support for GMiner, Phoenix Miner, Claymore, NBMiner, lolMiner, TeamRedMiner,T-Rex Miner, miniZ/老矿工以太坊反抽水软件，支持大多数主流内核和主流币种(eth, rvn,ergo,cfx等)，仅供内部参考学习|127|2021-11-09|2021-07-21|
+|10|[Sugar0612/ReBirth](https://github.com/Sugar0612/ReBirth)|基于C++的Unreal4第三人称游戏学习笔记与制作过程(创建 ~ 架构思想~ 打包)   A third-person game based on ue4.|111|2021-12-28|2021-11-04|
+|11|[heyhu/AndroidReverseStudy](https://github.com/heyhu/AndroidReverseStudy)|安卓逆向学习|102|2022-02-23|2021-04-07|
+|12|[liuzengh/design-pattern](https://github.com/liuzengh/design-pattern)|Design Patterns In Modern C++ 中文版翻译|91|2021-10-03|2021-03-17|
+|13|[weiyu666/GAMES202homework](https://github.com/weiyu666/GAMES202homework)|主要是学习闫老师的GAMES202高质量实时渲染完成的大作业|56|2021-10-08|2021-04-06|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
