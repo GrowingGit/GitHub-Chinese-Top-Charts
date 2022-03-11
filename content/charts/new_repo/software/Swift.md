@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Swift
-<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -39,35 +39,34 @@
 |32|[liuweigeek/NeptuneBlog-iOS](https://github.com/liuweigeek/NeptuneBlog-iOS)|Twitter clone project，模仿Twitter的社交平台，基于SwiftUI开发。|11|2022-02-08|2021-06-14|
 |33|[congHu/DD_Monitor-ios-Swift](https://github.com/congHu/DD_Monitor-ios-Swift)|DD监控室 - Swift for iOS, iPadOS, macOS|11|2021-10-13|2021-03-21|
 |34|[Rui4u/PrivateApp](https://github.com/Rui4u/PrivateApp)|隐私查看|10|2022-01-20|2021-10-21|
-|35|[TBoyLi/FunIOS](https://github.com/TBoyLi/FunIOS)|玩Android IOS Swift 版本|10|2021-09-08|2021-08-10|
-|36|[ZXKitCode/ZXFileBrowser](https://github.com/ZXKitCode/ZXFileBrowser)|The iOS sandbox file browser, which has view, copy, move, delete files and other operations. iOS端沙盒文件浏览器，可以查看、拷贝、移动、删除等操作|10|2021-10-27|2021-05-11|
-|37|[ShikiSuen/vChewing-macOS](https://github.com/ShikiSuen/vChewing-macOS)|威注音输入法的 macOS 版，以小麦注音输入法的引擎为主、搭配特制的简体中文专用辞库。是纯粹的简体中文注音输入法（也有原生的繁体中文输入模式，并非简繁转换）。目前研发管理工作均在 Gitee 进行。|9|2022-03-08|2021-12-13|
-|38|[Rogue24/OneDay](https://github.com/Rogue24/OneDay)|精美的桌面小组件。|9|2022-01-27|2021-07-08|
-|39|[Leonard-iOS/PaddleOCR](https://github.com/Leonard-iOS/PaddleOCR)|PaddleOCR是一款应用于iOS设备上的通用文字识别的OCR库.|9|2021-10-25|2021-05-13|
-|40|[litecoin-foundation/litewallet-ios](https://github.com/litecoin-foundation/litewallet-ios)|iOS version of Litewallet , official SPV Wallet from the Litecoin Foundation. Maintained by the Litewallet Team & Charlie Lee (Creator of Litecoin)|9|2022-02-28|2021-04-10|
-|41|[ShenJieSuzhou/PreloadDemo](https://github.com/ShenJieSuzhou/PreloadDemo)|该 Demo 记录了一些优雅处理网络数据的方式：实现列表无限滚动时，数据如何预加载，从而达到无缝加载的效果；滚动时 UI 卡顿的解决方案该如何实现；如何优化网络，利用数据缓存来节约流量和系统的内存。|9|2021-10-28|2021-03-23|
-|42|[37iOS/Assets-Alternate-App-Icons](https://github.com/37iOS/Assets-Alternate-App-Icons)|Xcode13 配置多套 App 图标的方法 --- AppStore 图标 A/B Test 实践|8|2021-12-23|2021-12-23|
-|43|[Coder-Star/CSPickerView](https://github.com/Coder-Star/CSPickerView)|多样式底部弹出样式选择器|8|2022-02-24|2021-06-07|
-|44|[baozoudiudiu/CustomWechatHomePage](https://github.com/baozoudiudiu/CustomWechatHomePage)|仿微信下拉展示小程序列表效果|7|2021-11-16|2021-11-16|
-|45|[zeqinjie/ZQEndlessPageControl](https://github.com/zeqinjie/ZQEndlessPageControl)|自定义 iOS14 PageControl 控件新功能|7|2021-10-21|2021-09-23|
-|46|[ListenNotes/podcast-api-swift](https://github.com/ListenNotes/podcast-api-swift)|The Official Swift Library for the Listen Notes Podcast API.|7|2021-10-26|2021-05-13|
-|47|[luoxuhai/react-native-smart-cropper](https://github.com/luoxuhai/react-native-smart-cropper)|智能裁剪图像重点区域的 react-native 库，支持基于注意力、对象和人脸。   A react-native library for intelligently cropping key areas of images, supporting attention based, object and face based.|6|2022-01-17|2022-01-17|
-|48|[37iOS/Easy-Signer](https://github.com/37iOS/Easy-Signer)| iOS App 的 Mac 重签名工具|6|2022-01-05|2022-01-04|
-|49|[lele8446/CJSkinSwift](https://github.com/lele8446/CJSkinSwift)|APP动态换肤解决方案|6|2021-09-28|2021-09-08|
-|50|[shutut/SSURLSession](https://github.com/shutut/SSURLSession)|对swift的URLSession进行拆分，增加支持设置resolve和connectTo的能力|5|2021-12-17|2021-12-11|
-|51|[xiaoxidong/SwiftUI-For-Beginners-Code](https://github.com/xiaoxidong/SwiftUI-For-Beginners-Code)|SwiftUI For Beginners 应用内全部示例代码。|5|2022-03-08|2021-10-08|
-|52|[Lebron1992/LBJMediaBrowser](https://github.com/Lebron1992/LBJMediaBrowser)|LBJMediaBrowser 是一个在 SwiftUI 框架下实现的图片视频浏览器。(LBJMediaBrowser is a media browser implemented with SwiftUI.)|5|2022-02-19|2021-09-13|
-|53|[ZPP506/ZPPRouter](https://github.com/ZPP506/ZPPRouter)|组件化路由 swift|5|2021-11-19|2021-09-06|
-|54|[BinaryParadise/PracticeTLS](https://github.com/BinaryParadise/PracticeTLS)|TLS 1.2、1.3的swift简单实现|5|2021-12-13|2021-08-05|
-|55|[namesubai/SSPage-Swift](https://github.com/namesubai/SSPage-Swift)|简单易用的分页切换组件，类型twitter,微博主页|5|2022-01-14|2021-07-19|
-|56|[natfrp/SakuraFrpLauncherMac](https://github.com/natfrp/SakuraFrpLauncherMac)|[WIP] SakuraFrp macOS 启动器|5|2021-10-28|2021-06-01|
-|57|[ThinkerJack/android-ios-flutter_notepad](https://github.com/ThinkerJack/android-ios-flutter_notepad)|Andorid IOS Flutter编写的三个记事本APP|4|2021-11-04|2021-07-21|
-|58|[changping0823/SwiftProject](https://github.com/changping0823/SwiftProject)|swift各种仿写项目（微博、微信swiftUI、玩安卓）、Moya网络层封装|3|2021-12-03|2021-11-15|
-|59|[chongzone/KeenDialog](https://github.com/chongzone/KeenDialog)|一款非常简便轻巧的对话弹窗， 对话框可在任意的 View 显示，可自由定制化属性参数|3|2021-11-15|2021-11-02|
-|60|[CoderLR/XJSwiftKit](https://github.com/CoderLR/XJSwiftKit)|用swift语言快速开发一款App|3|2021-11-09|2021-10-29|
-|61|[EggsBlue/youtube-transition](https://github.com/EggsBlue/youtube-transition)|使用SwiftUI模仿Youtube的播放动画|3|2021-10-10|2021-10-10|
-|62|[a29174332/NPU_Finger_iOS](https://github.com/a29174332/NPU_Finger_iOS)|NPU一指通 iOS版本|3|2021-09-25|2021-08-06|
-|63|[MOON-HJ/AutolayoutPractice](https://github.com/MOON-HJ/AutolayoutPractice)|✂️ 인프런 iOS AutoLayout 강좌 실습(feat. SnapKit) [空]|3|2021-09-22|2021-07-31|
+|35|[ZXKitCode/ZXFileBrowser](https://github.com/ZXKitCode/ZXFileBrowser)|The iOS sandbox file browser, which has view, copy, move, delete files and other operations. iOS端沙盒文件浏览器，可以查看、拷贝、移动、删除等操作|10|2021-10-27|2021-05-11|
+|36|[ShikiSuen/vChewing-macOS](https://github.com/ShikiSuen/vChewing-macOS)|威注音输入法的 macOS 版，以小麦注音输入法的引擎为主、搭配特制的简体中文专用辞库。是纯粹的简体中文注音输入法（也有原生的繁体中文输入模式，并非简繁转换）。目前研发管理工作均在 Gitee 进行。|9|2022-03-08|2021-12-13|
+|37|[Rogue24/OneDay](https://github.com/Rogue24/OneDay)|精美的桌面小组件。|9|2022-01-27|2021-07-08|
+|38|[Leonard-iOS/PaddleOCR](https://github.com/Leonard-iOS/PaddleOCR)|PaddleOCR是一款应用于iOS设备上的通用文字识别的OCR库.|9|2021-10-25|2021-05-13|
+|39|[litecoin-foundation/litewallet-ios](https://github.com/litecoin-foundation/litewallet-ios)|iOS version of Litewallet , official SPV Wallet from the Litecoin Foundation. Maintained by the Litewallet Team & Charlie Lee (Creator of Litecoin)|9|2022-02-28|2021-04-10|
+|40|[ShenJieSuzhou/PreloadDemo](https://github.com/ShenJieSuzhou/PreloadDemo)|该 Demo 记录了一些优雅处理网络数据的方式：实现列表无限滚动时，数据如何预加载，从而达到无缝加载的效果；滚动时 UI 卡顿的解决方案该如何实现；如何优化网络，利用数据缓存来节约流量和系统的内存。|9|2021-10-28|2021-03-23|
+|41|[37iOS/Assets-Alternate-App-Icons](https://github.com/37iOS/Assets-Alternate-App-Icons)|Xcode13 配置多套 App 图标的方法 --- AppStore 图标 A/B Test 实践|8|2021-12-23|2021-12-23|
+|42|[Coder-Star/CSPickerView](https://github.com/Coder-Star/CSPickerView)|多样式底部弹出样式选择器|8|2022-02-24|2021-06-07|
+|43|[baozoudiudiu/CustomWechatHomePage](https://github.com/baozoudiudiu/CustomWechatHomePage)|仿微信下拉展示小程序列表效果|7|2021-11-16|2021-11-16|
+|44|[zeqinjie/ZQEndlessPageControl](https://github.com/zeqinjie/ZQEndlessPageControl)|自定义 iOS14 PageControl 控件新功能|7|2021-10-21|2021-09-23|
+|45|[ListenNotes/podcast-api-swift](https://github.com/ListenNotes/podcast-api-swift)|The Official Swift Library for the Listen Notes Podcast API.|7|2021-10-26|2021-05-13|
+|46|[luoxuhai/react-native-smart-cropper](https://github.com/luoxuhai/react-native-smart-cropper)|智能裁剪图像重点区域的 react-native 库，支持基于注意力、对象和人脸。   A react-native library for intelligently cropping key areas of images, supporting attention based, object and face based.|6|2022-01-17|2022-01-17|
+|47|[37iOS/Easy-Signer](https://github.com/37iOS/Easy-Signer)| iOS App 的 Mac 重签名工具|6|2022-01-05|2022-01-04|
+|48|[lele8446/CJSkinSwift](https://github.com/lele8446/CJSkinSwift)|APP动态换肤解决方案|6|2021-09-28|2021-09-08|
+|49|[shutut/SSURLSession](https://github.com/shutut/SSURLSession)|对swift的URLSession进行拆分，增加支持设置resolve和connectTo的能力|5|2021-12-17|2021-12-11|
+|50|[xiaoxidong/SwiftUI-For-Beginners-Code](https://github.com/xiaoxidong/SwiftUI-For-Beginners-Code)|SwiftUI For Beginners 应用内全部示例代码。|5|2022-03-08|2021-10-08|
+|51|[Lebron1992/LBJMediaBrowser](https://github.com/Lebron1992/LBJMediaBrowser)|LBJMediaBrowser 是一个在 SwiftUI 框架下实现的图片视频浏览器。(LBJMediaBrowser is a media browser implemented with SwiftUI.)|5|2022-02-19|2021-09-13|
+|52|[ZPP506/ZPPRouter](https://github.com/ZPP506/ZPPRouter)|组件化路由 swift|5|2021-11-19|2021-09-06|
+|53|[BinaryParadise/PracticeTLS](https://github.com/BinaryParadise/PracticeTLS)|TLS 1.2、1.3的swift简单实现|5|2021-12-13|2021-08-05|
+|54|[namesubai/SSPage-Swift](https://github.com/namesubai/SSPage-Swift)|简单易用的分页切换组件，类型twitter,微博主页|5|2022-01-14|2021-07-19|
+|55|[natfrp/SakuraFrpLauncherMac](https://github.com/natfrp/SakuraFrpLauncherMac)|[WIP] SakuraFrp macOS 启动器|5|2021-10-28|2021-06-01|
+|56|[ThinkerJack/android-ios-flutter_notepad](https://github.com/ThinkerJack/android-ios-flutter_notepad)|Andorid IOS Flutter编写的三个记事本APP|4|2021-11-04|2021-07-21|
+|57|[changping0823/SwiftProject](https://github.com/changping0823/SwiftProject)|swift各种仿写项目（微博、微信swiftUI、玩安卓）、Moya网络层封装|3|2021-12-03|2021-11-15|
+|58|[chongzone/KeenDialog](https://github.com/chongzone/KeenDialog)|一款非常简便轻巧的对话弹窗， 对话框可在任意的 View 显示，可自由定制化属性参数|3|2021-11-15|2021-11-02|
+|59|[CoderLR/XJSwiftKit](https://github.com/CoderLR/XJSwiftKit)|用swift语言快速开发一款App|3|2021-11-09|2021-10-29|
+|60|[EggsBlue/youtube-transition](https://github.com/EggsBlue/youtube-transition)|使用SwiftUI模仿Youtube的播放动画|3|2021-10-10|2021-10-10|
+|61|[a29174332/NPU_Finger_iOS](https://github.com/a29174332/NPU_Finger_iOS)|NPU一指通 iOS版本|3|2021-09-25|2021-08-06|
+|62|[MOON-HJ/AutolayoutPractice](https://github.com/MOON-HJ/AutolayoutPractice)|✂️ 인프런 iOS AutoLayout 강좌 실습(feat. SnapKit) [空]|3|2021-09-22|2021-07-31|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

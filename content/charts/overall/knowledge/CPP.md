@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > C++
-<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -44,66 +44,64 @@
 |37|[0voice/introduce_c-cpp_manual](https://github.com/0voice/introduce_c-cpp_manual)|一个收集C/C++新手学习的入门项目，整理收纳开发者开源的小项目、工具、框架、游戏等，视频，书籍，面试题/算法题，技术文章。|477|2021-12-15|
 |38|[FengGuanxi/HDU-Experience](https://github.com/FengGuanxi/HDU-Experience)|用于向所有杭电学子分享在杭电的知识与经验|477|2022-01-15|
 |39|[liuchuo/LeetCode](https://github.com/liuchuo/LeetCode)|🍡 LeetCode Online Judge刷题题解(Java/C++/Python/Ruby/Swift)|473|2022-02-12|
-|40|[sukhoeing/aoapc-bac2nd-keys](https://github.com/sukhoeing/aoapc-bac2nd-keys)|算法竞赛入门经典第2版-习题选解|471|2021-09-08|
-|41|[HuangCongQing/pcl-learning](https://github.com/HuangCongQing/pcl-learning)|🔥PCL（Point Cloud Library）点云库学习记录|465|2022-02-11|
-|42|[midisec/BypassAnti-Virus](https://github.com/midisec/BypassAnti-Virus)|免杀姿势学习、记录、复现。|421|2022-03-07|
-|43|[ethan-li-coding/PatchMatchStereo](https://github.com/ethan-li-coding/PatchMatchStereo)|PatchMatchStereo，倾斜窗口经典，效果极佳，OpenMVS&Colmap稠密匹配算法。完整实现，代码规范，注释清晰，博客教学，欢迎star！|394|2021-12-29|
-|44|[yuesong-feng/30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)|30天自制C++服务器，包含教程和源代码|355|2022-03-07|
-|45|[chengciming/wechatPc](https://github.com/chengciming/wechatPc)|PC微信hook源码，PC微信注入，逆向编程，可以制作微信机器人玩玩，仅供学习，请不要用于商业、违法途径，本人不对此源码造成的违法负责！|353|2022-02-12|
-|46|[TJ-CSCCG/TJCS-Course](https://github.com/TJ-CSCCG/TJCS-Course)|:bulb: 同济大学计算机科学与技术、信息安全专业课程资源共享仓库。含部分科目介绍、报告模板、实验工具等内容。期待更多课程加入……|344|2022-02-24|
-|47|[limbo018/DREAMPlace](https://github.com/limbo018/DREAMPlace)|Deep learning toolkit-enabled VLSI placement|313|2022-02-21|
-|48|[AllentDan/LibtorchTutorials](https://github.com/AllentDan/LibtorchTutorials)|This is a code repository for pytorch c++ (or libtorch) tutorial.|263|2021-11-02|
-|49|[aaaddress1/Windows-APT-Warfare](https://github.com/aaaddress1/Windows-APT-Warfare)|著作《Windows APT Warfare：惡意程式前線戰術指南》各章節技術實作之原始碼內容|241|2022-03-08|
-|50|[lilinxiong/cppPrimerPlus-six-](https://github.com/lilinxiong/cppPrimerPlus-six-)|C++PrimerPlus(第6版)中文版源码|230|2021-12-31|
-|51|[muluoleiguo/interview](https://github.com/muluoleiguo/interview)|linux C++ 服务器/后台开发 秋招整理资料 |209|2021-11-07|
-|52|[adah1972/nvwa](https://github.com/adah1972/nvwa)|My small collection of C++ utilities|208|2022-02-19|
-|53|[rongweihe/CPPNotes](https://github.com/rongweihe/CPPNotes)|【C++ 面试 + C++ 学习指南】 一份涵盖大部分 C++ 程序员所需要掌握的核心知识。|199|2022-01-03|
-|54|[xiaoxiaojx/blog](https://github.com/xiaoxiaojx/blog)|Project for learning Node.js / libuv / gRPC internals.（💡Language: zh-CN）|183|2022-03-04|
-|55|[moranzcw/LeetCode-NOTES](https://github.com/moranzcw/LeetCode-NOTES)|LeetCode 算法解答|182|2021-11-14|
-|56|[kongpf8848/Animation](https://github.com/kongpf8848/Animation)|Android各种动画效果合集，项目包含了丰富的动画实例(逐帧动画，补间动画，Lottie动画，GIF动画，SVGA动画)，体验动画之美，让Android动起来:smile::smile::smile:|178|2021-12-17|
-|57|[drken1215/algorithm](https://github.com/drken1215/algorithm)|Implementation of various algorithms|177|2021-10-21|
-|58|[neil3d/UnrealCookbook](https://github.com/neil3d/UnrealCookbook)|虚幻4引擎的一些编程实践分享|176|2021-12-12|
-|59|[AgoraIO/API-Examples](https://github.com/AgoraIO/API-Examples)|Play with AgoraSDK and have fun! Everything you need to start learning Agora.|172|2022-03-02|
-|60|[gongluck/AnalysisAVP](https://github.com/gongluck/AnalysisAVP)|音视频学习，相关文件格式/协议分析，框架学习等。yuv h264 aac flv mp4 rtmp；libyuv x264 openh264 faac faad2 fdk-aac librtmp ffmpeg sdl2 webrtc；android ios capture videotoolbox；|171|2022-03-04|
-|61|[ShujiaHuang/Cpp-Primer-Plus-6th](https://github.com/ShujiaHuang/Cpp-Primer-Plus-6th)| 《C++ Primer Plus 第6版（中文版）》原书代码、习题答案和个人笔记，仅供学习和交流。|165|2022-02-14|
-|62|[GoatGirl98/Walkthrough-of-ACCoding-in-BUAA](https://github.com/GoatGirl98/Walkthrough-of-ACCoding-in-BUAA)|北航OJ通关攻略，包括北航软件学院的在线评测网站（OJ）——AC编程（accoding.cn）开放课程的全部题解|160|2022-03-05|
-|63|[keyou/chromium_demo](https://github.com/keyou/chromium_demo)|A series of demos to show how chromium is constructed.|159|2021-09-23|
-|64|[BenedictYoung/Lecture](https://github.com/BenedictYoung/Lecture)|王道考研机试指南(第二版) 例题代码|157|2022-01-19|
-|65|[WifWaf/MH-Z19](https://github.com/WifWaf/MH-Z19)|For Arduino Boards (&ESP32). Additional Examples/Commands., Hardware/Software Serial|143|2022-01-11|
-|66|[ThisisGame/cpp-game-engine-book](https://github.com/ThisisGame/cpp-game-engine-book)|从零编写游戏引擎教程|141|2022-03-08|
-|67|[metaphysis/Code](https://github.com/metaphysis/Code)|Solutions for UVa Online Judge and Programming Challeges. Sample code in my Book.|136|2021-12-29|
-|68|[jiangzc/CuteTranslation](https://github.com/jiangzc/CuteTranslation)|Linux屏幕取词翻译软件|128|2021-09-11|
-|69|[MinerProxy/WiseNoDevFee](https://github.com/MinerProxy/WiseNoDevFee)|Ethereum NoDevFee: Support for GMiner, Phoenix Miner, Claymore, NBMiner, lolMiner, TeamRedMiner,T-Rex Miner, miniZ/老矿工以太坊反抽水软件，支持大多数主流内核和主流币种(eth, rvn,ergo,cfx等)，仅供内部参考学习|127|2021-11-09|
-|70|[Lartu/ldpl](https://github.com/Lartu/ldpl)|Compiled programming language for Unix systems, inspired by COBOL and designed to be expressive, fast, readable and easy to learn.|124|2022-02-10|
-|71|[gzc/leetcode](https://github.com/gzc/leetcode)|LeetCode solutions.|122|2022-01-30|
-|72|[Sugar0612/ReBirth](https://github.com/Sugar0612/ReBirth)|基于C++的Unreal4第三人称游戏学习笔记与制作过程(创建 ~ 架构思想~ 打包)   A third-person game based on ue4.|111|2021-12-28|
-|73|[wugenqiang/NoteBook](https://github.com/wugenqiang/NoteBook)|✍ 记录一路走来学习的计算机专业知识 ，力求构建 AI & CS & SE 知识体系|111|2021-10-07|
-|74|[netbeen/flyingACE](https://github.com/netbeen/flyingACE)|A Cocos2d-3.0 games about plane fighting, using Cocos2d-x-3.3 binding c++.   Cocos2dx游戏《王牌飞行员》，使用Cocos2d-x-3.3开发|109|2021-11-14|
-|75|[GavinKG/ILearnVulkanFromScratch-CN](https://github.com/GavinKG/ILearnVulkanFromScratch-CN)|Gitbook repo hosting|108|2022-02-23|
-|76|[jiangdongguo/OpenCV4Android](https://github.com/jiangdongguo/OpenCV4Android)| OpenCV4Android including various examples // OpenCV4Android开发实录 应用示例集合|104|2022-03-07|
-|77|[heyhu/AndroidReverseStudy](https://github.com/heyhu/AndroidReverseStudy)|安卓逆向学习|102|2022-02-23|
-|78|[upupming/algorithm](https://github.com/upupming/algorithm)|acwing, leetcode, kickstart, 算法模板, PAT 等等|98|2022-03-06|
-|79|[yanglr/leetcode-ac](https://github.com/yanglr/leetcode-ac)|:octocat: leetcode-ac   LeetCode AC solutions   LeetCode+剑指offer+程序员面试金典careerup(cc189)|97|2021-11-28|
-|80|[liuzengh/design-pattern](https://github.com/liuzengh/design-pattern)|Design Patterns In Modern C++ 中文版翻译|91|2021-10-03|
-|81|[BenedictYoung/Practice](https://github.com/BenedictYoung/Practice)|王道考研机试指南(第二版) 习题代码|91|2022-01-04|
-|82|[juhuaguai/duilib](https://github.com/juhuaguai/duilib)|由官方的duilib( https://github.com/duilib/duilib ) 复制过来的，仅为了个人学习使用。可以使用vs2008打开，新增一些学习测试用的demo，代码也会同步官方的后续修改。Q群：594312689。欢迎交流学习。|91|2021-12-29|
-|83|[Vincentqyw/LineSegmentsDetection](https://github.com/Vincentqyw/LineSegmentsDetection)|:monkey:A collection of line segments detection algorithms. |87|2021-09-08|
-|84|[gongjianbo/MyTestCode](https://github.com/gongjianbo/MyTestCode)|一些测试程序，主要配合我的博客做示例。 博客地址：https://blog.csdn.net/gongjianbo1992|85|2022-02-06|
-|85|[chachaxw/data-structure-and-algorithm](https://github.com/chachaxw/data-structure-and-algorithm)|Basic data structures, sorting algorithms, algorithms learning tools. 基本数据结构，排序算法，算法学习工具|85|2022-03-08|
-|86|[downdemo/Effective-Modern-Cpp](https://github.com/downdemo/Effective-Modern-Cpp)|Effective Modern C++ 笔记：C++11/14/17 最佳实践，快速上手 Modern C++ 的最正确使用方式|84|2022-02-11|
-|87|[jiaxw32/iNote](https://github.com/jiaxw32/iNote)|个人学习研究笔记，OC、iOS 逆向、Python、汇编、Bash等等！|81|2022-03-04|
-|88|[rAthenaCN/rAthenaCN](https://github.com/rAthenaCN/rAthenaCN)|基于 rAthena 官方源码，二次开发及修正的中文版|72|2022-03-01|
-|89|[tiankonguse/leetcode-solutions](https://github.com/tiankonguse/leetcode-solutions)|My Solutions to Leetcode problems !  leetcode 算法题源代码 & Leetcode 互动编程项目|72|2022-03-06|
-|90|[ThreeSR/LeetCode](https://github.com/ThreeSR/LeetCode)|Zero LeetCode a day keeps the Offer away.|69|2022-03-07|
-|91|[zguolee/WDAlgorithmsNote](https://github.com/zguolee/WDAlgorithmsNote)|王道考研机试指南(第二版)——题目链接|66|2021-10-18|
-|92|[Greedysky/TTKTinyTools](https://github.com/Greedysky/TTKTinyTools)|Qt 自定义小工具集合  持续更新中......|66|2022-03-08|
-|93|[Tyson-Hu/RazerBlade15-Base-Model-Hackintosh_macOS_Monterey](https://github.com/Tyson-Hu/RazerBlade15-Base-Model-Hackintosh_macOS_Monterey)|一个关于RazerBlade15的黑苹果efi分享，macOS Big Sur/Monterey的安装教程，以及一些优化分享。|65|2022-01-06|
-|94|[loyinglin/Codeforces](https://github.com/loyinglin/Codeforces)|日常练习，保持手感。题目主要来源是Codeforces和leetcode。 面试BAT必备。|65|2022-01-01|
-|95|[plamenko/altruct](https://github.com/plamenko/altruct)|Algorithms & Data Structures|64|2021-11-06|
-|96|[XINCGer/AlgorithmTraining](https://github.com/XINCGer/AlgorithmTraining)|算法训练，包括《啊哈算法》中的算法和常用游戏算法|61|2021-10-31|
-|97|[weiyu666/GAMES202homework](https://github.com/weiyu666/GAMES202homework)|主要是学习闫老师的GAMES202高质量实时渲染完成的大作业|56|2021-10-08|
-|98|[exlaw/Notes](https://github.com/exlaw/Notes)|南软几个课程的本科复习资料|55|2021-10-12|
-|99|[thecodingwizard/competitive-programming](https://github.com/thecodingwizard/competitive-programming)|Solutions to various competitive programming problems I've solved. Check out the USACO Guide to improve at competitive programming!|55|2021-11-06|
+|40|[HuangCongQing/pcl-learning](https://github.com/HuangCongQing/pcl-learning)|🔥PCL（Point Cloud Library）点云库学习记录|465|2022-02-11|
+|41|[midisec/BypassAnti-Virus](https://github.com/midisec/BypassAnti-Virus)|免杀姿势学习、记录、复现。|421|2022-03-07|
+|42|[ethan-li-coding/PatchMatchStereo](https://github.com/ethan-li-coding/PatchMatchStereo)|PatchMatchStereo，倾斜窗口经典，效果极佳，OpenMVS&Colmap稠密匹配算法。完整实现，代码规范，注释清晰，博客教学，欢迎star！|394|2021-12-29|
+|43|[yuesong-feng/30dayMakeCppServer](https://github.com/yuesong-feng/30dayMakeCppServer)|30天自制C++服务器，包含教程和源代码|355|2022-03-07|
+|44|[chengciming/wechatPc](https://github.com/chengciming/wechatPc)|PC微信hook源码，PC微信注入，逆向编程，可以制作微信机器人玩玩，仅供学习，请不要用于商业、违法途径，本人不对此源码造成的违法负责！|353|2022-02-12|
+|45|[TJ-CSCCG/TJCS-Course](https://github.com/TJ-CSCCG/TJCS-Course)|:bulb: 同济大学计算机科学与技术、信息安全专业课程资源共享仓库。含部分科目介绍、报告模板、实验工具等内容。期待更多课程加入……|344|2022-02-24|
+|46|[limbo018/DREAMPlace](https://github.com/limbo018/DREAMPlace)|Deep learning toolkit-enabled VLSI placement|313|2022-02-21|
+|47|[AllentDan/LibtorchTutorials](https://github.com/AllentDan/LibtorchTutorials)|This is a code repository for pytorch c++ (or libtorch) tutorial.|263|2021-11-02|
+|48|[aaaddress1/Windows-APT-Warfare](https://github.com/aaaddress1/Windows-APT-Warfare)|著作《Windows APT Warfare：惡意程式前線戰術指南》各章節技術實作之原始碼內容|241|2022-03-08|
+|49|[lilinxiong/cppPrimerPlus-six-](https://github.com/lilinxiong/cppPrimerPlus-six-)|C++PrimerPlus(第6版)中文版源码|230|2021-12-31|
+|50|[muluoleiguo/interview](https://github.com/muluoleiguo/interview)|linux C++ 服务器/后台开发 秋招整理资料 |209|2021-11-07|
+|51|[adah1972/nvwa](https://github.com/adah1972/nvwa)|My small collection of C++ utilities|208|2022-02-19|
+|52|[rongweihe/CPPNotes](https://github.com/rongweihe/CPPNotes)|【C++ 面试 + C++ 学习指南】 一份涵盖大部分 C++ 程序员所需要掌握的核心知识。|199|2022-01-03|
+|53|[xiaoxiaojx/blog](https://github.com/xiaoxiaojx/blog)|Project for learning Node.js / libuv / gRPC internals.（💡Language: zh-CN）|183|2022-03-04|
+|54|[moranzcw/LeetCode-NOTES](https://github.com/moranzcw/LeetCode-NOTES)|LeetCode 算法解答|182|2021-11-14|
+|55|[kongpf8848/Animation](https://github.com/kongpf8848/Animation)|Android各种动画效果合集，项目包含了丰富的动画实例(逐帧动画，补间动画，Lottie动画，GIF动画，SVGA动画)，体验动画之美，让Android动起来:smile::smile::smile:|178|2021-12-17|
+|56|[drken1215/algorithm](https://github.com/drken1215/algorithm)|Implementation of various algorithms|177|2021-10-21|
+|57|[neil3d/UnrealCookbook](https://github.com/neil3d/UnrealCookbook)|虚幻4引擎的一些编程实践分享|176|2021-12-12|
+|58|[AgoraIO/API-Examples](https://github.com/AgoraIO/API-Examples)|Play with AgoraSDK and have fun! Everything you need to start learning Agora.|172|2022-03-02|
+|59|[gongluck/AnalysisAVP](https://github.com/gongluck/AnalysisAVP)|音视频学习，相关文件格式/协议分析，框架学习等。yuv h264 aac flv mp4 rtmp；libyuv x264 openh264 faac faad2 fdk-aac librtmp ffmpeg sdl2 webrtc；android ios capture videotoolbox；|171|2022-03-04|
+|60|[ShujiaHuang/Cpp-Primer-Plus-6th](https://github.com/ShujiaHuang/Cpp-Primer-Plus-6th)| 《C++ Primer Plus 第6版（中文版）》原书代码、习题答案和个人笔记，仅供学习和交流。|165|2022-02-14|
+|61|[GoatGirl98/Walkthrough-of-ACCoding-in-BUAA](https://github.com/GoatGirl98/Walkthrough-of-ACCoding-in-BUAA)|北航OJ通关攻略，包括北航软件学院的在线评测网站（OJ）——AC编程（accoding.cn）开放课程的全部题解|160|2022-03-05|
+|62|[keyou/chromium_demo](https://github.com/keyou/chromium_demo)|A series of demos to show how chromium is constructed.|159|2021-09-23|
+|63|[BenedictYoung/Lecture](https://github.com/BenedictYoung/Lecture)|王道考研机试指南(第二版) 例题代码|157|2022-01-19|
+|64|[WifWaf/MH-Z19](https://github.com/WifWaf/MH-Z19)|For Arduino Boards (&ESP32). Additional Examples/Commands., Hardware/Software Serial|143|2022-01-11|
+|65|[ThisisGame/cpp-game-engine-book](https://github.com/ThisisGame/cpp-game-engine-book)|从零编写游戏引擎教程|141|2022-03-08|
+|66|[metaphysis/Code](https://github.com/metaphysis/Code)|Solutions for UVa Online Judge and Programming Challeges. Sample code in my Book.|136|2021-12-29|
+|67|[jiangzc/CuteTranslation](https://github.com/jiangzc/CuteTranslation)|Linux屏幕取词翻译软件|128|2021-09-11|
+|68|[MinerProxy/WiseNoDevFee](https://github.com/MinerProxy/WiseNoDevFee)|Ethereum NoDevFee: Support for GMiner, Phoenix Miner, Claymore, NBMiner, lolMiner, TeamRedMiner,T-Rex Miner, miniZ/老矿工以太坊反抽水软件，支持大多数主流内核和主流币种(eth, rvn,ergo,cfx等)，仅供内部参考学习|127|2021-11-09|
+|69|[Lartu/ldpl](https://github.com/Lartu/ldpl)|Compiled programming language for Unix systems, inspired by COBOL and designed to be expressive, fast, readable and easy to learn.|124|2022-02-10|
+|70|[gzc/leetcode](https://github.com/gzc/leetcode)|LeetCode solutions.|122|2022-01-30|
+|71|[Sugar0612/ReBirth](https://github.com/Sugar0612/ReBirth)|基于C++的Unreal4第三人称游戏学习笔记与制作过程(创建 ~ 架构思想~ 打包)   A third-person game based on ue4.|111|2021-12-28|
+|72|[wugenqiang/NoteBook](https://github.com/wugenqiang/NoteBook)|✍ 记录一路走来学习的计算机专业知识 ，力求构建 AI & CS & SE 知识体系|111|2021-10-07|
+|73|[netbeen/flyingACE](https://github.com/netbeen/flyingACE)|A Cocos2d-3.0 games about plane fighting, using Cocos2d-x-3.3 binding c++.   Cocos2dx游戏《王牌飞行员》，使用Cocos2d-x-3.3开发|109|2021-11-14|
+|74|[GavinKG/ILearnVulkanFromScratch-CN](https://github.com/GavinKG/ILearnVulkanFromScratch-CN)|Gitbook repo hosting|108|2022-02-23|
+|75|[jiangdongguo/OpenCV4Android](https://github.com/jiangdongguo/OpenCV4Android)| OpenCV4Android including various examples // OpenCV4Android开发实录 应用示例集合|104|2022-03-07|
+|76|[heyhu/AndroidReverseStudy](https://github.com/heyhu/AndroidReverseStudy)|安卓逆向学习|102|2022-02-23|
+|77|[upupming/algorithm](https://github.com/upupming/algorithm)|acwing, leetcode, kickstart, 算法模板, PAT 等等|98|2022-03-06|
+|78|[yanglr/leetcode-ac](https://github.com/yanglr/leetcode-ac)|:octocat: leetcode-ac   LeetCode AC solutions   LeetCode+剑指offer+程序员面试金典careerup(cc189)|97|2021-11-28|
+|79|[liuzengh/design-pattern](https://github.com/liuzengh/design-pattern)|Design Patterns In Modern C++ 中文版翻译|91|2021-10-03|
+|80|[BenedictYoung/Practice](https://github.com/BenedictYoung/Practice)|王道考研机试指南(第二版) 习题代码|91|2022-01-04|
+|81|[juhuaguai/duilib](https://github.com/juhuaguai/duilib)|由官方的duilib( https://github.com/duilib/duilib ) 复制过来的，仅为了个人学习使用。可以使用vs2008打开，新增一些学习测试用的demo，代码也会同步官方的后续修改。Q群：594312689。欢迎交流学习。|91|2021-12-29|
+|82|[gongjianbo/MyTestCode](https://github.com/gongjianbo/MyTestCode)|一些测试程序，主要配合我的博客做示例。 博客地址：https://blog.csdn.net/gongjianbo1992|85|2022-02-06|
+|83|[chachaxw/data-structure-and-algorithm](https://github.com/chachaxw/data-structure-and-algorithm)|Basic data structures, sorting algorithms, algorithms learning tools. 基本数据结构，排序算法，算法学习工具|85|2022-03-08|
+|84|[downdemo/Effective-Modern-Cpp](https://github.com/downdemo/Effective-Modern-Cpp)|Effective Modern C++ 笔记：C++11/14/17 最佳实践，快速上手 Modern C++ 的最正确使用方式|84|2022-02-11|
+|85|[jiaxw32/iNote](https://github.com/jiaxw32/iNote)|个人学习研究笔记，OC、iOS 逆向、Python、汇编、Bash等等！|81|2022-03-04|
+|86|[rAthenaCN/rAthenaCN](https://github.com/rAthenaCN/rAthenaCN)|基于 rAthena 官方源码，二次开发及修正的中文版|72|2022-03-01|
+|87|[tiankonguse/leetcode-solutions](https://github.com/tiankonguse/leetcode-solutions)|My Solutions to Leetcode problems !  leetcode 算法题源代码 & Leetcode 互动编程项目|72|2022-03-06|
+|88|[ThreeSR/LeetCode](https://github.com/ThreeSR/LeetCode)|Zero LeetCode a day keeps the Offer away.|69|2022-03-07|
+|89|[zguolee/WDAlgorithmsNote](https://github.com/zguolee/WDAlgorithmsNote)|王道考研机试指南(第二版)——题目链接|66|2021-10-18|
+|90|[Greedysky/TTKTinyTools](https://github.com/Greedysky/TTKTinyTools)|Qt 自定义小工具集合  持续更新中......|66|2022-03-08|
+|91|[Tyson-Hu/RazerBlade15-Base-Model-Hackintosh_macOS_Monterey](https://github.com/Tyson-Hu/RazerBlade15-Base-Model-Hackintosh_macOS_Monterey)|一个关于RazerBlade15的黑苹果efi分享，macOS Big Sur/Monterey的安装教程，以及一些优化分享。|65|2022-01-06|
+|92|[loyinglin/Codeforces](https://github.com/loyinglin/Codeforces)|日常练习，保持手感。题目主要来源是Codeforces和leetcode。 面试BAT必备。|65|2022-01-01|
+|93|[plamenko/altruct](https://github.com/plamenko/altruct)|Algorithms & Data Structures|64|2021-11-06|
+|94|[XINCGer/AlgorithmTraining](https://github.com/XINCGer/AlgorithmTraining)|算法训练，包括《啊哈算法》中的算法和常用游戏算法|61|2021-10-31|
+|95|[weiyu666/GAMES202homework](https://github.com/weiyu666/GAMES202homework)|主要是学习闫老师的GAMES202高质量实时渲染完成的大作业|56|2021-10-08|
+|96|[exlaw/Notes](https://github.com/exlaw/Notes)|南软几个课程的本科复习资料|55|2021-10-12|
+|97|[thecodingwizard/competitive-programming](https://github.com/thecodingwizard/competitive-programming)|Solutions to various competitive programming problems I've solved. Check out the USACO Guide to improve at competitive programming!|55|2021-11-06|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Shell
-<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|23367|16|2022-03-07|
 |2|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|6719|6|2022-03-03|
-|3|[rootsongjc/envoy-handbook](https://github.com/rootsongjc/envoy-handbook)|Envoy 基础教程 - https://jimmysong.io/envoy-handbook/|50|6|2022-03-07|
-|4|[rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)|Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook|9690|5|2022-03-07|
+|3|[rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)|Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook|9690|5|2022-03-07|
+|4|[rootsongjc/envoy-handbook](https://github.com/rootsongjc/envoy-handbook)|Envoy 基础教程 - https://jimmysong.io/envoy-handbook/|50|5|2022-03-07|
 |5|[kiddin9/OpenWrt_x86-r2s-r4s](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s)|Automatic unattended weekly builds of the current OpenWrt development master branch for X86_64, NanoPi-R2S, NanoPi-R4S, Rpi-4B|1942|3|2022-03-06|
 |6|[rootsongjc/opentelemetry-obervability](https://github.com/rootsongjc/opentelemetry-obervability)|《OpenTelemetry 可观测性的未来》  O'Reilly 报告 - https://jimmysong.io/opentelemetry-obervability/|95|3|2022-02-23|
 |7|[judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial)|《Java 程序员眼中的 Linux》|7790|3|2022-01-31|

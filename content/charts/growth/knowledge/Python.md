@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Python
-<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer)|Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.|165815|90|2022-03-07|
 |2|[jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)|Python - 100天从新手到大师|115553|79|2022-02-16|
-|3|[4ra1n/JavaSecInterview](https://github.com/4ra1n/JavaSecInterview)|打造最强的Java安全研究与安全开发面试题库，包含问题和详细的答案，帮助师傅们找到满意的工作|730|30|2022-03-04|
+|3|[4ra1n/JavaSecInterview](https://github.com/4ra1n/JavaSecInterview)|打造最强的Java安全研究与安全开发面试题库，包含问题和详细的答案，帮助师傅们找到满意的工作|730|29|2022-03-04|
 |4|[521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)|:octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.|52946|25|2022-02-28|
 |5|[d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh)|《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被55个国家的300所大学用于教学。|30538|18|2022-03-08|
 |6|[satwikkansal/wtfpython](https://github.com/satwikkansal/wtfpython)|What the f*ck Python? 😱|28326|17|2022-01-17|
@@ -199,12 +199,12 @@
 |192|[inoutcode/bitcoin_book_2nd](https://github.com/inoutcode/bitcoin_book_2nd)|Mastering Bitcoin 2nd Edition  精通比特币（第二版）-- 区块链编程|259|0|2022-03-01|
 |193|[TianPangJi/drf_admin](https://github.com/TianPangJi/drf_admin)|项目基于Django、Django REST framework（DRF）、Channels、Redis、Vue的前后端分离的后台管理系统，项目采用分模块开发方式， 权限控制采用 RBAC；目前已实现基本功能，满足日常学习使用，工由于工作较忙更新较慢，请见谅......https://tianpangji.github.io/|171|0|2021-12-08|
 |194|[yongxinz/tech-blog](https://github.com/yongxinz/tech-blog)|我的个人技术博客（Python、Django、Docker、Go、Redis、ElasticSearch、Kafka、Linux）|254|0|2022-03-07|
-|195|[wf1314/zhihu-terminal](https://github.com/wf1314/zhihu-terminal)|命令行版知乎|115|0|2021-09-08|
-|196|[bupticybee/ChineseAiDungeon](https://github.com/bupticybee/ChineseAiDungeon)|中文版ai地牢|99|0|2021-09-27|
-|197|[Anfany/Machine-Learning-for-Beginner-by-Python3](https://github.com/Anfany/Machine-Learning-for-Beginner-by-Python3)|为机器学习的入门者提供多种基于实例的sklearn、TensorFlow以及自编函数(AnFany)的ML算法程序。|356|0|2021-10-16|
-|198|[gymgle/blockchain-reference](https://github.com/gymgle/blockchain-reference)|区块链参考资料|311|0|2022-02-21|
-|199|[RSS-Renaissance/awesome-blogCN-feeds](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)|优质的「独立中文博客」订阅列表|381|0|2022-02-26|
-|200|[xtg20121013/blog_xtg](https://github.com/xtg20121013/blog_xtg)|blog_xtg 基于tornado的分布式架构博客|172|0|2021-12-08|
+|195|[bupticybee/ChineseAiDungeon](https://github.com/bupticybee/ChineseAiDungeon)|中文版ai地牢|99|0|2021-09-27|
+|196|[Anfany/Machine-Learning-for-Beginner-by-Python3](https://github.com/Anfany/Machine-Learning-for-Beginner-by-Python3)|为机器学习的入门者提供多种基于实例的sklearn、TensorFlow以及自编函数(AnFany)的ML算法程序。|356|0|2021-10-16|
+|197|[gymgle/blockchain-reference](https://github.com/gymgle/blockchain-reference)|区块链参考资料|311|0|2022-02-21|
+|198|[RSS-Renaissance/awesome-blogCN-feeds](https://github.com/RSS-Renaissance/awesome-blogCN-feeds)|优质的「独立中文博客」订阅列表|381|0|2022-02-26|
+|199|[xtg20121013/blog_xtg](https://github.com/xtg20121013/blog_xtg)|blog_xtg 基于tornado的分布式架构博客|172|0|2021-12-08|
+|200|[yuntaodu/Transfer-learning-materials](https://github.com/yuntaodu/Transfer-learning-materials)|resource collection for transfer learning!|162|0|2021-10-23|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

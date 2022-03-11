@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > All Language
-<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Language|Updated|Created|
 |:-|:-|:-|:-|:-|:-|:-|
@@ -186,25 +186,25 @@
 |179|[SonicCloudOrg/sonic-agent](https://github.com/SonicCloudOrg/sonic-agent)|🎉Agent of Sonic cloud real machine testing platform. Sonic云真机测试平台Agent端。|562|Java|2022-03-07|2021-08-16|
 |180|[ghealer/GUI_Tools](https://github.com/ghealer/GUI_Tools)|一个由各种图形化渗透工具组成的工具集|558|Python|2022-01-10|2021-09-06|
 |181|[feeddd/feeds](https://github.com/feeddd/feeds)|免费的公众号 RSS，支持扩展任意 APP|558|JavaScript|2022-03-03|2021-08-17|
-|182|[wgpsec/tig](https://github.com/wgpsec/tig)|Threat Intelligence Gathering 威胁情报收集，旨在提高蓝队拿到攻击 IP 后对其进行威胁情报信息收集的效率。|558|Python|2022-03-04|2021-03-10|
-|183|[baidu/EasyFaaS](https://github.com/baidu/EasyFaaS)|EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎|557|Go|2021-10-18|2021-04-06|
-|184|[gys619/Absinthe](https://github.com/gys619/Absinthe)|一个兴趣使然的库|549|JavaScript|2022-03-08|2021-09-02|
-|185|[cmdparkour/vue-admin-box](https://github.com/cmdparkour/vue-admin-box)|vue3,vite,element-plus中后台管理系统，集成四套基础模板，大量可利用组件，模板页面|549|Vue|2022-02-10|2021-05-24|
-|186|[X-Lucifer/AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer)|AI无损放大工具|547|C#|2021-10-03|2021-10-01|
-|187|[HXSecurity/DongTai-agent-java](https://github.com/HXSecurity/DongTai-agent-java)|Java Agent is a Java application probe of DongTai IAST, which collects method invocation data during runtime of Java application by dynamic hooks.|544|Java|2022-03-08|2021-03-22|
-|188|[YuehaiTeam/cocogoat-client](https://github.com/YuehaiTeam/cocogoat-client)|A toolbox for Genshin Impact to export artifacts automatically.  支持圣遗物全自动导出的原神工具箱，保证每一行代码都是熬夜加班打造。|543|JavaScript|2022-02-15|2021-04-08|
-|189|[miaowmiaow/fragmject](https://github.com/miaowmiaow/fragmject)|一个入门级的项目，通过对Kotlin和Jetpack全家桶的系统运用，实现的一个功能完备符合主流市场标准App。 代码简单，内容全面，知识详细，快速上手，对理解其他项目设计思想和封装技巧也很有帮助。|542|Kotlin|2022-03-03|2021-05-06|
-|190|[yitter/IdGenerator](https://github.com/yitter/IdGenerator)|💎迄今为止最全面的分布式主键ID生成器。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/SQL 等多语言，且提供 PHP 扩展及 Python、Node.js、Ruby 多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯 ...|542|C|2022-01-01|2021-03-13|
-|191|[shadowcz007/awesome-metaverse](https://github.com/shadowcz007/awesome-metaverse)|Useful resources for creating Meta-verse |540|-|2021-12-09|2021-10-18|
-|192|[chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks)|网易云音乐自动任务：刷等级、云贝、云豆等|538|Python|2022-03-08|2021-12-09|
-|193|[P1-Team/AlliN](https://github.com/P1-Team/AlliN)|A flexible scanner|534|Python|2022-02-15|2021-03-14|
-|194|[DHDAXCW/NanoPi-R2S](https://github.com/DHDAXCW/NanoPi-R2S)|基于 Lean&Lienol 源码的 NanoPi R2S 的 OpenWrt 固件。每天自动更新插件和内核，Fusion编译法|532|Shell|2022-03-05|2021-06-17|
-|195|[hukaixuan19970627/yolov5_obb](https://github.com/hukaixuan19970627/yolov5_obb)|yolov5 + csl_label.(Oriented Object Detection)（Rotation Detection）（Rotated BBox）基于yolov5的旋转目标检测|529|Python|2022-03-02|2021-03-17|
-|196|[shmilylty/netspy](https://github.com/shmilylty/netspy)|netspy是一款快速探测内网可达网段工具|528|Go|2022-02-11|2022-01-01|
-|197|[WPFDevelopersOrg/WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)|WPF Developers Daily Share 🎉Ongoing update.|527|C#|2022-03-06|2021-05-25|
-|198|[GeekQiaQia/vue3.0-template-admin](https://github.com/GeekQiaQia/vue3.0-template-admin)|本项目基于vue3+ElementPlus+Typescript+Vite搭建一套通用的后台管理模板；并基于常见业务场景，抽象出常见功能组件；包括动态菜单，菜单权限、登录、主题切换、国际化、个人中心、表单页、列表页、复制文本、二维码分享等等|515|Vue|2022-03-06|2021-04-25|
-|199|[alibaba/ilogtail](https://github.com/alibaba/ilogtail)|The Lightweight Data Collector of SLS in Alibaba Cloud|514|Go|2022-03-08|2021-11-08|
-|200|[Ed1s0nZ/cool](https://github.com/Ed1s0nZ/cool)|Golang-Gin 框架写的免杀平台，内置分离、捆绑等多种BypassAV方式。|511|HTML|2021-11-25|2021-11-10|
+|182|[baidu/EasyFaaS](https://github.com/baidu/EasyFaaS)|EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎|557|Go|2021-10-18|2021-04-06|
+|183|[gys619/Absinthe](https://github.com/gys619/Absinthe)|一个兴趣使然的库|549|JavaScript|2022-03-08|2021-09-02|
+|184|[cmdparkour/vue-admin-box](https://github.com/cmdparkour/vue-admin-box)|vue3,vite,element-plus中后台管理系统，集成四套基础模板，大量可利用组件，模板页面|549|Vue|2022-02-10|2021-05-24|
+|185|[X-Lucifer/AI-Lossless-Zoomer](https://github.com/X-Lucifer/AI-Lossless-Zoomer)|AI无损放大工具|547|C#|2021-10-03|2021-10-01|
+|186|[HXSecurity/DongTai-agent-java](https://github.com/HXSecurity/DongTai-agent-java)|Java Agent is a Java application probe of DongTai IAST, which collects method invocation data during runtime of Java application by dynamic hooks.|544|Java|2022-03-08|2021-03-22|
+|187|[YuehaiTeam/cocogoat-client](https://github.com/YuehaiTeam/cocogoat-client)|A toolbox for Genshin Impact to export artifacts automatically.  支持圣遗物全自动导出的原神工具箱，保证每一行代码都是熬夜加班打造。|543|JavaScript|2022-02-15|2021-04-08|
+|188|[miaowmiaow/fragmject](https://github.com/miaowmiaow/fragmject)|一个入门级的项目，通过对Kotlin和Jetpack全家桶的系统运用，实现的一个功能完备符合主流市场标准App。 代码简单，内容全面，知识详细，快速上手，对理解其他项目设计思想和封装技巧也很有帮助。|542|Kotlin|2022-03-03|2021-05-06|
+|189|[yitter/IdGenerator](https://github.com/yitter/IdGenerator)|💎迄今为止最全面的分布式主键ID生成器。 💎优化的雪花算法（SnowFlake）——雪花漂移算法，在缩短ID长度的同时，具备极高瞬时并发处理能力（50W/0.1s）。 💎原生支持 C#/Java/Go/Rust/C/SQL 等多语言，且提供 PHP 扩展及 Python、Node.js、Ruby 多线程安全调用动态库（FFI）。💎支持容器环境自动扩容（自动注册 WorkerId ），单机或分布式唯 ...|542|C|2022-01-01|2021-03-13|
+|190|[shadowcz007/awesome-metaverse](https://github.com/shadowcz007/awesome-metaverse)|Useful resources for creating Meta-verse |540|-|2021-12-09|2021-10-18|
+|191|[chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks)|网易云音乐自动任务：刷等级、云贝、云豆等|538|Python|2022-03-08|2021-12-09|
+|192|[P1-Team/AlliN](https://github.com/P1-Team/AlliN)|A flexible scanner|534|Python|2022-02-15|2021-03-14|
+|193|[DHDAXCW/NanoPi-R2S](https://github.com/DHDAXCW/NanoPi-R2S)|基于 Lean&Lienol 源码的 NanoPi R2S 的 OpenWrt 固件。每天自动更新插件和内核，Fusion编译法|532|Shell|2022-03-05|2021-06-17|
+|194|[hukaixuan19970627/yolov5_obb](https://github.com/hukaixuan19970627/yolov5_obb)|yolov5 + csl_label.(Oriented Object Detection)（Rotation Detection）（Rotated BBox）基于yolov5的旋转目标检测|529|Python|2022-03-02|2021-03-17|
+|195|[shmilylty/netspy](https://github.com/shmilylty/netspy)|netspy是一款快速探测内网可达网段工具|528|Go|2022-02-11|2022-01-01|
+|196|[WPFDevelopersOrg/WPFDevelopers](https://github.com/WPFDevelopersOrg/WPFDevelopers)|WPF Developers Daily Share 🎉Ongoing update.|527|C#|2022-03-06|2021-05-25|
+|197|[GeekQiaQia/vue3.0-template-admin](https://github.com/GeekQiaQia/vue3.0-template-admin)|本项目基于vue3+ElementPlus+Typescript+Vite搭建一套通用的后台管理模板；并基于常见业务场景，抽象出常见功能组件；包括动态菜单，菜单权限、登录、主题切换、国际化、个人中心、表单页、列表页、复制文本、二维码分享等等|515|Vue|2022-03-06|2021-04-25|
+|198|[alibaba/ilogtail](https://github.com/alibaba/ilogtail)|The Lightweight Data Collector of SLS in Alibaba Cloud|514|Go|2022-03-08|2021-11-08|
+|199|[Ed1s0nZ/cool](https://github.com/Ed1s0nZ/cool)|Golang-Gin 框架写的免杀平台，内置分离、捆绑等多种BypassAV方式。|511|HTML|2021-11-25|2021-11-10|
+|200|[dqzg12300/fridaUiTools](https://github.com/dqzg12300/fridaUiTools)|frida工具的缝合怪|511|Python|2022-02-28|2021-06-01|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

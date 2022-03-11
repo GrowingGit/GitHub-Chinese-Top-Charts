@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > C
-<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot)|我的超迷你机械臂机器人项目。|6114|40|2022-03-01|
-|2|[easychen/pushdeer](https://github.com/easychen/pushdeer)|开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备|2249|27|2022-03-07|
+|1|[peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot)|我的超迷你机械臂机器人项目。|6114|39|2022-03-01|
+|2|[easychen/pushdeer](https://github.com/easychen/pushdeer)|开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备|2249|26|2022-03-07|
 |3|[bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook)|🔥 An inline hook library for Android apps. (thumb + arm32 + arm64)|455|16|2022-03-07|
-|4|[0voice/kernel_new_features](https://github.com/0voice/kernel_new_features)|一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等|757|15|2022-02-15|
+|4|[0voice/kernel_new_features](https://github.com/0voice/kernel_new_features)|一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等|757|14|2022-02-15|
 |5|[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)|Lean's OpenWrt source|20167|12|2022-03-08|
 |6|[peng-zhihui/HDMI-PI](https://github.com/peng-zhihui/HDMI-PI)|我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。|4481|9|2022-02-09|
 |7|[sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)|Sandboxie - Open Source|6498|9|2022-03-08|

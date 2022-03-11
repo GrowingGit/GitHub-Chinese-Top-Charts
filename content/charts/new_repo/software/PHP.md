@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > PHP
-<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -35,14 +35,13 @@
 |28|[Lysice/laravel-xlswriter](https://github.com/Lysice/laravel-xlswriter)|an excel export/import tool for laravel based on php-xlswriter|47|2021-10-25|2021-04-25|
 |29|[xflash-panda/v2board](https://github.com/xflash-panda/v2board)|🚀🚀🚀  完全开源优化版本的v2board|46|2021-12-17|2021-09-18|
 |30|[MatthK/swfd](https://github.com/MatthK/swfd)|Selfoss Webfront Docker|45|2022-02-14|2021-09-20|
-|31|[Fenguoz/tron-php](https://github.com/Fenguoz/tron-php)|Support TRON's TRX and TRC20, which include functions such as address creation, balance query, transaction transfer, query the latest blockchain, query information based on the blockchain, and query i ...|44|2022-02-01|2021-03-10|
-|32|[q398044828/xxoo_share_pool](https://github.com/q398044828/xxoo_share_pool)|xxoo助力池！！！|43|2022-01-16|2021-11-13|
-|33|[mix-php/vega](https://github.com/mix-php/vega)|💫 Vega is a CLI mode HTTP web framework written in PHP supports Swoole, WorkerMan, FPM, CLI-Server / Vega 是一个用 PHP 编写的 CLI 模式 HTTP 网络框架，支持 Swoole、WorkerMan、FPM、CLI-Server|42|2022-01-22|2021-05-27|
-|34|[wehaox/Typecho-Butterfly](https://github.com/wehaox/Typecho-Butterfly)|Hexo主题Butterfly的Typecho移植版|41|2022-03-05|2021-08-14|
-|35|[rocky-git/E-admin](https://github.com/rocky-git/E-admin)|E-admin是一个基于Element Plus开发而成后台系统构建工具，无需关注页面模板JavaScript，只用php代码即可快速构建出一个功能完善的后台系统。|41|2022-03-05|2021-06-30|
-|36|[duxphp/duxravel](https://github.com/duxphp/duxravel)|Duxravel 是基于 Laravel 框架和Arco Design Vue 开发的后台管理开发框架|39|2022-01-10|2021-12-21|
-|37|[chowjiawei/laravel-help-plugin](https://github.com/chowjiawei/laravel-help-plugin)|Laravel综合辅助工具包. 消息通知、获取国家列表 支持钉钉机器人 企业微信机器人 微信模板消息/广播驱动及消息通知 、Openexchangerates 汇率实时获取，自定义汇率获取、国家列表、汉语拼音转换威妥玛式拼音|39|2022-02-28|2021-04-15|
-|38|[zhizhi2021/v2board-bot](https://github.com/zhizhi2021/v2board-bot)|v2board-bot功能增强|38|2021-10-25|2021-09-24|
+|31|[q398044828/xxoo_share_pool](https://github.com/q398044828/xxoo_share_pool)|xxoo助力池！！！|43|2022-01-16|2021-11-13|
+|32|[mix-php/vega](https://github.com/mix-php/vega)|💫 Vega is a CLI mode HTTP web framework written in PHP supports Swoole, WorkerMan, FPM, CLI-Server / Vega 是一个用 PHP 编写的 CLI 模式 HTTP 网络框架，支持 Swoole、WorkerMan、FPM、CLI-Server|42|2022-01-22|2021-05-27|
+|33|[wehaox/Typecho-Butterfly](https://github.com/wehaox/Typecho-Butterfly)|Hexo主题Butterfly的Typecho移植版|41|2022-03-05|2021-08-14|
+|34|[rocky-git/E-admin](https://github.com/rocky-git/E-admin)|E-admin是一个基于Element Plus开发而成后台系统构建工具，无需关注页面模板JavaScript，只用php代码即可快速构建出一个功能完善的后台系统。|41|2022-03-05|2021-06-30|
+|35|[duxphp/duxravel](https://github.com/duxphp/duxravel)|Duxravel 是基于 Laravel 框架和Arco Design Vue 开发的后台管理开发框架|39|2022-01-10|2021-12-21|
+|36|[chowjiawei/laravel-help-plugin](https://github.com/chowjiawei/laravel-help-plugin)|Laravel综合辅助工具包. 消息通知、获取国家列表 支持钉钉机器人 企业微信机器人 微信模板消息/广播驱动及消息通知 、Openexchangerates 汇率实时获取，自定义汇率获取、国家列表、汉语拼音转换威妥玛式拼音|39|2022-02-28|2021-04-15|
+|37|[zhizhi2021/v2board-bot](https://github.com/zhizhi2021/v2board-bot)|v2board-bot功能增强|38|2021-10-25|2021-09-24|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

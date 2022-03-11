@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Rust
-<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -39,41 +39,40 @@
 |32|[thekingofsex/lazyfinder](https://github.com/thekingofsex/lazyfinder)|遍历目标目录中包含指定关键字的文件，并从匹配到的文件中匹配特定字符串所在行|38|2022-02-24|2022-02-11|
 |33|[lolishinshi/imsearch](https://github.com/lolishinshi/imsearch)|基于特征点匹配的相似图片搜索|37|2022-02-17|2021-09-09|
 |34|[modernizing/guarding](https://github.com/modernizing/guarding)|Guarding is a guardians for code, architecture, layered, inspired by ArchUnit. Guarding 是一个用于 Java、JavaScript、Rust、Golang 等语言的架构守护工具。借助于易于理解的 DSL，来编写守护规则。Guarding is a guardians for code, architecture ...|36|2022-02-21|2021-05-13|
-|35|[Ko-oK-OS/xv6-rust](https://github.com/Ko-oK-OS/xv6-rust)|🦀️ Re-implement xv6-riscv in Rust|36|2022-01-23|2021-03-10|
-|36|[kekeimiku/msrs](https://github.com/kekeimiku/msrs)|写着玩的|35|2022-02-28|2022-01-26|
-|37|[zu1k/sdusrun](https://github.com/zu1k/sdusrun)|校园网深澜认证登录，srun|35|2022-03-08|2021-11-02|
-|38|[orhun/godsays](https://github.com/orhun/godsays)|Rust port of the Terry Davis' (RIP) "god says" program|35|2022-01-26|2021-06-22|
-|39|[Millione/nju-clock-in](https://github.com/Millione/nju-clock-in)|南京大学自动打卡|34|2021-10-20|2021-10-11|
-|40|[h4cnull/ratel](https://github.com/h4cnull/ratel)|​ ratel(獾) 是由rust开发的红队信息搜集，扫描工具，支持从fofa，zoomeye API查询，主动扫描端口，提取https证书域名，自定义poc，输出xlsx格式。|32|2022-03-03|2021-12-17|
-|41|[Joylei/anim-rs](https://github.com/Joylei/anim-rs)|:hourglass: A framework independent animation library for rust, works nicely with Iced and the others|32|2022-01-01|2021-06-18|
-|42|[stuartZhang/scaffold-wizard](https://github.com/stuartZhang/scaffold-wizard)|问卷反馈收集, 前端脚手架安装向导, rust, gtk3, win32, dll|32|2022-02-05|2021-05-27|
-|43|[luojia65/w806-pac](https://github.com/luojia65/w806-pac)|under development: community SVD file, peripheral access crate in embedded Rust for WinnerMicro W800, W801 & W806 chip|31|2021-11-18|2021-11-09|
-|44|[zu1k/ldap-log](https://github.com/zu1k/ldap-log)|一个LDAP请求监听器，摆脱dnslog平台和java|28|2022-02-16|2021-12-11|
-|45|[UnblockNeteaseMusic/server-rust](https://github.com/UnblockNeteaseMusic/server-rust)|Rust 版本的 UnblockNeteaseMusic/server ，以效能、穩定性及可維護性為目標。|27|2022-03-08|2021-09-19|
-|46|[zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust)|Rust 版 ServerStatus 云探针、多服务器探针、云监控、多服务器云监控|26|2022-03-05|2022-01-24|
-|47|[WeBankBlockchain/liquid](https://github.com/WeBankBlockchain/liquid)|Liquid 由微众银行区块链团队开发并完全开源，是一种嵌入式领域特定语言（ embedded Domain Specific Language，eDSL），能够用来编写运行于区块链底层平台FISCO BCOS的智能合约。|26|2022-01-24|2021-03-17|
-|48|[Borber/Whisperer](https://github.com/Borber/Whisperer)|将文本编码为简短的中文字符, 防和谐, 并非加密. 如需加密请使用其他实用工具 / Encode the text into short Chinese characters, to prevent harmonization, not to encrypt it. For encryption, please use other utilities|25|2022-02-17|2022-01-01|
-|49|[itytophile/rab](https://github.com/itytophile/rab)|Rusty Armor Builds - Monster Hunter Rise Armor Set Creation Tool|25|2022-02-23|2021-04-23|
-|50|[Kingtous/RustPlayer](https://github.com/Kingtous/RustPlayer)|An local audio player using Rust and completely terminal gui🎵.  使用Rust开发的纯终端本地播放器🎵.|24|2022-03-05|2022-02-26|
-|51|[wandercn/gostd](https://github.com/wandercn/gostd)|Gostd is the golang standard library implementation in rust-lang.|24|2022-03-07|2021-09-15|
-|52|[Microsoft-Distributed-System-Meetup/summer_love_paper_meetup](https://github.com/Microsoft-Distributed-System-Meetup/summer_love_paper_meetup)|This repo contains the schedule for summer paper meetup|24|2022-01-24|2021-06-22|
-|53|[rubickCenter/rubick-base](https://github.com/rubickCenter/rubick-base)|desktop automation, screen capture, input listen/simulation, asar compress, color picker for nodejs and electron based on rust. 基于 Rust / WASM 提供截图、取色、键鼠事件监听模拟、压缩解压、图像处理、获取已安装应用等跨平台功能的现代异步 Nodejs 模块，占 ...|23|2021-10-15|2021-09-08|
-|54|[FrankBuss/frequencycounter](https://github.com/FrankBuss/frequencycounter)|Arduino Nano frequency counter with atomic clock accuracy|22|2021-11-16|2021-11-14|
-|55|[cty123/TrojanRust](https://github.com/cty123/TrojanRust)|Trojan-rust is a rust implementation for Trojan protocol that is targeted to circumvent GFW. This implementation focus on performance and stability above everything else.|21|2022-03-07|2021-05-03|
-|56|[OPQBOT/rust-tcp-async-client](https://github.com/OPQBOT/rust-tcp-async-client)|Rust Tokio 异步多客户端网络框架 高并发 插件化|21|2021-12-25|2021-04-13|
-|57|[chai2010/ugo-rs](https://github.com/chai2010/ugo-rs)|µGo编程语言(Rust版本) - 试验场|20|2022-02-15|2022-02-08|
-|58|[luojia65/zihai](https://github.com/luojia65/zihai)|自嗨虚拟化软件 - 'Enjoy yourself' type-1 hypervisor software|20|2022-02-09|2022-01-07|
-|59|[inherd/forming](https://github.com/inherd/forming)|Forming, is a lightweight architecture as code language. 轻量级架构即代码语言|19|2021-11-10|2021-03-28|
-|60|[cc-morning/river](https://github.com/cc-morning/river)|灵活，快速的数据迁移工具|18|2022-03-07|2022-02-19|
-|61|[inherd/writing](https://github.com/inherd/writing)|A document-code sync tools for document engineering. Writing 是一个自动 “文档-代码” 同步工具。解析 Markdown 中的代码定义，读取目标代码，并嵌入到新的文档中。|18|2021-10-25|2021-10-22|
-|62|[eatradish/meowdict](https://github.com/eatradish/meowdict)|喵典 - CLI Web client for moedict.tw|17|2022-02-11|2021-05-23|
-|63|[Chi-Task-Force/Chi-Telegram-Inline-Bot-Neo](https://github.com/Chi-Task-Force/Chi-Telegram-Inline-Bot-Neo)|  在 Telegram 上快速模仿迟先生卖弱。|16|2022-02-28|2021-10-26|
-|64|[1148118271/ssh-rs](https://github.com/1148118271/ssh-rs)|In addition to encryption library, pure RUST implementation of SSH-2.0 client protocol (除加密库之外 纯rust实现的  ssh-2.0 client 协议)|14|2022-01-26|2021-12-29|
-|65|[wushikj/mix-agent](https://github.com/wushikj/mix-agent)|基于rust语言开发的一套运维监控探针，支持widnows、linux、macos系统|14|2021-11-16|2021-07-30|
-|66|[TianLiangZhou/ffi-pinyin](https://github.com/TianLiangZhou/ffi-pinyin)|最快速的PHP中文转拼音库|14|2021-12-07|2021-04-16|
-|67|[KernelErr/fourth](https://github.com/KernelErr/fourth)|Simple and fast layer 4 proxy in Rust|13|2021-12-30|2021-10-21|
-|68|[KernelErr/shallow-container](https://github.com/KernelErr/shallow-container)|A light-weight container tool written in Rust.|12|2021-09-22|2021-09-19|
-|69|[JASory/Iridium](https://github.com/JASory/Iridium)|Atomic Physics Library|11|2021-11-18|2021-07-15|
+|35|[kekeimiku/msrs](https://github.com/kekeimiku/msrs)|写着玩的|35|2022-02-28|2022-01-26|
+|36|[zu1k/sdusrun](https://github.com/zu1k/sdusrun)|校园网深澜认证登录，srun|35|2022-03-08|2021-11-02|
+|37|[orhun/godsays](https://github.com/orhun/godsays)|Rust port of the Terry Davis' (RIP) "god says" program|35|2022-01-26|2021-06-22|
+|38|[Millione/nju-clock-in](https://github.com/Millione/nju-clock-in)|南京大学自动打卡|34|2021-10-20|2021-10-11|
+|39|[h4cnull/ratel](https://github.com/h4cnull/ratel)|​ ratel(獾) 是由rust开发的红队信息搜集，扫描工具，支持从fofa，zoomeye API查询，主动扫描端口，提取https证书域名，自定义poc，输出xlsx格式。|32|2022-03-03|2021-12-17|
+|40|[Joylei/anim-rs](https://github.com/Joylei/anim-rs)|:hourglass: A framework independent animation library for rust, works nicely with Iced and the others|32|2022-01-01|2021-06-18|
+|41|[stuartZhang/scaffold-wizard](https://github.com/stuartZhang/scaffold-wizard)|问卷反馈收集, 前端脚手架安装向导, rust, gtk3, win32, dll|32|2022-02-05|2021-05-27|
+|42|[luojia65/w806-pac](https://github.com/luojia65/w806-pac)|under development: community SVD file, peripheral access crate in embedded Rust for WinnerMicro W800, W801 & W806 chip|31|2021-11-18|2021-11-09|
+|43|[zu1k/ldap-log](https://github.com/zu1k/ldap-log)|一个LDAP请求监听器，摆脱dnslog平台和java|28|2022-02-16|2021-12-11|
+|44|[UnblockNeteaseMusic/server-rust](https://github.com/UnblockNeteaseMusic/server-rust)|Rust 版本的 UnblockNeteaseMusic/server ，以效能、穩定性及可維護性為目標。|27|2022-03-08|2021-09-19|
+|45|[zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust)|Rust 版 ServerStatus 云探针、多服务器探针、云监控、多服务器云监控|26|2022-03-05|2022-01-24|
+|46|[WeBankBlockchain/liquid](https://github.com/WeBankBlockchain/liquid)|Liquid 由微众银行区块链团队开发并完全开源，是一种嵌入式领域特定语言（ embedded Domain Specific Language，eDSL），能够用来编写运行于区块链底层平台FISCO BCOS的智能合约。|26|2022-01-24|2021-03-17|
+|47|[Borber/Whisperer](https://github.com/Borber/Whisperer)|将文本编码为简短的中文字符, 防和谐, 并非加密. 如需加密请使用其他实用工具 / Encode the text into short Chinese characters, to prevent harmonization, not to encrypt it. For encryption, please use other utilities|25|2022-02-17|2022-01-01|
+|48|[itytophile/rab](https://github.com/itytophile/rab)|Rusty Armor Builds - Monster Hunter Rise Armor Set Creation Tool|25|2022-02-23|2021-04-23|
+|49|[Kingtous/RustPlayer](https://github.com/Kingtous/RustPlayer)|An local audio player using Rust and completely terminal gui🎵.  使用Rust开发的纯终端本地播放器🎵.|24|2022-03-05|2022-02-26|
+|50|[wandercn/gostd](https://github.com/wandercn/gostd)|Gostd is the golang standard library implementation in rust-lang.|24|2022-03-07|2021-09-15|
+|51|[Microsoft-Distributed-System-Meetup/summer_love_paper_meetup](https://github.com/Microsoft-Distributed-System-Meetup/summer_love_paper_meetup)|This repo contains the schedule for summer paper meetup|24|2022-01-24|2021-06-22|
+|52|[rubickCenter/rubick-base](https://github.com/rubickCenter/rubick-base)|desktop automation, screen capture, input listen/simulation, asar compress, color picker for nodejs and electron based on rust. 基于 Rust / WASM 提供截图、取色、键鼠事件监听模拟、压缩解压、图像处理、获取已安装应用等跨平台功能的现代异步 Nodejs 模块，占 ...|23|2021-10-15|2021-09-08|
+|53|[FrankBuss/frequencycounter](https://github.com/FrankBuss/frequencycounter)|Arduino Nano frequency counter with atomic clock accuracy|22|2021-11-16|2021-11-14|
+|54|[cty123/TrojanRust](https://github.com/cty123/TrojanRust)|Trojan-rust is a rust implementation for Trojan protocol that is targeted to circumvent GFW. This implementation focus on performance and stability above everything else.|21|2022-03-07|2021-05-03|
+|55|[OPQBOT/rust-tcp-async-client](https://github.com/OPQBOT/rust-tcp-async-client)|Rust Tokio 异步多客户端网络框架 高并发 插件化|21|2021-12-25|2021-04-13|
+|56|[chai2010/ugo-rs](https://github.com/chai2010/ugo-rs)|µGo编程语言(Rust版本) - 试验场|20|2022-02-15|2022-02-08|
+|57|[luojia65/zihai](https://github.com/luojia65/zihai)|自嗨虚拟化软件 - 'Enjoy yourself' type-1 hypervisor software|20|2022-02-09|2022-01-07|
+|58|[inherd/forming](https://github.com/inherd/forming)|Forming, is a lightweight architecture as code language. 轻量级架构即代码语言|19|2021-11-10|2021-03-28|
+|59|[cc-morning/river](https://github.com/cc-morning/river)|灵活，快速的数据迁移工具|18|2022-03-07|2022-02-19|
+|60|[inherd/writing](https://github.com/inherd/writing)|A document-code sync tools for document engineering. Writing 是一个自动 “文档-代码” 同步工具。解析 Markdown 中的代码定义，读取目标代码，并嵌入到新的文档中。|18|2021-10-25|2021-10-22|
+|61|[eatradish/meowdict](https://github.com/eatradish/meowdict)|喵典 - CLI Web client for moedict.tw|17|2022-02-11|2021-05-23|
+|62|[Chi-Task-Force/Chi-Telegram-Inline-Bot-Neo](https://github.com/Chi-Task-Force/Chi-Telegram-Inline-Bot-Neo)|  在 Telegram 上快速模仿迟先生卖弱。|16|2022-02-28|2021-10-26|
+|63|[1148118271/ssh-rs](https://github.com/1148118271/ssh-rs)|In addition to encryption library, pure RUST implementation of SSH-2.0 client protocol (除加密库之外 纯rust实现的  ssh-2.0 client 协议)|14|2022-01-26|2021-12-29|
+|64|[wushikj/mix-agent](https://github.com/wushikj/mix-agent)|基于rust语言开发的一套运维监控探针，支持widnows、linux、macos系统|14|2021-11-16|2021-07-30|
+|65|[TianLiangZhou/ffi-pinyin](https://github.com/TianLiangZhou/ffi-pinyin)|最快速的PHP中文转拼音库|14|2021-12-07|2021-04-16|
+|66|[KernelErr/fourth](https://github.com/KernelErr/fourth)|Simple and fast layer 4 proxy in Rust|13|2021-12-30|2021-10-21|
+|67|[KernelErr/shallow-container](https://github.com/KernelErr/shallow-container)|A light-weight container tool written in Rust.|12|2021-09-22|2021-09-19|
+|68|[JASory/Iridium](https://github.com/JASory/Iridium)|Atomic Physics Library|11|2021-11-18|2021-07-15|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

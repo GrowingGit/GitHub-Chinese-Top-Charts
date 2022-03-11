@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > All Language
-<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Language|Updated|
 |:-|:-|:-|:-|:-|:-|:-|
@@ -15,7 +15,7 @@
 |8|[jackfrued/Python-100-Days](https://github.com/jackfrued/Python-100-Days)|Python - 100天从新手到大师|115553|79|Python|2022-02-16|
 |9|[EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)|:books: Freely available programming books|225275|73|-|2022-03-08|
 |10|[MisterBooo/LeetCodeAnimation](https://github.com/MisterBooo/LeetCodeAnimation)|Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）|69215|58|Java|2022-03-06|
-|11|[wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)|PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等|4312|57|C#|2022-03-02|
+|11|[wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)|PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等|4312|56|C#|2022-03-02|
 |12|[mli/paper-reading](https://github.com/mli/paper-reading)|深度学习经典、新论文逐段精读|7499|54|-|2022-03-02|
 |13|[doocs/advanced-java](https://github.com/doocs/advanced-java)|😮 Core Interview Questions & Answers For Experienced Java(Backend) Developers   互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识|61457|49|Java|2022-03-07|
 |14|[coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy)|互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。|20418|47|-|2022-02-11|
@@ -30,9 +30,9 @@
 |23|[ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript)|:bathtub: Clean Code concepts adapted for JavaScript|64902|34|JavaScript|2022-03-02|
 |24|[azl397985856/leetcode](https://github.com/azl397985856/leetcode)| LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)|46865|33|JavaScript|2022-03-07|
 |25|[itdevbooks/pdf](https://github.com/itdevbooks/pdf)|编程电子书，电子书，编程书籍，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringC ...|13262|32|-|2022-03-05|
-|26|[4ra1n/JavaSecInterview](https://github.com/4ra1n/JavaSecInterview)|打造最强的Java安全研究与安全开发面试题库，包含问题和详细的答案，帮助师傅们找到满意的工作|730|30|Python|2022-03-04|
-|27|[youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)|《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |23994|29|-|2022-03-08|
-|28|[justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)|:books: 免费的计算机编程类中文书籍，欢迎投稿|87920|29|-|2022-03-04|
+|26|[youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)|《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀 |23994|29|-|2022-03-08|
+|27|[justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)|:books: 免费的计算机编程类中文书籍，欢迎投稿|87920|29|-|2022-03-04|
+|28|[4ra1n/JavaSecInterview](https://github.com/4ra1n/JavaSecInterview)|打造最强的Java安全研究与安全开发面试题库，包含问题和详细的答案，帮助师傅们找到满意的工作|730|29|Python|2022-03-04|
 |29|[formulahendry/955.WLB](https://github.com/formulahendry/955.WLB)|955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)|29153|27|-|2022-02-19|
 |30|[chefyuan/algorithm-base](https://github.com/chefyuan/algorithm-base)|一位酷爱做饭的程序员，立志用动画将算法说的通俗易懂。我的面试网站 www.chengxuchu.com|9791|27|Java|2022-03-04|
 |31|[521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub)|:octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.|52946|25|Python|2022-02-28|
@@ -41,12 +41,12 @@
 |34|[typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)|Cheatsheets for experienced React developers getting started with TypeScript|32107|23|JavaScript|2022-03-08|
 |35|[jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac)| Now we have become very big, Different from the original idea. Collect premium software in various categories.|48032|23|JavaScript|2022-03-07|
 |36|[PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)|计算机自学指南|3304|23|-|2022-02-24|
-|37|[viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)|Questions to ask the company during your interview|20577|23|-|2021-11-19|
-|38|[yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)|⚡️ Front End interview preparation materials for busy engineers|33249|22|JavaScript|2022-02-27|
+|37|[yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)|⚡️ Front End interview preparation materials for busy engineers|33249|22|JavaScript|2022-02-27|
+|38|[viraptor/reverse-interview](https://github.com/viraptor/reverse-interview)|Questions to ask the company during your interview|20577|22|-|2021-11-19|
 |39|[PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)|清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University|22857|21|HTML|2022-02-21|
 |40|[lib-pku/libpku](https://github.com/lib-pku/libpku)|贵校课程资料民间整理|25649|21|TeX|2022-01-05|
 |41|[0voice/Introduction-to-Golang](https://github.com/0voice/Introduction-to-Golang)|【未来服务器端编程语言】最全空降golang资料补给包（满血战斗），包含文章，书籍，作者论文，理论分析，开源框架，云原生，大佬视频，大厂实战分享ppt|4521|21|Go|2022-01-13|
-|42|[midisec/BypassAnti-Virus](https://github.com/midisec/BypassAnti-Virus)|免杀姿势学习、记录、复现。|421|21|C++|2022-03-07|
+|42|[midisec/BypassAnti-Virus](https://github.com/midisec/BypassAnti-Virus)|免杀姿势学习、记录、复现。|421|20|C++|2022-03-07|
 |43|[Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)|C++那些事|18978|20|C++|2022-03-05|
 |44|[fastai/fastbook](https://github.com/fastai/fastbook)|The fastai book, published as Jupyter Notebooks|14498|20|Jupyter Notebook|2022-03-06|
 |45|[0voice/learning_mind_map](https://github.com/0voice/learning_mind_map)|2021年【思维导图】盒子，C/C++，Golang，Linux，云原生，数据库，DPDK，音视频开发，TCP/IP，数据结构，计算机原理等|2066|19|-|2021-12-02|
@@ -66,16 +66,16 @@
 |59|[datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book)|《机器学习》（西瓜书）公式推导解析，在线阅读地址：https://datawhalechina.github.io/pumpkin-book ，配套视频教程：https://www.bilibili.com/video/BV1Mh411e7VU|19347|16|-|2022-02-26|
 |60|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|23367|16|Shell|2022-03-07|
 |61|[huihut/interview](https://github.com/huihut/interview)|📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, inclu ...|22889|15|C++|2022-03-06|
-|62|[skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust)|Learn Rust black magics by implementing an expression framework in database systems|712|15|Rust|2022-02-25|
-|63|[fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|吴恩达老师的机器学习课程个人笔记|24269|15|HTML|2022-02-22|
-|64|[denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)|🤪 A list of funny and tricky JavaScript examples|25617|15|JavaScript|2022-02-24|
-|65|[yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)|技术面试最后反问面试官的话|13474|15|-|2022-02-22|
-|66|[elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)|A set of best practices for JavaScript projects|26404|15|JavaScript|2022-02-07|
-|67|[izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN)|TeachYourselfCS 的中文翻译    A Chinese translation of TeachYourselfCS|12929|15|-|2021-12-16|
-|68|[QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection)|Real-Time Rendering 4th (RTR4) 参考文献合集典藏   Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference|2357|15|HTML|2021-10-31|
-|69|[XiangLinPro/IT_book](https://github.com/XiangLinPro/IT_book)|本项目收藏这些年来看过或者听过的一些不错的常用的上千本书籍，没准你想找的书就在这里呢，包含了互联网行业大多数书籍和面试经验题目等等。有人工智能系列（常用深度学习框架TensorFlow、pytorch、keras。NLP、机器学习，深度学习等等），大数据系列(Spark,Hadoop,Scala,kafka等)，程序员必修系列（C、C++、java、数据结构、linux，设计模式、数据库等等）|10088|15|-|2021-10-23|
-|70|[goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (February 2022)|14642|15|JavaScript|2022-03-06|
-|71|[k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules)|Flight rules for git|38336|14|-|2022-01-06|
+|62|[fengdu78/Coursera-ML-AndrewNg-Notes](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)|吴恩达老师的机器学习课程个人笔记|24269|15|HTML|2022-02-22|
+|63|[denysdovhan/wtfjs](https://github.com/denysdovhan/wtfjs)|🤪 A list of funny and tricky JavaScript examples|25617|15|JavaScript|2022-02-24|
+|64|[yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh)|技术面试最后反问面试官的话|13474|15|-|2022-02-22|
+|65|[elsewhencode/project-guidelines](https://github.com/elsewhencode/project-guidelines)|A set of best practices for JavaScript projects|26404|15|JavaScript|2022-02-07|
+|66|[izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN)|TeachYourselfCS 的中文翻译    A Chinese translation of TeachYourselfCS|12929|15|-|2021-12-16|
+|67|[QianMo/Real-Time-Rendering-4th-Bibliography-Collection](https://github.com/QianMo/Real-Time-Rendering-4th-Bibliography-Collection)|Real-Time Rendering 4th (RTR4) 参考文献合集典藏   Collection of <Real-Time Rendering 4th (RTR4)> Bibliography / Reference|2357|15|HTML|2021-10-31|
+|68|[XiangLinPro/IT_book](https://github.com/XiangLinPro/IT_book)|本项目收藏这些年来看过或者听过的一些不错的常用的上千本书籍，没准你想找的书就在这里呢，包含了互联网行业大多数书籍和面试经验题目等等。有人工智能系列（常用深度学习框架TensorFlow、pytorch、keras。NLP、机器学习，深度学习等等），大数据系列(Spark,Hadoop,Scala,kafka等)，程序员必修系列（C、C++、java、数据结构、linux，设计模式、数据库等等）|10088|15|-|2021-10-23|
+|69|[goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices)|📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (February 2022)|14642|15|JavaScript|2022-03-06|
+|70|[k88hudson/git-flight-rules](https://github.com/k88hudson/git-flight-rules)|Flight rules for git|38336|14|-|2022-01-06|
+|71|[skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust)|Learn Rust black magics by implementing an expression framework in database systems|712|14|Rust|2022-02-25|
 |72|[foxsen/archbase](https://github.com/foxsen/archbase)|教科书《计算机体系结构基础》（胡伟武等，第三版）的开源版本|1933|14|TeX|2021-12-31|
 |73|[LingCoder/OnJava8](https://github.com/LingCoder/OnJava8)|《On Java 8》中文版 |16478|14|-|2021-09-25|
 |74|[zergtant/pytorch-handbook](https://github.com/zergtant/pytorch-handbook)|pytorch handbook是一本开源的书籍，目标是帮助那些希望和使用PyTorch进行深度学习开发和研究的朋友快速入门，其中包含的Pytorch教程全部通过测试保证可以成功运行|16136|14|Jupyter Notebook|2022-02-07|
@@ -104,16 +104,16 @@
 |97|[chai2010/advanced-go-programming-book](https://github.com/chai2010/advanced-go-programming-book)|:books: 《Go语言高级编程》开源图书，涵盖CGO、Go汇编语言、RPC实现、Protobuf插件实现、Web框架实现、分布式系统等高阶主题(完稿)|16784|11|Go|2022-02-28|
 |98|[astaxie/build-web-application-with-golang](https://github.com/astaxie/build-web-application-with-golang)|A golang ebook intro how to build a web with golang|39745|11|Go|2022-02-02|
 |99|[rd2coding/Road2Coding](https://github.com/rd2coding/Road2Coding)|编程之路|3855|11|-|2022-01-20|
-|100|[heiyeluren/xds](https://github.com/heiyeluren/xds)|A third-party extensible collection of high-performance data structures and data types in Go. 第三方可扩展的Go语言中高性能数据结构和数据类型合集|142|11|Go|2022-03-04|
-|101|[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)|👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么|17691|11|-|2022-02-21|
-|102|[quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests)|Learn Go with test-driven development|16758|11|Go|2022-03-07|
-|103|[nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)|💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)|11262|11|-|2021-12-26|
-|104|[alex/what-happens-when](https://github.com/alex/what-happens-when)|An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"|33276|11|-|2022-02-08|
-|105|[qianguyihao/Web](https://github.com/qianguyihao/Web)|千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。|18820|10|JavaScript|2022-03-03|
-|106|[YunaiV/SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)|一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024|13342|10|Java|2022-02-17|
-|107|[heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes)|大数据入门指南  :star:|11333|10|Java|2022-02-09|
-|108|[slidoooor/computer_book_list](https://github.com/slidoooor/computer_book_list)|一个综合了豆瓣，goodreads综合评分的计算机书籍书单|1335|10|-|2021-10-27|
-|109|[verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)|🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.|18944|10|JavaScript|2021-09-26|
+|100|[1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer)|👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么|17691|11|-|2022-02-21|
+|101|[quii/learn-go-with-tests](https://github.com/quii/learn-go-with-tests)|Learn Go with test-driven development|16758|11|Go|2022-03-07|
+|102|[nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh)|💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)|11262|11|-|2021-12-26|
+|103|[alex/what-happens-when](https://github.com/alex/what-happens-when)|An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"|33276|11|-|2022-02-08|
+|104|[qianguyihao/Web](https://github.com/qianguyihao/Web)|千古前端图文教程，超详细的前端入门到进阶学习笔记。从零开始学前端，做一名精致优雅的前端工程师。|18820|10|JavaScript|2022-03-03|
+|105|[YunaiV/SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs)|一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024|13342|10|Java|2022-02-17|
+|106|[heibaiying/BigData-Notes](https://github.com/heibaiying/BigData-Notes)|大数据入门指南  :star:|11333|10|Java|2022-02-09|
+|107|[slidoooor/computer_book_list](https://github.com/slidoooor/computer_book_list)|一个综合了豆瓣，goodreads综合评分的计算机书籍书单|1335|10|-|2021-10-27|
+|108|[verekia/js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch)|🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.|18944|10|JavaScript|2021-09-26|
+|109|[heiyeluren/xds](https://github.com/heiyeluren/xds)|A third-party extensible collection of high-performance data structures and data types in Go. 第三方可扩展的Go语言中高性能数据结构和数据类型合集|142|10|Go|2022-03-04|
 |110|[ascoders/weekly](https://github.com/ascoders/weekly)|前端精读周刊。帮你理解最前沿、实用的技术。|18088|10|JavaScript|2022-03-08|
 |111|[kangvcar/InfoSpider](https://github.com/kangvcar/InfoSpider)|INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源 ...|6062|10|Python|2022-01-13|
 |112|[timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs)|中文独立博客列表|8576|10|JavaScript|2022-03-07|
@@ -193,18 +193,18 @@
 |186|[antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks)|🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥|5376|7|JavaScript|2022-03-07|
 |187|[changgyhub/leetcode_101](https://github.com/changgyhub/leetcode_101)|LeetCode 101：和你一起你轻松刷题（C++）|5687|7|-|2022-02-19|
 |188|[FrontEndGitHub/FrontEndGitHub](https://github.com/FrontEndGitHub/FrontEndGitHub)|:octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、数据结构与算法、开发工具、求职面试等）|3494|7|-|2021-12-31|
-|189|[virginiakm1988/ML2022-Spring](https://github.com/virginiakm1988/ML2022-Spring)|**Official** 李宏毅 (Hung-yi Lee) 機器學習 Machine Learning 2022 Spring|117|7|Jupyter Notebook|2022-03-06|
-|190|[tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)|程序员相关电子书资料免费分享，欢迎关注个人微信公众号：程序员编程指南|2804|7|-|2022-03-03|
-|191|[cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue)|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|4431|7|TypeScript|2022-03-08|
-|192|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired mag ...|4483|6|CSS|2022-03-06|
-|193|[wangzhiwubigdata/God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)|专注大数据学习面试，大数据成神之路开启。Flink/Spark/Hadoop/Hbase/Hive...|6404|6|-|2022-03-03|
-|194|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|5068|6|Objective-C|2022-02-28|
-|195|[zhaoolee/pi](https://github.com/zhaoolee/pi)|树莓派防吃灰小分队，让树莓派不再吃灰~|796|6|-|2021-12-01|
-|196|[alsotang/node-lessons](https://github.com/alsotang/node-lessons)|:closed_book:《Node.js 包教不包会》 by alsotang|16375|6|JavaScript|2022-02-15|
-|197|[doocs/jvm](https://github.com/doocs/jvm)|🤗 JVM 底层原理最全知识总结|8025|6|-|2022-01-15|
-|198|[grandyang/leetcode](https://github.com/grandyang/leetcode)|Provide all my solutions and explanations in Chinese for all the Leetcode coding problems.|5715|6|-|2021-11-26|
-|199|[ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList)|List of Development YouTube Channels|4452|6|-|2022-03-05|
-|200|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|6719|6|Shell|2022-03-03|
+|189|[tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)|程序员相关电子书资料免费分享，欢迎关注个人微信公众号：程序员编程指南|2804|7|-|2022-03-03|
+|190|[cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue)|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|4431|7|TypeScript|2022-03-08|
+|191|[hehonghui/the-economist-ebooks](https://github.com/hehonghui/the-economist-ebooks)|经济学人(含音频)、纽约客、自然、新科学人、卫报、科学美国人、连线、大西洋月刊、国家地理等英语杂志免费下载、订阅(kindle推送),支持epub、mobi、pdf格式, 每周更新. The Economist 、The New Yorker 、Nature、The Atlantic 、New Scientist、The Guardian、Scientific American、Wired mag ...|4483|6|CSS|2022-03-06|
+|192|[wangzhiwubigdata/God-Of-BigData](https://github.com/wangzhiwubigdata/God-Of-BigData)|专注大数据学习面试，大数据成神之路开启。Flink/Spark/Hadoop/Hbase/Hive...|6404|6|-|2022-03-03|
+|193|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 Mac 端翻译软件，支持划词翻译、截图翻译以及手动输入翻译。|5068|6|Objective-C|2022-02-28|
+|194|[zhaoolee/pi](https://github.com/zhaoolee/pi)|树莓派防吃灰小分队，让树莓派不再吃灰~|796|6|-|2021-12-01|
+|195|[alsotang/node-lessons](https://github.com/alsotang/node-lessons)|:closed_book:《Node.js 包教不包会》 by alsotang|16375|6|JavaScript|2022-02-15|
+|196|[doocs/jvm](https://github.com/doocs/jvm)|🤗 JVM 底层原理最全知识总结|8025|6|-|2022-01-15|
+|197|[grandyang/leetcode](https://github.com/grandyang/leetcode)|Provide all my solutions and explanations in Chinese for all the Leetcode coding problems.|5715|6|-|2021-11-26|
+|198|[ErikCH/DevYouTubeList](https://github.com/ErikCH/DevYouTubeList)|List of Development YouTube Channels|4452|6|-|2022-03-05|
+|199|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|6719|6|Shell|2022-03-03|
+|200|[dundunnp/hamibot-auto_xuexiqiangguo](https://github.com/dundunnp/hamibot-auto_xuexiqiangguo)|每日拿63分(满63分)！所有模块均可自动完成，免root，四人赛双人对战秒答，基于Hamibot的安卓端学习强国自动化脚本|687|6|JavaScript|2022-03-03|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

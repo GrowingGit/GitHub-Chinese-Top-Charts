@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > JavaScript
-<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -12,8 +12,8 @@
 |5|[iamkun/dayjs](https://github.com/iamkun/dayjs)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|38121|27|2022-03-08|
 |6|[agalwood/Motrix](https://github.com/agalwood/Motrix)|A full-featured download manager.|30381|26|2022-03-02|
 |7|[NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)|Based on a true story|43530|19|2022-02-10|
-|8|[chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)|The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。|35269|18|2022-02-07|
-|9|[VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo)|解锁完整的 Apple功能和集成服务|2630|18|2022-02-14|
+|8|[VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo)|解锁完整的 Apple功能和集成服务|2630|18|2022-02-14|
+|9|[chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)|The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。|35269|17|2022-02-07|
 |10|[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)|Generation of diagram and flowchart from text in a similar manner as markdown|44918|17|2022-03-07|
 |11|[carbon-app/carbon](https://github.com/carbon-app/carbon)|:black_heart: Create and share beautiful images of your source code|29836|17|2022-03-07|
 |12|[lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)|一个基于 electron 的音乐软件|16410|17|2022-03-07|

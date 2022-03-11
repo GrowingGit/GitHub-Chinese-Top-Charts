@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Dart
-<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -102,7 +102,6 @@
 |95|[ShanRaw/screen_adaptation](https://github.com/ShanRaw/screen_adaptation)|flutter 屏幕适配|5|2021-09-30|2021-04-20|
 |96|[lazyee/flutter_gallery_3d](https://github.com/lazyee/flutter_gallery_3d)|哔哩哔哩漫画里面的3d画廊|5|2022-02-15|2021-04-08|
 |97|[xyhxx/proste_indexed_stack](https://github.com/xyhxx/proste_indexed_stack)|flutter IndexedStack懒加载Widget|4|2021-09-15|2021-04-03|
-|98|[Wayaer/fl_amap](https://github.com/Wayaer/fl_amap)|高德定位 for flutter 支持android和ios|4|2021-12-02|2021-03-10|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

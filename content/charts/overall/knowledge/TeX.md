@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > TeX
-<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -153,9 +153,8 @@
 |146|[LLLgoyour/Math_Olympiad_moyuNotes](https://github.com/LLLgoyour/Math_Olympiad_moyuNotes)|用来摸鱼的数竞笔记|2|2021-10-31|
 |147|[loaden/linux-notes](https://github.com/loaden/linux-notes)|Linux技术笔记：拥抱开源，专注 Linux 技术分享与交流，共同解决 Linux 系统办公娱乐遇到的各种问题。欢迎加群19346666、111601117交流维护。|2|2021-11-01|
 |148|[bxrjmfh/Learn_latex_tabular](https://github.com/bxrjmfh/Learn_latex_tabular)|学习latex表格的排版|2|2021-10-08|
-|149|[ChimesZ/THU-PUMC-Courses-Project](https://github.com/ChimesZ/THU-PUMC-Courses-Project)|收集协和预科相关资料。|2|2021-09-08|
-|150|[MonteCarloClub/PaperNote](https://github.com/MonteCarloClub/PaperNote)|“大家一边要参加应用项目开发，同时也要加强基础理论学习。请大家一定要抓紧时间”|2|2021-11-19|
-|151|[applekajela/new-world-of-jelin](https://github.com/applekajela/new-world-of-jelin)|原名《叶林的平行世界》|2|2021-11-24|
+|149|[MonteCarloClub/PaperNote](https://github.com/MonteCarloClub/PaperNote)|“大家一边要参加应用项目开发，同时也要加强基础理论学习。请大家一定要抓紧时间”|2|2021-11-19|
+|150|[applekajela/new-world-of-jelin](https://github.com/applekajela/new-world-of-jelin)|原名《叶林的平行世界》|2|2021-11-24|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

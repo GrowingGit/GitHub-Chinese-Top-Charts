@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > TypeScript
-<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[DouyinFE/semi-design](https://github.com/DouyinFE/semi-design)|A modern, comprehensive, flexible design system and React UI library|5528|41|2022-03-08|
+|1|[DouyinFE/semi-design](https://github.com/DouyinFE/semi-design)|A modern, comprehensive, flexible design system and React UI library|5528|40|2022-03-08|
 |2|[supabase/supabase](https://github.com/supabase/supabase)|The open source Firebase alternative. Follow to stay updated about our public Beta.|29374|33|2022-03-08|
-|3|[cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)|A fun Wordle clone made using React, Typescript, and Tailwind|1883|31|2022-03-08|
-|4|[ant-design/ant-design](https://github.com/ant-design/ant-design)|An enterprise-class UI design language and React UI library|78552|31|2022-03-08|
+|3|[ant-design/ant-design](https://github.com/ant-design/ant-design)|An enterprise-class UI design language and React UI library|78552|31|2022-03-08|
+|4|[cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)|A fun Wordle clone made using React, Typescript, and Tailwind|1883|30|2022-03-08|
 |5|[TuSimple/naive-ui](https://github.com/TuSimple/naive-ui)|A Vue 3 Component Library. Fairly Complete. Customizable Themes. Uses TypeScript. Not too Slow.|8040|29|2022-03-08|
 |6|[imcuttle/mometa](https://github.com/imcuttle/mometa)|🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具|2490|23|2022-02-22|
 |7|[wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan)|文言文編程語言 A programming language for the ancient Chinese.|17996|22|2022-03-08|
@@ -22,18 +22,18 @@
 |15|[unlock-music/unlock-music](https://github.com/unlock-music/unlock-music)|Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。|11445|12|2022-03-04|
 |16|[umijs/qiankun](https://github.com/umijs/qiankun)|📦 🚀 Blazing fast, simple and complete solution for micro frontends.|12114|12|2022-03-07|
 |17|[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|The repository for high quality TypeScript type definitions.|38033|11|2022-03-08|
-|18|[CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)|Foreign language reading and translation assistant based on copy and translate.|13222|10|2022-02-26|
-|19|[baidu/amis](https://github.com/baidu/amis)|前端低代码框架，通过 JSON 配置就能生成各种页面。|10154|10|2022-03-08|
-|20|[modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js)|The meta-framework suite designed from scratch for frontend-focused modern web development.|2510|10|2022-03-08|
+|18|[baidu/amis](https://github.com/baidu/amis)|前端低代码框架，通过 JSON 配置就能生成各种页面。|10154|10|2022-03-08|
+|19|[modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js)|The meta-framework suite designed from scratch for frontend-focused modern web development.|2510|10|2022-03-08|
+|20|[CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)|Foreign language reading and translation assistant based on copy and translate.|13222|9|2022-02-26|
 |21|[alibaba/hooks](https://github.com/alibaba/hooks)|A high-quality & reliable React Hooks library.|8538|9|2022-03-08|
 |22|[bytedance/IconPark](https://github.com/bytedance/IconPark)|🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons|5273|9|2021-12-21|
 |23|[colinhacks/zod](https://github.com/colinhacks/zod)|TypeScript-first schema validation with static type inference|6530|9|2022-03-06|
 |24|[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)|record and replay the web|11328|9|2022-03-08|
 |25|[the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)|强大的哔哩哔哩增强脚本|11644|9|2022-03-08|
 |26|[alibaba/ice](https://github.com/alibaba/ice)|🚀 The Progressive App Framework Based On React（基于 React 的渐进式应用框架）|17092|9|2022-03-07|
-|27|[yaklang/yakit](https://github.com/yaklang/yakit)|Cyber Security ALL-IN-ONE Platform|1122|8|2022-03-07|
-|28|[Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar)|🪄 An online tool for making notion-style avatars.|1379|8|2022-02-24|
-|29|[umijs/umi](https://github.com/umijs/umi)|🌋 Pluggable enterprise-level react application framework.|12019|8|2022-03-03|
+|27|[Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar)|🪄 An online tool for making notion-style avatars.|1379|8|2022-02-24|
+|28|[umijs/umi](https://github.com/umijs/umi)|🌋 Pluggable enterprise-level react application framework.|12019|8|2022-03-03|
+|29|[yaklang/yakit](https://github.com/yaklang/yakit)|Cyber Security ALL-IN-ONE Platform|1122|7|2022-03-07|
 |30|[pnpm/pnpm](https://github.com/pnpm/pnpm)|Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具|15636|7|2022-03-08|
 |31|[ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll)|:scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance|15346|7|2022-01-28|
 |32|[triggerjs/trigger](https://github.com/triggerjs/trigger)|A library for creating scroll-based animation with HTML attributes and CSS variables.|941|7|2021-11-15|

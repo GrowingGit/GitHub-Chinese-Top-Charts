@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Jupyter Notebook
-<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -113,56 +113,54 @@
 |106|[oubindo/cs231n-cnn](https://github.com/oubindo/cs231n-cnn)|斯坦福的cs231n课程的assignments，非常好的课程，在这里也要强推|39|2022-01-21|
 |107|[cador/Python_Predict_Analysis_Algorithm_Book_Codes](https://github.com/cador/Python_Predict_Analysis_Algorithm_Book_Codes)|《Python预测之美：数据分析与算法实战》书籍代码维护|36|2022-02-10|
 |108|[hxchua/datadoubleconfirm](https://github.com/hxchua/datadoubleconfirm)|Simple datasets and notebooks for data visualization, statistical analysis and modelling - with write-ups here: http://projectosyo.wix.com/datadoubleconfirm. |36|2022-02-06|
-|109|[jcchan23/CoMPT](https://github.com/jcchan23/CoMPT)|Code of our IJCAI2021 paper: "Learning Attributed Graph Representation with Communicative Message Passing Transformer"|33|2021-09-08|
-|110|[Zhouxiaonnan/machine-learning-notesandcode](https://github.com/Zhouxiaonnan/machine-learning-notesandcode)|机器学习学习笔记和代码|33|2022-03-02|
-|111|[mindspore-ai/course](https://github.com/mindspore-ai/course)|MindSpore course|33|2022-02-27|
-|112|[datawhalechina/hands-dirty-nlp](https://github.com/datawhalechina/hands-dirty-nlp)|本课程面对具有一定机器学习基础，但尚未入门的NLPer或经验尚浅的NLPer，尽力避免陷入繁琐枯燥的公式讲解中，力求用代码展示每个模型背后的设计思想，同时也会带大家梳理每个模块下的技术演变，做到既知树木也知森林。|31|2022-02-19|
-|113|[xieliaing/CausalInferenceIntro](https://github.com/xieliaing/CausalInferenceIntro)|Causal Inference for the Brave and True的中文翻译版。全部代码基于Python，适用于计量经济学、量化社会学、策略评估等领域。英文版原作者：Matheus Facure|30|2022-03-08|
-|114|[zhangqizky/ManTra_Net_Test_Demo](https://github.com/zhangqizky/ManTra_Net_Test_Demo)|🌹2019年CVPR论文：ManTra-Net: Manipulation Tracing Network For Detection And Localization of Image Forgeries With Anomalous Features |30|2022-02-10|
-|115|[BrikerMan/classic_chinese_punctuate](https://github.com/BrikerMan/classic_chinese_punctuate)|classic Chinese punctuate experiment with keras using daizhige(殆知阁古代文献藏书) dataset|29|2022-02-11|
-|116|[HeXavi8/Mathematical-Modeling](https://github.com/HeXavi8/Mathematical-Modeling)|A sharing of the learning process of mathematical modeling 数学建模常用工具模型算法分享：数学建模竞赛优秀论文，数学建模常用算法模型，LaTeX论文模板，SPSS工具分享。|27|2021-11-20|
-|117|[SocratesAcademy/ccbook](https://github.com/SocratesAcademy/ccbook)|Elements of Computational Communication 《计算传播基础》|27|2022-02-26|
-|118|[waterDLut/hydrus](https://github.com/waterDLut/hydrus)|水文水资源（Hydrology and Water Resources）方面利用python做模型model、算法algorithm等科学计算工作所需的基础技能树学习|25|2021-11-16|
-|119|[zhiyu1998/Computer-Science-Learn-Notes](https://github.com/zhiyu1998/Computer-Science-Learn-Notes)|CS（Computer Science）生涯学习/读书笔记，包含：Java、JVM、算法、前端、Spring系列、Python、Golang、深度学习、数据结构等|25|2022-03-06|
-|120|[hululuzhu/chinese-ai-writing-share](https://github.com/hululuzhu/chinese-ai-writing-share)|中文AI写作共享（监督学习和迁移学习来写诗或对对子）|23|2022-02-26|
-|121|[yinuxy/Python](https://github.com/yinuxy/Python)|YINUXY的python脚本分享|23|2021-09-20|
-|122|[eagle-dai/OptimizingSoftwareInCpp](https://github.com/eagle-dai/OptimizingSoftwareInCpp)|Optimizing Software In C++ 非正式中文翻译|23|2022-01-17|
-|123|[WayneDW/Contour-Stochastic-Gradient-Langevin-Dynamics](https://github.com/WayneDW/Contour-Stochastic-Gradient-Langevin-Dynamics)|An elegant adaptive importance sampling algorithms  for simulations of multi-modal distributions (NeurIPS'20)|22|2022-02-13|
-|124|[liangruibupt/aws-is-how](https://github.com/liangruibupt/aws-is-how)|Know How Guide and Hands on Guide for AWS|22|2022-03-06|
-|125|[HuangCongQing/CS231n_Spring_2019](https://github.com/HuangCongQing/CS231n_Spring_2019)|CS231n_Spring（2019年秋季）计算机视觉课程|22|2022-01-09|
-|126|[hzcforever/Something](https://github.com/hzcforever/Something)|面试知识点 + 笔试刷题总结。|21|2021-09-15|
-|127|[dmarx/anthology-of-modern-ml](https://github.com/dmarx/anthology-of-modern-ml)|Collection of important articles to be treated as a textbook|20|2022-02-16|
-|128|[1am9trash/Hung_Yi_Lee_ML_2021](https://github.com/1am9trash/Hung_Yi_Lee_ML_2021)|李宏毅教授 2021年機器學習 作業與筆記匯總|20|2021-09-17|
-|129|[fry404006308/fry_course_materials](https://github.com/fry404006308/fry_course_materials)|范仁义录播课资料|20|2022-02-27|
-|130|[reganzm/Learn-Pytorch-And-Become-A-Data-Scientist](https://github.com/reganzm/Learn-Pytorch-And-Become-A-Data-Scientist)|《学好Pytorch成为数据科学家》书籍随书代码|20|2021-10-21|
-|131|[JULIELab/MEmoLon](https://github.com/JULIELab/MEmoLon)|Repository for our ACL 2020 paper "Learning and Evaluating Emotion Lexicons for 91 Languages"|19|2022-01-21|
-|132|[binzhouchn/machine_learning](https://github.com/binzhouchn/machine_learning)|抽象来讲，机器学习问题是把数据转换成信息再提炼到知识的过程，特征是“数据-->信息”的过程，决定了结果的上限，而分类器是“信息-->知识”的过程，则是去逼近这个上限|18|2021-10-15|
-|133|[lvyufeng/d2l-mindspore](https://github.com/lvyufeng/d2l-mindspore)|《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。|17|2022-02-02|
-|134|[raymondlo84/openvino-paddlepaddle-demo](https://github.com/raymondlo84/openvino-paddlepaddle-demo)|This repository provides examples of PaddlePaddle and OpenVINO integration. |17|2021-12-22|
-|135|[zzy99/competition-solutions](https://github.com/zzy99/competition-solutions)|我的数据竞赛方案总结|17|2021-11-16|
-|136|[hanzhenlei767/NLP_Learn](https://github.com/hanzhenlei767/NLP_Learn)|NLP学习笔记-前沿追踪|17|2022-02-10|
-|137|[xiaomeng79/learning_notes](https://github.com/xiaomeng79/learning_notes)|学习笔记|17|2022-02-24|
-|138|[AccumulateMore/CPlusPlus](https://github.com/AccumulateMore/CPlusPlus)|最细致的 C++ 笔记|16|2022-01-28|
-|139|[jikeruohai/machine-learning-example](https://github.com/jikeruohai/machine-learning-example)|我的同名B站和公众号中用到的视频|16|2021-10-21|
-|140|[fire717/Python-Toolkit](https://github.com/fire717/Python-Toolkit)|轮子/ 常用库/ 书籍笔记/ 小程序|16|2022-03-03|
-|141|[whyAndBetter/python_grammar](https://github.com/whyAndBetter/python_grammar)|Python的基础语法学习|15|2022-01-09|
-|142|[chinobing/QuantInvest](https://github.com/chinobing/QuantInvest)|cnvar.cn及个人微信公众号【QuantInvest】里面提及的编程代码, 对股票各种研究和折腾分析A股市场的各种现象和投资机会，涉及编程、股票模型、分析研究、杂谈等，代码是python，以jupyter notebook展示。|15|2022-01-13|
-|143|[NjtechCVLab/Level_1](https://github.com/NjtechCVLab/Level_1)|入门资料|15|2021-12-19|
-|144|[rhidra/autopilot](https://github.com/rhidra/autopilot)|A UAV autonomous navigation autopilot, made with ROS, MAVROS, PX4 and Gazebo. Check out my master thesis in the repo for more info.|15|2021-09-23|
-|145|[LawsonAbs/learn](https://github.com/LawsonAbs/learn)|记录python,pytorch,git等工具的学习过程，主要是对该工具常用部分进行实践。|15|2022-03-07|
-|146|[WYGNG/USTC_SSE_AI](https://github.com/WYGNG/USTC_SSE_AI)|中国科学技术大学软件学院人工智能课程|15|2022-02-11|
-|147|[Alex-Shen1121/SZU_Learning_Resource](https://github.com/Alex-Shen1121/SZU_Learning_Resource)|深圳大学CS本科 课程资源共享|14|2021-12-30|
-|148|[hitlic/python_book](https://github.com/hitlic/python_book)|清华大学出版社《Python从入门到提高》源代码、课件|14|2022-01-13|
-|149|[Relph1119/Pytorch-Camp](https://github.com/Relph1119/Pytorch-Camp)|深度之眼《Pytorch框架训练营》|14|2021-10-12|
-|150|[rwepa/DataDemo](https://github.com/rwepa/DataDemo)|提供資料集與範例分享.|13|2021-11-11|
-|151|[napoler/reformer-chinese](https://github.com/napoler/reformer-chinese)|reformer-pytorch中文版本，简单高效的生成模型。类似GPT2的效果|12|2021-09-25|
-|152|[ymzis69/gddw_track3](https://github.com/ymzis69/gddw_track3)|阿里云天池广东电网识别挑战赛（赛道三） 亚军方案分享|11|2021-09-15|
-|153|[BrikerMan/tf2-101](https://github.com/BrikerMan/tf2-101)|Repository for Book 《TensorFlow 2.0 入门实践》|11|2021-10-28|
-|154|[Mazeqi/PaperNote](https://github.com/Mazeqi/PaperNote)|阅读论文的一些笔记|11|2021-12-09|
-|155|[evenchange4/nextjs-tfjs-cnn](https://github.com/evenchange4/nextjs-tfjs-cnn)|🐕 🐈 Classifier using Keras VGG16 transfer learning with kaggle dataset.|11|2021-10-18|
-|156|[Valuebai/learn-NLP-luhuibo](https://github.com/Valuebai/learn-NLP-luhuibo)|记录学习NLP之路，一起加油|11|2021-09-08|
-|157|[TinyHandsome/BookStudy](https://github.com/TinyHandsome/BookStudy)|各本书的学习笔记|11|2021-12-09|
-|158|[wanghao15536870732/StudyNotes](https://github.com/wanghao15536870732/StudyNotes)|📖 学习笔记|10|2021-11-08|
+|109|[Zhouxiaonnan/machine-learning-notesandcode](https://github.com/Zhouxiaonnan/machine-learning-notesandcode)|机器学习学习笔记和代码|33|2022-03-02|
+|110|[mindspore-ai/course](https://github.com/mindspore-ai/course)|MindSpore course|33|2022-02-27|
+|111|[datawhalechina/hands-dirty-nlp](https://github.com/datawhalechina/hands-dirty-nlp)|本课程面对具有一定机器学习基础，但尚未入门的NLPer或经验尚浅的NLPer，尽力避免陷入繁琐枯燥的公式讲解中，力求用代码展示每个模型背后的设计思想，同时也会带大家梳理每个模块下的技术演变，做到既知树木也知森林。|31|2022-02-19|
+|112|[xieliaing/CausalInferenceIntro](https://github.com/xieliaing/CausalInferenceIntro)|Causal Inference for the Brave and True的中文翻译版。全部代码基于Python，适用于计量经济学、量化社会学、策略评估等领域。英文版原作者：Matheus Facure|30|2022-03-08|
+|113|[zhangqizky/ManTra_Net_Test_Demo](https://github.com/zhangqizky/ManTra_Net_Test_Demo)|🌹2019年CVPR论文：ManTra-Net: Manipulation Tracing Network For Detection And Localization of Image Forgeries With Anomalous Features |30|2022-02-10|
+|114|[BrikerMan/classic_chinese_punctuate](https://github.com/BrikerMan/classic_chinese_punctuate)|classic Chinese punctuate experiment with keras using daizhige(殆知阁古代文献藏书) dataset|29|2022-02-11|
+|115|[HeXavi8/Mathematical-Modeling](https://github.com/HeXavi8/Mathematical-Modeling)|A sharing of the learning process of mathematical modeling 数学建模常用工具模型算法分享：数学建模竞赛优秀论文，数学建模常用算法模型，LaTeX论文模板，SPSS工具分享。|27|2021-11-20|
+|116|[SocratesAcademy/ccbook](https://github.com/SocratesAcademy/ccbook)|Elements of Computational Communication 《计算传播基础》|27|2022-02-26|
+|117|[waterDLut/hydrus](https://github.com/waterDLut/hydrus)|水文水资源（Hydrology and Water Resources）方面利用python做模型model、算法algorithm等科学计算工作所需的基础技能树学习|25|2021-11-16|
+|118|[zhiyu1998/Computer-Science-Learn-Notes](https://github.com/zhiyu1998/Computer-Science-Learn-Notes)|CS（Computer Science）生涯学习/读书笔记，包含：Java、JVM、算法、前端、Spring系列、Python、Golang、深度学习、数据结构等|25|2022-03-06|
+|119|[hululuzhu/chinese-ai-writing-share](https://github.com/hululuzhu/chinese-ai-writing-share)|中文AI写作共享（监督学习和迁移学习来写诗或对对子）|23|2022-02-26|
+|120|[yinuxy/Python](https://github.com/yinuxy/Python)|YINUXY的python脚本分享|23|2021-09-20|
+|121|[eagle-dai/OptimizingSoftwareInCpp](https://github.com/eagle-dai/OptimizingSoftwareInCpp)|Optimizing Software In C++ 非正式中文翻译|23|2022-01-17|
+|122|[WayneDW/Contour-Stochastic-Gradient-Langevin-Dynamics](https://github.com/WayneDW/Contour-Stochastic-Gradient-Langevin-Dynamics)|An elegant adaptive importance sampling algorithms  for simulations of multi-modal distributions (NeurIPS'20)|22|2022-02-13|
+|123|[liangruibupt/aws-is-how](https://github.com/liangruibupt/aws-is-how)|Know How Guide and Hands on Guide for AWS|22|2022-03-06|
+|124|[HuangCongQing/CS231n_Spring_2019](https://github.com/HuangCongQing/CS231n_Spring_2019)|CS231n_Spring（2019年秋季）计算机视觉课程|22|2022-01-09|
+|125|[hzcforever/Something](https://github.com/hzcforever/Something)|面试知识点 + 笔试刷题总结。|21|2021-09-15|
+|126|[dmarx/anthology-of-modern-ml](https://github.com/dmarx/anthology-of-modern-ml)|Collection of important articles to be treated as a textbook|20|2022-02-16|
+|127|[1am9trash/Hung_Yi_Lee_ML_2021](https://github.com/1am9trash/Hung_Yi_Lee_ML_2021)|李宏毅教授 2021年機器學習 作業與筆記匯總|20|2021-09-17|
+|128|[fry404006308/fry_course_materials](https://github.com/fry404006308/fry_course_materials)|范仁义录播课资料|20|2022-02-27|
+|129|[reganzm/Learn-Pytorch-And-Become-A-Data-Scientist](https://github.com/reganzm/Learn-Pytorch-And-Become-A-Data-Scientist)|《学好Pytorch成为数据科学家》书籍随书代码|20|2021-10-21|
+|130|[JULIELab/MEmoLon](https://github.com/JULIELab/MEmoLon)|Repository for our ACL 2020 paper "Learning and Evaluating Emotion Lexicons for 91 Languages"|19|2022-01-21|
+|131|[binzhouchn/machine_learning](https://github.com/binzhouchn/machine_learning)|抽象来讲，机器学习问题是把数据转换成信息再提炼到知识的过程，特征是“数据-->信息”的过程，决定了结果的上限，而分类器是“信息-->知识”的过程，则是去逼近这个上限|18|2021-10-15|
+|132|[lvyufeng/d2l-mindspore](https://github.com/lvyufeng/d2l-mindspore)|《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。|17|2022-02-02|
+|133|[raymondlo84/openvino-paddlepaddle-demo](https://github.com/raymondlo84/openvino-paddlepaddle-demo)|This repository provides examples of PaddlePaddle and OpenVINO integration. |17|2021-12-22|
+|134|[zzy99/competition-solutions](https://github.com/zzy99/competition-solutions)|我的数据竞赛方案总结|17|2021-11-16|
+|135|[hanzhenlei767/NLP_Learn](https://github.com/hanzhenlei767/NLP_Learn)|NLP学习笔记-前沿追踪|17|2022-02-10|
+|136|[xiaomeng79/learning_notes](https://github.com/xiaomeng79/learning_notes)|学习笔记|17|2022-02-24|
+|137|[AccumulateMore/CPlusPlus](https://github.com/AccumulateMore/CPlusPlus)|最细致的 C++ 笔记|16|2022-01-28|
+|138|[jikeruohai/machine-learning-example](https://github.com/jikeruohai/machine-learning-example)|我的同名B站和公众号中用到的视频|16|2021-10-21|
+|139|[fire717/Python-Toolkit](https://github.com/fire717/Python-Toolkit)|轮子/ 常用库/ 书籍笔记/ 小程序|16|2022-03-03|
+|140|[whyAndBetter/python_grammar](https://github.com/whyAndBetter/python_grammar)|Python的基础语法学习|15|2022-01-09|
+|141|[chinobing/QuantInvest](https://github.com/chinobing/QuantInvest)|cnvar.cn及个人微信公众号【QuantInvest】里面提及的编程代码, 对股票各种研究和折腾分析A股市场的各种现象和投资机会，涉及编程、股票模型、分析研究、杂谈等，代码是python，以jupyter notebook展示。|15|2022-01-13|
+|142|[NjtechCVLab/Level_1](https://github.com/NjtechCVLab/Level_1)|入门资料|15|2021-12-19|
+|143|[rhidra/autopilot](https://github.com/rhidra/autopilot)|A UAV autonomous navigation autopilot, made with ROS, MAVROS, PX4 and Gazebo. Check out my master thesis in the repo for more info.|15|2021-09-23|
+|144|[LawsonAbs/learn](https://github.com/LawsonAbs/learn)|记录python,pytorch,git等工具的学习过程，主要是对该工具常用部分进行实践。|15|2022-03-07|
+|145|[WYGNG/USTC_SSE_AI](https://github.com/WYGNG/USTC_SSE_AI)|中国科学技术大学软件学院人工智能课程|15|2022-02-11|
+|146|[Alex-Shen1121/SZU_Learning_Resource](https://github.com/Alex-Shen1121/SZU_Learning_Resource)|深圳大学CS本科 课程资源共享|14|2021-12-30|
+|147|[hitlic/python_book](https://github.com/hitlic/python_book)|清华大学出版社《Python从入门到提高》源代码、课件|14|2022-01-13|
+|148|[Relph1119/Pytorch-Camp](https://github.com/Relph1119/Pytorch-Camp)|深度之眼《Pytorch框架训练营》|14|2021-10-12|
+|149|[rwepa/DataDemo](https://github.com/rwepa/DataDemo)|提供資料集與範例分享.|13|2021-11-11|
+|150|[napoler/reformer-chinese](https://github.com/napoler/reformer-chinese)|reformer-pytorch中文版本，简单高效的生成模型。类似GPT2的效果|12|2021-09-25|
+|151|[ymzis69/gddw_track3](https://github.com/ymzis69/gddw_track3)|阿里云天池广东电网识别挑战赛（赛道三） 亚军方案分享|11|2021-09-15|
+|152|[BrikerMan/tf2-101](https://github.com/BrikerMan/tf2-101)|Repository for Book 《TensorFlow 2.0 入门实践》|11|2021-10-28|
+|153|[Mazeqi/PaperNote](https://github.com/Mazeqi/PaperNote)|阅读论文的一些笔记|11|2021-12-09|
+|154|[evenchange4/nextjs-tfjs-cnn](https://github.com/evenchange4/nextjs-tfjs-cnn)|🐕 🐈 Classifier using Keras VGG16 transfer learning with kaggle dataset.|11|2021-10-18|
+|155|[TinyHandsome/BookStudy](https://github.com/TinyHandsome/BookStudy)|各本书的学习笔记|11|2021-12-09|
+|156|[wanghao15536870732/StudyNotes](https://github.com/wanghao15536870732/StudyNotes)|📖 学习笔记|10|2021-11-08|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

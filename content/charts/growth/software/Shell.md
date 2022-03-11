@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Shell
-<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[imfiver/CVE-2022-0847](https://github.com/imfiver/CVE-2022-0847)|CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此 ...|48|16|2022-03-07|
+|1|[imfiver/CVE-2022-0847](https://github.com/imfiver/CVE-2022-0847)|CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此 ...|48|12|2022-03-07|
 |2|[Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust)|Rust explained using easy English|6496|11|2022-02-15|
 |3|[acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)|A pure Unix shell script implementing ACME client protocol|25631|11|2022-03-07|
 |4|[csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China)|介绍中国各二线以上城市的互联网环境以及生活成本|1963|8|2022-03-03|
@@ -22,14 +22,14 @@
 |15|[ffffffff0x/403-fuzz](https://github.com/ffffffff0x/403-fuzz)|针对 403 页面的 fuzz 脚本|101|4|2022-02-14|
 |16|[MinerPr0xy/MinerProxy](https://github.com/MinerPr0xy/MinerProxy)|本程序为正版原创，最稳定的ETH以太坊代理中转矿池程序，全新界面，支持ETH，ETC，抽水稳定不掉线，作者抽水千分之三，MinerProxy/矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理，包含自启动和进程守护，重启后可以自动运行，会放开防火墙和连接数限制，一键搞定。|327|4|2022-03-04|
 |17|[klever1988/nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt)|Openwrt for Nanopi R1S R2S R4S 香橙派 R1 Plus 固件编译 纯净版与大杂烩|3277|4|2022-03-01|
-|18|[mp303eth/MinerProxy303](https://github.com/mp303eth/MinerProxy303)|本仓库仅原版303的一键安装脚本，顺便加开防火墙+改连接数+自启动守护  矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理。 |104|4|2022-02-28|
-|19|[FlechazoPh/QLDependency](https://github.com/FlechazoPh/QLDependency)|青龙全依赖一键安装脚本|428|4|2022-03-03|
-|20|[Misaka-blog/MisakaLinuxToolbox](https://github.com/Misaka-blog/MisakaLinuxToolbox)|御坂妹妹们的Linux VPS工具箱|273|4|2022-03-03|
-|21|[fscarmen/warp](https://github.com/fscarmen/warp)|WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本|954|3|2022-02-28|
-|22|[jinwyp/one_click_script](https://github.com/jinwyp/one_click_script)|一键安装 trojan v2ray xray. Install v2ray / xray (VLESS) and trojan (trojan-go) script|1925|3|2022-02-26|
-|23|[ben1234560/k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)|如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker等。|1501|3|2022-02-09|
-|24|[P3TERX/warp.sh](https://github.com/P3TERX/warp.sh)|WARP 一键安装脚本   Cloudflare WARP Installer   A Bash script that automatically installs and configures CloudFlare WARP in Linux, connects to WARP networks with WARP official client or WireGuard.|872|3|2022-03-06|
-|25|[alibaba/dragonwell8](https://github.com/alibaba/dragonwell8)|Alibaba Dragonwell8 JDK|3459|3|2022-03-07|
+|18|[FlechazoPh/QLDependency](https://github.com/FlechazoPh/QLDependency)|青龙全依赖一键安装脚本|428|4|2022-03-03|
+|19|[Misaka-blog/MisakaLinuxToolbox](https://github.com/Misaka-blog/MisakaLinuxToolbox)|御坂妹妹们的Linux VPS工具箱|273|4|2022-03-03|
+|20|[fscarmen/warp](https://github.com/fscarmen/warp)|WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本|954|3|2022-02-28|
+|21|[jinwyp/one_click_script](https://github.com/jinwyp/one_click_script)|一键安装 trojan v2ray xray. Install v2ray / xray (VLESS) and trojan (trojan-go) script|1925|3|2022-02-26|
+|22|[ben1234560/k8s_PaaS](https://github.com/ben1234560/k8s_PaaS)|如何基于K8s(Kubernetes)部署成PaaS/DevOps(一套完整的软件研发和部署平台)--教程/学习(实战代码/欢迎讨论/大量注释/操作配图)，你将习得部署如：K8S(Kubernetes)、dashboard、Harbor、Jenkins、本地gitlab、Apollo框架、promtheus、grafana、spinnaker等。|1501|3|2022-02-09|
+|23|[P3TERX/warp.sh](https://github.com/P3TERX/warp.sh)|WARP 一键安装脚本   Cloudflare WARP Installer   A Bash script that automatically installs and configures CloudFlare WARP in Linux, connects to WARP networks with WARP official client or WireGuard.|872|3|2022-03-06|
+|24|[alibaba/dragonwell8](https://github.com/alibaba/dragonwell8)|Alibaba Dragonwell8 JDK|3459|3|2022-03-07|
+|25|[mp303eth/MinerProxy303](https://github.com/mp303eth/MinerProxy303)|本仓库仅原版303的一键安装脚本，顺便加开防火墙+改连接数+自启动守护  矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理。 |104|3|2022-02-28|
 |26|[Misaka-blog/Xray-script](https://github.com/Misaka-blog/Xray-script)|Xray一键安装脚本，支持节点自动生成伪装站，支持和宝塔面板共存，支持IPv4、IPv6 VPS|63|3|2022-03-04|
 |27|[kkkyg/CFwarp](https://github.com/kkkyg/CFwarp)|Cloudflare WARP 多功能一键脚本，screen一键手动/自动刷新支持Netflix奈飞的IP（自动识别WGCF与SOCKS5环境，同步循环Endpoint的IP，1：自定义设置刷新奈飞IP的时间段间隔，2：自定义设置奈飞的IP区域，3：自定义设置仅刷IP区域），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新 ...|490|3|2022-03-05|
 |28|[DHDAXCW/NanoPi-R2S](https://github.com/DHDAXCW/NanoPi-R2S)|基于 Lean&Lienol 源码的 NanoPi R2S 的 OpenWrt 固件。每天自动更新插件和内核，Fusion编译法|532|2|2022-03-05|

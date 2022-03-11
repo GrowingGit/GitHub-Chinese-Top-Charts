@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TypeScript
-<sub>数据更新: 2022-03-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -63,14 +63,12 @@
 |56|[Clansty/Q2TG](https://github.com/Clansty/Q2TG)|QQ 与 Telegram 群相互转发的 bot|107|2022-03-08|2021-07-20|
 |57|[tgbot-collection/YYeTsFE](https://github.com/tgbot-collection/YYeTsFE)|YYeTsBot 前端页面|106|2022-03-04|2021-06-07|
 |58|[babyfish-ct/graphql-ts-client](https://github.com/babyfish-ct/graphql-ts-client)|Typescript DSL for GraphQL.|95|2022-01-21|2021-06-17|
-|59|[aehyok/vue-qiankun](https://github.com/aehyok/vue-qiankun)|基于vite2+vue3+TypeScript+qiankun2 乾坤微前端后台管理系统项目,腾讯云在线运行（封装了动态form表单和table列表、jsx(tsx)项目demo、以及leaflet地图和leaflet-geoman编辑图层）|94|2022-03-05|2021-03-10|
-|60|[YunYouJun/sese-engine-ui](https://github.com/YunYouJun/sese-engine-ui)|🔍 Sese engine ui. 色色搜索引擎 UI|88|2022-01-23|2021-12-17|
-|61|[sigoden/apitest](https://github.com/sigoden/apitest)|Apitest is declarative api testing tool with JSON-like DSL.|88|2022-02-17|2021-06-01|
-|62|[ruby-no-kai/takeout-app](https://github.com/ruby-no-kai/takeout-app)|Virtual venue for RubyKaigi Takeout w/ Amazon IVS, Chime SDK for Messaging, Transcribe|87|2021-09-14|2021-07-08|
-|63|[turkyden/watermark-pro](https://github.com/turkyden/watermark-pro)|💦  保护你的敏感信息，一款所见即所得的证件加水印工具|87|2021-09-27|2021-04-23|
-|64|[ykfe/viter](https://github.com/ykfe/viter)|小而美的 Vite 中后台开发框架|86|2022-01-14|2021-04-21|
-|65|[elegantYU/xiaobi](https://github.com/elegantYU/xiaobi)|小币|84|2021-09-29|2021-05-07|
-|66|[yuanguandong/smart-background](https://github.com/yuanguandong/smart-background)|Automatically generate the background of the symbol picture, so you no longer have to worry about the background 自动生成符号背景，让你不再为背景头疼|71|2021-09-08|2021-08-14|
+|59|[YunYouJun/sese-engine-ui](https://github.com/YunYouJun/sese-engine-ui)|🔍 Sese engine ui. 色色搜索引擎 UI|88|2022-01-23|2021-12-17|
+|60|[sigoden/apitest](https://github.com/sigoden/apitest)|Apitest is declarative api testing tool with JSON-like DSL.|88|2022-02-17|2021-06-01|
+|61|[ruby-no-kai/takeout-app](https://github.com/ruby-no-kai/takeout-app)|Virtual venue for RubyKaigi Takeout w/ Amazon IVS, Chime SDK for Messaging, Transcribe|87|2021-09-14|2021-07-08|
+|62|[turkyden/watermark-pro](https://github.com/turkyden/watermark-pro)|💦  保护你的敏感信息，一款所见即所得的证件加水印工具|87|2021-09-27|2021-04-23|
+|63|[ykfe/viter](https://github.com/ykfe/viter)|小而美的 Vite 中后台开发框架|86|2022-01-14|2021-04-21|
+|64|[elegantYU/xiaobi](https://github.com/elegantYU/xiaobi)|小币|84|2021-09-29|2021-05-07|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
