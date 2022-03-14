@@ -1,47 +1,47 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > JavaScript
-<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|20046|2022-03-08|2021-08-07|
-|2|[vaxilu/x-ui](https://github.com/vaxilu/x-ui)|支持多协议多用户的 xray 面板|3608|2022-03-04|2021-05-18|
+|1|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|20153|2022-03-12|2021-08-07|
+|2|[vaxilu/x-ui](https://github.com/vaxilu/x-ui)|支持多协议多用户的 xray 面板|3703|2022-03-13|2021-05-18|
 |3|[shufflewzc/faker2](https://github.com/shufflewzc/faker2)|不知名大佬备份|3023|2022-01-29|2021-06-10|
-|4|[VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo)|解锁完整的 Apple功能和集成服务|2630|2022-02-14|2021-10-16|
+|4|[VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo)|解锁完整的 Apple功能和集成服务|2648|2022-03-13|2021-10-16|
 |5|[zero205/JD_tencent_scf](https://github.com/zero205/JD_tencent_scf)|-|2312|2022-02-07|2021-05-11|
 |6|[micro-zoe/micro-app](https://github.com/micro-zoe/micro-app)|A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架|2309|2022-03-08|2021-06-24|
-|7|[ender-zhao/Clash-for-Windows_Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese)|clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序|1602|2022-03-04|2021-04-19|
+|7|[ender-zhao/Clash-for-Windows_Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese)|clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序|1680|2022-03-11|2021-04-19|
 |8|[MoonBegonia/ninja](https://github.com/MoonBegonia/ninja)|-|1405|2022-01-24|2021-07-26|
-|9|[craigary/nobelium](https://github.com/craigary/nobelium)|A static blog build on top of Notion and NextJS, deployed on Vercel.|1334|2022-03-03|2021-03-14|
-|10|[lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)|一个基于 React native 开发的音乐软件|1281|2022-02-26|2021-05-15|
-|11|[ineo6/hosts](https://github.com/ineo6/hosts)|GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。|1133|2022-03-08|2021-03-28|
-|12|[RimoChan/match-you](https://github.com/RimoChan/match-you)|【您配吗】配你吗|1112|2022-01-22|2021-11-19|
-|13|[Reamd7/notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)|notion 中文化|1112|2022-02-26|2021-08-12|
-|14|[AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch)|Add a useless notch to your screen.|941|2021-10-30|2021-10-20|
-|15|[Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)|✨ A Markdown Editor|716|2022-03-04|2021-10-15|
+|9|[lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)|一个基于 React native 开发的音乐软件|1313|2022-02-26|2021-05-15|
+|10|[ineo6/hosts](https://github.com/ineo6/hosts)|GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。|1185|2022-03-14|2021-03-28|
+|11|[RimoChan/match-you](https://github.com/RimoChan/match-you)|【您配吗】配你吗|1113|2022-03-10|2021-11-19|
+|12|[Reamd7/notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)|notion 中文化|1112|2022-02-26|2021-08-12|
+|13|[AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch)|Add a useless notch to your screen.|942|2021-10-30|2021-10-20|
+|14|[6dylan6/jdpro](https://github.com/6dylan6/jdpro)|青龙脚本库|735|2022-03-14|2021-07-30|
+|15|[Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)|✨ A Markdown Editor|719|2022-03-14|2021-10-15|
 |16|[asd920/Auto-jd](https://github.com/asd920/Auto-jd)|京东自用脚本|662|2022-02-07|2021-05-29|
 |17|[passerby-b/JDDJ](https://github.com/passerby-b/JDDJ)|京东到家果园庄园脚本,电报群:https://t.me/passerbyb2021|636|2021-12-13|2021-04-16|
-|18|[feeddd/feeds](https://github.com/feeddd/feeds)|免费的公众号 RSS，支持扩展任意 APP|558|2022-03-03|2021-08-17|
-|19|[gys619/Absinthe](https://github.com/gys619/Absinthe)|一个兴趣使然的库|549|2022-03-08|2021-09-02|
+|18|[gys619/Absinthe](https://github.com/gys619/Absinthe)|一个兴趣使然的库|585|2022-03-14|2021-09-02|
+|19|[feeddd/feeds](https://github.com/feeddd/feeds)|免费的公众号 RSS，支持扩展任意 APP|572|2022-03-13|2021-08-17|
 |20|[YuehaiTeam/cocogoat-client](https://github.com/YuehaiTeam/cocogoat-client)|A toolbox for Genshin Impact to export artifacts automatically.  支持圣遗物全自动导出的原神工具箱，保证每一行代码都是熬夜加班打造。|543|2022-02-15|2021-04-08|
-|21|[segfall/static-wiki](https://github.com/segfall/static-wiki)|Wikipedia using only static assets & no backend|510|2021-09-17|2021-07-18|
-|22|[tnfe/wp2vite](https://github.com/tnfe/wp2vite)|一个让webpack项目支持vite的前端项目的转换工具。A front-end project automatic conversion tool。|507|2021-12-17|2021-03-29|
-|23|[MakinoharaShoko/WebGAL](https://github.com/MakinoharaShoko/WebGAL)|全新的基于 Web 的 视觉小说引擎   A brand new Visual Novel engine based on Web.|502|2022-03-07|2021-09-16|
-|24|[xaboy/form-create-designer](https://github.com/xaboy/form-create-designer)|好用的vue可视化表单设计器|495|2022-01-12|2021-04-05|
-|25|[xqq/mpegts.js](https://github.com/xqq/mpegts.js)|HTML5 MPEG2-TS Stream Player|431|2021-10-19|2021-03-15|
-|26|[764763903a/xdd-plus](https://github.com/764763903a/xdd-plus)|xdd-plus|429|2022-01-19|2021-09-06|
-|27|[wechat-miniprogram/minigame-unity-webgl-transform](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform)|-|427|2022-03-02|2021-05-24|
-|28|[TributePaulWalker/Profiles](https://github.com/TributePaulWalker/Profiles)|搜集, 整理, Surge, Quantumult X实用规则.纯自用，不定时折腾更新。欢迎Star! 请不要Fork! 请不要Fork! 请不要Fork! 感谢!|416|2022-03-07|2021-03-31|
-|29|[shenruisi/Stay](https://github.com/shenruisi/Stay)|Stay is a local userscript manager and an extension sample for Safari on iOS/iPadOS.|401|2022-03-04|2021-10-24|
+|21|[tnfe/wp2vite](https://github.com/tnfe/wp2vite)|一个让webpack项目支持vite的前端项目的转换工具。A front-end project automatic conversion tool。|530|2021-12-17|2021-03-29|
+|22|[segfall/static-wiki](https://github.com/segfall/static-wiki)|Wikipedia using only static assets & no backend|511|2021-09-17|2021-07-18|
+|23|[xaboy/form-create-designer](https://github.com/xaboy/form-create-designer)|好用的vue可视化表单设计器|506|2022-01-12|2021-04-05|
+|24|[MakinoharaShoko/WebGAL](https://github.com/MakinoharaShoko/WebGAL)|全新的基于 Web 的 视觉小说引擎   A brand new Visual Novel engine based on Web.|502|2022-03-07|2021-09-16|
+|25|[xqq/mpegts.js](https://github.com/xqq/mpegts.js)|HTML5 MPEG2-TS Stream Player|438|2021-10-19|2021-03-15|
+|26|[wechat-miniprogram/minigame-unity-webgl-transform](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform)|-|433|2022-03-09|2021-05-24|
+|27|[764763903a/xdd-plus](https://github.com/764763903a/xdd-plus)|xdd-plus|431|2022-01-19|2021-09-06|
+|28|[TributePaulWalker/Profiles](https://github.com/TributePaulWalker/Profiles)|搜集, 整理, Surge, Quantumult X实用规则.纯自用，不定时折腾更新。欢迎Star! 请不要Fork! 请不要Fork! 请不要Fork! 感谢!|431|2022-03-14|2021-03-31|
+|29|[shenruisi/Stay](https://github.com/shenruisi/Stay)|Stay is a local userscript manager and an extension sample for Safari on iOS/iPadOS.|414|2022-03-14|2021-10-24|
 |30|[ccwav/QLScript2](https://github.com/ccwav/QLScript2)|新QLScript|376|2022-01-28|2021-09-29|
 |31|[USTC-Hackergame/hackergame2021-writeups](https://github.com/USTC-Hackergame/hackergame2021-writeups)|中国科学技术大学第八届信息安全大赛的官方与非官方题解|373|2022-01-10|2021-10-30|
-|32|[SonicCloudOrg/sonic-client-web](https://github.com/SonicCloudOrg/sonic-client-web)|🎉Front end of Sonic cloud real machine testing platform. Sonic云真机测试平台前端。|359|2022-03-06|2021-08-16|
-|33|[cweijan/JD_tencent_scf](https://github.com/cweijan/JD_tencent_scf)|打京豆部署介绍|344|2022-02-26|2022-02-08|
-|34|[qianlongo/fe-handwriting](https://github.com/qianlongo/fe-handwriting)|手写各种js Promise、apply、call、bind、new、deepClone....|340|2022-03-06|2021-06-02|
-|35|[loong132/autojs-script](https://github.com/loong132/autojs-script)|autojs脚本程序,用于完成安卓设备上的重复性操作.包含脚本: 1.2021年京东618任务脚本 2.2021年京东燃动夏季活动脚本3.2021京东双十一热爱环游记|336|2021-11-06|2021-07-10|
-|36|[qishanzhiruan/basemall](https://github.com/qishanzhiruan/basemall)|🥇🥇🥇商城系统-  java商城 B2C商城 小程序商城 H5商城 APP商城 ，本商城是前后端分离的商城、微服务架构商城。|321|2022-02-09|2021-09-13|
-|37|[elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator)|A plugin for reading and annotating PDFs and EPUBs in obsidian. |321|2022-03-07|2021-08-25|
+|32|[SonicCloudOrg/sonic-client-web](https://github.com/SonicCloudOrg/sonic-client-web)|🎉Front end of Sonic cloud real machine testing platform. Sonic云真机测试平台前端。|368|2022-03-12|2021-08-16|
+|33|[qianlongo/fe-handwriting](https://github.com/qianlongo/fe-handwriting)|手写各种js Promise、apply、call、bind、new、deepClone....|357|2022-03-06|2021-06-02|
+|34|[cweijan/JD_tencent_scf](https://github.com/cweijan/JD_tencent_scf)|打京豆部署介绍|354|2022-02-26|2022-02-08|
+|35|[loong132/autojs-script](https://github.com/loong132/autojs-script)|autojs脚本程序,用于完成安卓设备上的重复性操作.包含脚本: 1.2021年京东618任务脚本 2.2021年京东燃动夏季活动脚本3.2021京东双十一热爱环游记|335|2021-11-06|2021-07-10|
+|36|[elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator)|A plugin for reading and annotating PDFs and EPUBs in obsidian. |329|2022-03-11|2021-08-25|
+|37|[qishanzhiruan/basemall](https://github.com/qishanzhiruan/basemall)|🥇🥇🥇商城系统-  java商城 B2C商城 小程序商城 H5商城 APP商城 ，本商城是前后端分离的商城、微服务架构商城。|322|2022-02-09|2021-09-13|
 |38|[yuannian1112/jd_scripts](https://github.com/yuannian1112/jd_scripts)|-|318|2022-01-31|2021-08-07|
 |39|[study-vue3/fast-vue3](https://github.com/study-vue3/fast-vue3)|Vue3+Vite+Ts+Pinia+...一个快速开发vue3的模板框架|307|2022-03-08|2021-12-21|
 |40|[omxmo/qg](https://github.com/omxmo/qg)|秒杀软件、抢购软件、淘金币助手。淘宝/天猫/淘特/京东/拼多多/苏宁易购/华为商城/小米商城/聚划算/百亿补贴/抖音/快手/酒仙网/直播/得物。手机抢购/茅台抢购/显卡抢购/耐克抢购/阿迪达斯鞋子抢购。38女王节/618/1111/双11/双十一/1212/双12/双十二/年货节任务助手。直链/BP链接。年货节炸年兽/支付宝集五福/集福卡脚本。冰墩墩抢购。|290|2022-03-07|2021-04-01|
@@ -65,21 +65,20 @@
 |58|[anji-plus/report](https://github.com/anji-plus/report)|AJ-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源---->写SQL配置数据集---->拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。|151|2021-12-13|2021-06-22|
 |59|[Arondight/Adachi-BOT](https://github.com/Arondight/Adachi-BOT)|一个在 QQ 中运行的原神助手|148|2021-12-13|2021-05-13|
 |60|[jiulan/platypus](https://github.com/jiulan/platypus)|自用项目  别fork|139|2021-12-07|2021-06-04|
-|61|[PercyJon/canteen_order_client](https://github.com/PercyJon/canteen_order_client)|ordering client for hospital or school canteen customer|138|2021-09-11|2021-09-09|
-|62|[KingRan/JD-Scripts](https://github.com/KingRan/JD-Scripts)|个人自用库，收藏好的JD脚本，适用于青龙面板|137|2021-12-13|2021-09-07|
-|63|[X1a0He/jd_scripts_fixed](https://github.com/X1a0He/jd_scripts_fixed)|由本人修复的京东类脚本，引用请注明来源|136|2021-12-06|2021-09-05|
-|64|[CloudWise-OpenSource/FlyFish](https://github.com/CloudWise-OpenSource/FlyFish)|FlyFish|134|2021-12-08|2021-10-08|
-|65|[lo4396ve/vue-analysis](https://github.com/lo4396ve/vue-analysis)|vue源码分析|130|2021-11-02|2021-09-13|
-|66|[master-of-forums/master-of-forums](https://github.com/master-of-forums/master-of-forums)|论坛网站页面美化、广告移除、功能增强。美轮美奂的视觉享受，安然恬静的论坛时光……|124|2021-12-09|2021-08-17|
-|67|[guyijie1211/JustLive-Web](https://github.com/guyijie1211/JustLive-Web)|:tv:一个整合国内多个直播平台内容的网站|118|2021-11-09|2021-05-24|
-|68|[shanmiteko/LotteryAutoScript](https://github.com/shanmiteko/LotteryAutoScript)|Bili动态抽奖助手|116|2021-12-13|2021-07-10|
-|69|[itenl/react-native-scrollable-tabview](https://github.com/itenl/react-native-scrollable-tabview)|Based on pure JS scripts, without relying on native, no need for react-native link, Title / Header / Tabs / Sticky / Screen components can be flexibly configured, among which Tabs / Sticky can slide W ...|110|2021-12-07|2021-06-02|
-|70|[04zhujunjie/jj-messagebox](https://github.com/04zhujunjie/jj-messagebox)|基于Vue的弹框 messagebox alert dialog loading popup toast|107|2021-11-09|2021-10-20|
-|71|[nancheung97/notion-zh_CN](https://github.com/nancheung97/notion-zh_CN)|对notion.so的汉化油猴脚本|106|2021-11-08|2021-06-01|
-|72|[SkepticMystic/graph-analysis](https://github.com/SkepticMystic/graph-analysis)|Analyse the structure of your Obsidian graph using various analysis techniques|105|2021-11-16|2021-07-11|
-|73|[iGaoWei/BigDataView](https://github.com/iGaoWei/BigDataView)|100套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中|99|2021-10-22|2021-07-29|
-|74|[wanwu/devtools-pro](https://github.com/wanwu/devtools-pro)|A web remote debugging tools, based on Chrome DevTools|99|2021-12-13|2021-04-30|
-|75|[zhushenwudi/LoveLiveMusicPlayer](https://github.com/zhushenwudi/LoveLiveMusicPlayer)|一款LLer的专属播放器|92|2021-12-12|2021-10-28|
+|61|[KingRan/JD-Scripts](https://github.com/KingRan/JD-Scripts)|个人自用库，收藏好的JD脚本，适用于青龙面板|137|2021-12-13|2021-09-07|
+|62|[X1a0He/jd_scripts_fixed](https://github.com/X1a0He/jd_scripts_fixed)|由本人修复的京东类脚本，引用请注明来源|136|2021-12-06|2021-09-05|
+|63|[CloudWise-OpenSource/FlyFish](https://github.com/CloudWise-OpenSource/FlyFish)|FlyFish|134|2021-12-08|2021-10-08|
+|64|[lo4396ve/vue-analysis](https://github.com/lo4396ve/vue-analysis)|vue源码分析|130|2021-11-02|2021-09-13|
+|65|[master-of-forums/master-of-forums](https://github.com/master-of-forums/master-of-forums)|论坛网站页面美化、广告移除、功能增强。美轮美奂的视觉享受，安然恬静的论坛时光……|124|2021-12-09|2021-08-17|
+|66|[guyijie1211/JustLive-Web](https://github.com/guyijie1211/JustLive-Web)|:tv:一个整合国内多个直播平台内容的网站|118|2021-11-09|2021-05-24|
+|67|[shanmiteko/LotteryAutoScript](https://github.com/shanmiteko/LotteryAutoScript)|Bili动态抽奖助手|116|2021-12-13|2021-07-10|
+|68|[itenl/react-native-scrollable-tabview](https://github.com/itenl/react-native-scrollable-tabview)|Based on pure JS scripts, without relying on native, no need for react-native link, Title / Header / Tabs / Sticky / Screen components can be flexibly configured, among which Tabs / Sticky can slide W ...|110|2021-12-07|2021-06-02|
+|69|[04zhujunjie/jj-messagebox](https://github.com/04zhujunjie/jj-messagebox)|基于Vue的弹框 messagebox alert dialog loading popup toast|107|2021-11-09|2021-10-20|
+|70|[nancheung97/notion-zh_CN](https://github.com/nancheung97/notion-zh_CN)|对notion.so的汉化油猴脚本|106|2021-11-08|2021-06-01|
+|71|[SkepticMystic/graph-analysis](https://github.com/SkepticMystic/graph-analysis)|Analyse the structure of your Obsidian graph using various analysis techniques|105|2021-11-16|2021-07-11|
+|72|[iGaoWei/BigDataView](https://github.com/iGaoWei/BigDataView)|100套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中|99|2021-10-22|2021-07-29|
+|73|[wanwu/devtools-pro](https://github.com/wanwu/devtools-pro)|A web remote debugging tools, based on Chrome DevTools|99|2021-12-13|2021-04-30|
+|74|[zhushenwudi/LoveLiveMusicPlayer](https://github.com/zhushenwudi/LoveLiveMusicPlayer)|一款LLer的专属播放器|92|2021-12-12|2021-10-28|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

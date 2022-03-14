@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Vim script
-<sub>数据更新: 2022-03-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|259|2022-01-10|2021-08-07|
+|1|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|260|2022-01-10|2021-08-07|
 |2|[iokfine/bee-dashboard](https://github.com/iokfine/bee-dashboard)|管理多个bee节点 提现工具|43|2022-02-21|2021-05-29|
-|3|[FrankFang/oh-my-docker](https://github.com/FrankFang/oh-my-docker)|-|29|2022-02-13|2021-08-25|
-|4|[wandercn/go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf)|my vim conf for golang IDE and rust IDE|11|2022-02-11|2021-06-25|
+|3|[FrankFang/oh-my-docker](https://github.com/FrankFang/oh-my-docker)|-|30|2022-03-14|2021-08-25|
+|4|[wandercn/go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf)|my vim conf for golang IDE and rust IDE|12|2022-02-11|2021-06-25|
 |5|[Jackiexiao/jdocker](https://github.com/Jackiexiao/jdocker)|docker搭建ubuntu远程开发环境/vscode|4|2021-09-16|2021-04-13|
 |6|[GavinSun0921/Auto-configuration-vim](https://github.com/GavinSun0921/Auto-configuration-vim)|自动化配置 vim 的个人开发环境，包括基础的编辑器设置以及各种插件的安装与配置（包括LSP）。极大的便捷了配置过程。|3|2022-02-15|2022-02-07|
 |7|[bujnlc8/vim-stock](https://github.com/bujnlc8/vim-stock)|一个以颜色显示A股行业涨跌的VIM插件|3|2021-10-27|2021-10-25|
