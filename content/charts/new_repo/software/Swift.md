@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Swift
-<sub>数据更新: 2022-03-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1524|2022-03-04|2021-11-13|
-|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts|924|2022-03-11|2021-11-30|
+|1|[KwaiAppTeam/SwiftPamphletApp](https://github.com/KwaiAppTeam/SwiftPamphletApp)|戴铭的开发小册子，一本活的开发手册。使用 SwiftUI + Combine + Swift Concurrency Aysnc/Await Actor + GitHub API 开发的 macOS 应用|1528|2022-03-04|2021-11-13|
+|2|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts|927|2022-03-15|2021-11-30|
 |3|[Jinxiansen/Windows11](https://github.com/Jinxiansen/Windows11)| 💻 Windows 11 in SwiftUI.|126|2021-10-13|2021-08-31|
-|4|[MikeWang000000/PD-Runner-Revived](https://github.com/MikeWang000000/PD-Runner-Revived)|PD-Runner (Parallels Desktop) 补档|104|2022-02-26|2022-01-25|
+|4|[MikeWang000000/PD-Runner-Revived](https://github.com/MikeWang000000/PD-Runner-Revived)|PD-Runner (Parallels Desktop) 补档|110|2022-02-26|2022-01-25|
 |5|[william0wang/MagicCamera](https://github.com/william0wang/MagicCamera)|iOS多功能AI相机：人像卡通化、变老变年轻、美颜、滤镜、艺术效果等|103|2021-11-08|2021-10-29|
 |6|[Lakr233/FishUpgrade](https://github.com/Lakr233/FishUpgrade)|macOS 摸鱼模拟器|91|2021-12-19|2021-12-16|
 |7|[BugenZhao/MNGA](https://github.com/BugenZhao/MNGA)|💬 A refreshing NGA Forum App in SwiftUI. Make NGA Great Again! aka "NGA 论坛 iOS 开源客户端"|82|2022-01-03|2021-06-27|
 |8|[pujiaxin33/StackUI](https://github.com/pujiaxin33/StackUI)|StackUI just like SwiftUI|76|2022-01-25|2021-10-14|
-|9|[yangKJ/RxNetworks](https://github.com/yangKJ/RxNetworks)|🧚Network API With RxSwift + Moya + HandyJSON + Plugins.|63|2022-03-07|2021-05-08|
+|9|[yangKJ/RxNetworks](https://github.com/yangKJ/RxNetworks)|🧚Network API With RxSwift + Moya + HandyJSON + Plugins.|65|2022-03-11|2021-05-08|
 |10|[Astrian/switshot](https://github.com/Astrian/switshot)|Console screenshot transfer|53|2022-02-21|2021-09-10|
-|11|[simon9211/privacyInsight](https://github.com/simon9211/privacyInsight)|读取app「记录App活动」文件，展示app访问权限及网络记录|44|2021-10-28|2021-10-18|
-|12|[Lebron1992/WeChat-SwiftUI](https://github.com/Lebron1992/WeChat-SwiftUI)|用 SwiftUI 仿写的微信。|43|2022-02-25|2021-06-07|
+|11|[Lebron1992/WeChat-SwiftUI](https://github.com/Lebron1992/WeChat-SwiftUI)|用 SwiftUI 仿写的微信。|46|2022-02-25|2021-06-07|
+|12|[simon9211/privacyInsight](https://github.com/simon9211/privacyInsight)|读取app「记录App活动」文件，展示app访问权限及网络记录|44|2021-10-28|2021-10-18|
 |13|[fatbobman/NavigationViewKit](https://github.com/fatbobman/NavigationViewKit)|NavigationViewKit is a NavigationView extension library for SwiftUI.|41|2021-12-16|2021-08-31|
 |14|[breadwallet/brd-mobile](https://github.com/breadwallet/brd-mobile)|-|40|2022-03-03|2021-06-28|
 |15|[Tliens/SSPlan](https://github.com/Tliens/SSPlan)|《今日计划》源代码（open source for the app：今日计划）|35|2021-10-07|2021-10-07|
-|16|[fatbobman/SheetKit](https://github.com/fatbobman/SheetKit)|an extension library for SwiftUI sheets. |34|2021-09-17|2021-09-16|
-|17|[swiftdo/design-patterns](https://github.com/swiftdo/design-patterns)|设计模式，经典样例|34|2022-02-08|2021-03-24|
+|16|[fatbobman/SheetKit](https://github.com/fatbobman/SheetKit)|an extension library for SwiftUI sheets. |35|2021-09-17|2021-09-16|
+|17|[swiftdo/design-patterns](https://github.com/swiftdo/design-patterns)|设计模式，经典样例|35|2022-02-08|2021-03-24|
 |18|[Cantoboard/Cantoboard](https://github.com/Cantoboard/Cantoboard)|Cantoboard - Smart Cantonese Keyboard on iOS |31|2022-03-09|2021-03-19|
 |19|[ShenJieSuzhou/PurchaseX](https://github.com/ShenJieSuzhou/PurchaseX)|PurchaseX 是基于 Swift 语言开发，专门用于给您的应用或者游戏提供应用内购买（In-App_purchase）解决方案的轻量级 Framework；  PurchaseX 能让开发者轻松的为应用程序集成苹果的应用内购买，目前最低支持 iOS 8.0 版本；|30|2021-10-28|2021-07-20|
 |20|[ts666823/Codesigner](https://github.com/ts666823/Codesigner)|-|29|2021-12-11|2021-10-29|
@@ -29,7 +29,7 @@
 |22|[lihaoyun6/DimQQ](https://github.com/lihaoyun6/DimQQ)|一款可自定义强度的QQ for Mac亮度降低工具|25|2022-01-27|2021-11-23|
 |23|[JerryFans/JFPopup](https://github.com/JerryFans/JFPopup)|A Swift Popup Module help you popup your custom view easily|25|2021-10-22|2021-10-11|
 |24|[mokong/buzhimeiju](https://github.com/mokong/buzhimeiju)|不止美剧|22|2022-03-07|2022-03-07|
-|25|[Jiafu-Ziran/an-app-from-scratch-video-materials](https://github.com/Jiafu-Ziran/an-app-from-scratch-video-materials)| 「使用 SwiftUI 开发 iOS App 新手教程」课程材料|15|2021-09-13|2021-07-12|
+|25|[Lakr233/MoneyProgress](https://github.com/Lakr233/MoneyProgress)|借一个上班的进度条。|16|2022-03-15|2022-03-15|
 |26|[variant-database/vdb](https://github.com/variant-database/vdb)|A SARS-CoV-2 Mutation Pattern Query Tool|13|2022-03-02|2021-04-06|
 |27|[siyuan-note/siyuan-ios](https://github.com/siyuan-note/siyuan-ios)|SiYuan iOS APP. 思源笔记 iOS 端 APP。|12|2022-03-09|2022-02-08|
 |28|[cleven1/KTVLrcScore](https://github.com/cleven1/KTVLrcScore)|ktv歌词评分|12|2022-02-25|2021-12-30|
@@ -53,7 +53,7 @@
 |46|[ListenNotes/podcast-api-swift](https://github.com/ListenNotes/podcast-api-swift)|The Official Swift Library for the Listen Notes Podcast API.|7|2022-03-10|2021-05-13|
 |47|[luoxuhai/react-native-smart-cropper](https://github.com/luoxuhai/react-native-smart-cropper)|智能裁剪图像重点区域的 react-native 库，支持基于注意力、对象和人脸。   A react-native library for intelligently cropping key areas of images, supporting attention based, object and face based.|6|2022-01-17|2022-01-17|
 |48|[37iOS/Easy-Signer](https://github.com/37iOS/Easy-Signer)| iOS App 的 Mac 重签名工具|6|2022-01-05|2022-01-04|
-|49|[xiaoxidong/SwiftUI-For-Beginners-Code](https://github.com/xiaoxidong/SwiftUI-For-Beginners-Code)|SwiftUI For Beginners 应用内全部示例代码。|6|2022-03-14|2021-10-08|
+|49|[xiaoxidong/SwiftUI-For-Beginners-Code](https://github.com/xiaoxidong/SwiftUI-For-Beginners-Code)|SwiftUI For Beginners 应用内全部示例代码。|6|2022-03-15|2021-10-08|
 |50|[lele8446/CJSkinSwift](https://github.com/lele8446/CJSkinSwift)|APP动态换肤解决方案|6|2021-09-28|2021-09-08|
 |51|[shutut/SSURLSession](https://github.com/shutut/SSURLSession)|对swift的URLSession进行拆分，增加支持设置resolve和connectTo的能力|5|2021-12-17|2021-12-11|
 |52|[Lebron1992/LBJMediaBrowser](https://github.com/Lebron1992/LBJMediaBrowser)|LBJMediaBrowser 是一个在 SwiftUI 框架下实现的图片视频浏览器。(LBJMediaBrowser is a media browser implemented with SwiftUI.)|5|2022-02-19|2021-09-13|
