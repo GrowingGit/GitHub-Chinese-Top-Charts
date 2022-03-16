@@ -1,43 +1,43 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > JavaScript
-<sub>数据更新: 2022-03-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|20162|2022-03-12|2021-08-07|
-|2|[vaxilu/x-ui](https://github.com/vaxilu/x-ui)|支持多协议多用户的 xray 面板|3717|2022-03-15|2021-05-18|
+|1|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|20176|2022-03-12|2021-08-07|
+|2|[vaxilu/x-ui](https://github.com/vaxilu/x-ui)|支持多协议多用户的 xray 面板|3728|2022-03-15|2021-05-18|
 |3|[shufflewzc/faker2](https://github.com/shufflewzc/faker2)|不知名大佬备份|3023|2022-01-29|2021-06-10|
-|4|[VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo)|解锁完整的 Apple功能和集成服务|2651|2022-03-13|2021-10-16|
-|5|[micro-zoe/micro-app](https://github.com/micro-zoe/micro-app)|A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架|2347|2022-03-10|2021-06-24|
+|4|[VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo)|解锁完整的 Apple功能和集成服务|2659|2022-03-13|2021-10-16|
+|5|[micro-zoe/micro-app](https://github.com/micro-zoe/micro-app)|A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架|2350|2022-03-16|2021-06-24|
 |6|[zero205/JD_tencent_scf](https://github.com/zero205/JD_tencent_scf)|-|2312|2022-02-07|2021-05-11|
-|7|[ender-zhao/Clash-for-Windows_Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese)|clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序|1688|2022-03-11|2021-04-19|
-|8|[MoonBegonia/ninja](https://github.com/MoonBegonia/ninja)|-|1404|2022-01-24|2021-07-26|
+|7|[ender-zhao/Clash-for-Windows_Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese)|clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序|1699|2022-03-11|2021-04-19|
+|8|[MoonBegonia/ninja](https://github.com/MoonBegonia/ninja)|-|1405|2022-01-24|2021-07-26|
 |9|[lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)|一个基于 React native 开发的音乐软件|1318|2022-02-26|2021-05-15|
-|10|[ineo6/hosts](https://github.com/ineo6/hosts)|GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。|1191|2022-03-15|2021-03-28|
-|11|[Reamd7/notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)|notion 中文化|1172|2022-02-26|2021-08-12|
-|12|[RimoChan/match-you](https://github.com/RimoChan/match-you)|【您配吗】配你吗|1116|2022-03-10|2021-11-19|
+|10|[ineo6/hosts](https://github.com/ineo6/hosts)|GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。|1203|2022-03-16|2021-03-28|
+|11|[Reamd7/notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)|notion 中文化|1179|2022-02-26|2021-08-12|
+|12|[RimoChan/match-you](https://github.com/RimoChan/match-you)|【您配吗】配你吗|1117|2022-03-10|2021-11-19|
 |13|[AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch)|Add a useless notch to your screen.|943|2021-10-30|2021-10-20|
-|14|[6dylan6/jdpro](https://github.com/6dylan6/jdpro)|青龙脚本库|742|2022-03-15|2021-07-30|
-|15|[Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)|✨ A Markdown Editor|721|2022-03-14|2021-10-15|
+|14|[6dylan6/jdpro](https://github.com/6dylan6/jdpro)|青龙脚本库|746|2022-03-16|2021-07-30|
+|15|[Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)|✨ A Markdown Editor|723|2022-03-16|2021-10-15|
 |16|[asd920/Auto-jd](https://github.com/asd920/Auto-jd)|京东自用脚本|662|2022-02-07|2021-05-29|
 |17|[passerby-b/JDDJ](https://github.com/passerby-b/JDDJ)|京东到家果园庄园脚本,电报群:https://t.me/passerbyb2021|636|2021-12-13|2021-04-16|
-|18|[gys619/Absinthe](https://github.com/gys619/Absinthe)|一个兴趣使然的库|589|2022-03-15|2021-09-02|
-|19|[feeddd/feeds](https://github.com/feeddd/feeds)|免费的公众号 RSS，支持扩展任意 APP|573|2022-03-14|2021-08-17|
+|18|[gys619/Absinthe](https://github.com/gys619/Absinthe)|一个兴趣使然的库|590|2022-03-16|2021-09-02|
+|19|[feeddd/feeds](https://github.com/feeddd/feeds)|免费的公众号 RSS，支持扩展任意 APP|574|2022-03-15|2021-08-17|
 |20|[YuehaiTeam/cocogoat-client](https://github.com/YuehaiTeam/cocogoat-client)|A toolbox for Genshin Impact to export artifacts automatically.  支持圣遗物全自动导出的原神工具箱，保证每一行代码都是熬夜加班打造。|544|2022-02-15|2021-04-08|
 |21|[tnfe/wp2vite](https://github.com/tnfe/wp2vite)|一个让webpack项目支持vite的前端项目的转换工具。A front-end project automatic conversion tool。|532|2021-12-17|2021-03-29|
-|22|[segfall/static-wiki](https://github.com/segfall/static-wiki)|Wikipedia using only static assets & no backend|511|2021-09-17|2021-07-18|
-|23|[MakinoharaShoko/WebGAL](https://github.com/MakinoharaShoko/WebGAL)|全新的基于 Web 的 视觉小说引擎   A brand new Visual Novel engine based on Web.|510|2022-03-15|2021-09-16|
+|22|[MakinoharaShoko/WebGAL](https://github.com/MakinoharaShoko/WebGAL)|全新的基于 Web 的 视觉小说引擎   A brand new Visual Novel engine based on Web.|511|2022-03-16|2021-09-16|
+|23|[segfall/static-wiki](https://github.com/segfall/static-wiki)|Wikipedia using only static assets & no backend|511|2021-09-17|2021-07-18|
 |24|[xaboy/form-create-designer](https://github.com/xaboy/form-create-designer)|好用的vue可视化表单设计器|508|2022-01-12|2021-04-05|
-|25|[wechat-miniprogram/minigame-unity-webgl-transform](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform)|-|435|2022-03-09|2021-05-24|
-|26|[764763903a/xdd-plus](https://github.com/764763903a/xdd-plus)|xdd-plus|431|2022-01-19|2021-09-06|
-|27|[TributePaulWalker/Profiles](https://github.com/TributePaulWalker/Profiles)|搜集, 整理, Surge, Quantumult X实用规则.纯自用，不定时折腾更新。欢迎Star! 请不要Fork! 请不要Fork! 请不要Fork! 感谢!|431|2022-03-15|2021-03-31|
-|28|[shenruisi/Stay](https://github.com/shenruisi/Stay)|Stay is a local userscript manager and an extension sample for Safari on iOS/iPadOS.|414|2022-03-14|2021-10-24|
+|25|[wechat-miniprogram/minigame-unity-webgl-transform](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform)|-|437|2022-03-16|2021-05-24|
+|26|[764763903a/xdd-plus](https://github.com/764763903a/xdd-plus)|xdd-plus|433|2022-01-19|2021-09-06|
+|27|[TributePaulWalker/Profiles](https://github.com/TributePaulWalker/Profiles)|搜集, 整理, Surge, Quantumult X实用规则.纯自用，不定时折腾更新。欢迎Star! 请不要Fork! 请不要Fork! 请不要Fork! 感谢!|432|2022-03-15|2021-03-31|
+|28|[shenruisi/Stay](https://github.com/shenruisi/Stay)|Stay is a local userscript manager and an extension sample for Safari on iOS/iPadOS.|416|2022-03-14|2021-10-24|
 |29|[ccwav/QLScript2](https://github.com/ccwav/QLScript2)|新QLScript|376|2022-01-28|2021-09-29|
-|30|[USTC-Hackergame/hackergame2021-writeups](https://github.com/USTC-Hackergame/hackergame2021-writeups)|中国科学技术大学第八届信息安全大赛的官方与非官方题解|374|2022-01-10|2021-10-30|
-|31|[SonicCloudOrg/sonic-client-web](https://github.com/SonicCloudOrg/sonic-client-web)|🎉Front end of Sonic cloud real machine testing platform. Sonic云真机测试平台前端。|371|2022-03-15|2021-08-16|
-|32|[qianlongo/fe-handwriting](https://github.com/qianlongo/fe-handwriting)|手写各种js Promise、apply、call、bind、new、deepClone....|358|2022-03-06|2021-06-02|
-|33|[cweijan/JD_tencent_scf](https://github.com/cweijan/JD_tencent_scf)|打京豆部署介绍|356|2022-03-15|2022-02-08|
+|30|[USTC-Hackergame/hackergame2021-writeups](https://github.com/USTC-Hackergame/hackergame2021-writeups)|中国科学技术大学第八届信息安全大赛的官方与非官方题解|373|2022-01-10|2021-10-30|
+|31|[SonicCloudOrg/sonic-client-web](https://github.com/SonicCloudOrg/sonic-client-web)|🎉Front end of Sonic cloud real machine testing platform. Sonic云真机测试平台前端。|372|2022-03-16|2021-08-16|
+|32|[qianlongo/fe-handwriting](https://github.com/qianlongo/fe-handwriting)|手写各种js Promise、apply、call、bind、new、deepClone....|360|2022-03-06|2021-06-02|
+|33|[cweijan/JD_tencent_scf](https://github.com/cweijan/JD_tencent_scf)|打京豆部署介绍|358|2022-03-15|2022-02-08|
 |34|[loong132/autojs-script](https://github.com/loong132/autojs-script)|autojs脚本程序,用于完成安卓设备上的重复性操作.包含脚本: 1.2021年京东618任务脚本 2.2021年京东燃动夏季活动脚本3.2021京东双十一热爱环游记|335|2021-11-06|2021-07-10|
 |35|[elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator)|A plugin for reading and annotating PDFs and EPUBs in obsidian. |331|2022-03-11|2021-08-25|
 |36|[qishanzhiruan/basemall](https://github.com/qishanzhiruan/basemall)|🥇🥇🥇商城系统-  java商城 B2C商城 小程序商城 H5商城 APP商城 ，本商城是前后端分离的商城、微服务架构商城。|322|2022-02-09|2021-09-13|
