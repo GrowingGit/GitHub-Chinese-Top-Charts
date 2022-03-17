@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Vim script
-<sub>数据更新: 2022-03-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|17931|9|2022-03-15|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|7143|2|2022-03-10|
-|3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4853|2|2022-02-21|
+|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|17935|9|2022-03-15|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|7145|2|2022-03-10|
+|3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4852|2|2022-02-21|
 |4|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1354|1|2021-12-25|
 |5|[mattn/emmet-vim](https://github.com/mattn/emmet-vim)|emmet for vim: http://emmet.io/|5874|1|2021-12-04|
-|6|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1534|1|2022-03-08|
+|6|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1535|1|2022-03-08|
 |7|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|660|1|2022-01-12|
 |8|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1534|1|2021-12-27|
 |9|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|260|1|2022-01-10|
@@ -78,12 +78,12 @@
 |71|[gmd20/exercises](https://github.com/gmd20/exercises)|写过一些练习或者小工具，小代码片段等|4|0|2021-11-24|
 |72|[stamhe/linux-config](https://github.com/stamhe/linux-config)|使用Linux系统及相关互联网服务的常用配置文件|3|0|2021-12-29|
 |73|[Abeautifulsnow/awesomeLibrary](https://github.com/Abeautifulsnow/awesomeLibrary)|目前主要收集Go、Python、Typescript、Javascript等High star库。The currently main goal is to collect high star libraries that were developed by Go、Python、Typescript、Javascript and etc. (You are very welcome to upda ...|2|0|2022-01-10|
-|74|[sky8336/skyVim](https://github.com/sky8336/skyVim)|vimcfg_bundle|32|0|2021-12-05|
-|75|[Martins3/My-Linux-Config](https://github.com/Martins3/My-Linux-Config)|:clap: Modern neovim configuration based on  coc.nvim|154|0|2022-03-16|
+|74|[sky8336/skyVim](https://github.com/sky8336/skyVim)|vimcfg_bundle|32|0|2022-03-17|
+|75|[Martins3/My-Linux-Config](https://github.com/Martins3/My-Linux-Config)|:clap: Modern neovim configuration based on  coc.nvim|155|0|2022-03-17|
 |76|[yaocccc/nvim](https://github.com/yaocccc/nvim)|-|19|0|2022-03-09|
 |77|[CrazyHulk/Vim](https://github.com/CrazyHulk/Vim)|vim插件|2|0|2021-11-25|
 |78|[lemon0910/lemon-vim](https://github.com/lemon0910/lemon-vim)|lemon's config for vim and neovim.|25|0|2022-03-15|
-|79|[AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles)|该仓库用于备份我的dotfiles，主要开发语言Golang，脚本lua，bash shell等...|28|0|2022-03-11|
+|79|[AGou-ops/dotfiles](https://github.com/AGou-ops/dotfiles)|该仓库用于备份我的dotfiles，主要开发语言Golang，脚本lua，bash shell等...|29|0|2022-03-11|
 |80|[ruchee/vimrc](https://github.com/ruchee/vimrc)|Ruchee's Vim Config Files|401|0|2022-03-04|
 |81|[xiaodun/sf-mock](https://github.com/xiaodun/sf-mock)|前端mock接口解决方案|2|0|2021-11-15|
 |82|[modood/vimrc](https://github.com/modood/vimrc)|A shell script to deploy my vim configuration|15|0|2022-01-01|
