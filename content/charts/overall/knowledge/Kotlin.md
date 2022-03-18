@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Kotlin
-<sub>数据更新: 2022-03-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|27064|2022-03-10|
-|2|[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool)|Android开发人员不得不收集的工具类集合   支付宝支付   微信支付（统一下单）   微信分享   Zip4j压缩（支持分卷压缩与加密）   一键集成UCrop选择圆形头像   一键集成二维码和条形码的扫描与生成   常用Dialog   WebView的封装可播放视频   仿斗鱼滑动验证码   Toast封装   震动   GPS   Location定位   图片缩放   Exif 图片 ...|11643|2021-12-27|
+|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|27075|2022-03-10|
+|2|[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool)|Android开发人员不得不收集的工具类集合   支付宝支付   微信支付（统一下单）   微信分享   Zip4j压缩（支持分卷压缩与加密）   一键集成UCrop选择圆形头像   一键集成二维码和条形码的扫描与生成   常用Dialog   WebView的封装可播放视频   仿斗鱼滑动验证码   Toast封装   震动   GPS   Location定位   图片缩放   Exif 图片 ...|11645|2021-12-27|
 |3|[qingmei2/RxImagePicker](https://github.com/qingmei2/RxImagePicker)|:rocket:RxJava2 and RxJava3 external support. Android flexible picture selector, provides the support for theme of Zhihu and WeChat (灵活的Android图片选择器，提供了知乎和微信主题的支持）.|1139|2021-10-13|
 |4|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|696|2022-03-15|
 |5|[milklabdev/jetpack-compose-book](https://github.com/milklabdev/jetpack-compose-book)|Jetpack Compose 基础教程，持续更新|589|2022-03-16|
@@ -27,7 +27,7 @@
 |20|[Flywith24/Android-Detail](https://github.com/Flywith24/Android-Detail)|Android Detail demo —— 专栏 Android Detail 配套代码|36|2021-12-17|
 |21|[leavesCZY/RobustWebView](https://github.com/leavesCZY/RobustWebView)|Android WebView H5 秒开方案总结|28|2022-02-28|
 |22|[junerver/CloudNote](https://github.com/junerver/CloudNote)|基于Bmob云后端的Android云笔记|20|2022-03-10|
-|23|[RyensX/MediaBox](https://github.com/RyensX/MediaBox)|插件化媒体浏览器，不含广告，免费开源，便于学习Android开发。 A browser to access media through plugins, no ads, free and open source, easy to learn Android development.|19|2022-03-17|
+|23|[RyensX/MediaBox](https://github.com/RyensX/MediaBox)|插件化媒体浏览器，不含广告，免费开源，便于学习Android开发。 A browser to access media through plugins, no ads, free and open source, easy to learn Android development.|19|2022-03-18|
 |24|[lizijin/zijiexiaozhan](https://github.com/lizijin/zijiexiaozhan)|字节小站博客Demo|19|2022-01-13|
 |25|[Anddd7/a-blackhorse](https://github.com/Anddd7/a-blackhorse)|tell you how to manage your blackhorse|17|2022-03-07|
 |26|[yhsj0919/ELauncher](https://github.com/yhsj0919/ELauncher)|多看电子书桌面|17|2022-01-10|
@@ -37,16 +37,15 @@
 |30|[JiaYang627/QuickAndroid](https://github.com/JiaYang627/QuickAndroid)|:octocat:使用Kotlin搭建的一个基础框架。目的旨在学习Kotlin，更好的从Java过渡到Kotlin，并且针对此项目编写了一键生成页面插件。具体可看README:book:|12|2022-03-02|
 |31|[yang961226/Spacecraft](https://github.com/yang961226/Spacecraft)|《论jetpack和安卓进阶技术的理论与实践》|11|2022-03-02|
 |32|[JiaYang627/TinMVVM](https://github.com/JiaYang627/TinMVVM)|:book:AndroidStudio 4.X+ 编写自定义模板，并且适配了AndroidStudio Fox版本，此插件是针对 QuickAndroid 项目进行开发，有兴趣可学习一下。编写一个适合自己项目的一键生成页面插件。希望能帮助到大家。:grin:|10|2021-12-09|
-|33|[qdsfdhvh/demo-base-layout](https://github.com/qdsfdhvh/demo-base-layout)|基于Drakeet分享的自定义ViewGroup思路，编写的demo|10|2021-09-16|
-|34|[knight-kk/knight_blog_demo](https://github.com/knight-kk/knight_blog_demo)| 博客中 demo ，博客地址 https://blog.csdn.net/knight1996/|10|2021-12-21|
-|35|[zhujiang521/ComposeBookSource](https://github.com/zhujiang521/ComposeBookSource)|《Jetpack Compose：Android全新UI编程》全书源代码|9|2021-12-21|
-|36|[leavesCZY/KVHolder](https://github.com/leavesCZY/KVHolder)|一文读懂 SharedPreferences 的缺陷及一点点思考|9|2022-01-15|
-|37|[ShiSheng233/Open2Share-Kotlin](https://github.com/ShiSheng233/Open2Share-Kotlin)|使用Kotlin重制的Open2Share|8|2021-10-17|
-|38|[ZhaoSiBo/HenCoderView](https://github.com/ZhaoSiBo/HenCoderView)|工作和平时学习过程中对自定义View的思路总结，和API使用|7|2022-03-14|
-|39|[JereChen11/Wanandroid_Learning_Kotlin](https://github.com/JereChen11/Wanandroid_Learning_Kotlin)|基于Wanandroid开放API，使用Kotlin语言开发，以供学习。|7|2022-03-10|
-|40|[WinWang/ReadingGallery](https://github.com/WinWang/ReadingGallery)|提交组件化听书廊项目|6|2021-12-24|
-|41|[CNawalol/qndxx-action](https://github.com/CNawalol/qndxx-action)|用于南宁青年大学习的自动打卡|4|2021-10-06|
-|42|[Starrah/THUCourseHelperBackend](https://github.com/Starrah/THUCourseHelperBackend)|清华课程小助手的后端服务器|4|2021-10-27|
+|33|[knight-kk/knight_blog_demo](https://github.com/knight-kk/knight_blog_demo)| 博客中 demo ，博客地址 https://blog.csdn.net/knight1996/|10|2021-12-21|
+|34|[zhujiang521/ComposeBookSource](https://github.com/zhujiang521/ComposeBookSource)|《Jetpack Compose：Android全新UI编程》全书源代码|9|2021-12-21|
+|35|[leavesCZY/KVHolder](https://github.com/leavesCZY/KVHolder)|一文读懂 SharedPreferences 的缺陷及一点点思考|9|2022-01-15|
+|36|[ShiSheng233/Open2Share-Kotlin](https://github.com/ShiSheng233/Open2Share-Kotlin)|使用Kotlin重制的Open2Share|8|2021-10-17|
+|37|[ZhaoSiBo/HenCoderView](https://github.com/ZhaoSiBo/HenCoderView)|工作和平时学习过程中对自定义View的思路总结，和API使用|7|2022-03-14|
+|38|[JereChen11/Wanandroid_Learning_Kotlin](https://github.com/JereChen11/Wanandroid_Learning_Kotlin)|基于Wanandroid开放API，使用Kotlin语言开发，以供学习。|7|2022-03-10|
+|39|[WinWang/ReadingGallery](https://github.com/WinWang/ReadingGallery)|提交组件化听书廊项目|6|2021-12-24|
+|40|[CNawalol/qndxx-action](https://github.com/CNawalol/qndxx-action)|用于南宁青年大学习的自动打卡|4|2021-10-06|
+|41|[Starrah/THUCourseHelperBackend](https://github.com/Starrah/THUCourseHelperBackend)|清华课程小助手的后端服务器|4|2021-10-27|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
