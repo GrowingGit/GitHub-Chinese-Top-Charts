@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2022-03-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -22,7 +22,7 @@
 |15|[quanteda/stopwords](https://github.com/quanteda/stopwords)|Multilingual Stopword Lists in R|105|0|2022-01-07|
 |16|[fragla/eq5d](https://github.com/fragla/eq5d)|-|13|0|2022-03-15|
 |17|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|112|0|2022-03-09|
-|18|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|369|0|2022-03-18|
+|18|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|369|0|2022-03-19|
 |19|[hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|58|0|2021-12-21|
 |20|[uribo/zipangu](https://github.com/uribo/zipangu)|Japanese utility functions and data|43|0|2022-03-14|
 |21|[ahb108/rcarbon](https://github.com/ahb108/rcarbon)|Methods for calibrating and analysing radiocarbon dates|32|0|2022-02-17|
@@ -48,15 +48,15 @@
 |41|[massimoaria/dimensionsR](https://github.com/massimoaria/dimensionsR)|Gathering metadata about publications, patents, grants, clinical trials and policy documents from DS Dimensions using DSL API|16|0|2022-02-07|
 |42|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|36|0|2022-03-18|
 |43|[ShixiangWang/tinyscholar](https://github.com/ShixiangWang/tinyscholar)|A Tiny R Package to Get and Show Google Scholar Profile|6|0|2021-10-26|
-|44|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|66|0|2022-03-18|
+|44|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|66|0|2022-03-19|
 |45|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|154|0|2022-02-25|
 |46|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/|52|0|2022-02-10|
 |47|[YuLab-SMU/nCov2019](https://github.com/YuLab-SMU/nCov2019)|:microbe: Exploring COVID-19 data|8|0|2021-12-13|
-|48|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|506|0|2022-03-18|
+|48|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|507|0|2022-03-18|
 |49|[yukiyanai/quant-methods-R](https://github.com/yukiyanai/quant-methods-R)|Repository for "Quantitative Methods in Political Science Using R" by Masahiko Asano and Yuki Yanai|16|0|2021-11-17|
 |50|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|21|0|2022-01-25|
 |51|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit (kw: field observation, air polltion, time series summary, time series resampling, average variation, ozone formation potential (OFP), MIR, tuv). |25|0|2022-03-06|
-|52|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|0|2022-03-18|
+|52|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|0|2022-03-19|
 |53|[pzhaonet/beginr](https://github.com/pzhaonet/beginr)|an R package for beginners|15|0|2021-12-03|
 |54|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|14|0|2021-11-26|
 |55|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008)|85|0|2021-11-29|

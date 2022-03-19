@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Groovy
-<sub>数据更新: 2022-03-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -15,10 +15,10 @@
 |8|[eonliu/packer](https://github.com/eonliu/packer)|一个Android打包工具插件，支持360加固、多渠道打包、将APK上传到FTP等功能。|3|0|2022-03-17|
 |9|[TabooLib/shrinking-kotlin](https://github.com/TabooLib/shrinking-kotlin)|减少 Kotlin 编译后的文件体积|5|0|2022-02-11|
 |10|[kefirfromperm/grails-asynchronous-mail](https://github.com/kefirfromperm/grails-asynchronous-mail)|The Grails Asynchronous Mail plugin|22|0|2022-01-14|
-|11|[chenenyu/img-optimizer-gradle-plugin](https://github.com/chenenyu/img-optimizer-gradle-plugin)|一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩。|748|0|2022-02-21|
+|11|[chenenyu/img-optimizer-gradle-plugin](https://github.com/chenenyu/img-optimizer-gradle-plugin)|一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩。|749|0|2022-02-21|
 |12|[bihe0832/Gradle-Dependencies-Check](https://github.com/bihe0832/Gradle-Dependencies-Check)|梳理并检查项目中多个module的gradle依赖配置是否存在冲突|34|0|2021-10-12|
 |13|[Tim-Fang/MineGenshin](https://github.com/Tim-Fang/MineGenshin)|使 Minecraft 更加 Genshin Impact 化|3|0|2022-01-09|
-|14|[xnat9/grule](https://github.com/xnat9/grule)|自创Groovy DSL 动态规则(rule)执行引擎. 特色 风控系统, 规则引擎, 动态接口配置(低代码)|17|0|2022-03-05|
+|14|[xnat9/grule](https://github.com/xnat9/grule)|自创Groovy DSL 动态规则(rule)执行引擎. 特色 风控系统, 规则引擎, 动态接口配置(低代码)|18|0|2022-03-05|
 |15|[lingochamp/okcheck](https://github.com/lingochamp/okcheck)|Incremental scan，integrate Lint、KtLint、UnitTest、Checkstyle、Findbugs、Pmd, powerful and easy to use|295|0|2021-09-27|
 |16|[xams-creator/navicat-resetter](https://github.com/xams-creator/navicat-resetter)|重置navicat激活时间的IDEA跨平台插件 |5|0|2022-01-18|
 |17|[gogradle/gogradle](https://github.com/gogradle/gogradle)|A Gradle Plugin Providing Full Support for Go|751|0|2021-10-11|
