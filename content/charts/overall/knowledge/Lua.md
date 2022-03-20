@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Lua
-<sub>数据更新: 2022-03-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Wscats/articles](https://github.com/Wscats/articles)|🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆|3076|2021-12-20|
-|2|[Tinywan/lua-nginx-redis](https://github.com/Tinywan/lua-nginx-redis)|:hibiscus: Redis、Lua、Nginx、OpenResty 笔记和资料|863|2021-10-26|
-|3|[Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)|《明日方舟》游戏数据|700|2022-03-17|
+|1|[Wscats/articles](https://github.com/Wscats/articles)|🔖My Learning Notes and Memories - 分享我的学习片段和与你的回忆|3077|2021-12-20|
+|2|[Tinywan/lua-nginx-redis](https://github.com/Tinywan/lua-nginx-redis)|:hibiscus: Redis、Lua、Nginx、OpenResty 笔记和资料|862|2021-10-26|
+|3|[Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)|《明日方舟》游戏数据|701|2022-03-17|
 |4|[openresty/lua-resty-lock](https://github.com/openresty/lua-resty-lock)|Simple nonblocking lock API for ngx_lua based on shared memory dictionaries|271|2021-10-08|
 |5|[nshen/learn-neovim-lua](https://github.com/nshen/learn-neovim-lua)|📜 学习 Neovim 全配置， 逃离 VSCode。|268|2022-03-19|
 |6|[max-ri/Guidelime](https://github.com/max-ri/Guidelime)|Guidelime: A WoW Classic addon for leveling guides with automatic progress updates|134|2021-11-30|
