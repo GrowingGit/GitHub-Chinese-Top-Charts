@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Groovy
-<sub>数据更新: 2022-03-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -23,7 +23,7 @@
 |16|[ZakAnun/UploadApkPlugin](https://github.com/ZakAnun/UploadApkPlugin)|上传 apk 文件到指定测试平台的插件|13|2021-10-18|
 |17|[dqzboy/DevOps](https://github.com/dqzboy/DevOps)|CICD流水线|11|2022-03-08|
 |18|[wzbos/chihiro](https://github.com/wzbos/chihiro)|🔥🔥 安卓组件化插件 🔥🔥 支持多工程联调、组件快速发布到Maven私服、企业微信机器人、钉钉机器人、自定义webhook|10|2022-03-10|
-|19|[ihub-pub/plugins](https://github.com/ihub-pub/plugins)|IHub Plugins：一套Gradle插件集，封装了常用Gradle插件，并做了一些个性化缺省配置，极大的简化项目管理配置。|8|2022-03-20|
+|19|[ihub-pub/plugins](https://github.com/ihub-pub/plugins)|IHub Plugins：一套Gradle插件集，封装了常用Gradle插件，并做了一些个性化缺省配置，极大的简化项目管理配置。|8|2022-03-21|
 |20|[Peakmain/AsmActualCombat](https://github.com/Peakmain/AsmActualCombat)|ASM实战——埋点|7|2022-01-25|
 |21|[keepLove/android-jiagu-plugin](https://github.com/keepLove/android-jiagu-plugin)|360加固Gradle插件|7|2022-01-14|
 |22|[TabooLib/shrinking-kotlin](https://github.com/TabooLib/shrinking-kotlin)|减少 Kotlin 编译后的文件体积|5|2022-02-11|

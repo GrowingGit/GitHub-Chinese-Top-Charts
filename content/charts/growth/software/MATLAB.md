@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-03-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -13,7 +13,7 @@
 |6|[ohMyJason/face_Identification](https://github.com/ohMyJason/face_Identification)|期末课设_机器学习基础_基于BP神经网络的人脸识别|12|0|2022-03-14|
 |7|[ShurenQi/MomentToolbox](https://github.com/ShurenQi/MomentToolbox)|Matlab code for the paper "A survey of orthogonal moments for image representation: Theory, implementation, and evaluation"|13|0|2021-11-25|
 |8|[Say-Hello2y/Path-planning-for-robots](https://github.com/Say-Hello2y/Path-planning-for-robots)|use Dijkstra 使用Dijkstra法实现了基于栅格地图的移动机器人路径规划|6|0|2021-12-29|
-|9|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|78|0|2022-03-19|
+|9|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|78|0|2022-03-21|
 |10|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|6|0|2022-03-16|
 |11|[zhyantao/GA-shortest_path](https://github.com/zhyantao/GA-shortest_path)|遗传算法解决最短路径问题(两个出发点)|5|0|2021-12-25|
 |12|[BetterBench/2021-APMCM-Problem-A](https://github.com/BetterBench/2021-APMCM-Problem-A)|2021年亚太地区数学建模赛题A(图像边缘分析与应用) Halcon方案实现、代码、实验数据|4|0|2021-11-30|
@@ -25,12 +25,12 @@
 |18|[sevenysw/MathGeo2022](https://github.com/sevenysw/MathGeo2022)|-|15|0|2022-02-11|
 |19|[ToKiNoBug/3dPixelPaintingInMinecraft](https://github.com/ToKiNoBug/3dPixelPaintingInMinecraft)|在minecraft中生成3d的地图画|20|0|2021-09-24|
 |20|[Cirno9-dev/learning](https://github.com/Cirno9-dev/learning)|机器学习|3|0|2021-12-18|
-|21|[chengji253/Multiple-fixed-wing-UAVs-flight-simulation-platform](https://github.com/chengji253/Multiple-fixed-wing-UAVs-flight-simulation-platform)|A multiple fixed-wing UAVs flight simulation platform built by matlab and simulink.  一个小型固定翼无人机集群仿真演示平台|67|0|2022-03-02|
+|21|[chengji253/Multiple-fixed-wing-UAVs-flight-simulation-platform](https://github.com/chengji253/Multiple-fixed-wing-UAVs-flight-simulation-platform)|A multiple fixed-wing UAVs flight simulation platform built by matlab and simulink.  一个小型固定翼无人机集群仿真演示平台|68|0|2022-03-02|
 |22|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|77|0|2022-03-14|
 |23|[cmtso/EKI_geophysics_2020](https://github.com/cmtso/EKI_geophysics_2020)|Example MATLAB scripts for running ensemble Kalman inversion for electrical resistivity tomography data to accompany paper.|8|0|2021-10-20|
 |24|[mrcaidev/matlab-experiment](https://github.com/mrcaidev/matlab-experiment)|程序基础+微积分+数值计算+最优化+随机模拟+椭球寻径。|3|0|2021-12-23|
 |25|[zxb17zxb/SLIC](https://github.com/zxb17zxb/SLIC)|一个SLIC算法用于图像分割的matlab实现|3|0|2021-12-07|
-|26|[xingchenzhang/VIFB](https://github.com/xingchenzhang/VIFB)|Visible and Infrared Image Fusion Benchmark|168|0|2021-09-27|
+|26|[xingchenzhang/VIFB](https://github.com/xingchenzhang/VIFB)|Visible and Infrared Image Fusion Benchmark|169|0|2021-09-27|
 |27|[yeyuanxin110/CFOG](https://github.com/yeyuanxin110/CFOG)|-|14|0|2022-03-03|
 |28|[yfor1008/saliency_detection](https://github.com/yfor1008/saliency_detection)|显著性检测|5|0|2022-01-23|
 |29|[sjtu-jq/Image-registration](https://github.com/sjtu-jq/Image-registration)|Registration for power equipment infrared and visible images|20|0|2022-02-16|

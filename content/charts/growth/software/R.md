@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2022-03-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)|Color palette package in R inspired by works at the Metropolitan Museum of Art in New York|439|4|2022-03-20|
+|1|[BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)|Color palette package in R inspired by works at the Metropolitan Museum of Art in New York|445|4|2022-03-20|
 |2|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|37|0|2021-11-26|
 |3|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|34|0|2022-01-16|
 |4|[skgrange/rmweather](https://github.com/skgrange/rmweather)|Tools to Conduct Meteorological Normalisation on Air Quality Data|27|0|2022-02-10|
@@ -21,9 +21,9 @@
 |14|[OxDemTech/china_diplomats](https://github.com/OxDemTech/china_diplomats)|-|7|0|2021-11-16|
 |15|[sascha2schroeder/popEye](https://github.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|8|0|2022-03-16|
 |16|[quanteda/stopwords](https://github.com/quanteda/stopwords)|Multilingual Stopword Lists in R|105|0|2022-01-07|
-|17|[fragla/eq5d](https://github.com/fragla/eq5d)|-|13|0|2022-03-15|
+|17|[fragla/eq5d](https://github.com/fragla/eq5d)|-|13|0|2022-03-21|
 |18|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|112|0|2022-03-09|
-|19|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|369|0|2022-03-20|
+|19|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|370|0|2022-03-21|
 |20|[hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|58|0|2021-12-21|
 |21|[uribo/zipangu](https://github.com/uribo/zipangu)|Japanese utility functions and data|43|0|2022-03-14|
 |22|[ahb108/rcarbon](https://github.com/ahb108/rcarbon)|Methods for calibrating and analysing radiocarbon dates|32|0|2022-02-17|
@@ -53,11 +53,11 @@
 |46|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|154|0|2022-02-25|
 |47|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/|52|0|2022-02-10|
 |48|[YuLab-SMU/nCov2019](https://github.com/YuLab-SMU/nCov2019)|:microbe: Exploring COVID-19 data|8|0|2021-12-13|
-|49|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|507|0|2022-03-18|
+|49|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|508|0|2022-03-18|
 |50|[yukiyanai/quant-methods-R](https://github.com/yukiyanai/quant-methods-R)|Repository for "Quantitative Methods in Political Science Using R" by Masahiko Asano and Yuki Yanai|16|0|2021-11-17|
 |51|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|21|0|2022-01-25|
 |52|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit (kw: field observation, air polltion, time series summary, time series resampling, average variation, ozone formation potential (OFP), MIR, tuv). |25|0|2022-03-06|
-|53|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|144|0|2022-03-20|
+|53|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|144|0|2022-03-21|
 |54|[pzhaonet/beginr](https://github.com/pzhaonet/beginr)|an R package for beginners|15|0|2021-12-03|
 |55|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|14|0|2021-11-26|
 |56|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008)|86|0|2021-11-29|
