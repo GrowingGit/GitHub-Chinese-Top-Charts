@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2022-03-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)|Color palette package in R inspired by works at the Metropolitan Museum of Art in New York|502|5|2022-03-20|
+|1|[BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)|Color palette package in R inspired by works at the Metropolitan Museum of Art in New York|531|5|2022-03-20|
 |2|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|37|0|2021-11-26|
-|3|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|34|0|2022-01-16|
+|3|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|35|0|2022-01-16|
 |4|[skgrange/rmweather](https://github.com/skgrange/rmweather)|Tools to Conduct Meteorological Normalisation on Air Quality Data|27|0|2022-02-10|
 |5|[Wytamma/GISAIDR](https://github.com/Wytamma/GISAIDR)|Programmatically interact with the GISAID database.|10|0|2022-03-22|
 |6|[koheiw/LSX](https://github.com/koheiw/LSX)|A word embeddings-based semi-supervised model for document scaling|42|0|2022-03-04|
@@ -23,7 +23,7 @@
 |16|[quanteda/stopwords](https://github.com/quanteda/stopwords)|Multilingual Stopword Lists in R|105|0|2022-01-07|
 |17|[fragla/eq5d](https://github.com/fragla/eq5d)|-|13|0|2022-03-21|
 |18|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|112|0|2022-03-09|
-|19|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|370|0|2022-03-22|
+|19|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|370|0|2022-03-23|
 |20|[hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|58|0|2021-12-21|
 |21|[uribo/zipangu](https://github.com/uribo/zipangu)|Japanese utility functions and data|43|0|2022-03-14|
 |22|[ahb108/rcarbon](https://github.com/ahb108/rcarbon)|Methods for calibrating and analysing radiocarbon dates|32|0|2022-02-17|
@@ -35,7 +35,7 @@
 |28|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|231|0|2022-02-16|
 |29|[sbg/sevenbridges-r](https://github.com/sbg/sevenbridges-r)|Seven Bridges API Client, CWL Schema, Meta Schema, and SDK Helper in R|31|0|2022-01-28|
 |30|[jincheng9/stock_crawler](https://github.com/jincheng9/stock_crawler)|R API for Crawling Stock and Index Data from Sina Finance|31|0|2021-11-08|
-|31|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|365|0|2022-03-15|
+|31|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|366|0|2022-03-15|
 |32|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|11|0|2022-03-19|
 |33|[chainsawriot/sweater](https://github.com/chainsawriot/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|8|0|2022-02-09|
 |34|[mlampros/textTinyR](https://github.com/mlampros/textTinyR)|Text Processing for Small or Big Data Files in R|29|0|2021-11-30|
@@ -49,15 +49,15 @@
 |42|[massimoaria/dimensionsR](https://github.com/massimoaria/dimensionsR)|Gathering metadata about publications, patents, grants, clinical trials and policy documents from DS Dimensions using DSL API|16|0|2022-02-07|
 |43|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|36|0|2022-03-18|
 |44|[ShixiangWang/tinyscholar](https://github.com/ShixiangWang/tinyscholar)|A Tiny R Package to Get and Show Google Scholar Profile|6|0|2021-10-26|
-|45|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|66|0|2022-03-22|
+|45|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|68|0|2022-03-22|
 |46|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|154|0|2022-02-25|
-|47|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/|52|0|2022-02-10|
+|47|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/|53|0|2022-02-10|
 |48|[YuLab-SMU/nCov2019](https://github.com/YuLab-SMU/nCov2019)|:microbe: Exploring COVID-19 data|8|0|2021-12-13|
 |49|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|509|0|2022-03-18|
 |50|[yukiyanai/quant-methods-R](https://github.com/yukiyanai/quant-methods-R)|Repository for "Quantitative Methods in Political Science Using R" by Masahiko Asano and Yuki Yanai|16|0|2021-11-17|
-|51|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|21|0|2022-01-25|
+|51|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|22|0|2022-01-25|
 |52|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit (kw: field observation, air polltion, time series summary, time series resampling, average variation, ozone formation potential (OFP), MIR, tuv). |25|0|2022-03-06|
-|53|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|144|0|2022-03-22|
+|53|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|144|0|2022-03-23|
 |54|[pzhaonet/beginr](https://github.com/pzhaonet/beginr)|an R package for beginners|15|0|2021-12-03|
 |55|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|14|0|2021-11-26|
 |56|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008)|86|0|2021-11-29|
@@ -68,7 +68,7 @@
 |61|[lexcomber/SpatInt](https://github.com/lexcomber/SpatInt)|Examples of different Spatial Interpolation approaches in R |7|0|2022-01-20|
 |62|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|🛠 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|80|0|2022-03-02|
 |63|[cjgeyer/foo](https://github.com/cjgeyer/foo)|A demo for a class|32|0|2022-01-04|
-|64|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|96|0|2022-03-17|
+|64|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|97|0|2022-03-17|
 |65|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|11|0|2021-11-23|
 |66|[majianthu/aps2020](https://github.com/majianthu/aps2020)|Code for the paper 'Variable Selection with Copula Entropy' published on Chinese Journal of Applied Probability and Statistics|8|0|2022-03-17|
 |67|[zumbov2/deeplr](https://github.com/zumbov2/deeplr)|An R wrapper for the DeepL Translator API|16|0|2022-01-27|

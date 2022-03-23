@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Python
-<sub>数据更新: 2022-03-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch)|🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐|4512|2022-03-16|2021-05-08|
-|2|[TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi)|强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天|2604|2022-03-19|2021-07-04|
-|3|[kwai/DouZero](https://github.com/kwai/DouZero)|[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning   斗地主AI|2455|2022-03-05|2021-06-02|
-|4|[princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE)|EMNLP'2021: SimCSE: Simple Contrastive Learning of Sentence Embeddings|1836|2021-11-26|2021-04-16|
-|5|[conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses)|名校公开课程评价网|1782|2022-03-12|2021-06-19|
-|6|[MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)|Summary of related papers on visual attention. Related code will be released based on Jittor gradually.    |1386|2022-03-05|2021-09-01|
+|1|[xmu-xiaoma666/External-Attention-pytorch](https://github.com/xmu-xiaoma666/External-Attention-pytorch)|🍀 Pytorch implementation of various Attention Mechanisms, MLP, Re-parameter, Convolution, which is helpful to further understand papers.⭐⭐⭐|4531|2022-03-16|2021-05-08|
+|2|[TechXueXi/TechXueXi](https://github.com/TechXueXi/TechXueXi)|强国通 科技强国 学习强国 xuexiqiangguo 全网最好用开源网页学习强国助手：TechXueXi （懒人刷分工具 自动学习）技术强国，支持答题，支持 docker 45分/天|2609|2022-03-19|2021-07-04|
+|3|[kwai/DouZero](https://github.com/kwai/DouZero)|[ICML 2021] DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning   斗地主AI|2456|2022-03-05|2021-06-02|
+|4|[princeton-nlp/SimCSE](https://github.com/princeton-nlp/SimCSE)|EMNLP'2021: SimCSE: Simple Contrastive Learning of Sentence Embeddings|1850|2021-11-26|2021-04-16|
+|5|[conanhujinming/comments-for-awesome-courses](https://github.com/conanhujinming/comments-for-awesome-courses)|名校公开课程评价网|1789|2022-03-12|2021-06-19|
+|6|[MenghaoGuo/Awesome-Vision-Attentions](https://github.com/MenghaoGuo/Awesome-Vision-Attentions)|Summary of related papers on visual attention. Related code will be released based on Jittor gradually.    |1389|2022-03-05|2021-09-01|
 |7|[yqchilde/JDMemberCloseAccount](https://github.com/yqchilde/JDMemberCloseAccount)|学习python操作selenium的一个🌰 ，也是一种京东全自动退会方案|1130|2022-01-24|2021-05-04|
-|8|[alibaba/AliceMind](https://github.com/alibaba/AliceMind)|ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab|1055|2022-01-25|2021-05-21|
-|9|[4ra1n/JavaSecInterview](https://github.com/4ra1n/JavaSecInterview)|打造最强的Java安全研究与安全开发面试题库，包含问题和详细的答案，帮助师傅们找到满意的工作|815|2022-03-19|2022-02-14|
-|10|[THUDM/CogView](https://github.com/THUDM/CogView)|Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".|762|2022-03-16|2021-05-25|
-|11|[alanbobs999/TopFreeProxies](https://github.com/alanbobs999/TopFreeProxies)|高质量免费节点分享，以及订阅链接收集。|679|2022-03-22|2021-07-29|
-|12|[saveweb/review-2021](https://github.com/saveweb/review-2021)|今年，你写年终总结了吗？|665|2022-03-20|2021-12-31|
-|13|[awake1t/HackReport](https://github.com/awake1t/HackReport)|渗透测试报告/资料文档/渗透经验文档/安全书籍|485|2021-12-25|2021-06-25|
+|8|[alibaba/AliceMind](https://github.com/alibaba/AliceMind)|ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab|1056|2022-01-25|2021-05-21|
+|9|[4ra1n/JavaSecInterview](https://github.com/4ra1n/JavaSecInterview)|打造最强的Java安全研究与安全开发面试题库，包含问题和详细的答案，帮助师傅们找到满意的工作|821|2022-03-19|2022-02-14|
+|10|[THUDM/CogView](https://github.com/THUDM/CogView)|Text-to-Image generation. The repo for NeurIPS 2021 paper "CogView: Mastering Text-to-Image Generation via Transformers".|764|2022-03-16|2021-05-25|
+|11|[alanbobs999/TopFreeProxies](https://github.com/alanbobs999/TopFreeProxies)|高质量免费节点分享，以及订阅链接收集。|687|2022-03-23|2021-07-29|
+|12|[saveweb/review-2021](https://github.com/saveweb/review-2021)|今年，你写年终总结了吗？|666|2022-03-20|2021-12-31|
+|13|[awake1t/HackReport](https://github.com/awake1t/HackReport)|渗透测试报告/资料文档/渗透经验文档/安全书籍|490|2021-12-25|2021-06-25|
 |14|[HeisenbergEmpire/studynote](https://github.com/HeisenbergEmpire/studynote)|程式與網絡安全學習筆記|457|2022-01-26|2021-11-23|
 |15|[dallaslu/penzai-list](https://github.com/dallaslu/penzai-list)|List of content farm sites like g.penzai.com.|427|2021-12-28|2021-10-09|
-|16|[SkywalkerJi/mdt](https://github.com/SkywalkerJi/mdt)|Yu-Gi-Oh! Master Duel Translation Script|382|2022-03-12|2022-01-24|
-|17|[researchmm/Stark](https://github.com/researchmm/Stark)|[ICCV'21] Learning Spatio-Temporal Transformer for Visual Tracking|377|2022-03-15|2021-03-25|
+|16|[SkywalkerJi/mdt](https://github.com/SkywalkerJi/mdt)|Yu-Gi-Oh! Master Duel Translation Script|387|2022-03-12|2022-01-24|
+|17|[researchmm/Stark](https://github.com/researchmm/Stark)|[ICCV'21] Learning Spatio-Temporal Transformer for Visual Tracking|377|2022-03-23|2021-03-25|
 |18|[open-mmlab/mmfewshot](https://github.com/open-mmlab/mmfewshot)|OpenMMLab FewShot Learning Toolbox and Benchmark|364|2022-03-11|2021-11-22|
 |19|[liuhuanyong/ChainKnowledgeGraph](https://github.com/liuhuanyong/ChainKnowledgeGraph)|ChainKnowledgeGraph, 产业链知识图谱包括A股上市公司、行业和产品共3类实体，包括上市公司所属行业关系、行业上级关系、产品上游原材料关系、产品下游产品关系、公司主营产品、产品小类共6大类。 上市公司4,654家，行业511个，产品95,559条、上游材料56,824条，上级行业480条，下游产品390条，产品小类52,937条，所属行业3,946条。  |306|2021-10-26|2021-10-26|
 |20|[CLUEbenchmark/FewCLUE](https://github.com/CLUEbenchmark/FewCLUE)|FewCLUE 小样本学习测评基准，中文版|265|2021-09-30|2021-04-28|

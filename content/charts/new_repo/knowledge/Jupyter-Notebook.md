@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Jupyter Notebook
-<sub>数据更新: 2022-03-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[Charmve/computer-vision-in-action](https://github.com/Charmve/computer-vision-in-action)|学习闭环《计算机视觉实战演练：算法与应用》中文电子书、源码、读者交流社区（持续更新中 ...） 📘 在线电子书 https://charmve.github.io/computer-vision-in-action/   👇项目主页|1340|2022-02-21|2021-04-29|
-|2|[xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)|LaTeX论文写作教程 (中文版)|252|2022-03-19|2021-03-29|
-|3|[virginiakm1988/ML2022-Spring](https://github.com/virginiakm1988/ML2022-Spring)|**Official** 李宏毅 (Hung-yi Lee) 機器學習 Machine Learning 2022 Spring|168|2022-03-18|2022-02-20|
+|2|[xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)|LaTeX论文写作教程 (中文版)|253|2022-03-23|2021-03-29|
+|3|[virginiakm1988/ML2022-Spring](https://github.com/virginiakm1988/ML2022-Spring)|**Official** 李宏毅 (Hung-yi Lee) 機器學習 Machine Learning 2022 Spring|172|2022-03-18|2022-02-20|
 |4|[liuhuanshuo/Pandas_Advanced_Exercise](https://github.com/liuhuanshuo/Pandas_Advanced_Exercise)|Pandas进阶修炼300题|166|2021-09-22|2021-09-22|
 |5|[datawhalechina/machine-learning-toy-code](https://github.com/datawhalechina/machine-learning-toy-code)|《机器学习》（西瓜书）代码实战|143|2022-01-04|2021-07-16|
-|6|[ZitongLu1996/Python-EEG-Handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook)|Python脑电数据处理中文手册 - A Chinese handbook for EEG data analysis based on Python|105|2021-09-23|2021-07-02|
-|7|[shibing624/nlp-tutorial](https://github.com/shibing624/nlp-tutorial)|自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。|82|2022-03-21|2021-08-06|
+|6|[ZitongLu1996/Python-EEG-Handbook](https://github.com/ZitongLu1996/Python-EEG-Handbook)|Python脑电数据处理中文手册 - A Chinese handbook for EEG data analysis based on Python|106|2021-09-23|2021-07-02|
+|7|[shibing624/nlp-tutorial](https://github.com/shibing624/nlp-tutorial)|自然语言处理（NLP）教程，包括：词向量，词法分析，预训练语言模型，文本分类，文本语义匹配，信息抽取，翻译，对话。|84|2022-03-21|2021-08-06|
 |8|[fanfansann/fanfan-deep-learning-note](https://github.com/fanfansann/fanfan-deep-learning-note)|《繁凡的深度学习笔记》代码、PDF文件仓库|69|2022-02-15|2021-10-20|
 |9|[ssssww0905/-PyTorch-](https://github.com/ssssww0905/-PyTorch-)|【PyTorch】手把手教你跑通第一个神经网络|63|2022-01-03|2021-11-19|
 |10|[skywateryang/timeseries101](https://github.com/skywateryang/timeseries101)|本教程独立网站已上线|63|2021-12-28|2021-06-11|
@@ -25,10 +25,10 @@
 |18|[dmarx/anthology-of-modern-ml](https://github.com/dmarx/anthology-of-modern-ml)|Collection of important articles to be treated as a textbook|20|2022-02-16|2021-07-14|
 |19|[zzy99/competition-solutions](https://github.com/zzy99/competition-solutions)|我的数据竞赛方案总结|19|2021-11-16|2021-06-19|
 |20|[jikeruohai/machine-learning-example](https://github.com/jikeruohai/machine-learning-example)|我的同名B站和公众号中用到的视频|18|2021-10-21|2021-05-22|
-|21|[lvyufeng/d2l-mindspore](https://github.com/lvyufeng/d2l-mindspore)|《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。|17|2022-02-02|2021-10-28|
-|22|[raymondlo84/openvino-paddlepaddle-demo](https://github.com/raymondlo84/openvino-paddlepaddle-demo)|This repository provides examples of PaddlePaddle and OpenVINO integration. |17|2022-03-15|2021-08-13|
-|23|[chinobing/QuantInvest](https://github.com/chinobing/QuantInvest)|cnvar.cn及个人微信公众号【QuantInvest】里面提及的编程代码, 对股票各种研究和折腾分析A股市场的各种现象和投资机会，涉及编程、股票模型、分析研究、杂谈等，代码是python，以jupyter notebook展示。|17|2022-03-16|2021-05-14|
-|24|[AccumulateMore/CPlusPlus](https://github.com/AccumulateMore/CPlusPlus)|最细致的 C++ 笔记|16|2022-01-28|2021-08-07|
+|21|[chinobing/QuantInvest](https://github.com/chinobing/QuantInvest)|cnvar.cn及个人微信公众号【QuantInvest】里面提及的编程代码, 对股票各种研究和折腾分析A股市场的各种现象和投资机会，涉及编程、股票模型、分析研究、杂谈等，代码是python，以jupyter notebook展示。|18|2022-03-16|2021-05-14|
+|22|[lvyufeng/d2l-mindspore](https://github.com/lvyufeng/d2l-mindspore)|《动手学深度学习》的MindSpore实现。供MindSpore学习者配合李沐老师课程使用。|17|2022-02-02|2021-10-28|
+|23|[raymondlo84/openvino-paddlepaddle-demo](https://github.com/raymondlo84/openvino-paddlepaddle-demo)|This repository provides examples of PaddlePaddle and OpenVINO integration. |17|2022-03-15|2021-08-13|
+|24|[AccumulateMore/CPlusPlus](https://github.com/AccumulateMore/CPlusPlus)|最细致的 C++ 笔记|16|2022-03-23|2021-08-07|
 |25|[whyAndBetter/python_grammar](https://github.com/whyAndBetter/python_grammar)|Python的基础语法学习|15|2022-01-09|2021-08-29|
 |26|[Alex-Shen1121/SZU_Learning_Resource](https://github.com/Alex-Shen1121/SZU_Learning_Resource)|深圳大学CS本科 课程资源共享|15|2022-03-17|2021-05-16|
 
