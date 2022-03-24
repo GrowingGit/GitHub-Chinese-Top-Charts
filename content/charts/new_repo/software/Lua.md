@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Lua
-<sub>数据更新: 2022-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|517|2022-03-21|2021-06-19|
-|2|[linkease/istore](https://github.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|161|2022-03-18|2021-08-24|
-|3|[PanDownload-Fix/PanDownload-Fix](https://github.com/PanDownload-Fix/PanDownload-Fix)|PanDownload 修复版|69|2022-03-20|2021-09-03|
+|1|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|522|2022-03-24|2021-06-19|
+|2|[linkease/istore](https://github.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|160|2022-03-24|2021-08-24|
+|3|[PanDownload-Fix/PanDownload-Fix](https://github.com/PanDownload-Fix/PanDownload-Fix)|PanDownload 修复版|74|2022-03-20|2021-09-03|
 |4|[jerrykuku/luci-app-go-aliyundrive-webdav](https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav)|本项目是go-aliyun-webdav 的Luci 控制面板。|43|2021-11-10|2021-10-08|
 |5|[nybdech/skynet-qp-server](https://github.com/nybdech/skynet-qp-server)|一个基于skynet的棋牌游戏服务端，也可以作为其他类型的游戏服务端|27|2021-09-23|2021-09-15|
 |6|[Eatsolx/nvim-lua](https://github.com/Eatsolx/nvim-lua)|基于nvchad的配置|23|2022-03-12|2021-10-02|
@@ -16,13 +16,13 @@
 |9|[lxyoucan/nvim](https://github.com/lxyoucan/nvim)|set up Neovim 0.5 +(LSP, Treesitter, fuzzy finder, etc)|18|2021-12-06|2021-09-16|
 |10|[Muscipular/cgmsv-lua](https://github.com/Muscipular/cgmsv-lua)|cgmsv lua模块|14|2022-03-18|2021-06-30|
 |11|[TheDeNuke/Divergences-of-Darkness-Rework-Public](https://github.com/TheDeNuke/Divergences-of-Darkness-Rework-Public)|-|14|2022-02-19|2021-06-19|
-|12|[yechentide/DSTServerManager](https://github.com/yechentide/DSTServerManager)|Don't Starve Together dedicated server manager / 饥荒傻瓜式服务器管理脚本 / Bug反馈QQ群927694504 / 准备使用Go语言写个TUI版本 <-- 已放弃hh|13|2022-03-21|2021-11-27|
-|13|[yuanyan3060/Arknights-Bot-Resource](https://github.com/yuanyan3060/Arknights-Bot-Resource)|明日方舟bot常用素材|12|2022-03-22|2021-11-28|
+|12|[yuanyan3060/Arknights-Bot-Resource](https://github.com/yuanyan3060/Arknights-Bot-Resource)|明日方舟bot常用素材|13|2022-03-22|2021-11-28|
+|13|[yechentide/DSTServerManager](https://github.com/yechentide/DSTServerManager)|Don't Starve Together dedicated server manager / 饥荒傻瓜式服务器管理脚本 / Bug反馈QQ群927694504 / 准备使用Go语言写个TUI版本 <-- 已放弃hh|13|2022-03-21|2021-11-27|
 |14|[zhandouxiaojiji/skynet-creator](https://github.com/zhandouxiaojiji/skynet-creator)|skynet脚手架|9|2022-02-13|2022-01-22|
 |15|[sg552/banana-waf](https://github.com/sg552/banana-waf)|非常简单好用的waf|9|2021-10-26|2021-10-26|
 |16|[d80x86/lua-resty-tofu](https://github.com/d80x86/lua-resty-tofu)|a modern api/web framework|9|2022-03-15|2021-08-23|
-|17|[DeadlyBossMods/DBM-TBC-Classic](https://github.com/DeadlyBossMods/DBM-TBC-Classic)|The ultimate encounter helper (for TBC) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|9|2022-03-23|2021-04-01|
-|18|[copy0401/irime-bopomo-config](https://github.com/copy0401/irime-bopomo-config)|iRime 設定 新增注音輸入法 及 注音鍵盤主題|8|2022-03-23|2021-09-20|
+|17|[DeadlyBossMods/DBM-TBC-Classic](https://github.com/DeadlyBossMods/DBM-TBC-Classic)|The ultimate encounter helper (for TBC) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|9|2022-03-24|2021-04-01|
+|18|[copy0401/irime-bopomo-config](https://github.com/copy0401/irime-bopomo-config)|iRime 設定 新增注音輸入法 及 注音鍵盤主題|8|2022-03-24|2021-09-20|
 |19|[k8scat/lua-resty-weauth](https://github.com/k8scat/lua-resty-weauth)|适用于 OpenResty / ngx_lua 的基于企业微信组织架构的登录认证|8|2021-11-24|2021-08-08|
 |20|[DreamAfar/Rime-IME-for-iOS-iRime](https://github.com/DreamAfar/Rime-IME-for-iOS-iRime)|这是个人的使用的iRime仓库，主要用于记录： iRime輸入法-   基于Rime输入法框架开发的iOS端Rime输入法|8|2022-03-04|2021-07-02|
 |21|[ASoulCnki/oauth](https://github.com/ASoulCnki/oauth)|OAuth Service provide by ASoulCnki(枝网)|7|2021-12-30|2021-11-29|

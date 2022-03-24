@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > CSS
-<sub>数据更新: 2022-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,8 +9,8 @@
 |2|[disclose/research-threats](https://github.com/disclose/research-threats)|Collection of legal threats against good faith Security Researchers; vulnerability disclosure gone wrong. A continuation of work started by @attritionorg|215|2022-02-12|2021-04-05|
 |3|[yitd/wxkp](https://github.com/yitd/wxkp)|微信卡片分享链接在线制作工具|71|2021-12-11|2021-08-14|
 |4|[mfp0610/HUST-AIA-Courses-Resource](https://github.com/mfp0610/HUST-AIA-Courses-Resource)|HUST-AIA学院课程资源|43|2022-01-17|2021-05-10|
-|5|[viewweiwu/v2ex-zhihu-theme](https://github.com/viewweiwu/v2ex-zhihu-theme)|v2ex 知乎 主题样式|26|2022-03-18|2021-12-06|
-|6|[UserZYF/zhang-light](https://github.com/UserZYF/zhang-light)|思源笔记的一款主题|22|2022-03-22|2022-02-11|
+|5|[viewweiwu/v2ex-zhihu-theme](https://github.com/viewweiwu/v2ex-zhihu-theme)|v2ex 知乎 主题样式|27|2022-03-18|2021-12-06|
+|6|[UserZYF/zhang-light](https://github.com/UserZYF/zhang-light)|思源笔记的一款主题|23|2022-03-22|2022-02-11|
 |7|[Zuoqiu-Yingyi/siyuan-theme-dark-plus](https://github.com/Zuoqiu-Yingyi/siyuan-theme-dark-plus)|思源笔记的一款暗黑主题(A dark theme of SiYuan Note)|21|2022-03-23|2021-12-24|
 |8|[intro-nlp/intro-nlp.github.io](https://github.com/intro-nlp/intro-nlp.github.io)|《自然语言处理概论》  张奇、桂韬、黄萱菁著|20|2022-03-19|2021-05-25|
 |9|[calebman/girlfriend-gift-collection](https://github.com/calebman/girlfriend-gift-collection)|送给女朋友的礼物合集，生日/情人节/纪念日等，程序员的创意。|17|2022-02-11|2022-02-10|

@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Vim script
-<sub>数据更新: 2022-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[mhinz/vim-galore](https://github.com/mhinz/vim-galore)|:mortar_board: All things Vim!|13844|6|2021-11-17|
-|2|[overmind1980/oeasyvim](https://github.com/overmind1980/oeasyvim)|这是oeasy制作的的一套关于vim的教程 可以在 https://www.lanqiao.cn/teacher/courses/2840 做实验 邀请码FJWYIMGB 本教程从0基础开始，到精通vim配置，和高级命令。希望能让vim是你的开发更高效。|137|1|2021-12-10|
-|3|[dolotech/ebook](https://github.com/dolotech/ebook)|学习资料|1503|1|2021-12-02|
-|4|[dofy/learn-vim](https://github.com/dofy/learn-vim)|Vim 实操教程（Learning Vim）Vim practical tutorial.|1345|1|2021-09-30|
-|5|[sicong-li/T.vim](https://github.com/sicong-li/T.vim)|一个提供英-中翻译的vim插件|29|1|2022-02-10|
+|1|[mhinz/vim-galore](https://github.com/mhinz/vim-galore)|:mortar_board: All things Vim!|13852|6|2021-11-17|
+|2|[overmind1980/oeasyvim](https://github.com/overmind1980/oeasyvim)|这是oeasy制作的的一套关于vim的教程 可以在 https://www.lanqiao.cn/teacher/courses/2840 做实验 邀请码FJWYIMGB 本教程从0基础开始，到精通vim配置，和高级命令。希望能让vim是你的开发更高效。|138|1|2021-12-10|
+|3|[dolotech/ebook](https://github.com/dolotech/ebook)|学习资料|1504|1|2021-12-02|
+|4|[dofy/learn-vim](https://github.com/dofy/learn-vim)|Vim 实操教程（Learning Vim）Vim practical tutorial.|1344|1|2021-09-30|
+|5|[sicong-li/T.vim](https://github.com/sicong-li/T.vim)|一个提供英-中翻译的vim插件|28|1|2022-02-10|
 |6|[chloneda/vim-cheatsheet](https://github.com/chloneda/vim-cheatsheet)|🍁Vim cheat sheet with everything you want to know.|49|0|2022-01-01|
 |7|[lymslive/vimllearn](https://github.com/lymslive/vimllearn)|A book for VimL Script language|414|0|2022-03-19|
 |8|[bujnlc8/vim-translator](https://github.com/bujnlc8/vim-translator)|一个有用的翻译vim插件, 提供有道和百度两种选择,既能查英文也能查中文。|2|0|2021-10-27|

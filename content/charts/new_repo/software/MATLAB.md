@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -19,13 +19,14 @@
 |12|[JackHCC/Computer-Generated-Hologram](https://github.com/JackHCC/Computer-Generated-Hologram)|计算机全息计算与仿真框架【This library introduces the current production process of computer holography, and uses MATLAB and Python to record and reproduce holograms. In the future, I will build a computer hologra ...|4|2022-01-14|2021-11-29|
 |13|[sychen-sjtu/RRT](https://github.com/sychen-sjtu/RRT)|基于matlab仿真的puma560机械臂RRT路径规划算法|4|2021-11-15|2021-11-15|
 |14|[Shizhaoyu7288/GA-SVM](https://github.com/Shizhaoyu7288/GA-SVM)|使用遗传算法优化支持向量机/Optimization of support vector machine using genetic algorithm|3|2022-03-16|2022-03-16|
-|15|[zhenhua-chen1/Mathematical-Modeling-on-Huawei-Cup](https://github.com/zhenhua-chen1/Mathematical-Modeling-on-Huawei-Cup)|历年参加过的华为杯数学建模相关优化问题代码|3|2022-03-21|2021-12-09|
-|16|[zxb17zxb/SLIC](https://github.com/zxb17zxb/SLIC)|一个SLIC算法用于图像分割的matlab实现|3|2021-12-07|2021-12-07|
-|17|[mrcaidev/matlab-experiment](https://github.com/mrcaidev/matlab-experiment)|程序基础+微积分+数值计算+最优化+随机模拟+椭球寻径。|3|2021-12-23|2021-11-08|
-|18|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|2021-12-21|2021-10-21|
-|19|[z-xr/SSL](https://github.com/z-xr/SSL)|基于matlab的声源定位广义互相关算法的实现|3|2022-03-16|2021-07-16|
-|20|[DietCokewithSugar/undamage-blood-glucose](https://github.com/DietCokewithSugar/undamage-blood-glucose)|基于改进深度回归网络的无创血糖检测算法|2|2021-12-02|2021-12-02|
-|21|[ScottXjw/Volterra_lms](https://github.com/ScottXjw/Volterra_lms)|Volterra_lms算法|2|2021-11-03|2021-07-02|
+|15|[suntong-1221/EV_Model](https://github.com/suntong-1221/EV_Model)|纯电动汽车simulink模型|3|2022-02-22|2022-02-10|
+|16|[zhenhua-chen1/Huawei-Cup-Postgraduate-Mathematical-Contest-in-Modelling](https://github.com/zhenhua-chen1/Huawei-Cup-Postgraduate-Mathematical-Contest-in-Modelling)|“华为杯”中国研究生数学建模竞赛相关优化类型的部分代码|3|2022-03-24|2021-12-09|
+|17|[zxb17zxb/SLIC](https://github.com/zxb17zxb/SLIC)|一个SLIC算法用于图像分割的matlab实现|3|2021-12-07|2021-12-07|
+|18|[mrcaidev/matlab-experiment](https://github.com/mrcaidev/matlab-experiment)|程序基础+微积分+数值计算+最优化+随机模拟+椭球寻径。|3|2021-12-23|2021-11-08|
+|19|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|2021-12-21|2021-10-21|
+|20|[z-xr/SSL](https://github.com/z-xr/SSL)|基于matlab的声源定位广义互相关算法的实现|3|2022-03-16|2021-07-16|
+|21|[DietCokewithSugar/undamage-blood-glucose](https://github.com/DietCokewithSugar/undamage-blood-glucose)|基于改进深度回归网络的无创血糖检测算法|2|2021-12-02|2021-12-02|
+|22|[ScottXjw/Volterra_lms](https://github.com/ScottXjw/Volterra_lms)|Volterra_lms算法|2|2021-11-03|2021-07-02|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
