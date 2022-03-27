@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Groovy
-<sub>数据更新: 2022-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2249|2|2022-03-11|
+|1|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2250|2|2022-03-11|
 |2|[pengxurui/EasyPrivacy](https://github.com/pengxurui/EasyPrivacy)|一个帮助开发者快速找到国内隐私整改问题的工具|88|1|2021-12-27|
 |3|[luckybilly/AutoRegister](https://github.com/luckybilly/AutoRegister)|基于字节码插桩，在Android中实现跨module自动注册的gradle插件，可用于模块解耦。已应用于ARouter和CC|1031|1|2022-03-25|
 |4|[zeyangli/jenkinslibrary](https://github.com/zeyangli/jenkinslibrary)|Jenkins共享库|104|0|2021-10-17|
 |5|[cangHW/AndroidPlugin](https://github.com/cangHW/AndroidPlugin)|混淆打包插件|5|0|2022-03-22|
 |6|[sensorsdata/sa-sdk-android-plugin2](https://github.com/sensorsdata/sa-sdk-android-plugin2)|神策数据官方 Android 埋点插件，用于 Android 端的数据采集。通过使用字节码插桩（ASM）的技术实现 Android 端的全埋点（无埋点、无码埋点、无痕埋点、自动埋点）。|318|0|2022-02-08|
 |7|[zhoujiaping/java-agent-web](https://github.com/zhoujiaping/java-agent-web)|用于测试java-agent项目|2|0|2022-03-21|
-|8|[Peakmain/AsmActualCombat](https://github.com/Peakmain/AsmActualCombat)|ASM实战——埋点|7|0|2022-01-25|
+|8|[Peakmain/AsmActualCombat](https://github.com/Peakmain/AsmActualCombat)|ASM实战——埋点|12|0|2022-03-27|
 |9|[qq549631030/AndroidJunkCode](https://github.com/qq549631030/AndroidJunkCode)|Android马甲包生成垃圾代码插件|281|0|2021-11-08|
 |10|[eonliu/packer](https://github.com/eonliu/packer)|一个Android打包工具插件，支持360加固、多渠道打包、将APK上传到FTP等功能。|3|0|2022-03-17|
 |11|[TabooLib/shrinking-kotlin](https://github.com/TabooLib/shrinking-kotlin)|减少 Kotlin 编译后的文件体积|5|0|2022-02-11|
@@ -33,7 +33,7 @@
 |26|[galaxybruce/AndroidPionner](https://github.com/galaxybruce/AndroidPionner)|为android工程编译提供常用功能的gradle插件，旨在把一些常用自动化的脚本收集在一起。|34|0|2022-02-10|
 |27|[dqzboy/DevOps](https://github.com/dqzboy/DevOps)|CICD流水线|11|0|2022-03-08|
 |28|[mark4z/cloud-alibaba](https://github.com/mark4z/cloud-alibaba)|一个简单的Spring cloud alibaba demo|2|0|2022-02-26|
-|29|[DreamPWJ/jenkins-shared-library](https://github.com/DreamPWJ/jenkins-shared-library)|强大灵活易用的多端CI/CD共享库流水线 One For All DevOps |14|0|2022-03-18|
+|29|[DreamPWJ/jenkins-shared-library](https://github.com/DreamPWJ/jenkins-shared-library)|强大灵活易用的多端CI/CD共享库流水线 One For All DevOps |14|0|2022-03-27|
 |30|[AyakuraYuki/content-storage-app](https://github.com/AyakuraYuki/content-storage-app)|泛用型内容管理工具，采用JSON存储内容，SQLite持久化数据，TOTP时间动态码校验用户，Base64/DES加密数据|4|0|2022-02-22|
 |31|[dikeboy/DhMethodTime](https://github.com/dikeboy/DhMethodTime)|统计安卓所有方法执行耗时   ,用于开发 测试时分析性能,分析ANR,Calculate android method time,|5|0|2022-02-21|
 |32|[ZakAnun/UploadApkPlugin](https://github.com/ZakAnun/UploadApkPlugin)|上传 apk 文件到指定测试平台的插件|13|0|2021-10-18|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2022-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -13,7 +13,7 @@
 |6|[koheiw/LSX](https://github.com/koheiw/LSX)|A word embeddings-based semi-supervised model for document scaling|42|0|2022-03-04|
 |7|[lexcomber/GWRroutemap](https://github.com/lexcomber/GWRroutemap)|the GWR route maps for physical and human geography|7|0|2022-01-11|
 |8|[leileibama/leoDDcalculator](https://github.com/leileibama/leoDDcalculator)|leoDDcalculator, a package calculating the values of mdd and ndd of texts in a folder|6|0|2021-11-08|
-|9|[KateHyoung/UTDEventData](https://github.com/KateHyoung/UTDEventData)|An R package to retrieve  political event data from the UTD API server|10|0|2022-03-24|
+|9|[KateHyoung/UTDEventData](https://github.com/KateHyoung/UTDEventData)|An R package to retrieve  political event data from the UTD API server|10|0|2022-03-26|
 |10|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|10|0|2022-03-09|
 |11|[mountainMath/tongfen](https://github.com/mountainMath/tongfen)|Convenience functions for making data on different geometries, especially Canadian census geometries, comparable.|25|0|2022-02-24|
 |12|[YongxinLiu/EasyMicrobiome](https://github.com/YongxinLiu/EasyMicrobiome)|Scripts and databases for amplicon and metagenome|32|0|2022-01-28|
@@ -24,7 +24,7 @@
 |17|[quanteda/stopwords](https://github.com/quanteda/stopwords)|Multilingual Stopword Lists in R|106|0|2022-01-07|
 |18|[fragla/eq5d](https://github.com/fragla/eq5d)|-|13|0|2022-03-21|
 |19|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|112|0|2022-03-09|
-|20|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|371|0|2022-03-26|
+|20|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|371|0|2022-03-27|
 |21|[hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|58|0|2021-12-21|
 |22|[uribo/zipangu](https://github.com/uribo/zipangu)|Japanese utility functions and data|43|0|2022-03-14|
 |23|[ahb108/rcarbon](https://github.com/ahb108/rcarbon)|Methods for calibrating and analysing radiocarbon dates|32|0|2022-02-17|
@@ -58,7 +58,7 @@
 |51|[yukiyanai/quant-methods-R](https://github.com/yukiyanai/quant-methods-R)|Repository for "Quantitative Methods in Political Science Using R" by Masahiko Asano and Yuki Yanai|16|0|2021-11-17|
 |52|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|22|0|2022-01-25|
 |53|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit (kw: field observation, air polltion, time series summary, time series resampling, average variation, ozone formation potential (OFP), MIR, tuv). |25|0|2022-03-06|
-|54|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|144|0|2022-03-26|
+|54|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|144|0|2022-03-27|
 |55|[pzhaonet/beginr](https://github.com/pzhaonet/beginr)|an R package for beginners|15|0|2021-12-03|
 |56|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|14|0|2021-11-26|
 |57|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008)|86|0|2021-11-29|

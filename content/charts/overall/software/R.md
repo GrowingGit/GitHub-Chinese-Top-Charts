@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2022-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -9,13 +9,13 @@
 |2|[BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)|Color palette package in R inspired by works at the Metropolitan Museum of Art in New York|546|2022-03-20|
 |3|[pzhaonet/mindr](https://github.com/pzhaonet/mindr)|an R package which converts markdown files (.md, .Rmd) into mindmaps (brainstorms)|543|2021-11-22|
 |4|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|510|2022-03-24|
-|5|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|371|2022-03-26|
+|5|[swsoyee/2019-ncov-japan](https://github.com/swsoyee/2019-ncov-japan)|🦠 Interactive dashboard for real-time recording of COVID-19 outbreak in Japan|371|2022-03-27|
 |6|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|367|2022-03-26|
 |7|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|231|2022-03-24|
 |8|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|162|2021-12-19|
 |9|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|154|2022-02-25|
 |10|[hrbrmstr/docxtractr](https://github.com/hrbrmstr/docxtractr)|:scissors: Extract Tables from Microsoft Word Documents with R|151|2021-10-02|
-|11|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|144|2022-03-26|
+|11|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|144|2022-03-27|
 |12|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|132|2021-11-28|
 |13|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|112|2022-03-09|
 |14|[quanteda/stopwords](https://github.com/quanteda/stopwords)|Multilingual Stopword Lists in R|106|2022-01-07|
@@ -63,7 +63,7 @@
 |56|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|11|2022-03-19|
 |57|[Wytamma/GISAIDR](https://github.com/Wytamma/GISAIDR)|Programmatically interact with the GISAID database.|10|2022-03-22|
 |58|[DongqiangZeng0808/Blasso](https://github.com/DongqiangZeng0808/Blasso)|Integrating LASSO and bootstrapping algorithm to find best prognostic or predictive biomarkers|10|2021-10-26|
-|59|[KateHyoung/UTDEventData](https://github.com/KateHyoung/UTDEventData)|An R package to retrieve  political event data from the UTD API server|10|2022-03-24|
+|59|[KateHyoung/UTDEventData](https://github.com/KateHyoung/UTDEventData)|An R package to retrieve  political event data from the UTD API server|10|2022-03-26|
 |60|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|10|2022-03-09|
 |61|[dazamora/DWBmodelUN](https://github.com/dazamora/DWBmodelUN)|R native implementation of the Dynamic Water Balance hydrologic model in a monthly time step |9|2021-09-29|
 |62|[YuLab-SMU/nCov2019](https://github.com/YuLab-SMU/nCov2019)|:microbe: Exploring COVID-19 data|8|2021-12-13|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2022-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -21,7 +21,7 @@
 |14|[xrtc-cc/xrtc](https://github.com/xrtc-cc/xrtc)|WebRTC 融合音视频解决方案：封装声网Agora、华为云hrtc、腾讯云trtc及网易云信rtc，支持动态切换和定制，iOS、Android、Web极简集成WebRTC。|17|2021-11-05|2021-08-19|
 |15|[GuanceCloud/datakit-ios](https://github.com/GuanceCloud/datakit-ios)|-|13|2022-03-25|2021-05-31|
 |16|[HMS-Core/hms-3d-modeling-demo-ios](https://github.com/HMS-Core/hms-3d-modeling-demo-ios)|-|12|2021-11-15|2021-09-27|
-|17|[QDong415/QKeyboardEmotionView](https://github.com/QDong415/QKeyboardEmotionView)|仿微信聊天表情键盘，仿朋友圈底部表情键盘。仿微信表情面板，键盘与表情切换平滑 ChatEmotionKeyboard，useful in ChatViewController|12|2022-01-08|2021-08-20|
+|17|[QDong415/QKeyboardEmotionView](https://github.com/QDong415/QKeyboardEmotionView)|仿微信聊天表情键盘，仿朋友圈底部表情键盘。仿微信表情面板，键盘与表情切换平滑 ChatEmotionKeyboard，useful in ChatViewController|12|2022-03-27|2021-08-20|
 |18|[kwai-ec/LottieExtensionDemo](https://github.com/kwai-ec/LottieExtensionDemo)|支持Native混合渲染和点击响应的DEMO工程|11|2021-12-23|2021-12-22|
 |19|[mokong/DetectFakeLocation](https://github.com/mokong/DetectFakeLocation)|iOS检测虚拟位置，比如使用Xcode模拟位置、使用爱思助手模拟位置等|11|2022-03-08|2021-08-06|
 |20|[XiFengLang/flutter_notes](https://github.com/XiFengLang/flutter_notes)|Flutter & flutter_boost开发iOS混合开发项目问题记录；iOS远程依赖Flutter Module组件代码；|11|2021-10-29|2021-07-06|
@@ -39,11 +39,11 @@
 |32|[chenqingze/capacitor-wechat-sdk](https://github.com/chenqingze/capacitor-wechat-sdk)|wechat sdk wrapper with capacitor , support ios and android . 自用项目,未发布到npm 仓库|6|2022-02-25|2022-01-10|
 |33|[LianjiaTech/BKFlutterWebNativeBridge](https://github.com/LianjiaTech/BKFlutterWebNativeBridge)|Flutter Web和Flutter Mobile桥接。|6|2022-02-08|2021-11-22|
 |34|[rueen/react-native-ottpay](https://github.com/rueen/react-native-ottpay)|react-native ottpay跨境支付|6|2021-11-25|2021-10-26|
-|35|[theseustech/SotDemo](https://github.com/theseustech/SotDemo)|SOT iOS热更新方案的示例DEMO|6|2021-09-25|2021-08-07|
-|36|[ebamboo/BBPlayerView](https://github.com/ebamboo/BBPlayerView)|一个高度封装的视频播放器视图，基于 AVPlayer、AVPlayerLayer、AVPlayerItem。 继承自 UIView，可以当做一般视图使用，适用于 Swift 和 Objective-C。|6|2021-12-23|2021-07-03|
-|37|[tencentyun/TRTCFlutterBeautyDemo](https://github.com/tencentyun/TRTCFlutterBeautyDemo)|基于腾讯云TRTC Flutter sdk，提供的美颜版源码Demo|5|2022-02-18|2022-01-13|
-|38|[yt1124297507/Kline](https://github.com/yt1124297507/Kline)|这是一个KlineDemo包含常见指标：MA EMA BOLL MACD WR RSI KDJ，如果觉得不错 顺手来个Star。K线详情可查看markdown文档、源代码|5|2021-12-09|2021-12-08|
-|39|[QuintGao/GKPlaceholder](https://github.com/QuintGao/GKPlaceholder)|UIScrollView空数据占位图|5|2021-12-03|2021-08-30|
+|35|[ebamboo/BBPlayerView](https://github.com/ebamboo/BBPlayerView)|一个高度封装的视频播放器视图，基于 AVPlayer、AVPlayerLayer、AVPlayerItem。 继承自 UIView，可以当做一般视图使用，适用于 Swift 和 Objective-C。|6|2021-12-23|2021-07-03|
+|36|[tencentyun/TRTCFlutterBeautyDemo](https://github.com/tencentyun/TRTCFlutterBeautyDemo)|基于腾讯云TRTC Flutter sdk，提供的美颜版源码Demo|5|2022-02-18|2022-01-13|
+|37|[yt1124297507/Kline](https://github.com/yt1124297507/Kline)|这是一个KlineDemo包含常见指标：MA EMA BOLL MACD WR RSI KDJ，如果觉得不错 顺手来个Star。K线详情可查看markdown文档、源代码|5|2021-12-09|2021-12-08|
+|38|[QuintGao/GKPlaceholder](https://github.com/QuintGao/GKPlaceholder)|UIScrollView空数据占位图|5|2021-12-03|2021-08-30|
+|39|[tencentyun/TRTCUnitySDK](https://github.com/tencentyun/TRTCUnitySDK)|腾讯云实时音视频Unity SDK|5|2022-03-25|2021-07-14|
 |40|[gjzkeyframe/KFAVDemo-iOS](https://github.com/gjzkeyframe/KFAVDemo-iOS)|iOS 音视频工程示例。|4|2022-03-19|2022-03-19|
 |41|[zhYes/AnimationTrasition](https://github.com/zhYes/AnimationTrasition)|OC iOS 转场动画 push pop|4|2022-02-05|2022-02-04|
 |42|[SmileZXLee/iOSSignatureAnalysis](https://github.com/SmileZXLee/iOSSignatureAnalysis)|iOSApp+Springboot后端sign签名+aes加密原理&逆向破解分析示例(class-dump+Logos+monkeyDev+IDA)，含iOS端+JAVA后端源码。|4|2022-02-06|2022-01-21|
@@ -52,44 +52,43 @@
 |45|[changsanjiang/LWZComponents](https://github.com/changsanjiang/LWZComponents)|一些组件库|4|2021-12-27|2021-12-27|
 |46|[fatboy-hard/react-native-gcy-datakit](https://github.com/fatboy-hard/react-native-gcy-datakit)|观测云RN集成|4|2021-12-09|2021-11-29|
 |47|[CoderMSY/MSYTableView](https://github.com/CoderMSY/MSYTableView)|数据驱动型UITableView库，封装delegate/dataSource,开发者只需构造数据及自定义Cell|4|2021-12-03|2021-08-20|
-|48|[tencentyun/TRTCUnitySDK](https://github.com/tencentyun/TRTCUnitySDK)|腾讯云实时音视频Unity SDK|4|2022-03-25|2021-07-14|
-|49|[Smiacter/flutter_baidu_navi](https://github.com/Smiacter/flutter_baidu_navi)|Flutter baidu map navigation - Flutter百度地图导航|4|2021-10-13|2021-05-20|
-|50|[dushiling/native_import_flutter_demo](https://github.com/dushiling/native_import_flutter_demo)|在iOS、Android原生项目里嵌入flutter_module|3|2022-03-01|2022-02-25|
-|51|[nilzz-00/ZManager](https://github.com/nilzz-00/ZManager)|iOS文件管理器|3|2022-01-07|2022-01-07|
-|52|[hh1016/HHPackKit](https://github.com/hh1016/HHPackKit)|基于UIKit封装的基础控件库，使用链式编程思想对常用的控件进行封装,包含UIView,UILabel,UIButton,UITextFiled,UITextView,UITableView的封装|3|2021-12-21|2021-12-21|
-|53|[HighwayLaw/HWSwitchCase](https://github.com/HighwayLaw/HWSwitchCase)|Objective-C switch case 支持多种数据类型|3|2021-12-21|2021-12-13|
-|54|[Rycccccccc/YCBannerView](https://github.com/Rycccccccc/YCBannerView)|一款轻量级的轮播框架|3|2021-12-11|2021-12-08|
-|55|[nongshifu/iOS-](https://github.com/nongshifu/iOS-)|iOS模拟点击/拖动 各种游戏王座,自瞄,压枪基址,只需要简单的一行代码记录屏幕xy坐标|3|2021-11-29|2021-11-29|
-|56|[yangKJ/KJEmitterView](https://github.com/yangKJ/KJEmitterView)|开发加速库 🚗|3|2022-02-07|2021-11-29|
-|57|[Jdb156158/JBBPuzzleView](https://github.com/Jdb156158/JBBPuzzleView)|模板拼图、宫格拼图、不规则拼图、视频图片拼图、GIF拼图|3|2021-12-03|2021-11-24|
-|58|[HansenCCC/KKImageBrowser](https://github.com/HansenCCC/KKImageBrowser)|这是一个非常实用的图片浏览工具。（仿微信图片预览）|3|2021-11-19|2021-11-16|
-|59|[oychshy/AppleRegister](https://github.com/oychshy/AppleRegister)|appleId 模点|3|2022-01-24|2021-11-03|
-|60|[WanyueKJ/wanyue_live_shopping_ios](https://github.com/WanyueKJ/wanyue_live_shopping_ios)|万岳直播商城APP，直播带货商城( live with goods mall)、短视频商城(short video mall)、仿淘宝商城(imitation Taobao mall)|3|2022-02-23|2021-10-09|
-|61|[pirder/PRSleepApp](https://github.com/pirder/PRSleepApp)| 2020年毕业答辩iOS项目|3|2021-10-09|2021-10-09|
-|62|[tqhnet/MacCatalyst_Learn](https://github.com/tqhnet/MacCatalyst_Learn)|Mac Catalyst的练习|3|2021-12-24|2021-09-13|
-|63|[growingio/growingio-sdk-ios-toolskit](https://github.com/growingio/growingio-sdk-ios-toolskit)|GrowingIO iOS SDK 开发辅助工具|3|2022-03-23|2021-09-10|
-|64|[KeenTeam1990/screenshots](https://github.com/KeenTeam1990/screenshots)|📦实现截取视频及视频流并生成image的功能|3|2021-09-26|2021-09-10|
-|65|[HeadmasterHong/MVVM-OC-IOS-demo](https://github.com/HeadmasterHong/MVVM-OC-IOS-demo)|基于MVVM模式的iOS/OC demo|3|2021-10-25|2021-08-09|
-|66|[lele8446/CJSkin](https://github.com/lele8446/CJSkin)|APP动态换肤解决方案|3|2021-09-28|2021-06-27|
-|67|[Bruce-7/BinarySymbol](https://github.com/Bruce-7/BinarySymbol)|二进制重排（Page Falut）|2|2022-02-10|2022-01-28|
-|68|[mlcldh/GNUstepBase](https://github.com/mlcldh/GNUstepBase)|GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一遍。|2|2022-01-14|2022-01-08|
-|69|[qingqiusuomeng/LQAlertViewKit](https://github.com/qingqiusuomeng/LQAlertViewKit)|自定义UIAlertViewController|2|2021-11-16|2021-11-10|
-|70|[chenXming/QhSaveImageToLibrary](https://github.com/chenXming/QhSaveImageToLibrary)|多线程下载、上传图片。支持下载到自定义相册，支持设置最大并发数，支持后台处理任务。没有使用任何第三方相关类库，系统原生方法实现，无依赖负担。|2|2021-12-02|2021-11-03|
-|71|[XiangqiancaoClark/WeChat-ReverseCode](https://github.com/XiangqiancaoClark/WeChat-ReverseCode)|逆向微信的头文件源码|2|2021-10-26|2021-10-26|
-|72|[AlexanderWei/cjlm](https://github.com/AlexanderWei/cjlm)|菜鸡联盟|2|2021-10-25|2021-10-25|
-|73|[chinaxxren/VVModule](https://github.com/chinaxxren/VVModule)|VVModule是面向协议的iOS模块化框架，同时它还支持URL路由和模块间通信机制,并且覆盖启动阶段的main函数的前后|2|2021-10-28|2021-10-22|
-|74|[lishangjing-spec/lsj-PrivateProtocolAlert](https://github.com/lishangjing-spec/lsj-PrivateProtocolAlert)|隐私政策弹窗|2|2021-10-17|2021-10-15|
-|75|[Lester2020/YZTimerDemo](https://github.com/Lester2020/YZTimerDemo)|处理解决NSTimer造成循环引用的几种实现方式|2|2021-09-30|2021-09-30|
-|76|[chiyun1/gcovFlushAdapter](https://github.com/chiyun1/gcovFlushAdapter)|解决升级Xcode13, 检测代码覆盖度时找不到__gcov_flush方法的问题|2|2021-09-27|2021-09-27|
-|77|[shark-chen/MLLogin](https://github.com/shark-chen/MLLogin)|登陆SDK|2|2021-10-13|2021-09-08|
-|78|[MrLuanJX/Filter](https://github.com/MrLuanJX/Filter)|仿链家、美团、京东筛选|2|2021-11-18|2021-09-01|
-|79|[Jacky-LinPeng/onLineSeat-MQTT](https://github.com/Jacky-LinPeng/onLineSeat-MQTT)|环信MQTT参赛作品|2|2021-10-09|2021-08-18|
-|80|[amap-demo/AMapGPSMocker](https://github.com/amap-demo/AMapGPSMocker)|GPS的mock工具，提供单点、多点（路线）的模拟和回放、坐标系转换等功能|2|2022-01-25|2021-07-20|
-|81|[xiangshun110/XSNetwork](https://github.com/xiangshun110/XSNetwork)|对AFNetworking 4.0的封装|2|2022-03-08|2021-06-09|
-|82|[zhengmiaokai/MKAPM](https://github.com/zhengmiaokai/MKAPM)|网络监听、卡顿/闪退收集，FPS检测（简单的功能实现）|2|2021-10-18|2021-06-07|
-|83|[yelinux/YHNavigationBar](https://github.com/yelinux/YHNavigationBar)|UINavigationController封装，支持全屏侧滑pop，导航栏显示隐藏更便捷。|2|2022-03-07|2021-04-21|
-|84|[DengXiangHong/react-native-alipay-verify](https://github.com/DengXiangHong/react-native-alipay-verify)|支付宝实名认证（身份核实、生物识别、人脸识别）|2|2021-12-16|2021-04-20|
-|85|[yelinux/YHWaterFallLayout](https://github.com/yelinux/YHWaterFallLayout)|瀑布流简易使用|2|2021-10-29|2021-04-13|
+|48|[Smiacter/flutter_baidu_navi](https://github.com/Smiacter/flutter_baidu_navi)|Flutter baidu map navigation - Flutter百度地图导航|4|2021-10-13|2021-05-20|
+|49|[dushiling/native_import_flutter_demo](https://github.com/dushiling/native_import_flutter_demo)|在iOS、Android原生项目里嵌入flutter_module|3|2022-03-01|2022-02-25|
+|50|[nilzz-00/ZManager](https://github.com/nilzz-00/ZManager)|iOS文件管理器|3|2022-01-07|2022-01-07|
+|51|[hh1016/HHPackKit](https://github.com/hh1016/HHPackKit)|基于UIKit封装的基础控件库，使用链式编程思想对常用的控件进行封装,包含UIView,UILabel,UIButton,UITextFiled,UITextView,UITableView的封装|3|2021-12-21|2021-12-21|
+|52|[HighwayLaw/HWSwitchCase](https://github.com/HighwayLaw/HWSwitchCase)|Objective-C switch case 支持多种数据类型|3|2021-12-21|2021-12-13|
+|53|[Rycccccccc/YCBannerView](https://github.com/Rycccccccc/YCBannerView)|一款轻量级的轮播框架|3|2021-12-11|2021-12-08|
+|54|[nongshifu/iOS-](https://github.com/nongshifu/iOS-)|iOS模拟点击/拖动 各种游戏王座,自瞄,压枪基址,只需要简单的一行代码记录屏幕xy坐标|3|2021-11-29|2021-11-29|
+|55|[yangKJ/KJEmitterView](https://github.com/yangKJ/KJEmitterView)|开发加速库 🚗|3|2022-02-07|2021-11-29|
+|56|[Jdb156158/JBBPuzzleView](https://github.com/Jdb156158/JBBPuzzleView)|模板拼图、宫格拼图、不规则拼图、视频图片拼图、GIF拼图|3|2021-12-03|2021-11-24|
+|57|[HansenCCC/KKImageBrowser](https://github.com/HansenCCC/KKImageBrowser)|这是一个非常实用的图片浏览工具。（仿微信图片预览）|3|2021-11-19|2021-11-16|
+|58|[oychshy/AppleRegister](https://github.com/oychshy/AppleRegister)|appleId 模点|3|2022-01-24|2021-11-03|
+|59|[WanyueKJ/wanyue_live_shopping_ios](https://github.com/WanyueKJ/wanyue_live_shopping_ios)|万岳直播商城APP，直播带货商城( live with goods mall)、短视频商城(short video mall)、仿淘宝商城(imitation Taobao mall)|3|2022-02-23|2021-10-09|
+|60|[pirder/PRSleepApp](https://github.com/pirder/PRSleepApp)| 2020年毕业答辩iOS项目|3|2021-10-09|2021-10-09|
+|61|[tqhnet/MacCatalyst_Learn](https://github.com/tqhnet/MacCatalyst_Learn)|Mac Catalyst的练习|3|2021-12-24|2021-09-13|
+|62|[growingio/growingio-sdk-ios-toolskit](https://github.com/growingio/growingio-sdk-ios-toolskit)|GrowingIO iOS SDK 开发辅助工具|3|2022-03-23|2021-09-10|
+|63|[KeenTeam1990/screenshots](https://github.com/KeenTeam1990/screenshots)|📦实现截取视频及视频流并生成image的功能|3|2021-09-26|2021-09-10|
+|64|[HeadmasterHong/MVVM-OC-IOS-demo](https://github.com/HeadmasterHong/MVVM-OC-IOS-demo)|基于MVVM模式的iOS/OC demo|3|2021-10-25|2021-08-09|
+|65|[lele8446/CJSkin](https://github.com/lele8446/CJSkin)|APP动态换肤解决方案|3|2021-09-28|2021-06-27|
+|66|[Bruce-7/BinarySymbol](https://github.com/Bruce-7/BinarySymbol)|二进制重排（Page Falut）|2|2022-02-10|2022-01-28|
+|67|[mlcldh/GNUstepBase](https://github.com/mlcldh/GNUstepBase)|GNUstep是GNU计划的项目之一，它将Cocoa的OC库重新开源实现了一遍。|2|2022-01-14|2022-01-08|
+|68|[qingqiusuomeng/LQAlertViewKit](https://github.com/qingqiusuomeng/LQAlertViewKit)|自定义UIAlertViewController|2|2021-11-16|2021-11-10|
+|69|[chenXming/QhSaveImageToLibrary](https://github.com/chenXming/QhSaveImageToLibrary)|多线程下载、上传图片。支持下载到自定义相册，支持设置最大并发数，支持后台处理任务。没有使用任何第三方相关类库，系统原生方法实现，无依赖负担。|2|2021-12-02|2021-11-03|
+|70|[XiangqiancaoClark/WeChat-ReverseCode](https://github.com/XiangqiancaoClark/WeChat-ReverseCode)|逆向微信的头文件源码|2|2021-10-26|2021-10-26|
+|71|[AlexanderWei/cjlm](https://github.com/AlexanderWei/cjlm)|菜鸡联盟|2|2021-10-25|2021-10-25|
+|72|[chinaxxren/VVModule](https://github.com/chinaxxren/VVModule)|VVModule是面向协议的iOS模块化框架，同时它还支持URL路由和模块间通信机制,并且覆盖启动阶段的main函数的前后|2|2021-10-28|2021-10-22|
+|73|[lishangjing-spec/lsj-PrivateProtocolAlert](https://github.com/lishangjing-spec/lsj-PrivateProtocolAlert)|隐私政策弹窗|2|2021-10-17|2021-10-15|
+|74|[Lester2020/YZTimerDemo](https://github.com/Lester2020/YZTimerDemo)|处理解决NSTimer造成循环引用的几种实现方式|2|2021-09-30|2021-09-30|
+|75|[chiyun1/gcovFlushAdapter](https://github.com/chiyun1/gcovFlushAdapter)|解决升级Xcode13, 检测代码覆盖度时找不到__gcov_flush方法的问题|2|2021-09-27|2021-09-27|
+|76|[shark-chen/MLLogin](https://github.com/shark-chen/MLLogin)|登陆SDK|2|2021-10-13|2021-09-08|
+|77|[MrLuanJX/Filter](https://github.com/MrLuanJX/Filter)|仿链家、美团、京东筛选|2|2021-11-18|2021-09-01|
+|78|[Jacky-LinPeng/onLineSeat-MQTT](https://github.com/Jacky-LinPeng/onLineSeat-MQTT)|环信MQTT参赛作品|2|2021-10-09|2021-08-18|
+|79|[amap-demo/AMapGPSMocker](https://github.com/amap-demo/AMapGPSMocker)|GPS的mock工具，提供单点、多点（路线）的模拟和回放、坐标系转换等功能|2|2022-01-25|2021-07-20|
+|80|[xiangshun110/XSNetwork](https://github.com/xiangshun110/XSNetwork)|对AFNetworking 4.0的封装|2|2022-03-08|2021-06-09|
+|81|[zhengmiaokai/MKAPM](https://github.com/zhengmiaokai/MKAPM)|网络监听、卡顿/闪退收集，FPS检测（简单的功能实现）|2|2021-10-18|2021-06-07|
+|82|[yelinux/YHNavigationBar](https://github.com/yelinux/YHNavigationBar)|UINavigationController封装，支持全屏侧滑pop，导航栏显示隐藏更便捷。|2|2022-03-07|2021-04-21|
+|83|[DengXiangHong/react-native-alipay-verify](https://github.com/DengXiangHong/react-native-alipay-verify)|支付宝实名认证（身份核实、生物识别、人脸识别）|2|2021-12-16|2021-04-20|
+|84|[yelinux/YHWaterFallLayout](https://github.com/yelinux/YHWaterFallLayout)|瀑布流简易使用|2|2021-10-29|2021-04-13|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

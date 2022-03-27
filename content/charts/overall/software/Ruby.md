@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Ruby
-<sub>数据更新: 2022-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|5853|2022-03-22|
-|2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3549|2022-03-26|
+|1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|5854|2022-03-22|
+|2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3548|2022-03-27|
 |3|[peatio/peatio](https://github.com/peatio/peatio)|An open-source assets exchange.|3518|2022-02-18|
-|4|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3408|2022-03-20|
-|5|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|2055|2022-03-05|
+|4|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3408|2022-03-27|
+|5|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|2056|2022-03-05|
 |6|[pluosi/app-host](https://github.com/pluosi/app-host)|应用内网发布   iOS OTA (Over-the-Air)   APP publish website like fir.im    适用于企业 iOS & Android 内网发布测试使用，方便管理和分发 APP 包|1826|2022-03-01|
-|7|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1808|2022-02-11|
+|7|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|1809|2022-02-11|
 |8|[publify/publify](https://github.com/publify/publify)|A self hosted Web publishing platform on Rails.|1775|2022-03-06|
 |9|[thredded/thredded](https://github.com/thredded/thredded)|The best Rails forums engine ever.|1421|2022-03-11|
 |10|[Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1272|2022-02-16|
@@ -26,7 +26,7 @@
 |19|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|641|2022-03-10|
 |20|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|641|2022-03-01|
 |21|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|639|2022-02-17|
-|22|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|634|2022-03-25|
+|22|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|635|2022-03-25|
 |23|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast and smart citation reference parsing|612|2021-11-28|
 |24|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Over The Air Server for deployment of Android, iOS and macOS apps|492|2022-03-22|
 |25|[lanrion/weixin_rails_middleware](https://github.com/lanrion/weixin_rails_middleware)|微信集成 ruby weixin_rails_middleware for integration weixin. |414|2022-02-26|
@@ -41,7 +41,7 @@
 |34|[infused/dbf](https://github.com/infused/dbf)|DBF is a small fast Ruby library for reading dBase, xBase, Clipper and FoxPro database files|238|2022-01-12|
 |35|[sirupsen/airrecord](https://github.com/sirupsen/airrecord)|Ruby wrapper for Airtable, your personal database|229|2022-02-25|
 |36|[L-codes/pwcrack-framework](https://github.com/L-codes/pwcrack-framework)|Password Crack Framework|226|2022-03-22|
-|37|[wu-kan/wu-kan.github.io](https://github.com/wu-kan/wu-kan.github.io)|:sparkles: my homepage & template for jekyll-theme-WuK|195|2022-03-22|
+|37|[wu-kan/wu-kan.github.io](https://github.com/wu-kan/wu-kan.github.io)|:sparkles: my homepage & template for jekyll-theme-WuK|195|2022-03-27|
 |38|[huacnlee/carrierwave-aliyun](https://github.com/huacnlee/carrierwave-aliyun)|阿里云 OSS Ruby 上传组件，基于 Carrierwave|194|2022-01-25|
 |39|[ruilisi/rails-pangu](https://github.com/ruilisi/rails-pangu)|Rails starter kit that every startup needs|193|2022-03-04|
 |40|[didww/credit_card_validations](https://github.com/didww/credit_card_validations)|:credit_card: ruby gem for validating credit card numbers, generating valid numbers, luhn checks|191|2022-03-02|
@@ -55,7 +55,7 @@
 |48|[dblock/slack-gamebot](https://github.com/dblock/slack-gamebot)|Ping pong, chess, pool and other games bot for Slack.|128|2022-02-27|
 |49|[netease-im/NIM_iOS_SDK](https://github.com/netease-im/NIM_iOS_SDK)|网易云信 iOS SDK 发布仓库。【推荐客户得京东卡，首次推荐成单得1500元京东卡，连续推荐2000元/单，上不封顶。】点击参与https://yunxin.163.com/promotion/recommend|123|2022-03-08|
 |50|[rails-engine/audit-log](https://github.com/rails-engine/audit-log)|📑 Create audit logs into the database for user behaviors, including a web UI to query logs.|120|2022-01-10|
-|51|[kenn/active_flag](https://github.com/kenn/active_flag)|Bit array for ActiveRecord|116|2022-03-25|
+|51|[kenn/active_flag](https://github.com/kenn/active_flag)|Bit array for ActiveRecord|120|2022-03-25|
 |52|[huacnlee/activestorage-aliyun](https://github.com/huacnlee/activestorage-aliyun)|Wraps the Aliyun OSS as an Active Storage service. |114|2022-02-09|
 |53|[courtenay/splam](https://github.com/courtenay/splam)|Simple, pluggable, easily customizable score-based spam filter plugin for Ruby-based applications|108|2021-10-25|
 |54|[siaw23/kovid](https://github.com/siaw23/kovid)|Fetch and compare COVID statistics on the CLI.|106|2022-03-21|
@@ -66,7 +66,7 @@
 |59|[quzhi1/ChineseHistoricalSource](https://github.com/quzhi1/ChineseHistoricalSource)|This is my personal stash of Chinese Historical Source|83|2022-02-25|
 |60|[iPermanent/rubyTools](https://github.com/iPermanent/rubyTools)|日常使用ruby脚本|82|2021-10-18|
 |61|[jasonknight/salor-retail](https://github.com/jasonknight/salor-retail)|Rails Based Point of Sale and Store Management Software|78|2022-03-26|
-|62|[kufu/kiji](https://github.com/kufu/kiji)|e-Gov API 連携 gem|77|2022-02-20|
+|62|[kufu/kiji](https://github.com/kufu/kiji)|e-Gov API 連携 gem|76|2022-02-20|
 |63|[yuan-xy/kaola](https://github.com/yuan-xy/kaola)|A Restful API Server For Database|71|2022-03-15|
 |64|[icyleaf/hpr](https://github.com/icyleaf/hpr)|镜像任意 git 仓库到 gitlab 的同步工具，具有定时更新的功能|70|2022-03-23|
 |65|[brenes/stopwords-filter](https://github.com/brenes/stopwords-filter)|Project for filtering stopwords|64|2021-12-19|
@@ -80,8 +80,8 @@
 |73|[hlcfan/pokr](https://github.com/hlcfan/pokr)|Make agile estimating and planning easy with our online planning or scrum poker tool|51|2022-02-26|
 |74|[test-kitchen/kitchen-azurerm](https://github.com/test-kitchen/kitchen-azurerm)|A driver for Test Kitchen that works with Azure Resource Manager|51|2022-03-22|
 |75|[FunnyWolf/vipermsf](https://github.com/FunnyWolf/vipermsf)|viper 自定义的msf|50|2022-03-18|
-|76|[aozorahack/aozorabunko_text](https://github.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|49|2022-03-26|
-|77|[ChrisZou/geekweibo](https://github.com/ChrisZou/geekweibo)|A twitter-like app where you can save and share short notes around programming. You can think of it as "twitter for programmers".|45|2022-02-28|
+|76|[aozorahack/aozorabunko_text](https://github.com/aozorahack/aozorabunko_text)|text-only archives of www.aozora.gr.jp|49|2022-03-27|
+|77|[ChrisZou/geekweibo](https://github.com/ChrisZou/geekweibo)|A twitter-like app where you can save and share short notes around programming. You can think of it as "twitter for programmers".|45|2022-03-26|
 |78|[piotrmurach/strings-truncation](https://github.com/piotrmurach/strings-truncation)|Truncate strings with fullwidth characters and ANSI codes.|45|2022-02-14|
 |79|[ankane/blingfire-ruby](https://github.com/ankane/blingfire-ruby)|High speed text tokenization for Ruby|44|2022-01-10|
 |80|[yangKJ/PT](https://github.com/yangKJ/PT)|Automatically generate componentized modules 自动生成组件化模块|41|2022-01-19|
@@ -107,7 +107,7 @@
 |100|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|18|2022-03-26|
 |101|[hiroshiyui/youbike](https://github.com/hiroshiyui/youbike)|臺北市公共自行車「YouBike 微笑單車」租賃站資料轉換程式|17|2022-02-26|
 |102|[yohasebe/deepl-alfred-translate-rewrite-workflow](https://github.com/yohasebe/deepl-alfred-translate-rewrite-workflow)|An Alfred workflow to help translate and rewrite text using DeepL API|16|2022-01-26|
-|103|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|15|2022-03-26|
+|103|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|15|2022-03-27|
 |104|[petertseng/adventofcode-rb-2019](https://github.com/petertseng/adventofcode-rb-2019)|Solutions to http://adventofcode.com/2019 (complete)|14|2021-12-28|
 |105|[aozorahack/aozora2html](https://github.com/aozorahack/aozora2html)|-|14|2022-02-11|
 |106|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|13|2022-01-13|

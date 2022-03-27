@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Lua
-<sub>数据更新: 2022-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|526|2022-03-24|2021-06-19|
-|2|[linkease/istore](https://github.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|161|2022-03-24|2021-08-24|
-|3|[PanDownload-Fix/PanDownload-Fix](https://github.com/PanDownload-Fix/PanDownload-Fix)|PanDownload 修复版|75|2022-03-20|2021-09-03|
+|1|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|527|2022-03-27|2021-06-19|
+|2|[linkease/istore](https://github.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|162|2022-03-24|2021-08-24|
+|3|[PanDownload-Fix/PanDownload-Fix](https://github.com/PanDownload-Fix/PanDownload-Fix)|PanDownload 修复版|77|2022-03-20|2021-09-03|
 |4|[jerrykuku/luci-app-go-aliyundrive-webdav](https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav)|本项目是go-aliyun-webdav 的Luci 控制面板。|43|2021-11-10|2021-10-08|
 |5|[Eatsolx/nvim-lua](https://github.com/Eatsolx/nvim-lua)|基于nvchad的配置|23|2022-03-26|2021-10-02|
 |6|[h-hg/fcitx.nvim](https://github.com/h-hg/fcitx.nvim)|A Neovim plugin writing in Lua to switch and restore fcitx state for each buffer.|20|2021-12-11|2021-09-19|
