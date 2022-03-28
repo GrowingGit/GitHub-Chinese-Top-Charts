@@ -1,26 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Taoistzou/formation-control](https://github.com/Taoistzou/formation-control)|编队控制|8|3|2022-03-25|
-|2|[Taoistzou/preset-time-consensus](https://github.com/Taoistzou/preset-time-consensus)|预定义时间一致性|8|3|2022-03-25|
-|3|[Taoistzou/Distributed-finite-time-regulation-of-a-class-of-networked-heterogeneous-multi-agent-systems](https://github.com/Taoistzou/Distributed-finite-time-regulation-of-a-class-of-networked-heterogeneous-multi-agent-systems)|分布式有限时间异质多智能体系统一致性|8|3|2022-03-25|
-|4|[Taoistzou/fixed-time-consensus-with-input-time-delay](https://github.com/Taoistzou/fixed-time-consensus-with-input-time-delay)|输入时延下的固定是时延一致性|7|2|2022-03-25|
-|5|[Taoistzou/Fixed-time-consensus-algorithm-for-second-order-multi-agent-systems](https://github.com/Taoistzou/Fixed-time-consensus-algorithm-for-second-order-multi-agent-systems)|二阶多智能体系统固定时间一致性|7|2|2022-03-25|
-|6|[Taoistzou/Distributed-consensus-of-linear-multi-agent-systems-with-adaptive-dynamic-protocols](https://github.com/Taoistzou/Distributed-consensus-of-linear-multi-agent-systems-with-adaptive-dynamic-protocols)|具有自适应动态协议的线性多智能体系统的分布式一致性|7|2|2022-03-25|
-|7|[Taoistzou/event-triggered-consensus](https://github.com/Taoistzou/event-triggered-consensus)|事件触发一致性及其对应的文献|13|2|2022-03-22|
-|8|[Taoistzou/Fixed-Time-Consensus-Tracking-of-Heterogeneous-Multi-agent-Systems](https://github.com/Taoistzou/Fixed-Time-Consensus-Tracking-of-Heterogeneous-Multi-agent-Systems)|异质多智能体系统固定时间一致性跟踪|6|2|2022-03-25|
-|9|[Taoistzou/Second-Order-Consensus-Using-a-Fixed-Time-Convergent-Sliding-Surface-](https://github.com/Taoistzou/Second-Order-Consensus-Using-a-Fixed-Time-Convergent-Sliding-Surface-)|滑模控制二阶系统固定时间一致性|6|2|2022-03-25|
-|10|[Taoistzou/fixed-time-bipartite-consensus-of-multi-agent-system-with-disturbances](https://github.com/Taoistzou/fixed-time-bipartite-consensus-of-multi-agent-system-with-disturbances)|固定时间二分一致性|7|2|2022-03-25|
-|11|[Taoistzou/Scaled-consensus-of-second-order-multiagent-systems-](https://github.com/Taoistzou/Scaled-consensus-of-second-order-multiagent-systems-)|二阶系统比例一致性|6|2|2022-03-25|
+|1|[Taoistzou/formation-control](https://github.com/Taoistzou/formation-control)|编队控制|8|2|2022-03-25|
+|2|[Taoistzou/fixed-time-consensus-with-input-time-delay](https://github.com/Taoistzou/fixed-time-consensus-with-input-time-delay)|输入时延下的固定是时延一致性|7|2|2022-03-25|
+|3|[Taoistzou/Fixed-time-consensus-algorithm-for-second-order-multi-agent-systems](https://github.com/Taoistzou/Fixed-time-consensus-algorithm-for-second-order-multi-agent-systems)|二阶多智能体系统固定时间一致性|7|2|2022-03-25|
+|4|[Taoistzou/Distributed-consensus-of-linear-multi-agent-systems-with-adaptive-dynamic-protocols](https://github.com/Taoistzou/Distributed-consensus-of-linear-multi-agent-systems-with-adaptive-dynamic-protocols)|具有自适应动态协议的线性多智能体系统的分布式一致性|7|2|2022-03-25|
+|5|[Taoistzou/preset-time-consensus](https://github.com/Taoistzou/preset-time-consensus)|预定义时间一致性|8|2|2022-03-25|
+|6|[Taoistzou/event-triggered-consensus](https://github.com/Taoistzou/event-triggered-consensus)|事件触发一致性及其对应的文献|14|2|2022-03-22|
+|7|[Taoistzou/Fixed-Time-Consensus-Tracking-of-Heterogeneous-Multi-agent-Systems](https://github.com/Taoistzou/Fixed-Time-Consensus-Tracking-of-Heterogeneous-Multi-agent-Systems)|异质多智能体系统固定时间一致性跟踪|6|2|2022-03-25|
+|8|[Taoistzou/Second-Order-Consensus-Using-a-Fixed-Time-Convergent-Sliding-Surface-](https://github.com/Taoistzou/Second-Order-Consensus-Using-a-Fixed-Time-Convergent-Sliding-Surface-)|滑模控制二阶系统固定时间一致性|6|2|2022-03-25|
+|9|[Taoistzou/fixed-time-bipartite-consensus-of-multi-agent-system-with-disturbances](https://github.com/Taoistzou/fixed-time-bipartite-consensus-of-multi-agent-system-with-disturbances)|固定时间二分一致性|7|2|2022-03-25|
+|10|[Taoistzou/Scaled-consensus-of-second-order-multiagent-systems-](https://github.com/Taoistzou/Scaled-consensus-of-second-order-multiagent-systems-)|二阶系统比例一致性|6|2|2022-03-25|
+|11|[Taoistzou/Distributed-finite-time-regulation-of-a-class-of-networked-heterogeneous-multi-agent-systems](https://github.com/Taoistzou/Distributed-finite-time-regulation-of-a-class-of-networked-heterogeneous-multi-agent-systems)|分布式有限时间异质多智能体系统一致性|8|2|2022-03-25|
 |12|[Taoistzou/consensus-tracking-](https://github.com/Taoistzou/consensus-tracking-)|高阶系统固定时间一致性追踪|7|1|2022-03-22|
 |13|[Taoistzou/tracking-consensus-protocols-for-networked-Euler-Lagrangian-systems](https://github.com/Taoistzou/tracking-consensus-protocols-for-networked-Euler-Lagrangian-systems)|欧拉拉格朗系统一致性跟踪|6|1|2022-03-23|
-|14|[zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW)|Collaborative representation with background purification and saliency weight for hyperspectral anomaly detection|8|0|2022-01-10|
-|15|[weisongwen/researchTools](https://github.com/weisongwen/researchTools)|useful blogs for research|81|0|2022-03-24|
-|16|[zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW-](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW-)|This is the code for the paper nemed  'Anomaly Detection for Hyperspectral Imagery Based on the Regularized Subspace Method and Collaborative Representation'|16|0|2021-09-28|
+|14|[zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW)|Collaborative representation with background purification and saliency weight for hyperspectral anomaly detection|9|0|2022-01-10|
+|15|[weisongwen/researchTools](https://github.com/weisongwen/researchTools)|useful blogs for research|82|0|2022-03-24|
+|16|[zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW-](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-LSUNRSORAD-and-LSAD-CR-IDW-)|This is the code for the paper nemed  'Anomaly Detection for Hyperspectral Imagery Based on the Regularized Subspace Method and Collaborative Representation'|17|0|2021-09-28|
 |17|[zhenhua-chen1/Huawei-Cup-Postgraduate-Mathematical-Contest-in-Modelling](https://github.com/zhenhua-chen1/Huawei-Cup-Postgraduate-Mathematical-Contest-in-Modelling)|“华为杯”中国研究生数学建模竞赛相关优化类型的部分代码|3|0|2022-03-24|
 |18|[dong-hao/EM3DVP](https://github.com/dong-hao/EM3DVP)|EM3DVP: a Visual Package for 3D Geo-Electromagnetic modeling and inversion|25|0|2022-03-18|
 |19|[ohMyJason/face_Identification](https://github.com/ohMyJason/face_Identification)|期末课设_机器学习基础_基于BP神经网络的人脸识别|12|0|2022-03-14|
@@ -30,7 +30,7 @@
 |23|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|6|0|2022-03-16|
 |24|[zhyantao/genetic-algo-for-shortest-path](https://github.com/zhyantao/genetic-algo-for-shortest-path)|遗传算法解决最短路径问题 (两个出发点)|5|0|2021-12-25|
 |25|[BetterBench/2021-APMCM-Problem-A](https://github.com/BetterBench/2021-APMCM-Problem-A)|2021年亚太地区数学建模赛题A(图像边缘分析与应用) Halcon方案实现、代码、实验数据|4|0|2021-11-30|
-|26|[yqx7150/EDAEPRec](https://github.com/yqx7150/EDAEPRec)|Enhanced Denoising Auto-Encoding Priors for Reconstruction |7|0|2022-02-14|
+|26|[yqx7150/EDAEPRec](https://github.com/yqx7150/EDAEPRec)|Enhanced Denoising Auto-Encoding Priors for Reconstruction |8|0|2022-02-14|
 |27|[sychen-sjtu/RRT](https://github.com/sychen-sjtu/RRT)|基于matlab仿真的puma560机械臂RRT路径规划算法|4|0|2021-11-15|
 |28|[bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm](https://github.com/bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm)|-|8|0|2021-11-24|
 |29|[ScottXjw/Volterra_lms](https://github.com/ScottXjw/Volterra_lms)|Volterra_lms算法|2|0|2021-11-03|
@@ -50,7 +50,7 @@
 |43|[sjtu-jq/Image-registration](https://github.com/sjtu-jq/Image-registration)|Registration for power equipment infrared and visible images|20|0|2022-02-16|
 |44|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|0|2021-12-21|
 |45|[tjzhang1993/Infrared-image-processing](https://github.com/tjzhang1993/Infrared-image-processing)|用于处理红外热成像得到的图片|2|0|2021-11-29|
-|46|[WHUzxp/Supports_for_AEPS](https://github.com/WHUzxp/Supports_for_AEPS)|电力系统自动化《考虑电动汽车可调度潜力的充电站两阶段市场投标策略》源代码|11|0|2022-03-17|
+|46|[WHUzxp/Supports_for_AEPS](https://github.com/WHUzxp/Supports_for_AEPS)|电力系统自动化《考虑电动汽车可调度潜力的充电站两阶段市场投标策略》源代码|12|0|2022-03-17|
 |47|[woniuhuli/kdTree](https://github.com/woniuhuli/kdTree)|matlab实现对数据建立kd树，并且实现最近邻搜索|12|0|2021-12-14|
 |48|[nanguoyu/Captcha-recognition](https://github.com/nanguoyu/Captcha-recognition)|[CAIA I Lab 5] Captcha recognition implemented by Matlab  [CAIA I Lab 5]数字图像验证码识别 |5|0|2021-12-14|
 |49|[libai1943/AGV_Motion_Planning_with_Moving_Obstacles](https://github.com/libai1943/AGV_Motion_Planning_with_Moving_Obstacles)|Real-Time Trajectory Planning for AGV in the Presence of Moving Obstacles: A First-Search-Then-Optimization Approach|29|0|2022-01-24|

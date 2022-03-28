@@ -1,59 +1,59 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > C
-<sub>数据更新: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot)|我的超迷你机械臂机器人项目。|6874|2022-03-01|2021-10-07|
-|2|[peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot)|-|3512|2022-03-25|2022-03-11|
-|3|[easychen/pushdeer](https://github.com/easychen/pushdeer)|开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备|2406|2022-03-26|2021-12-16|
-|4|[ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL)|"POLARDB_11_STABLE" is the stable branch which is based on PostgreSQL 11.9.  It supports compute-storage separation architecture. The "distributed" branch, which supports distributed architecture.|2234|2022-03-26|2021-05-25|
-|5|[ehids/ecapture](https://github.com/ehids/ecapture)|capture SSL/TLS text content without CA cert by eBPF.|1321|2022-03-27|2022-03-13|
+|1|[peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot)|我的超迷你机械臂机器人项目。|6885|2022-03-01|2021-10-07|
+|2|[peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot)|-|3593|2022-03-25|2022-03-11|
+|3|[easychen/pushdeer](https://github.com/easychen/pushdeer)|开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备|2416|2022-03-26|2021-12-16|
+|4|[ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL)|"POLARDB_11_STABLE" is the stable branch which is based on PostgreSQL 11.9.  It supports compute-storage separation architecture. The "distributed" branch, which supports distributed architecture.|2235|2022-03-28|2021-05-25|
+|5|[ehids/ecapture](https://github.com/ehids/ecapture)|capture SSL/TLS text content without CA cert by eBPF.|1648|2022-03-28|2022-03-13|
 |6|[peng-zhihui/Peak](https://github.com/peng-zhihui/Peak)|Tiny Mobile Terminal Device Kit.|1116|2021-10-15|2021-10-10|
 |7|[bytedance/bhook](https://github.com/bytedance/bhook)|:pushpin: ByteHook is an android PLT hook library that supports armeabi-v7a, arm64-v8a, x86 and x86_64.|1076|2022-03-22|2021-08-11|
-|8|[alibaba/xquic](https://github.com/alibaba/xquic)|XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.|986|2022-03-18|2021-11-05|
-|9|[0voice/kernel_new_features](https://github.com/0voice/kernel_new_features)|一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等|784|2022-02-15|2022-01-17|
-|10|[joyycom/VNN](https://github.com/joyycom/VNN)|VNN是由欢聚集团(Joyy Inc.)推出的高性能、轻量级神经网络部署框架。目前已为Hago、VOO、VFly、马克相机等App提供20余种AI能力的支持，覆盖直播、短视频、视频编辑等泛娱乐场景和工程场景|701|2022-02-16|2021-12-07|
-|11|[bytedance/memory-leak-detector](https://github.com/bytedance/memory-leak-detector)|-|672|2022-02-18|2021-04-14|
-|12|[peng-zhihui/OpenHeat](https://github.com/peng-zhihui/OpenHeat)|-|626|2021-12-16|2021-09-05|
-|13|[baidu/dperf](https://github.com/baidu/dperf)|dperf is a DPDK based 100Gbps network performance and load testing software.|558|2022-03-27|2021-12-21|
-|14|[bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook)|:pushpin: ShadowHook is an android inline hook library that supports thumb, arm32 and arm64.|484|2022-03-27|2022-02-10|
+|8|[alibaba/xquic](https://github.com/alibaba/xquic)|XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.|987|2022-03-18|2021-11-05|
+|9|[0voice/kernel_new_features](https://github.com/0voice/kernel_new_features)|一个深挖 Linux 内核的新功能特性，以 io_uring, cgroup, ebpf, llvm 为代表，包含开源项目，代码案例，文章，视频，架构脑图等|785|2022-02-15|2022-01-17|
+|10|[joyycom/VNN](https://github.com/joyycom/VNN)|VNN是由欢聚集团(Joyy Inc.)推出的高性能、轻量级神经网络部署框架。目前已为Hago、VOO、VFly、马克相机等App提供20余种AI能力的支持，覆盖直播、短视频、视频编辑等泛娱乐场景和工程场景|701|2022-03-28|2021-12-07|
+|11|[bytedance/memory-leak-detector](https://github.com/bytedance/memory-leak-detector)|-|673|2022-03-28|2021-04-14|
+|12|[peng-zhihui/OpenHeat](https://github.com/peng-zhihui/OpenHeat)|-|627|2021-12-16|2021-09-05|
+|13|[baidu/dperf](https://github.com/baidu/dperf)|dperf is a DPDK based 100Gbps network performance and load testing software.|562|2022-03-28|2021-12-21|
+|14|[bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook)|:pushpin: ShadowHook is an android inline hook library that supports thumb, arm32 and arm64.|487|2022-03-28|2022-02-10|
 |15|[hydromisc/hydromisc](https://github.com/hydromisc/hydromisc)|Open hardware to measure EC and pH, drive pumps, and otherwise manage a mid-size hydroponic grow over Wi-Fi.|466|2022-01-03|2021-06-28|
-|16|[peng-zhihui/Ctrl-FOC-Lite](https://github.com/peng-zhihui/Ctrl-FOC-Lite)|-|422|2022-02-05|2021-08-07|
-|17|[Al1ex/WindowsElevation](https://github.com/Al1ex/WindowsElevation)|Windows Elevation(持续更新)|401|2022-02-19|2021-03-29|
+|16|[peng-zhihui/Ctrl-FOC-Lite](https://github.com/peng-zhihui/Ctrl-FOC-Lite)|-|424|2022-02-05|2021-08-07|
+|17|[Al1ex/WindowsElevation](https://github.com/Al1ex/WindowsElevation)|Windows Elevation(持续更新)|402|2022-02-19|2021-03-29|
 |18|[alibaba/Patrons](https://github.com/alibaba/Patrons)|🎉 A framework for improving android 32bit app stability. (Alleviate crashes caused by insufficient virtual memory)|322|2022-02-07|2021-06-15|
 |19|[ClimbSnail/HoloCubic_AIO](https://github.com/ClimbSnail/HoloCubic_AIO)|HoloCubic超多功能AIO固件 基于esp32-arduino的天气时钟、相册、视频播放、桌面投屏、web服务、bilibili粉丝等|299|2022-03-23|2021-05-30|
-|20|[riscv2os/riscv2os](https://github.com/riscv2os/riscv2os)|從 RISC-V 處理器到 UNIX 作業系統|251|2021-11-25|2021-07-27|
-|21|[Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation)|Linux Eelvation(持续更新)|229|2022-03-08|2021-03-30|
-|22|[hepingood/ssd1306](https://github.com/hepingood/ssd1306)|ssd1306 full function driver|206|2022-03-15|2021-05-16|
+|20|[riscv2os/riscv2os](https://github.com/riscv2os/riscv2os)|從 RISC-V 處理器到 UNIX 作業系統|252|2021-11-25|2021-07-27|
+|21|[Al1ex/LinuxEelvation](https://github.com/Al1ex/LinuxEelvation)|Linux Eelvation(持续更新)|229|2022-03-28|2021-03-30|
+|22|[hepingood/ssd1306](https://github.com/hepingood/ssd1306)|ssd1306 full function driver|212|2022-03-15|2021-05-16|
 |23|[maoabc/nmmp](https://github.com/maoabc/nmmp)|dex-vm used to protect the android classes.dex file|205|2022-03-18|2021-05-21|
 |24|[dwj0/Remote-management](https://github.com/dwj0/Remote-management)|远程桌面、RADMIN、SSH、VNC集中管理器|204|2021-12-06|2021-04-03|
-|25|[hepingood/w25qxx](https://github.com/hepingood/w25qxx)|w25qxx full function driver|189|2022-01-09|2021-08-22|
-|26|[hepingood/nrf24l01](https://github.com/hepingood/nrf24l01)|nrf24l01 full function driver|180|2022-03-25|2021-12-23|
-|27|[kenzok8/small-package](https://github.com/kenzok8/small-package)|自动同步更新上游库软件|173|2022-03-27|2021-09-05|
-|28|[luoyesiqiu/dpt-shell](https://github.com/luoyesiqiu/dpt-shell)|Android函数抽取壳实现|154|2022-03-07|2022-01-10|
+|25|[hepingood/w25qxx](https://github.com/hepingood/w25qxx)|w25qxx full function driver|198|2022-01-09|2021-08-22|
+|26|[hepingood/nrf24l01](https://github.com/hepingood/nrf24l01)|nrf24l01 full function driver|183|2022-03-25|2021-12-23|
+|27|[kenzok8/small-package](https://github.com/kenzok8/small-package)|自动同步更新上游库软件|173|2022-03-28|2021-09-05|
+|28|[luoyesiqiu/dpt-shell](https://github.com/luoyesiqiu/dpt-shell)|Android函数抽取壳实现|156|2022-03-07|2022-01-10|
 |29|[Kevincoooool/ESP_MASTER](https://github.com/Kevincoooool/ESP_MASTER)|ESP32-CAM with LVGL  Speech/Face Recognition  IR Control|153|2021-12-04|2021-08-26|
 |30|[smallzhong/hide_execute_memory](https://github.com/smallzhong/hide_execute_memory)|隐藏可执行内存|150|2021-12-27|2021-12-22|
-|31|[metartc/metaRTC](https://github.com/metartc/metaRTC)|pure C webrtc Libary|133|2022-03-26|2021-12-17|
-|32|[Rand312/xv6](https://github.com/Rand312/xv6)|-|123|2021-11-28|2021-10-29|
-|33|[yhnu/op7t](https://github.com/yhnu/op7t)|oneplus 7t 自定义内核(for 安卓逆向/外挂分析)|123|2022-03-17|2021-09-06|
-|34|[hepingood/ds18b20](https://github.com/hepingood/ds18b20)|ds18b20 full function driver|123|2022-01-10|2021-05-10|
+|31|[metartc/metaRTC](https://github.com/metartc/metaRTC)|pure C webrtc Libary|134|2022-03-28|2021-12-17|
+|32|[hepingood/ds18b20](https://github.com/hepingood/ds18b20)|ds18b20 full function driver|127|2022-01-10|2021-05-10|
+|33|[Rand312/xv6](https://github.com/Rand312/xv6)|-|124|2021-11-28|2021-10-29|
+|34|[yhnu/op7t](https://github.com/yhnu/op7t)|oneplus 7t 自定义内核(for 安卓逆向/外挂分析)|123|2022-03-17|2021-09-06|
 |35|[Harry-hhj/CVRM2021-sjtu](https://github.com/Harry-hhj/CVRM2021-sjtu)|2021赛季交龙哨兵代码开源|121|2021-10-09|2021-08-31|
-|36|[sakumisu/CherryUSB](https://github.com/sakumisu/CherryUSB)|Tiny and portable USB device/host stack for embedded system with USB IP|114|2022-03-27|2021-07-10|
-|37|[keke1023/Padavan](https://github.com/keke1023/Padavan)|基于hanwckf,chongshengB以及padavanonly的源码整合而来，支持7603/7615/7915的kvr|107|2022-03-15|2021-08-23|
-|38|[AttackTeamFamily/cobaltstrike-bof-toolset](https://github.com/AttackTeamFamily/cobaltstrike-bof-toolset)|在cobaltstrike中使用的bof工具集，收集整理验证好用的bof。|104|2021-11-08|2021-07-30|
+|36|[sakumisu/CherryUSB](https://github.com/sakumisu/CherryUSB)|Tiny and portable USB device/host stack for embedded system with USB IP|116|2022-03-27|2021-07-10|
+|37|[keke1023/Padavan](https://github.com/keke1023/Padavan)|基于hanwckf,chongshengB以及padavanonly的源码整合而来，支持7603/7615/7915的kvr|108|2022-03-15|2021-08-23|
+|38|[AttackTeamFamily/cobaltstrike-bof-toolset](https://github.com/AttackTeamFamily/cobaltstrike-bof-toolset)|在cobaltstrike中使用的bof工具集，收集整理验证好用的bof。|106|2021-11-08|2021-07-30|
 |39|[Core-2-Extreme/Video_player_for_3DS](https://github.com/Core-2-Extreme/Video_player_for_3DS)|Video player for 3ds|97|2022-03-24|2021-04-02|
 |40|[espressif/esp-box](https://github.com/espressif/esp-box)|The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.|94|2022-03-22|2021-10-20|
-|41|[u1f383/Software-Security-2021](https://github.com/u1f383/Software-Security-2021)|2021 交大程式安全 binary exploit 課程教材|92|2022-03-14|2021-11-24|
-|42|[Sunnyyoung/WeChatTweak-CLI](https://github.com/Sunnyyoung/WeChatTweak-CLI)|A command line utility to work with WeChatTweak-macOS - WeChatTweak 命令行工具|91|2022-03-20|2021-09-09|
+|41|[Sunnyyoung/WeChatTweak-CLI](https://github.com/Sunnyyoung/WeChatTweak-CLI)|A command line utility to work with WeChatTweak-macOS - WeChatTweak 命令行工具|94|2022-03-20|2021-09-09|
+|42|[u1f383/Software-Security-2021](https://github.com/u1f383/Software-Security-2021)|2021 交大程式安全 binary exploit 課程教材|92|2022-03-14|2021-11-24|
 |43|[o8oo8o/GoWebSSH](https://github.com/o8oo8o/GoWebSSH)|功能强大，Go 实现的一个WebSSH，支持文件上传下载|89|2022-03-12|2021-05-09|
 |44|[zwluoqi/mobile-visual-shader-editor](https://github.com/zwluoqi/mobile-visual-shader-editor)|一款跨平台着色器编辑工具|87|2021-10-10|2021-09-14|
 |45|[xboot/xfel](https://github.com/xboot/xfel)|Tiny FEL tools for allwinner SOC, support RISC-V D1 chip|77|2022-03-09|2021-05-25|
-|46|[zebin-wu/homekit-bridge](https://github.com/zebin-wu/homekit-bridge)|Let any device connect to Apple HomeKit.|76|2022-03-27|2021-03-29|
-|47|[Pangu-Immortal/KeepAlivePerfect](https://github.com/Pangu-Immortal/KeepAlivePerfect)|Android高级保活：Android4.4到Android12.0 完美的保活方案|71|2022-03-09|2021-05-10|
-|48|[hepingood/ws2812b](https://github.com/hepingood/ws2812b)|ws2812b full function driver|68|2022-01-09|2021-11-02|
-|49|[dnomd343/ClearDNS](https://github.com/dnomd343/ClearDNS)|容器化的无污染DNS服务|61|2022-03-26|2021-05-18|
+|46|[zebin-wu/homekit-bridge](https://github.com/zebin-wu/homekit-bridge)|Let any device connect to Apple HomeKit.|76|2022-03-28|2021-03-29|
+|47|[Pangu-Immortal/KeepAlivePerfect](https://github.com/Pangu-Immortal/KeepAlivePerfect)|Android高级保活：Android4.4到Android12.0 完美的保活方案|72|2022-03-09|2021-05-10|
+|48|[hepingood/ws2812b](https://github.com/hepingood/ws2812b)|ws2812b full function driver|69|2022-01-09|2021-11-02|
+|49|[dnomd343/ClearDNS](https://github.com/dnomd343/ClearDNS)|容器化的无污染DNS服务|61|2022-03-28|2021-05-18|
 |50|[mycve/bypassAV](https://github.com/mycve/bypassAV)|免杀 defender 360 cobalstrike shellcode|57|2021-12-23|2021-12-20|
 |51|[sunhuiquan/tlpi-learn](https://github.com/sunhuiquan/tlpi-learn)|My notes and solutions for The Linux Programing Interface book (TLPI)《UNIX/LINUX系统编程手册》笔记和解答|56|2021-11-07|2021-04-15|
 |52|[hkx3upper/FOKS-TROT](https://github.com/hkx3upper/FOKS-TROT)|minifilter双缓冲透明加解密过滤驱动|53|2022-03-24|2022-01-15|

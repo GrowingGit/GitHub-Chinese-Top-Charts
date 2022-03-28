@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|16|2022-03-25|2021-09-21|
-|2|[Taoistzou/event-triggered-consensus](https://github.com/Taoistzou/event-triggered-consensus)|事件触发一致性及其对应的文献|13|2022-03-22|2022-03-22|
+|2|[Taoistzou/event-triggered-consensus](https://github.com/Taoistzou/event-triggered-consensus)|事件触发一致性及其对应的文献|14|2022-03-22|2022-03-22|
 |3|[cggos/opt_matlab](https://github.com/cggos/opt_matlab)|最优化方法及其MATLAB实现 源代码|11|2021-10-07|2021-10-07|
-|4|[Taoistzou/formation-control](https://github.com/Taoistzou/formation-control)|编队控制|8|2022-03-25|2022-03-25|
-|5|[Taoistzou/Distributed-finite-time-regulation-of-a-class-of-networked-heterogeneous-multi-agent-systems](https://github.com/Taoistzou/Distributed-finite-time-regulation-of-a-class-of-networked-heterogeneous-multi-agent-systems)|分布式有限时间异质多智能体系统一致性|8|2022-03-25|2022-03-25|
-|6|[Taoistzou/preset-time-consensus](https://github.com/Taoistzou/preset-time-consensus)|预定义时间一致性|8|2022-03-25|2022-03-25|
-|7|[bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm](https://github.com/bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm)|-|8|2021-11-24|2021-10-15|
-|8|[zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW)|Collaborative representation with background purification and saliency weight for hyperspectral anomaly detection|8|2022-01-10|2021-07-04|
+|4|[zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW](https://github.com/zephyrhours/Hyperspectral-Anomaly-Detection-CRDBPSW)|Collaborative representation with background purification and saliency weight for hyperspectral anomaly detection|9|2022-01-10|2021-07-04|
+|5|[Taoistzou/formation-control](https://github.com/Taoistzou/formation-control)|编队控制|8|2022-03-25|2022-03-25|
+|6|[Taoistzou/Distributed-finite-time-regulation-of-a-class-of-networked-heterogeneous-multi-agent-systems](https://github.com/Taoistzou/Distributed-finite-time-regulation-of-a-class-of-networked-heterogeneous-multi-agent-systems)|分布式有限时间异质多智能体系统一致性|8|2022-03-25|2022-03-25|
+|7|[Taoistzou/preset-time-consensus](https://github.com/Taoistzou/preset-time-consensus)|预定义时间一致性|8|2022-03-25|2022-03-25|
+|8|[bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm](https://github.com/bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm)|-|8|2021-11-24|2021-10-15|
 |9|[zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles](https://github.com/zephyrhours/Hyperspectral-Change-Detection-Based-on-Multiple-Morphological-Profiles)|Hyperspectral Change Detection Based on Multiple Morphological Profiles|8|2022-02-25|2021-07-04|
 |10|[Taoistzou/fixed-time-bipartite-consensus-of-multi-agent-system-with-disturbances](https://github.com/Taoistzou/fixed-time-bipartite-consensus-of-multi-agent-system-with-disturbances)|固定时间二分一致性|7|2022-03-25|2022-03-25|
 |11|[Taoistzou/Distributed-consensus-of-linear-multi-agent-systems-with-adaptive-dynamic-protocols](https://github.com/Taoistzou/Distributed-consensus-of-linear-multi-agent-systems-with-adaptive-dynamic-protocols)|具有自适应动态协议的线性多智能体系统的分布式一致性|7|2022-03-25|2022-03-25|

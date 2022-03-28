@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Rust
-<sub>数据更新: 2022-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|261524|2022-03-11|
-|2|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7935|2022-03-24|
-|3|[sunface/rust-course](https://github.com/sunface/rust-course)|“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍|5031|2022-03-27|
-|4|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)|Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.|2610|2022-03-26|
-|5|[QMHTMY/RustBook](https://github.com/QMHTMY/RustBook)|A book about Rust Data Structures and Algorithms.|1713|2022-03-01|
+|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|261551|2022-03-11|
+|2|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|7937|2022-03-24|
+|3|[sunface/rust-course](https://github.com/sunface/rust-course)|“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程/书籍|5053|2022-03-28|
+|4|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)|Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev with challenging examples, exercises and projects.|2622|2022-03-28|
+|5|[QMHTMY/RustBook](https://github.com/QMHTMY/RustBook)|A book about Rust Data Structures and Algorithms.|1718|2022-03-01|
 |6|[skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust)|Learn Rust black magics by implementing an expression framework in database systems|729|2022-03-10|
-|7|[zu1k/copy-translator](https://github.com/zu1k/copy-translator)|简单、轻量、好用的划词翻译软件，利用DeepL翻译，无需注册api token|609|2021-12-27|
+|7|[zu1k/copy-translator](https://github.com/zu1k/copy-translator)|简单、轻量、好用的划词翻译软件，利用DeepL翻译，无需注册api token|608|2021-12-27|
 |8|[tyrchen/geektime-rust](https://github.com/tyrchen/geektime-rust)|我的极客时间 Rust 课程的代码仓库，随课程更新|457|2022-03-10|
 |9|[wtklbm/rust-library-i18n](https://github.com/wtklbm/rust-library-i18n)|完全由机器翻译自动生成的 Rust 标准库翻译，可作为 IDE 工具的智能提示，并生成本地 API 文档|389|2022-03-22|
 |10|[phodal/quake](https://github.com/phodal/quake)|Quake is a knowledge management meta-framework for geeks. Use meta-data + Transflow to CRUD data,  Git + markdown to management content, Web Component for frontend-custom. Quake 是面向极客的知识管理元框架。|324|2022-03-27|
-|11|[weihanglo/rust-algorithm-club](https://github.com/weihanglo/rust-algorithm-club)|Learn algorithms and data structures with Rust|280|2021-12-23|
-|12|[zhangyuang/leetcode](https://github.com/zhangyuang/leetcode)|solve questions in leetcode by Rust|255|2022-01-15|
-|13|[rust-lang-cn/book-cn](https://github.com/rust-lang-cn/book-cn)|Rust  程序设计语言 中文版——Chinese translation of The Rust Programming Language (Book)|209|2022-03-27|
+|11|[weihanglo/rust-algorithm-club](https://github.com/weihanglo/rust-algorithm-club)|Learn algorithms and data structures with Rust|281|2021-12-23|
+|12|[zhangyuang/leetcode](https://github.com/zhangyuang/leetcode)|solve questions in leetcode by Rust|256|2022-01-15|
+|13|[rust-lang-cn/book-cn](https://github.com/rust-lang-cn/book-cn)|Rust  程序设计语言 中文版——Chinese translation of The Rust Programming Language (Book)|211|2022-03-27|
 |14|[sunface/fancy-rust](https://github.com/sunface/fancy-rust)|Rust酷库推荐 - 使用我们精心挑选的开源代码，让你的Rust项目Fancy起来!    Written with ❤️ by course.rs team|161|2022-02-18|
 |15|[citahub/libsm](https://github.com/citahub/libsm)|A Rust Library of China's Standards of Encryption Algorithms (SM2/3/4)|112|2022-01-14|
 |16|[iolivia/rust-sokoban](https://github.com/iolivia/rust-sokoban)|Rust Sokoban book and code samples|111|2022-02-25|
