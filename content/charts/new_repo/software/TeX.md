@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2022-03-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|218|2022-03-28|2021-04-18|
+|1|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|218|2022-03-29|2021-04-18|
 |2|[jamesfang8499/physics1](https://github.com/jamesfang8499/physics1)|-|81|2022-03-27|2021-07-15|
 |3|[jamesfang8499/physics3](https://github.com/jamesfang8499/physics3)|-|34|2022-03-27|2021-07-15|
 |4|[jamesfang8499/physics2](https://github.com/jamesfang8499/physics2)|-|31|2022-03-27|2021-07-15|
@@ -18,11 +18,11 @@
 |11|[NelsonCheung-cn/SYSU-beamer-template](https://github.com/NelsonCheung-cn/SYSU-beamer-template)|a beamer template for sysu|11|2021-12-19|2021-06-16|
 |12|[nju-lug/NJUVisual](https://github.com/nju-lug/NJUVisual)|实现南京大学标准配色方案和标识|9|2022-03-01|2021-11-21|
 |13|[WoodyBryant/Report_Template](https://github.com/WoodyBryant/Report_Template)|Report_Template|9|2021-11-05|2021-09-19|
-|14|[syvshc/HITBeamer](https://github.com/syvshc/HITBeamer)|基于 THU-Beamer-Theme (https://github.com/Trinkle23897/THU-Beamer-Theme) 删删改改而成的 :bug:|9|2021-11-17|2021-05-17|
-|15|[ARS-MC/RRDC](https://github.com/ARS-MC/RRDC)|红石数电评论 Review of Redstonic Digital Circuit|8|2022-02-14|2022-01-22|
+|14|[ARS-MC/RRDC](https://github.com/ARS-MC/RRDC)|红石数电评论 Review of Redstonic Digital Circuit|8|2022-02-14|2022-01-22|
+|15|[syvshc/HITBeamer](https://github.com/syvshc/HITBeamer)|基于 THU-Beamer-Theme (https://github.com/Trinkle23897/THU-Beamer-Theme) 删删改改而成的 :bug:|8|2021-11-17|2021-05-17|
 |16|[TJ-CSCCG/Tongji-Beamer](https://github.com/TJ-CSCCG/Tongji-Beamer)|:page_facing_up: 同济大学 Beamer / 幻灯片 模板，一个其他大学 Beamer 模板的本土化套壳。|6|2022-02-22|2022-02-21|
-|17|[guoclay/interesting-project](https://github.com/guoclay/interesting-project)|一些有趣的项目|5|2021-09-30|2021-09-28|
-|18|[LeoJhonSong/UESTC-Glasgow-Final-Year-Report-Template](https://github.com/LeoJhonSong/UESTC-Glasgow-Final-Year-Report-Template)|电子科大格院毕设LaTeX模板|5|2022-02-03|2021-04-29|
+|17|[LeoJhonSong/UESTC-Glasgow-Final-Year-Report-Template](https://github.com/LeoJhonSong/UESTC-Glasgow-Final-Year-Report-Template)|电子科大格院毕设LaTeX模板|6|2022-03-29|2021-04-29|
+|18|[guoclay/interesting-project](https://github.com/guoclay/interesting-project)|一些有趣的项目|5|2021-09-30|2021-09-28|
 |19|[xiyie/UPC_LATEX_TEMPLATE](https://github.com/xiyie/UPC_LATEX_TEMPLATE)|中国石油大学（华东）控制科学与工程学院课题模板（不保证通用）|4|2021-10-01|2021-09-29|
 |20|[meat-project/meat-freshment-monitor-system](https://github.com/meat-project/meat-freshment-monitor-system)|NSYSU 畢業專題|4|2022-01-17|2021-07-21|
 |21|[AyaTheCrow/AyaCV](https://github.com/AyaTheCrow/AyaCV)|LaTeX中文简历模板|3|2022-03-01|2022-03-01|
@@ -31,7 +31,7 @@
 |24|[LLLgoyour/Handout](https://github.com/LLLgoyour/Handout)|王一老师上课配套的物理讲义|3|2022-01-10|2021-11-20|
 |25|[xyfJASON/CUMCM-2021-A](https://github.com/xyfJASON/CUMCM-2021-A)|CUMCM 2021 A，广东省一等奖|3|2021-10-07|2021-10-07|
 |26|[eshoyuan/SEU_Beamer_Template_Latex](https://github.com/eshoyuan/SEU_Beamer_Template_Latex)|Southeast University(SEU) beamer template 东南大学PPT模板 (已更新PowerPoint版本)|3|2022-01-11|2021-10-02|
-|27|[longyuan94/Technical-group](https://github.com/longyuan94/Technical-group)|专家组|3|2022-03-17|2021-09-23|
+|27|[longyuan94/Technical-group](https://github.com/longyuan94/Technical-group)|专家组|3|2022-03-29|2021-09-23|
 |28|[VohsiLiu/Probability-Problems](https://github.com/VohsiLiu/Probability-Problems)|概率论与数理统计（浙大第四版）课后习题整理|3|2021-12-25|2021-09-10|
 |29|[syvshc/exam](https://github.com/syvshc/exam)|考研复习时的好题|3|2022-03-01|2021-09-01|
 |30|[Chen-Jialin/CV](https://github.com/Chen-Jialin/CV)|基于 LaTeX 的个人中英简历。CV in Chinese and English version based on LaTeX.|3|2021-10-06|2021-06-23|
