@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Lua
-<sub>数据更新: 2022-03-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-03-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[ayamir/nvimdots](https://github.com/ayamir/nvimdots)|A well configured and structured Neovim.|532|2022-03-29|2021-06-19|
-|2|[linkease/istore](https://github.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|163|2022-03-24|2021-08-24|
+|2|[linkease/istore](https://github.com/linkease/istore)|一个 Openwrt 标准的软件中心，纯脚本实现，无二进制依赖。支持其它固件开发者集成到自己的固件里面。更方便小白搜索，下载插件。更方便开发者发布插件。|165|2022-03-24|2021-08-24|
 |3|[PanDownload-Fix/PanDownload-Fix](https://github.com/PanDownload-Fix/PanDownload-Fix)|PanDownload 修复版|79|2022-03-20|2021-09-03|
 |4|[jerrykuku/luci-app-go-aliyundrive-webdav](https://github.com/jerrykuku/luci-app-go-aliyundrive-webdav)|本项目是go-aliyun-webdav 的Luci 控制面板。|44|2021-11-10|2021-10-08|
 |5|[Eatsolx/nvim-lua](https://github.com/Eatsolx/nvim-lua)|基于nvchad的配置|23|2022-03-26|2021-10-02|
@@ -17,7 +17,7 @@
 |10|[yechentide/DSTServerManager](https://github.com/yechentide/DSTServerManager)|Don't Starve Together dedicated server manager / 饥荒傻瓜式服务器管理脚本 / Bug反馈QQ群927694504 / 准备使用Go语言写个TUI版本 <-- 已放弃hh|14|2022-03-25|2021-11-27|
 |11|[Muscipular/cgmsv-lua](https://github.com/Muscipular/cgmsv-lua)|cgmsv lua模块|14|2022-03-25|2021-06-30|
 |12|[TheDeNuke/Divergences-of-Darkness-Rework-Public](https://github.com/TheDeNuke/Divergences-of-Darkness-Rework-Public)|-|14|2022-02-19|2021-06-19|
-|13|[DeadlyBossMods/DBM-TBC-Classic](https://github.com/DeadlyBossMods/DBM-TBC-Classic)|The ultimate encounter helper (for TBC) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|10|2022-03-26|2021-04-01|
+|13|[DeadlyBossMods/DBM-TBC-Classic](https://github.com/DeadlyBossMods/DBM-TBC-Classic)|The ultimate encounter helper (for TBC) to give you fight info that's easy to process at a glance. DBM aims to focus on what's happening to you, and what YOU need to do about it.|10|2022-03-30|2021-04-01|
 |14|[zhandouxiaojiji/skynet-creator](https://github.com/zhandouxiaojiji/skynet-creator)|skynet脚手架|9|2022-02-13|2022-01-22|
 |15|[sg552/banana-waf](https://github.com/sg552/banana-waf)|非常简单好用的waf|9|2021-10-26|2021-10-26|
 |16|[d80x86/lua-resty-tofu](https://github.com/d80x86/lua-resty-tofu)|a modern api/web framework|9|2022-03-15|2021-08-23|
@@ -38,8 +38,11 @@
 |31|[chwt163/Mpv.netRrightClickMenuCN](https://github.com/chwt163/Mpv.netRrightClickMenuCN)|mpv.net 的中文右键菜单，以及 mpv osc.lua 主题外观|4|2022-03-23|2021-12-01|
 |32|[Miaow233/Dingtalk_createLike](https://github.com/Miaow233/Dingtalk_createLike)|一个钉钉点赞小工具，使用FusionApp制作|4|2022-02-26|2021-09-05|
 |33|[ywxt/rime-sunman](https://github.com/ywxt/rime-sunman)|山人输入方案|4|2021-10-07|2021-08-10|
-|34|[xiyoo0812/luaoop](https://github.com/xiyoo0812/luaoop)|一个 lua 面向对象机制的实现。|4|2022-02-23|2021-04-22|
-|35|[IoT-ThingsCloud/luat-thingscloud-libs](https://github.com/IoT-ThingsCloud/luat-thingscloud-libs)|这里是合宙模组 luat 方式接入 ThingsCloud 云平台的 lib 库，以及示例代码。|3|2022-01-09|2022-01-09|
+|34|[LYJ09X/V2ray-Pro](https://github.com/LYJ09X/V2ray-Pro)|免费梯子|4|2022-03-30|2021-08-05|
+|35|[xiyoo0812/luaoop](https://github.com/xiyoo0812/luaoop)|一个 lua 面向对象机制的实现。|4|2022-02-23|2021-04-22|
+|36|[tickbh/luojiawaf_lua](https://github.com/tickbh/luojiawaf_lua)|luojia waf openresty Web Application Firewall or API Gateway(应用防火墙/API网关) |3|2022-03-29|2022-03-14|
+|37|[sudoskys/Gitpuller](https://github.com/sudoskys/Gitpuller)|使用Androlua实现的一款Github&gitee手机浏览实例，包含GIThub api 类库封装，欢迎贡献|3|2022-02-16|2022-02-01|
+|38|[IoT-ThingsCloud/luat-thingscloud-libs](https://github.com/IoT-ThingsCloud/luat-thingscloud-libs)|这里是合宙模组 luat 方式接入 ThingsCloud 云平台的 lib 库，以及示例代码。|3|2022-01-09|2022-01-09|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
