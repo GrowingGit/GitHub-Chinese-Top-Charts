@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2022-03-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|316|2022-03-30|2022-01-05|
-|2|[tnfe/shida](https://github.com/tnfe/shida)|《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。|198|2022-02-15|2022-01-15|
-|3|[OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around)|自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。|90|2022-03-26|2021-05-19|
+|1|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|323|2022-03-31|2022-01-05|
+|2|[tnfe/shida](https://github.com/tnfe/shida)|《视搭》是一个视频可视化搭建项目。您可以通过简单的拖拽方式快速生产一个短视频，使用方式就像易企秀或百度 H5 等 h5 搭建工具一样的简单，仅抛砖引玉希望您喜欢。|199|2022-02-15|2022-01-15|
+|3|[OBKoro1/stop-mess-around](https://github.com/OBKoro1/stop-mess-around)|自律chrome浏览器插件：帮助你戒掉上班/学习期间下意识的在浏览器打开知乎等网站的习惯，往往一看就是几个小时过去了，插件会自动检测摸鱼网站, 提示激励信息后, 关闭摸鱼网站。|95|2022-03-26|2021-05-19|
 |4|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的下个主要版本|88|2022-03-30|2021-08-22|
 |5|[eryajf/eryajf.github.io](https://github.com/eryajf/eryajf.github.io)|大千世界，何其茫茫。谨此笔记，记录过往。凭君阅览，小站洛荒。如能收益，莫大奢望|39|2022-02-23|2021-05-24|
 |6|[toimc-team/front-end-notes](https://github.com/toimc-team/front-end-notes)|大前端课程电子书计划，前端知识总结 + 分享|30|2022-01-08|2021-04-16|
-|7|[SSmJaE/XueXiTonsSign_Electron](https://github.com/SSmJaE/XueXiTonsSign_Electron)|基于Electron的超星学习通签到小工具，支持手动签到、签到队列自动签到|27|2021-11-02|2021-04-19|
-|8|[Panyue-genkiyo/vue-advance](https://github.com/Panyue-genkiyo/vue-advance)|利用vue-cli脚手架学习vue核心知识(示例小项目)|21|2021-10-12|2021-09-21|
-|9|[Creator-SN/IKFB](https://github.com/Creator-SN/IKFB)|Involution King Fun Book (IKFB, Chinese: 快卷, 卷王快乐本) is an integrated management system for papers and literature. Powered by Electron.|21|2022-03-28|2021-09-20|
-|10|[mixmoe/HikariSearch](https://github.com/mixmoe/HikariSearch)|一款动漫图片搜索引擎聚合网站, 基于 Cloudflare 提供的 Pages Function. / A collection of anime image search engines, based on Cloudflare Pages Function.|20|2022-03-26|2022-02-20|
-|11|[Panyue-genkiyo/vue3-learning](https://github.com/Panyue-genkiyo/vue3-learning)|学习vue3.0的基础代码|20|2021-10-14|2021-10-12|
+|7|[SSmJaE/XueXiTonsSign_Electron](https://github.com/SSmJaE/XueXiTonsSign_Electron)|基于Electron的超星学习通签到小工具，支持手动签到、签到队列自动签到|28|2021-11-02|2021-04-19|
+|8|[Panyue-genkiyo/vue3-learning](https://github.com/Panyue-genkiyo/vue3-learning)|学习vue3.0的基础代码|21|2021-10-14|2021-10-12|
+|9|[Panyue-genkiyo/vue-advance](https://github.com/Panyue-genkiyo/vue-advance)|利用vue-cli脚手架学习vue核心知识(示例小项目)|21|2021-10-12|2021-09-21|
+|10|[Creator-SN/IKFB](https://github.com/Creator-SN/IKFB)|Involution King Fun Book (IKFB, Chinese: 快卷, 卷王快乐本) is an integrated management system for papers and literature. Powered by Electron.|21|2022-03-28|2021-09-20|
+|11|[mixmoe/HikariSearch](https://github.com/mixmoe/HikariSearch)|一款动漫图片搜索引擎聚合网站, 基于 Cloudflare 提供的 Pages Function. / A collection of anime image search engines, based on Cloudflare Pages Function.|20|2022-03-26|2022-02-20|
 |12|[daodaolee/vuepress-plugin-awesome-musicplayer](https://github.com/daodaolee/vuepress-plugin-awesome-musicplayer)|一款基于vuepress1.x插件的音乐播放器，打破以往博客音乐播放方式，让用户有更佳的沉浸式体验！|19|2022-03-27|2021-12-23|
-|13|[wangyupo/vue3-cookbook](https://github.com/wangyupo/vue3-cookbook)|vue3 组合式API、vuex、vue-router、axios、tailwindcss使用示例及代码展示，vue3 入门参考书，vue3 烹饪书 |15|2022-03-30|2022-03-10|
+|13|[wangyupo/vue3-cookbook](https://github.com/wangyupo/vue3-cookbook)|vue3 组合式API、vuex、vue-router、axios、tailwindcss使用示例及代码展示，vue3 入门参考书，vue3 烹饪书 |15|2022-03-31|2022-03-10|
 |14|[hyw123456/gugu](https://github.com/hyw123456/gugu)|咕咕语翻译器|15|2021-12-15|2021-12-15|
 |15|[jones2000/HQChart-Super](https://github.com/jones2000/HQChart-Super)|HQChart对接第3放数据教程.|13|2022-02-27|2021-10-11|
 |16|[cumt-robin/vue3-ts-blog-frontend](https://github.com/cumt-robin/vue3-ts-blog-frontend)|基于 vue3 + ts + ant-design-vue 的个人博客|13|2022-03-02|2021-08-19|
@@ -39,6 +39,11 @@
 |32|[cworld1/vue-learning](https://github.com/cworld1/vue-learning)|关于 CWorld 在学习 Vue 时的一些代码记录|6|2022-03-25|2022-01-20|
 |33|[zhiyu1998/Simplest](https://github.com/zhiyu1998/Simplest)|Vue3 + TypeScript + Vite2 + Vue-Router4 + Pinia + Element-plus 大道至简的博客前端|6|2022-01-27|2021-12-31|
 |34|[DiF1202/vue3.0_music](https://github.com/DiF1202/vue3.0_music)|因为本人超级喜欢听音乐，尤其喜欢网易云，所想开发一个音乐播放器，仅学习使用无任何商业用处，代码开源，若有问题可以多多交流。|6|2021-10-14|2021-09-15|
+|35|[acsoto/TakeawayDelivery](https://github.com/acsoto/TakeawayDelivery)|BUAA数据库课程设计|5|2021-12-16|2021-11-03|
+|36|[xiaobaichengxuyuan/aliyunShare](https://github.com/xiaobaichengxuyuan/aliyunShare)|阿里云分享加密解密|5|2022-01-28|2021-11-03|
+|37|[MrRainbowYoo/Music_Player](https://github.com/MrRainbowYoo/Music_Player)|🎵基于Vue的在线音乐播放器，部分UI参考网易云音乐，支持在线演示。本项目仅供参考学习。|5|2022-03-28|2021-06-12|
+|38|[a952543073/vue3-vite2-ts](https://github.com/a952543073/vue3-vite2-ts)|vue3-vite2-ts  脚手架 集合各大大佬的精华  开箱即用|4|2022-03-15|2022-03-04|
+|39|[hccici/vue_lab](https://github.com/hccici/vue_lab)|一些vue的常用技巧|4|2022-03-26|2021-07-01|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

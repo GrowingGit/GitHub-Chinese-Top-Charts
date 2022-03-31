@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-03-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -26,7 +26,7 @@
 |19|[ohMyJason/face_Identification](https://github.com/ohMyJason/face_Identification)|期末课设_机器学习基础_基于BP神经网络的人脸识别|12|0|2022-03-14|
 |20|[ShurenQi/MomentToolbox](https://github.com/ShurenQi/MomentToolbox)|Matlab code for the paper "A survey of orthogonal moments for image representation: Theory, implementation, and evaluation"|13|0|2021-11-25|
 |21|[Say-Hello2y/Path-planning-for-robots](https://github.com/Say-Hello2y/Path-planning-for-robots)|use Dijkstra 使用Dijkstra法实现了基于栅格地图的移动机器人路径规划|6|0|2021-12-29|
-|22|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|80|0|2022-03-27|
+|22|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|81|0|2022-03-27|
 |23|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|6|0|2022-03-16|
 |24|[zhyantao/genetic-algo-for-shortest-path](https://github.com/zhyantao/genetic-algo-for-shortest-path)|遗传算法解决最短路径问题 (两个出发点)|5|0|2021-12-25|
 |25|[BetterBench/2021-APMCM-Problem-A](https://github.com/BetterBench/2021-APMCM-Problem-A)|2021年亚太地区数学建模赛题A(图像边缘分析与应用) Halcon方案实现、代码、实验数据|4|0|2021-11-30|
@@ -49,7 +49,7 @@
 |42|[sjtu-jq/Image-registration](https://github.com/sjtu-jq/Image-registration)|Registration for power equipment infrared and visible images|20|0|2022-02-16|
 |43|[burning489/2021_autumn_numerical_linear_algebra](https://github.com/burning489/2021_autumn_numerical_linear_algebra)|数值线性代数代码示例|3|0|2021-12-21|
 |44|[tjzhang1993/Infrared-image-processing](https://github.com/tjzhang1993/Infrared-image-processing)|用于处理红外热成像得到的图片|2|0|2021-11-29|
-|45|[WHUzxp/Supports_for_AEPS](https://github.com/WHUzxp/Supports_for_AEPS)|电力系统自动化《考虑电动汽车可调度潜力的充电站两阶段市场投标策略》源代码|12|0|2022-03-17|
+|45|[WHUzxp/Supports_for_AEPS](https://github.com/WHUzxp/Supports_for_AEPS)|电力系统自动化《考虑电动汽车可调度潜力的充电站两阶段市场投标策略》源代码|13|0|2022-03-17|
 |46|[woniuhuli/kdTree](https://github.com/woniuhuli/kdTree)|matlab实现对数据建立kd树，并且实现最近邻搜索|12|0|2021-12-14|
 |47|[nanguoyu/Captcha-recognition](https://github.com/nanguoyu/Captcha-recognition)|[CAIA I Lab 5] Captcha recognition implemented by Matlab  [CAIA I Lab 5]数字图像验证码识别 |5|0|2021-12-14|
 |48|[libai1943/AGV_Motion_Planning_with_Moving_Obstacles](https://github.com/libai1943/AGV_Motion_Planning_with_Moving_Obstacles)|Real-Time Trajectory Planning for AGV in the Presence of Moving Obstacles: A First-Search-Then-Optimization Approach|29|0|2022-01-24|

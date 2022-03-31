@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Swift
-<sub>数据更新: 2022-03-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4129|2022-02-17|
-|2|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|1429|2022-03-28|
-|3|[wxxsw/SwiftUI-WeChat](https://github.com/wxxsw/SwiftUI-WeChat)|🇨🇳 Learn how to make WeChat with SwiftUI. 微信 7.0 🟢|806|2022-03-06|
-|4|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|804|2022-03-27|
+|1|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4131|2022-02-17|
+|2|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|1452|2022-03-28|
+|3|[wxxsw/SwiftUI-WeChat](https://github.com/wxxsw/SwiftUI-WeChat)|🇨🇳 Learn how to make WeChat with SwiftUI. 微信 7.0 🟢|808|2022-03-06|
+|4|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|804|2022-03-31|
 |5|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|381|2022-03-05|
-|6|[JmoVxia/CLDemo](https://github.com/JmoVxia/CLDemo)|记录平时博客中的Demo，持续更新|375|2022-02-14|
+|6|[JmoVxia/CLDemo](https://github.com/JmoVxia/CLDemo)|记录平时博客中的Demo，持续更新|376|2022-02-14|
 |7|[Liaoworking/Advanced-Swift](https://github.com/Liaoworking/Advanced-Swift)|Notes of Advanced Swift. 《swift进阶》学习笔记 swift 5.3|317|2022-02-11|
 |8|[ZamzamInc/ZamzamKit](https://github.com/ZamzamInc/ZamzamKit)|A Swift package for rapid development using a collection of micro utility extensions for Standard Library, Foundation, and other native frameworks.|255|2022-03-19|
 |9|[Noah37/zhuishushenqi](https://github.com/Noah37/zhuishushenqi)|追书神器Swift版客户端（非官方）。 不断更新中......|219|2022-01-06|
@@ -29,15 +29,14 @@
 |22|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo-Swift](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo-Swift)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|16|2022-03-24|
 |23|[tw93/MiaoYan](https://github.com/tw93/MiaoYan)|⛷  轻灵的 Mac Markdown 笔记本伴你写出妙言|14|2022-03-28|
 |24|[coyingcat/15DaysofAnimationsinSwift](https://github.com/coyingcat/15DaysofAnimationsinSwift)|Swift，学习动画，升级原版本 ， larrynatalicio/15DaysofAnimationsinSwift|9|2022-01-26|
-|25|[LINGLemon/LXFSwiftApp](https://github.com/LINGLemon/LXFSwiftApp)|学习swift记录使用|8|2021-09-29|
-|26|[fanyunfei786452470/learningSwift](https://github.com/fanyunfei786452470/learningSwift)|基于swift4.2和swift5.5的语言、框架、项目学习|6|2022-02-24|
-|27|[DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift)|This demo teaches you how to import and activate DJI SDK in your Xcode project using Swift.|6|2022-03-24|
-|28|[flywo/SwiftKnowledgePoint](https://github.com/flywo/SwiftKnowledgePoint)|swift3知识点，温故而知新！|6|2021-12-01|
-|29|[Li-JianXin/Swift_Leetcode](https://github.com/Li-JianXin/Swift_Leetcode)|leetcode学习|5|2022-01-19|
+|25|[fanyunfei786452470/learningSwift](https://github.com/fanyunfei786452470/learningSwift)|基于swift4.2和swift5.5的语言、框架、项目学习|6|2022-02-24|
+|26|[DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift)|This demo teaches you how to import and activate DJI SDK in your Xcode project using Swift.|6|2022-03-24|
+|27|[flywo/SwiftKnowledgePoint](https://github.com/flywo/SwiftKnowledgePoint)|swift3知识点，温故而知新！|6|2021-12-01|
+|28|[Li-JianXin/Swift_Leetcode](https://github.com/Li-JianXin/Swift_Leetcode)|leetcode学习|5|2022-01-19|
+|29|[christhoper/WorkingIssues](https://github.com/christhoper/WorkingIssues)|记录一些工作上的问题、优秀博客等|5|2022-02-23|
 |30|[Hardercoder/blog](https://github.com/Hardercoder/blog)|博客记录|5|2021-10-15|
-|31|[christhoper/WorkingIssues](https://github.com/christhoper/WorkingIssues)|记录一些工作上的问题、优秀博客等|4|2021-11-23|
-|32|[zhuzhuxingtianxia/GitBlog](https://github.com/zhuzhuxingtianxia/GitBlog)|github博客~ios|3|2021-12-10|
-|33|[zhangzhb369/x-reader-languages](https://github.com/zhangzhb369/x-reader-languages)|Txt,Pdf,Epub,Mobi,Azw book reader for iOS/iPad/Mac OS. 苹果多平台文档阅读器.多语言翻译工程.|3|2021-12-04|
+|31|[zhuzhuxingtianxia/GitBlog](https://github.com/zhuzhuxingtianxia/GitBlog)|github博客~ios|3|2021-12-10|
+|32|[zhangzhb369/x-reader-languages](https://github.com/zhangzhb369/x-reader-languages)|Txt,Pdf,Epub,Mobi,Azw book reader for iOS/iPad/Mac OS. 苹果多平台文档阅读器.多语言翻译工程.|3|2021-12-04|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
