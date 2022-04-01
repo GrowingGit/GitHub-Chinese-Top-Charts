@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2022-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -12,7 +12,7 @@
 |5|[pearroom/DelphiWebMVC](https://github.com/pearroom/DelphiWebMVC)|delphi在web系统开发上没有像java或php 这样方便，对于一直使用delphi的工程师来说是个遗憾，因此使用delphi技术开发了一套Web框架，使用MVC模式，让工程师只需把精力放在模型与视图的设计上，让delphi开发web系统更方便|26|0|2022-03-09|
 |6|[PassByYou888/ZNet](https://github.com/PassByYou888/ZNet)|ZServer4D 2.0的进化版本，也是未来对p2pVM，云服务器，SAAS系统支持的核心项目|22|0|2022-03-31|
 |7|[yangyxd/YxdIOCP](https://github.com/yangyxd/YxdIOCP)|Delphi Windows IOCP 通讯模型封装，基于DIOCP。YxdIocp包含有支持大并发的TCP服务组件、HTTP服务组件、UDP服务组件、WebSocket服务组件，和TCP、UDP等基础客户端组件。|77|0|2022-01-14|
-|8|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|444|0|2022-03-31|
+|8|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|445|0|2022-03-31|
 |9|[59079096/HCView-Pascal](https://github.com/59079096/HCView-Pascal)|A control similar to Word or WPS(一个类似word或wps用于文字排版相关功能的控件)|65|0|2022-03-27|
 |10|[hkoi/hkoi-solutions](https://github.com/hkoi/hkoi-solutions)|HKOI Final Event solutions|10|0|2022-02-03|
 |11|[ying32/liblcl](https://github.com/ying32/liblcl)|A common cross-platform GUI library, the core uses Lazarus LCL.|65|0|2022-03-12|
@@ -24,11 +24,11 @@
 |17|[axpokl/midiplayer3-for-BLACK-MIDI](https://github.com/axpokl/midiplayer3-for-BLACK-MIDI)|Free Pascal midiplayer3 for Black MIDI by ax_pokl|12|0|2022-03-31|
 |18|[dbyoung720/PBox](https://github.com/dbyoung720/PBox)|The modular development platform based on DLL Form|37|0|2022-03-19|
 |19|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker for Windows|35|0|2021-12-14|
-|20|[digao-dalpiaz/DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|97|0|2022-03-27|
-|21|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|250|0|2022-03-30|
+|20|[digao-dalpiaz/DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|98|0|2022-03-27|
+|21|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|250|0|2022-04-01|
 |22|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|201|0|2022-03-26|
 |23|[ying32/res2go-ide-plugin](https://github.com/ying32/res2go-ide-plugin)|res2go Lazarus IDE plug-in|14|0|2022-02-25|
-|24|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|278|0|2022-02-24|
+|24|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|279|0|2022-02-24|
 |25|[59079096/emr](https://github.com/59079096/emr)|基于HCView开发的电子病历程序|36|0|2022-03-20|
 |26|[supersoho/Delphi-DirectUI](https://github.com/supersoho/Delphi-DirectUI)|Delphi DirectUI Controls|52|0|2022-02-20|
 |27|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|31|0|2021-12-14|

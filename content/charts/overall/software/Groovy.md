@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Groovy
-<sub>数据更新: 2022-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2261|2022-03-11|
+|1|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|2263|2022-03-11|
 |2|[luckybilly/AutoRegister](https://github.com/luckybilly/AutoRegister)|基于字节码插桩，在Android中实现跨module自动注册的gradle插件，可用于模块解耦。已应用于ARouter和CC|1032|2022-03-25|
 |3|[gogradle/gogradle](https://github.com/gogradle/gogradle)|A Gradle Plugin Providing Full Support for Go|757|2021-10-11|
 |4|[chenenyu/img-optimizer-gradle-plugin](https://github.com/chenenyu/img-optimizer-gradle-plugin)|一款用于优化png图片的gradle插件，有效减少APK体积，支持极限压缩和无损压缩。|749|2022-02-21|
@@ -23,7 +23,7 @@
 |16|[Peakmain/AsmActualCombat](https://github.com/Peakmain/AsmActualCombat)|ASM实战——埋点|12|2022-03-27|
 |17|[dqzboy/DevOps](https://github.com/dqzboy/DevOps)|CICD流水线|11|2022-03-08|
 |18|[wzbos/chihiro](https://github.com/wzbos/chihiro)|🔥🔥 安卓组件化插件 🔥🔥 支持多工程联调、组件快速发布到Maven私服、企业微信机器人、钉钉机器人、自定义webhook|10|2022-03-10|
-|19|[ihub-pub/plugins](https://github.com/ihub-pub/plugins)|IHub Plugins：一套Gradle插件集，封装了常用Gradle插件，并做了一些个性化缺省配置，极大的简化项目管理配置。|8|2022-03-31|
+|19|[ihub-pub/plugins](https://github.com/ihub-pub/plugins)|IHub Plugins：一套Gradle插件集，封装了常用Gradle插件，并做了一些个性化缺省配置，极大的简化项目管理配置。|8|2022-04-01|
 |20|[keepLove/android-jiagu-plugin](https://github.com/keepLove/android-jiagu-plugin)|360加固Gradle插件|7|2022-01-14|
 |21|[TabooLib/shrinking-kotlin](https://github.com/TabooLib/shrinking-kotlin)|Reduce file size after Kotlin compilation|5|2022-02-11|
 |22|[xams-creator/navicat-resetter](https://github.com/xams-creator/navicat-resetter)|重置navicat激活时间的IDEA跨平台插件 |5|2022-01-18|

@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > C#
-<sub>数据更新: 2022-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)|PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等|4635|2022-03-31|
-|2|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|3724|2022-03-25|
-|3|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|2531|2022-03-22|
+|1|[wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)|PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等|4647|2022-04-01|
+|2|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 6.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|3726|2022-04-01|
+|3|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|2535|2022-03-22|
 |4|[sidristij/dotnetbook](https://github.com/sidristij/dotnetbook)|.NET Platform Architecture book (English, Chinese, Russian)|1838|2022-02-09|
-|5|[YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)|🦸【C#/.NET/.NET Core学习、工作、面试指南】概述：C#/.NET/.NET Core基础知识，学习资料、文章、书籍，社区组织，工具和常见的面试题总结。以及面试时需要注意的事项和优秀简历编写技巧，希望能和大家一起成长进步👊。【让现在的自己不再迷茫✨】|999|2022-03-29|
+|5|[YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)|🦸【C#/.NET/.NET Core学习、工作、面试指南】概述：C#/.NET/.NET Core基础知识，学习资料、文章、书籍，社区组织，工具和常见的面试题总结。以及面试时需要注意的事项和优秀简历编写技巧，希望能和大家一起成长进步👊。【让现在的自己不再迷茫✨】|1001|2022-03-29|
 |6|[kengwang/BiliDuang](https://github.com/kengwang/BiliDuang)|(项目正在重构) Bilibili 哔哩哔哩视频下载 C# GUI版 - 支持BV 支持4K 支持地区限制下载 支持互动视频 支持无水印 支持弹幕/字幕下载转换 支持课程下载|790|2022-03-23|
 |7|[xixixixixiao/mooc-downloader](https://github.com/xixixixixiao/mooc-downloader)|An icourse163.org MOOC downloader implemented by .NET. 一枚由 .NET 实现的中国大学 MOOC 下载器.|631|2022-03-22|
-|8|[dotnetcore/sharding-core](https://github.com/dotnetcore/sharding-core)|high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵|545|2022-03-30|
+|8|[dotnetcore/sharding-core](https://github.com/dotnetcore/sharding-core)|high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵|547|2022-04-01|
 |9|[luoyunchong/lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore)|😃A simple and practical CMS implemented by .NET 6 + FreeSql；前后端分离、Docker部署、OAtuh2授权登录、自动化部署DevOps、自动同步至Gitee、代码生成器、仿掘金专栏|539|2022-03-27|
-|10|[2881099/FreeRedis](https://github.com/2881099/FreeRedis)|🦄 FreeRedis is .NET40+ redis client. supports cluster, sentinel, master-slave, pub-sub, lua, pipeline, transaction, streams, client-side-caching, and pooling.|515|2022-03-31|
+|10|[2881099/FreeRedis](https://github.com/2881099/FreeRedis)|🦄 FreeRedis is .NET40+ redis client. supports cluster, sentinel, master-slave, pub-sub, lua, pipeline, transaction, streams, client-side-caching, and pooling.|516|2022-03-31|
 |11|[YukiCoco/YukiDrive](https://github.com/YukiCoco/YukiDrive)|Onedrive & SharePoint 文件浏览网页程序|476|2022-02-27|
 |12|[ZetaSp/PowerToys-Chinese-TransMOD](https://github.com/ZetaSp/PowerToys-Chinese-TransMOD)|PowerToys Custom Simplified Chinese Translation Patch - 微软大力玩具自制简中翻译|305|2022-03-27|
-|13|[axzxs2001/Asp.NetCoreExperiment](https://github.com/axzxs2001/Asp.NetCoreExperiment)|原来所有项目都移动到**OleVersion**目录下进行保留。新的案例装以.net 5.0为主，一部分对以前案例进行升级，一部分将以前的工作经验总结出来，以供大家参考！|304|2022-03-31|
+|13|[axzxs2001/Asp.NetCoreExperiment](https://github.com/axzxs2001/Asp.NetCoreExperiment)|原来所有项目都移动到**OleVersion**目录下进行保留。新的案例装以.net 5.0为主，一部分对以前案例进行升级，一部分将以前的工作经验总结出来，以供大家参考！|304|2022-04-01|
 |14|[superzhan/UnityBubbleGame](https://github.com/superzhan/UnityBubbleGame)|   BubbleGame《天天萌泡泡》是一款简单好玩的消除游戏，点击三个或以上同颜色、相连接的泡泡来进行消除，简单而有趣。|282|2021-10-19|
 |15|[xyfll7/CV-translation](https://github.com/xyfll7/CV-translation)|我叫CV翻译，因为我的精髓就是Ctrl + c 不用v  （原名QTranser）|213|2022-03-08|
 |16|[BoyanTata/AP01](https://github.com/BoyanTata/AP01)|A向TA入门课工程文件|209|2022-02-09|
@@ -31,13 +31,13 @@
 |24|[dotnet-campus/AsyncWorkerCollection](https://github.com/dotnet-campus/AsyncWorkerCollection)|高性能的多线程异步工具库。A collection of tools that support asynchronous methods and support high-performance multithreading.|110|2022-03-02|
 |25|[Isayama-Kagura/TsubakiTranslator](https://github.com/Isayama-Kagura/TsubakiTranslator)|一款Galgame文本提取和翻译的工具|108|2022-03-19|
 |26|[944095635/MVVM](https://github.com/944095635/MVVM)|适合新人学习的WPF MVVM案例|103|2021-11-28|
-|27|[Liu233w/acm-statistics](https://github.com/Liu233w/acm-statistics)|An online tool (crawler) to analyze users performance in online judges (coding competition websites). Supported OJ: POJ, HDU, HYSBZ, CodeForces, UVA, ICPC Live Archive, FZU, SPOJ, Timus (URAL), LeetCo ...|102|2022-03-31|
+|27|[Liu233w/acm-statistics](https://github.com/Liu233w/acm-statistics)|An online tool (crawler) to analyze users performance in online judges (coding competition websites). Supported OJ: POJ, HDU, HYSBZ, CodeForces, UVA, ICPC Live Archive, FZU, SPOJ, Timus (URAL), LeetCo ...|102|2022-04-01|
 |28|[WeihanLi/DesignPatterns](https://github.com/WeihanLi/DesignPatterns)|DesignPatterns samples by csharp on dotnetcore 《大话设计模式》 中设计模式总结/C#(.NETCore)代码|95|2022-03-15|
 |29|[luoyunchong/dotnetcore-examples](https://github.com/luoyunchong/dotnetcore-examples)| about learning DotNetCore via examples. DotNetCore 教程、技术栈示例代码，快速简单上手教程。|92|2022-03-25|
-|30|[lindexi/lindexi_gd](https://github.com/lindexi/lindexi_gd)|博客用到的代码|87|2022-03-30|
-|31|[taecg/ShaderReference](https://github.com/taecg/ShaderReference)|针对Unity的Shader参考大全|79|2022-03-16|
+|30|[lindexi/lindexi_gd](https://github.com/lindexi/lindexi_gd)|博客用到的代码|88|2022-03-30|
+|31|[taecg/ShaderReference](https://github.com/taecg/ShaderReference)|针对Unity的Shader参考大全|79|2022-04-01|
 |32|[sdcb/blog-data](https://github.com/sdcb/blog-data)|《.NET骚操作》的博客数据|74|2021-12-14|
-|33|[HenJigg/MyToDoApp](https://github.com/HenJigg/MyToDoApp)|该项目为2022年WPF项目实战合集源代码|71|2022-01-19|
+|33|[HenJigg/MyToDoApp](https://github.com/HenJigg/MyToDoApp)|该项目为2022年WPF项目实战合集源代码|72|2022-01-19|
 |34|[cyanray/cx-auto-sign](https://github.com/cyanray/cx-auto-sign)|⭐超星学习通自动签到工具，通过IM协议监测签到活动。|52|2022-01-07|
 |35|[huanlin/LearningNotes](https://github.com/huanlin/LearningNotes)|學習筆記，主要是 C# 與 .NET 技術。|45|2022-03-20|
 |36|[zhaoqingqing/blog_samplecode](https://github.com/zhaoqingqing/blog_samplecode)|my blog code snippet(代码片段) |43|2022-03-30|

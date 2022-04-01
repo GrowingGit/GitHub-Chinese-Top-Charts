@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Objective-C
-<sub>数据更新: 2022-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2406|2|2022-03-07|
-|2|[LGCooci/KCiOSGrocery](https://github.com/LGCooci/KCiOSGrocery)|iOS开发杂货铺: 面试题+考试试卷+懒人开发tips|474|1|2022-02-22|
-|3|[wwmz/WMZPageController](https://github.com/wwmz/WMZPageController)|分页控制器,替换UIPageController方案,具备完整的生命周期,多种指示器样式,多种标题样式,可悬浮,支持ios13暗黑模式(仿优酷,爱奇艺,今日头条,简书,京东等多种标题菜单) (Pagination controller with full life cycle, multiple indicator styles, multiple title styles)|580|1|2022-03-16|
+|1|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2409|2|2022-03-07|
+|2|[LGCooci/KCiOSGrocery](https://github.com/LGCooci/KCiOSGrocery)|iOS开发杂货铺: 面试题+考试试卷+懒人开发tips|475|1|2022-02-22|
+|3|[wwmz/WMZPageController](https://github.com/wwmz/WMZPageController)|分页控制器,替换UIPageController方案,具备完整的生命周期,多种指示器样式,多种标题样式,可悬浮,支持ios13暗黑模式(仿优酷,爱奇艺,今日头条,简书,京东等多种标题菜单) (Pagination controller with full life cycle, multiple indicator styles, multiple title styles)|581|1|2022-03-16|
 |4|[HeathWang/HWPanModal](https://github.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|912|1|2022-03-31|
 |5|[objccn/articles](https://github.com/objccn/articles)|Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本|2093|1|2021-11-02|
 |6|[H2OB/FFPage](https://github.com/H2OB/FFPage)|类似微博个人主页、抖音个人主页、简书个人主页的控件，支持刷新放大，可悬浮组件|33|0|2022-01-02|
@@ -28,8 +28,8 @@
 |21|[zhwIdea/WKWebViewAndJS](https://github.com/zhwIdea/WKWebViewAndJS)|WKWebView与H5交互，JS调OC传值、OC调JS传值，常用的H5页面返回到原生、原生调用H5按钮事件等；webview进度条加载；无需借助第三方框架，超级实用，干货满满！|9|0|2022-02-21|
 |22|[DJI-Mobile-SDK-Tutorials/iOS-SimulatorDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-SimulatorDemo)|This demo shows you how to use the DJISimulator of DJI Mobile SDK.|17|0|2022-03-24|
 |23|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|1.抖音视频转场动画, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok  2.铃声多多,上传铃声音频到库乐队(GarageBand) 3.微博主页、简书主页等。多页面嵌套列表分页滚动，上下滑动，左右滑动切换页面。类似TableView共用HeaderView悬浮,仿头条标签编辑,铃声多多音乐播放界面(豆瓣电影主页)。|326|0|2022-03-15|
-|24|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|462|0|2021-12-24|
-|25|[aolan/iOS_Develop](https://github.com/aolan/iOS_Develop)|该文档都是日常开发过程中解决问题的经验总结。|7|0|2022-03-28|
+|24|[faisalmemon/ios-crash-dump-analysis-book](https://github.com/faisalmemon/ios-crash-dump-analysis-book)|iOS Crash Dump Analysis Book|464|0|2021-12-24|
+|25|[aolan/iOS_Develop](https://github.com/aolan/iOS_Develop)|该文档都是日常开发过程中解决问题的经验总结。|7|0|2022-04-01|
 |26|[inverse-inc/sogo](https://github.com/inverse-inc/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1234|0|2022-03-31|
 |27|[Lin-Bing/SampleCode](https://github.com/Lin-Bing/SampleCode)|博客相关代码示例|8|0|2022-03-02|
 |28|[kopuCoder/iOS_Development-Book](https://github.com/kopuCoder/iOS_Development-Book)|适合iOS中高级开发工程狮提升个人能力业务水平的书籍|85|0|2021-11-01|
@@ -38,7 +38,7 @@
 |31|[zhangxistudy11/KnowledgeSummaryOfObjectC](https://github.com/zhangxistudy11/KnowledgeSummaryOfObjectC)|本项目集合了我写的很多Demo，以及封装的工具类，大部分Demo的实现思路、技巧、细节我都会对应一篇简书的文章：http://www.jianshu.com/u/c4d558e26604   |4|0|2021-12-26|
 |32|[zhangzhongyan/FSGridView](https://github.com/zhangzhongyan/FSGridView)|iOS网格视图，主要用于类似股票、课程表、属性表。 使用CollectionViewCell定制，重用机制，标准数据源委托协议，更容易嵌入。|7|0|2022-03-24|
 |33|[wcly/blog](https://github.com/wcly/blog)|个人博客|5|0|2022-02-18|
-|34|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|445|0|2022-01-06|
+|34|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|446|0|2022-01-06|
 |35|[SmartPear/NavigationTest](https://github.com/SmartPear/NavigationTest)|工具类集合 侧滑菜单栏展示，扇形显示文字。 增加富文本 使用TideLayer大图切片显示 完美导航栏渐变效果|3|0|2021-12-23|
 |36|[yungfan/iOS-continuous-learning](https://github.com/yungfan/iOS-continuous-learning)|不断学习中写的案例|38|0|2021-12-15|
 |37|[bytesking/YJCategories](https://github.com/bytesking/YJCategories)|Objective-C 常用分类集合，支持Cocoapods|89|0|2022-01-30|
