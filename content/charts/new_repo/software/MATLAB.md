@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2022-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|18|2022-03-25|2021-09-21|
+|1|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform 多任务优化平台|20|2022-03-25|2021-09-21|
 |2|[Taoistzou/event-triggered-consensus](https://github.com/Taoistzou/event-triggered-consensus)|事件触发一致性及其对应的文献|15|2022-03-22|2022-03-22|
 |3|[cggos/opt_matlab](https://github.com/cggos/opt_matlab)|最优化方法及其MATLAB实现 源代码|11|2021-10-07|2021-10-07|
 |4|[Taoistzou/formation-control](https://github.com/Taoistzou/formation-control)|编队控制|9|2022-03-25|2022-03-25|
@@ -24,7 +24,7 @@
 |17|[Taoistzou/Fixed-Time-Consensus-Tracking-of-Heterogeneous-Multi-agent-Systems](https://github.com/Taoistzou/Fixed-Time-Consensus-Tracking-of-Heterogeneous-Multi-agent-Systems)|异质多智能体系统固定时间一致性跟踪|6|2022-03-25|2022-03-25|
 |18|[Taoistzou/tracking-consensus-protocols-for-networked-Euler-Lagrangian-systems](https://github.com/Taoistzou/tracking-consensus-protocols-for-networked-Euler-Lagrangian-systems)|欧拉拉格朗系统一致性跟踪|6|2022-03-23|2022-03-23|
 |19|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|5|2021-12-29|2021-12-01|
-|20|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|5|2022-03-08|2021-08-03|
+|20|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|5|2022-04-02|2021-08-03|
 |21|[heihei2122/mag_cuboid](https://github.com/heihei2122/mag_cuboid)|a gui or app based matlab to calculate B  force stiffness  矩形磁体的计算|5|2022-03-04|2021-07-25|
 |22|[suntong-1221/EV_Model](https://github.com/suntong-1221/EV_Model)|纯电动汽车simulink模型|4|2022-02-22|2022-02-10|
 |23|[a839290771/SSVEP-BCI-OpenBCI](https://github.com/a839290771/SSVEP-BCI-OpenBCI)|基于OpenBCI（Bciduino）完成的SSVEP项目，包括刺激器、信号实时传输、以及基于FFT方式的信号处理|4|2022-02-11|2022-01-13|

@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Jupyter Notebook
-<sub>数据更新: 2022-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|1320|2022-03-15|2021-04-07|
-|2|[enpeizhao/CVprojects](https://github.com/enpeizhao/CVprojects)|computer vision projects    计算机视觉等好玩的AI项目|389|2022-03-23|2021-11-22|
-|3|[4paradigm/AutoX](https://github.com/4paradigm/AutoX)|AutoX is an efficient automl tool, which is mainly aimed at data mining tasks with tabular data.|234|2022-03-31|2021-07-21|
+|1|[yangxy/GPEN](https://github.com/yangxy/GPEN)|-|1326|2022-03-15|2021-04-07|
+|2|[enpeizhao/CVprojects](https://github.com/enpeizhao/CVprojects)|computer vision projects    计算机视觉等好玩的AI项目|392|2022-03-23|2021-11-22|
+|3|[4paradigm/AutoX](https://github.com/4paradigm/AutoX)|AutoX is an efficient automl tool, which is mainly aimed at data mining tasks with tabular data.|243|2022-03-31|2021-07-21|
 |4|[datawhalechina/thorough-pytorch](https://github.com/datawhalechina/thorough-pytorch)|-|215|2022-03-31|2021-07-31|
 |5|[chokkan/mlnote](https://github.com/chokkan/mlnote)|機械学習帳|196|2022-02-01|2021-09-29|
 |6|[44670/SourceHanSans-Pixel](https://github.com/44670/SourceHanSans-Pixel)|基于思源黑体的开源像素字体|174|2022-01-03|2021-08-18|
@@ -29,8 +29,8 @@
 |22|[lansinuote/Machine-Learning-In-Numpy](https://github.com/lansinuote/Machine-Learning-In-Numpy)|纯python实现机器学习算法,非套用sk-learn|32|2021-11-08|2021-05-08|
 |23|[KristiyanVachev/Leaf-Question-Generation](https://github.com/KristiyanVachev/Leaf-Question-Generation)|Easy to use and understand multiple-choice question generation algorithm using T5 Transformers.|31|2022-03-07|2021-10-04|
 |24|[DIUx-xView/xview3-reference](https://github.com/DIUx-xView/xview3-reference)|Reference data processing code and model for the xView3 prize challenge.|31|2021-11-29|2021-08-31|
-|25|[PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial)|PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle. |30|2022-03-23|2021-07-12|
-|26|[DataArk/GAIIC2022-Product-Title-Entity-Recognition-Baseline](https://github.com/DataArk/GAIIC2022-Product-Title-Entity-Recognition-Baseline)|GAIIC2022商品标题实体识别Baseline，使用GlobalPointer实现，线上0.8019|26|2022-04-01|2022-03-23|
+|25|[PaddlePaddle/PaddleSpatial](https://github.com/PaddlePaddle/PaddleSpatial)|PaddleSpatial is an open-source spatial-temporal computing tool based on PaddlePaddle. |30|2022-04-02|2021-07-12|
+|26|[DataArk/GAIIC2022-Product-Title-Entity-Recognition-Baseline](https://github.com/DataArk/GAIIC2022-Product-Title-Entity-Recognition-Baseline)|GAIIC2022商品标题实体识别Baseline，使用GlobalPointer实现，线上0.8019|29|2022-04-01|2022-03-23|
 |27|[accomdemy/accomdemy](https://github.com/accomdemy/accomdemy)|Welcome to Accomdemy! 歡迎來到伴伴學！|22|2021-12-24|2021-05-11|
 |28|[andy6804tw/2021-13th-ironman](https://github.com/andy6804tw/2021-13th-ironman)|第13屆iT邦幫忙鐵人賽|20|2022-03-23|2021-09-13|
 |29|[ShowMeAI-Hub/awesome-AI-cheatsheets](https://github.com/ShowMeAI-Hub/awesome-AI-cheatsheets)|AI与数据科学各类工具库速查表与参考代码|20|2021-12-18|2021-06-06|
@@ -42,10 +42,12 @@
 |35|[cbdb-project/named-entities-for-premodern-chinese-history-research](https://github.com/cbdb-project/named-entities-for-premodern-chinese-history-research)|Repo to generate and host named entities for premodern chinese history research|16|2022-01-10|2021-09-14|
 |36|[XiuzeZhou/CALCE](https://github.com/XiuzeZhou/CALCE)|锂电池数据集 CALCE|16|2022-02-26|2021-07-02|
 |37|[W-Java/Population-Prediction](https://github.com/W-Java/Population-Prediction)|The future population of Singapore is predicted by SVM algorithm|15|2021-10-29|2021-10-29|
-|38|[moliqingwa/carbon_challenge](https://github.com/moliqingwa/carbon_challenge)|捕碳大作战|14|2021-12-22|2021-10-26|
-|39|[eval4nlp/SharedTask2021](https://github.com/eval4nlp/SharedTask2021)|-|13|2021-11-23|2021-05-21|
-|40|[deepjavalibrary/d2l-java-zh](https://github.com/deepjavalibrary/d2l-java-zh)|-|11|2021-12-06|2021-08-16|
-|41|[whyjz/rime-moetaigi](https://github.com/whyjz/rime-moetaigi)|萌台語：基於萌典 API 的 RIME 臺語輸入法，使用注音符號輕鬆輸入台語。|11|2021-11-09|2021-06-29|
+|38|[xiangking/PyTorch_CoSENT](https://github.com/xiangking/PyTorch_CoSENT)|实验苏神的CoSENT的Torch实现|14|2022-01-08|2022-01-08|
+|39|[moliqingwa/carbon_challenge](https://github.com/moliqingwa/carbon_challenge)|捕碳大作战|14|2021-12-22|2021-10-26|
+|40|[eval4nlp/SharedTask2021](https://github.com/eval4nlp/SharedTask2021)|-|14|2021-11-23|2021-05-21|
+|41|[DataArk/CBLUE-Baseline](https://github.com/DataArk/CBLUE-Baseline)|CBLUE-阿里天池中文医疗NLP打榜Baseline|13|2022-01-24|2022-01-04|
+|42|[deepjavalibrary/d2l-java-zh](https://github.com/deepjavalibrary/d2l-java-zh)|-|13|2022-03-28|2021-08-16|
+|43|[whyjz/rime-moetaigi](https://github.com/whyjz/rime-moetaigi)|萌台語：基於萌典 API 的 RIME 臺語輸入法，使用注音符號輕鬆輸入台語。|11|2021-11-09|2021-06-29|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

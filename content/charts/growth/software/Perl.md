@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Perl
-<sub>数据更新: 2022-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Oreomeow/checkinpanel](https://github.com/Oreomeow/checkinpanel)|一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）|797|4|2022-04-01|
+|1|[Oreomeow/checkinpanel](https://github.com/Oreomeow/checkinpanel)|一个主要运行在 𝐞𝐥𝐞𝐜𝐕𝟐𝐏 或 𝐪𝐢𝐧𝐠𝐥𝐨𝐧𝐠 等定时面板，同时支持系统运行环境的签到项目（环境：𝑷𝒚𝒕𝒉𝒐𝒏 3.8+ / 𝑵𝒐𝒅𝒆.𝒋𝒔 10+ / 𝑩𝒂𝒔𝒉 4+ / 𝑶𝒑𝒆𝒏𝑱𝑫𝑲8 / 𝑷𝒆𝒓𝒍5）|800|4|2022-04-02|
 |2|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|3992|2|2022-03-25|
 |3|[alecthw/mmdb_china_ip_list](https://github.com/alecthw/mmdb_china_ip_list)|Geoip MaxMind Database for china ip list! This is also an example of generating  MaxMind Database!|639|1|2022-03-31|
 |4|[Yanstory/tpZHCNex](https://github.com/Yanstory/tpZHCNex)|thpatch zh-hans extra patches (Beta)|16|0|2022-02-19|
@@ -19,20 +19,20 @@
 |12|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|378|0|2022-03-09|
 |13|[Songmu/p5-Riji](https://github.com/Songmu/p5-Riji)|git based simple static site generator mainly for blogging|23|0|2022-01-16|
 |14|[liaochenlanruo/pgcgap](https://github.com/liaochenlanruo/pgcgap)|The Prokaryotic Genomics and Comparative Genomics Analysis Pipeline|20|0|2022-03-28|
-|15|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|211|0|2022-04-01|
+|15|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|211|0|2022-04-02|
 |16|[MYDan/mayi](https://github.com/MYDan/mayi)|蚂蚁蛋运维助手(安装方式: curl -L http://update.mydan.org bash)|12|0|2021-10-14|
 |17|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|59|0|2022-03-28|
 |18|[houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm)|A date and time object for Perl|44|0|2022-03-03|
-|19|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|187|0|2022-03-29|
+|19|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|187|0|2022-04-02|
 |20|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|322|0|2022-03-31|
-|21|[open-c3/open-c3](https://github.com/open-c3/open-c3)|CICD系统/发布系统/作业平台/监控系统/故障自愈/K8S集群管理|140|0|2022-04-01|
+|21|[open-c3/open-c3](https://github.com/open-c3/open-c3)|CICD系统/发布系统/作业平台/监控系统/故障自愈/K8S集群管理|140|0|2022-04-02|
 |22|[g0v/people-in-news](https://github.com/g0v/people-in-news)|公眾人物新聞的追蹤|17|0|2021-11-01|
 |23|[Conan924/md5ups](https://github.com/Conan924/md5ups)|爆破md5(用户名+密码+salt)的脚本|2|0|2021-11-15|
 |24|[hn/reolink-camera](https://github.com/hn/reolink-camera)|Reolink RLC-410-5MP IP camera reverse engineered technical details|87|0|2022-03-23|
 |25|[electricface/script-tool](https://github.com/electricface/script-tool)|简单的脚本工具|3|0|2022-02-26|
-|26|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1044|0|2022-03-13|
+|26|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1044|0|2022-04-02|
 |27|[naoya/md2inao](https://github.com/naoya/md2inao)|Convert markdown to inao-format for WEB+DB PRESS|197|0|2022-03-03|
-|28|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|80|0|2022-03-31|
+|28|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|80|0|2022-04-02|
 |29|[jiazhoulvke/myconf](https://github.com/jiazhoulvke/myconf)|linux 配置 |2|0|2022-01-26|
 |30|[leolovenet/qqwry2mmdb](https://github.com/leolovenet/qqwry2mmdb)|为 Wireshark 能使用纯真网络 IP 数据库(QQwry)而提供的格式转换工具|118|0|2021-11-01|
 |31|[openresty/lua-tablepool](https://github.com/openresty/lua-tablepool)|Lua table recycling pools for LuaJIT|99|0|2021-11-15|
