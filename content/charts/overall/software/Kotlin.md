@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Kotlin
-<sub>数据更新: 2022-04-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[mamoe/mirai](https://github.com/mamoe/mirai)|高效率 QQ 机器人支持库|8946|2022-04-03|
-|2|[coil-kt/coil](https://github.com/coil-kt/coil)|Image loading for Android backed by Kotlin Coroutines.|7944|2022-04-02|
-|3|[gedoor/legado](https://github.com/gedoor/legado)|阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|7520|2022-04-04|
+|1|[mamoe/mirai](https://github.com/mamoe/mirai)|高效率 QQ 机器人支持库|8954|2022-04-03|
+|2|[coil-kt/coil](https://github.com/coil-kt/coil)|Image loading for Android backed by Kotlin Coroutines.|7949|2022-04-05|
+|3|[gedoor/legado](https://github.com/gedoor/legado)|阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|7538|2022-04-05|
 |4|[mockk/mockk](https://github.com/mockk/mockk)|mocking library for Kotlin|4395|2022-03-25|
 |5|[ssseasonnn/RxDownload](https://github.com/ssseasonnn/RxDownload)|A multi-threaded download tool written with RxJava and Kotlin|4053|2021-10-28|
 |6|[bennyhuo/Kotlin-Tutorials](https://github.com/bennyhuo/Kotlin-Tutorials)|【持续更新中】本仓库持续记录以 Kotlin 为基础的视频内容的制作过程|4043|2022-04-03|
-|7|[didi/booster](https://github.com/didi/booster)|🚀Optimizer for mobile applications|3945|2022-04-01|
-|8|[izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets)|🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio|3683|2022-04-03|
-|9|[yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming)|哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.|3450|2022-04-03|
-|10|[liujingxing/rxhttp](https://github.com/liujingxing/rxhttp)| 🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.|3244|2022-04-01|
-|11|[Szaki/XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)|A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot|3035|2022-04-01|
-|12|[wuseal/JsonToKotlinClass](https://github.com/wuseal/JsonToKotlinClass)|🚀 Plugin for Android Studio And IntelliJ Idea to generate Kotlin data class code from JSON text ( Json to Kotlin )|2546|2021-11-01|
+|7|[didi/booster](https://github.com/didi/booster)|🚀Optimizer for mobile applications|3945|2022-04-05|
+|8|[izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets)|🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio|3682|2022-04-03|
+|9|[yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming)|哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.|3456|2022-04-03|
+|10|[liujingxing/rxhttp](https://github.com/liujingxing/rxhttp)| 🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.|3245|2022-04-05|
+|11|[Szaki/XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)|A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot|3036|2022-04-01|
+|12|[wuseal/JsonToKotlinClass](https://github.com/wuseal/JsonToKotlinClass)|🚀 Plugin for Android Studio And IntelliJ Idea to generate Kotlin data class code from JSON text ( Json to Kotlin )|2547|2021-11-01|
 |13|[princekin-f/EasyFloat](https://github.com/princekin-f/EasyFloat)|🔥 EasyFloat：浮窗从未如此简单（Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）|2391|2021-12-01|
 |14|[guolindev/PermissionX](https://github.com/guolindev/PermissionX)|An open source Android library that makes handling runtime permissions extremely easy.|2363|2021-12-24|
 |15|[caiyonglong/MusicLake](https://github.com/caiyonglong/MusicLake)|MediaPlayer、Exoplayer音乐播放器，可播在线音乐，qq音乐，百度音乐，虾米音乐，网易云音乐，YouTuBe|2331|2022-02-27|
