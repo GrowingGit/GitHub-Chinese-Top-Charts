@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Kotlin
-<sub>数据更新: 2022-04-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|27190|2022-03-22|
-|2|[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool)|Android开发人员不得不收集的工具类集合   支付宝支付   微信支付（统一下单）   微信分享   Zip4j压缩（支持分卷压缩与加密）   一键集成UCrop选择圆形头像   一键集成二维码和条形码的扫描与生成   常用Dialog   WebView的封装可播放视频   仿斗鱼滑动验证码   Toast封装   震动   GPS   Location定位   图片缩放   Exif 图片 ...|11656|2021-12-27|
+|1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|27202|2022-04-04|
+|2|[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool)|Android开发人员不得不收集的工具类集合   支付宝支付   微信支付（统一下单）   微信分享   Zip4j压缩（支持分卷压缩与加密）   一键集成UCrop选择圆形头像   一键集成二维码和条形码的扫描与生成   常用Dialog   WebView的封装可播放视频   仿斗鱼滑动验证码   Toast封装   震动   GPS   Location定位   图片缩放   Exif 图片 ...|11659|2021-12-27|
 |3|[qingmei2/RxImagePicker](https://github.com/qingmei2/RxImagePicker)|:rocket:RxJava2 and RxJava3 external support. Android flexible picture selector, provides the support for theme of Zhihu and WeChat (灵活的Android图片选择器，提供了知乎和微信主题的支持）.|1141|2021-10-13|
 |4|[SkyD666/Imomoe](https://github.com/SkyD666/Imomoe)|樱花动漫第三方安卓Android客户端，不含广告，免费开源，目的是学习Android开发。|718|2022-04-01|
 |5|[milklabdev/jetpack-compose-book](https://github.com/milklabdev/jetpack-compose-book)|Jetpack Compose 基础教程，持续更新|608|2022-03-22|
@@ -45,8 +45,7 @@
 |38|[JereChen11/Wanandroid_Learning_Kotlin](https://github.com/JereChen11/Wanandroid_Learning_Kotlin)|基于Wanandroid开放API，使用Kotlin语言开发，以供学习。|7|2022-03-10|
 |39|[UnscientificJsZhai/UnscientificCourseParser](https://github.com/UnscientificJsZhai/UnscientificCourseParser)|适用于Android和Java项目的课程表解析库|5|2022-01-12|
 |40|[smashinggit/AndroidAll](https://github.com/smashinggit/AndroidAll)|一个涵盖了计算机基础、Java、Android 、Kotlin等相关知识的总结性文档|5|2022-03-02|
-|41|[CNawalol/qndxx-action](https://github.com/CNawalol/qndxx-action)|用于南宁青年大学习的自动打卡|4|2021-10-06|
-|42|[Starrah/THUCourseHelperBackend](https://github.com/Starrah/THUCourseHelperBackend)|清华课程小助手的后端服务器|4|2021-10-27|
+|41|[Starrah/THUCourseHelperBackend](https://github.com/Starrah/THUCourseHelperBackend)|清华课程小助手的后端服务器|4|2021-10-27|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

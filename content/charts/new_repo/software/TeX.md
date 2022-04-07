@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2022-04-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -32,12 +32,11 @@
 |25|[longyuan94/Technical-group](https://github.com/longyuan94/Technical-group)|专家组|3|2022-03-29|2021-09-23|
 |26|[VohsiLiu/Probability-Problems](https://github.com/VohsiLiu/Probability-Problems)|概率论与数理统计（浙大第四版）课后习题整理|3|2021-12-25|2021-09-10|
 |27|[syvshc/exam](https://github.com/syvshc/exam)|考研复习时的好题|3|2022-03-01|2021-09-01|
-|28|[Chen-Jialin/CV](https://github.com/Chen-Jialin/CV)|基于 LaTeX 的个人中英简历。CV in Chinese and English version based on LaTeX.|3|2021-10-06|2021-06-23|
-|29|[m4p1e/halfyear](https://github.com/m4p1e/halfyear)|半年的经历|3|2022-03-01|2021-05-24|
-|30|[kaleidoscope257-git/SHUbeamer](https://github.com/kaleidoscope257-git/SHUbeamer)|SHUbeamer是为了帮助上海大学师生撰写演示文稿而编写的LaTex Beamer模版文件 |2|2021-12-01|2021-11-28|
-|31|[cccresearch/nnModelAuto](https://github.com/cccresearch/nnModelAuto)|神經網路自動建模|2|2021-10-17|2021-09-26|
-|32|[wangchang327/ics2021-ps](https://github.com/wangchang327/ics2021-ps)|2021 年秋计算机系统导论讨论班 16 使用的材料|2|2022-02-21|2021-09-15|
-|33|[ritscc/soukai-2021-1](https://github.com/ritscc/soukai-2021-1)|2021年度春学期総会|2|2021-10-24|2021-09-09|
+|28|[m4p1e/halfyear](https://github.com/m4p1e/halfyear)|半年的经历|3|2022-03-01|2021-05-24|
+|29|[kaleidoscope257-git/SHUbeamer](https://github.com/kaleidoscope257-git/SHUbeamer)|SHUbeamer是为了帮助上海大学师生撰写演示文稿而编写的LaTex Beamer模版文件 |2|2021-12-01|2021-11-28|
+|30|[cccresearch/nnModelAuto](https://github.com/cccresearch/nnModelAuto)|神經網路自動建模|2|2021-10-17|2021-09-26|
+|31|[wangchang327/ics2021-ps](https://github.com/wangchang327/ics2021-ps)|2021 年秋计算机系统导论讨论班 16 使用的材料|2|2022-02-21|2021-09-15|
+|32|[ritscc/soukai-2021-1](https://github.com/ritscc/soukai-2021-1)|2021年度春学期総会|2|2021-10-24|2021-09-09|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

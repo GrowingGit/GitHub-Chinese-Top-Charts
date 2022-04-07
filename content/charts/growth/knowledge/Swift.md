@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Swift
-<sub>数据更新: 2022-04-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|1469|40|2022-04-02|
-|2|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4135|4|2022-02-17|
-|3|[wxxsw/SwiftUI-WeChat](https://github.com/wxxsw/SwiftUI-WeChat)|🇨🇳 Learn how to make WeChat with SwiftUI. 微信 7.0 🟢|809|1|2022-03-06|
+|1|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|1488|35|2022-04-02|
+|2|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |4140|4|2022-02-17|
+|3|[wxxsw/SwiftUI-WeChat](https://github.com/wxxsw/SwiftUI-WeChat)|🇨🇳 Learn how to make WeChat with SwiftUI. 微信 7.0 🟢|811|1|2022-03-06|
 |4|[Lakr233/myyearwithgit](https://github.com/Lakr233/myyearwithgit)|代码仓库年终总结报告。|177|1|2022-01-10|
 |5|[coyingcat/15DaysofAnimationsinSwift](https://github.com/coyingcat/15DaysofAnimationsinSwift)|Swift，学习动画，升级原版本 ， larrynatalicio/15DaysofAnimationsinSwift|9|0|2022-01-26|
 |6|[ZhongshanHuang/PoReader](https://github.com/ZhongshanHuang/PoReader)|本地小说阅读器，支持深色模式，Wifi传书，代码简洁有注释(local text reader, support dark modal, upload text by wifi)|34|0|2021-10-20|
 |7|[lionsom/XiOS](https://github.com/lionsom/XiOS)|工作学习记录，留给以后的自己。希望能给大家些许帮助！|24|0|2022-03-03|
 |8|[Liaoworking/Advanced-Swift](https://github.com/Liaoworking/Advanced-Swift)|Notes of Advanced Swift. 《swift进阶》学习笔记 swift 5.3|317|0|2022-02-11|
-|9|[jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example)|SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。|56|0|2022-03-09|
+|9|[jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example)|SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。|56|0|2022-04-04|
 |10|[Li-JianXin/Swift_Leetcode](https://github.com/Li-JianXin/Swift_Leetcode)|leetcode学习|5|0|2022-01-19|
-|11|[ZamzamInc/ZamzamKit](https://github.com/ZamzamInc/ZamzamKit)|A Swift package for rapid development using a collection of micro utility extensions for Standard Library, Foundation, and other native frameworks.|255|0|2022-03-19|
+|11|[ZamzamInc/ZamzamKit](https://github.com/ZamzamInc/ZamzamKit)|A Swift package for rapid development using a collection of micro utility extensions for Standard Library, Foundation, and other native frameworks.|256|0|2022-04-04|
 |12|[yungfan/SwiftUI-learning](https://github.com/yungfan/SwiftUI-learning)|SwiftUI教程配套代码(SwiftUI+SwiftUI 2.0+SwiftUI 3.0)|53|0|2021-12-30|
 |13|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|383|0|2022-03-05|
 |14|[Noah37/zhuishushenqi](https://github.com/Noah37/zhuishushenqi)|追书神器Swift版客户端（非官方）。 不断更新中......|219|0|2022-01-06|
@@ -24,7 +24,7 @@
 |17|[DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-ImportAndActivateSDKInXcode-Swift)|This demo teaches you how to import and activate DJI SDK in your Xcode project using Swift.|6|0|2022-03-24|
 |18|[ZXKitCode/ZXKitLogger](https://github.com/ZXKitCode/ZXKitLogger)|The iOS side displays the output log log on the screen, and can generate log file sharing, which is convenient for debugging information when the real machine is not connected to xcode. iOS端将输出日志log悬浮 ...|21|0|2021-12-26|
 |19|[easyui/algorithm-pattern-swift](https://github.com/easyui/algorithm-pattern-swift)|算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~|30|0|2021-11-07|
-|20|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|805|0|2022-04-02|
+|20|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|806|0|2022-04-04|
 |21|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo-Swift](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo-Swift)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|16|0|2022-03-24|
 |22|[zhuzhuxingtianxia/GitBlog](https://github.com/zhuzhuxingtianxia/GitBlog)|github博客~ios|3|0|2021-12-10|
 |23|[flywo/SwiftKnowledgePoint](https://github.com/flywo/SwiftKnowledgePoint)|swift3知识点，温故而知新！|6|0|2021-12-01|

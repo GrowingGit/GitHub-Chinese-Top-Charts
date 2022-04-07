@@ -1,32 +1,32 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Shell
-<sub>数据更新: 2022-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)|A pure Unix shell script implementing ACME client protocol|26004|2022-04-05|
-|2|[EtherDream/jsproxy](https://github.com/EtherDream/jsproxy)|An online proxy based on ServiceWorker|8665|2021-12-24|
-|3|[skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)|超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:|8598|2022-03-23|
+|1|[acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)|A pure Unix shell script implementing ACME client protocol|26039|2022-04-07|
+|2|[EtherDream/jsproxy](https://github.com/EtherDream/jsproxy)|An online proxy based on ServiceWorker|8669|2021-12-24|
+|3|[skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)|超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:|8609|2022-03-23|
 |4|[wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey)|Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本 |7354|2022-01-23|
-|5|[Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust)|Rust explained using easy English|6542|2022-02-15|
-|6|[oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts)|🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.|6019|2022-01-28|
-|7|[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)|A template for building OpenWrt with GitHub Actions   使用 GitHub Actions 云编译 OpenWrt|5169|2022-02-23|
-|8|[mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent)|（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装|5154|2022-03-30|
-|9|[prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)|Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 2 ...|5060|2022-04-02|
-|10|[haoel/haoel.github.io](https://github.com/haoel/haoel.github.io)|-|5032|2022-04-04|
-|11|[quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)|Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.|4572|2022-03-24|
-|12|[mviereck/x11docker](https://github.com/mviereck/x11docker)|Run GUI applications and desktops in docker and podman containers. Focus on security.|4029|2022-04-05|
-|13|[SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)|Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)|4025|2022-04-02|
-|14|[v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray)|Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd|3599|2021-10-18|
-|15|[klever1988/nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt)|Openwrt for Nanopi R1S R2S R4S 香橙派 R1 Plus 固件编译 纯净版与大杂烩|3346|2022-04-05|
-|16|[yeszao/dnmp](https://github.com/yeszao/dnmp)|Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)|2998|2022-04-02|
-|17|[lmk123/oh-my-wechat](https://github.com/lmk123/oh-my-wechat)|微信小助手的安装 / 更新工具。|2746|2021-11-30|
-|18|[openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64)|This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: PI400,4B,3B+,3B,3A+,Zero2W)|2585|2022-03-06|
-|19|[CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend)|🔎 互联网内推信息（社招、校招、实习）|2569|2022-03-11|
+|5|[Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust)|Rust explained using easy English|6547|2022-02-15|
+|6|[oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts)|🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.|6022|2022-01-28|
+|7|[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)|A template for building OpenWrt with GitHub Actions   使用 GitHub Actions 云编译 OpenWrt|5179|2022-02-23|
+|8|[mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent)|（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装|5174|2022-04-06|
+|9|[prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)|Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 2 ...|5066|2022-04-07|
+|10|[haoel/haoel.github.io](https://github.com/haoel/haoel.github.io)|-|5050|2022-04-04|
+|11|[quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)|Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.|4581|2022-04-07|
+|12|[SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)|Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)|4038|2022-04-07|
+|13|[mviereck/x11docker](https://github.com/mviereck/x11docker)|Run GUI applications and desktops in docker and podman containers. Focus on security.|4032|2022-04-06|
+|14|[v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray)|Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd|3604|2021-10-18|
+|15|[klever1988/nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt)|Openwrt for Nanopi R1S R2S R4S 香橙派 R1 Plus 固件编译 纯净版与大杂烩|3357|2022-04-07|
+|16|[yeszao/dnmp](https://github.com/yeszao/dnmp)|Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)|3000|2022-04-02|
+|17|[lmk123/oh-my-wechat](https://github.com/lmk123/oh-my-wechat)|微信小助手的安装 / 更新工具。|2745|2021-11-30|
+|18|[openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64)|This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: PI400,4B,3B+,3B,3A+,Zero2W)|2584|2022-03-06|
+|19|[CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend)|🔎 互联网内推信息（社招、校招、实习）|2570|2022-03-11|
 |20|[teddysun/lamp](https://github.com/teddysun/lamp)|Install LAMP(Linux + Apache + MySQL/MariaDB + PHP ) for CentOS/Debian/Ubuntu|2527|2022-03-18|
-|21|[Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin)|基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜|2245|2022-03-18|
-|22|[licess/lnmp](https://github.com/licess/lnmp)|LNMP一键安装包是一个用Linux Shell编写的可以为CentOS/RHEL/Fedora/Aliyun/Amazon、Debian/Ubuntu/Raspbian/Deepin/Mint Linux VPS或独立主机安装LNMP(Nginx/MySQL/PHP)、LNMPA(Nginx/MySQL/PHP/Apache)、LAMP(Apache/MySQL/PHP)生产环境的Shell程序 ...|2190|2022-03-27|
+|21|[Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin)|基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜|2248|2022-03-18|
+|22|[licess/lnmp](https://github.com/licess/lnmp)|LNMP一键安装包是一个用Linux Shell编写的可以为CentOS/RHEL/Fedora/Aliyun/Amazon、Debian/Ubuntu/Raspbian/Deepin/Mint Linux VPS或独立主机安装LNMP(Nginx/MySQL/PHP)、LNMPA(Nginx/MySQL/PHP/Apache)、LAMP(Apache/MySQL/PHP)生产环境的Shell程序 ...|2192|2022-03-27|
 |23|[csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China)|介绍中国各二线以上城市的互联网环境以及生活成本|2174|2022-03-30|
 |24|[firehol/blocklist-ipsets](https://github.com/firehol/blocklist-ipsets)|ipsets dynamically updated with firehol's update-ipsets.sh script|2115|2022-04-05|
 |25|[P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf)|Aria2 配置文件   OneDrive & Google Drvive 离线下载   百度网盘转存|2067|2022-04-01|
