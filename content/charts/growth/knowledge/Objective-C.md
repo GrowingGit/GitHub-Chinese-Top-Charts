@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Objective-C
-<sub>数据更新: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -45,17 +45,16 @@
 |38|[bytesking/YJCategories](https://github.com/bytesking/YJCategories)|Objective-C 常用分类集合，支持Cocoapods|89|0|2022-01-30|
 |39|[DJI-Mobile-SDK-Tutorials/iOS-FPVDemo](https://github.com/DJI-Mobile-SDK-Tutorials/iOS-FPVDemo)|A demo to introduce how to implement the FPV view, take photo and record video using DJI Mobile SDK.|37|0|2022-03-24|
 |40|[Meterwhite/KeyPathExtension](https://github.com/Meterwhite/KeyPathExtension)|An extension of KeyPath for KVC.You can use struct, predicate in KeyPath.在KVC中使用谓词和结构体|4|0|2021-11-09|
-|41|[du1992/DNebula](https://github.com/du1992/DNebula)|模仿SOUL布局，写的一个笔记类应用|134|0|2021-10-08|
-|42|[LoSenTrad/LSTCategory](https://github.com/LoSenTrad/LSTCategory)|LSTCategory是一个分类集合通用组件|3|0|2021-11-18|
-|43|[xiejiapei-creator/BasicsDemo](https://github.com/xiejiapei-creator/BasicsDemo)|IOS基础知识系列文章的Demo合集|16|0|2022-03-27|
-|44|[rztime/RZColorful](https://github.com/rztime/RZColorful)|NSAttributedString富文本的方法集合，以及简单优雅的使用其多种属性|46|0|2022-01-27|
-|45|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|14|0|2022-03-25|
-|46|[yangKJ/KJCategories](https://github.com/yangKJ/KJCategories)|Collection of native ios extensions and classes to boost development process. Such as UIKit, Foundation, QuartzCore, Accelerate, OpenCV, CoreGraphics, os and more. 超实用开发加速工具收集|318|0|2022-03-13|
-|47|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|11|0|2022-04-04|
-|48|[skyming/Study](https://github.com/skyming/Study)|学习日志记录、笔记|22|0|2021-12-01|
-|49|[GardenerYun/iOS--Note](https://github.com/GardenerYun/iOS--Note)|iOS研究笔记|9|0|2021-12-23|
-|50|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|MoviePlayer which based on FFmpeg step by step tutorials for iOS/macOS developer. （使用 FFMpeg 封装播放器系列教程，适合零基础的 iOS/macOS 开发者学习）|156|0|2022-03-06|
-|51|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|65|0|2022-03-21|
+|41|[LoSenTrad/LSTCategory](https://github.com/LoSenTrad/LSTCategory)|LSTCategory是一个分类集合通用组件|3|0|2021-11-18|
+|42|[xiejiapei-creator/BasicsDemo](https://github.com/xiejiapei-creator/BasicsDemo)|IOS基础知识系列文章的Demo合集|16|0|2022-03-27|
+|43|[rztime/RZColorful](https://github.com/rztime/RZColorful)|NSAttributedString富文本的方法集合，以及简单优雅的使用其多种属性|46|0|2022-01-27|
+|44|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|14|0|2022-03-25|
+|45|[yangKJ/KJCategories](https://github.com/yangKJ/KJCategories)|Collection of native ios extensions and classes to boost development process. Such as UIKit, Foundation, QuartzCore, Accelerate, OpenCV, CoreGraphics, os and more. 超实用开发加速工具收集|318|0|2022-03-13|
+|46|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|11|0|2022-04-04|
+|47|[skyming/Study](https://github.com/skyming/Study)|学习日志记录、笔记|22|0|2021-12-01|
+|48|[GardenerYun/iOS--Note](https://github.com/GardenerYun/iOS--Note)|iOS研究笔记|9|0|2021-12-23|
+|49|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|MoviePlayer which based on FFmpeg step by step tutorials for iOS/macOS developer. （使用 FFMpeg 封装播放器系列教程，适合零基础的 iOS/macOS 开发者学习）|156|0|2022-03-06|
+|50|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|65|0|2022-03-21|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

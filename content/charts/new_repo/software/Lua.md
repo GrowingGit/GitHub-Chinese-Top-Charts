@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Lua
-<sub>数据更新: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -37,12 +37,11 @@
 |30|[Kiana1337/GamesenseLuaCloudloader](https://github.com/Kiana1337/GamesenseLuaCloudloader)|一个简单的Gamesense Lua云加载框架。|5|2021-11-18|2021-05-13|
 |31|[lirenchong/Rime_Settings](https://github.com/lirenchong/Rime_Settings)|Rime 输入法从简单到复杂的一套自用配置，会去隐私后不定时更新|4|2022-02-07|2022-02-05|
 |32|[chwt163/Mpv.netRrightClickMenuCN](https://github.com/chwt163/Mpv.netRrightClickMenuCN)|mpv.net 的中文右键菜单，以及 mpv osc.lua 主题外观|4|2022-03-23|2021-12-01|
-|33|[ywxt/rime-sunman](https://github.com/ywxt/rime-sunman)|山人输入方案|4|2021-10-07|2021-08-10|
-|34|[LYJ09X/V2ray-Pro](https://github.com/LYJ09X/V2ray-Pro)|免费梯子|4|2022-03-30|2021-08-05|
-|35|[xiyoo0812/luaoop](https://github.com/xiyoo0812/luaoop)|一个 lua 面向对象机制的实现。|4|2022-02-23|2021-04-22|
-|36|[sudoskys/Gitpuller](https://github.com/sudoskys/Gitpuller)|使用Androlua实现的一款Github&gitee手机浏览实例，包含GIThub api 类库封装，欢迎贡献|3|2022-02-16|2022-02-01|
-|37|[IoT-ThingsCloud/luat-thingscloud-libs](https://github.com/IoT-ThingsCloud/luat-thingscloud-libs)|这里是合宙模组 luat 方式接入 ThingsCloud 云平台的 lib 库，以及示例代码。|3|2022-01-09|2022-01-09|
-|38|[Miaow233/Dingtalk_createLike](https://github.com/Miaow233/Dingtalk_createLike)|一个钉钉点赞小工具，使用FusionApp制作|3|2022-02-26|2021-09-05|
+|33|[LYJ09X/V2ray-Pro](https://github.com/LYJ09X/V2ray-Pro)|免费梯子|4|2022-03-30|2021-08-05|
+|34|[xiyoo0812/luaoop](https://github.com/xiyoo0812/luaoop)|一个 lua 面向对象机制的实现。|4|2022-02-23|2021-04-22|
+|35|[sudoskys/Gitpuller](https://github.com/sudoskys/Gitpuller)|使用Androlua实现的一款Github&gitee手机浏览实例，包含GIThub api 类库封装，欢迎贡献|3|2022-02-16|2022-02-01|
+|36|[IoT-ThingsCloud/luat-thingscloud-libs](https://github.com/IoT-ThingsCloud/luat-thingscloud-libs)|这里是合宙模组 luat 方式接入 ThingsCloud 云平台的 lib 库，以及示例代码。|3|2022-01-09|2022-01-09|
+|37|[Miaow233/Dingtalk_createLike](https://github.com/Miaow233/Dingtalk_createLike)|一个钉钉点赞小工具，使用FusionApp制作|3|2022-02-26|2021-09-05|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

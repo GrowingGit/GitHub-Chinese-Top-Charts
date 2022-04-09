@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > TypeScript
-<sub>数据更新: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16979|2022-03-28|
-|2|[xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8714|2022-02-10|
-|3|[cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue)|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|5744|2022-04-03|
-|4|[zhongsp/TypeScript](https://github.com/zhongsp/TypeScript)|TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org|5695|2022-03-29|
-|5|[jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)|TypeScript Deep Dive 中文版 |5305|2022-02-26|
-|6|[Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|4150|2022-04-07|
-|7|[doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn)|🇨🇳 《JavaScript 二十年》中文版|3795|2022-02-19|
-|8|[btroncone/learn-rxjs](https://github.com/btroncone/learn-rxjs)|Clear examples, explanations, and resources for RxJS|3501|2022-04-06|
-|9|[loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3422|2022-03-24|
-|10|[alibaba/pipcook](https://github.com/alibaba/pipcook)|Machine learning platform for Web developers|2232|2022-04-06|
+|1|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16988|2022-03-28|
+|2|[xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8721|2022-04-09|
+|3|[cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue)|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|5772|2022-04-03|
+|4|[zhongsp/TypeScript](https://github.com/zhongsp/TypeScript)|TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org|5697|2022-03-29|
+|5|[jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)|TypeScript Deep Dive 中文版 |5310|2022-02-26|
+|6|[Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|4310|2022-04-09|
+|7|[doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn)|🇨🇳 《JavaScript 二十年》中文版|3798|2022-02-19|
+|8|[btroncone/learn-rxjs](https://github.com/btroncone/learn-rxjs)|Clear examples, explanations, and resources for RxJS|3502|2022-04-06|
+|9|[loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3423|2022-03-24|
+|10|[alibaba/pipcook](https://github.com/alibaba/pipcook)|Machine learning platform for Web developers|2233|2022-04-08|
 |11|[liyupi/mianshiya-public](https://github.com/liyupi/mianshiya-public)|干净免费的面试刷题网站，帮助大家拿到满意的 offer！💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮|2106|2022-03-27|
 |12|[alibaba/kiwi](https://github.com/alibaba/kiwi)|🐤 Kiwi-国际化翻译全流程解决方案|1990|2022-03-10|
 |13|[CodFrm/cxmooc-tools](https://github.com/CodFrm/cxmooc-tools)|一个 超星(学习通)/智慧树(知到)/中国大学mooc 学习工具,火狐,谷歌,油猴支持.全自动任务,视频倍速秒过,作业考试题库,验证码自动打码(੧ᐛ੭挂科模式,启动)|1807|2022-02-07|

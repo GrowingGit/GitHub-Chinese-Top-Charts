@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Kotlin
-<sub>数据更新: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -188,23 +188,23 @@
 |181|[sophimp/android-richtext-editor](https://github.com/sophimp/android-richtext-editor)|Android rich text editor 富文本编辑器, 支持html保存与解析|6|2022-04-01|2021-07-20|
 |182|[myfittinglife/EquipmentInfoProject](https://github.com/myfittinglife/EquipmentInfoProject)|设备信息获取|6|2021-12-10|2021-07-12|
 |183|[WinWang/ReadingGallery](https://github.com/WinWang/ReadingGallery)|提交组件化听书廊项目 本项目基于Jetpack组件开发的MVVM组件化项目，内容包含Kotlin+Koin（依赖注入）+coil（图片加载）+couroutine（协程）+ViewModel+LiveData+ViewBinding+DataBinding,组件化通信基于阿里Arouter开源框架，使用了腾讯API去中心化方案，降低代码耦合。 内部封装了具有网络请求和生命周期感知能力的自定义组合V ...|6|2021-12-24|2021-05-20|
-|184|[simplepeng/AddImageView](https://github.com/simplepeng/AddImageView)|🔥🔥🔥 - 选择照片的自定义九宫格View，扩展性极高。|6|2021-12-05|2021-04-08|
-|185|[qqlittleice/FuckMiLinkService](https://github.com/qqlittleice/FuckMiLinkService)|Miui 解锁小米妙享内测权限|5|2022-02-10|2022-02-10|
-|186|[Colerar/Tracks](https://github.com/Colerar/Tracks)|Kotlin 编写的 B 站视频下载器   BiliBili Video Downloader written with Kotlin|5|2022-04-02|2022-02-02|
-|187|[LaoLittle/SkikoMirai](https://github.com/LaoLittle/SkikoMirai)|Skiko前置插件|5|2022-04-03|2022-02-02|
-|188|[iceleryah/wechathongbao](https://github.com/iceleryah/wechathongbao)|微信自动抢红包助手|5|2022-01-27|2022-01-27|
-|189|[IceCream-QAQ/Future](https://github.com/IceCream-QAQ/Future)|Minecraft 跨版本 Mod API|5|2022-01-24|2022-01-18|
-|190|[kenvix/NATPoked](https://github.com/kenvix/NATPoked)|NATPoked: A Cross-platform Peer-To-Peer Secure NAT Traversal Toolkit    跨平台P2P内网穿透安全传输工具|5|2022-04-03|2022-01-11|
-|191|[Joehaivo/icon-font-viewer](https://github.com/Joehaivo/icon-font-viewer)|一个用于查看.ttf字体文件的Intellij平台(支持IDEA/Android Studio等)的插件，通常用于展示iconfont字符 / A Intellij platform plugin to view truetype font file(.ttf) that includes icon glyphs usually.|5|2021-12-19|2021-12-19|
-|192|[1024xiaoshen/1204doumei](https://github.com/1024xiaoshen/1204doumei)|1024抖音妹子|5|2021-12-05|2021-12-05|
-|193|[LaoLittle/CaiyunDream-Mirai](https://github.com/LaoLittle/CaiyunDream-Mirai)|Mirai-Console接入彩云小梦|5|2022-01-07|2021-11-30|
-|194|[Lanscarlos/Cheshire](https://github.com/Lanscarlos/Cheshire)|Zaphkiel 远征物品服务 附属|5|2021-11-30|2021-11-22|
-|195|[WsureGuild/compose-guild-bot](https://github.com/WsureGuild/compose-guild-bot)|tx官方频道机器人api+三方机器人cqhttp组合机器人|5|2022-02-19|2021-11-20|
-|196|[Sz-song/requestPermission](https://github.com/Sz-song/requestPermission)|Android 自定义权限请求框架，可以自定义请求前的解释，和权限拒绝后的弹框请求。|5|2021-11-27|2021-11-17|
-|197|[MissDelia/DeliaRouter](https://github.com/MissDelia/DeliaRouter)|一个用于Android组件化开发的路由模块|5|2021-11-10|2021-11-04|
-|198|[ITxiaoguang/FilePicker](https://github.com/ITxiaoguang/FilePicker)|一款超强的文件选择框架。A super file picker framework.|5|2021-10-28|2021-10-23|
-|199|[PPeanutButter/smart-things](https://github.com/PPeanutButter/smart-things)|一些通过简单Http协议的智能（共享设备/家居）模拟器|5|2022-01-01|2021-09-29|
-|200|[Petterpx/StateX](https://github.com/Petterpx/StateX)|Android状态页处理工具，支持View与JetPack Compose。Android status page processing tool, support traditional view and  JetPack Compose.|5|2022-01-25|2021-09-23|
+|184|[qqlittleice/FuckMiLinkService](https://github.com/qqlittleice/FuckMiLinkService)|Miui 解锁小米妙享内测权限|5|2022-02-10|2022-02-10|
+|185|[Colerar/Tracks](https://github.com/Colerar/Tracks)|Kotlin 编写的 B 站视频下载器   BiliBili Video Downloader written with Kotlin|5|2022-04-02|2022-02-02|
+|186|[LaoLittle/SkikoMirai](https://github.com/LaoLittle/SkikoMirai)|Skiko前置插件|5|2022-04-03|2022-02-02|
+|187|[iceleryah/wechathongbao](https://github.com/iceleryah/wechathongbao)|微信自动抢红包助手|5|2022-01-27|2022-01-27|
+|188|[IceCream-QAQ/Future](https://github.com/IceCream-QAQ/Future)|Minecraft 跨版本 Mod API|5|2022-01-24|2022-01-18|
+|189|[kenvix/NATPoked](https://github.com/kenvix/NATPoked)|NATPoked: A Cross-platform Peer-To-Peer Secure NAT Traversal Toolkit    跨平台P2P内网穿透安全传输工具|5|2022-04-03|2022-01-11|
+|190|[Joehaivo/icon-font-viewer](https://github.com/Joehaivo/icon-font-viewer)|一个用于查看.ttf字体文件的Intellij平台(支持IDEA/Android Studio等)的插件，通常用于展示iconfont字符 / A Intellij platform plugin to view truetype font file(.ttf) that includes icon glyphs usually.|5|2021-12-19|2021-12-19|
+|191|[1024xiaoshen/1204doumei](https://github.com/1024xiaoshen/1204doumei)|1024抖音妹子|5|2021-12-05|2021-12-05|
+|192|[LaoLittle/CaiyunDream-Mirai](https://github.com/LaoLittle/CaiyunDream-Mirai)|Mirai-Console接入彩云小梦|5|2022-01-07|2021-11-30|
+|193|[Lanscarlos/Cheshire](https://github.com/Lanscarlos/Cheshire)|Zaphkiel 远征物品服务 附属|5|2021-11-30|2021-11-22|
+|194|[WsureGuild/compose-guild-bot](https://github.com/WsureGuild/compose-guild-bot)|tx官方频道机器人api+三方机器人cqhttp组合机器人|5|2022-02-19|2021-11-20|
+|195|[Sz-song/requestPermission](https://github.com/Sz-song/requestPermission)|Android 自定义权限请求框架，可以自定义请求前的解释，和权限拒绝后的弹框请求。|5|2021-11-27|2021-11-17|
+|196|[MissDelia/DeliaRouter](https://github.com/MissDelia/DeliaRouter)|一个用于Android组件化开发的路由模块|5|2021-11-10|2021-11-04|
+|197|[ITxiaoguang/FilePicker](https://github.com/ITxiaoguang/FilePicker)|一款超强的文件选择框架。A super file picker framework.|5|2021-10-28|2021-10-23|
+|198|[PPeanutButter/smart-things](https://github.com/PPeanutButter/smart-things)|一些通过简单Http协议的智能（共享设备/家居）模拟器|5|2022-01-01|2021-09-29|
+|199|[Petterpx/StateX](https://github.com/Petterpx/StateX)|Android状态页处理工具，支持View与JetPack Compose。Android status page processing tool, support traditional view and  JetPack Compose.|5|2022-01-25|2021-09-23|
+|200|[jie65535/mirai-console-jcc-plugin](https://github.com/jie65535/mirai-console-jcc-plugin)|基于Glot接口的mirai-console在线编译器插件|5|2022-03-30|2021-08-01|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

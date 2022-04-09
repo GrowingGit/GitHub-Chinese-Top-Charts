@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -48,32 +48,31 @@
 |41|[mountainMath/tongfen](https://github.com/mountainMath/tongfen)|Convenience functions for making data on different geometries, especially Canadian census geometries, comparable.|25|2022-02-24|
 |42|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|23|2022-01-25|
 |43|[msberends/cleaner](https://github.com/msberends/cleaner)|Fast and Easy Data Cleaning (in R)|23|2022-02-13|
-|44|[CBIIT/LDlinkR](https://github.com/CBIIT/LDlinkR)|LDlinkR|19|2021-10-07|
-|45|[zumbov2/deeplr](https://github.com/zumbov2/deeplr)|An R wrapper for the DeepL Translator API|17|2022-01-27|
-|46|[massimoaria/dimensionsR](https://github.com/massimoaria/dimensionsR)|Gathering metadata about publications, patents, grants, clinical trials and policy documents from DS Dimensions using DSL API|16|2022-02-07|
-|47|[yukiyanai/quant-methods-R](https://github.com/yukiyanai/quant-methods-R)|Repository for "Quantitative Methods in Political Science Using R" by Masahiko Asano and Yuki Yanai|16|2021-11-17|
-|48|[IshidaMotohiro/TextMining](https://github.com/IshidaMotohiro/TextMining)|-|16|2022-01-25|
-|49|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|15|2021-11-26|
-|50|[pzhaonet/beginr](https://github.com/pzhaonet/beginr)|an R package for beginners|15|2021-12-03|
-|51|[fragla/eq5d](https://github.com/fragla/eq5d)|-|13|2022-03-31|
-|52|[davidycliao/redguards](https://github.com/davidycliao/redguards)|This is a designed package for replicating the estimates and findings in the article of Factionalism and the Red Guards under Mao's China: Ideal Point Estimation Using Text Data. |11|2022-02-22|
-|53|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|11|2021-11-23|
-|54|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|11|2022-03-19|
-|55|[Wytamma/GISAIDR](https://github.com/Wytamma/GISAIDR)|Programmatically interact with the GISAID database.|10|2022-03-30|
-|56|[DongqiangZeng0808/Blasso](https://github.com/DongqiangZeng0808/Blasso)|Integrating LASSO and bootstrapping algorithm to find best prognostic or predictive biomarkers|10|2021-10-26|
-|57|[KateHyoung/UTDEventData](https://github.com/KateHyoung/UTDEventData)|An R package to retrieve  political event data from the UTD API server|10|2022-04-01|
-|58|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|10|2022-03-09|
-|59|[sascha2schroeder/popEye](https://github.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|9|2022-03-16|
-|60|[YuLab-SMU/nCov2019](https://github.com/YuLab-SMU/nCov2019)|:microbe: Exploring COVID-19 data|8|2021-12-13|
-|61|[chainsawriot/sweater](https://github.com/chainsawriot/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|8|2022-03-31|
-|62|[majianthu/aps2020](https://github.com/majianthu/aps2020)|Code for the paper 'Variable Selection with Copula Entropy' published on Chinese Journal of Applied Probability and Statistics|8|2022-03-17|
-|63|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|8|2022-01-26|
-|64|[OxDemTech/china_diplomats](https://github.com/OxDemTech/china_diplomats)|-|7|2021-11-16|
-|65|[lexcomber/GWRroutemap](https://github.com/lexcomber/GWRroutemap)|the GWR route maps for physical and human geography|7|2022-01-11|
-|66|[lexcomber/SpatInt](https://github.com/lexcomber/SpatInt)|Examples of different Spatial Interpolation approaches in R |7|2022-01-20|
-|67|[lcpmgh/NPMCM](https://github.com/lcpmgh/NPMCM)|中国研究生数学建模竞赛获奖数据和可视化分析案例|7|2022-02-27|
-|68|[ShixiangWang/tinyscholar](https://github.com/ShixiangWang/tinyscholar)|A Tiny R Package to Get and Show Google Scholar Profile|6|2021-10-26|
-|69|[leileibama/leoDDcalculator](https://github.com/leileibama/leoDDcalculator)|leoDDcalculator, a package calculating the values of mdd and ndd of texts in a folder|6|2021-11-08|
+|44|[zumbov2/deeplr](https://github.com/zumbov2/deeplr)|An R wrapper for the DeepL Translator API|17|2022-01-27|
+|45|[massimoaria/dimensionsR](https://github.com/massimoaria/dimensionsR)|Gathering metadata about publications, patents, grants, clinical trials and policy documents from DS Dimensions using DSL API|16|2022-02-07|
+|46|[yukiyanai/quant-methods-R](https://github.com/yukiyanai/quant-methods-R)|Repository for "Quantitative Methods in Political Science Using R" by Masahiko Asano and Yuki Yanai|16|2021-11-17|
+|47|[IshidaMotohiro/TextMining](https://github.com/IshidaMotohiro/TextMining)|-|16|2022-01-25|
+|48|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|15|2021-11-26|
+|49|[pzhaonet/beginr](https://github.com/pzhaonet/beginr)|an R package for beginners|15|2021-12-03|
+|50|[fragla/eq5d](https://github.com/fragla/eq5d)|-|13|2022-03-31|
+|51|[davidycliao/redguards](https://github.com/davidycliao/redguards)|This is a designed package for replicating the estimates and findings in the article of Factionalism and the Red Guards under Mao's China: Ideal Point Estimation Using Text Data. |11|2022-02-22|
+|52|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|11|2021-11-23|
+|53|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|11|2022-03-19|
+|54|[Wytamma/GISAIDR](https://github.com/Wytamma/GISAIDR)|Programmatically interact with the GISAID database.|10|2022-03-30|
+|55|[DongqiangZeng0808/Blasso](https://github.com/DongqiangZeng0808/Blasso)|Integrating LASSO and bootstrapping algorithm to find best prognostic or predictive biomarkers|10|2021-10-26|
+|56|[KateHyoung/UTDEventData](https://github.com/KateHyoung/UTDEventData)|An R package to retrieve  political event data from the UTD API server|10|2022-04-01|
+|57|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|10|2022-03-09|
+|58|[sascha2schroeder/popEye](https://github.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|9|2022-03-16|
+|59|[YuLab-SMU/nCov2019](https://github.com/YuLab-SMU/nCov2019)|:microbe: Exploring COVID-19 data|8|2021-12-13|
+|60|[chainsawriot/sweater](https://github.com/chainsawriot/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|8|2022-03-31|
+|61|[majianthu/aps2020](https://github.com/majianthu/aps2020)|Code for the paper 'Variable Selection with Copula Entropy' published on Chinese Journal of Applied Probability and Statistics|8|2022-03-17|
+|62|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|8|2022-01-26|
+|63|[OxDemTech/china_diplomats](https://github.com/OxDemTech/china_diplomats)|-|7|2021-11-16|
+|64|[lexcomber/GWRroutemap](https://github.com/lexcomber/GWRroutemap)|the GWR route maps for physical and human geography|7|2022-01-11|
+|65|[lexcomber/SpatInt](https://github.com/lexcomber/SpatInt)|Examples of different Spatial Interpolation approaches in R |7|2022-01-20|
+|66|[lcpmgh/NPMCM](https://github.com/lcpmgh/NPMCM)|中国研究生数学建模竞赛获奖数据和可视化分析案例|7|2022-02-27|
+|67|[ShixiangWang/tinyscholar](https://github.com/ShixiangWang/tinyscholar)|A Tiny R Package to Get and Show Google Scholar Profile|6|2021-10-26|
+|68|[leileibama/leoDDcalculator](https://github.com/leileibama/leoDDcalculator)|leoDDcalculator, a package calculating the values of mdd and ndd of texts in a folder|6|2021-11-08|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

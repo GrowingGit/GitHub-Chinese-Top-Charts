@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Shell
-<sub>数据更新: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)|A pure Unix shell script implementing ACME client protocol|26039|11|2022-04-07|
-|2|[Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust)|Rust explained using easy English|6547|10|2022-02-15|
-|3|[521xueweihan/OneFile](https://github.com/521xueweihan/OneFile)|只有一个文件！|405|9|2022-03-31|
-|4|[csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China)|介绍中国各二线以上城市的互联网环境以及生活成本|2174|8|2022-03-30|
-|5|[EtherDream/jsproxy](https://github.com/EtherDream/jsproxy)|An online proxy based on ServiceWorker|8669|8|2021-12-24|
-|6|[Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin)|基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜|2248|7|2022-03-18|
-|7|[quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)|Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.|4581|6|2022-04-07|
-|8|[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)|A template for building OpenWrt with GitHub Actions   使用 GitHub Actions 云编译 OpenWrt|5179|6|2022-02-23|
-|9|[skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)|超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:|8609|6|2022-03-23|
-|10|[mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent)|（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装|5174|6|2022-04-06|
+|1|[acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)|A pure Unix shell script implementing ACME client protocol|26058|11|2022-04-08|
+|2|[Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust)|Rust explained using easy English|6549|10|2022-02-15|
+|3|[csguide-dabai/Programmer-look-at-China](https://github.com/csguide-dabai/Programmer-look-at-China)|介绍中国各二线以上城市的互联网环境以及生活成本|2174|8|2022-03-30|
+|4|[521xueweihan/OneFile](https://github.com/521xueweihan/OneFile)|只有一个文件！|405|8|2022-03-31|
+|5|[EtherDream/jsproxy](https://github.com/EtherDream/jsproxy)|An online proxy based on ServiceWorker|8675|8|2021-12-24|
+|6|[Sitoi/dailycheckin](https://github.com/Sitoi/dailycheckin)|基于【腾讯云函数】/【Docker】/【青龙面板】/【elecV2P】/【群晖】的每日签到脚本（支持多账号使用）签到列表: ｜爱奇艺｜全民K歌｜腾讯视频｜有道云笔记｜网易云音乐｜一加手机社区官方论坛｜百度贴吧｜Bilibili｜V2EX｜咔叽网单｜什么值得买｜AcFun｜天翼云盘｜吾爱破解｜芒果TV｜Fa米家｜小米运动｜百度搜索资源平台｜时光相册｜哔咔漫画｜联通营业厅｜|2265|7|2022-03-18|
+|7|[quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)|Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.|4586|6|2022-04-07|
+|8|[P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)|A template for building OpenWrt with GitHub Actions   使用 GitHub Actions 云编译 OpenWrt|5191|6|2022-02-23|
+|9|[skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)|超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:|8613|6|2022-03-23|
+|10|[mack-a/v2ray-agent](https://github.com/mack-a/v2ray-agent)|（VLESS+TCP+TLS/VLESS+TCP+XTLS/VLESS+gRPC+TLS/VLESS+WS+TLS/VMess+TCP+TLS/VMess+WS+TLS/Trojan+TCP+TLS/Trojan+gRPC+TLS/Trojan+TCP+XTLS）+伪装站点、八合一共存脚本，支持多内核安装|5194|6|2022-04-06|
 |11|[teamssix/container-escape-check](https://github.com/teamssix/container-escape-check)|docker container escape check    Docker 容器逃逸检测|109|5|2022-03-31|
-|12|[v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray)|Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd|3604|5|2021-10-18|
-|13|[SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)|Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)|4038|5|2022-04-07|
-|14|[wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey)|Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本 |7354|5|2022-01-23|
+|12|[v2fly/fhs-install-v2ray](https://github.com/v2fly/fhs-install-v2ray)|Bash script for installing V2Ray in operating systems such as Debian / CentOS / Fedora / openSUSE that support systemd|3614|5|2021-10-18|
+|13|[SuLingGG/OpenWrt-Rpi](https://github.com/SuLingGG/OpenWrt-Rpi)|Raspberry Pi & NanoPi R2S/R4S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)|4045|5|2022-04-07|
+|14|[wulabing/Xray_onekey](https://github.com/wulabing/Xray_onekey)|Xray 基于 Nginx 的 VLESS + XTLS 一键安装脚本 |7362|5|2022-01-23|
 |15|[imfiver/CVE-2022-0847](https://github.com/imfiver/CVE-2022-0847)|CVE-2022-0847-DirtyPipe-Exploit   CVE-2022-0847 是存在于 Linux内核 5.8 及之后版本中的本地提权漏洞。攻击者通过利用此漏洞，可覆盖重写任意可读文件中的数据，从而可将普通权限的用户提升到特权 root。    CVE-2022-0847 的漏洞原理类似于 CVE-2016-5195 脏牛漏洞（Dirty Cow），但它更容易被利用。漏洞作者将此 ...|171|5|2022-03-09|
 |16|[MinerPr0xy/MinerProxy](https://github.com/MinerPr0xy/MinerProxy)|本程序为正版原创，MinerProxy最稳定的ETH以太坊代理中转矿池程序，全新界面，支持ETH，ETC，抽水稳定不掉线，作者抽水千分之三，MinerProxy/矿池代理，支持TCP和SSL协议，支持自定义抽水，高性能高并发，支持web界面管理，包含自启动和进程守护，重启后可以自动运行，会放开防火墙和连接数限制，一键搞定。|399|4|2022-03-25|
-|17|[klever1988/nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt)|Openwrt for Nanopi R1S R2S R4S 香橙派 R1 Plus 固件编译 纯净版与大杂烩|3357|4|2022-04-07|
+|17|[klever1988/nanopi-openwrt](https://github.com/klever1988/nanopi-openwrt)|Openwrt for Nanopi R1S R2S R4S 香橙派 R1 Plus 固件编译 纯净版与大杂烩|3359|4|2022-04-07|
 |18|[FlechazoPh/QLDependency](https://github.com/FlechazoPh/QLDependency)|青龙面板全依赖一键安装脚本 / Qinglong Pannel Dependency Install Scripts.|506|4|2022-03-26|
 |19|[fscarmen/warp](https://github.com/fscarmen/warp)|WARP one-click script. Add an IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy for VPS. 一键脚本|1148|3|2022-04-05|
 |20|[jinwyp/one_click_script](https://github.com/jinwyp/one_click_script)|一键安装 trojan v2ray xray. Install v2ray / xray (VLESS) and trojan (trojan-go) script|2058|3|2022-03-27|
@@ -33,28 +33,28 @@
 |26|[KMinerProxy/KMinerProxy](https://github.com/KMinerProxy/KMinerProxy)|新一代轻量、多端管理的ETH抽水代理|201|3|2022-02-09|
 |27|[ffffffff0x/403-fuzz](https://github.com/ffffffff0x/403-fuzz)|针对 403 页面的 fuzz 脚本|105|2|2022-02-14|
 |28|[DHDAXCW/NanoPi-R2S](https://github.com/DHDAXCW/NanoPi-R2S)|基于 Lean&Lienol 源码的 NanoPi R2S 的 OpenWrt 固件。每天自动更新插件和内核，Fusion编译法|596|2|2022-04-05|
-|29|[yeszao/dnmp](https://github.com/yeszao/dnmp)|Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)|3000|2|2022-04-02|
+|29|[yeszao/dnmp](https://github.com/yeszao/dnmp)|Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)|3005|2|2022-04-02|
 |30|[huan/docker-wechat](https://github.com/huan/docker-wechat)|DoChat is a Dockerized WeChat (盒装微信) PC Windows Client for Linux|1480|2|2021-11-09|
 |31|[IvanSolis1989/OpenWrt-DIY](https://github.com/IvanSolis1989/OpenWrt-DIY)|       多设备 OpenWrt Aciton 固件云编译——X86、竞斗云、极路由 B70、K2T、K2P、K3、N1、红米 AC2100、Newifi D2、树莓派、小娱 C5、R2S、R4S、小米 R3G、小米 R3P、小米 Mini、网件 R7800、星际宝盒 CM520、Amlogic S905X3、OrangePi Zero Plus、网件 3800、Linksys Wrt1900 ...|1004|2|2022-02-18|
-|32|[openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64)|This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: PI400,4B,3B+,3B,3A+,Zero2W)|2584|2|2022-03-06|
+|32|[openfans-community-offical/Debian-Pi-Aarch64](https://github.com/openfans-community-offical/Debian-Pi-Aarch64)|This is the first 64-bit system in the world to support all Raspberry Pi 64-bit hardware!!! (Include: PI400,4B,3B+,3B,3A+,Zero2W)|2586|2|2022-03-06|
 |33|[lmk123/oh-my-wechat](https://github.com/lmk123/oh-my-wechat)|微信小助手的安装 / 更新工具。|2745|2|2021-11-30|
-|34|[CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend)|🔎 互联网内推信息（社招、校招、实习）|2570|2|2022-03-11|
+|34|[CyC2018/Job-Recommend](https://github.com/CyC2018/Job-Recommend)|🔎 互联网内推信息（社招、校招、实习）|2571|2|2022-03-11|
 |35|[ameizi/vagrant-kubernetes-cluster](https://github.com/ameizi/vagrant-kubernetes-cluster)|Vagrant一键安装Kubernetes集群。安装 Metrics Server 、Kuboard 、Kubernetes Dashboard、KubePi、Kubernetes集群监控prometheus-operator|272|2|2021-10-30|
 |36|[oldratlee/useful-scripts](https://github.com/oldratlee/useful-scripts)|🐌 useful scripts for making developer's everyday life easier and happier, involved java, shell etc.|6022|2|2022-01-28|
 |37|[ffffffff0x/f8x](https://github.com/ffffffff0x/f8x)|红/蓝队环境自动化部署工具   Red/Blue team environment automation deployment tool|846|2|2022-04-05|
-|38|[mviereck/x11docker](https://github.com/mviereck/x11docker)|Run GUI applications and desktops in docker and podman containers. Focus on security.|4032|2|2022-04-06|
+|38|[mviereck/x11docker](https://github.com/mviereck/x11docker)|Run GUI applications and desktops in docker and podman containers. Focus on security.|4036|2|2022-04-06|
 |39|[yc9559/uperf](https://github.com/yc9559/uperf)|Userspace performance controller for android|1283|2|2022-04-04|
 |40|[P3TERX/aria2.conf](https://github.com/P3TERX/aria2.conf)|Aria2 配置文件   OneDrive & Google Drvive 离线下载   百度网盘转存|2067|2|2022-04-01|
 |41|[wulabing/V2Ray_ws-tls_bash_onekey](https://github.com/wulabing/V2Ray_ws-tls_bash_onekey)|-|919|2|2022-04-01|
 |42|[Misaka-blog/Xray-script](https://github.com/Misaka-blog/Xray-script)|Xray一键安装脚本，基于网络跳跃原脚本魔改，支持节点自动生成Nginx伪装站，支持和宝塔面板共存，支持IPv4、IPv6 VPS|113|2|2022-04-03|
 |43|[bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku)|用于在 Heroku 上部署 V2Ray WebSocket。|2046|2|2022-01-06|
 |44|[tossp/redpill-tool-chain](https://github.com/tossp/redpill-tool-chain)|这是一个测试项目，可能会有不可预测的事情发生（比如：毁损数据、烧毁硬件等等），请谨慎使用。|374|2|2022-03-29|
-|45|[haoel/haoel.github.io](https://github.com/haoel/haoel.github.io)|-|5050|2|2022-04-04|
+|45|[haoel/haoel.github.io](https://github.com/haoel/haoel.github.io)|-|5056|2|2022-04-09|
 |46|[Char1es0rz/minerProxy](https://github.com/Char1es0rz/minerProxy)|以太坊矿池代理,可以自定义抽水地址和比例 ,go语言编写,性能极高,唯一正版,明码标价开发费,拒绝暗抽!!!!!!|165|2|2022-04-03|
 |47|[kkkyg/CFwarp](https://github.com/kkkyg/CFwarp)|Cloudflare WARP 多功能一键脚本，（自动识别WGCF与SOCKS5环境，同步循环Endpoint的IP，1：自定义设置刷新奈飞IP、自定义设置奈飞的IP区域，2：自定义设置仅刷IP区域，3：自定义WARP的IP段），支持升级WARP+及Teams账户。已测试：hax纯v6站，Euserv(德鸡)，oracle（甲骨文云）等…………功能更新增加中…|527|2|2022-04-05|
 |48|[ophub/amlogic-s9xxx-armbian](https://github.com/ophub/amlogic-s9xxx-armbian)|Armbian for Amlogic s9xxx tv box. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, etc.  including install to EMMC and update related functions. |379|2|2022-04-05|
 |49|[fscarmen/warp_unlock](https://github.com/fscarmen/warp_unlock)|WARP unlock stream media one-click script. Support IPv4, IPv6 or dual-stack CloudFlare WARP network interface and Socks5 proxy . WARP 解锁流媒体一键脚本|123|2|2022-04-05|
-|50|[prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)|Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 2 ...|5066|2|2022-04-07|
+|50|[prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)|Prowler is an Open Source security tool to perform AWS security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness. It contains more than 2 ...|5085|2|2022-04-07|
 |51|[insightglacier/Dictionary-Of-Pentesting](https://github.com/insightglacier/Dictionary-Of-Pentesting)|Dictionary collection project such as Pentesing, Fuzzing, Bruteforce and BugBounty. 渗透测试、SRC漏洞挖掘、爆破、Fuzzing等字典收集项目。|1093|2|2021-12-14|
 |52|[ethminerpro/minerproxy](https://github.com/ethminerpro/minerproxy)|支持ETC，无论你抽3%还是30%，甚至80%，都是0.3%开发费！全新加密中转软件，简单直观的设置方法；抽水设置范围支持0.1%-90%；无需繁琐设置，打开即用！开发者费率恒定0.3%！|82|2|2022-04-05|
 |53|[kirin10000/Xray-script](https://github.com/kirin10000/Xray-script)|Xray：（VLESS/VMess）-（TCP/gRPC/WebSocket）-（XTLS/TLS）+Web 搭建/管理脚本|818|2|2022-03-19|
@@ -131,7 +131,7 @@
 |124|[Netflixxp/N1HK1dabao](https://github.com/Netflixxp/N1HK1dabao)|项目为自动打包N1和HK1（s905x3）盒子的固件，请勿fork，因为fork无法获取最新的固件，请收藏短网址https://jcnf.xyz/gj 获取最新固件版本；如需只要插件，可收藏另一个短网址 https://jcnf.xyz/ipk|208|1|2022-03-29|
 |125|[SuLingGG/OpenWrt-Mini](https://github.com/SuLingGG/OpenWrt-Mini)|Customized Pure OpenWrt & Self-Build OpenWrt Packages Project.|284|1|2022-01-08|
 |126|[devdawei/libstdc-](https://github.com/devdawei/libstdc-)|Xcode 10 之后删除的 libstdc++ 库|1389|1|2021-11-19|
-|127|[teddysun/lamp](https://github.com/teddysun/lamp)|Install LAMP(Linux + Apache + MySQL/MariaDB + PHP ) for CentOS/Debian/Ubuntu|2527|1|2022-03-18|
+|127|[teddysun/lamp](https://github.com/teddysun/lamp)|Install LAMP(Linux + Apache + MySQL/MariaDB + PHP ) for CentOS/Debian/Ubuntu|2529|1|2022-04-08|
 |128|[rhasspy/rhasspy](https://github.com/rhasspy/rhasspy)|Offline private voice assistant for many human languages|957|1|2022-02-04|
 |129|[lework/kainstall](https://github.com/lework/kainstall)|Use shell scripts to install kubernetes(k8s) high availability clusters and addon components based on kubeadmin with one click.使用shell脚本基于kubeadmin一键安装kubernetes 高可用集群和addon组件。|507|1|2022-04-05|
 |130|[Aurora-Admin-Panel/deploy](https://github.com/Aurora-Admin-Panel/deploy)|一个多服务器端口租用管理面板|585|1|2022-03-12|
@@ -188,23 +188,23 @@
 |181|[SmartIDE/SmartIDE](https://github.com/SmartIDE/SmartIDE)|Be a Smart Developer, 开发从未如此简单|39|0|2022-04-02|
 |182|[jinfeijie/yapi](https://github.com/jinfeijie/yapi)|Docker for YApi 一键部署YApi|218|0|2022-03-24|
 |183|[Alcatraz323/audiohq_module](https://github.com/Alcatraz323/audiohq_module)|Provide binary and apk for controlling each applications volume using Magisk|95|0|2022-04-03|
-|184|[0x192/Bash-Android-Debloater](https://github.com/0x192/Bash-Android-Debloater)|Bash script using ADB to debloat non-rooted smartphones. Improve your privacy, the security and battery life of your device. THIS REPO IS ONLY A MIRROR.|31|0|2021-10-07|
-|185|[EdNovas/vpstoolbox](https://github.com/EdNovas/vpstoolbox)|EdNovas的VPS工具箱|39|0|2022-02-01|
-|186|[Asterisk4Magisk/Xray4Magisk](https://github.com/Asterisk4Magisk/Xray4Magisk)|Xray core with service scripts for Android|149|0|2022-04-02|
-|187|[neroxps/hassio_install](https://github.com/neroxps/hassio_install)|hassio 一键脚本，适配国内网络环境目前兼容(Debian Ubuntu Raspbian)|104|0|2021-10-29|
-|188|[pingcap/blog-cn](https://github.com/pingcap/blog-cn)|-|116|0|2022-03-21|
-|189|[travislee8964/Ocserv-install-script-for-CentOS-RHEL-7](https://github.com/travislee8964/Ocserv-install-script-for-CentOS-RHEL-7)|Ocserv(AnyConnect Server) install script for CentOS/RHEL 7|282|0|2022-01-11|
-|190|[ruzickap/k8s-harbor](https://github.com/ruzickap/k8s-harbor)|Harbor in Kubernetes|27|0|2022-03-25|
-|191|[caippx/bash](https://github.com/caippx/bash)|一些自己写（chao）的jio本|18|0|2021-12-09|
-|192|[Magisk-Modules-Repo/BluetoothLibraryPatcher](https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher)|-|21|0|2021-11-12|
-|193|[suminerProxy/suminerProxy](https://github.com/suminerProxy/suminerProxy)|SuMinerProxy是目前市面上最稳定、价格最低(目前固定开发者费用为0%)、功能最全的矿池代理。全面支持专业矿机。支持CC、DDOS防御！！！支持内置抽水！！！支持一键在windows和Linux系统上搭建矿池抽水代理，使用ssl/tcp转发加密传输数据，支持一键屏蔽服务商的监管系统，使你的行为更加安全私密，防止服务器ip被查封。 可拓展匿名代理，保护服务器，防止DDOS攻击，让你的用户更加 ...|37|0|2022-02-24|
-|194|[BUAA-SE-Compiling/miniSysY-tutorial](https://github.com/BUAA-SE-Compiling/miniSysY-tutorial)|BUAASE2019级的编译实验的实验指导与实验安排|40|0|2022-01-01|
-|195|[dbkangaroo/kangaroo](https://github.com/dbkangaroo/kangaroo)|DBKangaroo's official repo for issue tracker and I18N|204|0|2022-04-01|
-|196|[pkeropen/flink-parcel](https://github.com/pkeropen/flink-parcel)|flink 集成CDH5的自定义paracels|52|0|2022-03-16|
-|197|[MartineauUK/wireguard](https://github.com/MartineauUK/wireguard)|Manage/Install WireGuard on applicable ASUS routers|50|0|2022-04-01|
-|198|[unframework/licheepi-nano-buildroot](https://github.com/unframework/licheepi-nano-buildroot)|Config files for full Lichee Pi Nano Linux image build|47|0|2022-03-07|
-|199|[abcdabcd987/lxc-gpu](https://github.com/abcdabcd987/lxc-gpu)|Enjoy computation resources sharing at your laboratory with lxc-gpu!|43|0|2021-11-29|
-|200|[Magisk-Modules-Repo/acc](https://github.com/Magisk-Modules-Repo/acc)|Upstream repo: |166|0|2022-02-22|
+|184|[EdNovas/vpstoolbox](https://github.com/EdNovas/vpstoolbox)|EdNovas的VPS工具箱|39|0|2022-02-01|
+|185|[Asterisk4Magisk/Xray4Magisk](https://github.com/Asterisk4Magisk/Xray4Magisk)|Xray core with service scripts for Android|149|0|2022-04-02|
+|186|[neroxps/hassio_install](https://github.com/neroxps/hassio_install)|hassio 一键脚本，适配国内网络环境目前兼容(Debian Ubuntu Raspbian)|104|0|2021-10-29|
+|187|[pingcap/blog-cn](https://github.com/pingcap/blog-cn)|-|116|0|2022-03-21|
+|188|[travislee8964/Ocserv-install-script-for-CentOS-RHEL-7](https://github.com/travislee8964/Ocserv-install-script-for-CentOS-RHEL-7)|Ocserv(AnyConnect Server) install script for CentOS/RHEL 7|282|0|2022-01-11|
+|189|[ruzickap/k8s-harbor](https://github.com/ruzickap/k8s-harbor)|Harbor in Kubernetes|27|0|2022-03-25|
+|190|[caippx/bash](https://github.com/caippx/bash)|一些自己写（chao）的jio本|18|0|2021-12-09|
+|191|[Magisk-Modules-Repo/BluetoothLibraryPatcher](https://github.com/Magisk-Modules-Repo/BluetoothLibraryPatcher)|-|21|0|2021-11-12|
+|192|[suminerProxy/suminerProxy](https://github.com/suminerProxy/suminerProxy)|SuMinerProxy是目前市面上最稳定、价格最低(目前固定开发者费用为0%)、功能最全的矿池代理。全面支持专业矿机。支持CC、DDOS防御！！！支持内置抽水！！！支持一键在windows和Linux系统上搭建矿池抽水代理，使用ssl/tcp转发加密传输数据，支持一键屏蔽服务商的监管系统，使你的行为更加安全私密，防止服务器ip被查封。 可拓展匿名代理，保护服务器，防止DDOS攻击，让你的用户更加 ...|37|0|2022-02-24|
+|193|[BUAA-SE-Compiling/miniSysY-tutorial](https://github.com/BUAA-SE-Compiling/miniSysY-tutorial)|BUAASE2019级的编译实验的实验指导与实验安排|40|0|2022-01-01|
+|194|[dbkangaroo/kangaroo](https://github.com/dbkangaroo/kangaroo)|DBKangaroo's official repo for issue tracker and I18N|204|0|2022-04-01|
+|195|[pkeropen/flink-parcel](https://github.com/pkeropen/flink-parcel)|flink 集成CDH5的自定义paracels|52|0|2022-03-16|
+|196|[MartineauUK/wireguard](https://github.com/MartineauUK/wireguard)|Manage/Install WireGuard on applicable ASUS routers|50|0|2022-04-01|
+|197|[unframework/licheepi-nano-buildroot](https://github.com/unframework/licheepi-nano-buildroot)|Config files for full Lichee Pi Nano Linux image build|47|0|2022-03-07|
+|198|[abcdabcd987/lxc-gpu](https://github.com/abcdabcd987/lxc-gpu)|Enjoy computation resources sharing at your laboratory with lxc-gpu!|43|0|2021-11-29|
+|199|[Magisk-Modules-Repo/acc](https://github.com/Magisk-Modules-Repo/acc)|Upstream repo: |166|0|2022-02-22|
+|200|[a244573118/WeChatIntercept](https://github.com/a244573118/WeChatIntercept)|微信防撤回插件，一键安装，仅MAC可用，支持新版3.2.0微信|399|0|2022-03-24|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

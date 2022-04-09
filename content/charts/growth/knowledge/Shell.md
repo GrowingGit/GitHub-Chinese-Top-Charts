@@ -1,37 +1,37 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Shell
-<sub>数据更新: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|23554|15|2022-03-14|
-|2|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|6794|6|2022-03-22|
-|3|[rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)|Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook|9829|5|2022-04-07|
+|1|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|23566|15|2022-03-14|
+|2|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|6797|6|2022-03-22|
+|3|[rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)|Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook|9834|5|2022-04-07|
 |4|[kiddin9/OpenWrt_x86-r2s-r4s](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s)|Automatic unattended weekly builds of the current OpenWrt development master branch for X86_64, NanoPi-R2S, NanoPi-R4S, Rpi-4B|2041|3|2022-04-05|
 |5|[judasn/Linux-Tutorial](https://github.com/judasn/Linux-Tutorial)|《Java 程序员眼中的 Linux》|7816|3|2022-01-31|
 |6|[rootsongjc/kubernetes-hardening-guidance](https://github.com/rootsongjc/kubernetes-hardening-guidance)|《Kubernetes 加固手册》（美国国家安全局出品）- https://jimmysong.io/kubernetes-hardening-guidance|452|2|2022-03-13|
 |7|[wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial)|Bash 教程|3475|2|2022-03-08|
 |8|[AlphabugX/csOnvps](https://github.com/AlphabugX/csOnvps)|CobaltStrike4.4 一键部署脚本 随机生成密码、key、端口号、证书等，解决cs4.x无法运行在Linux上报错问题 灰常银杏化设计|196|2|2022-03-19|
 |9|[johnrosen1/vpstoolbox](https://github.com/johnrosen1/vpstoolbox)|厌倦了总是需要手动输入命令安装博客，网盘，RSS，邮箱，影音，代理了吗？VPSToolBox提供了一整套全自动化的解决方案，解放双手，从今天开始！|1346|2|2022-04-05|
-|10|[wind-liang/leetcode](https://github.com/wind-liang/leetcode)|leetcode 顺序刷题，详细通俗题解，with JAVA|2281|2|2022-03-13|
+|10|[wind-liang/leetcode](https://github.com/wind-liang/leetcode)|leetcode 顺序刷题，详细通俗题解，with JAVA|2282|2|2022-04-07|
 |11|[rootsongjc/opentelemetry-obervability](https://github.com/rootsongjc/opentelemetry-obervability)|《OpenTelemetry 可观测性的未来》  O'Reilly 报告 - https://jimmysong.io/opentelemetry-obervability/|103|2|2022-03-13|
-|12|[jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow)|Curated list of resources about Apache Airflow|2901|2|2022-03-19|
-|13|[rootsongjc/envoy-handbook](https://github.com/rootsongjc/envoy-handbook)|Envoy 基础教程 - https://jimmysong.io/envoy-handbook/|59|2|2022-03-14|
-|14|[wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial)|JavaScript 教程 https://wangdoc.com/javascript|3264|2|2022-04-07|
-|15|[duguying/parsing-techniques](https://github.com/duguying/parsing-techniques)|📕 parsing techniques 中文译本——《解析技术》|1259|1|2021-11-08|
-|16|[godbasin/vue-ebook](https://github.com/godbasin/vue-ebook)|《深入理解Vue.js实战》- 介绍Vue.js框架的出现、设计和使用，结合实战让读者更深入理解Vue.js框架，掌握使用方法。|849|1|2022-03-23|
-|17|[Petit-Abba/backup_script_zh-CN](https://github.com/Petit-Abba/backup_script_zh-CN)|数据备份脚本 简体中文版|291|1|2022-04-05|
-|18|[rootsongjc/developer-advocacy-handbook](https://github.com/rootsongjc/developer-advocacy-handbook)|开发者布道手册 - https://jimmysong.io/developer-advocacy-handbook/|27|1|2022-03-25|
-|19|[bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese)|🧰 优秀工具箱集合|47|1|2022-03-14|
-|20|[Misaka-blog/acme-1key](https://github.com/Misaka-blog/acme-1key)|Acme.sh 域名证书一键申请脚本|67|1|2022-04-03|
-|21|[wangdoc/es6-tutorial](https://github.com/wangdoc/es6-tutorial)|一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。|731|1|2022-03-31|
-|22|[overmind1980/oeasypython](https://github.com/overmind1980/oeasypython)|面向初学者的简明易懂的 Python3 课程，对没有编程经验的同学也非常友好。在vim下从浅入深，逐步学习。|205|1|2022-03-16|
-|23|[wslutilities/wslu](https://github.com/wslutilities/wslu)|A collection of utilities for Windows 10 Linux Subsystems|2175|1|2022-03-28|
-|24|[goreliu/zshguide](https://github.com/goreliu/zshguide)|Zsh 开发指南|914|1|2021-11-26|
-|25|[charlax/engineering-management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|2884|1|2022-04-03|
-|26|[WindrunnerMax/EveryDay](https://github.com/WindrunnerMax/EveryDay)|前端基础 个人博客 学习笔记|693|1|2022-03-30|
-|27|[studygolang/GCTT](https://github.com/studygolang/GCTT)|GCTT Go中文网翻译组。|1343|1|2022-03-13|
+|12|[jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow)|Curated list of resources about Apache Airflow|2904|2|2022-03-19|
+|13|[wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial)|JavaScript 教程 https://wangdoc.com/javascript|3262|2|2022-04-07|
+|14|[duguying/parsing-techniques](https://github.com/duguying/parsing-techniques)|📕 parsing techniques 中文译本——《解析技术》|1259|1|2021-11-08|
+|15|[godbasin/vue-ebook](https://github.com/godbasin/vue-ebook)|《深入理解Vue.js实战》- 介绍Vue.js框架的出现、设计和使用，结合实战让读者更深入理解Vue.js框架，掌握使用方法。|849|1|2022-03-23|
+|16|[Petit-Abba/backup_script_zh-CN](https://github.com/Petit-Abba/backup_script_zh-CN)|数据备份脚本 简体中文版|291|1|2022-04-05|
+|17|[rootsongjc/developer-advocacy-handbook](https://github.com/rootsongjc/developer-advocacy-handbook)|开发者布道手册 - https://jimmysong.io/developer-advocacy-handbook/|27|1|2022-03-25|
+|18|[bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese)|🧰 优秀工具箱集合|47|1|2022-03-14|
+|19|[Misaka-blog/acme-1key](https://github.com/Misaka-blog/acme-1key)|Acme.sh 域名证书一键申请脚本|67|1|2022-04-03|
+|20|[wangdoc/es6-tutorial](https://github.com/wangdoc/es6-tutorial)|一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。|731|1|2022-03-31|
+|21|[overmind1980/oeasypython](https://github.com/overmind1980/oeasypython)|面向初学者的简明易懂的 Python3 课程，对没有编程经验的同学也非常友好。在vim下从浅入深，逐步学习。|205|1|2022-03-16|
+|22|[wslutilities/wslu](https://github.com/wslutilities/wslu)|A collection of utilities for Windows 10 Linux Subsystems|2175|1|2022-03-28|
+|23|[goreliu/zshguide](https://github.com/goreliu/zshguide)|Zsh 开发指南|914|1|2021-11-26|
+|24|[charlax/engineering-management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|2899|1|2022-04-03|
+|25|[WindrunnerMax/EveryDay](https://github.com/WindrunnerMax/EveryDay)|前端基础 个人博客 学习笔记|693|1|2022-03-30|
+|26|[studygolang/GCTT](https://github.com/studygolang/GCTT)|GCTT Go中文网翻译组。|1343|1|2022-03-13|
+|27|[rootsongjc/envoy-handbook](https://github.com/rootsongjc/envoy-handbook)|Envoy 基础教程 - https://jimmysong.io/envoy-handbook/|59|1|2022-03-14|
 |28|[LCTT/TranslateProject](https://github.com/LCTT/TranslateProject)|Linux中国翻译项目|1886|1|2022-04-05|
 |29|[marmotedu/geekbang-go](https://github.com/marmotedu/geekbang-go)|极客时间 《Go 语言项目开发实战》课程补充教程。|172|1|2021-11-05|
 |30|[Petit-Abba/black_and_white_list](https://github.com/Petit-Abba/black_and_white_list)|Magisk模块: 定时清理黑名单列表路径文件or文件夹|122|1|2021-11-13|

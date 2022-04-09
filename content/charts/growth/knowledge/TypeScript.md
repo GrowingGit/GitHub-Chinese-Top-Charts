@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > TypeScript
-<sub>数据更新: 2022-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[liyupi/mianshiya-public](https://github.com/liyupi/mianshiya-public)|干净免费的面试刷题网站，帮助大家拿到满意的 offer！💎 React 前端 + Node 后端 + 云开发全栈项目 by 程序员鱼皮|2106|22|2022-03-27|
-|2|[Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|4150|9|2022-04-07|
-|3|[cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue)|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|5744|9|2022-04-03|
+|2|[Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner)|为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers|4310|10|2022-04-09|
+|3|[cuixiaorui/mini-vue](https://github.com/cuixiaorui/mini-vue)|实现最简 vue3 模型( Help you learn more efficiently vue3 source code )|5772|9|2022-04-03|
 |4|[aykutkardas/regexlearn.com](https://github.com/aykutkardas/regexlearn.com)|Learn RegEx step by step, from zero to advanced.|1708|8|2022-03-31|
-|5|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16979|7|2022-03-28|
-|6|[doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn)|🇨🇳 《JavaScript 二十年》中文版|3795|5|2022-02-19|
+|5|[basarat/typescript-book](https://github.com/basarat/typescript-book)|:books: The definitive guide to TypeScript and possibly the best TypeScript book :book:. Free and Open Source 🌹|16988|7|2022-03-28|
+|6|[doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn)|🇨🇳 《JavaScript 二十年》中文版|3798|5|2022-02-19|
 |7|[chowa/ejyy](https://github.com/chowa/ejyy)|「e家宜业」是一整套开源智慧物业解决方案，基于nodejs、typescript、koa、vue开发，包含web中台、业主小程序、员工小程序、公众号、物联网应用等，涵盖业主服务、物业运营、智能物联、数据统计等主要业务。|613|4|2022-03-03|
-|8|[xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8714|4|2022-02-10|
-|9|[jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)|TypeScript Deep Dive 中文版 |5305|4|2022-02-26|
-|10|[alibaba/pipcook](https://github.com/alibaba/pipcook)|Machine learning platform for Web developers|2232|3|2022-04-06|
-|11|[btroncone/learn-rxjs](https://github.com/btroncone/learn-rxjs)|Clear examples, explanations, and resources for RxJS|3501|2|2022-04-06|
+|8|[xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)|TypeScript 入门教程|8721|4|2022-04-09|
+|9|[jkchao/typescript-book-chinese](https://github.com/jkchao/typescript-book-chinese)|TypeScript Deep Dive 中文版 |5310|4|2022-02-26|
+|10|[alibaba/pipcook](https://github.com/alibaba/pipcook)|Machine learning platform for Web developers|2233|3|2022-04-08|
+|11|[btroncone/learn-rxjs](https://github.com/btroncone/learn-rxjs)|Clear examples, explanations, and resources for RxJS|3502|2|2022-04-06|
 |12|[soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus)|🦠  Huge collection of useful projects and resources for COVID-19 (2019 novel Coronavirus)|1477|2|2022-04-05|
-|13|[zhongsp/TypeScript](https://github.com/zhongsp/TypeScript)|TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org|5695|2|2022-03-29|
+|13|[zhongsp/TypeScript](https://github.com/zhongsp/TypeScript)|TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org|5697|2|2022-03-29|
 |14|[vitest-dev/docs-cn](https://github.com/vitest-dev/docs-cn)|Vitest 中文文档|100|2|2022-04-05|
 |15|[sorrycc/weekly](https://github.com/sorrycc/weekly)|前端周刊，每周一发布。|841|2|2022-02-06|
 |16|[Acmenlei/next-ssr-blog](https://github.com/Acmenlei/next-ssr-blog)|用nextjs+typescript+node+mysql+redis+antd重构的Many-people-blog仓库博客，较好的SEO支持，感兴趣的朋友可以详细了解一下，持续优化...|392|1|2022-03-23|
@@ -26,7 +26,7 @@
 |19|[zenghongtu/react-use-chinese](https://github.com/zenghongtu/react-use-chinese)|中文文档@react-use|861|1|2021-12-06|
 |20|[loomnetwork/cryptozombie-lessons](https://github.com/loomnetwork/cryptozombie-lessons)|Lesson content for cryptozombies.io|889|1|2022-04-02|
 |21|[alibaba/kiwi](https://github.com/alibaba/kiwi)|🐤 Kiwi-国际化翻译全流程解决方案|1990|1|2022-03-10|
-|22|[loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3422|1|2022-03-24|
+|22|[loiane/javascript-datastructures-algorithms](https://github.com/loiane/javascript-datastructures-algorithms)|:books: collection of JavaScript and TypeScript data structures and algorithms for education purposes. Source code bundle of JavaScript algorithms and data structures book|3423|1|2022-03-24|
 |23|[EhTagTranslation/EhSyringe](https://github.com/EhTagTranslation/EhSyringe)|E 站注射器，将中文翻译注入到 E 站体内|1426|1|2022-04-01|
 |24|[wistingcn/WiLearning](https://github.com/wistingcn/WiLearning)|Multiparty meeting&e-learning  using mediasoup, webrtc ,angular and ionic with powerful whiteboard support|418|1|2021-10-28|
 |25|[bytedance/guide](https://github.com/bytedance/guide)|A new feature guide component by react 🧭|511|1|2022-02-03|
