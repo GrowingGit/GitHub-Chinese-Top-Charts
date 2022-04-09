@@ -205,7 +205,7 @@
 |198|[liyiorg/weixin-popular](https://github.com/liyiorg/weixin-popular)|微信SDK  JAVA  (公众平台、开放平台、 商户平台、 服务商平台)|2410|2022-03-16|
 |199|[bytedance/ByteX](https://github.com/bytedance/ByteX)|ByteX is a bytecode plugin platform based on Android Gradle Transform API and ASM.  字节码插件开发平台|2404|2022-03-11|
 |200|[jeequan/jeepay](https://github.com/jeequan/jeepay)|Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。|2402|2022-04-06|
-
+|201|[MohistMC/Mohist](https://github.com/MohistMC/Mohist)|Mohistmc是一个高性能minecraft服务器核心，支持模组与插件共存。|796|2022-04-09|
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
     榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
