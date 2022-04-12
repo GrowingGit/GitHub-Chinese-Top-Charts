@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Kotlin
-<sub>数据更新: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[mamoe/mirai](https://github.com/mamoe/mirai)|高效率 QQ 机器人支持库|8980|2022-04-09|
-|2|[coil-kt/coil](https://github.com/coil-kt/coil)|Image loading for Android backed by Kotlin Coroutines.|7962|2022-04-07|
-|3|[gedoor/legado](https://github.com/gedoor/legado)|阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|7621|2022-04-09|
-|4|[mockk/mockk](https://github.com/mockk/mockk)|mocking library for Kotlin|4401|2022-03-25|
-|5|[ssseasonnn/RxDownload](https://github.com/ssseasonnn/RxDownload)|A multi-threaded download tool written with RxJava and Kotlin|4054|2021-10-28|
-|6|[bennyhuo/Kotlin-Tutorials](https://github.com/bennyhuo/Kotlin-Tutorials)|【持续更新中】本仓库持续记录以 Kotlin 为基础的视频内容的制作过程|4043|2022-04-03|
+|1|[mamoe/mirai](https://github.com/mamoe/mirai)|高效率 QQ 机器人支持库|8988|2022-04-09|
+|2|[coil-kt/coil](https://github.com/coil-kt/coil)|Image loading for Android backed by Kotlin Coroutines.|7967|2022-04-11|
+|3|[gedoor/legado](https://github.com/gedoor/legado)|阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|7634|2022-04-10|
+|4|[mockk/mockk](https://github.com/mockk/mockk)|mocking library for Kotlin|4404|2022-03-25|
+|5|[ssseasonnn/RxDownload](https://github.com/ssseasonnn/RxDownload)|A multi-threaded download tool written with RxJava and Kotlin|4055|2021-10-28|
+|6|[bennyhuo/Kotlin-Tutorials](https://github.com/bennyhuo/Kotlin-Tutorials)|【持续更新中】本仓库持续记录以 Kotlin 为基础的视频内容的制作过程|4045|2022-04-03|
 |7|[didi/booster](https://github.com/didi/booster)|🚀Optimizer for mobile applications|3956|2022-04-05|
-|8|[izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets)|🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio|3681|2022-04-03|
-|9|[yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming)|哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.|3534|2022-04-09|
+|8|[izhangzhihao/intellij-rainbow-brackets](https://github.com/izhangzhihao/intellij-rainbow-brackets)|🌈Rainbow Brackets for IntelliJ based IDEs/Android Studio/HUAWEI DevEco Studio|3680|2022-04-10|
+|9|[yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming)|哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.|3586|2022-04-09|
 |10|[liujingxing/rxhttp](https://github.com/liujingxing/rxhttp)| 🔥🔥🔥 Based on OkHttp encapsulation, support Kotlin Coroutines、RxJava2、RxJava3; 30s to get started.|3245|2022-04-05|
-|11|[Szaki/XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)|A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot|3039|2022-04-01|
-|12|[wuseal/JsonToKotlinClass](https://github.com/wuseal/JsonToKotlinClass)|🚀 Plugin for Android Studio And IntelliJ Idea to generate Kotlin data class code from JSON text ( Json to Kotlin )|2551|2021-11-01|
-|13|[princekin-f/EasyFloat](https://github.com/princekin-f/EasyFloat)|🔥 EasyFloat：浮窗从未如此简单（Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）|2395|2021-12-01|
+|11|[Szaki/XiaomiADBFastbootTools](https://github.com/Szaki/XiaomiADBFastbootTools)|A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot|3040|2022-04-01|
+|12|[wuseal/JsonToKotlinClass](https://github.com/wuseal/JsonToKotlinClass)|🚀 Plugin for Android Studio And IntelliJ Idea to generate Kotlin data class code from JSON text ( Json to Kotlin )|2553|2021-11-01|
+|13|[princekin-f/EasyFloat](https://github.com/princekin-f/EasyFloat)|🔥 EasyFloat：浮窗从未如此简单（Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）|2397|2021-12-01|
 |14|[guolindev/PermissionX](https://github.com/guolindev/PermissionX)|An open source Android library that makes handling runtime permissions extremely easy.|2375|2021-12-24|
 |15|[caiyonglong/MusicLake](https://github.com/caiyonglong/MusicLake)|MediaPlayer、Exoplayer音乐播放器，可播在线音乐，qq音乐，百度音乐，虾米音乐，网易云音乐，YouTuBe|2332|2022-02-27|
 |16|[guolindev/coolweatherjetpack](https://github.com/guolindev/coolweatherjetpack)|酷欧天气的Jetpack版本实现，采用了MVVM架构。|2163|2022-03-28|
@@ -194,17 +194,17 @@
 |187|[anyascii/anyascii](https://github.com/anyascii/anyascii)|Unicode to ASCII transliteration - C Go Java JS Julia PHP Python Ruby Rust Shell .NET|86|2022-03-24|
 |188|[shigebeyond/jkmvc](https://github.com/shigebeyond/jkmvc)|Jkmvc is an elegant, powerful and lightweight MVC & ORM framework built using kotlin. It aims to be swift, secure, and small. It will turn java's heavy development into kotlin's simple pleasure. No sp ...|86|2022-03-28|
 |189|[YuQWorks/YuQ-Mirai](https://github.com/YuQWorks/YuQ-Mirai)|-|84|2022-02-10|
-|190|[YggdrasilOfficialProxy/YggdrasilOfficialProxy](https://github.com/YggdrasilOfficialProxy/YggdrasilOfficialProxy)|MojangYggdrasil的更新! 以代理的方式提供伪正版与正版的实现|81|2021-10-09|
-|191|[xyoye/ComicTools](https://github.com/xyoye/ComicTools)|将BiliBili漫画缓存文件转换成可直接观看的webp文件|81|2021-10-14|
-|192|[iftechio/SquareLayoutManager](https://github.com/iftechio/SquareLayoutManager)|小宇宙 App 广场组件，带惯性运动的二维矩阵卡片列表 UI，自定义 LayoutManager + SnapHelper|80|2021-11-17|
-|193|[cssxsh/pixiv-helper](https://github.com/cssxsh/pixiv-helper)|mirai-console 插件开发计划|80|2022-04-01|
-|194|[sonder-joker/mirai-compose](https://github.com/sonder-joker/mirai-compose)|mirai-console的跨平台桌面端|79|2022-02-07|
-|195|[cssxsh/bilibili-helper](https://github.com/cssxsh/bilibili-helper)|mirai-console 插件开发计划|79|2022-04-01|
-|196|[behring/8x-flow-diagram](https://github.com/behring/8x-flow-diagram)|通过Kotlin DSL创建8x Flow建模图|78|2022-03-10|
-|197|[linxiangcheer/PlayAndroid](https://github.com/linxiangcheer/PlayAndroid)|Jetpack Compose版本的WanAndroid|76|2022-02-22|
-|198|[Vove7/Android-Accessibility-Api](https://github.com/Vove7/Android-Accessibility-Api)|安卓无障碍服务Api, 为了简化无障碍服务使用，并使用 Kotlin 以提供简洁的Api。|76|2022-03-12|
-|199|[StevenYan88/MovieApp](https://github.com/StevenYan88/MovieApp)|电影资讯App是一个纯练手项目，使用Kotlin语言开发。|76|2022-03-12|
-|200|[liujingxing/XmlClassGuard](https://github.com/liujingxing/XmlClassGuard)|一个可混淆4大组件，自定义View等任意类的插件，上架Google Play的利器|75|2022-04-02|
+|190|[xyoye/ComicTools](https://github.com/xyoye/ComicTools)|将BiliBili漫画缓存文件转换成可直接观看的webp文件|81|2021-10-14|
+|191|[iftechio/SquareLayoutManager](https://github.com/iftechio/SquareLayoutManager)|小宇宙 App 广场组件，带惯性运动的二维矩阵卡片列表 UI，自定义 LayoutManager + SnapHelper|80|2021-11-17|
+|192|[cssxsh/pixiv-helper](https://github.com/cssxsh/pixiv-helper)|mirai-console 插件开发计划|80|2022-04-01|
+|193|[sonder-joker/mirai-compose](https://github.com/sonder-joker/mirai-compose)|mirai-console的跨平台桌面端|79|2022-02-07|
+|194|[cssxsh/bilibili-helper](https://github.com/cssxsh/bilibili-helper)|mirai-console 插件开发计划|79|2022-04-01|
+|195|[behring/8x-flow-diagram](https://github.com/behring/8x-flow-diagram)|通过Kotlin DSL创建8x Flow建模图|78|2022-03-10|
+|196|[linxiangcheer/PlayAndroid](https://github.com/linxiangcheer/PlayAndroid)|Jetpack Compose版本的WanAndroid|76|2022-02-22|
+|197|[Vove7/Android-Accessibility-Api](https://github.com/Vove7/Android-Accessibility-Api)|安卓无障碍服务Api, 为了简化无障碍服务使用，并使用 Kotlin 以提供简洁的Api。|76|2022-03-12|
+|198|[StevenYan88/MovieApp](https://github.com/StevenYan88/MovieApp)|电影资讯App是一个纯练手项目，使用Kotlin语言开发。|76|2022-03-12|
+|199|[liujingxing/XmlClassGuard](https://github.com/liujingxing/XmlClassGuard)|一个可混淆4大组件，自定义View等任意类的插件，上架Google Play的利器|75|2022-04-02|
+|200|[liangjingkanji/Serialize](https://github.com/liangjingkanji/Serialize)|🍒 Android 快速读写本地/Intent数据, 比MMKV/SQLite/SP更快速|75|2022-03-25|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
