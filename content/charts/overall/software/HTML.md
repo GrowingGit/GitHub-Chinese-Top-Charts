@@ -1,34 +1,34 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > HTML
-<sub>数据更新: 2022-04-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-04-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Tencent/weui](https://github.com/Tencent/weui)|A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.|26182|2022-04-10|
-|2|[electron/electron-api-demos](https://github.com/electron/electron-api-demos)|Explore the Electron APIs|10042|2022-03-28|
-|3|[mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)|:triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.|9532|2022-04-15|
-|4|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|9221|2022-03-29|
-|5|[mdo/code-guide](https://github.com/mdo/code-guide)|Standards for developing consistent, flexible, and sustainable HTML and CSS.|7898|2022-04-11|
-|6|[all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)|✨ Recognize all contributors, not just the ones who push code ✨|6181|2022-04-15|
-|7|[Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)|My Blog / Jekyll Themes / PWA|6175|2022-04-10|
-|8|[AirtestProject/Airtest](https://github.com/AirtestProject/Airtest)|UI Automation Framework for Games and Apps|6054|2022-04-14|
-|9|[goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn)|The most trusted Go module proxy in China.|5744|2022-03-16|
-|10|[Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language)|Dism++ Multi-language Support & BUG Report|4940|2022-02-11|
+|1|[Tencent/weui](https://github.com/Tencent/weui)|A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.|26186|2022-04-10|
+|2|[electron/electron-api-demos](https://github.com/electron/electron-api-demos)|Explore the Electron APIs|10043|2022-03-28|
+|3|[mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)|:triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.|9544|2022-04-16|
+|4|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|9284|2022-03-29|
+|5|[mdo/code-guide](https://github.com/mdo/code-guide)|Standards for developing consistent, flexible, and sustainable HTML and CSS.|7899|2022-04-11|
+|6|[all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)|✨ Recognize all contributors, not just the ones who push code ✨|6187|2022-04-15|
+|7|[Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)|My Blog / Jekyll Themes / PWA|6179|2022-04-10|
+|8|[AirtestProject/Airtest](https://github.com/AirtestProject/Airtest)|UI Automation Framework for Games and Apps|6057|2022-04-14|
+|9|[goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn)|The most trusted Go module proxy in China.|5743|2022-03-16|
+|10|[Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language)|Dism++ Multi-language Support & BUG Report|4951|2022-02-11|
 |11|[cloudfavorites/favorites-web](https://github.com/cloudfavorites/favorites-web)|云收藏 Spring Boot 2.X 开源项目|4530|2022-02-26|
 |12|[leizongmin/js-xss](https://github.com/leizongmin/js-xss)|Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist|4498|2022-04-06|
 |13|[hamukazu/lets-get-arrested](https://github.com/hamukazu/lets-get-arrested)|This project is intended to protest against the police in Japan|4110|2022-02-15|
-|14|[grangier/python-goose](https://github.com/grangier/python-goose)|Html Content / Article Extractor, web scrapping lib in Python|3763|2021-12-26|
-|15|[Sakura-gh/ML-notes](https://github.com/Sakura-gh/ML-notes)|notes about machine learning|3249|2021-11-22|
+|14|[grangier/python-goose](https://github.com/grangier/python-goose)|Html Content / Article Extractor, web scrapping lib in Python|3764|2021-12-26|
+|15|[Sakura-gh/ML-notes](https://github.com/Sakura-gh/ML-notes)|notes about machine learning|3250|2021-11-22|
 |16|[NLPIR-team/NLPIR](https://github.com/NLPIR-team/NLPIR)|-|3153|2022-03-29|
-|17|[kubernetes/website](https://github.com/kubernetes/website)|Kubernetes website and documentation repo: |3092|2022-04-16|
+|17|[kubernetes/website](https://github.com/kubernetes/website)|Kubernetes website and documentation repo: |3096|2022-04-17|
 |18|[zfaka-plus/zfaka](https://github.com/zfaka-plus/zfaka)|免费、安全、稳定、高效的发卡系统，值得拥有!|3029|2022-01-15|
-|19|[kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages)|openwrt常用软件包|2990|2022-04-16|
+|19|[kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages)|openwrt常用软件包|2995|2022-04-17|
 |20|[hellokaton/java-bible](https://github.com/hellokaton/java-bible)|:banana: 我的技术摘要|2948|2022-02-12|
-|21|[qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php)|An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.|2852|2022-04-16|
-|22|[xxlllq/system_architect](https://github.com/xxlllq/system_architect)|:100:高质量、最全面的2022年系统架构设计师（软考高级）备考资源库。|2785|2022-03-11|
-|23|[rubickCenter/rubick](https://github.com/rubickCenter/rubick)|🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。|2761|2022-04-15|
-|24|[qiubaiying/qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io)|BY Blog ->|2705|2022-04-16|
+|21|[qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php)|An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.|2856|2022-04-16|
+|22|[xxlllq/system_architect](https://github.com/xxlllq/system_architect)|:100:高质量、最全面的2022年系统架构设计师（软考高级）备考资源库。|2787|2022-03-11|
+|23|[rubickCenter/rubick](https://github.com/rubickCenter/rubick)|🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。|2763|2022-04-15|
+|24|[qiubaiying/qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io)|BY Blog ->|2708|2022-04-17|
 |25|[TencentCloud/TIMSDK](https://github.com/TencentCloud/TIMSDK)|腾讯云即时通信 IM 服务，国内下载镜像：|2032|2022-04-12|
 |26|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)|Card-style Hugo theme designed for bloggers|2016|2022-04-12|
 |27|[yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi)|:tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用|1955|2022-04-03|
