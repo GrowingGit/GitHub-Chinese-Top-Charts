@@ -1,156 +1,156 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > TypeScript
-<sub>数据更新: 2022-05-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-05-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ant-design/ant-design](https://github.com/ant-design/ant-design)|An enterprise-class UI design language and React UI library|80269|2022-05-16|
-|2|[apache/echarts](https://github.com/apache/echarts)|Apache ECharts is a powerful, interactive charting and data visualization library for browser|51010|2022-05-16|
-|3|[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|The repository for high quality TypeScript type definitions.|39033|2022-05-15|
-|4|[supabase/supabase](https://github.com/supabase/supabase)|The open source Firebase alternative. Follow to stay updated about our public Beta.|33232|2022-05-16|
-|5|[ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)|👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!|32047|2022-05-10|
-|6|[NervJS/taro](https://github.com/NervJS/taro)|开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/|30989|2022-05-13|
+|1|[ant-design/ant-design](https://github.com/ant-design/ant-design)|An enterprise-class UI design language and React UI library|80280|2022-05-17|
+|2|[apache/echarts](https://github.com/apache/echarts)|Apache ECharts is a powerful, interactive charting and data visualization library for browser|51023|2022-05-16|
+|3|[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|The repository for high quality TypeScript type definitions.|39049|2022-05-17|
+|4|[supabase/supabase](https://github.com/supabase/supabase)|The open source Firebase alternative. Follow to stay updated about our public Beta.|33275|2022-05-17|
+|5|[ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)|👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!|32053|2022-05-10|
+|6|[NervJS/taro](https://github.com/NervJS/taro)|开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/|30997|2022-05-17|
 |7|[wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan)|文言文編程語言 A programming language for the ancient Chinese.|18191|2022-03-24|
-|8|[alibaba/ice](https://github.com/alibaba/ice)|🚀 The Progressive App Framework Based On React（基于 React 的渐进式应用框架）|17176|2022-05-16|
-|9|[pnpm/pnpm](https://github.com/pnpm/pnpm)|Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具|17139|2022-05-16|
-|10|[oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)|Switch hosts quickly!|16895|2022-05-11|
+|8|[alibaba/ice](https://github.com/alibaba/ice)|🚀 The Progressive App Framework Based On React（基于 React 的渐进式应用框架）|17178|2022-05-16|
+|9|[pnpm/pnpm](https://github.com/pnpm/pnpm)|Fast, disk space efficient package manager -- 快速的，节省磁盘空间的包管理工具|17150|2022-05-17|
+|10|[oldj/SwitchHosts](https://github.com/oldj/SwitchHosts)|Switch hosts quickly!|16902|2022-05-11|
 |11|[ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll)|:scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance|15495|2022-03-31|
-|12|[Tencent/vConsole](https://github.com/Tencent/vConsole)|A lightweight, extendable front-end developer tool for mobile web page.|14529|2022-04-14|
-|13|[CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)|Foreign language reading and translation assistant based on copy and translate.|13676|2022-04-25|
-|14|[wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor)|wangEditor —— 开源 Web 富文本编辑器|13573|2022-05-13|
-|15|[the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)|强大的哔哩哔哩增强脚本|12819|2022-05-15|
-|16|[umijs/qiankun](https://github.com/umijs/qiankun)|📦 🚀 Blazing fast, simple and complete solution for micro frontends.|12567|2022-05-12|
-|17|[umijs/umi](https://github.com/umijs/umi)|🌋 Pluggable enterprise-level react application framework.|12321|2022-05-13|
+|12|[Tencent/vConsole](https://github.com/Tencent/vConsole)|A lightweight, extendable front-end developer tool for mobile web page.|14538|2022-04-14|
+|13|[CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)|Foreign language reading and translation assistant based on copy and translate.|13684|2022-04-25|
+|14|[wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor)|wangEditor —— 开源 Web 富文本编辑器|13597|2022-05-17|
+|15|[the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)|强大的哔哩哔哩增强脚本|12824|2022-05-15|
+|16|[umijs/qiankun](https://github.com/umijs/qiankun)|📦 🚀 Blazing fast, simple and complete solution for micro frontends.|12575|2022-05-12|
+|17|[umijs/umi](https://github.com/umijs/umi)|🌋 Pluggable enterprise-level react application framework.|12324|2022-05-13|
 |18|[unlock-music/unlock-music](https://github.com/unlock-music/unlock-music)|Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。|12144|2022-03-18|
-|19|[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)|record and replay the web|11622|2022-05-14|
-|20|[antvis/G2](https://github.com/antvis/G2)|📊 A highly interactive data-driven visualization grammar for statistical charts.|11185|2022-05-16|
-|21|[baidu/amis](https://github.com/baidu/amis)|前端低代码框架，通过 JSON 配置就能生成各种页面。|10863|2022-05-16|
-|22|[ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile)|Essential UI blocks for building mobile web apps.|10259|2022-05-16|
-|23|[snabbdom/snabbdom](https://github.com/snabbdom/snabbdom)|A virtual DOM library with focus on simplicity, modularity, powerful features and performance.|10209|2022-05-13|
-|24|[crimx/ext-saladict](https://github.com/crimx/ext-saladict)|🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.|9107|2022-04-29|
-|25|[alibaba/hooks](https://github.com/alibaba/hooks)|A high-quality & reliable React Hooks library.|9060|2022-05-16|
-|26|[TuSimple/naive-ui](https://github.com/TuSimple/naive-ui)|A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.|8828|2022-05-16|
+|19|[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)|record and replay the web|11626|2022-05-14|
+|20|[antvis/G2](https://github.com/antvis/G2)|📊 A highly interactive data-driven visualization grammar for statistical charts.|11187|2022-05-17|
+|21|[baidu/amis](https://github.com/baidu/amis)|前端低代码框架，通过 JSON 配置就能生成各种页面。|10878|2022-05-17|
+|22|[ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile)|Essential UI blocks for building mobile web apps.|10263|2022-05-17|
+|23|[snabbdom/snabbdom](https://github.com/snabbdom/snabbdom)|A virtual DOM library with focus on simplicity, modularity, powerful features and performance.|10210|2022-05-13|
+|24|[crimx/ext-saladict](https://github.com/crimx/ext-saladict)|🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.|9115|2022-05-16|
+|25|[alibaba/hooks](https://github.com/alibaba/hooks)|A high-quality & reliable React Hooks library.|9071|2022-05-16|
+|26|[TuSimple/naive-ui](https://github.com/TuSimple/naive-ui)|A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.|8836|2022-05-16|
 |27|[alibaba/formily](https://github.com/alibaba/formily)|Alibaba Group Unified Form Solution -- Support React/ReactNative/Vue2/Vue3|7664|2022-05-16|
-|28|[colinhacks/zod](https://github.com/colinhacks/zod)|TypeScript-first schema validation with static type inference|7543|2022-05-14|
+|28|[colinhacks/zod](https://github.com/colinhacks/zod)|TypeScript-first schema validation with static type inference|7552|2022-05-14|
 |29|[thx/rap2-delos](https://github.com/thx/rap2-delos)|阿里妈妈前端团队出品的开源接口管理工具RAP第二代|7311|2021-11-26|
-|30|[liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan)|阿里云盘小白羊版  阿里云盘PC版 aliyundriver|7142|2022-04-15|
-|31|[microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio)|Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.|6788|2022-05-15|
-|32|[whyour/qinglong](https://github.com/whyour/qinglong)|支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）|6519|2022-05-15|
-|33|[SigNoz/signoz](https://github.com/SigNoz/signoz)|SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc ...|6491|2022-05-14|
+|30|[liupan1890/aliyunpan](https://github.com/liupan1890/aliyunpan)|阿里云盘小白羊版  阿里云盘PC版 aliyundriver|7156|2022-04-15|
+|31|[microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio)|Azure Data Studio is a data management tool that enables working with SQL Server, Azure SQL DB and SQL DW from Windows, macOS and Linux.|6789|2022-05-17|
+|32|[whyour/qinglong](https://github.com/whyour/qinglong)|支持python3、javaScript、shell、typescript 的定时任务管理面板（A timed task management panel that supports typescript, javaScript, python3, and shell）|6531|2022-05-17|
+|33|[SigNoz/signoz](https://github.com/SigNoz/signoz)|SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc ...|6508|2022-05-17|
 |34|[alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine)|An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系|6145|2022-05-16|
-|35|[Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown)|🍼 Plugin driven WYSIWYG  markdown editor framework.|6129|2022-05-16|
-|36|[any86/any-rule](https://github.com/any86/any-rule)|🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台|6063|2022-04-18|
-|37|[labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript)|Clean Code concepts adapted for TypeScript|6017|2022-04-26|
-|38|[alibaba/BizCharts](https://github.com/alibaba/BizCharts)|Powerful data visualization library based on G2 and React.|5854|2022-05-06|
-|39|[DouyinFE/semi-design](https://github.com/DouyinFE/semi-design)|A modern, comprehensive, flexible design system and React UI library|5807|2022-05-16|
-|40|[bytedance/IconPark](https://github.com/bytedance/IconPark)|🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons|5637|2021-12-21|
-|41|[ethers-io/ethers.js](https://github.com/ethers-io/ethers.js)|Complete Ethereum library and wallet implementation in JavaScript.|4870|2022-05-16|
-|42|[x-extends/vxe-table](https://github.com/x-extends/vxe-table)|vxe-table vue  表格解决方案|4764|2022-05-10|
-|43|[Vanessa219/vditor](https://github.com/Vanessa219/vditor)|♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.|4684|2022-05-16|
-|44|[PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL)|Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）|4342|2022-05-14|
-|45|[7kms/react-illustration-series](https://github.com/7kms/react-illustration-series)|图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.|4301|2022-03-30|
-|46|[remaxjs/remax](https://github.com/remaxjs/remax)|使用真正的 React 构建跨平台小程序|4284|2022-05-16|
-|47|[brick-design/brick-design](https://github.com/brick-design/brick-design)|全场景流式布局，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示，实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态|4280|2022-04-29|
-|48|[NervJS/taro-ui](https://github.com/NervJS/taro-ui)|一款基于 Taro 框架开发的多端 UI 组件库|3917|2022-05-08|
-|49|[jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next)|200 bytes to never think about React state management libraries ever again|3913|2022-02-10|
-|50|[vuejs/composition-api](https://github.com/vuejs/composition-api)|Composition API plugin for Vue 2|3910|2022-05-06|
-|51|[buuing/lucky-canvas](https://github.com/buuing/lucky-canvas)|🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端|3855|2022-04-24|
-|52|[typestack/routing-controllers](https://github.com/typestack/routing-controllers)|Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.|3727|2022-05-16|
-|53|[hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react)|⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。|3641|2022-04-28|
-|54|[Qihoo360/wayne](https://github.com/Qihoo360/wayne)|Kubernetes multi-cluster management and publishing platform|3623|2022-02-12|
-|55|[jlfwong/speedscope](https://github.com/jlfwong/speedscope)|🔬 A fast, interactive web-based viewer for performance profiles.|3535|2022-05-12|
-|56|[le5le-com/topology](https://github.com/le5le-com/topology)|A diagram (topology, UML) framework uses canvas and typescript.  一个轻量（100k左右）、功能丰富的绘图工具（微服务架构图、拓扑图、流程图、类图等UML图、脑图，动画、视频支持）。 【在线使用】：|3472|2022-04-29|
-|57|[antvis/X6](https://github.com/antvis/X6)|🚀 JavaScript diagramming library that uses SVG and HTML for rendering.|3356|2022-05-16|
-|58|[YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner)|❄️ 云空调，便携小空调，为你的夏日带去清凉！|3035|2022-05-09|
-|59|[Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)|A Native GOG and Epic Games Launcher for Linux, Windows and Mac.|2981|2022-05-16|
-|60|[imcuttle/mometa](https://github.com/imcuttle/mometa)|🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具|2935|2022-02-22|
-|61|[purocean/yn](https://github.com/purocean/yn)|A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, ...|2908|2022-05-16|
-|62|[yaklang/yakit](https://github.com/yaklang/yakit)|Cyber Security ALL-IN-ONE Platform|2877|2022-05-16|
-|63|[crawlab-team/artipub](https://github.com/crawlab-team/artipub)|Article publishing platform that automatically distributes your articles to various media channels|2764|2022-04-09|
-|64|[sunface/datav](https://github.com/sunface/datav)|📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It's also a lightweight alternative to Grafana.|2743|2022-03-22|
-|65|[antvis/L7](https://github.com/antvis/L7)|🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL  or AMap to render basemaps.|2665|2022-05-16|
-|66|[alibaba/pont](https://github.com/alibaba/pont)|🌉数据服务层解决方案|2640|2022-05-14|
-|67|[modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js)|The meta-framework suite designed from scratch for frontend-focused modern web development.|2604|2022-05-16|
-|68|[ant-design/pro-components](https://github.com/ant-design/pro-components)|🏆 Use Ant Design like a Pro!|2599|2022-05-16|
-|69|[alibaba/lightproxy](https://github.com/alibaba/lightproxy)|💎 Cross platform Web debugging proxy|2592|2022-02-25|
-|70|[notadd/notadd](https://github.com/notadd/notadd)|A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。|2590|2022-05-14|
-|71|[ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn)|Ant Design for React Native|2499|2022-05-07|
-|72|[oliverschwendener/ueli](https://github.com/oliverschwendener/ueli)|Keystroke launcher for Windows and macOS|2448|2022-05-16|
-|73|[hujiulong/gcoord](https://github.com/hujiulong/gcoord)|地理坐标系转换工具|2357|2022-05-09|
-|74|[zce/caz](https://github.com/zce/caz)|A simple yet powerful template-based Scaffolding tools.|2350|2022-05-16|
-|75|[zhihu/griffith](https://github.com/zhihu/griffith)|A React-based web video player|2338|2022-04-26|
-|76|[LeekHub/leek-fund](https://github.com/LeekHub/leek-fund)|:chart_with_upwards_trend:  韭菜盒子——VSCode 里也可以看股票 & 基金实时数据，做最好用的投资插件 🐥|2337|2022-05-06|
-|77|[YunYouJun/cook](https://github.com/YunYouJun/cook)|🍲 好的，今天我们来做菜！OK, Let's Cook!|2263|2022-05-15|
-|78|[NightCatSama/vue-slider-component](https://github.com/NightCatSama/vue-slider-component)|🌡 A highly customized slider component|2218|2022-05-16|
-|79|[lokalise/i18n-ally](https://github.com/lokalise/i18n-ally)|🌍 All in one i18n extension for VS Code|2208|2022-05-08|
-|80|[antvis/G2Plot](https://github.com/antvis/G2Plot)|:dango:  An interactive and responsive charting library|2204|2022-05-06|
-|81|[cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)|A fun Wordle clone made using React, Typescript, and Tailwind|2157|2022-05-13|
-|82|[chanind/hanzi-writer](https://github.com/chanind/hanzi-writer)|Chinese character stroke order animations and practice quizzes|2130|2022-04-28|
-|83|[Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader)|Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required   免登录、免 Musescore Pro，免费下载 musescore.com 上的曲谱    ...|2117|2022-03-28|
-|84|[giscus/giscus](https://github.com/giscus/giscus)|A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:|2082|2022-05-14|
-|85|[meowtec/Imagine](https://github.com/meowtec/Imagine)|🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.|2064|2022-02-22|
-|86|[rgommezz/react-native-offline](https://github.com/rgommezz/react-native-offline)|Handy toolbelt to deal nicely with offline/online connectivity in a React Native app. Smooth redux integration ✈️|2056|2022-04-29|
-|87|[Flaque/quirk](https://github.com/Flaque/quirk)|✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android. Currently a teaching tool|2008|2022-05-07|
-|88|[suanmei/callapp-lib](https://github.com/suanmei/callapp-lib)|🔥call app from h5（H5唤起客户端 ）|2000|2022-04-29|
-|89|[aidenybai/million](https://github.com/aidenybai/million)|Virtual DOM into the future! 💥🦁✨|1968|2022-05-09|
-|90|[phodal/ledge](https://github.com/phodal/ledge)|Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。|1880|2022-04-03|
-|91|[xuejianxianzun/PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader)|Chrome 扩展，批量下载 Pixiv 的插画和小说。过滤作品、下载时重命名、转换动态图片等。Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more.|1863|2022-05-03|
-|92|[emqx/MQTTX](https://github.com/emqx/MQTTX)|Elegant cross-platform MQTT 5.0 desktop client|1781|2022-05-13|
-|93|[Tencent/TSW](https://github.com/Tencent/TSW)|Tencent Server Web|1769|2022-04-26|
-|94|[jabbany/CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary)|Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。|1756|2022-04-29|
-|95|[simonbengtsson/jsPDF-AutoTable](https://github.com/simonbengtsson/jsPDF-AutoTable)|jsPDF plugin for generating PDF tables with javascript|1748|2022-03-25|
-|96|[ice-lab/icestark](https://github.com/ice-lab/icestark)|:tiger: Micro Frontends solution for large application（面向大型应用的微前端解决方案），站点国内镜像：https://icestark.gitee.io|1690|2022-05-11|
-|97|[H5-Dooring/dooringx](https://github.com/H5-Dooring/dooringx)|快速高效搭建可视化拖拽平台|1635|2022-05-01|
-|98|[jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank)|🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(Github Action自动日更)。|1626|2022-05-15|
-|99|[wechat-miniprogram/weui-miniprogram](https://github.com/wechat-miniprogram/weui-miniprogram)|小程序WeUI组件库|1613|2022-05-10|
-|100|[shinima/battle-city](https://github.com/shinima/battle-city)|🎮 Battle city remake built with react.|1600|2022-01-13|
-|101|[dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver)|Cloud Database Manager|1597|2022-05-13|
-|102|[Bowen7/regex-vis](https://github.com/Bowen7/regex-vis)|🎨 Regex visualizer & editor|1567|2022-05-12|
-|103|[mcuking/mobile-web-best-practice](https://github.com/mcuking/mobile-web-best-practice)|:tiger: 移动 web 最佳实践|1539|2021-12-29|
-|104|[ineo6/hosts](https://github.com/ineo6/hosts)|GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。|1535|2022-05-15|
-|105|[genaller/genal-chat](https://github.com/genaller/genal-chat)|🐱‍🏍阿童木聊天室 nestjs+vue全栈聊天室 前后端分离 typescript一把梭|1531|2022-04-29|
-|106|[takayama-lily/oicq](https://github.com/takayama-lily/oicq)|QQ机器人协议库|1515|2022-05-11|
-|107|[Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar)|🪄 An online tool for making notion-style avatars.|1509|2022-04-30|
-|108|[MCSManager/MCSManager](https://github.com/MCSManager/MCSManager)|全中文，分布式，高扩展性，开箱即用，支持 Docker，兼容 Minecraft 和其他部分游戏的服务端程序管理面板|1505|2022-05-11|
-|109|[zenghongtu/PPet](https://github.com/zenghongtu/PPet)|👻在你的桌面放一个萌妹子，多一点乐趣😏~（支持Mac、Win和Linux）|1503|2022-02-27|
-|110|[zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro)|中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配|1466|2022-05-07|
-|111|[buqiyuan/vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode)|vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具|1462|2022-01-16|
-|112|[modern-js-dev/garfish](https://github.com/modern-js-dev/garfish)|A powerful micro front-end framework 🚚|1457|2022-05-13|
-|113|[aisuda/amis-editor-demo](https://github.com/aisuda/amis-editor-demo)|amis 可视化编辑器示例 http://aisuda.github.io/amis-editor-demo|1415|2022-04-01|
-|114|[gdh1995/vimium-c](https://github.com/gdh1995/vimium-c)|A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar|1415|2022-05-10|
-|115|[cool-team-official/cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway)|cool-admin(midway版)一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 3.x、typescript、typeorm、mysql、jwt、vue3、vite、element-ui等构建|1400|2022-05-11|
-|116|[ZhongAnTech/zarm](https://github.com/ZhongAnTech/zarm)|基于 React 的移动端UI组件库|1387|2022-05-07|
-|117|[probablyup/markdown-to-jsx](https://github.com/probablyup/markdown-to-jsx)|🏭 The most lightweight, customizable React markdown component.|1375|2022-04-27|
-|118|[vbenjs/vben-admin-thin-next](https://github.com/vbenjs/vben-admin-thin-next)|vue-vben-admin-2.0 mini template.vue3,vite,typescript|1346|2022-04-26|
-|119|[alibaba/ChatUI](https://github.com/alibaba/ChatUI)|The UI design language and React library for Conversational UI|1344|2022-05-14|
-|120|[microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql)|Visual Studio Code SQL Server extension.|1340|2022-05-10|
-|121|[hua1995116/react-resume-site](https://github.com/hua1995116/react-resume-site)|木及简历，一款markdown的在线简历工具。|1310|2022-04-12|
-|122|[vuejs/babel-plugin-jsx](https://github.com/vuejs/babel-plugin-jsx)|JSX for Vue 3|1305|2022-05-03|
-|123|[blogwy/BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)|跨平台下载bilibili视频桌面端软件，支持windows、macOS、Linux|1303|2022-05-12|
-|124|[clouDr-f2e/monitor](https://github.com/clouDr-f2e/monitor)|👀 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、页面性能并上报服务端的SDK|1290|2022-04-29|
-|125|[Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material)|Self-hosted YouTube downloader built on Material Design|1279|2022-05-14|
-|126|[vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)|A tool to generate your github summary card for profile README|1273|2022-05-11|
-|127|[lsqy/taro-music](https://github.com/lsqy/taro-music)|🎉基于taro + taro-ui + redux + react-hooks + typescript 开发的网易云音乐小程序,taro3已升级完毕，目前正在使用react-hooks重构中（不定时更新）|1240|2022-03-07|
-|128|[jmaister/excellentexport](https://github.com/jmaister/excellentexport)|Javascript export to Excel|1233|2022-04-29|
-|129|[visiky/resume](https://github.com/visiky/resume)|🚀 在线简历生成器|1227|2022-03-22|
-|130|[geekape/geek-navigation](https://github.com/geekape/geek-navigation)|❤️ 极客猿导航－独立开发者的导航站！|1225|2022-04-13|
-|131|[blinker-iot/blinker-js](https://github.com/blinker-iot/blinker-js)|Blinker node.js library for hardware. Works with Raspberry Pi, Banana Pi, linux. |1218|2022-03-26|
-|132|[umijs/hox](https://github.com/umijs/hox)|The next-generation state manager for React.|1201|2022-04-11|
-|133|[theajack/cnchar](https://github.com/theajack/cnchar)|功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等) (Chinese character util)|1199|2022-05-10|
-|134|[mengsixing/cdfang-spider](https://github.com/mengsixing/cdfang-spider)|📊 成都房协网数据分析，喜欢请点 star！|1185|2022-04-09|
-|135|[Tencent/feflow](https://github.com/Tencent/feflow)|🚀 A command line tool aims to improve front-end engineer workflow and standard, powered by TypeScript.|1171|2022-05-13|
-|136|[xjh22222228/nav](https://github.com/xjh22222228/nav)|🔍 发现导航 , 打造最强静态导航网站(支持SEO)    Discovery Navigation: A purely static, powerful navigation website that supports SEO and online editing|1150|2022-05-07|
-|137|[kmvan/x-prober](https://github.com/kmvan/x-prober)|🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針)|1143|2022-04-28|
-|138|[cangzhang/champ-r](https://github.com/cangzhang/champ-r)|🐶 Yet another League of Legends helper, compatible with CN/NA/EU/JP/KR version of LCU. 英雄联盟出装/天赋推荐, 支持多服客户端|1128|2022-04-29|
-|139|[opensumi/core](https://github.com/opensumi/core)|🚀  A framework helps you quickly build Cloud or Desktop IDE products.|1121|2022-05-14|
-|140|[qiuxiang/react-native-amap3d](https://github.com/qiuxiang/react-native-amap3d)|react-native 高德地图组件，使用最新 3D SDK，支持 Android + iOS|1112|2022-05-11|
-|141|[labring/laf](https://github.com/labring/laf)|laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单，支持云函数/云数据库/对象存储，让前端秒变全栈，节省60%研发成本，实现0运维！|1110|2022-05-13|
-|142|[antvis/AVA](https://github.com/antvis/AVA)|🤖 A framework for automated visual analytics.|1110|2022-05-10|
-|143|[k8w/tsrpc](https://github.com/k8w/tsrpc)|A TypeScript RPC framework, with runtime type checking and serialization, support both HTTP and WebSocket. It is very suitable for website / APP / games, and absolutely comfortable to full-stack TypeS ...|1098|2022-05-10|
-|144|[surmon-china/nodepress](https://github.com/surmon-china/nodepress)|🟢 RESTful API service for https://surmon.me blog, powered by @nestjs|1077|2022-05-09|
-|145|[AnoyiX/anoyi](https://github.com/AnoyiX/anoyi)|Anoyi's website|1062|2022-05-11|
-|146|[triggerjs/trigger](https://github.com/triggerjs/trigger)|A library for creating scroll-based animation with HTML attributes and CSS variables.|979|2021-11-15|
+|35|[Saul-Mirone/milkdown](https://github.com/Saul-Mirone/milkdown)|🍼 Plugin driven WYSIWYG  markdown editor framework.|6130|2022-05-17|
+|36|[yezihaohao/react-admin](https://github.com/yezihaohao/react-admin)|:sparkles: react-admin system solution : react 后台管理系统解决方案|6130|2022-05-16|
+|37|[any86/any-rule](https://github.com/any86/any-rule)|🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台|6069|2022-04-18|
+|38|[labs42io/clean-code-typescript](https://github.com/labs42io/clean-code-typescript)|Clean Code concepts adapted for TypeScript|6020|2022-04-26|
+|39|[alibaba/BizCharts](https://github.com/alibaba/BizCharts)|Powerful data visualization library based on G2 and React.|5855|2022-05-06|
+|40|[DouyinFE/semi-design](https://github.com/DouyinFE/semi-design)|A modern, comprehensive, flexible design system and React UI library|5808|2022-05-17|
+|41|[bytedance/IconPark](https://github.com/bytedance/IconPark)|🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons|5640|2021-12-21|
+|42|[ethers-io/ethers.js](https://github.com/ethers-io/ethers.js)|Complete Ethereum library and wallet implementation in JavaScript.|4878|2022-05-16|
+|43|[x-extends/vxe-table](https://github.com/x-extends/vxe-table)|vxe-table vue  表格解决方案|4764|2022-05-10|
+|44|[Vanessa219/vditor](https://github.com/Vanessa219/vditor)|♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.|4685|2022-05-16|
+|45|[PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL)|Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）|4343|2022-05-16|
+|46|[7kms/react-illustration-series](https://github.com/7kms/react-illustration-series)|图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.|4301|2022-03-30|
+|47|[remaxjs/remax](https://github.com/remaxjs/remax)|使用真正的 React 构建跨平台小程序|4285|2022-05-16|
+|48|[brick-design/brick-design](https://github.com/brick-design/brick-design)|全场景流式布局，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示，实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态|4280|2022-05-16|
+|49|[NervJS/taro-ui](https://github.com/NervJS/taro-ui)|一款基于 Taro 框架开发的多端 UI 组件库|3918|2022-05-16|
+|50|[jamiebuilds/unstated-next](https://github.com/jamiebuilds/unstated-next)|200 bytes to never think about React state management libraries ever again|3915|2022-02-10|
+|51|[vuejs/composition-api](https://github.com/vuejs/composition-api)|Composition API plugin for Vue 2|3910|2022-05-06|
+|52|[buuing/lucky-canvas](https://github.com/buuing/lucky-canvas)|🎖🎖🎖 基于 TS + Canvas 开发的【大转盘 / 九宫格 / 老虎机】抽奖插件，🌈 一套源码适配多端框架 JS / Vue / React / Taro / UniApp / 微信小程序等，🎨 奖品 / 文字 / 图片 / 颜色 / 按钮均可配置，支持同步 / 异步抽奖，🎯 概率前 / 后端可控，🚀 自动根据 dpr 调整清晰度适配移动端|3856|2022-04-24|
+|53|[typestack/routing-controllers](https://github.com/typestack/routing-controllers)|Create structured, declarative and beautifully organized class-based controllers with heavy decorators usage in Express / Koa using TypeScript and Routing Controllers Framework.|3730|2022-05-16|
+|54|[hustcc/echarts-for-react](https://github.com/hustcc/echarts-for-react)|⛳️  Apache ECharts components for React wrapper. 一个简单的 Apache echarts 的 React 封装。|3642|2022-04-28|
+|55|[Qihoo360/wayne](https://github.com/Qihoo360/wayne)|Kubernetes multi-cluster management and publishing platform|3624|2022-02-12|
+|56|[jlfwong/speedscope](https://github.com/jlfwong/speedscope)|🔬 A fast, interactive web-based viewer for performance profiles.|3537|2022-05-17|
+|57|[le5le-com/topology](https://github.com/le5le-com/topology)|A diagram (topology, UML) framework uses canvas and typescript.  一个轻量（100k左右）、功能丰富的绘图工具（微服务架构图、拓扑图、流程图、类图等UML图、脑图，动画、视频支持）。 【在线使用】：|3472|2022-04-29|
+|58|[antvis/X6](https://github.com/antvis/X6)|🚀 JavaScript diagramming library that uses SVG and HTML for rendering.|3356|2022-05-17|
+|59|[YunYouJun/air-conditioner](https://github.com/YunYouJun/air-conditioner)|❄️ 云空调，便携小空调，为你的夏日带去清凉！|3035|2022-05-09|
+|60|[Heroic-Games-Launcher/HeroicGamesLauncher](https://github.com/Heroic-Games-Launcher/HeroicGamesLauncher)|A Native GOG and Epic Games Launcher for Linux, Windows and Mac.|2982|2022-05-17|
+|61|[imcuttle/mometa](https://github.com/imcuttle/mometa)|🛠 [Beta] 面向研发的低代码元编程，代码可视编辑，辅助编码工具|2936|2022-02-22|
+|62|[purocean/yn](https://github.com/purocean/yn)|A Hackable Markdown Note Application for Programmers. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, plug-in, ...|2924|2022-05-17|
+|63|[yaklang/yakit](https://github.com/yaklang/yakit)|Cyber Security ALL-IN-ONE Platform|2892|2022-05-16|
+|64|[crawlab-team/artipub](https://github.com/crawlab-team/artipub)|Article publishing platform that automatically distributes your articles to various media channels|2765|2022-04-09|
+|65|[sunface/datav](https://github.com/sunface/datav)|📊https://datav.io is a modern APM, provide observability for your business, application and infrastructure. It's also a lightweight alternative to Grafana.|2743|2022-03-22|
+|66|[antvis/L7](https://github.com/antvis/L7)|🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis framework which relies on Mapbox GL  or AMap to render basemaps.|2666|2022-05-16|
+|67|[alibaba/pont](https://github.com/alibaba/pont)|🌉数据服务层解决方案|2640|2022-05-14|
+|68|[modern-js-dev/modern.js](https://github.com/modern-js-dev/modern.js)|The meta-framework suite designed from scratch for frontend-focused modern web development.|2607|2022-05-17|
+|69|[ant-design/pro-components](https://github.com/ant-design/pro-components)|🏆 Use Ant Design like a Pro!|2600|2022-05-17|
+|70|[alibaba/lightproxy](https://github.com/alibaba/lightproxy)|💎 Cross platform Web debugging proxy|2597|2022-02-25|
+|71|[notadd/notadd](https://github.com/notadd/notadd)|A microservice development architecture based on nest.js. —— 基于 Nest.js 的微服务开发架构。|2590|2022-05-14|
+|72|[ant-design/ant-design-mobile-rn](https://github.com/ant-design/ant-design-mobile-rn)|Ant Design for React Native|2498|2022-05-07|
+|73|[oliverschwendener/ueli](https://github.com/oliverschwendener/ueli)|Keystroke launcher for Windows and macOS|2448|2022-05-16|
+|74|[hujiulong/gcoord](https://github.com/hujiulong/gcoord)|地理坐标系转换工具|2359|2022-05-09|
+|75|[zce/caz](https://github.com/zce/caz)|A simple yet powerful template-based Scaffolding tools.|2350|2022-05-16|
+|76|[LeekHub/leek-fund](https://github.com/LeekHub/leek-fund)|:chart_with_upwards_trend:  韭菜盒子——VSCode 里也可以看股票 & 基金实时数据，做最好用的投资插件 🐥|2341|2022-05-06|
+|77|[zhihu/griffith](https://github.com/zhihu/griffith)|A React-based web video player|2338|2022-05-17|
+|78|[YunYouJun/cook](https://github.com/YunYouJun/cook)|🍲 好的，今天我们来做菜！OK, Let's Cook!|2278|2022-05-15|
+|79|[NightCatSama/vue-slider-component](https://github.com/NightCatSama/vue-slider-component)|🌡 A highly customized slider component|2218|2022-05-16|
+|80|[lokalise/i18n-ally](https://github.com/lokalise/i18n-ally)|🌍 All in one i18n extension for VS Code|2208|2022-05-08|
+|81|[antvis/G2Plot](https://github.com/antvis/G2Plot)|:dango:  An interactive and responsive charting library|2204|2022-05-06|
+|82|[cwackerfuss/react-wordle](https://github.com/cwackerfuss/react-wordle)|A fun Wordle clone made using React, Typescript, and Tailwind|2157|2022-05-13|
+|83|[chanind/hanzi-writer](https://github.com/chanind/hanzi-writer)|Chinese character stroke order animations and practice quizzes|2130|2022-04-28|
+|84|[Xmader/musescore-downloader](https://github.com/Xmader/musescore-downloader)|Download sheet music (MSCZ, PDF, MusicXML, MIDI, MP3, download individual parts as PDF) from musescore.com for free, no login or Musescore Pro required   免登录、免 Musescore Pro，免费下载 musescore.com 上的曲谱    ...|2117|2022-03-28|
+|85|[giscus/giscus](https://github.com/giscus/giscus)|A comments system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:|2082|2022-05-14|
+|86|[meowtec/Imagine](https://github.com/meowtec/Imagine)|🖼️ PNG/JPEG optimization app for macOS, Windows and Linux.|2064|2022-02-22|
+|87|[rgommezz/react-native-offline](https://github.com/rgommezz/react-native-offline)|Handy toolbelt to deal nicely with offline/online connectivity in a React Native app. Smooth redux integration ✈️|2056|2022-04-29|
+|88|[Flaque/quirk](https://github.com/Flaque/quirk)|✨🐙 A GPL Licensed Cognitive Behavioral Therapy app for iOS and Android. Currently a teaching tool|2008|2022-05-07|
+|89|[suanmei/callapp-lib](https://github.com/suanmei/callapp-lib)|🔥call app from h5（H5唤起客户端 ）|2000|2022-04-29|
+|90|[aidenybai/million](https://github.com/aidenybai/million)|Virtual DOM into the future! 💥🦁✨|1968|2022-05-09|
+|91|[phodal/ledge](https://github.com/phodal/ledge)|Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。|1880|2022-04-03|
+|92|[xuejianxianzun/PixivBatchDownloader](https://github.com/xuejianxianzun/PixivBatchDownloader)|Chrome 扩展，批量下载 Pixiv 的插画和小说。过滤作品、下载时重命名、转换动态图片等。Powerful Pixiv batch downloader. Batch download artworks and novels, filter works, rename when downloading, convert animated images, and more.|1863|2022-05-03|
+|93|[emqx/MQTTX](https://github.com/emqx/MQTTX)|Elegant cross-platform MQTT 5.0 desktop client|1781|2022-05-13|
+|94|[Tencent/TSW](https://github.com/Tencent/TSW)|Tencent Server Web|1769|2022-04-26|
+|95|[jabbany/CommentCoreLibrary](https://github.com/jabbany/CommentCoreLibrary)|Javascript Live Comment (Danmaku) Engine Implementation. JS弹幕模块核心，提供从基本骨架到高级弹幕的支持。|1756|2022-04-29|
+|96|[simonbengtsson/jsPDF-AutoTable](https://github.com/simonbengtsson/jsPDF-AutoTable)|jsPDF plugin for generating PDF tables with javascript|1748|2022-03-25|
+|97|[ice-lab/icestark](https://github.com/ice-lab/icestark)|:tiger: Micro Frontends solution for large application（面向大型应用的微前端解决方案），站点国内镜像：https://icestark.gitee.io|1690|2022-05-11|
+|98|[H5-Dooring/dooringx](https://github.com/H5-Dooring/dooringx)|快速高效搭建可视化拖拽平台|1635|2022-05-01|
+|99|[jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank)|🕷️Github 中国和全球用户排名，全球仓库 Star 最多排名(Github Action自动日更)。|1626|2022-05-15|
+|100|[wechat-miniprogram/weui-miniprogram](https://github.com/wechat-miniprogram/weui-miniprogram)|小程序WeUI组件库|1613|2022-05-10|
+|101|[shinima/battle-city](https://github.com/shinima/battle-city)|🎮 Battle city remake built with react.|1600|2022-01-13|
+|102|[dbeaver/cloudbeaver](https://github.com/dbeaver/cloudbeaver)|Cloud Database Manager|1597|2022-05-13|
+|103|[Bowen7/regex-vis](https://github.com/Bowen7/regex-vis)|🎨 Regex visualizer & editor|1567|2022-05-12|
+|104|[mcuking/mobile-web-best-practice](https://github.com/mcuking/mobile-web-best-practice)|:tiger: 移动 web 最佳实践|1539|2021-12-29|
+|105|[ineo6/hosts](https://github.com/ineo6/hosts)|GitHub最新hosts。解决GitHub图片无法显示，加速GitHub网页浏览。|1535|2022-05-15|
+|106|[genaller/genal-chat](https://github.com/genaller/genal-chat)|🐱‍🏍阿童木聊天室 nestjs+vue全栈聊天室 前后端分离 typescript一把梭|1531|2022-04-29|
+|107|[takayama-lily/oicq](https://github.com/takayama-lily/oicq)|QQ机器人协议库|1515|2022-05-11|
+|108|[Mayandev/notion-avatar](https://github.com/Mayandev/notion-avatar)|🪄 An online tool for making notion-style avatars.|1509|2022-04-30|
+|109|[MCSManager/MCSManager](https://github.com/MCSManager/MCSManager)|全中文，分布式，高扩展性，开箱即用，支持 Docker，兼容 Minecraft 和其他部分游戏的服务端程序管理面板|1505|2022-05-11|
+|110|[zenghongtu/PPet](https://github.com/zenghongtu/PPet)|👻在你的桌面放一个萌妹子，多一点乐趣😏~（支持Mac、Win和Linux）|1503|2022-02-27|
+|111|[zh-lx/pinyin-pro](https://github.com/zh-lx/pinyin-pro)|中文转拼音、拼音音调、拼音声母、拼音韵母、多音字拼音、姓氏拼音、拼音匹配|1466|2022-05-07|
+|112|[buqiyuan/vite-vue3-lowcode](https://github.com/buqiyuan/vite-vue3-lowcode)|vue3.x + vite2.x + vant + element-plus H5移动端低代码平台 lowcode 可视化拖拽 可视化编辑器 visual editor 类似易企秀的H5制作、建站工具、可视化搭建工具|1462|2022-01-16|
+|113|[modern-js-dev/garfish](https://github.com/modern-js-dev/garfish)|A powerful micro front-end framework 🚚|1457|2022-05-13|
+|114|[aisuda/amis-editor-demo](https://github.com/aisuda/amis-editor-demo)|amis 可视化编辑器示例 http://aisuda.github.io/amis-editor-demo|1415|2022-04-01|
+|115|[gdh1995/vimium-c](https://github.com/gdh1995/vimium-c)|A keyboard shortcut browser extension for keyboard-based navigation and tab operations with an advanced omnibar|1415|2022-05-10|
+|116|[cool-team-official/cool-admin-midway](https://github.com/cool-team-official/cool-admin-midway)|cool-admin(midway版)一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 3.x、typescript、typeorm、mysql、jwt、vue3、vite、element-ui等构建|1400|2022-05-11|
+|117|[ZhongAnTech/zarm](https://github.com/ZhongAnTech/zarm)|基于 React 的移动端UI组件库|1387|2022-05-07|
+|118|[probablyup/markdown-to-jsx](https://github.com/probablyup/markdown-to-jsx)|🏭 The most lightweight, customizable React markdown component.|1375|2022-04-27|
+|119|[vbenjs/vben-admin-thin-next](https://github.com/vbenjs/vben-admin-thin-next)|vue-vben-admin-2.0 mini template.vue3,vite,typescript|1346|2022-04-26|
+|120|[alibaba/ChatUI](https://github.com/alibaba/ChatUI)|The UI design language and React library for Conversational UI|1344|2022-05-14|
+|121|[microsoft/vscode-mssql](https://github.com/microsoft/vscode-mssql)|Visual Studio Code SQL Server extension.|1340|2022-05-10|
+|122|[hua1995116/react-resume-site](https://github.com/hua1995116/react-resume-site)|木及简历，一款markdown的在线简历工具。|1310|2022-04-12|
+|123|[vuejs/babel-plugin-jsx](https://github.com/vuejs/babel-plugin-jsx)|JSX for Vue 3|1305|2022-05-03|
+|124|[blogwy/BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)|跨平台下载bilibili视频桌面端软件，支持windows、macOS、Linux|1303|2022-05-12|
+|125|[clouDr-f2e/monitor](https://github.com/clouDr-f2e/monitor)|👀 一款轻量级的收集页面的用户点击行为、路由跳转、接口报错、代码报错、页面性能并上报服务端的SDK|1290|2022-04-29|
+|126|[Tzahi12345/YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material)|Self-hosted YouTube downloader built on Material Design|1279|2022-05-14|
+|127|[vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)|A tool to generate your github summary card for profile README|1273|2022-05-11|
+|128|[lsqy/taro-music](https://github.com/lsqy/taro-music)|🎉基于taro + taro-ui + redux + react-hooks + typescript 开发的网易云音乐小程序,taro3已升级完毕，目前正在使用react-hooks重构中（不定时更新）|1240|2022-03-07|
+|129|[jmaister/excellentexport](https://github.com/jmaister/excellentexport)|Javascript export to Excel|1233|2022-04-29|
+|130|[visiky/resume](https://github.com/visiky/resume)|🚀 在线简历生成器|1227|2022-03-22|
+|131|[geekape/geek-navigation](https://github.com/geekape/geek-navigation)|❤️ 极客猿导航－独立开发者的导航站！|1225|2022-04-13|
+|132|[blinker-iot/blinker-js](https://github.com/blinker-iot/blinker-js)|Blinker node.js library for hardware. Works with Raspberry Pi, Banana Pi, linux. |1218|2022-03-26|
+|133|[umijs/hox](https://github.com/umijs/hox)|The next-generation state manager for React.|1201|2022-04-11|
+|134|[theajack/cnchar](https://github.com/theajack/cnchar)|功能全面的汉字工具库 (拼音 笔画 偏旁 成语 语音 可视化等) (Chinese character util)|1199|2022-05-10|
+|135|[mengsixing/cdfang-spider](https://github.com/mengsixing/cdfang-spider)|📊 成都房协网数据分析，喜欢请点 star！|1185|2022-04-09|
+|136|[Tencent/feflow](https://github.com/Tencent/feflow)|🚀 A command line tool aims to improve front-end engineer workflow and standard, powered by TypeScript.|1171|2022-05-13|
+|137|[xjh22222228/nav](https://github.com/xjh22222228/nav)|🔍 发现导航 , 打造最强静态导航网站(支持SEO)    Discovery Navigation: A purely static, powerful navigation website that supports SEO and online editing|1150|2022-05-07|
+|138|[kmvan/x-prober](https://github.com/kmvan/x-prober)|🐘 A probe program for PHP environment (一款精美的 PHP 探針, 又名X探針、劉海探針)|1143|2022-04-28|
+|139|[cangzhang/champ-r](https://github.com/cangzhang/champ-r)|🐶 Yet another League of Legends helper, compatible with CN/NA/EU/JP/KR version of LCU. 英雄联盟出装/天赋推荐, 支持多服客户端|1128|2022-04-29|
+|140|[opensumi/core](https://github.com/opensumi/core)|🚀  A framework helps you quickly build Cloud or Desktop IDE products.|1121|2022-05-14|
+|141|[qiuxiang/react-native-amap3d](https://github.com/qiuxiang/react-native-amap3d)|react-native 高德地图组件，使用最新 3D SDK，支持 Android + iOS|1112|2022-05-11|
+|142|[labring/laf](https://github.com/labring/laf)|laf 帮助开发者拥有自己的云开发平台，让写代码像写博客一样简单，支持云函数/云数据库/对象存储，让前端秒变全栈，节省60%研发成本，实现0运维！|1110|2022-05-13|
+|143|[antvis/AVA](https://github.com/antvis/AVA)|🤖 A framework for automated visual analytics.|1110|2022-05-10|
+|144|[k8w/tsrpc](https://github.com/k8w/tsrpc)|A TypeScript RPC framework, with runtime type checking and serialization, support both HTTP and WebSocket. It is very suitable for website / APP / games, and absolutely comfortable to full-stack TypeS ...|1098|2022-05-10|
+|145|[surmon-china/nodepress](https://github.com/surmon-china/nodepress)|🟢 RESTful API service for https://surmon.me blog, powered by @nestjs|1077|2022-05-09|
+|146|[AnoyiX/anoyi](https://github.com/AnoyiX/anoyi)|Anoyi's website|1062|2022-05-11|
 |147|[dxx/react-bilibili](https://github.com/dxx/react-bilibili)|:tv: 高仿B站web移动端|965|2022-04-28|
 |148|[alibaba/alist](https://github.com/alibaba/alist)|Alibaba Group Unified List Solution.|964|2021-12-17|
 |149|[nocobase/nocobase](https://github.com/nocobase/nocobase)|NocoBase is a scalability-first, open-source no-code/low-code development platform.   极易扩展的无代码和低代码开发平台|939|2022-05-15|

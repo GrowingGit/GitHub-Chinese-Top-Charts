@@ -1,59 +1,59 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > C
-<sub>数据更新: 2022-05-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-05-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)|Lean's OpenWrt source|21234|2022-05-16|
-|2|[alibaba/tengine](https://github.com/alibaba/tengine)|A distribution of Nginx with some advanced features|11452|2022-05-12|
+|1|[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)|Lean's OpenWrt source|21237|2022-05-16|
+|2|[alibaba/tengine](https://github.com/alibaba/tengine)|A distribution of Nginx with some advanced features|11451|2022-05-12|
 |3|[cloudwu/skynet](https://github.com/cloudwu/skynet)|A lightweight online game framework|11179|2022-05-16|
 |4|[skywind3000/kcp](https://github.com/skywind3000/kcp)|:zap: KCP - A Fast and Reliable ARQ Protocol|11149|2022-05-02|
-|5|[swaywm/sway](https://github.com/swaywm/sway)|i3-compatible Wayland compositor|10553|2022-05-16|
-|6|[openresty/openresty](https://github.com/openresty/openresty)|High Performance Web Platform Based on Nginx and LuaJIT|10433|2022-05-13|
+|5|[swaywm/sway](https://github.com/swaywm/sway)|i3-compatible Wayland compositor|10558|2022-05-16|
+|6|[openresty/openresty](https://github.com/openresty/openresty)|High Performance Web Platform Based on Nginx and LuaJIT|10437|2022-05-16|
 |7|[openresty/lua-nginx-module](https://github.com/openresty/lua-nginx-module)|Embed the Power of Lua into NGINX HTTP servers|9967|2022-05-16|
-|8|[Tencent/wcdb](https://github.com/Tencent/wcdb)|WCDB is a cross-platform database framework developed by WeChat.|9386|2021-12-17|
-|9|[huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated)|带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。|8757|2022-02-23|
-|10|[espressif/esp-idf](https://github.com/espressif/esp-idf)|Espressif IoT Development Framework. Official development framework for Espressif SoCs.|8446|2022-05-16|
+|8|[Tencent/wcdb](https://github.com/Tencent/wcdb)|WCDB is a cross-platform database framework developed by WeChat.|9388|2021-12-17|
+|9|[huangz1990/redis-3.0-annotated](https://github.com/huangz1990/redis-3.0-annotated)|带有详细注释的 Redis 3.0 代码（annotated Redis 3.0 source code）。|8758|2022-02-23|
+|10|[espressif/esp-idf](https://github.com/espressif/esp-idf)|Espressif IoT Development Framework. Official development framework for Espressif SoCs.|8448|2022-05-17|
 |11|[happyfish100/fastdfs](https://github.com/happyfish100/fastdfs)|FastDFS is an open source high performance distributed file system (DFS). It's major functions include: file storing, file syncing and file accessing, and design for high capacity and load balance. We ...|8003|2022-03-10|
 |12|[Tencent/xLua](https://github.com/Tencent/xLua)|xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.|7586|2022-05-14|
-|13|[peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot)|我的超迷你机械臂机器人项目。|7395|2022-03-01|
-|14|[sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)|Sandboxie - Open Source|7094|2022-05-16|
+|13|[peng-zhihui/Dummy-Robot](https://github.com/peng-zhihui/Dummy-Robot)|我的超迷你机械臂机器人项目。|7398|2022-03-01|
+|14|[sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie)|Sandboxie - Open Source|7185|2022-05-16|
 |15|[wszqkzqk/deepin-wine-ubuntu](https://github.com/wszqkzqk/deepin-wine-ubuntu)|Deepin Wine for Ubuntu/Debian|5910|2021-11-16|
-|16|[sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri)|Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.|5855|2022-05-12|
-|17|[betaflight/betaflight](https://github.com/betaflight/betaflight)|Open Source Flight Controller Firmware|5716|2022-05-16|
+|16|[sparklemotion/nokogiri](https://github.com/sparklemotion/nokogiri)|Nokogiri (鋸) makes it easy and painless to work with XML and HTML from Ruby.|5854|2022-05-12|
+|17|[betaflight/betaflight](https://github.com/betaflight/betaflight)|Open Source Flight Controller Firmware|5719|2022-05-16|
 |18|[lpereira/lwan](https://github.com/lpereira/lwan)|Experimental, scalable, high performance HTTP server|5591|2022-05-05|
-|19|[OpenAtomFoundation/TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny)|腾讯物联网终端操作系统|5411|2022-05-15|
-|20|[pymumu/smartdns](https://github.com/pymumu/smartdns)|A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。|4891|2022-05-11|
+|19|[OpenAtomFoundation/TencentOS-tiny](https://github.com/OpenAtomFoundation/TencentOS-tiny)|腾讯物联网终端操作系统|5412|2022-05-15|
+|20|[pymumu/smartdns](https://github.com/pymumu/smartdns)|A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。|4897|2022-05-16|
 |21|[kbengine/kbengine](https://github.com/kbengine/kbengine)|A MMOG engine of server.|4880|2022-01-06|
-|22|[cjdelisle/cjdns](https://github.com/cjdelisle/cjdns)|An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.|4851|2022-05-09|
-|23|[peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot)|-|4741|2022-04-24|
-|24|[peng-zhihui/HDMI-PI](https://github.com/peng-zhihui/HDMI-PI)|我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。|4735|2022-02-09|
+|22|[cjdelisle/cjdns](https://github.com/cjdelisle/cjdns)|An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.|4852|2022-05-09|
+|23|[peng-zhihui/ElectronBot](https://github.com/peng-zhihui/ElectronBot)|-|4748|2022-04-24|
+|24|[peng-zhihui/HDMI-PI](https://github.com/peng-zhihui/HDMI-PI)|我设计的一个HDMI转MIPI模块，可以用于驱动各种手机屏幕当显示器用。|4736|2022-02-09|
 |25|[LiteOS/LiteOS](https://github.com/LiteOS/LiteOS)|code and manual|4538|2022-01-21|
 |26|[goldendict/goldendict](https://github.com/goldendict/goldendict)|A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup,  ...|4405|2022-05-15|
-|27|[Meituan-Dianping/Logan](https://github.com/Meituan-Dianping/Logan)|Logan is a lightweight case logging system based on mobile platform.|4327|2022-04-29|
-|28|[peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic)|带网络功能的伪全息透明显示桌面站|4066|2021-12-11|
-|29|[ithewei/libhv](https://github.com/ithewei/libhv)|🔥 比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.|4031|2022-05-16|
-|30|[lc-soft/LCUI](https://github.com/lc-soft/LCUI)|A small C library for building user interfaces with C, XML and CSS.|3732|2022-05-01|
-|31|[RediSearch/RediSearch](https://github.com/RediSearch/RediSearch)|A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations. |3721|2022-05-16|
-|32|[flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud)|A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb|3647|2022-05-16|
-|33|[microshow/RxFFmpeg](https://github.com/microshow/RxFFmpeg)|🔥💥RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac + opencore-amr + openssl ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，包含以下功能：视频拼接，转码，压缩，裁剪，片头片尾，分离音视频，变速，添加静态贴纸和gif动态贴纸，添加字幕，添加滤镜，添加背景音乐，加速减速视频，倒放音视频，音频 ...|3576|2022-03-19|
+|27|[Meituan-Dianping/Logan](https://github.com/Meituan-Dianping/Logan)|Logan is a lightweight case logging system based on mobile platform.|4328|2022-05-16|
+|28|[peng-zhihui/HoloCubic](https://github.com/peng-zhihui/HoloCubic)|带网络功能的伪全息透明显示桌面站|4069|2021-12-11|
+|29|[ithewei/libhv](https://github.com/ithewei/libhv)|🔥 比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.|4038|2022-05-16|
+|30|[lc-soft/LCUI](https://github.com/lc-soft/LCUI)|A small C library for building user interfaces with C, XML and CSS.|3731|2022-05-01|
+|31|[RediSearch/RediSearch](https://github.com/RediSearch/RediSearch)|A query and indexing engine for Redis, providing secondary indexing, full-text search, and aggregations. |3722|2022-05-17|
+|32|[flightlessmango/MangoHud](https://github.com/flightlessmango/MangoHud)|A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more. Discord: https://discordapp.com/invite/Gj5YmBb|3649|2022-05-16|
+|33|[microshow/RxFFmpeg](https://github.com/microshow/RxFFmpeg)|🔥💥RxFFmpeg 是基于 ( FFmpeg 4.0 + X264 + mp3lame + fdk-aac + opencore-amr + openssl ) 编译的适用于 Android 平台的音视频编辑、视频剪辑的快速处理框架，包含以下功能：视频拼接，转码，压缩，裁剪，片头片尾，分离音视频，变速，添加静态贴纸和gif动态贴纸，添加字幕，添加滤镜，添加背景音乐，加速减速视频，倒放音视频，音频 ...|3579|2022-03-19|
 |34|[openvenues/libpostal](https://github.com/openvenues/libpostal)|A C library for parsing/normalizing street addresses around the world. Powered by statistical NLP and open geo data.|3453|2022-05-06|
-|35|[Chikage0o0/Linux-NetSpeed](https://github.com/Chikage0o0/Linux-NetSpeed)|将Linux现常用的网络加速集成在一起|3348|2022-04-23|
-|36|[andmarti1424/sc-im](https://github.com/andmarti1424/sc-im)|sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal|3281|2022-04-19|
-|37|[ehids/ecapture](https://github.com/ehids/ecapture)|capture SSL/TLS text content without CA cert using eBPF.|3161|2022-05-13|
-|38|[guanzhi/GmSSL](https://github.com/guanzhi/GmSSL)|支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱|3065|2022-05-15|
+|35|[Chikage0o0/Linux-NetSpeed](https://github.com/Chikage0o0/Linux-NetSpeed)|将Linux现常用的网络加速集成在一起|3347|2022-04-23|
+|36|[andmarti1424/sc-im](https://github.com/andmarti1424/sc-im)|sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal|3282|2022-04-19|
+|37|[ehids/ecapture](https://github.com/ehids/ecapture)|capture SSL/TLS text content without CA cert using eBPF.|3164|2022-05-13|
+|38|[guanzhi/GmSSL](https://github.com/guanzhi/GmSSL)|支持国密SM2/SM3/SM4/SM9/SSL的密码工具箱|3075|2022-05-15|
 |39|[lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter)|Write a simple interpreter of C. Inspired by c4 and largely based on it.|3033|2021-12-27|
-|40|[hanwckf/rt-n56u](https://github.com/hanwckf/rt-n56u)|Padavan|2951|2022-04-20|
-|41|[yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu)|开发内功修炼|2886|2022-05-15|
-|42|[easychen/pushdeer](https://github.com/easychen/pushdeer)|开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备|2769|2022-05-12|
-|43|[zhaojh329/rtty](https://github.com/zhaojh329/rtty)|🐛 Access your terminal from anywhere via the web.|2652|2022-05-09|
+|40|[hanwckf/rt-n56u](https://github.com/hanwckf/rt-n56u)|Padavan|2950|2022-04-20|
+|41|[yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu)|开发内功修炼|2887|2022-05-15|
+|42|[easychen/pushdeer](https://github.com/easychen/pushdeer)|开放源码的无App推送服务，iOS14+扫码即用。亦支持快应用/iOS和Mac客户端、Android客户端、自制设备|2778|2022-05-12|
+|43|[zhaojh329/rtty](https://github.com/zhaojh329/rtty)|🐛 Access your terminal from anywhere via the web.|2662|2022-05-09|
 |44|[viabtc/viabtc_exchange_server](https://github.com/viabtc/viabtc_exchange_server)|A trading engine with high-speed performance and real-time notification|2515|2021-12-17|
 |45|[gozfree/gear-lib](https://github.com/gozfree/gear-lib)|Gear-Lib, C library for IOT Embedded Multimedia and Network|2487|2022-05-15|
-|46|[zlgopen/awtk](https://github.com/zlgopen/awtk)|AWTK = Toolkit AnyWhere(为嵌入式、手机和PC打造的通用GUI系统)|2477|2022-05-16|
+|46|[zlgopen/awtk](https://github.com/zlgopen/awtk)|AWTK = Toolkit AnyWhere(为嵌入式、手机和PC打造的通用GUI系统)|2477|2022-05-17|
 |47|[quickjs-zh/QuickJS](https://github.com/quickjs-zh/QuickJS)|QuickJS是一个小型并且可嵌入的Javascript引擎，它支持ES2020规范，包括模块，异步生成器和代理器。|2375|2022-03-19|
 |48|[alibaba/tsar](https://github.com/alibaba/tsar)|Taobao System Activity Reporter|2354|2022-02-18|
-|49|[ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL)|"POLARDB_11_STABLE" is the stable branch which is based on PostgreSQL 11.9.  It supports compute-storage separation architecture. The "distributed" branch, which supports distributed architecture.|2297|2022-05-16|
+|49|[ApsaraDB/PolarDB-for-PostgreSQL](https://github.com/ApsaraDB/PolarDB-for-PostgreSQL)|"POLARDB_11_STABLE" is the stable branch which is based on PostgreSQL 11.9.  It supports compute-storage separation architecture. The "distributed" branch, which supports distributed architecture.|2298|2022-05-17|
 |50|[armink/EasyLogger](https://github.com/armink/EasyLogger)|An ultra-lightweight(ROM<1.6K, RAM<0.3k), high-performance C/C++ log library.   一款超轻量级(ROM<1.6K, RAM<0.3k)、高性能的 C/C++ 日志库|2223|2022-01-07|
 |51|[acl-dev/acl](https://github.com/acl-dev/acl)|A powerful server and network library, including coroutine, redis client, http, websocket, mqtt with C/C++ for multi-platform.|2208|2022-05-11|
 |52|[winshining/nginx-http-flv-module](https://github.com/winshining/nginx-http-flv-module)|Media streaming server based on nginx-rtmp-module. In addtion to the features nginx-rtmp-module provides, HTTP-FLV, GOP cache and VHOST (one IP for multi domain names) are supported now.|2187|2022-02-20|
