@@ -1,73 +1,64 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > JavaScript
-<sub>数据更新: 2022-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-08-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|20504|2022-04-09|2021-08-07|
-|2|[vaxilu/x-ui](https://github.com/vaxilu/x-ui)|支持多协议多用户的 xray 面板|4103|2022-04-09|2021-05-18|
-|3|[shufflewzc/faker2](https://github.com/shufflewzc/faker2)|不知名大佬备份|3023|2022-01-29|2021-06-10|
-|4|[VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo)|解锁完整的 Apple功能和集成服务|2791|2022-04-06|2021-10-16|
-|5|[micro-zoe/micro-app](https://github.com/micro-zoe/micro-app)|A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架|2450|2022-03-24|2021-06-24|
-|6|[zero205/JD_tencent_scf](https://github.com/zero205/JD_tencent_scf)|-|2312|2022-02-07|2021-05-11|
-|7|[ender-zhao/Clash-for-Windows_Chinese](https://github.com/ender-zhao/Clash-for-Windows_Chinese)|clash for windows汉化版. 提供clash for windows的汉化版, 汉化补丁及汉化版安装程序|1955|2022-04-01|2021-04-19|
-|8|[lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)|一个基于 React native 开发的音乐软件|1467|2022-04-09|2021-05-15|
-|9|[oevery/ninja](https://github.com/oevery/ninja)|-|1409|2022-01-24|2021-07-26|
-|10|[Reamd7/notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)|notion 中文化|1311|2022-03-19|2021-08-12|
-|11|[RimoChan/match-you](https://github.com/RimoChan/match-you)|【您配吗】配你吗|1125|2022-03-10|2021-11-19|
-|12|[AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch)|Add a useless notch to your screen.|947|2022-04-07|2021-10-20|
-|13|[6dylan6/jdpro](https://github.com/6dylan6/jdpro)|青龙脚本库|932|2022-04-09|2021-07-30|
-|14|[Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)|✨ A Markdown Editor|740|2022-04-07|2021-10-15|
-|15|[vshymanskyy/StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine)|StandWithUkraine support materials|722|2022-04-08|2022-02-28|
-|16|[gys619/Absinthe](https://github.com/gys619/Absinthe)|一个兴趣使然的库|709|2022-04-09|2021-09-02|
-|17|[asd920/Auto-jd](https://github.com/asd920/Auto-jd)|京东自用脚本|662|2022-02-07|2021-05-29|
-|18|[passerby-b/JDDJ](https://github.com/passerby-b/JDDJ)|京东到家果园庄园脚本,电报群:https://t.me/passerbyb2021|636|2021-12-13|2021-04-16|
-|19|[feeddd/feeds](https://github.com/feeddd/feeds)|免费的公众号 RSS，支持扩展任意 APP|634|2022-04-07|2021-08-17|
-|20|[admin360bug/upload-labs](https://github.com/admin360bug/upload-labs)|原始靶场环境：https://github.com/c0ny1/upload-labs  此项目原始靶场环境的开普勒安全团队修改版，重新使用PHP7编写，并且保留了原版的风味！|559|2022-01-16|2022-01-16|
-|21|[wechat-miniprogram/minigame-unity-webgl-transform](https://github.com/wechat-miniprogram/minigame-unity-webgl-transform)|-|478|2022-04-06|2021-05-24|
-|22|[KingRan/KR](https://github.com/KingRan/KR)|-|460|2022-04-09|2022-02-11|
-|23|[shenruisi/Stay](https://github.com/shenruisi/Stay)|Stay is a local userscript manager and an extension sample for Safari on iOS/iPadOS.|459|2022-04-09|2021-10-24|
-|24|[764763903a/xdd-plus](https://github.com/764763903a/xdd-plus)|xdd-plus|434|2022-01-19|2021-09-06|
-|25|[qianlongo/fe-handwriting](https://github.com/qianlongo/fe-handwriting)|手写各种js Promise、apply、call、bind、new、deepClone....|434|2022-03-24|2021-06-02|
-|26|[USTC-Hackergame/hackergame2021-writeups](https://github.com/USTC-Hackergame/hackergame2021-writeups)|中国科学技术大学第八届信息安全大赛的官方与非官方题解|381|2022-01-10|2021-10-30|
-|27|[cweijan/JD_tencent_scf](https://github.com/cweijan/JD_tencent_scf)|打京豆部署介绍|379|2022-04-07|2022-02-08|
-|28|[tobe-fe-dalao/fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)|Vue3+Vite+Ts+Pinia+...一个快速开发vue3的模板框架|377|2022-04-07|2021-12-21|
-|29|[ccwav/QLScript2](https://github.com/ccwav/QLScript2)|新QLScript|376|2022-01-28|2021-09-29|
-|30|[elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator)|A plugin for reading and annotating PDFs and EPUBs in obsidian. |368|2022-03-11|2021-08-25|
-|31|[sml2h3/ast_tools](https://github.com/sml2h3/ast_tools)|ast基础框架-基于babel|354|2022-03-11|2022-03-11|
-|32|[cilame/v_jstools](https://github.com/cilame/v_jstools)|模仿着写一个开源的 chrome 插件，用来快速调试前端 js 代码。|346|2022-03-24|2021-09-25|
-|33|[ShyLoong/autojs-script](https://github.com/ShyLoong/autojs-script)|autojs脚本程序,用于完成安卓设备上的重复性操作.包含脚本: 1.2021年京东618任务脚本 2.2021年京东燃动夏季活动脚本3.2021京东双十一热爱环游记|335|2021-11-06|2021-07-10|
-|34|[Yiov/wool](https://github.com/Yiov/wool)|小羊毛薅起来|333|2022-04-08|2021-11-06|
-|35|[qishanzhiruan/basemall](https://github.com/qishanzhiruan/basemall)|🥇🥇🥇商城系统-  java商城 B2C商城 小程序商城 H5商城 APP商城 ，本商城是前后端分离的商城、微服务架构商城。|325|2022-02-09|2021-09-13|
-|36|[yuannian1112/jd_scripts](https://github.com/yuannian1112/jd_scripts)|-|318|2022-01-31|2021-08-07|
-|37|[VirgilClyne/GetSomeFries](https://github.com/VirgilClyne/GetSomeFries)|整点薯条|276|2022-03-04|2021-12-18|
-|38|[youzhengjie9/yblog](https://github.com/youzhengjie9/yblog)|来自一个大二的菜鸟基于SpringBoot框架开发的博客系统，采用了springBoot、springSecurity、Redis、elasticSearch、rabbitmq、Mybatis、Nginx等技术，主要实现了博文管理、统计图表、访问记录、附件管理、用户管理、友链管理、监控管理、抓取博文、第三方登录等功能，并且不断在上面进一步扩展，希望大家多多支持，顺便给个Star☺️|267|2022-02-12|2021-06-16|
-|39|[Enraged-Dun-Cookie-Development-Team/Dun-Cookie-Vue](https://github.com/Enraged-Dun-Cookie-Development-Team/Dun-Cookie-Vue)|自由的兔兔把烙好的饼到处藏，就由小刻把它们都找出来吧！定时收集多端的数据源，包括微博，通讯组，官网，B站等等。|255|2022-03-07|2021-04-17|
-|40|[fishingworld/something](https://github.com/fishingworld/something)|个人用Surge Panel脚本|253|2021-12-17|2021-10-01|
-|41|[nihaojob/popular-message](https://github.com/nihaojob/popular-message)|轻量级的信息反馈组件|244|2021-12-07|2021-06-15|
-|42|[zihjiang/filling](https://github.com/zihjiang/filling)|非常易用，高性能、支持实时流式和离线批处理的海量数据处理产品，架构于 Apache Flink之上。|207|2021-12-12|2021-09-12|
-|43|[shaolin-kongfu/js_scripts](https://github.com/shaolin-kongfu/js_scripts)|-|191|2021-11-21|2021-07-27|
-|44|[HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt)|A clean, elegant and advanced blog theme for Hugo.|182|2021-12-09|2021-04-15|
-|45|[WGrape/lexer](https://github.com/WGrape/lexer)|A lexical analyzer based on DFA that is built using JS and supports multi-language extensions / 一个基于DFA的支持多语言扩展的JS版开源词法分析器|169|2021-12-04|2021-08-25|
-|46|[veo/vshell](https://github.com/veo/vshell)|vshell 是一款go编写的主机管理工具，使用蚁剑控制台及插件管理主机 vshell is a Remote Administation tool written in Go (RAT),use AntSword control host |162|2021-10-12|2021-09-21|
-|47|[anji-plus/report](https://github.com/anji-plus/report)|AJ-Report是一个完全开源，拖拽编辑的可视化设计工具。三步快速完成大屏：配置数据源---->写SQL配置数据集---->拖拽生成大屏。让管理层随时随地掌控业务动态，让每个决策都有数据支撑。|151|2021-12-13|2021-06-22|
-|48|[Arondight/Adachi-BOT](https://github.com/Arondight/Adachi-BOT)|一个在 QQ 中运行的原神助手|148|2021-12-13|2021-05-13|
-|49|[jiulan/platypus](https://github.com/jiulan/platypus)|自用项目  别fork|139|2021-12-07|2021-06-04|
-|50|[KingRan/JD-Scripts](https://github.com/KingRan/JD-Scripts)|个人自用库，收藏好的JD脚本，适用于青龙面板|137|2021-12-13|2021-09-07|
-|51|[X1a0He/jd_scripts_fixed](https://github.com/X1a0He/jd_scripts_fixed)|由本人修复的京东类脚本，引用请注明来源|136|2021-12-06|2021-09-05|
-|52|[CloudWise-OpenSource/FlyFish](https://github.com/CloudWise-OpenSource/FlyFish)|FlyFish|134|2021-12-08|2021-10-08|
-|53|[lo4396ve/vue-analysis](https://github.com/lo4396ve/vue-analysis)|vue源码分析|130|2021-11-02|2021-09-13|
-|54|[master-of-forums/master-of-forums](https://github.com/master-of-forums/master-of-forums)|论坛网站页面美化、广告移除、功能增强。美轮美奂的视觉享受，安然恬静的论坛时光……|124|2021-12-09|2021-08-17|
-|55|[guyijie1211/JustLive-Web](https://github.com/guyijie1211/JustLive-Web)|:tv:一个整合国内多个直播平台内容的网站|118|2021-11-09|2021-05-24|
-|56|[shanmiteko/LotteryAutoScript](https://github.com/shanmiteko/LotteryAutoScript)|Bili动态抽奖助手|116|2021-12-13|2021-07-10|
-|57|[itenl/react-native-scrollable-tabview](https://github.com/itenl/react-native-scrollable-tabview)|Based on pure JS scripts, without relying on native, no need for react-native link, Title / Header / Tabs / Sticky / Screen components can be flexibly configured, among which Tabs / Sticky can slide W ...|110|2021-12-07|2021-06-02|
-|58|[04zhujunjie/jj-messagebox](https://github.com/04zhujunjie/jj-messagebox)|基于Vue的弹框 messagebox alert dialog loading popup toast|107|2021-11-09|2021-10-20|
-|59|[nancheung97/notion-zh_CN](https://github.com/nancheung97/notion-zh_CN)|对notion.so的汉化油猴脚本|106|2021-11-08|2021-06-01|
-|60|[SkepticMystic/graph-analysis](https://github.com/SkepticMystic/graph-analysis)|Analyse the structure of your Obsidian graph using various analysis techniques|105|2021-11-16|2021-07-11|
-|61|[iGaoWei/BigDataView](https://github.com/iGaoWei/BigDataView)|100套大数据可视化炫酷大屏Html5模板；包含行业：社区、物业、政务、交通、金融银行等，全网最新、最多，最全、最酷、最炫大数据可视化模板。陆续更新中|99|2021-10-22|2021-07-29|
-|62|[wanwu/devtools-pro](https://github.com/wanwu/devtools-pro)|A web remote debugging tools, based on Chrome DevTools|99|2021-12-13|2021-04-30|
-|63|[zhushenwudi/LoveLiveMusicPlayer](https://github.com/zhushenwudi/LoveLiveMusicPlayer)|一款LLer的专属播放器|92|2021-12-12|2021-10-28|
+|1|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|23511|2022-07-19|2021-08-07|
+|2|[VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo)|解锁完整的 Apple功能和集成服务|4372|2022-07-30|2021-10-16|
+|3|[Reamd7/notion-zh_CN](https://github.com/Reamd7/notion-zh_CN)|notion 中文化|2001|2022-07-13|2021-08-12|
+|4|[Le-niao/Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)|原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回|1418|2022-08-02|2021-11-02|
+|5|[RimoChan/match-you](https://github.com/RimoChan/match-you)|【您配吗】配你吗|1322|2022-03-10|2021-11-19|
+|6|[Java-S12138/frank](https://github.com/Java-S12138/frank)|一款全新的英雄联盟(LOL)助手软件.............. A bran-new League of Legends assistant software, a replacement for WeGame.|1259|2022-08-02|2022-07-04|
+|7|[KingRan/KR](https://github.com/KingRan/KR)|-|1002|2022-07-31|2022-02-11|
+|8|[gys619/Absinthe](https://github.com/gys619/Absinthe)|一个兴趣使然的库|1002|2022-08-02|2021-09-02|
+|9|[vshymanskyy/StandWithUkraine](https://github.com/vshymanskyy/StandWithUkraine)|StandWithUkraine support materials|963|2022-07-26|2022-02-28|
+|10|[AlynxZhou/gnome-shell-extension-inotch](https://github.com/AlynxZhou/gnome-shell-extension-inotch)|Add a useless notch to your screen.|948|2022-07-11|2021-10-20|
+|11|[Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)|✨ A Markdown Editor|926|2022-08-02|2021-10-15|
+|12|[feeddd/feeds](https://github.com/feeddd/feeds)|免费的公众号 RSS，支持扩展任意 APP|807|2022-07-31|2021-08-17|
+|13|[foamzou/melody](https://github.com/foamzou/melody)|我的音乐精灵|763|2022-07-31|2021-12-05|
+|14|[tobe-fe-dalao/fast-vue3](https://github.com/tobe-fe-dalao/fast-vue3)|Vue3+Vite+Ts+Pinia+...一个快速开发vue3的模板框架|726|2022-07-28|2021-12-21|
+|15|[easychen/checkchan-dist](https://github.com/easychen/checkchan-dist)|Check酱：监测网页内容变化，并发送异动到微信。亦支持http status、json和rss监测。配合自架云端，关电脑后也能运行。|673|2022-08-01|2022-05-21|
+|16|[uappkit/uapp](https://github.com/uappkit/uapp)|uniapp是一个基于Vue同构技术的多平台前端框架，熟悉Vue就可以同时写App(android/ios)，H5，微信/抖音/百度/支付宝等各家小程序，维护一套代码可以发布10多个平台。uapp 是一个提升 uniapp 开发效率的脚手架工具，类似 cordova, ionic, expo 的作用。uapp还包含 uapp-android, uapp-ios 两个平台的模板代码。|659|2022-06-12|2022-02-15|
+|17|[anaer/Sub](https://github.com/anaer/Sub)|自用clash订阅链接|602|2022-08-02|2021-11-04|
+|18|[shenruisi/Stay](https://github.com/shenruisi/Stay)|Stay is a local userscript manager and an extension sample for Safari on iOS/iPadOS.|590|2022-07-27|2021-10-24|
+|19|[Nerver4Ever/SevenSha1UIAdvancedHelper](https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper)|转存助手ui优化版|542|2022-06-16|2022-04-26|
+|20|[elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator)|A plugin for reading and annotating PDFs and EPUBs in obsidian. |517|2022-08-02|2021-08-25|
+|21|[Tsaiboss/decodeObfuscator](https://github.com/Tsaiboss/decodeObfuscator)|免安装一键还原Obfuscator混淆过的代码|498|2022-05-31|2022-04-06|
+|22|[cilame/v_jstools](https://github.com/cilame/v_jstools)|模仿着写一个开源的 chrome 插件，用来快速调试前端 js 代码。|495|2022-07-30|2021-09-25|
+|23|[SiJiDo/H](https://github.com/SiJiDo/H)|H是一款强大的资产收集管理平台|488|2022-05-18|2021-09-10|
+|24|[chaos-zhu/easynode](https://github.com/chaos-zhu/easynode)|一个简易的个人Linux服务器管理面板【需求与bug请提交issue】|475|2022-07-01|2022-06-08|
+|25|[764763903a/xdd-plus](https://github.com/764763903a/xdd-plus)|xdd-plus|475|2022-05-25|2021-09-06|
+|26|[91p2022/91](https://github.com/91p2022/91)|91porn 解锁91pornVIP Authorize anyone to distribute for non-profit 授权任何人非盈利分发|469|2022-07-27|2022-04-25|
+|27|[zhengjim/camille](https://github.com/zhengjim/camille)|基于Frida的Android App隐私合规检测辅助工具|465|2022-07-08|2021-10-28|
+|28|[VideoTogether/VideoTogether](https://github.com/VideoTogether/VideoTogether)|Watch video together on any platform / 一起看视频，兼容所有平台|442|2022-07-30|2022-06-23|
+|29|[csmsapp/csmsapp.github.io](https://github.com/csmsapp/csmsapp.github.io)|计算机硕士出国申请   CS Masters Application|432|2022-07-30|2022-03-28|
+|30|[DualSubs/DualSubs](https://github.com/DualSubs/DualSubs)|流媒体平台字幕增强及双语模块|428|2022-06-30|2022-02-28|
+|31|[cweijan/JD_tencent_scf](https://github.com/cweijan/JD_tencent_scf)|打京豆部署介绍|401|2022-06-01|2022-02-08|
+|32|[sml2h3/ast_tools](https://github.com/sml2h3/ast_tools)|ast基础框架-基于babel|400|2022-03-11|2022-03-11|
+|33|[Yiov/wool](https://github.com/Yiov/wool)|略略略略略|400|2022-07-17|2021-11-06|
+|34|[zclzone/vue-naive-admin](https://github.com/zclzone/vue-naive-admin)|⚡️基于 Vue3 + Vite + Pinia + Unocss + Naive UI 的轻量级后台管理模板。|372|2022-08-02|2022-01-08|
+|35|[VirgilClyne/GetSomeFries](https://github.com/VirgilClyne/GetSomeFries)|整点薯条|363|2022-05-11|2021-12-18|
+|36|[b0bac/ApolloScanner](https://github.com/b0bac/ApolloScanner)|自动化巡航扫描框架（可用于红队打点评估）|353|2022-03-24|2022-03-17|
+|37|[eolinker/eoapi](https://github.com/eolinker/eoapi)|Eoapi 是一个可扩展的 API 开发工具。Eoapi 集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。|351|2022-08-02|2021-11-24|
+|38|[tangly1024/NotionNext](https://github.com/tangly1024/NotionNext)|一个使用 NextJS + Notion API 实现的，部署在 Vercel 上的静态博客系统。为Notion和所有创作者设计。|350|2022-07-28|2021-09-26|
+|39|[qishanzhiruan/basemall](https://github.com/qishanzhiruan/basemall)|🥇🥇🥇商城系统-  java商城 B2C商城 小程序商城 H5商城 APP商城 ，本商城是前后端分离的商城、微服务架构商城。|344|2022-02-09|2021-09-13|
+|40|[UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram](https://github.com/UxxHans/Rainbow-Cats-Personal-WeChat-MiniProgram)|给女朋友做的微信小程序！情侣自己的任务和商城系统！|339|2022-07-21|2022-04-05|
+|41|[aoaostar/toolbox](https://github.com/aoaostar/toolbox)|🚀傲星工具箱，一个在线工具箱|324|2022-03-18|2021-12-21|
+|42|[CloudWise-OpenSource/FlyFish](https://github.com/CloudWise-OpenSource/FlyFish)|FlyFish is a data visualization coding platform. We can create a data model quickly in a simple way, and quickly generate a set of data visualization solutions by dragging.|312|2022-07-29|2021-10-08|
+|43|[sansui-orz/bilibili2local](https://github.com/sansui-orz/bilibili2local)|bilibili视频下载命令行工具|305|2022-05-07|2022-04-20|
+|44|[Sean529/robFood](https://github.com/Sean529/robFood)|因为上海疫情，用于抢菜~|303|2022-06-21|2022-04-01|
+|45|[fishingworld/something](https://github.com/fishingworld/something)|个人用Surge Panel脚本|301|2022-07-26|2021-10-01|
+|46|[qulingyuan/robVeg](https://github.com/qulingyuan/robVeg)|美团买菜 抢菜脚本|293|2022-04-08|2022-04-06|
+|47|[Abbbbbi/Frida-Seccomp](https://github.com/Abbbbbi/Frida-Seccomp)|一个Android通用svc跟踪以及hook方案——Frida-Seccomp|287|2022-03-11|2022-03-11|
+|48|[open-mmlab/labelbee-client](https://github.com/open-mmlab/labelbee-client)|Out-of-the-box Annotation Toolbox|287|2022-06-20|2021-12-03|
+|49|[skygongque/tts](https://github.com/skygongque/tts)|微软azure文本转语音 音频下载|282|2022-06-06|2022-03-13|
+|50|[Mustard404/Savior](https://github.com/Mustard404/Savior)|渗透测试报告自动生成工具！|274|2022-05-09|2021-11-10|
+|51|[sun0225SUN/Awesome-Love-Code](https://github.com/sun0225SUN/Awesome-Love-Code)|表白代码收藏馆~谁说程序猿不懂浪漫❤️|269|2022-02-16|2022-01-27|
+|52|[itorr/bionic-reading.user.js](https://github.com/itorr/bionic-reading.user.js)|网页英文前部加粗 用户脚本|258|2022-05-25|2022-05-19|
+|53|[sudongyuer/learn-eslint](https://github.com/sudongyuer/learn-eslint)|🦥 从0到1全面掌握ESLint|255|2022-07-22|2022-06-23|
+|54|[jxhczhl/JsRpc](https://github.com/jxhczhl/JsRpc)|jsrpc,在浏览器开启一个ws和服务连接，以请求http接口的形式来和浏览器通信 ,浏览器端收到调用通信执行原先设置好的js代码并获得返回值。|228|2022-07-14|2021-09-25|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
