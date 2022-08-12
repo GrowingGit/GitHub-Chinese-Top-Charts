@@ -1,32 +1,32 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > C++
-<sub>数据更新: 2022-08-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-08-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[electron/electron](https://github.com/electron/electron)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|102994|2022-08-10|
-|2|[zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)|这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。|21071|2022-08-07|
+|1|[electron/electron](https://github.com/electron/electron)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|103019|2022-08-10|
+|2|[zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)|这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。|21074|2022-08-07|
 |3|[envoyproxy/envoy](https://github.com/envoyproxy/envoy)|Cloud-native high-performance edge/middle/service proxy|20161|2022-08-10|
-|4|[taichi-dev/taichi](https://github.com/taichi-dev/taichi)|Productive & portable high-performance programming in Python.|19837|2022-08-10|
+|4|[taichi-dev/taichi](https://github.com/taichi-dev/taichi)|Productive & portable high-performance programming in Python.|19848|2022-08-10|
 |5|[ossrs/srs](https://github.com/ossrs/srs)|SRS is a simple, high efficiency and realtime video server, supports RTMP, WebRTC, HLS, HTTP-FLV and SRT.|18852|2022-08-10|
 |6|[alibaba/weex](https://github.com/alibaba/weex)|A framework for building Mobile cross-platform UI|17936|2022-07-06|
 |7|[swoole/swoole-src](https://github.com/swoole/swoole-src)|🚀 Coroutine-based concurrency library for PHP|17512|2022-08-10|
 |8|[Tencent/mars](https://github.com/Tencent/mars)|Mars is a cross-platform network component  developed by WeChat.|16319|2022-08-08|
-|9|[Tencent/ncnn](https://github.com/Tencent/ncnn)|ncnn is a high-performance neural network inference framework optimized for the mobile platform|15158|2022-08-10|
+|9|[Tencent/ncnn](https://github.com/Tencent/ncnn)|ncnn is a high-performance neural network inference framework optimized for the mobile platform|15160|2022-08-10|
 |10|[Tencent/MMKV](https://github.com/Tencent/MMKV)|An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.|14848|2022-07-08|
 |11|[apache/incubator-brpc](https://github.com/apache/incubator-brpc)|brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means  ...|13669|2022-08-09|
 |12|[Tencent/rapidjson](https://github.com/Tencent/rapidjson)|A fast JSON parser/generator for C++ with both SAX/DOM style API|12258|2022-07-20|
 |13|[Tencent/matrix](https://github.com/Tencent/matrix)|Matrix is a plugin style, non-invasive APM system developed by WeChat.|10131|2022-06-29|
-|14|[vnotex/vnote](https://github.com/vnotex/vnote)|A pleasant note-taking platform.|9513|2022-08-09|
-|15|[TarsCloud/Tars](https://github.com/TarsCloud/Tars)|Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.|9463|2022-07-17|
-|16|[DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite)|超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M |9410|2022-07-25|
+|14|[vnotex/vnote](https://github.com/vnotex/vnote)|A pleasant note-taking platform.|9515|2022-08-09|
+|15|[TarsCloud/Tars](https://github.com/TarsCloud/Tars)|Tars is a high-performance RPC framework based on name service and Tars protocol, also integrated administration platform, and implemented hosting-service via flexible schedule.|9467|2022-07-17|
+|16|[DayBreak-u/chineseocr_lite](https://github.com/DayBreak-u/chineseocr_lite)|超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M |9413|2022-07-25|
 |17|[sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi)|Code. Music. Live.|9350|2022-08-06|
-|18|[sogou/workflow](https://github.com/sogou/workflow)|C++ Parallel Computing and Asynchronous Networking Engine|8867|2022-08-09|
+|18|[sogou/workflow](https://github.com/sogou/workflow)|C++ Parallel Computing and Asynchronous Networking Engine|8875|2022-08-09|
 |19|[sass/node-sass](https://github.com/sass/node-sass)|:rainbow: Node.js bindings to libsass|8179|2022-06-30|
-|20|[drogonframework/drogon](https://github.com/drogonframework/drogon)|Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows|7767|2022-08-02|
-|21|[vesoft-inc/nebula](https://github.com/vesoft-inc/nebula)|  A distributed, fast open-source graph database featuring horizontal scalability and high availability|7731|2022-08-09|
-|22|[PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl)|Point Cloud Library (PCL)|7619|2022-08-09|
+|20|[drogonframework/drogon](https://github.com/drogonframework/drogon)|Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows|7768|2022-08-11|
+|21|[vesoft-inc/nebula](https://github.com/vesoft-inc/nebula)|  A distributed, fast open-source graph database featuring horizontal scalability and high availability|7733|2022-08-10|
+|22|[PointCloudLibrary/pcl](https://github.com/PointCloudLibrary/pcl)|Point Cloud Library (PCL)|7623|2022-08-10|
 |23|[hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)|A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for ...|7617|2022-08-10|
 |24|[snowie2000/mactype](https://github.com/snowie2000/mactype)|Better font rendering for Windows.|7523|2022-08-01|
 |25|[AaronFeng753/Waifu2x-Extension-GUI](https://github.com/AaronFeng753/Waifu2x-Extension-GUI)|Video, Image and GIF upscale/enlarge(Super-Resolution) and Video frame interpolation. Achieved with Waifu2x,  Real-ESRGAN, Real-CUGAN, SRMD, RealSR, Anime4K, RIFE, IFRNet, CAIN, DAIN,  and ACNet.|7297|2022-08-08|
@@ -36,10 +36,10 @@
 |29|[visualfc/liteide](https://github.com/visualfc/liteide)|LiteIDE is a simple, open source, cross-platform Go IDE. |6929|2022-07-29|
 |30|[alibaba/MNN](https://github.com/alibaba/MNN)|MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba|6877|2022-07-22|
 |31|[Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL)|Achieve a tiny STL in C++11|6840|2022-05-04|
-|32|[Tencent/Hippy](https://github.com/Tencent/Hippy)|Hippy is designed for developers to easily build cross-platform and high-performance awesome apps. 👏|6709|2022-08-06|
-|33|[tindy2013/subconverter](https://github.com/tindy2013/subconverter)|Utility to convert between various subscription format|6568|2022-08-05|
-|34|[BYVoid/OpenCC](https://github.com/BYVoid/OpenCC)|Conversion between Traditional and Simplified Chinese|6537|2022-08-02|
-|35|[idea4good/GuiLite](https://github.com/idea4good/GuiLite)|✔️The smallest header-only GUI library(4 KLOC) for all platforms|6364|2022-07-22|
+|32|[Tencent/Hippy](https://github.com/Tencent/Hippy)|Hippy is designed for developers to easily build cross-platform and high-performance awesome apps. 👏|6715|2022-08-10|
+|33|[tindy2013/subconverter](https://github.com/tindy2013/subconverter)|Utility to convert between various subscription format|6587|2022-08-09|
+|34|[BYVoid/OpenCC](https://github.com/BYVoid/OpenCC)|Conversion between Traditional and Simplified Chinese|6541|2022-08-02|
+|35|[idea4good/GuiLite](https://github.com/idea4good/GuiLite)|✔️The smallest header-only GUI library(4 KLOC) for all platforms|6363|2022-07-22|
 |36|[PaddlePaddle/Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite)|Multi-platform high performance  deep learning inference engine (飞桨多端多平台高性能深度学习推理引擎）|6160|2022-08-10|
 |37|[google/sentencepiece](https://github.com/google/sentencepiece)|Unsupervised text tokenizer for Neural Network-based text generation.|6099|2022-08-09|
 |38|[me115/design_patterns](https://github.com/me115/design_patterns)|图说设计模式|5939|2022-06-01|
@@ -47,54 +47,54 @@
 |40|[wangyu-/udp2raw](https://github.com/wangyu-/udp2raw)|A Tunnel which Turns UDP Traffic into Encrypted UDP/FakeTCP/ICMP Traffic by using Raw Socket,helps you Bypass UDP FireWalls(or Unstable UDP Environment)|5280|2022-08-07|
 |41|[duilib/duilib](https://github.com/duilib/duilib)|-|4894|2022-05-19|
 |42|[OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika)|Pika is a nosql compatible with redis, it is developed by Qihoo's DBA and infrastructure team|4753|2022-08-08|
-|43|[szad670401/HyperLPR](https://github.com/szad670401/HyperLPR)|基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework.|4670|2022-06-29|
+|43|[szad670401/HyperLPR](https://github.com/szad670401/HyperLPR)|基于深度学习高性能中文车牌识别 High Performance Chinese License Plate Recognition Framework.|4676|2022-06-29|
 |44|[XiaoMi/mace](https://github.com/XiaoMi/mace)|MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.|4660|2022-07-13|
 |45|[TonyChen56/WeChatRobot](https://github.com/TonyChen56/WeChatRobot)|PC版微信机器人 微信Api、WeChatApis.dll、微信聊天机器人 python微信api 微信接口 微信数据库解密|4621|2022-07-09|
 |46|[goldendict/goldendict](https://github.com/goldendict/goldendict)|A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup,  ...|4569|2022-07-29|
 |47|[oceanbase/oceanbase](https://github.com/oceanbase/oceanbase)|OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.|4509|2022-08-10|
 |48|[wang-xinyu/tensorrtx](https://github.com/wang-xinyu/tensorrtx)|Implementation of popular deep learning networks with TensorRT network definition API|4450|2022-08-02|
 |49|[MegEngine/MegEngine](https://github.com/MegEngine/MegEngine)|MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架|4310|2022-08-09|
-|50|[anyrtcIO-Community/anyRTC-RTMP-OpenSource](https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource)|RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS,Android）开源代码|4102|2022-08-09|
-|51|[yedf2/handy](https://github.com/yedf2/handy)|🔥简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework|4088|2022-05-23|
+|50|[anyrtcIO-Community/anyRTC-RTMP-OpenSource](https://github.com/anyrtcIO-Community/anyRTC-RTMP-OpenSource)|RTMP 推流器，RTMP(HLS)秒开播放器，直播点播，跨平台（Win,IOS,Android）开源代码|4104|2022-08-09|
+|51|[yedf2/handy](https://github.com/yedf2/handy)|🔥简洁易用的C++11网络库 / 支持单机千万并发连接 / a simple C++11 network server framework|4090|2022-05-23|
 |52|[OAID/Tengine](https://github.com/OAID/Tengine)|Tengine is a lite, high performance, modular inference engine for embedded device |4050|2022-08-06|
 |53|[wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder)|A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)|3998|2022-07-02|
 |54|[CodingGay/BlackDex](https://github.com/CodingGay/BlackDex)|BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in sever ...|3835|2022-08-09|
-|55|[Tencent/TNN](https://github.com/Tencent/TNN)|TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cr ...|3617|2022-08-05|
-|56|[kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)|Google SafetyNet attestation workarounds for Magisk|3594|2022-07-27|
-|57|[WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)|WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm ...|3578|2022-08-09|
+|55|[Tencent/TNN](https://github.com/Tencent/TNN)|TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cr ...|3624|2022-08-10|
+|56|[kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)|Google SafetyNet attestation workarounds for Magisk|3596|2022-07-27|
+|57|[WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)|WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm ...|3591|2022-08-10|
 |58|[Oneflow-Inc/oneflow](https://github.com/Oneflow-Inc/oneflow)|OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.|3561|2022-08-10|
 |59|[feiyangqingyun/QWidgetDemo](https://github.com/feiyangqingyun/QWidgetDemo)|Qt编写的一些开源的demo，预计会有100多个，一直持续更新完善，代码简洁易懂注释详细，每个都是独立项目，非常适合初学者，代码随意传播使用，拒绝打赏和捐赠，欢迎留言评论！|3480|2022-07-28|
-|60|[BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk)|OpenArk is an open source anti-rookit(ARK) tool for Windows. |3321|2022-05-25|
+|60|[BlackINT3/OpenArk](https://github.com/BlackINT3/OpenArk)|OpenArk is an open source anti-rookit(ARK) tool for Windows. |3322|2022-05-25|
 |61|[wang-bin/QtAV](https://github.com/wang-bin/QtAV)|A cross-platform multimedia framework based on Qt and FFmpeg(https://github.com/wang-bin/avbuild). High performance. User & developer friendly. Supports Android, iOS, Windows store and desktops. 基于Qt和 ...|3244|2022-06-15|
 |62|[baidu/braft](https://github.com/baidu/braft)|An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.|3224|2022-07-27|
 |63|[mindspore-ai/mindspore](https://github.com/mindspore-ai/mindspore)|MindSpore is a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios.|3035|2022-08-07|
-|64|[acidanthera/AppleALC](https://github.com/acidanthera/AppleALC)|Native macOS HD audio for not officially supported codecs|3032|2022-08-07|
-|65|[aksnzhy/xlearn](https://github.com/aksnzhy/xlearn)|High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI int ...|3009|2022-06-05|
-|66|[Tencent/puerts](https://github.com/Tencent/puerts)|Write your game with TypeScript in UE or Unity. Puerts can be pronounced as pu-erh TS（普洱TS）|2962|2022-08-08|
+|64|[acidanthera/AppleALC](https://github.com/acidanthera/AppleALC)|Native macOS HD audio for not officially supported codecs|3031|2022-08-07|
+|65|[aksnzhy/xlearn](https://github.com/aksnzhy/xlearn)|High performance, easy-to-use, and scalable machine learning (ML) package, including linear model (LR), factorization machines (FM), and field-aware factorization machines (FFM) for Python and CLI int ...|3008|2022-06-05|
+|66|[Tencent/puerts](https://github.com/Tencent/puerts)|Write your game with TypeScript in UE or Unity. Puerts can be pronounced as pu-erh TS（普洱TS）|2971|2022-08-10|
 |67|[liuchuo/PAT](https://github.com/liuchuo/PAT)|🍭 浙江大学PAT题解(C/C++/Java/Python) - 努力成为萌萌的程序媛～|2922|2022-03-03|
-|68|[openthread/openthread](https://github.com/openthread/openthread)|OpenThread released by Google is an open-source implementation of the Thread networking protocol|2870|2022-08-06|
+|68|[openthread/openthread](https://github.com/openthread/openthread)|OpenThread released by Google is an open-source implementation of the Thread networking protocol|2871|2022-08-11|
 |69|[cubefs/cubefs](https://github.com/cubefs/cubefs)|CubeFS is a cloud native distributed storage platform. |2845|2022-08-08|
 |70|[Serial-Studio/Serial-Studio](https://github.com/Serial-Studio/Serial-Studio)|Multi-purpose serial data visualization & processing program|2803|2022-08-05|
 |71|[rizonesoft/Notepad3](https://github.com/rizonesoft/Notepad3)|Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:|2803|2022-08-10|
 |72|[hzeller/rpi-rgb-led-matrix](https://github.com/hzeller/rpi-rgb-led-matrix)|Controlling up to three chains of 64x64, 32x32, 16x32 or similar RGB LED displays using Raspberry Pi GPIO|2801|2022-08-09|
 |73|[alibaba/euler](https://github.com/alibaba/euler)|A distributed graph deep learning framework.|2785|2022-06-26|
-|74|[idealvin/coost](https://github.com/idealvin/coost)|A tiny boost library in C++11.|2750|2022-08-05|
+|74|[idealvin/coost](https://github.com/idealvin/coost)|A tiny boost library in C++11.|2754|2022-08-05|
 |75|[kungfu-origin/kungfu](https://github.com/kungfu-origin/kungfu)|Kungfu Trader|2693|2022-07-07|
 |76|[pbek/QOwnNotes](https://github.com/pbek/QOwnNotes)|QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.|2648|2022-08-07|
 |77|[KwaiAppTeam/KOOM](https://github.com/KwaiAppTeam/KOOM)|KOOM is an OOM killer on mobile platform by Kwai.|2570|2022-05-25|
-|78|[helio-fm/helio-workstation](https://github.com/helio-fm/helio-workstation)|One music sequencer for all major platforms, desktop and mobile|2453|2022-08-05|
+|78|[helio-fm/helio-workstation](https://github.com/helio-fm/helio-workstation)|One music sequencer for all major platforms, desktop and mobile|2454|2022-08-05|
 |79|[Tencent/Tendis](https://github.com/Tencent/Tendis)|Tendis is a high-performance distributed storage system fully compatible with the Redis protocol. |2423|2022-07-13|
 |80|[Tatsu-syo/noMeiryoUI](https://github.com/Tatsu-syo/noMeiryoUI)|No!! MeiryoUI is Windows system font setting tool on Windows 8.1/10/11.|2414|2022-06-26|
-|81|[vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader)|下载B站视频、直播、漫画（能看=能下载）。使用 Qt C++ 开发|2392|2022-08-03|
+|81|[vooidzero/B23Downloader](https://github.com/vooidzero/B23Downloader)|下载B站视频、直播、漫画（能看=能下载）。使用 Qt C++ 开发|2391|2022-08-03|
 |82|[emilybache/GildedRose-Refactoring-Kata](https://github.com/emilybache/GildedRose-Refactoring-Kata)|Starting code for the GildedRose Refactoring Kata in many programming languages.|2383|2022-08-10|
 |83|[rime/weasel](https://github.com/rime/weasel)|【小狼毫】Rime for Windows|2363|2022-06-25|
 |84|[rime/librime](https://github.com/rime/librime)|Rime Input Method Engine, the core library|2341|2022-07-29|
 |85|[wenet-e2e/wenet](https://github.com/wenet-e2e/wenet)|Production First and Production Ready End-to-End Speech Recognition Toolkit|2326|2022-08-08|
 |86|[miguelbalboa/rfid](https://github.com/miguelbalboa/rfid)|Arduino RFID Library for MFRC522|2318|2022-06-06|
-|87|[cppla/ServerStatus](https://github.com/cppla/ServerStatus)|云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/|2263|2022-08-01|
-|88|[baidu/openrasp](https://github.com/baidu/openrasp)|🔥Open source RASP solution|2263|2022-07-10|
-|89|[yanyiwu/cppjieba](https://github.com/yanyiwu/cppjieba)|"结巴"中文分词的C++版本|2181|2022-07-31|
-|90|[DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu)|DSi Menu replacement for DS/DSi/3DS/2DS|2173|2022-08-09|
+|87|[baidu/openrasp](https://github.com/baidu/openrasp)|🔥Open source RASP solution|2266|2022-07-10|
+|88|[cppla/ServerStatus](https://github.com/cppla/ServerStatus)|云探针、多服务器探针、云监控、多服务器云监控，演示： https://tz.cloudcpp.com/|2263|2022-08-01|
+|89|[yanyiwu/cppjieba](https://github.com/yanyiwu/cppjieba)|"结巴"中文分词的C++版本|2182|2022-07-31|
+|90|[DS-Homebrew/TWiLightMenu](https://github.com/DS-Homebrew/TWiLightMenu)|DSi Menu replacement for DS/DSi/3DS/2DS|2179|2022-08-09|
 |91|[Simple-XX/SimpleKernel](https://github.com/Simple-XX/SimpleKernel)|Simple kernel for learning operating systems. 用于学习操作系统的简单内核|2163|2022-04-21|
 |92|[yuanming-hu/taichi_mpm](https://github.com/yuanming-hu/taichi_mpm)|High-performance moving least squares material point method (MLS-MPM) solver. (ACM Transactions on Graphics, SIGGRAPH 2018)|2130|2022-02-23|
 |93|[BlueMatthew/WechatExporter](https://github.com/BlueMatthew/WechatExporter)|Wechat Chat History Exporter 微信聊天记录导出备份程序|2109|2022-07-15|
