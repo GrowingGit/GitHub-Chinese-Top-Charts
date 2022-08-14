@@ -1,77 +1,77 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > C#
-<sub>数据更新: 2022-08-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-08-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)|:trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）|16463|2022-08-07|
-|2|[BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)|🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。|9272|2022-08-06|
-|3|[nilaoda/N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI)|[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.|9163|2022-07-20|
-|4|[felixse/FluentTerminal](https://github.com/felixse/FluentTerminal)|A Terminal Emulator based on UWP and web technologies.|8376|2022-07-22|
-|5|[TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition)|CloudMoe Windows 10 Activation Toolkit get digital license, the best open source Win 10 activator in GitHub. GitHub 上最棒的开源 Win10 数字权利（数字许可证）激活工具！|8140|2022-07-26|
-|6|[dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub)|github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题|7888|2022-06-20|
-|7|[xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator)|Yet Another System Region and Language Simulator|7748|2022-04-15|
-|8|[JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)|微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.|7433|2022-08-05|
-|9|[leiurayer/downkyi](https://github.com/leiurayer/downkyi)|哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。|7313|2022-07-28|
-|10|[mbdavid/LiteDB](https://github.com/mbdavid/LiteDB)|LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org|6650|2022-06-24|
-|11|[0x7c13/Notepads](https://github.com/0x7c13/Notepads)|A modern, lightweight text editor with a minimalist design.|6601|2022-07-18|
-|12|[Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp)|适用于新系统UI的哔哩|6072|2022-08-06|
-|13|[egametang/ET](https://github.com/egametang/ET)|Unity3D Client And C# Server Framework|6043|2022-08-05|
-|14|[bchavez/Bogus](https://github.com/bchavez/Bogus)|:card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.|6038|2022-06-25|
-|15|[jynew/jynew](https://github.com/jynew/jynew)|金庸群侠传3D重制版|5335|2022-08-07|
-|16|[BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)|🖱️ 纯粹的Windows右键菜单管理程序|5138|2022-07-06|
-|17|[studyzy/imewlconverter](https://github.com/studyzy/imewlconverter)|”深蓝词库转换“ 一款开源免费的输入法词库转换程序|5067|2022-07-03|
-|18|[nissl-lab/npoi](https://github.com/nissl-lab/npoi)|a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.|4566|2022-08-06|
-|19|[ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor)|🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.|4347|2022-08-06|
-|20|[XINCGer/Unity3DTraining](https://github.com/XINCGer/Unity3DTraining)|Unity的练习项目|4331|2022-08-06|
-|21|[Jimmey-Jiang/Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility)|Various helper class|4307|2022-06-23|
-|22|[Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper)|Unity il2cpp reverse engineer|4155|2022-06-09|
-|23|[donet5/SqlSugar](https://github.com/donet5/SqlSugar)|Best ORM    Fastest ORM   Simple Easy  Sqlite  orm Oracle ORM Mysql Orm  postgresql ORm  SqlServer oRm     达梦 ORM 人大金仓 ORM 神通ORM  C# ORM , C# ORM .NET ORM NET5 ORM .NET6 ORM|4103|2022-08-06|
-|24|[dotnetcore/Util](https://github.com/dotnetcore/Util)|Util是一个.net core平台下的应用框架，旨在提升小型团队的开发输出能力，由常用公共操作类(工具类)、分层架构基类、Ui组件，第三方组件封装，第三方业务接口封装，配套代码生成模板，权限等组成。|3994|2022-08-02|
-|25|[EllanJiang/GameFramework](https://github.com/EllanJiang/GameFramework)|This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the developmen ...|3902|2022-05-16|
-|26|[dotnetcore/WTM](https://github.com/dotnetcore/WTM)|Use WTM to write .netcore app fast !!!|3690|2022-08-04|
-|27|[commandlineparser/commandline](https://github.com/commandlineparser/commandline)|The best C# command line parser that brings standardized *nix getopt style, for .NET.  Includes F# support|3590|2022-07-15|
-|28|[nilaoda/BBDown](https://github.com/nilaoda/BBDown)|Bilibili Downloader. 一款命令行式哔哩哔哩下载器.|3476|2022-08-05|
-|29|[k8gege/Ladon](https://github.com/k8gege/Ladon)|大型内网渗透扫描器&Cobalt Strike，Ladon9.1.8内置160个模块，包含信息收集/存活主机/端口扫描/服务识别/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010/SMBGhost/Weblogic/ActiveMQ/Tomcat/Struts2，密码口令爆破(Mysql/Oracle/MSSQL)/FTP/SSH(Linux)/VNC/Windows(IPC/WMI/SMB ...|3360|2022-07-28|
-|30|[dotnetcore/FreeSql](https://github.com/dotnetcore/FreeSql)|🦄 .NET orm, C# orm, VB.NET orm, Mysql orm, Postgresql orm, SqlServer orm, Oracle orm, Sqlite orm, Firebird orm, 达梦 orm, 人大金仓 orm, 神通 orm, 翰高 orm, 南大通用 orm, 国产 orm, Clickhouse orm, MsAccess orm.|3358|2022-08-06|
-|31|[VsVim/VsVim](https://github.com/VsVim/VsVim)|Vim Emulator Plugin for Visual Studio 2015+ |3318|2022-07-22|
-|32|[skoruba/IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin)|The administration for the IdentityServer4 and Asp.Net Core Identity|3222|2022-08-02|
-|33|[Azure/azure-powershell](https://github.com/Azure/azure-powershell)|Microsoft Azure PowerShell|3206|2022-08-06|
-|34|[fanliang11/surging](https://github.com/fanliang11/surging)|Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline.  support Event-based Asynchronous Pattern and reactive programming ,The service engine su ...|3131|2022-07-07|
-|35|[MapsterMapper/Mapster](https://github.com/MapsterMapper/Mapster)|A fast, fun and stimulating object to object Mapper|2813|2022-07-18|
-|36|[cq-panda/Vue.NetCore](https://github.com/cq-panda/Vue.NetCore)|.NetCore+Vue2/Vue3+Element plus+uniapp前后端分离，全自动生成代码；支持移动端(uniapp)ios/android/h5/微信小程序。http://www.volcore.xyz/|2755|2022-07-30|
-|37|[liangxiegame/QFramework](https://github.com/liangxiegame/QFramework)|Unity3D System Design Architecture|2737|2022-07-30|
-|38|[Ourpalm/ILRuntime](https://github.com/Ourpalm/ILRuntime)|Pure C# IL Intepreter Runtime, which is fast and reliable for scripting requirement on enviorments, where jitting isn't possible. |2670|2022-08-05|
-|39|[SeriaWei/ZKEACMS](https://github.com/SeriaWei/ZKEACMS)|ZKEACMS build with .Net 5 (.Net CMS)可视化设计在线编辑内容管理系统|2661|2022-07-29|
-|40|[wolfgarbe/SymSpell](https://github.com/wolfgarbe/SymSpell)|SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm|2617|2022-03-09|
-|41|[hellzerg/optimizer](https://github.com/hellzerg/optimizer)|The finest Windows Optimizer|2536|2022-08-05|
-|42|[NetDimension/NanUI](https://github.com/NetDimension/NanUI)|NanUI is an open source .NET project for .NET developers who want to build desktop applications with HTML, CSS and JavaScript.|2340|2022-07-20|
-|43|[dotnetcore/osharp](https://github.com/dotnetcore/osharp)|OSharp是一个基于.NetCore的快速开发框架，框架对 AspNetCore 的配置、依赖注入、日志、缓存、实体框架、Mvc(WebApi)、身份认证、功能权限、数据权限等模块进行更高一级的自动化封装，并规范了一套业务实现的代码结构与操作流程，使 .Net Core 框架更易于应用到实际项目开发中。|2339|2022-06-18|
-|44|[JavScraper/Emby.Plugins.JavScraper](https://github.com/JavScraper/Emby.Plugins.JavScraper)|Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。|2104|2022-06-25|
-|45|[indiff/qttabbar](https://github.com/indiff/qttabbar)|Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer. |2090|2022-07-10|
-|46|[XCharts-Team/XCharts](https://github.com/XCharts-Team/XCharts)|A charting and data visualization library for Unity.   Unity数据可视化图表插件。 |1998|2022-08-02|
-|47|[samhocevar/wincompose](https://github.com/samhocevar/wincompose)|🔣 Compose Key for Windows|1960|2022-06-16|
-|48|[Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)|:mag: Quick file search & app launcher for Windows with community-made plugins|1947|2022-08-06|
-|49|[yimengfan/BDFramework.Core](https://github.com/yimengfan/BDFramework.Core)|Simple and powerful Unity3d game workflow!  简单、高效、高度工业化的商业级unity3d 工作流。|1928|2022-08-02|
-|50|[ThePBone/GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient)|Unofficial Galaxy Buds Manager for Windows and Linux|1922|2022-07-28|
-|51|[1y0n/AV_Evasion_Tool](https://github.com/1y0n/AV_Evasion_Tool)|掩日 - 免杀执行器生成工具|1854|2022-08-01|
-|52|[apache/lucenenet](https://github.com/apache/lucenenet)|Apache Lucene.NET|1838|2022-06-01|
-|53|[the1812/Malware-Patch](https://github.com/the1812/Malware-Patch)|阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.|1834|2022-07-05|
-|54|[BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder)|B站录播姬   BiliBili Stream Recorder   哔哩哔哩直播录制|1831|2022-08-02|
-|55|[goatcorp/FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)|Custom launcher for FFXIV|1821|2022-08-04|
-|56|[liukuo362573/YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin)|基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观。演示版 http://toolhelper.cn/admin|1805|2022-07-29|
-|57|[emoacht/Monitorian](https://github.com/emoacht/Monitorian)|A Windows desktop tool to adjust the brightness of multiple monitors with ease|1679|2022-08-02|
-|58|[Tencent/InjectFix](https://github.com/Tencent/InjectFix)|InjectFix is a hot-fix solution library for Unity|1671|2022-05-15|
-|59|[MonkSoul/Furion](https://github.com/MonkSoul/Furion)|让 .NET 开发更简单，更通用，更流行。|1656|2022-08-06|
-|60|[dotnetcore/Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE)|Import and export general library, support Dto import and export, template export, fancy export and dynamic export, support Excel, Csv, Word, Pdf and Html.|1645|2022-07-17|
+|1|[huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher)|:trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）|16542|2022-08-08|
+|2|[BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)|🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。|9427|2022-08-12|
+|3|[nilaoda/N_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI)|[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.|9229|2022-07-20|
+|4|[felixse/FluentTerminal](https://github.com/felixse/FluentTerminal)|A Terminal Emulator based on UWP and web technologies.|8379|2022-07-22|
+|5|[TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition)|CloudMoe Windows 10 Activation Toolkit get digital license, the best open source Win 10 activator in GitHub. GitHub 上最棒的开源 Win10 数字权利（数字许可证）激活工具！|8169|2022-07-26|
+|6|[dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub)|github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题|7966|2022-06-20|
+|7|[xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator)|Yet Another System Region and Language Simulator|7769|2022-04-15|
+|8|[JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)|微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.|7439|2022-08-12|
+|9|[leiurayer/downkyi](https://github.com/leiurayer/downkyi)|哔哩下载姬downkyi，B站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。|7421|2022-07-28|
+|10|[mbdavid/LiteDB](https://github.com/mbdavid/LiteDB)|LiteDB - A .NET NoSQL Document Store in a single data file - https://www.litedb.org|6664|2022-08-11|
+|11|[0x7c13/Notepads](https://github.com/0x7c13/Notepads)|A modern, lightweight text editor with a minimalist design.|6618|2022-08-08|
+|12|[Richasy/Bili.Uwp](https://github.com/Richasy/Bili.Uwp)|适用于新系统UI的哔哩|6099|2022-08-09|
+|13|[egametang/ET](https://github.com/egametang/ET)|Unity3D Client And C# Server Framework|6077|2022-08-13|
+|14|[bchavez/Bogus](https://github.com/bchavez/Bogus)|:card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.|6066|2022-06-25|
+|15|[jynew/jynew](https://github.com/jynew/jynew)|金庸群侠传3D重制版|5357|2022-08-11|
+|16|[BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager)|🖱️ 纯粹的Windows右键菜单管理程序|5179|2022-07-06|
+|17|[studyzy/imewlconverter](https://github.com/studyzy/imewlconverter)|”深蓝词库转换“ 一款开源免费的输入法词库转换程序|5090|2022-07-03|
+|18|[nissl-lab/npoi](https://github.com/nissl-lab/npoi)|a .NET library that can read/write Office formats without Microsoft Office installed. No COM+, no interop.|4577|2022-08-09|
+|19|[ant-design-blazor/ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor)|🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.|4359|2022-08-13|
+|20|[XINCGer/Unity3DTraining](https://github.com/XINCGer/Unity3DTraining)|Unity的练习项目|4353|2022-08-12|
+|21|[Jimmey-Jiang/Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility)|Various helper class|4312|2022-06-23|
+|22|[Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper)|Unity il2cpp reverse engineer|4181|2022-06-09|
+|23|[donet5/SqlSugar](https://github.com/donet5/SqlSugar)|Best ORM    Fastest ORM   Simple Easy  Sqlite  orm Oracle ORM Mysql Orm  postgresql ORm  SqlServer oRm     达梦 ORM 人大金仓 ORM 神通ORM  C# ORM , C# ORM .NET ORM NET5 ORM .NET6 ORM|4109|2022-08-12|
+|24|[dotnetcore/Util](https://github.com/dotnetcore/Util)|Util是一个.net core平台下的应用框架，旨在提升小型团队的开发输出能力，由常用公共操作类(工具类)、分层架构基类、Ui组件，第三方组件封装，第三方业务接口封装，配套代码生成模板，权限等组成。|3998|2022-08-02|
+|25|[EllanJiang/GameFramework](https://github.com/EllanJiang/GameFramework)|This is literally a game framework, based on Unity game engine. It encapsulates commonly used game modules during development, and, to a large degree, standardises the process, enhances the developmen ...|3911|2022-05-16|
+|26|[dotnetcore/WTM](https://github.com/dotnetcore/WTM)|Use WTM to write .netcore app fast !!!|3702|2022-08-12|
+|27|[commandlineparser/commandline](https://github.com/commandlineparser/commandline)|The best C# command line parser that brings standardized *nix getopt style, for .NET.  Includes F# support|3596|2022-07-15|
+|28|[nilaoda/BBDown](https://github.com/nilaoda/BBDown)|Bilibili Downloader. 一款命令行式哔哩哔哩下载器.|3509|2022-08-13|
+|29|[k8gege/Ladon](https://github.com/k8gege/Ladon)|大型内网渗透扫描器&Cobalt Strike，Ladon9.1.8内置160个模块，包含信息收集/存活主机/端口扫描/服务识别/密码爆破/漏洞检测/漏洞利用。漏洞检测含MS17010/SMBGhost/Weblogic/ActiveMQ/Tomcat/Struts2，密码口令爆破(Mysql/Oracle/MSSQL)/FTP/SSH(Linux)/VNC/Windows(IPC/WMI/SMB ...|3376|2022-07-28|
+|30|[dotnetcore/FreeSql](https://github.com/dotnetcore/FreeSql)|🦄 .NET orm, C# orm, VB.NET orm, Mysql orm, Postgresql orm, SqlServer orm, Oracle orm, Sqlite orm, Firebird orm, 达梦 orm, 人大金仓 orm, 神通 orm, 翰高 orm, 南大通用 orm, 国产 orm, Clickhouse orm, MsAccess orm.|3371|2022-08-13|
+|31|[VsVim/VsVim](https://github.com/VsVim/VsVim)|Vim Emulator Plugin for Visual Studio 2015+ |3323|2022-07-22|
+|32|[skoruba/IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin)|The administration for the IdentityServer4 and Asp.Net Core Identity|3228|2022-08-02|
+|33|[Azure/azure-powershell](https://github.com/Azure/azure-powershell)|Microsoft Azure PowerShell|3209|2022-08-12|
+|34|[fanliang11/surging](https://github.com/fanliang11/surging)|Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline.  support Event-based Asynchronous Pattern and reactive programming ,The service engine su ...|3132|2022-07-07|
+|35|[MapsterMapper/Mapster](https://github.com/MapsterMapper/Mapster)|A fast, fun and stimulating object to object Mapper|2826|2022-08-08|
+|36|[cq-panda/Vue.NetCore](https://github.com/cq-panda/Vue.NetCore)|.NetCore+Vue2/Vue3+Element plus+uniapp前后端分离，全自动生成代码；支持移动端(uniapp)ios/android/h5/微信小程序。http://www.volcore.xyz/|2762|2022-08-11|
+|37|[liangxiegame/QFramework](https://github.com/liangxiegame/QFramework)|Unity3D System Design Architecture|2749|2022-08-08|
+|38|[Ourpalm/ILRuntime](https://github.com/Ourpalm/ILRuntime)|Pure C# IL Intepreter Runtime, which is fast and reliable for scripting requirement on enviorments, where jitting isn't possible. |2677|2022-08-05|
+|39|[SeriaWei/ZKEACMS](https://github.com/SeriaWei/ZKEACMS)|ZKEACMS build with .Net 5 (.Net CMS)可视化设计在线编辑内容管理系统|2662|2022-07-29|
+|40|[wolfgarbe/SymSpell](https://github.com/wolfgarbe/SymSpell)|SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm|2622|2022-03-09|
+|41|[hellzerg/optimizer](https://github.com/hellzerg/optimizer)|The finest Windows Optimizer|2580|2022-08-12|
+|42|[NetDimension/NanUI](https://github.com/NetDimension/NanUI)|NanUI is an open source .NET project for .NET developers who want to build desktop applications with HTML, CSS and JavaScript.|2343|2022-07-20|
+|43|[dotnetcore/osharp](https://github.com/dotnetcore/osharp)|OSharp是一个基于.NetCore的快速开发框架，框架对 AspNetCore 的配置、依赖注入、日志、缓存、实体框架、Mvc(WebApi)、身份认证、功能权限、数据权限等模块进行更高一级的自动化封装，并规范了一套业务实现的代码结构与操作流程，使 .Net Core 框架更易于应用到实际项目开发中。|2340|2022-08-12|
+|44|[indiff/qttabbar](https://github.com/indiff/qttabbar)|Qttabbar is a small tool that allows you to use tab multi label function in Windows Explorer.  https://www.yuque.com/indiff/qttabbar|2110|2022-07-10|
+|45|[JavScraper/Emby.Plugins.JavScraper](https://github.com/JavScraper/Emby.Plugins.JavScraper)|Emby/Jellyfin 的一个日本电影刮削器插件，可以从某些网站抓取影片信息。|2109|2022-06-25|
+|46|[XCharts-Team/XCharts](https://github.com/XCharts-Team/XCharts)|A charting and data visualization library for Unity.   Unity数据可视化图表插件。 |2004|2022-08-11|
+|47|[Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher)|:mag: Quick file search & app launcher for Windows with community-made plugins|1965|2022-08-10|
+|48|[samhocevar/wincompose](https://github.com/samhocevar/wincompose)|🔣 Compose Key for Windows|1962|2022-08-07|
+|49|[ThePBone/GalaxyBudsClient](https://github.com/ThePBone/GalaxyBudsClient)|Unofficial Galaxy Buds Manager for Windows and Linux|1936|2022-07-28|
+|50|[yimengfan/BDFramework.Core](https://github.com/yimengfan/BDFramework.Core)|Simple and powerful Unity3d game workflow!  简单、高效、高度工业化的商业级unity3d 工作流。|1929|2022-08-02|
+|51|[1y0n/AV_Evasion_Tool](https://github.com/1y0n/AV_Evasion_Tool)|掩日 - 免杀执行器生成工具|1858|2022-08-01|
+|52|[the1812/Malware-Patch](https://github.com/the1812/Malware-Patch)|阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.|1838|2022-07-05|
+|53|[BililiveRecorder/BililiveRecorder](https://github.com/BililiveRecorder/BililiveRecorder)|B站录播姬   BiliBili Stream Recorder   哔哩哔哩直播录制|1838|2022-08-02|
+|54|[apache/lucenenet](https://github.com/apache/lucenenet)|Apache Lucene.NET|1837|2022-06-01|
+|55|[goatcorp/FFXIVQuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher)|Custom launcher for FFXIV|1824|2022-08-04|
+|56|[liukuo362573/YiShaAdmin](https://github.com/liukuo362573/YiShaAdmin)|基于 .NET Core MVC 的权限管理系统，代码易读易懂、界面简洁美观。演示版 http://toolhelper.cn/admin|1805|2022-08-08|
+|57|[emoacht/Monitorian](https://github.com/emoacht/Monitorian)|A Windows desktop tool to adjust the brightness of multiple monitors with ease|1681|2022-08-02|
+|58|[Tencent/InjectFix](https://github.com/Tencent/InjectFix)|InjectFix is a hot-fix solution library for Unity|1673|2022-05-15|
+|59|[MonkSoul/Furion](https://github.com/MonkSoul/Furion)|让 .NET 开发更简单，更通用，更流行。|1661|2022-08-10|
+|60|[dotnetcore/Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE)|Import and export general library, support Dto import and export, template export, fancy export and dynamic export, support Excel, Csv, Word, Pdf and Html.|1653|2022-07-17|
 |61|[DGP-Studio/Snap.Genshin](https://github.com/DGP-Studio/Snap.Genshin)|你想要的原神全家桶|1628|2022-08-06|
 |62|[Mochengvia/PanuonUI.Silver](https://github.com/Mochengvia/PanuonUI.Silver)|Panuon.UI optimized version. A beautiful wpf ui library using templates & attached properties.|1595|2022-03-16|
-|63|[NewLifeX/X](https://github.com/NewLifeX/X)|Core basic components: log (file / network), configuration (XML / JSON / HTTP), cache (memory / redis), network (TCP / UDP / HTTP), RPC framework, serialization (binary / XML / JSON), APM performance  ...|1538|2022-07-19|
-|64|[leinlin/Miku-LuaProfiler](https://github.com/leinlin/Miku-LuaProfiler)|-|1537|2022-08-03|
-|65|[Coolapk-UWP/Coolapk-UWP](https://github.com/Coolapk-UWP/Coolapk-UWP)|一个基于 UWP 平台的第三方酷安客户端|1482|2022-07-29|
+|63|[leinlin/Miku-LuaProfiler](https://github.com/leinlin/Miku-LuaProfiler)|-|1539|2022-08-03|
+|64|[NewLifeX/X](https://github.com/NewLifeX/X)|Core basic components: log (file / network), configuration (XML / JSON / HTTP), cache (memory / redis), network (TCP / UDP / HTTP), RPC framework, serialization (binary / XML / JSON), APM performance  ...|1538|2022-07-19|
+|65|[Coolapk-UWP/Coolapk-UWP](https://github.com/Coolapk-UWP/Coolapk-UWP)|一个基于 UWP 平台的第三方酷安客户端|1483|2022-08-08|
 |66|[qiankanglai/LoopScrollRect](https://github.com/qiankanglai/LoopScrollRect)|These scripts will make your UGUI ScrollRect reusing cells, to improve performance, loading time and draw calls.|1475|2022-07-21|
-|67|[OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)|Open source, cross-platform, user-mode tablet driver|1413|2022-08-06|
+|67|[OpenTabletDriver/OpenTabletDriver](https://github.com/OpenTabletDriver/OpenTabletDriver)|Open source, cross-platform, user-mode tablet driver|1415|2022-08-06|
 |68|[zengzhan/qqzeng-ip](https://github.com/zengzhan/qqzeng-ip)|最新IP地址数据库-多语言解析以及导入数据库脚本|1382|2022-07-19|
 |69|[JasonXuDeveloper/JEngine](https://github.com/JasonXuDeveloper/JEngine)|The solution that allows unity games update in runtime. 使Unity开发的游戏支持热更新的解决方案。|1340|2022-08-02|
 |70|[essensoft/paylink](https://github.com/essensoft/paylink)|一套基于 .NET Core 开发的支付SDK集，它极大简化了API调用及通知的处理流程。|1304|2022-07-22|
@@ -142,69 +142,69 @@
 |135|[cyq1162/cyqdata](https://github.com/cyq1162/cyqdata)|cyq.data is a  high-performance and the most powerful orm.（.NET 最好用的ORM数据层框架，木有之一！支持.NET Core）Support：Txt、Xml、Access、Sqlite、Mssql、Mysql、Oracle、Sybase、Postgres、DB2、Redis、MemCache。|648|2022-07-31|
 |136|[abbaye/WpfHexEditorControl](https://github.com/abbaye/WpfHexEditorControl)|Wpf Hexeditor is a powerful and fully customisable user control for editing file or stream as hexadecimal, decimal and binary.  Can be used in Wpf or WinForm application|647|2022-07-04|
 |137|[real-zony/ZonyLrcToolsX](https://github.com/real-zony/ZonyLrcToolsX)|ZonyLrcToolsX 是一个能够方便地下载歌词的小软件。|639|2022-07-25|
-|138|[qwqdanchun/DcRat](https://github.com/qwqdanchun/DcRat)|A simple remote tool in C#.|638|2022-02-07|
-|139|[1Remote/PRemoteM](https://github.com/1Remote/PRemoteM)|Personal Remote Manager|631|2022-08-06|
-|140|[jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader)|一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐|626|2022-06-22|
-|141|[Quanwei1992/KindleHelper](https://github.com/Quanwei1992/KindleHelper)|全网小说搜索,下载.可自动生成mobi格式小说.|623|2022-06-22|
-|142|[zhangqi-ulua/XlsxToLua](https://github.com/zhangqi-ulua/XlsxToLua)|Excel表格数据导出为Lua table、csv、json形式的工具，兼带数据检查功能以及导出、导入MySQL数据库功能|623|2022-03-26|
-|143|[anjoy8/ChristDDD](https://github.com/anjoy8/ChristDDD)|🙌 ASP.NET Core 3.1 应用, 包含 DDD、CQRS、EDA 和ES事件回溯|608|2022-06-22|
-|144|[duyanming/Viper](https://github.com/duyanming/Viper)|Viper 是一个基于Anno微服务引擎开发的Dashboard示例项目。Anno 底层通讯采用 grpc、thrift。自带服务发现、调用链追踪、Cron 调度、限流、事件总线等等|603|2022-07-02|
-|145|[HenJigg/wpf-abp](https://github.com/HenJigg/wpf-abp)|Cross-platform mobile project and WPF client based on ABP framework Xamarin.Forms|603|2022-06-08|
-|146|[Misaka-Mikoto-Tech/MonoHook](https://github.com/Misaka-Mikoto-Tech/MonoHook)|hook C# method at runtime without modify dll file (such as UnityEditor.dll), support Android il2cpp(armv7a and armv8a)|603|2022-08-05|
-|147|[tylearymf/SETUNA2](https://github.com/tylearymf/SETUNA2)|A best screenshot small tool (support high dpi screenshots) 一款好用的截图小工具（支持高分屏截图）|603|2022-06-23|
-|148|[zhontai/Admin.Core](https://github.com/zhontai/Admin.Core)|Admin后端，前后端分离的权限管理系统。支持多租户、动态Api、任务调度、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。基于.Net跨平台开发的WebApi。集成统一认证授权、数据验证、缓存、Ip限流、全Api鉴权、集成测试、性能分析、接口文档等。|594|2022-08-04|
-|149|[yuzhengyang/Fork](https://github.com/yuzhengyang/Fork)|a c# utility library. C#工具包，C#工具类，常用方法，系统API，文件处理、加密解密、Winform美化（C# Tools）|591|2022-08-03|
-|150|[zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient)|This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacn ...|589|2022-07-14|
-|151|[shibayan/keyvault-acmebot](https://github.com/shibayan/keyvault-acmebot)|Automated ACME SSL/TLS certificates issuer for Azure Key Vault (App Gateway / Front Door / CDN / others)|588|2022-07-30|
-|152|[donet5/WebFirst](https://github.com/donet5/WebFirst)|.NET CORE 代码生成器 ，Web中使用CodeFirst模式， 实体生成器，UI代码生成器，在线建表，导出文档，模版配置， WEB代码生成器 ，API代码生成器|584|2022-07-12|
-|153|[OpportunityLiu/E-Viewer](https://github.com/OpportunityLiu/E-Viewer)|An UWP Client for https://e-hentai.org.|582|2022-07-17|
-|154|[DawnFz/Genshin.Launcher.Plus](https://github.com/DawnFz/Genshin.Launcher.Plus)|[原神启动器Plus] lightweight globalized Genshin Impact launcher. Support arbitrarily resolution ratio, account switching, client convertion, FPS unlocking and more!|580|2022-07-25|
-|155|[mob-sakai/UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension)|This package extends the UI of Unity Package Manager (UPM) for the packages installed from git repository.|580|2022-07-05|
-|156|[proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper)|A simple, yet customizable global exception handler and Http response wrapper for ASP.NET Core APIs.|579|2022-06-22|
-|157|[chenguanzhou/MarkDownEditor](https://github.com/chenguanzhou/MarkDownEditor)|An open-source modern-style desktop markdown editor for Windows 7 and above, based on WPF  |573|2022-06-22|
-|158|[imchillin/Anamnesis](https://github.com/imchillin/Anamnesis)|A standalone tool that allows the user a greater degree of flexibility for making creative and interesting screenshots.|572|2022-08-03|
-|159|[CopyPlusPlus/CopyPlusPlus](https://github.com/CopyPlusPlus/CopyPlusPlus)|让复制更加简单！|569|2022-03-30|
-|160|[CFPAOrg/Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)|A language package for Minecraft Mods.|569|2022-08-06|
-|161|[chummer5a/chummer5a](https://github.com/chummer5a/chummer5a)|Character generator for Shadowrun 5th edition|563|2022-08-06|
-|162|[dathlin/OpcUaHelper](https://github.com/dathlin/OpcUaHelper)|一个通用的opc ua客户端类库，基于.net 4.6.1创建，基于官方opc ua基金会跨平台库创建，封装了节点读写，批量节点读写，引用读取，特性读取，历史数据读取，方法调用，节点订阅，批量订阅等操作。还提供了一个节点浏览器工具。|561|2022-06-23|
-|163|[fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat)|可能是目前全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，支持公众平台（订阅号、服务号、小程序、小游戏、小商店）& 开放平台 & 商户平台（微信支付、微企付）& 企业微信（企业号）& 广告平台（广点通）& 对话开放平台（微信智能对话）等模块，可跨平台。持续随官方更新，欢迎 Star / Fork。QQ 交流群 875580418。|551|2022-07-12|
-|164|[Unity-Technologies/com.unity.uiwidgets](https://github.com/Unity-Technologies/com.unity.uiwidgets)|UIWidgets is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.|546|2022-08-05|
-|165|[zhuxb711/RX-Explorer](https://github.com/zhuxb711/RX-Explorer)|一款优雅的UWP文件管理器   An elegant UWP Explorer|544|2022-08-05|
-|166|[colinin/abp-next-admin](https://github.com/colinin/abp-next-admin)|这是基于vue-vben-admin 模板适用于abp Vnext的前端管理项目|540|2022-08-06|
-|167|[turquoiseowl/i18n](https://github.com/turquoiseowl/i18n)|Smart internationalization for ASP.NET|540|2022-07-07|
-|168|[chatop2020/AKStream](https://github.com/chatop2020/AKStream)|AKStream是一套全平台(Linux,MacOS,Windows)、全架构(X86_64,Arm...)、全功能的流媒体管理控制接口平台。集成GB28181,RTSP,RTMP,HTTP等设备推拉流控制、PTZ控制、音视频文件录制管理、音视频文件裁剪合并等功能与一体|534|2022-07-18|
-|169|[samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap)|Provides a huge dictionary of file extensions to mime types.|534|2022-07-19|
-|170|[91270/Meiam.System](https://github.com/91270/Meiam.System)|.NET 5 / .NET Core 3.1 WebAPI + Vue 2.0 + RBAC 企业级前后端分离权限框架|526|2022-04-23|
-|171|[lysilver/KopSoftWms](https://github.com/lysilver/KopSoftWms)|KopSoft仓库管理系统|526|2022-06-12|
-|172|[dotnetcore/aspnetcore-doc-cn](https://github.com/dotnetcore/aspnetcore-doc-cn)|The Simplified Chinese edition of Microsoft ASP.NET Core documentation, translated by .NET Core Community and .NET China Community.|521|2022-06-26|
-|173|[xunkong/KeqingNiuza](https://github.com/xunkong/KeqingNiuza)|刻记牛杂店|520|2022-04-19|
-|174|[JDArmy/SharpXDecrypt](https://github.com/JDArmy/SharpXDecrypt)|Xshell全版本密码恢复工具|519|2022-03-02|
-|175|[aliyun/aliyun-openapi-net-sdk](https://github.com/aliyun/aliyun-openapi-net-sdk)|Alibaba Cloud SDK for .NET|514|2022-08-05|
-|176|[dotnetcore/CanalSharp](https://github.com/dotnetcore/CanalSharp)| Alibaba mysql database binlog subscription & consumer components Canal's .NET client.|504|2022-06-18|
-|177|[zs9024/quick_psd2ugui](https://github.com/zs9024/quick_psd2ugui)|parse psd file and auto generate ui prefab（解析psd文件，一键生成ugui面板）|504|2022-03-04|
-|178|[ChiliMilk/URP_Toon](https://github.com/ChiliMilk/URP_Toon)|A Toon Shader in Unity Universal Render Pipeline.|489|2022-06-13|
-|179|[migomiddle/xms](https://github.com/migomiddle/xms)|基于.netcore的跨平台应用框架，包含众多常用模块，易上手、易扩展，xms可理解为x(可扩展的/任意的)m(管理)s(系统)|488|2022-06-23|
-|180|[dathlin/HslControlsDemo](https://github.com/dathlin/HslControlsDemo)|HslControls控件库的使用demo，HslControls是一个工业物联网的控件库，基于C#开发，配套HslCommunication组件可以实现工业上位机软件的快速开发，支持常用的工业图形化控件，快速的集成界面开发。 主要包含了按钮，开关，进度条，信号灯，数码管，时钟，曲线显示控件，仪表盘控件，管道控件，瓶子控件，饼图控件，传送带控件，温度计控件，鼓风机控件，阀门控件，电池控件等等。|488|2022-06-22|
-|181|[CrazyZhang666/GTA5OnlineTools](https://github.com/CrazyZhang666/GTA5OnlineTools)|GTA5线上小助手|485|2022-08-06|
-|182|[TastSong/CrazyCar](https://github.com/TastSong/CrazyCar)|Unity制作的联机赛车游戏，服务端为SpringBoot + Mybatis；后台为Vue + Element；游戏端采用QFramework框架，支持KCP和WebSocket网络(商用级) |482|2022-08-05|
-|183|[wwh1004/ExtremeDumper](https://github.com/wwh1004/ExtremeDumper)|.NET Assembly Dumper|481|2022-03-17|
-|184|[2881099/FightLandlord](https://github.com/2881099/FightLandlord)|.NETCore斗地主服务器 + HTML5前端|479|2022-08-04|
-|185|[ModuleArt/quick-picture-viewer](https://github.com/ModuleArt/quick-picture-viewer)|🖼️ Lightweight, versatile desktop image viewer for Windows. The best replacement for the default Windows photo viewer.|477|2022-06-27|
-|186|[yuzd/Hangfire.HttpJob](https://github.com/yuzd/Hangfire.HttpJob)|httpjob for Hangfire,restful api for Hangfire,job调度与业务分离|477|2022-07-25|
-|187|[IoTSharp/IoTSharp](https://github.com/IoTSharp/IoTSharp)|IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.|470|2022-08-05|
-|188|[stanzhai/Html2Article](https://github.com/stanzhai/Html2Article)|Html网页正文提取|467|2022-05-09|
-|189|[pungin/Beanfun](https://github.com/pungin/Beanfun)|繽放 - 樂豆第三方客戶端|466|2022-07-06|
-|190|[KumoKyaku/KCP](https://github.com/KumoKyaku/KCP)|KCP C#版。线程安全，运行时无alloc，对gc无压力。|463|2022-02-19|
-|191|[Azure-Samples/Cognitive-Speech-TTS](https://github.com/Azure-Samples/Cognitive-Speech-TTS)|Microsoft Text-to-Speech API sample code in several languages, part of Cognitive Services.|462|2022-08-06|
-|192|[jerrytang67/SoMall](https://github.com/jerrytang67/SoMall)|社交电商商城开源项目.socail+mall即取名SoMall ,abp netcore 3.1 angular vue uni-app typescript docker mssql|460|2022-08-02|
-|193|[DaZiYuan/LiveWallpaper](https://github.com/DaZiYuan/LiveWallpaper)|A tiny win10 (dynamic) wallpaper changer   巨应壁纸   动态壁纸   Free wallpaper engine|459|2022-08-05|
-|194|[arcusmaximus/YTSubConverter](https://github.com/arcusmaximus/YTSubConverter)|A tool for creating styled YouTube subtitles|454|2022-07-22|
-|195|[noodle1983/UnityAndroidIl2cppPatchDemo](https://github.com/noodle1983/UnityAndroidIl2cppPatchDemo)|这是Unity Android APP il2cpp热更完美解决方案的Demo。更新build_demo_apk里的Unity路径，执行即可一键重build Patch和apk。因为文件libunity是没有热更的，如unity版本有变化则热更不适用。|452|2022-03-13|
-|196|[apolloconfig/apollo.net](https://github.com/apolloconfig/apollo.net)|Apollo配置中心.Net客户端|445|2022-06-28|
-|197|[plummm/AntiRecall](https://github.com/plummm/AntiRecall)|Anti-Recall/Anti-Delete for Telegram, WeChat, and QQ（针对Telegram, QQ和微信的防撤回）|443|2022-04-11|
-|198|[WELL-E/AutoUpdater](https://github.com/WELL-E/AutoUpdater)|WPF AutoUpdater|433|2022-07-17|
-|199|[GB28181/GB28181.Solution](https://github.com/GB28181/GB28181.Solution)|Linux/Win/Docker/kubernetes/Chart/Kustomize/GB28181/SIP/RTP/SDP/WebRTC/作为上下级域/平台级联互联|431|2022-08-01|
-|200|[SDchao/AutoVsCEnv_WPF](https://github.com/SDchao/AutoVsCEnv_WPF)|Simple Tool to configure C/C++ in VScode automatically|429|2022-03-05|
+|138|[1Remote/PRemoteM](https://github.com/1Remote/PRemoteM)|Personal Remote Manager|631|2022-08-06|
+|139|[jadepeng/XMusicDownloader](https://github.com/jadepeng/XMusicDownloader)|一款 支持从百度、网易、qq、酷狗、咪咕等音乐网站搜索并下载歌曲的程序，支持下载无损音乐|626|2022-06-22|
+|140|[Quanwei1992/KindleHelper](https://github.com/Quanwei1992/KindleHelper)|全网小说搜索,下载.可自动生成mobi格式小说.|623|2022-06-22|
+|141|[zhangqi-ulua/XlsxToLua](https://github.com/zhangqi-ulua/XlsxToLua)|Excel表格数据导出为Lua table、csv、json形式的工具，兼带数据检查功能以及导出、导入MySQL数据库功能|623|2022-03-26|
+|142|[anjoy8/ChristDDD](https://github.com/anjoy8/ChristDDD)|🙌 ASP.NET Core 3.1 应用, 包含 DDD、CQRS、EDA 和ES事件回溯|608|2022-06-22|
+|143|[duyanming/Viper](https://github.com/duyanming/Viper)|Viper 是一个基于Anno微服务引擎开发的Dashboard示例项目。Anno 底层通讯采用 grpc、thrift。自带服务发现、调用链追踪、Cron 调度、限流、事件总线等等|603|2022-07-02|
+|144|[HenJigg/wpf-abp](https://github.com/HenJigg/wpf-abp)|Cross-platform mobile project and WPF client based on ABP framework Xamarin.Forms|603|2022-06-08|
+|145|[Misaka-Mikoto-Tech/MonoHook](https://github.com/Misaka-Mikoto-Tech/MonoHook)|hook C# method at runtime without modify dll file (such as UnityEditor.dll), support Android il2cpp(armv7a and armv8a)|603|2022-08-05|
+|146|[tylearymf/SETUNA2](https://github.com/tylearymf/SETUNA2)|A best screenshot small tool (support high dpi screenshots) 一款好用的截图小工具（支持高分屏截图）|603|2022-06-23|
+|147|[zhontai/Admin.Core](https://github.com/zhontai/Admin.Core)|Admin后端，前后端分离的权限管理系统。支持多租户、动态Api、任务调度、滑块拼图验证、国内外主流数据库自由切换和动态高级查询。基于.Net跨平台开发的WebApi。集成统一认证授权、数据验证、缓存、Ip限流、全Api鉴权、集成测试、性能分析、接口文档等。|594|2022-08-04|
+|148|[yuzhengyang/Fork](https://github.com/yuzhengyang/Fork)|a c# utility library. C#工具包，C#工具类，常用方法，系统API，文件处理、加密解密、Winform美化（C# Tools）|591|2022-08-03|
+|149|[zhaopeiym/IoTClient](https://github.com/zhaopeiym/IoTClient)|This is an IoT device communication protocol implementation client, which will include common industrial communication protocols such as mainstream PLC communication reading, ModBus protocol, and Bacn ...|589|2022-07-14|
+|150|[shibayan/keyvault-acmebot](https://github.com/shibayan/keyvault-acmebot)|Automated ACME SSL/TLS certificates issuer for Azure Key Vault (App Gateway / Front Door / CDN / others)|588|2022-07-30|
+|151|[donet5/WebFirst](https://github.com/donet5/WebFirst)|.NET CORE 代码生成器 ，Web中使用CodeFirst模式， 实体生成器，UI代码生成器，在线建表，导出文档，模版配置， WEB代码生成器 ，API代码生成器|584|2022-07-12|
+|152|[OpportunityLiu/E-Viewer](https://github.com/OpportunityLiu/E-Viewer)|An UWP Client for https://e-hentai.org.|582|2022-07-17|
+|153|[DawnFz/Genshin.Launcher.Plus](https://github.com/DawnFz/Genshin.Launcher.Plus)|[原神启动器Plus] lightweight globalized Genshin Impact launcher. Support arbitrarily resolution ratio, account switching, client convertion, FPS unlocking and more!|580|2022-07-25|
+|154|[mob-sakai/UpmGitExtension](https://github.com/mob-sakai/UpmGitExtension)|This package extends the UI of Unity Package Manager (UPM) for the packages installed from git repository.|580|2022-07-05|
+|155|[proudmonkey/AutoWrapper](https://github.com/proudmonkey/AutoWrapper)|A simple, yet customizable global exception handler and Http response wrapper for ASP.NET Core APIs.|579|2022-06-22|
+|156|[chenguanzhou/MarkDownEditor](https://github.com/chenguanzhou/MarkDownEditor)|An open-source modern-style desktop markdown editor for Windows 7 and above, based on WPF  |573|2022-06-22|
+|157|[imchillin/Anamnesis](https://github.com/imchillin/Anamnesis)|A standalone tool that allows the user a greater degree of flexibility for making creative and interesting screenshots.|572|2022-08-03|
+|158|[CopyPlusPlus/CopyPlusPlus](https://github.com/CopyPlusPlus/CopyPlusPlus)|让复制更加简单！|569|2022-03-30|
+|159|[CFPAOrg/Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)|A language package for Minecraft Mods.|569|2022-08-06|
+|160|[chummer5a/chummer5a](https://github.com/chummer5a/chummer5a)|Character generator for Shadowrun 5th edition|563|2022-08-06|
+|161|[dathlin/OpcUaHelper](https://github.com/dathlin/OpcUaHelper)|一个通用的opc ua客户端类库，基于.net 4.6.1创建，基于官方opc ua基金会跨平台库创建，封装了节点读写，批量节点读写，引用读取，特性读取，历史数据读取，方法调用，节点订阅，批量订阅等操作。还提供了一个节点浏览器工具。|561|2022-06-23|
+|162|[fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat](https://github.com/fudiwei/DotNetCore.SKIT.FlurlHttpClient.Wechat)|可能是目前全网最完整的 C# 版微信 SDK，封装全部已知的微信 API，支持公众平台（订阅号、服务号、小程序、小游戏、小商店）& 开放平台 & 商户平台（微信支付、微企付）& 企业微信（企业号）& 广告平台（广点通）& 对话开放平台（微信智能对话）等模块，可跨平台。持续随官方更新，欢迎 Star / Fork。QQ 交流群 875580418。|551|2022-07-12|
+|163|[Unity-Technologies/com.unity.uiwidgets](https://github.com/Unity-Technologies/com.unity.uiwidgets)|UIWidgets is a Unity Package which helps developers to create, debug and deploy efficient, cross-platform Apps.|546|2022-08-05|
+|164|[zhuxb711/RX-Explorer](https://github.com/zhuxb711/RX-Explorer)|一款优雅的UWP文件管理器   An elegant UWP Explorer|544|2022-08-05|
+|165|[colinin/abp-next-admin](https://github.com/colinin/abp-next-admin)|这是基于vue-vben-admin 模板适用于abp Vnext的前端管理项目|540|2022-08-06|
+|166|[turquoiseowl/i18n](https://github.com/turquoiseowl/i18n)|Smart internationalization for ASP.NET|540|2022-07-07|
+|167|[chatop2020/AKStream](https://github.com/chatop2020/AKStream)|AKStream是一套全平台(Linux,MacOS,Windows)、全架构(X86_64,Arm...)、全功能的流媒体管理控制接口平台。集成GB28181,RTSP,RTMP,HTTP等设备推拉流控制、PTZ控制、音视频文件录制管理、音视频文件裁剪合并等功能与一体|534|2022-07-18|
+|168|[samuelneff/MimeTypeMap](https://github.com/samuelneff/MimeTypeMap)|Provides a huge dictionary of file extensions to mime types.|534|2022-07-19|
+|169|[91270/Meiam.System](https://github.com/91270/Meiam.System)|.NET 5 / .NET Core 3.1 WebAPI + Vue 2.0 + RBAC 企业级前后端分离权限框架|526|2022-04-23|
+|170|[lysilver/KopSoftWms](https://github.com/lysilver/KopSoftWms)|KopSoft仓库管理系统|526|2022-06-12|
+|171|[dotnetcore/aspnetcore-doc-cn](https://github.com/dotnetcore/aspnetcore-doc-cn)|The Simplified Chinese edition of Microsoft ASP.NET Core documentation, translated by .NET Core Community and .NET China Community.|521|2022-06-26|
+|172|[xunkong/KeqingNiuza](https://github.com/xunkong/KeqingNiuza)|刻记牛杂店|520|2022-04-19|
+|173|[JDArmy/SharpXDecrypt](https://github.com/JDArmy/SharpXDecrypt)|Xshell全版本密码恢复工具|519|2022-03-02|
+|174|[aliyun/aliyun-openapi-net-sdk](https://github.com/aliyun/aliyun-openapi-net-sdk)|Alibaba Cloud SDK for .NET|514|2022-08-05|
+|175|[dotnetcore/CanalSharp](https://github.com/dotnetcore/CanalSharp)| Alibaba mysql database binlog subscription & consumer components Canal's .NET client.|504|2022-06-18|
+|176|[zs9024/quick_psd2ugui](https://github.com/zs9024/quick_psd2ugui)|parse psd file and auto generate ui prefab（解析psd文件，一键生成ugui面板）|504|2022-03-04|
+|177|[ChiliMilk/URP_Toon](https://github.com/ChiliMilk/URP_Toon)|A Toon Shader in Unity Universal Render Pipeline.|489|2022-06-13|
+|178|[migomiddle/xms](https://github.com/migomiddle/xms)|基于.netcore的跨平台应用框架，包含众多常用模块，易上手、易扩展，xms可理解为x(可扩展的/任意的)m(管理)s(系统)|488|2022-06-23|
+|179|[dathlin/HslControlsDemo](https://github.com/dathlin/HslControlsDemo)|HslControls控件库的使用demo，HslControls是一个工业物联网的控件库，基于C#开发，配套HslCommunication组件可以实现工业上位机软件的快速开发，支持常用的工业图形化控件，快速的集成界面开发。 主要包含了按钮，开关，进度条，信号灯，数码管，时钟，曲线显示控件，仪表盘控件，管道控件，瓶子控件，饼图控件，传送带控件，温度计控件，鼓风机控件，阀门控件，电池控件等等。|488|2022-06-22|
+|180|[CrazyZhang666/GTA5OnlineTools](https://github.com/CrazyZhang666/GTA5OnlineTools)|GTA5线上小助手|485|2022-08-06|
+|181|[TastSong/CrazyCar](https://github.com/TastSong/CrazyCar)|Unity制作的联机赛车游戏，服务端为SpringBoot + Mybatis；后台为Vue + Element；游戏端采用QFramework框架，支持KCP和WebSocket网络(商用级) |482|2022-08-05|
+|182|[wwh1004/ExtremeDumper](https://github.com/wwh1004/ExtremeDumper)|.NET Assembly Dumper|481|2022-03-17|
+|183|[2881099/FightLandlord](https://github.com/2881099/FightLandlord)|.NETCore斗地主服务器 + HTML5前端|479|2022-08-04|
+|184|[ModuleArt/quick-picture-viewer](https://github.com/ModuleArt/quick-picture-viewer)|🖼️ Lightweight, versatile desktop image viewer for Windows. The best replacement for the default Windows photo viewer.|477|2022-06-27|
+|185|[yuzd/Hangfire.HttpJob](https://github.com/yuzd/Hangfire.HttpJob)|httpjob for Hangfire,restful api for Hangfire,job调度与业务分离|477|2022-07-25|
+|186|[IoTSharp/IoTSharp](https://github.com/IoTSharp/IoTSharp)|IoTSharp is an open-source IoT platform for data collection, processing, visualization, and device management.|470|2022-08-05|
+|187|[stanzhai/Html2Article](https://github.com/stanzhai/Html2Article)|Html网页正文提取|467|2022-05-09|
+|188|[pungin/Beanfun](https://github.com/pungin/Beanfun)|繽放 - 樂豆第三方客戶端|466|2022-07-06|
+|189|[KumoKyaku/KCP](https://github.com/KumoKyaku/KCP)|KCP C#版。线程安全，运行时无alloc，对gc无压力。|463|2022-02-19|
+|190|[Azure-Samples/Cognitive-Speech-TTS](https://github.com/Azure-Samples/Cognitive-Speech-TTS)|Microsoft Text-to-Speech API sample code in several languages, part of Cognitive Services.|462|2022-08-06|
+|191|[jerrytang67/SoMall](https://github.com/jerrytang67/SoMall)|社交电商商城开源项目.socail+mall即取名SoMall ,abp netcore 3.1 angular vue uni-app typescript docker mssql|460|2022-08-02|
+|192|[DaZiYuan/LiveWallpaper](https://github.com/DaZiYuan/LiveWallpaper)|A tiny win10 (dynamic) wallpaper changer   巨应壁纸   动态壁纸   Free wallpaper engine|459|2022-08-05|
+|193|[arcusmaximus/YTSubConverter](https://github.com/arcusmaximus/YTSubConverter)|A tool for creating styled YouTube subtitles|454|2022-07-22|
+|194|[noodle1983/UnityAndroidIl2cppPatchDemo](https://github.com/noodle1983/UnityAndroidIl2cppPatchDemo)|这是Unity Android APP il2cpp热更完美解决方案的Demo。更新build_demo_apk里的Unity路径，执行即可一键重build Patch和apk。因为文件libunity是没有热更的，如unity版本有变化则热更不适用。|452|2022-03-13|
+|195|[apolloconfig/apollo.net](https://github.com/apolloconfig/apollo.net)|Apollo配置中心.Net客户端|445|2022-06-28|
+|196|[plummm/AntiRecall](https://github.com/plummm/AntiRecall)|Anti-Recall/Anti-Delete for Telegram, WeChat, and QQ（针对Telegram, QQ和微信的防撤回）|443|2022-04-11|
+|197|[WELL-E/AutoUpdater](https://github.com/WELL-E/AutoUpdater)|WPF AutoUpdater|433|2022-07-17|
+|198|[GB28181/GB28181.Solution](https://github.com/GB28181/GB28181.Solution)|Linux/Win/Docker/kubernetes/Chart/Kustomize/GB28181/SIP/RTP/SDP/WebRTC/作为上下级域/平台级联互联|431|2022-08-01|
+|199|[SDchao/AutoVsCEnv_WPF](https://github.com/SDchao/AutoVsCEnv_WPF)|Simple Tool to configure C/C++ in VScode automatically|429|2022-03-05|
+|200|[redbluegames/unity-mulligan-renamer](https://github.com/redbluegames/unity-mulligan-renamer)|Mulligan Renamer tool for the Unity Editor allows for quick and safe renaming of many assets and gameobjects at once|429|2022-06-19|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
