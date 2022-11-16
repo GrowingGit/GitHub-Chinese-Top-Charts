@@ -1,36 +1,36 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > All Language
-<sub>数据更新: 2022-11-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-11-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Language|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[vuejs/vue](https://github.com/vuejs/vue)|🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.|200653|JavaScript|2022-11-09|
-|2|[electron/electron](https://github.com/electron/electron)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|104462|C++|2022-11-11|
-|3|[ant-design/ant-design](https://github.com/ant-design/ant-design)|An enterprise-class UI design language and React UI library|82613|TypeScript|2022-11-13|
-|4|[PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)|:tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin|79401|Vue|2022-09-28|
-|5|[huggingface/transformers](https://github.com/huggingface/transformers)|🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.|74111|Python|2022-11-13|
-|6|[tonsky/FiraCode](https://github.com/tonsky/FiraCode)|Free monospaced font with programming ligatures|67236|Clojure|2022-11-10|
-|7|[macrozheng/mall](https://github.com/macrozheng/mall)|mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。|62115|Java|2022-11-11|
+|2|[electron/electron](https://github.com/electron/electron)|:electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS|104512|C++|2022-11-15|
+|3|[ant-design/ant-design](https://github.com/ant-design/ant-design)|An enterprise-class UI design language and React UI library|82639|TypeScript|2022-11-15|
+|4|[PanJiaChen/vue-element-admin](https://github.com/PanJiaChen/vue-element-admin)|:tada: A magical vue admin                                                                https://panjiachen.github.io/vue-element-admin|79438|Vue|2022-11-14|
+|5|[huggingface/transformers](https://github.com/huggingface/transformers)|🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.|74237|Python|2022-11-15|
+|6|[tonsky/FiraCode](https://github.com/tonsky/FiraCode)|Free monospaced font with programming ligatures|67270|Clojure|2022-11-10|
+|7|[macrozheng/mall](https://github.com/macrozheng/mall)|mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现，采用Docker容器化部署。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。|62151|Java|2022-11-14|
 |8|[fatedier/frp](https://github.com/fatedier/frp)|A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.|61601|Go|2022-10-31|
 |9|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|53858|Assembly|2022-11-03|
-|10|[apache/echarts](https://github.com/apache/echarts)|Apache ECharts is a powerful, interactive charting and data visualization library for browser|53273|TypeScript|2022-11-11|
-|11|[ElemeFE/element](https://github.com/ElemeFE/element)|A Vue.js 2.0 UI Toolkit for Web|52829|Vue|2022-11-07|
-|12|[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)|Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown|51297|JavaScript|2022-11-12|
-|13|[Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)|Semantic is a UI component framework based around useful principles from natural language.|50227|JavaScript|2022-10-06|
-|14|[3b1b/manim](https://github.com/3b1b/manim)|Animation engine for explanatory math videos|48014|Python|2022-11-04|
+|10|[apache/echarts](https://github.com/apache/echarts)|Apache ECharts is a powerful, interactive charting and data visualization library for browser|53316|TypeScript|2022-11-15|
+|11|[ElemeFE/element](https://github.com/ElemeFE/element)|A Vue.js 2.0 UI Toolkit for Web|52839|Vue|2022-11-15|
+|12|[mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)|Generation of diagrams like flowcharts or sequence diagrams from text in a similar manner as markdown|51352|JavaScript|2022-11-15|
+|13|[Semantic-Org/Semantic-UI](https://github.com/Semantic-Org/Semantic-UI)|Semantic is a UI component framework based around useful principles from natural language.|50246|JavaScript|2022-10-06|
+|14|[3b1b/manim](https://github.com/3b1b/manim)|Animation engine for explanatory math videos|48040|Python|2022-11-04|
 |15|[ageitgey/face_recognition](https://github.com/ageitgey/face_recognition)|The world's simplest facial recognition api for Python and the command line|46410|Python|2022-11-03|
 |16|[NARKOZ/hacker-scripts](https://github.com/NARKOZ/hacker-scripts)|Based on a true story|45240|JavaScript|2022-08-07|
-|17|[serverless/serverless](https://github.com/serverless/serverless)|⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – |43750|JavaScript|2022-11-08|
+|17|[serverless/serverless](https://github.com/serverless/serverless)|⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – |43760|JavaScript|2022-11-14|
 |18|[DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped)|The repository for high quality TypeScript type definitions.|41545|TypeScript|2022-11-13|
-|19|[iamkun/dayjs](https://github.com/iamkun/dayjs)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|41219|JavaScript|2022-11-10|
-|20|[gogs/gogs](https://github.com/gogs/gogs)|Gogs is a painless self-hosted Git service|41191|Go|2022-11-10|
-|21|[supabase/supabase](https://github.com/supabase/supabase)|The open source Firebase alternative. Follow to stay updated about our public Beta.|40756|TypeScript|2022-11-13|
-|22|[Textualize/rich](https://github.com/Textualize/rich)|Rich is a Python library for rich text and beautiful formatting in the terminal.|40651|Python|2022-11-09|
-|23|[bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm)|Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用|39370|Vue|2022-08-08|
+|19|[iamkun/dayjs](https://github.com/iamkun/dayjs)|⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API|41261|JavaScript|2022-11-10|
+|20|[gogs/gogs](https://github.com/gogs/gogs)|Gogs is a painless self-hosted Git service|41204|Go|2022-11-14|
+|21|[supabase/supabase](https://github.com/supabase/supabase)|The open source Firebase alternative. Follow to stay updated about our public Beta.|40816|TypeScript|2022-11-15|
+|22|[Textualize/rich](https://github.com/Textualize/rich)|Rich is a Python library for rich text and beautiful formatting in the terminal.|40697|Python|2022-11-13|
+|23|[bailicangdu/vue2-elm](https://github.com/bailicangdu/vue2-elm)|Large single page application with 45 pages built on vue2 + vuex. 基于 vue2 + vuex 构建一个具有 45 个页面的大型单页面应用|39398|Vue|2022-08-08|
 |24|[chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)|The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。|38234|JavaScript|2022-10-28|
-|25|[apache/dubbo](https://github.com/apache/dubbo)|Apache Dubbo is a high-performance, java based, open source RPC framework.|38088|Java|2022-11-13|
-|26|[dcloudio/uni-app](https://github.com/dcloudio/uni-app)|A cross-platform framework using Vue.js|37381|JavaScript|2022-11-12|
+|25|[apache/dubbo](https://github.com/apache/dubbo)|Apache Dubbo is a high-performance, java based, open source RPC framework.|38096|Java|2022-11-15|
+|26|[dcloudio/uni-app](https://github.com/dcloudio/uni-app)|A cross-platform framework using Vue.js|37389|JavaScript|2022-11-15|
 |27|[golang-standards/project-layout](https://github.com/golang-standards/project-layout)|Standard Go Project Layout|35745|Makefile|2022-11-05|
 |28|[agalwood/Motrix](https://github.com/agalwood/Motrix)|A full-featured download manager.|34241|JavaScript|2022-11-08|
 |29|[alvarotrigo/fullPage.js](https://github.com/alvarotrigo/fullPage.js)|fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple|34164|JavaScript|2022-11-10|
@@ -40,55 +40,55 @@
 |33|[ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro)|👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!|33127|TypeScript|2022-11-07|
 |34|[bumptech/glide](https://github.com/bumptech/glide)|An image loading and caching library for Android focused on smooth scrolling|33108|Java|2022-11-08|
 |35|[pingcap/tidb](https://github.com/pingcap/tidb)|TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial|32807|Go|2022-11-11|
-|36|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.|32114|Rust|2022-11-08|
-|37|[jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot)|⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。|31966|Java|2022-11-07|
+|36|[jeecgboot/jeecg-boot](https://github.com/jeecgboot/jeecg-boot)|⭐️「企业级低代码平台」前后端分离架构SpringBoot 2.x，SpringCloud，Ant Design&Vue，Mybatis，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新的开发模式OnlineCoding->代码生成->手工MERGE，帮助Java项目解决70%重复工作，让开发更关注业务，既能快速提高效率，帮助公司节省成本，同时又不失灵活性。|32210|Java|2022-11-14|
+|37|[rustdesk/rustdesk](https://github.com/rustdesk/rustdesk)|Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.|32114|Rust|2022-11-08|
 |38|[NervJS/taro](https://github.com/NervJS/taro)|开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/|31874|TypeScript|2022-11-10|
 |39|[SheetJS/sheetjs](https://github.com/SheetJS/sheetjs)|📗 SheetJS Community Edition -- Spreadsheet Data Toolkit|31638|JavaScript|2022-10-24|
-|40|[Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)|:fire: Android developers should collect the following utils(updating).|31561|Java|2022-10-26|
+|40|[Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)|:fire: Android developers should collect the following utils(updating).|31574|Java|2022-10-26|
 |41|[carbon-app/carbon](https://github.com/carbon-app/carbon)|:black_heart: Create and share beautiful images of your source code|31551|JavaScript|2022-11-12|
-|42|[alibaba/arthas](https://github.com/alibaba/arthas)|Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas|30972|Java|2022-11-11|
-|43|[testerSunshine/12306](https://github.com/testerSunshine/12306)|12306智能刷票，订票|30701|Python|2022-05-26|
-|44|[fxsjy/jieba](https://github.com/fxsjy/jieba)|结巴中文分词|29526|Python|2022-07-17|
+|42|[alibaba/arthas](https://github.com/alibaba/arthas)|Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas|30984|Java|2022-11-15|
+|43|[testerSunshine/12306](https://github.com/testerSunshine/12306)|12306智能刷票，订票|30703|Python|2022-05-26|
+|44|[fxsjy/jieba](https://github.com/fxsjy/jieba)|结巴中文分词|29534|Python|2022-07-17|
 |45|[acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)|A pure Unix shell script implementing ACME client protocol|29171|Shell|2022-11-09|
 |46|[beego/beego](https://github.com/beego/beego)|beego is an open-source, high-performance web framework for the Go programming language.|29070|Go|2022-11-10|
 |47|[xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo)|🚀一个用来深入学习并实战 Spring Boot 的项目。|27908|Java|2022-11-02|
-|48|[apolloconfig/apollo](https://github.com/apolloconfig/apollo)|Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.|27458|Java|2022-11-08|
-|49|[hankcs/HanLP](https://github.com/hankcs/HanLP)|中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理|27429|Python|2022-11-04|
+|48|[apolloconfig/apollo](https://github.com/apolloconfig/apollo)|Apollo is a reliable configuration management system suitable for microservice configuration management scenarios.|27489|Java|2022-11-10|
+|49|[hankcs/HanLP](https://github.com/hankcs/HanLP)|中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理|27448|Python|2022-11-04|
 |50|[sequelize/sequelize](https://github.com/sequelize/sequelize)|Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.|27039|JavaScript|2022-11-12|
 |51|[layui/layui](https://github.com/layui/layui)|一套遵循原生态开发模式的 Web UI 组件库，采用自身轻量级模块化规范，易上手，可以更简单快速地构建网页界面。|26626|JavaScript|2022-11-13|
-|52|[Tencent/weui](https://github.com/Tencent/weui)|A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.|26597|HTML|2022-09-16|
-|53|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de ...|26570|Python|2022-11-11|
+|52|[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)|Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de ...|26624|Python|2022-11-15|
+|53|[Tencent/weui](https://github.com/Tencent/weui)|A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.|26597|HTML|2022-09-16|
 |54|[alibaba/druid](https://github.com/alibaba/druid)|阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池|26196|Java|2022-11-07|
-|55|[Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)|网易云音乐 Node.js API service|26108|JavaScript|2022-11-11|
+|55|[Binaryify/NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi)|网易云音乐 Node.js API service|26118|JavaScript|2022-11-14|
 |56|[alibaba/easyexcel](https://github.com/alibaba/easyexcel)|快速、简洁、解决大文件内存溢出的java处理Excel工具|25722|Java|2022-11-07|
 |57|[fastify/fastify](https://github.com/fastify/fastify)|Fast and low overhead web framework, for Node.js|25523|JavaScript|2022-11-10|
 |58|[YMFE/yapi](https://github.com/YMFE/yapi)|YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台|25250|JavaScript|2022-11-01|
 |59|[sharkdp/fd](https://github.com/sharkdp/fd)|A simple, fast and user-friendly alternative to 'find'|25231|Rust|2022-11-08|
-|60|[sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)|Automatic SQL injection and database takeover tool|25196|Python|2022-11-08|
-|61|[lenve/vhr](https://github.com/lenve/vhr)|微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。|25139|Java|2022-09-30|
+|60|[sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap)|Automatic SQL injection and database takeover tool|25221|Python|2022-11-08|
+|61|[lenve/vhr](https://github.com/lenve/vhr)|微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。|25156|Java|2022-09-30|
 |62|[alibaba/fastjson](https://github.com/alibaba/fastjson)|FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.|25082|Java|2022-11-06|
-|63|[yewstack/yew](https://github.com/yewstack/yew)|Rust / Wasm framework for building client web apps|25008|Rust|2022-11-11|
+|63|[yewstack/yew](https://github.com/yewstack/yew)|Rust / Wasm framework for building client web apps|25040|Rust|2022-11-13|
 |64|[babysor/MockingBird](https://github.com/babysor/MockingBird)|🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time|24838|JavaScript|2022-10-15|
-|65|[alibaba/nacos](https://github.com/alibaba/nacos)|an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.|24567|Java|2022-11-12|
-|66|[alibaba/canal](https://github.com/alibaba/canal)|阿里巴巴 MySQL binlog 增量订阅&消费组件 |24464|Java|2022-11-03|
+|65|[alibaba/nacos](https://github.com/alibaba/nacos)|an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.|24593|Java|2022-11-14|
+|66|[alibaba/canal](https://github.com/alibaba/canal)|阿里巴巴 MySQL binlog 增量订阅&消费组件 |24478|Java|2022-11-03|
 |67|[dromara/hutool](https://github.com/dromara/hutool)|🍬A set of tools that keep Java sweet.|24423|Java|2022-11-10|
 |68|[halo-dev/halo](https://github.com/halo-dev/halo)|✍ 一款现代化的开源建站 / CMS 系统。|24326|Java|2022-11-10|
-|69|[alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba)|Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.|24095|Java|2022-11-11|
+|69|[alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba)|Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.|24114|Java|2022-11-15|
 |70|[iview/iview](https://github.com/iview/iview)|A high quality UI Toolkit built on Vue.js 2.0|23994|Vue|2022-11-05|
-|71|[scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)|🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。|23916|Java|2022-11-10|
-|72|[The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run)|润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。|23869|-|2022-11-11|
-|73|[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)|Lean's LEDE source|23702|C|2022-11-12|
-|74|[tj/commander.js](https://github.com/tj/commander.js)|node.js command-line interfaces made easy|23699|JavaScript|2022-11-07|
+|71|[The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run)|润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。|23971|-|2022-11-11|
+|72|[scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout)|🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。|23916|Java|2022-11-10|
+|73|[coolsnowwolf/lede](https://github.com/coolsnowwolf/lede)|Lean's LEDE source|23729|C|2022-11-14|
+|74|[tj/commander.js](https://github.com/tj/commander.js)|node.js command-line interfaces made easy|23709|JavaScript|2022-11-07|
 |75|[zhongyang219/TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)|这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。|23582|C++|2022-11-10|
-|76|[ehang-io/nps](https://github.com/ehang-io/nps)|一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, ...|23479|Go|2022-11-12|
-|77|[qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)|🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.|23382|JavaScript|2022-11-10|
-|78|[CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)|BRVAH:Powerful and flexible RecyclerAdapter|23229|Java|2022-10-21|
+|76|[ehang-io/nps](https://github.com/ehang-io/nps)|一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, ...|23514|Go|2022-11-12|
+|77|[qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)|🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.|23407|JavaScript|2022-11-10|
+|78|[CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)|BRVAH:Powerful and flexible RecyclerAdapter|23232|Java|2022-10-21|
 |79|[seata/seata](https://github.com/seata/seata)|:fire: Seata is an easy-to-use, high-performance, open source distributed transaction solution.|23009|Java|2022-11-13|
-|80|[xuxueli/xxl-job](https://github.com/xuxueli/xxl-job)|A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）|22973|Java|2022-11-02|
-|81|[littlecodersh/ItChat](https://github.com/littlecodersh/ItChat)|A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。|22584|Python|2022-11-11|
-|82|[ramda/ramda](https://github.com/ramda/ramda)|:ram: Practical functional Javascript|22513|JavaScript|2022-11-08|
-|83|[redux-saga/redux-saga](https://github.com/redux-saga/redux-saga)|An alternative side effect model for Redux apps|22326|JavaScript|2022-11-08|
-|84|[lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)|一个基于 electron 的音乐软件|22133|JavaScript|2022-11-12|
+|80|[xuxueli/xxl-job](https://github.com/xuxueli/xxl-job)|A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）|22994|Java|2022-11-13|
+|81|[littlecodersh/ItChat](https://github.com/littlecodersh/ItChat)|A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。|22585|Python|2022-11-11|
+|82|[ramda/ramda](https://github.com/ramda/ramda)|:ram: Practical functional Javascript|22524|JavaScript|2022-11-08|
+|83|[redux-saga/redux-saga](https://github.com/redux-saga/redux-saga)|An alternative side effect model for Redux apps|22329|JavaScript|2022-11-08|
+|84|[lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop)|一个基于 electron 的音乐软件|22185|JavaScript|2022-11-14|
 |85|[open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)|OpenMMLab Detection Toolbox and Benchmark|22073|Python|2022-11-12|
 |86|[Tencent/wepy](https://github.com/Tencent/wepy)|小程序组件化开发框架|21951|JavaScript|2022-09-01|
 |87|[DIYgod/RSSHub](https://github.com/DIYgod/RSSHub)|🍰 Everything is RSSible|21874|JavaScript|2022-11-12|
@@ -125,51 +125,51 @@
 |118|[airyland/vux](https://github.com/airyland/vux)|Mobile UI Components based on Vue & WeUI|17635|Vue|2022-07-15|
 |119|[swoole/swoole-src](https://github.com/swoole/swoole-src)|🚀 Coroutine-based concurrency library for PHP|17631|C++|2022-11-11|
 |120|[linlinjava/litemall](https://github.com/linlinjava/litemall)|又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端|17504|Java|2022-10-13|
-|121|[alibaba/ice](https://github.com/alibaba/ice)|🚀 Icejs: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）|17372|TypeScript|2022-11-08|
-|122|[vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue)|🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜|17365|Vue|2022-11-12|
-|123|[PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)|a vue2.0 minimal admin template |17358|JavaScript|2022-11-11|
+|121|[vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue)|🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜|17375|Vue|2022-11-15|
+|122|[alibaba/ice](https://github.com/alibaba/ice)|🚀 Icejs: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）|17373|TypeScript|2022-11-15|
+|123|[PanJiaChen/vue-admin-template](https://github.com/PanJiaChen/vue-admin-template)|a vue2.0 minimal admin template |17370|JavaScript|2022-11-14|
 |124|[dianping/cat](https://github.com/dianping/cat)|CAT 作为服务端项目基础组件，提供了 Java, C/C++, Node.js, Python, Go 等多语言客户端，已经在美团点评的基础架构中间件框架（MVC框架，RPC框架，数据库框架，缓存框架等，消息队列，配置系统等）深度集成，为美团点评各业务线提供系统丰富的性能指标、健康状况、实时告警等。|17334|Java|2022-10-31|
-|125|[microsoft/vcpkg](https://github.com/microsoft/vcpkg)|C++ Library Manager for Windows, Linux, and MacOS|17138|CMake|2022-11-13|
+|125|[microsoft/vcpkg](https://github.com/microsoft/vcpkg)|C++ Library Manager for Windows, Linux, and MacOS|17148|CMake|2022-11-15|
 |126|[grpc/grpc-go](https://github.com/grpc/grpc-go)|The Go language implementation of gRPC. HTTP/2 based RPC|17091|Go|2022-11-13|
-|127|[facebook/fresco](https://github.com/facebook/fresco)|An Android library for managing images and the memory they use.|16885|Java|2022-11-11|
+|127|[facebook/fresco](https://github.com/facebook/fresco)|An Android library for managing images and the memory they use.|16887|Java|2022-11-14|
 |128|[prisma/prisma1](https://github.com/prisma/prisma1)|💾 Database Tools incl. ORM, Migrations and Admin UI (Postgres, MySQL & MongoDB) [deprecated]|16783|Scala|2022-09-01|
 |129|[realm/SwiftLint](https://github.com/realm/SwiftLint)|A tool to enforce Swift style and conventions.|16722|Swift|2022-11-10|
-|130|[EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall)|微信小程序商城，微信小程序微店|16618|JavaScript|2022-10-18|
-|131|[eip-work/kuboard-press](https://github.com/eip-work/kuboard-press)|Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。|16607|JavaScript|2022-10-30|
-|132|[jhao104/proxy_pool](https://github.com/jhao104/proxy_pool)|Python爬虫代理IP池(proxy pool)|16532|Python|2022-08-16|
-|133|[Tencent/mars](https://github.com/Tencent/mars)|Mars is a cross-platform network component  developed by WeChat.|16496|C++|2022-11-09|
+|130|[eip-work/kuboard-press](https://github.com/eip-work/kuboard-press)|Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。|16655|JavaScript|2022-11-14|
+|131|[EastWorld/wechat-app-mall](https://github.com/EastWorld/wechat-app-mall)|微信小程序商城，微信小程序微店|16618|JavaScript|2022-10-18|
+|132|[jhao104/proxy_pool](https://github.com/jhao104/proxy_pool)|Python爬虫代理IP池(proxy pool)|16542|Python|2022-08-16|
+|133|[Tencent/mars](https://github.com/Tencent/mars)|Mars is a cross-platform network component  developed by WeChat.|16499|C++|2022-11-09|
 |134|[shuzheng/zheng](https://github.com/shuzheng/zheng)|基于Spring+SpringMVC+Mybatis分布式敏捷开发系统架构，提供整套公共微服务服务模块：集中权限管理（单点登录）、内容管理、支付中心、用户管理（支持第三方登录）、微信平台、存储系统、配置中心、日志分析、任务和通知等，支持服务治理、监控和追踪，努力为中小型企业打造全方位J2EE企业级开发解决方案。|16387|Java|2022-10-19|
 |135|[youzan/vant-weapp](https://github.com/youzan/vant-weapp)|轻量、可靠的小程序 UI 组件库|16351|JavaScript|2022-11-06|
 |136|[cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve)|🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)|16348|Go|2022-11-05|
-|137|[dvajs/dva](https://github.com/dvajs/dva)|🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)|16096|JavaScript|2022-09-13|
+|137|[dvajs/dva](https://github.com/dvajs/dva)|🌱 React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)|16097|JavaScript|2022-11-13|
 |138|[xinntao/Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)|Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.|16089|Python|2022-10-27|
-|139|[lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system)|基于Vue3 + Element Plus 的后台管理系统解决方案|16005|Vue|2022-10-13|
-|140|[hzlzh/Best-App](https://github.com/hzlzh/Best-App)|收集&推荐优秀的 Apps/硬件/技巧/周边等|15948|-|2022-10-13|
-|141|[Tencent/ncnn](https://github.com/Tencent/ncnn)|ncnn is a high-performance neural network inference framework optimized for the mobile platform|15891|C++|2022-11-13|
-|142|[ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll)|:scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance|15835|TypeScript|2022-10-09|
+|139|[lin-xin/vue-manage-system](https://github.com/lin-xin/vue-manage-system)|基于Vue3 + Element Plus 的后台管理系统解决方案|16018|Vue|2022-10-13|
+|140|[hzlzh/Best-App](https://github.com/hzlzh/Best-App)|收集&推荐优秀的 Apps/硬件/技巧/周边等|15950|-|2022-10-13|
+|141|[Tencent/ncnn](https://github.com/Tencent/ncnn)|ncnn is a high-performance neural network inference framework optimized for the mobile platform|15914|C++|2022-11-15|
+|142|[ustbhuangyi/better-scroll](https://github.com/ustbhuangyi/better-scroll)|:scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance|15837|TypeScript|2022-10-09|
 |143|[ipader/SwiftGuide](https://github.com/ipader/SwiftGuide)|Swift Featured Projects in brain Mapping|15781|Swift|2022-08-31|
-|144|[binux/pyspider](https://github.com/binux/pyspider)|A Powerful Spider(Web Crawler) System in Python.|15646|Python|2022-11-11|
-|145|[Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider)|:rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等|15470|Python|2022-10-25|
+|144|[binux/pyspider](https://github.com/binux/pyspider)|A Powerful Spider(Web Crawler) System in Python.|15649|Python|2022-11-11|
+|145|[Jack-Cherish/python-spider](https://github.com/Jack-Cherish/python-spider)|:rainbow:Python3网络爬虫实战：淘宝、京东、网易云、B站、12306、抖音、笔趣阁、漫画小说下载、音乐电影下载等|15475|Python|2022-10-25|
 |146|[the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)|强大的哔哩哔哩增强脚本|15277|TypeScript|2022-11-13|
-|147|[Tencent/MMKV](https://github.com/Tencent/MMKV)|An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.|15217|C++|2022-11-01|
-|148|[Tencent/vConsole](https://github.com/Tencent/vConsole)|A lightweight, extendable front-end developer tool for mobile web page.|15207|TypeScript|2022-11-09|
-|149|[flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)|基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。|14995|Go|2022-11-09|
-|150|[acdlite/recompose](https://github.com/acdlite/recompose)|A React utility belt for function components and higher-order components.|14844|JavaScript|2022-09-10|
-|151|[vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)|A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！|14810|Vue|2022-11-13|
+|147|[Tencent/MMKV](https://github.com/Tencent/MMKV)|An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.|15227|C++|2022-11-01|
+|148|[Tencent/vConsole](https://github.com/Tencent/vConsole)|A lightweight, extendable front-end developer tool for mobile web page.|15223|TypeScript|2022-11-09|
+|149|[flipped-aurora/gin-vue-admin](https://github.com/flipped-aurora/gin-vue-admin)|基于vite+vue3+gin搭建的开发基础平台（支持TS,JS混用），集成jwt鉴权，权限管理，动态路由，显隐可控组件，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等开发必备功能。|15044|Go|2022-11-10|
+|150|[acdlite/recompose](https://github.com/acdlite/recompose)|A React utility belt for function components and higher-order components.|14843|JavaScript|2022-09-10|
+|151|[vbenjs/vue-vben-admin](https://github.com/vbenjs/vue-vben-admin)|A modern vue admin. It is based on Vue3, vite and TypeScript. It's fast！|14842|Vue|2022-11-15|
 |152|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|14799|HTML|2022-11-03|
-|153|[CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)|Foreign language reading and translation assistant based on copy and translate.|14774|TypeScript|2022-10-31|
-|154|[wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor)|wangEditor —— 开源 Web 富文本编辑器|14704|TypeScript|2022-11-13|
+|153|[CopyTranslator/CopyTranslator](https://github.com/CopyTranslator/CopyTranslator)|Foreign language reading and translation assistant based on copy and translate.|14785|TypeScript|2022-11-15|
+|154|[wangeditor-team/wangEditor](https://github.com/wangeditor-team/wangEditor)|wangEditor —— 开源 Web 富文本编辑器|14712|TypeScript|2022-11-14|
 |155|[Kr1s77/awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model)|😮python模拟登陆一些大型网站，还有一些简单的爬虫，希望对你们有所帮助❤️，如果喜欢记得给个star哦🌟|14689|Python|2022-07-26|
-|156|[Tencent/weui-wxss](https://github.com/Tencent/weui-wxss)|A UI library by WeChat official design team, includes the most useful widgets/modules.|14479|Less|2022-09-16|
+|156|[Tencent/weui-wxss](https://github.com/Tencent/weui-wxss)|A UI library by WeChat official design team, includes the most useful widgets/modules.|14481|Less|2022-09-16|
 |157|[Moya/Moya](https://github.com/Moya/Moya)|Network abstraction layer written in Swift.|14291|Swift|2022-10-14|
-|158|[apache/incubator-brpc](https://github.com/apache/incubator-brpc)|brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means  ...|14062|C++|2022-11-08|
-|159|[Tencent/APIJSON](https://github.com/Tencent/APIJSON)|🚀 零代码、全功能、强安全 ORM 库 🏆 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library  🏆 provides APIs and Docs without writing any code.|14033|Java|2022-11-10|
+|158|[apache/incubator-brpc](https://github.com/apache/incubator-brpc)|brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means  ...|14086|C++|2022-11-15|
+|159|[Tencent/APIJSON](https://github.com/Tencent/APIJSON)|🚀 零代码、全功能、强安全 ORM 库 🏆 后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library  🏆 provides APIs and Docs without writing any code.|14068|Java|2022-11-11|
 |160|[ty4z2008/Qix](https://github.com/ty4z2008/Qix)|Machine Learning、Deep Learning、PostgreSQL、Distributed System、Node.Js、Golang|14025|-|2022-08-11|
 |161|[alibaba/ARouter](https://github.com/alibaba/ARouter)|💪 A framework for assisting in the renovation of Android componentization (帮助 Android App 进行组件化改造的路由框架)|13995|Java|2022-11-06|
 |162|[justauth/JustAuth](https://github.com/justauth/JustAuth)|🏆Gitee 最有价值开源项目 🚀:100: 小而全而美的第三方登录开源组件。目前已支持Github、Gitee、微博、钉钉、百度、Coding、腾讯云开发者平台、OSChina、支付宝、QQ、微信、淘宝、Google、Facebook、抖音、领英、小米、微软、今日头条、Teambition、StackOverflow、Pinterest、人人、华为、企业微信、酷家乐、Gitlab、美团、饿了么、 ...|13979|Java|2022-10-04|
 |163|[PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect)|Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)|13877|Swift|2022-08-12|
 |164|[wangshub/wechat_jump_game](https://github.com/wangshub/wechat_jump_game)|微信《跳一跳》Python 辅助|13870|Python|2022-06-21|
-|165|[android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed)|A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.|13863|Java|2022-09-09|
+|165|[android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed)|A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.|13868|Java|2022-09-09|
 |166|[Tencent/QMUI_Android](https://github.com/Tencent/QMUI_Android)|提高 Android UI 开发效率的 UI 库|13852|Java|2022-09-20|
 |167|[umijs/qiankun](https://github.com/umijs/qiankun)|📦 🚀 Blazing fast, simple and complete solution for micro frontends.|13661|TypeScript|2022-11-11|
 |168|[CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter)|Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便 ...|13579|Dart|2022-11-04|
@@ -195,16 +195,16 @@
 |188|[baidu/amis](https://github.com/baidu/amis)|前端低代码框架，通过 JSON 配置就能生成各种页面。|12416|TypeScript|2022-11-11|
 |189|[lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)|Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la ...|12396|Java|2022-10-18|
 |190|[bailicangdu/vue2-manage](https://github.com/bailicangdu/vue2-manage)|A admin template based on vue + element-ui. 基于vue + element-ui的后台管理系统基于 vue + element-ui 的后台管理系统|12367|Vue|2022-11-06|
-|191|[ent/ent](https://github.com/ent/ent)|An entity framework for Go|12335|Go|2022-11-12|
+|191|[ent/ent](https://github.com/ent/ent)|An entity framework for Go|12349|Go|2022-11-14|
 |192|[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)|record and replay the web|12327|TypeScript|2022-11-13|
-|193|[alibaba/DataX](https://github.com/alibaba/DataX)|DataX是阿里云DataWorks数据集成的开源版本。|12274|Java|2022-11-10|
-|194|[hyb1996/Auto.js](https://github.com/hyb1996/Auto.js)|Automation&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)|12220|Java|2022-10-28|
+|193|[alibaba/DataX](https://github.com/alibaba/DataX)|DataX是阿里云DataWorks数据集成的开源版本。|12297|Java|2022-11-15|
+|194|[hyb1996/Auto.js](https://github.com/hyb1996/Auto.js)|Automation&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)|12224|Java|2022-10-28|
 |195|[youth5201314/banner](https://github.com/youth5201314/banner)|🔥🔥🔥Banner 2.0 来了！Android广告图片轮播控件，内部基于ViewPager2实现，Indicator和UI都可以自定义。|12195|Java|2022-09-29|
 |196|[microsoft/nni](https://github.com/microsoft/nni)|An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.|12186|Python|2022-11-09|
 |197|[alist-org/alist](https://github.com/alist-org/alist)|🗂️A file list program that supports multiple storage, powered by Gin and Solidjs. / 一个支持多存储的文件列表程序，使用 Gin 和 Solidjs。|12086|Go|2022-11-10|
 |198|[tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)|🎬 人人影视bot，完全对接人人影视全部无删减资源|12085|Python|2022-11-09|
 |199|[LuckSiege/PictureSelector](https://github.com/LuckSiege/PictureSelector)|Picture Selector Library for Android or 图片选择器|12015|Java|2022-10-23|
-|200|[Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player)|▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞|11947|Vue|2022-11-10|
+|200|[Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player)|▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞|11955|Vue|2022-11-14|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
