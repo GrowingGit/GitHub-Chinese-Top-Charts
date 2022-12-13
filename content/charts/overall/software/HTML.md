@@ -1,53 +1,53 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > HTML
-<sub>数据更新: 2022-12-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2022-12-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Tencent/weui](https://github.com/Tencent/weui)|A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.|26635|2022-09-16|
+|1|[Tencent/weui](https://github.com/Tencent/weui)|A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.|26636|2022-09-16|
 |2|[sunym1993/flash-linux0.11-talk](https://github.com/sunym1993/flash-linux0.11-talk)|你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码|15087|2022-11-03|
-|3|[mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)|:triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.|10381|2022-12-06|
+|3|[mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)|:triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.|10384|2022-12-06|
 |4|[electron/electron-api-demos](https://github.com/electron/electron-api-demos)|Explore the Electron APIs|10144|2022-11-10|
-|5|[atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans)|得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体|8653|2022-11-28|
+|5|[atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans)|得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体|8698|2022-11-28|
 |6|[Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language)|Dism++ Multi-language Support & BUG Report|7783|2022-07-25|
-|7|[all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)|✨ Recognize all contributors, not just the ones who push code ✨|6745|2022-12-10|
-|8|[Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)|My Blog / Jekyll Themes / PWA|6393|2022-12-11|
-|9|[goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn)|The most trusted Go module proxy in China.|6157|2022-08-04|
-|10|[leizongmin/js-xss](https://github.com/leizongmin/js-xss)|Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist|4750|2022-08-16|
-|11|[cloudfavorites/favorites-web](https://github.com/cloudfavorites/favorites-web)|云收藏 Spring Boot 2.X 开源项目|4650|2022-09-01|
-|12|[PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL)|Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）|4491|2022-12-09|
+|7|[all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)|✨ Recognize all contributors, not just the ones who push code ✨|6744|2022-12-10|
+|8|[Huxpro/huxpro.github.io](https://github.com/Huxpro/huxpro.github.io)|My Blog / Jekyll Themes / PWA|6395|2022-12-11|
+|9|[goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn)|The most trusted Go module proxy in China.|6158|2022-08-04|
+|10|[leizongmin/js-xss](https://github.com/leizongmin/js-xss)|Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist|4752|2022-08-16|
+|11|[cloudfavorites/favorites-web](https://github.com/cloudfavorites/favorites-web)|云收藏 Spring Boot 2.X 开源项目|4652|2022-09-01|
+|12|[PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL)|Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）|4494|2022-12-12|
 |13|[hamukazu/lets-get-arrested](https://github.com/hamukazu/lets-get-arrested)|This project is intended to protest against the police in Japan|4116|2022-08-24|
-|14|[kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages)|openwrt常用软件包|4100|2022-12-11|
-|15|[rubickCenter/rubick](https://github.com/rubickCenter/rubick)|🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。|3791|2022-10-20|
-|16|[xxlllq/system_architect](https://github.com/xxlllq/system_architect)|:100:2023年系统架构设计师（软考高级）备考资源库。|3619|2022-11-10|
+|14|[kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages)|openwrt常用软件包|4102|2022-12-11|
+|15|[rubickCenter/rubick](https://github.com/rubickCenter/rubick)|🔧  Electron based open source toolbox, free integration of rich plug-ins. 基于 electron 的开源工具箱，自由集成丰富插件。|3796|2022-10-20|
+|16|[xxlllq/system_architect](https://github.com/xxlllq/system_architect)|:100:2023年系统架构设计师（软考高级）备考资源库。|3620|2022-11-10|
 |17|[kubernetes/website](https://github.com/kubernetes/website)|Kubernetes website and documentation repo: |3544|2022-12-11|
 |18|[qkqpttgf/OneManager-php](https://github.com/qkqpttgf/OneManager-php)|An index & manager of Onedrive based on serverless. Can be deployed to Heroku/Glitch/Vercel/Replit/SCF/FG/FC/CFC/PHP web hosting/VPS.|3344|2022-11-23|
 |19|[yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi)|:tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用|3262|2022-12-07|
 |20|[NLPIR-team/NLPIR](https://github.com/NLPIR-team/NLPIR)|-|3253|2022-11-29|
-|21|[cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)|A minimal, responsive, and powerful Jekyll theme for presenting professional writing.|3241|2022-12-11|
+|21|[cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)|A minimal, responsive, and powerful Jekyll theme for presenting professional writing.|3243|2022-12-11|
 |22|[zfaka-plus/zfaka](https://github.com/zfaka-plus/zfaka)|免费、安全、稳定、高效的发卡系统，值得拥有!|3225|2022-07-14|
-|23|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)|Card-style Hugo theme designed for bloggers|2827|2022-12-06|
+|23|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)|Card-style Hugo theme designed for bloggers|2831|2022-12-06|
 |24|[qiubaiying/qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io)|BY Blog ->|2811|2022-12-10|
 |25|[TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)|朋友圈转发截图生成工具|2314|2022-11-12|
 |26|[TencentCloud/TIMSDK](https://github.com/TencentCloud/TIMSDK)|Instant Message Service of Tencent Cloud. Download Image for Chinese Mainland：|2314|2022-12-09|
-|27|[tencentyun/qcloud-documents](https://github.com/tencentyun/qcloud-documents)|腾讯云官方文档|2089|2022-12-09|
+|27|[tencentyun/qcloud-documents](https://github.com/tencentyun/qcloud-documents)|腾讯云官方文档|2090|2022-12-12|
 |28|[ilovexjp/health-code-index](https://github.com/ilovexjp/health-code-index)|健康码模拟 - 索引|2050|2022-11-09|
 |29|[OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser)|An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network|1958|2022-12-06|
-|30|[monlor/MIXBOX-ARCHIVE](https://github.com/monlor/MIXBOX-ARCHIVE)|一款基于Shell的小米路由器工具箱，原为Monlor-Tools，A tool box for XiaoMi Router base on Shell.|1885|2022-07-15|
-|31|[SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font)|Zpix (最像素) is a pixel font (像素字体), supporting English, Traditional Chinese, Simplified Chinese and Japanese.|1757|2022-07-08|
-|32|[maple3142/GDIndex](https://github.com/maple3142/GDIndex)|A Google Drive Index built with Vue Running on CloudFlare Workers|1743|2022-09-21|
+|30|[monlor/MIXBOX-ARCHIVE](https://github.com/monlor/MIXBOX-ARCHIVE)|一款基于Shell的小米路由器工具箱，原为Monlor-Tools，A tool box for XiaoMi Router base on Shell.|1886|2022-07-15|
+|31|[SolidZORO/zpix-pixel-font](https://github.com/SolidZORO/zpix-pixel-font)|Zpix (最像素) is a pixel font (像素字体), supporting English, Traditional Chinese, Simplified Chinese and Japanese.|1760|2022-07-08|
+|32|[maple3142/GDIndex](https://github.com/maple3142/GDIndex)|A Google Drive Index built with Vue Running on CloudFlare Workers|1744|2022-09-21|
 |33|[phodal/serverless](https://github.com/phodal/serverless)|Serverless 架构应用开发指南 - Serverless Architecture Application Development Guide with Serverless Framework.|1679|2022-10-27|
-|34|[Ehco1996/Python-crawler](https://github.com/Ehco1996/Python-crawler)|从头开始 系统化的 学习如何写Python爬虫。 Python版本 3.6 |1670|2022-07-06|
+|34|[Ehco1996/Python-crawler](https://github.com/Ehco1996/Python-crawler)|从头开始 系统化的 学习如何写Python爬虫。 Python版本 3.6 |1671|2022-07-06|
 |35|[gh0stkey/Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)|Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1|1534|2022-10-12|
 |36|[wx-chevalier/Awesome-CS-Books-and-Digests](https://github.com/wx-chevalier/Awesome-CS-Books-and-Digests)|:books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀计算机科学与技术 ...|1512|2022-12-03|
-|37|[rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)|Data for this-week-in-rust.org|1494|2022-12-09|
-|38|[onlyGuo/nginx-gui](https://github.com/onlyGuo/nginx-gui)|Nginx GUI Manager|1488|2022-06-14|
+|37|[onlyGuo/nginx-gui](https://github.com/onlyGuo/nginx-gui)|Nginx GUI Manager|1502|2022-06-14|
+|38|[rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)|Data for this-week-in-rust.org|1497|2022-12-12|
 |39|[MKorostoff/1-pixel-wealth](https://github.com/MKorostoff/1-pixel-wealth)|-|1449|2022-09-30|
 |40|[HelloGitHub-Team/Article](https://github.com/HelloGitHub-Team/Article)|讲解开源项目系列文章库|1419|2022-11-17|
 |41|[wx-chevalier/DistributedSystem-Series](https://github.com/wx-chevalier/DistributedSystem-Series)|:books: 深入浅出分布式基础架构，Linux 与操作系统篇   分布式系统篇   分布式计算篇   数据库篇   网络篇   虚拟化与编排篇   大数据与云计算篇|1398|2022-11-06|
 |42|[mzlogin/mzlogin.github.io](https://github.com/mzlogin/mzlogin.github.io)|Jekyll Themes / GitHub Pages 博客模板 / A template repository for Jekyll based blog|1339|2022-11-23|
-|43|[iwestlin/gd-utils](https://github.com/iwestlin/gd-utils)|Google Drive 百宝箱|1302|2022-12-06|
+|43|[iwestlin/gd-utils](https://github.com/iwestlin/gd-utils)|Google Drive 百宝箱|1300|2022-12-06|
 |44|[openresty/openresty.org](https://github.com/openresty/openresty.org)|Code and data for the openresty.org site|1228|2022-12-05|
 |45|[tigerneil/awesome-deep-rl](https://github.com/tigerneil/awesome-deep-rl)|For deep RL and the future of AI. |1204|2022-08-20|
 |46|[aisuda/amis-admin](https://github.com/aisuda/amis-admin)|基于 amis 的后台项目前端模板|1157|2022-11-10|
@@ -188,23 +188,23 @@
 |181|[microsoft/cordova-simulate](https://github.com/microsoft/cordova-simulate)|Simulates your Apache Cordova application in the browser.|206|2022-12-06|
 |182|[laike9m/My_Blog](https://github.com/laike9m/My_Blog)|My Django Blog|205|2022-12-08|
 |183|[wx-chevalier/Frontend-Series](https://github.com/wx-chevalier/Frontend-Series)|:books: 大前端的工程实践：iOS 篇   Android 篇   混合式开发篇 - ReactNative、Weex、Weapp|203|2022-11-08|
-|184|[sapicd/sapic](https://github.com/sapicd/sapic)|sapic(picbed) - 基于Flask的Web自建图床，可存储到又拍云、七牛云、阿里云OSS、腾讯云COS、GitHub、Gitee、S3等，支持自定义扩展。|200|2022-06-12|
-|185|[yangzongzhuan/RuoYi-Oracle](https://github.com/yangzongzhuan/RuoYi-Oracle)|:tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用|198|2022-12-07|
-|186|[wangweianger/APubPlat](https://github.com/wangweianger/APubPlat)|Devops自动化部署、堡垒机开源项目、Web Terminal|195|2022-08-15|
-|187|[PacktPublishing/Real-Time-3D-Graphics-with-WebGL-2](https://github.com/PacktPublishing/Real-Time-3D-Graphics-with-WebGL-2)|Real-Time 3D Graphics with WebGL 2, published by Packt|193|2022-10-25|
-|188|[wanqihua/blog](https://github.com/wanqihua/blog)|-|188|2022-12-06|
-|189|[mvaneerde/blog](https://github.com/mvaneerde/blog)|Matthew van Eerde's blog|188|2022-12-02|
-|190|[rawchen/AliPan](https://github.com/rawchen/AliPan)|阿里云盘列表程序 - Spring Boot|184|2022-12-04|
-|191|[xiaozhu2021/key](https://github.com/xiaozhu2021/key)|激活码|184|2022-06-26|
-|192|[DistSysCorp/ddia](https://github.com/DistSysCorp/ddia)|DDIA 逐章精读|180|2022-11-26|
-|193|[jakobzhao/geog458](https://github.com/jakobzhao/geog458)|Advanced Digital Geographies @ UW-Seattle|179|2022-06-13|
-|194|[erdengk/gsoc-analyse](https://github.com/erdengk/gsoc-analyse)|帮助新手参与开源|178|2022-12-08|
-|195|[openspug/index](https://github.com/openspug/index)|企业内部导航页|178|2022-11-12|
-|196|[neulab/InterpretEval](https://github.com/neulab/InterpretEval)|Interpretable Evaluation for (Almost) All NLP Tasks|176|2022-09-16|
-|197|[BlueSkyXN/TencentCloud-Order](https://github.com/BlueSkyXN/TencentCloud-Order)|腾讯云产品-自定义参数购买一键单页，免额外抓包，直接输入参数提交自动跳转对应订单页面|175|2022-08-15|
-|198|[wyagd001/wyagd001.github.io](https://github.com/wyagd001/wyagd001.github.io)|个人主页, Autohotkey  中文帮助, 自用脚本介绍|175|2022-12-07|
-|199|[vnpy/vnpy.github.io](https://github.com/vnpy/vnpy.github.io)|vn.py项目的网站|174|2022-09-01|
-|200|[loongson/LoongArch-Documentation](https://github.com/loongson/LoongArch-Documentation)|The documentation for LoongArch.|173|2022-12-06|
+|184|[yangzongzhuan/RuoYi-Oracle](https://github.com/yangzongzhuan/RuoYi-Oracle)|:tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用|198|2022-12-07|
+|185|[wangweianger/APubPlat](https://github.com/wangweianger/APubPlat)|Devops自动化部署、堡垒机开源项目、Web Terminal|195|2022-08-15|
+|186|[PacktPublishing/Real-Time-3D-Graphics-with-WebGL-2](https://github.com/PacktPublishing/Real-Time-3D-Graphics-with-WebGL-2)|Real-Time 3D Graphics with WebGL 2, published by Packt|193|2022-10-25|
+|187|[wanqihua/blog](https://github.com/wanqihua/blog)|-|188|2022-12-06|
+|188|[mvaneerde/blog](https://github.com/mvaneerde/blog)|Matthew van Eerde's blog|188|2022-12-02|
+|189|[rawchen/AliPan](https://github.com/rawchen/AliPan)|阿里云盘列表程序 - Spring Boot|184|2022-12-04|
+|190|[xiaozhu2021/key](https://github.com/xiaozhu2021/key)|激活码|184|2022-06-26|
+|191|[DistSysCorp/ddia](https://github.com/DistSysCorp/ddia)|DDIA 逐章精读|180|2022-11-26|
+|192|[jakobzhao/geog458](https://github.com/jakobzhao/geog458)|Advanced Digital Geographies @ UW-Seattle|179|2022-06-13|
+|193|[erdengk/gsoc-analyse](https://github.com/erdengk/gsoc-analyse)|帮助新手参与开源|178|2022-12-08|
+|194|[openspug/index](https://github.com/openspug/index)|企业内部导航页|178|2022-11-12|
+|195|[neulab/InterpretEval](https://github.com/neulab/InterpretEval)|Interpretable Evaluation for (Almost) All NLP Tasks|176|2022-09-16|
+|196|[BlueSkyXN/TencentCloud-Order](https://github.com/BlueSkyXN/TencentCloud-Order)|腾讯云产品-自定义参数购买一键单页，免额外抓包，直接输入参数提交自动跳转对应订单页面|175|2022-08-15|
+|197|[wyagd001/wyagd001.github.io](https://github.com/wyagd001/wyagd001.github.io)|个人主页, Autohotkey  中文帮助, 自用脚本介绍|175|2022-12-07|
+|198|[vnpy/vnpy.github.io](https://github.com/vnpy/vnpy.github.io)|vn.py项目的网站|174|2022-09-01|
+|199|[loongson/LoongArch-Documentation](https://github.com/loongson/LoongArch-Documentation)|The documentation for LoongArch.|173|2022-12-06|
+|200|[androidmumo/Bing-upyun](https://github.com/androidmumo/Bing-upyun)|轻量必应每日一图API，支持上传至又拍云调用，支持图片处理（高斯模糊、灰阶），支持回溯。|173|2022-09-14|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
