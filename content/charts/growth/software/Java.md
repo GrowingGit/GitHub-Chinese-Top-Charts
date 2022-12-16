@@ -205,7 +205,7 @@
 |198|[qunarcorp/qmq](https://github.com/qunarcorp/qmq)| QMQ是去哪儿网内部广泛使用的消息中间件，自2012年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。|2628|2|2022-11-16|
 |199|[shatyuka/Zhiliao](https://github.com/shatyuka/Zhiliao)|知乎去广告Xposed模块|1250|2|2022-10-02|
 |200|[apache/dubbo-admin](https://github.com/apache/dubbo-admin)|The ops and reference implementation for Apache Dubbo|3691|2|2022-12-05|
-
+|200|[Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent)|腾讯开源的基于 Spring Cloud 一站式微服务解决方案|2700|7|2022-12-16|
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
     榜单持续更新，如有帮助请加星收藏，方便后续浏览，感谢你的支持！
