@@ -205,6 +205,7 @@
 |198|[CeuiLiSA/Pixiv-Shaft](https://github.com/CeuiLiSA/Pixiv-Shaft)|Pixiv第三方Android客户端|2641|2022-10-29|
 |199|[JsonChao/Awesome-WanAndroid](https://github.com/JsonChao/Awesome-WanAndroid)|:zap:致力于打造一款极致体验的 http://www.wanandroid.com/ 客户端，知识和美是可以并存的哦QAQn(*≧▽≦*)n|2641|2022-07-09|
 |200|[qunarcorp/qmq](https://github.com/qunarcorp/qmq)| QMQ是去哪儿网内部广泛使用的消息中间件，自2012年诞生以来在去哪儿网所有业务场景中广泛的应用，包括跟交易息息相关的订单场景； 也包括报价搜索等高吞吐量场景。|2629|2022-11-16|
+|201|[Tencent/spring-cloud-tencent](https://github.com/Tencent/spring-cloud-tencent)|腾讯开源的基于 Spring Cloud 一站式微服务解决方案|2700|7|2022-12-16|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
