@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > JavaScript
-<sub>数据更新: 2023-06-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-06-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -194,17 +194,17 @@
 |187|[AntSwordProject/antSword](https://github.com/AntSwordProject/antSword)|中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.|2538|2023-03-04|
 |188|[code-charity/youtube](https://github.com/code-charity/youtube)|YouTube Extension: Enrich your YouTube experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧docu. /HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot   Hide youtube distr ...|2528|2023-05-22|
 |189|[qd-today/qd](https://github.com/qd-today/qd)|[当前版本: 20230518] QD —— 一个HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server|2524|2023-05-22|
-|190|[microsoft/pai](https://github.com/microsoft/pai)|Resource scheduling and cluster management for AI|2499|2022-12-05|
-|191|[iamxjb/winxin-app-watch-life.net](https://github.com/iamxjb/winxin-app-watch-life.net)|微慕小程序开源版-WordPress版微信小程序|2475|2023-03-08|
-|192|[NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)|A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务|2471|2023-03-29|
-|193|[proYang/outils](https://github.com/proYang/outils)|:rocket: 前端业务代码工具库|2447|2022-12-06|
-|194|[mumuy/relationship](https://github.com/mumuy/relationship)|中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機_Chinese kinship system.|2445|2023-05-11|
-|195|[zmister2016/MrDoc](https://github.com/zmister2016/MrDoc)|mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。|2437|2023-05-21|
-|196|[HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)| M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。|2421|2023-04-01|
-|197|[Justineo/vue-awesome](https://github.com/Justineo/vue-awesome)|Awesome SVG icon component for Vue.js, built-in with Font Awesome icons.|2397|2023-01-06|
-|198|[jones2000/HQChart](https://github.com/jones2000/HQChart)|HQChart - H5, 微信小程序 沪深/港股/数字货币/期货/美股 K线图(kline),走势图,缩放,拖拽,十字光标,画图工具,截图,筹码图. 分析家语法,通达信语法,(麦语法),第3方数据替换接口|2358|2023-04-07|
-|199|[wendux/ajax-hook](https://github.com/wendux/ajax-hook)|Intercepting browser's http requests which made by XMLHttpRequest.|2330|2023-03-14|
-|200|[EdgeTranslate/EdgeTranslate](https://github.com/EdgeTranslate/EdgeTranslate)|A translation extension.|2318|2023-05-05|
+|190|[iamxjb/winxin-app-watch-life.net](https://github.com/iamxjb/winxin-app-watch-life.net)|微慕小程序开源版-WordPress版微信小程序|2475|2023-03-08|
+|191|[NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)|A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务|2471|2023-03-29|
+|192|[mumuy/relationship](https://github.com/mumuy/relationship)|中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機_Chinese kinship system.|2445|2023-05-11|
+|193|[zmister2016/MrDoc](https://github.com/zmister2016/MrDoc)|mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。|2437|2023-05-21|
+|194|[HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)| M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。|2421|2023-04-01|
+|195|[Justineo/vue-awesome](https://github.com/Justineo/vue-awesome)|Awesome SVG icon component for Vue.js, built-in with Font Awesome icons.|2397|2023-01-06|
+|196|[jones2000/HQChart](https://github.com/jones2000/HQChart)|HQChart - H5, 微信小程序 沪深/港股/数字货币/期货/美股 K线图(kline),走势图,缩放,拖拽,十字光标,画图工具,截图,筹码图. 分析家语法,通达信语法,(麦语法),第3方数据替换接口|2358|2023-04-07|
+|197|[wendux/ajax-hook](https://github.com/wendux/ajax-hook)|Intercepting browser's http requests which made by XMLHttpRequest.|2330|2023-03-14|
+|198|[EdgeTranslate/EdgeTranslate](https://github.com/EdgeTranslate/EdgeTranslate)|A translation extension.|2318|2023-05-05|
+|199|[cskefu/cskefu](https://github.com/cskefu/cskefu)|🌲 春松客服，开源，免费，智能客服系统，机器人客服|2309|2023-04-03|
+|200|[mindskip/xzs-mysql](https://github.com/mindskip/xzs-mysql)|学之思开源考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。支持web端和微信小程序，能覆盖到pc机和手机等设备。 支持多种部署方式：集成部署、前后端分离部署、docker部署。|2306|2023-05-19|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
