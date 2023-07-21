@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > JavaScript
-<sub>数据更新: 2023-07-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-07-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -100,111 +100,111 @@
 |93|[xiangyuecn/AreaCity-JsSpider-StatsGov](https://github.com/xiangyuecn/AreaCity-JsSpider-StatsGov)|省市区县乡镇三级或四级城市数据，带拼音标注、坐标、行政区域边界范围；2023年04月03日最新采集，提供csv格式文件，支持在线转成多级联动js代码、通用json格式，提供软件转成shp、geojson、sql、导入数据库；带浏览器里面运行的js采集源码，综合了中华人民共和国民政部、国家统计局、高德地图、腾讯地图行政区划数据|4310|2023-04-04|
 |94|[micro-zoe/micro-app](https://github.com/micro-zoe/micro-app)|A lightweight, efficient and powerful micro front-end framework. 一款轻量、高效、功能强大的微前端框架|4129|2023-04-13|
 |95|[Tencent/westore](https://github.com/Tencent/westore)|小程序项目分层架构|4124|2023-05-18|
-|96|[lessfish/underscore-analysis](https://github.com/lessfish/underscore-analysis)|【NO LONGER UPDATE】underscore-1.8.3.js 源码解读 & 系列文章（完）|3987|2023-01-14|
-|97|[maptalks/maptalks.js](https://github.com/maptalks/maptalks.js)|A light and plugable JavaScript library for integrated 2D/3D maps.|3908|2023-04-07|
-|98|[TaleLin/lin-ui](https://github.com/TaleLin/lin-ui)|🌈 简洁、易用、灵活的微信小程序组件库|3806|2023-01-16|
-|99|[mdnice/markdown-nice](https://github.com/mdnice/markdown-nice)|支持主题设计的 Markdown 编辑器，让排版变 Nice|3787|2023-03-18|
-|100|[toolgood/ToolGood.Words](https://github.com/toolgood/ToolGood.Words)|一款高性能敏感词(非法词/脏字)检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。|3785|2023-04-17|
-|101|[vinta/pangu.js](https://github.com/vinta/pangu.js)|Paranoid text spacing in JavaScript|3776|2023-03-30|
-|102|[Momo707577045/m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader)|m3u8 视频在线提取工具|3733|2023-02-16|
-|103|[6dylan6/jdpro](https://github.com/6dylan6/jdpro)|青龙脚本库|3685|2023-04-15|
-|104|[PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer)|Create Minecraft bots with a powerful, stable, and high level JavaScript API.|3678|2023-04-11|
-|105|[xiangyuecn/Recorder](https://github.com/xiangyuecn/Recorder)|html5 js 录音 mp3 wav ogg webm amr 格式，支持pc和Android、iOS部分浏览器、Hybrid App（提供Android iOS App源码）、微信，提供ASR语音识别转文字 H5版语音通话聊天示例 DTMF编码解码|3651|2023-02-23|
-|106|[UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server)|Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)|3582|2023-04-20|
-|107|[cnpm/cnpmjs.org](https://github.com/cnpm/cnpmjs.org)|‼️ ‼️ ‼️ ‼️  DEPRECATED, please use https://github.com/cnpm/cnpmcore ‼️ ‼️ ‼️ ‼️ |3576|2023-03-25|
-|108|[alibaba/butterfly](https://github.com/alibaba/butterfly)|🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)|3571|2023-04-03|
-|109|[alibaba/f2etest](https://github.com/alibaba/f2etest)|F2etest是一个面向前端、测试、产品等岗位的多浏览器兼容性测试整体解决方案。|3527|2023-03-06|
-|110|[ipcjs/bilibili-helper](https://github.com/ipcjs/bilibili-helper)|各种油猴脚本|3499|2023-04-16|
-|111|[o2oa/o2oa](https://github.com/o2oa/o2oa)|开源OA系统 - 码云GVP Java开源oa 企业OA办公平台 企业OA 协同办公OA 流程平台OA O2OA OA，支持国产麒麟操作系统和国产数据库（达梦、人大金仓），政务OA，军工信息化OA|3485|2023-04-14|
-|112|[Le-niao/Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)|原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回|3435|2023-01-29|
-|113|[siteserver/cms](https://github.com/siteserver/cms)|SS CMS 基于 .NET Core，能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。|3350|2023-04-21|
-|114|[xiaoymin/knife4j](https://github.com/xiaoymin/knife4j)|Knife4j is a set of Swagger2 and OpenAPI3 All-in-one enhancement solution|3349|2023-04-20|
-|115|[dushixiang/next-terminal](https://github.com/dushixiang/next-terminal)|Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。|3306|2023-04-20|
-|116|[Postcatlab/postcat](https://github.com/Postcatlab/postcat)|Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.|3286|2023-04-07|
-|117|[lazy-luo/smarGate](https://github.com/lazy-luo/smarGate)|内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！|3282|2023-04-07|
-|118|[Happy-Coding-Clans/vue-easytable](https://github.com/Happy-Coding-Clans/vue-easytable)|A  powerful data table based on vuejs. You can use  it as data grid、Microsoft Excel or Google sheets. It supports virtual scroll、cell edit etc. |3277|2023-04-13|
-|119|[didi/mpx](https://github.com/didi/mpx)|Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架|3267|2023-04-21|
-|120|[MonsterNone/tmall-miao](https://github.com/MonsterNone/tmall-miao)|喵币助手：双十一天猫（淘宝）、京东任务一键完成。基于Auto.JS。打包版已做防检测处理。（热爱穿行纪、喵果总动员）|3258|2023-02-11|
-|121|[dream7180/foobox-cn](https://github.com/dream7180/foobox-cn)|DUI 配置 for foobar2000|3195|2023-04-06|
-|122|[wensonsmith/YoudaoTranslator](https://github.com/wensonsmith/YoudaoTranslator)|Alfred Youdao Translate Workflow|3195|2023-02-20|
-|123|[metowolf/vCards](https://github.com/metowolf/vCards)|📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验|3130|2023-04-14|
-|124|[Tencent/weui.js](https://github.com/Tencent/weui.js)|A lightweight javascript library for WeUI.|3099|2023-04-07|
-|125|[l0o0/jasminum](https://github.com/l0o0/jasminum)|A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据|3098|2023-06-10|
-|126|[neutrinojs/webpack-chain](https://github.com/neutrinojs/webpack-chain)|A chaining API to generate and simplify the modification of Webpack configurations.|3098|2023-03-24|
-|127|[biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export)|Easily export the Genshin Impact wish record.|3068|2023-04-08|
-|128|[justjavac/ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN)|:cancer: 一个 Chrome 插件：将 Google CDN 替换为国内的。|3067|2023-04-13|
-|129|[umijs/babel-plugin-import](https://github.com/umijs/babel-plugin-import)|Modularly import plugin for babel.|3065|2023-02-09|
-|130|[wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot)|🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...|3033|2023-04-04|
-|131|[renrenio/renren-fast-vue](https://github.com/renrenio/renren-fast-vue)|renren-fast-vue基于vue、element-ui构建开发，实现renren-fast后台管理前端功能，提供一套更优的前端解决方案。|2963|2023-03-03|
-|132|[coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview)|《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。|2942|2023-01-21|
-|133|[brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)|Converts .py to .exe using a simple graphical interface |2941|2023-04-18|
-|134|[fex-team/kityminder-editor](https://github.com/fex-team/kityminder-editor)|Powerful Mindmap Editing Tool|2936|2023-02-01|
-|135|[xifangczy/cat-catch](https://github.com/xifangczy/cat-catch)|猫抓 chrome资源嗅探扩展|2923|2023-04-05|
-|136|[CreditTone/hooker](https://github.com/CreditTone/hooker)|🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning|2891|2023-04-04|
-|137|[wetools/wept](https://github.com/wetools/wept)|微信小程序多端实时运行工具|2891|2023-01-27|
-|138|[nashaofu/dingtalk](https://github.com/nashaofu/dingtalk)|钉钉桌面版，基于electron和钉钉网页版开发，支持Windows、Linux和macOS|2830|2023-02-03|
-|139|[hizzgdev/jsmind](https://github.com/hizzgdev/jsmind)|a mind mapping library built by javascript|2812|2023-04-06|
-|140|[yanyiwu/nodejieba](https://github.com/yanyiwu/nodejieba)|"结巴"中文分词的Node.js版本|2805|2023-06-02|
-|141|[dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)|❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题|2799|2023-03-12|
-|142|[aliyun/oss-browser](https://github.com/aliyun/oss-browser)|OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。|2795|2023-02-22|
-|143|[SuperMonster003/Ant-Forest](https://github.com/SuperMonster003/Ant-Forest)|AutoJs6-based ant forest energy auto-collect script (基于 AutoJs6 的蚂蚁森林能量自动收取脚本)|2791|2023-01-21|
-|144|[jin-yufeng/mp-html](https://github.com/jin-yufeng/mp-html)|小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用|2780|2023-05-14|
-|145|[qianjiachun/douyuEx](https://github.com/qianjiachun/douyuEx)|斗鱼直播间增强插件（Tampermonkey）|2771|2023-06-12|
-|146|[tc39/proposal-temporal](https://github.com/tc39/proposal-temporal)|Provides standard objects and functions for working with dates and times.|2760|2023-04-11|
-|147|[alibaba/beidou](https://github.com/alibaba/beidou)|:milky_way: Isomorphic framework for server-rendered React apps|2733|2023-03-06|
-|148|[SeriaWei/ZKEACMS](https://github.com/SeriaWei/ZKEACMS)|ZKEACMS build with .Net 7 (.Net CMS)可视化设计在线编辑内容管理系统|2714|2023-05-13|
-|149|[jayden320/MeiTuan](https://github.com/jayden320/MeiTuan)|MeiTuan App Write In latest React-Native(0.62.2)|2695|2023-01-26|
-|150|[evrone/postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport)|A plugin for PostCSS that generates viewport units (vw, vh, vmin, vmax) from pixel units. The best choice to create a scalable interface on different displays by one design size.|2678|2023-02-19|
-|151|[TaleLin/lin-cms-vue](https://github.com/TaleLin/lin-cms-vue)| 🔆 Vue+ElementPlus构建的CMS开发框架|2656|2023-02-09|
-|152|[dabeng/OrgChart](https://github.com/dabeng/OrgChart)|It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.|2641|2023-04-02|
-|153|[aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit)|Cloud Security Posture Management (CSPM)|2598|2023-05-22|
-|154|[mindskip/xzs](https://github.com/mindskip/xzs)|在线考试系统|2577|2023-04-14|
-|155|[easysoft/zui](https://github.com/easysoft/zui)|ZUI is an HTML5 front UI framework.|2573|2023-05-22|
-|156|[mumuy/data_location](https://github.com/mumuy/data_location)|中华人民共和国行政区划数据【省、市、区县、乡镇街道】中国省市区镇三级四级联动地址数据（GB/T 2260）|2551|2023-02-06|
-|157|[AlloyTeam/eslint-config-alloy](https://github.com/AlloyTeam/eslint-config-alloy)|Progressive ESLint config for your React/Vue/TypeScript projects|2539|2023-04-19|
-|158|[AntSwordProject/antSword](https://github.com/AntSwordProject/antSword)|中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.|2538|2023-03-04|
-|159|[code-charity/youtube](https://github.com/code-charity/youtube)|YouTube Extension: Enrich your YouTube experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧docu. /HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot   Hide youtube distr ...|2528|2023-05-22|
-|160|[qd-today/qd](https://github.com/qd-today/qd)|[当前版本: 20230518] QD —— 一个HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server|2524|2023-05-22|
-|161|[iamxjb/winxin-app-watch-life.net](https://github.com/iamxjb/winxin-app-watch-life.net)|微慕小程序开源版-WordPress版微信小程序|2475|2023-03-08|
-|162|[NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)|A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务|2471|2023-03-29|
-|163|[zmister2016/MrDoc](https://github.com/zmister2016/MrDoc)|mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。|2464|2023-05-24|
-|164|[jones2000/HQChart](https://github.com/jones2000/HQChart)|HQChart - H5, 微信小程序 沪深/港股/数字货币/期货/美股 K线图(kline),走势图,缩放,拖拽,十字光标,画图工具,截图,筹码图. 分析家语法,通达信语法,(麦语法),第3方数据替换接口|2453|2023-06-13|
-|165|[mumuy/relationship](https://github.com/mumuy/relationship)|中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機_Chinese kinship system.|2445|2023-05-11|
-|166|[HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)| M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。|2421|2023-04-01|
-|167|[mindskip/xzs-mysql](https://github.com/mindskip/xzs-mysql)|学之思开源考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。支持web端和微信小程序，能覆盖到pc机和手机等设备。 支持多种部署方式：集成部署、前后端分离部署、docker部署。|2348|2023-06-13|
-|168|[EdgeTranslate/EdgeTranslate](https://github.com/EdgeTranslate/EdgeTranslate)|A translation extension.|2341|2023-05-30|
-|169|[wendux/ajax-hook](https://github.com/wendux/ajax-hook)|Intercepting browser's http requests which made by XMLHttpRequest.|2330|2023-03-14|
-|170|[cskefu/cskefu](https://github.com/cskefu/cskefu)|🌲 春松客服，开源，免费，智能客服系统，机器人客服|2309|2023-04-03|
-|171|[CarGuo/GSYGithubAPP](https://github.com/CarGuo/GSYGithubAPP)|超完整的React Native项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，配套文章，适合全面学习，对比参考。开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ( ...|2307|2023-04-19|
-|172|[tnfe/FFCreator](https://github.com/tnfe/FFCreator)|一个基于node.js的高速视频制作库  A fast video processing library based on node.js|2297|2023-04-04|
-|173|[woai3c/nand2tetris](https://github.com/woai3c/nand2tetris)|计算机系统要素-从零开始构建现代计算机|2269|2023-02-01|
-|174|[treadpit/wx_calendar](https://github.com/treadpit/wx_calendar)|微信小程序－日历组件 📅|2219|2023-02-04|
-|175|[wechatsync/Wechatsync](https://github.com/wechatsync/Wechatsync)|一键同步文章到多个内容平台，支持今日头条、WordPress、知乎、简书、掘金、CSDN、typecho各大平台，一次发布，多平台同步发布。解放个人生产力|2216|2023-01-17|
-|176|[feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)|Prometheus Alert是开源的运维告警中心消息转发系统,支持主流的监控系统Prometheus,Zabbix,日志系统Graylog和数据可视化系统Grafana发出的预警消息,支持钉钉,微信,华为云短信,腾讯云短信,腾讯云电话,阿里云短信,阿里云电话等|2180|2023-05-15|
-|177|[liriliri/licia](https://github.com/liriliri/licia)|Useful utility collection with zero dependencies|2176|2023-05-27|
-|178|[sbfkcel/towxml](https://github.com/sbfkcel/towxml)|微信小程序HTML、Markdown渲染库|2170|2023-02-13|
-|179|[ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf)|An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com|2138|2023-03-04|
-|180|[app2smile/rules](https://github.com/app2smile/rules)|iOS App去广告|2129|2023-05-19|
-|181|[nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor)|nightscout web monitor|2082|2023-04-14|
-|182|[craigary/nobelium](https://github.com/craigary/nobelium)|A static blog build on top of Notion and NextJS, deployed on Vercel.|2071|2023-04-06|
-|183|[we-plugin/we-cropper](https://github.com/we-plugin/we-cropper)|微信小程序图片裁剪工具|2061|2023-03-23|
-|184|[moshang-xc/lottery](https://github.com/moshang-xc/lottery)|🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀|2050|2023-04-20|
-|185|[thinkcmf/thinkcmf](https://github.com/thinkcmf/thinkcmf)|ThinkCMF是一款支持Swoole的开源内容管理框架，基于ThinkPHP开发，同时支持PHP-FPM和Swoole双模式，让WEB开发更快!|2045|2023-04-09|
-|186|[nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)|A real-time 3D digital map of Tokyo's public transport system|2036|2023-04-09|
-|187|[alibaba/uirecorder](https://github.com/alibaba/uirecorder)|UI Recorder is a  multi-platform UI test recorder.|2008|2023-03-02|
-|188|[uiwjs/province-city-china](https://github.com/uiwjs/province-city-china)|🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据|1964|2023-02-04|
-|189|[hua1995116/webchat](https://github.com/hua1995116/webchat)|:speaker: Websocket project based on vue（基于vue2.0的实时聊天项目）|1945|2023-05-15|
-|190|[yangxi0126/javaScript](https://github.com/yangxi0126/javaScript)|前端特效存档|1888|2023-05-10|
-|191|[Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework)| 腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构。A front-end and back-end integrated deployment tool. One-click deploy to serverless architecture. https://docs.cloudbase.net ...|1879|2023-04-07|
-|192|[vuejs/v2.cn.vuejs.org](https://github.com/vuejs/v2.cn.vuejs.org)|🇨🇳 Chinese translation for v2.vuejs.org|1859|2023-03-27|
-|193|[cnpm/cnpm](https://github.com/cnpm/cnpm)|cnpm: npm client for China mirror of npm|1856|2023-05-02|
-|194|[hoothin/UserScripts](https://github.com/hoothin/UserScripts)|Greasemonkey scripts|1853|2023-04-11|
-|195|[ali-sdk/ali-oss](https://github.com/ali-sdk/ali-oss)|Aliyun OSS(Object Storage Service) JavaScript SDK for the Browser and Node.js|1816|2023-06-13|
-|196|[KingRan/KR](https://github.com/KingRan/KR)|-|1809|2023-04-21|
-|197|[Nerver4Ever/SevenSha1UIAdvancedHelper](https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper)|转存助手ui优化版|1797|2023-03-16|
-|198|[cixingguangming55555/wechat-bot](https://github.com/cixingguangming55555/wechat-bot)|带二次开发接口的PC微信聊天机器人|1770|2023-04-12|
-|199|[sh-dv/hat.sh](https://github.com/sh-dv/hat.sh)|Encrypt and Decrypt files securely in your browser.|1761|2023-03-26|
-|200|[feeddd/feeds](https://github.com/feeddd/feeds)|免费的公众号 RSS，支持扩展任意 APP|1760|2023-05-21|
+|96|[maptalks/maptalks.js](https://github.com/maptalks/maptalks.js)|A light and plugable JavaScript library for integrated 2D/3D maps.|3908|2023-04-07|
+|97|[mdnice/markdown-nice](https://github.com/mdnice/markdown-nice)|支持主题设计的 Markdown 编辑器，让排版变 Nice|3787|2023-03-18|
+|98|[toolgood/ToolGood.Words](https://github.com/toolgood/ToolGood.Words)|一款高性能敏感词(非法词/脏字)检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。|3785|2023-04-17|
+|99|[vinta/pangu.js](https://github.com/vinta/pangu.js)|Paranoid text spacing in JavaScript|3776|2023-03-30|
+|100|[Momo707577045/m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader)|m3u8 视频在线提取工具|3733|2023-02-16|
+|101|[6dylan6/jdpro](https://github.com/6dylan6/jdpro)|青龙脚本库|3685|2023-04-15|
+|102|[PrismarineJS/mineflayer](https://github.com/PrismarineJS/mineflayer)|Create Minecraft bots with a powerful, stable, and high level JavaScript API.|3678|2023-04-11|
+|103|[xiangyuecn/Recorder](https://github.com/xiangyuecn/Recorder)|html5 js 录音 mp3 wav ogg webm amr 格式，支持pc和Android、iOS部分浏览器、Hybrid App（提供Android iOS App源码）、微信，提供ASR语音识别转文字 H5版语音通话聊天示例 DTMF编码解码|3651|2023-02-23|
+|104|[UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server)|Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)|3582|2023-04-20|
+|105|[cnpm/cnpmjs.org](https://github.com/cnpm/cnpmjs.org)|‼️ ‼️ ‼️ ‼️  DEPRECATED, please use https://github.com/cnpm/cnpmcore ‼️ ‼️ ‼️ ‼️ |3576|2023-03-25|
+|106|[alibaba/butterfly](https://github.com/alibaba/butterfly)|🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)|3571|2023-04-03|
+|107|[alibaba/f2etest](https://github.com/alibaba/f2etest)|F2etest是一个面向前端、测试、产品等岗位的多浏览器兼容性测试整体解决方案。|3527|2023-03-06|
+|108|[ipcjs/bilibili-helper](https://github.com/ipcjs/bilibili-helper)|各种油猴脚本|3499|2023-04-16|
+|109|[o2oa/o2oa](https://github.com/o2oa/o2oa)|开源OA系统 - 码云GVP Java开源oa 企业OA办公平台 企业OA 协同办公OA 流程平台OA O2OA OA，支持国产麒麟操作系统和国产数据库（达梦、人大金仓），政务OA，军工信息化OA|3485|2023-04-14|
+|110|[Le-niao/Yunzai-Bot](https://github.com/Le-niao/Yunzai-Bot)|原神QQ群机器人，通过米游社接口，查询原神游戏信息，快速生成图片返回|3435|2023-01-29|
+|111|[siteserver/cms](https://github.com/siteserver/cms)|SS CMS 基于 .NET Core，能够以最低的成本、最少的人力投入在最短的时间内架设一个功能齐全、性能优异、规模庞大并易于维护的网站平台。|3350|2023-04-21|
+|112|[xiaoymin/knife4j](https://github.com/xiaoymin/knife4j)|Knife4j is a set of Swagger2 and OpenAPI3 All-in-one enhancement solution|3349|2023-04-20|
+|113|[dushixiang/next-terminal](https://github.com/dushixiang/next-terminal)|Next Terminal是一个简单好用安全的开源交互审计系统，支持RDP、SSH、VNC、Telnet、Kubernetes协议。|3306|2023-04-20|
+|114|[Postcatlab/postcat](https://github.com/Postcatlab/postcat)|Postcat 是一个可扩展的 API 工具平台。集合基础的 API 管理和测试功能，并且可以通过插件简化你的 API 开发工作，让你可以更快更好地创建 API。An extensible API tool.|3286|2023-04-07|
+|115|[lazy-luo/smarGate](https://github.com/lazy-luo/smarGate)|内网穿透，c++实现，无需公网IP，小巧，易用，快速，安全，最好的多链路聚合（p2p+proxy）模式，不做之一...这才是你真正想要的内网穿透工具！|3282|2023-04-07|
+|116|[Happy-Coding-Clans/vue-easytable](https://github.com/Happy-Coding-Clans/vue-easytable)|A  powerful data table based on vuejs. You can use  it as data grid、Microsoft Excel or Google sheets. It supports virtual scroll、cell edit etc. |3277|2023-04-13|
+|117|[didi/mpx](https://github.com/didi/mpx)|Mpx，一款具有优秀开发体验和深度性能优化的增强型跨端小程序框架|3267|2023-04-21|
+|118|[MonsterNone/tmall-miao](https://github.com/MonsterNone/tmall-miao)|喵币助手：双十一天猫（淘宝）、京东任务一键完成。基于Auto.JS。打包版已做防检测处理。（热爱穿行纪、喵果总动员）|3258|2023-02-11|
+|119|[dream7180/foobox-cn](https://github.com/dream7180/foobox-cn)|DUI 配置 for foobar2000|3195|2023-04-06|
+|120|[wensonsmith/YoudaoTranslator](https://github.com/wensonsmith/YoudaoTranslator)|Alfred Youdao Translate Workflow|3195|2023-02-20|
+|121|[metowolf/vCards](https://github.com/metowolf/vCards)|📡️ vCards 中国黄页 - 优化 iOS/Android 来电、信息界面体验|3130|2023-04-14|
+|122|[Tencent/weui.js](https://github.com/Tencent/weui.js)|A lightweight javascript library for WeUI.|3099|2023-04-07|
+|123|[l0o0/jasminum](https://github.com/l0o0/jasminum)|A Zotero add-on to retrive CNKI meta data. 一个简单的Zotero 插件，用于识别中文元数据|3098|2023-06-10|
+|124|[neutrinojs/webpack-chain](https://github.com/neutrinojs/webpack-chain)|A chaining API to generate and simplify the modification of Webpack configurations.|3098|2023-03-24|
+|125|[biuuu/genshin-wish-export](https://github.com/biuuu/genshin-wish-export)|Easily export the Genshin Impact wish record.|3068|2023-04-08|
+|126|[justjavac/ReplaceGoogleCDN](https://github.com/justjavac/ReplaceGoogleCDN)|:cancer: 一个 Chrome 插件：将 Google CDN 替换为国内的。|3067|2023-04-13|
+|127|[umijs/babel-plugin-import](https://github.com/umijs/babel-plugin-import)|Modularly import plugin for babel.|3065|2023-02-09|
+|128|[wangrongding/wechat-bot](https://github.com/wangrongding/wechat-bot)|🤖一个基于OpenAi  ChatGPT + WeChaty 实现的微信机器人 ，可以用来帮助你自动回复微信消息，或者管理微信群/好友，检测僵尸粉等...|3033|2023-04-04|
+|129|[renrenio/renren-fast-vue](https://github.com/renrenio/renren-fast-vue)|renren-fast-vue基于vue、element-ui构建开发，实现renren-fast后台管理前端功能，提供一套更优的前端解决方案。|2963|2023-03-03|
+|130|[coffe1891/frontend-hard-mode-interview](https://github.com/coffe1891/frontend-hard-mode-interview)|《前端内参》，有关于JavaScript、编程范式、设计模式、软件开发的艺术等大前端范畴内的知识分享，旨在帮助前端工程师们夯实技术基础以通过一线互联网企业技术面试。|2942|2023-01-21|
+|131|[brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)|Converts .py to .exe using a simple graphical interface |2941|2023-04-18|
+|132|[fex-team/kityminder-editor](https://github.com/fex-team/kityminder-editor)|Powerful Mindmap Editing Tool|2936|2023-02-01|
+|133|[xifangczy/cat-catch](https://github.com/xifangczy/cat-catch)|猫抓 chrome资源嗅探扩展|2923|2023-04-05|
+|134|[CreditTone/hooker](https://github.com/CreditTone/hooker)|🔥🔥hooker是一个基于frida实现的逆向工具包。为逆向开发人员提供统一化的脚本包管理方式、通杀脚本、自动化生成hook脚本、内存漫游探测activity和service、firda版JustTrustMe、disable ssl pinning|2891|2023-04-04|
+|135|[wetools/wept](https://github.com/wetools/wept)|微信小程序多端实时运行工具|2891|2023-01-27|
+|136|[nashaofu/dingtalk](https://github.com/nashaofu/dingtalk)|钉钉桌面版，基于electron和钉钉网页版开发，支持Windows、Linux和macOS|2830|2023-02-03|
+|137|[hizzgdev/jsmind](https://github.com/hizzgdev/jsmind)|a mind mapping library built by javascript|2812|2023-04-06|
+|138|[yanyiwu/nodejieba](https://github.com/yanyiwu/nodejieba)|"结巴"中文分词的Node.js版本|2805|2023-06-02|
+|139|[dillonzq/LoveIt](https://github.com/dillonzq/LoveIt)|❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题|2799|2023-03-12|
+|140|[aliyun/oss-browser](https://github.com/aliyun/oss-browser)|OSS Browser 提供类似windows资源管理器功能。用户可以很方便的浏览文件，上传下载文件，支持断点续传等。|2795|2023-02-22|
+|141|[SuperMonster003/Ant-Forest](https://github.com/SuperMonster003/Ant-Forest)|AutoJs6-based ant forest energy auto-collect script (基于 AutoJs6 的蚂蚁森林能量自动收取脚本)|2791|2023-01-21|
+|142|[jin-yufeng/mp-html](https://github.com/jin-yufeng/mp-html)|小程序富文本组件，支持渲染和编辑 html，支持在微信、QQ、百度、支付宝、头条和 uni-app 平台使用|2780|2023-05-14|
+|143|[qianjiachun/douyuEx](https://github.com/qianjiachun/douyuEx)|斗鱼直播间增强插件（Tampermonkey）|2771|2023-06-12|
+|144|[tc39/proposal-temporal](https://github.com/tc39/proposal-temporal)|Provides standard objects and functions for working with dates and times.|2760|2023-04-11|
+|145|[alibaba/beidou](https://github.com/alibaba/beidou)|:milky_way: Isomorphic framework for server-rendered React apps|2733|2023-03-06|
+|146|[SeriaWei/ZKEACMS](https://github.com/SeriaWei/ZKEACMS)|ZKEACMS build with .Net 7 (.Net CMS)可视化设计在线编辑内容管理系统|2714|2023-05-13|
+|147|[jayden320/MeiTuan](https://github.com/jayden320/MeiTuan)|MeiTuan App Write In latest React-Native(0.62.2)|2695|2023-01-26|
+|148|[evrone/postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport)|A plugin for PostCSS that generates viewport units (vw, vh, vmin, vmax) from pixel units. The best choice to create a scalable interface on different displays by one design size.|2678|2023-02-19|
+|149|[TaleLin/lin-cms-vue](https://github.com/TaleLin/lin-cms-vue)| 🔆 Vue+ElementPlus构建的CMS开发框架|2656|2023-02-09|
+|150|[dabeng/OrgChart](https://github.com/dabeng/OrgChart)|It's a simple and direct organization chart plugin. Anytime you want a tree-like chart, you can turn to OrgChart.|2641|2023-04-02|
+|151|[aquasecurity/cloudsploit](https://github.com/aquasecurity/cloudsploit)|Cloud Security Posture Management (CSPM)|2598|2023-05-22|
+|152|[mindskip/xzs](https://github.com/mindskip/xzs)|在线考试系统|2577|2023-04-14|
+|153|[easysoft/zui](https://github.com/easysoft/zui)|ZUI is an HTML5 front UI framework.|2573|2023-05-22|
+|154|[mumuy/data_location](https://github.com/mumuy/data_location)|中华人民共和国行政区划数据【省、市、区县、乡镇街道】中国省市区镇三级四级联动地址数据（GB/T 2260）|2551|2023-02-06|
+|155|[AlloyTeam/eslint-config-alloy](https://github.com/AlloyTeam/eslint-config-alloy)|Progressive ESLint config for your React/Vue/TypeScript projects|2539|2023-04-19|
+|156|[AntSwordProject/antSword](https://github.com/AntSwordProject/antSword)|中国蚁剑是一款跨平台的开源网站管理工具。AntSword is a cross-platform website management toolkit.|2538|2023-03-04|
+|157|[code-charity/youtube](https://github.com/code-charity/youtube)|YouTube Extension: Enrich your YouTube experience & content [🧰80 lean Features][📌Longest-standing][Please👨‍👩‍👧‍👧docu. /HowTo's]⚙️⋮{🎞️☕🎛️🎧🔊⏯️🎬🎨📈🧩🧪} Youtube Player Repeat Screenshot   Hide youtube distr ...|2528|2023-05-22|
+|158|[qd-today/qd](https://github.com/qd-today/qd)|[当前版本: 20230518] QD —— 一个HTTP请求定时任务自动执行框架 base on HAR Editor and Tornado Server|2524|2023-05-22|
+|159|[iamxjb/winxin-app-watch-life.net](https://github.com/iamxjb/winxin-app-watch-life.net)|微慕小程序开源版-WordPress版微信小程序|2475|2023-03-08|
+|160|[NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider)|A visual no-code/code-free web crawler/spider一个可视化爬虫软件，可以无代码图形化设计和执行的爬虫任务|2471|2023-03-29|
+|161|[zmister2016/MrDoc](https://github.com/zmister2016/MrDoc)|mrdoc,online document system developed based on python. It is suitable for individuals and small teams to manage documents, wiki, knowledge and notes. 觅思文档，适合于个人和中小型团队的在线文档、知识库系统。|2464|2023-05-24|
+|162|[jones2000/HQChart](https://github.com/jones2000/HQChart)|HQChart - H5, 微信小程序 沪深/港股/数字货币/期货/美股 K线图(kline),走势图,缩放,拖拽,十字光标,画图工具,截图,筹码图. 分析家语法,通达信语法,(麦语法),第3方数据替换接口|2453|2023-06-13|
+|163|[mumuy/relationship](https://github.com/mumuy/relationship)|中国亲戚关系计算器 - 家庭称谓/亲戚称呼/称呼计算/辈分计算/亲戚关系算法/親戚稱呼計算機_Chinese kinship system.|2445|2023-05-11|
+|164|[HeiSir2014/M3U8-Downloader](https://github.com/HeiSir2014/M3U8-Downloader)| M3U8-Downloader 支持多线程、断点续传、加密视频下载缓存。|2421|2023-04-01|
+|165|[mindskip/xzs-mysql](https://github.com/mindskip/xzs-mysql)|学之思开源考试系统是一款 java + vue 的前后端分离的考试系统。主要优点是开发、部署简单快捷、界面设计友好、代码结构清晰。支持web端和微信小程序，能覆盖到pc机和手机等设备。 支持多种部署方式：集成部署、前后端分离部署、docker部署。|2348|2023-06-13|
+|166|[EdgeTranslate/EdgeTranslate](https://github.com/EdgeTranslate/EdgeTranslate)|A translation extension.|2341|2023-05-30|
+|167|[wendux/ajax-hook](https://github.com/wendux/ajax-hook)|Intercepting browser's http requests which made by XMLHttpRequest.|2330|2023-03-14|
+|168|[cskefu/cskefu](https://github.com/cskefu/cskefu)|🌲 春松客服，开源，免费，智能客服系统，机器人客服|2309|2023-04-03|
+|169|[CarGuo/GSYGithubAPP](https://github.com/CarGuo/GSYGithubAPP)|超完整的React Native项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，配套文章，适合全面学习，对比参考。开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便的驾车体验Σ( ...|2307|2023-04-19|
+|170|[tnfe/FFCreator](https://github.com/tnfe/FFCreator)|一个基于node.js的高速视频制作库  A fast video processing library based on node.js|2297|2023-04-04|
+|171|[woai3c/nand2tetris](https://github.com/woai3c/nand2tetris)|计算机系统要素-从零开始构建现代计算机|2269|2023-02-01|
+|172|[treadpit/wx_calendar](https://github.com/treadpit/wx_calendar)|微信小程序－日历组件 📅|2219|2023-02-04|
+|173|[feiyu563/PrometheusAlert](https://github.com/feiyu563/PrometheusAlert)|Prometheus Alert是开源的运维告警中心消息转发系统,支持主流的监控系统Prometheus,Zabbix,日志系统Graylog和数据可视化系统Grafana发出的预警消息,支持钉钉,微信,华为云短信,腾讯云短信,腾讯云电话,阿里云短信,阿里云电话等|2180|2023-05-15|
+|174|[liriliri/licia](https://github.com/liriliri/licia)|Useful utility collection with zero dependencies|2176|2023-05-27|
+|175|[sbfkcel/towxml](https://github.com/sbfkcel/towxml)|微信小程序HTML、Markdown渲染库|2170|2023-02-13|
+|176|[ciaochaos/qrbtf](https://github.com/ciaochaos/qrbtf)|An art QR code (qrcode) beautifier.  艺术二维码生成器。https://qrbtf.com|2138|2023-03-04|
+|177|[app2smile/rules](https://github.com/app2smile/rules)|iOS App去广告|2129|2023-05-19|
+|178|[nightscout/cgm-remote-monitor](https://github.com/nightscout/cgm-remote-monitor)|nightscout web monitor|2082|2023-04-14|
+|179|[craigary/nobelium](https://github.com/craigary/nobelium)|A static blog build on top of Notion and NextJS, deployed on Vercel.|2071|2023-04-06|
+|180|[we-plugin/we-cropper](https://github.com/we-plugin/we-cropper)|微信小程序图片裁剪工具|2061|2023-03-23|
+|181|[moshang-xc/lottery](https://github.com/moshang-xc/lottery)|🎉🌟✨🎈年会抽奖程序，基于 Express + Three.js的 3D 球体抽奖程序，奖品🧧🎁，文字，图片，抽奖规则均可配置，😜抽奖人员信息Excel一键导入😍，抽奖结果Excel导出😎，给你的抽奖活动带来全新酷炫体验🚀🚀🚀|2050|2023-04-20|
+|182|[thinkcmf/thinkcmf](https://github.com/thinkcmf/thinkcmf)|ThinkCMF是一款支持Swoole的开源内容管理框架，基于ThinkPHP开发，同时支持PHP-FPM和Swoole双模式，让WEB开发更快!|2045|2023-04-09|
+|183|[nagix/mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d)|A real-time 3D digital map of Tokyo's public transport system|2036|2023-04-09|
+|184|[alibaba/uirecorder](https://github.com/alibaba/uirecorder)|UI Recorder is a  multi-platform UI test recorder.|2008|2023-03-02|
+|185|[uiwjs/province-city-china](https://github.com/uiwjs/province-city-china)|🇨🇳最全最新中国【省、市、区县、乡镇街道】json,csv,sql数据|1964|2023-02-04|
+|186|[hua1995116/webchat](https://github.com/hua1995116/webchat)|:speaker: Websocket project based on vue（基于vue2.0的实时聊天项目）|1945|2023-05-15|
+|187|[yangxi0126/javaScript](https://github.com/yangxi0126/javaScript)|前端特效存档|1888|2023-05-10|
+|188|[Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework)| 腾讯云开发云原生一体化部署工具 🚀  CloudBase Framework：一键部署，不限框架语言，云端一体化开发，基于Serverless 架构。A front-end and back-end integrated deployment tool. One-click deploy to serverless architecture. https://docs.cloudbase.net ...|1879|2023-04-07|
+|189|[vuejs/v2.cn.vuejs.org](https://github.com/vuejs/v2.cn.vuejs.org)|🇨🇳 Chinese translation for v2.vuejs.org|1859|2023-03-27|
+|190|[cnpm/cnpm](https://github.com/cnpm/cnpm)|cnpm: npm client for China mirror of npm|1856|2023-05-02|
+|191|[hoothin/UserScripts](https://github.com/hoothin/UserScripts)|Greasemonkey scripts|1853|2023-04-11|
+|192|[ali-sdk/ali-oss](https://github.com/ali-sdk/ali-oss)|Aliyun OSS(Object Storage Service) JavaScript SDK for the Browser and Node.js|1816|2023-06-13|
+|193|[KingRan/KR](https://github.com/KingRan/KR)|-|1809|2023-04-21|
+|194|[Nerver4Ever/SevenSha1UIAdvancedHelper](https://github.com/Nerver4Ever/SevenSha1UIAdvancedHelper)|转存助手ui优化版|1797|2023-03-16|
+|195|[cixingguangming55555/wechat-bot](https://github.com/cixingguangming55555/wechat-bot)|带二次开发接口的PC微信聊天机器人|1770|2023-04-12|
+|196|[sh-dv/hat.sh](https://github.com/sh-dv/hat.sh)|Encrypt and Decrypt files securely in your browser.|1761|2023-03-26|
+|197|[feeddd/feeds](https://github.com/feeddd/feeds)|免费的公众号 RSS，支持扩展任意 APP|1760|2023-05-21|
+|198|[fossasia/pslab-desktop](https://github.com/fossasia/pslab-desktop)|PSLab Desktop Application https://pslab.io|1758|2023-04-17|
+|199|[jishi/node-sonos-http-api](https://github.com/jishi/node-sonos-http-api)|An HTTP API bridge for Sonos easing automation. Hostable on any node.js capable device, like a raspberry pi or similar.|1750|2023-04-30|
+|200|[logoove/weui](https://github.com/logoove/weui)|weui+是在weui和zepto基础上开发的增强UI组件,目前分为表单,基础,组件,js插件四大类,共计百余项功能,是最全的weui样式|1749|2023-06-11|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
