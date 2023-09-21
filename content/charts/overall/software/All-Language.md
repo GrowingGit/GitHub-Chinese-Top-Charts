@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > All Language
-<sub>数据更新: 2023-09-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-09-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Language|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -174,37 +174,37 @@
 |167|[rrweb-io/rrweb](https://github.com/rrweb-io/rrweb)|record and replay the web|13308|TypeScript|2023-04-08|
 |168|[myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet)|The project has been migrated to @wolf-table/table https://github.com/wolf-table/table|13306|JavaScript|2023-06-13|
 |169|[BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools)|🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。|13207|C#|2023-04-07|
-|170|[TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)|微信小助手|13205|Objective-C|2023-03-21|
-|171|[lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)|Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la ...|13170|C|2023-04-15|
-|172|[skywind3000/kcp](https://github.com/skywind3000/kcp)|:zap: KCP - A Fast and Reliable ARQ Protocol|12955|C|2023-04-03|
-|173|[YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)|🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！|12949|Java|2023-04-21|
-|174|[Tencent/rapidjson](https://github.com/Tencent/rapidjson)|A fast JSON parser/generator for C++ with both SAX/DOM style API|12939|C++|2023-04-20|
-|175|[tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)|A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.|12896|TypeScript|2023-06-13|
-|176|[microsoft/nni](https://github.com/microsoft/nni)|An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.|12755|Python|2023-04-16|
-|177|[dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub)|github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题|12739|C#|2023-05-12|
-|178|[docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar)|开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速|12735|JavaScript|2023-05-08|
-|179|[tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)|🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享|12698|Python|2023-04-19|
-|180|[Instagram/IGListKit](https://github.com/Instagram/IGListKit)|A data-driven UICollectionView framework for building fast and flexible lists.|12607|Objective-C|2023-04-12|
-|181|[SigNoz/signoz](https://github.com/SigNoz/signoz)|SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc ...|12393|TypeScript|2023-04-09|
-|182|[LuckSiege/PictureSelector](https://github.com/LuckSiege/PictureSelector)|Picture Selector Library for Android or 图片选择器|12341|Java|2023-04-09|
-|183|[mamoe/mirai](https://github.com/mamoe/mirai)|高效率 QQ 机器人支持库|12284|Kotlin|2023-04-09|
-|184|[avwo/whistle](https://github.com/avwo/whistle)|HTTP, HTTP2, HTTPS, Websocket debugging proxy|12284|JavaScript|2023-04-14|
-|185|[swaywm/sway](https://github.com/swaywm/sway)|i3-compatible Wayland compositor|12184|C|2023-04-07|
-|186|[xx025/carrot](https://github.com/xx025/carrot)|Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点|12127|-|2023-06-13|
-|187|[dromara/Sa-Token](https://github.com/dromara/Sa-Token)|这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...|12075|Java|2023-04-14|
-|188|[cloudwu/skynet](https://github.com/cloudwu/skynet)|A lightweight online game framework|12012|C|2023-05-16|
-|189|[alibaba/tengine](https://github.com/alibaba/tengine)|A distribution of Nginx with some advanced features|11970|C|2023-04-10|
-|190|[pjialin/py12306](https://github.com/pjialin/py12306)|🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理 |11944|Python|2023-04-26|
-|191|[dmlc/dgl](https://github.com/dmlc/dgl)|Python package built to ease deep learning on graph, on top of existing DL frameworks.|11865|Python|2023-06-13|
-|192|[PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub)|Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)|11831|Python|2023-06-06|
-|193|[emqx/emqx](https://github.com/emqx/emqx)|The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles|11768|Erlang|2023-06-13|
-|194|[pagehelper/Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper)|Mybatis通用分页插件|11722|Java|2023-06-03|
-|195|[alibaba/hooks](https://github.com/alibaba/hooks)|A high-quality & reliable React Hooks library.|11693|TypeScript|2023-04-11|
-|196|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|11658|Lua|2023-04-16|
-|197|[jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service)|🏄 Embed/reason/rank images and sentences with CLIP models|11657|Python|2023-06-13|
-|198|[antvis/G2](https://github.com/antvis/G2)|📊 A concise and progressive visualization grammar.|11576|TypeScript|2023-04-16|
-|199|[cfug/dio](https://github.com/cfug/dio)|A powerful HTTP package for Dart/Flutter, which supports Global settings, Interceptors, FormData, Aborting and canceling a request, Files uploading and downloading, Requests timeout, Custom adapters,  ...|11555|Dart|2023-04-13|
-|200|[casey/just](https://github.com/casey/just)|🤖 Just a command runner|11500|Rust|2023-04-09|
+|170|[lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region)|Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming la ...|13170|C|2023-04-15|
+|171|[skywind3000/kcp](https://github.com/skywind3000/kcp)|:zap: KCP - A Fast and Reliable ARQ Protocol|12955|C|2023-04-03|
+|172|[YunaiV/ruoyi-vue-pro](https://github.com/YunaiV/ruoyi-vue-pro)|🔥 官方推荐 🔥 RuoYi-Vue 全新 Pro 版本，优化重构所有功能。基于 Spring Boot + MyBatis Plus + Vue & Element 实现的后台管理系统 + 微信小程序，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。你的 ⭐️ Star ⭐️，是作者生发的动力！|12949|Java|2023-04-21|
+|173|[Tencent/rapidjson](https://github.com/Tencent/rapidjson)|A fast JSON parser/generator for C++ with both SAX/DOM style API|12939|C++|2023-04-20|
+|174|[tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)|A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.|12896|TypeScript|2023-06-13|
+|175|[microsoft/nni](https://github.com/microsoft/nni)|An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.|12755|Python|2023-04-16|
+|176|[dotnetcore/FastGithub](https://github.com/dotnetcore/FastGithub)|github加速神器，解决github打不开、用户头像无法加载、releases无法上传下载、git-clone、git-pull、git-push失败等问题|12739|C#|2023-05-12|
+|177|[docmirror/dev-sidecar](https://github.com/docmirror/dev-sidecar)|开发者边车，github打不开，github加速，git clone加速，git release下载加速，stackoverflow加速|12735|JavaScript|2023-05-08|
+|178|[tgbot-collection/YYeTsBot](https://github.com/tgbot-collection/YYeTsBot)|🎬 人人影视 机器人和网站，包含人人影视全部资源以及众多网友的网盘分享|12698|Python|2023-04-19|
+|179|[Instagram/IGListKit](https://github.com/Instagram/IGListKit)|A data-driven UICollectionView framework for building fast and flexible lists.|12607|Objective-C|2023-04-12|
+|180|[SigNoz/signoz](https://github.com/SigNoz/signoz)|SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc ...|12393|TypeScript|2023-04-09|
+|181|[LuckSiege/PictureSelector](https://github.com/LuckSiege/PictureSelector)|Picture Selector Library for Android or 图片选择器|12341|Java|2023-04-09|
+|182|[mamoe/mirai](https://github.com/mamoe/mirai)|高效率 QQ 机器人支持库|12284|Kotlin|2023-04-09|
+|183|[avwo/whistle](https://github.com/avwo/whistle)|HTTP, HTTP2, HTTPS, Websocket debugging proxy|12284|JavaScript|2023-04-14|
+|184|[swaywm/sway](https://github.com/swaywm/sway)|i3-compatible Wayland compositor|12184|C|2023-04-07|
+|185|[xx025/carrot](https://github.com/xx025/carrot)|Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点|12127|-|2023-06-13|
+|186|[dromara/Sa-Token](https://github.com/dromara/Sa-Token)|这可能是史上功能最全的Java权限认证框架！目前已集成——登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0、踢人下线、Redis集成、前后台分离、记住我模式、模拟他人账号、临时身份切换、账号封禁、多账号认证体系、注解式鉴权、路由拦截式鉴权、花式token生成、自动续签、同端互斥登录、会话治理、密码加密、jwt集成、Spring集成、WebFlux集成...|12075|Java|2023-04-14|
+|187|[cloudwu/skynet](https://github.com/cloudwu/skynet)|A lightweight online game framework|12012|C|2023-05-16|
+|188|[alibaba/tengine](https://github.com/alibaba/tengine)|A distribution of Nginx with some advanced features|11970|C|2023-04-10|
+|189|[pjialin/py12306](https://github.com/pjialin/py12306)|🚂 12306 购票助手，支持集群，多账号，多任务购票以及 Web 页面管理 |11944|Python|2023-04-26|
+|190|[dmlc/dgl](https://github.com/dmlc/dgl)|Python package built to ease deep learning on graph, on top of existing DL frameworks.|11865|Python|2023-06-13|
+|191|[PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub)|Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)|11831|Python|2023-06-06|
+|192|[emqx/emqx](https://github.com/emqx/emqx)|The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles|11768|Erlang|2023-06-13|
+|193|[pagehelper/Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper)|Mybatis通用分页插件|11722|Java|2023-06-03|
+|194|[alibaba/hooks](https://github.com/alibaba/hooks)|A high-quality & reliable React Hooks library.|11693|TypeScript|2023-04-11|
+|195|[apache/apisix](https://github.com/apache/apisix)|The Cloud-Native API Gateway|11658|Lua|2023-04-16|
+|196|[jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service)|🏄 Embed/reason/rank images and sentences with CLIP models|11657|Python|2023-06-13|
+|197|[antvis/G2](https://github.com/antvis/G2)|📊 A concise and progressive visualization grammar.|11576|TypeScript|2023-04-16|
+|198|[cfug/dio](https://github.com/cfug/dio)|A powerful HTTP package for Dart/Flutter, which supports Global settings, Interceptors, FormData, Aborting and canceling a request, Files uploading and downloading, Requests timeout, Custom adapters,  ...|11555|Dart|2023-04-13|
+|199|[casey/just](https://github.com/casey/just)|🤖 Just a command runner|11500|Rust|2023-04-09|
+|200|[dataease/dataease](https://github.com/dataease/dataease)|人人可用的开源数据可视化分析工具。|11474|Java|2023-06-12|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
