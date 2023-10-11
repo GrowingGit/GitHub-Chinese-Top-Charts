@@ -205,6 +205,7 @@
 |198|[JonMagon/KDiskMark](https://github.com/JonMagon/KDiskMark)|A simple open-source disk benchmark tool for Linux distros|580|2023-01-10|
 |199|[czyt1988/SARibbon](https://github.com/czyt1988/SARibbon)|Ribbon Control for Qt|580|2022-11-28|
 |200|[mhogomchungu/media-downloader](https://github.com/mhogomchungu/media-downloader)|Media Downloader is a Qt/C++ front end to youtube-dl|579|2022-12-11|
+|201|[geektcp/everwar](https://github.com/geektcp/everwar)|Everwar魔兽世界|370|2017-1-11|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
