@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > All Language
-<sub>数据更新: 2023-10-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-10-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Language|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -155,56 +155,56 @@
 |148|[vipshop/vjtools](https://github.com/vipshop/vjtools)|The vip.com's java coding standard, libraries and tools|7469|Java|2023-05-02|
 |149|[MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource)|Xiaomi Mobile Phone Kernel OpenSource|7461|-|2023-05-22|
 |150|[zfile-dev/zfile](https://github.com/zfile-dev/zfile)|在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载|7379|Java|2023-05-16|
-|151|[billryan/resume](https://github.com/billryan/resume)|An elegant \LaTeX\ résumé template. 大陆镜像 https://gods.coding.net/p/resume/git|7355|TeX|2023-04-30|
-|152|[bchavez/Bogus](https://github.com/bchavez/Bogus)|:card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.|7320|C#|2023-06-10|
-|153|[wildfirechat/im-server](https://github.com/wildfirechat/im-server)|即时通讯(IM)系统|7222|Java|2023-05-27|
-|154|[shidenggui/easytrader](https://github.com/shidenggui/easytrader)|提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件|7196|Python|2023-05-29|
-|155|[aidenybai/million](https://github.com/aidenybai/million)|The Virtual DOM Replacement for React (up to 7️⃣0️⃣% faster!)|7170|TypeScript|2023-05-22|
-|156|[onsi/ginkgo](https://github.com/onsi/ginkgo)|A Modern Testing Framework for Go|7167|Go|2023-05-22|
-|157|[microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio)|Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit ...|7156|TypeScript|2023-06-13|
-|158|[DouyinFE/semi-design](https://github.com/DouyinFE/semi-design)|🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,739+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De ...|6977|TypeScript|2023-05-22|
-|159|[renzifeng/ZFPlayer](https://github.com/renzifeng/ZFPlayer)|Support customization of any player SDK and control layer(支持定制任何播放器SDK和控制层)|6925|Objective-C|2023-06-06|
-|160|[betaflight/betaflight](https://github.com/betaflight/betaflight)|Open Source Flight Controller Firmware|6923|C|2023-06-13|
-|161|[PaddlePaddle/PaddleGAN](https://github.com/PaddlePaddle/PaddleGAN)|PaddlePaddle GAN library, including lots of interesting applications like First-Order motion transfer,  Wav2Lip, picture repair, image editing, photo2cartoon, image style transfer, GPEN, and so on.|6921|Python|2023-04-29|
-|162|[lenve/VBlog](https://github.com/lenve/VBlog)|V部落，Vue+SpringBoot实现的多用户博客管理平台!|6917|Java|2023-05-28|
-|163|[dataabc/weiboSpider](https://github.com/dataabc/weiboSpider)|新浪微博爬虫，用python爬取新浪微博数据|6910|Python|2023-05-23|
-|164|[Terry-Mao/goim](https://github.com/Terry-Mao/goim)|goim|6860|Go|2023-05-05|
-|165|[jynew/jynew](https://github.com/jynew/jynew)|JinYongLegend-like RPG Game Framework with full Modding support|6850|C#|2023-05-14|
-|166|[yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming)|哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.|6836|Kotlin|2023-05-22|
-|167|[ethers-io/ethers.js](https://github.com/ethers-io/ethers.js)|Complete Ethereum library and wallet implementation in JavaScript.|6782|TypeScript|2023-06-13|
-|168|[idea4good/GuiLite](https://github.com/idea4good/GuiLite)|✔️The smallest header-only GUI library(4 KLOC) for all platforms|6778|C++|2023-05-26|
-|169|[Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)| 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)|6731|Python|2023-05-29|
-|170|[YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool)|Office Tool Plus localization projects.|6708|-|2023-06-06|
-|171|[akfamily/akshare](https://github.com/akfamily/akshare)|AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库|6654|Python|2023-06-13|
-|172|[oldratlee/translations](https://github.com/oldratlee/translations)|🐼  Chinese translations for classic IT resources|6591|-|2023-06-05|
-|173|[alibaba/flutter_boost](https://github.com/alibaba/flutter_boost)|FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts|6517|Dart|2023-06-12|
-|174|[shmilylty/OneForAll](https://github.com/shmilylty/OneForAll)|OneForAll是一款功能强大的子域收集工具|6489|Python|2023-05-23|
-|175|[zouzg/mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui)|mybatis-generator界面工具，让你生成代码更简单更快捷|6475|Java|2023-06-07|
-|176|[7kms/react-illustration-series](https://github.com/7kms/react-illustration-series)|图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.|6461|TypeScript|2023-06-02|
-|177|[kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)|Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)|6444|-|2023-05-31|
-|178|[mindoc-org/mindoc](https://github.com/mindoc-org/mindoc)|Golang实现的基于beego框架的接口在线文档管理系统|6440|Go|2023-05-22|
-|179|[lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)|🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送   支持 QQ、Telegram、Discord、微信 等平台|6429|Python|2023-05-22|
-|180|[alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local)|📌 TransmittableThreadLocal (TTL), the missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using ...|6415|Java|2023-05-22|
-|181|[ccfos/nightingale](https://github.com/ccfos/nightingale)|An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.|6414|Go|2023-05-22|
-|182|[pymumu/smartdns](https://github.com/pymumu/smartdns)|A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。|6359|C|2023-05-21|
-|183|[goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn)|The most trusted Go module proxy in China.|6357|HTML|2023-05-13|
-|184|[privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD)|致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式|6334|-|2023-05-21|
-|185|[thu-ml/tianshou](https://github.com/thu-ml/tianshou)|An elegant PyTorch deep reinforcement learning library.|6309|Python|2023-04-30|
-|186|[Vanessa219/vditor](https://github.com/Vanessa219/vditor)|♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.|6290|TypeScript|2023-05-14|
-|187|[toly1994328/FlutterUnit](https://github.com/toly1994328/FlutterUnit)|【Flutter 集录指南 App】The unity of flutter, The unity of coder.|6231|Dart|2023-05-24|
-|188|[xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)|ehviewer，用爱发电，快乐前行|6211|Java|2023-05-17|
-|189|[yoshiko2/Movie_Data_Capture](https://github.com/yoshiko2/Movie_Data_Capture)|Local Movies Organizer|6200|Python|2023-06-09|
-|190|[bytedance/xgplayer](https://github.com/bytedance/xgplayer)|A HTML5 video player with a parser that saves traffic|6139|JavaScript|2023-05-22|
-|191|[didi/KnowStreaming](https://github.com/didi/KnowStreaming)|一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛|6137|Java|2023-06-06|
-|192|[rescript-lang/rescript-compiler](https://github.com/rescript-lang/rescript-compiler)|The compiler for ReScript.|6136|OCaml|2023-05-22|
-|193|[alibaba/x-render](https://github.com/alibaba/x-render)|🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案|6135|TypeScript|2023-06-13|
-|194|[WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)|WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm ...|5995|C++|2023-05-22|
-|195|[cloudwego/kitex](https://github.com/cloudwego/kitex)|Go RPC framework with high-performance and strong-extensibility for building micro-services.|5911|Go|2023-05-22|
-|196|[gsdios/SDAutoLayout](https://github.com/gsdios/SDAutoLayout)|One line of code to implement automatic layout.  一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。The most easy way for autoLayout. Based on runtime.|5911|Objective-C|2023-05-12|
-|197|[fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid)|:ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo|5879|JavaScript|2023-05-10|
-|198|[kubeedge/kubeedge](https://github.com/kubeedge/kubeedge)|Kubernetes Native Edge Computing Framework (project under CNCF)|5871|Go|2023-06-13|
-|199|[cxxr/better-java](https://github.com/cxxr/better-java)|Resources for writing modern Java|5751|-|2023-05-04|
-|200|[alphacep/vosk-api](https://github.com/alphacep/vosk-api)|Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node|5744|Jupyter Notebook|2023-06-01|
+|151|[bchavez/Bogus](https://github.com/bchavez/Bogus)|:card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.|7320|C#|2023-06-10|
+|152|[wildfirechat/im-server](https://github.com/wildfirechat/im-server)|即时通讯(IM)系统|7222|Java|2023-05-27|
+|153|[shidenggui/easytrader](https://github.com/shidenggui/easytrader)|提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件|7196|Python|2023-05-29|
+|154|[aidenybai/million](https://github.com/aidenybai/million)|The Virtual DOM Replacement for React (up to 7️⃣0️⃣% faster!)|7170|TypeScript|2023-05-22|
+|155|[onsi/ginkgo](https://github.com/onsi/ginkgo)|A Modern Testing Framework for Go|7167|Go|2023-05-22|
+|156|[microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio)|Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit ...|7156|TypeScript|2023-06-13|
+|157|[DouyinFE/semi-design](https://github.com/DouyinFE/semi-design)|🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,739+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De ...|6977|TypeScript|2023-05-22|
+|158|[renzifeng/ZFPlayer](https://github.com/renzifeng/ZFPlayer)|Support customization of any player SDK and control layer(支持定制任何播放器SDK和控制层)|6925|Objective-C|2023-06-06|
+|159|[betaflight/betaflight](https://github.com/betaflight/betaflight)|Open Source Flight Controller Firmware|6923|C|2023-06-13|
+|160|[lenve/VBlog](https://github.com/lenve/VBlog)|V部落，Vue+SpringBoot实现的多用户博客管理平台!|6917|Java|2023-05-28|
+|161|[dataabc/weiboSpider](https://github.com/dataabc/weiboSpider)|新浪微博爬虫，用python爬取新浪微博数据|6910|Python|2023-05-23|
+|162|[Terry-Mao/goim](https://github.com/Terry-Mao/goim)|goim|6860|Go|2023-05-05|
+|163|[jynew/jynew](https://github.com/jynew/jynew)|JinYongLegend-like RPG Game Framework with full Modding support|6850|C#|2023-05-14|
+|164|[yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming)|哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.|6836|Kotlin|2023-05-22|
+|165|[ethers-io/ethers.js](https://github.com/ethers-io/ethers.js)|Complete Ethereum library and wallet implementation in JavaScript.|6782|TypeScript|2023-06-13|
+|166|[idea4good/GuiLite](https://github.com/idea4good/GuiLite)|✔️The smallest header-only GUI library(4 KLOC) for all platforms|6778|C++|2023-05-26|
+|167|[Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)| 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)|6731|Python|2023-05-29|
+|168|[YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool)|Office Tool Plus localization projects.|6708|-|2023-06-06|
+|169|[akfamily/akshare](https://github.com/akfamily/akshare)|AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库|6654|Python|2023-06-13|
+|170|[oldratlee/translations](https://github.com/oldratlee/translations)|🐼  Chinese translations for classic IT resources|6591|-|2023-06-05|
+|171|[alibaba/flutter_boost](https://github.com/alibaba/flutter_boost)|FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts|6517|Dart|2023-06-12|
+|172|[shmilylty/OneForAll](https://github.com/shmilylty/OneForAll)|OneForAll是一款功能强大的子域收集工具|6489|Python|2023-05-23|
+|173|[zouzg/mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui)|mybatis-generator界面工具，让你生成代码更简单更快捷|6475|Java|2023-06-07|
+|174|[7kms/react-illustration-series](https://github.com/7kms/react-illustration-series)|图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.|6461|TypeScript|2023-06-02|
+|175|[kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)|Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)|6444|-|2023-05-31|
+|176|[mindoc-org/mindoc](https://github.com/mindoc-org/mindoc)|Golang实现的基于beego框架的接口在线文档管理系统|6440|Go|2023-05-22|
+|177|[lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)|🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送   支持 QQ、Telegram、Discord、微信 等平台|6429|Python|2023-05-22|
+|178|[alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local)|📌 TransmittableThreadLocal (TTL), the missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using ...|6415|Java|2023-05-22|
+|179|[ccfos/nightingale](https://github.com/ccfos/nightingale)|An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.|6414|Go|2023-05-22|
+|180|[pymumu/smartdns](https://github.com/pymumu/smartdns)|A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。|6359|C|2023-05-21|
+|181|[goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn)|The most trusted Go module proxy in China.|6357|HTML|2023-05-13|
+|182|[privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD)|致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式|6334|-|2023-05-21|
+|183|[Vanessa219/vditor](https://github.com/Vanessa219/vditor)|♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.|6290|TypeScript|2023-05-14|
+|184|[toly1994328/FlutterUnit](https://github.com/toly1994328/FlutterUnit)|【Flutter 集录指南 App】The unity of flutter, The unity of coder.|6231|Dart|2023-05-24|
+|185|[xiaojieonly/Ehviewer_CN_SXJ](https://github.com/xiaojieonly/Ehviewer_CN_SXJ)|ehviewer，用爱发电，快乐前行|6211|Java|2023-05-17|
+|186|[yoshiko2/Movie_Data_Capture](https://github.com/yoshiko2/Movie_Data_Capture)|Local Movies Organizer|6200|Python|2023-06-09|
+|187|[bytedance/xgplayer](https://github.com/bytedance/xgplayer)|A HTML5 video player with a parser that saves traffic|6139|JavaScript|2023-05-22|
+|188|[didi/KnowStreaming](https://github.com/didi/KnowStreaming)|一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛|6137|Java|2023-06-06|
+|189|[rescript-lang/rescript-compiler](https://github.com/rescript-lang/rescript-compiler)|The compiler for ReScript.|6136|OCaml|2023-05-22|
+|190|[alibaba/x-render](https://github.com/alibaba/x-render)|🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案|6135|TypeScript|2023-06-13|
+|191|[WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)|WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm ...|5995|C++|2023-05-22|
+|192|[cloudwego/kitex](https://github.com/cloudwego/kitex)|Go RPC framework with high-performance and strong-extensibility for building micro-services.|5911|Go|2023-05-22|
+|193|[gsdios/SDAutoLayout](https://github.com/gsdios/SDAutoLayout)|One line of code to implement automatic layout.  一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。The most easy way for autoLayout. Based on runtime.|5911|Objective-C|2023-05-12|
+|194|[fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid)|:ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo|5879|JavaScript|2023-05-10|
+|195|[kubeedge/kubeedge](https://github.com/kubeedge/kubeedge)|Kubernetes Native Edge Computing Framework (project under CNCF)|5871|Go|2023-06-13|
+|196|[cxxr/better-java](https://github.com/cxxr/better-java)|Resources for writing modern Java|5751|-|2023-05-04|
+|197|[alphacep/vosk-api](https://github.com/alphacep/vosk-api)|Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node|5744|Jupyter Notebook|2023-06-01|
+|198|[apernet/hysteria](https://github.com/apernet/hysteria)|Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)|5704|Go|2023-06-12|
+|199|[knownsec/404StarLink](https://github.com/knownsec/404StarLink)|404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目|5680|-|2023-06-12|
+|200|[pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog)|Educational blog posts for Rust beginners|5680|Rust|2023-05-11|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
