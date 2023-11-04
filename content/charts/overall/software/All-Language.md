@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > All Language
-<sub>数据更新: 2023-11-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Language|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -199,12 +199,12 @@
 |192|[gsdios/SDAutoLayout](https://github.com/gsdios/SDAutoLayout)|One line of code to implement automatic layout.  一行代码搞定自动布局！支持Cell和Tableview高度自适应，Label和ScrollView内容自适应，致力于做最简单易用的AutoLayout库。The most easy way for autoLayout. Based on runtime.|5911|Objective-C|2023-05-12|
 |193|[fluid-dev/hexo-theme-fluid](https://github.com/fluid-dev/hexo-theme-fluid)|:ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo|5879|JavaScript|2023-05-10|
 |194|[kubeedge/kubeedge](https://github.com/kubeedge/kubeedge)|Kubernetes Native Edge Computing Framework (project under CNCF)|5871|Go|2023-06-13|
-|195|[cxxr/better-java](https://github.com/cxxr/better-java)|Resources for writing modern Java|5751|-|2023-05-04|
-|196|[alphacep/vosk-api](https://github.com/alphacep/vosk-api)|Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node|5744|Jupyter Notebook|2023-06-01|
-|197|[apernet/hysteria](https://github.com/apernet/hysteria)|Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)|5704|Go|2023-06-12|
-|198|[knownsec/404StarLink](https://github.com/knownsec/404StarLink)|404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目|5680|-|2023-06-12|
-|199|[pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog)|Educational blog posts for Rust beginners|5680|Rust|2023-05-11|
-|200|[XINCGer/Unity3DTraining](https://github.com/XINCGer/Unity3DTraining)|【Unity杂货铺】unity大杂烩~|5676|C#|2023-06-13|
+|195|[alphacep/vosk-api](https://github.com/alphacep/vosk-api)|Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node|5744|Jupyter Notebook|2023-06-01|
+|196|[apernet/hysteria](https://github.com/apernet/hysteria)|Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)|5704|Go|2023-06-12|
+|197|[knownsec/404StarLink](https://github.com/knownsec/404StarLink)|404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目|5680|-|2023-06-12|
+|198|[pretzelhammer/rust-blog](https://github.com/pretzelhammer/rust-blog)|Educational blog posts for Rust beginners|5680|Rust|2023-05-11|
+|199|[XINCGer/Unity3DTraining](https://github.com/XINCGer/Unity3DTraining)|【Unity杂货铺】unity大杂烩~|5676|C#|2023-06-13|
+|200|[nilaoda/BBDown](https://github.com/nilaoda/BBDown)|Bilibili Downloader. 一款命令行式哔哩哔哩下载器.|5623|C#|2023-06-09|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
