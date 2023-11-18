@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > All Language
-<sub>数据更新: 2023-11-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Language|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -91,120 +91,120 @@
 |84|[baidu/amis](https://github.com/baidu/amis)|前端低代码框架，通过 JSON 配置就能生成各种页面。|13907|TypeScript|2023-05-22|
 |85|[dream-num/Luckysheet](https://github.com/dream-num/Luckysheet)|Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.|13735|JavaScript|2023-05-22|
 |86|[ent/ent](https://github.com/ent/ent)|An entity framework for Go|13512|Go|2023-05-22|
-|87|[alibaba/DataX](https://github.com/alibaba/DataX)|DataX是阿里云DataWorks数据集成的开源版本。|13469|Java|2023-05-18|
-|88|[zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)|Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0 API实现，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网。|13398|Python|2023-06-12|
-|89|[myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet)|The project has been migrated to @wolf-table/table https://github.com/wolf-table/table|13306|JavaScript|2023-06-13|
-|90|[tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)|A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.|12896|TypeScript|2023-06-13|
-|91|[xx025/carrot](https://github.com/xx025/carrot)|Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点|12127|-|2023-06-13|
-|92|[dmlc/dgl](https://github.com/dmlc/dgl)|Python package built to ease deep learning on graph, on top of existing DL frameworks.|11865|Python|2023-06-13|
-|93|[PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub)|Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)|11831|Python|2023-06-06|
-|94|[emqx/emqx](https://github.com/emqx/emqx)|The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles|11768|Erlang|2023-06-13|
-|95|[pagehelper/Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper)|Mybatis通用分页插件|11722|Java|2023-06-03|
-|96|[jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service)|🏄 Embed/reason/rank images and sentences with CLIP models|11657|Python|2023-06-13|
-|97|[dataease/dataease](https://github.com/dataease/dataease)|人人可用的开源数据可视化分析工具。|11474|Java|2023-06-12|
-|98|[go-admin-team/go-admin](https://github.com/go-admin-team/go-admin)|基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.d ...|9273|Go|2023-06-10|
-|99|[didi/cube-ui](https://github.com/didi/cube-ui)|:large_orange_diamond: A fantastic mobile ui lib implement by Vue|9047|JavaScript|2023-06-07|
-|100|[sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS)|A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨|8998|Objective-C|2023-06-11|
-|101|[pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)|A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.|8890|Swift|2023-06-11|
-|102|[hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)|A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for ...|8736|C++|2023-05-22|
-|103|[debezium/debezium](https://github.com/debezium/debezium)|Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.|8579|Java|2023-06-13|
-|104|[chaitin/xray](https://github.com/chaitin/xray)|一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc   使用之前务必先阅读文档|8529|Vue|2023-05-24|
-|105|[Tencent/xLua](https://github.com/Tencent/xLua)|xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.|8488|C|2023-06-13|
-|106|[brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)|大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP|8396|-|2023-06-02|
-|107|[hoochanlon/hamulete](https://github.com/hoochanlon/hamulete)|🏔️ChatGPT、软件程序各类镜像，国立台湾大学、国立新加坡大学、早稻田大学、东京大学、中国与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。|8395|Python|2023-06-11|
-|108|[sass/node-sass](https://github.com/sass/node-sass)|:rainbow: Node.js bindings to libsass|8376|C++|2023-05-22|
-|109|[swaggo/swag](https://github.com/swaggo/swag)|Automatically generate RESTful API documentation with Swagger 2.0 for Go.|8303|Go|2023-06-09|
-|110|[quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy)|Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust|8241|Rust|2023-06-13|
-|111|[asweigart/pyautogui](https://github.com/asweigart/pyautogui)|A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.|8201|Python|2023-05-28|
-|112|[prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)|Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi ...|8126|Python|2023-05-22|
-|113|[hs-web/hsweb-framework](https://github.com/hs-web/hsweb-framework)|hsweb (haʊs wɛb) 是一个基于spring-boot 2.x开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。|8068|Java|2023-06-12|
-|114|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 macOS 平台的翻译和 OCR 软件。|8043|-|2023-05-28|
-|115|[kaina404/FlutterDouBan](https://github.com/kaina404/FlutterDouBan)|🔥🔥🔥Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉。（ https://img.xuvip.top/douyademo.mp4）|8013|Dart|2023-05-22|
-|116|[thinkgem/jeesite](https://github.com/thinkgem/jeesite)|Java rapid development platform, based (Spring Boot, Spring MVC, Apache Shiro, MyBatis, Beetl, Bootstrap, AdminLTE), online code generation, including modules:  Organization, role users, menu and butt ...|7895|JavaScript|2023-05-28|
-|117|[moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData)|Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。|7865|Go|2023-06-10|
-|118|[JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)|微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 7.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.|7846|C#|2023-05-20|
-|119|[xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base)|图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com  |7766|-|2023-05-21|
-|120|[alibaba/otter](https://github.com/alibaba/otter)|阿里巴巴分布式数据库同步系统(解决中美异地机房)|7705|Java|2023-05-31|
-|121|[alibaba/MNN](https://github.com/alibaba/MNN)|MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba|7693|C++|2023-06-08|
-|122|[Tencent/libco](https://github.com/Tencent/libco)|libco is a coroutine library which is widely used in wechat  back-end service. It has been running on tens of thousands of machines since 2013.|7668|C++|2023-06-08|
-|123|[MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource)|Xiaomi Mobile Phone Kernel OpenSource|7461|-|2023-05-22|
-|124|[bchavez/Bogus](https://github.com/bchavez/Bogus)|:card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.|7320|C#|2023-06-10|
-|125|[wildfirechat/im-server](https://github.com/wildfirechat/im-server)|即时通讯(IM)系统|7222|Java|2023-05-27|
-|126|[shidenggui/easytrader](https://github.com/shidenggui/easytrader)|提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件|7196|Python|2023-05-29|
-|127|[aidenybai/million](https://github.com/aidenybai/million)|The Virtual DOM Replacement for React (up to 7️⃣0️⃣% faster!)|7170|TypeScript|2023-05-22|
-|128|[onsi/ginkgo](https://github.com/onsi/ginkgo)|A Modern Testing Framework for Go|7167|Go|2023-05-22|
-|129|[microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio)|Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit ...|7156|TypeScript|2023-06-13|
-|130|[DouyinFE/semi-design](https://github.com/DouyinFE/semi-design)|🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,739+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De ...|6977|TypeScript|2023-05-22|
-|131|[renzifeng/ZFPlayer](https://github.com/renzifeng/ZFPlayer)|Support customization of any player SDK and control layer(支持定制任何播放器SDK和控制层)|6925|Objective-C|2023-06-06|
-|132|[betaflight/betaflight](https://github.com/betaflight/betaflight)|Open Source Flight Controller Firmware|6923|C|2023-06-13|
-|133|[lenve/VBlog](https://github.com/lenve/VBlog)|V部落，Vue+SpringBoot实现的多用户博客管理平台!|6917|Java|2023-05-28|
-|134|[dataabc/weiboSpider](https://github.com/dataabc/weiboSpider)|新浪微博爬虫，用python爬取新浪微博数据|6910|Python|2023-05-23|
-|135|[yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming)|哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.|6836|Kotlin|2023-05-22|
-|136|[ethers-io/ethers.js](https://github.com/ethers-io/ethers.js)|Complete Ethereum library and wallet implementation in JavaScript.|6782|TypeScript|2023-06-13|
-|137|[idea4good/GuiLite](https://github.com/idea4good/GuiLite)|✔️The smallest header-only GUI library(4 KLOC) for all platforms|6778|C++|2023-05-26|
-|138|[Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)| 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)|6731|Python|2023-05-29|
-|139|[YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool)|Office Tool Plus localization projects.|6708|-|2023-06-06|
-|140|[akfamily/akshare](https://github.com/akfamily/akshare)|AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库|6654|Python|2023-06-13|
-|141|[oldratlee/translations](https://github.com/oldratlee/translations)|🐼  Chinese translations for classic IT resources|6591|-|2023-06-05|
-|142|[alibaba/flutter_boost](https://github.com/alibaba/flutter_boost)|FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts|6517|Dart|2023-06-12|
-|143|[shmilylty/OneForAll](https://github.com/shmilylty/OneForAll)|OneForAll是一款功能强大的子域收集工具|6489|Python|2023-05-23|
-|144|[zouzg/mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui)|mybatis-generator界面工具，让你生成代码更简单更快捷|6475|Java|2023-06-07|
-|145|[7kms/react-illustration-series](https://github.com/7kms/react-illustration-series)|图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.|6461|TypeScript|2023-06-02|
-|146|[kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)|Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)|6444|-|2023-05-31|
-|147|[mindoc-org/mindoc](https://github.com/mindoc-org/mindoc)|Golang实现的基于beego框架的接口在线文档管理系统|6440|Go|2023-05-22|
-|148|[lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)|🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送   支持 QQ、Telegram、Discord、微信 等平台|6429|Python|2023-05-22|
-|149|[alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local)|📌 TransmittableThreadLocal (TTL), the missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using ...|6415|Java|2023-05-22|
-|150|[ccfos/nightingale](https://github.com/ccfos/nightingale)|An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.|6414|Go|2023-05-22|
-|151|[pymumu/smartdns](https://github.com/pymumu/smartdns)|A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。|6359|C|2023-05-21|
-|152|[privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD)|致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式|6334|-|2023-05-21|
-|153|[toly1994328/FlutterUnit](https://github.com/toly1994328/FlutterUnit)|【Flutter 集录指南 App】The unity of flutter, The unity of coder.|6231|Dart|2023-05-24|
-|154|[yoshiko2/Movie_Data_Capture](https://github.com/yoshiko2/Movie_Data_Capture)|Local Movies Organizer|6200|Python|2023-06-09|
-|155|[bytedance/xgplayer](https://github.com/bytedance/xgplayer)|A HTML5 video player with a parser that saves traffic|6139|JavaScript|2023-05-22|
-|156|[didi/KnowStreaming](https://github.com/didi/KnowStreaming)|一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛|6137|Java|2023-06-06|
-|157|[rescript-lang/rescript-compiler](https://github.com/rescript-lang/rescript-compiler)|The compiler for ReScript.|6136|OCaml|2023-05-22|
-|158|[alibaba/x-render](https://github.com/alibaba/x-render)|🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案|6135|TypeScript|2023-06-13|
-|159|[WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)|WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm ...|5995|C++|2023-05-22|
-|160|[cloudwego/kitex](https://github.com/cloudwego/kitex)|Go RPC framework with high-performance and strong-extensibility for building micro-services.|5911|Go|2023-05-22|
-|161|[kubeedge/kubeedge](https://github.com/kubeedge/kubeedge)|Kubernetes Native Edge Computing Framework (project under CNCF)|5871|Go|2023-06-13|
-|162|[alphacep/vosk-api](https://github.com/alphacep/vosk-api)|Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node|5744|Jupyter Notebook|2023-06-01|
-|163|[apernet/hysteria](https://github.com/apernet/hysteria)|Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)|5704|Go|2023-06-12|
-|164|[knownsec/404StarLink](https://github.com/knownsec/404StarLink)|404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目|5680|-|2023-06-12|
-|165|[XINCGer/Unity3DTraining](https://github.com/XINCGer/Unity3DTraining)|【Unity杂货铺】unity大杂烩~|5676|C#|2023-06-13|
-|166|[nilaoda/BBDown](https://github.com/nilaoda/BBDown)|Bilibili Downloader. 一款命令行式哔哩哔哩下载器.|5623|C#|2023-06-09|
-|167|[lanyulei/ferry](https://github.com/lanyulei/ferry)|本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。|5606|JavaScript|2023-05-30|
-|168|[raphw/byte-buddy](https://github.com/raphw/byte-buddy)|Runtime code generation for the Java virtual machine.|5599|Java|2023-06-06|
-|169|[yuuwill/1024app-android](https://github.com/yuuwill/1024app-android)|草榴官方客户端，小草客户端，Android|5598|-|2023-05-31|
-|170|[ithewei/libhv](https://github.com/ithewei/libhv)|🔥 比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.|5528|C|2023-06-08|
-|171|[illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server)|A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server|5443|JavaScript|2023-06-11|
-|172|[xiaye13579/BBLL](https://github.com/xiaye13579/BBLL)|一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV & Pad。|5400|-|2023-05-31|
-|173|[Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC)|渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cm ...|5381|PowerShell|2023-05-28|
-|174|[garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots)|Matplotlib styles for scientific plotting|5366|Python|2023-05-31|
-|175|[Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper)|Unity il2cpp reverse engineer|5273|C#|2023-05-21|
-|176|[Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN)|小巧精悍、准确、实用 GeoIP2 数据库|5212|Go|2023-05-22|
-|177|[kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1)|一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P,  树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由|5208|Brainfuck|2023-05-22|
-|178|[jeessy2/ddns-go](https://github.com/jeessy2/ddns-go)|简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain)|5195|Go|2023-05-22|
-|179|[assimon/dujiaoka](https://github.com/assimon/dujiaoka)|🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉|5112|PHP|2023-05-19|
-|180|[OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika)|Pika is a NoSQL database compatible with redis which is developed by Qihoo's infrastructure team.|5065|C++|2023-05-22|
-|181|[hellzerg/optimizer](https://github.com/hellzerg/optimizer)|The finest Windows Optimizer|5064|C#|2023-05-20|
-|182|[adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。|5051|HTML|2023-06-12|
-|183|[cjdelisle/cjdns](https://github.com/cjdelisle/cjdns)|An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.|5023|C|2023-06-06|
-|184|[kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages)|openwrt常用软件包|5012|Shell|2023-06-12|
-|185|[open-mmlab/mmcv](https://github.com/open-mmlab/mmcv)|OpenMMLab Computer Vision Foundation|5006|Python|2023-06-13|
-|186|[pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus)|PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。|4956|JavaScript|2023-05-22|
-|187|[hhyo/Archery](https://github.com/hhyo/Archery)|SQL 审核查询平台|4928|Python|2023-06-09|
-|188|[lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)|一个基于 React native 开发的音乐软件|4896|TypeScript|2023-06-10|
-|189|[mli/autocut](https://github.com/mli/autocut)|用文本编辑器剪视频|4870|Python|2023-06-01|
-|190|[nuclio/nuclio](https://github.com/nuclio/nuclio)|High-Performance Serverless event and data processing platform|4849|Go|2023-05-21|
-|191|[WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io)|❤️静态响应式网址导航网站 - webstack.cc|4833|CSS|2023-06-09|
-|192|[giscus/giscus](https://github.com/giscus/giscus)|A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:|4804|TypeScript|2023-05-20|
-|193|[open-mmlab/mmagic](https://github.com/open-mmlab/mmagic)|OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, image/video restoration/enh ...|4768|Python|2023-05-19|
-|194|[purocean/yn](https://github.com/purocean/yn)|A highly extensible Markdown editor. Version control, AI completion, mind map, documents encryption, code snippet running, integrated terminal, chart embedding, HTML applets, Reveal.js, plug-in, and m ...|4746|TypeScript|2023-05-18|
-|195|[timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)|This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec ...|4702|JavaScript|2023-05-20|
-|196|[gz-yami/mall4cloud](https://github.com/gz-yami/mall4cloud)|⭐️⭐️⭐️    Springcloud商城系统 微服务商城系统 O2O商城系统 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 |4681|Vue|2023-05-22|
-|197|[yansongda/pay](https://github.com/yansongda/pay)|可能是我用过的最优雅的 Alipay/WeChat/Unipay 的支付 SDK 扩展包了|4619|PHP|2023-05-21|
-|198|[a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor)|webfunny是一款轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.|4604|JavaScript|2023-05-21|
-|199|[MegEngine/MegEngine](https://github.com/MegEngine/MegEngine)|MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架|4522|C++|2023-05-22|
-|200|[didi/booster](https://github.com/didi/booster)|🚀Optimizer for mobile applications|4466|Kotlin|2023-05-19|
+|87|[zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)|Wechat robot based on ChatGPT,  which using OpenAI api and itchat library. 使用ChatGPT搭建微信聊天机器人，基于GPT3.5/4.0 API实现，支持个人微信、公众号、企业微信部署，能处理文本、语音和图片，访问操作系统和互联网。|13398|Python|2023-06-12|
+|88|[myliang/x-spreadsheet](https://github.com/myliang/x-spreadsheet)|The project has been migrated to @wolf-table/table https://github.com/wolf-table/table|13306|JavaScript|2023-06-13|
+|89|[tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui)|A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.|12896|TypeScript|2023-06-13|
+|90|[xx025/carrot](https://github.com/xx025/carrot)|Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点，当前100+站点|12127|-|2023-06-13|
+|91|[dmlc/dgl](https://github.com/dmlc/dgl)|Python package built to ease deep learning on graph, on top of existing DL frameworks.|11865|Python|2023-06-13|
+|92|[PaddlePaddle/PaddleHub](https://github.com/PaddlePaddle/PaddleHub)|Awesome pre-trained models toolkit based on PaddlePaddle. (400+ models including Image, Text, Audio, Video and Cross-Modal with Easy Inference & Serving)|11831|Python|2023-06-06|
+|93|[emqx/emqx](https://github.com/emqx/emqx)|The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles|11768|Erlang|2023-06-13|
+|94|[pagehelper/Mybatis-PageHelper](https://github.com/pagehelper/Mybatis-PageHelper)|Mybatis通用分页插件|11722|Java|2023-06-03|
+|95|[jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service)|🏄 Embed/reason/rank images and sentences with CLIP models|11657|Python|2023-06-13|
+|96|[dataease/dataease](https://github.com/dataease/dataease)|人人可用的开源数据可视化分析工具。|11474|Java|2023-06-12|
+|97|[go-admin-team/go-admin](https://github.com/go-admin-team/go-admin)|基于Gin + Vue + Element UI &  Arco Design & Ant Design 的前后端分离权限管理系统脚手架（包含了：多租户的支持，基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建，定时任务等）3分钟构建自己的中后台项目；项目文档》：https://www.go-admin.pro   V2 Demo： https://vue2.go-admin.d ...|9273|Go|2023-06-10|
+|98|[didi/cube-ui](https://github.com/didi/cube-ui)|:large_orange_diamond: A fantastic mobile ui lib implement by Vue|9047|JavaScript|2023-06-07|
+|99|[sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS)|A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨|8998|Objective-C|2023-06-11|
+|100|[pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)|A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.|8890|Swift|2023-06-11|
+|101|[hrydgard/ppsspp](https://github.com/hrydgard/ppsspp)|A PSP emulator for Android, Windows, Mac and Linux, written in C++. Want to contribute? Join us on Discord at https://discord.gg/5NJB6dD or just send pull requests / issues. For discussion use the for ...|8736|C++|2023-05-22|
+|102|[debezium/debezium](https://github.com/debezium/debezium)|Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.|8579|Java|2023-06-13|
+|103|[chaitin/xray](https://github.com/chaitin/xray)|一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc   使用之前务必先阅读文档|8529|Vue|2023-05-24|
+|104|[Tencent/xLua](https://github.com/Tencent/xLua)|xLua is a lua programming solution for  C# ( Unity, .Net, Mono) , it supports android, ios, windows, linux, osx, etc.|8488|C|2023-06-13|
+|105|[brightmart/nlp_chinese_corpus](https://github.com/brightmart/nlp_chinese_corpus)|大规模中文自然语言处理语料  Large Scale Chinese Corpus for NLP|8396|-|2023-06-02|
+|106|[hoochanlon/hamulete](https://github.com/hoochanlon/hamulete)|🏔️ChatGPT、软件程序各类镜像，国立台湾大学、国立新加坡大学、早稻田大学、东京大学、中国与香港重点高校及科研机构，社科、经济、系统工程类学术论文等知识库。|8395|Python|2023-06-11|
+|107|[sass/node-sass](https://github.com/sass/node-sass)|:rainbow: Node.js bindings to libsass|8376|C++|2023-05-22|
+|108|[swaggo/swag](https://github.com/swaggo/swag)|Automatically generate RESTful API documentation with Swagger 2.0 for Go.|8303|Go|2023-06-09|
+|109|[quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy)|Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust|8241|Rust|2023-06-13|
+|110|[asweigart/pyautogui](https://github.com/asweigart/pyautogui)|A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.|8201|Python|2023-05-28|
+|111|[prowler-cloud/prowler](https://github.com/prowler-cloud/prowler)|Prowler is an Open Source Security tool for AWS, Azure and GCP to perform Cloud Security best practices assessments, audits, incident response, compliance, continuous monitoring, hardening and forensi ...|8126|Python|2023-05-22|
+|112|[hs-web/hsweb-framework](https://github.com/hs-web/hsweb-framework)|hsweb (haʊs wɛb) 是一个基于spring-boot 2.x开发 ,首个使用全响应式编程的企业级后台管理系统基础项目。|8068|Java|2023-06-12|
+|113|[ripperhe/Bob](https://github.com/ripperhe/Bob)|Bob 是一款 macOS 平台的翻译和 OCR 软件。|8043|-|2023-05-28|
+|114|[kaina404/FlutterDouBan](https://github.com/kaina404/FlutterDouBan)|🔥🔥🔥Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉。（ https://img.xuvip.top/douyademo.mp4）|8013|Dart|2023-05-22|
+|115|[thinkgem/jeesite](https://github.com/thinkgem/jeesite)|Java rapid development platform, based (Spring Boot, Spring MVC, Apache Shiro, MyBatis, Beetl, Bootstrap, AdminLTE), online code generation, including modules:  Organization, role users, menu and butt ...|7895|JavaScript|2023-05-28|
+|116|[moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData)|Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。|7865|Go|2023-06-10|
+|117|[JeffreySu/WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK)|微信全平台 SDK Senparc.Weixin for C#，支持 .NET Framework 及 .NET Core、.NET 6.0、.NET 7.0。已支持微信公众号、小程序、小游戏、微信支付、企业微信/企业号、开放平台、JSSDK、微信周边等全平台。 WeChat SDK for C#.|7846|C#|2023-05-20|
+|118|[xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base)|图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com  |7766|-|2023-05-21|
+|119|[alibaba/otter](https://github.com/alibaba/otter)|阿里巴巴分布式数据库同步系统(解决中美异地机房)|7705|Java|2023-05-31|
+|120|[alibaba/MNN](https://github.com/alibaba/MNN)|MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba|7693|C++|2023-06-08|
+|121|[Tencent/libco](https://github.com/Tencent/libco)|libco is a coroutine library which is widely used in wechat  back-end service. It has been running on tens of thousands of machines since 2013.|7668|C++|2023-06-08|
+|122|[MiCode/Xiaomi_Kernel_OpenSource](https://github.com/MiCode/Xiaomi_Kernel_OpenSource)|Xiaomi Mobile Phone Kernel OpenSource|7461|-|2023-05-22|
+|123|[bchavez/Bogus](https://github.com/bchavez/Bogus)|:card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.|7320|C#|2023-06-10|
+|124|[wildfirechat/im-server](https://github.com/wildfirechat/im-server)|即时通讯(IM)系统|7222|Java|2023-05-27|
+|125|[shidenggui/easytrader](https://github.com/shidenggui/easytrader)|提供同花顺客户端/国金/华泰客户端/雪球的基金、股票自动程序化交易以及自动打新，支持跟踪 joinquant /ricequant 模拟交易 和 实盘雪球组合, 量化交易组件|7196|Python|2023-05-29|
+|126|[aidenybai/million](https://github.com/aidenybai/million)|The Virtual DOM Replacement for React (up to 7️⃣0️⃣% faster!)|7170|TypeScript|2023-05-22|
+|127|[onsi/ginkgo](https://github.com/onsi/ginkgo)|A Modern Testing Framework for Go|7167|Go|2023-05-22|
+|128|[microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio)|Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capabilit ...|7156|TypeScript|2023-06-13|
+|129|[DouyinFE/semi-design](https://github.com/DouyinFE/semi-design)|🚀A modern, comprehensive, flexible design system and React UI library. 🎨 Provide more than 2,739+ Design Tokens and powerful DSM tools, easy to build your own design system. Make Semi Design to Any De ...|6977|TypeScript|2023-05-22|
+|130|[renzifeng/ZFPlayer](https://github.com/renzifeng/ZFPlayer)|Support customization of any player SDK and control layer(支持定制任何播放器SDK和控制层)|6925|Objective-C|2023-06-06|
+|131|[betaflight/betaflight](https://github.com/betaflight/betaflight)|Open Source Flight Controller Firmware|6923|C|2023-06-13|
+|132|[lenve/VBlog](https://github.com/lenve/VBlog)|V部落，Vue+SpringBoot实现的多用户博客管理平台!|6917|Java|2023-05-28|
+|133|[dataabc/weiboSpider](https://github.com/dataabc/weiboSpider)|新浪微博爬虫，用python爬取新浪微博数据|6910|Python|2023-05-23|
+|134|[yujincheng08/BiliRoaming](https://github.com/yujincheng08/BiliRoaming)|哔哩漫游，解除B站客户端番剧区域限制的Xposed模块，并且提供其他小功能。An Xposed module that unblocks bangumi area limit of BILIBILI with miscellaneous features.|6836|Kotlin|2023-05-22|
+|135|[ethers-io/ethers.js](https://github.com/ethers-io/ethers.js)|Complete Ethereum library and wallet implementation in JavaScript.|6782|TypeScript|2023-06-13|
+|136|[idea4good/GuiLite](https://github.com/idea4good/GuiLite)|✔️The smallest header-only GUI library(4 KLOC) for all platforms|6778|C++|2023-05-26|
+|137|[Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)| 💎1MB lightweight face detection model  (1MB轻量级人脸检测模型)|6731|Python|2023-05-29|
+|138|[YerongAI/Office-Tool](https://github.com/YerongAI/Office-Tool)|Office Tool Plus localization projects.|6708|-|2023-06-06|
+|139|[akfamily/akshare](https://github.com/akfamily/akshare)|AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库|6654|Python|2023-06-13|
+|140|[oldratlee/translations](https://github.com/oldratlee/translations)|🐼  Chinese translations for classic IT resources|6591|-|2023-06-05|
+|141|[alibaba/flutter_boost](https://github.com/alibaba/flutter_boost)|FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts|6517|Dart|2023-06-12|
+|142|[shmilylty/OneForAll](https://github.com/shmilylty/OneForAll)|OneForAll是一款功能强大的子域收集工具|6489|Python|2023-05-23|
+|143|[zouzg/mybatis-generator-gui](https://github.com/zouzg/mybatis-generator-gui)|mybatis-generator界面工具，让你生成代码更简单更快捷|6475|Java|2023-06-07|
+|144|[7kms/react-illustration-series](https://github.com/7kms/react-illustration-series)|图解react源码, 用大量配图的方式, 致力于将react原理表述清楚.|6461|TypeScript|2023-06-02|
+|145|[kallaway/100-days-of-code](https://github.com/kallaway/100-days-of-code)|Fork this template for the 100 days journal - to keep yourself accountable (multiple languages available)|6444|-|2023-05-31|
+|146|[mindoc-org/mindoc](https://github.com/mindoc-org/mindoc)|Golang实现的基于beego框架的接口在线文档管理系统|6440|Go|2023-05-22|
+|147|[lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)|🚀 一键部署！真正的 AI 聊天机器人！支持ChatGPT、文心一言、Bing、Bard、ChatGLM、POE，多账号，人设调教，虚拟女仆、图片渲染、语音发送   支持 QQ、Telegram、Discord、微信 等平台|6429|Python|2023-05-22|
+|148|[alibaba/transmittable-thread-local](https://github.com/alibaba/transmittable-thread-local)|📌 TransmittableThreadLocal (TTL), the missing Java™ std lib(simple & 0-dependency) for framework/middleware, provide an enhanced InheritableThreadLocal that transmits values between threads even using ...|6415|Java|2023-05-22|
+|149|[ccfos/nightingale](https://github.com/ccfos/nightingale)|An enterprise-level cloud-native observability solution, which can be used as drop-in replacement of Prometheus for alerting and Grafana for visualization.|6414|Go|2023-05-22|
+|150|[pymumu/smartdns](https://github.com/pymumu/smartdns)|A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。|6359|C|2023-05-21|
+|151|[privacy-protection-tools/anti-AD](https://github.com/privacy-protection-tools/anti-AD)|致力于成为中文区命中率最高的广告过滤列表，实现精确的广告屏蔽和隐私保护。anti-AD现已支持AdGuardHome，dnsmasq， Surge，Pi-Hole，smartdns等网络组件。完全兼容常见的广告过滤工具所支持的各种广告过滤列表格式|6334|-|2023-05-21|
+|152|[toly1994328/FlutterUnit](https://github.com/toly1994328/FlutterUnit)|【Flutter 集录指南 App】The unity of flutter, The unity of coder.|6231|Dart|2023-05-24|
+|153|[yoshiko2/Movie_Data_Capture](https://github.com/yoshiko2/Movie_Data_Capture)|Local Movies Organizer|6200|Python|2023-06-09|
+|154|[bytedance/xgplayer](https://github.com/bytedance/xgplayer)|A HTML5 video player with a parser that saves traffic|6139|JavaScript|2023-05-22|
+|155|[didi/KnowStreaming](https://github.com/didi/KnowStreaming)|一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛|6137|Java|2023-06-06|
+|156|[rescript-lang/rescript-compiler](https://github.com/rescript-lang/rescript-compiler)|The compiler for ReScript.|6136|OCaml|2023-05-22|
+|157|[alibaba/x-render](https://github.com/alibaba/x-render)|🚴‍♀️ 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案|6135|TypeScript|2023-06-13|
+|158|[WasmEdge/WasmEdge](https://github.com/WasmEdge/WasmEdge)|WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices, sm ...|5995|C++|2023-05-22|
+|159|[cloudwego/kitex](https://github.com/cloudwego/kitex)|Go RPC framework with high-performance and strong-extensibility for building micro-services.|5911|Go|2023-05-22|
+|160|[kubeedge/kubeedge](https://github.com/kubeedge/kubeedge)|Kubernetes Native Edge Computing Framework (project under CNCF)|5871|Go|2023-06-13|
+|161|[alphacep/vosk-api](https://github.com/alphacep/vosk-api)|Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node|5744|Jupyter Notebook|2023-06-01|
+|162|[apernet/hysteria](https://github.com/apernet/hysteria)|Hysteria is a feature-packed proxy & relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)|5704|Go|2023-06-12|
+|163|[knownsec/404StarLink](https://github.com/knownsec/404StarLink)|404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目|5680|-|2023-06-12|
+|164|[XINCGer/Unity3DTraining](https://github.com/XINCGer/Unity3DTraining)|【Unity杂货铺】unity大杂烩~|5676|C#|2023-06-13|
+|165|[nilaoda/BBDown](https://github.com/nilaoda/BBDown)|Bilibili Downloader. 一款命令行式哔哩哔哩下载器.|5623|C#|2023-06-09|
+|166|[lanyulei/ferry](https://github.com/lanyulei/ferry)|本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。|5606|JavaScript|2023-05-30|
+|167|[raphw/byte-buddy](https://github.com/raphw/byte-buddy)|Runtime code generation for the Java virtual machine.|5599|Java|2023-06-06|
+|168|[yuuwill/1024app-android](https://github.com/yuuwill/1024app-android)|草榴官方客户端，小草客户端，Android|5598|-|2023-05-31|
+|169|[ithewei/libhv](https://github.com/ithewei/libhv)|🔥 比libevent、libuv更易用的网络库。A c/c++ network library for developing TCP/UDP/SSL/HTTP/WebSocket/MQTT client/server.|5528|C|2023-06-08|
+|170|[illuspas/Node-Media-Server](https://github.com/illuspas/Node-Media-Server)|A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server|5443|JavaScript|2023-06-11|
+|171|[xiaye13579/BBLL](https://github.com/xiaye13579/BBLL)|一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV & Pad。|5400|-|2023-05-31|
+|172|[Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC)|渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cm ...|5381|PowerShell|2023-05-28|
+|173|[garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots)|Matplotlib styles for scientific plotting|5366|Python|2023-05-31|
+|174|[Perfare/Il2CppDumper](https://github.com/Perfare/Il2CppDumper)|Unity il2cpp reverse engineer|5273|C#|2023-05-21|
+|175|[Hackl0us/GeoIP2-CN](https://github.com/Hackl0us/GeoIP2-CN)|小巧精悍、准确、实用 GeoIP2 数据库|5212|Go|2023-05-22|
+|176|[kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1)|一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P,  树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由|5208|Brainfuck|2023-05-22|
+|177|[jeessy2/ddns-go](https://github.com/jeessy2/ddns-go)|简单好用的DDNS。自动更新域名解析到公网IP(支持阿里云、腾讯云dnspod、Cloudflare、Callback、华为云、百度云、Porkbun、GoDaddy、Google Domain)|5195|Go|2023-05-22|
+|178|[assimon/dujiaoka](https://github.com/assimon/dujiaoka)|🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉|5112|PHP|2023-05-19|
+|179|[OpenAtomFoundation/pika](https://github.com/OpenAtomFoundation/pika)|Pika is a NoSQL database compatible with redis which is developed by Qihoo's infrastructure team.|5065|C++|2023-05-22|
+|180|[hellzerg/optimizer](https://github.com/hellzerg/optimizer)|The finest Windows Optimizer|5064|C#|2023-05-20|
+|181|[adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。|5051|HTML|2023-06-12|
+|182|[cjdelisle/cjdns](https://github.com/cjdelisle/cjdns)|An encrypted IPv6 network using public-key cryptography for address allocation and a distributed hash table for routing.|5023|C|2023-06-06|
+|183|[kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages)|openwrt常用软件包|5012|Shell|2023-06-12|
+|184|[open-mmlab/mmcv](https://github.com/open-mmlab/mmcv)|OpenMMLab Computer Vision Foundation|5006|Python|2023-06-13|
+|185|[pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus)|PT 助手 Plus，为 Microsoft Edge、Google Chrome、Firefox 浏览器插件（Web Extensions），主要用于辅助下载 PT 站的种子。|4956|JavaScript|2023-05-22|
+|186|[hhyo/Archery](https://github.com/hhyo/Archery)|SQL 审核查询平台|4928|Python|2023-06-09|
+|187|[lyswhut/lx-music-mobile](https://github.com/lyswhut/lx-music-mobile)|一个基于 React native 开发的音乐软件|4896|TypeScript|2023-06-10|
+|188|[mli/autocut](https://github.com/mli/autocut)|用文本编辑器剪视频|4870|Python|2023-06-01|
+|189|[nuclio/nuclio](https://github.com/nuclio/nuclio)|High-Performance Serverless event and data processing platform|4849|Go|2023-05-21|
+|190|[WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io)|❤️静态响应式网址导航网站 - webstack.cc|4833|CSS|2023-06-09|
+|191|[giscus/giscus](https://github.com/giscus/giscus)|A comment system powered by GitHub Discussions. :octocat: :speech_balloon: :gem:|4804|TypeScript|2023-05-20|
+|192|[open-mmlab/mmagic](https://github.com/open-mmlab/mmagic)|OpenMMLab Multimodal Advanced, Generative, and Intelligent Creation Toolbox. Unlock the magic 🪄: Generative-AI (AIGC), easy-to-use APIs, awsome model zoo, diffusion models, image/video restoration/enh ...|4768|Python|2023-05-19|
+|193|[timlrx/tailwind-nextjs-starter-blog](https://github.com/timlrx/tailwind-nextjs-starter-blog)|This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfec ...|4702|JavaScript|2023-05-20|
+|194|[gz-yami/mall4cloud](https://github.com/gz-yami/mall4cloud)|⭐️⭐️⭐️    Springcloud商城系统 微服务商城系统 O2O商城系统 小程序商城 PC商城 H5商城 APP商城 Java商城 分销商城 多用户商城 uniapp商城 |4681|Vue|2023-05-22|
+|195|[yansongda/pay](https://github.com/yansongda/pay)|可能是我用过的最优雅的 Alipay/WeChat/Unipay 的支付 SDK 扩展包了|4619|PHP|2023-05-21|
+|196|[a597873885/webfunny_monitor](https://github.com/a597873885/webfunny_monitor)|webfunny是一款轻量级的前端性能监控系统，也是一款埋点系统，私有化部署，简单易用。Webfunny is a lightweight front-end performance monitoring system and a burying point system, which is privatized and easy to use.|4604|JavaScript|2023-05-21|
+|197|[MegEngine/MegEngine](https://github.com/MegEngine/MegEngine)|MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架|4522|C++|2023-05-22|
+|198|[didi/booster](https://github.com/didi/booster)|🚀Optimizer for mobile applications|4466|Kotlin|2023-05-19|
+|199|[apache/dubbo-go](https://github.com/apache/dubbo-go)|Go Implementation For Apache Dubbo .|4460|Go|2023-05-21|
+|200|[nonebot/nonebot2](https://github.com/nonebot/nonebot2)|跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python|4403|Python|2023-05-22|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
