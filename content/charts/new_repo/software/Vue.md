@@ -1,156 +1,210 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Vue
-<sub>数据更新: 2022-12-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[liyupi/sql-generator](https://github.com/liyupi/sql-generator)|🔨 用 JSON 来生成结构化的 SQL 语句，基于 Vue3 + TypeScript + Vite + Ant Design + MonacoEditor 实现，项目简单（重逻辑轻页面）、适合练手~|3079|2022-07-06|2022-05-12|
-|2|[HalseySpicy/Geeker-Admin](https://github.com/HalseySpicy/Geeker-Admin)|✨✨✨ Geeker Admin，基于 Vue3.2、TypeScript、Vite2、Pinia、Element-Plus 开源的一套后台管理框架。|2610|2022-11-28|2022-04-30|
-|3|[Java-S12138/frank](https://github.com/Java-S12138/frank)|A bran-new League of Legends assistant software, a replacement for WeGame.|1687|2022-11-30|2022-07-04|
-|4|[linhaojun857/aurora](https://github.com/linhaojun857/aurora)|基于SpringBoot+Vue开发的个人博客系统|1362|2022-12-05|2022-08-19|
-|5|[forrestchang/programmer-soft-skills](https://github.com/forrestchang/programmer-soft-skills)|程序员的软技能|321|2022-06-30|2022-06-24|
-|6|[un-pany/v3-admin-vite](https://github.com/un-pany/v3-admin-vite)|☀️ A vue3 minimal admin template, based on 'vite'. 一个基于 vite 的 vue3 最小后台管理模板|270|2022-08-02|2022-04-20|
-|7|[cloudhao1999/cloud-app-admin](https://github.com/cloudhao1999/cloud-app-admin)|cloud-app-admin 使用了最新的vue3.2+ vite3+Element-Plus+TypeScript等主流技术开发。|245|2022-08-05|2022-05-17|
-|8|[iamxcd/tkinter-helper](https://github.com/iamxcd/tkinter-helper)|为tkinter打造的可视化拖拽布局界面设计小工具|239|2022-08-03|2022-06-16|
-|9|[build-admin/buildadmin](https://github.com/build-admin/buildadmin)|CRUD代码生成、内置WEB终端，基于Vue3.x(setup)+ThinkPHP6+TypeScript+Vite+Pinia+Element Plus，自适应多端，同时提供Web和Server端、自动注册路由、无限级菜单权限节点、全局数据回收站、字段级修改保护等集颜值、实用、敏捷于一身的后台管理系统。|183|2022-08-06|2022-06-01|
-|10|[YunYouJun/sese-engine-ui](https://github.com/YunYouJun/sese-engine-ui)|🔍 Sese engine ui. 色色搜索引擎 UI|167|2022-08-06|2021-12-17|
-|11|[varletjs/varlet-vue2](https://github.com/varletjs/varlet-vue2)|基于 Vue2 的 Material design 风格移动端组件库 Material design mobile component library for Vue2|129|2022-07-10|2022-02-16|
-|12|[Kooklen/TianyanchaSystem](https://github.com/Kooklen/TianyanchaSystem)|仿天眼查项目-用户端|121|2022-06-17|2022-03-24|
-|13|[87789771/meimei-nestjs-admin](https://github.com/87789771/meimei-nestjs-admin)|🚀🚀 基于NestJs + TypeScript + TypeORM + Redis + MySql + Vue + Element-UI编写的一款前后端分离的权限管理系统。🚀内置角色系统、导入导出、数据权限、表单连续提交拦截等...🚀|103|2022-07-25|2022-01-15|
-|14|[FirstUI/FirstUI](https://github.com/FirstUI/FirstUI)|First UI 是一套基于uni-app开发的组件化、可复用、易扩展、低耦合的跨平台移动端UI 组件库。全面兼容App-Nvue、App-vue、小程序（微信、支付宝、百度、字节、QQ）、H5。文档地址：https://doc.firstui.cn |85|2022-07-21|2022-02-08|
-|15|[gooking/uni-app-mall](https://github.com/gooking/uni-app-mall)|uni-app商城|80|2022-08-05|2021-12-28|
-|16|[flingyp/vue-admire-plus](https://github.com/flingyp/vue-admire-plus)|A modern background system template，rapid development   一款现代后台系统模板，快速开发|77|2022-07-25|2022-05-30|
-|17|[developer-plus/vue-hbs-admin](https://github.com/developer-plus/vue-hbs-admin)|为后台管理系统提供现成的开箱解决方案及丰富的示例，提高开发效率。|77|2022-07-14|2022-02-12|
-|18|[huajian-pro/resume-design](https://github.com/huajian-pro/resume-design)|一款简历设计生成器|69|2022-08-05|2022-05-10|
-|19|[Ningstyle/mzl-ui](https://github.com/Ningstyle/mzl-ui)|vue3版本前端UI组件库|66|2022-08-02|2022-02-09|
-|20|[AbelChe/cola_dnslog](https://github.com/AbelChe/cola_dnslog)|Cola Dnslog v1.2.1 更加强大的dnslog平台/无回显漏洞探测辅助平台 完全开源 dnslog httplog ldaplog rmilog 支持dns http ldap rmi等协议 提供API调用方式便于与其他工具结合 支持钉钉机器人、Bark等提醒 后续更新docker一键部署 后端完全使用python实现 前端基于vue-element-admin二开|65|2022-08-03|2022-07-30|
-|21|[ClassToolsOfficial/ClassTools](https://github.com/ClassToolsOfficial/ClassTools)|一个用在班级电脑上面的动态壁纸系统，显示高考倒计时、作业、课程表、值日生等|62|2022-08-06|2022-02-27|
-|22|[qingqingxuan/arco-work](https://github.com/qingqingxuan/arco-work)| 🎉🎉🎉Arco Work，漂亮、强大、完善。采用 Vue3 Vite2 Typescript Arco Design编写的中后台框架。全面的系统配置，优质模板，常用组件，真正一站式开箱即用🎉🎉🎉|62|2022-07-13|2022-01-27|
-|23|[Yuzuki616/AWS-Panel](https://github.com/Yuzuki616/AWS-Panel)|一个可以管理AWS资源的Web面板|61|2022-07-01|2022-01-13|
-|24|[thinkgem/jeesite-vue](https://github.com/thinkgem/jeesite-vue)|基于 Vue3、Vite、Ant-Design-Vue、TypeScript、Vue Vben Admin，最先进的技术栈，让初学者能够更快的入门并投入到团队开发中去。包括模块如：组织机构、角色用户、菜单授权、数据权限、系统参数等。强大的组件封装，数据驱动视图。为微小中大型项目的开发，提供现成的开箱解决方案及丰富的示例。|57|2022-07-27|2022-01-04|
-|25|[Chras-fu/Liuma-platform](https://github.com/Chras-fu/Liuma-platform)|轻量级低代码自动化测试平台，一个平台解决API/WebUI/AppUI测试，本项目为平台端|54|2022-08-05|2022-05-02|
-|26|[zouzhibin/vue-admin-perfect](https://github.com/zouzhibin/vue-admin-perfect)|系统基于vite+vue3+vuex+element-plus+ts后台管理系统、一款开箱即用的 Vue 中后台管理系统框架， 兼容PC、移动端。vue-admin, vue-element-admin, vue后台, 后台系统, 后台框架, 管理后台, 管理系统|54|2022-08-05|2022-03-24|
-|27|[Down-1998/x-ui](https://github.com/Down-1998/x-ui)|基于vue3.2(setup语法糖)+vite创建的自己的ui组件库并实现按需导入|52|2022-07-02|2022-06-06|
-|28|[NameLi/muying-h5](https://github.com/NameLi/muying-h5)|Vue实现的一个完善的移动端电影评分项目|52|2022-07-21|2022-04-30|
-|29|[MyButifullyLife/vue-x6-flow](https://github.com/MyButifullyLife/vue-x6-flow)|vue版流程图简易编辑器、简单易上手|52|2022-07-19|2022-01-14|
-|30|[lewkamtao/PicHub](https://github.com/lewkamtao/PicHub)|一个基于Vue3 + TypeScript实现的Github图床|50|2022-07-09|2022-01-20|
-|31|[HomeArchbishop/picable](https://github.com/HomeArchbishop/picable)|🍑简约大方的哔咔漫画客户端|48|2022-07-20|2022-04-29|
-|32|[vaemusic/datav-vue3](https://github.com/vaemusic/datav-vue3)|datav Vue3+TS+Vite版|48|2022-07-29|2022-04-19|
-|33|[xiezy1/drive](https://github.com/xiezy1/drive)|仿照阿里云盘的网盘系统|48|2022-07-27|2022-04-19|
-|34|[eryajf/go-ldap-admin-ui](https://github.com/eryajf/go-ldap-admin-ui)|🌉 基于Go+Vue实现的openLDAP后台管理项目|44|2022-07-28|2022-05-18|
-|35|[HibiKier/zhenxun_bot_webui](https://github.com/HibiKier/zhenxun_bot_webui)|绪山真寻Bot的简易Web管理界面|44|2022-08-04|2022-04-04|
-|36|[L1yp/van](https://github.com/L1yp/van)|vue3-element-plus-bpmnjs项目|43|2022-08-06|2022-05-24|
-|37|[Tinywan/webman-admin](https://github.com/Tinywan/webman-admin)|:rocket: 基于 webamn + vue3 + element-plus 的前后端分离解决方案|43|2022-07-02|2021-12-18|
-|38|[Yidadaa/shuangpin](https://github.com/Yidadaa/shuangpin)|纸砚双拼，可能是最好用的双拼练习工具，支持声母 / 韵母 / 长句模式、自定义双拼方案、进度统计、深色模式、成就系统。|41|2022-08-05|2022-06-29|
-|39|[chuzhixin/vue-admin-arco](https://github.com/chuzhixin/vue-admin-arco)|🚀🚀🚀vite+typescript+arco.design中后台前端框架，基于arco-design-pro-vue源码魔改而来，非官方版本的vue3 admin前端框架|41|2022-06-26|2022-03-04|
-|40|[yangyanggu/vue-amap](https://github.com/yangyanggu/vue-amap)|高德地图封装 for vue2 vue3.0|41|2022-07-30|2021-12-28|
-|41|[BililiveRecorder/BililiveRecorder-WebUI](https://github.com/BililiveRecorder/BililiveRecorder-WebUI)|B站录播姬的管理网页|36|2022-08-02|2022-04-04|
-|42|[ruanjiancheng/StudentManageSystem](https://github.com/ruanjiancheng/StudentManageSystem)|学生管理系统（vue + springboot）|35|2022-07-04|2022-02-11|
-|43|[ws1004/vue-sure-admin](https://github.com/ws1004/vue-sure-admin)|🍃Vue3+Vite+ElementPlus+VueRouter4+Pinia+UnoCss的后台管理系统|34|2022-07-27|2022-06-30|
-|44|[fuzui/form-generator-antdv](https://github.com/fuzui/form-generator-antdv)|Ant Design Vue表单设计及代码生成器|33|2022-06-17|2022-02-13|
-|45|[fzf404/Monit](https://github.com/fzf404/Monit)|用于展示各种信息的桌面小组件|33|2022-07-31|2022-01-17|
-|46|[Rr210/blazeB2](https://github.com/Rr210/blazeB2)|📷基于 backBlazeb2 API & ⚡ cloudflare 开发的具有 CDN 加速功能的图床工具|32|2022-08-04|2022-06-24|
-|47|[xingxingzaixian/django-vue3.2-online-exam](https://github.com/xingxingzaixian/django-vue3.2-online-exam)|在线考试系统，开发中......|30|2022-07-16|2022-03-27|
-|48|[sindaZeng/xhuicloud-ui](https://github.com/sindaZeng/xhuicloud-ui)|🎉(星辉云管理系统)，基于vue3的管理端模板，(Vue3 Vuex4 VueRouter4 ，Element-plus Vue-i18n composition-api)，抽象出公共多场景表格组件。|30|2022-06-19|2022-01-04|
-|49|[path-yu/vue3-cloud-music](https://github.com/path-yu/vue3-cloud-music)|基于Vue3+Vite+TypeScript+compositionApi+naiveui构建的精致的支持夜间模式网易云音乐流媒体网站webApp|29|2022-07-31|2022-03-28|
-|50|[Rewrite0/Auto_Bangumi_WebUI](https://github.com/Rewrite0/Auto_Bangumi_WebUI)|AutoBangumi的Web UI|28|2022-08-06|2022-07-15|
-|51|[miracle90/big-file-upload](https://github.com/miracle90/big-file-upload)|使用File slice + 封装XMLHttpRequest + fs-extra + xhr 的 abort、onprogress 等api进行大文件的分片上传、断点续传|27|2022-07-26|2022-03-03|
-|52|[wudskq/wc-manager-ui](https://github.com/wudskq/wc-manager-ui)|公厕管理平台(前端项目)|26|2022-08-03|2022-06-07|
-|53|[iamwhj/mobile-maker](https://github.com/iamwhj/mobile-maker)|搭建一个低代码平台，用于制作h5页面，拥有完整的流程链路，组件上传-数据存储-页面预览-线上发布。|26|2022-08-05|2022-06-01|
-|54|[fffguo/utools-curl](https://github.com/fffguo/utools-curl)|该插件是一款可以根据curl命令快速发起请求，并提供可视化界面进行参数更改、返回结果查看。|25|2022-08-04|2022-04-01|
-|55|[cll123456/template-varlet-v3-ts](https://github.com/cll123456/template-varlet-v3-ts)|✈✈✈使用unocss,vite，varlet来搭建移动端，所有资源都是按需加载，非常快|25|2022-07-26|2022-03-30|
-|56|[loo2k/figma-backup](https://github.com/loo2k/figma-backup)|保住肥姑妈（Figma 源文件备份）|25|2022-07-05|2022-03-17|
-|57|[jamond-x/youthcamp-tutouyubeiTeam-tutouMusic](https://github.com/jamond-x/youthcamp-tutouyubeiTeam-tutouMusic)|🎶💕字节跳动第二届青训营结营项目|25|2022-07-17|2022-01-17|
-|58|[yz-intelligence/WeiyingCloud](https://github.com/yz-intelligence/WeiyingCloud)|维鹰云智能事件平台，告警事件统一接收、降噪、处置|23|2022-07-23|2022-05-13|
-|59|[wangzmgit/danmu-v5](https://github.com/wangzmgit/danmu-v5)|开发交流群：909847398|21|2022-08-05|2022-07-07|
-|60|[makunet/fast-element-admin](https://github.com/makunet/fast-element-admin)|🔥永久免费 🔥 fast-element-admin是基于Vue3、TypeScript、Element Plus、Vue Router、Pinia、Axios、i18n、Vite等开发的后台管理模板，使用门槛极低，采用MIT开源协议，完全免费开源且终身免费，可免费用于商业项目等场景！|21|2022-08-02|2022-06-06|
-|61|[wowoName/erp](https://github.com/wowoName/erp)|进销存、酒水管理系统|21|2022-07-14|2022-01-18|
-|62|[da34/blogs](https://github.com/da34/blogs)|一个由Vue，Next.js和MySQL编写的博客系统。  |20|2022-07-30|2022-02-12|
-|63|[readpage/undraw-ui](https://github.com/readpage/undraw-ui)|vue评论组件，🔥基于vue3的UI组件，主要功能有评论，聊天，搜索，锚点。你的⭐️Star ，是作者开发的动力！|19|2022-07-24|2022-04-08|
-|64|[AegirTech/IberiaEye](https://github.com/AegirTech/IberiaEye)|伊比利亚之眼 明日方舟速通云控前端|18|2022-07-30|2022-06-15|
-|65|[easywecom/easyWeCom_Dashboard](https://github.com/easywecom/easyWeCom_Dashboard)|easyWeCom的前端服务之一，基于Vue、Element-UI开发的企业微信一站式私域流量运营管理平台，让操作更简单。|18|2022-07-27|2022-05-31|
-|66|[closure-studio/arkHost-frontend](https://github.com/closure-studio/arkHost-frontend)|为ArkHost提供前端界面(重构自arknights-offline-frontend)|18|2022-08-05|2022-02-05|
-|67|[webdyc/moth-admin-vue](https://github.com/webdyc/moth-admin-vue)|飞蛾后台管理系统vue2版本|18|2022-07-25|2022-01-05|
-|68|[AllanChain/chinese-wordle](https://github.com/AllanChain/chinese-wordle)|Chinese idiom wordle game   仿 wordle 的拼成语游戏|17|2022-07-11|2022-01-18|
-|69|[easywecom/easyWeCom_Sidebar](https://github.com/easywecom/easyWeCom_Sidebar)|easyWeCom的前端服务之一，基于企业微信JS-SDK开发的企微客户端侧边栏页面，提供客户资料、素材库、话术库等功能。|16|2022-07-27|2022-05-31|
-|70|[daidaibg/IofTV-Screen](https://github.com/daidaibg/IofTV-Screen)|🔥一个基于 vue、datav、Echart 框架的大数据可视化（大屏展示）模板|16|2022-07-19|2022-05-05|
-|71|[yue1123/vue3-baidu-map-gl](https://github.com/yue1123/vue3-baidu-map-gl)|基于百度地图JavaScript GL版API封装的Vue3组件库,帮你轻松接入百度地图|16|2022-07-01|2022-03-25|
-|72|[clinfc/wangeditor5-for-vue3](https://github.com/clinfc/wangeditor5-for-vue3)|给 wangEditor5 写的 Vue3 组件|16|2022-07-31|2021-12-30|
-|73|[ijry/uview-plus](https://github.com/ijry/uview-plus)|uview-plus，是[uni-app](https://uniapp.dcloud.io/)全面兼容nvue的uni-app生态框架，全面的组件和便捷的工具会让您信手拈来，如鱼得水。|15|2022-08-03|2022-07-09|
-|74|[developer-plus/developer-plus](https://github.com/developer-plus/developer-plus)|developer-plus 官网。|15|2022-07-16|2022-05-16|
-|75|[wzl778633/vanIsLord](https://github.com/wzl778633/vanIsLord)|A Self-hosted Cloud Storage & File Sharing Platform, best to serve for a medium-sized user groups. 基于Vue2.0 · Java Springboot · MongoDB开发的群在线资源分享、管理系统，同时意在对接已有私有/公开流媒体服务媒体库（如jellyfin，emby）。本repo为web-c ...|15|2022-07-21|2022-04-17|
-|76|[ZhQuella/vite_admin_typescript](https://github.com/ZhQuella/vite_admin_typescript)|基于Vite+TypeScript搭建的PageAdmin，该模板禁止用于商业用途|15|2022-08-04|2021-12-13|
-|77|[yangzongzhuan/RuoYi-App](https://github.com/yangzongzhuan/RuoYi-App)|🎉 (RuoYi)官方仓库 RuoYi APP 移动端框架，基于uniapp+uniui封装的一套基础模版，支持H5、APP、微信小程序、支付宝小程序等，实现了与RuoYi-Vue、RuoYi-Cloud后台完美对接。|14|2022-08-02|2022-08-01|
-|78|[dr34-m/ctftools](https://github.com/dr34-m/ctftools)|CTFTools源码|14|2022-08-02|2022-07-01|
-|79|[virtual1680/q-admin](https://github.com/virtual1680/q-admin)|q-admin 是基于 vue3、TypeScript、vite2、element-plus、avue3、vue-router 实现的后台管理系统工程化模板；主体模块是由 avue-cli 改造 ts 版本；适配手机、平板、pc 的后台开源免费模板，希望减少工作量，帮助大家实现快速开发。|14|2022-07-28|2022-06-14|
-|80|[Three-Dimensional/Design-Templates](https://github.com/Three-Dimensional/Design-Templates)|通过简单的手动操作，实现活动海报的 H5 页面搭建|14|2022-08-04|2022-06-14|
-|81|[MoNaiZi/Note](https://github.com/MoNaiZi/Note)|一款用vue3+electron19开发的记事本和大纲，思维导图功能(仿幕布)，拥有开机自启，悬浮窗，优雅的窗口过渡|13|2022-08-04|2022-07-12|
-|82|[todoadmin/vue-admin-chart](https://github.com/todoadmin/vue-admin-chart)|Simple fast beautiful vue admin template,vue3 admin,vue-admin,vue-admin-chart,vue后台管理,vue3管理后台,todoadmin,vue element-plus,element admin,vue echart,vue element admin,https://base.todoadmin.com|13|2022-07-20|2022-06-06|
-|83|[zhouhp1295/g3-cms](https://github.com/zhouhp1295/g3-cms)|Golang + Gin + Gorm CMS,  Rouyi-vue管理后台, g3 cms|13|2022-07-10|2022-05-26|
-|84|[201206030/novel-front-web](https://github.com/201206030/novel-front-web)|novel 前端项目|13|2022-08-04|2022-05-17|
-|85|[TencentBlueKing/bk-lesscode](https://github.com/TencentBlueKing/bk-lesscode)|蓝鲸可视化开发平台提供了前端页面在线可视化拖拽组装、配置编辑、源码生成、二次开发等能力。旨在帮助用户通过尽量少的手写代码的方式快速设计和开发 SaaS。|13|2022-08-06|2022-05-05|
-|86|[dv-cli/vue3-vite-multiple-page](https://github.com/dv-cli/vue3-vite-multiple-page)|一套入门级vue3+vite+Ts的多页面配置模板，支持单模块独立打包和本地构建，集成了pinia，vueUse，naive-ui，axios等主流vue3生态技术，husky工具检测commit提交规范和代码编写规范。|13|2022-07-23|2022-03-09|
-|87|[UniScratch/gitscratch-frontend](https://github.com/UniScratch/gitscratch-frontend)|GitScratch 社区前端|12|2022-08-06|2022-04-05|
-|88|[YangJianFei/vue-baidu-map-3x](https://github.com/YangJianFei/vue-baidu-map-3x)|vue-baidu-map的vue3版本。Baidu Map Component for Vue 3.0|12|2022-07-04|2022-03-09|
-|89|[zhuyuqian/tvmaze-web](https://github.com/zhuyuqian/tvmaze-web)|tvmaze网站WEB端|12|2022-08-04|2021-12-09|
-|90|[xiuxiuyifan/ProTable](https://github.com/xiuxiuyifan/ProTable)|加强版表格|10|2022-07-19|2022-07-02|
-|91|[chenbozhi/vue-ts-mall-demo](https://github.com/chenbozhi/vue-ts-mall-demo)|b站学习的一个基于ts的vue的简单简单商城系统|10|2022-06-25|2022-06-23|
-|92|[xukaijie111/lowcode](https://github.com/xukaijie111/lowcode)|适用研发人员的低代码平台，目前开发中|10|2022-07-20|2022-06-03|
-|93|[itwanger/codingmore-admin-web](https://github.com/itwanger/codingmore-admin-web)|codingmore-admin-web 是一个知识库学习网站管理系统的前端项目，基于 vue+element 实现。|10|2022-06-10|2022-02-16|
-|94|[Lemon-cxh/pwl-chat-extension](https://github.com/Lemon-cxh/pwl-chat-extension)|摸鱼派聊天室浏览器插件|10|2022-08-05|2021-12-16|
-|95|[qiu-lzsnmb/glassmorphism-forum](https://github.com/qiu-lzsnmb/glassmorphism-forum)|vue实战项目二，玻璃态论坛|9|2022-07-31|2022-07-10|
-|96|[ADKcodeXD/Vue3-Emoji](https://github.com/ADKcodeXD/Vue3-Emoji)|基于Vue3和emoji-data.json实现的表情选择组件|9|2022-07-20|2022-07-05|
-|97|[CoderHyun/Ruoyi-vue3-naive](https://github.com/CoderHyun/Ruoyi-vue3-naive)|Ruoyi Vue3 + TS版本, 所用技术栈: Vue3+TS+Pinia+NaiveUI|9|2022-08-02|2022-05-29|
-|98|[yangyanggu/vue-bmap-gl](https://github.com/yangyanggu/vue-bmap-gl)|百度地图GL版本vue3封装|9|2022-07-23|2022-01-14|
-|99|[zhaozhentao/arco_admin_template](https://github.com/zhaozhentao/arco_admin_template)|Arco Design 后台模板|8|2022-07-18|2022-01-07|
-|100|[onevfall/StudyAbroad_DB_frontEnd](https://github.com/onevfall/StudyAbroad_DB_frontEnd)|同济大学软件工程大二下小学期数据库课设项目——候鸟留学交流平台的前端部分|7|2022-08-06|2022-07-01|
-|101|[maliangnansheng/bbs-vue-ui](https://github.com/maliangnansheng/bbs-vue-ui)|南生论坛基于SpringBoot+Vue框架（代码简洁、高效无冗余；注释详细易阅读；大厂架构设计），自适应手机端和电脑端，界面简洁美观，功能完善。演示地址：http://bbs.nanshengbbs.top|7|2022-07-29|2022-06-27|
-|102|[makunet/fast-admin](https://github.com/makunet/fast-admin)|🔥永久免费 🔥 FastAdmin是基于Vue3、TypeScript、Element Plus、Vue Router、Pinia、Axios、i18n、Vite等开发的后台管理，使用门槛极低，采用MIT开源协议，完全免费开源且终身免费，可免费用于商业项目等场景！|7|2022-08-04|2022-05-29|
-|103|[yixiaco/tdesign-vue-next-nuxt-starter](https://github.com/yixiaco/tdesign-vue-next-nuxt-starter)|A starter example for tdesign-vue-next with Nuxt 3.(当前还在建设中...)|7|2022-08-01|2022-05-13|
-|104|[L-noodle/go-view](https://github.com/L-noodle/go-view)|GoView 说明文档，GoView 是一个低代码数据可视化开发平台，将图表或页面元素封装为基础组件，无需编写代码即可完成业务需求。 它的技术栈为：Vue3 + TypeScript4 + Vite2 + NaiveUI + ECharts5 + Axios + Pinia2 + PlopJS|7|2022-06-13|2022-05-04|
-|105|[kaidianxing/kaidianxing-admin](https://github.com/kaidianxing/kaidianxing-admin)|开店星开源小程序商城，基于Yii2+Vue2.0+uniapp易学易用。项目已经过4000+代理商，10万+商户6年线上检验，功能完善，系统逻辑清晰，营销活动多样。项目前后端分离，多端开发，负载均衡，性能优越架构稳定；H5+小程序+公众号，全渠道覆盖，开箱即用，省时省力。|7|2022-07-14|2022-04-21|
-|106|[kaidianxing/kaidianxing-mobile](https://github.com/kaidianxing/kaidianxing-mobile)|开店星开源小程序商城，基于Yii2+Vue2.0+uniapp易学易用。项目已经过4000+代理商，10万+商户6年线上检验，功能完善，系统逻辑清晰，营销活动多样。项目前后端分离，多端开发，负载均衡，性能优越架构稳定；H5+小程序+公众号，全渠道覆盖，开箱即用，省时省力。|7|2022-07-14|2022-04-20|
-|107|[Bluex-xx/HzauAtlas](https://github.com/Bluex-xx/HzauAtlas)|汇集了可爱猫咪的华农图鉴小程序HZAU,基于 uniapp + springboot + mysql😽🙀😺❤️|7|2022-07-15|2022-04-07|
-|108|[Redlnn/Fake-QQ-Chat-Window](https://github.com/Redlnn/Fake-QQ-Chat-Window)|伪 QQ 移动客户端聊天窗口|7|2022-06-29|2022-03-11|
-|109|[flwfdd/BIT101](https://github.com/flwfdd/BIT101)|针对北京理工大学搞的怪东西|7|2022-08-04|2022-02-22|
-|110|[dataease/dataease-extensions](https://github.com/dataease/dataease-extensions)|DataEase 官方插件|7|2022-08-03|2022-02-10|
-|111|[AXDecap/springbootbackstage](https://github.com/AXDecap/springbootbackstage)|后台管理系统，一个基于springboot和vue写的前后端分离项目。|6|2022-06-13|2022-05-29|
-|112|[cbhh/wordpress-theme-spa](https://github.com/cbhh/wordpress-theme-spa)|WordPress主题SPA（单页应用）版本|6|2022-07-31|2022-05-19|
-|113|[GeronimoDMP/vue-gameApp](https://github.com/GeronimoDMP/vue-gameApp)|vue+nodejs游戏平台后台管理加用户平台|6|2022-07-25|2022-04-29|
-|114|[lss2317/blog](https://github.com/lss2317/blog)|基于SpringBoot + Vue 开发的前后端分离博客，支持QQ、微博第三方登录、发布说说等功能。|6|2022-07-01|2022-03-08|
-|115|[czp709/vue2-admin](https://github.com/czp709/vue2-admin)|基于vue2的admin后台管理系统，含有登陆页面（带有滑动验证）、修改密码页面、404页面。封装了axios，将api地址放入环境变量。权限控制生成可访问的路由，并根据路由生成侧边导航栏。有任何问题可以联系我的邮箱chenzhipeng709@163.com如果喜欢请点个star吧|6|2022-06-24|2022-02-05|
-|116|[undsky/uni-DiscuzX](https://github.com/undsky/uni-DiscuzX)|Discuz! X 论坛前端，基于 uViewUI、ColorUI 开发，兼容全平台|6|2022-07-05|2021-12-20|
-|117|[hopeOpen/hope-client](https://github.com/hopeOpen/hope-client)|🔥Vue3 + Vuex + Rue-Router + TypeScript + Element-Plus + Axios 技术方案，包括二次封装组件、utils、hooks、动态菜单、权限校验、按钮级别权限控制等功能|5|2022-08-05|2022-08-04|
-|118|[RKQF-JVS/jvs-knowledge-ui](https://github.com/RKQF-JVS/jvs-knowledge-ui)|【企业级在线文档】，解决企业内部文档编辑、知识沉淀、知识协同等痛点。项目主要采用Java开发，基础框架采用JVS（spring cloud+Vue）。适用场景：适用于个人、团队、企业使用，提供云笔记、个人知识沉淀、在线产品手册、团队内部知识库、在线电子教程、全文内容搜索、CMS内容展示等功能。支持私有化部署场景。|5|2022-07-31|2022-07-26|
-|119|[imtmn/fish-ui](https://github.com/imtmn/fish-ui)|点餐小程序-前端|5|2022-07-13|2022-07-13|
-|120|[cloudflyme/cv-navigation-nuxt](https://github.com/cloudflyme/cv-navigation-nuxt)|cv开发网页|5|2022-07-14|2022-07-11|
-|121|[kiba518/KibaCesium](https://github.com/kiba518/KibaCesium)|使用开源Cesium+Vue实现倾斜摄影三维展示|5|2022-07-07|2022-07-07|
-|122|[zhangyueqingyun/blog-frontend](https://github.com/zhangyueqingyun/blog-frontend)|Z-Blog 前端项目。|5|2022-07-10|2022-06-19|
-|123|[Bruce6230/epidemic-prevention-system](https://github.com/Bruce6230/epidemic-prevention-system)|基于springboot+vue开发的线上办公系统|5|2022-08-04|2022-06-08|
-|124|[tyza66/ManagementBackgroundInterface](https://github.com/tyza66/ManagementBackgroundInterface)|管理后台界面|5|2022-07-30|2022-05-18|
-|125|[JinghuiS/td-fast-forward](https://github.com/JinghuiS/td-fast-forward)|一个简单的 td admin 模板|5|2022-06-09|2022-05-13|
-|126|[GizmoOAO/vrchat-cache-mover](https://github.com/GizmoOAO/vrchat-cache-mover)|将VRChat缓存移动到指定目录的小工具, 拥有相对现代并且易用的 GUI.|5|2022-08-02|2022-04-10|
-|127|[Jane-blog/vue3-ts-ms](https://github.com/Jane-blog/vue3-ts-ms)|一个基于vue3、cli、ts的管理端模板。开箱即用，提高代码规范性和开发效率。|5|2022-07-26|2022-03-08|
-|128|[xiaojieajie/vue3-cute-component](https://github.com/xiaojieajie/vue3-cute-component)|时间轴组件|5|2022-08-02|2022-02-21|
-|129|[ZuoFuhong/takoyaki](https://github.com/ZuoFuhong/takoyaki)|takoyaki 是一个通用的数据表格组件，只需少量的配置，无需人力开发，就可以快速生成一个常见的支持业务 “增删改查” 的 Web 管理平台。 |5|2022-08-02|2022-01-27|
-|130|[Cyan-Xmw/vue3-element-table](https://github.com/Cyan-Xmw/vue3-element-table)|基于 Vue3 + Element plus 二次封装的表格组件|5|2022-06-14|2022-01-06|
-|131|[TimberKito/CQIPC_Graduation_Web](https://github.com/TimberKito/CQIPC_Graduation_Web)|基于单体架构的企业办公信息化管理系统前端部分（毕业设计）|5|2022-06-20|2021-12-10|
-|132|[JiKe-Share/jike-getpic](https://github.com/JiKe-Share/jike-getpic)|极客取图小程序|4|2022-06-16|2022-03-20|
-|133|[18180236182/vue3-admin-hai](https://github.com/18180236182/vue3-admin-hai)|基于vue3x+vue-router4x+vuex4x+element-plus搭建的后台管理简单模板（登录简单鉴权+路由跳转（动态+静态通用路由）+首页布局+左侧菜单布局）|3|2022-08-02|2022-07-22|
-|134|[marchmi/easy-admin](https://github.com/marchmi/easy-admin)|一个用于交流与研究，如何基于配置文件快速进行admin-web快速迭代的项目|3|2022-08-04|2022-07-14|
-|135|[tian-jing-ruo-feng/logic-flow](https://github.com/tian-jing-ruo-feng/logic-flow)|基于ElementUI、AntV X6、 Vue.js , 自定义可视化、拖拽、 流程图|3|2022-07-10|2022-06-26|
-|136|[ScaredHD/logistics-system-panzhihua](https://github.com/ScaredHD/logistics-system-panzhihua)|攀枝花物流管理系统|3|2022-07-09|2022-06-26|
-|137|[redstone-skin/skin-server-next](https://github.com/redstone-skin/skin-server-next)|下一站 - 红石皮肤站|3|2022-06-27|2022-06-19|
-|138|[yeshaojun/v3-simple-img-preview](https://github.com/yeshaojun/v3-simple-img-preview)|一个简单的图片预览插件|3|2022-08-01|2022-06-08|
-|139|[sw-ashai/ashai_ninja](https://github.com/sw-ashai/ashai_ninja)|对ninjia青龙环境变量管理工具的一次改造|3|2022-06-26|2022-06-07|
-|140|[wearetheone777/shangpinhuishop](https://github.com/wearetheone777/shangpinhuishop)|尚品汇前台项目|3|2022-07-25|2022-06-05|
-|141|[monaaaaaa2544/OnlineTest](https://github.com/monaaaaaa2544/OnlineTest)|在线考试平台 前端 |3|2022-07-31|2022-06-02|
-|142|[songjie55/cpy-ui](https://github.com/songjie55/cpy-ui)|公司portal和console平台的UI库|3|2022-08-03|2022-03-08|
-|143|[zhangchuqiang/vue3-preview-image](https://github.com/zhangchuqiang/vue3-preview-image)|基于vue3的图片预览插件|3|2022-07-26|2022-02-18|
-|144|[JiatLn/yys-yuhun-simulator](https://github.com/JiatLn/yys-yuhun-simulator)|一个在线的阴阳师赌魂强魂模拟器|3|2022-07-13|2022-02-18|
-|145|[gearmusic/shop-vue3-admin](https://github.com/gearmusic/shop-vue3-admin)|B站尚硅谷电商项目后台管理界面|3|2022-06-20|2022-02-12|
-|146|[wytxer/template-vue2-manage](https://github.com/wytxer/template-vue2-manage)|基于 Vue.js 2.x 和 ant-design-vue 组件库且风格统一的用于快速构建中后台系统的脚手架。|3|2022-07-14|2022-01-16|
+|1|[Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)|用 Express 和  Vue3 搭建的 ChatGPT 演示网页|28194|2023-11-24|2023-02-09|
+|2|[Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)|🥣 AIGC 提示词可视化编辑器    OPS   Open Prompt Studio|5345|2023-08-30|2023-03-25|
+|3|[gaozhangmin/aliyunpan](https://github.com/gaozhangmin/aliyunpan)|小白羊网盘 - Powered by 阿里云盘。|3758|2023-11-21|2023-02-23|
+|4|[moeakwak/chatgpt-web-share](https://github.com/moeakwak/chatgpt-web-share)|A fully-featured multi-user ChatGPT Web system, with Plus account or API as providers.|2891|2023-11-24|2023-03-03|
+|5|[tiny-craft/tiny-rdm](https://github.com/tiny-craft/tiny-rdm)|A Modern Redis GUI Client|2318|2023-11-24|2023-06-27|
+|6|[Hiram-Wong/ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer)|跨平台桌面端视频资源播放器,免费高颜值.|2190|2023-10-13|2023-02-06|
+|7|[WongSaang/chatgpt-ui](https://github.com/WongSaang/chatgpt-ui)|A ChatGPT web client that supports multiple users, multiple languages, and multiple database connections for persistent data storage. Provides Docker images and quick deployment scripts.|1154|2023-11-22|2023-02-11|
+|8|[anvaka/map-of-github](https://github.com/anvaka/map-of-github)|Inspirational Mapping|906|2023-10-11|2023-04-30|
+|9|[shiyutim/tickets](https://github.com/shiyutim/tickets)|大麦网演唱会抢票软件，一个基于 tauri + rust + vue 调用接口的抢票软件。|840|2023-07-16|2023-06-04|
+|10|[yudaocode/yudao-ui-admin-vue3](https://github.com/yudaocode/yudao-ui-admin-vue3)|芋道管理后台，基于 Vue3 + Element Plus 实现，支持 RBAC 动态权限、数据权限、SaaS 多租户、Flowable 工作流、三方登录、支付、短信、商城等功能。|663|2023-11-18|2023-02-10|
+|11|[yangjian102621/chatgpt-plus](https://github.com/yangjian102621/chatgpt-plus)|AI 助手全套开源解决方案，自带运营管理后台，开箱即用。集成了 ChatGPT, Azure, ChatGLM,讯飞星火，文心一言等多个平台的大语言模型。支持 MJ AI 绘画，Stable Diffusion AI  绘画，微博热搜等插件工具。采用 Go + Vue3 + element-plus 实现。|658|2023-11-24|2023-05-06|
+|12|[opentiny/tiny-engine](https://github.com/opentiny/tiny-engine)|TinyEngine是一个低代码引擎，基于这个引擎可以构建或者开发出不同领域的低代码平台。|615|2023-11-23|2023-09-18|
+|13|[dulaiduwang003/SuperBot](https://github.com/dulaiduwang003/SuperBot)|基于JDK17开发的微信流量主小程序 ,内置图片服务器无需第三方OSS,内含两个版本,小程序与网页版本数据不连贯,接入支付宝当面付款|596|2023-08-16|2023-03-04|
+|14|[Cc-Edit/CcClip](https://github.com/Cc-Edit/CcClip)|vue and ffmpeg based tool for video clips. 使用vue(vue3) + ffmpeg + wasm 实现纯前端音视频编辑，功能包括：视频剪辑、音频剪辑、音频合成裁剪、音波展示、视频抽帧、gif抽帧、帧播放器、字幕、贴图、时间轴、素材轨道|564|2023-11-21|2023-01-11|
+|15|[AlanLee1996/wenda-webui](https://github.com/AlanLee1996/wenda-webui)|专为 l15y/wenda 闻达平台设计的webui|438|2023-07-04|2023-04-14|
+|16|[lianginx/chatgpt-vue](https://github.com/lianginx/chatgpt-vue)|使用 Vue3 + Typescript + Tailwind CSS 框架，调用 OpenAI 的 gpt-3.5-turbo 模型 API 实现的简单聊天对话，支持连续对话。|429|2023-06-27|2023-03-04|
+|17|[AndersonBY/vector-vein](https://github.com/AndersonBY/vector-vein)|No-code AI workflow|423|2023-10-12|2023-05-19|
+|18|[LiuXIn011/rightHouse](https://github.com/LiuXIn011/rightHouse)|right-house房适，一个开源的房屋租赁管理系统，改变传统租房平台中间商的思路，带来P2P租房新模式，租客和房东直接对接。前期提供房东房源发布和租客求租等功能。建立租赁关系后，提供租客交租和房屋报修等功能，房东管理租客信息，维修房屋等功能。终止租赁关系后，租客对房东进行评价评分，提供给后来租客做参考。|393|2023-08-28|2023-05-15|
+|19|[macrozheng/mall-app-web](https://github.com/macrozheng/mall-app-web)|mall-app-web是一个电商系统的移动端项目，基于uni-app实现。主要包括首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等功能。|393|2023-09-19|2022-12-15|
+|20|[dreamhunter2333/cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email)|CloudFlare free temp domain email 免费 临时 域名邮箱|389|2023-10-16|2023-08-15|
+|21|[WanyueKJ/Food-delivery-uniapp](https://github.com/WanyueKJ/Food-delivery-uniapp)|万岳同城外卖(food delivery) 系统开源版，前端uniapp+后台php搭建，系统包含商家端、配送端、用户端以及总管理后台、城市配送后台|387|2023-07-20|2023-03-03|
+|22|[huchenlei/sd-webui-openpose-editor](https://github.com/huchenlei/sd-webui-openpose-editor)|Openpose editor for ControlNet. Full hand/face support.|384|2023-11-21|2023-04-29|
+|23|[yuanyuekeji/stable-diffusion-mobileui](https://github.com/yuanyuekeji/stable-diffusion-mobileui)|基于一键包搭建的stable-diffusion，推出适配移动端的界面UI，可以生成H5和微信小程序。|377|2023-06-17|2023-05-12|
+|24|[NCZkevin/chatglm-web](https://github.com/NCZkevin/chatglm-web)|用 FastAPI 和 Vue3 搭建的 ChatGLM 网页 (前端样式仿照chatgpt-web, 支持chatglm流式输出、前端调整参数、上下文选择、保存图片、知识库问答等功能)|362|2023-07-16|2023-03-22|
+|25|[li-junpeng/dbtu-client](https://github.com/li-junpeng/dbtu-client)|🔥🔥🔥DB兔，免费的数据库管理工具🧰，支持Web在线使用🚀，将计划支持Windows、Mac,、Linux等系统。如果你对此项目感兴趣，动动您的小手给个Star⭐吧。|338|2023-09-01|2023-06-26|
+|26|[dulaiduwang003/ScribbleHub](https://github.com/dulaiduwang003/ScribbleHub)|基于SpringBoot3开发的轻量级技术博客小程序,支持 文章发布(支持上传音频内容或视频内容) 专题管理 搜索 以及渲染 以及文章评论功能 无需第三方OSS存储,使用的是服务器存储空间 详细请看yml中的file配置|331|2023-11-05|2023-06-06|
+|27|[galaxy-s10/billd-live](https://github.com/galaxy-s10/billd-live)|基于Vue3 + WebRTC + Node + SRS搭建的直播间|319|2023-11-05|2023-03-20|
+|28|[imsyy/SPlayer](https://github.com/imsyy/SPlayer)|【重构中】🎉 一个简约的在线音乐播放器，支持网易云音乐账号登录，逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，移动端基础适配|310|2023-11-24|2023-01-06|
+|29|[szluyu99/gin-vue-blog](https://github.com/szluyu99/gin-vue-blog)|Golang 全栈博客，支持 Docker Compose 一键部署。基于最新前后端技术栈 Vue3、TS、Unocs 、Redis 等。前端包含博文展示前台、博客后台管理系统。后端包含 JWT 鉴权、RBAC 权限控制等。代码质量高注释全接口文档完善，适合前后端开发者学习。|298|2023-10-16|2022-12-03|
+|30|[dulaiduwang003/TIME-SEA-chatgpt](https://github.com/dulaiduwang003/TIME-SEA-chatgpt)|基于SpringBoot3开发的Ai平台 含双端 网页以及小程序 包含各类Ai模型 和绘图 ,含支付 双端数据同步 支持自定义预设词,功能板块定义  web兼容手机展示|290|2023-11-15|2023-07-31|
+|31|[ecaps1038/yike-design-dev](https://github.com/ecaps1038/yike-design-dev)|Vue3+Ts+Less 开发的前端UI框架|273|2023-11-23|2023-06-29|
+|32|[tinygeeker/autocue](https://github.com/tinygeeker/autocue)|🌈 AI绘画标签提词器：将标签进行分类整理，支持中文显示、加权、降权、成人模式等功能|246|2023-07-17|2023-03-27|
+|33|[mjjh1717/ai-beehive-web](https://github.com/mjjh1717/ai-beehive-web)|蜂巢 ai-beehive 用户端|240|2023-08-11|2023-04-09|
+|34|[AICCOF/chatmoss-ui](https://github.com/AICCOF/chatmoss-ui)|ChatMoss 交互层开源代码|239|2023-10-14|2023-03-25|
+|35|[climblee/uv-ui](https://github.com/climblee/uv-ui)|uv-ui 破釜沉舟之兼容vue3+2、app、h5、小程序等多端基于uni-app和uView2.x的生态框架，支持单独导入，开箱即用，利剑出击。|220|2023-11-21|2023-07-27|
+|36|[xiaoli1999/custom-avatar](https://github.com/xiaoli1999/custom-avatar)|快速定制中国传统节日头像，国庆国旗头像。customize avatars for traditional Chinese festivals such as National Day, Mid-Autumn Festival, and Spring Festival."|215|2023-11-15|2023-01-11|
+|37|[hncboy/chatgpt-jiezi](https://github.com/hncboy/chatgpt-jiezi)|ChatGPT 管理端-解字|213|2023-07-22|2023-03-29|
+|38|[zmh-program/web-chatgpt-qq-bot](https://github.com/zmh-program/web-chatgpt-qq-bot)|🍉 Web 图形化界面一键配置 ChatGPT Mirai QQ Bot 聊天机器人，内置终端，文件上传，监控，实现密码登录，自定义设置，检测Docker容器状态等功能 🍉 Web graphical interface for one-click configuration of ChatGPT Mirai QQ Bot chat-bot with builtin terminal, file  ...|201|2023-06-04|2023-04-21|
+|39|[FISHers6/QuickAI](https://github.com/FISHers6/QuickAI)|QuickAI是一款基于OpenAI开发的电脑版ChatGPT PC跨平台应用程序，它可以提供划词提问、快捷搜索、对话模式和快捷指令等多种功能。旨在为用户提供更便捷、更智能的PC桌面版AI使用体验。在使用时无需下载额外软件，适用于各种场景，如代码自动编辑、文件自动输入、提问、聊天软件自动回复等。QuickAI is a ChatGPT PC Program, support Windows, Ma ...|185|2023-06-07|2023-03-18|
+|40|[coolight7/MimicryMusic](https://github.com/coolight7/MimicryMusic)|拟声 音视频播放器|183|2023-10-18|2023-05-23|
+|41|[ppoonk/AirGo](https://github.com/ppoonk/AirGo)|前后端分离机场面板AirGo|179|2023-11-24|2023-05-26|
+|42|[P1kaj1uu/ChatGPT-Video-Parsing](https://github.com/P1kaj1uu/ChatGPT-Video-Parsing)|本项目已接入ChatGPT和文生图服务(无需再代理和APIKey)，同时支持腾讯视频、爱奇艺、优酷、芒果TV、哔哩哔哩、网易云音乐等平台会员视频破解可在线解析和论文降重（目前仅适用于PC端，移动端适配暂未完成）|179|2023-08-11|2023-01-04|
+|43|[Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool)|针对于PandoraNext管理tokens.json和config.json的可视化网页，可以实现通过网页批量更改刷新Token，每隔五天自动刷新tokens重启PandoraNext,并实现一键开启暂停重启PandoraNext，支持全部PandoraNext部署方法，并支持动态IP自动验证PandoraNext，且支持热部署，已打包好docker镜像,支持一键食用，后续将扩展更多功能！|172|2023-11-24|2023-11-17|
+|44|[blacktunes/sr-message-maker](https://github.com/blacktunes/sr-message-maker)|崩坏:星穹铁道风格短信的生成网站|172|2023-11-16|2023-04-26|
+|45|[WuKongOpenSource/Wukong_KnowledgeBase](https://github.com/WuKongOpenSource/Wukong_KnowledgeBase)|悟空知识库，提供全面的知识管理功能，您可以在知识库中编辑wiki信息，同时可以将知识库内容共享给同事，进行协同创作。|167|2023-11-06|2023-10-19|
+|46|[lianginx/chatgpt-nuxt](https://github.com/lianginx/chatgpt-nuxt)|基于 Nuxt.js 框架的 ChatGPT 类项目，支持 OpenAI 和 Azure 两种 API 切换，支持黑暗模式、中英日多语言切换。|165|2023-11-08|2023-03-17|
+|47|[super6wenzi/chatGPT-wx](https://github.com/super6wenzi/chatGPT-wx)|OpenAI chatGPT 微信小程序 大型预训练语言模型   A weChat based on OpenAI API (gpt-3.5-turbo)  GPT-4|165|2023-06-12|2023-01-08|
+|48|[ljxi/NetworkPanel](https://github.com/ljxi/NetworkPanel)|测试您的网速，多地查询您的IP地址，同时具备网络延迟实时检测，流量杀手，流量消耗器，流量消失器|160|2023-11-24|2023-01-22|
+|49|[NanYuJun/ChatGTP-uni](https://github.com/NanYuJun/ChatGTP-uni)|基于uniapp开发的ChatGPT模版，微信M-Nanyu|159|2023-10-13|2023-02-14|
+|50|[WuKongOpenSource/Wukong_ProjectManagement](https://github.com/WuKongOpenSource/Wukong_ProjectManagement)|悟空项目管理-基于Spring Cloud Alibaba微服务架构 +vue ElementUI的前后端分离项目管理系统|158|2023-11-06|2023-04-24|
+|51|[WuKongOpenSource/Wukong_Accounting](https://github.com/WuKongOpenSource/Wukong_Accounting)|悟空财务管理系统（悟空FS） 实现凭证管理、账簿管理、资产负债表、现金流量表、利润表等管理。开启数智财务新时代。|153|2023-11-06|2023-10-24|
+|52|[hslr-s/sun-panel](https://github.com/hslr-s/sun-panel)|一个NAS导航面板、Homepage、浏览器首页。|151|2023-11-24|2023-11-09|
+|53|[Moonofweisheng/wot-design-uni](https://github.com/Moonofweisheng/wot-design-uni)|一个基于Vue3+TS开发的uni-app组件库，提供60+高质量组件，支持暗黑模式和自定义主题。|145|2023-11-23|2023-07-19|
+|54|[MirageNetwork/MirageServer](https://github.com/MirageNetwork/MirageServer)|蜃境：基于Headscale修改的带WebUI开源版本Tailscale控制器|129|2023-09-01|2023-02-15|
+|55|[fh332393900/threejs-demo](https://github.com/fh332393900/threejs-demo)|threejs+vue3 可视化大屏|127|2023-06-01|2023-05-12|
+|56|[sdaaron/QueryGPT](https://github.com/sdaaron/QueryGPT)|基于Langchain 的自然语言表格数据查询工具 A Natural Language Tabular Data Query Tool based on Langchain|123|2023-07-15|2023-06-05|
+|57|[zhontai/admin.ui.plus](https://github.com/zhontai/admin.ui.plus)|基于 vue3.x + CompositionAPI setup 语法糖 + typescript + vite + element plus + vue-router-next + pinia 技术，适配手机、平板、pc 的后台权限管理框架，希望减少工作量，帮助大家实现快速开发。|114|2023-11-23|2022-12-14|
+|58|[My-bin/vue2-visualization-LargeScreen](https://github.com/My-bin/vue2-visualization-LargeScreen)|基于vue2+vuex+router+echarts的数据可视化大屏，使用缩放进行了屏幕的适配|112|2023-09-26|2023-08-29|
+|59|[jxxghp/MoviePilot-Frontend](https://github.com/jxxghp/MoviePilot-Frontend)|MoviePilot前端|108|2023-11-24|2023-06-24|
+|60|[nutui-uniapp/nutui-uniapp](https://github.com/nutui-uniapp/nutui-uniapp)|京东风格的轻量级移动端组件库，基于 uniapp与Vue3，支持移动端 H5 和 小程序开发|107|2023-11-24|2023-06-09|
+|61|[newlxj/stablediffusion-website-online](https://github.com/newlxj/stablediffusion-website-online)|stable diffusionAI绘画 AI画图生成平台，适合自己开绘画平台网站，包含图片生成及图片浏览|106|2023-08-12|2023-05-27|
+|62|[xy-sea/web-see-demo](https://github.com/xy-sea/web-see-demo)|web-see监控后台demo，主要用来演示错误还原功能，方式包括：定位源码、播放录屏、记录用户行为|95|2023-10-12|2022-11-29|
+|63|[gcpaas/DataRoom](https://github.com/gcpaas/DataRoom)|🔥基于SpringBoot、MyBatisPlus、ElementUI、G2Plot、Echarts等技术栈的大屏设计器，具备目录管理、DashBoard设计、预览能力，支持MySQL、Oracle、PostgreSQL、JSON等数据集接入，对于复杂数据处理还可以使用Groovy脚本数据集，使用简单，完全免费，代码开源。 |94|2023-11-24|2023-06-19|
+|64|[zkl2333/MR-Extension](https://github.com/zkl2333/MR-Extension)|MR的浏览器插件|92|2023-10-20|2023-01-11|
+|65|[imsyy/DailyHot](https://github.com/imsyy/DailyHot)|DailyHot 今日热榜前端页面   API：https://github.com/imsyy/DailyHotApi|88|2023-11-21|2023-03-20|
+|66|[geeeeeeeek/java_video](https://github.com/geeeeeeeek/java_video)|基于Java的视频点播网站，基于java+springboot+vue开发的短视频播放系统 - 毕业设计 - 课程设计|87|2023-11-13|2023-07-05|
+|67|[geeeeeeeek/python_book](https://github.com/geeeeeeeek/python_book)|（Python+Django+Vue）在线图书借阅网站、图书管理系统 - 毕业设计 - 课程设计|79|2023-09-27|2023-02-25|
+|68|[skmcj/dycast](https://github.com/skmcj/dycast)|抖音弹幕姬，只需输入房间号，即可实时获取对应直播间的弹幕信息，并可将其转发到自己的后端服务|78|2023-09-14|2023-04-08|
+|69|[geeeeeeeek/python_video](https://github.com/geeeeeeeek/python_video)|基于python的视频点播网站，视频点播系统。 python+django+vue搭建的视频点播平台 - 毕业设计 - 课程设计|77|2023-07-30|2023-06-18|
+|70|[moyuc1966/netherworld-console](https://github.com/moyuc1966/netherworld-console)|地府管理系统完整版，功能完整，多用户多权限，有前台功能|76|2023-10-31|2023-04-28|
+|71|[vangleer/es-big-screen](https://github.com/vangleer/es-big-screen)|基于 vue3 + echarts + amap(高德地图) + pinia 开发的大屏可视化项目，支持拖拽布局|75|2023-09-11|2023-05-26|
+|72|[vvvviolet/Virtual-Simulation-Experiment](https://github.com/vvvviolet/Virtual-Simulation-Experiment)|软件工程管理与经济 2023|75|2023-11-06|2023-03-14|
+|73|[mizhexiaoxiao/vue-fastapi-admin](https://github.com/mizhexiaoxiao/vue-fastapi-admin)|⭐️ 基于 FastAPI+Vue3+Naive UI 的现代化轻量管理平台，融合了 RBAC 权限管理、动态路由和 JWT 鉴权，助力中小型应用快速搭建，也可用于学习参考。|73|2023-11-24|2023-08-11|
+|74|[geeeeeeeek/python_jiajiao](https://github.com/geeeeeeeek/python_jiajiao)|python家教信息网站  python+django+vue开发的家教信息管理系统 - 毕业设计 - 课程设计|73|2023-07-30|2023-07-01|
+|75|[nsnail/NetAdmin](https://github.com/nsnail/NetAdmin)|通用后台权限管理系统、快速开发框架（基于C#12/.NET8、Vue3/Vite、Element Plus等现代技术构建，具有十分整洁、优雅的编码规范）|72|2023-11-23|2023-01-03|
+|76|[gulihua10010/wxmini-chatgpt](https://github.com/gulihua10010/wxmini-chatgpt)|微信小程序/uni-app 实现的ChatGpt 程序|69|2023-06-17|2023-02-20|
+|77|[HanaYabuki/otto-hzys](https://github.com/HanaYabuki/otto-hzys)|电棍otto语音活字印刷生成|67|2023-11-06|2022-12-04|
+|78|[geeeeeeeek/python_shop](https://github.com/geeeeeeeek/python_shop)|python商城网站系统, python+django+vue开发的电子商城系统 - 毕业设计 - 课程设计|66|2023-07-30|2023-03-22|
+|79|[imfinefku/orderfood](https://github.com/imfinefku/orderfood)|爱吃火锅点餐小程序由小程序端和管理端构成。 小程序端是用微信小程序原生语言开发。 管理端前端是用Vue+Elementui开发，管理端后端是用SpirngBoot+MyBatis开发。 数据库用的是mysql。 总体来说涉及的技术比较广，难度适中，都是市面上主流的技术，非常适合作为毕业设计。 视频介绍：点击查看B站视频介绍|65|2023-07-31|2023-04-04|
+|80|[yudaocode/yudao-mall-uniapp](https://github.com/yudaocode/yudao-mall-uniapp)|芋道商城，基于 Vue2 + Uniapp 实现，支持分销、拼团、砍价、秒杀、优惠券、积分、会员等级、小程序直播、页面 DIY 等功能，100% 开源|64|2023-11-20|2023-09-11|
+|81|[KYX1234/Element-Admin](https://github.com/KYX1234/Element-Admin)|基于 Vue3、TypeScript、Vite、Pinia、Element-Plus、Unocss 的一套后台管理框架。|64|2023-11-08|2023-07-12|
+|82|[14790897/handwriting-web](https://github.com/14790897/handwriting-web)|将文本转为模拟手写文字的网页版|62|2023-10-28|2023-06-15|
+|83|[Peerless-man/vue3-blog](https://github.com/Peerless-man/vue3-blog)|一个最新vue3技术栈的个人博客系统，包含博客前台、博客后台、博客后端服务|61|2023-11-08|2023-10-31|
+|84|[zmlix/chatgpt-web](https://github.com/zmlix/chatgpt-web)|基于官方API的ChatGPT前端web|61|2023-07-18|2023-03-10|
+|85|[HoraceHuang-ui/MiHOYO-MiXED-Launcher](https://github.com/HoraceHuang-ui/MiHOYO-MiXED-Launcher)|米家聚合启动器，目前支持原神、星铁、崩坏3。An all-in-one launcher for MiHOYO games, currently available for Genshin Impact, Honkai Star Rail and Honkai Impact 3rd.|60|2023-11-20|2023-07-27|
+|86|[Nanjiren01/AIChatConsole](https://github.com/Nanjiren01/AIChatConsole)|这是Nanjiren01/AIChatWeb项目的后台，支持增加管理员，API Key管理，会员管理，额度记录查看与添加，仪表盘|60|2023-11-24|2023-05-11|
+|87|[super-tongyao/wall](https://github.com/super-tongyao/wall)|Wall是一款快速分享资源应用程序。俗称“照片墙、视频墙”，基于Vue3 + Spring Boot开发的云共享资源应用系统。|56|2023-09-05|2023-03-07|
+|88|[Aomferni/chatTests](https://github.com/Aomferni/chatTests)|DataWhale 5月 GPT应用开发Hackathon比赛TOP1项目， 拿到107.5/120的最高分！ 斩获最佳创新奖和最佳应用奖两个最佳奖项！|55|2023-08-08|2023-06-13|
+|89|[ZhQuella/grow_up_admin](https://github.com/ZhQuella/grow_up_admin)|一个基于Vue3+TypeScript开发的Admin框架！|55|2023-11-13|2023-03-14|
+|90|[setube/jntm](https://github.com/setube/jntm)|一个小众的度盘秒传分享平台|54|2023-06-09|2023-06-04|
+|91|[isMrFan/dk-plus-ui](https://github.com/isMrFan/dk-plus-ui)|一套基于 Vue3.0 的 UI 组件库 轻量便捷，打造高效界面， 简单灵活，提升用户体验。|54|2023-10-07|2022-12-29|
+|92|[Virtual-Browser/VirtualBrowser](https://github.com/Virtual-Browser/VirtualBrowser)|Free anti fingerprint browser, 指纹浏览器, 隐私浏览器, 免费的web3空投专用指纹浏览器|53|2023-11-06|2023-05-20|
+|93|[zhang2657977442/wuyou-frontend](https://github.com/zhang2657977442/wuyou-frontend)|✨招聘小程序无忧直聘 前端 Uniapp+Vue2|53|2023-06-16|2022-11-29|
+|94|[besscroft/enstudy](https://github.com/besscroft/enstudy)|嗯学英语，学英语，就嗯学！|52|2023-10-07|2023-08-23|
+|95|[sagoo-cloud/sagooiot-ui](https://github.com/sagoo-cloud/sagooiot-ui)|SagooIOT前端工程|49|2023-09-25|2023-01-03|
+|96|[tangzihan-git/Vue3-manage](https://github.com/tangzihan-git/Vue3-manage)|基于Vue3 + TypeScript + Vite + Element-plus + Pinna + echarts 的后台管理系统|47|2023-06-26|2023-06-18|
+|97|[vingogo/vin-ui](https://github.com/vingogo/vin-ui)|京东(nutui)风格的移动端 Vue3 组件库 、支持多端小程序(uniapp版本)|47|2023-08-27|2023-03-10|
+|98|[ChainToolDao/chaintool-frontend](https://github.com/ChainToolDao/chaintool-frontend)|ChainTool 前端仓库|47|2023-10-29|2023-02-24|
+|99|[geeeeeeeek/python_food](https://github.com/geeeeeeeek/python_food)|python外卖点餐系统，python+django+vue开发的外卖点餐网站 - 毕业设计 - 课程设计|45|2023-07-30|2023-06-29|
+|100|[geeeeeeeek/java_shop](https://github.com/geeeeeeeek/java_shop)|Java商城网站系统设计与实现，基于java+springboot+vue开发的电子商城网站 - 毕业设计 - 课程设计|45|2023-09-27|2023-05-17|
+|101|[jidonghao/resmanage](https://github.com/jidonghao/resmanage)|基于uniapp+express的资源管理系统|45|2023-10-16|2023-01-01|
+|102|[ZYCHOOO/vue3ts-h5-template](https://github.com/ZYCHOOO/vue3ts-h5-template)|📱基于 vue3 + ts + vite + pinia + viewport 适配的移动端模版|44|2023-07-22|2023-04-21|
+|103|[wewewe131/acg2vec-frontend](https://github.com/wewewe131/acg2vec-frontend)|基于vuecli5.08构建的acg2vec前端|43|2023-09-16|2023-07-25|
+|104|[Shirley-WeiVi/ShirleyAi-NlpCorpusViews](https://github.com/Shirley-WeiVi/ShirleyAi-NlpCorpusViews)|ShirleyAi专用NLP语料视图工具，它可以用于编辑、管理、导出不同格式或更新语料库。|43|2023-07-09|2023-07-03|
+|105|[wurencaideli/dumogu-admin](https://github.com/wurencaideli/dumogu-admin)|最基础的管理端架子 - 毒蘑菇管理|42|2023-11-24|2023-10-18|
+|106|[maioria/chatgpt-talkieai](https://github.com/maioria/chatgpt-talkieai)|基于chat-gpt的外语学习应用，可通过语音进行聊天，语法分析，翻译，前端使用uniapp开发，基于vue3，可运行到web、小程序、APP|42|2023-10-13|2023-07-09|
+|107|[themusecatcher/vue-amazing-ui](https://github.com/themusecatcher/vue-amazing-ui)|Vue3 + TS + Vite + Less 开发的常用基础 UI 组件库|42|2023-11-21|2023-02-20|
+|108|[ezshine/mp-dashuailaoyuan-public](https://github.com/ezshine/mp-dashuailaoyuan-public)|大帅老猿小程序（逐渐开源中）|41|2023-11-10|2023-10-14|
+|109|[Steve-xmh/amll-ttml-tool](https://github.com/Steve-xmh/amll-ttml-tool)|一个全新的逐词歌词编辑器！针对 Apple Music-like Lyrics 设计！（重构中）|41|2023-11-22|2023-03-07|
+|110|[tsinghua-lau/one-step](https://github.com/tsinghua-lau/one-step)|Vue3+Typescript+Pinia开箱即用的项目模板|41|2023-07-31|2023-01-11|
+|111|[Megasu/uniapp-shop-vue3-ts](https://github.com/Megasu/uniapp-shop-vue3-ts)|uni-app 开发的微信小程序-小兔鲜儿电商项目|39|2023-08-30|2023-05-03|
+|112|[shican1234/chatgpt-admin-ui](https://github.com/shican1234/chatgpt-admin-ui)|java开发的chatgpt小程序 前端使用uniapp,可打包多端运行,APP,H5,公众号,小程序等 ,基础的CHATPDF阅读功能,三级分销,卡密充值,提供opai的反向代理,支持WEB端，SD绘画等AI绘画功能。MarkDown语法，代码高亮，表格格式化等。|39|2023-06-20|2023-04-26|
+|113|[1164095457/vue-diverse-admin](https://github.com/1164095457/vue-diverse-admin)|vue3+vite+element-plus搭建的后台管理系统|39|2023-10-08|2023-01-05|
+|114|[Plutossy/PsMusic](https://github.com/Plutossy/PsMusic)|基于 SpringBoot + Mybatis + Vue 的音乐网站设计与实现(A music website system based on SpringBoot+Vue, which can realize all operations related to music.)|38|2023-07-26|2023-07-24|
+|115|[gkd-kit/inspect](https://github.com/gkd-kit/inspect)|GKD 网页端审查工具, 抓取快照,审查快照,分享快照, 连接调试 GKD APP 内部 HTTP Server, 实时启用订阅规则, 实时执行点击选择器|38|2023-11-24|2023-07-04|
+|116|[MyButifullyLife/vue-x6-flow-3.0](https://github.com/MyButifullyLife/vue-x6-flow-3.0)|vue3.0 版流程图简易编辑器、简单易上手|38|2023-09-19|2023-03-27|
+|117|[U1805/momotalk](https://github.com/U1805/momotalk)|Blue Archive Momotalk Editor   碧蓝档案Momotalk编辑器|37|2023-11-14|2023-06-24|
+|118|[Deeptrain-Community/fystart](https://github.com/Deeptrain-Community/fystart)|🍏 极目起始页，一个简洁的起始页，实现一言，工具箱，实用卡片，国际化，设置，ChatGPT搜索建议，翻译功能，自定义设置，搜索引擎建议，离线访问等功能  🍏 An  intuitive start page implementing quotes, toolbox, utility cards, settings, ChatGPT search suggestions, international ...|37|2023-10-16|2023-01-22|
+|119|[fangkuai341/bilibili_Manzhan_tickets](https://github.com/fangkuai341/bilibili_Manzhan_tickets)|1.这个B站会员购的漫展抢票代码,B站的抢票系统即将改革，代码也将失效，这是做保留。2.本代码只是交流和学习使用，一切后果由使用者承担。|36|2023-10-19|2023-05-30|
+|120|[walle233/laf-rbac-admin](https://github.com/walle233/laf-rbac-admin)|基于 laf 和 vue 的前后一体化 rbac admin|36|2023-08-08|2023-04-04|
+|121|[LsyWeb/chatgpt-web](https://github.com/LsyWeb/chatgpt-web)|一个简易的网页版chatgpt|35|2023-09-25|2023-03-15|
+|122|[didi/xiaoju-survey](https://github.com/didi/xiaoju-survey)|「快速」打造「专属」问卷系统, 让调研「更轻松」|34|2023-11-24|2023-11-02|
+|123|[xiaohe0601/xiaohe-uniapp](https://github.com/xiaohe0601/xiaohe-uniapp)|🚀 一个开箱即用的uniapp脚手架|34|2023-08-03|2022-11-30|
+|124|[vastsa/openai-apikey-query](https://github.com/vastsa/openai-apikey-query)|批量查询OpenAI账号已用余额，判断apikey的状态|32|2023-07-12|2023-03-22|
+|125|[heyu3913/el-cascader-onlylast-mutiple](https://github.com/heyu3913/el-cascader-onlylast-mutiple)|基于el-cascader实现的最后一级多选|32|2023-09-19|2022-12-01|
+|126|[geeeeeeeek/java_job](https://github.com/geeeeeeeek/java_job)|基于java的求职招聘网站，java+springboot+vue开发的求职招聘系统 - 毕业设计 - 课程设计|31|2023-09-27|2023-07-04|
+|127|[zhangsanplus/ares-admin](https://github.com/zhangsanplus/ares-admin)|基于 Vue3 和 Element Plus 的中后台管理系统模板，带来极致的开发体验。A management system template based on Vue3 and Element Plus .|31|2023-11-24|2023-06-29|
+|128|[tommyrunner/Vue-WebRTC-Demo](https://github.com/tommyrunner/Vue-WebRTC-Demo)|vue3实现WebRTC视频通话demo|31|2023-06-30|2023-06-05|
+|129|[liting-yes/vite-plugin-vue-preview](https://github.com/liting-yes/vite-plugin-vue-preview)|a vite plugin for code preview / 一个代码预览插件|31|2023-11-01|2023-02-18|
+|130|[pddzl/td27-admin](https://github.com/pddzl/td27-admin)|基于Goalng、Gin、Casbin & Vue3、TypeScript、Element Plus 的前后端分离权限管理系统|31|2023-10-23|2023-01-13|
+|131|[fuchengwei/element-readonly-form-item](https://github.com/fuchengwei/element-readonly-form-item)|element 只读态表单控件|30|2023-08-30|2023-06-12|
+|132|[qimu666/jujiao-garden-frontend](https://github.com/qimu666/jujiao-garden-frontend)| 聚交园 ——帮大家找到志同道合的朋友的移动端网站（APP风格）|30|2023-06-04|2023-03-07|
+|133|[skmcj/release](https://github.com/skmcj/release)|用于展示个人作品发布信息|29|2023-09-20|2023-07-16|
+|134|[1035141145/wantonly-drag-open](https://github.com/1035141145/wantonly-drag-open)|企业级低代码数字可视化平台\低代码大屏\DigitalTwin\托拉拽可视化\数字孪生\3D可视化\智能工厂\智慧园区\智慧城市\智慧工地\echart\threejs\|29|2023-11-09|2023-06-06|
+|135|[kits-ui/kits-ui](https://github.com/kits-ui/kits-ui)|Kits UI 给你不一样的体验  基于Vite构建的轻量化 多样化 Vue3组件库|29|2023-11-09|2023-01-16|
+|136|[UIforFreedom/UIF](https://github.com/UIforFreedom/UIF)|代理面板 UI for Freedom|28|2023-11-19|2023-07-27|
+|137|[stark81/my_yesplaymusic](https://github.com/stark81/my_yesplaymusic)|高颜值的第三方网易云播放器，支持本地音乐播放、离线歌单、Mac状态栏歌词显示。支持 Windows / macOS / Linux :electron: |28|2023-10-30|2023-04-12|
+|138|[besscroft/diyfile-web](https://github.com/besscroft/diyfile-web)|一款好看的在线文件列表程序，由 Spring Boot 3 和 Vue 驱动。前端由 Vue3、Vitesse、Tailwind CSS 提供动力~|28|2023-10-13|2022-12-13|
+|139|[owenyang0/easy-typer](https://github.com/owenyang0/easy-typer)|木易跟打器：macOS平台可直接载文的跟打器，mac跟打器|27|2023-11-02|2022-12-19|
+|140|[wzunjh/Library-Management-System](https://github.com/wzunjh/Library-Management-System)|vue+springboot图书馆借阅管理系统; 图书借阅管理，图书管理员权限等 ；主要技术 SpringBoot、Redis、Mybatis-Plus、MySQL、Vue3、ElementPlus、阿里云短信验证服务|27|2023-07-03|2022-12-14|
+|141|[geeeeeeeek/java_travel](https://github.com/geeeeeeeek/java_travel)|基于Java的旅游信息网站 java+springboot+vue开发的旅游景区门票网站管理系统 - 毕业设计 - 课程设计|26|2023-09-27|2023-07-06|
+|142|[geeeeeeeek/java_hotel](https://github.com/geeeeeeeek/java_hotel)|基于Java的酒店预订网站，基于java+springboot+vue开发的酒店客房预订管理系统 - 毕业设计 - 课程设计|26|2023-09-27|2023-07-04|
+|143|[zhengqingya/java-developer-document](https://github.com/zhengqingya/java-developer-document)|Java开发者文档|26|2023-11-23|2023-04-12|
+|144|[geeeeeeeek/java_jiajiao](https://github.com/geeeeeeeek/java_jiajiao)|基于Java的家教信息网站，java+springboot+vue开发的家教预约平台系统 - 毕业设计 - 课程设计|25|2023-09-27|2023-07-04|
+|145|[wudengyao/admin_vue3_vite](https://github.com/wudengyao/admin_vue3_vite)|项目技术栈：Vue3 + JavaScript + Vite4|25|2023-08-30|2023-05-30|
+|146|[lyzhiwang/electron-vite-dh](https://github.com/lyzhiwang/electron-vite-dh)|electron + vite + vue3构建的数字人直播项目|25|2023-11-15|2023-05-25|
+|147|[Yanyutin753/shop-task-forlovers](https://github.com/Yanyutin753/shop-task-forlovers)|为女朋友写的，情侣网站或朋友们自己的任务和商城网站，部署简单，用vu3和springBoot部署，同时支持白嫖，学生部署全程免费|24|2023-11-19|2023-09-30|
+|148|[PandaXGO/PandaXUi](https://github.com/PandaXGO/PandaXUi)|🎉🔥Pandax是Go语言开源的企业级低代码物联网平台开发框架，基于go-restful+Vue3.0+TypeScript+vite3+element-Plus的前后端分离开发。支持设备管控，规则链，云组态，可视化大屏，报表设计器，表单设计器，代码生成器，监控视频接入等功能。能帮助你快速建立物联网平台,MES,WMS等相关业务系统。|24|2023-11-24|2023-08-25|
+|149|[FlapyPan/flapypan-blog](https://github.com/FlapyPan/flapypan-blog)|一款简单高效的博客系统(前端)|24|2023-11-24|2023-07-28|
+|150|[DanceLynx/open-party](https://github.com/DanceLynx/open-party)|本公司开发了一款智慧党建系统，该系统支持微信小程序和微信公众号。这款系统的源码完全开源，为广大用户提供学习使用的机会。系统的开源版本功能包括学习手册、党员风采、首页和个人中心页面的自定义装修。通过这个系统，用户可以方便地学习党建知识，展示党员风采，并且可以根据个人喜好自定义首页和个人中心页面的装修。源码的完全开源意味着用户可以深入学习和理解系统的实现原理，进一步开发和定制符合自己需求的功能。|24|2023-06-28|2023-06-28|
+|151|[xiaozhao-66/Springboot-vue-yanhuoApp](https://github.com/xiaozhao-66/Springboot-vue-yanhuoApp)|一个仿照小红书和堆糖页面设计的基于springboot和vue的uniapp项目，支持短信发送，对象存储，私信聊天等多种功能。|24|2023-09-23|2023-05-27|
+|152|[lyqgit/salvo-admin](https://github.com/lyqgit/salvo-admin)|rust后台管理|24|2023-11-17|2023-05-15|
+|153|[LoCyan-Team/LoCyanFrpPanel](https://github.com/LoCyan-Team/LoCyanFrpPanel)|LoCyanFrp 新管理面板   Powered by NaiveUI|24|2023-10-29|2023-01-18|
+|154|[Moonofweisheng/wot-starter](https://github.com/Moonofweisheng/wot-starter)|基于wot-design-uni的uni-app快速启动模板。|23|2023-11-23|2023-09-02|
+|155|[iimeta/iim-web](https://github.com/iimeta/iim-web)|智元 IM 是一个网页版即时聊天系统, 同时拥有AI聊天对话功能, 支持ChatGPT、Midjourney、文心一言、讯飞星火、通义千问等AI助手功能|23|2023-11-12|2023-07-02|
+|156|[iamdarcy/hioshop-admin-web](https://github.com/iamdarcy/hioshop-admin-web)|海风小店,免费商用,完全开源商城,微信小程序商城管理后台,后台管理,VUE|23|2023-07-25|2023-06-13|
+|157|[novlan1/press-ui](https://github.com/novlan1/press-ui)|易用的、灵活的、基于uni-app的组件库|23|2023-11-18|2023-05-04|
+|158|[lazycce/SteamTradingSiteTracker-APP](https://github.com/lazycce/SteamTradingSiteTracker-APP)|Steam 挂刀行情站 —— 24小时自动更新的 BUFF & IGXE & C5 & UUYP 挂刀比例数据|23|2023-10-17|2023-04-01|
+|159|[NotFaceGUI/nikke-balabala](https://github.com/NotFaceGUI/nikke-balabala)|一款 nikke balabala 生成器|22|2023-11-24|2023-11-06|
+|160|[TangSengDaoDao/TangSengDaoDaoManager](https://github.com/TangSengDaoDao/TangSengDaoDaoManager)|唐僧叨叨IM 后台管理系统|22|2023-11-02|2023-07-08|
+|161|[yx179971/ursa-frontend](https://github.com/yx179971/ursa-frontend)|ursa是一个可视化编排的自动化脚本程序，基于图片识别或指定位置，对一系列的鼠标点击操作进行自动化|22|2023-09-22|2023-04-04|
+|162|[Qiu-Jun/color-gradient-picker-vue3](https://github.com/Qiu-Jun/color-gradient-picker-vue3)|color-gradient-picker-vue3是color-gradient-picker-vue的vue3版本|22|2023-10-15|2023-03-23|
+|163|[bilirz/maomao-frontend](https://github.com/bilirz/maomao-frontend)|猫猫站前端代码|21|2023-11-11|2023-10-14|
+|164|[shican1234/chatgpt-uniapp](https://github.com/shican1234/chatgpt-uniapp)|java开发的chatgpt小程序 前端使用uniapp,可打包多端运行,APP,H5,公众号,小程序等 ,基础的CHATPDF阅读功能,三级分销,卡密充值,提供opai的反向代理,支持WEB端，SD绘画等AI绘画功能。MarkDown语法，代码高亮，表格格式化等。|21|2023-06-20|2023-04-26|
+|165|[fireboomio/case-chatgpt-web](https://github.com/fireboomio/case-chatgpt-web)|使用ChatGPT开发一个|21|2023-06-17|2023-03-20|
+|166|[0604hx/grid-form](https://github.com/0604hx/grid-form)|🧩基于 GRID 布局的简单表单工具（包含可视化设计器、渲染器），默认组件库为 Naive UI|21|2023-11-17|2023-01-29|
+|167|[geeeeeeeek/appvideo](https://github.com/geeeeeeeek/appvideo)|基于vue3开发的影视站模板（模仿西瓜视频）, 对接苹果cms10数据库表, 采用python+django+vue开发的电影网站|20|2023-08-14|2023-08-14|
+|168|[fuchengwei/element-plus-readonly-form-item](https://github.com/fuchengwei/element-plus-readonly-form-item)|基于 ElementPlus 的表单只读态控件，完美适配所有表单组件。主要用于新建页与详情页动态切换。支持 npm 与 cdn 方式的引入。|20|2023-08-30|2023-06-23|
+|169|[w5teams/w5-web](https://github.com/w5teams/w5-web)|W5 SOAR 开源前端|20|2023-10-17|2023-02-23|
+|170|[Dar-Xs/Advance-Dark-Mode-Toggle-Demo](https://github.com/Dar-Xs/Advance-Dark-Mode-Toggle-Demo)|在刷B站的时候看到这个深色模式的切换视频，心血来潮，就用Vue3实现了一下；临摹设计稿花费40min，初步实现花费2h，精调花费30min。|19|2023-08-17|2023-08-12|
+|171|[schuanhe/Plooks](https://github.com/schuanhe/Plooks)|Plooks 是一个大型视频一起看网站|19|2023-10-23|2023-07-28|
+|172|[nonebot/registry](https://github.com/nonebot/registry)|NoneBot 插件商店测试|19|2023-11-24|2023-06-19|
+|173|[chafel/tools4developer](https://github.com/chafel/tools4developer)|Tools For Developer - 高效程序员的利器们|19|2023-07-03|2023-06-08|
+|174|[zhuyuqian/juejin-plugin](https://github.com/zhuyuqian/juejin-plugin)|稀土掘金功能扩展chrome插件|19|2023-10-20|2023-04-16|
+|175|[Liuergouzi/kefu](https://github.com/Liuergouzi/kefu)|基于vue+node+socket+vant+mysql实现的在线客服系统，前后端分离，浏览器指纹作为访客唯一id，内置chatGPT智能回复，采用RSA加解密数据，防sql注入，xss，可发送图片表情、查询历史消息、留言、踢人等，更多功能等待后续更新。 简单快速部署，基本每隔几行我都有写备注，可读性强，目前功能不是很多，欢迎进行二次开发|19|2023-10-07|2023-02-20|
+|176|[PlexPt/rocket-ui](https://github.com/PlexPt/rocket-ui)|rocketpt 前端。基于 Java 的私有PT(private tracker)站点系统，可以提供高质量的种子资源和简单易用的界面。|19|2023-10-13|2023-01-29|
+|177|[Sonder-MX/Blogs-Django-Vue](https://github.com/Sonder-MX/Blogs-Django-Vue)|前后端分离的博客系统，前端Vue3，后端Django4|18|2023-09-06|2023-02-20|
+|178|[s-xianyu/xy-diary](https://github.com/s-xianyu/xy-diary)|uni-app《咸鱼日记》、同时发布到微信小程序和github Pages |18|2023-11-10|2022-11-25|
+|179|[jiangyuxiaoxiao/Bert-VITS2-UI](https://github.com/jiangyuxiaoxiao/Bert-VITS2-UI)|BertVITS2前端界面|17|2023-11-24|2023-10-26|
+|180|[galaxy-s10/billd-live-admin](https://github.com/galaxy-s10/billd-live-admin)|基于Vue3 + Vite4 + NaiveUI搭建的直播间后台|17|2023-09-14|2023-07-11|
+|181|[geeeeeeeek/java_food](https://github.com/geeeeeeeek/java_food)|基于Java的外卖点餐网站， java+springboot+mysql+vue开发的外卖点餐系统、订餐平台 - 毕业设计 - 课程设计|17|2023-09-27|2023-07-04|
+|182|[Jczone/two-hours](https://github.com/Jczone/two-hours)|繁星之辰在线教学平台，在线考试，视频播放，课件下载，通知发布。|17|2023-07-22|2023-07-03|
+|183|[zhuo-tech/nest](https://github.com/zhuo-tech/nest)|基于laf开发的快速开发平台|17|2023-09-20|2023-03-30|
+|184|[atlantis-l/EVMs-Tool](https://github.com/atlantis-l/EVMs-Tool)|EVMs Tool 「以太坊虚拟机交互工具」🔧  🔧  🪙比特币、加密货币、Web3、区块链、币安、撸羊毛、套利、脚本、ETH、BNB、USDT、USDC、Blockchain、Cryptocurrencies、Ethereum、Bitcoin、NFT、Blur、OpenSea、CryptoPunks、BAYC、DeGods、Azuki、Binance、Arbitrage、Script|17|2023-10-21|2023-03-25|
+|185|[oddfar/uni-app_campus_web](https://github.com/oddfar/uni-app_campus_web)|校园信息墙、表白墙、万能墙。移动端，基于uni-app、uView，支持小程序、H5、Android和IOS|17|2023-06-17|2023-03-25|
+|186|[JavaLionLi/plus-ui](https://github.com/JavaLionLi/plus-ui)|RuoYi-Vue-Plus 5.X 与 RuoYi-Cloud-Plus 2.X 统一 UI 前端代码仓库 问题请到主框架反馈|17|2023-11-23|2023-03-16|
+|187|[curly210102/Grow-in-Juejin](https://github.com/curly210102/Grow-in-Juejin)|稀土掘金社区功能增强插件，支持 Chromium 浏览器|17|2023-11-15|2023-02-14|
+|188|[wxy05240/MessageWall](https://github.com/wxy05240/MessageWall)|采用Vue3+Node开发的前后端分离高颜值留言墙项目|17|2023-07-18|2023-02-05|
+|189|[agrass-GitHub/element-plus-crx](https://github.com/agrass-GitHub/element-plus-crx)|一个基于 vue3 + element plus 的扩展组件库，提供数据配置表单，表格，菜单等丰富的扩展组件，帮助你快速开发|17|2023-08-01|2023-02-01|
+|190|[MikeForSharing/RuoYi-Cloud-SecKill](https://github.com/MikeForSharing/RuoYi-Cloud-SecKill)|高并发秒杀系统架构|17|2023-10-10|2022-12-26|
+|191|[MZMusic/MZMusic](https://github.com/MZMusic/MZMusic)|基于Electron+Vue3+Vite的开源音乐软件，使用音频技术助力构建用户的极致音乐体验|16|2023-07-28|2023-07-23|
+|192|[liutingfenga/ChatGPT-Web-Template](https://github.com/liutingfenga/ChatGPT-Web-Template)|ChatGPT-Web   AI网站的网页模板，可以商用二开。|16|2023-07-19|2023-07-19|
+|193|[jianyan74/TinyShop-UniApp](https://github.com/jianyan74/TinyShop-UniApp)|基于 RageFrame3 和 UniApp 的开源商城|16|2023-08-04|2023-07-14|
+|194|[geeeeeeeek/java_zf](https://github.com/geeeeeeeek/java_zf)|基于Java的房屋出租网站，基于java+springboot+vue开发的租房网站、房屋出租管理系统 - 毕业设计 - 课程设计|16|2023-09-27|2023-07-06|
+|195|[anyshift/flip](https://github.com/anyshift/flip)|基于 Spring Boot 3、Spring Security 6、Vue.js 3 与 Element Plus 的前后端分离式论坛系统。|16|2023-11-13|2023-06-15|
+|196|[aigcpro/chataix](https://github.com/aigcpro/chataix)|chataix智能问答系统，汇聚：智能问答，AI绘图，思维导图，白板，各种智能小应用一体化的AI系统|16|2023-06-13|2023-06-13|
+|197|[w1466818955/uniapp-uview2-template](https://github.com/w1466818955/uniapp-uview2-template)|基于uniapp+uview搭建的一套开箱即用的项目基本框架，可直接用于开发:（1）完成项目基本框架搭建，对uni.request的二次封装（请求拦截、响应拦截、token鉴权）；（2）其他平台携带token，跳转首页判断；（3）小程序页面分包搭建；|16|2023-07-04|2023-02-14|
+|198|[WinWang/vue3-wanandroid](https://github.com/WinWang/vue3-wanandroid)|Vue3+vant4+axios+pinia+ts+vite项目（Wan-Android）|16|2023-09-27|2023-02-11|
+|199|[Fankekeke/drug_sales](https://github.com/Fankekeke/drug_sales)|基于SpringBoot的药品销售系统 包括不限于 公告管理，药品管理，库存统计，物流信息，订单详情，订单评价，订单信息，缴费记录，药店管理，药店库存，员工管理，用户管理，销售排行|16|2023-11-13|2023-01-06|
+|200|[Tfh-Yqf/erp](https://github.com/Tfh-Yqf/erp)|开源的ERP系统，使用django+vue搭建，有产品管理、采购管理、生成管理、销售管理、财务管理、报表统计、系统管理板块，包含不同权限，覆盖绝大部分ERP的场景（用户名：管理员，密码：123456）误删除用户！|16|2023-11-22|2022-12-03|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

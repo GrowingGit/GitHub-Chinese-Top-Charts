@@ -1,43 +1,41 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > C++
-<sub>数据更新: 2022-12-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[focus-creative-games/hybridclr](https://github.com/focus-creative-games/hybridclr)|HybridCLR是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 HybridCLR is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotupdate.|2224|2022-11-29|2022-07-04|
-|2|[tuyoogame/huatuo](https://github.com/tuyoogame/huatuo)|huatuo是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更方案。 Huatuo is a fully featured, zero-cost, high-performance, low-memory solution for Unity's all-platform native c# hotfix|2100|2022-07-02|2022-01-11|
-|3|[MicroCBer/BetterNCM](https://github.com/MicroCBer/BetterNCM)|PC版网易云客户端插件管理器|1914|2022-12-04|2022-04-03|
-|4|[MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray)|Qt based cross-platform GUI proxy configuration manager (backend: v2ray / sing-box)|952|2022-12-08|2022-05-03|
-|5|[shuax/chrome_plus](https://github.com/shuax/chrome_plus)|Chrome 增强软件|432|2022-08-05|2022-04-03|
-|6|[seventeenman/CallBackDump](https://github.com/seventeenman/CallBackDump)|dump lsass进程工具|397|2022-12-08|2022-09-25|
-|7|[shuax/edge_plus](https://github.com/shuax/edge_plus)|Chromium-based Edge 增强软件|375|2022-08-05|2022-03-28|
-|8|[0xCuSO4/DHLYK](https://github.com/0xCuSO4/DHLYK)|大灰狼远控木马 V9.5 源码|339|2022-06-16|2022-01-08|
-|9|[MegEngine/MegCC](https://github.com/MegEngine/MegCC)|MegCC是一个运行时超轻量，高效，移植简单的深度学习模型编译器|276|2022-11-28|2022-09-27|
-|10|[zavier-wong/acid](https://github.com/zavier-wong/acid)|A distributed service governance framework. 分布式服务治理框架|259|2022-12-06|2022-01-14|
-|11|[Tencent/embedx](https://github.com/Tencent/embedx)|embedx 是基于 c++ 开发的、完全自研的分布式 embedding 训练和推理框架。它目前支持 图模型、深度排序、召回模型和图与排序、图与召回的联合训练模型等|248|2022-11-09|2022-06-10|
-|12|[ljc545w/ComWeChatRobot](https://github.com/ljc545w/ComWeChatRobot)|PC微信机器人，实现获取通讯录，发送文本、图片、文件等消息，封装COM接口供Python、C#调用|212|2022-08-05|2022-03-13|
-|13|[MinamiChiwa/Trainers-Legend-G](https://github.com/MinamiChiwa/Trainers-Legend-G)|赛马娘本地化插件「Trainers' Legend G」|209|2022-12-03|2022-01-23|
-|14|[Noob-Dream/cskaoyan](https://github.com/Noob-Dream/cskaoyan)|计算机考研国家线 计算机考研需要考哪些科目 计算机考研院校推荐 计算机考研学校排名 计算机考研科目 计算机考研 计算机考研大纲 计算机专业考研 计算机考研专业课 计算机408考研科目 软件工程考研 考研真题|205|2022-07-17|2022-03-09|
-|15|[cxasm/notepad--](https://github.com/cxasm/notepad--)|一个支持windows/linux/mac的文本编辑器，目标是要替换notepad++，来自中国。|203|2022-12-07|2022-06-15|
-|16|[H4de5-7/Bundler-bypass](https://github.com/H4de5-7/Bundler-bypass)|免杀捆绑器，过主流杀软。A Bundler bypass anti-virus|198|2022-11-08|2022-11-05|
-|17|[GrowthEase/LLS-Player](https://github.com/GrowthEase/LLS-Player)|低延时直播（Low-Latency Streaming，LLS）是网易云信推出的低延时、强同步、高质量的直播产品。低延时直播产品基于云信 WE-CAN 全球智能路由网络，为开发者提供毫秒级延时、多平台同步、高可靠高并发的直播服务。  集成网易云信播放器 SDK/NERTD 插件，实现毫秒级延时、稳定流畅的高质量直播场景。|195|2022-11-09|2022-05-09|
-|18|[GrowthEase/NetEase_Meeting](https://github.com/GrowthEase/NetEase_Meeting)|网易会议，是基于网易云信自主研发的新一代云信音视频SDK（G2）提供的视频会议组件化产品，支持直接下载使用，也支持基于SDK将网易会议以组件的方式集成到自己的应用中。本项目提供网易会议产品手册、开发文档、示例项目等相关内容。|160|2022-11-24|2022-02-28|
-|19|[Rvn0xsy/GetWindowsCredentials](https://github.com/Rvn0xsy/GetWindowsCredentials)|通过WindowsAPI获取用户凭证，并保存到文件中|156|2022-09-02|2022-09-01|
-|20|[hiroi-sora/PaddleOCR-json](https://github.com/hiroi-sora/PaddleOCR-json)|OCR离线图片文字识别命令行windows程序，以JSON字符串形式输出结果，方便别的程序调用。提供各种语言API。由 PaddleOCR C++ 编译。|154|2022-12-01|2022-03-29|
-|21|[galis/OpenTikTok](https://github.com/galis/OpenTikTok)|模仿剪映，视频编辑DEMO！|131|2022-12-06|2022-01-15|
-|22|[NotepadFree/NotepadFree](https://github.com/NotepadFree/NotepadFree)|NotepadFree是源自Notepad++的编辑器应用。|123|2022-10-15|2022-09-25|
-|23|[lzs123/CProxy](https://github.com/lzs123/CProxy)|基于epoll实现的C++版内网穿透|97|2022-08-26|2022-02-04|
-|24|[scarsty/nn-editor](https://github.com/scarsty/nn-editor)|Neural Net Editor 神经网络编辑器|94|2022-07-14|2022-01-05|
-|25|[chengwei0427/ESKF_LIO](https://github.com/chengwei0427/ESKF_LIO)|IESKF-LIO reference to fast_lio1.0(参考fast-lio早期版本，复现的fast-lio2)|83|2022-11-23|2022-07-25|
-|26|[A-Normal-User/NtSocket_NtClient_NtServer](https://github.com/A-Normal-User/NtSocket_NtClient_NtServer)|Using NtCreateFile and NtDeviceIoControlFile to realize the function of winsock（利用NtCreateFile和NtDeviceIoControlFile 实现winsock的功能）|75|2022-09-09|2022-09-08|
-|27|[KennyWGH/efficient_online_segmentation](https://github.com/KennyWGH/efficient_online_segmentation)|Efficient Online Segmentation of Ground&Wall Points for Multi-line Spinning LiDARs. //在线分割激光点云中的地面点和墙面点。|75|2022-06-26|2022-05-05|
-|28|[lyshark/LyMemory](https://github.com/lyshark/LyMemory)|一款免费的内核级内存读写工具，可强制读写任意应用层进程内存数据。  A free kernel level memory reading and writing tool, which can forcibly read and write memory data of any application layer process.|72|2022-11-14|2022-09-27|
-|29|[lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry)|微信逆向。Hook WeChat, passing message between agent and WeChat.|71|2022-11-22|2022-09-20|
-|30|[S1mpleBug/muduo_cpp11](https://github.com/S1mpleBug/muduo_cpp11)|C++11版本muduo网络库 除去了对boost库的依赖|70|2022-10-14|2022-03-01|
-|31|[wz-wsl/360-bypass](https://github.com/wz-wsl/360-bypass)|c++免杀绕过360,vt爆4个|69|2022-08-18|2022-08-11|
-|32|[liu976336402/NUC9-hackintosh](https://github.com/liu976336402/NUC9-hackintosh)|NUC9 opencore 引导|64|2022-11-17|2022-07-14|
-|33|[H3d9/memory_cleaner](https://github.com/H3d9/memory_cleaner)|Memory Cleaner重制版（原版未开源），删除强制联网更新，并添加目前windows已有的所有清理内存方法。|64|2022-10-01|2022-06-12|
+|1|[InternLM/lmdeploy](https://github.com/InternLM/lmdeploy)|LMDeploy is a toolkit for compressing, deploying, and serving LLMs.|1467|2023-11-24|2023-06-15|
+|2|[CodingHanYa/workspace](https://github.com/CodingHanYa/workspace)|workspace是基于C++11的轻量级异步执行框架，支持：通用任务异步并发执行、优先级任务调度、自适应动态线程池、高效静态线程池、异常处理机制等。|722|2023-07-22|2023-01-17|
+|3|[pentilm/StellarSolver](https://github.com/pentilm/StellarSolver)|🌌 High-Performance N-Body Simulation with CUDA and Barnes-Hut Algorithm. 一个努力的，一个延续了近二百个文明的努力，为解决三体问题的努力，寻找太阳运行规律的努力。|521|2023-07-05|2023-07-05|
+|4|[daisixuan/r0chrome](https://github.com/daisixuan/r0chrome)|r0chrome是一款对chromium源码进行定制的浏览器,支持爬虫/JS逆向工程师进行辅助分析网页|459|2023-07-03|2023-03-25|
+|5|[Mq-b/Loser-HomeWork](https://github.com/Mq-b/Loser-HomeWork)|卢瑟们的作业，展示以及答案讲解|272|2023-11-24|2023-08-03|
+|6|[myzxcg/RealBlindingEDR](https://github.com/myzxcg/RealBlindingEDR)|Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...|270|2023-11-01|2023-10-28|
+|7|[heyManNice/EasyMusic](https://github.com/heyManNice/EasyMusic)|这是一个致力于用C++和win32api打造的开源第三方网易云音乐。|270|2023-10-12|2023-10-01|
+|8|[DeployAI/nndeploy](https://github.com/DeployAI/nndeploy)|nndeploy is a cross-platform, high-performing, and straightforward AI model deployment framework. We strive to deliver a consistent and user-friendly experience across various inference framework back ...|268|2023-11-24|2023-08-08|
+|9|[weirdseed/Vits-Android-ncnn](https://github.com/weirdseed/Vits-Android-ncnn)|vits Android部署|267|2023-11-04|2022-12-19|
+|10|[KtzeAbyss/Easy-Virtual-Display](https://github.com/KtzeAbyss/Easy-Virtual-Display)|Effortlessly create virtual displays in Windows, capable of supporting various resolutions and refresh rates, suitable for remote control or graphics card spoofing.在win中轻松创建支持多种分辨率和刷新率的虚拟显示器，可用于远程控制或显 ...|250|2023-10-09|2023-09-17|
+|11|[SecurityAnalysts01/ShellcodeLoader](https://github.com/SecurityAnalysts01/ShellcodeLoader)|Windows通用免杀shellcode生成器，能够绕过Microsoft Defender、360、火绒、Panda等杀软的查杀。|243|2023-09-11|2023-06-25|
+|12|[huakunyang/SummerTTS](https://github.com/huakunyang/SummerTTS)|SummerTTS 是一个基于C++的独立编译的中文和英文语音合成项目，可以本地运行不需要网络，而且没有额外的依赖，一键编译完成即可用于中文和英文的语音合成。SummerTTS is a  standalone Chinese and English speech synthesis(TTS) project that has almost no dependency and could be e ...|241|2023-07-11|2023-04-20|
+|13|[Mythologyli/ZJU-Connect-for-Windows](https://github.com/Mythologyli/ZJU-Connect-for-Windows)|基于 Qt 编写的 ZJU 网络客户端|180|2023-11-14|2023-02-01|
+|14|[ddf8196/BetterRenderDragon](https://github.com/ddf8196/BetterRenderDragon)|更好的渲染龙|179|2023-10-22|2023-01-09|
+|15|[RQNG/Rapid-trigger-minipad](https://github.com/RQNG/Rapid-trigger-minipad)|低成本实现Wooting键盘的Rapid trigger功能，不必为几个按键购买整个键盘，人人都能做，WouoUI例程。|166|2023-10-16|2023-01-20|
+|16|[CN-Belief/MIUI-](https://github.com/CN-Belief/MIUI-)|因看到雪军用免费工具圈钱而突发奇想做的MIUI优化小程序|163|2023-06-30|2023-01-04|
+|17|[any12345com/DS](https://github.com/any12345com/DS)|一个Qt开发的可以替代爬虫的网页数据采集软件，它最重要的特点就是，降低了采集网页数据的门槛，由至少必须掌握一门编程语言降低到只要会操作电脑即可。|153|2023-07-13|2023-03-27|
+|18|[MegEngine/mperf](https://github.com/MegEngine/mperf)|mperf是一个面向移动/嵌入式平台的算子性能调优工具箱|144|2023-08-17|2023-02-28|
+|19|[czyt/vivaldi_plus](https://github.com/czyt/vivaldi_plus)|根据shuax chrome_plus 修改|142|2023-10-23|2022-11-26|
+|20|[RQNG/WOW-OS](https://github.com/RQNG/WOW-OS)|简易的拖影风格多级菜单系统，满足小设备功能设置和展示的基本需求|130|2023-10-16|2023-08-27|
+|21|[Theresa-0328/MHY_Scanner](https://github.com/Theresa-0328/MHY_Scanner)|崩坏3，原神，星穹铁道的Windows平台的扫码和抢码登录器，支持从直播流抢码。|118|2023-11-18|2023-02-16|
+|22|[suixin1424/crossfire-yolo-TensorRT](https://github.com/suixin1424/crossfire-yolo-TensorRT)|基于yolo-trt的穿越火线ai自瞄|116|2023-07-12|2023-02-05|
+|23|[huifeng-kooboo/DT](https://github.com/huifeng-kooboo/DT)|You can make any desktop application by Dt Framework, 基于QT开发的组件式框架DT.|110|2023-08-28|2022-12-08|
+|24|[GraphicsEnthusiast/DreamRender](https://github.com/GraphicsEnthusiast/DreamRender)|我的第一个cpu离线渲染器|98|2023-06-27|2023-05-16|
+|25|[JoinEnjoyJoyYangLingYun/HybridCLR_YooAsset_UniTask](https://github.com/JoinEnjoyJoyYangLingYun/HybridCLR_YooAsset_UniTask)|整合HybridCLR+YooAsset+UniTask工程|93|2023-06-25|2023-06-25|
+|26|[sponsord/profanity-tron](https://github.com/sponsord/profanity-tron)| 🚀 波场（TRX）靓号生成器，利用 gpu 进行加速，代码开源，安全可靠。Tron(TRX) vanity address generator, use GPU, opensource, safety, enjoy.|91|2023-11-02|2023-04-25|
+|27|[metaworking/channeld-ue-plugin](https://github.com/metaworking/channeld-ue-plugin)|Enables distributed simulation with Unreal Engine's dedicated servers. 为虚幻引擎专用服务器提供分布式模拟能力的开源插件.|89|2023-11-22|2023-03-17|
+|28|[JerryAZR/InstaOrder](https://github.com/JerryAZR/InstaOrder)|Place order instantly when online shopping - 快速下单小助手|87|2023-10-26|2023-07-09|
+|29|[cnbatch/udphop](https://github.com/cnbatch/udphop)|专用于UDP的端口跳跃工具。A tool of UDP's Port Hopping|74|2023-11-12|2022-11-26|
+|30|[Yufccode/Load-balanced-online-OJ-system](https://github.com/Yufccode/Load-balanced-online-OJ-system)|一个负载均衡的在线OJ系统，实现类似leetcode的在线编程系统。|73|2023-11-14|2023-10-20|
+|31|[Icingworld/Steganalysis-LSB](https://github.com/Icingworld/Steganalysis-LSB)|图片隐写术之LSB，Least Significant Bit for image|66|2023-06-25|2023-06-14|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -1,56 +1,45 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > HTML
-<sub>数据更新: 2022-12-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans)|得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体|8571|2022-11-28|2022-11-11|
-|2|[ilovexjp/health-code-index](https://github.com/ilovexjp/health-code-index)|健康码模拟 - 索引|2050|2022-11-09|2022-10-25|
-|3|[liu673cn/xbb](https://github.com/liu673cn/xbb)|biubiu播放器|804|2022-08-19|2022-05-10|
-|4|[Threekiii/Vulnerability-Wiki](https://github.com/Threekiii/Vulnerability-Wiki)|一个综合漏洞知识库，集成了Vulhub、Peiqi、Edge、0sec、Wooyun等开源漏洞库|333|2022-07-22|2022-04-29|
-|5|[DistSysCorp/ddia](https://github.com/DistSysCorp/ddia)|DDIA 逐章精读|180|2022-11-26|2022-02-16|
-|6|[code-scan/LoginFish](https://github.com/code-scan/LoginFish)|通用登录页面安全控件钓鱼|155|2022-06-30|2022-06-28|
-|7|[3293172751/Block_Chain](https://github.com/3293172751/Block_Chain)|Block_Chain是区块链开发笔记和项目代码，包含区块链路线，Go语言学习路线，Go语言笔记，Go语言开发后端路线，密码学原理，fabric，hyperledger，docker容器技术，git，nginx，区块链原理，基本框架，IPFS技术，pbft共识算法，Go语言开发的项目，区块链的开发项目，redis技术（三主三重和主从扩容）和分布式算法，加密货币开发流程，将其上传到GitHub，如果 ...|137|2022-08-06|2022-01-04|
-|8|[itorr/sojo](https://github.com/itorr/sojo)|💊「逼死前端狗」听说你是前端工程师？|130|2022-11-09|2022-08-31|
-|9|[erdengk/gsoc-analyse](https://github.com/erdengk/gsoc-analyse)|帮助新手参与开源|116|2022-06-15|2022-01-10|
-|10|[midorg-com/midorg](https://github.com/midorg-com/midorg)|元岛社区的代码仓库|115|2022-11-07|2022-06-04|
-|11|[BugMaker888/sheep](https://github.com/BugMaker888/sheep)|羊了个羊自动生成3d地图|77|2022-11-06|2022-09-30|
-|12|[itorr/magi](https://github.com/itorr/magi)|👩🏼 「MAGI System」一键决议系统|70|2022-07-16|2022-06-08|
-|13|[songquanpeng/pronunciation-corrector](https://github.com/songquanpeng/pronunciation-corrector)|拯救你的英语发音，告别因发音错误带来的尴尬！|69|2022-06-17|2022-02-16|
-|14|[JDFED/JDHybrid](https://github.com/JDFED/JDHybrid)|针对WebView开发的工具集，包括WebView基础能力、性能优化能力等，后续将逐步开源|66|2022-12-02|2022-11-04|
-|15|[forrestchang/readbuidl](https://github.com/forrestchang/readbuidl)|-|66|2022-08-09|2022-06-15|
-|16|[tjy-gitnub/win12](https://github.com/tjy-gitnub/win12)|点击这里立即在线体验|63|2022-11-27|2022-08-31|
-|17|[Fanyuansheng/PHP-Background-management-system](https://github.com/Fanyuansheng/PHP-Background-management-system)|用PHP和layui搭建的学生后台管理系统|62|2022-11-26|2022-07-16|
-|18|[vzane0904/v-naive-admin](https://github.com/vzane0904/v-naive-admin)|⚡️基于 Vue3 + Vite2+ Pinia + ts + windicss +  Naive UI 的轻量级后台管理模板。|61|2022-10-08|2022-08-28|
-|19|[ZhongFuCheng3y/austin-admin](https://github.com/ZhongFuCheng3y/austin-admin)|austin项目前端，依赖amis|61|2022-12-08|2022-01-22|
-|20|[CMoyuer/PicoAreaHelper](https://github.com/CMoyuer/PicoAreaHelper)|Pico4换区小助手|57|2022-11-19|2022-10-14|
-|21|[cym1102/svnWebUI](https://github.com/cym1102/svnWebUI)|svn服务端web图形化管理系统, 搭建svn服务器的神器.|57|2022-11-27|2021-12-15|
-|22|[shidahuilang/openwrt](https://github.com/shidahuilang/openwrt)|openwrt编译更新库X86-R2C-R2S-R4S-R5S-N1-小米MI系列等多机型全部适配OTA自动升级|53|2022-12-08|2022-03-12|
-|23|[MasonEast/MasonEast.github.io](https://github.com/MasonEast/MasonEast.github.io)|一个免费，简单，高度自由化的简历制作平台。|40|2022-09-23|2022-07-28|
-|24|[Uahh/AnimationList](https://github.com/Uahh/AnimationList)|制作你的番剧推荐列表|40|2022-10-16|2022-07-19|
-|25|[Majunwu666/fakeholiday-Pro](https://github.com/Majunwu666/fakeholiday-Pro)|今日校园请假模拟器（蓝色版）|39|2022-10-24|2022-09-17|
-|26|[Keywos/loon-shadowrocket](https://github.com/Keywos/loon-shadowrocket)|自用去广告规则 loon、小火箭，无分流规则|38|2022-07-25|2022-04-27|
-|27|[fromann/heart](https://github.com/fromann/heart)|点燃我温暖你李洵同款爱心代码，爱心跳动代码，爱心代码|34|2022-11-10|2022-11-08|
-|28|[houdunwang/v2022](https://github.com/houdunwang/v2022)|2022年视频代码|34|2022-11-19|2022-01-23|
-|29|[NEUQ-ACM/Experimental-Class-Weekly](https://github.com/NEUQ-ACM/Experimental-Class-Weekly)|工程创新实践实训实验班|33|2022-07-12|2021-12-29|
-|30|[Esdiarap/vuejs3Code--HcySunYang-Ver.](https://github.com/Esdiarap/vuejs3Code--HcySunYang-Ver.)|vuejs设计与实现源码, 霍春阳版|32|2022-08-18|2022-04-04|
-|31|[xujimu/ios_super_sign_docker](https://github.com/xujimu/ios_super_sign_docker)|超级签名 企业签名 免签封装 app打包 应用多开 自助分发 多合一系统 支持15系统 两条命令即可安装使用|30|2022-06-26|2022-03-10|
-|32|[houdunwang/vue](https://github.com/houdunwang/vue)|VUE 前端脚手架|30|2022-07-28|2021-12-17|
-|33|[kaygb/KZHomePage](https://github.com/kaygb/KZHomePage)|二次元卡片个人网站主页|29|2022-09-18|2022-03-29|
-|34|[chiron-fonts/chiron-hei-hk](https://github.com/chiron-fonts/chiron-hei-hk)|昭源黑體：現代筆形風格，平衡標準字形和印刷體慣用筆形的免費開源黑體字型|29|2022-08-03|2022-03-16|
-|35|[SummerSec/WebToolsCollections](https://github.com/SummerSec/WebToolsCollections)|🐛糊涂虫工具箱 About The Project https://sumsec.me/2022/Hack-Tools2Web.html|29|2022-06-12|2022-02-26|
-|36|[metaphysicser/GDUT-Computer-Survival-Manual](https://github.com/metaphysicser/GDUT-Computer-Survival-Manual)|GDUT计算机学院保研经验贴|28|2022-10-30|2022-09-10|
-|37|[LinWin-Cloud/SetoolLinux](https://github.com/LinWin-Cloud/SetoolLinux)|一个适用于Linux和安卓的个人轻量级社会工程学工具集。基于Python开发，吸取了同类软件的经验，量身定制的Linux运行，你总能够使用他完成目标。包括钓鱼网站、网站克隆、破坏脚本攻击、全球定位、获取IP、web控制台、shodan物联网搜索，内置终端。|23|2022-10-15|2022-03-26|
-|38|[inveta/demo](https://github.com/inveta/demo)|UE5 三维可视化 示例工程|22|2022-11-15|2022-08-11|
-|39|[uappkit/uapp-android](https://github.com/uappkit/uapp-android)|uapp android 工程模板, 使用详情看 https://github.com/uappkit/uapp|22|2022-11-05|2022-02-15|
-|40|[orleven/Celestion](https://github.com/orleven/Celestion)|Celestion 是一个无回显漏洞测试辅助平台，平台使用flask编写，提供DNSLOG，HTTPLOG等功能。 (界面懒得弄，后续有需要再说)。|22|2022-10-15|2022-01-07|
-|41|[chinamonarchs/xyxyxy](https://github.com/chinamonarchs/xyxyxy)|闲鱼爬虫,闲鱼采集,闲鱼分析.闲鱼hook,闲鱼签名.闲鱼滑块,闲鱼风控,闲鱼抢拍,闲鱼强聊,闲鱼秒拍,闲鱼商品监控|21|2022-10-15|2022-08-13|
-|42|[noneplugin/nonebot-plugin-logo](https://github.com/noneplugin/nonebot-plugin-logo)|Nonebot2 插件，用于制作pornhub等风格logo|21|2022-10-29|2021-12-23|
-|43|[TW527E/renexmoe-tw527e-edition](https://github.com/TW527E/renexmoe-tw527e-edition)|高顏值 OneManager 主題，作用於 OneManager-php，提供多種CDN|20|2022-07-01|2022-04-24|
-|44|[qinlili23333/545WebPlayer](https://github.com/qinlili23333/545WebPlayer)|随时随地在线补充塔能量|19|2022-07-09|2022-03-25|
-|45|[zhizhuoshuma/cve_info_data](https://github.com/zhizhuoshuma/cve_info_data)|各大平台IOT设备漏洞资源库|18|2022-07-30|2022-02-15|
-|46|[modcrafts/a60-shop](https://github.com/modcrafts/a60-shop)|超市 A60🥵|16|2022-08-01|2022-05-05|
+|1|[LianjiaTech/BELLE](https://github.com/LianjiaTech/BELLE)|BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）|6979|2023-11-24|2023-03-17|
+|2|[adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。|5051|2023-06-12|2023-05-03|
+|3|[Instruction-Tuning-with-GPT-4/GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM)|Instruction Tuning with GPT-4|3594|2023-06-11|2023-04-06|
+|4|[aoaostar/legado](https://github.com/aoaostar/legado)|阅读APP书源|1095|2023-11-24|2022-11-28|
+|5|[xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)|Pure Javascript ChatGPT demo based on OpenAI API|805|2023-11-17|2023-03-04|
+|6|[xbzstudio/Timeless-Sydney](https://github.com/xbzstudio/Timeless-Sydney)|好用的New Bing web客户端，功能众多~|672|2023-08-22|2023-04-30|
+|7|[bulianglin/psub](https://github.com/bulianglin/psub)|利用CF Worker搭建的反代订阅转换工具|386|2023-11-01|2023-10-17|
+|8|[waityousea/xuniren](https://github.com/waityousea/xuniren)|-|384|2023-10-10|2023-04-21|
+|9|[souying/vercel-api-proxy](https://github.com/souying/vercel-api-proxy)|vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google、Telegram、全面代理ai项目一键安装|229|2023-07-17|2023-06-20|
+|10|[x-dr/tts](https://github.com/x-dr/tts)|微软azure文本转语音 音频下载|222|2023-11-21|2023-08-19|
+|11|[smallfox233/JsonExp](https://github.com/smallfox233/JsonExp)|fastjson漏洞批量检测工具|172|2023-08-18|2023-01-29|
+|12|[guifaChild/text_to_vedio](https://github.com/guifaChild/text_to_vedio)|这是一个由文本直接生成视频的项目|158|2023-07-26|2023-06-12|
+|13|[A10ha/EmailSender](https://github.com/A10ha/EmailSender)|钓鱼邮件便捷发送工具（GUI）|144|2023-06-12|2023-05-13|
+|14|[lecepin/code-lab](https://github.com/lecepin/code-lab)|B站视频号的所有资源和链接聚集地|93|2023-11-20|2023-02-18|
+|15|[wooveep/chatserver-web](https://github.com/wooveep/chatserver-web)|基于OPENAI的ChatGPTAPI开发的适合企业团队使用的AI助手|80|2023-06-27|2023-05-11|
+|16|[zhangwenboi/daimaiqr](https://github.com/zhangwenboi/daimaiqr)|抢票助手,将大麦要抢得场次复制转换为二维码,大麦app扫码进入|74|2023-08-29|2023-07-14|
+|17|[Guyungy/damaihelper](https://github.com/Guyungy/damaihelper)|大麦助手 - 抢票脚本|60|2023-07-22|2023-05-12|
+|18|[waite0603/Resume-vCard-Collection](https://github.com/waite0603/Resume-vCard-Collection)|About Responsive Personal Portfolio Website Using HTML CSS and JavaScript with Light & Dark Theme Toggle, Web前端静态个人简历，网页个人简历模版，HTML&CSS制作个人简历, 个人作品集网站|56|2023-10-27|2023-09-30|
+|19|[mundane799699/Downloads](https://github.com/mundane799699/Downloads)|一款可以下载抖音无水印视频/图片的安卓app|56|2023-09-14|2023-05-19|
+|20|[mumuy/datex](https://github.com/mumuy/datex)|时间格式化工具 - 日期标准化/时间间隔计算/时间处理/时区切换_datetime format library|55|2023-11-09|2022-12-11|
+|21|[wiwikuan/chordfinder](https://github.com/wiwikuan/chordfinder)|不囉唆的和弦代號查詢器 by NiceChord 好和弦|53|2023-06-24|2023-06-21|
+|22|[lin2025/gpt3.5](https://github.com/lin2025/gpt3.5)|LinGPT, a ChatGPT (GPT-3.5 / GPT-4) webpage with just a single HTML file. 只有一个html文件的ChatGPT聊天网页，零门槛，10秒搞定。GPT4 多Key轮询 Auto Key Rotation 支持第三方Key 兼容代理平台 Supports proxy / third-party keys|51|2023-08-28|2023-03-23|
+|23|[maotoumao/MusicFreeThemePacks](https://github.com/maotoumao/MusicFreeThemePacks)|MusicFreeDesktop版的主题包|47|2023-11-08|2023-07-22|
+|24|[Jason-wam/Cat-Maven-2023](https://github.com/Jason-wam/Cat-Maven-2023)|资源猫用到的相关数据集|46|2023-07-05|2023-05-02|
+|25|[varletjs/varlet-resume](https://github.com/varletjs/varlet-resume)|A resume template based on Varlet / 一个基于 Varlet 的简历模板|40|2023-11-02|2023-02-28|
+|26|[netcccyun/toolbox](https://github.com/netcccyun/toolbox)|彩虹工具箱，一个在线工具箱|38|2023-11-24|2023-09-28|
+|27|[AirboZH/halo-theme-chirpy](https://github.com/AirboZH/halo-theme-chirpy)|一个Halo生态，简约且功能丰富的技术博客主题。A minimal, responsive and feature-rich Halo theme for technical writing.|35|2023-11-22|2023-07-11|
+|28|[Jakevin/openai-workshop](https://github.com/Jakevin/openai-workshop)|這是一個整合OpenAI的練習專案，從text-davinci 到 最新的 Whisper 都有使用。This is an integration practice project that uses OpenAI's models from Text-Davinci to the latest Whisper.|35|2023-11-07|2023-03-31|
+|29|[vicaelae/vip_video_js](https://github.com/vicaelae/vip_video_js)|免费看爱奇艺脚本|32|2023-08-10|2023-01-10|
+|30|[imsyy/UNM-Server](https://github.com/imsyy/UNM-Server)|网易云解灰-API服务|31|2023-08-08|2023-04-18|
+|31|[TerraMours/TerraMours_Gpt_Web](https://github.com/TerraMours/TerraMours_Gpt_Web)|TerraMours实战项目，基于vue3.0+ts+naive UI+vite的ChatGPT项目前端。实现用户登陆和基于SK的多语言模型聊天、基于chatgpt和SD的多模型图片生成等功能。|30|2023-11-21|2023-06-12|
+|32|[AngelOver/ChatgptFreeAccount](https://github.com/AngelOver/ChatgptFreeAccount)|Chatgpt免费账号共享、账号共享、plus账号共享|30|2023-11-15|2023-05-06|
+|33|[liuchangfitcloud/theme-moderna](https://github.com/liuchangfitcloud/theme-moderna)|基于bootstrapmade-Moderna 设计的Halo主题 |29|2023-11-01|2023-01-10|
+|34|[LorenceChen/DHO800_BatteryPack](https://github.com/LorenceChen/DHO800_BatteryPack)|为DHO800/900系列示波器设计的电池包（Battery pack designed for DHO800/900 series oscilloscopes）|27|2023-09-11|2023-09-01|
+|35|[lhwd521/auto-midjourney](https://github.com/lhwd521/auto-midjourney)|midjourney自动出图脚本|26|2023-06-16|2023-05-15|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

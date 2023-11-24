@@ -1,32 +1,32 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Objective-C
-<sub>数据更新: 2022-12-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2612|2022-08-02|
-|2|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1382|2022-11-23|
-|3|[GGGHub/Reader](https://github.com/GGGHub/Reader)|iOS基于CoreText实现的电子书阅读器，支持txt，epub格式|1140|2022-10-09|
-|4|[HeathWang/HWPanModal](https://github.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|975|2022-08-04|
-|5|[alibaba/MNNKit](https://github.com/alibaba/MNNKit)|MNNKit is a collection of AI solutions for mobile developers, powered by MNN engine.|564|2022-06-28|
-|6|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|450|2022-06-16|
-|7|[yangKJ/KJCategories](https://github.com/yangKJ/KJCategories)|Collection of native ios extensions and classes to boost development process. Such as UIKit, Foundation, QuartzCore, Accelerate, OpenCV, CoreGraphics, os and more. 超实用开发加速工具收集|380|2022-06-16|
-|8|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|MoviePlayer which based on FFmpeg step by step tutorials for iOS/macOS developer. （使用 FFMpeg 封装播放器系列教程，适合零基础的 iOS/macOS 开发者学习）|174|2022-07-27|
-|9|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|69|2022-08-05|
-|10|[FrizzleFur/DailyLearning](https://github.com/FrizzleFur/DailyLearning)|My Daily Learning~|45|2022-07-16|
-|11|[yungfan/iOS-continuous-learning](https://github.com/yungfan/iOS-continuous-learning)|不断学习中写的案例|41|2022-07-07|
-|12|[DamonHu/HDWindowLogger](https://github.com/DamonHu/HDWindowLogger)|iOS端将输出日志log悬浮显示在屏幕上，可以生成日志文件分享，便于在真机没有连接xcode的情况下调试信息。  The iOS side displays the output log log on the screen, and can generate log file sharing, which is convenient for debugging information when t ...|38|2022-06-22|
-|13|[xgugeng/dev-notes](https://github.com/xgugeng/dev-notes)|开发进阶笔记|34|2022-06-16|
-|14|[XLsn0w/XLsn0w](https://github.com/XLsn0w/XLsn0w)|🔥🔥🔥联系我:XLsn00w@gmail.com   微信公众号: Cydia   Cydia官方源: https://xlsn0w.github.io/tweaks/ 🔥🔥🔥|14|2022-07-28|
-|15|[MinMao-Hub/iOS_CommonTools](https://github.com/MinMao-Hub/iOS_CommonTools)|iOS常用工具总结（包括分类、扩展、以及常用组件）|13|2022-07-28|
-|16|[zdrjson/note](https://github.com/zdrjson/note)|Software Engineering knowledge collection of everything you want to know|12|2022-08-06|
-|17|[crazypoo/PTools](https://github.com/crazypoo/PTools)|iOS开发工具小集合,不定期更新|11|2022-07-28|
-|18|[aolan/iOS_Develop](https://github.com/aolan/iOS_Develop)|该文档都是日常开发过程中解决问题的经验总结。|7|2022-07-18|
-|19|[6ag/LotteryDemo](https://github.com/6ag/LotteryDemo)|各种类型的抽奖活动合集，包括转盘、卡牌、打地鼠、老虎机、娃娃机、双色球、开宝箱等等|6|2022-07-27|
-|20|[Veeco/WGExtension](https://github.com/Veeco/WGExtension)|iOS实用工具小合集|5|2022-07-15|
-|21|[iMonkeyBro/CQAVKit](https://github.com/iMonkeyBro/CQAVKit)|音视频学习笔记，封装音视频相关工具|4|2022-06-28|
-|22|[HemingTai/HTProject](https://github.com/HemingTai/HTProject)|记录平时的学习心得，包括AFN、SD、GCD、Socket...|4|2022-07-25|
+|1|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1589|2023-11-24|
+|2|[HeathWang/HWPanModal](https://github.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|1102|2023-11-23|
+|3|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|1.抖音视频转场动画,抖音左滑push进个人主页, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok 2.网易云iOS小组件Widget  3.铃声多多,上传铃声音频到库乐队(GarageBand) 4.微博主页、简书主页等。多页面嵌套列表分页滚动，上下滑动，左右滑动切换页面。类似TableView共用HeaderView悬浮,仿头条标签编辑,铃声多多音乐播放界面(豆瓣电影主页 ...|488|2023-10-29|
+|4|[MobClub/ShareSDK-for-iOS](https://github.com/MobClub/ShareSDK-for-iOS)|快捷好用的社会化分享组件 Convenient SDK for SNS Share Feature|462|2023-08-25|
+|5|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|MoviePlayer which based on FFmpeg step by step tutorials for iOS/macOS developer. （使用 FFMpeg 封装播放器系列教程，适合零基础的 iOS/macOS 开发者学习。演示了 OpenGL 和 Metal 等多种视频渲染方式，以及使用 AudioUnit 和 AudioQueue 渲染不同格式的音频。）|249|2023-10-17|
+|6|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|84|2023-10-24|
+|7|[ZenonHuang/MyDemos](https://github.com/ZenonHuang/MyDemos)|💾 Demo 集合 . 黑发不知勤学早，白首方悔读书迟.|69|2023-06-17|
+|8|[FrizzleFur/DailyLearning](https://github.com/FrizzleFur/DailyLearning)|My Daily Learning~|53|2023-10-03|
+|9|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|31|2023-11-23|
+|10|[ApesTalk/Epub](https://github.com/ApesTalk/Epub)|一步一步学习如何制作一个EPub电子书阅读器。How to make a EPub e-book reader step by step.|23|2023-10-23|
+|11|[erduoniba/HDTranslateModule](https://github.com/erduoniba/HDTranslateModule)|iOS多语言解决方案大全：半自动化+特殊场景手动解决项目中的多语言问题|18|2023-11-11|
+|12|[aolan/iOS_Develop](https://github.com/aolan/iOS_Develop)|该文档都是日常开发过程中解决问题的经验总结。|10|2023-09-07|
+|13|[chenxing640/DYFCryptoUtils](https://github.com/chenxing640/DYFCryptoUtils)|一行代码实现 iOS Base64, 32/16位 MD5, DES, AES, RSA 算法，操作简单好用。(Achieves Base64, 32/16 bit MD5, DES, AES and RSA algorithms for iOS with one line of code, the operation is simple and easy to use.)|8|2023-06-27|
+|14|[SungKai/24-Design-Patterns](https://github.com/SungKai/24-Design-Patterns)|24种设计模式学习|4|2023-07-04|
+|15|[huangboju/Study](https://github.com/huangboju/Study)|一些学习的东西|4|2023-11-16|
+|16|[lijingpei2016/Photic](https://github.com/lijingpei2016/Photic)|音视频学习demo|3|2023-07-20|
+|17|[Mhc-inc/MHC-Boke](https://github.com/Mhc-inc/MHC-Boke)|MHC博客|2|2023-09-10|
+|18|[sunnyzw/ZWToolKit](https://github.com/sunnyzw/ZWToolKit)|工具类集合|2|2023-09-12|
+|19|[loverbabyz/TFBaseLib_iOS](https://github.com/loverbabyz/TFBaseLib_iOS)|Treasure Framework之Base组件：集合了iOS开发底层的扩展和帮助类：Core-Category、Core-DataHelper、Core-Macro、Core-Manager、Core-Util等|2|2023-09-17|
+|20|[zpfate/FlutterCookbook](https://github.com/zpfate/FlutterCookbook)|Flutter初学，各组件学习使用Demo|2|2023-08-08|
+|21|[Splendent/iOS-OSX-study-notes](https://github.com/Splendent/iOS-OSX-study-notes)|學習cocoa的瑣碎筆記|2|2023-09-21|
+|22|[BenXia/AutoLayoutDemo](https://github.com/BenXia/AutoLayoutDemo)|一个自己总结 iOS 布局相关知识点的工程，主要说明 AutoLayout 常见的使用场景。|2|2023-07-29|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

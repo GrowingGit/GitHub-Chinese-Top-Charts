@@ -1,36 +1,31 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > PHP
-<sub>数据更新: 2022-12-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[PGYER/codefever](https://github.com/PGYER/codefever)|CodeFever 是完全免费开源的 Git 代码托管服务，支持一行命令安装到自己服务器！CodeFever Community Edition (A Self-hosted Git Services)!|2277|2022-08-16|2022-01-19|
-|2|[youshandefeiyang/IPTV](https://github.com/youshandefeiyang/IPTV)|肥羊的4K/8K超高清IPTV直播源&&直播代码仓库|769|2022-12-08|2022-11-20|
-|3|[flucont/btcloud](https://github.com/flucont/btcloud)|PHP开发的宝塔面板第三方云端|579|2022-12-03|2022-06-04|
-|4|[aoaostar/toolbox](https://github.com/aoaostar/toolbox)|🚀傲星工具箱，一个在线工具箱|449|2022-12-08|2021-12-21|
-|5|[codeartx/awesome-security](https://github.com/codeartx/awesome-security)|广泛搜集、测试千余款开源安全产品，精心挑选300+ 款多star、更新活跃的高质量库，非常适合初学者快速入手安全技术栈、少走弯路。|317|2022-10-15|2022-07-09|
-|6|[dtm-php/dtm-client](https://github.com/dtm-php/dtm-client)|A PHP coroutine client for distributed transaction manager DTM. 分布式事务管理器 DTM 的 PHP 协程客户端|300|2022-11-16|2022-02-07|
-|7|[StarCrossPortal/QingTing](https://github.com/StarCrossPortal/QingTing)|蜻蜓安全一个安全工具编排平台,可以自由编排你的工具流,集成108款工具,包括xray、nmap、awvs等;你可以将喜欢的工具编排成一个场景，快速打造适合自己的安全工作台~|251|2022-07-27|2022-04-29|
-|8|[USTC-Hackergame/hackergame2022-writeups](https://github.com/USTC-Hackergame/hackergame2022-writeups)|中国科学技术大学第九届信息安全大赛的官方与非官方题解|231|2022-11-15|2022-10-28|
-|9|[WGrape/esupdater](https://github.com/WGrape/esupdater)|A high-performance lightweight framework of PHP to achieve incremental update of ES documents / 一个基于Canal实现ES文档增量更新的高性能轻量框架|176|2022-09-19|2021-12-13|
-|10|[mantoufan/alipay-global-sdk-php](https://github.com/mantoufan/alipay-global-sdk-php)|Alipay global Third Party SDK with Authorization and Auto debit. Alipay 国际版 A+ 接口第三方 PHP SDK，实现了现金支付、用户授权、自动代扣和 RSA2 加密异步通知应答，示例完整，使用简单|151|2022-08-26|2022-01-13|
-|11|[Yurunsoft/php-tdengine](https://github.com/Yurunsoft/php-tdengine)|大数据引擎 TDengine 的 PHP 客户端扩展，支持 Swoole！|62|2022-09-21|2021-12-21|
-|12|[amu1433/sopay](https://github.com/amu1433/sopay)|USDT,代付,TRC20 trx,php充值 提现, API支付接口,监控,回调.USDT TRC20 TRON 微信，支付宝,云闪付,alipay,wechat免签支付|59|2022-11-09|2022-04-19|
-|13|[hisune/emby_pinyin](https://github.com/hisune/emby_pinyin)|使 emby 或 jellyfin 支持电影、电视剧和音乐拼音排序|55|2022-11-10|2022-05-26|
-|14|[friend-nicen/nicen-localize-image](https://github.com/friend-nicen/nicen-localize-image)|wordpress用于本地化文章的外部图片的插件，支持文章发布前通过编辑器插件本地化、文章发布时自动本地化、文章定时发布时自动本地化、已发布的文章批量本地化。|54|2022-11-23|2022-08-20|
-|15|[jianyan74/rageframe3](https://github.com/jianyan74/rageframe3)|一个基于 Yii2 高级框架的重量级快速开发应用引擎 |51|2022-09-04|2022-02-28|
-|16|[keheying/onekeyadmin](https://github.com/keheying/onekeyadmin)|基于Thinkphp6+Element的插件化管理系统，网站、小程序、商城、CMS、APP、ERP、API接口一个系统全部搞定，无需脚手架开箱即用！|46|2022-09-27|2022-05-27|
-|17|[laradocs/moguding-solution](https://github.com/laradocs/moguding-solution)|🍄蘑菇丁/工学云自动签到解决方案，支持 GitHub Actions 部署。|45|2022-09-29|2022-01-19|
-|18|[yeyingorg/php_bwh_stock_checker](https://github.com/yeyingorg/php_bwh_stock_checker)|PHP搬瓦工即时库存检测aff站|43|2022-07-17|2022-01-17|
-|19|[HGthecode/apidoc-php](https://github.com/HGthecode/apidoc-php)|基于PHP的注解生成API文档，兼容Laravel、ThinkPHP、Hyperf、Webman等框架；在线调试、Markdown文档、多应用/多版本、Mock数据、授权访问、接口生成器、代码生成器等众多实用功能，快来体验吧！|39|2022-12-07|2022-10-25|
-|20|[mantoufan/yzhanGateway](https://github.com/mantoufan/yzhanGateway)|Developing PHP SDK for any API. 为任何 API 快速开发 PHP SDK|39|2022-09-16|2022-06-06|
-|21|[kannafay/iFalse](https://github.com/kannafay/iFalse)|一款界面清新、轻松上手的WordPress主题！|38|2022-11-11|2022-05-02|
-|22|[v03413/epay_usdt](https://github.com/v03413/epay_usdt)|彩虹易支付 USDT收款插件|37|2022-12-07|2022-04-10|
-|23|[Tommy131/KuaishouParser](https://github.com/Tommy131/KuaishouParser)|全网功能最全的快手短视频解析工具|36|2022-09-27|2022-03-12|
-|24|[jrotty/CommentNotifier](https://github.com/jrotty/CommentNotifier)|Typecho评论提醒插件，要求Typecho1.2.0及以上版本|29|2022-06-24|2022-04-22|
-|25|[simo8102/809](https://github.com/simo8102/809)|联通809|29|2022-08-03|2022-03-13|
-|26|[tinyphporg/tinyphp-framework-1.0](https://github.com/tinyphporg/tinyphp-framework-1.0)|一款经过生产环境检验(日PV10亿级)的轻量级PHP框架，此为1.0高性能版本，毫秒级响应。|29|2022-06-10|2022-02-21|
+|1|[gptlink/gptlink](https://github.com/gptlink/gptlink)|10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能|2455|2023-11-17|2023-05-22|
+|2|[bosnzt/wordscheck](https://github.com/bosnzt/wordscheck)|敏感词检测，违禁词过滤，敏感词过滤，敏感词库，一键启动，本地运行，私有化部署，1分钟接入完成，支持docker，支持在线api|323|2023-10-31|2023-01-23|
+|3|[kaindev8/starMQ](https://github.com/kaindev8/starMQ)|开源的个人收款免签约解决方案 （码支付），拒绝高风险的扫码登录方式，采用APP监听系统收款通知方案，更安全可靠，使用易支付接口，对接更便捷！|312|2023-07-03|2023-02-02|
+|4|[qincrm/crm](https://github.com/qincrm/crm)|司跃CRM 基于laravel  & arco.design & vue 开发，支持字段定制和二次开发         联系方式：17611303211（微信） http://47.94.200.53/   账号: 17611111111  密码: crm123456|184|2023-10-18|2023-02-16|
+|5|[guanguans/ai-commit](https://github.com/guanguans/ai-commit)|Automagically generate conventional git commit messages with AI. - 使用 AI 自动生成约定式 git 提交信息。|172|2023-11-20|2023-01-30|
+|6|[StarCrossPortal/swallow](https://github.com/StarCrossPortal/swallow)|代码审计自动化系统,底层架构为蜻蜓编排系统,墨菲SCA,fortify,SemGrep,hema|131|2023-07-25|2023-03-23|
+|7|[netcccyun/pan](https://github.com/netcccyun/pan)|彩虹外链网盘|125|2023-08-25|2023-02-26|
+|8|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的面板|102|2023-11-24|2023-11-14|
+|9|[BugFor-Pings/PHPwebshell](https://github.com/BugFor-Pings/PHPwebshell)|源码丢这了，自己做免杀 ------  一些自己无聊写的免杀php木马，404页面伪装大马-Apache+Nginx版本，phpinfo伪装马，404页面代码执行一句话，phpinfo代码执行一句话|102|2023-11-21|2023-04-10|
+|10|[zmh-program/code-statistic](https://github.com/zmh-program/code-statistic)|⚡ Dynamically generate your github stat cards! Contains User Card, Repo Card, Contributor Card, Release Card, Issue Card and PR Card! Support dark mode, API calling, waiting for you to explore! ⚡ 动态生成 ...|77|2023-06-21|2023-02-10|
+|11|[outtimes/dujiaoka](https://github.com/outtimes/dujiaoka)|🦄（修改版）独角数卡-优雅开源的自动售货系统｜开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉|71|2023-06-11|2023-03-25|
+|12|[coinexchanged/Blockchain-php](https://github.com/coinexchanged/Blockchain-php)|数字货币交易所源码，php crypto exchange; coin exchange，php交易所|65|2023-09-14|2023-09-14|
+|13|[poetbi/boaphp](https://github.com/poetbi/boaphp)|boaPHP是一款免费开源、灵活易用的配置式PHP框架，MVC设计模式，完全面向对象，易学易用、便于快速开发|57|2023-11-19|2023-10-08|
+|14|[netcccyun/wxredirect](https://github.com/netcccyun/wxredirect)|微信公众号多域名回调系统|57|2023-09-12|2023-02-26|
+|15|[overtrue/php-opencc](https://github.com/overtrue/php-opencc)|中文简繁转换，支持词汇级别的转换、异体字转换和地区习惯用词转换（中国大陆、台湾、香港、日本新字体）。|53|2023-06-13|2023-06-12|
+|16|[huhexian/2012-huhexian](https://github.com/huhexian/2012-huhexian)|一个基于 Twenty Twelve 修改的 WordPress 双栏文字主题|51|2023-10-13|2023-06-08|
+|17|[imiphp/imi-ai](https://github.com/imiphp/imi-ai)|imi-ai is a ChatGPT open source project based on PHP+Swoole+Vue, which can be deployed simply and quickly.（imi-ai 是一个基于 PHP+Swoole+Vue 的 ChatGPT 开源项目，可以简单快速部署。）|48|2023-11-23|2023-06-02|
+|18|[shijie1991/highker](https://github.com/shijie1991/highker)|基于 laravel 开发的一个 社区/社交 小程序|47|2023-09-19|2023-08-23|
+|19|[xiaoxuan6/SMSBombing](https://github.com/xiaoxuan6/SMSBombing)|短信轰炸|47|2023-11-14|2023-07-19|
+|20|[ordylan/Answer-Killer](https://github.com/ordylan/Answer-Killer)|AK作业答案互助平台源码.互助学习上AK！橙宝们, 一起来布鲁莱斯城堡玩耍吧!|46|2023-06-29|2023-06-29|
+|21|[yikeio/server](https://github.com/yikeio/server)|https://yike.io 服务端源码，项目基于 Laravel 10 开发。|42|2023-08-09|2023-04-04|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
