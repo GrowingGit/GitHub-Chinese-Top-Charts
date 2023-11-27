@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[Macin20/why-we-write](https://github.com/Macin20/why-we-write)|为什么写作？|330|2023-10-06|2023-09-07|
 |2|[Isoheptane/arch-media-box](https://github.com/Isoheptane/arch-media-box)|Arch Linux 盒装安装媒介的小盒子|107|2023-07-13|2023-07-12|
 |3|[neumason/DLNU](https://github.com/neumason/DLNU)|大连民族大学研究生学位论文参考Latex和word模版，依据2023学校规范开发的相应Latex和word模板。|61|2023-11-02|2023-05-18|
-|4|[yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)|线性代数：未竟之美|48|2023-10-24|2023-02-24|
-|5|[SwitWu/mp-equation](https://github.com/SwitWu/mp-equation)|数学物理方程（谷超豪）|8|2023-11-11|2022-12-10|
+|4|[yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)|线性代数：未竟之美|49|2023-10-24|2023-02-24|
+|5|[SwitWu/mp-equation](https://github.com/SwitWu/mp-equation)|数学物理方程（谷超豪）习题参考解答|8|2023-11-25|2022-12-10|
 |6|[yanghw8/sysubeamer-unofficial](https://github.com/yanghw8/sysubeamer-unofficial)|本 beamer 模版旨在为中大学子提供一个 presentation 的样式|7|2023-07-31|2023-07-14|
 |7|[InnocentFIVE/I-Measure](https://github.com/InnocentFIVE/I-Measure)|朴素的实分析科普文.|7|2023-07-16|2023-05-25|
 |8|[guohuiyuan/KaoyanPlan](https://github.com/guohuiyuan/KaoyanPlan)|个人考研计划|6|2023-11-13|2023-04-14|

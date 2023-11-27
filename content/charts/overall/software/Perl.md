@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Perl
-<sub>数据更新: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -11,22 +11,21 @@
 |4|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1206|2023-10-29|
 |5|[webmin/authentic-theme](https://github.com/webmin/authentic-theme)|Official theme for the best server management panel of the 21st Century|936|2023-11-24|
 |6|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|425|2023-10-04|
-|7|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|377|2023-05-26|
-|8|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|288|2023-11-10|
-|9|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|263|2023-11-24|
-|10|[open-c3/open-c3](https://github.com/open-c3/open-c3)|自动化运维平台/CICD系统/发布系统/作业平台/监控系统/云监控/故障自愈/K8S集群管理/CMDB/公有云资源管理/工单系统/流程系统/成本优化|204|2023-11-13|
-|11|[openresty/lua-tablepool](https://github.com/openresty/lua-tablepool)|Lua table recycling pools for LuaJIT|110|2023-11-23|
-|12|[g0v/moedict-data-csld](https://github.com/g0v/moedict-data-csld)|中華大辭典|99|2023-11-08|
-|13|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|94|2023-11-15|
-|14|[esrrhs/pLua](https://github.com/esrrhs/pLua)|Lua 性能分析工具 Lua profiler tool like gperftools|79|2023-10-24|
-|15|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|66|2023-11-22|
-|16|[houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm)|A date and time object for Perl|45|2023-11-06|
-|17|[hcymysql/mongo_monitor](https://github.com/hcymysql/mongo_monitor)|MongoDB ReplSet Monitor面向研发人员图形可视化监控工具|34|2023-07-24|
-|18|[Yanstory/tpZHCNex](https://github.com/Yanstory/tpZHCNex)|thpatch zh-hans extra patches (Beta)|18|2023-06-20|
-|19|[abbypan/Novel-Robot](https://github.com/abbypan/Novel-Robot)|download novel / forum thread, 小说/论坛下载器|5|2023-08-17|
-|20|[gmd20/exercises](https://github.com/gmd20/exercises)|写过一些练习或者小工具，小代码片段等|4|2023-06-14|
-|21|[electricface/script-tool](https://github.com/electricface/script-tool)|简单的脚本工具|4|2023-11-14|
-|22|[fimreal/dockerfiles](https://github.com/fimreal/dockerfiles)|容器化小工具|3|2023-08-03|
+|7|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|288|2023-11-10|
+|8|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|263|2023-11-25|
+|9|[open-c3/open-c3](https://github.com/open-c3/open-c3)|自动化运维平台/CICD系统/发布系统/作业平台/监控系统/云监控/故障自愈/K8S集群管理/CMDB/公有云资源管理/工单系统/流程系统/成本优化|204|2023-11-13|
+|10|[openresty/lua-tablepool](https://github.com/openresty/lua-tablepool)|Lua table recycling pools for LuaJIT|110|2023-11-23|
+|11|[g0v/moedict-data-csld](https://github.com/g0v/moedict-data-csld)|中華大辭典|99|2023-11-08|
+|12|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|94|2023-11-15|
+|13|[esrrhs/pLua](https://github.com/esrrhs/pLua)|Lua 性能分析工具 Lua profiler tool like gperftools|79|2023-10-24|
+|14|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|66|2023-11-22|
+|15|[houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm)|A date and time object for Perl|45|2023-11-06|
+|16|[hcymysql/mongo_monitor](https://github.com/hcymysql/mongo_monitor)|MongoDB ReplSet Monitor面向研发人员图形可视化监控工具|34|2023-07-24|
+|17|[Yanstory/tpZHCNex](https://github.com/Yanstory/tpZHCNex)|thpatch zh-hans extra patches (Beta)|18|2023-06-20|
+|18|[abbypan/Novel-Robot](https://github.com/abbypan/Novel-Robot)|download novel / forum thread, 小说/论坛下载器|5|2023-08-17|
+|19|[gmd20/exercises](https://github.com/gmd20/exercises)|写过一些练习或者小工具，小代码片段等|4|2023-06-14|
+|20|[electricface/script-tool](https://github.com/electricface/script-tool)|简单的脚本工具|4|2023-11-14|
+|21|[fimreal/dockerfiles](https://github.com/fimreal/dockerfiles)|容器化小工具|3|2023-08-03|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Assembly
-<sub>数据更新: 2023-11-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|55751|2023-10-28|
-|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10328|2023-11-03|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|55754|2023-10-28|
+|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10330|2023-11-03|
 |3|[TG9541/stm8ef](https://github.com/TG9541/stm8ef)|STM8 eForth - a user friendly Forth for simple µCs with docs|296|2023-08-05|
 |4|[mengning/linuxkernel](https://github.com/mengning/linuxkernel)|操作系统导论教学资料、《庖丁解牛Linux内核》配套资料|249|2023-07-20|
 |5|[retro16/acsi2stm](https://github.com/retro16/acsi2stm)|Atari ST ACSI to SD card converter with a STM32|131|2023-08-24|
@@ -19,15 +19,14 @@
 |12|[VLSMB/CLANNAD-Side-Stories-Hook-Tool](https://github.com/VLSMB/CLANNAD-Side-Stories-Hook-Tool)|CLANNAD外传：被光守护着的坡道（CLANNAD Side Stories） PC汉化版|9|2023-11-10|
 |13|[SDGLBL/go-src](https://github.com/SDGLBL/go-src)|Knowledge of go's internal implementation Go语言内部实现分析|7|2023-10-12|
 |14|[yewentao256/CSAPP_15213](https://github.com/yewentao256/CSAPP_15213)|CMU CSAPP learning; 深入理解计算机系统|7|2023-09-16|
-|15|[shannany0606/OS_Experiment](https://github.com/shannany0606/OS_Experiment)|操作系统复现实验&&《OrangeS一个操作系统的实现 (于渊)》1-7章代码实现|5|2023-05-26|
-|16|[Wokann/GBA_Cardcaptor_Sakura_SCdMG_chs](https://github.com/Wokann/GBA_Cardcaptor_Sakura_SCdMG_chs)|Chinese translation patch of GBA game "Cardcaptor Sakura - Sakura Card de Mini Game (Japan)" 魔卡少女樱-小樱牌的迷你游戏|4|2023-11-07|
-|17|[thu-cs-lab/supervisor-la32r](https://github.com/thu-cs-lab/supervisor-la32r)|LoongArch 32 Reduced 监控程序|4|2023-08-08|
-|18|[xingji-studio/XJ380-Kernel](https://github.com/xingji-studio/XJ380-Kernel)|XJ380操作系统的内核（汇编部分）|3|2023-08-12|
-|19|[Lisadww/Assembly2048](https://github.com/Lisadww/Assembly2048)|汇編語言2048|3|2023-08-28|
-|20|[wangyule/flutter_to_exist_app](https://github.com/wangyule/flutter_to_exist_app)|flutter与iOS/android混合开发、flutter源码集成到已有原生项目中|3|2023-06-19|
-|21|[cybernagle/buffer-overflow](https://github.com/cybernagle/buffer-overflow)|华盛顿大学 bufferoverflow 试验讲解. 视频请见 bilibli|3|2023-06-19|
-|22|[KristianLi/Assembler_lab_homework](https://github.com/KristianLi/Assembler_lab_homework)|汇编作业|2|2023-11-22|
-|23|[LuyuZhang00/Embedded-Systems](https://github.com/LuyuZhang00/Embedded-Systems)|2022秋季《微机原理实验》：使用80386汇编完成七个程序。2023春季《嵌入式计算机系统》项目：基于8051的数字体温计/基于MSP430的心电采集计数系统|2|2023-11-01|
+|15|[Wokann/GBA_Cardcaptor_Sakura_SCdMG_chs](https://github.com/Wokann/GBA_Cardcaptor_Sakura_SCdMG_chs)|Chinese translation patch of GBA game "Cardcaptor Sakura - Sakura Card de Mini Game (Japan)" 魔卡少女樱-小樱牌的迷你游戏|4|2023-11-07|
+|16|[thu-cs-lab/supervisor-la32r](https://github.com/thu-cs-lab/supervisor-la32r)|LoongArch 32 Reduced 监控程序|4|2023-08-08|
+|17|[xingji-studio/XJ380-Kernel](https://github.com/xingji-studio/XJ380-Kernel)|XJ380操作系统的内核（汇编部分）|3|2023-08-12|
+|18|[Lisadww/Assembly2048](https://github.com/Lisadww/Assembly2048)|汇編語言2048|3|2023-08-28|
+|19|[wangyule/flutter_to_exist_app](https://github.com/wangyule/flutter_to_exist_app)|flutter与iOS/android混合开发、flutter源码集成到已有原生项目中|3|2023-06-19|
+|20|[cybernagle/buffer-overflow](https://github.com/cybernagle/buffer-overflow)|华盛顿大学 bufferoverflow 试验讲解. 视频请见 bilibli|3|2023-06-19|
+|21|[KristianLi/Assembler_lab_homework](https://github.com/KristianLi/Assembler_lab_homework)|汇编作业|2|2023-11-22|
+|22|[LuyuZhang00/Embedded-Systems](https://github.com/LuyuZhang00/Embedded-Systems)|2022秋季《微机原理实验》：使用80386汇编完成七个程序。2023春季《嵌入式计算机系统》项目：基于8051的数字体温计/基于MSP430的心电采集计数系统|2|2023-11-01|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
