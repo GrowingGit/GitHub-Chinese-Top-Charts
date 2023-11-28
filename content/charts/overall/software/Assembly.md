@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Assembly
-<sub>数据更新: 2023-11-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|55754|2023-10-28|
-|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10330|2023-11-03|
-|3|[TG9541/stm8ef](https://github.com/TG9541/stm8ef)|STM8 eForth - a user friendly Forth for simple µCs with docs|296|2023-08-05|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|55757|2023-10-28|
+|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10334|2023-11-27|
+|3|[TG9541/stm8ef](https://github.com/TG9541/stm8ef)|STM8 eForth - a user friendly Forth for simple µCs with docs|297|2023-08-05|
 |4|[mengning/linuxkernel](https://github.com/mengning/linuxkernel)|操作系统导论教学资料、《庖丁解牛Linux内核》配套资料|249|2023-07-20|
 |5|[retro16/acsi2stm](https://github.com/retro16/acsi2stm)|Atari ST ACSI to SD card converter with a STM32|131|2023-08-24|
 |6|[leomil72/LM80C](https://github.com/leomil72/LM80C)|A Z80-based homebrew computer withTMS9918, AY-3-8910, Z80 CTC, Z80 PIO, and Z80 SIO|90|2023-11-15|

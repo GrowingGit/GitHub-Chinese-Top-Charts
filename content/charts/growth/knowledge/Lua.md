@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Lua
-<sub>数据更新: 2023-11-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -16,8 +16,7 @@
 |9|[openresty/lua-resty-lock](https://github.com/openresty/lua-resty-lock)|Simple nonblocking lock API for ngx_lua based on shared memory dictionaries|300|0|2023-11-23|
 |10|[LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes)|我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～|95|0|2023-11-04|
 |11|[LanbingIce/IsaacSocket-Mod](https://github.com/LanbingIce/IsaacSocket-Mod)|这是一个《以撒的结合》的Mod，可为其他mod提供操作剪贴板，连接WebSocket等接口|7|0|2023-11-25|
-|12|[JealousCat/GGMod](https://github.com/JealousCat/GGMod)|提供GameGuardian的MOD教程和代码，如luajava库、修复os.execute函数、完善String库、添加Canvas等。|53|0|2023-05-28|
-|13|[zincPower/lua_study_2022](https://github.com/zincPower/lua_study_2022)|用于结合“江澎涌”公众号分享 Lua 知识点，形成知识体系|9|0|2023-11-24|
+|12|[zincPower/Lua_Study_2022](https://github.com/zincPower/Lua_Study_2022)|用于结合“江澎涌”公众号分享 Lua 知识点，形成知识体系|9|0|2023-11-24|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

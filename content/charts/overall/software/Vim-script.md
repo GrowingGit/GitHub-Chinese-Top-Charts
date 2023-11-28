@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Vim script
-<sub>数据更新: 2023-11-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20081|2023-09-23|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8343|2023-10-31|
-|3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4890|2023-11-16|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8346|2023-10-31|
+|3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4889|2023-11-16|
 |4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1774|2023-09-30|
 |5|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1709|2023-10-06|
-|6|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1344|2023-11-14|
+|6|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1345|2023-11-14|
 |7|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|880|2023-11-21|
 |8|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|870|2023-09-26|
 |9|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|845|2023-09-21|
@@ -18,18 +18,18 @@
 |11|[SidOfc/mkdx](https://github.com/SidOfc/mkdx)|A vim plugin that adds some nice extra's for working with markdown documents|477|2023-10-16|
 |12|[sillybun/vim-repl](https://github.com/sillybun/vim-repl)|Best REPL environment for Vim|433|2023-07-15|
 |13|[ruchee/vimrc](https://github.com/ruchee/vimrc)|Ruchee's Vim Config Files|415|2023-10-17|
-|14|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|379|2023-10-19|
+|14|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|379|2023-11-27|
 |15|[lilydjwg/dotvim](https://github.com/lilydjwg/dotvim)|My vim config|276|2023-10-27|
-|16|[ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)|vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files|190|2023-06-08|
+|16|[ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)|vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files|191|2023-06-08|
 |17|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog based on vimscript|170|2023-10-24|
 |18|[dofy/7th-vim](https://github.com/dofy/7th-vim)|安装简单，轻量、易用、高可配置性。 Lightweight & Customizable Vim configuration options.|98|2023-11-25|
 |19|[pi314/ime.vim](https://github.com/pi314/ime.vim)|A Vim input method engine|81|2023-09-30|
-|20|[chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast)|A very fast Vim repository for C/C++,Go,Python,Rust|71|2023-11-16|
+|20|[chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast)|A very fast Vim repository for C/C++,Go,Python,Rust|71|2023-11-27|
 |21|[skywind3000/vim-dict](https://github.com/skywind3000/vim-dict)|没办法，被逼的，重新整理一个词典补全的数据库|54|2023-11-24|
 |22|[anzhihe/Efficient-office](https://github.com/anzhihe/Efficient-office)|Alfred-Workflows，Vim，Script，Mac|48|2023-11-02|
 |23|[pseudoyu/dotfiles](https://github.com/pseudoyu/dotfiles)|我的 macOS 与 Linux 配置|35|2023-08-27|
 |24|[VimWei/MdxSourceBuilder](https://github.com/VimWei/MdxSourceBuilder)|一键制作mdx图片词典|33|2023-06-05|
-|25|[qiqiboy/q-vim](https://github.com/qiqiboy/q-vim)|my vim config. 来自一个前端开发码农的vim配置方案|33|2023-08-02|
+|25|[qiqiboy/q-vim](https://github.com/qiqiboy/q-vim)|my vim config. 来自一个前端开发码农的vim配置方案|33|2023-11-27|
 |26|[lemon0910/lemon-vim](https://github.com/lemon0910/lemon-vim)|lemon's config for vim and neovim.|23|2023-09-22|
 |27|[Genki-S/dotfiles](https://github.com/Genki-S/dotfiles)|My lovely settings.|23|2023-11-15|
 |28|[lululxvi/oh-my-linux-apps](https://github.com/lululxvi/oh-my-linux-apps)|My list of essential Linux applications.|20|2023-07-11|

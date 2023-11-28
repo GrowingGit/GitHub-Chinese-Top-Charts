@@ -1,48 +1,48 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Swift
-<sub>数据更新: 2023-11-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[realm/SwiftLint](https://github.com/realm/SwiftLint)|A tool to enforce Swift style and conventions.|17926|2023-11-23|
-|2|[Moya/Moya](https://github.com/Moya/Moya)|Network abstraction layer written in Swift.|14819|2023-11-17|
+|1|[realm/SwiftLint](https://github.com/realm/SwiftLint)|A tool to enforce Swift style and conventions.|17931|2023-11-27|
+|2|[Moya/Moya](https://github.com/Moya/Moya)|Network abstraction layer written in Swift.|14822|2023-11-17|
 |3|[PerfectlySoft/Perfect](https://github.com/PerfectlySoft/Perfect)|Server-side Swift. The Perfect core toolset and framework for Swift Developers. (For mobile back-end development, website and API development, and more…)|13854|2023-08-23|
-|4|[Caldis/Mos](https://github.com/Caldis/Mos)|一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板     A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS|12799|2023-07-21|
-|5|[xmartlabs/Eureka](https://github.com/xmartlabs/Eureka)|Elegant iOS form builder in Swift|11709|2023-10-16|
-|6|[pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)|A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.|10014|2023-11-26|
-|7|[ChenYilong/CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)|[EN]It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, and adding a bigger center UITabBar Item.  [CN]【中国特色 TabBar】一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自 ...|6841|2023-08-30|
-|8|[godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)|Run Stable Diffusion on Mac natively|6630|2023-11-22|
-|9|[XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp)|The easiest way to install and switch between multiple versions of Xcode - with a mouse click. |5943|2023-11-26|
-|10|[coteditor/CotEditor](https://github.com/coteditor/CotEditor)|Lightweight Plain-Text Editor for macOS|5783|2023-11-26|
+|4|[Caldis/Mos](https://github.com/Caldis/Mos)|一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板     A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS|12804|2023-07-21|
+|5|[xmartlabs/Eureka](https://github.com/xmartlabs/Eureka)|Elegant iOS form builder in Swift|11710|2023-10-16|
+|6|[pointfreeco/swift-composable-architecture](https://github.com/pointfreeco/swift-composable-architecture)|A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.|10030|2023-11-27|
+|7|[ChenYilong/CYLTabBarController](https://github.com/ChenYilong/CYLTabBarController)|[EN]It is an iOS UI module library for adding animation to iOS tabbar items and icons with Lottie, and adding a bigger center UITabBar Item.  [CN]【中国特色 TabBar】一行代码实现 Lottie 动画TabBar，支持中间带+号的TabBar样式，自 ...|6842|2023-08-30|
+|8|[godly-devotion/MochiDiffusion](https://github.com/godly-devotion/MochiDiffusion)|Run Stable Diffusion on Mac natively|6633|2023-11-27|
+|9|[XcodesOrg/XcodesApp](https://github.com/XcodesOrg/XcodesApp)|The easiest way to install and switch between multiple versions of Xcode - with a mouse click. |5946|2023-11-26|
+|10|[coteditor/CotEditor](https://github.com/coteditor/CotEditor)|Lightweight Plain-Text Editor for macOS|5783|2023-11-27|
 |11|[sparrowcode/PermissionsKit](https://github.com/sparrowcode/PermissionsKit)|Universal API for request permission and get its statuses.|5408|2023-11-14|
 |12|[tw93/MiaoYan](https://github.com/tw93/MiaoYan)|⛷ Lightweight Markdown app to help you write great sentences. ⛷ 轻灵的 Markdown 笔记本伴你写出妙言|4870|2023-11-15|
-|13|[longitachi/ZLPhotoBrowser](https://github.com/longitachi/ZLPhotoBrowser)|Wechat-like image picker. Support select photos, videos, gif and livePhoto. Support edit image and crop video. 微信样式的图片选择器，支持预览/相册内拍照及录视频、拖拽/滑动选择，编辑图片/视频，支持多语言国际化等功能; |4579|2023-11-23|
-|14|[ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX)|🎶 Ultimate lyrics app for macOS.|4325|2023-07-20|
+|13|[longitachi/ZLPhotoBrowser](https://github.com/longitachi/ZLPhotoBrowser)|Wechat-like image picker. Support select photos, videos, gif and livePhoto. Support edit image and crop video. 微信样式的图片选择器，支持预览/相册内拍照及录视频、拖拽/滑动选择，编辑图片/视频，支持多语言国际化等功能; |4580|2023-11-27|
+|14|[ddddxxx/LyricsX](https://github.com/ddddxxx/LyricsX)|🎶 Ultimate lyrics app for macOS.|4327|2023-07-20|
 |15|[ArtSabintsev/Siren](https://github.com/ArtSabintsev/Siren)|Notify users when a new version of your app is available and prompt them to upgrade.|4153|2023-10-26|
 |16|[kyleduo/TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac)|TinyPNG client for Mac|3382|2023-11-16|
-|17|[onevcat/FengNiao](https://github.com/onevcat/FengNiao)|A command line tool for cleaning unused resources in Xcode.|3268|2023-10-09|
-|18|[gee1k/uPic](https://github.com/gee1k/uPic)|📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.|3213|2023-11-08|
-|19|[aahung/Unshaky](https://github.com/aahung/Unshaky)|A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]|2955|2023-11-20|
-|20|[SilenceLove/HXPhotoPicker](https://github.com/SilenceLove/HXPhotoPicker)|图片/视频选择器 - 支持LivePhoto、GIF图片选择、3DTouch预览、在线下载iCloud上的资源、编辑图片/视频、浏览网络图片 功能    Imitation wx photo/image picker - support for LivePhoto, GIF image selection, 3DTouch preview, Download the resources on iC ...|2798|2023-11-25|
+|17|[onevcat/FengNiao](https://github.com/onevcat/FengNiao)|A command line tool for cleaning unused resources in Xcode.|3269|2023-10-09|
+|18|[gee1k/uPic](https://github.com/gee1k/uPic)|📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.|3214|2023-11-08|
+|19|[aahung/Unshaky](https://github.com/aahung/Unshaky)|A software attempt to address the "double key press" issue on Apple's butterfly keyboard [not actively maintained]|2956|2023-11-20|
+|20|[SilenceLove/HXPhotoPicker](https://github.com/SilenceLove/HXPhotoPicker)|图片/视频选择器 - 支持LivePhoto、GIF图片选择、3DTouch预览、在线下载iCloud上的资源、编辑图片/视频、浏览网络图片 功能    Imitation wx photo/image picker - support for LivePhoto, GIF image selection, 3DTouch preview, Download the resources on iC ...|2801|2023-11-25|
 |21|[WeTransfer/WeScan](https://github.com/WeTransfer/WeScan)|Document Scanning Made Easy for iOS|2710|2023-11-21|
-|22|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts|2669|2023-11-21|
+|22|[jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch)|⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts|2672|2023-11-21|
 |23|[EhPanda-Team/EhPanda](https://github.com/EhPanda-Team/EhPanda)|An unofficial E-Hentai App for iOS built with SwiftUI & TCA.|2667|2023-11-17|
-|24|[pujiaxin33/JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView)|A powerful and easy to use segmented view (segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|2523|2023-07-21|
+|24|[pujiaxin33/JXSegmentedView](https://github.com/pujiaxin33/JXSegmentedView)|A powerful and easy to use segmented view (segmentedcontrol, pagingview, pagerview, pagecontrol, categoryview) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|2524|2023-07-21|
 |25|[onevcat/APNGKit](https://github.com/onevcat/APNGKit)|High performance and delightful way to play with APNG format in iOS.|2163|2023-10-09|
-|26|[mazzzystar/Queryable](https://github.com/mazzzystar/Queryable)|Run OpenAI's CLIP model on iOS to search photos.|2128|2023-11-13|
-|27|[stripe/stripe-ios](https://github.com/stripe/stripe-ios)|Stripe iOS SDK    |1969|2023-11-22|
-|28|[Schlaubischlump/LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator)|MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.|1968|2023-11-10|
+|26|[mazzzystar/Queryable](https://github.com/mazzzystar/Queryable)|Run OpenAI's CLIP model on iOS to search photos.|2131|2023-11-13|
+|27|[Schlaubischlump/LocationSimulator](https://github.com/Schlaubischlump/LocationSimulator)|MacOS application to spoof / fake / mock your iOS / iPadOS or iPhoneSimulator device location.  WatchOS and TvOS are partially supported.|1970|2023-11-10|
+|28|[stripe/stripe-ios](https://github.com/stripe/stripe-ios)|Stripe iOS SDK    |1970|2023-11-27|
 |29|[BrikerMan/BMPlayer](https://github.com/BrikerMan/BMPlayer)|A video player for iOS, based on AVPlayer, support the horizontal, vertical screen. support adjust volume, brightness and seek by slide, support subtitles. |1889|2023-08-04|
 |30|[eggswift/pull-to-refresh](https://github.com/eggswift/pull-to-refresh)|#Busy Re-Building....# An easy way to use pull to refresh and infinite scrolling in Swift. Pod 'ESPullToRefresh' |1759|2023-09-27|
 |31|[LeoMobileDeveloper/ios-developer-tools](https://github.com/LeoMobileDeveloper/ios-developer-tools)|Tools that every iOS developer should know.|1593|2023-06-05|
-|32|[MxABC/swiftScan](https://github.com/MxABC/swiftScan)|A barcode and qr code scanner( 二维码 各种码识别，生成，界面效果)|1558|2023-10-25|
-|33|[netyouli/WHC_ConfuseSoftware](https://github.com/netyouli/WHC_ConfuseSoftware)|iOS代码混淆工具，Uniapp代码混淆工具，react-native代码混淆, iOS代码混淆助手，Android代码混淆助手，Uniapp代码混淆助手，过机器审核，过4.3审核，过other审核，android、ios、uniapp、u3d、cocos2dx、flutter、代码翻新(WHC_ConfuseSoftware)是一款运行在MAC OS平台的App、完美支持Objc和Swift、U ...|1550|2023-11-19|
+|32|[MxABC/swiftScan](https://github.com/MxABC/swiftScan)|A barcode and qr code scanner( 二维码 各种码识别，生成，界面效果)|1559|2023-10-25|
+|33|[netyouli/WHC_ConfuseSoftware](https://github.com/netyouli/WHC_ConfuseSoftware)|iOS代码混淆工具，Uniapp代码混淆工具，react-native代码混淆, iOS代码混淆助手，Android代码混淆助手，Uniapp代码混淆助手，过机器审核，过4.3审核，过other审核，android、ios、uniapp、u3d、cocos2dx、flutter、代码翻新(WHC_ConfuseSoftware)是一款运行在MAC OS平台的App、完美支持Objc和Swift、U ...|1549|2023-11-19|
 |34|[VideoFlint/Cabbage](https://github.com/VideoFlint/Cabbage)|A video composition framework build on top of AVFoundation. It's simple to use and easy to extend.|1467|2023-11-08|
 |35|[netease-kit/nim-uikit-ios](https://github.com/netease-kit/nim-uikit-ios)|云信 IM UIKit 是基于 NIM SDK（网易云信 IM SDK）开发的一款即时通讯 UI 组件库，包括聊天、会话、圈组、搜索、群管理等组件。通过 IM UIKit，可快速集成包含 UI 界面的即时通讯应用。|1467|2023-11-08|
 |36|[3lvis/Networking](https://github.com/3lvis/Networking)|Swift HTTP Networking with stubbing and caching support|1333|2023-07-15|
-|37|[alexrozanski/LlamaChat](https://github.com/alexrozanski/LlamaChat)|Chat with your favourite LLaMA models in a native macOS app|1310|2023-06-09|
-|38|[JiongXing/PhotoBrowser](https://github.com/JiongXing/PhotoBrowser)| Elegant photo browser in Swift. 图片与视频浏览器。|1194|2023-11-03|
+|37|[alexrozanski/LlamaChat](https://github.com/alexrozanski/LlamaChat)|Chat with your favourite LLaMA models in a native macOS app|1311|2023-06-09|
+|38|[JiongXing/PhotoBrowser](https://github.com/JiongXing/PhotoBrowser)| Elegant photo browser in Swift. 图片与视频浏览器。|1196|2023-11-03|
 |39|[gltwy/LTScrollView](https://github.com/gltwy/LTScrollView)|ScrollView嵌套ScrolloView（UITableView 、UICollectionView）解决方案， 支持OC / Swift（持续更新中...）实现原理：http://blog.csdn.net/glt_code/article/details/78576628|1043|2023-09-05|
 |40|[OpenIntelWireless/HeliPort](https://github.com/OpenIntelWireless/HeliPort)|Intel Wi-Fi Client for itlwm|1040|2023-11-12|
 |41|[xjbeta/iina-plus](https://github.com/xjbeta/iina-plus)|Extra danmaku support for iina. (iina 弹幕支持|1009|2023-11-19|
@@ -53,16 +53,16 @@
 |46|[thebarbican19/BatteryBoi](https://github.com/thebarbican19/BatteryBoi)|The battery app your Mac's been dreaming about behind your back.|743|2023-11-26|
 |47|[lifution/FSPopoverView](https://github.com/lifution/FSPopoverView)|An iOS customizable view that displays a popover view.|732|2023-11-26|
 |48|[AnyImageKit/AnyImageKit](https://github.com/AnyImageKit/AnyImageKit)|A toolbox for pick/edit/capture photo or video. Written in Swift. |674|2023-10-18|
-|49|[TopWidgets/SwingAnimation](https://github.com/TopWidgets/SwingAnimation)|小组件平移动画   Widget on the Move, A Playful Animation|638|2023-11-21|
-|50|[fcbox/Lantern](https://github.com/fcbox/Lantern)|基于Swift的高可用视图框架|631|2023-08-04|
-|51|[cmushroom/redis-pro](https://github.com/cmushroom/redis-pro)|redis-pro redis 桌面管理工具|630|2023-09-10|
-|52|[kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)|iOS/macOS/tvOS/visionOS video player|629|2023-11-26|
+|49|[TopWidgets/SwingAnimation](https://github.com/TopWidgets/SwingAnimation)|小组件平移动画   Widget on the Move, A Playful Animation|639|2023-11-21|
+|50|[fcbox/Lantern](https://github.com/fcbox/Lantern)|基于Swift的高可用视图框架|632|2023-08-04|
+|51|[kingslay/KSPlayer](https://github.com/kingslay/KSPlayer)|iOS/macOS/tvOS/visionOS video player|632|2023-11-27|
+|52|[cmushroom/redis-pro](https://github.com/cmushroom/redis-pro)|redis-pro redis 桌面管理工具|630|2023-09-10|
 |53|[cx-org/CombineX](https://github.com/cx-org/CombineX)|Open source implementation of Apple's Combine|621|2023-07-16|
-|54|[isaced/V2exOS](https://github.com/isaced/V2exOS)|一个用 SwiftUI 编写的 V2ex macOS/iOS/tvOS 客户端 (A V2ex macOS/iOS/tvOS client written in SwiftUI)|614|2023-08-30|
-|55|[JoanKing/JKSwiftExtension](https://github.com/JoanKing/JKSwiftExtension)|Swift常用扩展、组件、协议，方便项目快速搭建，提供完整清晰的Demo示例，不断的完善中...... |598|2023-11-23|
-|56|[Pircate/EachNavigationBar](https://github.com/Pircate/EachNavigationBar)|A custom navigation bar for each view controller.|569|2023-09-27|
+|54|[isaced/V2exOS](https://github.com/isaced/V2exOS)|一个用 SwiftUI 编写的 V2ex macOS/iOS/tvOS 客户端 (A V2ex macOS/iOS/tvOS client written in SwiftUI)|615|2023-08-30|
+|55|[JoanKing/JKSwiftExtension](https://github.com/JoanKing/JKSwiftExtension)|Swift常用扩展、组件、协议，方便项目快速搭建，提供完整清晰的Demo示例，不断的完善中...... |599|2023-11-23|
+|56|[Pircate/EachNavigationBar](https://github.com/Pircate/EachNavigationBar)|A custom navigation bar for each view controller.|570|2023-09-27|
 |57|[zqqf16/SYM](https://github.com/zqqf16/SYM)|A crash log symbolicating Mac app   一个图形化的崩溃日志符号化工具|555|2023-09-18|
-|58|[openvanilla/McBopomofo](https://github.com/openvanilla/McBopomofo)|小麥注音輸入法|553|2023-11-25|
+|58|[openvanilla/McBopomofo](https://github.com/openvanilla/McBopomofo)|小麥注音輸入法|553|2023-11-27|
 |59|[wxxsw/VideoPlayer](https://github.com/wxxsw/VideoPlayer)|📽 A video player for SwiftUI, support for caching, preload and custom control view. SwiftUI 视频播放器，支持边下边播、预加载、自定义控制层|541|2023-08-16|
 |60|[merlos/iOS-Open-GPX-Tracker](https://github.com/merlos/iOS-Open-GPX-Tracker)|GPS Tracker app for iOS + WatchOS. Log your tracks without limits and share them; Open source GPX tracker app written in Swift|541|2023-06-11|
 |61|[Danie1s/DNSPageView](https://github.com/Danie1s/DNSPageView)|一个纯 Swift 的轻量级、灵活且易于使用的 pageView|536|2023-06-02|
@@ -75,28 +75,28 @@
 |68|[wxxsw/GSPlayer](https://github.com/wxxsw/GSPlayer)|⏯ Video player, support for caching, preload, fullscreen transition and custom control view. 视频播放器，支持边下边播、预加载、全屏转场和自定义控制层|352|2023-08-16|
 |69|[Raureif/WikipediaKit](https://github.com/Raureif/WikipediaKit)|Wikipedia API Client Framework for Swift on macOS, iOS, watchOS, and tvOS|338|2023-08-27|
 |70|[HuangRunHua/swiftui-animation-demo](https://github.com/HuangRunHua/swiftui-animation-demo)|SwiftUI animation demo.   SwiftUI 动画示例。|323|2023-10-20|
-|71|[JWAutumn/ACarousel](https://github.com/JWAutumn/ACarousel)|A carousel view for SwiftUI   SwiftUI 旋转木马效果|321|2023-11-15|
+|71|[JWAutumn/ACarousel](https://github.com/JWAutumn/ACarousel)|A carousel view for SwiftUI   SwiftUI 旋转木马效果|322|2023-11-15|
 |72|[Allen0828/AEAlertView](https://github.com/Allen0828/AEAlertView)|Custom AlertView supports multiple modes 自定义AlertView 支持多种模式弹窗|309|2023-09-25|
 |73|[Lebron1992/WeChat-SwiftUI](https://github.com/Lebron1992/WeChat-SwiftUI)|用 SwiftUI 仿写的微信。|302|2023-09-14|
-|74|[fatbobman/SwiftUIOverlayContainer](https://github.com/fatbobman/SwiftUIOverlayContainer)|SwiftUI Overlay Container is a view container component for SwiftUI. It is a customizable, efficient and convenient view manager.  With just a simple configuration, SwiftUI Overlay Container can do th ...|266|2023-09-06|
-|75|[creepymonster/GlucoseDirect](https://github.com/creepymonster/GlucoseDirect)|App programmed in Swift/SwiftUI for using Libre blood glucose sensors.|265|2023-10-28|
+|74|[creepymonster/GlucoseDirect](https://github.com/creepymonster/GlucoseDirect)|App programmed in Swift/SwiftUI for using Libre blood glucose sensors.|266|2023-10-28|
+|75|[fatbobman/SwiftUIOverlayContainer](https://github.com/fatbobman/SwiftUIOverlayContainer)|SwiftUI Overlay Container is a view container component for SwiftUI. It is a customizable, efficient and convenient view manager.  With just a simple configuration, SwiftUI Overlay Container can do th ...|266|2023-09-06|
 |76|[vChewing/vChewing-macOS](https://github.com/vChewing/vChewing-macOS)|威注音輸入法 macOS 版，恐怕是截至目前為止在功能多樣性方面最強的第三方免費 macOS 系統專用輸入法，採純 Swift 語言寫就。威注音的著力點是盡可能在力所能及的範圍內將整個產品的功能做得更好用，搭配特製的簡體中文與繁體中文專用辭庫。是純粹的簡體中文注音輸入法（也內贈原生繁體中文輸入模式），更具諸多威注音特色功能。目前研發管理工作均在 GitLab China 進行。|243|2023-11-25|
 |77|[YiHuaXie/NNModule](https://github.com/YiHuaXie/NNModule)|Swift项目中的组件化管理，包括依赖注入、路由等|232|2023-05-31|
 |78|[axclogo/AxcUIKit-Swift](https://github.com/axclogo/AxcUIKit-Swift)|（重构中）快速构建通用型的UI库|230|2023-09-27|
 |79|[CloverHackyColor/HWMonitorSMC2](https://github.com/CloverHackyColor/HWMonitorSMC2)|Application for monitoring hardware health in macOS|225|2023-09-08|
-|80|[623637646/SwiftHook](https://github.com/623637646/SwiftHook)|A library to hook methods in Swift and Objective-C.|222|2023-11-23|
+|80|[623637646/SwiftHook](https://github.com/623637646/SwiftHook)|A library to hook methods in Swift and Objective-C.|223|2023-11-27|
 |81|[XiongJoJo/OFO](https://github.com/XiongJoJo/OFO)|OFO共享单车(Swift版)|218|2023-09-21|
 |82|[tinode/ios](https://github.com/tinode/ios)|Tinodios: Tinode Messaging Client for iOS|210|2023-11-02|
-|83|[winddpan/CodableWrapper](https://github.com/winddpan/CodableWrapper)|@CodingKey("encoder", "decoder") var cool: Bool = true|208|2023-10-04|
+|83|[winddpan/CodableWrapper](https://github.com/winddpan/CodableWrapper)|@CodingKey("encoder", "decoder") var cool: Bool = true|209|2023-10-04|
 |84|[BugenZhao/MNGA](https://github.com/BugenZhao/MNGA)|💬 A refreshing NGA Forum App in SwiftUI. Make NGA Great Again! aka "NGA 论坛 iOS 开源客户端"|199|2023-09-22|
 |85|[lexrus/RegExPlus](https://github.com/lexrus/RegExPlus)|A nifty RegEx test tool built with SwiftUI|198|2023-11-02|
 |86|[rztime/RZRichTextView](https://github.com/rztime/RZRichTextView)|iOS 原生UITextView 富文本编辑器|195|2023-11-03|
 |87|[yangKJ/RxNetworks](https://github.com/yangKJ/RxNetworks)|🧚 MVP Network Api library. 插件版网络基础架构，支持响应式。|192|2023-10-30|
-|88|[seasonZhu/RxStudy](https://github.com/seasonZhu/RxStudy)|RxSwift/RxCocoa框架，MVVM模式编写wanandroid客户端|172|2023-11-13|
+|88|[seasonZhu/RxStudy](https://github.com/seasonZhu/RxStudy)|RxSwift/RxCocoa框架，MVVM模式编写wanandroid客户端|172|2023-11-27|
 |89|[TomJinW/iPadHDMICapture](https://github.com/TomJinW/iPadHDMICapture)|iPadOS 17 USB Capturing App. 用USB采集卡显示软件，支持播放画面和声音|141|2023-06-09|
 |90|[QuintGao/GKNavigationBarSwift](https://github.com/QuintGao/GKNavigationBarSwift)|GKNavigationBar的Swift版本|136|2023-10-13|
 |91|[pujiaxin33/StackUI](https://github.com/pujiaxin33/StackUI)|StackUI just like SwiftUI|130|2023-10-12|
-|92|[CrazyFanFan/Aquarius](https://github.com/CrazyFanFan/Aquarius)|A tool to obtain dependencies by analyzing "Podfile.lock"|123|2023-11-22|
+|92|[CrazyFanFan/Aquarius](https://github.com/CrazyFanFan/Aquarius)|A tool to obtain dependencies by analyzing "Podfile.lock"|123|2023-11-27|
 |93|[JerryFans/JFPopup](https://github.com/JerryFans/JFPopup)|A Swift Popup Module help you popup your custom view easily. Support three way to popup, Drawer, Dialog and BottomSheet.|116|2023-09-24|
 |94|[iwill/ExCodable](https://github.com/iwill/ExCodable)|Key-Mapping Extensions for Swift Codable|108|2023-10-30|
 |95|[octree/pretty](https://github.com/octree/pretty)|根据 Podfile.lock 生成依赖图的 Mac App。Written in Swift|104|2023-06-12|
@@ -116,18 +116,18 @@
 |109|[Panway/PandaNote](https://github.com/Panway/PandaNote)|markdown note taking App on iOS & macOS 支持iOS和macOS的markdown笔记|68|2023-11-02|
 |110|[Coder-Star/LTXiOSUtils](https://github.com/Coder-Star/LTXiOSUtils)|iOS Swift常用扩展、常用组件，方便项目快速搭建，提供完整清晰的Demo示例|66|2023-08-12|
 |111|[InsectQY/Candy](https://github.com/InsectQY/Candy)|Video iOS client is written in RxSwift and MVVM clean architecture|64|2023-10-09|
-|112|[rztime/RZColorfulSwift](https://github.com/rztime/RZColorfulSwift)|NSAttributedString 富文本方法 (图文混排、多样式文本) (RZColorful  Swift版) UILabel 折叠 展开 文本可点击|57|2023-08-10|
-|113|[Cantoboard/Cantoboard](https://github.com/Cantoboard/Cantoboard)|Cantoboard - Smart Cantonese Keyboard on iOS |56|2023-10-15|
-|114|[DuckDeck/iOSDemo](https://github.com/DuckDeck/iOSDemo)|-|53|2023-08-31|
-|115|[erduoniba/HDSeckillDemo](https://github.com/erduoniba/HDSeckillDemo)|使用灵动岛来实现电商秒杀功能|52|2023-06-02|
-|116|[Xcoder1011/SKGenerateModelTool](https://github.com/Xcoder1011/SKGenerateModelTool)|Automatically generate model files, support JSON and URL requests.  JSON转model工具（Mac软件）|51|2023-11-09|
-|117|[Rogue24/JPCrop](https://github.com/Rogue24/JPCrop)|高仿小红书App裁剪功能的轻量级工具。|50|2023-10-26|
-|118|[FreeYXY/SwiftProject](https://github.com/FreeYXY/SwiftProject)|swift项目实战|50|2023-09-15|
-|119|[ZhangDo/NeteaseTVDemo](https://github.com/ZhangDo/NeteaseTVDemo)|NeteaseTVDemo - 网易云音乐 tvOS 客户端 |46|2023-11-23|
+|112|[rztime/RZColorfulSwift](https://github.com/rztime/RZColorfulSwift)|NSAttributedString 富文本方法 (图文混排、多样式文本) (RZColorful  Swift版) UILabel 折叠 展开 文本可点击|58|2023-08-10|
+|113|[ZhangDo/NeteaseTVDemo](https://github.com/ZhangDo/NeteaseTVDemo)|NeteaseTVDemo - 网易云音乐 tvOS 客户端 |56|2023-11-23|
+|114|[Cantoboard/Cantoboard](https://github.com/Cantoboard/Cantoboard)|Cantoboard - Smart Cantonese Keyboard on iOS |56|2023-10-15|
+|115|[DuckDeck/iOSDemo](https://github.com/DuckDeck/iOSDemo)|-|53|2023-08-31|
+|116|[erduoniba/HDSeckillDemo](https://github.com/erduoniba/HDSeckillDemo)|使用灵动岛来实现电商秒杀功能|52|2023-06-02|
+|117|[Xcoder1011/SKGenerateModelTool](https://github.com/Xcoder1011/SKGenerateModelTool)|Automatically generate model files, support JSON and URL requests.  JSON转model工具（Mac软件）|51|2023-11-09|
+|118|[Rogue24/JPCrop](https://github.com/Rogue24/JPCrop)|高仿小红书App裁剪功能的轻量级工具。|50|2023-10-26|
+|119|[FreeYXY/SwiftProject](https://github.com/FreeYXY/SwiftProject)|swift项目实战|50|2023-09-15|
 |120|[miku1958/HappyCodable](https://github.com/miku1958/HappyCodable)|A happier codable|46|2023-09-22|
-|121|[isaced/V2exAPI](https://github.com/isaced/V2exAPI)|V2ex API 的 Swift 封装，支持 iOS/macOS (A V2ex API wrapper for iOS/macOS, built with Swift)|43|2023-08-29|
-|122|[siyuan-note/siyuan-ios](https://github.com/siyuan-note/siyuan-ios)|SiYuan iOS APP|43|2023-09-08|
-|123|[yuman07/EMHentai](https://github.com/yuman07/EMHentai)|一个简易，小巧，快速，纯Swift的Ehentai的iOS APP|43|2023-10-24|
+|121|[yuman07/EMHentai](https://github.com/yuman07/EMHentai)|一个简易，小巧，快速，纯Swift的Ehentai的iOS APP|44|2023-10-24|
+|122|[isaced/V2exAPI](https://github.com/isaced/V2exAPI)|V2ex API 的 Swift 封装，支持 iOS/macOS (A V2ex API wrapper for iOS/macOS, built with Swift)|43|2023-08-29|
+|123|[siyuan-note/siyuan-ios](https://github.com/siyuan-note/siyuan-ios)|SiYuan iOS APP|43|2023-09-08|
 |124|[Jdb156158/JbbAnimateWidget](https://github.com/Jdb156158/JbbAnimateWidget)|ios小组件动画效果调研|42|2023-09-26|
 |125|[jackiehu/SwiftBrick](https://github.com/jackiehu/SwiftBrick)|swift砖块系列：UI基础框架，有各种工具方便快速搭建APP|42|2023-08-17|
 |126|[Rogue24/ScreenRotator](https://github.com/Rogue24/ScreenRotator)|屏幕旋转工具类，能通过代码随时随地改变/保持屏幕方向。|41|2023-06-14|
@@ -137,8 +137,8 @@
 |130|[Jumio/mobile-react](https://github.com/Jumio/mobile-react)|Jumio Mobile Plugin for React Native|35|2023-11-03|
 |131|[6tail/lunar-swift](https://github.com/6tail/lunar-swift)|日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.|34|2023-11-10|
 |132|[chenxing640/DYFStore](https://github.com/chenxing640/DYFStore)|用于应用内购买的轻量级且易用的iOS库(A lightweight and easy-to-use iOS library for In-App Purchases.)。|34|2023-08-24|
-|133|[KeenTeam1990/KTTodayNews](https://github.com/KeenTeam1990/KTTodayNews)|🍍Swift开源项目-今日头条集新闻与娱乐于一体的iOS新闻客户端 |31|2023-10-19|
-|134|[intsig171/SmartCodable](https://github.com/intsig171/SmartCodable)|使用Codable系统解析能力为底层实现，适配了Codable解析失败的情况的Swift数据解析库。并参考了HandyJSON的对外API的实现，可以更快速的替换HandyJSON。|29|2023-11-24|
+|133|[intsig171/SmartCodable](https://github.com/intsig171/SmartCodable)|使用Codable系统解析能力为底层实现，适配了Codable解析失败的情况的Swift数据解析库。并参考了HandyJSON的对外API的实现，可以更快速的替换HandyJSON。|31|2023-11-24|
+|134|[KeenTeam1990/KTTodayNews](https://github.com/KeenTeam1990/KTTodayNews)|🍍Swift开源项目-今日头条集新闻与娱乐于一体的iOS新闻客户端 |31|2023-10-19|
 |135|[alenpaulkevin/UICollectionViewDemo](https://github.com/alenpaulkevin/UICollectionViewDemo)|用collectionView实现各种效果|29|2023-09-26|
 |136|[luoxuhai/react-native-classify-image](https://github.com/luoxuhai/react-native-classify-image)|🏞 react-native library to classify images using Vision   对图像进行分类的 react-native 库|28|2023-10-21|
 |137|[sunsx9316/DanDanPlay_Experience](https://github.com/sunsx9316/DanDanPlay_Experience)|弹弹play体验版 write in flutter|27|2023-10-06|

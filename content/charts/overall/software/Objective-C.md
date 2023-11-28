@@ -1,44 +1,44 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Objective-C
-<sub>数据更新: 2023-11-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac)|Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)|21486|2023-07-19|
+|1|[MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac)|Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)|21487|2023-07-19|
 |2|[Instagram/IGListKit](https://github.com/Instagram/IGListKit)|A data-driven UICollectionView framework for building fast and flexible lists.|12724|2023-11-20|
-|3|[sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS)|A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨|9931|2023-09-10|
+|3|[sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS)|A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨|9938|2023-09-10|
 |4|[banchichen/TZImagePickerController](https://github.com/banchichen/TZImagePickerController)|一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。  A clone of UIImagePickerController, support picking multiple photos、original photo、video, also allow preview photo and video, support iOS6+|7975|2023-11-21|
 |5|[MatthewYork/DateTools](https://github.com/MatthewYork/DateTools)|Dates and times made easy in iOS|7216|2023-08-02|
-|6|[renzifeng/ZFPlayer](https://github.com/renzifeng/ZFPlayer)|Support customization of any player SDK and control layer(支持定制任何播放器SDK和控制层)|6993|2023-07-31|
+|6|[renzifeng/ZFPlayer](https://github.com/renzifeng/ZFPlayer)|Support customization of any player SDK and control layer(支持定制任何播放器SDK和控制层)|6992|2023-07-31|
 |7|[Tencent/QMUI_iOS](https://github.com/Tencent/QMUI_iOS)|QMUI iOS——致力于提高项目 UI 开发效率的解决方案|6951|2023-09-22|
 |8|[pujiaxin33/JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)|A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|5975|2023-06-30|
 |9|[Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder)|Find memory leaks in your iOS app at develop time.|5366|2023-09-11|
-|10|[JackJiang2011/MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK)|一个原创多端IM通信层框架，轻量级、高度提炼，历经8年、久经考验。可能是市面上唯一同时支持UDP+TCP+WebSocket三种协议的同类开源框架，支持 iOS、Android、Java、H5、小程序、Uniapp，服务端基于Netty。|5083|2023-09-28|
-|11|[Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner)|腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。|5061|2023-11-20|
+|10|[JackJiang2011/MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK)|一个原创多端IM通信层框架，轻量级、高度提炼，历经8年、久经考验。可能是市面上唯一同时支持UDP+TCP+WebSocket三种协议的同类开源框架，支持 iOS、Android、Java、H5、小程序、Uniapp，服务端基于Netty。|5088|2023-09-28|
+|11|[Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner)|腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。|5062|2023-11-20|
 |12|[AAChartModel/AAChartKit](https://github.com/AAChartModel/AAChartKit)|📈📊🚀🚀🚀An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, ...|4662|2023-11-25|
 |13|[youngsoft/MyLinearLayout](https://github.com/youngsoft/MyLinearLayout)|MyLayout is a powerful iOS UI framework implemented by Objective-C. It integrates the functions with Android Layout,iOS AutoLayout,SizeClass, HTML CSS float and flexbox and bootstrap. So you can use L ...|4323|2023-08-25|
 |14|[nicklockwood/iRate](https://github.com/nicklockwood/iRate)|[DEPRECATED]|4121|2023-10-13|
-|15|[rime/squirrel](https://github.com/rime/squirrel)|【鼠鬚管】Rime for macOS|4096|2023-11-22|
-|16|[johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII)|Re-write of Injection for Xcode in (mostly) Swift|3723|2023-11-21|
-|17|[Tencent/vap](https://github.com/Tencent/vap)|VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台。|3664|2023-09-01|
-|18|[tisfeng/Easydict](https://github.com/tisfeng/Easydict)|一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，百度和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text. |3610|2023-11-26|
+|15|[rime/squirrel](https://github.com/rime/squirrel)|【鼠鬚管】Rime for macOS|4098|2023-11-22|
+|16|[johnno1962/InjectionIII](https://github.com/johnno1962/InjectionIII)|Re-write of Injection for Xcode in (mostly) Swift|3725|2023-11-27|
+|17|[tisfeng/Easydict](https://github.com/tisfeng/Easydict)|一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，ChatGPT，DeepL，Google，Bing，百度，小牛和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and translating text ...|3688|2023-11-27|
+|18|[Tencent/vap](https://github.com/Tencent/vap)|VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台。|3665|2023-09-01|
 |19|[MoZhouqi/KMNavigationBarTransition](https://github.com/MoZhouqi/KMNavigationBarTransition)|A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for  ...|3370|2023-10-02|
-|20|[tigerAndBull/TABAnimated](https://github.com/tigerAndBull/TABAnimated)|A skeleton screen loading framework based on native for iOS. (一个由iOS原生组件映射出骨架屏的框架，包含快速植入，低耦合，兼容复杂视图等特点，提供国内主流骨架屏动画的加载方案，同时支持上拉加载更多、自定制动画。)|3295|2023-08-29|
+|20|[tigerAndBull/TABAnimated](https://github.com/tigerAndBull/TABAnimated)|A skeleton screen loading framework based on native for iOS. (一个由iOS原生组件映射出骨架屏的框架，包含快速植入，低耦合，兼容复杂视图等特点，提供国内主流骨架屏动画的加载方案，同时支持上拉加载更多、自定制动画。)|3297|2023-08-29|
 |21|[zhengwenming/WMPlayer](https://github.com/zhengwenming/WMPlayer)|WMPlayer-AVPlayer的封装，继承UIView，支持pods，手势快进、快退，全面适配全面屏，同时支持网络和本地视频的播放|3275|2023-08-09|
 |22|[wangmchn/WMPageController](https://github.com/wangmchn/WMPageController)|An easy solution to page controllers like NetEase News|2916|2023-08-23|
-|23|[benbaker76/Hackintool](https://github.com/benbaker76/Hackintool)|The Swiss army knife of vanilla Hackintoshing|2816|2023-09-30|
+|23|[benbaker76/Hackintool](https://github.com/benbaker76/Hackintool)|The Swiss army knife of vanilla Hackintoshing|2817|2023-09-30|
 |24|[sshiqiao/douyin-ios-objectc](https://github.com/sshiqiao/douyin-ios-objectc)|抖音 iOS Object-C版|2308|2023-07-25|
 |25|[shaojiankui/SmartPush](https://github.com/shaojiankui/SmartPush)|SmartPush,一款iOS苹果远程推送测试程序,Mac OS下的APNS工具APP,iOS Push Notification Debug App|2104|2023-11-06|
 |26|[Pluto-Y/iOS-Echarts](https://github.com/Pluto-Y/iOS-Echarts)|-|1911|2023-10-23|
-|27|[DKJone/DKWechatHelper](https://github.com/DKJone/DKWechatHelper)|不止于抢红包，功能丰富的微信插件。|1892|2023-06-21|
+|27|[DKJone/DKWechatHelper](https://github.com/DKJone/DKWechatHelper)|不止于抢红包，功能丰富的微信插件。|1893|2023-06-21|
 |28|[12207480/TYCyclePagerView](https://github.com/12207480/TYCyclePagerView)|a simple and usefull cycle pager view ,and auto scroll banner view(轮播图) ,include pageControl for iOS,support Objective-C and swift|1749|2023-07-04|
 |29|[didi/DiDiPrism](https://github.com/didi/DiDiPrism)|小桔棱镜，一款专注移动端操作行为的利器！ A powerful tool (iOS & Android) that focuses on mobile operation behavior!|1678|2023-10-09|
-|30|[520coding/confuse](https://github.com/520coding/confuse)|iOS混淆加固差异化翻新加密工具，模拟人工手动混淆，识别上下文 ，支持继承链、类型识别、方法多参等复杂高级混淆。source-to-source obfuscation of iOS projects，Xcode's refactor->rename. 告别插入毫无关联的垃圾代码、弃用无脑单词随机拼接替换，模拟正常开发，一款最好的混淆最彻底的Mac App Tools。支持OC(Objc、Obje ...|1652|2023-11-21|
+|30|[520coding/confuse](https://github.com/520coding/confuse)|iOS混淆加固差异化翻新加密工具，模拟人工手动混淆，识别上下文 ，支持继承链、类型识别、方法多参等复杂高级混淆。source-to-source obfuscation of iOS projects，Xcode's refactor->rename. 告别插入毫无关联的垃圾代码、弃用无脑单词随机拼接替换，模拟正常开发，一款最好的混淆最彻底的Mac App Tools。支持OC(Objc、Obje ...|1655|2023-11-21|
 |31|[QuintGao/GKPageScrollView](https://github.com/QuintGao/GKPageScrollView)|iOS类似微博、抖音、网易云等个人详情页滑动嵌套效果|1474|2023-11-08|
 |32|[meitu/MTHawkeye](https://github.com/meitu/MTHawkeye)|Profiling / Debugging assist tools for iOS. (Memory Leak, OOM, ANR, Hard Stalling, Network, OpenGL, Time Profile ...)|1456|2023-11-17|
 |33|[huangzhibiao/BGFMDB](https://github.com/huangzhibiao/BGFMDB)|BGFMDB让数据的增删改查分别只需要一行代码即可,就是这么简单任性，本库几乎支持存储ios所有基本的自带数据类型.|1435|2023-07-21|
-|34|[rugarciap/Turbo-Boost-Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher)|Turbo Boost disabler / enable app for Mac OS X|1412|2023-06-28|
+|34|[rugarciap/Turbo-Boost-Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher)|Turbo Boost disabler / enable app for Mac OS X|1413|2023-06-28|
 |35|[wuba/WBBlades](https://github.com/wuba/WBBlades)|基于Mach-O的ObjC & Swift无用类、无用协议、无用资源检测，包大小分析，点对点崩溃解析。|1395|2023-10-20|
 |36|[jpush/jpush-react-native](https://github.com/jpush/jpush-react-native)|JPush's officially supported React Native plugin (Android & iOS). 极光推送官方支持的 React Native 插件（Android & iOS）。|1332|2023-09-22|
 |37|[lixiang1994/LEEAlert](https://github.com/lixiang1994/LEEAlert)|优雅的可自定义 Alert ActionSheet|1276|2023-08-18|
@@ -46,35 +46,35 @@
 |39|[QuintGao/GKPhotoBrowser](https://github.com/QuintGao/GKPhotoBrowser)|iOS仿微信、今日头条等图片浏览器|1189|2023-10-17|
 |40|[strongbox-password-safe/Strongbox](https://github.com/strongbox-password-safe/Strongbox)|A KeePass/Password Safe Client for iOS and OS X|1177|2023-11-22|
 |41|[YPLiang19/Mango](https://github.com/YPLiang19/Mango)|MangoFix is a DSL which syntax is very similar to Objective-C，MangoFix is also an iOS  App hotfix SDK. You can use MangoFix method replace any Objective-C or Swift method.|1134|2023-08-29|
-|42|[wildfirechat/ios-chat](https://github.com/wildfirechat/ios-chat)|开源的即时通讯(野火IM)系统|1116|2023-11-22|
+|42|[wildfirechat/ios-chat](https://github.com/wildfirechat/ios-chat)|开源的即时通讯(野火IM)系统|1117|2023-11-27|
 |43|[LiteAVSDK/Player_iOS](https://github.com/LiteAVSDK/Player_iOS)|Super player for iOS...|1094|2023-09-01|
 |44|[wwmz/WMZDialog](https://github.com/wwmz/WMZDialog)|功能最多样式最多的弹窗，支持普通/底部/日期/地区/日历/选择/编辑/分享/菜单/自定义弹窗等,支持多种动画,链式编程调用(Pop-up windows with the most functions and styles, support normal/bottom/date/region/calendar/select/edit/share/menu/custom pop-up windows ...|1024|2023-06-08|
-|45|[vitoziv/VIMediaCache](https://github.com/vitoziv/VIMediaCache)|Cache media file while play media using AVPlayer|916|2023-10-28|
+|45|[vitoziv/VIMediaCache](https://github.com/vitoziv/VIMediaCache)|Cache media file while play media using AVPlayer|917|2023-10-28|
 |46|[Rogue24/JPImageresizerView](https://github.com/Rogue24/JPImageresizerView)|一个专门裁剪图片、GIF、视频的轮子😋 简单易用、功能丰富☕️（高自由度的参数设定、支持旋转和镜像翻转、蒙版、压缩等），能满足绝大部分裁剪的需求。|870|2023-10-29|
 |47|[lyb5834/YBPopupMenu](https://github.com/lyb5834/YBPopupMenu)|快速集成popupMenu|867|2023-08-17|
 |48|[yuwind/HHTransition](https://github.com/yuwind/HHTransition)|主流转场动画，无侵入，API简单易用。|843|2023-09-08|
-|49|[jpush/jpush-flutter-plugin](https://github.com/jpush/jpush-flutter-plugin)|JPush's officially supported Flutter plugin (Android & iOS). 极光推送官方支持的 Flutter 插件（Android & iOS）。|821|2023-10-23|
+|49|[jpush/jpush-flutter-plugin](https://github.com/jpush/jpush-flutter-plugin)|JPush's officially supported Flutter plugin (Android & iOS). 极光推送官方支持的 Flutter 插件（Android & iOS）。|823|2023-10-23|
 |50|[iTofu/LCActionSheet](https://github.com/iTofu/LCActionSheet)|一款简约而不失强大的 ActionSheet，微博、微信和 QQ 都采用了极其类似的样式，完全支持 Swift。|817|2023-08-01|
 |51|[linkedin/Hakawai](https://github.com/linkedin/Hakawai)|A powerful, extensible UITextView.|783|2023-05-31|
 |52|[sensorsdata/sa-sdk-ios](https://github.com/sensorsdata/sa-sdk-ios)|神策数据官方 iOS 埋点 SDK，是一款轻量级用于 iOS 端的数据采集埋点 SDK。神策分析 iOS SDK 不仅有代码埋点功能，还通过使用运行时机制（Runtime）中的相关技术实现 iOS 端的全埋点（无埋点、无码埋点、无痕埋点、自动埋点）、点击图、可视化全埋点。|652|2023-11-20|
 |53|[SilverFruity/OCRunner](https://github.com/SilverFruity/OCRunner)|Execute Objective-C code as script.  AST Interpreter. iOS hotfix SDK.  |639|2023-11-21|
-|54|[OpenFlutter/tobias](https://github.com/OpenFlutter/tobias)|AliPay For Flutter.支付宝Flutter插件|638|2023-10-27|
+|54|[OpenFlutter/tobias](https://github.com/OpenFlutter/tobias)|AliPay For Flutter.支付宝Flutter插件|639|2023-10-27|
 |55|[AirtestProject/iOS-Tagent](https://github.com/AirtestProject/iOS-Tagent)|iOS support agent for automation|610|2023-11-02|
 |56|[Zws-China/DatePicker](https://github.com/Zws-China/DatePicker)|日期选择器,日期时间选择,时间选择器 💯|599|2023-10-10|
-|57|[adjust/ios_sdk](https://github.com/adjust/ios_sdk)|This is the iOS SDK of|588|2023-11-21|
+|57|[adjust/ios_sdk](https://github.com/adjust/ios_sdk)|This is the iOS SDK of|589|2023-11-21|
 |58|[shaojiankui/ProfilesManager](https://github.com/shaojiankui/ProfilesManager)|Apple iOS/macOS Provisioning Profiles management,.provisionprofile, .mobileprovision files manager tool for mac|580|2023-08-14|
-|59|[QuintGao/GKDYVideo](https://github.com/QuintGao/GKDYVideo)|iOS仿抖音短视频|557|2023-08-22|
+|59|[QuintGao/GKDYVideo](https://github.com/QuintGao/GKDYVideo)|iOS仿抖音短视频|558|2023-08-22|
 |60|[pili-engineering/PLMediaStreamingKit](https://github.com/pili-engineering/PLMediaStreamingKit)|PLMediaStreamingKit 是七牛推出的一款适用于 iOS 平台的推流 SDK，支持 RTMP 推流，h.264 和 AAC 编码，硬编、软编支持。具有丰富的数据和状态回调，方便用户根据自己的业务定制化开发。具有直播场景下的重要功能，如：美颜、背景音乐、水印等功能。|539|2023-08-10|
 |61|[SmileZXLee/IpaDownloadTool](https://github.com/SmileZXLee/IpaDownloadTool)|输入下载页面链接自动解析ipa下载地址，支持本地下载，支持第三方和自定义下载页面(通过拦截webView的itms-services://请求获取plist文件，支持各类企业版、内测包ipa下载)|512|2023-08-12|
-|62|[aliyun/aliyun-oss-ios-sdk](https://github.com/aliyun/aliyun-oss-ios-sdk)|iOS SDK for aliyun object storage service|446|2023-07-28|
-|63|[qiniu/objc-sdk](https://github.com/qiniu/objc-sdk)|Qiniu Resource (Cloud) Storage Objective-C SDK for Mac/iOS|437|2023-11-23|
-|64|[donggelaile/HDCollectionView](https://github.com/donggelaile/HDCollectionView)|An efficient and flexible listView (data driven). Based on Flexbox, it supports floating, waterfall, decorative view, horizontal sliding, segmented layout, and various alignments. Support diff refresh ...|413|2023-08-09|
+|62|[aliyun/aliyun-oss-ios-sdk](https://github.com/aliyun/aliyun-oss-ios-sdk)|iOS SDK for aliyun object storage service|447|2023-07-28|
+|63|[qiniu/objc-sdk](https://github.com/qiniu/objc-sdk)|Qiniu Resource (Cloud) Storage Objective-C SDK for Mac/iOS|437|2023-11-27|
+|64|[donggelaile/HDCollectionView](https://github.com/donggelaile/HDCollectionView)|An efficient and flexible listView (data driven). Based on Flexbox, it supports floating, waterfall, decorative view, horizontal sliding, segmented layout, and various alignments. Support diff refresh ...|414|2023-08-09|
 |65|[BlinkID/blinkid-ios](https://github.com/BlinkID/blinkid-ios)|Everything you need to add AI-driven ID scanning into your native iOS app.|374|2023-11-03|
 |66|[maniackk/TimeProfiler](https://github.com/maniackk/TimeProfiler)|Recording all OC methods in the main thread takes time|369|2023-08-10|
 |67|[LuKane/KNPhotoBrowser](https://github.com/LuKane/KNPhotoBrowser)|图片浏览器(本地和网络) ,视频浏览器 (本地和网络), 无耦合性,自定义控件,资源路径保存和获取,  完美适配 iPhone 以及 iPad ,屏幕旋转功能.|364|2023-07-05|
 |68|[doushiDev/ds_ios](https://github.com/doushiDev/ds_ios)|逗视iOS客户端|352|2023-10-11|
 |69|[januslo/react-native-bluetooth-escpos-printer](https://github.com/januslo/react-native-bluetooth-escpos-printer)|React-Native plugin for the bluetooth ESC/POS & TSC printers.|329|2023-10-26|
-|70|[muzipiao/GMObjC](https://github.com/muzipiao/GMObjC)|SM2/SM3/SM4/ECDH crypto library based on OpenSSL.|322|2023-11-14|
+|70|[muzipiao/GMObjC](https://github.com/muzipiao/GMObjC)|SM2/SM3/SM4/ECDH crypto library based on OpenSSL.|322|2023-11-27|
 |71|[SmileZXLee/ZXNavigationBar](https://github.com/SmileZXLee/ZXNavigationBar)|灵活轻量的自定义导航栏，导航栏属于控制器view，支持导航栏联动，一行代码实现【导航栏背景图片设置、导航栏渐变、折叠、修改Item大小和边距、自定义导航栏高度、全屏手势返回、pop拦截、仿系统导航栏历史堆栈】等各种效果|317|2023-09-14|
 |72|[jiaxiaogang/he4o](https://github.com/jiaxiaogang/he4o)|HE —— “螺旋熵减机”|316|2023-11-23|
 |73|[finogeeks/finclip-ios-demo](https://github.com/finogeeks/finclip-ios-demo)|小程序容器 FinClip 苹果运行环境，让小程序在苹果应用中无缝运行  / iOS DEMO for FinClip|310|2023-06-01|
@@ -112,8 +112,8 @@
 |105|[jiliuliu/SIXRichEditor](https://github.com/jiliuliu/SIXRichEditor)|iOS  一个简洁 易用  支持html  的富文本编辑器|97|2023-06-25|
 |106|[QiuChenlyOpenSource/macOS-InjectPluginCode](https://github.com/QiuChenlyOpenSource/macOS-InjectPluginCode)|libInlineInjectPlugin.dylib 开源项目 基于rd_route的Hook技术以及OC运行时Hook技术|87|2023-06-09|
 |107|[zhnnnnn/ZHNJSBox](https://github.com/zhnnnnn/ZHNJSBox)|🎮乞丐版JSBox（js编辑器+js动态化框架）|87|2023-08-14|
-|108|[growingio/growingio-sdk-ios-autotracker](https://github.com/growingio/growingio-sdk-ios-autotracker)|GrowingIO Autotracker 具备自动采集基本的用户行为事件，比如访问和行为数据等。目前支持代码埋点、无埋点、可视化圈选、热图等功能。|85|2023-11-24|
-|109|[rongcloud/callkit-ios](https://github.com/rongcloud/callkit-ios)|Open-source code of RongCloud VoIP Audio/Video UI. 融云音视频通话功能 UI 界面 SDK 开源代码。|85|2023-10-11|
+|108|[rongcloud/callkit-ios](https://github.com/rongcloud/callkit-ios)|Open-source code of RongCloud VoIP Audio/Video UI. 融云音视频通话功能 UI 界面 SDK 开源代码。|86|2023-10-11|
+|109|[growingio/growingio-sdk-ios-autotracker](https://github.com/growingio/growingio-sdk-ios-autotracker)|GrowingIO Autotracker 具备自动采集基本的用户行为事件，比如访问和行为数据等。目前支持代码埋点、无埋点、可视化圈选、热图等功能。|85|2023-11-24|
 |110|[SilverFruity/oc2mango](https://github.com/SilverFruity/oc2mango)|convert Objective-C to mango script:https://github.com/YPLiang19/Mango|84|2023-11-02|
 |111|[nyzhanggy/RSADemo](https://github.com/nyzhanggy/RSADemo)|RSA加解密相关方方法，以及密钥格式的生成与转换。|82|2023-08-07|
 |112|[91renb/BRKit](https://github.com/91renb/BRKit)|iOS轻量级高效率工具库，都是项目中常用的工具分类|75|2023-09-20|
@@ -164,15 +164,15 @@
 |157|[ThinkingDataAnalytics/unity-sdk](https://github.com/ThinkingDataAnalytics/unity-sdk)|ThinkingData SDK for Unity|25|2023-11-24|
 |158|[KeenTeam1990/KTVideoMonitor](https://github.com/KeenTeam1990/KTVideoMonitor)|🥭KTVideoMonitor视频监控Demo-基于ijkPlayer的网络播放器，支持HTTP、RTMP、HLS(m3u8)、本地视频等多种格式|25|2023-08-10|
 |159|[jpush/jverification-hbuilder-plugin](https://github.com/jpush/jverification-hbuilder-plugin)|极光认证官方支持的 hbuilder 插件（Android & iOS）|24|2023-11-24|
-|160|[wildfirechat/wfc_flutter_plugins](https://github.com/wildfirechat/wfc_flutter_plugins)|野火flutter插件，包含即时通讯和实时音视频插件|23|2023-11-25|
+|160|[wildfirechat/wfc_flutter_plugins](https://github.com/wildfirechat/wfc_flutter_plugins)|野火flutter插件，包含即时通讯和实时音视频插件|23|2023-11-27|
 |161|[eventtracing/EventTracing-iOS](https://github.com/eventtracing/EventTracing-iOS)|曙光 iOS SDK，隶属于 https://github.com/eventtracing/dawn 项目|22|2023-08-09|
 |162|[QuintGao/GKVideoScrollView](https://github.com/QuintGao/GKVideoScrollView)|iOS仿抖音等上下滑动切换视图，使用方式类似UITableView，支持不同cell切换|21|2023-09-21|
 |163|[nongshifu/Bsphp-des3_vi-UDID](https://github.com/nongshifu/Bsphp-des3_vi-UDID)|Bsphp-绑定UDID|21|2023-11-19|
 |164|[xing3523/XMixScrollManager](https://github.com/xing3523/XMixScrollManager)|管理UIScrollView嵌套滑动的一个小组件。 无UI布局，低耦合。|21|2023-07-19|
 |165|[zhahao/HGTransitionAnimator](https://github.com/zhahao/HGTransitionAnimator)|简单易用的控制器之间的转场动画。|21|2023-08-29|
-|166|[kongmingyang/WaterMark](https://github.com/kongmingyang/WaterMark)|通过扩展view，轻松给view添加文字水印效果|20|2023-07-13|
-|167|[pcjbird/QuickTraceiOSLogger](https://github.com/pcjbird/QuickTraceiOSLogger)|A real time iOS log trace tool, view iOS log with pc web browser under local area network, which will automatically scroll like xcode. 一个实时的iOS日志跟踪工具，在局域网中使用 PC Web 浏览器查看 iOS 日志，它将像xcode一样自动滚动。|20|2023-08-10|
-|168|[easemob/chat-ios](https://github.com/easemob/chat-ios)|-|19|2023-11-21|
+|166|[pcjbird/QuickTraceiOSLogger](https://github.com/pcjbird/QuickTraceiOSLogger)|A real time iOS log trace tool, view iOS log with pc web browser under local area network, which will automatically scroll like xcode. 一个实时的iOS日志跟踪工具，在局域网中使用 PC Web 浏览器查看 iOS 日志，它将像xcode一样自动滚动。|20|2023-08-10|
+|167|[easemob/chat-ios](https://github.com/easemob/chat-ios)|-|19|2023-11-21|
+|168|[kongmingyang/WaterMark](https://github.com/kongmingyang/WaterMark)|通过扩展view，轻松给view添加文字水印效果|19|2023-07-13|
 |169|[SmileZXLee/ZXTableView](https://github.com/SmileZXLee/ZXTableView)|快速、高效地构建TableView，节省80%以上重复代码，无需设置数据源和代理。|19|2023-07-04|
 |170|[andy0andy/ios_crackme](https://github.com/andy0andy/ios_crackme)|ios逆向测试app, 持续开发|18|2023-06-06|
 |171|[blinkcard/blinkcard-ios](https://github.com/blinkcard/blinkcard-ios)|SDK for scanning and OCR of credit or payment cards. Contains native iOS SDK, code samples and documentation.|18|2023-09-18|
@@ -196,15 +196,15 @@
 |189|[QuintGao/GKSliderView](https://github.com/QuintGao/GKSliderView)|iOS - 自定义一个滑杆控件|14|2023-09-04|
 |190|[loyalwind/WJLicensePlateKeyboard](https://github.com/loyalwind/WJLicensePlateKeyboard)|自定义的车牌号码输入键盘|14|2023-11-08|
 |191|[debugly/SCJSONUtil](https://github.com/debugly/SCJSONUtil)|轻量、方便的 JSON 和 Model 互转框架，支持 iOS/macOS 平台|14|2023-09-20|
-|192|[finogeeks/react-native-mopsdk](https://github.com/finogeeks/react-native-mopsdk)|FinClip React SDK 插件，用于 RN 环境中 API 与组件调用  / React SDK for FinClip|13|2023-11-20|
-|193|[MayXiaoYang/LQProStandardView](https://github.com/MayXiaoYang/LQProStandardView)|一个关于商品规格选择的View|13|2023-10-20|
+|192|[muyang520/IOS_code](https://github.com/muyang520/IOS_code)|iOS逆向代码|13|2023-10-13|
+|193|[finogeeks/react-native-mopsdk](https://github.com/finogeeks/react-native-mopsdk)|FinClip React SDK 插件，用于 RN 环境中 API 与组件调用  / React SDK for FinClip|13|2023-11-20|
 |194|[Kennytian/meiqia-react-native](https://github.com/Kennytian/meiqia-react-native)|MeiQia SDK component for React Native|13|2023-10-21|
 |195|[xjh093/JHNoDataEmptyView](https://github.com/xjh093/JHNoDataEmptyView)|empty view for tableview and collectionview，空白页，占位图|13|2023-10-13|
 |196|[mengxianliang/XLUIFont](https://github.com/mengxianliang/XLUIFont)|iOS 系统字体预览|13|2023-10-31|
 |197|[fanxiangyang/FanKit](https://github.com/fanxiangyang/FanKit)|A Cocoa Tool Kit of iOS components   pod  'FanKit','~>x.x.x'|13|2023-11-20|
 |198|[DKJone/DKVideoPlayer](https://github.com/DKJone/DKVideoPlayer)|一款直播或视频类APP插件|12|2023-06-02|
-|199|[muyang520/IOS_code](https://github.com/muyang520/IOS_code)|iOS逆向代码|12|2023-10-13|
-|200|[faimin/ZDFlexLayoutKit](https://github.com/faimin/ZDFlexLayoutKit)|使用虚拟视图辅助布局, 在Runloop idle时自动计算布局|12|2023-07-02|
+|199|[faimin/ZDFlexLayoutKit](https://github.com/faimin/ZDFlexLayoutKit)|使用虚拟视图辅助布局, 在Runloop idle时自动计算布局|12|2023-07-02|
+|200|[ForterLi/FLNavigationBar](https://github.com/ForterLi/FLNavigationBar)|一个用来统一管理导航栏转场以及当 push 或者 pop 的时候使动画效果更加顺滑的通用库，并且同时支持竖屏和横屏。能应对复杂的场景变化，又兼顾原生NavigationBar的使用习惯 https://juejin.im/post/5e8d8db36fb9a03c5d5c7f27|12|2023-06-06|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

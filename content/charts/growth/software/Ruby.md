@@ -1,28 +1,28 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Ruby
-<sub>数据更新: 2023-11-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6301|2|2023-11-22|
-|2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3737|1|2023-10-16|
-|3|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3397|1|2023-11-19|
-|4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2390|1|2023-11-02|
-|5|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1020|1|2023-11-19|
+|2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3738|1|2023-10-16|
+|3|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3397|1|2023-11-26|
+|4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2392|1|2023-11-02|
+|5|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1021|1|2023-11-19|
 |6|[Bywalks/DarkAngel](https://github.com/Bywalks/DarkAngel)|DarkAngel 是一款全自动白帽漏洞扫描器，从hackerone、bugcrowd资产监听到漏洞报告生成、漏洞URL截屏、消息通知。|522|1|2023-08-17|
 |7|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|2162|1|2023-06-21|
 |8|[rikas/zoho_hub](https://github.com/rikas/zoho_hub)|Zoho CRM API V2 Wrapper|24|0|2023-06-02|
 |9|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS and macOS apps|830|0|2023-11-21|
 |10|[kenn/active_flag](https://github.com/kenn/active_flag)|Bit array for ActiveRecord|175|0|2023-09-04|
 |11|[piotrmurach/strings](https://github.com/piotrmurach/strings)|A set of useful functions for transforming strings.|124|0|2023-10-05|
-|12|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|21|0|2023-11-01|
-|13|[test-kitchen/kitchen-azurerm](https://github.com/test-kitchen/kitchen-azurerm)|A driver for Test Kitchen that works with Azure Resource Manager|48|0|2023-11-15|
+|12|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|21|0|2023-11-27|
+|13|[test-kitchen/kitchen-azurerm](https://github.com/test-kitchen/kitchen-azurerm)|A driver for Test Kitchen that works with Azure Resource Manager|48|0|2023-11-27|
 |14|[Ezviz-OpenBiz/SDK-iOS](https://github.com/Ezviz-OpenBiz/SDK-iOS)|Ezviz SDK，功能更强大的开发套件，可以实现预览、回放、配网、对讲、设备控制、oAuth授权等功能|13|0|2023-10-26|
 |15|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|639|0|2023-10-13|
 |16|[sirupsen/airrecord](https://github.com/sirupsen/airrecord)|Ruby wrapper for Airtable, your personal database|283|0|2023-09-18|
 |17|[joshlarsen/aws-recon](https://github.com/joshlarsen/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|493|0|2023-11-10|
-|18|[samvera/hyrax](https://github.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|170|0|2023-11-22|
+|18|[samvera/hyrax](https://github.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|172|0|2023-11-27|
 |19|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|660|0|2023-11-21|
 |20|[FunnyWolf/vipermsf](https://github.com/FunnyWolf/vipermsf)|viper 自定义的msf|82|0|2023-10-20|
 |21|[windwords/homebrew-vchewing](https://github.com/windwords/homebrew-vchewing)|homebrew-vchewing是一个用于安装/卸载威注音输入法的Homebrew Cask。|15|0|2023-11-05|
@@ -47,12 +47,12 @@
 |40|[brenes/stopwords-filter](https://github.com/brenes/stopwords-filter)|Project for filtering stopwords|73|0|2023-11-24|
 |41|[etrex/kamigo](https://github.com/etrex/kamigo)|a chatbot framework based on rails|76|0|2023-10-23|
 |42|[SonicGarden/dekiru](https://github.com/SonicGarden/dekiru)|Usefull helper methods for Ruby on Rails|25|0|2023-10-18|
-|43|[bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD)|-|163|0|2023-11-23|
+|43|[bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD)|-|163|0|2023-11-27|
 |44|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|17|0|2023-10-26|
-|45|[jpmobile/jpmobile](https://github.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|318|0|2023-11-21|
-|46|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast and smart citation reference parsing|888|0|2023-05-29|
-|47|[ivaquero/homebrew-chinese](https://github.com/ivaquero/homebrew-chinese)|🀄 一个致力于服务国人的 Homebrew 🍺 第三方库|25|0|2023-11-25|
-|48|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|20|0|2023-11-22|
+|45|[jpmobile/jpmobile](https://github.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|318|0|2023-11-27|
+|46|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast and smart citation reference parsing|889|0|2023-05-29|
+|47|[ivaquero/homebrew-chinese](https://github.com/ivaquero/homebrew-chinese)|🀄 一个致力于服务国人的 Homebrew 🍺 第三方库|26|0|2023-11-27|
+|48|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|20|0|2023-11-26|
 |49|[jfqd/redmine_helpdesk](https://github.com/jfqd/redmine_helpdesk)|Lightweight helpdesk plugin for redmine.|187|0|2023-08-22|
 |50|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|13|0|2023-11-24|
 |51|[ChrisZou/geekweibo](https://github.com/ChrisZou/geekweibo)|A twitter-like app where you can save and share short notes around programming. You can think of it as "twitter for programmers".|52|0|2023-07-11|
@@ -62,10 +62,10 @@
 |55|[OSMChina/OSMChina-Website](https://github.com/OSMChina/OSMChina-Website)|OpenStreetMap 中国社区|14|0|2023-11-03|
 |56|[MatthiasWinkelmann/firstname-database](https://github.com/MatthiasWinkelmann/firstname-database)|-|71|0|2023-09-27|
 |57|[mika-cn/maoxian-assistant](https://github.com/mika-cn/maoxian-assistant)|-|20|0|2023-06-29|
-|58|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1094|0|2023-11-25|
+|58|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1094|0|2023-11-27|
 |59|[huacnlee/rails-settings-cached](https://github.com/huacnlee/rails-settings-cached)|Global settings for your Rails application.|1019|0|2023-10-16|
-|60|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1407|0|2023-11-10|
-|61|[icyleaf/hpr](https://github.com/icyleaf/hpr)|镜像任意 git 仓库到 gitlab 的同步工具，具有定时更新的功能|86|0|2023-11-13|
+|60|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1408|0|2023-11-27|
+|61|[icyleaf/hpr](https://github.com/icyleaf/hpr)|镜像任意 git 仓库到 gitlab 的同步工具，具有定时更新的功能|86|0|2023-11-27|
 |62|[uasi/skk-emoji-jisyo](https://github.com/uasi/skk-emoji-jisyo)|SKK 絵文字辞書|107|0|2023-08-28|
 |63|[rails-engine/action-store](https://github.com/rails-engine/action-store)|Store different kind of actions (Like ❤️, Follow 👁, Star ⭐, Block ...) in one table via ActiveRecord Polymorphic Association.|398|0|2023-10-12|
 |64|[khiav223577/pluck_all](https://github.com/khiav223577/pluck_all)|A more efficient way to get data from database. Like #pluck method but return array of hashes instead.|100|0|2023-09-02|

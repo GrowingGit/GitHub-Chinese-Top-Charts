@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2023-11-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-11-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1694|1|2023-11-24|
-|2|[BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)|Color palette package in R inspired by works at the Metropolitan Museum of Art in New York|981|1|2023-09-30|
+|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1695|1|2023-11-24|
+|2|[BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)|Color palette package in R inspired by works at the Metropolitan Museum of Art in New York|982|1|2023-09-30|
 |3|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|53|0|2023-11-17|
 |4|[terrytangyuan/lfda](https://github.com/terrytangyuan/lfda)|Local Fisher Discriminant Analysis in R|74|0|2023-07-07|
 |5|[skgrange/rmweather](https://github.com/skgrange/rmweather)|Tools to Conduct Meteorological Normalisation on Air Quality Data|43|0|2023-11-21|
-|6|[Wytamma/GISAIDR](https://github.com/Wytamma/GISAIDR)|Programmatically interact with the GISAID database.|62|0|2023-11-24|
+|6|[Wytamma/GISAIDR](https://github.com/Wytamma/GISAIDR)|Programmatically interact with the GISAID database.|62|0|2023-11-26|
 |7|[ropensci/restez](https://github.com/ropensci/restez)|:sleeping: :open_file_folder: Create and Query a Local Copy of GenBank in R|24|0|2023-10-25|
 |8|[koheiw/LSX](https://github.com/koheiw/LSX)|Semi-supervised algorithm for document scaling|52|0|2023-10-31|
 |9|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|16|0|2023-06-23|
@@ -35,13 +35,13 @@
 |28|[quanteda/readtext](https://github.com/quanteda/readtext)|an R package for reading text files|111|0|2023-06-03|
 |29|[davidycliao/legisTaiwan](https://github.com/davidycliao/legisTaiwan)|legisTaiwan: An Interface to Access Taiwan Legislative API in R 台灣立法院國會系統 API |21|0|2023-10-31|
 |30|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|70|0|2023-10-26|
-|31|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|143|0|2023-11-22|
+|31|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|143|0|2023-11-26|
 |32|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|193|0|2023-11-23|
-|33|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/|78|0|2023-11-19|
-|34|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|608|0|2023-10-14|
+|33|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/|78|0|2023-11-27|
+|34|[crsh/papaja](https://github.com/crsh/papaja)|papaja (Preparing APA Journal Articles) is an R package that provides document formats to produce complete APA manuscripts from RMarkdown-files (PDF and Word documents) and helper functions that facil ...|609|0|2023-10-14|
 |35|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit|29|0|2023-10-01|
 |36|[allenlu2008/RDemo](https://github.com/allenlu2008/RDemo)|虾神的R语言Demo|34|0|2023-09-05|
-|37|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|143|0|2023-11-25|
+|37|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|143|0|2023-11-27|
 |38|[pzhaonet/beginr](https://github.com/pzhaonet/beginr)|an R package for beginners|15|0|2023-07-09|
 |39|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|55|0|2023-11-16|
 |40|[majianthu/copent](https://github.com/majianthu/copent)|R package for estimating copula entropy (mutual information), transfer entropy (conditional independence), and the statistic for multivariate normality test and two-sample test|37|0|2023-08-05|
@@ -49,11 +49,11 @@
 |42|[Otoliths/SP2000](https://github.com/Otoliths/SP2000)|🐟Catalogue of Life toolkit for R|10|0|2023-08-31|
 |43|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|590|0|2023-08-01|
 |44|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|973|0|2023-11-13|
-|45|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|📦 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|136|0|2023-10-01|
+|45|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|📦 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|137|0|2023-10-01|
 |46|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|119|0|2023-11-14|
 |47|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|13|0|2023-10-26|
 |48|[zumbov2/deeplr](https://github.com/zumbov2/deeplr)|An R wrapper for the DeepL Translator API|31|0|2023-11-03|
-|49|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|12|0|2023-10-03|
+|49|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|13|0|2023-10-03|
 |50|[CBIIT/LDlinkR](https://github.com/CBIIT/LDlinkR)|LDlinkR|38|0|2023-06-13|
 
 <div align="center">
