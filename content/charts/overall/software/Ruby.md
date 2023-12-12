@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Ruby
-<sub>数据更新: 2023-12-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-12-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6313|2023-12-01|
-|2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3740|2023-12-06|
-|3|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3397|2023-12-03|
+|1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6315|2023-12-01|
+|2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3741|2023-12-06|
+|3|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3397|2023-12-10|
 |4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2401|2023-11-02|
 |5|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|2163|2023-06-21|
 |6|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1415|2023-12-09|
 |7|[Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1300|2023-10-01|
-|8|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1096|2023-12-04|
+|8|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1097|2023-12-04|
 |9|[PGYER/fir-cli](https://github.com/PGYER/fir-cli)|fir.im(betaqr.com) command-line interface|1047|2023-07-07|
 |10|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1024|2023-11-19|
 |11|[huacnlee/rails-settings-cached](https://github.com/huacnlee/rails-settings-cached)|Global settings for your Rails application.|1020|2023-10-16|
@@ -25,14 +25,14 @@
 |18|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|639|2023-12-04|
 |19|[diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter)|Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.|529|2023-10-30|
 |20|[Bywalks/DarkAngel](https://github.com/Bywalks/DarkAngel)|DarkAngel 是一款全自动白帽漏洞扫描器，从hackerone、bugcrowd资产监听到漏洞报告生成、漏洞URL截屏、消息通知。|528|2023-08-17|
-|21|[joshlarsen/aws-recon](https://github.com/joshlarsen/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|496|2023-11-10|
+|21|[joshlarsen/aws-recon](https://github.com/joshlarsen/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|497|2023-11-10|
 |22|[L-codes/pwcrack-framework](https://github.com/L-codes/pwcrack-framework)|Password Crack Framework|470|2023-11-15|
 |23|[rails-engine/action-store](https://github.com/rails-engine/action-store)|Store different kind of actions (Like ❤️, Follow 👁, Star ⭐, Block ...) in one table via ActiveRecord Polymorphic Association.|398|2023-10-12|
 |24|[jpmobile/jpmobile](https://github.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|318|2023-12-01|
 |25|[sirupsen/airrecord](https://github.com/sirupsen/airrecord)|Ruby wrapper for Airtable, your personal database|283|2023-09-18|
 |26|[infused/dbf](https://github.com/infused/dbf)|DBF is a small, fast Ruby library for reading dBase, xBase, Clipper, and FoxPro database files.|254|2023-07-28|
 |27|[mifunetoshiro/kanjium](https://github.com/mifunetoshiro/kanjium)|The ultimate kanji resource|251|2023-07-12|
-|28|[YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby)|A Ruby port of Puppeteer|249|2023-10-31|
+|28|[YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby)|A Ruby port of Puppeteer|250|2023-10-31|
 |29|[didww/credit_card_validations](https://github.com/didww/credit_card_validations)|:credit_card: ruby gem for validating credit card numbers, generating valid numbers, luhn checks|226|2023-10-30|
 |30|[jfqd/redmine_helpdesk](https://github.com/jfqd/redmine_helpdesk)|Lightweight helpdesk plugin for redmine.|187|2023-08-22|
 |31|[algobasket/PeatioCryptoExchange](https://github.com/algobasket/PeatioCryptoExchange)|An open-source Crypto-Currency exchange. Peatio v3.0 Coming Soon !  |182|2023-09-04|
@@ -63,7 +63,7 @@
 |56|[HugoHasenbein/redmine_more_previews](https://github.com/HugoHasenbein/redmine_more_previews)|Redmine plugin to preview various file types in redmine's preview pane|44|2023-06-16|
 |57|[npezza93/redi_search](https://github.com/npezza93/redi_search)|Ruby wrapper around RediSearch that can integrate with Rails|44|2023-11-23|
 |58|[Tabll/gemnasium-db](https://github.com/Tabll/gemnasium-db)|GitLab 依赖项扫描的咨询数据库，每天17:00自动更新|38|2023-12-02|
-|59|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|31|2023-12-09|
+|59|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|31|2023-12-10|
 |60|[doorkeeper-gem/doorkeeper-i18n](https://github.com/doorkeeper-gem/doorkeeper-i18n)|Translation files for Doorkeeper OAuth 2 provider|31|2023-09-27|
 |61|[ivaquero/homebrew-chinese](https://github.com/ivaquero/homebrew-chinese)|🀄 一个致力于服务国人的 Homebrew 🍺 第三方库|30|2023-12-09|
 |62|[HansenCCC/YPTools](https://github.com/HansenCCC/YPTools)|针对 iOS Objective-C 开发者设计 gem 库，根据 json 创建数据库管理类（依赖于<FMDB/FMDB.h>框架）  为 Xcode 创建 OC 语言的 mvvm 的模板  快速解析 IPA 文件  混淆中给 OC 代码注入大量垃圾代码  混淆中更新当前目录下面文件后缀为 .h .m 的文件创建时间  检查工程是否存在引用的问题  一行代码和ChatGPT愉快聊天  OpenA ...|28|2023-10-04|
@@ -73,7 +73,7 @@
 |66|[YunzheZJU/non-stop-story](https://github.com/YunzheZJU/non-stop-story)|Backend for holo-schedule on Rails.|23|2023-11-16|
 |67|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|21|2023-11-27|
 |68|[mika-cn/maoxian-assistant](https://github.com/mika-cn/maoxian-assistant)|-|20|2023-06-29|
-|69|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|20|2023-12-07|
+|69|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|20|2023-12-10|
 |70|[diasks2/word_count_analyzer](https://github.com/diasks2/word_count_analyzer)|Word Count Analyzer is a Ruby gem that analyzes a string for potential areas of the text that might cause word count discrepancies depending on the tool used. It also provides comprehensive configurat ...|18|2023-10-08|
 |71|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|17|2023-10-26|
 |72|[baidubce/bce-player-ios](https://github.com/baidubce/bce-player-ios)|-|17|2023-06-19|
