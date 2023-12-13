@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>数据更新: 2023-12-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-12-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2328|2023-11-01|
 |2|[cs-chan/Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset)|Total Text Dataset. It consists of 1555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind.|709|2023-10-05|
-|3|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|509|2023-06-15|
+|3|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|511|2023-06-15|
 |4|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|190|2023-11-07|
 |5|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|165|2023-12-01|
-|6|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|140|2023-10-24|
+|6|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|144|2023-10-24|
 |7|[qwe14789cn/SP](https://github.com/qwe14789cn/SP)|信号处理工具箱|90|2023-11-02|
 |8|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multi-Task Optimization Platform (MToP)|79|2023-11-25|
 |9|[ECheynet/SEIR](https://github.com/ECheynet/SEIR)|Generalized SEIR Epidemic Model (fitting and computation)|77|2023-08-11|
@@ -20,7 +20,7 @@
 |13|[AI-Tianlong/SSVEP-BCI-OpenBCI](https://github.com/AI-Tianlong/SSVEP-BCI-OpenBCI)|基于OpenBCI（Bciduino）完成的SSVEP项目，包括刺激器、信号实时传输、以及基于FFT的脑电信号分类、蓝牙小车的脑电控制|44|2023-11-29|
 |14|[Patrick9313/Digital-Image-Processing](https://github.com/Patrick9313/Digital-Image-Processing)|基于MATLAB的图像加解密及传输仿真|43|2023-08-27|
 |15|[Patrick9313/Voice-Eliminator](https://github.com/Patrick9313/Voice-Eliminator)|基于带阻滤波器消除一首歌曲中歌手的声音|42|2023-08-27|
-|16|[himynameisfuego/SiTraNo](https://github.com/himynameisfuego/SiTraNo)|A MATLAB app for sines-transient-noise decomposition of audio signals.|33|2023-10-06|
+|16|[himynameisfuego/SiTraNo](https://github.com/himynameisfuego/SiTraNo)|A MATLAB app for sines-transient-noise decomposition of audio signals.|33|2023-12-12|
 |17|[Patrick9313/Knapsack-problem](https://github.com/Patrick9313/Knapsack-problem)|基于遗传算法解决具体的组合优化背包问题|31|2023-08-27|
 |18|[Patrick9313/Sudoku](https://github.com/Patrick9313/Sudoku)|一个基于启发式搜索解决具体数独问题的MATLAB程序|30|2023-08-27|
 |19|[zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling](https://github.com/zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling)|华为杯研究生数学建模竞赛:历年来优化类代码(不定时更新，曾获一等奖)|30|2023-12-07|
@@ -35,8 +35,8 @@
 |28|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|15|2023-12-06|
 |29|[VG-TechCenter/Optimizers](https://github.com/VG-TechCenter/Optimizers)|麻雀，鲸鱼，正余弦，北方苍鹰，遗传，粒子群，灰狼，蜻蜓，蝗虫，多元宇宙等优化算法.|14|2023-06-26|
 |30|[xkm79/digitalImageProcessing-lmh-ver](https://github.com/xkm79/digitalImageProcessing-lmh-ver)|数字图像处理实验 MATLAB |12|2023-10-25|
-|31|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|12|2023-12-07|
-|32|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|11|2023-09-06|
+|31|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|11|2023-09-06|
+|32|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|11|2023-12-12|
 |33|[lunarwhite/which-digit-zh](https://github.com/lunarwhite/which-digit-zh)|Try BPNN on mnist. BP 神经网络识别中文数字|11|2023-12-09|
 |34|[lnexenl/BeiDou_B1C](https://github.com/lnexenl/BeiDou_B1C)|BeiDou B1C Signal Generator and Catcher / 北斗B1C信号生成与捕获|11|2023-11-03|
 |35|[jhu-dvrk/dvrk-gravity-compensation](https://github.com/jhu-dvrk/dvrk-gravity-compensation)|Matlab functions to identify MTM dynamic parameters, uses dvrk-ros/dvrk_matlab|11|2023-11-21|
@@ -60,15 +60,15 @@
 |53|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|4|2023-12-04|
 |54|[Lusenc/SkyrmionOpticalForce](https://github.com/Lusenc/SkyrmionOpticalForce)|该项目记录笔者科研过程中用到的算法函数，包括矢量场表示、瑞利粒子光学力的计算、特殊光束生成等内容|4|2023-11-16|
 |55|[DreamChasingBoy/BoyLuc_in_CDUT](https://github.com/DreamChasingBoy/BoyLuc_in_CDUT)|在大学期间的一些课堂作业与实验报告，相对完整，仅供参考|4|2023-11-22|
-|56|[VG-TechCenter/FigureBestv4.4](https://github.com/VG-TechCenter/FigureBestv4.4)|matlab绘图美化工具|4|2023-07-01|
-|57|[Matthew-Lyu/ImageProcessingAndAnalysis](https://github.com/Matthew-Lyu/ImageProcessingAndAnalysis)|经典图像处理分析方法|4|2023-07-23|
-|58|[Ggy-king/2022-Mathematical-Modeling-in-China-Competition](https://github.com/Ggy-king/2022-Mathematical-Modeling-in-China-Competition)|2022建模国赛代码(三天坚持不易) 包括K-meas算法、bp预测、回归预测,(python和matlab做的)|4|2023-06-18|
-|59|[dazhiwang233/matlab-implementation-of-BP-neural-networks](https://github.com/dazhiwang233/matlab-implementation-of-BP-neural-networks)|BP神经网络的matlab实现|3|2023-11-22|
-|60|[mtxs001/face_recognition-matlab](https://github.com/mtxs001/face_recognition-matlab)|人脸识别（基于matlab,使用bp网络。）|3|2023-09-15|
-|61|[zhibaixiao/DIPm](https://github.com/zhibaixiao/DIPm)|一个使用MATLAB(R2020b) App Designer开发的简单数字图像处理APP示例|3|2023-08-24|
-|62|[quyinsong/Motion-Planning-for-Mobile-Robots](https://github.com/quyinsong/Motion-Planning-for-Mobile-Robots)|移动机器人路径规划|3|2023-08-15|
-|63|[liuxg156/simulink_AFFRLS_18650](https://github.com/liuxg156/simulink_AFFRLS_18650)|小q马里兰大学18650增量电流HPPC数据基于AFFRLS参数辨识|3|2023-07-30|
-|64|[OlyMarco/MATLAB_Image_Processing](https://github.com/OlyMarco/MATLAB_Image_Processing)|Matlab图像处理大作业，使用Matlab GUI制作，包含基本功能和一些进阶功能|3|2023-07-03|
+|56|[OlyMarco/MATLAB_Image_Processing](https://github.com/OlyMarco/MATLAB_Image_Processing)|Matlab图像处理大作业，使用Matlab GUI制作，包含基本功能和一些进阶功能|4|2023-07-03|
+|57|[VG-TechCenter/FigureBestv4.4](https://github.com/VG-TechCenter/FigureBestv4.4)|matlab绘图美化工具|4|2023-07-01|
+|58|[Matthew-Lyu/ImageProcessingAndAnalysis](https://github.com/Matthew-Lyu/ImageProcessingAndAnalysis)|经典图像处理分析方法|4|2023-07-23|
+|59|[Ggy-king/2022-Mathematical-Modeling-in-China-Competition](https://github.com/Ggy-king/2022-Mathematical-Modeling-in-China-Competition)|2022建模国赛代码(三天坚持不易) 包括K-meas算法、bp预测、回归预测,(python和matlab做的)|4|2023-06-18|
+|60|[dazhiwang233/matlab-implementation-of-BP-neural-networks](https://github.com/dazhiwang233/matlab-implementation-of-BP-neural-networks)|BP神经网络的matlab实现|3|2023-11-22|
+|61|[mtxs001/face_recognition-matlab](https://github.com/mtxs001/face_recognition-matlab)|人脸识别（基于matlab,使用bp网络。）|3|2023-09-15|
+|62|[zhibaixiao/DIPm](https://github.com/zhibaixiao/DIPm)|一个使用MATLAB(R2020b) App Designer开发的简单数字图像处理APP示例|3|2023-08-24|
+|63|[quyinsong/Motion-Planning-for-Mobile-Robots](https://github.com/quyinsong/Motion-Planning-for-Mobile-Robots)|移动机器人路径规划|3|2023-08-15|
+|64|[liuxg156/simulink_AFFRLS_18650](https://github.com/liuxg156/simulink_AFFRLS_18650)|小q马里兰大学18650增量电流HPPC数据基于AFFRLS参数辨识|3|2023-07-30|
 |65|[22zhang/Metasurfaces_Manitude_Phase_Control](https://github.com/22zhang/Metasurfaces_Manitude_Phase_Control)|做了几种经典的有源和无源的超表面单元和超表面阵列，用到的软件有：MATLAB、CST|3|2023-06-30|
 |66|[Thekey756/watermark](https://github.com/Thekey756/watermark)|数字水印project，基于DWT的图像水印项目|3|2023-06-22|
 |67|[spiritysdx/Digital-Image-Processing](https://github.com/spiritysdx/Digital-Image-Processing)|数字图像处理-指纹特征提取|3|2023-06-15|
