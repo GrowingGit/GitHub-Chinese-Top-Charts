@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>数据更新: 2023-12-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-12-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2331|2023-11-01|
 |2|[cs-chan/Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset)|Total Text Dataset. It consists of 1555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind.|710|2023-10-05|
-|3|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|191|2023-11-07|
+|3|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|192|2023-11-07|
 |4|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|165|2023-12-01|
-|5|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|147|2023-10-24|
+|5|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|148|2023-10-24|
 |6|[qwe14789cn/SP](https://github.com/qwe14789cn/SP)|信号处理工具箱|91|2023-11-02|
 |7|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP)|80|2023-12-17|
 |8|[ECheynet/SEIR](https://github.com/ECheynet/SEIR)|Generalized SEIR Epidemic Model (fitting and computation)|77|2023-08-11|
@@ -26,29 +26,29 @@
 |19|[zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling](https://github.com/zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling)|华为杯研究生数学建模竞赛:历年来优化类代码(不定时更新，曾获一等奖)|30|2023-12-07|
 |20|[LiHuaVUP/lihua_lab](https://github.com/LiHuaVUP/lihua_lab)|【李华的研究室】系列相关代码|26|2023-10-13|
 |21|[atongrun/EV_Model](https://github.com/atongrun/EV_Model)|纯电动汽车simulink模型|24|2023-08-31|
-|22|[bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm](https://github.com/bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm)|-|23|2023-09-19|
+|22|[bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm](https://github.com/bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm)|-|24|2023-09-19|
 |23|[wuc567/Pattern-Mining](https://github.com/wuc567/Pattern-Mining)|序列模式挖掘相关研究|23|2023-10-09|
-|24|[yangbin-xd/UAV-positioning](https://github.com/yangbin-xd/UAV-positioning)|source code for IEEE IoTJ paper "Distributed and Collaborative Localization for Swarming UAVs"|20|2023-12-08|
+|24|[yangbin-xd/UAV-positioning](https://github.com/yangbin-xd/UAV-positioning)|source code for IEEE IoTJ paper "Distributed and Collaborative Localization for Swarming UAVs"|21|2023-12-08|
 |25|[ScottXjw/equalizer-code-FFE-DFE-VolterraFFEandDFE](https://github.com/ScottXjw/equalizer-code-FFE-DFE-VolterraFFEandDFE)|equalizer code|19|2023-08-30|
 |26|[deltaRing/mmwave_radar_1843_generate_point_cloud](https://github.com/deltaRing/mmwave_radar_1843_generate_point_cloud)|用1843AOPEVM生成点云 初步验证应该是对的，附赠数据一枚|17|2023-12-05|
-|27|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|15|2023-12-06|
-|28|[VG-TechCenter/Optimizers](https://github.com/VG-TechCenter/Optimizers)|麻雀，鲸鱼，正余弦，北方苍鹰，遗传，粒子群，灰狼，蜻蜓，蝗虫，多元宇宙等优化算法.|14|2023-06-26|
+|27|[VG-TechCenter/Optimizers](https://github.com/VG-TechCenter/Optimizers)|麻雀，鲸鱼，正余弦，北方苍鹰，遗传，粒子群，灰狼，蜻蜓，蝗虫，多元宇宙等优化算法.|15|2023-06-26|
+|28|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|15|2023-12-06|
 |29|[xkm79/digitalImageProcessing-lmh-ver](https://github.com/xkm79/digitalImageProcessing-lmh-ver)|数字图像处理实验 MATLAB |12|2023-10-25|
-|30|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|11|2023-09-06|
-|31|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|11|2023-12-14|
-|32|[lunarwhite/which-digit-zh](https://github.com/lunarwhite/which-digit-zh)|Try BPNN on mnist. BP 神经网络识别中文数字|11|2023-12-09|
-|33|[lnexenl/BeiDou_B1C](https://github.com/lnexenl/BeiDou_B1C)|BeiDou B1C Signal Generator and Catcher / 北斗B1C信号生成与捕获|11|2023-11-03|
-|34|[jhu-dvrk/dvrk-gravity-compensation](https://github.com/jhu-dvrk/dvrk-gravity-compensation)|Matlab functions to identify MTM dynamic parameters, uses dvrk-ros/dvrk_matlab|11|2023-11-21|
+|30|[jhu-dvrk/dvrk-gravity-compensation](https://github.com/jhu-dvrk/dvrk-gravity-compensation)|Matlab functions to identify MTM dynamic parameters, uses dvrk-ros/dvrk_matlab|12|2023-11-21|
+|31|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|11|2023-09-06|
+|32|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|11|2023-12-14|
+|33|[lunarwhite/which-digit-zh](https://github.com/lunarwhite/which-digit-zh)|Try BPNN on mnist. BP 神经网络识别中文数字|11|2023-12-09|
+|34|[lnexenl/BeiDou_B1C](https://github.com/lnexenl/BeiDou_B1C)|BeiDou B1C Signal Generator and Catcher / 北斗B1C信号生成与捕获|11|2023-11-03|
 |35|[czmgzsy/Computational-intelligence](https://github.com/czmgzsy/Computational-intelligence)|优化算法|10|2023-08-31|
 |36|[yk7333/Graduation-project-design](https://github.com/yk7333/Graduation-project-design)|采用模拟退火策略优化的免疫算法 解决无人机协同分配问题|10|2023-09-24|
 |37|[yqx7150/EDAEPRec](https://github.com/yqx7150/EDAEPRec)|Enhanced Denoising Auto-Encoding Priors for Reconstruction |10|2023-06-23|
 |38|[realxmx/PIDwithBPNN](https://github.com/realxmx/PIDwithBPNN)|使用神经网络结合PID算法模拟温控系统|9|2023-09-18|
 |39|[NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate)|络石机械臂动力学相关算法以及仿真|8|2023-11-13|
 |40|[RflyBUAA/DegradedControl](https://github.com/RflyBUAA/DegradedControl)|北航可靠飞行控制研究组-四旋翼容灾控制Simulink仿真和半物理仿真程序|8|2023-07-18|
-|41|[BySpaces/Matlab-Pcode-to-Mcode](https://github.com/BySpaces/Matlab-Pcode-to-Mcode)|本软件可实现将MATLAB中Pcode加密的代码，恢复为原来的M文件。This software can restore the codes encrypted by Pcode in MATLAB to the original M file.|7|2023-12-06|
-|42|[VG-TechCenter/Microgrid-Optimization-Dispatch-Model](https://github.com/VG-TechCenter/Microgrid-Optimization-Dispatch-Model)|微电网优化调度模型|6|2023-10-15|
-|43|[breeef/HTAO-Toolkit](https://github.com/breeef/HTAO-Toolkit)|PTAS-TAHRC，Heterogeneous Task Allocation Optimization Toolkit for Mobile Edge Computing;异构移动边缘计算任务分配优化工具以车辆为主题实现。matlab|6|2023-09-01|
-|44|[kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration](https://github.com/kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration)|GNSS和INS深组合的尝试，在GNSS_SDR和PSINS基础上组合得到|6|2023-08-07|
+|41|[kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration](https://github.com/kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration)|GNSS和INS深组合的尝试，在GNSS_SDR和PSINS基础上组合得到|7|2023-08-07|
+|42|[BySpaces/Matlab-Pcode-to-Mcode](https://github.com/BySpaces/Matlab-Pcode-to-Mcode)|本软件可实现将MATLAB中Pcode加密的代码，恢复为原来的M文件。This software can restore the codes encrypted by Pcode in MATLAB to the original M file.|7|2023-12-06|
+|43|[VG-TechCenter/Microgrid-Optimization-Dispatch-Model](https://github.com/VG-TechCenter/Microgrid-Optimization-Dispatch-Model)|微电网优化调度模型|6|2023-10-15|
+|44|[breeef/HTAO-Toolkit](https://github.com/breeef/HTAO-Toolkit)|PTAS-TAHRC，Heterogeneous Task Allocation Optimization Toolkit for Mobile Edge Computing;异构移动边缘计算任务分配优化工具以车辆为主题实现。matlab|6|2023-09-01|
 |45|[deltaRing/UAV_Path_Search](https://github.com/deltaRing/UAV_Path_Search)|本工程将借助ESDF、TSDF、Dstar、B样条曲线、以及多项式路径来实现无人机路径规划|6|2023-12-14|
 |46|[LZH20001220/HuaweiCup2023](https://github.com/LZH20001220/HuaweiCup2023)|华为杯第二十届中国研究生数学建模竞赛|5|2023-12-04|
 |47|[yehuixie/system_identification](https://github.com/yehuixie/system_identification)|系统辨识课程代码|5|2023-11-11|
@@ -63,16 +63,15 @@
 |56|[OlyMarco/MATLAB_Image_Processing](https://github.com/OlyMarco/MATLAB_Image_Processing)|Matlab图像处理大作业，使用Matlab GUI制作，包含基本功能和一些进阶功能|4|2023-07-03|
 |57|[VG-TechCenter/FigureBestv4.4](https://github.com/VG-TechCenter/FigureBestv4.4)|matlab绘图美化工具|4|2023-07-01|
 |58|[Matthew-Lyu/Image-Processing-Analysis-SYSU](https://github.com/Matthew-Lyu/Image-Processing-Analysis-SYSU)|经典图像处理分析方法Classic image processing and analysis methods|4|2023-07-23|
-|59|[Ggy-king/2022-Mathematical-Modeling-in-China-Competition](https://github.com/Ggy-king/2022-Mathematical-Modeling-in-China-Competition)|2022建模国赛代码(三天坚持不易) 包括K-meas算法、bp预测、回归预测,(python和matlab做的)|4|2023-06-18|
-|60|[Lu-Anastasia/MATLAB](https://github.com/Lu-Anastasia/MATLAB)|信息光学数字实验室（matlab版）全代码|3|2023-11-28|
-|61|[dazhiwang233/matlab-implementation-of-BP-neural-networks](https://github.com/dazhiwang233/matlab-implementation-of-BP-neural-networks)|BP神经网络的matlab实现|3|2023-11-22|
-|62|[mtxs001/face_recognition-matlab](https://github.com/mtxs001/face_recognition-matlab)|人脸识别（基于matlab,使用bp网络。）|3|2023-09-15|
-|63|[quyinsong/Motion-Planning-for-Mobile-Robots](https://github.com/quyinsong/Motion-Planning-for-Mobile-Robots)|移动机器人路径规划|3|2023-08-15|
-|64|[liuxg156/simulink_AFFRLS_18650](https://github.com/liuxg156/simulink_AFFRLS_18650)|小q马里兰大学18650增量电流HPPC数据基于AFFRLS参数辨识|3|2023-07-30|
-|65|[22zhang/Metasurfaces_Manitude_Phase_Control](https://github.com/22zhang/Metasurfaces_Manitude_Phase_Control)|做了几种经典的有源和无源的超表面单元和超表面阵列，用到的软件有：MATLAB、CST|3|2023-06-30|
-|66|[Thekey756/watermark](https://github.com/Thekey756/watermark)|数字水印project，基于DWT的图像水印项目|3|2023-06-22|
-|67|[lutasam/Codes_For_MCM-ICM-2022](https://github.com/lutasam/Codes_For_MCM-ICM-2022)|2022数学建模美赛C题代码，基于LSTM的股票预测项目|3|2023-09-25|
-|68|[Silver-Fang/Parallel-Computing](https://github.com/Silver-Fang/Parallel-Computing)|埃博拉酱的并行计算工具箱|3|2023-10-04|
+|59|[Lu-Anastasia/MATLAB](https://github.com/Lu-Anastasia/MATLAB)|信息光学数字实验室（matlab版）全代码|3|2023-11-28|
+|60|[dazhiwang233/matlab-implementation-of-BP-neural-networks](https://github.com/dazhiwang233/matlab-implementation-of-BP-neural-networks)|BP神经网络的matlab实现|3|2023-11-22|
+|61|[mtxs001/face_recognition-matlab](https://github.com/mtxs001/face_recognition-matlab)|人脸识别（基于matlab,使用bp网络。）|3|2023-09-15|
+|62|[quyinsong/Motion-Planning-for-Mobile-Robots](https://github.com/quyinsong/Motion-Planning-for-Mobile-Robots)|移动机器人路径规划|3|2023-08-15|
+|63|[liuxg156/simulink_AFFRLS_18650](https://github.com/liuxg156/simulink_AFFRLS_18650)|小q马里兰大学18650增量电流HPPC数据基于AFFRLS参数辨识|3|2023-07-30|
+|64|[22zhang/Metasurfaces_Manitude_Phase_Control](https://github.com/22zhang/Metasurfaces_Manitude_Phase_Control)|做了几种经典的有源和无源的超表面单元和超表面阵列，用到的软件有：MATLAB、CST|3|2023-06-30|
+|65|[Thekey756/watermark](https://github.com/Thekey756/watermark)|数字水印project，基于DWT的图像水印项目|3|2023-06-22|
+|66|[lutasam/Codes_For_MCM-ICM-2022](https://github.com/lutasam/Codes_For_MCM-ICM-2022)|2022数学建模美赛C题代码，基于LSTM的股票预测项目|3|2023-09-25|
+|67|[Silver-Fang/Parallel-Computing](https://github.com/Silver-Fang/Parallel-Computing)|埃博拉酱的并行计算工具箱|3|2023-10-04|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Vim script
-<sub>数据更新: 2023-12-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-12-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20077|2023-09-23|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8380|2023-10-31|
-|3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4889|2023-11-16|
+|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20076|2023-09-23|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8381|2023-10-31|
+|3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4890|2023-11-16|
 |4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1784|2023-09-30|
 |5|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1714|2023-10-06|
-|6|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1369|2023-11-14|
-|7|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|881|2023-12-17|
+|6|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1372|2023-11-14|
+|7|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|881|2023-12-18|
 |8|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|871|2023-09-26|
 |9|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|851|2023-12-11|
 |10|[mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)|A vim 7.4+ plugin to generate table of contents for Markdown files.|584|2023-12-13|
 |11|[SidOfc/mkdx](https://github.com/SidOfc/mkdx)|A vim plugin that adds some nice extra's for working with markdown documents|478|2023-10-16|
 |12|[sillybun/vim-repl](https://github.com/sillybun/vim-repl)|Best REPL environment for Vim|432|2023-07-15|
 |13|[ruchee/vimrc](https://github.com/ruchee/vimrc)|Ruchee's Vim Config Files|415|2023-10-17|
-|14|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|382|2023-12-17|
+|14|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|383|2023-12-18|
 |15|[lilydjwg/dotvim](https://github.com/lilydjwg/dotvim)|My vim config|276|2023-10-27|
 |16|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog based on vimscript|175|2023-10-24|
 |17|[dofy/7th-vim](https://github.com/dofy/7th-vim)|安装简单，轻量、易用、高可配置性。 Lightweight & Customizable Vim configuration options.|98|2023-11-25|
@@ -42,7 +42,7 @@
 |35|[owner888/vimer](https://github.com/owner888/vimer)|vim editor|11|2023-11-07|
 |36|[Moe-sushi/termux-neovim](https://github.com/Moe-sushi/termux-neovim)|Neovim config file of termux.|9|2023-08-12|
 |37|[cnsworder/dev_init](https://github.com/cnsworder/dev_init)|开发环境初始化 vim+emacs+python|9|2023-10-21|
-|38|[terrytangyuan/dotfiles](https://github.com/terrytangyuan/dotfiles)|Personal bootstrapping dotfiles |8|2023-12-04|
+|38|[terrytangyuan/dotfiles](https://github.com/terrytangyuan/dotfiles)|Personal bootstrapping dotfiles |8|2023-12-18|
 |39|[yuesong-feng/EasyVim](https://github.com/yuesong-feng/EasyVim)|简单易用的vim配置|7|2023-11-11|
 |40|[xu-chaojie/VIM](https://github.com/xu-chaojie/VIM)|精简vim配置，精简插件，只保留必要设置，并添加注释，不修改vim原有快捷键|7|2023-08-22|
 |41|[yyzwz/s024](https://github.com/yyzwz/s024)|基于Vue+SpringBoot+MySQL的农村物流配送系统，包含快递客户管理模块、配送位置管理模块、配送人员模块、路线规划模块、商家管理模块、商品退换模块，还包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，农村物流配送系统基于角色的访问控制，给物流管理员、配送人员使用，可将权限精确到按钮级别。|6|2023-09-07|
