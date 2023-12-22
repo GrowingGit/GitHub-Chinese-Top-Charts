@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > MATLAB
-<sub>数据更新: 2023-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model)|数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法、现代的算法|2425|2023-12-01|
-|2|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1063|2023-10-06|
+|1|[personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model)|数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法、现代的算法|2427|2023-12-01|
+|2|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1065|2023-10-06|
 |3|[denkywu/SAR-Synthetic-Aperture-Radar](https://github.com/denkywu/SAR-Synthetic-Aperture-Radar)|合成孔径雷达 相关。研究生期间学习 SAR/InSAR/PolSAR 相关的代码和总结，毕业后已经离开这个领域了。分享出来，仅此纪念。1）SAR: 成像算法，RD，CS，Radarsat-1数据成像处理。2）InSAR: 人造场景原始回波仿真、成像及干涉处理。包括平地场景和圆锥形场景。3）PolSAR: 极化定标算法，Whitt, PARC, Quegan, Ainsworth。详见 readme ...|561|2023-11-19|
-|4|[qxr777/NumericalAnalysis](https://github.com/qxr777/NumericalAnalysis)|计算机数值分析课程|82|2023-11-20|
-|5|[xiesp/IntroductionToLinearAlgebra-Chinese-note](https://github.com/xiesp/IntroductionToLinearAlgebra-Chinese-note)|MIT  Gilbert Strang教授的线性导数导论笔记，包含全中文书本内容和视频笔记|52|2023-10-02|
+|4|[qxr777/NumericalAnalysis](https://github.com/qxr777/NumericalAnalysis)|计算机数值分析课程|83|2023-11-20|
+|5|[xiesp/IntroductionToLinearAlgebra-Chinese-note](https://github.com/xiesp/IntroductionToLinearAlgebra-Chinese-note)|MIT  Gilbert Strang教授的线性导数导论笔记，包含全中文书本内容和视频笔记|53|2023-10-02|
 |6|[Changjing-Liu/Data_Fusion_Course](https://github.com/Changjing-Liu/Data_Fusion_Course)|The solution of the data fusion  course of SJTU. MTALAB code for KF/UKF/EKF/PF/FKF/DKF. 数据融合技术，卡尔曼滤波KF/无迹卡尔曼滤波UKF/拓展卡尔曼滤波EKF等的MATLAB实现|32|2023-07-09|
 |7|[luo0207/undergraduate_course_resources_AIA_HUSTER](https://github.com/luo0207/undergraduate_course_resources_AIA_HUSTER)|华中科技大学人工智能与自动化学院本科学习资料：课件、试卷、笔记、代码|20|2023-12-05|
 |8|[Sakura-shem/JLU-OpenAuto](https://github.com/Sakura-shem/JLU-OpenAuto)|吉林大学通信自动化 生存资料|13|2023-09-27|
@@ -21,8 +21,9 @@
 |14|[ZHANG-JiXiang/ECOOT-cec2017](https://github.com/ZHANG-JiXiang/ECOOT-cec2017)|网络首发论文“增强型白骨顶鸡优化算法及其应用”的代码，您可以通过知网找到原文|5|2023-09-09|
 |15|[ManshengChen/Code-for-TLIMSC-master](https://github.com/ManshengChen/Code-for-TLIMSC-master)|张量学习诱导的多视图谱聚类, 计算机学报2023.|4|2023-09-10|
 |16|[Han-0107/Scientific_Computing_of_CSU](https://github.com/Han-0107/Scientific_Computing_of_CSU)|中南大学-科学计算与程序应用课程资料（包括作业、上机实践、课程设计）|3|2023-12-15|
-|17|[Elapsedf/Matlab-Project](https://github.com/Elapsedf/Matlab-Project)|用matlab编写的相关算法合集|3|2023-10-19|
-|18|[monkeyhlj/paperCode](https://github.com/monkeyhlj/paperCode)|自己写的论文源码-ICEEMDAN-BiLSTM-ARIMA模型|3|2023-11-10|
+|17|[Abner-fu/SMC](https://github.com/Abner-fu/SMC)|滑模控制相关论文及仿真复现|3|2023-10-31|
+|18|[Elapsedf/Matlab-Project](https://github.com/Elapsedf/Matlab-Project)|用matlab编写的相关算法合集|3|2023-10-19|
+|19|[monkeyhlj/paperCode](https://github.com/monkeyhlj/paperCode)|自己写的论文源码-ICEEMDAN-BiLSTM-ARIMA模型|3|2023-11-10|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

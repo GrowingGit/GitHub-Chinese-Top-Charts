@@ -1,30 +1,30 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > TeX
-<sub>数据更新: 2023-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Macin20/why-we-write](https://github.com/Macin20/why-we-write)|为什么写作？|332|3|2023-10-06|
+|1|[Macin20/why-we-write](https://github.com/Macin20/why-we-write)|为什么写作？|331|3|2023-10-06|
 |2|[NemoYuan2008/SJTU-Thesis-Proposal](https://github.com/NemoYuan2008/SJTU-Thesis-Proposal)|上海交通大学开题报告LaTeX模板（非官方） Shanghai Jiao Tong University LaTeX Template for thesis proposal (unofficial)|41|2|2023-12-20|
-|3|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|2506|1|2023-09-28|
-|4|[HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv)|🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.|3308|1|2023-12-20|
+|3|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|2510|1|2023-09-28|
+|4|[HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv)|🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.|3310|1|2023-12-20|
 |5|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|4167|1|2023-11-07|
 |6|[Isoheptane/arch-media-box](https://github.com/Isoheptane/arch-media-box)|Arch Linux 盒装安装媒介的小盒子|108|1|2023-07-13|
-|7|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|2151|1|2023-12-07|
+|7|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|2152|1|2023-12-07|
 |8|[WHU-ICPC/WHU-ICPC](https://github.com/WHU-ICPC/WHU-ICPC)|武汉大学 ICPC 集训队仓库|5|0|2023-12-14|
 |9|[cs-whh/whhResume](https://github.com/cs-whh/whhResume)|简洁的LaTeX中文简历模板|4|0|2023-08-16|
 |10|[liyuxuan3003/SignalsAndSystems](https://github.com/liyuxuan3003/SignalsAndSystems)|信号与系统 LaTeX笔记|5|0|2023-09-26|
-|11|[ethereum/yellowpaper](https://github.com/ethereum/yellowpaper)|The "Yellow Paper": Ethereum's formal specification|1577|0|2023-12-18|
+|11|[ethereum/yellowpaper](https://github.com/ethereum/yellowpaper)|The "Yellow Paper": Ethereum's formal specification|1577|0|2023-12-21|
 |12|[InnocentFIVE/I-Measure](https://github.com/InnocentFIVE/I-Measure)|朴素的实分析科普文.|7|0|2023-07-16|
-|13|[OpenXiangShan/XiangShan-doc](https://github.com/OpenXiangShan/XiangShan-doc)|Documentation for XiangShan|298|0|2023-12-18|
+|13|[OpenXiangShan/XiangShan-doc](https://github.com/OpenXiangShan/XiangShan-doc)|Documentation for XiangShan|298|0|2023-12-21|
 |14|[Chen-Jialin/Advanced-Linear-Algebra-Exam](https://github.com/Chen-Jialin/Advanced-Linear-Algebra-Exam)|中国科学技术大学 2019-2020 学年第一学期高等线性代数（PHYS6653P）期末考试。Final exam of Advanced Linear Algebra (PHYS6653P) @ USTC, Fall 2019.|3|0|2023-08-17|
 |15|[TJ-CSCCG/Tongji-Beamer](https://github.com/TJ-CSCCG/Tongji-Beamer)|:page_facing_up: 同济大学 Beamer / 幻灯片 模板，一个其他大学 Beamer 模板的本土化套壳，支持 Overleaf / Windows / Linux。|36|0|2023-11-22|
 |16|[seven1240/latex](https://github.com/seven1240/latex)|Latex/Pandoc/Markdown排版|19|0|2023-12-20|
 |17|[SwitWu/ODE-DingTongren-Solutions](https://github.com/SwitWu/ODE-DingTongren-Solutions)|常微分方程（丁同仁、李承治著）习题解|11|0|2023-06-24|
 |18|[Benature/lazy-kit](https://github.com/Benature/lazy-kit)|用代码偷懒的乐趣. Being Lazy with Code|6|0|2023-12-16|
 |19|[wodemaster-NJUSE/NJUSE-Demand-and-business-model-innovation](https://github.com/wodemaster-NJUSE/NJUSE-Demand-and-business-model-innovation)|2023需求与商业模式创新|4|0|2023-12-19|
-|20|[cosmos/ibc](https://github.com/cosmos/ibc)|Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.|809|0|2023-12-20|
+|20|[cosmos/ibc](https://github.com/cosmos/ibc)|Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.|810|0|2023-12-21|
 |21|[eliocamp/ggnewscale](https://github.com/eliocamp/ggnewscale)|Multiple Fill, Color and Other Scales in `ggplot2`|370|0|2023-12-02|
 |22|[willard-yuan/cv-and-resume](https://github.com/willard-yuan/cv-and-resume)|:coffee:My resume for a job|11|0|2023-08-06|
 |23|[myxxxsquared/PhDDoc](https://github.com/myxxxsquared/PhDDoc)|北京大学博士学位研究生学科综合考试报告Tex参考模板|3|0|2023-10-18|
@@ -54,7 +54,7 @@
 |47|[seisman/cv](https://github.com/seisman/cv)|My academic CV powered by LaTeX|58|0|2023-12-15|
 |48|[thomas10011/WHU-Beamer](https://github.com/thomas10011/WHU-Beamer)|武汉大学Beamer幻灯片模板。武大师生可用于各种报告、展示、答辩等场景。|41|0|2023-11-01|
 |49|[Nymphium/nymphium.github.io](https://github.com/Nymphium/nymphium.github.io)|移民|5|0|2023-11-29|
-|50|[Didnelpsun/Math](https://github.com/Didnelpsun/Math)|考研数学，数学一，包括高等数学、线性代数、概率统计|533|0|2023-07-29|
+|50|[Didnelpsun/Math](https://github.com/Didnelpsun/Math)|考研数学，数学一，包括高等数学、线性代数、概率统计|534|0|2023-07-29|
 |51|[MAVProxyUser/YushuTechUnitreeGo1](https://github.com/MAVProxyUser/YushuTechUnitreeGo1)|宇树科技 Yushu Technology (Unitree) go1 development notes|218|0|2023-12-02|
 |52|[NTU-NCS-lab/NTU-Thesis-Writing-Template](https://github.com/NTU-NCS-lab/NTU-Thesis-Writing-Template)|Unofficial LaTex templates for thesis and IEEE conference at National Taiwan University. 國立臺灣大學電機資訊學院碩博士論文及 IEEE conference 模板|6|0|2023-11-22|
 |53|[yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)|线性代数：未竟之美|56|0|2023-10-24|
@@ -69,11 +69,11 @@
 |62|[ahhylau/shuthesis](https://github.com/ahhylau/shuthesis)|LaTeX Thesis Template for Shanghai University|30|0|2023-12-18|
 |63|[YangLaTeX/thubeamer](https://github.com/YangLaTeX/thubeamer)|A Beamer Theme for Tsinghua University (THU).|57|0|2023-11-27|
 |64|[wuliwiki/PhysWiki-log](https://github.com/wuliwiki/PhysWiki-log)|小时百科|73|0|2023-12-19|
-|65|[fanhongtao/ebooks](https://github.com/fanhongtao/ebooks)|80年代高中数理化甲种本|50|0|2023-12-20|
+|65|[fanhongtao/ebooks](https://github.com/fanhongtao/ebooks)|80年代高中数理化甲种本|50|0|2023-12-21|
 |66|[ytiurin/hyphen](https://github.com/ytiurin/hyphen)|Text hyphenation in Javascript.|190|0|2023-11-17|
 |67|[LucaJiang/LaTeX4VSCode](https://github.com/LucaJiang/LaTeX4VSCode)|我在VSCode下使用LaTeX的yi点点心得|15|0|2023-10-19|
 |68|[latexstudio/LaTeXFAQ-cn](https://github.com/latexstudio/LaTeXFAQ-cn)|中文 LaTeX 常见问题工程，见证中文社区的力量|61|0|2023-08-02|
-|69|[schoeberl/chisel-book](https://github.com/schoeberl/chisel-book)|Digital Design with Chisel|641|0|2023-12-20|
+|69|[schoeberl/chisel-book](https://github.com/schoeberl/chisel-book)|Digital Design with Chisel|641|0|2023-12-21|
 |70|[yxnchen/sysu-beamer-template](https://github.com/yxnchen/sysu-beamer-template)|A LaTeX beamer template for SYSU. 中山大学LaTeX演示模板|28|0|2023-10-10|
 |71|[zr-tex8r/PXchfon](https://github.com/zr-tex8r/PXchfon)|LaTeX: Ja­panese font setup for pLaTeX|35|0|2023-08-28|
 |72|[SwitWu/FunctionalAnalysisXQHsolution](https://github.com/SwitWu/FunctionalAnalysisXQHsolution)|泛函分析讲义(许全华)习题参考答案|25|0|2023-12-03|

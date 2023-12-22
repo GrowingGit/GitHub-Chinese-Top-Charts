@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Kotlin
-<sub>数据更新: 2023-12-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|29849|13|2023-08-08|
-|2|[gedoor/legado](https://github.com/gedoor/legado)|Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|20343|12|2023-12-20|
-|3|[hectorqin/reader](https://github.com/hectorqin/reader)|阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建|6189|7|2023-11-10|
-|4|[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool)|Android开发人员不得不收集的工具类集合   支付宝支付   微信支付（统一下单）   微信分享   Zip4j压缩（支持分卷压缩与加密）   一键集成UCrop选择圆形头像   一键集成二维码和条形码的扫描与生成   常用Dialog   WebView的封装可播放视频   仿斗鱼滑动验证码   Toast封装   震动   GPS   Location定位   图片缩放   Exif 图片 ...|12104|5|2023-08-01|
+|2|[gedoor/legado](https://github.com/gedoor/legado)|Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|20360|12|2023-12-21|
+|3|[hectorqin/reader](https://github.com/hectorqin/reader)|阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建|6195|7|2023-11-10|
+|4|[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool)|Android开发人员不得不收集的工具类集合   支付宝支付   微信支付（统一下单）   微信分享   Zip4j压缩（支持分卷压缩与加密）   一键集成UCrop选择圆形头像   一键集成二维码和条形码的扫描与生成   常用Dialog   WebView的封装可播放视频   仿斗鱼滑动验证码   Toast封装   震动   GPS   Location定位   图片缩放   Exif 图片 ...|12105|5|2023-08-01|
 |5|[Arcns/fast-transition](https://github.com/Arcns/fast-transition)|一个能够快速实现Android TextView、圆角、切换图片等共享元素转场效果的工具库，同时支持修复Android Q三个及以上页面共享元素动画丢失的BUG，支持自定义复杂的共享元素动画，支持仿小红书、Lemon8的拖拽返回+共享元素转场效果。|201|1|2023-09-19|
-|6|[xihan123/QDReadHook](https://github.com/xihan123/QDReadHook)|起点阅读自定义增强 Xp 模块,愿大家都有一个愉快的看书体验|385|1|2023-12-14|
+|6|[xihan123/QDReadHook](https://github.com/xihan123/QDReadHook)|起点阅读自定义增强 Xp 模块,愿大家都有一个愉快的看书体验|388|1|2023-12-21|
 |7|[TheMelody/ComposeCameraxOpenGL](https://github.com/TheMelody/ComposeCameraxOpenGL)|🔥🔥🔥🔥Compose结合CameraX快速实现相机“拍视频实时滤镜“、”拍照+滤镜“，仿小红书，快手，抖音效果|13|0|2023-09-24|
 |8|[leavesCZY/KVHolder](https://github.com/leavesCZY/KVHolder)|一文读懂 SharedPreferences 的缺陷及一点点思考|15|0|2023-12-10|
 |9|[JiaYang627/TinMVVM](https://github.com/JiaYang627/TinMVVM)|:book:AndroidStudio 4.X+ 编写自定义模板，并且适配了AndroidStudio Fox版本，此插件是针对 QuickAndroid 项目进行开发，有兴趣可学习一下。编写一个适合自己项目的一键生成页面插件。希望能帮助到大家。:grin:|16|0|2023-09-14|
-|10|[hsicen/HencoderPlus](https://github.com/hsicen/HencoderPlus)|扔物线Hencoder plus系列课程 |64|0|2023-12-20|
+|10|[hsicen/HencoderPlus](https://github.com/hsicen/HencoderPlus)|扔物线Hencoder plus系列课程 |64|0|2023-12-21|
 |11|[forJrking/Preferences](https://github.com/forJrking/Preferences)|Kotlin属性委托简化SharePreferences使用，支持多进程、MMKV、数据加密、getAll数据迁移，并优化sp的ANR。|30|0|2023-07-30|
 |12|[MskTmi/Bh3-ElysianRealm-Strategy](https://github.com/MskTmi/Bh3-ElysianRealm-Strategy)|基于Mirai-Console的QQ机器人崩坏3往世乐土攻略插件|16|0|2023-11-20|
 |13|[Coder-HuangBH/MyCustomView](https://github.com/Coder-HuangBH/MyCustomView)|自己做的自定义View集合|9|0|2023-11-05|
@@ -37,7 +37,7 @@
 |30|[chiclaim/KotlinTutorials](https://github.com/chiclaim/KotlinTutorials)|Kotlin 入门到进阶|31|0|2023-09-28|
 |31|[JIULANG9/WordsFairyNote](https://github.com/JIULANG9/WordsFairyNote)|词仙笔记源码|47|0|2023-07-07|
 |32|[1250422131/FoodChoice](https://github.com/1250422131/FoodChoice)|食选，解决生活中每天吃饭，吃什么，做什么，怎么做的问题，此项目也是我对JetpackCompose的MVI架构学习的一次实践。|30|0|2023-10-08|
-|33|[FishHawk/auto-novel](https://github.com/FishHawk/auto-novel)|将日本网络小说翻译成中文并转换成电子书。|62|0|2023-12-20|
+|33|[FishHawk/auto-novel](https://github.com/FishHawk/auto-novel)|将日本网络小说翻译成中文并转换成电子书。|62|0|2023-12-21|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
