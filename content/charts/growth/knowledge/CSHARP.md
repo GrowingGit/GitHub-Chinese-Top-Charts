@@ -1,32 +1,32 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > C#
-<sub>数据更新: 2023-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[LeagueTavern/fix-lcu-window](https://github.com/LeagueTavern/fix-lcu-window)|解决《英雄联盟》客户端异常窗口大小的问题。|173|14|2023-12-13|
-|2|[wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)|PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等|8133|11|2023-12-04|
+|1|[LeagueTavern/fix-lcu-window](https://github.com/LeagueTavern/fix-lcu-window)|解决《英雄联盟》客户端异常窗口大小的问题。|176|14|2023-12-13|
+|2|[wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)|PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等|8137|11|2023-12-04|
 |3|[StarfireLab/SharpWeb](https://github.com/StarfireLab/SharpWeb)|一个浏览器数据（密码 历史记录 Cookie 书签 下载记录）的导出工具，支持主流浏览器。|374|5|2023-10-09|
-|4|[YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)|🐱‍🚀【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、常见面试题、面试须知、简历模板、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步👊【让现在的自己不再迷茫✨，如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖】。|3317|3|2023-12-21|
-|5|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|4343|3|2023-12-04|
-|6|[TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp)|All algorithms implemented in C#.|5947|2|2023-12-19|
-|7|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 8.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|4635|2|2023-12-16|
+|4|[YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)|🐱‍🚀【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、常见面试题、面试须知、简历模板、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步👊【让现在的自己不再迷茫✨，如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖】。|3336|3|2023-12-22|
+|5|[hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator)|御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具|4344|3|2023-12-04|
+|6|[TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp)|All algorithms implemented in C#.|5949|2|2023-12-19|
+|7|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 8.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|4634|2|2023-12-16|
 |8|[2881099/FreeRedis](https://github.com/2881099/FreeRedis)|🦄 FreeRedis is .NET40+ redis client. supports cluster, sentinel, master-slave, pub-sub, lua, pipeline, transaction, streams, client-side-caching, and pooling.|856|1|2023-12-18|
-|9|[dotnetcore/sharding-core](https://github.com/dotnetcore/sharding-core)|high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵|1040|1|2023-11-27|
-|10|[ldqk/ImageSearch](https://github.com/ldqk/ImageSearch)|基于.NET8的本地硬盘千万级图库以图搜图案例Demo和图片exif信息移除小工具分享|555|1|2023-12-02|
-|11|[sidristij/dotnetbook](https://github.com/sidristij/dotnetbook)|.NET Platform Architecture book (English, Chinese, Russian)|2187|1|2023-11-02|
-|12|[hitchao/Jvedio](https://github.com/hitchao/Jvedio)|Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件|2005|1|2023-12-18|
-|13|[MoocDownloader/MoocDownloader](https://github.com/MoocDownloader/MoocDownloader)|An icourse163.org MOOC downloader implemented by .NET. 一枚由 .NET 实现的中国大学 MOOC 下载器.|728|1|2023-11-27|
-|14|[HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer)|仅供学习交流使用   第三方网易云音乐播放器   A Netease Cloud Music Player|669|1|2023-12-16|
-|15|[TastSong/GameProgrammerStudyNotes](https://github.com/TastSong/GameProgrammerStudyNotes)|游戏开发学习笔记|97|0|2023-12-06|
-|16|[Awbugl/ProjectGenesis](https://github.com/Awbugl/ProjectGenesis)|构建真实宇宙，撰写创世之书。  Construct Real Universe. Then leave a GenesisBook.|27|0|2023-12-13|
-|17|[qedsd/TheGuideToTheNewEden](https://github.com/qedsd/TheGuideToTheNewEden)|新伊甸漫游指南|29|0|2023-12-20|
-|18|[TripleView/SummerBoot](https://github.com/TripleView/SummerBoot)|Combining the advanced concepts of SpringBoot with the simplicity and elegance of C#, declarative programming focuses on "what to do" rather than "how to do it", and writes code at a higher level.将Spr ...|130|0|2023-12-21|
-|19|[densen2014/Blazor100](https://github.com/densen2014/Blazor100)|Blazor入门100天|63|0|2023-12-20|
-|20|[axzxs2001/Asp.NetCoreExperiment](https://github.com/axzxs2001/Asp.NetCoreExperiment)|原来所有项目都移动到**OleVersion**目录下进行保留。新的案例装以.net 5.0为主，一部分对以前案例进行升级，一部分将以前的工作经验总结出来，以供大家参考！|353|0|2023-12-21|
-|21|[xhnbzdl/feishu-doc-export](https://github.com/xhnbzdl/feishu-doc-export)|飞书文档导出服务|88|0|2023-10-30|
-|22|[MingsonZheng/Personal-Learning-Library](https://github.com/MingsonZheng/Personal-Learning-Library)|个人学习笔记仓库（.NET、k8s、Go、微服务、云原生）🐮🍺|47|0|2023-08-17|
+|9|[dotnetcore/sharding-core](https://github.com/dotnetcore/sharding-core)|high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵|1041|1|2023-11-27|
+|10|[xhnbzdl/feishu-doc-export](https://github.com/xhnbzdl/feishu-doc-export)|飞书文档导出服务|89|1|2023-10-30|
+|11|[ldqk/ImageSearch](https://github.com/ldqk/ImageSearch)|基于.NET8的本地硬盘千万级图库以图搜图案例Demo和图片exif信息移除小工具分享|555|1|2023-12-02|
+|12|[sidristij/dotnetbook](https://github.com/sidristij/dotnetbook)|.NET Platform Architecture book (English, Chinese, Russian)|2187|1|2023-11-02|
+|13|[hitchao/Jvedio](https://github.com/hitchao/Jvedio)|Jvedio 是本地视频管理软件，支持扫描本地视频并导入软件，建立视频库， 提取出视频的 唯一识别码，自动分类视频， 添加标签管理视频，使用人工智能识别演员，支持翻译信息， 基于 FFmpeg 截取视频图片，Window 桌面端流畅美观的应用软件|2005|1|2023-12-18|
+|14|[MoocDownloader/MoocDownloader](https://github.com/MoocDownloader/MoocDownloader)|An icourse163.org MOOC downloader implemented by .NET. 一枚由 .NET 实现的中国大学 MOOC 下载器.|728|1|2023-11-27|
+|15|[HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer)|仅供学习交流使用   第三方网易云音乐播放器   A Netease Cloud Music Player|669|1|2023-12-16|
+|16|[TastSong/GameProgrammerStudyNotes](https://github.com/TastSong/GameProgrammerStudyNotes)|游戏开发学习笔记|97|0|2023-12-06|
+|17|[Awbugl/ProjectGenesis](https://github.com/Awbugl/ProjectGenesis)|构建真实宇宙，撰写创世之书。  Construct Real Universe. Then leave a GenesisBook.|27|0|2023-12-13|
+|18|[qedsd/TheGuideToTheNewEden](https://github.com/qedsd/TheGuideToTheNewEden)|新伊甸漫游指南|29|0|2023-12-20|
+|19|[TripleView/SummerBoot](https://github.com/TripleView/SummerBoot)|Combining the advanced concepts of SpringBoot with the simplicity and elegance of C#, declarative programming focuses on "what to do" rather than "how to do it", and writes code at a higher level.将Spr ...|130|0|2023-12-21|
+|20|[densen2014/Blazor100](https://github.com/densen2014/Blazor100)|Blazor入门100天|63|0|2023-12-20|
+|21|[axzxs2001/Asp.NetCoreExperiment](https://github.com/axzxs2001/Asp.NetCoreExperiment)|原来所有项目都移动到**OleVersion**目录下进行保留。新的案例装以.net 5.0为主，一部分对以前案例进行升级，一部分将以前的工作经验总结出来，以供大家参考！|353|0|2023-12-21|
+|22|[MingsonZheng/Personal-Learning-Library](https://github.com/MingsonZheng/Personal-Learning-Library)|个人学习笔记仓库（.NET、k8s、Go、微服务、云原生）🐮🍺|47|0|2023-12-22|
 |23|[WeihanLi/DesignPatterns](https://github.com/WeihanLi/DesignPatterns)|DesignPatterns samples by csharp on dotnetcore 《大话设计模式》 中设计模式总结/C#(.NET)代码|124|0|2023-11-26|
 |24|[Liu233w/acm-statistics](https://github.com/Liu233w/acm-statistics)|An online tool (crawler) to analyze users performance in online judges (coding competition websites). Supported OJ: POJ, HDU, HYSBZ, CodeForces, UVA, ICPC Live Archive, FZU, SPOJ, Timus (URAL), LeetCo ...|138|0|2023-12-14|
 |25|[xiajingren/NetCoreMicroserviceDemo](https://github.com/xiajingren/NetCoreMicroserviceDemo)|.Net Core微服务入门|78|0|2023-07-23|

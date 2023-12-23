@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Swift
-<sub>数据更新: 2023-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|14816|2023-09-26|
-|2|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|2113|2023-07-20|
-|3|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|1350|2023-12-19|
+|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|14815|2023-09-26|
+|2|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|2116|2023-07-20|
+|3|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|1350|2023-12-22|
 |4|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|467|2023-10-04|
 |5|[JmoVxia/CLDemo](https://github.com/JmoVxia/CLDemo)|记录平时博客中的Demo，持续更新|457|2023-12-11|
 |6|[RickeyBoy/Rickey-iOS-Notes](https://github.com/RickeyBoy/Rickey-iOS-Notes)|一些笔记和收获，README 就是目录|352|2023-12-06|
@@ -20,11 +20,11 @@
 |13|[ZhongshanHuang/PoReader](https://github.com/ZhongshanHuang/PoReader)|本地小说阅读器，支持深色模式，Wifi传书，代码简洁有注释(local text reader, support dark modal, upload text by wifi)|52|2023-12-04|
 |14|[starainDou/DDYDayly](https://github.com/starainDou/DDYDayly)|iOS每天学点知识。文章，博客，开源库，Demo，软件，插件，工具...好记性不如烂笔头，最怕有时候看到过类似知识点就是想不起来在哪里看过。。。|47|2023-08-18|
 |15|[yungfan/iOS-BasedOnSwift](https://github.com/yungfan/iOS-BasedOnSwift)|iOS开发教程案例代码|32|2023-08-12|
-|16|[crazypoo/PTools](https://github.com/crazypoo/PTools)|iOS开发工具小集合,不定期更新|28|2023-12-20|
+|16|[crazypoo/PTools](https://github.com/crazypoo/PTools)|iOS开发工具小集合,不定期更新|28|2023-12-22|
 |17|[dyljqq/DJGithub](https://github.com/dyljqq/DJGithub)|纯Swift搭建的个人的Github客户端。里面也会本地收录一些日常开发中看的博客等。|18|2023-12-16|
 |18|[songgeb/I-Love-iOS](https://github.com/songgeb/I-Love-iOS)|iOS学习笔记，技术道路走到黑|18|2023-09-29|
 |19|[GarveyCalvin/SwiftUI-Tutorials](https://github.com/GarveyCalvin/SwiftUI-Tutorials)|SwiftUI教程-不定时更新|16|2023-10-16|
-|20|[SurveyCake/webhook](https://github.com/SurveyCake/webhook)|How to use SurveyCake webhook|16|2023-07-04|
+|20|[SurveyCake/webhook](https://github.com/SurveyCake/webhook)|How to use SurveyCake webhook|16|2023-12-21|
 |21|[MetaBBLv/SwiftUIModifier](https://github.com/MetaBBLv/SwiftUIModifier)|关于SwiftUI中基础组件的修饰符的学习过程|12|2023-09-07|
 |22|[ZYHshao/MachineLearnDemo](https://github.com/ZYHshao/MachineLearnDemo)|AI 相关学习Demo|12|2023-07-25|
 |23|[Andy0570/RoadToSwift](https://github.com/Andy0570/RoadToSwift)|My Swift self-study tour 🤪 |12|2023-11-08|

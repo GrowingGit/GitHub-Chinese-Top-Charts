@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2023-12-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -35,12 +35,13 @@
 |28|[ibiza19/NeteaseCloudMusic](https://github.com/ibiza19/NeteaseCloudMusic)|音乐播放器(网易云音乐)🎹 iOS Objective-C版|2|2023-11-13|2023-07-20|
 |29|[2017398956/react-native-textinput-maxlength-fixed](https://github.com/2017398956/react-native-textinput-maxlength-fixed)|修复 TextInput 设置 maxLength 后，拼音输入超出限制的问题|2|2023-07-12|2023-07-12|
 |30|[wwwwdkdk/Sparrow](https://github.com/wwwwdkdk/Sparrow)|这是一个使用Objective-C 和 Swift编写的iOS 即时通讯APP(聊天APP前端)|2|2023-07-21|2023-06-23|
-|31|[a51095/ScanHelper](https://github.com/a51095/ScanHelper)|二维码、条形码、等多种条码扫描组件，一行代码即可初始化使用。|2|2023-12-05|2023-05-06|
-|32|[shijia2118/speech_xf](https://github.com/shijia2118/speech_xf)|这是一个Flutter插件，用于讯飞语音识别，支持Android和IOS.|2|2023-12-05|2023-04-30|
-|33|[zhengmiaokai/MKWebFileDownloader](https://github.com/zhengmiaokai/MKWebFileDownloader)|基于NSOperationQueue与NSURLSessionDataTask实现的文件下载器（支持设置队列并发数量、任务优先级、断点续传）。|2|2023-08-04|2023-04-19|
-|34|[yujiuqie/AFJ-Mobile](https://github.com/yujiuqie/AFJ-Mobile)|一个 iOS 示例 Demo，展示 iOS 开发中可能用到的一些技术，包括 ReactNative、Flutter、小程序、H5 混合开发示例。|2|2023-07-19|2023-03-16|
-|35|[GuanceCloud/datakit-uniapp-native-plugin](https://github.com/GuanceCloud/datakit-uniapp-native-plugin)|观测云 Uniapp Native Plugin（Android，iOS）|2|2023-11-23|2023-02-17|
-|36|[MF-dosear/FlutterGamesKit](https://github.com/MF-dosear/FlutterGamesKit)|Flutter 游戏 SDK iOS、Android双端|2|2023-11-29|2023-02-09|
+|31|[CaryGo/BinaryTest](https://github.com/CaryGo/BinaryTest)|cocoapods-jxedt插件Demo|2|2023-08-23|2023-05-18|
+|32|[a51095/ScanHelper](https://github.com/a51095/ScanHelper)|二维码、条形码、等多种条码扫描组件，一行代码即可初始化使用。|2|2023-12-05|2023-05-06|
+|33|[shijia2118/speech_xf](https://github.com/shijia2118/speech_xf)|这是一个Flutter插件，用于讯飞语音识别，支持Android和IOS.|2|2023-12-05|2023-04-30|
+|34|[zhengmiaokai/MKWebFileDownloader](https://github.com/zhengmiaokai/MKWebFileDownloader)|基于NSOperationQueue与NSURLSessionDataTask实现的文件下载器（支持设置队列并发数量、任务优先级、断点续传）。|2|2023-12-22|2023-04-19|
+|35|[yujiuqie/AFJ-Mobile](https://github.com/yujiuqie/AFJ-Mobile)|一个 iOS 示例 Demo，展示 iOS 开发中可能用到的一些技术，包括 ReactNative、Flutter、小程序、H5 混合开发示例。|2|2023-07-19|2023-03-16|
+|36|[GuanceCloud/datakit-uniapp-native-plugin](https://github.com/GuanceCloud/datakit-uniapp-native-plugin)|观测云 Uniapp Native Plugin（Android，iOS）|2|2023-11-23|2023-02-17|
+|37|[MF-dosear/FlutterGamesKit](https://github.com/MF-dosear/FlutterGamesKit)|Flutter 游戏 SDK iOS、Android双端|2|2023-11-29|2023-02-09|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
