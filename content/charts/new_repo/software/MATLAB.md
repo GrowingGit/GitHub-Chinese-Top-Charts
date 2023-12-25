@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2023-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -27,14 +27,14 @@
 |20|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|4|2023-12-04|2023-10-25|
 |21|[Lusenc/SkyrmionOpticalForce](https://github.com/Lusenc/SkyrmionOpticalForce)|该项目记录笔者科研过程中用到的算法函数，包括矢量场表示、瑞利粒子光学力的计算、特殊光束生成等内容|4|2023-11-16|2023-09-05|
 |22|[zhibaixiao/DIPm](https://github.com/zhibaixiao/DIPm)|一个使用MATLAB(R2020b) App Designer开发的简单数字图像处理APP示例|4|2023-08-24|2023-08-24|
-|23|[DreamChasingBoy/BoyLuc_in_CDUT](https://github.com/DreamChasingBoy/BoyLuc_in_CDUT)|在大学期间的一些课堂作业与实验报告，相对完整，仅供参考|4|2023-11-22|2023-07-28|
-|24|[OlyMarco/MATLAB_Image_Processing](https://github.com/OlyMarco/MATLAB_Image_Processing)|Matlab图像处理大作业，使用Matlab GUI制作，包含基本功能和一些进阶功能|4|2023-07-03|2023-07-03|
-|25|[VG-TechCenter/FigureBestv4.4](https://github.com/VG-TechCenter/FigureBestv4.4)|matlab绘图美化工具|4|2023-07-01|2023-07-01|
-|26|[Matthew-Lyu/Image-Processing-Analysis-SYSU](https://github.com/Matthew-Lyu/Image-Processing-Analysis-SYSU)|经典图像处理分析方法Classic image processing and analysis methods|4|2023-07-23|2023-06-20|
-|27|[Lu-Anastasia/MATLAB](https://github.com/Lu-Anastasia/MATLAB)|信息光学数字实验室（matlab版）全代码|3|2023-11-28|2023-11-28|
-|28|[dazhiwang233/matlab-implementation-of-BP-neural-networks](https://github.com/dazhiwang233/matlab-implementation-of-BP-neural-networks)|BP神经网络的matlab实现|3|2023-11-22|2023-11-22|
-|29|[mtxs001/face_recognition-matlab](https://github.com/mtxs001/face_recognition-matlab)|人脸识别（基于matlab,使用bp网络。）|3|2023-09-15|2023-09-15|
-|30|[quyinsong/Motion-Planning-for-Mobile-Robots](https://github.com/quyinsong/Motion-Planning-for-Mobile-Robots)|移动机器人路径规划|3|2023-08-15|2023-08-13|
+|23|[quyinsong/Motion-Planning-for-Mobile-Robots](https://github.com/quyinsong/Motion-Planning-for-Mobile-Robots)|移动机器人路径规划|4|2023-08-15|2023-08-13|
+|24|[DreamChasingBoy/BoyLuc_in_CDUT](https://github.com/DreamChasingBoy/BoyLuc_in_CDUT)|在大学期间的一些课堂作业与实验报告，相对完整，仅供参考|4|2023-11-22|2023-07-28|
+|25|[OlyMarco/MATLAB_Image_Processing](https://github.com/OlyMarco/MATLAB_Image_Processing)|Matlab图像处理大作业，使用Matlab GUI制作，包含基本功能和一些进阶功能|4|2023-07-03|2023-07-03|
+|26|[VG-TechCenter/FigureBestv4.4](https://github.com/VG-TechCenter/FigureBestv4.4)|matlab绘图美化工具|4|2023-07-01|2023-07-01|
+|27|[Matthew-Lyu/SYSU-Image-Processing-Analysis](https://github.com/Matthew-Lyu/SYSU-Image-Processing-Analysis)|经典图像处理分析方法Classic image processing and analysis methods|4|2023-07-23|2023-06-20|
+|28|[Lu-Anastasia/MATLAB](https://github.com/Lu-Anastasia/MATLAB)|信息光学数字实验室（matlab版）全代码|3|2023-11-28|2023-11-28|
+|29|[dazhiwang233/matlab-implementation-of-BP-neural-networks](https://github.com/dazhiwang233/matlab-implementation-of-BP-neural-networks)|BP神经网络的matlab实现|3|2023-11-22|2023-11-22|
+|30|[mtxs001/face_recognition-matlab](https://github.com/mtxs001/face_recognition-matlab)|人脸识别（基于matlab,使用bp网络。）|3|2023-09-15|2023-09-15|
 |31|[liuxg156/simulink_AFFRLS_18650](https://github.com/liuxg156/simulink_AFFRLS_18650)|小q马里兰大学18650增量电流HPPC数据基于AFFRLS参数辨识|3|2023-07-30|2023-07-30|
 |32|[22zhang/Metasurfaces_Manitude_Phase_Control](https://github.com/22zhang/Metasurfaces_Manitude_Phase_Control)|做了几种经典的有源和无源的超表面单元和超表面阵列，用到的软件有：MATLAB、CST|3|2023-06-30|2023-06-30|
 

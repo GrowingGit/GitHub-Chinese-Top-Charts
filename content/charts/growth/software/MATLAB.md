@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2023-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2333|1|2023-11-01|
+|1|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2334|1|2023-11-01|
 |2|[yangbin-xd/UAV-positioning](https://github.com/yangbin-xd/UAV-positioning)|source code for IEEE IoTJ paper "Distributed and Collaborative Localization for Swarming UAVs"|21|0|2023-12-08|
 |3|[lnexenl/BeiDou_B1C](https://github.com/lnexenl/BeiDou_B1C)|BeiDou B1C Signal Generator and Catcher / 北斗B1C信号生成与捕获|11|0|2023-11-03|
 |4|[NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate)|络石机械臂动力学相关算法以及仿真|8|0|2023-11-13|
@@ -17,23 +17,23 @@
 |10|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|15|0|2023-12-20|
 |11|[cs-chan/Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset)|Total Text Dataset. It consists of 1555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind.|712|0|2023-10-05|
 |12|[Lu-Anastasia/MATLAB](https://github.com/Lu-Anastasia/MATLAB)|信息光学数字实验室（matlab版）全代码|3|0|2023-11-28|
-|13|[yqx7150/EDAEPRec](https://github.com/yqx7150/EDAEPRec)|Enhanced Denoising Auto-Encoding Priors for Reconstruction |10|0|2023-06-23|
-|14|[deltaRing/mmwave_radar_1843_generate_point_cloud](https://github.com/deltaRing/mmwave_radar_1843_generate_point_cloud)|用1843AOPEVM生成点云 初步验证应该是对的，附赠数据一枚|17|0|2023-12-05|
-|15|[Patrick9313/Voice-Eliminator](https://github.com/Patrick9313/Voice-Eliminator)|基于带阻滤波器消除一首歌曲中歌手的声音|42|0|2023-08-27|
-|16|[bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm](https://github.com/bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm)|-|24|0|2023-09-19|
-|17|[Xuerenbujianhua/3DPathplanning](https://github.com/Xuerenbujianhua/3DPathplanning)|基于栅格地图的无人机三维路径规划算法|5|0|2023-11-17|
-|18|[BySpaces/Matlab-Pcode-to-Mcode](https://github.com/BySpaces/Matlab-Pcode-to-Mcode)|本软件可实现将MATLAB中Pcode加密的代码，恢复为原来的M文件。This software can restore the codes encrypted by Pcode in MATLAB to the original M file.|7|0|2023-12-06|
-|19|[ScottXjw/equalizer-code-FFE-DFE-VolterraFFEandDFE](https://github.com/ScottXjw/equalizer-code-FFE-DFE-VolterraFFEandDFE)|equalizer code|19|0|2023-08-30|
-|20|[breeef/HTAO-Toolkit](https://github.com/breeef/HTAO-Toolkit)|PTAS-TAHRC，Heterogeneous Task Allocation Optimization Toolkit for Mobile Edge Computing;异构移动边缘计算任务分配优化工具以车辆为主题实现。matlab|6|0|2023-09-01|
-|21|[jhu-dvrk/dvrk-gravity-compensation](https://github.com/jhu-dvrk/dvrk-gravity-compensation)|Matlab functions to identify MTM dynamic parameters, uses dvrk-ros/dvrk_matlab|12|0|2023-11-21|
-|22|[theLaziestOne/FMCW-CO](https://github.com/theLaziestOne/FMCW-CO)|毫米波雷达信号处理|6|0|2023-07-17|
-|23|[signalYoung/ModulationAndDemodulation](https://github.com/signalYoung/ModulationAndDemodulation)|包含常见的模拟调制解调及数字调制解调的 MATLAB 代码|5|0|2023-07-18|
-|24|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|165|0|2023-12-01|
-|25|[mellody11/Artificial-Potential-Field](https://github.com/mellody11/Artificial-Potential-Field)|机器人导航--人工势场法及其改进|47|0|2023-08-25|
-|26|[22zhang/Metasurfaces_Manitude_Phase_Control](https://github.com/22zhang/Metasurfaces_Manitude_Phase_Control)|做了几种经典的有源和无源的超表面单元和超表面阵列，用到的软件有：MATLAB、CST|3|0|2023-06-30|
-|27|[mtxs001/face_recognition-matlab](https://github.com/mtxs001/face_recognition-matlab)|人脸识别（基于matlab,使用bp网络。）|3|0|2023-09-15|
-|28|[Lusenc/SkyrmionOpticalForce](https://github.com/Lusenc/SkyrmionOpticalForce)|该项目记录笔者科研过程中用到的算法函数，包括矢量场表示、瑞利粒子光学力的计算、特殊光束生成等内容|4|0|2023-11-16|
-|29|[DreamChasingBoy/BoyLuc_in_CDUT](https://github.com/DreamChasingBoy/BoyLuc_in_CDUT)|在大学期间的一些课堂作业与实验报告，相对完整，仅供参考|4|0|2023-11-22|
+|13|[deltaRing/mmwave_radar_1843_generate_point_cloud](https://github.com/deltaRing/mmwave_radar_1843_generate_point_cloud)|用1843AOPEVM生成点云 初步验证应该是对的，附赠数据一枚|17|0|2023-12-23|
+|14|[Patrick9313/Voice-Eliminator](https://github.com/Patrick9313/Voice-Eliminator)|基于带阻滤波器消除一首歌曲中歌手的声音|42|0|2023-08-27|
+|15|[bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm](https://github.com/bhtxy0525/Inverse_Dynamics_with_Recursive_Newton_Euler_Algorithm)|-|24|0|2023-09-19|
+|16|[Xuerenbujianhua/3DPathplanning](https://github.com/Xuerenbujianhua/3DPathplanning)|基于栅格地图的无人机三维路径规划算法|5|0|2023-11-17|
+|17|[BySpaces/Matlab-Pcode-to-Mcode](https://github.com/BySpaces/Matlab-Pcode-to-Mcode)|本软件可实现将MATLAB中Pcode加密的代码，恢复为原来的M文件。This software can restore the codes encrypted by Pcode in MATLAB to the original M file.|7|0|2023-12-06|
+|18|[ScottXjw/equalizer-code-FFE-DFE-VolterraFFEandDFE](https://github.com/ScottXjw/equalizer-code-FFE-DFE-VolterraFFEandDFE)|equalizer code|20|0|2023-08-30|
+|19|[breeef/HTAO-Toolkit](https://github.com/breeef/HTAO-Toolkit)|PTAS-TAHRC，Heterogeneous Task Allocation Optimization Toolkit for Mobile Edge Computing;异构移动边缘计算任务分配优化工具以车辆为主题实现。matlab|6|0|2023-09-01|
+|20|[jhu-dvrk/dvrk-gravity-compensation](https://github.com/jhu-dvrk/dvrk-gravity-compensation)|Matlab functions to identify MTM dynamic parameters, uses dvrk-ros/dvrk_matlab|12|0|2023-11-21|
+|21|[theLaziestOne/FMCW-CO](https://github.com/theLaziestOne/FMCW-CO)|毫米波雷达信号处理|6|0|2023-07-17|
+|22|[signalYoung/ModulationAndDemodulation](https://github.com/signalYoung/ModulationAndDemodulation)|包含常见的模拟调制解调及数字调制解调的 MATLAB 代码|5|0|2023-07-18|
+|23|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|165|0|2023-12-01|
+|24|[mellody11/Artificial-Potential-Field](https://github.com/mellody11/Artificial-Potential-Field)|机器人导航--人工势场法及其改进|47|0|2023-08-25|
+|25|[22zhang/Metasurfaces_Manitude_Phase_Control](https://github.com/22zhang/Metasurfaces_Manitude_Phase_Control)|做了几种经典的有源和无源的超表面单元和超表面阵列，用到的软件有：MATLAB、CST|3|0|2023-06-30|
+|26|[mtxs001/face_recognition-matlab](https://github.com/mtxs001/face_recognition-matlab)|人脸识别（基于matlab,使用bp网络。）|3|0|2023-09-15|
+|27|[Lusenc/SkyrmionOpticalForce](https://github.com/Lusenc/SkyrmionOpticalForce)|该项目记录笔者科研过程中用到的算法函数，包括矢量场表示、瑞利粒子光学力的计算、特殊光束生成等内容|4|0|2023-11-16|
+|28|[DreamChasingBoy/BoyLuc_in_CDUT](https://github.com/DreamChasingBoy/BoyLuc_in_CDUT)|在大学期间的一些课堂作业与实验报告，相对完整，仅供参考|4|0|2023-11-22|
+|29|[BigdogManLuo/powerFlower](https://github.com/BigdogManLuo/powerFlower)|A lightweight power flow calculation software based on MATLAB. 基于牛顿迭代法和PQ分解法实现电力系统常规潮流计算，算例数据基于美国西部9节点系统(WSCC9)|3|0|2023-09-26|
 |30|[atongrun/EV_Model](https://github.com/atongrun/EV_Model)|纯电动汽车simulink模型|24|0|2023-08-31|
 |31|[dazhiwang233/matlab-implementation-of-BP-neural-networks](https://github.com/dazhiwang233/matlab-implementation-of-BP-neural-networks)|BP神经网络的matlab实现|3|0|2023-11-22|
 |32|[Silver-Fang/Parallel-Computing](https://github.com/Silver-Fang/Parallel-Computing)|埃博拉酱的并行计算工具箱|3|0|2023-10-04|
@@ -43,9 +43,9 @@
 |36|[yehuixie/system_identification](https://github.com/yehuixie/system_identification)|系统辨识课程代码|5|0|2023-11-11|
 |37|[liuxg156/simulink_AFFRLS_18650](https://github.com/liuxg156/simulink_AFFRLS_18650)|小q马里兰大学18650增量电流HPPC数据基于AFFRLS参数辨识|3|0|2023-07-30|
 |38|[OlyMarco/MATLAB_Image_Processing](https://github.com/OlyMarco/MATLAB_Image_Processing)|Matlab图像处理大作业，使用Matlab GUI制作，包含基本功能和一些进阶功能|4|0|2023-07-03|
-|39|[quyinsong/Motion-Planning-for-Mobile-Robots](https://github.com/quyinsong/Motion-Planning-for-Mobile-Robots)|移动机器人路径规划|3|0|2023-08-15|
+|39|[quyinsong/Motion-Planning-for-Mobile-Robots](https://github.com/quyinsong/Motion-Planning-for-Mobile-Robots)|移动机器人路径规划|4|0|2023-08-15|
 |40|[RflyBUAA/DegradedControl](https://github.com/RflyBUAA/DegradedControl)|北航可靠飞行控制研究组-四旋翼容灾控制Simulink仿真和半物理仿真程序|9|0|2023-07-18|
-|41|[Matthew-Lyu/Image-Processing-Analysis-SYSU](https://github.com/Matthew-Lyu/Image-Processing-Analysis-SYSU)|经典图像处理分析方法Classic image processing and analysis methods|4|0|2023-07-23|
+|41|[Matthew-Lyu/SYSU-Image-Processing-Analysis](https://github.com/Matthew-Lyu/SYSU-Image-Processing-Analysis)|经典图像处理分析方法Classic image processing and analysis methods|4|0|2023-07-23|
 |42|[LZH20001220/HuaweiCup2023](https://github.com/LZH20001220/HuaweiCup2023)|华为杯第二十届中国研究生数学建模竞赛|6|0|2023-12-04|
 |43|[Patrick9313/Sudoku](https://github.com/Patrick9313/Sudoku)|一个基于启发式搜索解决具体数独问题的MATLAB程序|30|0|2023-08-27|
 |44|[AirChem/F0AM](https://github.com/AirChem/F0AM)|Framework for 0-D Atmospheric Modeling|58|0|2023-11-03|

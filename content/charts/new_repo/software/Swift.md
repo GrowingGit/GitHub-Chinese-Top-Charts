@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Swift
-<sub>数据更新: 2023-12-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-12-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[mazzzystar/Queryable](https://github.com/mazzzystar/Queryable)|Run OpenAI's CLIP model on iOS to search photos.|2176|2023-11-13|2023-07-09|
-|2|[thebarbican19/BatteryBoi](https://github.com/thebarbican19/BatteryBoi)|The battery app your Mac's been dreaming about behind your back.|767|2023-12-21|2023-08-08|
+|2|[thebarbican19/BatteryBoi](https://github.com/thebarbican19/BatteryBoi)|The battery app your Mac's been dreaming about behind your back.|768|2023-12-21|2023-08-08|
 |3|[TopWidgets/SwingAnimation](https://github.com/TopWidgets/SwingAnimation)|小组件平移动画   Widget on the Move, A Playful Animation|663|2023-11-21|2023-08-21|
-|4|[ZhangDo/NeteaseTVDemo](https://github.com/ZhangDo/NeteaseTVDemo)|NeteaseTVDemo (Vibefy) - 网易云音乐 tvOS 客户端  |97|2023-12-22|2023-08-25|
-|5|[Lakr233/RainbowFart](https://github.com/Lakr233/RainbowFart)|全自动夸夸机，配备先进的注意力感知功能，人工智能且离线。|70|2023-07-10|2023-07-10|
+|4|[ZhangDo/NeteaseTVDemo](https://github.com/ZhangDo/NeteaseTVDemo)|NeteaseTVDemo (Vibefy) - 网易云音乐 tvOS 客户端  |97|2023-12-24|2023-08-25|
+|5|[Lakr233/RainbowFart](https://github.com/Lakr233/RainbowFart)|全自动夸夸机，配备先进的注意力感知功能，人工智能且离线。|69|2023-07-10|2023-07-10|
 |6|[Jdb156158/JbbAnimateWidget](https://github.com/Jdb156158/JbbAnimateWidget)|ios小组件动画效果调研|46|2023-09-26|2023-08-04|
 |7|[intsig171/SmartCodable](https://github.com/intsig171/SmartCodable)|使用Codable系统解析能力为底层实现，适配了Codable解析失败的情况的Swift数据解析库。并参考了HandyJSON的对外API的实现，可以更快速的替换HandyJSON。|44|2023-12-19|2023-09-28|
 |8|[6tail/lunar-swift](https://github.com/6tail/lunar-swift)|日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.|36|2023-11-10|2023-02-22|
 |9|[yujon/ipa-mac-builder](https://github.com/yujon/ipa-mac-builder)|对ipa进行重签名并安装或导出ipa|25|2023-06-29|2023-04-23|
-|10|[justaLoli/VPet-Mac](https://github.com/justaLoli/VPet-Mac)|虚拟桌宠模拟器的饭制Mac版（功能不全！）|23|2023-09-17|2023-09-01|
+|10|[justaLoli/VPet-Mac](https://github.com/justaLoli/VPet-Mac)|虚拟桌宠模拟器的饭制Mac版（功能不全！）|24|2023-09-17|2023-09-01|
 |11|[Rogue24/AnimationPreviewer](https://github.com/Rogue24/AnimationPreviewer)|一个用于快速预览Lottie&SVGA的Mac小工具。|22|2023-11-22|2023-05-10|
 |12|[Coder-Star/CSModuleManager](https://github.com/Coder-Star/CSModuleManager)|一个用在Swift的模块管理框架|18|2023-08-22|2023-02-11|
 |13|[xiaoxidong/Shoots](https://github.com/xiaoxidong/Shoots)|SwiftUI「做个应用」开源项目，管理，发现有用的产品设计截图|16|2023-10-10|2023-02-23|
@@ -35,8 +35,9 @@
 |28|[jch12138/ncmdump-mac-gui](https://github.com/jch12138/ncmdump-mac-gui)|mac平台下将网易云ncm格式转换为mp3/flac的小工具|6|2023-11-05|2023-10-07|
 |29|[DSAppTeam/iAppTrim](https://github.com/DSAppTeam/iAppTrim)|用于iOS优化包体的Mac App工具，包括编译配置和PNG图片相关的功能，也可以用于一般的PNG图片压缩和图片重复检测|6|2023-06-26|2023-04-21|
 |30|[erduoniba/HDSwiftStructSizeDemo](https://github.com/erduoniba/HDSwiftStructSizeDemo)|Swift中struct二进制大小分析|6|2023-09-22|2023-01-15|
-|31|[fakepinge/LaunchdDaemonDemo](https://github.com/fakepinge/LaunchdDaemonDemo)|Mac提权实例|5|2023-06-30|2023-06-30|
-|32|[swiftdo/vapor-blog](https://github.com/swiftdo/vapor-blog)|Swift Vapor Blog（基于 Swift Vapor 的博客系统）|5|2023-09-06|2023-06-07|
+|31|[jane-chao/RevenueCatSubscriptionsDemo](https://github.com/jane-chao/RevenueCatSubscriptionsDemo)|示範如何使用 RevenueCat 處理應用程式內購買和管理 Paywall。|5|2023-12-20|2023-12-11|
+|32|[fakepinge/LaunchdDaemonDemo](https://github.com/fakepinge/LaunchdDaemonDemo)|Mac提权实例|5|2023-06-30|2023-06-30|
+|33|[swiftdo/vapor-blog](https://github.com/swiftdo/vapor-blog)|Swift Vapor Blog（基于 Swift Vapor 的博客系统）|5|2023-09-06|2023-06-07|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
