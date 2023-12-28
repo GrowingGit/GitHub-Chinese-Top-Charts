@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Vim script
-<sub>数据更新: 2023-12-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20090|2023-09-23|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8395|2023-10-31|
+|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20089|2023-09-23|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8396|2023-10-31|
 |3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4893|2023-11-16|
 |4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1785|2023-09-30|
-|5|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1718|2023-10-06|
+|5|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1719|2023-10-06|
 |6|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1379|2023-11-14|
 |7|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|884|2023-12-18|
 |8|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|874|2023-09-26|
@@ -18,8 +18,8 @@
 |11|[SidOfc/mkdx](https://github.com/SidOfc/mkdx)|A vim plugin that adds some nice extra's for working with markdown documents|479|2023-10-16|
 |12|[sillybun/vim-repl](https://github.com/sillybun/vim-repl)|Best REPL environment for Vim|434|2023-07-15|
 |13|[ruchee/vimrc](https://github.com/ruchee/vimrc)|Ruchee's Vim Config Files|415|2023-10-17|
-|14|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|383|2023-12-26|
-|15|[lilydjwg/dotvim](https://github.com/lilydjwg/dotvim)|My vim config|276|2023-10-27|
+|14|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|383|2023-12-27|
+|15|[lilydjwg/dotvim](https://github.com/lilydjwg/dotvim)|My vim config|277|2023-10-27|
 |16|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog based on vimscript|175|2023-10-24|
 |17|[dofy/7th-vim](https://github.com/dofy/7th-vim)|安装简单，轻量、易用、高可配置性。 Lightweight & Customizable Vim configuration options.|98|2023-11-25|
 |18|[pi314/ime.vim](https://github.com/pi314/ime.vim)|A Vim input method engine|83|2023-09-30|
@@ -35,7 +35,7 @@
 |28|[Karmenzind/vim-tmuxlike](https://github.com/Karmenzind/vim-tmuxlike)|A vim plugin that mimics the actions of tmux. Control buffers and tabs like tmux panes.|19|2023-12-02|
 |29|[gou4shi1/.vim](https://github.com/gou4shi1/.vim)|My Vim|15|2023-11-13|
 |30|[wandercn/go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf)|my vim conf for golang IDE and rust IDE|14|2023-11-02|
-|31|[marslo/myvim](https://github.com/marslo/myvim)|My Vim configuratons |14|2023-12-22|
+|31|[marslo/myvim](https://github.com/marslo/myvim)|My Vim configuratons |14|2023-12-27|
 |32|[yyzwz/s023](https://github.com/yyzwz/s023)|基于Vue+SpringBoot+MySQL的海南旅游推荐系统，基于协同推荐算法，包括用户网页和管理后台，包含景点类型模块、旅游景点模块、行程推荐模块、美食推荐模块、景点排名模块，还包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，天然气工程运维系统基于角色的访问控制，给景点管理员、游客使用，可将权限精确到按钮级别。|13|2023-09-07|
 |33|[leetking/dotfiles](https://github.com/leetking/dotfiles)|我的vim,bash等的配置文件|12|2023-09-09|
 |34|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|11|2023-11-06|
@@ -51,12 +51,12 @@
 |44|[niming175/myVim](https://github.com/niming175/myVim)|我的vim配置|5|2023-10-08|
 |45|[rongyi/dotfile](https://github.com/rongyi/dotfile)|zsh/tmux/vim/mplayer配置文件|5|2023-09-14|
 |46|[andrewintw/rpi-video-sync-looper](https://github.com/andrewintw/rpi-video-sync-looper)|A video synchronization looping system built on Raspberry Pi. 一個運行於 Raspberry Pi 的影片同步循環播放系統|4|2023-12-04|
-|47|[zweix123/win-config](https://github.com/zweix123/win-config)|让你的win机器有媲美Unix命令行的体验|4|2023-12-14|
-|48|[xuchi021105/my-config-file](https://github.com/xuchi021105/my-config-file)|这个repo用来存储我所有的所用软件的配置文件(例如vim等)|4|2023-08-13|
-|49|[Wujidadi/Ubuntu-RC](https://github.com/Wujidadi/Ubuntu-RC)|Ubuntu（其他 Unix/Linux 可能適用）環境中使用的 run commands|4|2023-12-11|
-|50|[lartpang/myoptions](https://github.com/lartpang/myoptions)|:dolphin: 集中存放一些配置文件 vim/zsh/ublock origin/...|4|2023-07-10|
-|51|[wkcn/MyVimConfig](https://github.com/wkcn/MyVimConfig)|我的Vim配置文件|4|2023-08-13|
-|52|[yyzwz/s005](https://github.com/yyzwz/s005)|Vue+SpringBoot+MySQL，智能停车场管理系统包含的车主管理模块、车辆管理模块、停车场模块、停车记录模块、IC卡模块、IC卡挂失模块，还包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，智能停车场管理系统基于角色的访问控制，给车主和停车场管理员使用，可将权限精确到按钮级别，您可以自定义角色并分配权限，系统适合设计精确的权限约束 ...|3|2023-08-31|
+|47|[yyzwz/s005](https://github.com/yyzwz/s005)|Vue+SpringBoot+MySQL，智能停车场管理系统包含的车主管理模块、车辆管理模块、停车场模块、停车记录模块、IC卡模块、IC卡挂失模块，还包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，智能停车场管理系统基于角色的访问控制，给车主和停车场管理员使用，可将权限精确到按钮级别，您可以自定义角色并分配权限，系统适合设计精确的权限约束 ...|4|2023-08-31|
+|48|[zweix123/win-config](https://github.com/zweix123/win-config)|让你的win机器有媲美Unix命令行的体验|4|2023-12-14|
+|49|[xuchi021105/my-config-file](https://github.com/xuchi021105/my-config-file)|这个repo用来存储我所有的所用软件的配置文件(例如vim等)|4|2023-08-13|
+|50|[Wujidadi/Ubuntu-RC](https://github.com/Wujidadi/Ubuntu-RC)|Ubuntu（其他 Unix/Linux 可能適用）環境中使用的 run commands|4|2023-12-11|
+|51|[lartpang/myoptions](https://github.com/lartpang/myoptions)|:dolphin: 集中存放一些配置文件 vim/zsh/ublock origin/...|4|2023-07-10|
+|52|[wkcn/MyVimConfig](https://github.com/wkcn/MyVimConfig)|我的Vim配置文件|4|2023-08-13|
 |53|[yyzwz/s003](https://github.com/yyzwz/s003)|Vue+SpringBoot+MySQL，生活废品回收系统包含资源类型模块、资源品类模块、回收机构模块、回收机构模块、资源销售单模块、资源交易单模块、资源交易单模块，还包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，生活废品回收系统基于角色的访问控制，可将权限精确到按钮级别，适合设计精确的权限约束需求。|3|2023-08-31|
 |54|[wa-lang/vim-wa](https://github.com/wa-lang/vim-wa)|VIM 语法高亮|3|2023-07-28|
 |55|[xiaodun/sf-mock](https://github.com/xiaodun/sf-mock)|前端mock接口解决方案|3|2023-10-27|
