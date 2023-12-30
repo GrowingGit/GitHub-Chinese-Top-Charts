@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2023-12-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2023-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -34,10 +34,11 @@
 |27|[huee-ops/XDU-Communication_principle_homework](https://github.com/huee-ops/XDU-Communication_principle_homework)|西电电院通信原理大作业|3|2023-12-23|2023-12-21|
 |28|[Lu-Anastasia/MATLAB](https://github.com/Lu-Anastasia/MATLAB)|信息光学数字实验室（matlab版）全代码|3|2023-11-28|2023-11-28|
 |29|[dazhiwang233/matlab-implementation-of-BP-neural-networks](https://github.com/dazhiwang233/matlab-implementation-of-BP-neural-networks)|BP神经网络的matlab实现|3|2023-11-22|2023-11-22|
-|30|[mtxs001/face_recognition-matlab](https://github.com/mtxs001/face_recognition-matlab)|人脸识别（基于matlab,使用bp网络。）|3|2023-09-15|2023-09-15|
-|31|[ning20320/lbn-zwsb](https://github.com/ning20320/lbn-zwsb)|基于Matlab的指纹识别系统|3|2023-08-05|2023-08-05|
-|32|[liuxg156/simulink_AFFRLS_18650](https://github.com/liuxg156/simulink_AFFRLS_18650)|小q马里兰大学18650增量电流HPPC数据基于AFFRLS参数辨识|3|2023-07-30|2023-07-30|
-|33|[22zhang/Metasurfaces_Manitude_Phase_Control](https://github.com/22zhang/Metasurfaces_Manitude_Phase_Control)|做了几种经典的有源和无源的超表面单元和超表面阵列，用到的软件有：MATLAB、CST|3|2023-06-30|2023-06-30|
+|30|[VG-TechCenter/003-Microgrid-double-layer-energy-management-model-based-on-model-prediction-algorithm](https://github.com/VG-TechCenter/003-Microgrid-double-layer-energy-management-model-based-on-model-prediction-algorithm)|003基于模型预测算法的含储能微网双层能量管理模型1|3|2023-10-24|2023-10-24|
+|31|[mtxs001/face_recognition-matlab](https://github.com/mtxs001/face_recognition-matlab)|人脸识别（基于matlab,使用bp网络。）|3|2023-09-15|2023-09-15|
+|32|[ning20320/lbn-zwsb](https://github.com/ning20320/lbn-zwsb)|基于Matlab的指纹识别系统|3|2023-08-05|2023-08-05|
+|33|[liuxg156/simulink_AFFRLS_18650](https://github.com/liuxg156/simulink_AFFRLS_18650)|小q马里兰大学18650增量电流HPPC数据基于AFFRLS参数辨识|3|2023-07-30|2023-07-30|
+|34|[22zhang/Metasurfaces_Manitude_Phase_Control](https://github.com/22zhang/Metasurfaces_Manitude_Phase_Control)|做了几种经典的有源和无源的超表面单元和超表面阵列，用到的软件有：MATLAB、CST|3|2023-06-30|2023-06-30|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
