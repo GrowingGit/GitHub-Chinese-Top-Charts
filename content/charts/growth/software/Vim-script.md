@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Vim script
-<sub>数据更新: 2023-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20086|8|2023-09-23|
 |2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8398|2|2023-10-31|
-|3|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1381|1|2023-11-14|
-|4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1788|1|2023-09-30|
-|5|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|852|1|2023-12-11|
+|3|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1382|1|2023-11-14|
+|4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1789|1|2023-09-30|
+|5|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|851|1|2023-12-11|
 |6|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4893|1|2023-11-16|
 |7|[wkcn/MyVimConfig](https://github.com/wkcn/MyVimConfig)|我的Vim配置文件|4|0|2023-08-13|
 |8|[anzhihe/Efficient-office](https://github.com/anzhihe/Efficient-office)|Alfred-Workflows，Vim，Script，Mac|48|0|2023-12-23|
 |9|[zweix123/win-config](https://github.com/zweix123/win-config)|让你的win机器有媲美Unix命令行的体验|4|0|2023-12-14|
 |10|[wandercn/go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf)|my vim conf for golang IDE and rust IDE|14|0|2023-11-02|
-|11|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|883|0|2023-12-18|
+|11|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|882|0|2023-12-18|
 |12|[yuesong-feng/EasyVim](https://github.com/yuesong-feng/EasyVim)|简单易用的vim配置|7|0|2023-11-11|
 |13|[terrytangyuan/dotfiles](https://github.com/terrytangyuan/dotfiles)|Personal bootstrapping dotfiles |8|0|2023-12-18|
 |14|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|876|0|2023-09-26|
@@ -25,7 +25,7 @@
 |18|[skywind3000/vim-dict](https://github.com/skywind3000/vim-dict)|没办法，被逼的，重新整理一个词典补全的数据库|55|0|2023-11-28|
 |19|[whitelok/Whitelok_Mac_VimConfig](https://github.com/whitelok/Whitelok_Mac_VimConfig)|*nix Vim configuration file for Python. *nix Python Vim配置文件。|3|0|2023-07-03|
 |20|[owner888/vimer](https://github.com/owner888/vimer)|vim editor|11|0|2023-11-07|
-|21|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|384|0|2023-12-29|
+|21|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|384|0|2023-12-31|
 |22|[keminar/linux-tools](https://github.com/keminar/linux-tools)|系统安装,日常Shell工具|3|0|2023-12-16|
 |23|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1719|0|2023-10-06|
 |24|[s-sasaki-0529/dotfiles](https://github.com/s-sasaki-0529/dotfiles)|個人用 .files|2|0|2023-09-30|
@@ -35,7 +35,7 @@
 |28|[qiqiboy/q-vim](https://github.com/qiqiboy/q-vim)|my vim config. 来自一个前端开发码农的vim配置方案|33|0|2023-11-27|
 |29|[lilydjwg/dotvim](https://github.com/lilydjwg/dotvim)|My vim config|277|0|2023-10-27|
 |30|[listenerri/ri-vim](https://github.com/listenerri/ri-vim)|一份中文注释齐全的vim配置|3|0|2023-11-03|
-|31|[lululxvi/oh-my-linux-apps](https://github.com/lululxvi/oh-my-linux-apps)|My list of essential Linux applications.|21|0|2023-07-11|
+|31|[lululxvi/oh-my-linux-apps](https://github.com/lululxvi/oh-my-linux-apps)|My list of essential Linux applications.|20|0|2023-07-11|
 |32|[pseudoyu/dotfiles](https://github.com/pseudoyu/dotfiles)|我的 macOS 与 Linux 配置|36|0|2023-08-27|
 |33|[andrewintw/rpi-video-sync-looper](https://github.com/andrewintw/rpi-video-sync-looper)|A video synchronization looping system built on Raspberry Pi. 一個運行於 Raspberry Pi 的影片同步循環播放系統|4|0|2023-12-04|
 |34|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog based on vimscript|175|0|2023-10-24|
@@ -45,7 +45,7 @@
 |38|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|11|0|2023-11-06|
 |39|[lartpang/myoptions](https://github.com/lartpang/myoptions)|:dolphin: 集中存放一些配置文件 vim/zsh/ublock origin/...|4|0|2023-07-10|
 |40|[yyzwz/s024](https://github.com/yyzwz/s024)|基于Vue+SpringBoot+MySQL的农村物流配送系统，包含快递客户管理模块、配送位置管理模块、配送人员模块、路线规划模块、商家管理模块、商品退换模块，还包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，农村物流配送系统基于角色的访问控制，给物流管理员、配送人员使用，可将权限精确到按钮级别。|7|0|2023-09-07|
-|41|[marslo/myvim](https://github.com/marslo/myvim)|My Vim configuratons |14|0|2023-12-29|
+|41|[marslo/myvim](https://github.com/marslo/myvim)|My Vim configuratons |14|0|2023-12-31|
 |42|[pi314/ime.vim](https://github.com/pi314/ime.vim)|A Vim input method engine|83|0|2023-09-30|
 |43|[cnsworder/dev_init](https://github.com/cnsworder/dev_init)|开发环境初始化 vim+emacs+python|9|0|2023-10-21|
 |44|[rongyi/dotfile](https://github.com/rongyi/dotfile)|zsh/tmux/vim/mplayer配置文件|5|0|2023-09-14|

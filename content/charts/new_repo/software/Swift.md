@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Swift
-<sub>数据更新: 2023-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[mazzzystar/Queryable](https://github.com/mazzzystar/Queryable)|Run OpenAI's CLIP model on iOS to search photos.|2186|2023-11-13|2023-07-09|
-|2|[thebarbican19/BatteryBoi](https://github.com/thebarbican19/BatteryBoi)|The battery app your Mac's been dreaming about behind your back.|773|2023-12-21|2023-08-08|
-|3|[TopWidgets/SwingAnimation](https://github.com/TopWidgets/SwingAnimation)|小组件平移动画   Widget on the Move, A Playful Animation|667|2023-11-21|2023-08-21|
+|1|[mazzzystar/Queryable](https://github.com/mazzzystar/Queryable)|Run OpenAI's CLIP model on iOS to search photos.|2190|2023-11-13|2023-07-09|
+|2|[thebarbican19/BatteryBoi](https://github.com/thebarbican19/BatteryBoi)|The battery app your Mac's been dreaming about behind your back.|775|2023-12-21|2023-08-08|
+|3|[TopWidgets/SwingAnimation](https://github.com/TopWidgets/SwingAnimation)|小组件平移动画   Widget on the Move, A Playful Animation|668|2023-11-21|2023-08-21|
 |4|[ZhangDo/NeteaseTVDemo](https://github.com/ZhangDo/NeteaseTVDemo)|NeteaseTVDemo (Vibefy) - 网易云音乐 tvOS 客户端  |97|2023-12-29|2023-08-25|
 |5|[Lakr233/RainbowFart](https://github.com/Lakr233/RainbowFart)|全自动夸夸机，配备先进的注意力感知功能，人工智能且离线。|70|2023-07-10|2023-07-10|
 |6|[intsig171/SmartCodable](https://github.com/intsig171/SmartCodable)|使用Codable系统解析能力为底层实现，适配了Codable解析失败的情况的Swift数据解析库。并参考了HandyJSON的对外API的实现，可以更快速的替换HandyJSON。|47|2023-12-29|2023-09-28|
@@ -25,16 +25,14 @@
 |18|[qoli/TestVOD](https://github.com/qoli/TestVOD)|一個基於正則測試 VOD 可用性的 App，SwiftUI 編寫|12|2023-12-10|2023-02-07|
 |19|[intsig171/AdapterSwift](https://github.com/intsig171/AdapterSwift)|SwiftUI精细化方案，针对不同的苹果手机机型缩放UI控件，让整体UI视觉效果一致。|10|2023-11-28|2023-11-28|
 |20|[wyqACoffer/DynamicWidget](https://github.com/wyqACoffer/DynamicWidget)|动态Widget（小组件、实时活动）|9|2023-10-23|2023-10-23|
-|21|[luoxubin/visionos-demos-docs](https://github.com/luoxubin/visionos-demos-docs)|分享一些自己预研学习apple visionos时开发或者发现的demo，以及整理一些国内外最新的关于apple visionOS的相关技术文章|9|2023-06-30|2023-06-27|
-|22|[monako97/2fa-for-macOS](https://github.com/monako97/2fa-for-macOS)|使用Swift UI开发的身份验证器(2FA)|9|2023-11-14|2023-01-07|
-|23|[intsig171/BTBubble](https://github.com/intsig171/BTBubble)|气泡，提示，Tips，Popup。一款基于Swift编写的气泡弹窗，可高度自定义。|8|2023-12-21|2023-12-18|
-|24|[WHlcj/TalkDrawing](https://github.com/WHlcj/TalkDrawing)|cccc-移动应用创新赛-妙语生花决赛作品|7|2023-10-01|2023-07-26|
-|25|[WITMOTION/WitBluetooth_BWT901BLE5_0](https://github.com/WITMOTION/WitBluetooth_BWT901BLE5_0)|蓝牙5.0传感器示例程序|7|2023-09-20|2023-04-04|
-|26|[jch12138/ncmdump-mac-gui](https://github.com/jch12138/ncmdump-mac-gui)|mac平台下将网易云ncm格式转换为mp3/flac的小工具|6|2023-11-05|2023-10-07|
-|27|[erduoniba/HDSwiftStructSizeDemo](https://github.com/erduoniba/HDSwiftStructSizeDemo)|Swift中struct二进制大小分析|6|2023-09-22|2023-01-15|
-|28|[jane-chao/RevenueCatSubscriptionsDemo](https://github.com/jane-chao/RevenueCatSubscriptionsDemo)|示範如何使用 RevenueCat 處理應用程式內購買和管理 Paywall。|5|2023-12-20|2023-12-11|
-|29|[fakepinge/LaunchdDaemonDemo](https://github.com/fakepinge/LaunchdDaemonDemo)|Mac提权实例|5|2023-06-30|2023-06-30|
-|30|[swiftdo/vapor-blog](https://github.com/swiftdo/vapor-blog)|Swift Vapor Blog（基于 Swift Vapor 的博客系统）|5|2023-09-06|2023-06-07|
+|21|[monako97/2fa-for-macOS](https://github.com/monako97/2fa-for-macOS)|使用Swift UI开发的身份验证器(2FA)|9|2023-11-14|2023-01-07|
+|22|[intsig171/BTBubble](https://github.com/intsig171/BTBubble)|气泡，提示，Tips，Popup。一款基于Swift编写的气泡弹窗，可高度自定义。|8|2023-12-21|2023-12-18|
+|23|[WHlcj/TalkDrawing](https://github.com/WHlcj/TalkDrawing)|cccc-移动应用创新赛-妙语生花决赛作品|7|2023-10-01|2023-07-26|
+|24|[WITMOTION/WitBluetooth_BWT901BLE5_0](https://github.com/WITMOTION/WitBluetooth_BWT901BLE5_0)|蓝牙5.0传感器示例程序|7|2023-09-20|2023-04-04|
+|25|[jch12138/ncmdump-mac-gui](https://github.com/jch12138/ncmdump-mac-gui)|mac平台下将网易云ncm格式转换为mp3/flac的小工具|6|2023-11-05|2023-10-07|
+|26|[erduoniba/HDSwiftStructSizeDemo](https://github.com/erduoniba/HDSwiftStructSizeDemo)|Swift中struct二进制大小分析|6|2023-09-22|2023-01-15|
+|27|[jane-chao/RevenueCatSubscriptionsDemo](https://github.com/jane-chao/RevenueCatSubscriptionsDemo)|示範如何使用 RevenueCat 處理應用程式內購買和管理 Paywall。|5|2023-12-20|2023-12-11|
+|28|[swiftdo/vapor-blog](https://github.com/swiftdo/vapor-blog)|Swift Vapor Blog（基于 Swift Vapor 的博客系统）|5|2023-09-06|2023-06-07|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

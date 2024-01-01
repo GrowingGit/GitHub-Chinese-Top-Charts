@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Swift
-<sub>数据更新: 2023-12-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|14822|4|2023-09-26|
-|2|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|2118|3|2023-07-20|
+|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|14832|4|2023-09-26|
+|2|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|2119|3|2023-12-31|
 |3|[ZhongshanHuang/PoReader](https://github.com/ZhongshanHuang/PoReader)|本地小说阅读器，支持深色模式，Wifi传书，代码简洁有注释(local text reader, support dark modal, upload text by wifi)|52|0|2023-12-04|
 |4|[RicardoWesleyli/SwiftUI](https://github.com/RicardoWesleyli/SwiftUI)|SwiftUI极简开发书籍配套代码|5|0|2023-08-30|
-|5|[crazypoo/PTools](https://github.com/crazypoo/PTools)|iOS开发工具小集合,不定期更新|28|0|2023-12-28|
+|5|[crazypoo/PTools](https://github.com/crazypoo/PTools)|iOS开发工具小集合,不定期更新|28|0|2023-12-31|
 |6|[ZYHshao/MachineLearnDemo](https://github.com/ZYHshao/MachineLearnDemo)|AI 相关学习Demo|12|0|2023-07-25|
 |7|[Lakr233/myyearwithgit](https://github.com/Lakr233/myyearwithgit)|代码仓库年终总结报告。|221|0|2023-12-24|
 |8|[jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example)|SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。|198|0|2023-11-29|
@@ -22,7 +22,7 @@
 |15|[RickeyBoy/Rickey-iOS-Notes](https://github.com/RickeyBoy/Rickey-iOS-Notes)|一些笔记和收获，README 就是目录|354|0|2023-12-06|
 |16|[SurveyCake/webhook](https://github.com/SurveyCake/webhook)|How to use SurveyCake webhook|16|0|2023-12-21|
 |17|[songgeb/I-Love-iOS](https://github.com/songgeb/I-Love-iOS)|iOS学习笔记，技术道路走到黑|18|0|2023-09-29|
-|18|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|1357|0|2023-12-26|
+|18|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|1360|0|2023-12-26|
 |19|[MetaBBLv/SwiftUIModifier](https://github.com/MetaBBLv/SwiftUIModifier)|关于SwiftUI中基础组件的修饰符的学习过程|13|0|2023-09-07|
 |20|[1220144667/SwiftUI](https://github.com/1220144667/SwiftUI)|SwiftUI学习项目|6|0|2023-11-16|
 |21|[Andy0570/RoadToSwift](https://github.com/Andy0570/RoadToSwift)|My Swift self-study tour 🤪 |13|0|2023-11-08|
