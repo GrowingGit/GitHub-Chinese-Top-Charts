@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Swift
-<sub>数据更新: 2024-01-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[mazzzystar/Queryable](https://github.com/mazzzystar/Queryable)|Run OpenAI's CLIP model on iOS to search photos.|2190|2023-11-13|2023-07-09|
+|1|[mazzzystar/Queryable](https://github.com/mazzzystar/Queryable)|Run OpenAI's CLIP model on iOS to search photos.|2188|2023-11-13|2023-07-09|
 |2|[thebarbican19/BatteryBoi](https://github.com/thebarbican19/BatteryBoi)|The battery app your Mac's been dreaming about behind your back.|775|2023-12-21|2023-08-08|
 |3|[TopWidgets/SwingAnimation](https://github.com/TopWidgets/SwingAnimation)|小组件平移动画   Widget on the Move, A Playful Animation|668|2023-11-21|2023-08-21|
-|4|[ZhangDo/NeteaseTVDemo](https://github.com/ZhangDo/NeteaseTVDemo)|NeteaseTVDemo (Vibefy) - 网易云音乐 tvOS 客户端  |97|2023-12-29|2023-08-25|
+|4|[ZhangDo/NeteaseTVDemo](https://github.com/ZhangDo/NeteaseTVDemo)|NeteaseTVDemo (Vibefy) - 网易云音乐 tvOS 客户端  |98|2023-12-29|2023-08-25|
 |5|[Lakr233/RainbowFart](https://github.com/Lakr233/RainbowFart)|全自动夸夸机，配备先进的注意力感知功能，人工智能且离线。|70|2023-07-10|2023-07-10|
-|6|[intsig171/SmartCodable](https://github.com/intsig171/SmartCodable)|使用Codable系统解析能力为底层实现，适配了Codable解析失败的情况的Swift数据解析库。并参考了HandyJSON的对外API的实现，可以更快速的替换HandyJSON。|47|2023-12-29|2023-09-28|
-|7|[Jdb156158/JbbAnimateWidget](https://github.com/Jdb156158/JbbAnimateWidget)|ios小组件动画效果调研|46|2023-09-26|2023-08-04|
+|6|[intsig171/SmartCodable](https://github.com/intsig171/SmartCodable)|使用Codable系统解析能力为底层实现，适配了Codable解析失败的情况的Swift数据解析库。并参考了HandyJSON的对外API的实现，可以更快速的替换HandyJSON。|47|2024-01-02|2023-09-28|
+|7|[Jdb156158/JbbAnimateWidget](https://github.com/Jdb156158/JbbAnimateWidget)|ios小组件动画效果调研|47|2023-09-26|2023-08-04|
 |8|[6tail/lunar-swift](https://github.com/6tail/lunar-swift)|日历、公历(阳历)、农历(阴历、老黄历)、佛历、道历，节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.|37|2023-11-10|2023-02-22|
 |9|[justaLoli/VPet-Mac](https://github.com/justaLoli/VPet-Mac)|虚拟桌宠模拟器的饭制Mac版（功能不全！）|25|2023-09-17|2023-09-01|
 |10|[Rogue24/AnimationPreviewer](https://github.com/Rogue24/AnimationPreviewer)|一个用于快速预览Lottie&SVGA的Mac小工具。|22|2023-11-22|2023-05-10|
