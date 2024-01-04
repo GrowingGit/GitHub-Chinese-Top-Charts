@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Vim script
-<sub>数据更新: 2024-01-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20086|2023-09-23|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8404|2023-10-31|
+|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20084|2023-09-23|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8406|2023-10-31|
 |3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4892|2023-11-16|
-|4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1789|2023-09-30|
+|4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1788|2023-09-30|
 |5|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1718|2023-10-06|
 |6|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1386|2023-11-14|
-|7|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|882|2023-12-18|
+|7|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|884|2024-01-03|
 |8|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|874|2023-09-26|
 |9|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|851|2023-12-11|
 |10|[mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)|A vim 7.4+ plugin to generate table of contents for Markdown files.|586|2023-12-13|
@@ -19,7 +19,7 @@
 |12|[sillybun/vim-repl](https://github.com/sillybun/vim-repl)|Best REPL environment for Vim|434|2023-07-15|
 |13|[ruchee/vimrc](https://github.com/ruchee/vimrc)|Ruchee's Vim Config Files|415|2023-10-17|
 |14|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|386|2024-01-02|
-|15|[lilydjwg/dotvim](https://github.com/lilydjwg/dotvim)|My vim config|277|2023-10-27|
+|15|[lilydjwg/dotvim](https://github.com/lilydjwg/dotvim)|My vim config|277|2024-01-03|
 |16|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog based on vimscript|175|2023-10-24|
 |17|[dofy/7th-vim](https://github.com/dofy/7th-vim)|安装简单，轻量、易用、高可配置性。 Lightweight & Customizable Vim configuration options.|98|2023-11-25|
 |18|[pi314/ime.vim](https://github.com/pi314/ime.vim)|A Vim input method engine|83|2023-09-30|
@@ -59,8 +59,8 @@
 |52|[wkcn/MyVimConfig](https://github.com/wkcn/MyVimConfig)|我的Vim配置文件|4|2023-08-13|
 |53|[yyzwz/s003](https://github.com/yyzwz/s003)|Vue+SpringBoot+MySQL，生活废品回收系统包含资源类型模块、资源品类模块、回收机构模块、回收机构模块、资源销售单模块、资源交易单模块、资源交易单模块，还包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，生活废品回收系统基于角色的访问控制，可将权限精确到按钮级别，适合设计精确的权限约束需求。|3|2023-08-31|
 |54|[wa-lang/vim-wa](https://github.com/wa-lang/vim-wa)|VIM 语法高亮|3|2023-07-28|
-|55|[xiaodun/sf-mock](https://github.com/xiaodun/sf-mock)|前端mock接口解决方案|3|2023-10-27|
-|56|[ZSaberLv0/ZFVimIM_pinyin](https://github.com/ZSaberLv0/ZFVimIM_pinyin)|vim拼音输入法 / pinyin for ZFVimIM|3|2023-12-22|
+|55|[xiaodun/sf-mock](https://github.com/xiaodun/sf-mock)|前端mock接口解决方案|3|2024-01-03|
+|56|[ZSaberLv0/ZFVimIM_pinyin](https://github.com/ZSaberLv0/ZFVimIM_pinyin)|vim拼音输入法 / pinyin for ZFVimIM|3|2024-01-03|
 |57|[listenerri/ri-vim](https://github.com/listenerri/ri-vim)|一份中文注释齐全的vim配置|3|2023-11-03|
 |58|[keminar/linux-tools](https://github.com/keminar/linux-tools)|系统安装,日常Shell工具|3|2023-12-16|
 |59|[webeautiful/xiongfs](https://github.com/webeautiful/xiongfs)|-|3|2023-11-10|
