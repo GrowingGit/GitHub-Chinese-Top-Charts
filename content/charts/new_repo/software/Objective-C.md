@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2024-01-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[QiuChenlyOpenSource/SearchHexCodeInFile](https://github.com/QiuChenlyOpenSource/SearchHexCodeInFile)|编写，测试特征码在文件中的相对位置，以便注入绝对地址。|46|2024-01-01|2023-10-13|
+|1|[QiuChenlyOpenSource/SearchHexCodeInFile](https://github.com/QiuChenlyOpenSource/SearchHexCodeInFile)|编写，测试特征码在文件中的相对位置，以便注入绝对地址。|45|2024-01-01|2023-10-13|
 |2|[Xezun/XZMocoa](https://github.com/Xezun/XZMocoa)|iOS MVVM 基础框架|33|2023-08-30|2023-08-06|
 |3|[eventtracing/EventTracing-iOS](https://github.com/eventtracing/EventTracing-iOS)|曙光 iOS SDK，隶属于 https://github.com/eventtracing/dawn 项目|22|2023-08-09|2023-02-13|
-|4|[QuintGao/GKVideoScrollView](https://github.com/QuintGao/GKVideoScrollView)|iOS仿抖音等上下滑动切换视图，使用方式类似UITableView，支持不同cell切换|21|2023-09-21|2023-03-16|
-|5|[TangSengDaoDao/TangSengDaoDaoiOS](https://github.com/TangSengDaoDao/TangSengDaoDaoiOS)|唐僧叨叨即时通讯(im) iOS 端|18|2023-12-21|2023-07-06|
+|4|[QuintGao/GKVideoScrollView](https://github.com/QuintGao/GKVideoScrollView)|iOS仿抖音等上下滑动切换视图，使用方式类似UITableView，支持不同cell切换|21|2024-01-05|2023-03-16|
+|5|[TangSengDaoDao/TangSengDaoDaoiOS](https://github.com/TangSengDaoDao/TangSengDaoDaoiOS)|唐僧叨叨即时通讯(im) iOS 端|19|2023-12-21|2023-07-06|
 |6|[muyang520/IOS_code](https://github.com/muyang520/IOS_code)|iOS逆向代码|13|2023-10-13|2023-05-04|
 |7|[Dubbing-Voice-Engine/DubbingShengwangDemo](https://github.com/Dubbing-Voice-Engine/DubbingShengwangDemo)|声网云市场插件-大饼变声SDK|10|2023-07-10|2023-04-24|
 |8|[CodeBlueFriend/MMChooseAddressView](https://github.com/CodeBlueFriend/MMChooseAddressView)|仿淘宝2023省市县街道地址选择器|6|2023-08-14|2023-08-11|
@@ -17,14 +17,14 @@
 |10|[evendevil66/alibc4](https://github.com/evendevil66/alibc4)|flutter阿里百川4.x插件|4|2023-12-09|2023-12-08|
 |11|[zhengmiaokai/MKWebResources](https://github.com/zhengmiaokai/MKWebResources)|通过 "WKURLSchemeHandler + AjaxHook"，实现WKWebview的资源拦截，解决了Ajax/Fetch请求的Cookie与HTTPBody信息同步问题，为H5秒开项目提供基础支持。|4|2023-07-11|2023-07-06|
 |12|[SungKai/MVP_ZhihuDaily](https://github.com/SungKai/MVP_ZhihuDaily)|MVP 模式实现知乎日报部分功能|4|2023-07-28|2023-03-30|
-|13|[yechong/flutter_wechat_login](https://github.com/yechong/flutter_wechat_login)|Flutter集成微信登录|3|2023-08-20|2023-08-19|
-|14|[niyongsheng/PassKitExample](https://github.com/niyongsheng/PassKitExample)|iOS NFC读卡/写卡、虚拟卡片钱包；|3|2023-08-09|2023-08-09|
-|15|[pianxian/Crashguard](https://github.com/pianxian/Crashguard)|iOS OC 崩溃防护库|3|2023-07-21|2023-07-21|
-|16|[bashen1/react-native-mjverification](https://github.com/bashen1/react-native-mjverification)|极光认证，基于jverification-react-native|3|2023-12-15|2023-03-13|
-|17|[lifejwang11/register_schemes](https://github.com/lifejwang11/register_schemes)|uniapp的打开文件到第三方app|3|2023-07-25|2023-02-28|
-|18|[gstory0404/quakerbirdad](https://github.com/gstory0404/quakerbirdad)|Flutter信天翁广告插件|3|2023-11-06|2023-02-06|
-|19|[GE-GAO-ZHAO/HuntingZombiesTool](https://github.com/GE-GAO-ZHAO/HuntingZombiesTool)|iOS OC野指针扑获工具|2|2023-12-20|2023-12-20|
-|20|[cocoaroger/SoundWavesView](https://github.com/cocoaroger/SoundWavesView)|模仿微信语音发送动效|2|2023-11-27|2023-11-27|
+|13|[cocoaroger/SoundWavesView](https://github.com/cocoaroger/SoundWavesView)|模仿微信语音发送动效|3|2023-11-27|2023-11-27|
+|14|[yechong/flutter_wechat_login](https://github.com/yechong/flutter_wechat_login)|Flutter集成微信登录|3|2023-08-20|2023-08-19|
+|15|[niyongsheng/PassKitExample](https://github.com/niyongsheng/PassKitExample)|iOS NFC读卡/写卡、虚拟卡片钱包；|3|2023-08-09|2023-08-09|
+|16|[pianxian/Crashguard](https://github.com/pianxian/Crashguard)|iOS OC 崩溃防护库|3|2023-07-21|2023-07-21|
+|17|[bashen1/react-native-mjverification](https://github.com/bashen1/react-native-mjverification)|极光认证，基于jverification-react-native|3|2023-12-15|2023-03-13|
+|18|[lifejwang11/register_schemes](https://github.com/lifejwang11/register_schemes)|uniapp的打开文件到第三方app|3|2023-07-25|2023-02-28|
+|19|[gstory0404/quakerbirdad](https://github.com/gstory0404/quakerbirdad)|Flutter信天翁广告插件|3|2023-11-06|2023-02-06|
+|20|[GE-GAO-ZHAO/HuntingZombiesTool](https://github.com/GE-GAO-ZHAO/HuntingZombiesTool)|iOS OC野指针扑获工具|2|2023-12-20|2023-12-20|
 |21|[zhYes/xiaomiShop](https://github.com/zhYes/xiaomiShop)|最新flutter3.x利用Getx框架结构空余时间仿写的小米商城|2|2023-12-01|2023-11-16|
 |22|[MyNameZhangXinMiao/TagView](https://github.com/MyNameZhangXinMiao/TagView)|仿京东、淘宝展开/收起标签,支持自定义且自动适应宽高. 高度自定义.标签试图|2|2023-11-08|2023-11-08|
 |23|[xiaopengLOVEcode/WeShare](https://github.com/xiaopengLOVEcode/WeShare)|一个传输工具|2|2023-12-26|2023-11-07|
