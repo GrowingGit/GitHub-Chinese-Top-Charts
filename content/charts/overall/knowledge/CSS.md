@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > CSS
-<sub>数据更新: 2024-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20940|2024-01-01|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|17840|2024-01-06|
-|3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8887|2023-12-09|
+|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20941|2024-01-01|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|17862|2024-01-06|
+|3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8888|2023-12-09|
 |4|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5209|2023-12-13|
-|5|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4992|2023-07-21|
+|5|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4993|2023-07-21|
 |6|[thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)|Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!|4926|2023-09-17|
 |7|[QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks)|Some CSS tricks - 一些 CSS 常用样式|3893|2023-12-05|
 |8|[wizardforcel/sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh)|:book:【译】UCB CS61a SICP Python|2086|2023-07-14|
 |9|[leopardpan/leopardpan.github.io](https://github.com/leopardpan/leopardpan.github.io)|个人博客，看效果进入|1332|2023-09-06|
-|10|[wizardforcel/lcthw-zh](https://github.com/wizardforcel/lcthw-zh)|:book: 【译】笨办法学C|785|2023-10-31|
+|10|[wizardforcel/lcthw-zh](https://github.com/wizardforcel/lcthw-zh)|:book: 【译】笨办法学C|786|2023-10-31|
 |11|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|676|2024-01-02|
 |12|[lbc-team/deep_ethereum](https://github.com/lbc-team/deep_ethereum)|电子书：以太坊技术与实现|381|2023-07-28|
 |13|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|363|2023-07-12|
@@ -32,7 +32,7 @@
 |25|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|160|2023-12-14|
 |26|[s5s5/CSS-Animations](https://github.com/s5s5/CSS-Animations)|一些在项目中学习、使用CSS的动画心得。与大家一起探讨CSS动画的What How Why。|137|2023-09-26|
 |27|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite 💡|118|2023-12-09|
-|28|[phpple/caddy2-cn-doc](https://github.com/phpple/caddy2-cn-doc)|Caddy 2的中文文档|110|2023-10-27|
+|28|[phpple/caddy2-cn-doc](https://github.com/phpple/caddy2-cn-doc)|Caddy 2的中文文档|111|2023-10-27|
 |29|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主打解析编码器内部逻辑和参数说明，从基础到全网没人讲的算法，没人画的图解，没人做的排版整理全都在此集齐；因此叫Ultimate Tutorial|104|2023-12-17|
 |30|[intro-nlp/intro-nlp.github.io](https://github.com/intro-nlp/intro-nlp.github.io)|《自然语言处理概论》  张奇、桂韬、黄萱菁著|101|2023-09-10|
 |31|[hangbale/photography-blog](https://github.com/hangbale/photography-blog)|photography blog generator - 摄影类静态博客生成器|92|2023-12-24|
@@ -65,20 +65,20 @@
 |58|[5ime/hexo-theme-i](https://github.com/5ime/hexo-theme-i)|博客自用主题(二开|11|2023-12-31|
 |59|[zjp-CN/translation](https://github.com/zjp-CN/translation)|翻译的博文|11|2023-07-26|
 |60|[Fridolph/my-program](https://github.com/Fridolph/my-program)|作品和demo集，若你喜欢麻烦star+fork ...0(∩_∩)0... 仅供参考学习分享交流，谢谢|11|2023-12-29|
-|61|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V2.3 Power by Bin4xin   Jekyll   Github Action.|10|2024-01-06|
+|61|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V2.3 Power by Bin4xin   Jekyll   Github Action.|10|2024-01-07|
 |62|[rootsongjc/rpi-handbook](https://github.com/rootsongjc/rpi-handbook)|Raspberry Pi Handbook/树莓派实践手册 - https://jimmysong.io/rpi-handbook|10|2023-10-10|
 |63|[hefengbao/one](https://github.com/hefengbao/one)|一个简洁的博客、微博客。|9|2024-01-02|
-|64|[zeyudada/StatusServerLayui](https://github.com/zeyudada/StatusServerLayui)|ServerStatus中文版的Layui主题|8|2023-07-08|
-|65|[11003/nuxtjs-blogvue](https://github.com/11003/nuxtjs-blogvue)|🍧 使用Nuxtjs搭建的自适应博客前台网站。而且，你也不用担心SEO的问题。|8|2023-07-14|
-|66|[liu75675231/article-crawler](https://github.com/liu75675231/article-crawler)|文章爬虫，会每天都爬取一些有价值的官方文档的博客文章，以便于能得到第一手的更新，教程等信息|8|2024-01-06|
-|67|[YSGStudyHards/EasySQLite](https://github.com/YSGStudyHards/EasySQLite)|七天.NET 8操作SQLite入门到实战详细教程|7|2023-11-27|
-|68|[StarfireLab/phishing](https://github.com/StarfireLab/phishing)|这是一个钓鱼网页，仅供学习参考。|7|2023-09-21|
-|69|[aeon20071/PolarDayImage_Blog](https://github.com/aeon20071/PolarDayImage_Blog)|这是一个基于HTML5的静态网页博客，该项目是网页前端设计课程大学作业。This is a static webpage blog based on HTML 5, which is a university assignment for the Web Front-end Design course.|7|2023-08-27|
-|70|[BioMooc/txtBlog.py](https://github.com/BioMooc/txtBlog.py)|[知识管理]A simple yet powerful blog system for reading and organizing txt/markdown/html files, based on Python3 flask framework.|7|2023-09-09|
-|71|[yanghuanrong/yanghuanrong.github.io](https://github.com/yanghuanrong/yanghuanrong.github.io)|:octocat: 个人博客，个人网站，blog，酷站|7|2023-07-19|
-|72|[GiaoGiaoCat/GiaoGiaoCat.github.io](https://github.com/GiaoGiaoCat/GiaoGiaoCat.github.io)|一点笔记|7|2023-11-22|
-|73|[SEC-CAFE/handbook](https://github.com/SEC-CAFE/handbook)|安全手册，企业安全实践、攻防与安全研究知识库|6|2023-12-25|
-|74|[chai2010/mdbook-go](https://github.com/chai2010/mdbook-go)|mdBook: Go语言迷你版本|6|2023-10-13|
+|64|[11003/nuxtjs-blogvue](https://github.com/11003/nuxtjs-blogvue)|🍧 使用Nuxtjs搭建的自适应博客前台网站。而且，你也不用担心SEO的问题。|8|2023-07-14|
+|65|[liu75675231/article-crawler](https://github.com/liu75675231/article-crawler)|文章爬虫，会每天都爬取一些有价值的官方文档的博客文章，以便于能得到第一手的更新，教程等信息|8|2024-01-06|
+|66|[YSGStudyHards/EasySQLite](https://github.com/YSGStudyHards/EasySQLite)|七天.NET 8操作SQLite入门到实战详细教程|7|2023-11-27|
+|67|[StarfireLab/phishing](https://github.com/StarfireLab/phishing)|这是一个钓鱼网页，仅供学习参考。|7|2023-09-21|
+|68|[aeon20071/PolarDayImage_Blog](https://github.com/aeon20071/PolarDayImage_Blog)|这是一个基于HTML5的静态网页博客，该项目是网页前端设计课程大学作业。This is a static webpage blog based on HTML 5, which is a university assignment for the Web Front-end Design course.|7|2023-08-27|
+|69|[BioMooc/txtBlog.py](https://github.com/BioMooc/txtBlog.py)|[知识管理]A simple yet powerful blog system for reading and organizing txt/markdown/html files, based on Python3 flask framework.|7|2023-09-09|
+|70|[yanghuanrong/yanghuanrong.github.io](https://github.com/yanghuanrong/yanghuanrong.github.io)|:octocat: 个人博客，个人网站，blog，酷站|7|2023-07-19|
+|71|[GiaoGiaoCat/GiaoGiaoCat.github.io](https://github.com/GiaoGiaoCat/GiaoGiaoCat.github.io)|一点笔记|7|2023-11-22|
+|72|[SEC-CAFE/handbook](https://github.com/SEC-CAFE/handbook)|安全手册，企业安全实践、攻防与安全研究知识库|6|2023-12-25|
+|73|[chai2010/mdbook-go](https://github.com/chai2010/mdbook-go)|mdBook: Go语言迷你版本|6|2023-10-13|
+|74|[aihes/QuickContext](https://github.com/aihes/QuickContext)|使用智能右键优化您的网页浏览体验。从右键菜单中即时翻译单词、获取情境解释，并执行自定义操作。|6|2023-09-03|
 |75|[zino-rs/zino-docs-zh](https://github.com/zino-rs/zino-docs-zh)|Zino开发框架中文教程|6|2023-12-29|
 |76|[web3d/meaf-book](https://github.com/web3d/meaf-book)|《现代企业架构框架白皮书》数字化转型底层方法论 V4 的文本拆解版，个人学习目的|6|2023-07-31|
 |77|[henson/blog](https://github.com/henson/blog)|个人博客，专注于Golang、Python、树莓派Raspberry Pi的开发和应用。|6|2023-10-26|

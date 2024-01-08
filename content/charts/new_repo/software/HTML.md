@@ -1,43 +1,43 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > HTML
-<sub>数据更新: 2024-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。|8421|2023-11-20|2023-05-03|
+|1|[adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。|8429|2023-11-20|2023-05-03|
 |2|[LianjiaTech/BELLE](https://github.com/LianjiaTech/BELLE)|BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）|7131|2023-12-29|2023-03-17|
-|3|[x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI)|🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出|2610|2023-11-20|2023-03-02|
-|4|[MetaGLM/FinGLM](https://github.com/MetaGLM/FinGLM)|FinGLM: 致力于构建一个开放的、公益的、持久的金融大模型项目，利用开源开放来促进「AI+金融」。|1160|2023-11-29|2023-09-25|
+|3|[x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI)|🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出|2612|2023-11-20|2023-03-02|
+|4|[MetaGLM/FinGLM](https://github.com/MetaGLM/FinGLM)|FinGLM: 致力于构建一个开放的、公益的、持久的金融大模型项目，利用开源开放来促进「AI+金融」。|1172|2023-11-29|2023-09-25|
 |5|[thunlp/WebCPM](https://github.com/thunlp/WebCPM)|Official codes for ACL 2023 paper "WebCPM: Interactive Web Search for Chinese Long-form Question Answering"|924|2023-11-25|2023-05-04|
-|6|[xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)|Pure Javascript ChatGPT demo based on OpenAI API|828|2023-11-17|2023-03-04|
-|7|[xbzstudio/Timeless-Sydney](https://github.com/xbzstudio/Timeless-Sydney)|好用的New Bing web客户端，功能众多~|671|2023-08-22|2023-04-30|
-|8|[bulianglin/psub](https://github.com/bulianglin/psub)|利用CF Worker搭建的反代订阅转换工具|451|2023-12-23|2023-10-17|
+|6|[xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)|Pure Javascript ChatGPT demo based on OpenAI API|832|2023-11-17|2023-03-04|
+|7|[xbzstudio/Timeless-Sydney](https://github.com/xbzstudio/Timeless-Sydney)|好用的New Bing web客户端，功能众多~|672|2023-08-22|2023-04-30|
+|8|[bulianglin/psub](https://github.com/bulianglin/psub)|利用CF Worker搭建的反代订阅转换工具|452|2023-12-23|2023-10-17|
 |9|[waityousea/xuniren](https://github.com/waityousea/xuniren)|-|417|2023-11-27|2023-04-21|
-|10|[x-dr/tts](https://github.com/x-dr/tts)|微软azure文本转语音 音频下载|367|2023-11-28|2023-08-19|
-|11|[Meekdai/Gmeek](https://github.com/Meekdai/Gmeek)|Gmeek is a Blog All in Github|367|2024-01-05|2023-07-28|
+|10|[Meekdai/Gmeek](https://github.com/Meekdai/Gmeek)|Gmeek is a Blog All in Github|379|2024-01-05|2023-07-28|
+|11|[x-dr/tts](https://github.com/x-dr/tts)|微软azure文本转语音 音频下载|367|2023-11-28|2023-08-19|
 |12|[cdfmlr/muvtuber](https://github.com/cdfmlr/muvtuber)|Makes your AI vtuber|359|2023-08-14|2023-03-01|
 |13|[DualSubs/YouTube](https://github.com/DualSubs/YouTube)|YouTube字幕增强及双语模块|358|2024-01-03|2023-02-13|
 |14|[MetaLowCodeTeam/MetaLowCode](https://github.com/MetaLowCodeTeam/MetaLowCode)|MetaLowCode——美乐低代码，企业级全栈低代码开发平台。私有部署，源码交付。|291|2024-01-03|2023-11-22|
-|15|[favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp)|🥂 custom Marp templates with a selection of over a dozen themes|259|2023-12-29|2023-09-23|
+|15|[favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp)|🥂 custom Marp templates with a selection of over a dozen themes|260|2023-12-29|2023-09-23|
 |16|[kono-dada/Sakuranotoki-Chinese](https://github.com/kono-dada/Sakuranotoki-Chinese)|樱之刻简中汉化|254|2023-10-06|2023-05-30|
 |17|[souying/vercel-api-proxy](https://github.com/souying/vercel-api-proxy)|vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google、Telegram、全面代理ai项目一键安装|248|2023-07-17|2023-06-20|
-|18|[smallfox233/JsonExp](https://github.com/smallfox233/JsonExp)|fastjson漏洞批量检测工具|190|2023-08-18|2023-01-29|
-|19|[guifaChild/text_to_vedio](https://github.com/guifaChild/text_to_vedio)|这是一个由文本直接生成视频的项目|180|2023-12-18|2023-06-12|
-|20|[Sha1rholder/use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW)|在中国境内使用OpenAI服务的方法|167|2023-10-31|2023-04-17|
+|18|[smallfox233/JsonExp](https://github.com/smallfox233/JsonExp)|fastjson漏洞批量检测工具|191|2023-08-18|2023-01-29|
+|19|[guifaChild/text_to_vedio](https://github.com/guifaChild/text_to_vedio)|这是一个由文本直接生成视频的项目|181|2023-12-18|2023-06-12|
+|20|[Sha1rholder/use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW)|在中国境内使用OpenAI服务的方法|168|2023-10-31|2023-04-17|
 |21|[fewismuch/react-playground](https://github.com/fewismuch/react-playground)|react在线代码编辑器，可实时运行react代码，支持动态引入自定义文件和第三方依赖包|157|2023-11-18|2023-10-09|
 |22|[ddzipp/AutoAudit](https://github.com/ddzipp/AutoAudit)|AutoAudit—— the LLM for Cyber Security 网络安全大语言模型|148|2023-09-29|2023-06-27|
-|23|[cphxj123/Dol-BJX-Ex](https://github.com/cphxj123/Dol-BJX-Ex)|dol北极星扩展|125|2023-12-09|2023-11-16|
+|23|[cphxj123/Dol-BJX-Ex](https://github.com/cphxj123/Dol-BJX-Ex)|dol北极星扩展|127|2023-12-09|2023-11-16|
 |24|[jiansenc/tiktok_barrage_nodejs](https://github.com/jiansenc/tiktok_barrage_nodejs)|抖音弹幕抓取，需要打开浏览器|106|2023-12-21|2023-03-08|
 |25|[lecepin/code-lab](https://github.com/lecepin/code-lab)|B站视频号的所有资源和链接聚集地|97|2023-12-23|2023-02-18|
 |26|[HT944/QRabbitPro](https://github.com/HT944/QRabbitPro)|新版登录方式|82|2023-12-16|2023-10-15|
 |27|[zhangwenboi/daimaiqr](https://github.com/zhangwenboi/daimaiqr)|抢票助手,将大麦要抢得场次复制转换为二维码,大麦app扫码进入|77|2023-08-29|2023-07-14|
-|28|[maotoumao/MusicFreeThemePacks](https://github.com/maotoumao/MusicFreeThemePacks)|MusicFreeDesktop版的主题包|68|2023-11-08|2023-07-22|
+|28|[maotoumao/MusicFreeThemePacks](https://github.com/maotoumao/MusicFreeThemePacks)|MusicFreeDesktop版的主题包|70|2023-11-08|2023-07-22|
 |29|[TerraMours/TerraMours_Gpt_Web](https://github.com/TerraMours/TerraMours_Gpt_Web)|TerraMours实战项目，基于vue3.0+ts+naive UI+vite的ChatGPT项目前端。实现用户登陆和基于SK的多语言模型聊天、基于chatgpt和SD的多模型图片生成等功能。|67|2023-12-27|2023-06-12|
 |30|[v03413/bepusdt](https://github.com/v03413/bepusdt)|一款更好用的个人USDT收款网关，兼容所有 Epusdt 插件，可无缝切换，支持交易所动态汇率、支持Docker一键部署；支持独角发卡 易支付 异次元发卡|63|2023-11-27|2023-10-09|
 |31|[Guyungy/damaihelper](https://github.com/Guyungy/damaihelper)|大麦助手 - 抢票脚本|60|2023-07-22|2023-05-12|
-|32|[mundane799699/Downloads](https://github.com/mundane799699/Downloads)|一款可以下载抖音无水印视频/图片的安卓app|59|2023-09-14|2023-05-19|
-|33|[netcccyun/toolbox](https://github.com/netcccyun/toolbox)|彩虹工具箱，一个在线工具箱|58|2023-11-24|2023-09-28|
+|32|[netcccyun/toolbox](https://github.com/netcccyun/toolbox)|彩虹工具箱，一个在线工具箱|58|2023-11-24|2023-09-28|
+|33|[mundane799699/Downloads](https://github.com/mundane799699/Downloads)|一款可以下载抖音无水印视频/图片的安卓app|58|2023-09-14|2023-05-19|
 |34|[lin2025/gpt3.5](https://github.com/lin2025/gpt3.5)|LinGPT, a ChatGPT (GPT-3.5 / GPT-4) webpage with just a single HTML file. 只有一个html文件的ChatGPT聊天网页，零门槛，10秒搞定。GPT4 多Key轮询 Auto Key Rotation 支持第三方Key 兼容代理平台 Supports proxy / third-party keys|54|2023-08-28|2023-03-23|
 |35|[Jason-wam/Cat-Maven-2023](https://github.com/Jason-wam/Cat-Maven-2023)|资源猫用到的相关数据集|52|2023-12-21|2023-05-02|
 |36|[unAlpha/Invoice-Terminator](https://github.com/unAlpha/Invoice-Terminator)|发票终结者发布版|51|2023-08-15|2023-05-15|

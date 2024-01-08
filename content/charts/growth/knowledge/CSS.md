@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > CSS
-<sub>数据更新: 2024-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)|Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!|4926|16|2023-09-17|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|17840|7|2024-01-06|
-|3|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20940|6|2024-01-01|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|17862|7|2024-01-06|
+|3|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20941|6|2024-01-01|
 |4|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5209|2|2023-12-13|
-|5|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8887|2|2023-12-09|
+|5|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8888|2|2023-12-09|
 |6|[QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks)|Some CSS tricks - 一些 CSS 常用样式|3893|2|2023-12-05|
-|7|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4992|2|2023-07-21|
+|7|[apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh)|:book: [译] scikit-learn（sklearn） 中文文档|4993|2|2023-07-21|
 |8|[wizardforcel/sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh)|:book:【译】UCB CS61a SICP Python|2086|1|2023-07-14|
 |9|[Zh40Le1ZOOB/YaoNiangDeTianKong-Fix](https://github.com/Zh40Le1ZOOB/YaoNiangDeTianKong-Fix)|《药娘的天空》精修版|32|1|2023-12-19|
 |10|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|363|1|2023-07-12|
@@ -21,25 +21,25 @@
 |14|[yanchunlan/SourceCodeSummary](https://github.com/yanchunlan/SourceCodeSummary)|个人笔记（编译/性能优化/framework/音视频/flutter）|22|0|2023-11-03|
 |15|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|160|0|2023-12-14|
 |16|[11003/nuxtjs-blogvue](https://github.com/11003/nuxtjs-blogvue)|🍧 使用Nuxtjs搭建的自适应博客前台网站。而且，你也不用担心SEO的问题。|8|0|2023-07-14|
-|17|[zeyudada/StatusServerLayui](https://github.com/zeyudada/StatusServerLayui)|ServerStatus中文版的Layui主题|8|0|2023-07-08|
-|18|[StarDustSheep/pink-room](https://github.com/StarDustSheep/pink-room)|一款思源笔记白天使用的粉色系主题|17|0|2023-10-09|
-|19|[malun666/aicoder_vip_doc](https://github.com/malun666/aicoder_vip_doc)|AICODER全栈VIP教程|63|0|2023-10-02|
-|20|[lewton/bilibili-public](https://github.com/lewton/bilibili-public)|b站代码示例代码合集|28|0|2023-12-30|
-|21|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|676|0|2024-01-02|
-|22|[BioMooc/txtBlog.py](https://github.com/BioMooc/txtBlog.py)|[知识管理]A simple yet powerful blog system for reading and organizing txt/markdown/html files, based on Python3 flask framework.|7|0|2023-09-09|
-|23|[YSGStudyHards/EasySQLite](https://github.com/YSGStudyHards/EasySQLite)|七天.NET 8操作SQLite入门到实战详细教程|7|0|2023-11-27|
-|24|[fscdc/NKU-CS-FSC](https://github.com/fscdc/NKU-CS-FSC)|NKU CS的基本所有课程code和report(更新中)|16|0|2023-10-31|
+|17|[StarDustSheep/pink-room](https://github.com/StarDustSheep/pink-room)|一款思源笔记白天使用的粉色系主题|17|0|2023-10-09|
+|18|[malun666/aicoder_vip_doc](https://github.com/malun666/aicoder_vip_doc)|AICODER全栈VIP教程|63|0|2023-10-02|
+|19|[lewton/bilibili-public](https://github.com/lewton/bilibili-public)|b站代码示例代码合集|28|0|2023-12-30|
+|20|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|676|0|2024-01-02|
+|21|[BioMooc/txtBlog.py](https://github.com/BioMooc/txtBlog.py)|[知识管理]A simple yet powerful blog system for reading and organizing txt/markdown/html files, based on Python3 flask framework.|7|0|2023-09-09|
+|22|[YSGStudyHards/EasySQLite](https://github.com/YSGStudyHards/EasySQLite)|七天.NET 8操作SQLite入门到实战详细教程|7|0|2023-11-27|
+|23|[fscdc/NKU-CS-FSC](https://github.com/fscdc/NKU-CS-FSC)|NKU CS的基本所有课程code和report(更新中)|16|0|2023-10-31|
+|24|[aihes/QuickContext](https://github.com/aihes/QuickContext)|使用智能右键优化您的网页浏览体验。从右键菜单中即时翻译单词、获取情境解释，并执行自定义操作。|6|0|2023-09-03|
 |25|[apachecn/quant-learning](https://github.com/apachecn/quant-learning)|:books: Quant 教程整理|280|0|2023-12-06|
 |26|[yanghuanrong/yanghuanrong.github.io](https://github.com/yanghuanrong/yanghuanrong.github.io)|:octocat: 个人博客，个人网站，blog，酷站|7|0|2023-07-19|
 |27|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite 💡|118|0|2023-12-09|
 |28|[zhuamaodeyu/knowledge](https://github.com/zhuamaodeyu/knowledge)|程序员的知识管理与自我修养，个人博客，源码解析，问题总结 https://zhuamaodeyu.github.io/knowledge/|15|0|2023-09-17|
 |29|[intro-nlp/intro-nlp.github.io](https://github.com/intro-nlp/intro-nlp.github.io)|《自然语言处理概论》  张奇、桂韬、黄萱菁著|101|0|2023-09-10|
 |30|[ruanyf/survivor](https://github.com/ruanyf/survivor)|博客文集《未来世界的幸存者》|329|0|2023-09-05|
-|31|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V2.3 Power by Bin4xin   Jekyll   Github Action.|10|0|2024-01-06|
+|31|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V2.3 Power by Bin4xin   Jekyll   Github Action.|10|0|2024-01-07|
 |32|[zino-rs/zino-docs-zh](https://github.com/zino-rs/zino-docs-zh)|Zino开发框架中文教程|6|0|2023-12-29|
 |33|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|319|0|2023-12-23|
 |34|[InterImm/InterImmBook](https://github.com/InterImm/InterImmBook)|:seedling: The Book of Interplanetary Civilization;星际移民之书. |198|0|2023-10-15|
-|35|[phpple/caddy2-cn-doc](https://github.com/phpple/caddy2-cn-doc)|Caddy 2的中文文档|110|0|2023-10-27|
+|35|[phpple/caddy2-cn-doc](https://github.com/phpple/caddy2-cn-doc)|Caddy 2的中文文档|111|0|2023-10-27|
 |36|[StarfireLab/phishing](https://github.com/StarfireLab/phishing)|这是一个钓鱼网页，仅供学习参考。|7|0|2023-09-21|
 |37|[GiaoGiaoCat/GiaoGiaoCat.github.io](https://github.com/GiaoGiaoCat/GiaoGiaoCat.github.io)|一点笔记|7|0|2023-11-22|
 |38|[Shelton786/NOIRNOAH-TranslatedintoChinese](https://github.com/Shelton786/NOIRNOAH-TranslatedintoChinese)|游戏：《NOIR：NOAH》简体中文汉化，由罗布恩农场汉化组汉化，转载请经过许可并标明出处！|15|0|2023-11-24|
@@ -52,7 +52,7 @@
 |45|[kujian/zanshang](https://github.com/kujian/zanshang)|仿知乎的赞赏|27|0|2023-10-25|
 |46|[nexmoe/bilidx](https://github.com/nexmoe/bilidx)|📕 哔哩哔哩大学，收集哔哩哔哩的学习资源|12|0|2023-10-15|
 |47|[zjp-CN/translation](https://github.com/zjp-CN/translation)|翻译的博文|11|0|2023-07-26|
-|48|[wizardforcel/lcthw-zh](https://github.com/wizardforcel/lcthw-zh)|:book: 【译】笨办法学C|785|0|2023-10-31|
+|48|[wizardforcel/lcthw-zh](https://github.com/wizardforcel/lcthw-zh)|:book: 【译】笨办法学C|786|0|2023-10-31|
 |49|[themagicalmammal/howtolinux](https://github.com/themagicalmammal/howtolinux)|A Webpage with tips, tricks and guides for Linux. (with Algolia Search)|345|0|2023-10-19|
 |50|[apachecn/SocialMediaMining-zh](https://github.com/apachecn/SocialMediaMining-zh)|社交媒体挖掘_翻译版|15|0|2023-12-05|
 |51|[hangbale/photography-blog](https://github.com/hangbale/photography-blog)|photography blog generator - 摄影类静态博客生成器|92|0|2023-12-24|

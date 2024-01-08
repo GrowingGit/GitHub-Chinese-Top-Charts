@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Go
-<sub>数据更新: 2024-01-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai)|🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀|5161|2023-11-26|2023-02-07|
-|2|[deweizhu/bookget](https://github.com/deweizhu/bookget)|bookget 数字古籍图书下载工具|980|2024-01-02|2023-04-09|
+|1|[ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai)|🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀|5162|2023-11-26|2023-02-07|
+|2|[deweizhu/bookget](https://github.com/deweizhu/bookget)|bookget 数字古籍图书下载工具|984|2024-01-02|2023-04-09|
 |3|[ConnectAI-E/Feishu-Midjourney](https://github.com/ConnectAI-E/Feishu-Midjourney)|🍎 飞书 x midjourney = 你真正的创意伙伴|412|2023-12-06|2023-04-12|
 |4|[whatwewant/chatgpt-for-chatbot-feishu](https://github.com/whatwewant/chatgpt-for-chatbot-feishu)|快速将 ChatGPT 接入飞书，基于 OpenAI 官方接口，作为私人工作助理或者企业员工助理|304|2023-12-18|2023-02-17|
-|5|[Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api)|基于One API的二次开发版本，仅供学习使用！|283|2024-01-05|2023-11-10|
+|5|[Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api)|基于One API的二次开发版本，仅供学习使用！|294|2024-01-07|2023-11-10|
 |6|[Bistutu/FluentRead](https://github.com/Bistutu/FluentRead)|基于上下文语境的人工智能翻译引擎，为部分网站提供精准翻译，让所有人都能够拥有基于母语般的阅读体验。|163|2024-01-02|2023-12-22|
 |7|[fasnow/idebug](https://github.com/fasnow/idebug)|企业微信、企业飞书接口调用工具。|122|2023-12-19|2023-06-06|
-|8|[HuanMeng233/weread_downloader](https://github.com/HuanMeng233/weread_downloader)|学习|116|2023-12-20|2023-12-09|
+|8|[HuanMeng233/weread_downloader](https://github.com/HuanMeng233/weread_downloader)|学习|118|2023-12-20|2023-12-09|
 |9|[speauty/anto](https://github.com/speauty/anto)|字幕文件(srt)翻译工具，Windows专用|93|2023-12-11|2023-03-01|
 
 <div align="center">
