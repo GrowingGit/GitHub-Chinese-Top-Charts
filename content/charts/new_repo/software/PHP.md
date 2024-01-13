@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > PHP
-<sub>数据更新: 2024-01-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[gptlink/gptlink](https://github.com/gptlink/gptlink)|10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能|2511|2023-11-17|2023-05-22|
+|1|[gptlink/gptlink](https://github.com/gptlink/gptlink)|10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能|2510|2023-11-17|2023-05-22|
 |2|[bosnzt/wordscheck](https://github.com/bosnzt/wordscheck)|敏感词检测，违禁词过滤，敏感词过滤，敏感词库，一键启动，本地运行，私有化部署，1分钟接入完成，开箱即用，支持docker，支持在线api|355|2024-01-10|2023-01-23|
-|3|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的面板|282|2024-01-11|2023-11-14|
-|4|[xing61/xiaoyi-robot](https://github.com/xing61/xiaoyi-robot)|优质稳定的OpenAI的API接口-For企业和开发者。OpenAI的api proxy，支持ChatGPT的API调用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增|263|2024-01-10|2023-04-12|
+|3|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的面板|287|2024-01-12|2023-11-14|
+|4|[xing61/xiaoyi-robot](https://github.com/xing61/xiaoyi-robot)|优质稳定的OpenAI的API接口-For企业和开发者。OpenAI的api proxy，支持ChatGPT的API调用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增|266|2024-01-10|2023-04-12|
 |5|[tznb1/TwoNav](https://github.com/tznb1/TwoNav)|TwoNav 第二代云导航 云书签管理系统|213|2023-12-21|2023-04-06|
 |6|[qincrm/crm](https://github.com/qincrm/crm)|司跃CRM 基于laravel  & arco.design & vue 开发，支持字段定制和二次开发         联系方式：17611303211（微信） http://47.94.200.53/   账号: 17611111111  密码: crm123456|187|2023-10-18|2023-02-16|
 |7|[guanguans/ai-commit](https://github.com/guanguans/ai-commit)|Automagically generate conventional git commit messages with AI. - 使用 AI 自动生成约定式 git 提交信息。|174|2024-01-08|2023-01-30|
 |8|[StarCrossPortal/swallow](https://github.com/StarCrossPortal/swallow)|代码审计自动化系统,底层架构为蜻蜓编排系统,墨菲SCA,fortify,SemGrep,hema|136|2023-07-25|2023-03-23|
 |9|[netcccyun/pan](https://github.com/netcccyun/pan)|彩虹外链网盘|136|2023-08-25|2023-02-26|
-|10|[BugFor-Pings/PHPwebshell](https://github.com/BugFor-Pings/PHPwebshell)|源码丢这了，自己做免杀 ------  一些自己无聊写的免杀php木马，404页面伪装大马-Apache+Nginx版本，phpinfo伪装马，404页面代码执行一句话，phpinfo代码执行一句话|112|2023-11-21|2023-04-10|
+|10|[BugFor-Pings/PHPwebshell](https://github.com/BugFor-Pings/PHPwebshell)|源码丢这了，自己做免杀 ------  一些自己无聊写的免杀php木马，404页面伪装大马-Apache+Nginx版本，phpinfo伪装马，404页面代码执行一句话，phpinfo代码执行一句话|111|2023-11-21|2023-04-10|
 |11|[chengxs1994/ChatGPT-SDImg-Web](https://github.com/chengxs1994/ChatGPT-SDImg-Web)|基于ChatGPT-Next-Web，集成SD webui AI绘图，实现注册登录，次数限制，充值，分享等功能|109|2024-01-03|2023-06-01|
 |12|[huhexian/2012-huhexian](https://github.com/huhexian/2012-huhexian)|一个基于 Twenty Twelve 修改的 WordPress 双栏文字主题|78|2023-12-30|2023-06-08|
 |13|[coinexchanged/Blockchain-php](https://github.com/coinexchanged/Blockchain-php)|数字货币交易所源码，php crypto exchange; coin exchange，php交易所|67|2023-09-14|2023-09-14|

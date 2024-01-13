@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Assembly
-<sub>数据更新: 2024-01-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -12,7 +12,7 @@
 |5|[xingji-studio/XJ380-Kernel](https://github.com/xingji-studio/XJ380-Kernel)|XJ380操作系统的内核（汇编部分）|4|2023-08-12|2023-08-12|
 |6|[thu-cs-lab/supervisor-la32r](https://github.com/thu-cs-lab/supervisor-la32r)|LoongArch 32 Reduced 监控程序|4|2023-08-08|2023-06-10|
 |7|[flwfdd/BIT-Run](https://github.com/flwfdd/BIT-Run)|北理润 - 大三上汇编小游戏大作业|3|2023-12-22|2023-12-14|
-|8|[DANNHIROAKI/XJTU-COMP400627-OS](https://github.com/DANNHIROAKI/XJTU-COMP400627-OS)|西安交通大学COMP400627操作系统课程|3|2024-01-03|2023-12-02|
+|8|[DANNHIROAKI/XJTU-COMP400627-OS](https://github.com/DANNHIROAKI/XJTU-COMP400627-OS)|西安交通大学COMP400627操作系统课程|3|2024-01-11|2023-12-02|
 |9|[doincli/esp32_obd_blue](https://github.com/doincli/esp32_obd_blue)|主分支是obd组件 其它分支看readme|3|2023-07-27|2023-06-26|
 |10|[tokai-student-rocket-project/H-58-Avionics](https://github.com/tokai-student-rocket-project/H-58-Avionics)|H-58搭載計器   2023年度 夏季 能代 NOGO|3|2023-11-13|2023-02-16|
 |11|[KristianLi/Assembler_lab_homework](https://github.com/KristianLi/Assembler_lab_homework)|汇编作业|2|2023-12-21|2023-11-01|
