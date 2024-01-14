@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Kotlin
-<sub>数据更新: 2024-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)|有手就会 《构建你自己的 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。|281|15|2023-12-31|
-|2|[gedoor/legado](https://github.com/gedoor/legado)|Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|20920|12|2024-01-11|
-|3|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|29909|12|2024-01-09|
-|4|[hectorqin/reader](https://github.com/hectorqin/reader)|阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建|6298|7|2024-01-01|
+|1|[unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)|有手就会 《构建你自己的 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。|281|14|2023-12-31|
+|2|[gedoor/legado](https://github.com/gedoor/legado)|Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|20949|12|2024-01-11|
+|3|[alibaba/p3c](https://github.com/alibaba/p3c)|Alibaba Java Coding Guidelines pmd implements and IDE plugin|29908|12|2024-01-09|
+|4|[hectorqin/reader](https://github.com/hectorqin/reader)|阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建|6303|7|2024-01-01|
 |5|[Tamsiree/RxTool](https://github.com/Tamsiree/RxTool)|Android开发人员不得不收集的工具类集合   支付宝支付   微信支付（统一下单）   微信分享   Zip4j压缩（支持分卷压缩与加密）   一键集成UCrop选择圆形头像   一键集成二维码和条形码的扫描与生成   常用Dialog   WebView的封装可播放视频   仿斗鱼滑动验证码   Toast封装   震动   GPS   Location定位   图片缩放   Exif 图片 ...|12125|5|2023-08-01|
 |6|[Arcns/fast-transition](https://github.com/Arcns/fast-transition)|一个能够快速实现Android TextView、圆角、切换图片等共享元素转场效果的工具库，同时支持修复Android Q三个及以上页面共享元素动画丢失的BUG，支持自定义复杂的共享元素动画，支持仿小红书、Lemon8的拖拽返回+共享元素转场效果。|202|1|2023-09-19|
-|7|[xihan123/QDReadHook](https://github.com/xihan123/QDReadHook)|起点阅读自定义增强 Xp 模块,愿大家都有一个愉快的看书体验|412|1|2024-01-10|
+|7|[xihan123/QDReadHook](https://github.com/xihan123/QDReadHook)|起点阅读自定义增强 Xp 模块,愿大家都有一个愉快的看书体验|414|1|2024-01-10|
 |8|[TheMelody/ComposeCameraxOpenGL](https://github.com/TheMelody/ComposeCameraxOpenGL)|🔥🔥🔥🔥Compose结合CameraX快速实现相机“拍视频实时滤镜“、”拍照+滤镜“，仿小红书，快手，抖音效果|16|0|2023-09-24|
 |9|[Gao-hao-nan/MVVM](https://github.com/Gao-hao-nan/MVVM)|基于 模块化+Kotlin+协程+Rxjava+Retrofit+Jetpack+MVVM 架构实现的 WanAndroid 客户端。 能提供大家学习如何从0到1打造一个符合[大型Android项目的架构模式]|16|0|2023-12-21|
 |10|[JiaYang627/TinMVVM](https://github.com/JiaYang627/TinMVVM)|:book:AndroidStudio 4.X+ 编写自定义模板，并且适配了AndroidStudio Fox版本，此插件是针对 QuickAndroid 项目进行开发，有兴趣可学习一下。编写一个适合自己项目的一键生成页面插件。希望能帮助到大家。:grin:|17|0|2023-09-14|
@@ -27,7 +27,7 @@
 |20|[Iseason2000/DeEnchantment](https://github.com/Iseason2000/DeEnchantment)|负魔书|29|0|2023-10-11|
 |21|[WaitFme/BiliBiliAndYou](https://github.com/WaitFme/BiliBiliAndYou)|借鉴学习BiliYou，哔哩等优秀作品。个人学习Compose UI的练习作品|17|0|2023-07-17|
 |22|[FantasticPornTaiQiang/PTQFlipper](https://github.com/FantasticPornTaiQiang/PTQFlipper)|Jetpack Compose 仿真书籍翻页组件 3D Page Flip for Android Jetpack Compose - Page Curl|45|0|2023-09-01|
-|23|[cy745/LMusic](https://github.com/cy745/LMusic)|一个简洁且独特的音乐播放器，在其中学习使用了MVVM架构|153|0|2024-01-12|
+|23|[cy745/LMusic](https://github.com/cy745/LMusic)|一个简洁且独特的音乐播放器，在其中学习使用了MVVM架构|153|0|2024-01-13|
 |24|[pengxurui/Singularity](https://github.com/pengxurui/Singularity)|CS-Self-Learning|13|0|2023-12-01|
 |25|[CuteReimu/TheMessage](https://github.com/CuteReimu/TheMessage)|《风声典藏版》桌游的服务端代码。客户端代码见：https://github.com/Death-alter/TheMessage|11|0|2024-01-12|
 |26|[leavesCZY/RobustWebView](https://github.com/leavesCZY/RobustWebView)|Android WebView H5 秒开方案总结|93|0|2023-12-31|
@@ -38,7 +38,7 @@
 |31|[idisfkj/android-api-analysis](https://github.com/idisfkj/android-api-analysis)|Android精华录: 该库的目的是结合详细的Demo来全面解析Android相关的知识点, 帮助读者能够更快的掌握与理解所阐述的要点。  不定时更新，与预期接下的要做的事，希望点进来的你能够喜欢😍😍|285|0|2023-12-26|
 |32|[JIULANG9/WordsFairyNote](https://github.com/JIULANG9/WordsFairyNote)|词仙笔记源码|52|0|2023-12-30|
 |33|[1250422131/FoodChoice](https://github.com/1250422131/FoodChoice)|食选，解决生活中每天吃饭，吃什么，做什么，怎么做的问题，此项目也是我对JetpackCompose的MVI架构学习的一次实践。|31|0|2023-10-08|
-|34|[FishHawk/auto-novel](https://github.com/FishHawk/auto-novel)|将日本网络小说/文库小说翻译成中文并转换成电子书。|73|0|2024-01-12|
+|34|[FishHawk/auto-novel](https://github.com/FishHawk/auto-novel)|将日本网络小说/文库小说翻译成中文并转换成电子书。|73|0|2024-01-13|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

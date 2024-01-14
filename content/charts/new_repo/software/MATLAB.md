@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -10,9 +10,9 @@
 |3|[Patrick9313/Knapsack-problem](https://github.com/Patrick9313/Knapsack-problem)|基于遗传算法解决具体的组合优化背包问题|30|2023-08-27|2023-08-27|
 |4|[Patrick9313/Sudoku](https://github.com/Patrick9313/Sudoku)|一个基于启发式搜索解决具体数独问题的MATLAB程序|30|2023-08-27|2023-08-27|
 |5|[xkm79/digitalImageProcessing-lmh-ver](https://github.com/xkm79/digitalImageProcessing-lmh-ver)|数字图像处理实验 MATLAB |12|2023-10-25|2023-10-24|
-|6|[NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate)|络石机械臂动力学相关算法以及仿真|11|2023-11-13|2023-07-19|
-|7|[realxmx/PIDwithBPNN](https://github.com/realxmx/PIDwithBPNN)|使用神经网络结合PID算法模拟温控系统|10|2023-09-18|2023-08-27|
-|8|[czmgzsy/Computational-intelligence](https://github.com/czmgzsy/Computational-intelligence)|优化算法|10|2023-08-31|2023-08-20|
+|6|[czmgzsy/Computational-intelligence](https://github.com/czmgzsy/Computational-intelligence)|优化算法|11|2023-08-31|2023-08-20|
+|7|[NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate)|络石机械臂动力学相关算法以及仿真|11|2023-11-13|2023-07-19|
+|8|[realxmx/PIDwithBPNN](https://github.com/realxmx/PIDwithBPNN)|使用神经网络结合PID算法模拟温控系统|10|2023-09-18|2023-08-27|
 |9|[LZH20001220/HuaweiCup2023](https://github.com/LZH20001220/HuaweiCup2023)|华为杯第二十届中国研究生数学建模竞赛|8|2023-12-04|2023-11-29|
 |10|[Xuerenbujianhua/3DPathplanning](https://github.com/Xuerenbujianhua/3DPathplanning)|基于栅格地图的无人机三维路径规划算法|8|2023-11-17|2023-11-17|
 |11|[VG-TechCenter/Microgrid-Optimization-Dispatch-Model](https://github.com/VG-TechCenter/Microgrid-Optimization-Dispatch-Model)|微电网优化调度模型|8|2023-10-15|2023-10-15|
@@ -28,7 +28,7 @@
 |21|[zhibaixiao/DIPm](https://github.com/zhibaixiao/DIPm)|一个使用MATLAB(R2020b) App Designer开发的简单数字图像处理APP示例|4|2023-08-24|2023-08-24|
 |22|[quyinsong/Motion-Planning-for-Mobile-Robots](https://github.com/quyinsong/Motion-Planning-for-Mobile-Robots)|移动机器人路径规划|4|2023-08-15|2023-08-13|
 |23|[DreamChasingBoy/BoyLuc_in_CDUT](https://github.com/DreamChasingBoy/BoyLuc_in_CDUT)|在大学期间的一些课堂作业与实验报告，相对完整，仅供参考|4|2023-11-22|2023-07-28|
-|24|[Matthew-Lyu/Classic-Image-Processing--Analysis](https://github.com/Matthew-Lyu/Classic-Image-Processing--Analysis)|经典图像处理分析方法Classic image processing and analysis methods|4|2023-07-23|2023-06-20|
+|24|[Matthew-Lyu/Classic-Image-Processing-Analysis](https://github.com/Matthew-Lyu/Classic-Image-Processing-Analysis)|经典图像处理分析方法Classic image processing and analysis methods|4|2023-07-23|2023-06-20|
 |25|[Yuyu1997/TrajectoryTrackingControlofQuadrotorUAV](https://github.com/Yuyu1997/TrajectoryTrackingControlofQuadrotorUAV)|欧拉角、四元数、旋转矩阵，迂回现象，自抗扰控制|4|2024-01-12|2023-04-13|
 |26|[huee-ops/XDU-Communication_principle_homework](https://github.com/huee-ops/XDU-Communication_principle_homework)|西电电院通信原理大作业|3|2023-12-23|2023-12-21|
 |27|[Lu-Anastasia/MATLAB](https://github.com/Lu-Anastasia/MATLAB)|信息光学数字实验室（matlab版）全代码|3|2023-11-28|2023-11-28|

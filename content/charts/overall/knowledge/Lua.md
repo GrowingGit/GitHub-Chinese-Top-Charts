@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Lua
-<sub>数据更新: 2024-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -16,7 +16,7 @@
 |9|[zincPower/Lua_Study_2022](https://github.com/zincPower/Lua_Study_2022)|用于结合“江澎涌”公众号分享 Lua 知识点，形成知识体系|11|2023-11-24|
 |10|[l549349545/MeetingStone_Happy](https://github.com/l549349545/MeetingStone_Happy)|魔兽世界集合石插件修改版|9|2023-11-16|
 |11|[LanbingIce/IsaacSocket-Mod](https://github.com/LanbingIce/IsaacSocket-Mod)|这是一个《以撒的结合》的Mod，可为其他mod提供操作剪贴板，连接WebSocket等接口|8|2024-01-09|
-|12|[mamjun/DST-Sora](https://github.com/mamjun/DST-Sora)|《饥荒：联机版》里 穹妹的mod|7|2023-12-23|
+|12|[mamjun/DST-Sora](https://github.com/mamjun/DST-Sora)|《饥荒：联机版》里 穹妹的mod|7|2024-01-13|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

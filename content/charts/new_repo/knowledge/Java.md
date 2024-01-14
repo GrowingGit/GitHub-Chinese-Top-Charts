@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Java
-<sub>数据更新: 2024-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|1411|2024-01-12|2023-08-07|
-|2|[Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool)|【更方便更安全的管理PandoraNext，同时更高速的免费使用copilot的GPT-4】通过手机端和电脑端使小白能快速部署属于自己的免费Open API中转站，并支持自动接入one-api并刷新，tokensTool支持通过PandoraNext管理所有token，方便把接口接入多种开源ChatGpt网页，并全面支持PandoraNext部署方法且支持热部署，自定义后缀，登录黑名单IP和登录日 ...|981|2024-01-12|2023-11-17|
-|3|[a616567126/GPT-WEB-JAVA](https://github.com/a616567126/GPT-WEB-JAVA)|基于JDK8 AI 聊天机器人！微信公众号 Midjourney画图、卡密兑换、web 支持ChatGPT、Midjourney画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册🔥|537|2024-01-10|2023-03-28|
-|4|[fuzhengwei/chatbot-api](https://github.com/fuzhengwei/chatbot-api)|《ChatGPT AI 问答助手》 开源免费项目，涵盖爬虫接口、ChatGPT API对接、DDD架构设计、镜像打包、Docker容器部署，小巧精悍，流程全面。对于Java编程伙伴来说，非常具有学习价值。|448|2023-10-15|2023-01-19|
-|5|[algorithmzuo/algorithm-journey](https://github.com/algorithmzuo/algorithm-journey)|算法通关课的代码和课件|385|2024-01-11|2023-08-03|
-|6|[ZhangBlossom/BlossomGateway](https://github.com/ZhangBlossom/BlossomGateway)|基于Netty、Nacos实现的网关以及RPC。学习完毕当前项目可以帮助你深入理解Netty。|182|2024-01-04|2023-10-23|
+|1|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|1424|2024-01-12|2023-08-07|
+|2|[Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool)|【更方便更安全的管理PandoraNext，同时更高速的免费使用copilot的GPT-4】通过手机端和电脑端使小白能快速部署属于自己的免费Open API中转站，并支持自定义接入one-api并刷新，tokensTool支持通过PandoraNext管理所有token，方便把接口接入多种开源ChatGpt网页，并全面支持PandoraNext部署方法且支持热部署，自定义后缀，登录黑名单IP和登录 ...|986|2024-01-13|2023-11-17|
+|3|[a616567126/GPT-WEB-JAVA](https://github.com/a616567126/GPT-WEB-JAVA)|基于JDK8 AI 聊天机器人！微信公众号 Midjourney画图、卡密兑换、web 支持ChatGPT、Midjourney画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册🔥|539|2024-01-13|2023-03-28|
+|4|[fuzhengwei/chatbot-api](https://github.com/fuzhengwei/chatbot-api)|《ChatGPT AI 问答助手》 开源免费项目，涵盖爬虫接口、ChatGPT API对接、DDD架构设计、镜像打包、Docker容器部署，小巧精悍，流程全面。对于Java编程伙伴来说，非常具有学习价值。|449|2023-10-15|2023-01-19|
+|5|[algorithmzuo/algorithm-journey](https://github.com/algorithmzuo/algorithm-journey)|算法通关课的代码和课件|387|2024-01-11|2023-08-03|
+|6|[ZhangBlossom/BlossomGateway](https://github.com/ZhangBlossom/BlossomGateway)|基于Netty、Nacos实现的网关以及RPC。学习完毕当前项目可以帮助你深入理解Netty。|183|2024-01-04|2023-10-23|
 |7|[rawchen/FeishuBot](https://github.com/rawchen/FeishuBot)|飞书群聊/私聊ChatGPT机器人|162|2023-10-17|2023-07-26|
 |8|[timerring/backend-tutorial](https://github.com/timerring/backend-tutorial)|韩顺平Java零基础markdown整理（A detailed tutorial of java from 0 to 1）|137|2023-07-23|2023-04-10|
 |9|[zhongjinggz/geekdemo](https://github.com/zhongjinggz/geekdemo)|极客时间《手把手教你落地DDD》配套代码|79|2023-07-16|2023-04-02|

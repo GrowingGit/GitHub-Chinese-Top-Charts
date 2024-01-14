@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > TeX
-<sub>数据更新: 2024-01-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -24,7 +24,7 @@
 |17|[Tian42chen/Transcription-Malfunctioned](https://github.com/Tian42chen/Transcription-Malfunctioned)|ZJU 课程笔记|9|2024-01-10|2023-07-02|
 |18|[wodemaster-NJUSE/NJUSE-BigDataAnalysis](https://github.com/wodemaster-NJUSE/NJUSE-BigDataAnalysis)|2023年NJUSE大数据分析课程作业|8|2024-01-12|2023-09-16|
 |19|[lgy0404/BAOYAN](https://github.com/lgy0404/BAOYAN)|✔️（持续更新）【保研文书与面经】推免期间的文书（个人简历、个人陈述）与面试经验。|8|2023-09-08|2023-09-03|
-|20|[KaiserKatze/mathematical-notes](https://github.com/KaiserKatze/mathematical-notes)|数学笔记|8|2024-01-12|2023-04-09|
+|20|[KaiserKatze/mathematical-notes](https://github.com/KaiserKatze/mathematical-notes)|数学笔记|8|2024-01-13|2023-04-09|
 |21|[cshaowang/swjtuThesisV2.0](https://github.com/cshaowang/swjtuThesisV2.0)|A LaTeX Template for PhD/MA Thesis of Southwest Jiaotong University (SWJTU) / 西南交通大学研究生学位论文LaTeX模板|8|2024-01-05|2023-04-06|
 |22|[wennboo/HDU-latex-template-for-master](https://github.com/wennboo/HDU-latex-template-for-master)|旨在帮助杭州电子科技大学硕博生使用 Latex完成学位论文撰写，非官方模板，如若使用，后果自负！|7|2023-12-18|2023-10-31|
 |23|[liyuxuan3003/SemiconductorDevices](https://github.com/liyuxuan3003/SemiconductorDevices)|半导体器件物理 LaTeX笔记|7|2023-10-11|2023-07-25|
@@ -42,17 +42,18 @@
 |35|[Latiyas/JNUThesis](https://github.com/Latiyas/JNUThesis)|暨南大学博硕士学位论文Overleaf模板|4|2024-01-12|2023-06-14|
 |36|[juneleung/BFA_MasterCourse_Paper_Template](https://github.com/juneleung/BFA_MasterCourse_Paper_Template)|BFA研究生课程论文模版|4|2023-11-22|2023-06-01|
 |37|[sci-m-wang/NEU-Thesis](https://github.com/sci-m-wang/NEU-Thesis)|东北大学学位论文LaTex版(硕博士通用)，可直接导入Overleaf。LaTex version of Northeastern University's thesis (common to master's and doctoral degrees), which can be imported directly into Overleaf.|4|2023-12-08|2023-04-20|
-|38|[NorthSecond/SYSU_Latex_Template](https://github.com/NorthSecond/SYSU_Latex_Template)|适用于中大课程报告的一个简单小模板|3|2024-01-10|2024-01-02|
-|39|[123dyu/l3note](https://github.com/123dyu/l3note)|LaTeX3学习笔记|3|2023-11-28|2023-11-28|
-|40|[Passer-montanus/AAS_Template_LaTeX](https://github.com/Passer-montanus/AAS_Template_LaTeX)|该项目为Overleaf提供可直接导入的《自动化学报》中文稿件LateX|3|2023-11-09|2023-11-08|
-|41|[AZCodingAccount/python-spider](https://github.com/AZCodingAccount/python-spider)|爬虫从入门到入狱|3|2024-01-03|2023-10-02|
-|42|[Wang-Ji20/milewski-ctfp-pdf-zh-cn-translation](https://github.com/Wang-Ji20/milewski-ctfp-pdf-zh-cn-translation)|Chinese Translation for Bartosz Milewski's 'Category Theory for Programmers'. 《写给程序员的范畴论》中文翻译 |3|2023-09-06|2023-09-01|
-|43|[lavandejoey/ECUSTThesisLatex](https://github.com/lavandejoey/ECUSTThesisLatex)|华东理工大学本科生毕业论文Latex模板（xelatex/lualatex）|3|2023-09-27|2023-08-03|
-|44|[juneleung/BFA_Undergraduate_Thesis_Template](https://github.com/juneleung/BFA_Undergraduate_Thesis_Template)|BFA本科生毕业论文模版|3|2023-11-22|2023-08-01|
-|45|[juneleung/BFA_Master_Thesis_Template](https://github.com/juneleung/BFA_Master_Thesis_Template)|BFA研究生毕业论文模版|3|2023-11-22|2023-08-01|
-|46|[znc15/msfs2020-map-enhancement-Chinese](https://github.com/znc15/msfs2020-map-enhancement-Chinese)|MSFS2020 Map Enhancement 中文版|3|2024-01-06|2023-06-18|
-|47|[Itst00/APIO2021-monge](https://github.com/Itst00/APIO2021-monge)|APIO2021 中国区《决策单调性与四边形不等式》讲稿|3|2023-12-28|2023-06-14|
-|48|[wrm244/GUEThesis](https://github.com/wrm244/GUEThesis)|桂林电子科技大学本科毕业论文(毕业设计)LaTex模板   Guilin University of Electronic Technology LaTeX Undergraduate Dissertation Template|3|2023-12-22|2023-06-05|
+|38|[kon9chun/wutthesis2024](https://github.com/kon9chun/wutthesis2024)|武汉理工大学硕博论文LaTeX模板|3|2024-01-13|2024-01-13|
+|39|[NorthSecond/SYSU_Latex_Template](https://github.com/NorthSecond/SYSU_Latex_Template)|适用于中大课程报告的一个简单小模板|3|2024-01-10|2024-01-02|
+|40|[123dyu/l3note](https://github.com/123dyu/l3note)|LaTeX3学习笔记|3|2023-11-28|2023-11-28|
+|41|[Passer-montanus/AAS_Template_LaTeX](https://github.com/Passer-montanus/AAS_Template_LaTeX)|该项目为Overleaf提供可直接导入的《自动化学报》中文稿件LateX|3|2023-11-09|2023-11-08|
+|42|[AZCodingAccount/python-spider](https://github.com/AZCodingAccount/python-spider)|爬虫从入门到入狱|3|2024-01-03|2023-10-02|
+|43|[Wang-Ji20/milewski-ctfp-pdf-zh-cn-translation](https://github.com/Wang-Ji20/milewski-ctfp-pdf-zh-cn-translation)|Chinese Translation for Bartosz Milewski's 'Category Theory for Programmers'. 《写给程序员的范畴论》中文翻译 |3|2023-09-06|2023-09-01|
+|44|[lavandejoey/ECUSTThesisLatex](https://github.com/lavandejoey/ECUSTThesisLatex)|华东理工大学本科生毕业论文Latex模板（xelatex/lualatex）|3|2023-09-27|2023-08-03|
+|45|[juneleung/BFA_Undergraduate_Thesis_Template](https://github.com/juneleung/BFA_Undergraduate_Thesis_Template)|BFA本科生毕业论文模版|3|2023-11-22|2023-08-01|
+|46|[juneleung/BFA_Master_Thesis_Template](https://github.com/juneleung/BFA_Master_Thesis_Template)|BFA研究生毕业论文模版|3|2023-11-22|2023-08-01|
+|47|[znc15/msfs2020-map-enhancement-Chinese](https://github.com/znc15/msfs2020-map-enhancement-Chinese)|MSFS2020 Map Enhancement 中文版|3|2024-01-06|2023-06-18|
+|48|[Itst00/APIO2021-monge](https://github.com/Itst00/APIO2021-monge)|APIO2021 中国区《决策单调性与四边形不等式》讲稿|3|2023-12-28|2023-06-14|
+|49|[wrm244/GUEThesis](https://github.com/wrm244/GUEThesis)|桂林电子科技大学本科毕业论文(毕业设计)LaTex模板   Guilin University of Electronic Technology LaTeX Undergraduate Dissertation Template|3|2023-12-22|2023-06-05|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
