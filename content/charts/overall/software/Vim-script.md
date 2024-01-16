@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Vim script
-<sub>数据更新: 2024-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20079|2023-09-23|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8421|2023-10-31|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8422|2023-10-31|
 |3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4893|2023-11-16|
 |4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1788|2023-09-30|
 |5|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1718|2023-10-06|
 |6|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1404|2023-11-14|
-|7|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|883|2024-01-12|
+|7|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|883|2024-01-15|
 |8|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|878|2023-09-26|
-|9|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|852|2023-12-11|
+|9|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|853|2023-12-11|
 |10|[mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)|A vim 7.4+ plugin to generate table of contents for Markdown files.|589|2023-12-13|
 |11|[SidOfc/mkdx](https://github.com/SidOfc/mkdx)|A vim plugin that adds some nice extra's for working with markdown documents|480|2023-10-16|
 |12|[ruchee/vimrc](https://github.com/ruchee/vimrc)|Ruchee's Vim Config Files|415|2023-10-17|
-|13|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|391|2024-01-14|
+|13|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|391|2024-01-15|
 |14|[lilydjwg/dotvim](https://github.com/lilydjwg/dotvim)|My vim config|278|2024-01-03|
 |15|[ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)|vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files|192|2024-01-05|
 |16|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog based on vimscript|179|2023-10-24|
@@ -35,11 +35,11 @@
 |28|[yyzwz/s023](https://github.com/yyzwz/s023)|基于Vue+SpringBoot+MySQL的海南旅游推荐系统，基于协同推荐算法，包括用户网页和管理后台，包含景点类型模块、旅游景点模块、行程推荐模块、美食推荐模块、景点排名模块，还包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，天然气工程运维系统基于角色的访问控制，给景点管理员、游客使用，可将权限精确到按钮级别。|18|2023-09-07|
 |29|[gou4shi1/.vim](https://github.com/gou4shi1/.vim)|My Vim|15|2023-11-13|
 |30|[wandercn/go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf)|my vim conf for golang IDE and rust IDE|14|2023-11-02|
-|31|[marslo/myvim](https://github.com/marslo/myvim)|My Vim configuratons |14|2024-01-14|
+|31|[marslo/myvim](https://github.com/marslo/myvim)|My Vim configuratons |14|2024-01-15|
 |32|[leetking/dotfiles](https://github.com/leetking/dotfiles)|我的vim,bash等的配置文件|12|2023-09-09|
 |33|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|11|2023-11-06|
 |34|[owner888/vimer](https://github.com/owner888/vimer)|vim editor|11|2023-11-07|
-|35|[Moe-sushi/termux-neovim](https://github.com/Moe-sushi/termux-neovim)|Neovim config file of termux.|9|2023-08-12|
+|35|[Moe-sushi/termux-neovim](https://github.com/Moe-sushi/termux-neovim)|Neovim config file of termux.|9|2024-01-15|
 |36|[feix760/yuan](https://github.com/feix760/yuan)|用户配置文件 vim|9|2023-12-20|
 |37|[cnsworder/dev_init](https://github.com/cnsworder/dev_init)|开发环境初始化 vim+emacs+python|9|2024-01-11|
 |38|[yyzwz/s024](https://github.com/yyzwz/s024)|基于Vue+SpringBoot+MySQL的农村物流配送系统，包含快递客户管理模块、配送位置管理模块、配送人员模块、路线规划模块、商家管理模块、商品退换模块，还包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，农村物流配送系统基于角色的访问控制，给物流管理员、配送人员使用，可将权限精确到按钮级别。|8|2023-09-07|

@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Ruby
-<sub>数据更新: 2024-01-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6325|2024-01-04|
 |2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3745|2024-01-08|
-|3|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3394|2024-01-14|
-|4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2424|2023-11-02|
+|3|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3394|2024-01-15|
+|4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2425|2023-11-02|
 |5|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1420|2024-01-10|
-|6|[Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1300|2024-01-04|
+|6|[Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1299|2024-01-04|
 |7|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1104|2024-01-03|
 |8|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1037|2024-01-02|
 |9|[huacnlee/rails-settings-cached](https://github.com/huacnlee/rails-settings-cached)|Global settings for your Rails application.|1026|2024-01-05|
@@ -18,10 +18,10 @@
 |11|[floere/phony](https://github.com/floere/phony)|E164 international phone number normalizing, splitting, formatting. |990|2023-12-05|
 |12|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast and smart citation reference parsing|912|2024-01-11|
 |13|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS and macOS apps|856|2024-01-10|
-|14|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |728|2023-12-19|
+|14|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |730|2023-12-19|
 |15|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|713|2023-12-22|
-|16|[huacnlee/rucaptcha](https://github.com/huacnlee/rucaptcha)|Captcha Gem for Rails, which generates captcha image by Rust.|683|2024-01-04|
-|17|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|663|2023-11-21|
+|16|[huacnlee/rucaptcha](https://github.com/huacnlee/rucaptcha)|Captcha Gem for Rails, which generates captcha image by Rust.|684|2024-01-04|
+|17|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|662|2023-11-21|
 |18|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|640|2024-01-09|
 |19|[Bywalks/DarkAngel](https://github.com/Bywalks/DarkAngel)|DarkAngel 是一款全自动白帽漏洞扫描器，从hackerone、bugcrowd资产监听到漏洞报告生成、漏洞URL截屏、消息通知。|540|2023-08-17|
 |20|[diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter)|Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.|530|2023-10-30|
@@ -29,7 +29,7 @@
 |22|[L-codes/pwcrack-framework](https://github.com/L-codes/pwcrack-framework)|Password Crack Framework|479|2023-12-18|
 |23|[rails-engine/action-store](https://github.com/rails-engine/action-store)|Store different kind of actions (Like ❤️, Follow 👁, Star ⭐, Block ...) in one table via ActiveRecord Polymorphic Association.|397|2023-10-12|
 |24|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|382|2024-01-07|
-|25|[jpmobile/jpmobile](https://github.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|318|2024-01-14|
+|25|[jpmobile/jpmobile](https://github.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|318|2024-01-15|
 |26|[sirupsen/airrecord](https://github.com/sirupsen/airrecord)|Ruby wrapper for Airtable, your personal database|282|2023-09-18|
 |27|[infused/dbf](https://github.com/infused/dbf)|DBF is a small, fast Ruby library for reading dBase, xBase, Clipper, and FoxPro database files.|255|2023-12-27|
 |28|[YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby)|A Ruby port of Puppeteer|253|2023-10-31|
@@ -51,7 +51,7 @@
 |44|[khiav223577/pluck_all](https://github.com/khiav223577/pluck_all)|A more efficient way to get data from database. Like #pluck method but return array of hashes instead.|100|2023-12-24|
 |45|[inspec/inspec-azure](https://github.com/inspec/inspec-azure)|InSpec Azure Resource Pack|93|2023-12-21|
 |46|[merongivian/negasonic](https://github.com/merongivian/negasonic)|This ain't Sonic Pi, but it works on the browser: https://negasonic.onrender.com/|86|2023-09-13|
-|47|[icyleaf/hpr](https://github.com/icyleaf/hpr)|镜像任意 git 仓库到 gitlab 的同步工具，具有定时更新的功能|86|2024-01-08|
+|47|[icyleaf/hpr](https://github.com/icyleaf/hpr)|镜像任意 git 仓库到 gitlab 的同步工具，具有定时更新的功能|86|2024-01-15|
 |48|[FunnyWolf/vipermsf](https://github.com/FunnyWolf/vipermsf)|viper 自定义的msf|82|2023-12-31|
 |49|[etrex/kamigo](https://github.com/etrex/kamigo)|a chatbot framework based on rails|76|2023-10-23|
 |50|[MatthiasWinkelmann/firstname-database](https://github.com/MatthiasWinkelmann/firstname-database)|-|73|2023-09-27|
@@ -64,7 +64,7 @@
 |57|[test-kitchen/kitchen-azurerm](https://github.com/test-kitchen/kitchen-azurerm)|A driver for Test Kitchen that works with Azure Resource Manager|48|2023-12-01|
 |58|[npezza93/redi_search](https://github.com/npezza93/redi_search)|Ruby wrapper around RediSearch that can integrate with Rails|44|2023-11-23|
 |59|[Tabll/gemnasium-db](https://github.com/Tabll/gemnasium-db)|GitLab 依赖项扫描的咨询数据库，每天17:00自动更新|37|2024-01-12|
-|60|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|31|2024-01-12|
+|60|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|31|2024-01-15|
 |61|[doorkeeper-gem/doorkeeper-i18n](https://github.com/doorkeeper-gem/doorkeeper-i18n)|Translation files for Doorkeeper OAuth 2 provider|31|2023-09-27|
 |62|[HansenCCC/YPTools](https://github.com/HansenCCC/YPTools)|针对 iOS Objective-C 开发者设计 gem 库，根据 json 创建数据库管理类（依赖于<FMDB/FMDB.h>框架）  为 Xcode 创建 OC 语言的 mvvm 的模板  快速解析 IPA 文件  混淆中给 OC 代码注入大量垃圾代码  混淆中更新当前目录下面文件后缀为 .h .m 的文件创建时间  检查工程是否存在引用的问题  一行代码和ChatGPT愉快聊天  OpenA ...|29|2023-10-04|
 |63|[ivaquero/legacy-homebrew-chinese](https://github.com/ivaquero/legacy-homebrew-chinese)|🀄 一个致力于服务国人的 Homebrew 🍺 第三方库|29|2023-12-12|
@@ -85,7 +85,11 @@
 |78|[Ezviz-OpenBiz/SDK-iOS](https://github.com/Ezviz-OpenBiz/SDK-iOS)|Ezviz SDK，功能更强大的开发套件，可以实现预览、回放、配网、对讲、设备控制、oAuth授权等功能|13|2023-12-21|
 |79|[super-unprofessional-league/soccer-website-generator](https://github.com/super-unprofessional-league/soccer-website-generator)|超业余足球联赛网站生成器; Unprofessional soccer league website generator|11|2023-12-23|
 |80|[work-design/rails_wechat](https://github.com/work-design/rails_wechat)|Wechat for muilt account admin 微信 SDK 集大成者|10|2023-12-17|
-|81|[icyleaf/wechat-bot](https://github.com/icyleaf/wechat-bot)|还不知道如何走向的微信机器人|9|2023-10-08|
+|81|[Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese)|🀄️咱自己人的软件🏮咱自己人的仓库🧧|9|2024-01-14|
+|82|[kfcd/fanjian](https://github.com/kfcd/fanjian)|漢字繁簡體字轉換表|9|2023-08-05|
+|83|[crispgm/weekly](https://github.com/crispgm/weekly)|A personal curation of tech articles|9|2023-09-07|
+|84|[icyleaf/wechat-bot](https://github.com/icyleaf/wechat-bot)|还不知道如何走向的微信机器人|9|2023-10-08|
+|85|[DILA-edu/cbeta-metadata](https://github.com/DILA-edu/cbeta-metadata)|CBETA 的 目錄、部類、缺字、作譯者、朝代等 metadata.|9|2023-12-05|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

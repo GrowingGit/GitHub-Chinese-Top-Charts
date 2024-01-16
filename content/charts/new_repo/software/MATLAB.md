@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-01-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -16,8 +16,8 @@
 |9|[LZH20001220/HuaweiCup2023](https://github.com/LZH20001220/HuaweiCup2023)|华为杯第二十届中国研究生数学建模竞赛|8|2023-12-04|2023-11-29|
 |10|[Xuerenbujianhua/3DPathplanning](https://github.com/Xuerenbujianhua/3DPathplanning)|基于栅格地图的无人机三维路径规划算法|8|2023-11-17|2023-11-17|
 |11|[VG-TechCenter/Microgrid-Optimization-Dispatch-Model](https://github.com/VG-TechCenter/Microgrid-Optimization-Dispatch-Model)|微电网优化调度模型|8|2023-10-15|2023-10-15|
-|12|[breeef/HTAO-Toolkit](https://github.com/breeef/HTAO-Toolkit)|PTAS-TAHRC，Heterogeneous Task Allocation Optimization Toolkit for Mobile Edge Computing;异构移动边缘计算任务分配优化工具以车辆为主题实现。matlab|7|2023-09-01|2023-09-01|
-|13|[kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration](https://github.com/kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration)|GNSS和INS深组合的尝试，在GNSS_SDR和PSINS基础上组合得到|7|2023-08-07|2023-08-03|
+|12|[kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration](https://github.com/kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration)|GNSS和INS深组合的尝试，在GNSS_SDR和PSINS基础上组合得到|8|2023-08-07|2023-08-03|
+|13|[breeef/HTAO-Toolkit](https://github.com/breeef/HTAO-Toolkit)|PTAS-TAHRC，Heterogeneous Task Allocation Optimization Toolkit for Mobile Edge Computing;异构移动边缘计算任务分配优化工具以车辆为主题实现。matlab|7|2023-09-01|2023-09-01|
 |14|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|6|2023-12-04|2023-10-25|
 |15|[Lusenc/SkyrmionOpticalForce](https://github.com/Lusenc/SkyrmionOpticalForce)|该项目记录笔者科研过程中用到的算法函数，包括矢量场表示、瑞利粒子光学力的计算、特殊光束生成等内容|6|2023-11-16|2023-09-05|
 |16|[deltaRing/UAV_Path_Search](https://github.com/deltaRing/UAV_Path_Search)|本工程将借助ESDF、TSDF、Dstar、B样条曲线、以及多项式路径来实现无人机路径规划|6|2023-12-19|2023-07-24|
