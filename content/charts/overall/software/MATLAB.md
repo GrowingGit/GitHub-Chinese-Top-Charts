@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2336|2024-01-15|
 |2|[cs-chan/Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset)|Total Text Dataset. It consists of 1555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind.|712|2023-10-05|
 |3|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|195|2024-01-15|
-|4|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|165|2023-10-24|
+|4|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|167|2023-10-24|
 |5|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|165|2024-01-08|
 |6|[qwe14789cn/SP](https://github.com/qwe14789cn/SP)|信号处理工具箱|93|2023-11-02|
 |7|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP)|84|2024-01-10|
@@ -43,8 +43,8 @@
 |36|[curryqka/Cell-counting-GUI-MATLABGUI-](https://github.com/curryqka/Cell-counting-GUI-MATLABGUI-)|包含三大板块，图像变换，图像增强和细胞计数|11|2023-12-19|
 |37|[yk7333/Graduation-project-design](https://github.com/yk7333/Graduation-project-design)|采用模拟退火策略优化的免疫算法 解决无人机协同分配问题|11|2023-09-24|
 |38|[YaoGengqi/Image_Metrics](https://github.com/YaoGengqi/Image_Metrics)|用于测试图像的各类指标。|11|2023-09-06|
-|39|[realxmx/PIDwithBPNN](https://github.com/realxmx/PIDwithBPNN)|使用神经网络结合PID算法模拟温控系统|10|2023-09-18|
-|40|[RflyBUAA/DegradedControl](https://github.com/RflyBUAA/DegradedControl)|北航可靠飞行控制研究组-四旋翼容灾控制Simulink仿真和半物理仿真程序|10|2023-07-18|
+|39|[RflyBUAA/DegradedControl](https://github.com/RflyBUAA/DegradedControl)|北航可靠飞行控制研究组-四旋翼容灾控制Simulink仿真和半物理仿真程序|11|2023-07-18|
+|40|[realxmx/PIDwithBPNN](https://github.com/realxmx/PIDwithBPNN)|使用神经网络结合PID算法模拟温控系统|10|2023-09-18|
 |41|[zhyantao/genetic-algo-for-shortest-path](https://github.com/zhyantao/genetic-algo-for-shortest-path)|遗传算法解决最短路径问题 (两个出发点)|9|2023-12-31|
 |42|[LZH20001220/HuaweiCup2023](https://github.com/LZH20001220/HuaweiCup2023)|华为杯第二十届中国研究生数学建模竞赛|8|2023-12-04|
 |43|[Xuerenbujianhua/3DPathplanning](https://github.com/Xuerenbujianhua/3DPathplanning)|基于栅格地图的无人机三维路径规划算法|8|2023-11-17|
@@ -55,25 +55,24 @@
 |48|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|6|2023-12-04|
 |49|[Lusenc/SkyrmionOpticalForce](https://github.com/Lusenc/SkyrmionOpticalForce)|该项目记录笔者科研过程中用到的算法函数，包括矢量场表示、瑞利粒子光学力的计算、特殊光束生成等内容|6|2023-11-16|
 |50|[deltaRing/UAV_Path_Search](https://github.com/deltaRing/UAV_Path_Search)|本工程将借助ESDF、TSDF、Dstar、B样条曲线、以及多项式路径来实现无人机路径规划|6|2023-12-19|
-|51|[theLaziestOne/FMCW-CO](https://github.com/theLaziestOne/FMCW-CO)|毫米波雷达信号处理|6|2023-07-17|
+|51|[Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset](https://github.com/Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset)|机械故障诊断公开数据集|5|2023-11-29|
 |52|[yehuixie/system_identification](https://github.com/yehuixie/system_identification)|系统辨识课程代码|5|2023-11-11|
-|53|[signalYoung/ModulationAndDemodulation](https://github.com/signalYoung/ModulationAndDemodulation)|包含常见的模拟调制解调及数字调制解调的 MATLAB 代码|5|2023-07-18|
-|54|[Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset](https://github.com/Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset)|机械故障诊断公开数据集|4|2023-11-29|
+|53|[quyinsong/Motion-Planning-for-Mobile-Robots](https://github.com/quyinsong/Motion-Planning-for-Mobile-Robots)|移动机器人路径规划|5|2023-08-15|
+|54|[signalYoung/ModulationAndDemodulation](https://github.com/signalYoung/ModulationAndDemodulation)|包含常见的模拟调制解调及数字调制解调的 MATLAB 代码|5|2023-07-18|
 |55|[zhibaixiao/DIPm](https://github.com/zhibaixiao/DIPm)|一个使用MATLAB(R2020b) App Designer开发的简单数字图像处理APP示例|4|2023-08-24|
-|56|[quyinsong/Motion-Planning-for-Mobile-Robots](https://github.com/quyinsong/Motion-Planning-for-Mobile-Robots)|移动机器人路径规划|4|2023-08-15|
-|57|[DreamChasingBoy/BoyLuc_in_CDUT](https://github.com/DreamChasingBoy/BoyLuc_in_CDUT)|在大学期间的一些课堂作业与实验报告，相对完整，仅供参考|4|2023-11-22|
-|58|[Matthew-Lyu/Classic-Image-Processing-Analysis](https://github.com/Matthew-Lyu/Classic-Image-Processing-Analysis)|经典图像处理分析方法Classic image processing and analysis methods|4|2023-07-23|
-|59|[Yuyu1997/TrajectoryTrackingControlofQuadrotorUAV](https://github.com/Yuyu1997/TrajectoryTrackingControlofQuadrotorUAV)|欧拉角、四元数、旋转矩阵，迂回现象，自抗扰控制|4|2024-01-12|
-|60|[huee-ops/XDU-Communication_principle_homework](https://github.com/huee-ops/XDU-Communication_principle_homework)|西电电院通信原理大作业|3|2023-12-23|
-|61|[Lu-Anastasia/MATLAB](https://github.com/Lu-Anastasia/MATLAB)|信息光学数字实验室（matlab版）全代码|3|2023-11-28|
-|62|[dazhiwang233/matlab-implementation-of-BP-neural-networks](https://github.com/dazhiwang233/matlab-implementation-of-BP-neural-networks)|BP神经网络的matlab实现|3|2023-11-22|
-|63|[VG-TechCenter/003-Microgrid-double-layer-energy-management-model-based-on-model-prediction-algorithm](https://github.com/VG-TechCenter/003-Microgrid-double-layer-energy-management-model-based-on-model-prediction-algorithm)|003基于模型预测算法的含储能微网双层能量管理模型1|3|2023-10-24|
-|64|[mtxs001/face_recognition-matlab](https://github.com/mtxs001/face_recognition-matlab)|人脸识别（基于matlab,使用bp网络。）|3|2023-09-15|
-|65|[ning20320/lbn-zwsb](https://github.com/ning20320/lbn-zwsb)|基于Matlab的指纹识别系统|3|2023-08-05|
-|66|[liuxg156/simulink_AFFRLS_18650](https://github.com/liuxg156/simulink_AFFRLS_18650)|小q马里兰大学18650增量电流HPPC数据基于AFFRLS参数辨识|3|2023-07-30|
-|67|[BigdogManLuo/powerFlower](https://github.com/BigdogManLuo/powerFlower)|A lightweight power flow calculation software based on MATLAB. 基于牛顿迭代法和PQ分解法实现电力系统常规潮流计算，算例数据基于美国西部9节点系统(WSCC9)|3|2023-09-26|
-|68|[lutasam/Codes_For_MCM-ICM-2022](https://github.com/lutasam/Codes_For_MCM-ICM-2022)|2022数学建模美赛C题代码，基于LSTM的股票预测项目|3|2023-09-25|
-|69|[Silver-Fang/Parallel-Computing](https://github.com/Silver-Fang/Parallel-Computing)|埃博拉酱的并行计算工具箱|3|2023-10-04|
+|56|[DreamChasingBoy/BoyLuc_in_CDUT](https://github.com/DreamChasingBoy/BoyLuc_in_CDUT)|在大学期间的一些课堂作业与实验报告，相对完整，仅供参考|4|2023-11-22|
+|57|[Matthew-Lyu/Classic-Image-Processing-Analysis](https://github.com/Matthew-Lyu/Classic-Image-Processing-Analysis)|经典图像处理分析方法Classic image processing and analysis methods|4|2023-07-23|
+|58|[Yuyu1997/TrajectoryTrackingControlofQuadrotorUAV](https://github.com/Yuyu1997/TrajectoryTrackingControlofQuadrotorUAV)|欧拉角、四元数、旋转矩阵，迂回现象，自抗扰控制|4|2024-01-12|
+|59|[huee-ops/XDU-Communication_principle_homework](https://github.com/huee-ops/XDU-Communication_principle_homework)|西电电院通信原理大作业|3|2023-12-23|
+|60|[Lu-Anastasia/MATLAB](https://github.com/Lu-Anastasia/MATLAB)|信息光学数字实验室（matlab版）全代码|3|2023-11-28|
+|61|[dazhiwang233/matlab-implementation-of-BP-neural-networks](https://github.com/dazhiwang233/matlab-implementation-of-BP-neural-networks)|BP神经网络的matlab实现|3|2023-11-22|
+|62|[VG-TechCenter/003-Microgrid-double-layer-energy-management-model-based-on-model-prediction-algorithm](https://github.com/VG-TechCenter/003-Microgrid-double-layer-energy-management-model-based-on-model-prediction-algorithm)|003基于模型预测算法的含储能微网双层能量管理模型1|3|2023-10-24|
+|63|[mtxs001/face_recognition-matlab](https://github.com/mtxs001/face_recognition-matlab)|人脸识别（基于matlab,使用bp网络。）|3|2023-09-15|
+|64|[ning20320/lbn-zwsb](https://github.com/ning20320/lbn-zwsb)|基于Matlab的指纹识别系统|3|2023-08-05|
+|65|[liuxg156/simulink_AFFRLS_18650](https://github.com/liuxg156/simulink_AFFRLS_18650)|小q马里兰大学18650增量电流HPPC数据基于AFFRLS参数辨识|3|2023-07-30|
+|66|[BigdogManLuo/powerFlower](https://github.com/BigdogManLuo/powerFlower)|A lightweight power flow calculation software based on MATLAB. 基于牛顿迭代法和PQ分解法实现电力系统常规潮流计算，算例数据基于美国西部9节点系统(WSCC9)|3|2023-09-26|
+|67|[lutasam/Codes_For_MCM-ICM-2022](https://github.com/lutasam/Codes_For_MCM-ICM-2022)|2022数学建模美赛C题代码，基于LSTM的股票预测项目|3|2023-09-25|
+|68|[Silver-Fang/Parallel-Computing](https://github.com/Silver-Fang/Parallel-Computing)|埃博拉酱的并行计算工具箱|3|2023-10-04|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

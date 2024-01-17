@@ -1,19 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Kotlin
-<sub>数据更新: 2024-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[xihan123/QDReadHook](https://github.com/xihan123/QDReadHook)|起点阅读自定义增强 Xp 模块,愿大家都有一个愉快的看书体验|415|2024-01-10|2023-02-12|
-|2|[unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)|有手就会 《构建你自己的 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。|285|2023-12-31|2023-12-25|
+|1|[xihan123/QDReadHook](https://github.com/xihan123/QDReadHook)|起点阅读自定义增强 Xp 模块,愿大家都有一个愉快的看书体验|416|2024-01-10|2023-02-12|
+|2|[unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)|有手就会 《构建你自己的 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。|288|2023-12-31|2023-12-25|
 |3|[blackfrogxxoo/ScheduleView](https://github.com/blackfrogxxoo/ScheduleView)|高仿飞书日历（Android）|105|2023-10-30|2023-02-13|
-|4|[JIULANG9/WordsFairyNote](https://github.com/JIULANG9/WordsFairyNote)|词仙笔记源码|52|2023-12-30|2023-05-23|
+|4|[JIULANG9/WordsFairyNote](https://github.com/JIULANG9/WordsFairyNote)|词仙笔记源码|53|2023-12-30|2023-05-23|
 |5|[FantasticPornTaiQiang/PTQFlipper](https://github.com/FantasticPornTaiQiang/PTQFlipper)|Jetpack Compose 仿真书籍翻页组件 3D Page Flip for Android Jetpack Compose - Page Curl|45|2023-09-01|2023-03-11|
 |6|[1250422131/FoodChoice](https://github.com/1250422131/FoodChoice)|食选，解决生活中每天吃饭，吃什么，做什么，怎么做的问题，此项目也是我对JetpackCompose的MVI架构学习的一次实践。|31|2023-10-08|2023-07-14|
-|7|[Gao-hao-nan/MVVM](https://github.com/Gao-hao-nan/MVVM)|基于 模块化+Kotlin+协程+Rxjava+Retrofit+Jetpack+MVVM 架构实现的 WanAndroid 客户端。 能提供大家学习如何从0到1打造一个符合[大型Android项目的架构模式]|20|2023-12-21|2023-09-19|
-|8|[WaitFme/BiliBiliAndYou](https://github.com/WaitFme/BiliBiliAndYou)|借鉴学习BiliYou，哔哩等优秀作品。个人学习Compose UI的练习作品|17|2023-07-17|2023-07-17|
-|9|[Coder-HuangBH/MyCustomView](https://github.com/Coder-HuangBH/MyCustomView)|自己做的自定义View集合|12|2023-11-05|2023-07-27|
+|7|[Gao-hao-nan/MVVM](https://github.com/Gao-hao-nan/MVVM)|基于 模块化+Kotlin+协程+Rxjava+Retrofit+Jetpack+MVVM 架构实现的 WanAndroid 客户端。 能提供大家学习如何从0到1打造一个符合[大型Android项目的架构模式]|21|2023-12-21|2023-09-19|
+|8|[Coder-HuangBH/MyCustomView](https://github.com/Coder-HuangBH/MyCustomView)|自己做的自定义View集合|12|2023-11-05|2023-07-27|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2024-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[PassByYou888/Z-AI1.4](https://github.com/PassByYou888/Z-AI1.4)|Z-AI V1.4 发行版本|7|0|2023-09-03|
 |3|[dajingshan/miniframe](https://github.com/dajingshan/miniframe)|miniframe开源Web框架，一个使用pascal脚本编写业务代码的服务端框架，适配Ｄｅｌｐｈｉ、lazarus。框架已实现了HTTP服务、脚本解释执行、多种数据库连接、数据库缓冲池、连接缓冲池等底层支持。在此基础上使用者只需要关注自己的业务实现即可。|4|0|2023-08-03|
 |4|[xenli/OneLazarus](https://github.com/xenli/OneLazarus)|OneLazarus是叫兽(FLM)QQ:378464060基于Lazarus IDE开发的三层中间件，开源免费，支持MVC及传统DataSet框架，使用的是Mormot2的HTTP通讯。【OnePascal开源群】：814696487|6|0|2023-12-13|
-|5|[digao-dalpiaz/Dam](https://github.com/digao-dalpiaz/Dam)|Delphi and Lazarus Message Dialogs with Formatted Text|113|0|2024-01-12|
+|5|[digao-dalpiaz/Dam](https://github.com/digao-dalpiaz/Dam)|Delphi and Lazarus Message Dialogs with Formatted Text|114|0|2024-01-12|
 |6|[xenli/OneDelphi](https://github.com/xenli/OneDelphi)|OneDelphi是叫兽(FLM)QQ:378464060基于Delphi IDE开发的三层中间件，开源免费，支持MVC及传统DataSet框架，使用的是Mormot2的HTTP通讯。【OnePascal开源群】：814696487|32|0|2023-12-15|
 |7|[PassByYou888/ZNet](https://github.com/PassByYou888/ZNet)|ZNet is supported by future P2P VM, big data, cloud servers, and SAAS systems|48|0|2024-01-08|
 |8|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|541|0|2024-01-14|
@@ -20,8 +20,8 @@
 |13|[yanjiu-xyz/DevDataPager](https://github.com/yanjiu-xyz/DevDataPager)|分页控件|19|0|2023-08-04|
 |14|[gxlmyacc/sciter4d](https://github.com/gxlmyacc/sciter4d)|sciter4d (sciter for delphi) :  一个sciter的delphi封装库|43|0|2023-10-17|
 |15|[gxlmyacc/SYIPC](https://github.com/gxlmyacc/SYIPC)|一个Delphi实现的IPC通讯库，使用Window的消息机制实现的。|4|0|2023-10-10|
-|16|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker|86|0|2024-01-14|
-|17|[digao-dalpiaz/DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|154|0|2024-01-12|
+|16|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker|87|0|2024-01-14|
+|17|[digao-dalpiaz/DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|155|0|2024-01-16|
 |18|[cityboat888/OnePascal](https://github.com/cityboat888/OnePascal)|OnePascal简介: OneDelphi是基于Delphi IDE开发的三层中间件， oneLaz是基于Lazaus IDE开发的三层中间件， OneUniApp是基于HBuilderX IDE开发的多端合一app 中间件支持MVC及传统DataSet框架，这个版本是在源码的基础上(放弃mormot)使用Delphi-Cross-Socket作为HTTP通讯|3|0|2024-01-14|
 |19|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|307|0|2024-01-12|
 |20|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|250|0|2023-11-15|

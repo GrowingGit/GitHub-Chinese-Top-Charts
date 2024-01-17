@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Shell
-<sub>数据更新: 2024-01-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[typst-cn/awesome-typst-cn](https://github.com/typst-cn/awesome-typst-cn)|Awesome Typst 列表中文版|259|2023-10-07|2023-04-05|
-|2|[kejilion/sh](https://github.com/kejilion/sh)|分享定制化的shell脚本！|77|2024-01-13|2023-05-08|
+|1|[typst-cn/awesome-typst-cn](https://github.com/typst-cn/awesome-typst-cn)|Awesome Typst 列表中文版|260|2023-10-07|2023-04-05|
+|2|[kejilion/sh](https://github.com/kejilion/sh)|分享定制化的shell脚本！|80|2024-01-13|2023-05-08|
 |3|[spiritLHLS/ecsspeed](https://github.com/spiritLHLS/ecsspeed)|自动更新测试服务器节点列表的网络基准测试脚本(Network benchmarking script that automatically updates the list of the measurement server nodes)|53|2023-10-22|2023-03-28|
 |4|[flame1ce/hysteria2-install](https://github.com/flame1ce/hysteria2-install)|Install Hysteria2  一键脚本 安装指南|42|2023-09-13|2023-09-13|
 |5|[liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource)|LLM全栈优质资源汇总|28|2023-11-19|2023-08-27|
