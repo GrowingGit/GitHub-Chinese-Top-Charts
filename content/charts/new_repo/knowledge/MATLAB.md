@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > MATLAB
-<sub>数据更新: 2024-01-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -10,11 +10,11 @@
 |3|[casparji1018921/-Structured-Light-3D-Reconstruction-](https://github.com/casparji1018921/-Structured-Light-3D-Reconstruction-)|这个代码库存放了个人学习结构光三维重建的学习内容和代码，旨在分享和交流，帮助其他对该主题感兴趣的人。如有问题或建议，欢迎联系我！（This repository contains personal learning materials and code related to structured light 3D reconstruction, intended for sharing and c ...|9|2023-10-10|2023-04-12|
 |4|[ManshengChen/Code-for-TLIMSC-master](https://github.com/ManshengChen/Code-for-TLIMSC-master)|张量学习诱导的多视图谱聚类, 计算机学报2023.|5|2023-09-10|2023-09-10|
 |5|[ZHANG-JiXiang/ECOOT-cec2017](https://github.com/ZHANG-JiXiang/ECOOT-cec2017)|网络首发论文“增强型白骨顶鸡优化算法及其应用”的代码，您可以通过知网找到原文|5|2023-09-09|2023-08-10|
-|6|[BiAn627191818/Array-signal-processing](https://github.com/BiAn627191818/Array-signal-processing)|张小飞阵列信号处理全书代码，基本跑通|4|2023-11-15|2023-11-08|
-|7|[Han-0107/Scientific_Computing_of_CSU](https://github.com/Han-0107/Scientific_Computing_of_CSU)|中南大学-科学计算与程序应用课程资料（包括作业、上机实践、课程设计）|4|2023-12-15|2023-11-08|
-|8|[Abner-fu/SMC](https://github.com/Abner-fu/SMC)|滑模控制相关论文及仿真复现|4|2023-10-31|2023-10-01|
-|9|[Elapsedf/Matlab-Project](https://github.com/Elapsedf/Matlab-Project)|用matlab编写的相关算法合集|4|2023-10-19|2023-02-25|
-|10|[guguguhy/ISAC](https://github.com/guguguhy/ISAC)|SEU SISE 毕业设计 ISAC通感一体化论文阅读与代码复现|3|2023-12-12|2023-11-29|
+|6|[guguguhy/ISAC](https://github.com/guguguhy/ISAC)|SEU SISE 毕业设计 ISAC通感一体化论文阅读与代码复现|4|2023-12-12|2023-11-29|
+|7|[BiAn627191818/Array-signal-processing](https://github.com/BiAn627191818/Array-signal-processing)|张小飞阵列信号处理全书代码，基本跑通|4|2023-11-15|2023-11-08|
+|8|[Han-0107/Scientific_Computing_of_CSU](https://github.com/Han-0107/Scientific_Computing_of_CSU)|中南大学-科学计算与程序应用课程资料（包括作业、上机实践、课程设计）|4|2023-12-15|2023-11-08|
+|9|[Abner-fu/SMC](https://github.com/Abner-fu/SMC)|滑模控制相关论文及仿真复现|4|2023-10-31|2023-10-01|
+|10|[Elapsedf/Matlab-Project](https://github.com/Elapsedf/Matlab-Project)|用matlab编写的相关算法合集|4|2023-10-19|2023-02-25|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
