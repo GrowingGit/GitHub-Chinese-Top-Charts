@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Vim script
-<sub>数据更新: 2024-01-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20080|2023-09-23|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8428|2023-10-31|
+|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20078|2023-09-23|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8432|2024-01-18|
 |3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4891|2023-11-16|
 |4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1788|2023-09-30|
 |5|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1720|2023-10-06|
-|6|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1410|2023-11-14|
+|6|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1412|2023-11-14|
 |7|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|883|2024-01-17|
-|8|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|877|2023-09-26|
+|8|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|878|2023-09-26|
 |9|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|853|2023-12-11|
 |10|[mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)|A vim 7.4+ plugin to generate table of contents for Markdown files.|589|2023-12-13|
 |11|[SidOfc/mkdx](https://github.com/SidOfc/mkdx)|A vim plugin that adds some nice extra's for working with markdown documents|481|2023-10-16|
@@ -38,7 +38,7 @@
 |31|[wandercn/go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf)|my vim conf for golang IDE and rust IDE|14|2023-11-02|
 |32|[marslo/myvim](https://github.com/marslo/myvim)|My Vim configuratons |14|2024-01-17|
 |33|[leetking/dotfiles](https://github.com/leetking/dotfiles)|我的vim,bash等的配置文件|12|2023-09-09|
-|34|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|11|2023-11-06|
+|34|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|11|2024-01-18|
 |35|[owner888/vimer](https://github.com/owner888/vimer)|vim editor|11|2023-11-07|
 |36|[Moe-sushi/termux-neovim](https://github.com/Moe-sushi/termux-neovim)|Neovim config file of termux.|9|2024-01-15|
 |37|[feix760/yuan](https://github.com/feix760/yuan)|用户配置文件 vim|9|2023-12-20|
@@ -47,9 +47,9 @@
 |40|[terrytangyuan/dotfiles](https://github.com/terrytangyuan/dotfiles)|Personal bootstrapping dotfiles |8|2023-12-18|
 |41|[yuesong-feng/EasyVim](https://github.com/yuesong-feng/EasyVim)|简单易用的vim配置|7|2023-11-11|
 |42|[xu-chaojie/VIM](https://github.com/xu-chaojie/VIM)|精简vim配置，精简插件，只保留必要设置，并添加注释，不修改vim原有快捷键|7|2024-01-05|
-|43|[Yidadaa/Oh-My-Dotfiles](https://github.com/Yidadaa/Oh-My-Dotfiles)|一键配置linux环境，简单粗暴|6|2024-01-12|
-|44|[yyzwz/s030](https://github.com/yyzwz/s030)|基于Vue+SpringBoot+MySQL的厦门旅游电子商务预订系统包含景点类型模块、景点档案模块、景点评分模块、景点收藏模块、酒店模块、美食模块，拥有用户网页端和管理后台端，包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，厦门旅游电子商务预订系统基于角色的访问控制，给景点管理员、游客使用，可将权限精确到按钮级别。|5|2023-09-07|
-|45|[andrewintw/rpi-video-sync-looper](https://github.com/andrewintw/rpi-video-sync-looper)|A video synchronization looping system built on Raspberry Pi. 一個運行於 Raspberry Pi 的影片同步循環播放系統|5|2023-12-04|
+|43|[andrewintw/rpi-video-sync-looper](https://github.com/andrewintw/rpi-video-sync-looper)|A video synchronization looping system built on Raspberry Pi. 一個運行於 Raspberry Pi 的影片同步循環播放系統|6|2023-12-04|
+|44|[Yidadaa/Oh-My-Dotfiles](https://github.com/Yidadaa/Oh-My-Dotfiles)|一键配置linux环境，简单粗暴|6|2024-01-12|
+|45|[yyzwz/s030](https://github.com/yyzwz/s030)|基于Vue+SpringBoot+MySQL的厦门旅游电子商务预订系统包含景点类型模块、景点档案模块、景点评分模块、景点收藏模块、酒店模块、美食模块，拥有用户网页端和管理后台端，包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，厦门旅游电子商务预订系统基于角色的访问控制，给景点管理员、游客使用，可将权限精确到按钮级别。|5|2023-09-07|
 |46|[niming175/myVim](https://github.com/niming175/myVim)|我的vim配置|5|2023-10-08|
 |47|[rongyi/dotfile](https://github.com/rongyi/dotfile)|zsh/tmux/vim/mplayer配置文件|5|2023-09-14|
 |48|[yyzwz/s005](https://github.com/yyzwz/s005)|Vue+SpringBoot+MySQL，智能停车场管理系统包含的车主管理模块、车辆管理模块、停车场模块、停车记录模块、IC卡模块、IC卡挂失模块，还包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，智能停车场管理系统基于角色的访问控制，给车主和停车场管理员使用，可将权限精确到按钮级别，您可以自定义角色并分配权限，系统适合设计精确的权限约束 ...|4|2023-08-31|
