@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Assembly
-<sub>数据更新: 2024-01-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ZJUIntl-share/zjuintl-icicles](https://github.com/ZJUIntl-share/zjuintl-icicles)|浙大国际校区课程攻略共享计划|4|1|2024-01-16|
+|1|[ZJUIntl-share/zjuintl-icicles](https://github.com/ZJUIntl-share/zjuintl-icicles)|浙大国际校区课程攻略共享计划|4|1|2024-01-20|
 |2|[Jolsonz/hust_kaoyan](https://github.com/Jolsonz/hust_kaoyan)|本人参与2020华中科技大学研究生考试复试期间所作的一些笔记，主要是数据库和汇编语言的。|39|0|2024-01-11|
 |3|[Flskying/2023_AT89C51](https://github.com/Flskying/2023_AT89C51)|2023年单片机学习记录|3|0|2023-12-13|
 |4|[doincli/esp32_learn](https://github.com/doincli/esp32_learn)|esp32相关学习文档和代码,不同分支是不同的代码小实验|3|0|2023-08-04|
