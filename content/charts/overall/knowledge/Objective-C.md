@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Objective-C
-<sub>数据更新: 2024-01-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -17,14 +17,15 @@
 |10|[ApesTalk/Epub](https://github.com/ApesTalk/Epub)|一步一步学习如何制作一个EPub电子书阅读器。How to make a EPub e-book reader step by step.|23|2023-10-23|
 |11|[aolan/iOS_Develop](https://github.com/aolan/iOS_Develop)|该文档都是日常开发过程中解决问题的经验总结。|10|2024-01-03|
 |12|[huangboju/Study](https://github.com/huangboju/Study)|一些学习的东西|4|2023-11-16|
-|13|[ChenLin-Wang/Bible-Study-Map-VBBrowserController](https://github.com/ChenLin-Wang/Bible-Study-Map-VBBrowserController)|Bible Study Map 项目的子模块--经文翻译编辑器|2|2023-07-28|
-|14|[Mhc-inc/MHC-Boke](https://github.com/Mhc-inc/MHC-Boke)|MHC博客|2|2023-09-10|
-|15|[sunnyzw/ZWToolKit](https://github.com/sunnyzw/ZWToolKit)|工具类集合|2|2023-09-12|
-|16|[loverbabyz/TFBaseLib_iOS](https://github.com/loverbabyz/TFBaseLib_iOS)|Treasure Framework之Base组件：集合了iOS开发底层的扩展和帮助类：Core-Category、Core-DataHelper、Core-Macro、Core-Manager、Core-Util等|2|2023-09-17|
-|17|[GodFighter/WRMongolianKit](https://github.com/GodFighter/WRMongolianKit)|竖向蒙文控件集合|2|2023-07-31|
-|18|[zpfate/FlutterCookbook](https://github.com/zpfate/FlutterCookbook)|Flutter初学，各组件学习使用Demo|2|2023-08-08|
-|19|[Splendent/iOS-OSX-study-notes](https://github.com/Splendent/iOS-OSX-study-notes)|學習cocoa的瑣碎筆記|2|2023-09-21|
-|20|[BenXia/AutoLayoutDemo](https://github.com/BenXia/AutoLayoutDemo)|一个自己总结 iOS 布局相关知识点的工程，主要说明 AutoLayout 常见的使用场景。|2|2023-07-29|
+|13|[lijingpei2016/Photic](https://github.com/lijingpei2016/Photic)|音视频学习demo|3|2024-01-21|
+|14|[ChenLin-Wang/Bible-Study-Map-VBBrowserController](https://github.com/ChenLin-Wang/Bible-Study-Map-VBBrowserController)|Bible Study Map 项目的子模块--经文翻译编辑器|2|2023-07-28|
+|15|[Mhc-inc/MHC-Boke](https://github.com/Mhc-inc/MHC-Boke)|MHC博客|2|2023-09-10|
+|16|[sunnyzw/ZWToolKit](https://github.com/sunnyzw/ZWToolKit)|工具类集合|2|2023-09-12|
+|17|[loverbabyz/TFBaseLib_iOS](https://github.com/loverbabyz/TFBaseLib_iOS)|Treasure Framework之Base组件：集合了iOS开发底层的扩展和帮助类：Core-Category、Core-DataHelper、Core-Macro、Core-Manager、Core-Util等|2|2023-09-17|
+|18|[GodFighter/WRMongolianKit](https://github.com/GodFighter/WRMongolianKit)|竖向蒙文控件集合|2|2023-07-31|
+|19|[zpfate/FlutterCookbook](https://github.com/zpfate/FlutterCookbook)|Flutter初学，各组件学习使用Demo|2|2023-08-08|
+|20|[Splendent/iOS-OSX-study-notes](https://github.com/Splendent/iOS-OSX-study-notes)|學習cocoa的瑣碎筆記|2|2023-09-21|
+|21|[BenXia/AutoLayoutDemo](https://github.com/BenXia/AutoLayoutDemo)|一个自己总结 iOS 布局相关知识点的工程，主要说明 AutoLayout 常见的使用场景。|2|2023-07-29|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

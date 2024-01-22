@@ -1,35 +1,35 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Vue
-<sub>数据更新: 2024-01-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[liyupi/codefather](https://github.com/liyupi/codefather)|程序员鱼皮的编程宝典。原创编程学习路线，包括经验分享、技术知识、学习资源、学习建议、项目等，适用于所有学习编程 & 求职的同学。已完成 Java、前端|4797|2024-01-05|
+|1|[liyupi/codefather](https://github.com/liyupi/codefather)|程序员鱼皮的编程宝典。原创编程学习路线，包括经验分享、技术知识、学习资源、学习建议、项目等，适用于所有学习编程 & 求职的同学。已完成 Java、前端|4801|2024-01-05|
 |2|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|4709|2023-09-01|
-|3|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|3981|2024-01-12|
-|4|[inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|3283|2023-10-01|
-|5|[202252197/ChatGPT_JCM](https://github.com/202252197/ChatGPT_JCM)|OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。|2812|2024-01-07|
+|3|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|3982|2024-01-12|
+|4|[inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|3284|2023-10-01|
+|5|[202252197/ChatGPT_JCM](https://github.com/202252197/ChatGPT_JCM)|OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。|2813|2024-01-07|
 |6|[ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss)|:orange_book: 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、iCSS前端趣闻、字节前端、前端精读评论、前端食堂、前端从进阶到入院、淘系前端团队、张鑫旭博客、前端里、凹凸实验室|2110|2024-01-16|
-|7|[vant-ui/vant-demo](https://github.com/vant-ui/vant-demo)|Collection of vant demos.|1882|2024-01-13|
+|7|[vant-ui/vant-demo](https://github.com/vant-ui/vant-demo)|Collection of vant demos.|1884|2024-01-13|
 |8|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|1087|2024-01-19|
-|9|[CS-Tao/whu-library-seat](https://github.com/CS-Tao/whu-library-seat)|🏢 武汉大学图书馆助手 - 桌面端（多校通用）|794|2023-10-01|
+|9|[CS-Tao/whu-library-seat](https://github.com/CS-Tao/whu-library-seat)|🏢 武汉大学图书馆助手 - 桌面端（多校通用）|793|2023-10-01|
 |10|[lcomplete/TechShare](https://github.com/lcomplete/TechShare)|🌟 分享效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 和有趣内容 😄。💌 当有重要的事情需要分享时会发送 newsletter。|742|2023-10-03|
-|11|[CS-Tao/whu-library-seat-mobile](https://github.com/CS-Tao/whu-library-seat-mobile)|🏢 武汉大学图书馆助手 - 移动端（多校通用）|724|2023-10-01|
+|11|[CS-Tao/whu-library-seat-mobile](https://github.com/CS-Tao/whu-library-seat-mobile)|🏢 武汉大学图书馆助手 - 移动端（多校通用）|723|2023-10-01|
 |12|[yeyan1996/file-upload](https://github.com/yeyan1996/file-upload)|A guide about how to upload large file (using plain javascript for frondend and backend)|665|2023-09-28|
 |13|[wejectchen/Ginblog](https://github.com/wejectchen/Ginblog)|gin+vue+MySQL全栈制作一个博客|523|2023-11-06|
-|14|[FXLP/MarkTool](https://github.com/FXLP/MarkTool)|DoTAT 是一款基于web、面向领域的通用文本标注工具，支持大规模实体标注、关系标注、事件标注、文本分类、基于字典匹配和正则匹配的自动标注以及用于实现归一化的标准名标注，同时也支持迭代标注、嵌套实体标注和嵌套事件标注。标注规范可自定义且同类型任务中可“一次创建多次复用”。通过分级实体集合扩大了实体类型的规模，并设计了全新高效的标注方式，提升了用户体验和标注效率。此外，本工具增加了审核环节，可对多 ...|514|2023-11-10|
+|14|[FXLP/MarkTool](https://github.com/FXLP/MarkTool)|DoTAT 是一款基于web、面向领域的通用文本标注工具，支持大规模实体标注、关系标注、事件标注、文本分类、基于字典匹配和正则匹配的自动标注以及用于实现归一化的标准名标注，同时也支持迭代标注、嵌套实体标注和嵌套事件标注。标注规范可自定义且同类型任务中可“一次创建多次复用”。通过分级实体集合扩大了实体类型的规模，并设计了全新高效的标注方式，提升了用户体验和标注效率。此外，本工具增加了审核环节，可对多 ...|515|2023-11-10|
 |15|[wangrongding/frontend-park](https://github.com/wangrongding/frontend-park)|🌸这是一个有趣的前端趣味知识公园~该项目是我平时捣鼓前端相关技术的一些案例集合。【涵盖：（Tensorflow.js-姿态识别，人脸识别），(WebRTC-音视频通话，录屏，虚拟背景，信令服务器)，（Threejs-太阳系，3D 动画），（图片处理-千图成像，图片压缩，画板），（隐写术-文本隐写加密，图片隐写加密）等等...】|449|2023-12-06|
 |16|[xiaou61/mydocs](https://github.com/xiaou61/mydocs)|个人博客,里面包含java，Vue，Spring,数据结构，爬虫,JVM,Springboot,react,javascript等内容的整理|427|2023-09-30|
-|17|[zyronon/typing-word](https://github.com/zyronon/typing-word)|Memorizing words   Learn English   Typing words   背单词   学习英语   练习文章|390|2024-01-17|
+|17|[zyronon/typing-word](https://github.com/zyronon/typing-word)|Memorizing words   Learn English   Typing words   背单词   学习英语   练习文章|400|2024-01-17|
 |18|[komomoo/vuepress-theme-resume](https://github.com/komomoo/vuepress-theme-resume)|🐈 书写简洁优雅的前端程序员 markdown 简历，由 vuepress 驱动|390|2023-11-24|
 |19|[hepengwei/visualization-collection-vue](https://github.com/hepengwei/visualization-collection-vue)|🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（Vue版本）|376|2024-01-19|
-|20|[weiwosuoai/WeBlog](https://github.com/weiwosuoai/WeBlog)|📗 Spring Boot + Vue 3.2 + Vite 前后端分离博客~ 感谢点个 Star 呀~|288|2023-11-23|
+|20|[weiwosuoai/WeBlog](https://github.com/weiwosuoai/WeBlog)|📗 Spring Boot + Vue 3.2 + Vite 前后端分离博客~ 感谢点个 Star 呀~|290|2023-11-23|
 |21|[Aimee1608/myblogvue](https://github.com/Aimee1608/myblogvue)|个人博客——vue 已更新详见2.0版本|288|2024-01-18|
 |22|[laorange/paper-assistant](https://github.com/laorange/paper-assistant)|论文工具：文本复制工具 (智能删除空行空格乱码) + 英语语法检测|272|2024-01-15|
 |23|[JDArmy/BREAK](https://github.com/JDArmy/BREAK)|业务风险枚举与规避知识框架（Business Risk Enumeration & Avoidance Kownledge）|242|2024-01-17|
-|24|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的Vue前端|184|2024-01-18|
-|25|[ATQQ/sugar-blog](https://github.com/ATQQ/sugar-blog)|✍️📚我写博客的地方🤪🤪🤪记录随笔与学习笔记，仓库包含：博客内容，博客主题、博客模板、vitepress离线全文搜索插件、VitePress RSS 支持插件|178|2024-01-19|
+|24|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的Vue前端|184|2024-01-21|
+|25|[ATQQ/sugar-blog](https://github.com/ATQQ/sugar-blog)|✍️📚我写博客的地方🤪🤪🤪记录随笔与学习笔记，仓库包含：博客内容，博客主题、博客模板、vitepress离线全文搜索插件、VitePress RSS 支持插件|178|2024-01-21|
 |26|[Adicwu/masami](https://github.com/Adicwu/masami)|A PC-side animation video website for learning and personal use only|138|2023-11-23|
 |27|[MrWeilian/iceWebGL](https://github.com/MrWeilian/iceWebGL)|🧊 WebGL上车指南，带你从零开始体系化学习 WebGL。|135|2024-01-14|
 |28|[cumt-robin/vue3-ts-blog-frontend](https://github.com/cumt-robin/vue3-ts-blog-frontend)|基于 vue3 + ts + ant-design-vue 的个人博客|120|2023-11-30|
@@ -48,7 +48,7 @@
 |41|[chao921125/vue-vite](https://github.com/chao921125/vue-vite)|vue3+vite5+vue-router+pinia，动态路由、权限管理、vw适配，路由切换PC与移动端，学习商用均可，配置简单，各种实用的插件库及对应示例|60|2024-01-19|
 |42|[zhou-fuhao/relation-graph-vue2](https://github.com/zhou-fuhao/relation-graph-vue2)|使用G6、X6、JsPlumb等实现血缘关系图谱|59|2024-01-02|
 |43|[iamwhj/mobile-maker](https://github.com/iamwhj/mobile-maker)|适合学习探索的低代码项目，拥有完整的低代码核心流程，组件线上打包-拖拽生成页面-扫码在线预览。|57|2023-10-13|
-|44|[luoyunchong/lin-cms-vvlog](https://github.com/luoyunchong/lin-cms-vvlog)|增加了CMS博客的用户UI端|56|2024-01-10|
+|44|[luoyunchong/lin-cms-vvlog](https://github.com/luoyunchong/lin-cms-vvlog)|增加了CMS博客的用户UI端|56|2024-01-21|
 |45|[justorez/bookmark-cleaner](https://github.com/justorez/bookmark-cleaner)|🚀自动检测失效书签链接，一键清理|55|2023-12-11|
 |46|[OToNaShiAKi/material-douden-tool](https://github.com/OToNaShiAKi/material-douden-tool)|采用 微拟物 FUI & Material 设计的向 bilibili 直播间发送 Vtuber 翻译、歌词的弹幕同传工具|47|2023-07-29|
 |47|[wangcham/ppt_killer](https://github.com/wangcham/ppt_killer)|使用chatgpt总结你的pptx文件，支持依据ppt内容生成问题和保存AI回答       Use chatgpt to summarize your pptx files and generate questions about ppt , supports saving answers and docker deployment.|44|2023-11-21|
@@ -57,7 +57,7 @@
 |50|[galaxy-s10/nuxt-blog-client](https://github.com/galaxy-s10/nuxt-blog-client)|基于Nuxt2 + ElementUI 搭建的博客前台|41|2023-08-03|
 |51|[LightAPIs/free-export-bookmarks](https://github.com/LightAPIs/free-export-bookmarks)|Freely bookmark export tool. 自由地书签导出工具。|40|2023-10-02|
 |52|[opensource-f2f/website](https://github.com/opensource-f2f/website)|《开源面对面》官网|39|2023-12-11|
-|53|[nice-people-frontend-community/nice-leetcode](https://github.com/nice-people-frontend-community/nice-leetcode)|好青年    leetcode 打卡群|38|2024-01-20|
+|53|[nice-people-frontend-community/nice-leetcode](https://github.com/nice-people-frontend-community/nice-leetcode)|好青年    leetcode 打卡群|38|2024-01-21|
 |54|[huiyadanli/gugu-portal](https://github.com/huiyadanli/gugu-portal)|一个简洁的无后端静态导航站点（个人书签页）|37|2023-11-16|
 |55|[pdsuwwz/hoc-element-table](https://github.com/pdsuwwz/hoc-element-table)|📦  基于 Vue3 + Webpack5 + Element Plus Table 二次构建表格组件，开箱即用 A Vue 3.x Table Component built on Webpack 5 该组件库可供学习、参考和用于二次开发|36|2024-01-15|
 |56|[open17/vuepress-theme-easy-book](https://github.com/open17/vuepress-theme-easy-book)|一款美观,知识库向的vuepress主题🌠|35|2023-12-24|
