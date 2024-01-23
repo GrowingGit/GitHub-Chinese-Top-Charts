@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Assembly
-<sub>数据更新: 2024-01-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|55992|2023-12-29|
-|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10418|2024-01-19|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|55994|2023-12-29|
+|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10419|2024-01-21|
 |3|[STM32-base/STM32-base](https://github.com/STM32-base/STM32-base)|A simple start for any STM32 based project.|318|2024-01-18|
 |4|[TG9541/stm8ef](https://github.com/TG9541/stm8ef)|STM8 eForth - a user friendly Forth for simple µCs with docs|302|2023-08-05|
 |5|[mengning/linuxkernel](https://github.com/mengning/linuxkernel)|操作系统导论教学资料、《庖丁解牛Linux内核》配套资料|253|2024-01-11|
@@ -26,12 +26,13 @@
 |19|[thu-cs-lab/supervisor-la32r](https://github.com/thu-cs-lab/supervisor-la32r)|LoongArch 32 Reduced 监控程序|4|2023-08-08|
 |20|[flwfdd/BIT-Run](https://github.com/flwfdd/BIT-Run)|北理润 - 大三上汇编小游戏大作业|3|2023-12-22|
 |21|[DANNHIROAKI/XJTU-COMP400627-OS](https://github.com/DANNHIROAKI/XJTU-COMP400627-OS)|西安交通大学COMP400627操作系统课程|3|2024-01-11|
-|22|[doincli/esp32_obd_blue](https://github.com/doincli/esp32_obd_blue)|主分支是obd组件 其它分支看readme|3|2023-07-27|
-|23|[tokai-student-rocket-project/H-58-Avionics](https://github.com/tokai-student-rocket-project/H-58-Avionics)|H-58搭載計器   2023年度 夏季 能代 NOGO|3|2023-11-13|
-|24|[Lisadww/Assembly2048](https://github.com/Lisadww/Assembly2048)|汇編語言2048|3|2023-08-28|
-|25|[KristianLi/Assembler_lab_homework](https://github.com/KristianLi/Assembler_lab_homework)|汇编作业|2|2023-12-21|
-|26|[LuyuZhang00/Embedded-Systems](https://github.com/LuyuZhang00/Embedded-Systems)|2022秋季《微机原理实验》：使用80386汇编完成七个程序。2023春季《嵌入式计算机系统》项目：基于8051的数字体温计/基于MSP430的心电采集计数系统|2|2023-11-01|
-|27|[shynur/BootMate](https://github.com/shynur/BootMate)|一个在机器启动后 (操作系统被加载之前) 运行的小程序.|2|2023-10-08|
+|22|[zhuozhiyongde/Introduction-To-Computer-System-2023Fall-PKU](https://github.com/zhuozhiyongde/Introduction-To-Computer-System-2023Fall-PKU)|北京大学 2023 年秋计算机系统导论课程（ICS）作业、笔记、经验|3|2024-01-16|
+|23|[doincli/esp32_obd_blue](https://github.com/doincli/esp32_obd_blue)|主分支是obd组件 其它分支看readme|3|2023-07-27|
+|24|[tokai-student-rocket-project/H-58-Avionics](https://github.com/tokai-student-rocket-project/H-58-Avionics)|H-58搭載計器   2023年度 夏季 能代 NOGO|3|2023-11-13|
+|25|[Lisadww/Assembly2048](https://github.com/Lisadww/Assembly2048)|汇編語言2048|3|2023-08-28|
+|26|[KristianLi/Assembler_lab_homework](https://github.com/KristianLi/Assembler_lab_homework)|汇编作业|2|2023-12-21|
+|27|[LuyuZhang00/Embedded-Systems](https://github.com/LuyuZhang00/Embedded-Systems)|2022秋季《微机原理实验》：使用80386汇编完成七个程序。2023春季《嵌入式计算机系统》项目：基于8051的数字体温计/基于MSP430的心电采集计数系统|2|2023-11-01|
+|28|[shynur/BootMate](https://github.com/shynur/BootMate)|一个在机器启动后 (操作系统被加载之前) 运行的小程序.|2|2023-10-08|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
