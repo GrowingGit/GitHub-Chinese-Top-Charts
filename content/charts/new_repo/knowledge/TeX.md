@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > TeX
-<sub>数据更新: 2024-01-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[bjut-swift/BJUT-Helper](https://github.com/bjut-swift/BJUT-Helper)|北京工业大学课程资源共享计划|52|2023-12-30|2023-05-30|
+|1|[bjut-swift/BJUT-Helper](https://github.com/bjut-swift/BJUT-Helper)|北京工业大学课程资源共享计划|52|2024-01-23|2023-05-30|
 |2|[wenbindu/ThinkPython2-CN](https://github.com/wenbindu/ThinkPython2-CN)|《ThinkPython2》中文译本|42|2024-01-21|2023-03-11|
 |3|[RuijieZhu94/StatisticalLearning_USTC](https://github.com/RuijieZhu94/StatisticalLearning_USTC)|Statistical Learning course in USTC. 中科大统计学习（刘东）课程复习资料。|40|2024-01-09|2023-02-28|
 |4|[xiaoweiChen/The-CXX-Library-Fourth-Edition-include-CXX23](https://github.com/xiaoweiChen/The-CXX-Library-Fourth-Edition-include-CXX23)|《The C++ Standard Library》的非专业个人翻译|35|2023-12-12|2023-12-08|
@@ -22,29 +22,29 @@
 |15|[SizheRee/HUST-Master-Thesis-Template](https://github.com/SizheRee/HUST-Master-Thesis-Template)|华中科技大学 计算机学院 硕士/博士 毕业论文 Latex 模板（参考2023年标准）|9|2023-09-25|2023-09-01|
 |16|[Tian42chen/Transcription-Malfunctioned](https://github.com/Tian42chen/Transcription-Malfunctioned)|ZJU 课程笔记|9|2024-01-10|2023-07-02|
 |17|[wodemaster-NJUSE/NJUSE-BigDataAnalysis](https://github.com/wodemaster-NJUSE/NJUSE-BigDataAnalysis)|2023年NJUSE大数据分析课程作业|8|2024-01-12|2023-09-16|
-|18|[KaiserKatze/mathematical-notes](https://github.com/KaiserKatze/mathematical-notes)|数学笔记|8|2024-01-22|2023-04-09|
+|18|[KaiserKatze/mathematical-notes](https://github.com/KaiserKatze/mathematical-notes)|数学笔记|8|2024-01-23|2023-04-09|
 |19|[cshaowang/swjtuThesisV2.0](https://github.com/cshaowang/swjtuThesisV2.0)|A LaTeX Template for PhD/MA Thesis of Southwest Jiaotong University (SWJTU) / 西南交通大学研究生学位论文LaTeX模板|8|2024-01-05|2023-04-06|
 |20|[wennboo/HDU-latex-template-for-master](https://github.com/wennboo/HDU-latex-template-for-master)|旨在帮助杭州电子科技大学硕博生使用 Latex完成学位论文撰写，非官方模板，如若使用，后果自负！|7|2023-12-18|2023-10-31|
 |21|[liyuxuan3003/SemiconductorDevices](https://github.com/liyuxuan3003/SemiconductorDevices)|半导体器件物理 LaTeX笔记|7|2023-10-11|2023-07-25|
 |22|[YinFengQi/2023-2024_Fall](https://github.com/YinFengQi/2023-2024_Fall)|个人的笔记|6|2024-01-12|2023-09-19|
 |23|[YanMing-lxb/SCI-LaTeX-Submission-Process-for-Elsevier](https://github.com/YanMing-lxb/SCI-LaTeX-Submission-Process-for-Elsevier)|自制的爱斯维尔期刊的LaTeX投稿工作流程模板|6|2023-12-24|2023-07-05|
-|24|[AlfredLouis00/hanjaKoreanTextbook](https://github.com/AlfredLouis00/hanjaKoreanTextbook)|a korean textbook with hanja, based on the book 《韩国语教程》 by Yonsei University, Simplified Chinese edition.|5|2024-01-20|2023-11-27|
-|25|[xiao-hei20/note-for-advanced-statistics](https://github.com/xiao-hei20/note-for-advanced-statistics)|南开大学小黑的高等概率论笔记 2023年秋|5|2023-10-30|2023-10-30|
-|26|[hereismg/MathematicalModelingEssayTemplate](https://github.com/hereismg/MathematicalModelingEssayTemplate)|全国大学生数学建模专用论文模板。|5|2023-11-05|2023-09-06|
-|27|[sci-m-wang/NEU-Thesis](https://github.com/sci-m-wang/NEU-Thesis)|东北大学学位论文LaTex版(硕博士通用)，可直接导入Overleaf。LaTex version of Northeastern University's thesis (common to master's and doctoral degrees), which can be imported directly into Overleaf.|5|2024-01-18|2023-04-20|
-|28|[NorthSecond/SYSU_Latex_Template](https://github.com/NorthSecond/SYSU_Latex_Template)|适用于中大课程报告的一个简单小模板|4|2024-01-10|2024-01-02|
-|29|[Sophie10001b/swjtuThesisV3.0](https://github.com/Sophie10001b/swjtuThesisV3.0)|V3.0 LaTeX Template for PhD/MA Thesis of Southwest Jiaotong University (SWJTU) / 西南交通大学研究生学位论文LaTeX模板(V3.0)|4|2024-01-12|2023-11-30|
-|30|[WeiViming/gzhu-thesis](https://github.com/WeiViming/gzhu-thesis)|广州大学研究生学位论文非官方模板|4|2023-12-25|2023-11-08|
-|31|[xxmy7/RUC_Report_Latex_Template](https://github.com/xxmy7/RUC_Report_Latex_Template)|中国人民大学通用课程报告Latex模板|4|2023-10-21|2023-10-19|
-|32|[chenzl23/FZUThesis](https://github.com/chenzl23/FZUThesis)|福州大学博士研究生毕业论文Latex模板|4|2023-10-17|2023-10-17|
-|33|[mengchaoheng/SCUT_Report_Latex](https://github.com/mengchaoheng/SCUT_Report_Latex)|可用于撰写华南理工大学研究生学位（毕业）论文开题报告|4|2023-11-03|2023-09-07|
-|34|[lavandejoey/ECUSTThesisLatex](https://github.com/lavandejoey/ECUSTThesisLatex)|华东理工大学本科生毕业论文Latex模板（xelatex/lualatex）|4|2024-01-21|2023-08-03|
-|35|[ZKangsen/QK_for_ESKF_chinese](https://github.com/ZKangsen/QK_for_ESKF_chinese)|Quaternion kinematics for the error-state Kalman filter 中文翻译版|4|2023-10-10|2023-06-21|
-|36|[Latiyas/JNUThesis](https://github.com/Latiyas/JNUThesis)|暨南大学博硕士学位论文Overleaf模板|4|2024-01-12|2023-06-14|
-|37|[juneleung/BFA_MasterCourse_Paper_Template](https://github.com/juneleung/BFA_MasterCourse_Paper_Template)|BFA研究生课程论文模版|4|2023-11-22|2023-06-01|
-|38|[zcyeee/HNU_LaTeX_Template](https://github.com/zcyeee/HNU_LaTeX_Template)|湖南大学课程论文LaTeX模板（非官方）|3|2024-01-17|2024-01-15|
-|39|[kon9chun/wutthesis2024](https://github.com/kon9chun/wutthesis2024)|武汉理工大学硕博论文LaTeX模板|3|2024-01-21|2024-01-13|
-|40|[rockyzhz/latexdoc-chinese-translation](https://github.com/rockyzhz/latexdoc-chinese-translation)|LaTeX 文档中文翻译项目|3|2024-01-20|2023-12-05|
+|24|[Latiyas/JNUThesis](https://github.com/Latiyas/JNUThesis)|暨南大学博硕士学位论文Overleaf模板|6|2024-01-12|2023-06-14|
+|25|[NorthSecond/SYSU_Latex_Template](https://github.com/NorthSecond/SYSU_Latex_Template)|适用于中大课程报告的一个简单小模板|5|2024-01-10|2024-01-02|
+|26|[AlfredLouis00/hanjaKoreanTextbook](https://github.com/AlfredLouis00/hanjaKoreanTextbook)|a korean textbook with hanja, based on the book 《韩国语教程》 by Yonsei University, Simplified Chinese edition.|5|2024-01-20|2023-11-27|
+|27|[xiao-hei20/note-for-advanced-statistics](https://github.com/xiao-hei20/note-for-advanced-statistics)|南开大学小黑的高等概率论笔记 2023年秋|5|2023-10-30|2023-10-30|
+|28|[hereismg/MathematicalModelingEssayTemplate](https://github.com/hereismg/MathematicalModelingEssayTemplate)|全国大学生数学建模专用论文模板。|5|2023-11-05|2023-09-06|
+|29|[sci-m-wang/NEU-Thesis](https://github.com/sci-m-wang/NEU-Thesis)|东北大学学位论文LaTex版(硕博士通用)，可直接导入Overleaf。LaTex version of Northeastern University's thesis (common to master's and doctoral degrees), which can be imported directly into Overleaf.|5|2024-01-23|2023-04-20|
+|30|[rockyzhz/latexdoc-chinese-translation](https://github.com/rockyzhz/latexdoc-chinese-translation)|LaTeX 文档中文翻译项目|4|2024-01-20|2023-12-05|
+|31|[Sophie10001b/swjtuThesisV3.0](https://github.com/Sophie10001b/swjtuThesisV3.0)|V3.0 LaTeX Template for PhD/MA Thesis of Southwest Jiaotong University (SWJTU) / 西南交通大学研究生学位论文LaTeX模板(V3.0)|4|2024-01-12|2023-11-30|
+|32|[WeiViming/gzhu-thesis](https://github.com/WeiViming/gzhu-thesis)|广州大学研究生学位论文非官方模板|4|2023-12-25|2023-11-08|
+|33|[xxmy7/RUC_Report_Latex_Template](https://github.com/xxmy7/RUC_Report_Latex_Template)|中国人民大学通用课程报告Latex模板|4|2023-10-21|2023-10-19|
+|34|[chenzl23/FZUThesis](https://github.com/chenzl23/FZUThesis)|福州大学博士研究生毕业论文Latex模板|4|2023-10-17|2023-10-17|
+|35|[mengchaoheng/SCUT_Report_Latex](https://github.com/mengchaoheng/SCUT_Report_Latex)|可用于撰写华南理工大学研究生学位（毕业）论文开题报告|4|2023-11-03|2023-09-07|
+|36|[lavandejoey/ECUSTThesisLatex](https://github.com/lavandejoey/ECUSTThesisLatex)|华东理工大学本科生毕业论文Latex模板（xelatex/lualatex）|4|2024-01-21|2023-08-03|
+|37|[ZKangsen/QK_for_ESKF_chinese](https://github.com/ZKangsen/QK_for_ESKF_chinese)|Quaternion kinematics for the error-state Kalman filter 中文翻译版|4|2023-10-10|2023-06-21|
+|38|[juneleung/BFA_MasterCourse_Paper_Template](https://github.com/juneleung/BFA_MasterCourse_Paper_Template)|BFA研究生课程论文模版|4|2023-11-22|2023-06-01|
+|39|[zcyeee/HNU_LaTeX_Template](https://github.com/zcyeee/HNU_LaTeX_Template)|湖南大学课程论文LaTeX模板（非官方）|3|2024-01-17|2024-01-15|
+|40|[kon9chun/wutthesis2024](https://github.com/kon9chun/wutthesis2024)|武汉理工大学硕博论文LaTeX模板|3|2024-01-21|2024-01-13|
 |41|[123dyu/l3note](https://github.com/123dyu/l3note)|LaTeX3学习笔记|3|2023-11-28|2023-11-28|
 |42|[djhcod/r-notes](https://github.com/djhcod/r-notes)|R语言学习笔记——从数据清洗到高级统计学和生物信息学|3|2024-01-19|2023-11-23|
 |43|[Passer-montanus/AAS_Template_LaTeX](https://github.com/Passer-montanus/AAS_Template_LaTeX)|该项目为Overleaf提供可直接导入的《自动化学报》中文稿件LateX|3|2023-11-09|2023-11-08|
