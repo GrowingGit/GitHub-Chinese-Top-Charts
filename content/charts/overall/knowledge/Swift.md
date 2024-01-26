@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Swift
-<sub>数据更新: 2024-01-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|14851|2024-01-18|
+|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|14853|2024-01-18|
 |2|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|2138|2023-12-31|
 |3|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|1401|2024-01-21|
-|4|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|471|2023-10-04|
+|4|[pro648/BasicDemos-iOS](https://github.com/pro648/BasicDemos-iOS)|iOS学习进程中的demo汇总|472|2023-10-04|
 |5|[JmoVxia/CLDemo](https://github.com/JmoVxia/CLDemo)|记录平时博客中的Demo，持续更新|460|2024-01-12|
 |6|[RickeyBoy/Rickey-iOS-Notes](https://github.com/RickeyBoy/Rickey-iOS-Notes)|一些笔记和收获，README 就是目录|355|2024-01-24|
 |7|[basememara/ZamzamKit](https://github.com/basememara/ZamzamKit)|A Swift package for rapid development using a collection of micro utility extensions for Standard Library, Foundation, and other native frameworks.|269|2023-09-23|
@@ -30,8 +30,8 @@
 |23|[reers/ReerKit](https://github.com/reers/ReerKit)|Swift 基础库. A collection of Swift extensions and utilities.|12|2024-01-24|
 |24|[aruis/BookTime](https://github.com/aruis/BookTime)|做一个安静的读书人|12|2024-01-05|
 |25|[rztime/QuicklySwift](https://github.com/rztime/QuicklySwift)|swift 提高UI编写效率，常用方法集合|9|2024-01-04|
-|26|[fangjinfeng/FJFSwiftBlogDemo](https://github.com/fangjinfeng/FJFSwiftBlogDemo)|博客相关的swift的demo|8|2023-11-22|
-|27|[RicardoWesleyli/SwiftUI](https://github.com/RicardoWesleyli/SwiftUI)|SwiftUI极简开发书籍配套代码|7|2023-08-30|
+|26|[RicardoWesleyli/SwiftUI](https://github.com/RicardoWesleyli/SwiftUI)|SwiftUI极简开发书籍配套代码|8|2023-08-30|
+|27|[fangjinfeng/FJFSwiftBlogDemo](https://github.com/fangjinfeng/FJFSwiftBlogDemo)|博客相关的swift的demo|8|2023-11-22|
 |28|[1220144667/SwiftUI](https://github.com/1220144667/SwiftUI)|SwiftUI学习项目|6|2023-11-16|
 
 <div align="center">
