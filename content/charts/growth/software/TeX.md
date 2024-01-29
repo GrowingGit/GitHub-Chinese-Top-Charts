@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > TeX
-<sub>数据更新: 2024-01-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[Macin20/why-we-write](https://github.com/Macin20/why-we-write)|为什么写作？|334|2|2023-10-06|
 |2|[xiaobai-171/overleaf-latex-chinese-general-template](https://github.com/xiaobai-171/overleaf-latex-chinese-general-template)|一个overleaf latex中文通用模板，支持单栏双栏图、单栏双栏表、算法、代码，包含注释说明和例子，语法简单易懂|4|1|2024-01-24|
-|3|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|2580|1|2023-09-28|
-|4|[HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv)|🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.|3371|1|2024-01-23|
-|5|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|4221|1|2024-01-27|
+|3|[CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)|A Chi­nese edi­tion of the Not So Short Introduction to LaTeX2ε|2583|1|2023-09-28|
+|4|[HugoBlox/theme-academic-cv](https://github.com/HugoBlox/theme-academic-cv)|🎓 无需编写任何代码即可轻松创建漂亮的学术网站 Easily create a beautiful academic résumé or educational website using Hugo and GitHub. No code.|3374|1|2024-01-28|
+|5|[tuna/thuthesis](https://github.com/tuna/thuthesis)|LaTeX Thesis Template for Tsinghua University|4223|1|2024-01-27|
 |6|[TheNetAdmin/zjuthesis](https://github.com/TheNetAdmin/zjuthesis)|Zhejiang University Graduation Thesis LaTeX Template|2210|1|2024-01-11|
 |7|[NemoYuan2008/SJTU-Thesis-Proposal](https://github.com/NemoYuan2008/SJTU-Thesis-Proposal)|上海交通大学开题报告LaTeX模板（非官方） Shanghai Jiao Tong University LaTeX Template for thesis proposal (unofficial)|41|1|2024-01-17|
 |8|[WHU-ICPC/WHU-ICPC](https://github.com/WHU-ICPC/WHU-ICPC)|武汉大学 ICPC 集训队仓库|5|0|2024-01-15|
@@ -51,19 +51,19 @@
 |44|[liyuxuan3003/DigitalIC](https://github.com/liyuxuan3003/DigitalIC)|数字集成电路LaTeX笔记|3|0|2023-11-06|
 |45|[ustctug/ustcthesis](https://github.com/ustctug/ustcthesis)|LaTeX template for USTC thesis|1454|0|2023-08-05|
 |46|[YanMing-lxb/YM-CV-Template](https://github.com/YanMing-lxb/YM-CV-Template)|一个LaTeX简历模板|4|0|2023-08-19|
-|47|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|487|0|2023-12-27|
-|48|[HouJP/resume](https://github.com/HouJP/resume)|基于LaTeX编译生成的中英文个人简历|173|0|2024-01-11|
-|49|[fylimas/YSF](https://github.com/fylimas/YSF)|YSF - 国家自然科学基金青年项目LaTeX模版|39|0|2023-12-29|
-|50|[hushidong/biblatex-gb7714-2015](https://github.com/hushidong/biblatex-gb7714-2015)|A biblatex implementation of the GB/T7714-2015 bibliography style     GB/T 7714-2015 参考文献著录和标注的biblatex样式包|680|0|2023-09-13|
-|51|[hodcarrier/redheaddoc](https://github.com/hodcarrier/redheaddoc)|红头文件 TeX 模板|4|0|2024-01-15|
-|52|[wennboo/NSFC-concluding-report-latex](https://github.com/wennboo/NSFC-concluding-report-latex)|旨在帮助各位老师方便用latex完成基金结题报告的撰写。非官方模板，如若使用，后果自负！|3|0|2023-12-18|
-|53|[reconmaster/ki](https://github.com/reconmaster/ki)|Extend good 気 through your intention and good action will follow|6|0|2023-10-19|
-|54|[qiyuan-chen/ZJU-Beamer-Template](https://github.com/qiyuan-chen/ZJU-Beamer-Template)|一个更好看的浙江大学beamer模板|3|0|2023-08-23|
-|55|[seisman/cv](https://github.com/seisman/cv)|My academic CV powered by LaTeX|58|0|2024-01-01|
-|56|[thomas10011/WHU-Beamer](https://github.com/thomas10011/WHU-Beamer)|武汉大学Beamer幻灯片模板。武大师生可用于各种报告、展示、答辩等场景。|42|0|2023-11-01|
-|57|[Nymphium/nymphium.github.io](https://github.com/Nymphium/nymphium.github.io)|移民|5|0|2023-11-29|
-|58|[YimianDai/iNSFC](https://github.com/YimianDai/iNSFC)|An awesome LaTeX template for NSFC proposal.|328|0|2024-01-09|
-|59|[Didnelpsun/Math](https://github.com/Didnelpsun/Math)|考研数学，数学一，包括高等数学、线性代数、概率统计|550|0|2023-07-29|
+|47|[be-oi/beoi-training](https://github.com/be-oi/beoi-training)|Public training materials for Belgian Oympiad in Informatics|27|0|2024-01-28|
+|48|[sjtug/SJTUBeamer](https://github.com/sjtug/SJTUBeamer)|上海交通大学 Beamer 模版   Beamer template for Shanghai Jiao Tong University|487|0|2023-12-27|
+|49|[HouJP/resume](https://github.com/HouJP/resume)|基于LaTeX编译生成的中英文个人简历|173|0|2024-01-11|
+|50|[fylimas/YSF](https://github.com/fylimas/YSF)|YSF - 国家自然科学基金青年项目LaTeX模版|39|0|2023-12-29|
+|51|[hushidong/biblatex-gb7714-2015](https://github.com/hushidong/biblatex-gb7714-2015)|A biblatex implementation of the GB/T7714-2015 bibliography style     GB/T 7714-2015 参考文献著录和标注的biblatex样式包|680|0|2023-09-13|
+|52|[hodcarrier/redheaddoc](https://github.com/hodcarrier/redheaddoc)|红头文件 TeX 模板|4|0|2024-01-15|
+|53|[wennboo/NSFC-concluding-report-latex](https://github.com/wennboo/NSFC-concluding-report-latex)|旨在帮助各位老师方便用latex完成基金结题报告的撰写。非官方模板，如若使用，后果自负！|3|0|2023-12-18|
+|54|[reconmaster/ki](https://github.com/reconmaster/ki)|Extend good 気 through your intention and good action will follow|6|0|2023-10-19|
+|55|[qiyuan-chen/ZJU-Beamer-Template](https://github.com/qiyuan-chen/ZJU-Beamer-Template)|一个更好看的浙江大学beamer模板|3|0|2023-08-23|
+|56|[seisman/cv](https://github.com/seisman/cv)|My academic CV powered by LaTeX|58|0|2024-01-01|
+|57|[thomas10011/WHU-Beamer](https://github.com/thomas10011/WHU-Beamer)|武汉大学Beamer幻灯片模板。武大师生可用于各种报告、展示、答辩等场景。|42|0|2023-11-01|
+|58|[Nymphium/nymphium.github.io](https://github.com/Nymphium/nymphium.github.io)|移民|5|0|2023-11-29|
+|59|[YimianDai/iNSFC](https://github.com/YimianDai/iNSFC)|An awesome LaTeX template for NSFC proposal.|328|0|2024-01-09|
 |60|[MAVProxyUser/YushuTechUnitreeGo1](https://github.com/MAVProxyUser/YushuTechUnitreeGo1)|宇树科技 Yushu Technology (Unitree) go1 development notes|228|0|2023-12-02|
 |61|[NTU-NCS-lab/NTU-Thesis-Writing-Template](https://github.com/NTU-NCS-lab/NTU-Thesis-Writing-Template)|Unofficial LaTex templates for thesis and IEEE conference at National Taiwan University. 國立臺灣大學電機資訊學院碩博士論文及 IEEE conference 模板|10|0|2024-01-25|
 |62|[yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)|线性代数：未竟之美|65|0|2024-01-15|
@@ -78,7 +78,7 @@
 |71|[ahhylau/shuthesis](https://github.com/ahhylau/shuthesis)|LaTeX Thesis Template for Shanghai University|32|0|2024-01-17|
 |72|[daobook/dash-book](https://github.com/daobook/dash-book)|Dash(迁移到 @ https://xinetzone.github.io/deta-hub/)|6|0|2024-01-27|
 |73|[YangLaTeX/thubeamer](https://github.com/YangLaTeX/thubeamer)|A Beamer Theme for Tsinghua University (THU).|61|0|2023-11-27|
-|74|[wuliwiki/PhysWiki-log](https://github.com/wuliwiki/PhysWiki-log)|小时百科|74|0|2024-01-27|
+|74|[wuliwiki/PhysWiki-log](https://github.com/wuliwiki/PhysWiki-log)|小时百科|74|0|2024-01-28|
 |75|[fanhongtao/ebooks](https://github.com/fanhongtao/ebooks)|80年代高中数理化甲种本|57|0|2024-01-07|
 |76|[ytiurin/hyphen](https://github.com/ytiurin/hyphen)|Text hyphenation in Javascript.|191|0|2024-01-05|
 |77|[LucaJiang/LaTeX4VSCode](https://github.com/LucaJiang/LaTeX4VSCode)|我在VSCode下使用LaTeX的yi点点心得|17|0|2023-10-19|

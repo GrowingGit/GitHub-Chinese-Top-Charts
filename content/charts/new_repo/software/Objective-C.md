@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2024-01-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[QiuChenlyOpenSource/SearchHexCodeInFile](https://github.com/QiuChenlyOpenSource/SearchHexCodeInFile)|编写，测试特征码在文件中的相对位置，以便注入绝对地址。|46|2024-01-10|2023-10-13|
+|1|[QiuChenlyOpenSource/SearchHexCodeInFile](https://github.com/QiuChenlyOpenSource/SearchHexCodeInFile)|编写，测试特征码在文件中的相对位置，以便注入绝对地址。|47|2024-01-10|2023-10-13|
 |2|[Xezun/XZMocoa](https://github.com/Xezun/XZMocoa)|iOS MVVM 基础框架|33|2023-08-30|2023-08-06|
-|3|[marlkiller/dylib_dobby_hook](https://github.com/marlkiller/dylib_dobby_hook)|该项目是一个集成了 Dobby Hook 框架的 macOS dylib 项目，通过使用 Dobby Hook 框架实现对应用程序的钩子函数，以实现跨平台破解软件的效果。|28|2024-01-27|2024-01-14|
+|3|[marlkiller/dylib_dobby_hook](https://github.com/marlkiller/dylib_dobby_hook)|该项目是一个集成了 Dobby Hook 框架的 macOS dylib 项目，通过使用 Dobby Hook 框架实现对应用程序的钩子函数，以实现跨平台破解软件的效果。|31|2024-01-28|2024-01-14|
 |4|[QuintGao/GKVideoScrollView](https://github.com/QuintGao/GKVideoScrollView)|iOS仿抖音等上下滑动切换视图，使用方式类似UITableView，支持不同cell切换|23|2024-01-15|2023-03-16|
 |5|[eventtracing/EventTracing-iOS](https://github.com/eventtracing/EventTracing-iOS)|曙光 iOS SDK，隶属于 https://github.com/eventtracing/dawn 项目|22|2023-08-09|2023-02-13|
 |6|[TangSengDaoDao/TangSengDaoDaoiOS](https://github.com/TangSengDaoDao/TangSengDaoDaoiOS)|唐僧叨叨即时通讯(im) iOS 端|20|2023-12-21|2023-07-06|
 |7|[muyang520/IOS_code](https://github.com/muyang520/IOS_code)|iOS逆向代码|13|2023-10-13|2023-05-04|
-|8|[hi-dhl/HarmonyPractice](https://github.com/hi-dhl/HarmonyPractice)|这个仓库主要用于演示 ArkTS 语法和 鸿蒙组件的使用，以及鸿蒙的实战项目|6|2024-01-27|2024-01-20|
+|8|[hi-dhl/HarmonyPractice](https://github.com/hi-dhl/HarmonyPractice)|这个仓库主要用于演示 ArkTS 语法和 鸿蒙组件的使用，以及鸿蒙的实战项目|6|2024-01-28|2024-01-20|
 |9|[zmfflying/ZWKURLHandler](https://github.com/zmfflying/ZWKURLHandler)|WKWebView秒开demo|6|2023-09-12|2023-09-12|
 |10|[CodeBlueFriend/MMChooseAddressView](https://github.com/CodeBlueFriend/MMChooseAddressView)|仿淘宝2023省市县街道地址选择器|6|2023-08-14|2023-08-11|
 |11|[evendevil66/alibc4](https://github.com/evendevil66/alibc4)|flutter阿里百川4.x插件|4|2023-12-09|2023-12-08|

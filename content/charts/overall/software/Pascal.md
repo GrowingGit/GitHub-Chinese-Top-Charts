@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Pascal
-<sub>数据更新: 2024-01-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|540|2024-01-23|
-|2|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|433|2024-01-27|
+|2|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|434|2024-01-28|
 |3|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|306|2024-01-18|
 |4|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|250|2023-11-15|
 |5|[ymofen/diocp-v5](https://github.com/ymofen/diocp-v5)|delphi iocp, http, websocket, ntrip|234|2023-10-04|
@@ -30,7 +30,7 @@
 |23|[xenli/OneLazarus](https://github.com/xenli/OneLazarus)|OneLazarus是叫兽(FLM)QQ:378464060基于Lazarus IDE开发的三层中间件，开源免费，支持MVC及传统DataSet框架，使用的是Mormot2的HTTP通讯。【OnePascal开源群】：814696487|6|2023-12-13|
 |24|[dajingshan/miniframe](https://github.com/dajingshan/miniframe)|miniframe开源Web框架，一个使用pascal脚本编写业务代码的服务端框架，适配Ｄｅｌｐｈｉ、lazarus。框架已实现了HTTP服务、脚本解释执行、多种数据库连接、数据库缓冲池、连接缓冲池等底层支持。在此基础上使用者只需要关注自己的业务实现即可。|5|2023-08-03|
 |25|[gxlmyacc/SYIPC](https://github.com/gxlmyacc/SYIPC)|一个Delphi实现的IPC通讯库，使用Window的消息机制实现的。|4|2023-10-10|
-|26|[cityboat888/OnePascal](https://github.com/cityboat888/OnePascal)|OnePascal简介: OneDelphi是基于Delphi IDE开发的三层中间件， oneLaz是基于Lazaus IDE开发的三层中间件， OneUniApp是基于HBuilderX IDE开发的多端合一app 中间件支持MVC及传统DataSet框架，这个版本是在源码的基础上(放弃mormot)使用Delphi-Cross-Socket作为HTTP通讯|3|2024-01-22|
+|26|[cityboat888/OnePascal](https://github.com/cityboat888/OnePascal)|OnePascal简介: OneDelphi是基于Delphi IDE开发的三层中间件， oneLaz是基于Lazaus IDE开发的三层中间件， OneUniApp是基于HBuilderX IDE开发的多端合一app 中间件支持MVC及传统DataSet框架，这个版本是在源码的基础上(放弃mormot)使用Delphi-Cross-Socket作为HTTP通讯|3|2024-01-28|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
