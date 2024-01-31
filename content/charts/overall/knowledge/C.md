@@ -1,44 +1,44 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > C
-<sub>数据更新: 2024-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-01-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|7390|2023-11-13|
-|2|[xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid)|FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议|4593|2024-01-11|
-|3|[cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide)|A bare metal programming guide (ARM microcontrollers)|2280|2023-08-19|
-|4|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|2133|2024-01-01|
+|1|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|7391|2023-11-13|
+|2|[xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid)|FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议|4594|2024-01-11|
+|3|[cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide)|A bare metal programming guide (ARM microcontrollers)|2284|2023-08-19|
+|4|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|2134|2024-01-01|
 |5|[riba2534/TCP-IP-NetworkNote](https://github.com/riba2534/TCP-IP-NetworkNote)|📘《TCP/IP网络编程》(韩-尹圣雨)学习笔记|1979|2023-08-04|
-|6|[yianwillis/vimcdoc](https://github.com/yianwillis/vimcdoc)|Vim 中文文档计划|1810|2023-10-13|
-|7|[eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)|Learn eBPF by examples   eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景|1658|2024-01-26|
-|8|[HITSZ-OpenCS/HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|1307|2024-01-26|
-|9|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|1206|2023-11-21|
+|6|[yianwillis/vimcdoc](https://github.com/yianwillis/vimcdoc)|Vim 中文文档计划|1809|2023-10-13|
+|7|[eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)|Learn eBPF by examples   eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景|1678|2024-01-26|
+|8|[HITSZ-OpenCS/HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|1308|2024-01-26|
+|9|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|1208|2023-11-21|
 |10|[agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx)|A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  |1062|2024-01-22|
-|11|[larryli/PuTTY](https://github.com/larryli/PuTTY)|PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。|954|2023-11-03|
+|11|[larryli/PuTTY](https://github.com/larryli/PuTTY)|PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。|955|2023-11-03|
 |12|[AlexFanw/HUSTER-CS](https://github.com/AlexFanw/HUSTER-CS)|华中科技大学 计算机科学与技术学院 学习资料💯 以及 实验资料💾|934|2023-12-13|
-|13|[zfl9/chinadns-ng](https://github.com/zfl9/chinadns-ng)|chinadns 重构增强版，支持黑白名单，ipset/nftset|879|2024-01-22|
+|13|[zfl9/chinadns-ng](https://github.com/zfl9/chinadns-ng)|chinadns 重构增强版，支持黑白名单，ipset/nftset|878|2024-01-30|
 |14|[FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit)|iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结|822|2023-11-02|
-|15|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|668|2024-01-06|
+|15|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|670|2024-01-06|
 |16|[LearningOS/os-lectures](https://github.com/LearningOS/os-lectures)|2023年春季OS课程Slides|524|2023-11-22|
-|17|[Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)|LILYGO LoRa Series examples|515|2024-01-24|
-|18|[Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot)|Open source materials for a novel structured legged robot, including mechanical design, electronic design, algorithm simulation, and software development.       一个新型结构的轮腿机器人开源资料，包含机械设计、电子设计、算法仿真、软件开发等 ...|503|2023-11-23|
-|19|[linuxkerneltravel/lmp](https://github.com/linuxkerneltravel/lmp)|LMP provides an eBPF Supermarket for developers, including eBPF tools, open-source projects based on eBPF, eBPF learning materials, Linux kernel learning materials, and more.|499|2024-01-29|
+|17|[Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)|LILYGO LoRa Series examples|516|2024-01-30|
+|18|[Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot)|Open source materials for a novel structured legged robot, including mechanical design, electronic design, algorithm simulation, and software development.       一个新型结构的轮腿机器人开源资料，包含机械设计、电子设计、算法仿真、软件开发等 ...|504|2023-11-23|
+|19|[linuxkerneltravel/lmp](https://github.com/linuxkerneltravel/lmp)|LMP provides an eBPF Supermarket for developers, including eBPF tools, open-source projects based on eBPF, eBPF learning materials, Linux kernel learning materials, and more.|500|2024-01-30|
 |20|[ultraji/linux-0.12](https://github.com/ultraji/linux-0.12)|《Linux内核完全剖析》linux0.12源码及实验环境|428|2023-10-29|
 |21|[alejoseb/Modbus-STM32-HAL-FreeRTOS](https://github.com/alejoseb/Modbus-STM32-HAL-FreeRTOS)|Modbus TCP and  RTU,  Master and Slave for STM32 using Cube HAL and FreeRTOS|405|2023-12-27|
 |22|[Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt)|Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.|375|2024-01-04|
-|23|[bouffalolab/bouffalo_sdk](https://github.com/bouffalolab/bouffalo_sdk)|BouffaloSDK is the IOT and MCU software development kit provided by the Bouffalo Lab Team, supports all the series of Bouffalo chips. Also it is the combination of bl_mcu_sdk and bl_iot_sdk |327|2024-01-26|
+|23|[bouffalolab/bouffalo_sdk](https://github.com/bouffalolab/bouffalo_sdk)|BouffaloSDK is the IOT and MCU software development kit provided by the Bouffalo Lab Team, supports all the series of Bouffalo chips. Also it is the combination of bl_mcu_sdk and bl_iot_sdk |328|2024-01-26|
 |24|[Harry-hhj/CVRM2021-sjtu](https://github.com/Harry-hhj/CVRM2021-sjtu)|上海交通大学 RoboMaster 2021赛季 视觉代码|309|2024-01-26|
 |25|[adiwzx/freenode](https://github.com/adiwzx/freenode)|V2Ray   Clash 免费节点分享|298|2023-10-22|
 |26|[kuangyufei/kernel_liteos_a_note](https://github.com/kuangyufei/kernel_liteos_a_note)|精读鸿蒙内核源码,百万汉字注解分析;百篇博客深入解剖,挖透内核地基工程.注解同步官方,工具文档齐全,多站点发布 . weharmonyos.com|285|2023-12-28|
 |27|[feiskyer/ebpf-apps](https://github.com/feiskyer/ebpf-apps)|极客时间专栏《eBPF 核心技术与实战》案例|272|2023-10-29|
 |28|[Push3AX/GrabAccess](https://github.com/Push3AX/GrabAccess)|Bookit / Windows Login Password and Bitlocker Bypass Tool|270|2023-11-19|
-|29|[ZCXu1/HUST-CSE-Experiments](https://github.com/ZCXu1/HUST-CSE-Experiments)|华中科技大学网络空间安全学院课程设计及课程实验合集(Collection of Course Projects and Experiments in the School of Cyber Science and Engineering at HUST)|231|2023-09-14|
+|29|[ZCXu1/HUST-CSE-Experiments](https://github.com/ZCXu1/HUST-CSE-Experiments)|华中科技大学网络空间安全学院课程设计及课程实验合集(Collection of Course Projects and Experiments in the School of Cyber Science and Engineering at HUST)|232|2023-09-14|
 |30|[evilashz/PigScheduleTask](https://github.com/evilashz/PigScheduleTask)|添加计划任务方法集合|226|2023-08-06|
 |31|[vrolife/modern_laptop](https://github.com/vrolife/modern_laptop)|Redmi Book Pro 14/15 2022 锐龙版/Ryzen Linux 键盘驱动/keyboard driver|212|2023-11-25|
 |32|[parallel101/opengltutor](https://github.com/parallel101/opengltutor)|零基础入门计算机图形学必不可少的在线网络公开课，手把手教您现代 OpenGL 的点点滴滴，构建爆款游戏引擎。|210|2024-01-21|
 |33|[lkml-likexu/kde](https://github.com/lkml-likexu/kde)|记录我的内核成长贡献之路。IMO, fork or clone this repo would be very stupid.  If you have any questions, just send me an email.|187|2024-01-01|
-|34|[zhangboyang/PAL3patch](https://github.com/zhangboyang/PAL3patch)|《仙剑奇侠传三》《仙剑奇侠传三外传·问情篇》分辨率补丁|178|2024-01-23|
+|34|[zhangboyang/PAL3patch](https://github.com/zhangboyang/PAL3patch)|《仙剑奇侠传三》《仙剑奇侠传三外传·问情篇》分辨率补丁|179|2024-01-23|
 |35|[zjutjh/zjut-icicles](https://github.com/zjutjh/zjut-icicles)|浙江工业大学课程攻略共享计划|162|2024-01-28|
 |36|[sunxvming/navmesh](https://github.com/sunxvming/navmesh)|导航网格寻路C++实现版(入门版)|153|2023-11-15|
 |37|[qaiu/c4droid-code](https://github.com/qaiu/c4droid-code)|C4droid代码实例 C/C++代码实例/教程|123|2023-09-07|
@@ -47,7 +47,7 @@
 |40|[chunhuajiang/esp-idf-zh](https://github.com/chunhuajiang/esp-idf-zh)|ESP-IDF 中文文档 |105|2023-11-03|
 |41|[wolongalick/AVClip](https://github.com/wolongalick/AVClip)|这是一个用于学习音视频剪辑的项目|101|2023-10-05|
 |42|[HilbertRonAnju/XJTU_Electrical_Engineering_and_Automation](https://github.com/HilbertRonAnju/XJTU_Electrical_Engineering_and_Automation)|本项目为西安交通大学电气工程及其自动化专业课程资料。我是西安交通大学电气工程及其自动化专业18级学生，专业方向电气工程（发电），本项目包含我从大一到大四的所搜集整理的课程资料以及实验资料，包括但不限于往年题，实验代码以及实验报告，复习提纲，课后习题答案等。希望该项目在学业上对学弟学妹有所帮助，记得留下star。|96|2023-12-21|
-|43|[gongluck/CVIP](https://github.com/gongluck/CVIP)|C/C++/Golang/Linux...知识整理|85|2024-01-16|
+|43|[gongluck/CVIP](https://github.com/gongluck/CVIP)|C/C++/Golang/Linux...知识整理|86|2024-01-16|
 |44|[volatile-static/Keyboard](https://github.com/volatile-static/Keyboard)|客制化机械键盘——从0开始全套资料|83|2023-08-10|
 |45|[heidsoft/devops](https://github.com/heidsoft/devops)|devops 经验总结实践与产品化|80|2023-08-21|
 |46|[jaywcjlove/c-tutorial](https://github.com/jaywcjlove/c-tutorial)|C语言教程|62|2023-11-29|
