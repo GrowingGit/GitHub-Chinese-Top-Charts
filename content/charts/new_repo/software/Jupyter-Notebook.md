@@ -1,53 +1,52 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Jupyter Notebook
-<sub>数据更新: 2024-01-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[suno-ai/bark](https://github.com/suno-ai/bark)|🔊 Text-Prompted Generative Audio Model|30206|2023-12-14|2023-04-07|
-|2|[tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)|Instruct-tune LLaMA on consumer hardware|17812|2024-01-24|2023-03-13|
-|3|[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.|10434|2024-01-28|2023-02-11|
-|4|[TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)|PhotoMaker|6744|2024-01-26|2023-12-06|
-|5|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything)|Inpaint anything using Segment Anything and inpainting models.|4883|2023-11-19|2023-04-09|
-|6|[LC1332/Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM)|骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技|3520|2023-09-03|2023-03-21|
-|7|[lyogavin/Anima](https://github.com/lyogavin/Anima)|33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU|2556|2024-01-13|2023-06-12|
-|8|[PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT)|We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to ...|2326|2023-12-12|2023-03-24|
-|9|[FranxYao/chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub)|Benchmarking large language models' complex reasoning ability with chain-of-thought prompting|2224|2023-12-10|2023-03-10|
-|10|[datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm)|HuggingLLM, Hugging Future.|1983|2023-11-27|2023-04-11|
-|11|[KevinWang676/Bark-Voice-Cloning](https://github.com/KevinWang676/Bark-Voice-Cloning)|Bark Voice Cloning and Voice Cloning for Chinese Speech|1781|2024-01-27|2023-06-11|
-|12|[LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya)|Chat凉宫春日, An open sourced Role-Playing chatbot Cheng Li, Ziang Leng, and others.|1337|2024-01-29|2023-05-31|
-|13|[AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP)|Democratizing Internet-scale financial data.|936|2023-12-28|2023-02-07|
-|14|[ytzfhqs/AAAMLP-CN](https://github.com/ytzfhqs/AAAMLP-CN)|Approaching (Almost) Any Machine Learning Problem中译版，在线文档地址：https://ytzfhqs.github.io/AAAMLP-CN/|875|2023-12-07|2023-08-30|
-|15|[DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart)|A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.|629|2024-01-18|2023-07-17|
+|1|[suno-ai/bark](https://github.com/suno-ai/bark)|🔊 Text-Prompted Generative Audio Model|30238|2023-12-14|2023-04-07|
+|2|[tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)|Instruct-tune LLaMA on consumer hardware|17818|2024-01-24|2023-03-13|
+|3|[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.|10482|2024-01-28|2023-02-11|
+|4|[TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)|PhotoMaker|6834|2024-01-26|2023-12-06|
+|5|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything)|Inpaint anything using Segment Anything and inpainting models.|4896|2023-11-19|2023-04-09|
+|6|[LC1332/Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM)|骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技|3523|2023-09-03|2023-03-21|
+|7|[lyogavin/Anima](https://github.com/lyogavin/Anima)|33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU|2564|2024-01-30|2023-06-12|
+|8|[PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT)|We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to ...|2332|2023-12-12|2023-03-24|
+|9|[FranxYao/chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub)|Benchmarking large language models' complex reasoning ability with chain-of-thought prompting|2231|2023-12-10|2023-03-10|
+|10|[datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm)|HuggingLLM, Hugging Future.|1985|2023-11-27|2023-04-11|
+|11|[KevinWang676/Bark-Voice-Cloning](https://github.com/KevinWang676/Bark-Voice-Cloning)|Bark Voice Cloning and Voice Cloning for Chinese Speech|1798|2024-01-31|2023-06-11|
+|12|[LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya)|Chat凉宫春日, An open sourced Role-Playing chatbot Cheng Li, Ziang Leng, and others.|1343|2024-01-30|2023-05-31|
+|13|[AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP)|Democratizing Internet-scale financial data.|940|2023-12-28|2023-02-07|
+|14|[ytzfhqs/AAAMLP-CN](https://github.com/ytzfhqs/AAAMLP-CN)|Approaching (Almost) Any Machine Learning Problem中译版，在线文档地址：https://ytzfhqs.github.io/AAAMLP-CN/|877|2023-12-07|2023-08-30|
+|15|[DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart)|A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.|630|2024-01-18|2023-07-17|
 |16|[s4afa451dgf415f/colab_stable_diffusion](https://github.com/s4afa451dgf415f/colab_stable_diffusion)|stable_diffusion_webui的colab部署版本(including English version)，下载了所流行插件依赖和并进行初始化配置。拥有mod管理、手机自适应、图片信息本地读取等脚本。|619|2024-01-21|2023-04-03|
-|17|[yuanjie-ai/ChatLLM](https://github.com/yuanjie-ai/ChatLLM)|轻松玩转LLM兼容openai&langchain，支持文心一言、讯飞星火、腾讯混元、智谱ChatGLM等|376|2023-10-16|2023-04-11|
+|17|[yuanjie-ai/ChatLLM](https://github.com/yuanjie-ai/ChatLLM)|轻松玩转LLM兼容openai&langchain，支持文心一言、讯飞星火、腾讯混元、智谱ChatGLM等|378|2023-10-16|2023-04-11|
 |18|[megvii-research/CVPR2023-DMVFN](https://github.com/megvii-research/CVPR2023-DMVFN)|CVPR2023 (highlight) - A Dynamic Multi-Scale Voxel Flow Network for Video Prediction|286|2023-12-19|2023-03-15|
-|19|[wu-hao-ze/All-assignments-and-projects-for-software-engineering-courses-at-Tongji-University](https://github.com/wu-hao-ze/All-assignments-and-projects-for-software-engineering-courses-at-Tongji-University)|同济大学软件学院软件工程专业课所有作业和项目，包括以下内容：数据结构，数据结构课程设计，计算机组成原理，计算机组成原理实验，程序设计范式，离散数学，Python，操作系统，操作系统课程设计，计算机系统结构，系统分析与设计，数据库原理与应用，数据库原理与应用课程设计，算法分析设计，人工智能导论，计算机网络，计算机网络实验，软件工程，软件工程课程设计，软件设计模式，智能计算系统，编译原理，嵌入式系统导 ...|281|2024-01-15|2023-05-13|
-|20|[LC1332/Luotuo-Text-Embedding](https://github.com/LC1332/Luotuo-Text-Embedding)|Luotuo Embedding(骆驼嵌入) is a text embedding model, which developed by 李鲁鲁, 冷子昂, 陈启源, 蒟蒻等.|243|2023-08-25|2023-04-06|
-|21|[datawhalechina/whale-quant](https://github.com/datawhalechina/whale-quant)|本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用Python进行量化开发的能力。|235|2024-01-25|2023-04-08|
-|22|[RonaldJEN/FinanceChatGLM](https://github.com/RonaldJEN/FinanceChatGLM)|SMP 2023 ChatGLM金融大模型挑战赛 60 分baseline思路介绍|179|2023-08-10|2023-08-09|
+|19|[wu-hao-ze/All-assignments-and-projects-for-software-engineering-courses-at-Tongji-University](https://github.com/wu-hao-ze/All-assignments-and-projects-for-software-engineering-courses-at-Tongji-University)|同济大学软件学院软件工程专业课所有作业和项目，包括以下内容：数据结构，数据结构课程设计，计算机组成原理，计算机组成原理实验，程序设计范式，离散数学，Python，操作系统，操作系统课程设计，计算机系统结构，系统分析与设计，数据库原理与应用，数据库原理与应用课程设计，算法分析设计，人工智能导论，计算机网络，计算机网络实验，软件工程，软件工程课程设计，软件设计模式，智能计算系统，编译原理，嵌入式系统导 ...|284|2024-01-15|2023-05-13|
+|20|[LC1332/Luotuo-Text-Embedding](https://github.com/LC1332/Luotuo-Text-Embedding)|Luotuo Embedding(骆驼嵌入) is a text embedding model, which developed by 李鲁鲁, 冷子昂, 陈启源, 蒟蒻等.|244|2023-08-25|2023-04-06|
+|21|[datawhalechina/whale-quant](https://github.com/datawhalechina/whale-quant)|本项目为量化开源课程，可以帮助人们快速掌握量化金融知识以及使用Python进行量化开发的能力。|238|2024-01-25|2023-04-08|
+|22|[RonaldJEN/FinanceChatGLM](https://github.com/RonaldJEN/FinanceChatGLM)|SMP 2023 ChatGLM金融大模型挑战赛 60 分baseline思路介绍|178|2023-08-10|2023-08-09|
 |23|[LC1332/CamelBell-Chinese-LoRA](https://github.com/LC1332/CamelBell-Chinese-LoRA)|CamelBell（驼铃) is be a Chinese Language Tuning project based on LoRA. CamelBell is belongs to Project Luotuo(骆驼), an open sourced Chinese-LLM project created by  冷子昂 @ 商汤科技 & 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技|172|2023-12-21|2023-03-25|
-|24|[Glanvery/LLM-Travel](https://github.com/Glanvery/LLM-Travel)|欢迎来到 "LLM-travel" 仓库！探索大语言模型（LLM）的奥秘 🚀。致力于深入理解、探讨以及实现与大模型相关的各种技术、原理和应用。|125|2023-12-22|2023-10-02|
-|25|[WSH032/kohya-config-webui](https://github.com/WSH032/kohya-config-webui)|A WebUI for making config files used by kohya_sd_script.   一个用于生成kohya-ss训练脚本使用的toml配置文件的WebUI|88|2023-08-01|2023-04-14|
-|26|[BoXiaolei/MyTransformer_pytorch](https://github.com/BoXiaolei/MyTransformer_pytorch)|关于Transformer模型的最简洁pytorch实现，包含详细注释|84|2023-11-13|2023-11-03|
-|27|[Kedreamix/PaddleAvatar](https://github.com/Kedreamix/PaddleAvatar)|你是否曾经幻想过与自己的虚拟人交互？现在，使用PaddleAvatar，您可以将自己的图像、音频和视频转化为一个逼真的数字人视频，与其进行人机交互。  PaddleAvatar是一种基于PaddlePaddle深度学习框架的数字人生成工具，基于Paddle的许多套件，它可以将您的数字图像、音频和视频合成为一个逼真的数字人视频。除此之外，PaddleAvatar还支持进一步的开发，例如使用自然语言处 ...|79|2023-12-10|2023-04-18|
-|28|[kevin-meng/HuggingfaceDownloadShare](https://github.com/kevin-meng/HuggingfaceDownloadShare)|中国如何下载huggingface 模型并共享链接|44|2023-11-20|2023-09-10|
-|29|[Tony607/Cybergear](https://github.com/Tony607/Cybergear)|小米微电机Cybergear上手开发|38|2024-01-13|2023-09-02|
-|30|[gameofdimension/vllm-cn](https://github.com/gameofdimension/vllm-cn)|演示 vllm 对中文大语言模型的神奇效果|32|2023-11-04|2023-07-08|
-|31|[TommyZihao/aidlux_tutorial](https://github.com/TommyZihao/aidlux_tutorial)|AidLux手机部署人工智能算法|31|2023-10-14|2023-06-25|
-|32|[roberthsu2003/__112_python_chihlee__](https://github.com/roberthsu2003/__112_python_chihlee__)|10_14日_致理_python_大數據探勘|27|2023-12-09|2023-10-14|
-|33|[huangjia2019/geektime_ai_practice](https://github.com/huangjia2019/geektime_ai_practice)|AI原生基础实战课|24|2023-09-15|2023-09-04|
-|34|[roberthsu2003/__chihlee_pico__](https://github.com/roberthsu2003/__chihlee_pico__)|致理pico_w課程|21|2024-01-20|2023-11-19|
-|35|[percent4/embedding_rerank_retrieval](https://github.com/percent4/embedding_rerank_retrieval)|本项目是针对RAG中的Retrieve阶段的召回技术及算法效果所做评估实验。使用主体框架为LlamaIndex.|19|2024-01-21|2023-12-28|
-|36|[billvsme/train_law_llm](https://github.com/billvsme/train_law_llm)|✏️0成本LLM微调上手项目，⚡️一步一步使用colab训练法律LLM，基于microsoft/phi-1_5、chatglm3，包含lora微调，全参微调|18|2023-12-27|2023-11-07|
-|37|[shannany0606/2022_National_Math_Modeling_Competiotion](https://github.com/shannany0606/2022_National_Math_Modeling_Competiotion)|古代玻璃制品的成分分析和鉴别模型&&2022年高教社杯全国大学生数学建模竞赛全国二等奖项目|18|2023-11-14|2023-05-02|
-|38|[blackinkkkxi/RAG_langchain](https://github.com/blackinkkkxi/RAG_langchain)|一个基于langchain实现RAG的简单示例|17|2024-01-22|2023-12-09|
-|39|[LC1332/Luotuo-Fighter](https://github.com/LC1332/Luotuo-Fighter)|骆驼大乱斗: Massive Game Content Generated by LLM|16|2023-10-15|2023-10-11|
-|40|[rongzhiy/Sort_algorithm_](https://github.com/rongzhiy/Sort_algorithm_)|🔥 🔥 🔥 经典排序算法可视化（Python+Java版本）|16|2023-09-23|2023-04-04|
-|41|[wanziw/ProductDemandForecast-TeddyCup11B](https://github.com/wanziw/ProductDemandForecast-TeddyCup11B)|第十一届泰迪杯B题：产品订单的数据分析与需求预测 代码和数据|15|2023-12-11|2023-10-19|
-|42|[teashirtt/resume-analysis-system](https://github.com/teashirtt/resume-analysis-system)|智能简历解析系统，支持多维度信息提取|15|2024-01-23|2023-07-05|
-|43|[chunhuizhang/deeplearning-envs](https://github.com/chunhuizhang/deeplearning-envs)|深度学习软硬件配置（小白向）|15|2024-01-23|2023-04-11|
+|24|[Glanvery/LLM-Travel](https://github.com/Glanvery/LLM-Travel)|欢迎来到 "LLM-travel" 仓库！探索大语言模型（LLM）的奥秘 🚀。致力于深入理解、探讨以及实现与大模型相关的各种技术、原理和应用。|126|2023-12-22|2023-10-02|
+|25|[BoXiaolei/MyTransformer_pytorch](https://github.com/BoXiaolei/MyTransformer_pytorch)|关于Transformer模型的最简洁pytorch实现，包含详细注释|84|2023-11-13|2023-11-03|
+|26|[Kedreamix/PaddleAvatar](https://github.com/Kedreamix/PaddleAvatar)|你是否曾经幻想过与自己的虚拟人交互？现在，使用PaddleAvatar，您可以将自己的图像、音频和视频转化为一个逼真的数字人视频，与其进行人机交互。  PaddleAvatar是一种基于PaddlePaddle深度学习框架的数字人生成工具，基于Paddle的许多套件，它可以将您的数字图像、音频和视频合成为一个逼真的数字人视频。除此之外，PaddleAvatar还支持进一步的开发，例如使用自然语言处 ...|79|2023-12-10|2023-04-18|
+|27|[kevin-meng/HuggingfaceDownloadShare](https://github.com/kevin-meng/HuggingfaceDownloadShare)|中国如何下载huggingface 模型并共享链接|44|2023-11-20|2023-09-10|
+|28|[Tony607/Cybergear](https://github.com/Tony607/Cybergear)|小米微电机Cybergear上手开发|38|2024-01-13|2023-09-02|
+|29|[gameofdimension/vllm-cn](https://github.com/gameofdimension/vllm-cn)|演示 vllm 对中文大语言模型的神奇效果|32|2023-11-04|2023-07-08|
+|30|[TommyZihao/aidlux_tutorial](https://github.com/TommyZihao/aidlux_tutorial)|AidLux手机部署人工智能算法|31|2023-10-14|2023-06-25|
+|31|[roberthsu2003/__112_python_chihlee__](https://github.com/roberthsu2003/__112_python_chihlee__)|10_14日_致理_python_大數據探勘|27|2023-12-09|2023-10-14|
+|32|[huangjia2019/geektime_ai_practice](https://github.com/huangjia2019/geektime_ai_practice)|AI原生基础实战课|24|2023-09-15|2023-09-04|
+|33|[roberthsu2003/__chihlee_pico__](https://github.com/roberthsu2003/__chihlee_pico__)|致理pico_w課程|21|2024-01-20|2023-11-19|
+|34|[percent4/embedding_rerank_retrieval](https://github.com/percent4/embedding_rerank_retrieval)|本项目是针对RAG中的Retrieve阶段的召回技术及算法效果所做评估实验。使用主体框架为LlamaIndex.|19|2024-01-21|2023-12-28|
+|35|[billvsme/train_law_llm](https://github.com/billvsme/train_law_llm)|✏️0成本LLM微调上手项目，⚡️一步一步使用colab训练法律LLM，基于microsoft/phi-1_5、chatglm3，包含lora微调，全参微调|18|2023-12-27|2023-11-07|
+|36|[shannany0606/2022_National_Math_Modeling_Competiotion](https://github.com/shannany0606/2022_National_Math_Modeling_Competiotion)|古代玻璃制品的成分分析和鉴别模型&&2022年高教社杯全国大学生数学建模竞赛全国二等奖项目|18|2023-11-14|2023-05-02|
+|37|[blackinkkkxi/RAG_langchain](https://github.com/blackinkkkxi/RAG_langchain)|一个基于langchain实现RAG的简单示例|17|2024-01-22|2023-12-09|
+|38|[LC1332/Luotuo-Fighter](https://github.com/LC1332/Luotuo-Fighter)|骆驼大乱斗: Massive Game Content Generated by LLM|16|2023-10-15|2023-10-11|
+|39|[rongzhiy/Sort_algorithm_](https://github.com/rongzhiy/Sort_algorithm_)|🔥 🔥 🔥 经典排序算法可视化（Python+Java版本）|16|2023-09-23|2023-04-04|
+|40|[wanziw/ProductDemandForecast-TeddyCup11B](https://github.com/wanziw/ProductDemandForecast-TeddyCup11B)|第十一届泰迪杯B题：产品订单的数据分析与需求预测 代码和数据|15|2023-12-11|2023-10-19|
+|41|[teashirtt/resume-analysis-system](https://github.com/teashirtt/resume-analysis-system)|智能简历解析系统，支持多维度信息提取|15|2024-01-23|2023-07-05|
+|42|[chunhuizhang/deeplearning-envs](https://github.com/chunhuizhang/deeplearning-envs)|深度学习软硬件配置（小白向）|15|2024-01-23|2023-04-11|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
