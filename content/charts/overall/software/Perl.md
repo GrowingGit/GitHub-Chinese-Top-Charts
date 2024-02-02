@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Perl
-<sub>数据更新: 2024-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -14,22 +14,23 @@
 |7|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|383|2024-01-31|
 |8|[wisdomfusion/qqwry.dat](https://github.com/wisdomfusion/qqwry.dat)|纯真IP地址数据库镜像，mirror of qqwry.dat|373|2023-12-03|
 |9|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|296|2024-01-11|
-|10|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|267|2024-01-31|
+|10|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|267|2024-02-01|
 |11|[open-c3/open-c3](https://github.com/open-c3/open-c3)|自动化运维平台/CICD系统/发布系统/作业平台/监控系统/云监控/故障自愈/K8S集群管理/CMDB/公有云资源管理/工单系统/流程系统/成本优化|218|2024-01-24|
 |12|[openresty/lua-tablepool](https://github.com/openresty/lua-tablepool)|Lua table recycling pools for LuaJIT|109|2023-11-23|
 |13|[g0v/moedict-data-csld](https://github.com/g0v/moedict-data-csld)|中華大辭典|100|2023-11-08|
-|14|[Gilwyad/mailnesia.com](https://github.com/Gilwyad/mailnesia.com)|Anonymous Email in Seconds|95|2023-12-02|
+|14|[Gilwyad/mailnesia.com](https://github.com/Gilwyad/mailnesia.com)|Anonymous Email in Seconds|96|2023-12-02|
 |15|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|93|2024-01-31|
 |16|[esrrhs/pLua](https://github.com/esrrhs/pLua)|Lua 性能分析工具 Lua profiler tool like gperftools|81|2023-10-24|
 |17|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|66|2023-12-03|
 |18|[shangshanzhizhe/Work_flow_of_population_genetics](https://github.com/shangshanzhizhe/Work_flow_of_population_genetics)|整理常用的群体遗传学分析流程和脚本|61|2024-01-19|
 |19|[houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm)|A date and time object for Perl|46|2023-11-06|
 |20|[Yanstory/tpZHCNex](https://github.com/Yanstory/tpZHCNex)|thpatch zh-hans extra patches (Beta)|18|2024-01-16|
-|21|[jyi2ya/HUST-Chifan](https://github.com/jyi2ya/HUST-Chifan)|什么时候开饭？|6|2023-12-05|
-|22|[abbypan/Novel-Robot](https://github.com/abbypan/Novel-Robot)|download novel / forum thread, 小说/论坛下载器|5|2023-08-17|
-|23|[abbypan/deal_youtube_playlist](https://github.com/abbypan/deal_youtube_playlist)|批量下载youtube播放列表内容，并生成xspf播放列表|4|2023-12-16|
-|24|[electricface/script-tool](https://github.com/electricface/script-tool)|简单的脚本工具|4|2023-11-14|
-|25|[fimreal/dockerfiles](https://github.com/fimreal/dockerfiles)|容器化小工具|3|2024-01-22|
+|21|[TheBeastofwar/linuxhacker](https://github.com/TheBeastofwar/linuxhacker)|一款linux 内网渗透辅助工具|9|2024-01-31|
+|22|[jyi2ya/HUST-Chifan](https://github.com/jyi2ya/HUST-Chifan)|什么时候开饭？|6|2023-12-05|
+|23|[abbypan/Novel-Robot](https://github.com/abbypan/Novel-Robot)|download novel / forum thread, 小说/论坛下载器|5|2023-08-17|
+|24|[abbypan/deal_youtube_playlist](https://github.com/abbypan/deal_youtube_playlist)|批量下载youtube播放列表内容，并生成xspf播放列表|4|2023-12-16|
+|25|[electricface/script-tool](https://github.com/electricface/script-tool)|简单的脚本工具|4|2023-11-14|
+|26|[fimreal/dockerfiles](https://github.com/fimreal/dockerfiles)|容器化小工具|3|2024-01-22|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

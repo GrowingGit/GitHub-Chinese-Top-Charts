@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -46,7 +46,7 @@
 |39|[yehuixie/system_identification](https://github.com/yehuixie/system_identification)|系统辨识课程代码|6|0|2023-11-11|
 |40|[huee-ops/XDU-Communication_principle_homework](https://github.com/huee-ops/XDU-Communication_principle_homework)|西电电院通信原理大作业|3|0|2023-12-23|
 |41|[quyinsong/Motion-Planning-for-Mobile-Robots](https://github.com/quyinsong/Motion-Planning-for-Mobile-Robots)|移动机器人路径规划|6|0|2023-08-15|
-|42|[LZH20001220/HuaweiCup2023](https://github.com/LZH20001220/HuaweiCup2023)|华为杯第二十届中国研究生数学建模竞赛|9|0|2023-12-04|
+|42|[LZH20001220/HuaweiCup2023](https://github.com/LZH20001220/HuaweiCup2023)|华为杯第二十届中国研究生数学建模竞赛|10|0|2023-12-04|
 |43|[Yuyu1997/TrajectoryTrackingControlofQuadrotorUAV](https://github.com/Yuyu1997/TrajectoryTrackingControlofQuadrotorUAV)|欧拉角、四元数、旋转矩阵，迂回现象，自抗扰控制|6|0|2024-01-12|
 |44|[Patrick9313/Sudoku](https://github.com/Patrick9313/Sudoku)|一个基于启发式搜索解决具体数独问题的MATLAB程序|30|0|2023-08-27|
 |45|[AirChem/F0AM](https://github.com/AirChem/F0AM)|Framework for 0-D Atmospheric Modeling|60|0|2023-11-03|
@@ -65,7 +65,7 @@
 |58|[himynameisfuego/SiTraNo](https://github.com/himynameisfuego/SiTraNo)|A MATLAB app for sines-transient-noise decomposition of audio signals.|33|0|2023-12-15|
 |59|[Patrick9313/Digital-Image-Processing](https://github.com/Patrick9313/Digital-Image-Processing)|基于MATLAB的图像加解密及传输仿真|43|0|2023-08-27|
 |60|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|12|0|2024-01-29|
-|61|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|175|0|2023-10-24|
+|61|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|176|0|2023-10-24|
 |62|[wong-cf/phase_revocery](https://github.com/wong-cf/phase_revocery)|相位恢复算法相关的几种算法，包括角谱迭代算法，GS算法，TTIE强度方程恢复算法，以及算法的结合。|3|0|2024-01-02|
 |63|[lutasam/Codes_For_MCM-ICM-2022](https://github.com/lutasam/Codes_For_MCM-ICM-2022)|2022数学建模美赛C题代码，基于LSTM的股票预测项目|3|0|2023-09-25|
 |64|[VG-TechCenter/Microgrid-Optimization-Dispatch-Model](https://github.com/VG-TechCenter/Microgrid-Optimization-Dispatch-Model)|微电网优化调度模型|8|0|2023-10-15|

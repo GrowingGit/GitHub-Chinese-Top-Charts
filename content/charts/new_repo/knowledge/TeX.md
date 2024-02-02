@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > TeX
-<sub>数据更新: 2024-02-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[GuangLun2000/COMAP-MCM-2023](https://github.com/GuangLun2000/COMAP-MCM-2023)|COMAP MCM 数模美赛材料合集|56|2024-01-30|2023-03-07|
+|1|[GuangLun2000/COMAP-MCM-2023](https://github.com/GuangLun2000/COMAP-MCM-2023)|蔡汉霖的数模美赛材料合集 COMAP MCM/ICM 2024|69|2024-02-01|2023-03-07|
 |2|[bjut-swift/BJUT-Helper](https://github.com/bjut-swift/BJUT-Helper)|北京工业大学课程资源共享计划|53|2024-01-23|2023-05-30|
-|3|[wenbindu/ThinkPython2-CN](https://github.com/wenbindu/ThinkPython2-CN)|《ThinkPython2》中文译本|42|2024-01-21|2023-03-11|
+|3|[wenbindu/ThinkPython2-CN](https://github.com/wenbindu/ThinkPython2-CN)|《ThinkPython2》中文译本|43|2024-01-21|2023-03-11|
 |4|[RuijieZhu94/StatisticalLearning_USTC](https://github.com/RuijieZhu94/StatisticalLearning_USTC)|Statistical Learning course in USTC. 中科大统计学习（刘东）课程复习资料。|40|2024-01-09|2023-02-28|
 |5|[xiaoweiChen/The-CXX-Library-Fourth-Edition-include-CXX23](https://github.com/xiaoweiChen/The-CXX-Library-Fourth-Edition-include-CXX23)|《The C++ Standard Library》的非专业个人翻译|36|2023-12-12|2023-12-08|
 |6|[xiaoweiChen/CXX20-The-Complete-Guide](https://github.com/xiaoweiChen/CXX20-The-Complete-Guide)|《C++20 The Complete Guide》的非专业个人翻译|29|2023-09-13|2023-09-10|
@@ -21,7 +21,7 @@
 |14|[SizheRee/HUST-Master-Thesis-Template](https://github.com/SizheRee/HUST-Master-Thesis-Template)|华中科技大学 计算机学院 硕士/博士 毕业论文 Latex 模板（参考2023年标准）|9|2023-09-25|2023-09-01|
 |15|[Tian42chen/Transcription-Malfunctioned](https://github.com/Tian42chen/Transcription-Malfunctioned)|ZJU 课程笔记|9|2024-01-10|2023-07-02|
 |16|[wodemaster-NJUSE/NJUSE-BigDataAnalysis](https://github.com/wodemaster-NJUSE/NJUSE-BigDataAnalysis)|2023年NJUSE大数据分析课程作业|8|2024-01-12|2023-09-16|
-|17|[KaiserKatze/mathematical-notes](https://github.com/KaiserKatze/mathematical-notes)|数学笔记|8|2024-01-31|2023-04-09|
+|17|[KaiserKatze/mathematical-notes](https://github.com/KaiserKatze/mathematical-notes)|数学笔记|8|2024-02-01|2023-04-09|
 |18|[cshaowang/swjtuThesisV2.0](https://github.com/cshaowang/swjtuThesisV2.0)|A LaTeX Template for PhD/MA Thesis of Southwest Jiaotong University (SWJTU) / 西南交通大学研究生学位论文LaTeX模板|8|2024-01-05|2023-04-06|
 |19|[anlit75/CCU-Thesis-LaTeX-Template](https://github.com/anlit75/CCU-Thesis-LaTeX-Template)|Unofficial LaTeX templates for both master's thesis and doctoral dissertations at National Chung Cheng University. 國立中正大學碩博士論文LaTex模板|7|2024-01-29|2024-01-19|
 |20|[wennboo/HDU-latex-template-for-master](https://github.com/wennboo/HDU-latex-template-for-master)|旨在帮助杭州电子科技大学硕博生使用 Latex完成学位论文撰写，非官方模板，如若使用，后果自负！|7|2023-12-18|2023-10-31|
