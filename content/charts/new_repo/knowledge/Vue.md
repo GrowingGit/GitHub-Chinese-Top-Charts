@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2024-02-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[202252197/ChatGPT_JCM](https://github.com/202252197/ChatGPT_JCM)|OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。|2832|2024-01-29|2023-03-10|
 |2|[xiaou61/mydocs](https://github.com/xiaou61/mydocs)|个人博客,里面包含java，Vue，Spring,数据结构，爬虫,JVM,Springboot,react,javascript等内容的整理|426|2024-02-01|2023-07-20|
-|3|[zyronon/typing-word](https://github.com/zyronon/typing-word)|Memorizing words   Learn English   Typing words   背单词   学习英语   练习文章|413|2024-01-17|2023-08-03|
-|4|[hepengwei/visualization-collection-vue](https://github.com/hepengwei/visualization-collection-vue)|🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（Vue版本）|407|2024-01-29|2023-06-16|
+|3|[zyronon/typing-word](https://github.com/zyronon/typing-word)|Memorizing words   Learn English   Typing words   背单词   学习英语   练习文章|417|2024-01-17|2023-08-03|
+|4|[hepengwei/visualization-collection-vue](https://github.com/hepengwei/visualization-collection-vue)|🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（Vue版本）|412|2024-01-29|2023-06-16|
 |5|[weiwosuoai/WeBlog](https://github.com/weiwosuoai/WeBlog)|📗 Spring Boot + Vue 3.2 + Vite 前后端分离博客~ 感谢点个 Star 呀~|293|2023-11-23|2023-07-08|
 |6|[MrWeilian/iceWebGL](https://github.com/MrWeilian/iceWebGL)|🧊 WebGL上车指南，带你从零开始体系化学习 WebGL。|136|2024-01-14|2023-05-04|
 |7|[daidr/douLog](https://github.com/daidr/douLog)|戴兜的博客（施工中）|113|2024-01-28|2023-02-18|
@@ -21,10 +21,10 @@
 |14|[DrssXpro/waterfall-demo](https://github.com/DrssXpro/waterfall-demo)|Vue3 + TS：模仿小红书封装瀑布流组件|25|2024-01-11|2024-01-11|
 |15|[lpya/vue3-ts-vite-konvajs](https://github.com/lpya/vue3-ts-vite-konvajs)|vue3-ts-vite-konvajs是一个konvajs基础使用教程，它包含了矩形、圆、文本、多边形基本图形和常用的事件，并提供了项目实战案例|24|2024-01-13|2023-03-29|
 |16|[lgd8981289/imooc-visualization](https://github.com/lgd8981289/imooc-visualization)|https://www.bilibili.com/video/BV1yu411E7cm/?vd_source=391a8dc379e0da60c77490e3221f097a  课程源码|23|2023-09-08|2023-09-08|
-|17|[98zi/HugoFast](https://github.com/98zi/HugoFast)|利用GitHub本身提供的Api，将hugo博客管理面板化。|21|2024-01-19|2023-05-28|
-|18|[nolebase/integrations](https://github.com/nolebase/integrations)|A collection of diverse documentation engineering tools   多元化的文档工程工具合集|19|2024-02-01|2023-08-23|
+|17|[nolebase/integrations](https://github.com/nolebase/integrations)|A collection of diverse documentation engineering tools   多元化的文档工程工具合集|21|2024-02-01|2023-08-23|
+|18|[98zi/HugoFast](https://github.com/98zi/HugoFast)|利用GitHub本身提供的Api，将hugo博客管理面板化。|21|2024-01-19|2023-05-28|
 |19|[SmallTeddyGames/e-card](https://github.com/SmallTeddyGames/e-card)|仿照《赌博默示录》的 e-card 小游戏|15|2024-01-09|2023-12-12|
-|20|[wangyupo/v3s](https://github.com/wangyupo/v3s)|Vue3 + Vite5 + Vue Router + Pinia + Element Plus 搭建的后台管理模版，配合VSCode插件v3s snippets，助力业务快速开发。|14|2024-02-01|2023-07-26|
+|20|[wangyupo/v3s](https://github.com/wangyupo/v3s)|Vue3 + Vite5 + Vue Router + Pinia + Element Plus 搭建的后台管理模版，配合VSCode插件v3s snippets，助力业务快速开发。|15|2024-02-02|2023-07-26|
 |21|[zhang-glitch/work_technology_solutions](https://github.com/zhang-glitch/work_technology_solutions)|一些前后台项目的结束解决方案总结|14|2023-10-03|2023-06-02|
 |22|[mo7cc/BlogSource](https://github.com/mo7cc/BlogSource)|https://blog.mo7.cc 博客源码|14|2023-10-31|2023-03-08|
 |23|[codprincess/j-book-demo](https://github.com/codprincess/j-book-demo)|Nuxt3全栈开发简书|12|2023-10-06|2023-04-10|

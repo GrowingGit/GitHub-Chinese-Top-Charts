@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Dart
-<sub>数据更新: 2024-02-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[nightmare-space/speed_share](https://github.com/nightmare-space/speed_share)|Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.|802|1|2024-01-27|
+|1|[nightmare-space/speed_share](https://github.com/nightmare-space/speed_share)|Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.|804|1|2024-01-27|
 |2|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A full-featured immersion language learning suite for mobile.|674|1|2024-01-04|
-|3|[jayden320/flutter_shuqi](https://github.com/jayden320/flutter_shuqi)|高仿书旗小说 Flutter版，支持iOS、Android|2638|1|2023-12-18|
+|3|[jayden320/flutter_shuqi](https://github.com/jayden320/flutter_shuqi)|高仿书旗小说 Flutter版，支持iOS、Android|2639|1|2023-12-18|
 |4|[Petterpx/FlutterQuickExample](https://github.com/Petterpx/FlutterQuickExample)|Flutter入门示例，对照着Flutter实战书籍写的一个demo。|6|0|2023-09-11|
 |5|[JerryAlexLiang/flutter_wan_android_getx](https://github.com/JerryAlexLiang/flutter_wan_android_getx)|WanAndroid Flutter版 基于GetX ，欢迎互相交流学习， Gitee：https://gitee.com/JerryAlexLiang/flutter_wan_android_getx.git|11|0|2023-08-25|
 |6|[RxReader/tencent_kit](https://github.com/RxReader/tencent_kit)|Flutter版QQ登录/分享|231|0|2023-09-12|
 |7|[shaoting0730/Flutter_learn_demo](https://github.com/shaoting0730/Flutter_learn_demo)|Flutter_learn_demo  Flutter学习历程|185|0|2024-01-26|
-|8|[xiedong11/flutter_app](https://github.com/xiedong11/flutter_app)|Flutter进阶之旅专栏|95|0|2024-01-15|
+|8|[xiedong11/flutter_app](https://github.com/xiedong11/flutter_app)|Flutter进阶之旅专栏|95|0|2024-02-02|
 |9|[helloDolin/dolin_demo_flutter](https://github.com/helloDolin/dolin_demo_flutter)|flutter 学习、总结、提高|9|0|2024-01-18|
 |10|[longer96/flutter_pickers](https://github.com/longer96/flutter_pickers)|flutter 选择器库，包括日期及时间选择器（可设置范围）、单项选择器（可用于性别、民族、学历、星座、年龄、身高、体重、温度等）、城市地址选择器（分省级、地级及县级）、多项选择器等…… 欢迎Fork & pr贡献您的代码，大家共同学习|268|0|2023-11-29|
 |11|[gvenusleo/lex-app](https://github.com/gvenusleo/lex-app)|划词翻译软件，使用 Flutter 开发，支持多个翻译模型|11|0|2024-01-03|
