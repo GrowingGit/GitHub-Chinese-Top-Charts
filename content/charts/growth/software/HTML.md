@@ -1,42 +1,42 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > HTML
-<sub>数据更新: 2024-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。|8566|31|2024-02-02|
-|2|[atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans)|得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体|11863|26|2023-11-28|
+|1|[adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。|8569|31|2024-02-03|
+|2|[atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans)|得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体|11861|26|2024-02-03|
 |3|[LianjiaTech/BELLE](https://github.com/LianjiaTech/BELLE)|BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）|7240|22|2024-01-16|
-|4|[liu673cn/bug](https://github.com/liu673cn/bug)|TVbox开源版（空壳-自行配置）|10765|17|2023-12-19|
-|5|[tjy-gitnub/win12](https://github.com/tjy-gitnub/win12)|Windows 12 网页版，在线体验 点击下面的链接在线体验|5811|11|2024-01-25|
+|4|[liu673cn/bug](https://github.com/liu673cn/bug)|TVbox开源版（空壳-自行配置）|10768|17|2023-12-19|
+|5|[tjy-gitnub/win12](https://github.com/tjy-gitnub/win12)|Windows 12 网页版，在线体验 点击下面的链接在线体验|5815|11|2024-01-25|
 |6|[MetaGLM/FinGLM](https://github.com/MetaGLM/FinGLM)|FinGLM: 致力于构建一个开放的、公益的、持久的金融大模型项目，利用开源开放来促进「AI+金融」。|1270|10|2023-11-29|
 |7|[x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI)|🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出|2673|8|2023-11-20|
-|8|[swyxio/ai-notes](https://github.com/swyxio/ai-notes)|notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under  ...|4309|8|2024-02-02|
+|8|[swyxio/ai-notes](https://github.com/swyxio/ai-notes)|notes for software engineers getting up to speed on new AI developments. Serves as datastore for https://latent.space writing, and product brainstorming, but has cleaned up canonical references under  ...|4312|8|2024-02-02|
 |9|[openpilot-hub/devpilot-intellij](https://github.com/openpilot-hub/devpilot-intellij)|Your new coding buddy, designed exclusively for IntelliJ IDEA.|559|8|2024-01-19|
-|10|[Tencent/weui](https://github.com/Tencent/weui)|A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.|27024|8|2024-01-12|
-|11|[bulianglin/psub](https://github.com/bulianglin/psub)|利用CF Worker搭建的反代订阅转换工具|494|5|2023-12-23|
-|12|[Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language)|Dism++ Multi-language Support & BUG Report|12707|5|2023-08-23|
-|13|[Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC)|渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cm ...|5961|4|2024-01-28|
+|10|[Tencent/weui](https://github.com/Tencent/weui)|A UI library by WeChat official design team, includes the most useful widgets/modules in mobile web applications.|27027|8|2024-01-12|
+|11|[bulianglin/psub](https://github.com/bulianglin/psub)|利用CF Worker搭建的反代订阅转换工具|497|5|2023-12-23|
+|12|[Chuyu-Team/Dism-Multi-language](https://github.com/Chuyu-Team/Dism-Multi-language)|Dism++ Multi-language Support & BUG Report|12713|5|2023-08-23|
+|13|[Mr-xn/Penetration_Testing_POC](https://github.com/Mr-xn/Penetration_Testing_POC)|渗透测试有关的POC、EXP、脚本、提权、小工具等---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cm ...|5963|4|2024-01-28|
 |14|[MetaLowCodeTeam/MetaLowCode](https://github.com/MetaLowCodeTeam/MetaLowCode)|MetaLowCode——美乐低代码，企业级全栈低代码开发平台。私有部署，源码交付。|298|4|2024-02-02|
 |15|[goproxy/goproxy.cn](https://github.com/goproxy/goproxy.cn)|The most trusted Go module proxy in China.|6626|4|2024-01-19|
-|16|[cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)|A minimal, responsive, and feature-rich Jekyll theme for technical writing.|5693|3|2024-02-01|
-|17|[aoaostar/legado](https://github.com/aoaostar/legado)|阅读APP书源|1433|3|2024-02-01|
-|18|[xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)|Pure Javascript ChatGPT demo based on OpenAI API|856|3|2023-11-17|
-|19|[yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi)|:tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用|4973|3|2024-01-15|
-|20|[xxlllq/system_architect](https://github.com/xxlllq/system_architect)|:100:2024年系统架构设计师（软考高级）备考资料。|5275|3|2024-01-02|
-|21|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)|Card-style Hugo theme designed for bloggers|4048|3|2024-02-01|
-|22|[mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)|:triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.|11638|3|2024-02-02|
-|23|[HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder)|😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS|7615|3|2024-02-01|
-|24|[all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)|✨ Recognize all contributors, not just the ones who push code ✨|7379|3|2024-01-11|
+|16|[cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)|A minimal, responsive, and feature-rich Jekyll theme for technical writing.|5697|3|2024-02-03|
+|17|[aoaostar/legado](https://github.com/aoaostar/legado)|阅读APP书源|1435|3|2024-02-01|
+|18|[xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web)|Pure Javascript ChatGPT demo based on OpenAI API|857|3|2023-11-17|
+|19|[yangzongzhuan/RuoYi](https://github.com/yangzongzhuan/RuoYi)|:tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用|4980|3|2024-01-15|
+|20|[xxlllq/system_architect](https://github.com/xxlllq/system_architect)|:100:2024年系统架构设计师（软考高级）备考资料。|5279|3|2024-01-02|
+|21|[CaiJimmy/hugo-theme-stack](https://github.com/CaiJimmy/hugo-theme-stack)|Card-style Hugo theme designed for bloggers|4049|3|2024-02-01|
+|22|[mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes)|:triangular_ruler: Jekyll theme for building a personal site, blog, project documentation, or portfolio.|11641|3|2024-02-02|
+|23|[HugoBlox/hugo-blox-builder](https://github.com/HugoBlox/hugo-blox-builder)|😍 EASILY BUILD THE WEBSITE YOU WANT - NO CODE, JUST MARKDOWN BLOCKS! 使用块轻松创建任何类型的网站 - 无需代码。 一个应用程序，没有依赖项，没有 JS|7616|3|2024-02-01|
+|24|[all-contributors/all-contributors](https://github.com/all-contributors/all-contributors)|✨ Recognize all contributors, not just the ones who push code ✨|7380|3|2024-01-11|
 |25|[thunlp/WebCPM](https://github.com/thunlp/WebCPM)|Official codes for ACL 2023 paper "WebCPM: Interactive Web Search for Chinese Long-form Question Answering"|932|3|2023-11-25|
-|26|[gh0stkey/Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)|Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1|1837|2|2023-12-06|
+|26|[gh0stkey/Web-Fuzzing-Box](https://github.com/gh0stkey/Web-Fuzzing-Box)|Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1|1839|2|2023-12-06|
 |27|[xbzstudio/Timeless-Sydney](https://github.com/xbzstudio/Timeless-Sydney)|好用的New Bing web客户端，功能众多~|673|2|2023-08-22|
-|28|[x-dr/tts](https://github.com/x-dr/tts)|微软azure文本转语音 音频下载|372|2|2024-01-19|
-|29|[mawerty/Is-Prime](https://github.com/mawerty/Is-Prime)|O(1) Algorithm to check if number is prime that works in 95%+ cases.|657|2|2024-01-31|
-|30|[cphxj123/Dol-BJX-Ex](https://github.com/cphxj123/Dol-BJX-Ex)|dol北极星扩展|156|2|2023-12-09|
-|31|[Qexo/Qexo](https://github.com/Qexo/Qexo)|A Quick, Powerful and Pretty Online Manager for Hexo. |1309|2|2024-01-10|
-|32|[dark-kingA/superSearchPlus](https://github.com/dark-kingA/superSearchPlus)|superSearchPlus是聚合型信息收集插件，支持综合查询，资产测绘查询，信息收集 敏感信息提取 js资源扫描 目录扫描 vue组件扫描 整合了目前常见的资产测绘平台 专为白帽子提供快速侦测目标。|1023|2|2023-12-25|
+|28|[x-dr/tts](https://github.com/x-dr/tts)|微软azure文本转语音 音频下载|373|2|2024-01-19|
+|29|[mawerty/Is-Prime](https://github.com/mawerty/Is-Prime)|O(1) Algorithm to check if number is prime that works in 95%+ cases.|660|2|2024-02-03|
+|30|[cphxj123/Dol-BJX-Ex](https://github.com/cphxj123/Dol-BJX-Ex)|dol北极星扩展|157|2|2023-12-09|
+|31|[Qexo/Qexo](https://github.com/Qexo/Qexo)|A Quick, Powerful and Pretty Online Manager for Hexo. |1311|2|2024-01-10|
+|32|[dark-kingA/superSearchPlus](https://github.com/dark-kingA/superSearchPlus)|superSearchPlus是聚合型信息收集插件，支持综合查询，资产测绘查询，信息收集 敏感信息提取 js资源扫描 目录扫描 vue组件扫描 整合了目前常见的资产测绘平台 专为白帽子提供快速侦测目标。|1028|2|2023-12-25|
 |33|[favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp)|🤙 Easy replacement for LaTeX Beamer! 🥂 custom Marp templates with a selection of over a dozen themes|278|2|2024-01-13|
 |34|[Threekiii/Vulnerability-Wiki](https://github.com/Threekiii/Vulnerability-Wiki)|基于 docsify 部署，目前漏洞数量 1000+|1425|2|2024-01-31|
 |35|[hzy24/ucas_marpit_slide](https://github.com/hzy24/ucas_marpit_slide)|果壳/国科大slide模板_Written by Marpit|52|2|2024-01-15|
@@ -44,83 +44,83 @@
 |37|[Meekdai/Gmeek](https://github.com/Meekdai/Gmeek)|Gmeek is a Blog All in Github|442|2|2024-01-30|
 |38|[waityousea/xuniren](https://github.com/waityousea/xuniren)|-|440|2|2024-01-08|
 |39|[PaddlePaddle/VisualDL](https://github.com/PaddlePaddle/VisualDL)|Deep Learning Visualization Toolkit（『飞桨』深度学习可视化工具 ）|4690|2|2023-09-20|
-|40|[TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)|朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）|3447|2|2024-01-25|
+|40|[TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot)|朋友圈转发截图生成工具（⚠️Fork 不是收藏，请勿在贡献代码以外的情况下 Fork！）|3448|2|2024-02-03|
 |41|[timb-machine/linux-malware](https://github.com/timb-machine/linux-malware)|Tracking interesting Linux (and UNIX) malware. Send PRs|1069|1|2024-01-29|
-|42|[cncf/tag-security](https://github.com/cncf/tag-security)|🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!|1893|1|2024-01-31|
+|42|[cncf/tag-security](https://github.com/cncf/tag-security)|🔐CNCF Security Technical Advisory Group -- secure access, policy control, privacy, auditing, explainability and more!|1893|1|2024-02-02|
 |43|[wx-chevalier/DistributedSystem-Notes](https://github.com/wx-chevalier/DistributedSystem-Notes)|:books: 深入浅出分布式基础架构，Linux 与操作系统篇   分布式系统篇   分布式计算篇   数据库篇   网络篇   虚拟化与编排篇   大数据与云计算篇|1490|1|2023-09-23|
-|44|[project-trans/MtF-wiki](https://github.com/project-trans/MtF-wiki)|MtF.wiki is a free, open, and continuously updated transgender female knowledge integration site.|700|1|2024-02-02|
+|44|[project-trans/MtF-wiki](https://github.com/project-trans/MtF-wiki)|MtF.wiki is a free, open, and continuously updated transgender female knowledge integration site.|701|1|2024-02-03|
 |45|[wx-chevalier/Database-Notes](https://github.com/wx-chevalier/Database-Notes)|📚深入浅出数据库存储：数据库理论、关系型数据库、文档型数据库、键值型数据库、New SQL、搜索引擎、数据仓库与 OLAP、大数据与数据中台|1000|1|2023-12-20|
-|46|[xiaomabenten/system_architect](https://github.com/xiaomabenten/system_architect)|💯2024年 系统架构设计师（软考高级）备考资源库+配套免费刷题软件。PC版免费刷题软件：https://ruankaodaren.com|786|1|2024-01-09|
+|46|[xiaomabenten/system_architect](https://github.com/xiaomabenten/system_architect)|💯2024年 系统架构设计师（软考高级）备考资源库+配套免费刷题软件。PC版免费刷题软件：https://ruankaodaren.com|787|1|2024-01-09|
 |47|[LesFerch/WinSetView](https://github.com/LesFerch/WinSetView)|Globally Set Explorer Folder Views|654|1|2024-01-26|
-|48|[LuckyPuppy514/Play-With-MPV](https://github.com/LuckyPuppy514/Play-With-MPV)|使用 MPV 播放网页中的视频|401|1|2023-12-29|
-|49|[re-zero-khis/re0-web](https://github.com/re-zero-khis/re0-web)|Re0：从零开始的异世界生活 （WEB版）|1184|1|2024-02-02|
+|48|[LuckyPuppy514/Play-With-MPV](https://github.com/LuckyPuppy514/Play-With-MPV)|使用 MPV 播放网页中的视频|402|1|2023-12-29|
+|49|[re-zero-khis/re0-web](https://github.com/re-zero-khis/re0-web)|Re0：从零开始的异世界生活 （WEB版）|1185|1|2024-02-02|
 |50|[lijiejie/eyes.sh](https://github.com/lijiejie/eyes.sh)|Optimized DNS/HTTP Log Tool for pentesters, faster and easy to use.|346|1|2023-08-23|
 |51|[HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt)|A clean, elegant and advanced blog theme for Hugo.|669|1|2024-02-02|
 |52|[miaoermua/CatWrt](https://github.com/miaoermua/CatWrt)|🌠 客制化 OpenWrt 智能网关|279|1|2023-12-21|
-|53|[Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)|This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started.|2027|1|2024-02-02|
+|53|[Syknapse/Contribute-To-This-Project](https://github.com/Syknapse/Contribute-To-This-Project)|This project is waiting for your contribution. If you have never contributed code on GitHub before, this is the project to get you started.|2028|1|2024-02-03|
 |54|[v03413/bepusdt](https://github.com/v03413/bepusdt)|一款更好用的个人USDT收款网关，兼容所有 Epusdt 插件，可无缝切换，支持交易所动态汇率、支持Docker一键部署；支持独角发卡 易支付 异次元发卡|81|1|2023-11-27|
 |55|[MKorostoff/1-pixel-wealth](https://github.com/MKorostoff/1-pixel-wealth)|-|1603|1|2023-12-12|
-|56|[rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)|Data for this-week-in-rust.org|1940|1|2024-02-02|
-|57|[fenxp/iptv](https://github.com/fenxp/iptv)|自动采集与互联网IPTV|51|1|2024-02-02|
+|56|[rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust)|Data for this-week-in-rust.org|1941|1|2024-02-02|
+|57|[fenxp/iptv](https://github.com/fenxp/iptv)|自动采集与互联网IPTV|52|1|2024-02-03|
 |58|[wy876/wiki](https://github.com/wy876/wiki)|漏洞文库|42|1|2024-02-02|
 |59|[cdfmlr/muvtuber](https://github.com/cdfmlr/muvtuber)|Makes your AI vtuber|371|1|2023-08-14|
 |60|[tencentyun/qcloud-documents](https://github.com/tencentyun/qcloud-documents)|腾讯云官方文档|2390|1|2024-02-01|
 |61|[yuhuage/dizhi](https://github.com/yuhuage/dizhi)|雨花阁|739|1|2024-01-19|
 |62|[niltok/magic-in-ten-mins](https://github.com/niltok/magic-in-ten-mins)|十分钟魔法练习|713|1|2023-09-02|
 |63|[NICEXAI/leaflet_zh](https://github.com/NICEXAI/leaflet_zh)|Leaflet 中文网|1510|1|2023-11-14|
-|64|[Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber)|Very customizable imageboard/booru downloader with powerful filenaming features.|2175|1|2024-02-02|
+|64|[Bionus/imgbrd-grabber](https://github.com/Bionus/imgbrd-grabber)|Very customizable imageboard/booru downloader with powerful filenaming features.|2178|1|2024-02-03|
 |65|[smallfox233/JsonExp](https://github.com/smallfox233/JsonExp)|fastjson漏洞批量检测工具|214|1|2023-08-18|
-|66|[fewismuch/react-playground](https://github.com/fewismuch/react-playground)|react在线代码编辑器，可实时运行react代码，支持动态引入自定义文件和第三方依赖包|173|1|2023-11-18|
-|67|[momo0853/kkndme](https://github.com/momo0853/kkndme)|kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。|1059|1|2024-01-16|
+|66|[fewismuch/react-playground](https://github.com/fewismuch/react-playground)|react在线代码编辑器，可实时运行react代码，支持动态引入自定义文件和第三方依赖包|175|1|2023-11-18|
+|67|[momo0853/kkndme](https://github.com/momo0853/kkndme)|kkndme聊房，数据整理自天涯。提供HTML、PDF和Markdown三种形式。|1060|1|2024-01-16|
 |68|[DistSysCorp/ddia](https://github.com/DistSysCorp/ddia)|DDIA 逐章精读|381|1|2024-01-02|
-|69|[cool-team-official/cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue)|🔥 cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 3.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建|1365|1|2024-02-02|
+|69|[cool-team-official/cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue)|🔥 cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于midway.js 3.0、typeorm、mysql、jwt、element-ui、vuex、vue-router、vue等构建|1366|1|2024-02-02|
 |70|[DualSubs/YouTube](https://github.com/DualSubs/YouTube)|YouTube字幕增强及双语模块|373|1|2024-01-30|
 |71|[logoove/weui](https://github.com/logoove/weui)|weui+是在weui和zepto基础上开发的增强UI组件,目前分为表单,基础,组件,js插件四大类,共计百余项功能,是最全的weui样式|1753|1|2023-12-12|
 |72|[Sha1rholder/use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW)|在中国境内使用OpenAI服务的方法|310|1|2023-10-31|
-|73|[hugo-toha/toha](https://github.com/hugo-toha/toha)|A Hugo theme for personal portfolio|887|1|2024-02-02|
-|74|[zgao264/Pornhub-Video-Downloader-Plugin](https://github.com/zgao264/Pornhub-Video-Downloader-Plugin)|Pornhub视频下载Chrome插件|1228|1|2024-01-16|
-|75|[espressif/esp-box](https://github.com/espressif/esp-box)|The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.|581|1|2024-01-19|
-|76|[OWASP/ASVS](https://github.com/OWASP/ASVS)|Application Security Verification Standard|2431|1|2024-01-29|
-|77|[wansenai/flow](https://github.com/wansenai/flow)|企业级流程中心（基于flowable和bpmn.js封装的流程引擎）|671|1|2023-12-27|
+|73|[hugo-toha/toha](https://github.com/hugo-toha/toha)|A Hugo theme for personal portfolio|887|1|2024-02-03|
+|74|[zgao264/Pornhub-Video-Downloader-Plugin](https://github.com/zgao264/Pornhub-Video-Downloader-Plugin)|Pornhub视频下载Chrome插件|1230|1|2024-01-16|
+|75|[espressif/esp-box](https://github.com/espressif/esp-box)|The ESP-BOX is a new generation AIoT development platform released by Espressif Systems.|581|1|2024-02-03|
+|76|[OWASP/ASVS](https://github.com/OWASP/ASVS)|Application Security Verification Standard|2431|1|2024-02-03|
+|77|[wansenai/flow](https://github.com/wansenai/flow)|企业级流程中心（基于flowable和bpmn.js封装的流程引擎）|672|1|2023-12-27|
 |78|[BaizeSec/bylibrary](https://github.com/BaizeSec/bylibrary)|白阁文库是白泽Sec安全团队维护的一个漏洞POC和EXP公开项目|1235|1|2023-10-12|
-|79|[cym1102/nginxWebUI](https://github.com/cym1102/nginxWebUI)|Nginx Web page configuration tool. Use web pages to quickly configure Nginx. Nginx网页管理工具，使用网页来快速配置与管理nginx单机与集群|1931|1|2024-01-21|
-|80|[ybdt/post-hub](https://github.com/ybdt/post-hub)|内网渗透|856|1|2024-01-24|
-|81|[HT944/QRabbitPro](https://github.com/HT944/QRabbitPro)|新版登录方式|113|1|2023-12-16|
+|79|[cym1102/nginxWebUI](https://github.com/cym1102/nginxWebUI)|Nginx Web page configuration tool. Use web pages to quickly configure Nginx. Nginx网页管理工具，使用网页来快速配置与管理nginx单机与集群|1932|1|2024-01-21|
+|80|[ybdt/post-hub](https://github.com/ybdt/post-hub)|内网渗透|857|1|2024-01-24|
+|81|[HT944/QRabbitPro](https://github.com/HT944/QRabbitPro)|新版登录方式|115|1|2023-12-16|
 |82|[kaityo256/github](https://github.com/kaityo256/github)|GitHub演習|557|1|2023-11-17|
 |83|[wangchucheng/hugo-eureka](https://github.com/wangchucheng/hugo-eureka)|Eureka is a feature-rich and highly customizable Hugo theme.|881|1|2023-11-17|
 |84|[ZutJoe/KoalaHackerNews](https://github.com/ZutJoe/KoalaHackerNews)|Koala hacker news 周报内容 每周二0点左右更新|380|1|2024-01-29|
 |85|[liu673cn/xbb](https://github.com/liu673cn/xbb)|biubiu播放器|834|1|2023-12-28|
 |86|[guifaChild/text_to_vedio](https://github.com/guifaChild/text_to_vedio)|这是一个由文本直接生成视频的项目|191|1|2024-01-26|
 |87|[NLPIR-team/NLPIR](https://github.com/NLPIR-team/NLPIR)|-|3370|1|2024-01-08|
-|88|[geeeeeeeek/web_tool](https://github.com/geeeeeeeek/web_tool)|静态响应式网址导航网站，全静态html页面，一键部署安装。在线预览：https://geeeeeeeek.github.io/web_tool/|39|1|2024-01-03|
-|89|[fangkuia/XPTV](https://github.com/fangkuia/XPTV)|XPTV简单仓库|31|1|2024-01-30|
+|88|[geeeeeeeek/web_tool](https://github.com/geeeeeeeek/web_tool)|静态响应式网址导航网站，全静态html页面，一键部署安装。在线预览：https://geeeeeeeek.github.io/web_tool/|40|1|2024-01-03|
+|89|[fangkuia/XPTV](https://github.com/fangkuia/XPTV)|XPTV简单仓库|32|1|2024-01-30|
 |90|[milvus-io/bootcamp](https://github.com/milvus-io/bootcamp)|Dealing with all unstructured data, such as reverse image search, audio search, molecular search, video analysis, question and answer systems, NLP, etc.|1537|1|2024-01-30|
-|91|[qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV)|最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/|1243|1|2024-01-27|
+|91|[qwerttvv/Beijing-IPTV](https://github.com/qwerttvv/Beijing-IPTV)|最好用的北京联通、北京移动IPTV频道列表。https://bjiptv.gq/|1245|1|2024-02-03|
 |92|[netcccyun/toolbox](https://github.com/netcccyun/toolbox)|彩虹工具箱，一个在线工具箱|71|1|2023-11-24|
 |93|[reuixiy/hugo-theme-meme](https://github.com/reuixiy/hugo-theme-meme)|😝 You can’t spell aWEsoME without MEME!|963|1|2024-02-02|
 |94|[onlyGuo/nginx-gui](https://github.com/onlyGuo/nginx-gui)|Nginx GUI Manager|1660|1|2023-09-28|
-|95|[qiubaiying/qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io)|BY Blog ->|3002|1|2024-02-02|
-|96|[travellings-link/travellings](https://github.com/travellings-link/travellings)|开往-友链接力|1110|1|2024-02-01|
+|95|[qiubaiying/qiubaiying.github.io](https://github.com/qiubaiying/qiubaiying.github.io)|BY Blog ->|3003|1|2024-02-02|
+|96|[travellings-link/travellings](https://github.com/travellings-link/travellings)|开往-友链接力|1110|1|2024-02-03|
 |97|[onebirdrocks/geektime-ELK](https://github.com/onebirdrocks/geektime-ELK)|ELK Training|1171|1|2023-12-19|
 |98|[fwonggh/Bthub](https://github.com/fwonggh/Bthub)|Bthub最新地址发布页|1071|1|2024-01-20|
 |99|[refscn/rplibs](https://github.com/refscn/rplibs)|Refs.cn 原型设计元件库，基于Axure RP 10/9，支持 Android、Apple、Windows、微信，移动、桌面平台的应用和网站原型设计。|2973|1|2023-11-29|
 |100|[ybdt/exp-hub](https://github.com/ybdt/exp-hub)|漏洞检测、漏洞利用|905|1|2024-01-09|
-|101|[wx-chevalier/Awesome-CS-Books](https://github.com/wx-chevalier/Awesome-CS-Books)|:books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀计算机科学与技术 ...|1765|1|2024-01-05|
-|102|[ddzipp/AutoAudit](https://github.com/ddzipp/AutoAudit)|AutoAudit—— the LLM for Cyber Security 网络安全大语言模型|160|1|2023-09-29|
-|103|[leizongmin/js-xss](https://github.com/leizongmin/js-xss)|Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist|5063|1|2023-11-08|
+|101|[wx-chevalier/Awesome-CS-Books](https://github.com/wx-chevalier/Awesome-CS-Books)|:books: Awesome CS Books(with Digests)/Series(.pdf by git lfs) Warehouse for Geeks, ProgrammingLanguage, SoftwareEngineering, Web, AI, ServerSideApplication, Infrastructure, FE etc. :dizzy: 优秀计算机科学与技术 ...|1766|1|2024-01-05|
+|102|[ddzipp/AutoAudit](https://github.com/ddzipp/AutoAudit)|AutoAudit—— the LLM for Cyber Security 网络安全大语言模型|163|1|2023-09-29|
+|103|[leizongmin/js-xss](https://github.com/leizongmin/js-xss)|Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist|5064|1|2023-11-08|
 |104|[helloxz/ccaa](https://github.com/helloxz/ccaa)|Linux一键安装Aria2 + AriaNg + FileBrowse实现离线下载、文件管理。|1000|1|2024-01-02|
-|105|[kubernetes/website](https://github.com/kubernetes/website)|Kubernetes website and documentation repo: |4136|1|2024-02-02|
+|105|[kubernetes/website](https://github.com/kubernetes/website)|Kubernetes website and documentation repo: |4137|1|2024-02-03|
 |106|[wx-chevalier/Spring-Notes](https://github.com/wx-chevalier/Spring-Notes)|Spring & Spring Boot & Spring Cloud & Alibaba Cloud 微服务与云原生实战|19|0|2023-12-20|
 |107|[MY1L/Unicode](https://github.com/MY1L/Unicode)|统一码解决方案|87|0|2023-11-25|
 |108|[wx-chevalier/Rust-Notes](https://github.com/wx-chevalier/Rust-Notes)|Rust Series，语法基础、数据结构、并发编程、工程实践，常见的代码示例 & 数据结构与算法|34|0|2023-11-12|
-|109|[openspug/index](https://github.com/openspug/index)|企业内部导航页|202|0|2023-11-17|
+|109|[openspug/index](https://github.com/openspug/index)|企业内部导航页|203|0|2023-11-17|
 |110|[jenkins-zh/jenkins-zh](https://github.com/jenkins-zh/jenkins-zh)|Jenkins 中文社区网站源码|269|0|2023-11-20|
 |111|[ShortX-Repo/ShortX](https://github.com/ShortX-Repo/ShortX)|这是ShortX版本发布与Issue Tracker仓库|30|0|2024-02-01|
 |112|[WishMelz/imgur](https://github.com/WishMelz/imgur)|基于imgur的web图片托管页面，即开即用  https://wishmelz.github.io/imgur|37|0|2024-01-16|
 |113|[jiansenc/tiktok_barrage_nodejs](https://github.com/jiansenc/tiktok_barrage_nodejs)|抖音弹幕抓取，需要打开浏览器|111|0|2023-12-21|
 |114|[confcodeofconduct/confcodeofconduct.com](https://github.com/confcodeofconduct/confcodeofconduct.com)|A code of conduct template for conferences|330|0|2023-10-05|
 |115|[mantoufan/yzhanHTMLParser](https://github.com/mantoufan/yzhanHTMLParser)|A streaming HTML parser based on HTML Standard. 基于 HTML 标准的流式 HTML 解析器|109|0|2023-09-12|
-|116|[anki-geo/ultimate-geography](https://github.com/anki-geo/ultimate-geography)|Geography flashcard deck for Anki|700|0|2024-01-11|
+|116|[anki-geo/ultimate-geography](https://github.com/anki-geo/ultimate-geography)|Geography flashcard deck for Anki|701|0|2024-01-11|
 |117|[swimos/tutorial](https://github.com/swimos/tutorial)|Tutorials to help you build your first Swim app|27|0|2023-10-03|
 |118|[erocrawler/gmgard](https://github.com/erocrawler/gmgard)|gmgard.com|46|0|2023-11-15|
 |119|[AirboZH/halo-theme-chirpy](https://github.com/AirboZH/halo-theme-chirpy)|一个Halo生态，简约且功能丰富的技术博客主题。A minimal, responsive and feature-rich Halo theme for technical writing.|49|0|2024-02-02|
@@ -141,7 +141,7 @@
 |134|[kubevela/kubevela.github.io](https://github.com/kubevela/kubevela.github.io)|KubeVela documentations and website (https://kubevela.io).|47|0|2024-02-01|
 |135|[cosname/cosx.org](https://github.com/cosname/cosx.org)|统计之都主站|257|0|2024-01-19|
 |136|[AndersonHJB/bootstrapmb](https://github.com/AndersonHJB/bootstrapmb)|做网页 · 不设计,高端HTML模板,学会偷懒,事半功倍|19|0|2023-12-07|
-|137|[ricktu288/ray-optics](https://github.com/ricktu288/ray-optics)|A web app for creating and simulating 2D geometric optical scenes, with a gallery of (interactive) demos.|1045|0|2024-01-28|
+|137|[ricktu288/ray-optics](https://github.com/ricktu288/ray-optics)|A web app for creating and simulating 2D geometric optical scenes, with a gallery of (interactive) demos.|1047|0|2024-01-28|
 |138|[sutra-mobi/nikaya](https://github.com/sutra-mobi/nikaya)|汉译巴利三藏|39|0|2024-01-05|
 |139|[Kingdo777/auto-connect-school-network](https://github.com/Kingdo777/auto-connect-school-network)|自动重连华中科技大学校园网|33|0|2024-01-30|
 |140|[lingeringsound/adblock](https://github.com/lingeringsound/adblock)|Adblock规则|16|0|2024-01-17|
@@ -169,7 +169,7 @@
 |162|[mvaneerde/blog](https://github.com/mvaneerde/blog)|Matthew van Eerde's blog|194|0|2024-01-24|
 |163|[qinlili23333/545WebPlayer](https://github.com/qinlili23333/545WebPlayer)|随时随地在线补充塔能量|22|0|2023-12-13|
 |164|[3egirlsdream/Watermark.Win](https://github.com/3egirlsdream/Watermark.Win)|强大的图片水印模板编辑工具|22|0|2024-01-26|
-|165|[OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser)|An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network|2158|0|2024-01-30|
+|165|[OnionBrowser/OnionBrowser](https://github.com/OnionBrowser/OnionBrowser)|An open-source, privacy-enhancing web browser for iOS, utilizing the Tor anonymity network|2159|0|2024-01-30|
 |166|[MugglePay/MugglePay](https://github.com/MugglePay/MugglePay)|Make Crypto Payment Easy 让数字货币支付更简单|187|0|2023-12-30|
 |167|[xiongbao/we.dog](https://github.com/xiongbao/we.dog)|我们是狗，舔狗。心酸的舔狗日记。|246|0|2023-11-16|
 |168|[wx-chevalier/DataEngineering-Notes](https://github.com/wx-chevalier/DataEngineering-Notes)|数据仓库实战：Hive、HBase、Kylin、ClickHouse|15|0|2023-11-13|
@@ -180,7 +180,7 @@
 |173|[PaulSquires/WinFBE](https://github.com/PaulSquires/WinFBE)|FreeBASIC Editor for Windows|142|0|2023-11-09|
 |174|[13060923171/Crawl-Project3](https://github.com/13060923171/Crawl-Project3)|爬取大众点评，查询企业微信，和自动清理微信被删好友|22|0|2023-09-22|
 |175|[Kenshin/simpread-configs](https://github.com/Kenshin/simpread-configs)|简悦配置库|59|0|2023-09-27|
-|176|[lonnyzhang423/weibo-hot-hub](https://github.com/lonnyzhang423/weibo-hot-hub)|记录微博热搜、热门话题，每小时更新，按天归档。|48|0|2024-02-02|
+|176|[lonnyzhang423/weibo-hot-hub](https://github.com/lonnyzhang423/weibo-hot-hub)|记录微博热搜、热门话题，每小时更新，按天归档。|48|0|2024-02-03|
 |177|[idealclover/Easy-to-Download](https://github.com/idealclover/Easy-to-Download)|🔖可轻松配置的APP下载页&南哪课表官网|36|0|2024-01-18|
 |178|[yangzongzhuan/RuoYi-Oracle](https://github.com/yangzongzhuan/RuoYi-Oracle)|:tada: (RuoYi)官方仓库 基于SpringBoot的权限管理系统 易读易懂、界面简洁美观。 核心技术采用Spring、MyBatis、Shiro没有任何其它重度依赖。直接运行即可用|231|0|2024-01-15|
 |179|[w3c/mlreq](https://github.com/w3c/mlreq)|Mongolian Layout Requirements|21|0|2023-12-13|
@@ -195,7 +195,7 @@
 |188|[maunium/dontasktoask.com](https://github.com/maunium/dontasktoask.com)|An informational website about why you should ask questions directly instead of asking to ask|386|0|2024-01-21|
 |189|[dji-sdk/Mobile-SDK-Doc](https://github.com/dji-sdk/Mobile-SDK-Doc)|Source code and docs for the documentation page of DJI Mobile SDK Developer Website.|51|0|2023-11-10|
 |190|[Biubush/alys](https://github.com/Biubush/alys)|轻量阿里云盘订阅工具（WEB应用）|19|0|2023-08-27|
-|191|[25H/MayeLite](https://github.com/25H/MayeLite)|Maye Lite 一个更轻更简洁的快速启动工具|256|0|2024-01-18|
+|191|[25H/MayeLite](https://github.com/25H/MayeLite)|Maye Lite 一个更轻更简洁的快速启动工具|257|0|2024-01-18|
 |192|[sxwnl/sxwnl](https://github.com/sxwnl/sxwnl)|寿星天文历(万年历)5.10;  更新地址 http://bbs.nongli.net/dispbbs_2_14995.html; |63|0|2024-02-02|
 |193|[mapleray/password](https://github.com/mapleray/password)|Password Generator (密码管理工具)|16|0|2024-01-22|
 |194|[delikely/delikely.github.io](https://github.com/delikely/delikely.github.io)|泛物联网安全|19|0|2023-12-12|

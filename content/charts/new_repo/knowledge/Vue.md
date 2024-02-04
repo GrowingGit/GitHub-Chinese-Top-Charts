@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2024-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[202252197/ChatGPT_JCM](https://github.com/202252197/ChatGPT_JCM)|OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。|2832|2024-01-29|2023-03-10|
 |2|[xiaou61/mydocs](https://github.com/xiaou61/mydocs)|个人博客,里面包含java，Vue，Spring,数据结构，爬虫,JVM,Springboot,react,javascript等内容的整理|426|2024-02-01|2023-07-20|
-|3|[zyronon/typing-word](https://github.com/zyronon/typing-word)|Memorizing words   Learn English   Typing words   背单词   学习英语   练习文章|417|2024-01-17|2023-08-03|
-|4|[hepengwei/visualization-collection-vue](https://github.com/hepengwei/visualization-collection-vue)|🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（Vue版本）|412|2024-01-29|2023-06-16|
-|5|[weiwosuoai/WeBlog](https://github.com/weiwosuoai/WeBlog)|📗 Spring Boot + Vue 3.2 + Vite 前后端分离博客~ 感谢点个 Star 呀~|293|2023-11-23|2023-07-08|
+|3|[zyronon/typing-word](https://github.com/zyronon/typing-word)|Memorizing words   Learn English   Typing words   背单词   学习英语   练习文章|419|2024-01-17|2023-08-03|
+|4|[hepengwei/visualization-collection-vue](https://github.com/hepengwei/visualization-collection-vue)|🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（Vue版本）|413|2024-01-29|2023-06-16|
+|5|[weiwosuoai/WeBlog](https://github.com/weiwosuoai/WeBlog)|📗 Spring Boot + Vue 3.2 + Vite 前后端分离博客~ 感谢点个 Star 呀~|294|2023-11-23|2023-07-08|
 |6|[MrWeilian/iceWebGL](https://github.com/MrWeilian/iceWebGL)|🧊 WebGL上车指南，带你从零开始体系化学习 WebGL。|136|2024-01-14|2023-05-04|
 |7|[daidr/douLog](https://github.com/daidr/douLog)|戴兜的博客（施工中）|113|2024-01-28|2023-02-18|
 |8|[XHXJ/json-GPT-translator](https://github.com/XHXJ/json-GPT-translator)|GPT-Translator 是一款前后端分离基于 OpenAI 的高效翻译软件。这个工具可以读取 JSON 和 Excel(zip) 文件，然后进行行翻译，并输出结果。|86|2024-01-26|2023-05-02|
@@ -35,7 +35,7 @@
 |28|[PFCCLab/blog](https://github.com/PFCCLab/blog)|PFCC 社区博客|7|2024-01-19|2023-10-24|
 |29|[Lq-0229/aurora](https://github.com/Lq-0229/aurora)|个人博客|7|2023-09-03|2023-08-06|
 |30|[onsuway/library](https://github.com/onsuway/library)|线上图书馆（仿henu图书馆|7|2023-12-13|2023-04-25|
-|31|[Himmeltala/cnblogs-theme-bleu](https://github.com/Himmeltala/cnblogs-theme-bleu)|【博客园主题皮肤】基于 Vite+Vue3+TS 构建的一款博客园皮肤。|7|2024-02-01|2023-04-07|
+|31|[Himmeltala/cnblogs-theme-bleu](https://github.com/Himmeltala/cnblogs-theme-bleu)|【博客园主题皮肤】基于 Vite+Vue3+TS 构建的一款博客园皮肤。|7|2024-02-03|2023-04-07|
 |32|[wangcham/firstimpression](https://github.com/wangcham/firstimpression)|这是我完成的第一个网站，学习vue和flask的开始。代码结构混乱，可读性极差，等待重构|7|2023-09-10|2023-03-21|
 |33|[nonhana/littleSharing-Frontend](https://github.com/nonhana/littleSharing-Frontend)|一个以Markdown为主要沟通形式的资源分享社区。Frontend：Vue3.0+Pinia+Vite+TypeScript+Element Plus|6|2024-01-28|2023-09-14|
 |34|[duanluan/taro-guide](https://github.com/duanluan/taro-guide)|Taro 官方的渐进式入门教程写的不是很好，不符合初学者的思路，而且不能做到完全复制粘贴可用，所以这里自己写一个。|6|2023-08-06|2023-07-16|

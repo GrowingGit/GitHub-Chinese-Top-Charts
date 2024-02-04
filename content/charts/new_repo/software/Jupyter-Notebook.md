@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Jupyter Notebook
-<sub>数据更新: 2024-02-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[suno-ai/bark](https://github.com/suno-ai/bark)|🔊 Text-Prompted Generative Audio Model|30259|2023-12-14|2023-04-07|
-|2|[tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)|Instruct-tune LLaMA on consumer hardware|17835|2024-01-24|2023-03-13|
-|3|[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.|10515|2024-02-01|2023-02-11|
-|4|[TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)|PhotoMaker|6895|2024-02-02|2023-12-06|
-|5|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything)|Inpaint anything using Segment Anything and inpainting models.|4920|2023-11-19|2023-04-09|
+|1|[suno-ai/bark](https://github.com/suno-ai/bark)|🔊 Text-Prompted Generative Audio Model|30266|2023-12-14|2023-04-07|
+|2|[tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)|Instruct-tune LLaMA on consumer hardware|17838|2024-01-24|2023-03-13|
+|3|[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.|10521|2024-02-01|2023-02-11|
+|4|[TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)|PhotoMaker|6902|2024-02-03|2023-12-06|
+|5|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything)|Inpaint anything using Segment Anything and inpainting models.|4929|2023-11-19|2023-04-09|
 |6|[LC1332/Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM)|骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技|3524|2023-09-03|2023-03-21|
-|7|[lyogavin/Anima](https://github.com/lyogavin/Anima)|33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU|2569|2024-01-30|2023-06-12|
+|7|[lyogavin/Anima](https://github.com/lyogavin/Anima)|33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU|2576|2024-01-30|2023-06-12|
 |8|[PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT)|We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to ...|2335|2023-12-12|2023-03-24|
 |9|[FranxYao/chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub)|Benchmarking large language models' complex reasoning ability with chain-of-thought prompting|2239|2023-12-10|2023-03-10|
 |10|[datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm)|HuggingLLM, Hugging Future.|1987|2023-11-27|2023-04-11|
-|11|[KevinWang676/Bark-Voice-Cloning](https://github.com/KevinWang676/Bark-Voice-Cloning)|Bark Voice Cloning and Voice Cloning for Chinese Speech|1812|2024-01-31|2023-06-11|
+|11|[KevinWang676/Bark-Voice-Cloning](https://github.com/KevinWang676/Bark-Voice-Cloning)|Bark Voice Cloning and Voice Cloning for Chinese Speech|1815|2024-01-31|2023-06-11|
 |12|[LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya)|Chat凉宫春日, An open sourced Role-Playing chatbot Cheng Li, Ziang Leng, and others.|1349|2024-01-30|2023-05-31|
-|13|[AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP)|Democratizing Internet-scale financial data.|942|2023-12-28|2023-02-07|
-|14|[ytzfhqs/AAAMLP-CN](https://github.com/ytzfhqs/AAAMLP-CN)|Approaching (Almost) Any Machine Learning Problem中译版，在线文档地址：https://ytzfhqs.github.io/AAAMLP-CN/|883|2024-02-02|2023-08-30|
-|15|[DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart)|A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.|632|2024-01-18|2023-07-17|
+|13|[AI4Finance-Foundation/FinNLP](https://github.com/AI4Finance-Foundation/FinNLP)|Democratizing Internet-scale financial data.|944|2023-12-28|2023-02-07|
+|14|[ytzfhqs/AAAMLP-CN](https://github.com/ytzfhqs/AAAMLP-CN)|Approaching (Almost) Any Machine Learning Problem中译版，在线文档地址：https://ytzfhqs.github.io/AAAMLP-CN/|884|2024-02-03|2023-08-30|
+|15|[DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart)|A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.|633|2024-01-18|2023-07-17|
 |16|[s4afa451dgf415f/colab_stable_diffusion](https://github.com/s4afa451dgf415f/colab_stable_diffusion)|stable_diffusion_webui的colab部署版本(including English version)，下载了所流行插件依赖和并进行初始化配置。拥有mod管理、手机自适应、图片信息本地读取等脚本。|619|2024-01-21|2023-04-03|
 |17|[yuanjie-ai/ChatLLM](https://github.com/yuanjie-ai/ChatLLM)|轻松玩转LLM兼容openai&langchain，支持文心一言、讯飞星火、腾讯混元、智谱ChatGLM等|377|2023-10-16|2023-04-11|
 |18|[megvii-research/CVPR2023-DMVFN](https://github.com/megvii-research/CVPR2023-DMVFN)|CVPR2023 (highlight) - A Dynamic Multi-Scale Voxel Flow Network for Video Prediction|287|2023-12-19|2023-03-15|
@@ -33,7 +33,7 @@
 |26|[BoXiaolei/MyTransformer_pytorch](https://github.com/BoXiaolei/MyTransformer_pytorch)|关于Transformer模型的最简洁pytorch实现，包含详细注释|84|2023-11-13|2023-11-03|
 |27|[Kedreamix/PaddleAvatar](https://github.com/Kedreamix/PaddleAvatar)|你是否曾经幻想过与自己的虚拟人交互？现在，使用PaddleAvatar，您可以将自己的图像、音频和视频转化为一个逼真的数字人视频，与其进行人机交互。  PaddleAvatar是一种基于PaddlePaddle深度学习框架的数字人生成工具，基于Paddle的许多套件，它可以将您的数字图像、音频和视频合成为一个逼真的数字人视频。除此之外，PaddleAvatar还支持进一步的开发，例如使用自然语言处 ...|79|2023-12-10|2023-04-18|
 |28|[kevin-meng/HuggingfaceDownloadShare](https://github.com/kevin-meng/HuggingfaceDownloadShare)|中国如何下载huggingface 模型并共享链接|44|2023-11-20|2023-09-10|
-|29|[Tony607/Cybergear](https://github.com/Tony607/Cybergear)|小米微电机Cybergear上手开发|41|2024-01-13|2023-09-02|
+|29|[Tony607/Cybergear](https://github.com/Tony607/Cybergear)|小米微电机Cybergear上手开发|41|2024-02-03|2023-09-02|
 |30|[gameofdimension/vllm-cn](https://github.com/gameofdimension/vllm-cn)|演示 vllm 对中文大语言模型的神奇效果|32|2023-11-04|2023-07-08|
 |31|[TommyZihao/aidlux_tutorial](https://github.com/TommyZihao/aidlux_tutorial)|AidLux手机部署人工智能算法|31|2023-10-14|2023-06-25|
 |32|[roberthsu2003/__112_python_chihlee__](https://github.com/roberthsu2003/__112_python_chihlee__)|10_14日_致理_python_大數據探勘|27|2023-12-09|2023-10-14|
