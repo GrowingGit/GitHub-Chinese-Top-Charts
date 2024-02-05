@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Dart
-<sub>数据更新: 2024-02-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[nightmare-space/speed_share](https://github.com/nightmare-space/speed_share)|Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.|804|1|2024-01-27|
-|2|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A full-featured immersion language learning suite for mobile.|677|1|2024-01-04|
-|3|[jayden320/flutter_shuqi](https://github.com/jayden320/flutter_shuqi)|高仿书旗小说 Flutter版，支持iOS、Android|2640|1|2023-12-18|
+|2|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A full-featured immersion language learning suite for mobile.|678|1|2024-01-04|
+|3|[jayden320/flutter_shuqi](https://github.com/jayden320/flutter_shuqi)|高仿书旗小说 Flutter版，支持iOS、Android|2642|1|2023-12-18|
 |4|[Petterpx/FlutterQuickExample](https://github.com/Petterpx/FlutterQuickExample)|Flutter入门示例，对照着Flutter实战书籍写的一个demo。|6|0|2023-09-11|
 |5|[JerryAlexLiang/flutter_wan_android_getx](https://github.com/JerryAlexLiang/flutter_wan_android_getx)|WanAndroid Flutter版 基于GetX ，欢迎互相交流学习， Gitee：https://gitee.com/JerryAlexLiang/flutter_wan_android_getx.git|11|0|2023-08-25|
 |6|[RxReader/tencent_kit](https://github.com/RxReader/tencent_kit)|Flutter版QQ登录/分享|231|0|2023-09-12|
@@ -20,7 +20,7 @@
 |13|[chen56/note](https://github.com/chen56/note)|flutter官网的范例太乱了，不适合学习查阅，本项目为flutter增加点学习、速查的手段，本站本身用flutter开发，Web部署到Github Pages, 国内站 https://younpc.com/note|5|0|2023-09-28|
 |14|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|99|0|2024-01-29|
 |15|[xiaoyaocz/flutter_cnblogs](https://github.com/xiaoyaocz/flutter_cnblogs)|博客园Flutter客户端|107|0|2023-12-07|
-|16|[lixp185/bookfx](https://github.com/lixp185/bookfx)|模拟书籍翻页效果|53|0|2023-12-07|
+|16|[lixp185/bookfx](https://github.com/lixp185/bookfx)|模拟书籍翻页效果|55|0|2023-12-07|
 |17|[githubityu/flutter_jdshop_mvvm](https://github.com/githubityu/flutter_jdshop_mvvm)|跟着大地老师学习的,模仿京东的一个实战项目，但是根据实际项目做了许多修改和优化|50|0|2024-01-03|
 |18|[xiaojia21190/ZY_Player_flutter](https://github.com/xiaojia21190/ZY_Player_flutter)|影视 漫画 小说 听书 |64|0|2024-01-19|
 |19|[shang1219178163/flutter_templet_project](https://github.com/shang1219178163/flutter_templet_project)| 个人模板项目, 包含组件使用示例、自定义组件封装、代码优化封装技巧。。。|32|0|2024-01-31|
