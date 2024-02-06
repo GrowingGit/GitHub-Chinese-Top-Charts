@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Vim script
-<sub>数据更新: 2024-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20083|8|2023-09-23|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8469|2|2024-01-25|
-|3|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1434|1|2023-11-14|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8472|2|2024-01-25|
+|3|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1438|1|2023-11-14|
 |4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1794|1|2023-09-30|
 |5|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|860|1|2023-12-11|
 |6|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4893|1|2023-11-16|
@@ -28,7 +28,7 @@
 |21|[owner888/vimer](https://github.com/owner888/vimer)|vim editor|11|0|2023-11-07|
 |22|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|392|0|2024-01-17|
 |23|[keminar/linux-tools](https://github.com/keminar/linux-tools)|系统安装,日常Shell工具|3|0|2024-01-05|
-|24|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1723|0|2023-10-06|
+|24|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1722|0|2023-10-06|
 |25|[s-sasaki-0529/dotfiles](https://github.com/s-sasaki-0529/dotfiles)|個人用 .files|2|0|2023-09-30|
 |26|[yyzwz/s023](https://github.com/yyzwz/s023)|基于Vue+SpringBoot+MySQL的海南旅游推荐系统，基于协同推荐算法，包括用户网页和管理后台，包含景点类型模块、旅游景点模块、行程推荐模块、美食推荐模块、景点排名模块，还包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，天然气工程运维系统基于角色的访问控制，给景点管理员、游客使用，可将权限精确到按钮级别。|20|0|2023-09-07|
 |27|[feix760/yuan](https://github.com/feix760/yuan)|用户配置文件 vim|9|0|2023-12-20|
@@ -39,8 +39,8 @@
 |32|[pseudoyu/dotfiles](https://github.com/pseudoyu/dotfiles)|我的 macOS 与 Linux 配置|38|0|2023-08-27|
 |33|[Fechin/oh-my-vim](https://github.com/Fechin/oh-my-vim)|vim 私人配置|27|0|2024-01-31|
 |34|[andrewintw/rpi-video-sync-looper](https://github.com/andrewintw/rpi-video-sync-looper)|A video synchronization looping system built on Raspberry Pi. 一個運行於 Raspberry Pi 的影片同步循環播放系統|6|0|2023-12-04|
-|35|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog based on vimscript|181|0|2023-10-24|
-|36|[SidOfc/mkdx](https://github.com/SidOfc/mkdx)|A vim plugin that adds some nice extra's for working with markdown documents|481|0|2023-10-16|
+|35|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog based on vimscript|182|0|2023-10-24|
+|36|[SidOfc/mkdx](https://github.com/SidOfc/mkdx)|A vim plugin that adds some nice extra's for working with markdown documents|482|0|2023-10-16|
 |37|[Genki-S/dotfiles](https://github.com/Genki-S/dotfiles)|My lovely settings.|23|0|2024-01-20|
 |38|[dofy/7th-vim](https://github.com/dofy/7th-vim)|安装简单，轻量、易用、高可配置性。 Lightweight & Customizable Vim configuration options.|98|0|2023-11-25|
 |39|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|11|0|2024-01-18|

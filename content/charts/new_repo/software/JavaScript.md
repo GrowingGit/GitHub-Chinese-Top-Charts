@@ -1,65 +1,65 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > JavaScript
-<sub>数据更新: 2024-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)|这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。|13070|2024-01-30|2023-03-28|
-|2|[sunner/ChatALL](https://github.com/sunner/ChatALL)| Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers|12866|2024-02-04|2023-04-08|
-|3|[songquanpeng/one-api](https://github.com/songquanpeng/one-api)|OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution  ...|9546|2024-02-03|2023-04-22|
-|4|[pot-app/pot-desktop](https://github.com/pot-app/pot-desktop)|🌈一个跨平台的划词翻译和OCR软件   A cross-platform software for text translation and recognition.|7553|2024-01-29|2023-02-26|
-|5|[wenda-LLM/wenda](https://github.com/wenda-LLM/wenda)|闻达：一个LLM调用平台。目标为针对特定环境的高效内容生成，同时考虑个人和中小企业的计算资源局限性，以及知识安全和私密性问题|5937|2023-12-10|2023-03-25|
-|6|[xenova/transformers.js](https://github.com/xenova/transformers.js)|State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!|5718|2024-02-02|2023-02-13|
-|7|[openchatai/OpenChat](https://github.com/openchatai/OpenChat)|LLMs custom-chatbots console ⚡|4971|2024-02-04|2023-05-30|
-|8|[SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)|LLM Frontend for Power Users.|4802|2024-02-04|2023-02-09|
-|9|[anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview)|🐥 A code review bot powered by ChatGPT|3411|2023-12-10|2023-02-11|
-|10|[OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)|🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation|3346|2024-01-18|2023-05-06|
-|11|[vanjs-org/van](https://github.com/vanjs-org/van)|🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.|3258|2024-02-01|2023-05-08|
-|12|[TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)|Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.|3118|2024-02-04|2023-03-03|
-|13|[LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)|QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源|2882|2024-01-28|2023-05-27|
-|14|[mrabit/aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck)|阿里云盘每日签到脚本 青龙面板支持|2426|2023-12-08|2023-02-12|
-|15|[haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy)|A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service|1553|2024-01-16|2023-04-04|
-|16|[yonggekkk/Cloudflare-workers-pages-vless](https://github.com/yonggekkk/Cloudflare-workers-pages-vless)|Cf-worker-pages-vless脚本，默认支持Chatgpt，支持workers与pages两种形式部署。CF优选域名、优选反代IP多平台一键脚本|1521|2024-02-02|2023-07-22|
-|17|[tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader)|基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file|1447|2024-01-25|2023-02-13|
-|18|[Script-Hub-Org/Script-Hub](https://github.com/Script-Hub-Org/Script-Hub)|Advanced Script Converter for QX, Loon, Surge, Stash, Egern, LanceX and Shadowrocket - 重写 & 规则集转换|1395|2024-02-03|2023-07-09|
+|1|[xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)|这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。|13071|2024-01-30|2023-03-28|
+|2|[sunner/ChatALL](https://github.com/sunner/ChatALL)| Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers|12890|2024-02-04|2023-04-08|
+|3|[songquanpeng/one-api](https://github.com/songquanpeng/one-api)|OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution  ...|9569|2024-02-03|2023-04-22|
+|4|[pot-app/pot-desktop](https://github.com/pot-app/pot-desktop)|🌈一个跨平台的划词翻译和OCR软件   A cross-platform software for text translation and recognition.|7570|2024-02-05|2023-02-26|
+|5|[wenda-LLM/wenda](https://github.com/wenda-LLM/wenda)|闻达：一个LLM调用平台。目标为针对特定环境的高效内容生成，同时考虑个人和中小企业的计算资源局限性，以及知识安全和私密性问题|5944|2023-12-10|2023-03-25|
+|6|[xenova/transformers.js](https://github.com/xenova/transformers.js)|State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!|5725|2024-02-05|2023-02-13|
+|7|[openchatai/OpenChat](https://github.com/openchatai/OpenChat)|LLMs custom-chatbots console ⚡|4973|2024-02-04|2023-05-30|
+|8|[SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)|LLM Frontend for Power Users.|4814|2024-02-05|2023-02-09|
+|9|[anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview)|🐥 A code review bot powered by ChatGPT|3415|2023-12-10|2023-02-11|
+|10|[OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)|🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation|3350|2024-01-18|2023-05-06|
+|11|[vanjs-org/van](https://github.com/vanjs-org/van)|🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.|3261|2024-02-01|2023-05-08|
+|12|[TBXark/ChatGPT-Telegram-Workers](https://github.com/TBXark/ChatGPT-Telegram-Workers)|Deploy your own Telegram ChatGPT bot on Cloudflare Workers with ease.|3116|2024-02-05|2023-03-03|
+|13|[LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)|QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源|2894|2024-01-28|2023-05-27|
+|14|[mrabit/aliyundriveDailyCheck](https://github.com/mrabit/aliyundriveDailyCheck)|阿里云盘每日签到脚本 青龙面板支持|2430|2023-12-08|2023-02-12|
+|15|[haibbo/cf-openai-azure-proxy](https://github.com/haibbo/cf-openai-azure-proxy)|A Cloudflare worker script to proxy OpenAI‘s request to Azure OpenAI Service|1555|2024-01-16|2023-04-04|
+|16|[yonggekkk/Cloudflare-workers-pages-vless](https://github.com/yonggekkk/Cloudflare-workers-pages-vless)|Cf-worker-pages-vless脚本，默认支持Chatgpt，支持workers与pages两种形式部署。CF优选域名、优选反代IP多平台一键脚本|1525|2024-02-05|2023-07-22|
+|17|[tangyoha/telegram_media_downloader](https://github.com/tangyoha/telegram_media_downloader)|基于Dineshkarthik的项目， 电报视频下载，电报资源下载，跨平台，支持web查看下载进度 ，支持bot下发指令下载，支持下载已经加入的私有群但是限制下载的资源， telegram media download,Download media files from a telegram conversation/chat/channel up to 2GiB per file|1455|2024-01-25|2023-02-13|
+|18|[Script-Hub-Org/Script-Hub](https://github.com/Script-Hub-Org/Script-Hub)|Advanced Script Converter for QX, Loon, Surge, Stash, Egern, LanceX and Shadowrocket - 重写 & 规则集转换|1398|2024-02-04|2023-07-09|
 |19|[biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export)|Honkai: Star Rail Warp History Exporter|1310|2024-01-22|2023-05-01|
-|20|[thisjam/sd-webui-oldsix-prompt](https://github.com/thisjam/sd-webui-oldsix-prompt)|sd-webui中文提示词插件、老手新手炼丹必备|1297|2023-12-01|2023-07-27|
-|21|[LarryZhu-dev/autofit.js](https://github.com/LarryZhu-dev/autofit.js)|autofit.js 迄今为止最易用的自适应工具|972|2024-02-04|2023-04-20|
-|22|[0x648/luna-ai](https://github.com/0x648/luna-ai)|Luna AI - 全自动的 AI 直播系统|862|2024-02-03|2023-03-16|
-|23|[obgnail/typora_plugin](https://github.com/obgnail/typora_plugin)|Typora plugin. feature enhancement tool   Typora 插件，功能增强工具|854|2024-02-04|2023-06-25|
+|20|[thisjam/sd-webui-oldsix-prompt](https://github.com/thisjam/sd-webui-oldsix-prompt)|sd-webui中文提示词插件、老手新手炼丹必备|1299|2023-12-01|2023-07-27|
+|21|[LarryZhu-dev/autofit.js](https://github.com/LarryZhu-dev/autofit.js)|autofit.js 迄今为止最易用的自适应工具|976|2024-02-04|2023-04-20|
+|22|[0x648/luna-ai](https://github.com/0x648/luna-ai)|Luna AI - 全自动的 AI 直播系统|868|2024-02-04|2023-03-16|
+|23|[obgnail/typora_plugin](https://github.com/obgnail/typora_plugin)|Typora plugin. feature enhancement tool   Typora 插件，功能增强工具|856|2024-02-05|2023-06-25|
 |24|[slarkvan/Block-Pornographic-Replies](https://github.com/slarkvan/Block-Pornographic-Replies)|屏蔽推特回复下的黄推。Block pornographic replies below the tweet.|808|2023-10-24|2023-06-28|
-|25|[pythongosssss/ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)|Enhancements & experiments for ComfyUI, mostly focusing on UI features|773|2024-01-31|2023-03-06|
-|26|[hex-ci/smzdm_script](https://github.com/hex-ci/smzdm_script)|smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能|773|2023-12-15|2023-02-25|
+|25|[pythongosssss/ComfyUI-Custom-Scripts](https://github.com/pythongosssss/ComfyUI-Custom-Scripts)|Enhancements & experiments for ComfyUI, mostly focusing on UI features|779|2024-01-31|2023-03-06|
+|26|[hex-ci/smzdm_script](https://github.com/hex-ci/smzdm_script)|smzdm 自用脚本 for 青龙面板，支持 App 端签到、转盘抽奖、每日任务等功能|774|2023-12-15|2023-02-25|
 |27|[jianjianai/NewBingGoGo-Web](https://github.com/jianjianai/NewBingGoGo-Web)|一个基于微软OpenAI ChatGPT GPT4的New Bing接口的Web服务。 提供了好看的对话页面。 实现了微软New Bing的大多数功能，还添加了一些自己的特色功能。 开源免费。|750|2023-08-15|2023-04-23|
-|28|[traceless/alist-encrypt](https://github.com/traceless/alist-encrypt)|这个项目主要是对 alist 的服务进行代理，提供 webdav 的加解密功能。支持 alist 网页在线播放加密的视频，查看加密的图片等功能，同时在 webdav 下的操作透明，自动实现文件资源的加解密。|723|2023-12-21|2023-03-18|
-|29|[yoimiya-kokomi/Miao-Yunzai](https://github.com/yoimiya-kokomi/Miao-Yunzai)|喵版Yunzai-V3|704|2024-02-04|2023-03-04|
+|28|[traceless/alist-encrypt](https://github.com/traceless/alist-encrypt)|这个项目主要是对 alist 的服务进行代理，提供 webdav 的加解密功能。支持 alist 网页在线播放加密的视频，查看加密的图片等功能，同时在 webdav 下的操作透明，自动实现文件资源的加解密。|724|2023-12-21|2023-03-18|
+|29|[yoimiya-kokomi/Miao-Yunzai](https://github.com/yoimiya-kokomi/Miao-Yunzai)|喵版Yunzai-V3|707|2024-02-05|2023-03-04|
 |30|[TongchengOpenSource/AppScan](https://github.com/TongchengOpenSource/AppScan)|安全隐私卫士（AppScan）一款免费的企业级自动化App隐私合规检测工具。|683|2024-01-23|2023-03-17|
-|31|[Nolovenodie/emby-crx](https://github.com/Nolovenodie/emby-crx)|Emby 增强/美化 插件 (适用于 Chrome 内核浏览器 / EmbyServer)|626|2023-11-06|2023-05-01|
-|32|[viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy)|📱 Graphical Scrcpy to display and control Android, devices powered by Electron.   使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。|625|2024-01-04|2023-09-15|
-|33|[openai-translator/bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher)|使用 ChatGPT API 给文本进行润色和语法纠错的 Bob 插件！完美代替 Grammarly！Licensed under CC BY-NC-SA 4.0|624|2023-11-28|2023-03-03|
+|31|[Nolovenodie/emby-crx](https://github.com/Nolovenodie/emby-crx)|Emby 增强/美化 插件 (适用于 Chrome 内核浏览器 / EmbyServer)|627|2023-11-06|2023-05-01|
+|32|[viarotel-org/escrcpy](https://github.com/viarotel-org/escrcpy)|📱 Graphical Scrcpy to display and control Android, devices powered by Electron.   使用图形化的 Scrcpy 显示和控制您的 Android 设备，由 Electron 驱动。|626|2024-01-04|2023-09-15|
+|33|[openai-translator/bob-plugin-openai-polisher](https://github.com/openai-translator/bob-plugin-openai-polisher)|使用 ChatGPT API 给文本进行润色和语法纠错的 Bob 插件！完美代替 Grammarly！Licensed under CC BY-NC-SA 4.0|625|2023-11-28|2023-03-03|
 |34|[DustinWin/clash_singbox-tools](https://github.com/DustinWin/clash_singbox-tools)|自动同步 Clash Premium 内核、Clash.Meta 内核、sing-box 内核、Clash dashboard 面板和 AdGuardHome 最新版|600|2024-01-29|2023-04-06|
 |35|[Ryan-yang125/ChatLLM-Web](https://github.com/Ryan-yang125/ChatLLM-Web)|🗣️ Chat with LLM like Vicuna totally in your browser with WebGPU, safely, privately, and with no server. Powered by web llm.|588|2023-09-05|2023-04-23|
-|36|[qist/tvbox](https://github.com/qist/tvbox)|FongMi影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。|555|2024-02-04|2023-08-29|
-|37|[danni-cool/wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook)|run a wechat bot as a http service|541|2024-02-04|2023-09-19|
+|36|[qist/tvbox](https://github.com/qist/tvbox)|FongMi影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。|572|2024-02-05|2023-08-29|
+|37|[danni-cool/wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook)|run a wechat bot as a http service|544|2024-02-05|2023-09-19|
 |38|[github-20k/awesome-opensource](https://github.com/github-20k/awesome-opensource)|Best open-source GitHub libraries voted by members 🎤|511|2024-01-02|2023-05-22|
-|39|[AIGODLIKE/AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation)|A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc|486|2024-02-04|2023-08-15|
-|40|[shadowcz007/comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes)|Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS|475|2024-02-04|2023-10-18|
+|39|[AIGODLIKE/AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation)|A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc|487|2024-02-04|2023-08-15|
+|40|[shadowcz007/comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes)|Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS|476|2024-02-05|2023-10-18|
 |41|[imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi)|今日热榜 API，一个聚合热门数据的 API 接口，支持 Vercel 部署   前端页面：https://github.com/imsyy/DailyHot|426|2024-02-02|2023-03-14|
-|42|[sparrow-js/an-codeAI](https://github.com/sparrow-js/an-codeAI)|AI generate code|416|2024-01-25|2023-02-09|
-|43|[sing-web/x-ui](https://github.com/sing-web/x-ui)|xray panel that supports multi-protocol and multi-user|409|2023-11-17|2023-04-09|
+|42|[sparrow-js/an-codeAI](https://github.com/sparrow-js/an-codeAI)|AI generate code|418|2024-01-25|2023-02-09|
+|43|[sing-web/x-ui](https://github.com/sing-web/x-ui)|xray panel that supports multi-protocol and multi-user|411|2023-11-17|2023-04-09|
 |44|[gaogaotiantian/biliscope](https://github.com/gaogaotiantian/biliscope)|Bilibili chrome extension to show uploader's stats|404|2024-01-30|2023-03-07|
-|45|[hewang1an/StarRail-plugin](https://github.com/hewang1an/StarRail-plugin)|星穹铁道插件|375|2024-01-30|2023-05-01|
-|46|[DualSubs/YouTube](https://github.com/DualSubs/YouTube)|YouTube字幕增强及双语模块|373|2024-02-04|2023-02-13|
-|47|[MuiseDestiny/zotero-figure](https://github.com/MuiseDestiny/zotero-figure)|一个基于 PDFFigure2 的 PDF 图表解析插件|329|2023-09-14|2023-05-31|
+|45|[hewang1an/StarRail-plugin](https://github.com/hewang1an/StarRail-plugin)|星穹铁道插件|377|2024-02-05|2023-05-01|
+|46|[DualSubs/YouTube](https://github.com/DualSubs/YouTube)|YouTube字幕增强及双语模块|374|2024-02-04|2023-02-13|
+|47|[MuiseDestiny/zotero-figure](https://github.com/MuiseDestiny/zotero-figure)|一个基于 PDFFigure2 的 PDF 图表解析插件|330|2024-02-05|2023-05-31|
 |48|[KingRan/KR](https://github.com/KingRan/KR)|完整库，内部助力|317|2023-12-28|2023-07-27|
 |49|[yw88075/tvbox](https://github.com/yw88075/tvbox)|借用的都是大佬的本地接口和在线接口。|311|2023-12-20|2023-02-28|
-|50|[r0ysue/MobileCTF](https://github.com/r0ysue/MobileCTF)|体系化、实战化、step by step、目标清晰且具体的一个打怪升级、成长路径规划图|308|2024-01-16|2023-06-22|
-|51|[Misaka-blog/cf-wkrs-pages-vless](https://github.com/Misaka-blog/cf-wkrs-pages-vless)|在 CloudFlare Workers 或 Pages 部署 vless 节点|305|2023-09-23|2023-07-29|
+|50|[Misaka-blog/cf-wkrs-pages-vless](https://github.com/Misaka-blog/cf-wkrs-pages-vless)|在 CloudFlare Workers 或 Pages 部署 vless 节点|308|2023-09-23|2023-07-29|
+|51|[r0ysue/MobileCTF](https://github.com/r0ysue/MobileCTF)|体系化、实战化、step by step、目标清晰且具体的一个打怪升级、成长路径规划图|308|2024-01-16|2023-06-22|
 |52|[gaboolic/nodejs-proxy](https://github.com/gaboolic/nodejs-proxy)|nodejs实现vless fork的同时帮我点点star|289|2023-10-29|2023-07-14|
-|53|[ylw00/qxVm](https://github.com/ylw00/qxVm)|qxVm补环境框架(纯js实现)|287|2023-09-13|2023-04-20|
-|54|[Szymou/NNBS](https://github.com/Szymou/NNBS)|1.大麦：回流票监测(app通知、wx通知)、各类脚本、抢票消息、JJ20扫文识字搜答案；2.当前可用脚本：自动抢、多长次回流检测、单场次回流检测等|274|2023-11-22|2023-07-26|
-|55|[shifu-group/inpaint_wechat](https://github.com/shifu-group/inpaint_wechat)|《照片修复小小助手》是一款基于微信AI能力的微信小程序，实现了图片选定区域的消除修复功能，纯客户端实现，无服务端。Inpaint_wechat is a WeChat mini-program based on the WeChat AI capabilities, implementing the functionality of inpainting and repairing selecte ...|273|2024-01-31|2023-12-28|
+|53|[ylw00/qxVm](https://github.com/ylw00/qxVm)|qxVm补环境框架(纯js实现)|288|2023-09-13|2023-04-20|
+|54|[Szymou/NNBS](https://github.com/Szymou/NNBS)|1.大麦：回流票监测(app通知、wx通知)、各类脚本、抢票消息、JJ20扫文识字搜答案；2.当前可用脚本：自动抢、多长次回流检测、单场次回流检测等|276|2023-11-22|2023-07-26|
+|55|[shifu-group/inpaint_wechat](https://github.com/shifu-group/inpaint_wechat)|《照片修复小小助手》是一款基于微信AI能力的微信小程序，实现了图片选定区域的消除修复功能，纯客户端实现，无服务端。Inpaint_wechat is a WeChat mini-program based on the WeChat AI capabilities, implementing the functionality of inpainting and repairing selecte ...|274|2024-01-31|2023-12-28|
 |56|[ppz-pro/file-bridge](https://github.com/ppz-pro/file-bridge)|网页里的文件服务器|256|2023-11-24|2023-09-01|
 |57|[henryxrl/SimpleTextReader](https://github.com/henryxrl/SimpleTextReader)|SimpleTextReader is the online text reader that simulates the result of SimpleEpub2, providing a web-based reading experience.|256|2023-12-18|2023-07-10|
 |58|[easychen/botchan](https://github.com/easychen/botchan)|基于微信测试号的ChatBot，对接OpenAI API|244|2023-10-22|2023-10-09|

@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2024-02-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1712|1|2024-01-10|
-|2|[BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)|Color palette package in R inspired by works at the Metropolitan Museum of Art in New York|1013|1|2023-09-30|
+|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1713|1|2024-01-10|
+|2|[BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)|Color palette package in R inspired by works at the Metropolitan Museum of Art in New York|1015|1|2023-09-30|
 |3|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|57|0|2024-02-04|
 |4|[skgrange/rmweather](https://github.com/skgrange/rmweather)|Tools to Conduct Meteorological Normalisation on Air Quality Data|44|0|2023-11-21|
 |5|[Wytamma/GISAIDR](https://github.com/Wytamma/GISAIDR)|Programmatically interact with the GISAID database.|61|0|2024-02-01|
@@ -24,7 +24,7 @@
 |17|[walkerke/idbr](https://github.com/walkerke/idbr)|An R interface to the US Census Bureau International Data Base API|57|0|2023-08-14|
 |18|[ykang/gratis](https://github.com/ykang/gratis)|GRATIS: GeneRAting TIme Series with diverse and controllable characteristics|74|0|2023-08-29|
 |19|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|270|0|2023-12-12|
-|20|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|489|0|2024-01-27|
+|20|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|490|0|2024-01-27|
 |21|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|93|0|2024-01-13|
 |22|[gee-hydro/gee_whittaker_kong2019_validation](https://github.com/gee-hydro/gee_whittaker_kong2019_validation)|Non-parametric weighted Whittaker smoothing|31|0|2023-09-17|
 |23|[gesistsa/sweater](https://github.com/gesistsa/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|26|0|2023-11-10|
@@ -36,7 +36,7 @@
 |29|[quanteda/readtext](https://github.com/quanteda/readtext)|an R package for reading text files|113|0|2024-02-01|
 |30|[evanliu3594/GenshinArtifactFarming](https://github.com/evanliu3594/GenshinArtifactFarming)|原神圣遗物狗粮路线规划装置   Planning tools for customizing your Artifact Farming Route in Genshin Impact|5|0|2023-12-27|
 |31|[davidycliao/legisTaiwan](https://github.com/davidycliao/legisTaiwan)|legisTaiwan: An Interface to Access Taiwan Legislative API in R 台灣立法院國會系統 API |21|0|2023-10-31|
-|32|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|70|0|2024-01-16|
+|32|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|70|0|2024-02-05|
 |33|[ShixiangWang/tinyscholar](https://github.com/ShixiangWang/tinyscholar)|A Tiny R Package to Get and Show Google Scholar Profile|8|0|2024-01-05|
 |34|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|153|0|2024-01-31|
 |35|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|194|0|2023-11-23|
@@ -45,7 +45,7 @@
 |38|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|41|0|2024-01-29|
 |39|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit|31|0|2023-10-01|
 |40|[allenlu2008/RDemo](https://github.com/allenlu2008/RDemo)|虾神的R语言Demo|35|0|2023-09-05|
-|41|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|0|2024-02-04|
+|41|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|0|2024-02-05|
 |42|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|69|0|2024-01-02|
 |43|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008).|128|0|2023-09-27|
 |44|[Otoliths/SP2000](https://github.com/Otoliths/SP2000)|🐟Catalogue of Life toolkit for R|11|0|2023-11-29|
@@ -55,7 +55,7 @@
 |48|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|124|0|2024-01-03|
 |49|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|14|0|2023-10-26|
 |50|[zumbov2/deeplr](https://github.com/zumbov2/deeplr)|An R wrapper for the DeepL Translator API|33|0|2023-11-03|
-|51|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|14|0|2024-01-29|
+|51|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|15|0|2024-01-29|
 |52|[caf-ifrit/forestat](https://github.com/caf-ifrit/forestat)|forestat: Forest Carbon Sequestration and Potential Productivity Calculation 森林碳汇计量和潜力计算|6|0|2023-10-10|
 |53|[Crazzy-Rabbit/Rscript-to-anaylise-and-visualize](https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize)|一些用于画图的R脚本|7|0|2024-01-12|
 |54|[Hong-Kong-Districts-Info/hktrafficcollisions](https://github.com/Hong-Kong-Districts-Info/hktrafficcollisions)|Shiny app dashboard of HK traffic collisions that result in injury.   香港車禍傷亡資料庫：利用互動地圖和儀表版，將香港車禍位置和相關數據可視化。|6|0|2024-01-20|
