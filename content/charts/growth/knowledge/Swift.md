@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Swift
-<sub>数据更新: 2024-02-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|14870|4|2024-01-18|
+|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|14872|4|2024-01-18|
 |2|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|2144|3|2023-12-31|
-|3|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|1407|1|2024-02-04|
-|4|[ZhongshanHuang/PoReader](https://github.com/ZhongshanHuang/PoReader)|本地小说阅读器，支持深色模式，Wifi传书，代码简洁有注释(local text reader, support dark modal, upload text by wifi)|52|0|2023-12-04|
+|3|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|1407|1|2024-02-06|
+|4|[ZhongshanHuang/PoReader](https://github.com/ZhongshanHuang/PoReader)|本地小说阅读器，支持深色模式，Wifi传书，代码简洁有注释(local text reader, support dark modal, upload text by wifi)|53|0|2023-12-04|
 |5|[RicardoWesleyli/SwiftUI](https://github.com/RicardoWesleyli/SwiftUI)|SwiftUI极简开发书籍配套代码|8|0|2023-08-30|
 |6|[crazypoo/PTools](https://github.com/crazypoo/PTools)|iOS开发工具小集合,不定期更新|30|0|2024-02-01|
 |7|[Lakr233/myyearwithgit](https://github.com/Lakr233/myyearwithgit)|代码仓库年终总结报告。|225|0|2023-12-24|
