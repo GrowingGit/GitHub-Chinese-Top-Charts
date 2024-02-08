@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-02-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2343|1|2024-01-15|
+|1|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2344|1|2024-01-15|
 |2|[yangbin-xd/UAV-positioning](https://github.com/yangbin-xd/UAV-positioning)|source code for IEEE IoTJ paper "Distributed and Collaborative Localization for Swarming UAVs"|22|0|2023-12-27|
 |3|[lnexenl/BeiDou_B1C](https://github.com/lnexenl/BeiDou_B1C)|BeiDou B1C Signal Generator and Catcher / 北斗B1C信号生成与捕获|12|0|2023-11-03|
 |4|[NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate)|络石机械臂动力学相关算法以及仿真|12|0|2023-11-13|
@@ -15,7 +15,7 @@
 |8|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|6|0|2023-12-04|
 |9|[ECheynet/SEIR](https://github.com/ECheynet/SEIR)|Generalized SEIR Epidemic Model (fitting and computation)|79|0|2023-08-11|
 |10|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|197|0|2024-01-15|
-|11|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|16|0|2024-01-23|
+|11|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|16|0|2024-02-07|
 |12|[cs-chan/Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset)|Total Text Dataset. It consists of 1555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind.|718|0|2023-10-05|
 |13|[zhyantao/genetic-algo-for-shortest-path](https://github.com/zhyantao/genetic-algo-for-shortest-path)|遗传算法解决最短路径问题 (两个出发点)|9|0|2023-12-31|
 |14|[Lu-Anastasia/MATLAB](https://github.com/Lu-Anastasia/MATLAB)|信息光学数字实验室（matlab版）全代码|3|0|2023-11-28|
@@ -63,7 +63,7 @@
 |56|[himynameisfuego/SiTraNo](https://github.com/himynameisfuego/SiTraNo)|A MATLAB app for sines-transient-noise decomposition of audio signals.|33|0|2023-12-15|
 |57|[Patrick9313/Digital-Image-Processing](https://github.com/Patrick9313/Digital-Image-Processing)|基于MATLAB的图像加解密及传输仿真|43|0|2023-08-27|
 |58|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|12|0|2024-01-29|
-|59|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|179|0|2023-10-24|
+|59|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|180|0|2023-10-24|
 |60|[wong-cf/phase_revocery](https://github.com/wong-cf/phase_revocery)|相位恢复算法相关的几种算法，包括角谱迭代算法，GS算法，TTIE强度方程恢复算法，以及算法的结合。|3|0|2024-01-02|
 |61|[lutasam/Codes_For_MCM-ICM-2022](https://github.com/lutasam/Codes_For_MCM-ICM-2022)|2022数学建模美赛C题代码，基于LSTM的股票预测项目|3|0|2023-09-25|
 |62|[WeisongZhao/Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|Official MATLAB implementation of the "Sparse deconvolution" -v1.0.3|61|0|2024-02-04|
@@ -72,7 +72,7 @@
 |65|[mingsongli/acycle](https://github.com/mingsongli/acycle)|Acycle: Time-series analysis software for research and education|71|0|2023-12-27|
 |66|[deltaRing/UAV_Path_Search](https://github.com/deltaRing/UAV_Path_Search)|本工程将借助ESDF、TSDF、Dstar、B样条曲线、以及多项式路径来实现无人机路径规划|6|0|2023-12-19|
 |67|[curryqka/Cell-counting-GUI-MATLABGUI-](https://github.com/curryqka/Cell-counting-GUI-MATLABGUI-)|包含三大板块，图像变换，图像增强和细胞计数|12|0|2023-12-19|
-|68|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP)|86|0|2024-01-10|
+|68|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP)|86|0|2024-02-07|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

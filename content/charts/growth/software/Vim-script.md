@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Vim script
-<sub>数据更新: 2024-02-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20082|8|2023-09-23|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8478|2|2024-01-25|
-|3|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1438|1|2023-11-14|
+|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20083|8|2023-09-23|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8480|2|2024-01-25|
+|3|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1439|1|2023-11-14|
 |4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1795|1|2023-09-30|
 |5|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|861|1|2023-12-11|
-|6|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4893|1|2023-11-16|
+|6|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4894|1|2023-11-16|
 |7|[ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)|vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files|192|0|2024-01-05|
 |8|[Yidadaa/Oh-My-Dotfiles](https://github.com/Yidadaa/Oh-My-Dotfiles)|一键配置linux环境，简单粗暴|6|0|2024-01-12|
 |9|[wkcn/MyVimConfig](https://github.com/wkcn/MyVimConfig)|我的Vim配置文件|4|0|2024-01-16|
@@ -18,7 +18,7 @@
 |11|[zweix123/win-config](https://github.com/zweix123/win-config)|让你的win机器有媲美Unix命令行的体验|4|0|2023-12-14|
 |12|[wandercn/go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf)|my vim conf for golang IDE and rust IDE|14|0|2023-11-02|
 |13|[Gerchart-GXT/myscripts](https://github.com/Gerchart-GXT/myscripts)|这里是本人写的一些有用的脚本|3|0|2024-01-08|
-|14|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|888|0|2024-02-03|
+|14|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|890|0|2024-02-03|
 |15|[yuesong-feng/EasyVim](https://github.com/yuesong-feng/EasyVim)|简单易用的vim配置|7|0|2023-11-11|
 |16|[terrytangyuan/dotfiles](https://github.com/terrytangyuan/dotfiles)|Personal bootstrapping dotfiles |8|0|2023-12-18|
 |17|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|881|0|2023-09-26|
@@ -39,7 +39,7 @@
 |32|[pseudoyu/dotfiles](https://github.com/pseudoyu/dotfiles)|我的 macOS 与 Linux 配置|38|0|2023-08-27|
 |33|[Fechin/oh-my-vim](https://github.com/Fechin/oh-my-vim)|vim 私人配置|27|0|2024-01-31|
 |34|[andrewintw/rpi-video-sync-looper](https://github.com/andrewintw/rpi-video-sync-looper)|A video synchronization looping system built on Raspberry Pi. 一個運行於 Raspberry Pi 的影片同步循環播放系統|6|0|2023-12-04|
-|35|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog based on vimscript|182|0|2023-10-24|
+|35|[HonkW93/automatic-verilog](https://github.com/HonkW93/automatic-verilog)|automatic-verilog based on vimscript|183|0|2023-10-24|
 |36|[SidOfc/mkdx](https://github.com/SidOfc/mkdx)|A vim plugin that adds some nice extra's for working with markdown documents|482|0|2023-10-16|
 |37|[Genki-S/dotfiles](https://github.com/Genki-S/dotfiles)|My lovely settings.|23|0|2024-01-20|
 |38|[dofy/7th-vim](https://github.com/dofy/7th-vim)|安装简单，轻量、易用、高可配置性。 Lightweight & Customizable Vim configuration options.|98|0|2023-11-25|
@@ -57,7 +57,7 @@
 |50|[webeautiful/xiongfs](https://github.com/webeautiful/xiongfs)|-|3|0|2023-11-10|
 |51|[lemon0910/lemon-vim](https://github.com/lemon0910/lemon-vim)|lemon's config for vim and neovim.|23|0|2023-12-14|
 |52|[ruchee/vimrc](https://github.com/ruchee/vimrc)|Ruchee's Vim Config Files|416|0|2023-10-17|
-|53|[xiaodun/sf-mock](https://github.com/xiaodun/sf-mock)|前端mock接口解决方案|3|0|2024-01-05|
+|53|[xiaodun/sf-mock](https://github.com/xiaodun/sf-mock)|前端mock接口解决方案|4|0|2024-01-05|
 |54|[modood/vimrc](https://github.com/modood/vimrc)|A shell script to deploy my vim configuration|20|0|2023-11-07|
 |55|[niming175/myVim](https://github.com/niming175/myVim)|我的vim配置|5|0|2024-02-04|
 |56|[Wujidadi/Ubuntu-RC](https://github.com/Wujidadi/Ubuntu-RC)|Ubuntu（其他 Unix/Linux 可能適用）環境中使用的 run commands|4|0|2023-12-11|

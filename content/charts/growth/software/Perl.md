@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Perl
-<sub>数据更新: 2024-02-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -14,7 +14,7 @@
 |7|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|429|0|2023-12-25|
 |8|[TheBeastofwar/linuxhacker](https://github.com/TheBeastofwar/linuxhacker)|一款linux 内网渗透辅助工具|16|0|2024-01-31|
 |9|[hexsum/Mojo-Weixin](https://github.com/hexsum/Mojo-Weixin)|使用Perl语言（不会没关系）编写的个人账号微信/weixin/wechat客户端框架（非GUI），可通过插件提供基于HTTP协议的api接口供其他语言或系统调用|1238|0|2023-09-19|
-|10|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|268|0|2024-02-06|
+|10|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|268|0|2024-02-07|
 |11|[webmin/authentic-theme](https://github.com/webmin/authentic-theme)|Official theme for the best server management panel of the 21st Century|938|0|2024-01-28|
 |12|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|66|0|2023-12-03|
 |13|[houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm)|A date and time object for Perl|46|0|2023-11-06|
@@ -22,13 +22,13 @@
 |15|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|384|0|2024-01-31|
 |16|[open-c3/open-c3](https://github.com/open-c3/open-c3)|自动化运维平台/CICD系统/发布系统/作业平台/监控系统/云监控/故障自愈/K8S集群管理/CMDB/公有云资源管理/工单系统/流程系统/成本优化|218|0|2024-02-05|
 |17|[electricface/script-tool](https://github.com/electricface/script-tool)|简单的脚本工具|4|0|2023-11-14|
-|18|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1229|0|2024-02-04|
+|18|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1230|0|2024-02-04|
 |19|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|93|0|2024-02-02|
 |20|[esrrhs/pLua](https://github.com/esrrhs/pLua)|Lua 性能分析工具 Lua profiler tool like gperftools|81|0|2023-10-24|
 |21|[openresty/lua-tablepool](https://github.com/openresty/lua-tablepool)|Lua table recycling pools for LuaJIT|109|0|2023-11-23|
-|22|[Gilwyad/mailnesia.com](https://github.com/Gilwyad/mailnesia.com)|Anonymous Email in Seconds|96|0|2023-12-02|
+|22|[Gilwyad/mailnesia.com](https://github.com/Gilwyad/mailnesia.com)|Anonymous Email in Seconds|97|0|2023-12-02|
 |23|[fimreal/dockerfiles](https://github.com/fimreal/dockerfiles)|容器化小工具|3|0|2024-01-22|
-|24|[g0v/moedict-data-csld](https://github.com/g0v/moedict-data-csld)|中華大辭典|101|0|2023-11-08|
+|24|[g0v/moedict-data-csld](https://github.com/g0v/moedict-data-csld)|中華大辭典|102|0|2023-11-08|
 |25|[jyi2ya/HUST-Chifan](https://github.com/jyi2ya/HUST-Chifan)|什么时候开饭？|6|0|2023-12-05|
 |26|[shangshanzhizhe/Work_flow_of_population_genetics](https://github.com/shangshanzhizhe/Work_flow_of_population_genetics)|整理常用的群体遗传学分析流程和脚本|61|0|2024-02-05|
 |27|[abbypan/deal_youtube_playlist](https://github.com/abbypan/deal_youtube_playlist)|批量下载youtube播放列表内容，并生成xspf播放列表|4|0|2023-12-16|

@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > PHP
-<sub>数据更新: 2024-02-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[pandora-next/deploy](https://github.com/pandora-next/deploy)|Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!|10697|122|2024-01-21|
-|2|[codehub666/94list](https://github.com/codehub666/94list)|百度网盘分享链接分析渲染列表辅助下载开源程序|1287|8|2023-12-24|
-|3|[ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF)|【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！|1489|5|2024-02-06|
-|4|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|Sample code for several design patterns in PHP 8.x|21601|5|2023-09-28|
+|1|[pandora-next/deploy](https://github.com/pandora-next/deploy)|Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!|10700|120|2024-01-21|
+|2|[codehub666/94list](https://github.com/codehub666/94list)|百度网盘分享链接分析渲染列表辅助下载开源程序|1296|8|2023-12-24|
+|3|[ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF)|【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！|1491|5|2024-02-07|
+|4|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|Sample code for several design patterns in PHP 8.x|21605|5|2023-09-28|
 |5|[helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)|:octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）|9079|3|2023-08-12|
-|6|[liaocp666/Jasmine](https://github.com/liaocp666/Jasmine)|A Typecho Theme. 一款 Typecho 主题。专为博客类网站开发，响应式设计，在移动端也有不错体验。主要使用白、灰、黑三种配色，整体简洁、精致、美观。|549|2|2023-12-04|
+|6|[liaocp666/Jasmine](https://github.com/liaocp666/Jasmine)|A Typecho Theme. 一款 Typecho 主题。专为博客类网站开发，响应式设计，在移动端也有不错体验。主要使用白、灰、黑三种配色，整体简洁、精致、美观。|550|2|2023-12-04|
 |7|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|3324|2|2024-01-27|
 |8|[bugaosuni59/TH-CPL](https://github.com/bugaosuni59/TH-CPL)|清华大学计算机学科推荐学术会议和期刊列表|880|1|2023-10-12|
 |9|[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)|A list of ICs and IPs for AI, Machine Learning and Deep Learning.|1553|1|2023-09-29|
-|10|[find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)|潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!|50|1|2024-02-06|
+|10|[find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)|潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!|50|1|2024-02-07|
 |11|[tsxcw/mtab](https://github.com/tsxcw/mtab)|Mtab书签导航程序 - 免费无广告的浏览器书签助手，多端同步、美观易用的在 线导航和书签工具，自主研发免费使用，帮助您高效管理 网页和应用，提升在线体验。|81|1|2024-01-29|
-|12|[freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout)|FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)|2477|1|2024-02-02|
+|12|[freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout)|FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)|2479|1|2024-02-02|
 |13|[orangetw/My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges)|Collection of CTF Web challenges I made|2575|1|2023-11-08|
 |14|[lcp0578/cheat-sheets](https://github.com/lcp0578/cheat-sheets)|:elephant: :elephant: my cheat sheets :memo: , Symfony, Go, Python, C++, GIS, Qt, MySQL, Twig, Doctrine, Nginx, ElasticSearch, TiDB, Linux etc.|69|0|2024-02-01|
 |15|[imvicchen/victheme-Wordpress-Theme](https://github.com/imvicchen/victheme-Wordpress-Theme)|victheme - 基于bootstrap框架的Wordpress博客主题。|62|0|2023-11-02|
@@ -29,12 +29,12 @@
 |22|[CodeIgniter-Chinese/codeigniter4-user-guide](https://github.com/CodeIgniter-Chinese/codeigniter4-user-guide)|CodeIgniter 4 Chinese User Guide - CodeIgniter 4 简体中文手册|78|0|2024-02-04|
 |23|[Seevil/fantasy](https://github.com/Seevil/fantasy)|一款极简Typecho 博客主题|224|0|2023-11-07|
 |24|[jiushill/note](https://github.com/jiushill/note)|记录自己写的工具和学习笔记|410|0|2023-12-14|
-|25|[zhuige-com/jiangqie_kafei](https://github.com/zhuige-com/jiangqie_kafei)|酱茄小程序开源版，基于WordPress的微信小程序，适用于博客小程序和新闻资讯小程序。|541|0|2024-01-08|
+|25|[zhuige-com/jiangqie_kafei](https://github.com/zhuige-com/jiangqie_kafei)|酱茄小程序开源版，基于WordPress的微信小程序，适用于博客小程序和新闻资讯小程序。|543|0|2024-01-08|
 |26|[anhao/AL_lolimeow](https://github.com/anhao/AL_lolimeow)|Typecho博客 AL_lolimeow |67|0|2024-01-26|
 |27|[zblogcn/zblogphp](https://github.com/zblogcn/zblogphp)|Z-BlogPHP博客程序|773|0|2024-02-01|
 |28|[5ime/images_spider](https://github.com/5ime/images_spider)|短视频图集图片去水印：快手,皮皮虾,最右,小红书,微博|216|0|2023-12-18|
 |29|[nazgul26/PHPRecipebook](https://github.com/nazgul26/PHPRecipebook)|Cookbook and Meal planning software.  Runs on PHP with MySQL/PostgreSQL.|60|0|2024-01-15|
-|30|[zelon88/HRConvert2](https://github.com/zelon88/HRConvert2)|A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 86 file formats in 13 languages.|817|0|2023-11-05|
+|30|[zelon88/HRConvert2](https://github.com/zelon88/HRConvert2)|A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 86 file formats in 13 languages.|818|0|2023-11-05|
 |31|[ss098/work](https://github.com/ss098/work)|一个收集图片并打包的工具，主要用于完成上级团委组织的行政任务：收集青年大学习截图。|56|0|2024-01-30|
 |32|[storyflow/PHPer](https://github.com/storyflow/PHPer)|一个PHPer的升级之路|368|0|2023-11-02|
 |33|[zhangyue0503/dev-blog](https://github.com/zhangyue0503/dev-blog)|php博客文章|41|0|2024-01-03|

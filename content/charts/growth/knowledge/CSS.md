@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > CSS
-<sub>数据更新: 2024-02-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)|Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!|4964|15|2023-09-17|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|18244|7|2024-02-04|
-|3|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20950|6|2024-01-01|
-|4|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4762|3|2024-01-18|
+|1|[thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)|Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!|4962|15|2023-09-17|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|18264|7|2024-02-04|
+|3|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20952|6|2024-01-01|
+|4|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4764|3|2024-01-18|
 |5|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5261|2|2024-01-25|
 |6|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8923|2|2023-12-09|
-|7|[QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks)|Some CSS tricks - 一些 CSS 常用样式|3919|2|2023-12-05|
+|7|[QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks)|Some CSS tricks - 一些 CSS 常用样式|3920|2|2023-12-05|
 |8|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|374|1|2024-02-06|
 |9|[lin-xin/blog](https://github.com/lin-xin/blog)|林鑫的个人博客，用于总结平时工作和学习中的经验。|1762|1|2024-01-20|
 |10|[LaneDu/Knowledge-Brain](https://github.com/LaneDu/Knowledge-Brain)|思源笔记主题 Knowledge Brain 寓意知识大脑|19|0|2023-08-16|
@@ -33,7 +33,7 @@
 |26|[zhuamaodeyu/knowledge](https://github.com/zhuamaodeyu/knowledge)|程序员的知识管理与自我修养，个人博客，源码解析，问题总结 https://zhuamaodeyu.github.io/knowledge/|15|0|2023-09-17|
 |27|[intro-nlp/intro-nlp.github.io](https://github.com/intro-nlp/intro-nlp.github.io)|《自然语言处理概论》  张奇、桂韬、黄萱菁著|101|0|2023-09-10|
 |28|[ruanyf/survivor](https://github.com/ruanyf/survivor)|博客文集《未来世界的幸存者》|328|0|2023-09-05|
-|29|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|0|2024-02-06|
+|29|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|0|2024-02-07|
 |30|[zino-rs/zino-docs-zh](https://github.com/zino-rs/zino-docs-zh)|Zino开发框架中文教程|6|0|2023-12-29|
 |31|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|330|0|2023-12-23|
 |32|[InterImm/InterImmBook](https://github.com/InterImm/InterImmBook)|:seedling: The Book of Interplanetary Civilization;星际移民之书. |198|0|2023-10-15|
@@ -41,7 +41,7 @@
 |34|[StarfireLab/phishing](https://github.com/StarfireLab/phishing)|这是一个钓鱼网页，仅供学习参考。|7|0|2023-09-21|
 |35|[GiaoGiaoCat/GiaoGiaoCat.github.io](https://github.com/GiaoGiaoCat/GiaoGiaoCat.github.io)|一点笔记|7|0|2023-11-22|
 |36|[Shelton786/NOIRNOAH-TranslatedintoChinese](https://github.com/Shelton786/NOIRNOAH-TranslatedintoChinese)|游戏：《NOIR：NOAH》简体中文汉化，由罗布恩农场汉化组汉化，转载请经过许可并标明出处！|15|0|2023-11-24|
-|37|[aalmiray/java-champions](https://github.com/aalmiray/java-champions)|A list of Java Champions|324|0|2024-02-05|
+|37|[aalmiray/java-champions](https://github.com/aalmiray/java-champions)|A list of Java Champions|324|0|2024-02-06|
 |38|[piginzoo/finance-toolbox](https://github.com/piginzoo/finance-toolbox)|我的投资电子书|21|0|2023-12-29|
 |39|[Fridolph/my-program](https://github.com/Fridolph/my-program)|作品和demo集，若你喜欢麻烦star+fork ...0(∩_∩)0... 仅供参考学习分享交流，谢谢|11|0|2024-01-15|
 |40|[88825/wereadx](https://github.com/88825/wereadx)|微信读书辅助工具，可用于书籍下载及自动阅读、自动兑换体验卡等|32|0|2023-12-25|
@@ -60,7 +60,7 @@
 |53|[s5s5/CSS-Animations](https://github.com/s5s5/CSS-Animations)|一些在项目中学习、使用CSS的动画心得。与大家一起探讨CSS动画的What How Why。|137|0|2023-09-26|
 |54|[Zh40Le1ZOOB/YaoNiangDeTianKong-Fix](https://github.com/Zh40Le1ZOOB/YaoNiangDeTianKong-Fix)|《药娘的天空》精修版|32|0|2023-12-19|
 |55|[leopardpan/leopardpan.github.io](https://github.com/leopardpan/leopardpan.github.io)|个人博客，看效果进入|1336|0|2023-09-06|
-|56|[liu75675231/article-crawler](https://github.com/liu75675231/article-crawler)|文章爬虫，会每天都爬取一些有价值的官方文档的博客文章，以便于能得到第一手的更新，教程等信息|9|0|2024-02-06|
+|56|[liu75675231/article-crawler](https://github.com/liu75675231/article-crawler)|文章爬虫，会每天都爬取一些有价值的官方文档的博客文章，以便于能得到第一手的更新，教程等信息|9|0|2024-02-07|
 |57|[aeon20071/PolarDayImage_Blog](https://github.com/aeon20071/PolarDayImage_Blog)|这是一个基于HTML5的静态网页博客，该项目是网页前端设计课程大学作业。This is a static webpage blog based on HTML 5, which is a university assignment for the Web Front-end Design course.|7|0|2023-08-27|
 |58|[meethigher/hexo-theme-starry](https://github.com/meethigher/hexo-theme-starry)|已被官方收录的hexo主题-Starry，采用ejs跟less开发。技术限制，目前还有很多优化未实现，学习ing。基于很多大佬开源的插件，感谢！|24|0|2024-02-06|
 |59|[tiddly-gittly/TiddlyWiki-Easy-Guide-And-TiddlyMemo-Edition](https://github.com/tiddly-gittly/TiddlyWiki-Easy-Guide-And-TiddlyMemo-Edition)|TiddlyWiki简易教程与墨屉钓鱼版|19|0|2023-09-03|
