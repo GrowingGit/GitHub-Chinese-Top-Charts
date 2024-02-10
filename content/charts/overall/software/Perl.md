@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Perl
-<sub>数据更新: 2024-02-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -11,10 +11,10 @@
 |4|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1230|2024-02-04|
 |5|[webmin/authentic-theme](https://github.com/webmin/authentic-theme)|Official theme for the best server management panel of the 21st Century|938|2024-02-08|
 |6|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|429|2023-12-25|
-|7|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|384|2024-01-31|
+|7|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|384|2024-02-09|
 |8|[wisdomfusion/qqwry.dat](https://github.com/wisdomfusion/qqwry.dat)|纯真IP地址数据库镜像，mirror of qqwry.dat|375|2023-12-03|
 |9|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|297|2024-01-11|
-|10|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|268|2024-02-08|
+|10|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|268|2024-02-09|
 |11|[open-c3/open-c3](https://github.com/open-c3/open-c3)|自动化运维平台/CICD系统/发布系统/作业平台/监控系统/云监控/故障自愈/K8S集群管理/CMDB/公有云资源管理/工单系统/流程系统/成本优化|218|2024-02-05|
 |12|[openresty/lua-tablepool](https://github.com/openresty/lua-tablepool)|Lua table recycling pools for LuaJIT|109|2023-11-23|
 |13|[g0v/moedict-data-csld](https://github.com/g0v/moedict-data-csld)|中華大辭典|102|2023-11-08|
