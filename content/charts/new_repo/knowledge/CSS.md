@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > CSS
-<sub>数据更新: 2024-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)|Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!|4963|2023-09-17|2023-03-06|
+|1|[thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)|Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!|4964|2023-09-17|2023-03-06|
 |2|[Theo-messi/Streaming-Media-Forest](https://github.com/Theo-messi/Streaming-Media-Forest)|流媒体森林 - 全方位流媒体 观影指南 引领您进入五彩斑斓的视听世界，并涵盖了 Netflix 、Disney+ 、Spotify会员 和 YouTube会员 的精彩领域|42|2023-11-26|2023-09-04|
 |3|[zhheo/Wechat-Official-Account-Web](https://github.com/zhheo/Wechat-Official-Account-Web)|微信公众号的关注界面|38|2023-12-22|2023-02-15|
 |4|[Zh40Le1ZOOB/YaoNiangDeTianKong-Fix](https://github.com/Zh40Le1ZOOB/YaoNiangDeTianKong-Fix)|《药娘的天空》精修版|32|2023-12-19|2023-11-07|

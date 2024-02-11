@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Java
-<sub>数据更新: 2024-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool)|【更方便更安全的管理PandoraNext，更高速更丝滑的使用copilot GPT-4】通过手机端和电脑端使小白能快速部署属于自己的免费Open API中转站。tokensTool支持通过PandoraNext管理刷新所有token，支持分享，支持share_token，pool_token一键自定义放入oneapi，支持反代copilot的全部接口，流式传输丝滑，接受高并发，支持fastgpt ...|1133|2024-01-19|2023-11-17|
 |3|[a616567126/GPT-WEB-JAVA](https://github.com/a616567126/GPT-WEB-JAVA)|基于JDK8 AI 聊天机器人！微信公众号 Midjourney画图、卡密兑换、web 支持ChatGPT、Midjourney画图、sd画图，卡密兑换，易支付，公众号引流，邮件注册🔥|575|2024-01-15|2023-03-28|
 |4|[algorithmzuo/algorithm-journey](https://github.com/algorithmzuo/algorithm-journey)|算法通关课的代码和课件|473|2024-02-06|2023-08-03|
-|5|[ZhangBlossom/BlossomGateway](https://github.com/ZhangBlossom/BlossomGateway)|基于Netty、Nacos实现的网关以及RPC。学习完毕当前项目可以帮助你深入理解Netty。|195|2024-02-09|2023-10-23|
+|5|[ZhangBlossom/BlossomGateway](https://github.com/ZhangBlossom/BlossomGateway)|基于Netty、Nacos实现的网关以及RPC。学习完毕当前项目可以帮助你深入理解Netty。|195|2024-02-10|2023-10-23|
 |6|[rawchen/FeishuBot](https://github.com/rawchen/FeishuBot)|飞书群聊/私聊ChatGPT机器人|162|2023-10-17|2023-07-26|
 |7|[jushahulian/java-go-python](https://github.com/jushahulian/java-go-python)|java，python，go,C,C++,C#,前端，数据库，大数据，人工智能，AIGC，软件测试，网络安全/逆向，鸿蒙应用开发，Android等学习课程分享。更多课程请关注公众号：小凯助你学|116|2024-01-30|2023-12-29|
 |8|[aizuda/flowlong](https://github.com/aizuda/flowlong)|飞龙工作流 FlowLong 🐉 真正的国产工作流引擎、json 格式实例模型、仿飞书钉钉审批流程设计器、🚩为中国特色审批匠心打造❗|89|2024-01-29|2023-03-17|

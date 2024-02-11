@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Jupyter Notebook
-<sub>数据更新: 2024-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[suno-ai/bark](https://github.com/suno-ai/bark)|🔊 Text-Prompted Generative Audio Model|30383|2023-12-14|2023-04-07|
-|2|[tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)|Instruct-tune LLaMA on consumer hardware|17862|2024-01-24|2023-03-13|
-|3|[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.|10585|2024-02-07|2023-02-11|
-|4|[TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)|PhotoMaker|7022|2024-02-07|2023-12-06|
-|5|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything)|Inpaint anything using Segment Anything and inpainting models.|4962|2023-11-19|2023-04-09|
+|1|[suno-ai/bark](https://github.com/suno-ai/bark)|🔊 Text-Prompted Generative Audio Model|30400|2023-12-14|2023-04-07|
+|2|[tloen/alpaca-lora](https://github.com/tloen/alpaca-lora)|Instruct-tune LLaMA on consumer hardware|17864|2024-01-24|2023-03-13|
+|3|[AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)|Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.|10596|2024-02-07|2023-02-11|
+|4|[TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)|PhotoMaker|7032|2024-02-07|2023-12-06|
+|5|[geekyutao/Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything)|Inpaint anything using Segment Anything and inpainting models.|4966|2023-11-19|2023-04-09|
 |6|[LC1332/Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM)|骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技|3523|2023-09-03|2023-03-21|
 |7|[lyogavin/Anima](https://github.com/lyogavin/Anima)|33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU|2587|2024-01-30|2023-06-12|
 |8|[PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT)|We unified the interfaces of instruction-tuning data (e.g., CoT data), multiple LLMs and parameter-efficient methods (e.g., lora, p-tuning) together for easy use. We welcome open-source enthusiasts to ...|2344|2023-12-12|2023-03-24|
 |9|[FranxYao/chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub)|Benchmarking large language models' complex reasoning ability with chain-of-thought prompting|2248|2023-12-10|2023-03-10|
 |10|[datawhalechina/hugging-llm](https://github.com/datawhalechina/hugging-llm)|HuggingLLM, Hugging Future.|1988|2023-11-27|2023-04-11|
-|11|[KevinWang676/Bark-Voice-Cloning](https://github.com/KevinWang676/Bark-Voice-Cloning)|Bark Voice Cloning and Voice Cloning for Chinese Speech|1850|2024-01-31|2023-06-11|
+|11|[KevinWang676/Bark-Voice-Cloning](https://github.com/KevinWang676/Bark-Voice-Cloning)|Bark Voice Cloning and Voice Cloning for Chinese Speech|1853|2024-01-31|2023-06-11|
 |12|[LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya)|Chat凉宫春日, An open sourced Role-Playing chatbot Cheng Li, Ziang Leng, and others.|1358|2024-01-30|2023-05-31|
 |13|[ytzfhqs/AAAMLP-CN](https://github.com/ytzfhqs/AAAMLP-CN)|Approaching (Almost) Any Machine Learning Problem中译版，在线文档地址：https://ytzfhqs.github.io/AAAMLP-CN/|895|2024-02-04|2023-08-30|
 |14|[DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart)|A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.|638|2024-02-06|2023-07-17|

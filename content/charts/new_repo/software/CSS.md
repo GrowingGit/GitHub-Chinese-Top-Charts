@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > CSS
-<sub>数据更新: 2024-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[Qihoo360/WatchAD2.0](https://github.com/Qihoo360/WatchAD2.0)|WatchAD2.0是一款针对域威胁的日志分析与监控系统|305|2024-01-17|2023-07-12|
 |2|[YiNNx/typora-theme-lapis](https://github.com/YiNNx/typora-theme-lapis)|🖊️A clean Typora theme in blue tones|295|2024-02-04|2023-03-06|
 |3|[wozulong/ChatGPTAuthHelper](https://github.com/wozulong/ChatGPTAuthHelper)|一个简单的Chrome插件，用来帮助你登录ChatGPT。|282|2023-11-30|2023-11-13|
-|4|[intro-llm/intro-llm.github.io](https://github.com/intro-llm/intro-llm.github.io)|website|267|2023-12-11|2023-06-16|
-|5|[transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control)|maintained fork of ronggang/transmission-web-control|257|2024-02-09|2023-04-23|
+|4|[intro-llm/intro-llm.github.io](https://github.com/intro-llm/intro-llm.github.io)|website|268|2023-12-11|2023-06-16|
+|5|[transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control)|maintained fork of ronggang/transmission-web-control|258|2024-02-09|2023-04-23|
 |6|[hamster1963/HomeDash](https://github.com/hamster1963/HomeDash)|一个仪表盘|204|2024-02-09|2023-09-17|
 |7|[hexo-theme-Acrylic/Hexo-Theme-Acrylic-Next](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic-Next)|下一代Acrylic何必是butterfly|186|2023-09-15|2023-02-25|
 |8|[zhheo/HeoMusic](https://github.com/zhheo/HeoMusic)|一个基于Aplayer和MetingJS的静态音乐播放器|185|2023-12-24|2023-02-11|
@@ -32,17 +32,17 @@
 |25|[gslnzfq/obsidian-proxy-server](https://github.com/gslnzfq/obsidian-proxy-server)|为了解决国内无法访问插件商店和主题商店的问题，我写了这个代理服务器，可以部署在netlify上运行。|34|2023-11-24|2023-04-26|
 |26|[forFudan/yuhao](https://github.com/forFudan/yuhao)|宇浩繁简通打输入法·全汉字覆盖·四重注解·臺灣字形支持|32|2024-01-28|2023-03-12|
 |27|[Meayair/Typecho-Theme-MeaWord](https://github.com/Meayair/Typecho-Theme-MeaWord)|一款体现文字美感的极简主题|31|2024-01-26|2023-12-22|
-|28|[GamerNoTitle/Valora](https://github.com/GamerNoTitle/Valora)|VLR (Valora) is a website that can help you check your VALORANT daily store/night market/accessory store without opening the game or downloading an APP   瓦罗兰特商店查询，无需安装任何软件即可帮助你查询每日商店、夜市和配件商店的网页|30|2024-02-02|2023-04-24|
-|29|[chris81605/Degrees-of-Lewdity_Cheat_Extended](https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended)|Degrees-of-Lewdity 作弊拓展MOD代碼|29|2024-01-15|2023-11-21|
+|28|[chris81605/Degrees-of-Lewdity_Cheat_Extended](https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended)|Degrees-of-Lewdity 作弊拓展MOD代碼|30|2024-01-15|2023-11-21|
+|29|[GamerNoTitle/Valora](https://github.com/GamerNoTitle/Valora)|VLR (Valora) is a website that can help you check your VALORANT daily store/night market/accessory store without opening the game or downloading an APP   瓦罗兰特商店查询，无需安装任何软件即可帮助你查询每日商店、夜市和配件商店的网页|30|2024-02-02|2023-04-24|
 |30|[gwcx/imgdalao](https://github.com/gwcx/imgdalao)|大佬图床|28|2023-08-13|2023-08-08|
 |31|[DuoSco/Hexo-theme-solitude](https://github.com/DuoSco/Hexo-theme-solitude)|一个优雅的Heo风格的Hexo主题，接近Heo，完整度高。|27|2023-11-28|2023-10-25|
 |32|[houlangs/Newlangs4](https://github.com/houlangs/Newlangs4)|全新二级域名程序，由厚浪开发|27|2024-01-11|2023-10-01|
 |33|[Thunderw01/SSPanel-Metrons](https://github.com/Thunderw01/SSPanel-Metrons)|SSPanel，SSPanel-Metrons主题，SSPanel主题， SSPanel Theme，基于 SSPanel-Metron深度优化主题|27|2023-09-24|2023-08-14|
 |34|[yhl452493373/frps-panel](https://github.com/yhl452493373/frps-panel)|frps-panel 是 https://github.com/fatedier/frp 的一个服务端插件，用于支持多用户鉴权，同时用于展示服务器信息。|26|2024-01-12|2023-08-30|
-|35|[0000cd/character-prompts](https://github.com/0000cd/character-prompts)|ChatGPT 交个AI虚拟朋友（CP）吧 👥|25|2023-12-24|2023-03-11|
-|36|[mryqr-com/mry-frontend](https://github.com/mryqr-com/mry-frontend)|本代码库为码如云前端代码。码如云是一个基于二维码的一物一码管理平台，可以为每一件“物品”生成一个二维码，手机扫码即可查看物品信息并发起相关业务操作，操作内容可由你自己定义，典型的应用场景包括固定资产管理、设备巡检以及物品标签等。在技术上，码如云是一个无代码平台，全程采用DDD、整洁架构和事件驱动架构思想完成开发。|24|2023-12-19|2023-06-06|
-|37|[GamerNoTitle/CraftMon](https://github.com/GamerNoTitle/CraftMon)|A website that help you get Minecraft server status   一个用于显示Minecraft服务器在线信息及其他内容的网站|23|2023-09-28|2023-06-18|
-|38|[TopSea/Alive](https://github.com/TopSea/Alive)|Open source desk pet software that supports Live2d and MMD models.     支持 Live2d 和 MMD 模型的开源桌宠软件。|22|2024-02-08|2024-01-16|
+|35|[TopSea/Alive](https://github.com/TopSea/Alive)|Open source desk pet software that supports Live2d and MMD models.     支持 Live2d 和 MMD 模型的开源桌宠软件。|25|2024-02-10|2024-01-16|
+|36|[0000cd/character-prompts](https://github.com/0000cd/character-prompts)|ChatGPT 交个AI虚拟朋友（CP）吧 👥|25|2023-12-24|2023-03-11|
+|37|[mryqr-com/mry-frontend](https://github.com/mryqr-com/mry-frontend)|本代码库为码如云前端代码。码如云是一个基于二维码的一物一码管理平台，可以为每一件“物品”生成一个二维码，手机扫码即可查看物品信息并发起相关业务操作，操作内容可由你自己定义，典型的应用场景包括固定资产管理、设备巡检以及物品标签等。在技术上，码如云是一个无代码平台，全程采用DDD、整洁架构和事件驱动架构思想完成开发。|24|2023-12-19|2023-06-06|
+|38|[GamerNoTitle/CraftMon](https://github.com/GamerNoTitle/CraftMon)|A website that help you get Minecraft server status   一个用于显示Minecraft服务器在线信息及其他内容的网站|23|2023-09-28|2023-06-18|
 |39|[TRHX/SpiderBox](https://github.com/TRHX/SpiderBox)|SpiderBox - 虫盒 - 爬虫逆向资源导航站|22|2024-01-07|2023-08-12|
 |40|[codingroam/websocket-webrtc-chat](https://github.com/codingroam/websocket-webrtc-chat)|音视频通话，仿微信、QQ，利用springboot+websocket+webrtc-bootstrap5+H5+JQuery3.3实现，可自适应PC端和移动端，实现聊天功能和视频通话功能等|20|2023-12-13|2023-09-11|
 |41|[cgfeel/next.v2](https://github.com/cgfeel/next.v2)|按照NextJS英文官方文档，按照章节最小化复现|20|2023-12-12|2023-07-12|
@@ -65,7 +65,7 @@
 |58|[YuLin-Coder/No42StudentInformationManagementSystem4](https://github.com/YuLin-Coder/No42StudentInformationManagementSystem4)|基于ssm的学生信息管理系统：前端jsp、jquery、easyUI，后端 spring、mybatis，集成学生信息管理、班级管理、年级管理等功能于一体的系统。|10|2023-12-03|2023-12-03|
 |59|[FlyingRadish/palworld-server-helper](https://github.com/FlyingRadish/palworld-server-helper)|Go+Vue3的帕鲁世界服务器助手，服务器状态监测+内存超阈值广播倒计时重启+广播+RCON透传|9|2024-01-31|2024-01-29|
 |60|[mouxans/copilot-api](https://github.com/mouxans/copilot-api)|一款快速简便的方式来使用cocopilot的api服务|9|2024-01-25|2024-01-24|
-|61|[Monkfishare/Calibre](https://github.com/Monkfishare/Calibre)|The Economist epub/pdf 经济学人，周四晚12:00自动更新|9|2024-02-08|2024-01-01|
+|61|[Monkfishare/Calibre](https://github.com/Monkfishare/Calibre)|The Economist epub/pdf 经济学人，周四晚12:00自动更新|9|2024-02-10|2024-01-01|
 |62|[YuLin-Coder/No76NatatoriumManagementSystem](https://github.com/YuLin-Coder/No76NatatoriumManagementSystem)|基于ssm的游泳馆管理系统：前端jsp、jquery、bootstrap，后端 springmvc、spring、mybatis，集成游泳课程报名、游泳卡在线售卖、购物车、在线付款、商品发布、订单管理等功能于一体的系统。|9|2023-12-26|2023-12-26|
 |63|[liuran001/Roaming-SIM](https://github.com/liuran001/Roaming-SIM)|有关漫游卡的一些内容|9|2024-02-09|2023-12-20|
 |64|[YuLin-Coder/No53MobileMallManagementSystem](https://github.com/YuLin-Coder/No53MobileMallManagementSystem)|基于ssm的手机商城管理系统：前端jsp、jquery、bootstrap、layui，后端 spring、mybatis，集成订单管理、商品管理、商品类型管理、资讯管理、商品浏览、购物车等功能于一体的系统。|9|2023-12-23|2023-12-15|
@@ -75,7 +75,7 @@
 |68|[djkcyl/unipay](https://github.com/djkcyl/unipay)|UniPay 是一个封装微信和支付宝的联合收款码制作工具，使得收款更加方便和高效。|9|2023-08-18|2023-08-14|
 |69|[VocaValley/VocaValley.github.io](https://github.com/VocaValley/VocaValley.github.io)|在找bug？如果您对vocavalley网站的开发维护感兴趣，欢迎联系开发组（（（（（（|8|2023-11-13|2023-11-08|
 |70|[lmq2582609/minimalist-saas](https://github.com/lmq2582609/minimalist-saas)|极简多租户管理系统是一个基于数据库字段隔离的多租户管理系统，具备常规基础功能的单体应用。|8|2023-10-14|2023-08-02|
-|71|[M1nTT/Salome-Theme](https://github.com/M1nTT/Salome-Theme)|Typecho 极简风格「写作」主题 🥝|8|2024-02-03|2023-04-26|
+|71|[M1nTT/Salome-Theme](https://github.com/M1nTT/Salome-Theme)|Typecho 极简风格「写作」主题 🥝|8|2024-02-10|2023-04-26|
 |72|[AdingApkgg/YuanShenSFqun](https://github.com/AdingApkgg/YuanShenSFqun)|原神私服群推荐|8|2024-02-03|2023-02-14|
 |73|[YuLin-Coder/No20CakeShoppingMallManagementSystem](https://github.com/YuLin-Coder/No20CakeShoppingMallManagementSystem)|基于ssm的蛋糕商城管理系统：前端jsp、jquery、bootstrap，后端 springmvc、spring、mybatis，系统分为用户和管理员，一个优雅简洁的商城系统，管理员在后台发布新的商品，用户浏览合适的商品加入购物车，在线支付下单|7|2023-11-23|2023-11-23|
 |74|[YuLin-Coder/No16StudentInformationManagementSystem](https://github.com/YuLin-Coder/No16StudentInformationManagementSystem)|学生信息管理系统：前端jsp、easyui、jquery，后端 servlet，系统角色分为：学生、老师、辅导员，一个可以让学生在电脑上选课、请假和查询成绩的系统|7|2023-11-20|2023-11-20|

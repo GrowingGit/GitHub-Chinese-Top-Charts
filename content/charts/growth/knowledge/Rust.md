@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Rust
-<sub>数据更新: 2024-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|268511|151|2024-01-24|
-|2|[cncases/cases](https://github.com/cncases/cases)|中国裁判文书网本地搜索|406|15|2024-02-07|
-|3|[sunface/rust-course](https://github.com/sunface/rust-course)|“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book |21367|11|2024-02-07|
+|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|268517|151|2024-01-24|
+|2|[cncases/cases](https://github.com/cncases/cases)|中国裁判文书网本地搜索|407|15|2024-02-07|
+|3|[sunface/rust-course](https://github.com/sunface/rust-course)|“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book |21372|11|2024-02-07|
 |4|[johnlui/PPHC](https://github.com/johnlui/PPHC)|📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com|3112|9|2024-01-24|
-|5|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|12598|6|2023-12-14|
-|6|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)|Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.|9909|5|2024-02-04|
+|5|[rust-embedded/rust-raspberrypi-OS-tutorials](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)|:books: Learn to write an embedded OS in Rust :crab:|12605|6|2024-02-10|
+|6|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)|Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.|9910|5|2024-02-04|
 |7|[rust-boom/rust-boom](https://github.com/rust-boom/rust-boom)|Awesome Rust (Rust 资源   学习   书 ). 💥|967|2|2024-01-27|
 |8|[skyzh/type-exercise-in-rust](https://github.com/skyzh/type-exercise-in-rust)|Learn Rust black magics by implementing an expression framework in database systems|1294|2|2024-01-18|
-|9|[mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide)|Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. |1802|2|2024-01-04|
-|10|[cuppar/rtd](https://github.com/cuppar/rtd)|Learn Rust by 500 lines code|309|2|2023-09-05|
+|9|[mikeroyal/Steam-Deck-Guide](https://github.com/mikeroyal/Steam-Deck-Guide)|Steam Deck Guide. Learn all about the Tools, Accessories, Games, Emulators, and Gaming Tips that will make your Steam Deck an awesome Gaming Handheld or a Portable Computer Workstation. |1805|2|2024-01-04|
+|10|[cuppar/rtd](https://github.com/cuppar/rtd)|Learn Rust by 500 lines code|310|2|2023-09-05|
 |11|[rustlang-cn/rust-algos](https://github.com/rustlang-cn/rust-algos)|<<Rust算法题解>>，用Rust语言实现常见的算法和数据结构，以及leetcode题解，algos = algorithms，written with ❤️ by course.rs team|564|1|2024-02-09|
-|12|[sotrh/learn-wgpu](https://github.com/sotrh/learn-wgpu)|Guide for using gfx-rs's wgpu library.|1332|1|2024-01-22|
+|12|[sotrh/learn-wgpu](https://github.com/sotrh/learn-wgpu)|Guide for using gfx-rs's wgpu library.|1333|1|2024-01-22|
 |13|[jinleili/learn-wgpu-zh](https://github.com/jinleili/learn-wgpu-zh)|Learn wgpu 中文版|279|1|2024-01-28|
 |14|[Narukara/std-training-zh-cn](https://github.com/Narukara/std-training-zh-cn)|Embedded Rust on Espressif 简体中文版|62|0|2024-01-29|
 |15|[citahub/libsm](https://github.com/citahub/libsm)|A Rust Library of China's Standards of Encryption Algorithms (SM2/3/4)|202|0|2023-12-26|

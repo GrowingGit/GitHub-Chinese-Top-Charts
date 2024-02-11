@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Lua
-<sub>数据更新: 2024-02-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[mrthinger/wow-voiceover](https://github.com/mrthinger/wow-voiceover)|Voiceover for World of Warcraft|407|2023-12-09|2023-03-18|
-|2|[ejoy/vaststars](https://github.com/ejoy/vaststars)|A game demo for Ant engine|283|2024-02-06|2024-02-06|
+|2|[ejoy/vaststars](https://github.com/ejoy/vaststars)|A game demo for Ant engine|287|2024-02-06|2024-02-06|
 |3|[Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime)|The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572|265|2024-01-30|2023-03-19|
 |4|[AegirTech/ArkLights](https://github.com/AegirTech/ArkLights)|明日方舟速通 arknights|248|2024-02-02|2023-08-25|
 |5|[Afool4U/Logi_purgatory_macro](https://github.com/Afool4U/Logi_purgatory_macro)|罗技G系列炼狱宏|192|2023-10-31|2023-08-04|
@@ -26,12 +26,12 @@
 |19|[TencentBlueKing/blueking-apigateway-apisix](https://github.com/TencentBlueKing/blueking-apigateway-apisix)|蓝鲸 API 网关 - 数据面|12|2024-01-19|2023-05-25|
 |20|[lost-melody/rime-smyh](https://github.com/lost-melody/rime-smyh)|吉旦餅：亂序字根，三碼定長，延遲頂字。|12|2024-02-01|2023-05-01|
 |21|[amorphobia/rime-jiandao](https://github.com/amorphobia/rime-jiandao)|🌟️星空键道输入方案|10|2024-02-07|2023-06-30|
-|22|[AideLua/AndroLuaX](https://github.com/AideLua/AndroLuaX)|适配了AndroidX的AndroLua+|10|2023-09-22|2023-02-10|
-|23|[66hh/GF2ExiliumData](https://github.com/66hh/GF2ExiliumData)|某药丸游戏数据|8|2023-10-08|2023-10-08|
-|24|[Kicamon/im-switch.nvim](https://github.com/Kicamon/im-switch.nvim)|neovim的输入法自动切换插件，在写文档以及代码注释的时候可以自动帮忙切换输入法|8|2023-12-10|2023-08-04|
-|25|[IoT-ThingsCloud/luatos-thingscloud-sdk](https://github.com/IoT-ThingsCloud/luatos-thingscloud-sdk)|基于合宙模组 LuatOS 快速接入 ThingsCloud 物联网平台的 SDK ，帮你 10 分钟完成模组到云平台的双向通信。|8|2023-12-14|2023-03-08|
-|26|[najoast/eluna_scripts](https://github.com/najoast/eluna_scripts)|魔兽世界Lua脚本。Lua scripts for WoW Eluna Lua Engine. |7|2023-12-21|2023-12-21|
-|27|[wjlin0/cf-lua](https://github.com/wjlin0/cf-lua)|cf 鼠标宏|7|2023-11-26|2023-11-25|
+|22|[66hh/GF2ExiliumData](https://github.com/66hh/GF2ExiliumData)|某药丸游戏数据|9|2023-10-08|2023-10-08|
+|23|[Kicamon/im-switch.nvim](https://github.com/Kicamon/im-switch.nvim)|neovim的输入法自动切换插件，在写文档以及代码注释的时候可以自动帮忙切换输入法|8|2023-12-10|2023-08-04|
+|24|[IoT-ThingsCloud/luatos-thingscloud-sdk](https://github.com/IoT-ThingsCloud/luatos-thingscloud-sdk)|基于合宙模组 LuatOS 快速接入 ThingsCloud 物联网平台的 SDK ，帮你 10 分钟完成模组到云平台的双向通信。|8|2023-12-14|2023-03-08|
+|25|[najoast/eluna_scripts](https://github.com/najoast/eluna_scripts)|魔兽世界Lua脚本。Lua scripts for WoW Eluna Lua Engine. |7|2023-12-21|2023-12-21|
+|26|[wjlin0/cf-lua](https://github.com/wjlin0/cf-lua)|cf 鼠标宏|7|2023-11-26|2023-11-25|
+|27|[Yooootsuba/ani-gamer-danmu](https://github.com/Yooootsuba/ani-gamer-danmu)|在 MPV 觀看巴哈姆特動畫瘋時，可以支援彈幕列表|7|2024-02-10|2023-06-30|
 |28|[Guobamao/Budaolepao](https://github.com/Guobamao/Budaolepao)|一个步道乐跑的GG修改器脚本|5|2023-11-17|2023-10-29|
 
 <div align="center">
