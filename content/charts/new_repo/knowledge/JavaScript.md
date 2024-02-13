@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > JavaScript
-<sub>数据更新: 2024-02-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator)|基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0|5287|2024-01-27|2023-02-19|
-|2|[dirk1983/chatgpt](https://github.com/dirk1983/chatgpt)|演示站现在可以免费使用ChatGPT对话和画图了。全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆 ...|2878|2024-01-03|2023-02-16|
-|3|[akl7777777/ShellGPT](https://github.com/akl7777777/ShellGPT)|**ShellGPT is a free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphic ...|1980|2024-01-19|2023-03-09|
+|1|[openai-translator/bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator)|基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0|5288|2024-01-27|2023-02-19|
+|2|[dirk1983/chatgpt](https://github.com/dirk1983/chatgpt)|演示站现在可以免费使用ChatGPT对话和画图了。全网最易部署，响应速度最快的ChatGPT环境。PHP版调用OpenAI接口进行问答和画图，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理，支持画图。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开。保姆 ...|2880|2024-01-03|2023-02-16|
+|3|[akl7777777/ShellGPT](https://github.com/akl7777777/ShellGPT)|**ShellGPT is a free chatgpt client, now Supported online search.no need for a key, no need to log in.Multi-node automatic speed measurement switch,Long text translation with no word limit, AI graphic ...|1981|2024-01-19|2023-03-09|
 |4|[daymade/Twitter-Block-Porn](https://github.com/daymade/Twitter-Block-Porn)|共享黑名单, 一键拉黑所有黄推诈骗犯. Block scammers who sending fake porn comments, and help you improve your experience using Twitter.|1655|2024-01-14|2023-07-07|
-|5|[LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt)|永久免费开源的 AIGC 课程, 目前已支持 ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，大模型微调|1360|2024-02-10|2023-04-23|
+|5|[LearnPrompt/LearnPrompt](https://github.com/LearnPrompt/LearnPrompt)|永久免费开源的 AIGC 课程, 目前已支持 ChatGPT, Midjourney, Runway, Stable Diffusion, AI数字人，AI声音&音乐，大模型微调|1363|2024-02-10|2023-04-23|
 |6|[timqian/openprompt.co](https://github.com/timqian/openprompt.co)|Create. Use. Share. ChatGPT prompts|1115|2024-02-10|2023-03-22|
-|7|[fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)|A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)|865|2024-02-06|2023-07-18|
+|7|[fishjar/kiss-translator](https://github.com/fishjar/kiss-translator)|A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)|875|2024-02-06|2023-07-18|
 |8|[journey-ad/sd-webui-bilingual-localization](https://github.com/journey-ad/sd-webui-bilingual-localization)|Stable Diffusion web UI bilingual localization extensions. SD WebUI双语对照翻译插件|772|2023-08-29|2023-02-26|
 |9|[xxxily/hello-ai](https://github.com/xxxily/hello-ai)|抢走你工作的不是AI，而是掌握使用AI工具的人。 降维打击最为致命：毁灭你，与你何干《三体》|467|2024-01-25|2023-03-24|
 |10|[xishandong/crawlProject](https://github.com/xishandong/crawlProject)|python爬虫项目合集，从基础到js逆向，包含基础篇、自动化篇、进阶篇以及验证码篇。案例涵盖各大网站(xhs douyin weibo ins boss job，jd...)，你将会学到有关爬虫以及反爬虫、自动化和验证码的各方面知识|412|2023-11-04|2023-07-19|
