@@ -1,26 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > C
-<sub>数据更新: 2024-02-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|7407|2023-11-13|
 |2|[xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid)|FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议|4618|2024-01-11|
-|3|[cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide)|A bare metal programming guide (ARM microcontrollers)|2318|2023-08-19|
-|4|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|2141|2024-02-04|
-|5|[yianwillis/vimcdoc](https://github.com/yianwillis/vimcdoc)|Vim 中文文档计划|1815|2023-10-13|
-|6|[eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)|eBPF Developer Tutorial: Learning eBPF Step by Step with Examples|1738|2024-02-03|
-|7|[HITSZ-OpenCS/HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|1319|2024-01-26|
-|8|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|1226|2023-11-21|
+|3|[cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide)|A bare metal programming guide (ARM microcontrollers)|2320|2023-08-19|
+|4|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|2142|2024-02-04|
+|5|[yianwillis/vimcdoc](https://github.com/yianwillis/vimcdoc)|Vim 中文文档计划|1816|2023-10-13|
+|6|[eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)|eBPF Developer Tutorial: Learning eBPF Step by Step with Examples|1740|2024-02-03|
+|7|[HITSZ-OpenCS/HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|1320|2024-01-26|
+|8|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|1227|2023-11-21|
 |9|[agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx)|A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  |1064|2024-01-22|
-|10|[larryli/PuTTY](https://github.com/larryli/PuTTY)|PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。|962|2024-02-06|
-|11|[AlexFanw/HUSTER-CS](https://github.com/AlexFanw/HUSTER-CS)|华中科技大学 计算机科学与技术学院 学习资料💯 以及 实验资料💾|939|2023-12-13|
+|10|[larryli/PuTTY](https://github.com/larryli/PuTTY)|PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。|962|2024-02-13|
+|11|[AlexFanw/HUSTER-CS](https://github.com/AlexFanw/HUSTER-CS)|华中科技大学 计算机科学与技术学院 学习资料💯 以及 实验资料💾|940|2023-12-13|
 |12|[zfl9/chinadns-ng](https://github.com/zfl9/chinadns-ng)|chinadns 重构增强版，支持黑白名单，ipset/nftset|882|2024-02-01|
 |13|[FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit)|iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结|832|2024-02-05|
 |14|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|677|2024-02-01|
-|15|[LearningOS/os-lectures](https://github.com/LearningOS/os-lectures)|2023年春季OS课程Slides|526|2023-11-22|
-|16|[Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)|LILYGO LoRa Series examples|525|2024-01-30|
+|15|[LearningOS/os-lectures](https://github.com/LearningOS/os-lectures)|2023年春季OS课程Slides|527|2023-11-22|
+|16|[Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)|LILYGO LoRa Series examples|526|2024-01-30|
 |17|[Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot)|Open source materials for a novel structured legged robot, including mechanical design, electronic design, algorithm simulation, and software development.       一个新型结构的轮腿机器人开源资料，包含机械设计、电子设计、算法仿真、软件开发等 ...|512|2023-11-23|
 |18|[linuxkerneltravel/lmp](https://github.com/linuxkerneltravel/lmp)|LMP provides an eBPF Supermarket for developers, including eBPF tools, open-source projects based on eBPF, eBPF learning materials, Linux kernel learning materials, and more.|503|2024-02-06|
 |19|[ultraji/linux-0.12](https://github.com/ultraji/linux-0.12)|《Linux内核完全剖析》linux0.12源码及实验环境|429|2023-10-29|
@@ -53,20 +53,19 @@
 |46|[WHUCodingAndOpen/OpenCourseResources](https://github.com/WHUCodingAndOpen/OpenCourseResources)|WHU开源资料|58|2024-01-04|
 |47|[jiegeng321/Creative-Mini-Car-Modification](https://github.com/jiegeng321/Creative-Mini-Car-Modification)|持续更新，欢迎star，保姆级改装教程：|54|2024-01-24|
 |48|[TonyD0g/DataStruct](https://github.com/TonyD0g/DataStruct)|此仓库是本人学习数据结构的过程中码出来的代码，现将代码分享出来给大家共同学习 因本人水平有限，程序代码部分地方可能理解的不是很透彻，如果你遇到问题欢迎提出，一起交流学习共同进步，谢谢！参考书籍：<大话数据结构>|54|2024-01-22|
-|49|[SwimmingTiger/oraykvm](https://github.com/SwimmingTiger/oraykvm)|向日葵控控A2(OrayKVM)U盘救砖/USB恢复模式说明/免U盘刷机教程|50|2023-08-14|
-|50|[r0ysue/FridaAndrioidNativeBeginnersBook](https://github.com/r0ysue/FridaAndrioidNativeBeginnersBook)|《安卓Frida SO逆向分析实战》|49|2023-10-22|
-|51|[sunxvming/navmesh-advance](https://github.com/sunxvming/navmesh-advance)|导航网格寻路C++实现版(进阶版)|47|2023-11-15|
-|52|[JackeyLea/Wayland_Freshman](https://github.com/JackeyLea/Wayland_Freshman)|食铁兽Wayland开发入门系列附属代码|45|2023-12-14|
-|53|[smd1121/zju-course](https://github.com/smd1121/zju-course)|ZJU 信安19 课程资料|45|2023-11-14|
-|54|[yssickjgd/robowalker_train](https://github.com/yssickjgd/robowalker_train)|中国科大RoboMaster电控培训系列代码|38|2023-12-14|
-|55|[maswx/vu13p](https://github.com/maswx/vu13p)|国产VU13P加速卡资料|35|2023-12-09|
-|56|[RicheyJang/RJFireWall](https://github.com/RicheyJang/RJFireWall)|一个基于Netfilter、Netlink的Linux传输层状态检测防火墙，支持NAT，仅用于学习与交流（华中科技大学2021学年网络安全课程设计项目）|35|2023-10-30|
-|57|[yedushusheng/cloudcomputing-lecture](https://github.com/yedushusheng/cloudcomputing-lecture)|云计算学习笔记|33|2023-09-23|
-|58|[lcp0578/book-note](https://github.com/lcp0578/book-note)|:open_book: book note,读书笔记|33|2024-01-23|
-|59|[akerdi/buildyourowndatabase](https://github.com/akerdi/buildyourowndatabase)|从0使用C制作B+树数据库: 基于cstack开源教程Let's Build a Simple Database中文浓缩翻译及学习过程|28|2023-09-18|
-|60|[horo2016/easyMQOS](https://github.com/horo2016/easyMQOS)|轮式移动机器人简单的分布式开发框架教程|27|2024-01-05|
-|61|[Radiance-nt/xjtu_homework](https://github.com/Radiance-nt/xjtu_homework)|西安交通大学2019级计算机与科学技术专业，包含了一些我修过的课程（不限于本专业课程），希望能帮助到大家。|25|2024-01-03|
-|62|[tongtzeho/LeetCode](https://github.com/tongtzeho/LeetCode)|LeetCode题解（C/C++）|24|2023-08-22|
+|49|[r0ysue/FridaAndrioidNativeBeginnersBook](https://github.com/r0ysue/FridaAndrioidNativeBeginnersBook)|《安卓Frida SO逆向分析实战》|49|2023-10-22|
+|50|[sunxvming/navmesh-advance](https://github.com/sunxvming/navmesh-advance)|导航网格寻路C++实现版(进阶版)|47|2023-11-15|
+|51|[JackeyLea/Wayland_Freshman](https://github.com/JackeyLea/Wayland_Freshman)|食铁兽Wayland开发入门系列附属代码|45|2023-12-14|
+|52|[smd1121/zju-course](https://github.com/smd1121/zju-course)|ZJU 信安19 课程资料|45|2023-11-14|
+|53|[yssickjgd/robowalker_train](https://github.com/yssickjgd/robowalker_train)|中国科大RoboMaster电控培训系列代码|38|2023-12-14|
+|54|[maswx/vu13p](https://github.com/maswx/vu13p)|国产VU13P加速卡资料|35|2023-12-09|
+|55|[RicheyJang/RJFireWall](https://github.com/RicheyJang/RJFireWall)|一个基于Netfilter、Netlink的Linux传输层状态检测防火墙，支持NAT，仅用于学习与交流（华中科技大学2021学年网络安全课程设计项目）|35|2023-10-30|
+|56|[yedushusheng/cloudcomputing-lecture](https://github.com/yedushusheng/cloudcomputing-lecture)|云计算学习笔记|33|2023-09-23|
+|57|[lcp0578/book-note](https://github.com/lcp0578/book-note)|:open_book: book note,读书笔记|33|2024-01-23|
+|58|[akerdi/buildyourowndatabase](https://github.com/akerdi/buildyourowndatabase)|从0使用C制作B+树数据库: 基于cstack开源教程Let's Build a Simple Database中文浓缩翻译及学习过程|28|2023-09-18|
+|59|[horo2016/easyMQOS](https://github.com/horo2016/easyMQOS)|轮式移动机器人简单的分布式开发框架教程|27|2024-01-05|
+|60|[Radiance-nt/xjtu_homework](https://github.com/Radiance-nt/xjtu_homework)|西安交通大学2019级计算机与科学技术专业，包含了一些我修过的课程（不限于本专业课程），希望能帮助到大家。|25|2024-01-03|
+|61|[tongtzeho/LeetCode](https://github.com/tongtzeho/LeetCode)|LeetCode题解（C/C++）|24|2023-08-22|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
