@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Swift
-<sub>数据更新: 2024-02-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|14877|4|2024-01-18|
+|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|14880|4|2024-01-18|
 |2|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|2146|3|2023-12-31|
-|3|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|1407|1|2024-02-12|
+|3|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|1408|1|2024-02-12|
 |4|[ZhongshanHuang/PoReader](https://github.com/ZhongshanHuang/PoReader)|本地小说阅读器，支持深色模式，Wifi传书，代码简洁有注释(local text reader, support dark modal, upload text by wifi)|53|0|2023-12-04|
 |5|[RicardoWesleyli/SwiftUI](https://github.com/RicardoWesleyli/SwiftUI)|SwiftUI极简开发书籍配套代码|8|0|2023-08-30|
 |6|[crazypoo/PTools](https://github.com/crazypoo/PTools)|iOS开发工具小集合,不定期更新|30|0|2024-02-01|
@@ -25,7 +25,7 @@
 |18|[MetaBBLv/SwiftUIModifier](https://github.com/MetaBBLv/SwiftUIModifier)|关于SwiftUI中基础组件的修饰符的学习过程|17|0|2023-09-07|
 |19|[1220144667/SwiftUI](https://github.com/1220144667/SwiftUI)|SwiftUI学习项目|6|0|2023-11-16|
 |20|[Andy0570/RoadToSwift](https://github.com/Andy0570/RoadToSwift)|My Swift self-study tour 🤪 |13|0|2023-11-08|
-|21|[fatbobman/BlogCodes](https://github.com/fatbobman/BlogCodes)|【肘子的Swift笔记】博文中的代码汇总|66|0|2024-01-08|
+|21|[fatbobman/BlogCodes](https://github.com/fatbobman/BlogCodes)|【肘子的Swift笔记】博文中的代码汇总|68|0|2024-01-08|
 |22|[starainDou/DDYDayly](https://github.com/starainDou/DDYDayly)|iOS每天学点知识。文章，博客，开源库，Demo，软件，插件，工具...好记性不如烂笔头，最怕有时候看到过类似知识点就是想不起来在哪里看过。。。|48|0|2023-08-18|
 |23|[reers/ReerKit](https://github.com/reers/ReerKit)|Swift 基础库. A collection of Swift extensions and utilities.|12|0|2024-02-05|
 |24|[JmoVxia/CLDemo](https://github.com/JmoVxia/CLDemo)|记录平时博客中的Demo，持续更新|462|0|2024-01-12|

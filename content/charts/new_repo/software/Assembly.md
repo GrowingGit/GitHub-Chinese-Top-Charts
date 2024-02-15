@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Assembly
-<sub>数据更新: 2024-02-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[zhuozhiyongde/Introduction-To-Computer-System-2023Fall-PKU](https://github.com/zhuozhiyongde/Introduction-To-Computer-System-2023Fall-PKU)|北京大学 2023 年秋计算机系统导论课程（ICS）作业、笔记、经验|19|2024-02-10|2023-09-24|
+|1|[zhuozhiyongde/Introduction-To-Computer-System-2023Fall-PKU](https://github.com/zhuozhiyongde/Introduction-To-Computer-System-2023Fall-PKU)|北京大学 2023 年秋计算机系统导论课程（ICS）作业、笔记、经验|20|2024-02-13|2023-09-24|
 |2|[flyleeee/noob_hust_cs_20](https://github.com/flyleeee/noob_hust_cs_20)|华中科技大学计算机学院20级实验报告/代码——汇编实验；机器学习；计算机系统基础；算法实验；游戏设计；组原；计算机网络；软件工程；数据库；计算机视觉；操作系统课设|12|2023-12-16|2023-05-15|
 |3|[Wokann/GBA_Cardcaptor_Sakura_SCdMG_chs](https://github.com/Wokann/GBA_Cardcaptor_Sakura_SCdMG_chs)|Chinese translation patch of GBA game "Cardcaptor Sakura - Sakura Card de Mini Game (Japan)" 魔卡少女樱-小樱牌的迷你游戏|4|2023-11-07|2023-10-17|
 |4|[flwfdd/BIT-Run](https://github.com/flwfdd/BIT-Run)|北理润 - 大三上汇编小游戏大作业|3|2023-12-22|2023-12-14|
