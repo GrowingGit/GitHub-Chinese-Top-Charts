@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > PHP
-<sub>数据更新: 2024-02-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[pandora-next/deploy](https://github.com/pandora-next/deploy)|Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!|10708|112|2024-01-21|
-|2|[codehub666/94list](https://github.com/codehub666/94list)|百度网盘分享链接分析渲染列表辅助下载开源程序|1322|7|2023-12-24|
-|3|[ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF)|【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！|1498|5|2024-02-14|
-|4|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|Sample code for several design patterns in PHP 8.x|21616|5|2023-09-28|
-|5|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|3331|2|2024-02-12|
+|1|[pandora-next/deploy](https://github.com/pandora-next/deploy)|Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!|10714|110|2024-01-21|
+|2|[codehub666/94list](https://github.com/codehub666/94list)|百度网盘分享链接分析渲染列表辅助下载开源程序|1328|7|2024-02-15|
+|3|[ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF)|【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！|1499|5|2024-02-15|
+|4|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|Sample code for several design patterns in PHP 8.x|21619|5|2023-09-28|
+|5|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|3333|2|2024-02-12|
 |6|[liaocp666/Jasmine](https://github.com/liaocp666/Jasmine)|A Typecho Theme. 一款 Typecho 主题。专为博客类网站开发，响应式设计，在移动端也有不错体验。主要使用白、灰、黑三种配色，整体简洁、精致、美观。|555|1|2023-12-04|
-|7|[bugaosuni59/TH-CPL](https://github.com/bugaosuni59/TH-CPL)|清华大学计算机学科推荐学术会议和期刊列表|880|1|2023-10-12|
+|7|[bugaosuni59/TH-CPL](https://github.com/bugaosuni59/TH-CPL)|清华大学计算机学科推荐学术会议和期刊列表|881|1|2023-10-12|
 |8|[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)|A list of ICs and IPs for AI, Machine Learning and Deep Learning.|1555|1|2023-09-29|
-|9|[find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)|潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!|52|1|2024-02-14|
+|9|[find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)|潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!|52|1|2024-02-15|
 |10|[tsxcw/mtab](https://github.com/tsxcw/mtab)|Mtab书签导航程序 - 免费无广告的浏览器书签助手，多端同步、美观易用的在 线导航和书签工具，自主研发免费使用，帮助您高效管理 网页和应用，提升在线体验。|81|1|2024-01-29|
-|11|[freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout)|FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)|2486|1|2024-02-02|
-|12|[orangetw/My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges)|Collection of CTF Web challenges I made|2575|1|2023-11-08|
-|13|[xiebruce/PicUploader](https://github.com/xiebruce/PicUploader)|一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。|1156|1|2024-02-13|
+|11|[freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout)|FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)|2489|1|2024-02-15|
+|12|[orangetw/My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges)|Collection of CTF Web challenges I made|2576|1|2023-11-08|
+|13|[xiebruce/PicUploader](https://github.com/xiebruce/PicUploader)|一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。|1157|1|2024-02-13|
 |14|[lcp0578/cheat-sheets](https://github.com/lcp0578/cheat-sheets)|:elephant: :elephant: my cheat sheets :memo: , Symfony, Go, Python, C++, GIS, Qt, MySQL, Twig, Doctrine, Nginx, ElasticSearch, TiDB, Linux etc.|69|0|2024-02-01|
 |15|[imvicchen/victheme-Wordpress-Theme](https://github.com/imvicchen/victheme-Wordpress-Theme)|victheme - 基于bootstrap框架的Wordpress博客主题。|62|0|2023-11-02|
 |16|[carefreezi/openai-nuxt3](https://github.com/carefreezi/openai-nuxt3)|仅供学习增加了敏感词检测|102|0|2023-11-28|
@@ -45,8 +45,8 @@
 |38|[oubingbing/wechatAlliance](https://github.com/oubingbing/wechatAlliance)|微信小程序--校园小情书后台源码，好玩的表白墙，告白墙。|666|0|2023-11-29|
 |39|[asundust/wechat-work-push](https://github.com/asundust/wechat-work-push)|利用企业微信应用消息向微信发送通知(无需公众号，不需要安装企业微信客户端，低成本推送消息解决方案)|68|0|2023-09-04|
 |40|[changbin1997/MWordStar](https://github.com/changbin1997/MWordStar)|响应式双栏 Typecho 博客主题|192|0|2023-11-02|
-|41|[Lete114/Vercel-Typecho](https://github.com/Lete114/Vercel-Typecho)|Vercel 免费部署 Typecho 博客   Vercel Free Deploy Typecho Blog|109|0|2023-12-12|
-|42|[changbin1997/Facile](https://github.com/changbin1997/Facile)|一个简洁的 Typecho 博客主题|138|0|2023-11-02|
+|41|[Lete114/Vercel-Typecho](https://github.com/Lete114/Vercel-Typecho)|Vercel 免费部署 Typecho 博客   Vercel Free Deploy Typecho Blog|114|0|2023-12-12|
+|42|[changbin1997/Facile](https://github.com/changbin1997/Facile)|一个简洁的 Typecho 博客主题|140|0|2023-11-02|
 |43|[elarity/wechat-official-accounts-demo-code](https://github.com/elarity/wechat-official-accounts-demo-code)|微信公众号中系列文章的演示代码|30|0|2023-09-01|
 |44|[lu2ker/PHP-Code](https://github.com/lu2ker/PHP-Code)|通过ThinkPHP框架学习PHP代码审计|220|0|2023-10-16|
 

@@ -1,39 +1,39 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Shell
-<sub>数据更新: 2024-02-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)|程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).|58833|41|2024-01-18|
-|2|[edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines)|A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more|6386|11|2024-02-14|
-|3|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|25416|11|2024-01-31|
-|4|[gonglei007/GameDevMind](https://github.com/gonglei007/GameDevMind)|最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。|4026|7|2024-01-26|
-|5|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|8652|5|2024-01-28|
-|6|[tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)|An awesome & curated list of best LLMOps tools for developers|2543|4|2024-02-13|
-|7|[Cats-Team/AdRules](https://github.com/Cats-Team/AdRules)|List for blocking ads in the Chinese region|2360|3|2024-02-14|
-|8|[apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh)|Pytorch 中文文档|3993|2|2024-02-06|
+|1|[Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)|程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).|58846|41|2024-01-18|
+|2|[edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines)|A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more|6393|11|2024-02-14|
+|3|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|25419|11|2024-01-31|
+|4|[gonglei007/GameDevMind](https://github.com/gonglei007/GameDevMind)|最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。|4029|7|2024-01-26|
+|5|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|8653|5|2024-01-28|
+|6|[tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)|An awesome & curated list of best LLMOps tools for developers|2550|4|2024-02-13|
+|7|[Cats-Team/AdRules](https://github.com/Cats-Team/AdRules)|List for blocking ads in the Chinese region|2362|3|2024-02-15|
+|8|[apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh)|Pytorch 中文文档|3994|2|2024-02-06|
 |9|[vmayoral/ros-robotics-companies](https://github.com/vmayoral/ros-robotics-companies)|A list of robotics companies using the Robot Operating System (ROS and ROS 2). |1091|2|2024-02-13|
 |10|[wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial)|Bash 教程|4113|2|2024-02-09|
-|11|[overmind1980/oeasy-python-tutorial](https://github.com/overmind1980/oeasy-python-tutorial)|良心的 Python 教程，面向零基础初学者简明易懂的 Python3 入门基础课程。在linux+vim生产力环境下，从浅入深，从简单程序学到网络爬虫。可以配合蓝桥云上实验环境操作。|1580|2|2024-02-12|
-|12|[charlax/engineering-management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|6314|2|2024-02-13|
-|13|[jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow)|Curated list of resources about Apache Airflow|3518|2|2023-11-29|
+|11|[overmind1980/oeasy-python-tutorial](https://github.com/overmind1980/oeasy-python-tutorial)|良心的 Python 教程，面向零基础初学者简明易懂的 Python3 入门基础课程。在linux+vim生产力环境下，从浅入深，从简单程序学到网络爬虫。可以配合蓝桥云上实验环境操作。|1583|2|2024-02-12|
+|12|[charlax/engineering-management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|6318|2|2024-02-13|
+|13|[jghoman/awesome-apache-airflow](https://github.com/jghoman/awesome-apache-airflow)|Curated list of resources about Apache Airflow|3519|2|2023-11-29|
 |14|[wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial)|JavaScript 教程 https://wangdoc.com/javascript|3814|2|2024-02-04|
-|15|[duguying/parsing-techniques](https://github.com/duguying/parsing-techniques)|📕 parsing techniques 中文译本——《解析技术》|1504|1|2023-10-10|
+|15|[duguying/parsing-techniques](https://github.com/duguying/parsing-techniques)|📕 parsing techniques 中文译本——《解析技术》|1505|1|2023-10-10|
 |16|[haixiangyan/jest-tutorial](https://github.com/haixiangyan/jest-tutorial)|🃏《Jest 实践指南》|757|1|2023-08-29|
 |17|[bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese)|🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。  https://awesome-toolbox-chinese.bestxtools.com/   https://😎🧰.bestxtools.com/|912|1|2023-08-28|
 |18|[pingcap/docs-cn](https://github.com/pingcap/docs-cn)|TiDB/TiKV/PD 中文文档|1795|1|2024-02-12|
 |19|[wangdoc/es6-tutorial](https://github.com/wangdoc/es6-tutorial)|一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。|981|1|2023-12-30|
 |20|[zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial)|后端 （Java Golang）全栈知识架构体系总结|1494|1|2023-10-29|
 |21|[Esonhugh/Attack_Code](https://github.com/Esonhugh/Attack_Code)|文章 Attack Code 的详细全文。安全和开发总是具有伴生属性，尤其是云的安全方向，本篇文章是希望能帮助到读者的云安全入门材料。Full text of the article Attack Code. Security and development always have concomitant attributes, and this is especially true with t ...|523|1|2024-01-08|
-|22|[wslutilities/wslu](https://github.com/wslutilities/wslu)|A collection of utilities for Windows Subsystem for Linux|3085|1|2024-01-11|
+|22|[wslutilities/wslu](https://github.com/wslutilities/wslu)|A collection of utilities for Windows Subsystem for Linux|3086|1|2024-01-11|
 |23|[wind-liang/leetcode](https://github.com/wind-liang/leetcode)|leetcode 顺序刷题，详细通俗题解，with JAVA|2613|1|2023-08-29|
 |24|[WindrunnerMax/EveryDay](https://github.com/WindrunnerMax/EveryDay)|前端基础 个人博客 学习笔记|1500|1|2024-02-07|
 |25|[typst-cn/awesome-typst-cn](https://github.com/typst-cn/awesome-typst-cn)|Awesome Typst 列表中文版|270|1|2023-10-07|
-|26|[LCTT/TranslateProject](https://github.com/LCTT/TranslateProject)|Linux中国翻译项目|2187|1|2024-02-14|
+|26|[LCTT/TranslateProject](https://github.com/LCTT/TranslateProject)|Linux中国翻译项目|2187|1|2024-02-15|
 |27|[wangtunan/blog](https://github.com/wangtunan/blog)|:memo: 记录个人博客，见证成长之路  https://wangtunan.github.io/blog/|351|0|2024-01-31|
 |28|[daliansky/Lenovo-Air13-IWL-Hackintosh](https://github.com/daliansky/Lenovo-Air13-IWL-Hackintosh)|联想小新Air 13 IWL笔记本EFI|132|0|2024-01-15|
-|29|[rentianyu/Ad-set-hosts](https://github.com/rentianyu/Ad-set-hosts)|集合多个去广告hosts并去重|298|0|2024-02-14|
+|29|[rentianyu/Ad-set-hosts](https://github.com/rentianyu/Ad-set-hosts)|集合多个去广告hosts并去重|298|0|2024-02-15|
 |30|[zq99299/mysql-tutorial](https://github.com/zq99299/mysql-tutorial)|MySQL 系列知识|43|0|2024-01-18|
 |31|[liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource)|LLM全栈优质资源汇总|33|0|2024-01-25|
 |32|[wangdoc/webapi-tutorial](https://github.com/wangdoc/webapi-tutorial)|Web API 教程|214|0|2023-12-03|
@@ -56,7 +56,7 @@
 |49|[Nanshen0405/StudyDocumentation](https://github.com/Nanshen0405/StudyDocumentation)|Study document for Chinese programmers . 程序员的学习文档系列。包括数据结构与算法、面试八股文、Spring框架的理解等文档|42|0|2023-10-12|
 |50|[yuehen7/scripts](https://github.com/yuehen7/scripts)|BBR、WARP、trojan-go、sing-box合集|66|0|2024-01-22|
 |51|[yuyicai/update-kube-cert](https://github.com/yuyicai/update-kube-cert)|K8s 集群证书过期处理，更新 kubeadm 生成的证书有效期为 10 年。支持全部版本。|444|0|2023-12-19|
-|52|[binghe001/BingheGuide](https://github.com/binghe001/BingheGuide)|🔥🔥🔥 📚 本代码库是作者冰河多年从事互联网大厂开发、架构的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容、底层原理、架构知识、渗透技术。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！|293|0|2024-02-14|
+|52|[binghe001/BingheGuide](https://github.com/binghe001/BingheGuide)|🔥🔥🔥 📚 本代码库是作者冰河多年从事互联网大厂开发、架构的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容、底层原理、架构知识、渗透技术。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！|294|0|2024-02-14|
 |53|[yulilong/my_blog](https://github.com/yulilong/my_blog)|我的个人wiki、博客|26|0|2024-01-26|
 |54|[flame1ce/hysteria2-install](https://github.com/flame1ce/hysteria2-install)|Install Hysteria2  一键脚本 安装指南|48|0|2023-09-13|
 |55|[shipengqi/frontend-learn](https://github.com/shipengqi/frontend-learn)|:books: 前端知识学习整理  ...|128|0|2023-09-16|
@@ -71,13 +71,13 @@
 |64|[wuyumin/tutorial](https://github.com/wuyumin/tutorial)|一些笔记 · 一些教程· Some tutorials|26|0|2023-11-10|
 |65|[ixinzhi/wealth-books-2023](https://github.com/ixinzhi/wealth-books-2023)|:books: 财富资料库 2023|33|0|2023-12-31|
 |66|[dunwu/blog](https://github.com/dunwu/blog)|:dart: 钝悟的博客|785|0|2024-01-27|
-|67|[gmt-china/GMT_docs](https://github.com/gmt-china/GMT_docs)|GMT 中文手册|98|0|2024-02-13|
+|67|[gmt-china/GMT_docs](https://github.com/gmt-china/GMT_docs)|GMT 中文手册|98|0|2024-02-15|
 |68|[wangdoc/html-tutorial](https://github.com/wangdoc/html-tutorial)|HTML 语言教程|277|0|2023-12-05|
 |69|[starsliao/PythonTools](https://github.com/starsliao/PythonTools)|Python写的小工具集合|28|0|2023-10-26|
 |70|[jgsrty/jgsrty.github.io](https://github.com/jgsrty/jgsrty.github.io)|:sunny: 英语学习 :feet: 项目预览：https://jgsrty.github.io 国内访问：https://rtyxmd.gitee.io|369|0|2023-11-20|
 |71|[zjutjsj1004/python](https://github.com/zjutjsj1004/python)|python学习（基本语法，爬虫，Web）|43|0|2024-01-12|
 |72|[tuya/tuya-panel-demo](https://github.com/tuya/tuya-panel-demo)|Tuya IoT Panel demo provides a series of common template codes.|63|0|2023-10-30|
-|73|[weijiew/everystep](https://github.com/weijiew/everystep)|🚀 写点笔记、踩坑记录|394|0|2024-02-08|
+|73|[weijiew/everystep](https://github.com/weijiew/everystep)|🚀 写点笔记、踩坑记录|395|0|2024-02-08|
 |74|[AndSonder/space.keter.top](https://github.com/AndSonder/space.keter.top)|这里是sonder的有点又没有太多用的笔记本   “一个人只有不停的写作，才不会被人海淹没”  你可以通过这个链接来访问网页版：https://space.keter.top|44|0|2024-01-07|
 |75|[discourse/discourse_docker](https://github.com/discourse/discourse_docker)|A Docker image for Discourse|1593|0|2024-02-06|
 |76|[1292004560/AllNote](https://github.com/1292004560/AllNote)|这是我所有的笔记|52|0|2024-01-26|

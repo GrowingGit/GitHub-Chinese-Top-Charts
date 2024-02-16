@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > PHP
-<sub>数据更新: 2024-02-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[gptlink/gptlink](https://github.com/gptlink/gptlink)|10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能|2529|2023-11-17|2023-05-22|
-|2|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的高性能面板|371|2024-02-05|2023-11-14|
-|3|[xing61/xiaoyi-robot](https://github.com/xing61/xiaoyi-robot)|优质稳定的OpenAI的API接口-For企业和开发者。OpenAI的api proxy，支持ChatGPT的API调用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增|320|2024-02-12|2023-04-12|
-|4|[tznb1/TwoNav](https://github.com/tznb1/TwoNav)|TwoNav 第二代云导航 云书签管理系统|230|2024-01-20|2023-04-06|
-|5|[icewolf-sec/PerlinPuzzle-Webshell-PHP](https://github.com/icewolf-sec/PerlinPuzzle-Webshell-PHP)|使用分支对抗技术制作的PHP Webshell，截止2024年1月18日，共数十个查杀引擎免杀|201|2024-01-19|2024-01-19|
+|2|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的高性能面板|373|2024-02-05|2023-11-14|
+|3|[xing61/xiaoyi-robot](https://github.com/xing61/xiaoyi-robot)|优质稳定的OpenAI的API接口-For企业和开发者。OpenAI的api proxy，支持ChatGPT的API调用，支持openai的API接口，支持：gpt-4，gpt-3.5。不需要openai Key, 不需要买openai的账号，不需要美元的银行卡，通通不用的，直接调用就行，稳定好用！！智增增|322|2024-02-12|2023-04-12|
+|4|[tznb1/TwoNav](https://github.com/tznb1/TwoNav)|TwoNav 第二代云导航 云书签管理系统|231|2024-01-20|2023-04-06|
+|5|[icewolf-sec/PerlinPuzzle-Webshell-PHP](https://github.com/icewolf-sec/PerlinPuzzle-Webshell-PHP)|使用分支对抗技术制作的PHP Webshell，截止2024年1月18日，共数十个查杀引擎免杀|202|2024-01-19|2024-01-19|
 |6|[qincrm/crm](https://github.com/qincrm/crm)|司跃CRM 基于laravel  & arco.design & vue 开发，支持字段定制和二次开发         联系方式：17611303211（微信） http://47.94.200.53/   账号: 17611111111  密码: crm123456|190|2023-10-18|2023-02-16|
-|7|[netcccyun/pan](https://github.com/netcccyun/pan)|彩虹外链网盘|146|2023-08-25|2023-02-26|
+|7|[netcccyun/pan](https://github.com/netcccyun/pan)|彩虹外链网盘|148|2023-08-25|2023-02-26|
 |8|[chengxs1994/ChatGPT-SDImg-Web](https://github.com/chengxs1994/ChatGPT-SDImg-Web)|基于ChatGPT-Next-Web，集成SD webui AI绘图，实现注册登录，次数限制，充值，分享等功能|118|2024-01-03|2023-06-01|
-|9|[BugFor-Pings/PHPwebshell](https://github.com/BugFor-Pings/PHPwebshell)|源码丢这了，自己做免杀 ------  一些自己无聊写的免杀php木马，404页面伪装大马-Apache+Nginx版本，phpinfo伪装马，404页面代码执行一句话，phpinfo代码执行一句话|115|2023-11-21|2023-04-10|
+|9|[BugFor-Pings/PHPwebshell](https://github.com/BugFor-Pings/PHPwebshell)|源码丢这了，自己做免杀 ------  一些自己无聊写的免杀php木马，404页面伪装大马-Apache+Nginx版本，phpinfo伪装马，404页面代码执行一句话，phpinfo代码执行一句话|116|2023-11-21|2023-04-10|
 |10|[outtimes/dujiaoka](https://github.com/outtimes/dujiaoka)|🦄（修改版）独角数卡-优雅开源的自动售货系统｜开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉|86|2024-02-10|2023-03-25|
 |11|[huhexian/2012-huhexian](https://github.com/huhexian/2012-huhexian)|一个基于 Twenty Twelve 修改的 WordPress 双栏文字主题|85|2023-12-30|2023-06-08|
 |12|[likeyun/liKeYun_MqPay](https://github.com/likeyun/liKeYun_MqPay)|个人免签支付就是给个人用的支付接口，一般的支付接口都需要营业执照才能申请，个人很难申请的到，或者是没有资质去申请，要和支付商进行签约的。免签，顾名思义就是不需要签约。那么个人免签支付就有市场了，就是为了解决个人无法轻易申请到支付接口的问题。通过简单的技术开发实现APP监听收款码的免签支付方式使用微信实现支付接口。|73|2023-10-11|2023-02-25|
@@ -23,9 +23,9 @@
 |16|[xy3xy3/VoiceChatgpt](https://github.com/xy3xy3/VoiceChatgpt)|使用语音与chatgpt对话，调用tts-1,whisper-1,gpt-3.5-turbo。Converse with ChatGPT using voice, calling upon TTS-1, Whisper-1, and GPT-3.5-turbo..|61|2023-11-24|2023-11-21|
 |17|[poetbi/boaphp](https://github.com/poetbi/boaphp)|boaPHP是一款免费开源、灵活易用的配置式PHP框架，MVC设计模式，完全面向对象，易学易用、便于快速开发|57|2024-02-02|2023-10-08|
 |18|[imiphp/imi-ai](https://github.com/imiphp/imi-ai)|imi-ai is a ChatGPT open source project based on PHP+Swoole+Vue, which can be deployed simply and quickly.（imi-ai 是一个基于 PHP+Swoole+Vue 的 ChatGPT 开源项目，可以简单快速部署。）|56|2024-01-24|2023-06-02|
-|19|[shijie1991/highker](https://github.com/shijie1991/highker)|基于 laravel 开发的一个 社区/社交 小程序|54|2023-11-27|2023-08-23|
+|19|[shijie1991/highker](https://github.com/shijie1991/highker)|基于 laravel 开发的一个 社区/社交 小程序|55|2023-11-27|2023-08-23|
 |20|[chenggx/douyin-parse-danmu](https://github.com/chenggx/douyin-parse-danmu)|抖音直播弹幕抓取|47|2023-12-30|2023-09-26|
-|21|[v5star/rustdesk-api](https://github.com/v5star/rustdesk-api)|rustdesk地址薄服务接口，自己架设后，可以方便的管理自己设备ID以及密码|44|2024-02-08|2023-08-26|
+|21|[v5star/rustdesk-api](https://github.com/v5star/rustdesk-api)|rustdesk地址薄服务接口，自己架设后，可以方便的管理自己设备ID以及密码|45|2024-02-08|2023-08-26|
 |22|[netcccyun/dirlist](https://github.com/netcccyun/dirlist)|彩虹目录列表PHP站点程序|41|2023-09-28|2023-02-26|
 |23|[imjeff/wordpress-dear](https://github.com/imjeff/wordpress-dear)|WordPress 极极简主题 Dear，无 JS、CSS 文件载入，无分页，无评论，对程序极简优化。复刻 Bearblog 主题。|40|2023-12-13|2023-11-30|
 |24|[netcccyun/easypanel](https://github.com/netcccyun/easypanel)|Easypanel面板彩虹优化版|36|2023-08-25|2023-02-26|

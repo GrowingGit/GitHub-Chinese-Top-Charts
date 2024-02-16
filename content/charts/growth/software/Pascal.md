@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2024-02-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -24,7 +24,7 @@
 |17|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|310|0|2024-02-12|
 |18|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|252|0|2023-11-15|
 |19|[ying32/res2go-ide-plugin](https://github.com/ying32/res2go-ide-plugin)|res2go Lazarus IDE plug-in|29|0|2024-01-13|
-|20|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|437|0|2024-01-31|
+|20|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|436|0|2024-02-15|
 |21|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|45|0|2024-01-03|
 |22|[huzgd/ezdml](https://github.com/huzgd/ezdml)|Lightweight data modeling and design tool (超轻量级的数据建模表结构设计工具)|20|0|2024-01-03|
 |23|[terrylao/PascalContainer](https://github.com/terrylao/PascalContainer)|advanced data structure in Pascal, include  B-Tree,B+-Tree,B*-Tree,T-Tree,HashMap,priority queue,red-black-Tree,AVL-tree,Quad-Tree,SkipList,Sortable Single Linklist,Sort Function,LockFreeQueue,nth_ele ...|33|0|2024-01-19|
