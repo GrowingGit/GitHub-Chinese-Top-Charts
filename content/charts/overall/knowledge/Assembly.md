@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Assembly
-<sub>数据更新: 2024-02-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -11,7 +11,7 @@
 |4|[Jolsonz/hust_kaoyan](https://github.com/Jolsonz/hust_kaoyan)|本人参与2020华中科技大学研究生考试复试期间所作的一些笔记，主要是数据库和汇编语言的。|39|2024-01-11|
 |5|[dekrt/Reports](https://github.com/dekrt/Reports)|HUST SSE Courses Reports   华科软件学院课程报告|14|2024-02-09|
 |6|[ZJUIntl-share/zjuintl-icicles](https://github.com/ZJUIntl-share/zjuintl-icicles)|浙大国际校区课程攻略共享计划|5|2024-01-20|
-|7|[sishuikaki/assembly_study_lz](https://github.com/sishuikaki/assembly_study_lz)|李忠《x86汇编语言：从实模式到保护模式》第2版检测点以及章节习题|4|2023-08-24|
+|7|[sishuikaki/assembly_study_lz](https://github.com/sishuikaki/assembly_study_lz)|李忠《x86汇编语言：从实模式到保护模式》第2版检测点以及章节习题|5|2023-08-24|
 |8|[HUA428571/Calendar_MASM](https://github.com/HUA428571/Calendar_MASM)|NJUPT-CS-专业课程设计I-汇编语言程序设计 万年历显示程序|4|2023-11-10|
 |9|[Flskying/2023_AT89C51](https://github.com/Flskying/2023_AT89C51)|2023年单片机学习记录|3|2023-12-13|
 

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2024-02-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -22,20 +22,19 @@
 |15|[ibiza19/NeteaseCloudMusic](https://github.com/ibiza19/NeteaseCloudMusic)|音乐播放器(网易云音乐)🎹 iOS Objective-C版|3|2023-11-13|2023-07-20|
 |16|[zhengmiaokai/MKWebFileDownloader](https://github.com/zhengmiaokai/MKWebFileDownloader)|基于NSOperationQueue与NSURLSessionDataTask实现的文件下载器（支持设置队列并发数量、任务优先级、断点续传）。|3|2024-01-23|2023-04-19|
 |17|[bashen1/react-native-mjverification](https://github.com/bashen1/react-native-mjverification)|极光认证，基于jverification-react-native|3|2023-12-15|2023-03-13|
-|18|[GuanceCloud/datakit-uniapp-native-plugin](https://github.com/GuanceCloud/datakit-uniapp-native-plugin)|观测云 Uniapp Native Plugin（Android，iOS）|3|2023-11-23|2023-02-17|
-|19|[wukongyang/SVGAPlayer-rn](https://github.com/wukongyang/SVGAPlayer-rn)|react native 使用svga动画，支持android、ios|2|2023-12-13|2023-12-09|
-|20|[xiaopengLOVEcode/WeShare](https://github.com/xiaopengLOVEcode/WeShare)|一个传输工具|2|2023-12-26|2023-11-07|
-|21|[OuterCloud/TestAppForIOS](https://github.com/OuterCloud/TestAppForIOS)|该项目用来展示用例信息收集库的使用方法|2|2023-10-31|2023-10-30|
-|22|[zhongaiyemaozi/ReadCardInformation](https://github.com/zhongaiyemaozi/ReadCardInformation)|通过OpenCV读取身份证/社保卡信息|2|2023-11-10|2023-10-20|
-|23|[dgyiheda/YUniMPSDK](https://github.com/dgyiheda/YUniMPSDK)|uniapp小程序SDK|2|2023-11-28|2023-09-14|
-|24|[oceanengine/bda_signal_sdk](https://github.com/oceanengine/bda_signal_sdk)|激活SDK-iOS|2|2024-01-23|2023-09-12|
-|25|[sweetKnight/SWRequest](https://github.com/sweetKnight/SWRequest)|一个离散型的网络库|2|2023-09-11|2023-09-11|
-|26|[dosedo/BLVideoPlayer](https://github.com/dosedo/BLVideoPlayer)|BLVideoPlayer是一款swift实现的、具有亮度调节、音量调节、拖动快进、横竖屏切换以及竖屏时上下滑动切换视频的功能，代码封装在framework中，方便调用|2|2023-09-03|2023-09-03|
-|27|[yechong/flutter_wechat_login](https://github.com/yechong/flutter_wechat_login)|Flutter集成微信登录|2|2023-08-20|2023-08-19|
-|28|[CaryGo/BinaryTest](https://github.com/CaryGo/BinaryTest)|cocoapods-jxedt插件Demo|2|2023-08-23|2023-05-18|
-|29|[a51095/ScanHelper](https://github.com/a51095/ScanHelper)|二维码、条形码、等多种条码扫描组件，一行代码即可初始化使用。|2|2023-12-05|2023-05-06|
-|30|[shijia2118/speech_xf](https://github.com/shijia2118/speech_xf)|这是一个Flutter插件，用于讯飞语音识别，支持Android和IOS.|2|2023-12-25|2023-04-30|
-|31|[niyongsheng/NYSWS](https://github.com/niyongsheng/NYSWS)|ios开箱即用脚手架🍭|2|2024-01-26|2023-04-23|
+|18|[wukongyang/SVGAPlayer-rn](https://github.com/wukongyang/SVGAPlayer-rn)|react native 使用svga动画，支持android、ios|2|2023-12-13|2023-12-09|
+|19|[xiaopengLOVEcode/WeShare](https://github.com/xiaopengLOVEcode/WeShare)|一个传输工具|2|2023-12-26|2023-11-07|
+|20|[OuterCloud/TestAppForIOS](https://github.com/OuterCloud/TestAppForIOS)|该项目用来展示用例信息收集库的使用方法|2|2023-10-31|2023-10-30|
+|21|[zhongaiyemaozi/ReadCardInformation](https://github.com/zhongaiyemaozi/ReadCardInformation)|通过OpenCV读取身份证/社保卡信息|2|2023-11-10|2023-10-20|
+|22|[dgyiheda/YUniMPSDK](https://github.com/dgyiheda/YUniMPSDK)|uniapp小程序SDK|2|2023-11-28|2023-09-14|
+|23|[oceanengine/bda_signal_sdk](https://github.com/oceanengine/bda_signal_sdk)|激活SDK-iOS|2|2024-01-23|2023-09-12|
+|24|[sweetKnight/SWRequest](https://github.com/sweetKnight/SWRequest)|一个离散型的网络库|2|2023-09-11|2023-09-11|
+|25|[dosedo/BLVideoPlayer](https://github.com/dosedo/BLVideoPlayer)|BLVideoPlayer是一款swift实现的、具有亮度调节、音量调节、拖动快进、横竖屏切换以及竖屏时上下滑动切换视频的功能，代码封装在framework中，方便调用|2|2023-09-03|2023-09-03|
+|26|[yechong/flutter_wechat_login](https://github.com/yechong/flutter_wechat_login)|Flutter集成微信登录|2|2023-08-20|2023-08-19|
+|27|[CaryGo/BinaryTest](https://github.com/CaryGo/BinaryTest)|cocoapods-jxedt插件Demo|2|2023-08-23|2023-05-18|
+|28|[a51095/ScanHelper](https://github.com/a51095/ScanHelper)|二维码、条形码、等多种条码扫描组件，一行代码即可初始化使用。|2|2023-12-05|2023-05-06|
+|29|[shijia2118/speech_xf](https://github.com/shijia2118/speech_xf)|这是一个Flutter插件，用于讯飞语音识别，支持Android和IOS.|2|2023-12-25|2023-04-30|
+|30|[niyongsheng/NYSWS](https://github.com/niyongsheng/NYSWS)|ios开箱即用脚手架🍭|2|2024-01-26|2023-04-23|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

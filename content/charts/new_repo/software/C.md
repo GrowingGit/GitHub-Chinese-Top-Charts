@@ -1,37 +1,37 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > C
-<sub>数据更新: 2024-02-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lizongying/my-tv](https://github.com/lizongying/my-tv)|我的电视 电视直播软件，安装即可使用|16994|2024-02-14|2023-12-04|
-|2|[karpathy/llama2.c](https://github.com/karpathy/llama2.c)|Inference Llama 2 in one file of pure C|14213|2024-02-13|2023-07-23|
-|3|[hrvach/deskhop](https://github.com/hrvach/deskhop)|Fast Desktop Switching Device|5398|2024-02-15|2023-12-24|
-|4|[Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna)|Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca|4101|2023-12-21|2023-03-23|
+|1|[lizongying/my-tv](https://github.com/lizongying/my-tv)|我的电视 电视直播软件，安装即可使用|17260|2024-02-17|2023-12-04|
+|2|[karpathy/llama2.c](https://github.com/karpathy/llama2.c)|Inference Llama 2 in one file of pure C|14234|2024-02-13|2023-07-23|
+|3|[hrvach/deskhop](https://github.com/hrvach/deskhop)|Fast Desktop Switching Device|5411|2024-02-15|2023-12-24|
+|4|[Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna)|Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca|4102|2023-12-21|2023-03-23|
 |5|[CoretechR/OMOTE](https://github.com/CoretechR/OMOTE)|Open Source Remote Using ESP32 and LVGL|902|2024-02-15|2023-06-18|
-|6|[RQNG/WouoUI](https://github.com/RQNG/WouoUI)|模仿稚晖君MonoUI风格的超丝滑菜单，使用EC11旋转编码器控制。|674|2023-10-16|2023-04-02|
+|6|[RQNG/WouoUI](https://github.com/RQNG/WouoUI)|模仿稚晖君MonoUI风格的超丝滑菜单，使用EC11旋转编码器控制。|676|2023-10-16|2023-04-02|
 |7|[yeyupiaoling/Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune)|Fine-tune the Whisper speech recognition model to support training without timestamp data, training with timestamp data, and training without speech data. Accelerate inference and support Web deployme ...|544|2024-02-06|2023-04-22|
-|8|[yuandaimaahao/AndroidFrameworkTutorial](https://github.com/yuandaimaahao/AndroidFrameworkTutorial)|写给应用开发的 Android Framework 教程|468|2023-08-26|2023-04-09|
-|9|[wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly)|助力每一位RT队员，快速生成免杀木马|434|2023-08-26|2023-08-22|
+|8|[yuandaimaahao/AndroidFrameworkTutorial](https://github.com/yuandaimaahao/AndroidFrameworkTutorial)|写给应用开发的 Android Framework 教程|469|2023-08-26|2023-04-09|
+|9|[wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly)|助力每一位RT队员，快速生成免杀木马|435|2023-08-26|2023-08-22|
 |10|[huahua132/skynet_fly](https://github.com/huahua132/skynet_fly)|基于云风的skynet，搭建开箱即用的微服务框架，提供优雅的服务热更新|377|2024-02-09|2023-05-27|
 |11|[TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box)|A toolbox for deep learning model deployment using C++ YoloX   YoloV7   YoloV8   Gan   OCR   MobileVit   Scrfd   MobileSAM|341|2023-10-23|2023-03-16|
-|12|[elllusion/pinduoduo_backdoor_code](https://github.com/elllusion/pinduoduo_backdoor_code)|拼多多事件的脱壳后的部分代码|337|2023-10-18|2023-03-12|
+|12|[elllusion/pinduoduo_backdoor_code](https://github.com/elllusion/pinduoduo_backdoor_code)|拼多多事件的脱壳后的部分代码|338|2023-10-18|2023-03-12|
 |13|[leafqycc/rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading)|A simple demo of yolov5s running on rk3588/3588s using c++ (about 142 frames). / 一个使用c++在rk3588/3588s上运行的yolov5s简单demo(142帧/s)。|261|2023-12-08|2023-05-05|
-|14|[zhenruyan/WSL-libre-linux-kernel](https://github.com/zhenruyan/WSL-libre-linux-kernel)| Installing a 100% libre(free) linux kernel for wsl,It is possible to celebrate freedom within a cell. 给WSL替换自由内核!!!|221|2024-02-15|2023-07-04|
+|14|[zhenruyan/WSL-libre-linux-kernel](https://github.com/zhenruyan/WSL-libre-linux-kernel)| Installing a 100% libre(free) linux kernel for wsl,It is possible to celebrate freedom within a cell. 给WSL替换自由内核!!!|221|2024-02-17|2023-07-04|
 |15|[RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)|chsrc  全平台命令行换源工具|218|2024-01-19|2023-09-03|
-|16|[P001water/yuze](https://github.com/P001water/yuze)|A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式，支持跨平台使用|207|2024-01-31|2024-01-13|
+|16|[P001water/yuze](https://github.com/P001water/yuze)|A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式，支持跨平台使用|208|2024-01-31|2024-01-13|
 |17|[veo/nginx_shell](https://github.com/veo/nginx_shell)|nginx WebShell/内存马，更优雅的nignx backdoor|199|2024-01-04|2023-12-20|
 |18|[4ra1n/code-encryptor](https://github.com/4ra1n/code-encryptor)|使用JNI加密字节码，通过JVMTI解密字节码以保护代码，支持自定义包名和密钥，使用魔法禁止黑客dump字节码|133|2024-01-17|2023-09-06|
 |19|[diylxy/LiClock](https://github.com/diylxy/LiClock)|一种兼具易用性与扩展性的多功能墨水屏天气时钟|121|2024-01-17|2023-10-02|
-|20|[jialeicui/open-lx01](https://github.com/jialeicui/open-lx01)|小爱音箱mini定制固件   Let the Xiao Ai Speaker Mini free|111|2024-02-14|2024-01-23|
-|21|[cutechip/TableLampController](https://github.com/cutechip/TableLampController)|一个可以背单词的台灯控制器|106|2024-01-08|2023-11-12|
+|20|[jialeicui/open-lx01](https://github.com/jialeicui/open-lx01)|小爱音箱mini定制固件   Let the Xiao Ai Speaker Mini free|113|2024-02-17|2024-01-23|
+|21|[cutechip/TableLampController](https://github.com/cutechip/TableLampController)|一个可以背单词的台灯控制器|108|2024-01-08|2023-11-12|
 |22|[xuzeyu91/Avalonia-Assistant](https://github.com/xuzeyu91/Avalonia-Assistant)|基于.Net8+Avalonia+Semantic Kernel 打造一个桌面端的智能AI助理|81|2024-01-19|2024-01-08|
 |23|[onlyet/BetaVideoMonitorClient](https://github.com/onlyet/BetaVideoMonitorClient)|A video monitoring client based on Qt and FFmpeg.（基于Qt+FFmpeg的视频监控软件）|78|2023-10-08|2023-05-14|
 |24|[kindawindytoday/M](https://github.com/kindawindytoday/M)|new dynamically-loading tool for "园什“|70|2024-01-14|2023-04-14|
 |25|[paper-tei/smart_car](https://github.com/paper-tei/smart_car)|西南交通大学独轮组代码|67|2024-01-02|2023-07-25|
 |26|[cqu20160901/yolov8_rknn_Cplusplus](https://github.com/cqu20160901/yolov8_rknn_Cplusplus)|yolov8 瑞芯微 rknn 板端 C++部署。|64|2024-01-12|2023-06-09|
-|27|[cbwang505/unicorn-whpx](https://github.com/cbwang505/unicorn-whpx)|跨平台模拟执行unicorn框架基于Qemu的TCG模式(Tiny Code Generator),以无硬件虚拟化支持方式实现全系统的虚拟化,支持跨平台和架构的CPU指令模拟,本文讨论是一款笔者的实验性项目采用Windows Hypervisor Platform虚拟机模式提供了另一种CPU指令的模拟方式,在保持原有unicorn导出接口不变的情况下,采用Hyper-v支持带硬件虚拟化支持的Win ...|56|2023-12-17|2023-12-16|
+|27|[cbwang505/unicorn-whpx](https://github.com/cbwang505/unicorn-whpx)|跨平台模拟执行unicorn框架基于Qemu的TCG模式(Tiny Code Generator),以无硬件虚拟化支持方式实现全系统的虚拟化,支持跨平台和架构的CPU指令模拟,本文讨论是一款笔者的实验性项目采用Windows Hypervisor Platform虚拟机模式提供了另一种CPU指令的模拟方式,在保持原有unicorn导出接口不变的情况下,采用Hyper-v支持带硬件虚拟化支持的Win ...|58|2023-12-17|2023-12-16|
 |28|[openfros/fros](https://github.com/openfros/fros)|打造一款企业级路由器系统|50|2024-01-13|2023-05-29|
 |29|[WITMOTION/WitStandardProtocol_JY901](https://github.com/WITMOTION/WitStandardProtocol_JY901)|维特协议标准精度示例程序(c#)|50|2024-01-03|2023-03-31|
 |30|[WangXuan95/HEVC-image-encoder-lite](https://github.com/WangXuan95/HEVC-image-encoder-lite)|A lightweight H.265/HEVC intra-frame encoder for grayscale image compression, with only 1600 lines of C. 一个轻量级 H.265/HEVC 帧内编码器，用于进行灰度图像压缩。代码量仅为 1600 行 C 语言，易于理解。|44|2023-09-14|2023-02-19|
