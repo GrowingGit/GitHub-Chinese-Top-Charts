@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Assembly
-<sub>数据更新: 2024-02-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[dekrt/Reports](https://github.com/dekrt/Reports)|HUST SSE Courses Reports   华科软件学院课程报告|14|2024-02-09|2023-10-09|
 |2|[ZJUIntl-share/zjuintl-icicles](https://github.com/ZJUIntl-share/zjuintl-icicles)|浙大国际校区课程攻略共享计划|5|2024-01-20|2024-01-15|
-|3|[sishuikaki/assembly_study_lz](https://github.com/sishuikaki/assembly_study_lz)|李忠《x86汇编语言：从实模式到保护模式》第2版检测点以及章节习题|4|2023-08-24|2023-07-05|
+|3|[sishuikaki/assembly_study_lz](https://github.com/sishuikaki/assembly_study_lz)|李忠《x86汇编语言：从实模式到保护模式》第2版检测点以及章节习题|5|2023-08-24|2023-07-05|
 |4|[Flskying/2023_AT89C51](https://github.com/Flskying/2023_AT89C51)|2023年单片机学习记录|3|2023-12-13|2023-08-31|
 
 <div align="center">
