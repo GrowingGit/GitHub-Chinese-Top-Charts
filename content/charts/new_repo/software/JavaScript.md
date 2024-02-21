@@ -113,6 +113,7 @@
 |106|[easychen/api2d-js](https://github.com/easychen/api2d-js)|OpenAI/Api2d pure js sdk 无需node后端直接在浏览器中运行，支持SSE流式输出|85|2024-01-19|2023-03-15|
 |107|[sijiyo/projects](https://github.com/sijiyo/projects)|some_projects/一些项目(滑块无感...).京东/JD.云片/yunpian.极验/geetest.|84|2023-11-25|2023-07-21|
 |108|[657KB/scratch-off](https://github.com/657KB/scratch-off)|基于 Three.js 的 3D 刮刮乐|81|2023-11-02|2023-09-16|
+|109|[onela](https://github.com/zouwei/onela)|基于nodejs实现的轻量级跨多种SQL后端ORM框架，实现一套后端代码，无缝切换不同数据库运行程序，例如：一套后端代码可以同时在mysql，PostgreSQL、SQL Server等数据库无缝运行。|57|2024-02-21|2024-02-21|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
