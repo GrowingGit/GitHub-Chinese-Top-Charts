@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Swift
-<sub>数据更新: 2024-02-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -28,7 +28,7 @@
 |21|[Andy0570/RoadToSwift](https://github.com/Andy0570/RoadToSwift)|My Swift self-study tour 🤪 |13|0|2023-11-08|
 |22|[fatbobman/BlogCodes](https://github.com/fatbobman/BlogCodes)|【肘子的Swift笔记】博文中的代码汇总|68|0|2024-01-08|
 |23|[reers/ReerKit](https://github.com/reers/ReerKit)|Swift 基础库. A collection of Swift extensions and utilities.|12|0|2024-02-05|
-|24|[JmoVxia/CLDemo](https://github.com/JmoVxia/CLDemo)|记录平时博客中的Demo，持续更新|463|0|2024-02-19|
+|24|[JmoVxia/CLDemo](https://github.com/JmoVxia/CLDemo)|记录平时博客中的Demo，持续更新|463|0|2024-02-21|
 |25|[GarveyCalvin/SwiftUI-Tutorials](https://github.com/GarveyCalvin/SwiftUI-Tutorials)|SwiftUI教程-不定时更新|16|0|2023-10-16|
 |26|[aruis/BookTime](https://github.com/aruis/BookTime)|做一个安静的读书人|12|0|2024-01-05|
 |27|[rztime/QuicklySwift](https://github.com/rztime/QuicklySwift)|swift 提高UI编写效率，常用方法集合|9|0|2024-02-20|
