@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2024-02-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[Macin20/why-we-write](https://github.com/Macin20/why-we-write)|为什么写作？|336|2023-10-06|2023-09-07|
-|2|[huangwb8/ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX)|中国科研常用LaTeX模板集|71|2024-02-19|2024-02-12|
+|2|[huangwb8/ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX)|中国科研常用LaTeX模板集|91|2024-02-19|2024-02-12|
 |3|[yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)|线性代数：未竟之美|71|2024-02-21|2023-02-24|
 |4|[neumason/DLNU](https://github.com/neumason/DLNU)|大连民族大学研究生学位论文参考Latex和word模版，依据2023学校规范开发的相应Latex和word模板。|68|2023-11-02|2023-05-18|
 |5|[NemoYuan2008/SJTU-Thesis-Proposal](https://github.com/NemoYuan2008/SJTU-Thesis-Proposal)|上海交通大学开题报告LaTeX模板（非官方） Shanghai Jiao Tong University LaTeX Template for thesis proposal (unofficial)|43|2024-01-17|2023-12-03|
@@ -28,9 +28,8 @@
 |21|[wennboo/NSFC-concluding-report-latex](https://github.com/wennboo/NSFC-concluding-report-latex)|旨在帮助各位老师方便用latex完成基金结题报告的撰写。非官方模板，如若使用，后果自负！|3|2023-12-18|2023-10-31|
 |22|[wennboo/NSFC-application-report-latex](https://github.com/wennboo/NSFC-application-report-latex)|旨在帮助各位老师方便用latex完成国家自然科学基金的项目申请。非官方模板，如若使用，后果自负！！！|3|2023-12-18|2023-10-31|
 |23|[liyuxuan3003/DigitalIC](https://github.com/liyuxuan3003/DigitalIC)|数字集成电路LaTeX笔记|3|2023-11-06|2023-09-05|
-|24|[qiyuan-chen/ZJU-Beamer-Template](https://github.com/qiyuan-chen/ZJU-Beamer-Template)|一个更好看的浙江大学beamer模板|3|2023-08-23|2023-08-22|
-|25|[Tony-Lowe/CUMT-undergraduate-latex-template2023](https://github.com/Tony-Lowe/CUMT-undergraduate-latex-template2023)|此项目基于https://github.com/Lighter207/CUMT-undergraduate-latex-template2022|3|2023-12-26|2023-04-03|
-|26|[will-c137/TG_template](https://github.com/will-c137/TG_template)|实用的LaTeX模板|3|2023-10-06|2023-02-24|
+|24|[Tony-Lowe/CUMT-undergraduate-latex-template2023](https://github.com/Tony-Lowe/CUMT-undergraduate-latex-template2023)|此项目基于https://github.com/Lighter207/CUMT-undergraduate-latex-template2022|3|2023-12-26|2023-04-03|
+|25|[will-c137/TG_template](https://github.com/will-c137/TG_template)|实用的LaTeX模板|3|2023-10-06|2023-02-24|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

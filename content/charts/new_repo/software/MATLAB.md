@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-02-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,14 +9,14 @@
 |2|[Patrick9313/Voice-Eliminator](https://github.com/Patrick9313/Voice-Eliminator)|基于带阻滤波器消除一首歌曲中歌手的声音|42|2023-08-27|2023-08-27|
 |3|[Patrick9313/Knapsack-problem](https://github.com/Patrick9313/Knapsack-problem)|基于遗传算法解决具体的组合优化背包问题|31|2023-08-27|2023-08-27|
 |4|[Patrick9313/Sudoku](https://github.com/Patrick9313/Sudoku)|一个基于启发式搜索解决具体数独问题的MATLAB程序|30|2023-08-27|2023-08-27|
-|5|[czmgzsy/Computational-intelligence](https://github.com/czmgzsy/Computational-intelligence)|优化算法|13|2023-08-31|2023-08-20|
+|5|[czmgzsy/Computational-intelligence](https://github.com/czmgzsy/Computational-intelligence)|优化算法|14|2023-08-31|2023-08-20|
 |6|[xkm79/digitalImageProcessing-lmh-ver](https://github.com/xkm79/digitalImageProcessing-lmh-ver)|数字图像处理实验 MATLAB |12|2023-10-25|2023-10-24|
 |7|[NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate)|络石机械臂动力学相关算法以及仿真|12|2023-11-13|2023-07-19|
 |8|[LZH20001220/HuaweiCup2023](https://github.com/LZH20001220/HuaweiCup2023)|华为杯第二十届中国研究生数学建模竞赛|10|2023-12-04|2023-11-29|
 |9|[Xuerenbujianhua/3DPathplanning](https://github.com/Xuerenbujianhua/3DPathplanning)|基于栅格地图的无人机三维路径规划算法|10|2023-11-17|2023-11-17|
 |10|[realxmx/PIDwithBPNN](https://github.com/realxmx/PIDwithBPNN)|使用神经网络结合PID算法模拟温控系统|10|2023-09-18|2023-08-27|
 |11|[VG-TechCenter/Microgrid-Optimization-Dispatch-Model](https://github.com/VG-TechCenter/Microgrid-Optimization-Dispatch-Model)|微电网优化调度模型|8|2023-10-15|2023-10-15|
-|12|[breeef/HTAO-Toolkit](https://github.com/breeef/HTAO-Toolkit)|PTAS-TAHRC，Heterogeneous Task Allocation Optimization Toolkit for Mobile Edge Computing;异构移动边缘计算任务分配优化工具以车辆为主题实现。matlab|7|2023-09-01|2023-09-01|
+|12|[breeef/HTAO-Toolkit](https://github.com/breeef/HTAO-Toolkit)|PTAS-TAHRC，Heterogeneous Task Allocation Optimization Toolkit for Mobile Edge Computing;异构移动边缘计算任务分配优化工具以车辆为主题实现。matlab|8|2023-09-01|2023-09-01|
 |13|[Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset](https://github.com/Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset)|机械故障诊断公开数据集|6|2023-11-29|2023-11-29|
 |14|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|6|2023-12-04|2023-10-25|
 |15|[yehuixie/system_identification](https://github.com/yehuixie/system_identification)|系统辨识课程代码|6|2023-11-11|2023-10-05|
