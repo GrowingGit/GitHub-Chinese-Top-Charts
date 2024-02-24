@@ -1,48 +1,48 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > CSS
-<sub>数据更新: 2024-02-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[Qihoo360/WatchAD2.0](https://github.com/Qihoo360/WatchAD2.0)|WatchAD2.0是一款针对域威胁的日志分析与监控系统|312|2024-01-17|2023-07-12|
-|2|[YiNNx/typora-theme-lapis](https://github.com/YiNNx/typora-theme-lapis)|🖊️A clean Typora theme in blue tones|302|2024-02-11|2023-03-06|
+|2|[YiNNx/typora-theme-lapis](https://github.com/YiNNx/typora-theme-lapis)|🖊️A clean Typora theme in blue tones|303|2024-02-11|2023-03-06|
 |3|[wozulong/ChatGPTAuthHelper](https://github.com/wozulong/ChatGPTAuthHelper)|一个简单的Chrome插件，用来帮助你登录ChatGPT。|283|2023-11-30|2023-11-13|
 |4|[intro-llm/intro-llm.github.io](https://github.com/intro-llm/intro-llm.github.io)|website|277|2023-12-11|2023-06-16|
-|5|[transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control)|maintained fork of ronggang/transmission-web-control|265|2024-02-19|2023-04-23|
-|6|[hamster1963/HomeDash](https://github.com/hamster1963/HomeDash)|一个仪表盘|205|2024-02-22|2023-09-17|
+|5|[transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control)|maintained fork of ronggang/transmission-web-control|266|2024-02-19|2023-04-23|
+|6|[hamster1963/HomeDash](https://github.com/hamster1963/HomeDash)|一个仪表盘|205|2024-02-23|2023-09-17|
 |7|[hexo-theme-Acrylic/Hexo-Theme-Acrylic-Next](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic-Next)|下一代Acrylic何必是butterfly|187|2023-09-15|2023-02-25|
 |8|[HappySimple/Typora-theme-Happysimple](https://github.com/HappySimple/Typora-theme-Happysimple)|一款自制的Markdown主题！|174|2023-12-23|2023-07-20|
 |9|[yong-s/alms](https://github.com/yong-s/alms)|7X24小时在线要饭🍚系统，欢迎👏各位老板打赏，打赏一分也是爱|166|2023-11-19|2023-06-28|
-|10|[MUKAPP/LiteLoaderQQNT-MSpring-Theme](https://github.com/MUKAPP/LiteLoaderQQNT-MSpring-Theme)|LiteLoaderQQNT 主题，优雅 · 粉粉 · 细致|144|2024-02-22|2023-06-09|
+|10|[MUKAPP/LiteLoaderQQNT-MSpring-Theme](https://github.com/MUKAPP/LiteLoaderQQNT-MSpring-Theme)|LiteLoaderQQNT 主题，优雅 · 粉粉 · 细致|143|2024-02-22|2023-06-09|
 |11|[shuhongfan/sl-express](https://github.com/shuhongfan/sl-express)|神领物流 黑马 物流项目 神领物流系统类似顺丰速运，是向C端用户提供快递服务的系统。竞品有：顺丰、中通、圆通、京东快递等。 项目产品主要有4端产品：  - 用户端：基于微信小程序开发，外部客户使用，可以寄件、查询物流信息等。 - 快递员端：基于安卓开发的手机APP，公司内部的快递员使用，可以接收取派件任务等。 - 司机端：基于安卓开发的手机APP，公司内部的司机使用，可以接收运输任务、上报位置信息 ...|77|2023-10-04|2023-09-04|
 |12|[vnyoon/web-magic](https://github.com/vnyoon/web-magic)|这个repo通过实际案例来演示如何运用HTML、CSS和JavaScript创建各种互动性、独特性、动感酷炫和视觉效果。|74|2023-12-22|2023-08-29|
 |13|[Sight-wcg/layui-theme-dark](https://github.com/Sight-wcg/layui-theme-dark)|layui 暗色主题|74|2023-11-01|2023-03-20|
-|14|[OHUHO/portal](https://github.com/OHUHO/portal)|SpringBoot + Vue 实现的 企业宣传官网，门户网站|73|2023-12-27|2023-03-13|
+|14|[OHUHO/portal](https://github.com/OHUHO/portal)|SpringBoot + Vue 实现的 企业宣传官网，门户网站|74|2023-12-27|2023-03-13|
 |15|[Waite0603/Resume-vCard-Collection](https://github.com/Waite0603/Resume-vCard-Collection)|About Responsive Personal Portfolio Website Using HTML CSS and JavaScript with Light & Dark Theme Toggle, Web前端静态个人简历，网页个人简历模版，HTML&CSS制作个人简历, 个人作品集网站|70|2023-12-10|2023-09-30|
 |16|[UPay-USDT/USDT-Payment-Gateway](https://github.com/UPay-USDT/USDT-Payment-Gateway)|UPay - USDT Payment Gateway (USDT 收款支付网关)|63|2024-01-17|2024-01-12|
 |17|[ning0818/hexo-theme-ning](https://github.com/ning0818/hexo-theme-ning)|一款简洁的Hexo主题|63|2023-09-16|2023-07-21|
 |18|[xiaoxuan6/chatgpt-server](https://github.com/xiaoxuan6/chatgpt-server)|ChatGPT 在线免费网站|51|2024-02-18|2023-05-01|
 |19|[HSSkyBoy/DOL-CheatExtend](https://github.com/HSSkyBoy/DOL-CheatExtend)|DOL Cheta Extend 欲都孤儿作弊扩展|50|2023-12-10|2023-11-19|
 |20|[TopSea/Alive](https://github.com/TopSea/Alive)|Open source desk pet software that supports Live2d and MMD models.     支持 Live2d 和 MMD 模型的开源桌宠软件。|41|2024-02-21|2024-01-16|
-|21|[Meayair/Typecho-Theme-MeaWord](https://github.com/Meayair/Typecho-Theme-MeaWord)|一款体现文字美感的极简主题|39|2024-01-26|2023-12-22|
+|21|[Meayair/Typecho-Theme-MeaWord](https://github.com/Meayair/Typecho-Theme-MeaWord)|一款体现文字美感的极简主题|40|2024-01-26|2023-12-22|
 |22|[FE-Mars/bilibili-source](https://github.com/FE-Mars/bilibili-source)|上传B站视频的源码|37|2024-01-23|2023-09-10|
 |23|[gslnzfq/obsidian-proxy-server](https://github.com/gslnzfq/obsidian-proxy-server)|为了解决国内无法访问插件商店和主题商店的问题，我写了这个代理服务器，可以部署在netlify上运行。|35|2023-11-24|2023-04-26|
-|24|[festoney8/LiteLoaderQQNT-Telegram-Theme](https://github.com/festoney8/LiteLoaderQQNT-Telegram-Theme)|LiteLoaderQQNT 插件，高仿Telegram风格的QQ主题|34|2024-01-30|2023-07-05|
-|25|[forFudan/yuhao](https://github.com/forFudan/yuhao)|宇浩繁简通打输入法·全汉字覆盖·四重注解·臺灣字形支持|34|2024-01-28|2023-03-12|
-|26|[chris81605/Degrees-of-Lewdity_Cheat_Extended](https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended)|Degrees-of-Lewdity 作弊拓展MOD代碼|32|2024-01-15|2023-11-21|
+|24|[forFudan/yuhao](https://github.com/forFudan/yuhao)|宇浩繁简通打输入法·全汉字覆盖·四重注解·臺灣字形支持|35|2024-01-28|2023-03-12|
+|25|[festoney8/LiteLoaderQQNT-Telegram-Theme](https://github.com/festoney8/LiteLoaderQQNT-Telegram-Theme)|LiteLoaderQQNT 插件，高仿Telegram风格的QQ主题|34|2024-01-30|2023-07-05|
+|26|[chris81605/Degrees-of-Lewdity_Cheat_Extended](https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended)|Degrees-of-Lewdity 作弊拓展MOD代碼|33|2024-01-15|2023-11-21|
 |27|[GamerNoTitle/Valora](https://github.com/GamerNoTitle/Valora)|VLR (Valora) is a website that can help you check your VALORANT daily store/night market/accessory store without opening the game or downloading an APP   瓦罗兰特商店查询，无需安装任何软件即可帮助你查询每日商店、夜市和配件商店的网页|30|2024-02-13|2023-04-24|
 |28|[DuoSco/Hexo-theme-solitude](https://github.com/DuoSco/Hexo-theme-solitude)|一个优雅的Heo风格的Hexo主题，接近Heo，完整度高。|27|2023-11-28|2023-10-25|
 |29|[houlangs/Newlangs4](https://github.com/houlangs/Newlangs4)|全新二级域名程序，由厚浪开发|27|2024-02-19|2023-10-01|
-|30|[Thunderw01/SSPanel-Metrons](https://github.com/Thunderw01/SSPanel-Metrons)|SSPanel，SSPanel-Metrons主题，SSPanel主题， SSPanel Theme，基于 SSPanel-Metron深度优化主题|27|2023-09-24|2023-08-14|
-|31|[yhl452493373/frps-panel](https://github.com/yhl452493373/frps-panel)|frps-panel 是 https://github.com/fatedier/frp 的一个服务端插件，用于支持多用户鉴权，同时用于展示服务器信息。|26|2024-01-12|2023-08-30|
-|32|[0000cd/character-prompts](https://github.com/0000cd/character-prompts)|ChatGPT 交个AI虚拟朋友（CP）吧 👥|25|2023-12-24|2023-03-11|
-|33|[mryqr-com/mry-frontend](https://github.com/mryqr-com/mry-frontend)|本代码库为码如云前端代码。码如云是一个基于二维码的一物一码管理平台，可以为每一件“物品”生成一个二维码，手机扫码即可查看物品信息并发起相关业务操作，操作内容可由你自己定义，典型的应用场景包括固定资产管理、设备巡检以及物品标签等。在技术上，码如云是一个无代码平台，全程采用DDD、整洁架构和事件驱动架构思想完成开发。|24|2024-02-20|2023-06-06|
-|34|[TRHX/SpiderBox](https://github.com/TRHX/SpiderBox)|SpiderBox - 虫盒 - 爬虫逆向资源导航站|23|2024-01-07|2023-08-12|
-|35|[GamerNoTitle/CraftMon](https://github.com/GamerNoTitle/CraftMon)|A website that help you get Minecraft server status   一个用于显示Minecraft服务器在线信息及其他内容的网站|23|2023-09-28|2023-06-18|
+|30|[yhl452493373/frps-panel](https://github.com/yhl452493373/frps-panel)|frps-panel 是 https://github.com/fatedier/frp 的一个服务端插件，用于支持多用户鉴权，同时用于展示服务器信息。|27|2024-01-12|2023-08-30|
+|31|[Thunderw01/SSPanel-Metrons](https://github.com/Thunderw01/SSPanel-Metrons)|SSPanel，SSPanel-Metrons主题，SSPanel主题， SSPanel Theme，基于 SSPanel-Metron深度优化主题|27|2023-09-24|2023-08-14|
+|32|[mryqr-com/mry-frontend](https://github.com/mryqr-com/mry-frontend)|本代码库为码如云前端代码。码如云是一个基于二维码的一物一码管理平台，可以为每一件“物品”生成一个二维码，手机扫码即可查看物品信息并发起相关业务操作，操作内容可由你自己定义，典型的应用场景包括固定资产管理、设备巡检以及物品标签等。在技术上，码如云是一个无代码平台，全程采用DDD、整洁架构和事件驱动架构思想完成开发。|25|2024-02-20|2023-06-06|
+|33|[0000cd/character-prompts](https://github.com/0000cd/character-prompts)|ChatGPT 交个AI虚拟朋友（CP）吧 👥|25|2023-12-24|2023-03-11|
+|34|[GamerNoTitle/CraftMon](https://github.com/GamerNoTitle/CraftMon)|A website that help you get Minecraft server status   一个用于显示Minecraft服务器在线信息及其他内容的网站|24|2023-09-28|2023-06-18|
+|35|[TRHX/SpiderBox](https://github.com/TRHX/SpiderBox)|SpiderBox - 虫盒 - 爬虫逆向资源导航站|23|2024-02-23|2023-08-12|
 |36|[th8664484/spring-boot-onlyOffice](https://github.com/th8664484/spring-boot-onlyOffice)|springboot集成onlyOffice的实现。在参考网络上的资料结合自身实际情况总结，让集成oo方便快捷。 封装了oo服务的API和统一了配置。|21|2023-11-15|2023-08-06|
 |37|[codingroam/websocket-webrtc-chat](https://github.com/codingroam/websocket-webrtc-chat)|音视频通话，仿微信、QQ，利用springboot+websocket+webrtc-bootstrap5+H5+JQuery3.3实现，可自适应PC端和移动端，实现聊天功能和视频通话功能等|20|2023-12-13|2023-09-11|
-|38|[cgfeel/next.v2](https://github.com/cgfeel/next.v2)|按照NextJS英文官方文档，按照章节最小化复现|20|2023-12-12|2023-07-12|
+|38|[cgfeel/next.v2](https://github.com/cgfeel/next.v2)|按照NextJS英文官方文档，按照章节最小化复现|20|2024-02-23|2023-07-12|
 |39|[sumruler/typora-theme-phycat](https://github.com/sumruler/typora-theme-phycat)|物理猫Typora主题|19|2024-02-09|2023-12-29|
 |40|[maid-cat/PixelPlurk.css](https://github.com/maid-cat/PixelPlurk.css)|像素風格噗浪佈景|19|2024-02-08|2023-04-13|
 |41|[vhhgx/fontiny](https://github.com/vhhgx/fontiny)|一个基于fontmin的字体压缩工具|16|2023-11-09|2023-09-26|
@@ -55,7 +55,7 @@
 |48|[DuktigZhou/FirefoxCustomCSSConfig](https://github.com/DuktigZhou/FirefoxCustomCSSConfig)|使用 userChrome.css 对 Firefox 进行高度自定义的主题|13|2024-02-19|2024-02-18|
 |49|[slippersheepig/bard-web](https://github.com/slippersheepig/bard-web)|使用谷歌Bard接口，实现简单HTML网页版在线聊天（支持连续对话及会话隔离）|13|2023-09-04|2023-04-03|
 |50|[akkva/WhiteSur-firefox-theme-monterey](https://github.com/akkva/WhiteSur-firefox-theme-monterey)|果味🦊皮...|11|2024-02-22|2024-01-12|
-|51|[Monkfishare/Calibre](https://github.com/Monkfishare/Calibre)|The Economist epub/pdf 经济学人，周四晚12:00自动更新|11|2024-02-22|2024-01-01|
+|51|[Monkfishare/Calibre](https://github.com/Monkfishare/Calibre)|The Economist epub/pdf 经济学人，周四晚12:00自动更新|11|2024-02-23|2024-01-01|
 |52|[YuLin-Coder/No35CampusBookDonationManagementSystem](https://github.com/YuLin-Coder/No35CampusBookDonationManagementSystem)|基于ssm的校园图书捐赠管理系统：SSM（Spring+SpringMVC+MyBatis）框架写的一个图书捐赠管理系统，包括用户端和管理员端。前端模板框架使用的是ace-admin，数据库使用MySQL。该系统虽然分了两个用户角色（用户端/管理员端），但是业务逻辑非常简单，还是比较适合学习SSM的同学们。|11|2023-12-13|2023-11-30|
 |53|[YuLin-Coder/No42StudentInformationManagementSystem4](https://github.com/YuLin-Coder/No42StudentInformationManagementSystem4)|基于ssm的学生信息管理系统：前端jsp、jquery、easyUI，后端 spring、mybatis，集成学生信息管理、班级管理、年级管理等功能于一体的系统。|10|2023-12-03|2023-12-03|
 |54|[FlyingRadish/palworld-server-helper](https://github.com/FlyingRadish/palworld-server-helper)|Go+Vue3的帕鲁世界服务器助手，服务器状态监测+内存超阈值广播倒计时重启+广播+RCON透传|9|2024-01-31|2024-01-29|
