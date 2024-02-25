@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > CSS
-<sub>数据更新: 2024-02-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)|Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!|4975|14|2023-09-17|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|18360|7|2024-02-04|
+|1|[thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)|Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!|4979|14|2023-09-17|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|18364|7|2024-02-04|
 |3|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20970|6|2024-01-01|
 |4|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5286|2|2024-01-25|
-|5|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8931|2|2024-02-22|
-|6|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4772|2|2024-01-18|
-|7|[QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks)|Some CSS tricks - 一些 CSS 常用样式|3923|2|2023-12-05|
+|5|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8932|2|2024-02-22|
+|6|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4773|2|2024-01-18|
+|7|[QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks)|Some CSS tricks - 一些 CSS 常用样式|3925|2|2023-12-05|
 |8|[lin-xin/blog](https://github.com/lin-xin/blog)|林鑫的个人博客，用于总结平时工作和学习中的经验。|1763|1|2024-01-20|
 |9|[henson/blog](https://github.com/henson/blog)|个人博客，专注于Golang、Python、树莓派Raspberry Pi的开发和应用。|6|0|2023-10-26|
-|10|[LychApe/DreamCat](https://github.com/LychApe/DreamCat)|DreamCat 是一个极简自适应博客主题,年轻人追梦良品!|273|0|2024-02-23|
+|10|[LychApe/DreamCat](https://github.com/LychApe/DreamCat)|DreamCat 是一个极简自适应博客主题,年轻人追梦良品!|273|0|2024-02-24|
 |11|[MR-Addict/Doc-Share](https://github.com/MR-Addict/Doc-Share)|南京工业大学校大学生科协技术部电子组培训学习文档|16|0|2024-02-14|
 |12|[achuanya/achuanya.github.io](https://github.com/achuanya/achuanya.github.io)|Hi，欢迎来到游钓四方的博客|6|0|2024-01-23|
 |13|[yanchunlan/SourceCodeSummary](https://github.com/yanchunlan/SourceCodeSummary)|个人笔记（编译/性能优化/framework/音视频/flutter）|23|0|2023-11-03|
-|14|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|168|0|2023-12-14|
+|14|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|167|0|2023-12-14|
 |15|[Hiroki-Sawada-y/Hiroki_Study](https://github.com/Hiroki-Sawada-y/Hiroki_Study)|个人学习笔记 obsidian|7|0|2023-12-05|
 |16|[StarDustSheep/pink-room](https://github.com/StarDustSheep/pink-room)|一款思源笔记白天使用的粉色系主题|18|0|2024-02-09|
 |17|[malun666/aicoder_vip_doc](https://github.com/malun666/aicoder_vip_doc)|AICODER全栈VIP教程|63|0|2023-10-02|
@@ -27,22 +27,22 @@
 |20|[BioMooc/txtBlog.py](https://github.com/BioMooc/txtBlog.py)|[知识管理]A simple yet powerful blog system for reading and organizing txt/markdown/html files, based on Python3 flask framework.|7|0|2023-09-09|
 |21|[YSGStudyHards/EasySQLite](https://github.com/YSGStudyHards/EasySQLite)|七天.NET 8操作SQLite入门到实战详细教程|7|0|2023-11-27|
 |22|[fscdc/NKU-CS-FSC](https://github.com/fscdc/NKU-CS-FSC)|NKU CS的基本所有课程code和report(更新中)|17|0|2023-10-31|
-|23|[Dreamer-Paul/Hingle](https://github.com/Dreamer-Paul/Hingle)|🎈 一个简洁大气，含夜间模式的 Hexo 博客主题|55|0|2024-02-09|
+|23|[Dreamer-Paul/Hingle](https://github.com/Dreamer-Paul/Hingle)|🎈 一个简洁大气，含夜间模式的 Hexo 博客主题|56|0|2024-02-09|
 |24|[aihes/QuickContext](https://github.com/aihes/QuickContext)|使用智能右键优化您的网页浏览体验。从右键菜单中即时翻译单词、获取情境解释，并执行自定义操作。|6|0|2023-09-03|
 |25|[apachecn/quant-learning](https://github.com/apachecn/quant-learning)|:books: Quant 教程整理|285|0|2024-01-12|
 |26|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite 💡|123|0|2024-02-21|
 |27|[zhuamaodeyu/knowledge](https://github.com/zhuamaodeyu/knowledge)|程序员的知识管理与自我修养，个人博客，源码解析，问题总结 https://zhuamaodeyu.github.io/knowledge/|15|0|2023-09-17|
 |28|[intro-nlp/intro-nlp.github.io](https://github.com/intro-nlp/intro-nlp.github.io)|《自然语言处理概论》  张奇、桂韬、黄萱菁著|102|0|2023-09-10|
 |29|[ruanyf/survivor](https://github.com/ruanyf/survivor)|博客文集《未来世界的幸存者》|328|0|2023-09-05|
-|30|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|0|2024-02-23|
+|30|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|0|2024-02-24|
 |31|[zino-rs/zino-docs-zh](https://github.com/zino-rs/zino-docs-zh)|Zino开发框架中文教程|6|0|2023-12-29|
 |32|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|328|0|2023-12-23|
 |33|[InterImm/InterImmBook](https://github.com/InterImm/InterImmBook)|:seedling: The Book of Interplanetary Civilization;星际移民之书. |199|0|2023-10-15|
 |34|[phpple/caddy2-cn-doc](https://github.com/phpple/caddy2-cn-doc)|Caddy 2的中文文档|117|0|2024-02-20|
 |35|[WaterCalm/LinuxServerInChinese](https://github.com/WaterCalm/LinuxServerInChinese)|翻译LinuxServer.io文档为中文的gitbook|11|0|2024-02-21|
 |36|[StarfireLab/phishing](https://github.com/StarfireLab/phishing)|这是一个钓鱼网页，仅供学习参考。|7|0|2023-09-21|
-|37|[jhao104/django-blog](https://github.com/jhao104/django-blog)|django搭建博客|421|0|2024-02-07|
-|38|[GiaoGiaoCat/GiaoGiaoCat.github.io](https://github.com/GiaoGiaoCat/GiaoGiaoCat.github.io)|一点笔记|7|0|2023-11-22|
+|37|[jhao104/django-blog](https://github.com/jhao104/django-blog)|django搭建博客|420|0|2024-02-07|
+|38|[GiaoGiaoCat/GiaoGiaoCat.github.io](https://github.com/GiaoGiaoCat/GiaoGiaoCat.github.io)|一点笔记|7|0|2024-02-06|
 |39|[Shelton786/NOIRNOAH-TranslatedintoChinese](https://github.com/Shelton786/NOIRNOAH-TranslatedintoChinese)|游戏：《NOIR：NOAH》简体中文汉化，由罗布恩农场汉化组汉化，转载请经过许可并标明出处！|15|0|2023-11-24|
 |40|[aalmiray/java-champions](https://github.com/aalmiray/java-champions)|A list of Java Champions|326|0|2024-02-06|
 |41|[piginzoo/finance-toolbox](https://github.com/piginzoo/finance-toolbox)|我的投资电子书|22|0|2023-12-29|
@@ -62,9 +62,9 @@
 |55|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主打解析编码器内部逻辑和参数说明，从基础到全网没人讲的算法，没人画的图解，没人做的排版整理全都在此集齐；因此叫Ultimate Tutorial|106|0|2024-01-30|
 |56|[s5s5/CSS-Animations](https://github.com/s5s5/CSS-Animations)|一些在项目中学习、使用CSS的动画心得。与大家一起探讨CSS动画的What How Why。|137|0|2023-09-26|
 |57|[Zh40Le1ZOOB/YaoNiangDeTianKong-Fix](https://github.com/Zh40Le1ZOOB/YaoNiangDeTianKong-Fix)|《药娘的天空》精修版|32|0|2023-12-19|
-|58|[leopardpan/leopardpan.github.io](https://github.com/leopardpan/leopardpan.github.io)|个人博客，看效果进入|1337|0|2023-09-06|
-|59|[liu75675231/article-crawler](https://github.com/liu75675231/article-crawler)|文章爬虫，会每天都爬取一些有价值的官方文档的博客文章，以便于能得到第一手的更新，教程等信息|9|0|2024-02-23|
-|60|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|374|0|2024-02-23|
+|58|[leopardpan/leopardpan.github.io](https://github.com/leopardpan/leopardpan.github.io)|个人博客，看效果进入|1336|0|2023-09-06|
+|59|[liu75675231/article-crawler](https://github.com/liu75675231/article-crawler)|文章爬虫，会每天都爬取一些有价值的官方文档的博客文章，以便于能得到第一手的更新，教程等信息|9|0|2024-02-24|
+|60|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|374|0|2024-02-24|
 |61|[aeon20071/PolarDayImage_Blog](https://github.com/aeon20071/PolarDayImage_Blog)|这是一个基于HTML5的静态网页博客，该项目是网页前端设计课程大学作业。This is a static webpage blog based on HTML 5, which is a university assignment for the Web Front-end Design course.|7|0|2023-08-27|
 |62|[meethigher/hexo-theme-starry](https://github.com/meethigher/hexo-theme-starry)|已被官方收录的hexo主题-Starry，采用ejs跟less开发。技术限制，目前还有很多优化未实现，学习ing。基于很多大佬开源的插件，感谢！|24|0|2024-02-06|
 |63|[tiddly-gittly/TiddlyWiki-Easy-Guide-And-TiddlyMemo-Edition](https://github.com/tiddly-gittly/TiddlyWiki-Easy-Guide-And-TiddlyMemo-Edition)|TiddlyWiki简易教程与墨屉钓鱼版|19|0|2023-09-03|
@@ -76,7 +76,7 @@
 |69|[choyy/Timeline-SY](https://github.com/choyy/Timeline-SY)|思源笔记时间线挂件|16|0|2023-12-14|
 |70|[KawaiiZapic/Present](https://github.com/KawaiiZapic/Present)|一个简洁的个人主页,支持显示博客文章.|81|0|2024-02-14|
 |71|[xjq7/awesome-study](https://github.com/xjq7/awesome-study)|Awesome 网址、资源、工具、学习指南等收集库|12|0|2023-10-09|
-|72|[zhheo/Wechat-Official-Account-Web](https://github.com/zhheo/Wechat-Official-Account-Web)|微信公众号的关注界面|39|0|2023-12-22|
+|72|[zhheo/Wechat-Official-Account-Web](https://github.com/zhheo/Wechat-Official-Account-Web)|微信公众号的关注界面|40|0|2023-12-22|
 |73|[chai2010/mdbook-go](https://github.com/chai2010/mdbook-go)|mdBook: Go语言迷你版本|6|0|2023-10-13|
 
 <div align="center">

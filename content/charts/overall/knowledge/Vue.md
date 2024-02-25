@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Vue
-<sub>数据更新: 2024-02-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[liyupi/codefather](https://github.com/liyupi/codefather)|程序员鱼皮的编程宝典。原创编程学习路线，包括经验分享、技术知识、学习资源、学习建议、项目等，适用于所有学习编程 & 求职的同学。已完成 Java、前端|4905|2024-02-20|
-|2|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|4747|2023-09-01|
-|3|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|4029|2024-02-12|
+|1|[liyupi/codefather](https://github.com/liyupi/codefather)|程序员鱼皮的编程宝典。原创编程学习路线，包括经验分享、技术知识、学习资源、学习建议、项目等，适用于所有学习编程 & 求职的同学。已完成 Java、前端|4909|2024-02-20|
+|2|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|4748|2023-09-01|
+|3|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|4030|2024-02-12|
 |4|[inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|3319|2023-10-01|
 |5|[202252197/ChatGPT_JCM](https://github.com/202252197/ChatGPT_JCM)|OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。|2848|2024-01-29|
-|6|[wanglin2/mind-map](https://github.com/wanglin2/mind-map)|一个还算强大的Web思维导图。A relatively powerful web mind map.|2726|2024-02-23|
+|6|[wanglin2/mind-map](https://github.com/wanglin2/mind-map)|一个还算强大的Web思维导图。A relatively powerful web mind map.|2727|2024-02-23|
 |7|[ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss)|:orange_book: 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、iCSS前端趣闻、字节前端、前端精读评论、前端食堂、前端从进阶到入院、淘系前端团队、张鑫旭博客、前端里、凹凸实验室|2156|2024-02-23|
 |8|[vant-ui/vant-demo](https://github.com/vant-ui/vant-demo)|Collection of vant demos.|1888|2024-02-14|
 |9|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|1100|2024-02-23|
@@ -20,7 +20,7 @@
 |13|[yeyan1996/file-upload](https://github.com/yeyan1996/file-upload)|A guide about how to upload large file (using plain javascript for frondend and backend)|665|2023-09-28|
 |14|[wejectchen/Ginblog](https://github.com/wejectchen/Ginblog)|gin+vue+MySQL全栈制作一个博客|538|2024-01-27|
 |15|[FXLP/MarkTool](https://github.com/FXLP/MarkTool)|DoTAT 是一款基于web、面向领域的通用文本标注工具，支持大规模实体标注、关系标注、事件标注、文本分类、基于字典匹配和正则匹配的自动标注以及用于实现归一化的标准名标注，同时也支持迭代标注、嵌套实体标注和嵌套事件标注。标注规范可自定义且同类型任务中可“一次创建多次复用”。通过分级实体集合扩大了实体类型的规模，并设计了全新高效的标注方式，提升了用户体验和标注效率。此外，本工具增加了审核环节，可对多 ...|523|2023-11-10|
-|16|[hepengwei/visualization-collection-vue](https://github.com/hepengwei/visualization-collection-vue)|🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（Vue版本）|460|2024-01-29|
+|16|[hepengwei/visualization-collection-vue](https://github.com/hepengwei/visualization-collection-vue)|🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（Vue版本）|462|2024-01-29|
 |17|[wangrongding/frontend-park](https://github.com/wangrongding/frontend-park)|🌸这是一个有趣的前端趣味知识公园~该项目是我平时捣鼓前端相关技术的一些案例集合。【涵盖：（Tensorflow.js-姿态识别，人脸识别），(WebRTC-音视频通话，录屏，虚拟背景，信令服务器)，（Threejs-太阳系，3D 动画），（图片处理-千图成像，图片压缩，画板），（隐写术-文本隐写加密，图片隐写加密）等等...】|460|2023-12-06|
 |18|[zyronon/typing-word](https://github.com/zyronon/typing-word)|Memorizing words   Learn English   Typing words   背单词   学习英语   练习文章|428|2024-01-17|
 |19|[xiaou61/mydocs](https://github.com/xiaou61/mydocs)|个人博客,里面包含java，Vue，Spring,数据结构，爬虫,JVM,Springboot,react,javascript等内容的整理|427|2024-02-08|
@@ -30,17 +30,17 @@
 |23|[Aimee1608/myblogvue](https://github.com/Aimee1608/myblogvue)|个人博客——vue 已更新详见2.0版本|288|2024-01-18|
 |24|[laorange/paper-assistant](https://github.com/laorange/paper-assistant)|论文工具：文本复制工具 (智能删除空行空格乱码) |281|2024-01-24|
 |25|[JDArmy/BREAK](https://github.com/JDArmy/BREAK)|业务风险枚举与规避知识框架（Business Risk Enumeration & Avoidance Kownledge）|243|2024-02-02|
-|26|[ATQQ/sugar-blog](https://github.com/ATQQ/sugar-blog)|✍️📚我写博客的地方🤪🤪🤪记录随笔与学习笔记，仓库包含：博客内容，博客主题、博客模板、vitepress离线全文搜索插件、VitePress RSS 支持插件；a blog theme use vitepress|199|2024-02-22|
-|27|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的Vue前端|188|2024-02-20|
+|26|[ATQQ/sugar-blog](https://github.com/ATQQ/sugar-blog)|✍️📚我写博客的地方🤪🤪🤪记录随笔与学习笔记，仓库包含：博客内容，博客主题、博客模板、vitepress离线全文搜索插件、VitePress RSS 支持插件；a blog theme use vitepress|201|2024-02-24|
+|27|[LightNovelShelf/Web](https://github.com/LightNovelShelf/Web)|轻书架的Vue前端|188|2024-02-24|
 |28|[Adicwu/masami](https://github.com/Adicwu/masami)|A PC-side animation video website for learning and personal use only|139|2023-11-23|
 |29|[MrWeilian/iceWebGL](https://github.com/MrWeilian/iceWebGL)|🧊 WebGL上车指南，带你从零开始体系化学习 WebGL。|136|2024-01-14|
-|30|[mixmoe/HikariSearch](https://github.com/mixmoe/HikariSearch)|一款动漫图片搜索引擎聚合网站, 基于 Cloudflare 提供的 Pages Function. / A collection of anime image search engines, based on Cloudflare Pages Function.|122|2023-10-08|
+|30|[mixmoe/HikariSearch](https://github.com/mixmoe/HikariSearch)|一款动漫图片搜索引擎聚合网站, 基于 Cloudflare 提供的 Pages Function. / A collection of anime image search engines, based on Cloudflare Pages Function.|123|2023-10-08|
 |31|[cumt-robin/vue3-ts-blog-frontend](https://github.com/cumt-robin/vue3-ts-blog-frontend)|基于 vue3 + ts + ant-design-vue 的个人博客|120|2023-11-30|
-|32|[daidr/douLog](https://github.com/daidr/douLog)|戴兜的博客（施工中）|116|2024-02-23|
-|33|[rymcu/nebula](https://github.com/rymcu/nebula)|nebula(星云)——一款现代化的知识社区前台项目，使用 Vue + NuxtJS + Element-UI 实现|102|2024-02-23|
+|32|[daidr/douLog](https://github.com/daidr/douLog)|戴兜的博客（施工中）|117|2024-02-23|
+|33|[rymcu/nebula](https://github.com/rymcu/nebula)|nebula(星云)——一款现代化的知识社区前台项目，使用 Vue + NuxtJS + Element-UI 实现|103|2024-02-23|
 |34|[XHXJ/json-GPT-translator](https://github.com/XHXJ/json-GPT-translator)|GPT-Translator 是一款前后端分离基于 OpenAI 的高效翻译软件。这个工具可以读取 JSON 和 Excel(zip) 文件，然后进行行翻译，并输出结果。|91|2024-01-26|
 |35|[fre123-com/fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)|FRE123 信息流项目，包含：全网热榜、技术热榜、技术文章、技术周刊等|87|2023-12-27|
-|36|[flaribbit/vitepress-theme-sakura](https://github.com/flaribbit/vitepress-theme-sakura)|A lovely blog theme for vitepress. 可爱又轻量的二次元博客主题！大概是隔壁 wordpress sakura 主题的移植吧|85|2024-02-06|
+|36|[flaribbit/vitepress-theme-sakura](https://github.com/flaribbit/vitepress-theme-sakura)|A lovely blog theme for vitepress. 可爱又轻量的二次元博客主题！大概是隔壁 wordpress sakura 主题的移植吧|86|2024-02-06|
 |37|[BuptStEve/blog](https://github.com/BuptStEve/blog)|✍️ StEve Young 的个人博客|83|2024-02-22|
 |38|[SunQQQ/SunQBlog-AdminSide](https://github.com/SunQQQ/SunQBlog-AdminSide)|孙权的个人博客 管理端|82|2023-09-18|
 |39|[shuosc/shu-scheduling-helper](https://github.com/shuosc/shu-scheduling-helper)|A web-based timetabler helping SHUers filter and preselect courses easily. SHU排课助手. 上海大学排课助手.|72|2023-11-24|
@@ -58,15 +58,15 @@
 |51|[huiyadanli/gugu-portal](https://github.com/huiyadanli/gugu-portal)|一个简洁的无后端静态导航站点（个人书签页）|40|2023-11-16|
 |52|[opensource-f2f/website](https://github.com/opensource-f2f/website)|《开源面对面》官网|40|2023-12-11|
 |53|[LightAPIs/free-export-bookmarks](https://github.com/LightAPIs/free-export-bookmarks)|Freely bookmark export tool. 自由地书签导出工具。|40|2023-10-02|
-|54|[nice-people-frontend-community/nice-leetcode](https://github.com/nice-people-frontend-community/nice-leetcode)|好青年    leetcode 打卡群|39|2024-02-23|
+|54|[nice-people-frontend-community/nice-leetcode](https://github.com/nice-people-frontend-community/nice-leetcode)|好青年    leetcode 打卡群|39|2024-02-24|
 |55|[pdsuwwz/hoc-element-table](https://github.com/pdsuwwz/hoc-element-table)|📦  基于 Vue3 + Webpack5 + Element Plus Table 二次构建表格组件，开箱即用 A Vue 3.x Table Component built on Webpack 5 该组件库可供学习、参考和用于二次开发|36|2024-02-23|
 |56|[open17/vuepress-theme-easy-book](https://github.com/open17/vuepress-theme-easy-book)|一款美观,知识库向的vuepress主题🌠|35|2024-01-31|
 |57|[WqhForGitHub/W-qh-blog](https://github.com/WqhForGitHub/W-qh-blog)|基于Vue搭建自己的博客|35|2024-01-12|
 |58|[l-zhicong/blog-vue](https://github.com/l-zhicong/blog-vue)|博客前端|32|2023-09-15|
 |59|[lflxp/gin-xterm](https://github.com/lflxp/gin-xterm)|基于xterm.js + gin + vue + websocket 的gotty web网页版实现，目的学习关键技术|32|2023-11-10|
 |60|[zce/vuejs-3-examples](https://github.com/zce/vuejs-3-examples)|Some examples of Vue.js 3.0.|28|2023-11-25|
-|61|[galaxy-s10/vue3-blog-admin](https://github.com/galaxy-s10/vue3-blog-admin)|基于Vue3 + Webpack5 + Typescript 搭建的博客后台|27|2024-02-11|
-|62|[Lionad-Morotar/blog](https://github.com/Lionad-Morotar/blog)|仿生狮子的个人博客，写点代码以及，胡说八道|27|2024-02-23|
+|61|[Lionad-Morotar/blog](https://github.com/Lionad-Morotar/blog)|仿生狮子的个人博客，写点代码以及，胡说八道|28|2024-02-23|
+|62|[galaxy-s10/vue3-blog-admin](https://github.com/galaxy-s10/vue3-blog-admin)|基于Vue3 + Webpack5 + Typescript 搭建的博客后台|27|2024-02-11|
 |63|[lurenha/MyBlogVue](https://github.com/lurenha/MyBlogVue)|我的个人博客，Vue后台搭建|26|2023-11-10|
 |64|[zhenquan321/vuePress-Blog](https://github.com/zhenquan321/vuePress-Blog)|🔥大前端进阶之道：前端性能优化，前端经典面试题，node面试题，webpack性能优化|26|2023-12-12|
 |65|[lgd8981289/imooc-visualization](https://github.com/lgd8981289/imooc-visualization)|https://www.bilibili.com/video/BV1yu411E7cm/?vd_source=391a8dc379e0da60c77490e3221f097a  课程源码|25|2023-09-08|
@@ -116,7 +116,7 @@
 |109|[wangcham/firstimpression](https://github.com/wangcham/firstimpression)|这是我完成的第一个网站，学习vue和flask的开始。代码结构混乱，可读性极差，等待重构|7|2023-09-10|
 |110|[PolarWS/Riceroll](https://github.com/PolarWS/Riceroll)|这是一个基于VUE和SSM的博客框架|7|2023-12-24|
 |111|[zhoubichuan/web-openlayers](https://github.com/zhoubichuan/web-openlayers)|📖openlayer相关知识的总结--持续更新💪|7|2024-02-07|
-|112|[ybz61/my-trip](https://github.com/ybz61/my-trip)|仿美团民宿；技术栈主要为Vue3+Vite4+Pinia+Vant3等；适合学习Vue3入门等；|6|2024-02-23|
+|112|[ybz61/my-trip](https://github.com/ybz61/my-trip)|仿美团民宿；技术栈主要为Vue3+Vite4+Pinia+Vant3等；适合学习Vue3入门等；|6|2024-02-24|
 |113|[X-X-X-X-X-X-X-X-X-X-X-X-X/Bookmark](https://github.com/X-X-X-X-X-X-X-X-X-X-X-X-X/Bookmark)|Edge书签插件，让书签变得再次好用（理论上chrome也可用）|5|2024-01-05|
 |114|[iDigitalWings/shuyi-chatui-demo](https://github.com/iDigitalWings/shuyi-chatui-demo)|微信公众号 数翼《万物皆可 LLM》UI demo|5|2023-09-05|
 |115|[zhanglinchao1/DVRC-Heterogeneous-Internet-of-Vehicles-based-on-reputation-consensus-and-federated-learning](https://github.com/zhanglinchao1/DVRC-Heterogeneous-Internet-of-Vehicles-based-on-reputation-consensus-and-federated-learning)|基于信誉共识和联邦学习的异构车联网交通预测与规划|5|2023-09-04|

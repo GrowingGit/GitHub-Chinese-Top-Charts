@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2024-02-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -35,7 +35,7 @@
 |28|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |42|0|2024-01-21|
 |29|[wu-yc/scMetabolism](https://github.com/wu-yc/scMetabolism)|Quantifying metabolism activity at the single-cell resolution|75|0|2024-02-08|
 |30|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|156|0|2023-09-14|
-|31|[quanteda/readtext](https://github.com/quanteda/readtext)|an R package for reading text files|113|0|2024-02-23|
+|31|[quanteda/readtext](https://github.com/quanteda/readtext)|an R package for reading text files|114|0|2024-02-23|
 |32|[evanliu3594/GenshinArtifactFarming](https://github.com/evanliu3594/GenshinArtifactFarming)|原神圣遗物狗粮路线规划装置   Planning tools for customizing your Artifact Farming Route in Genshin Impact|5|0|2023-12-27|
 |33|[davidycliao/legisTaiwan](https://github.com/davidycliao/legisTaiwan)|legisTaiwan: An Interface to Access Taiwan Legislative API in R 台灣立法院國會系統 API |22|0|2023-10-31|
 |34|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|71|0|2024-02-08|
@@ -46,7 +46,7 @@
 |39|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|43|0|2024-01-29|
 |40|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit|31|0|2023-10-01|
 |41|[allenlu2008/RDemo](https://github.com/allenlu2008/RDemo)|虾神的R语言Demo|35|0|2023-09-05|
-|42|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|0|2024-02-23|
+|42|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|0|2024-02-24|
 |43|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|72|0|2024-01-02|
 |44|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008).|130|0|2023-09-27|
 |45|[Otoliths/SP2000](https://github.com/Otoliths/SP2000)|🐟Catalogue of Life toolkit for R|12|0|2023-11-29|
@@ -54,7 +54,7 @@
 |47|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|991|0|2024-02-19|
 |48|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|📦 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|142|0|2023-10-01|
 |49|[cjgeyer/foo](https://github.com/cjgeyer/foo)|A demo for a class|34|0|2024-01-23|
-|50|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|127|0|2024-01-03|
+|50|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|128|0|2024-01-03|
 |51|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|14|0|2024-02-15|
 |52|[zumbov2/deeplr](https://github.com/zumbov2/deeplr)|An R wrapper for the DeepL Translator API|34|0|2023-11-03|
 |53|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|14|0|2024-01-29|

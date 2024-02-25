@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > C
-<sub>数据更新: 2024-02-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)|eBPF Developer Tutorial: Learning eBPF Step by Step with Examples|1762|4|2024-02-22|
-|2|[cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide)|A bare metal programming guide (ARM microcontrollers)|2344|4|2024-02-19|
-|3|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|7419|3|2023-11-13|
+|1|[eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)|eBPF Developer Tutorial: Learning eBPF Step by Step with Examples|1764|4|2024-02-22|
+|2|[cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide)|A bare metal programming guide (ARM microcontrollers)|2347|4|2024-02-19|
+|3|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|7421|3|2023-11-13|
 |4|[xufuji456/FFmpegAndroid](https://github.com/xufuji456/FFmpegAndroid)|FFmpeg实现视频裁剪、水印、转码、编解码、转Gif动图；FFmpeg本地推流、H264与RTMP实时推流直播；OpenGL滤镜特效，视频拍摄。音视频学习路线，音视频知识总结、流媒体协议|4638|2|2024-01-11|
-|5|[Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot)|Open source materials for a novel structured legged robot, including mechanical design, electronic design, algorithm simulation, and software development.       一个新型结构的轮腿机器人开源资料，包含机械设计、电子设计、算法仿真、软件开发等 ...|517|2|2023-11-23|
+|5|[Skythinker616/foc-wheel-legged-robot](https://github.com/Skythinker616/foc-wheel-legged-robot)|Open source materials for a novel structured legged robot, including mechanical design, electronic design, algorithm simulation, and software development.       一个新型结构的轮腿机器人开源资料，包含机械设计、电子设计、算法仿真、软件开发等 ...|518|2|2023-11-23|
 |6|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|682|1|2024-02-01|
 |7|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|2148|1|2024-02-04|
-|8|[Push3AX/GrabAccess](https://github.com/Push3AX/GrabAccess)|Bookit / Windows Login Password and Bitlocker Bypass Tool|278|1|2023-11-19|
+|8|[Push3AX/GrabAccess](https://github.com/Push3AX/GrabAccess)|Bookit / Windows Login Password and Bitlocker Bypass Tool|279|1|2023-11-19|
 |9|[parallel101/opengltutor](https://github.com/parallel101/opengltutor)|零基础入门计算机图形学必不可少的在线网络公开课，手把手教您现代 OpenGL 的点点滴滴，构建爆款游戏引擎。|212|1|2024-01-21|
-|10|[AlexFanw/HUSTER-CS](https://github.com/AlexFanw/HUSTER-CS)|华中科技大学 计算机科学与技术学院 学习资料💯 以及 实验资料💾|941|1|2023-12-13|
+|10|[AlexFanw/HUSTER-CS](https://github.com/AlexFanw/HUSTER-CS)|华中科技大学 计算机科学与技术学院 学习资料💯 以及 实验资料💾|942|1|2023-12-13|
 |11|[wuxx/nanoDAP](https://github.com/wuxx/nanoDAP)|建议大家star此仓库，仓库会持续更新。由于部分淘宝卖家“借鉴”实验室出品的nanoDAP详情描述和资料，请大家认准实验室官方链接|1039|1|2024-02-16|
-|12|[HITSZ-OpenCS/HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|1329|1|2024-01-26|
+|12|[HITSZ-OpenCS/HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS)|哈尔滨工业大学（深圳）计算机专业课程攻略   Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)|1330|1|2024-01-26|
 |13|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|1232|1|2023-11-21|
 |14|[zfl9/chinadns-ng](https://github.com/zfl9/chinadns-ng)|chinadns 重构增强版，支持黑白名单，ipset/nftset|886|1|2024-02-23|
 |15|[akerdi/buildyourowndatabase](https://github.com/akerdi/buildyourowndatabase)|从0使用C制作B+树数据库: 基于cstack开源教程Let's Build a Simple Database中文浓缩翻译及学习过程|28|0|2023-09-18|
@@ -25,7 +25,7 @@
 |18|[FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit)|iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结|835|0|2024-02-23|
 |19|[maswx/vu13p](https://github.com/maswx/vu13p)|国产VU13P加速卡资料|35|0|2023-12-09|
 |20|[strongercjd/STM32F207VCT6](https://github.com/strongercjd/STM32F207VCT6)|STM32F207VCT6 learning resource |94|0|2024-02-01|
-|21|[jaywcjlove/c-tutorial](https://github.com/jaywcjlove/c-tutorial)|C语言教程|67|0|2023-11-29|
+|21|[jaywcjlove/c-tutorial](https://github.com/jaywcjlove/c-tutorial)|C语言教程|68|0|2023-11-29|
 |22|[smd1121/zju-course](https://github.com/smd1121/zju-course)|ZJU 信安19 课程资料|45|0|2023-11-14|
 |23|[yedushusheng/cloudcomputing-lecture](https://github.com/yedushusheng/cloudcomputing-lecture)|云计算学习笔记|33|0|2023-09-23|
 |24|[lkml-likexu/kde](https://github.com/lkml-likexu/kde)|记录我的内核成长贡献之路。IMO, fork or clone this repo would be very stupid.  If you have any questions, just send me an email.|187|0|2024-02-06|
@@ -42,9 +42,9 @@
 |35|[HilbertRonAnju/XJTU_Electrical_Engineering_and_Automation](https://github.com/HilbertRonAnju/XJTU_Electrical_Engineering_and_Automation)|本项目为西安交通大学电气工程及其自动化专业课程资料。我是西安交通大学电气工程及其自动化专业18级学生，专业方向电气工程（发电），本项目包含我从大一到大四的所搜集整理的课程资料以及实验资料，包括但不限于往年题，实验代码以及实验报告，复习提纲，课后习题答案等。希望该项目在学业上对学弟学妹有所帮助，记得留下star。|100|0|2023-12-21|
 |36|[gongluck/CVIP](https://github.com/gongluck/CVIP)|C/C++/Golang/Linux...知识整理|87|0|2024-02-01|
 |37|[Radiance-nt/xjtu_homework](https://github.com/Radiance-nt/xjtu_homework)|西安交通大学2019级计算机与科学技术专业，包含了一些我修过的课程（不限于本专业课程），希望能帮助到大家。|25|0|2024-01-03|
-|38|[LearningOS/os-lectures](https://github.com/LearningOS/os-lectures)|2023年春季OS课程Slides|529|0|2024-02-21|
+|38|[LearningOS/os-lectures](https://github.com/LearningOS/os-lectures)|2023年春季OS课程Slides|529|0|2024-02-24|
 |39|[yssickjgd/robowalker_train](https://github.com/yssickjgd/robowalker_train)|中国科大RoboMaster电控培训系列代码|38|0|2023-12-14|
-|40|[vrolife/modern_laptop](https://github.com/vrolife/modern_laptop)|Redmi Book Pro 14/15 2022 锐龙版/Ryzen Linux 键盘驱动/keyboard driver|213|0|2023-11-25|
+|40|[vrolife/modern_laptop](https://github.com/vrolife/modern_laptop)|Redmi Book Pro 14/15 2022 锐龙版/Ryzen Linux 键盘驱动/keyboard driver|214|0|2023-11-25|
 |41|[jiegeng321/Creative-Mini-Car-Modification](https://github.com/jiegeng321/Creative-Mini-Car-Modification)|持续更新，欢迎star，保姆级改装教程：|54|0|2024-01-24|
 |42|[yocn/AndroidMediaCodec](https://github.com/yocn/AndroidMediaCodec)|Android 音视频处理集合，关联了ffmpeg\libyuv等等库|117|0|2023-11-08|
 |43|[adiwzx/freenode](https://github.com/adiwzx/freenode)|V2Ray   Clash 免费节点分享|300|0|2023-10-22|
@@ -55,11 +55,11 @@
 |48|[feiskyer/ebpf-apps](https://github.com/feiskyer/ebpf-apps)|极客时间专栏《eBPF 核心技术与实战》案例|274|0|2023-10-29|
 |49|[ultraji/linux-0.12](https://github.com/ultraji/linux-0.12)|《Linux内核完全剖析》linux0.12源码及实验环境|430|0|2023-10-29|
 |50|[JackeyLea/Wayland_Freshman](https://github.com/JackeyLea/Wayland_Freshman)|食铁兽Wayland开发入门系列附属代码|45|0|2023-12-14|
-|51|[alejoseb/Modbus-STM32-HAL-FreeRTOS](https://github.com/alejoseb/Modbus-STM32-HAL-FreeRTOS)|Modbus TCP and  RTU,  Master and Slave for STM32 using Cube HAL and FreeRTOS|419|0|2024-02-17|
+|51|[alejoseb/Modbus-STM32-HAL-FreeRTOS](https://github.com/alejoseb/Modbus-STM32-HAL-FreeRTOS)|Modbus TCP and  RTU,  Master and Slave for STM32 using Cube HAL and FreeRTOS|420|0|2024-02-17|
 |52|[RicheyJang/RJFireWall](https://github.com/RicheyJang/RJFireWall)|一个基于Netfilter、Netlink的Linux传输层状态检测防火墙，支持NAT，仅用于学习与交流（华中科技大学2021学年网络安全课程设计项目）|35|0|2023-10-30|
 |53|[r0ysue/FridaAndrioidNativeBeginnersBook](https://github.com/r0ysue/FridaAndrioidNativeBeginnersBook)|《安卓Frida SO逆向分析实战》|49|0|2023-10-22|
 |54|[horo2016/easyMQOS](https://github.com/horo2016/easyMQOS)|轮式移动机器人简单的分布式开发框架教程|27|0|2024-01-05|
-|55|[Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)|LILYGO LoRa Series examples|532|0|2024-01-30|
+|55|[Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)|LILYGO LoRa Series examples|533|0|2024-01-30|
 |56|[kuangyufei/kernel_liteos_a_note](https://github.com/kuangyufei/kernel_liteos_a_note)|精读鸿蒙内核源码,百万汉字注解分析;百篇博客深入解剖,挖透内核地基工程.注解同步官方,工具文档齐全,多站点发布 . weharmonyos.com|290|0|2024-02-04|
 |57|[qaiu/c4droid-code](https://github.com/qaiu/c4droid-code)|C4droid代码实例 C/C++代码实例/教程|123|0|2023-09-07|
 |58|[Spacial/awesome-csirt](https://github.com/Spacial/awesome-csirt)|Awesome CSIRT is an curated list of links and resources in security and CSIRT daily activities.|382|0|2024-01-04|
