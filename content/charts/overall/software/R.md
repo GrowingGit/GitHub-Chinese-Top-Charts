@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2024-02-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -9,17 +9,17 @@
 |2|[BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)|Color palette package in R inspired by works at the Metropolitan Museum of Art in New York|1021|2023-09-30|
 |3|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|991|2024-02-19|
 |4|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|589|2024-02-05|
-|5|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|492|2024-02-20|
+|5|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|492|2024-02-25|
 |6|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|444|2024-02-23|
 |7|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|272|2023-12-12|
 |8|[wilkox/treemapify](https://github.com/wilkox/treemapify)|🌳 Draw treemaps in ggplot2|207|2023-10-17|
 |9|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|195|2023-11-23|
-|10|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|159|2024-02-18|
+|10|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|160|2024-02-18|
 |11|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|156|2023-09-14|
-|12|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|2024-02-24|
+|12|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|2024-02-25|
 |13|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|📦 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|142|2023-10-01|
 |14|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|141|2024-01-31|
-|15|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008).|130|2023-09-27|
+|15|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008).|131|2023-09-27|
 |16|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|128|2024-01-03|
 |17|[quanteda/readtext](https://github.com/quanteda/readtext)|an R package for reading text files|114|2024-02-23|
 |18|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|94|2024-01-13|
@@ -27,7 +27,7 @@
 |20|[wu-yc/scMetabolism](https://github.com/wu-yc/scMetabolism)|Quantifying metabolism activity at the single-cell resolution|75|2024-02-08|
 |21|[ykang/gratis](https://github.com/ykang/gratis)|GRATIS: GeneRAting TIme Series with diverse and controllable characteristics|75|2023-08-29|
 |22|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|72|2024-01-02|
-|23|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|71|2024-02-08|
+|23|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|72|2024-02-08|
 |24|[eco-hydro/phenofit](https://github.com/eco-hydro/phenofit)|R package: A state-of-the-art Vegetation Phenology extraction package, phenofit|66|2024-01-23|
 |25|[Wytamma/GISAIDR](https://github.com/Wytamma/GISAIDR)|Programmatically interact with the GISAID database.|61|2024-02-01|
 |26|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|58|2024-02-19|
@@ -38,14 +38,14 @@
 |31|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |42|2024-01-21|
 |32|[mlampros/textTinyR](https://github.com/mlampros/textTinyR)|Text Processing for Small or Big Data Files in R|38|2023-12-05|
 |33|[allenlu2008/RDemo](https://github.com/allenlu2008/RDemo)|虾神的R语言Demo|35|2023-09-05|
-|34|[zumbov2/deeplr](https://github.com/zumbov2/deeplr)|An R wrapper for the DeepL Translator API|34|2023-11-03|
-|35|[cjgeyer/foo](https://github.com/cjgeyer/foo)|A demo for a class|34|2024-01-23|
+|34|[cjgeyer/foo](https://github.com/cjgeyer/foo)|A demo for a class|35|2024-01-23|
+|35|[zumbov2/deeplr](https://github.com/zumbov2/deeplr)|An R wrapper for the DeepL Translator API|34|2023-11-03|
 |36|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit|31|2023-10-01|
 |37|[gee-hydro/gee_whittaker_kong2019_validation](https://github.com/gee-hydro/gee_whittaker_kong2019_validation)|Non-parametric weighted Whittaker smoothing|31|2023-09-17|
 |38|[gesistsa/sweater](https://github.com/gesistsa/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|27|2023-11-10|
 |39|[MatthewSmith430/CompaniesHouse](https://github.com/MatthewSmith430/CompaniesHouse)|This package allows to extract data from the Companies House API and create interlocking directorates networks|25|2024-01-19|
 |40|[ropensci/restez](https://github.com/ropensci/restez)|:sleeping: :open_file_folder: Create and Query a Local Copy of GenBank in R|24|2023-10-25|
-|41|[davidycliao/legisTaiwan](https://github.com/davidycliao/legisTaiwan)|legisTaiwan: An Interface to Access Taiwan Legislative API in R 台灣立法院國會系統 API |22|2023-10-31|
+|41|[davidycliao/legisTaiwan](https://github.com/davidycliao/legisTaiwan)|legisTaiwan: An Interface to Access Taiwan Legislative API in R 台灣立法院國會系統 API |22|2024-02-25|
 |42|[fragla/eq5d](https://github.com/fragla/eq5d)|-|19|2024-02-16|
 |43|[IshidaMotohiro/TextMining](https://github.com/IshidaMotohiro/TextMining)|-|18|2023-11-02|
 |44|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|18|2024-02-16|
