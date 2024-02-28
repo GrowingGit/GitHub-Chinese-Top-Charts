@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Vim script
-<sub>数据更新: 2024-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20086|2024-02-19|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8507|2024-01-25|
+|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20087|2024-02-19|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8511|2024-01-25|
 |3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4891|2023-11-16|
 |4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1800|2024-02-24|
 |5|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1728|2023-10-06|
-|6|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1652|2024-02-22|
-|7|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1456|2023-11-14|
-|8|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|892|2024-02-26|
+|6|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1653|2024-02-22|
+|7|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1459|2023-11-14|
+|8|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|892|2024-02-27|
 |9|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|882|2023-09-26|
 |10|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|862|2023-12-11|
 |11|[mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)|A vim 7.4+ plugin to generate table of contents for Markdown files.|588|2023-12-13|
@@ -30,9 +30,9 @@
 |23|[anzhihe/Efficient-office](https://github.com/anzhihe/Efficient-office)|Alfred-Workflows，Vim，Script，Mac|51|2024-02-20|
 |24|[qiqiboy/q-vim](https://github.com/qiqiboy/q-vim)|my vim config. 来自一个前端开发码农的vim配置方案|33|2023-11-27|
 |25|[Fechin/oh-my-vim](https://github.com/Fechin/oh-my-vim)|vim 私人配置|27|2024-01-31|
-|26|[lemon0910/lemon-vim](https://github.com/lemon0910/lemon-vim)|lemon's config for vim and neovim.|23|2023-12-14|
-|27|[Genki-S/dotfiles](https://github.com/Genki-S/dotfiles)|My lovely settings.|23|2024-01-20|
-|28|[yyzwz/s023](https://github.com/yyzwz/s023)|基于Vue+SpringBoot+MySQL的海南旅游推荐系统，基于协同推荐算法，包括用户网页和管理后台，包含景点类型模块、旅游景点模块、行程推荐模块、美食推荐模块、景点排名模块，还包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，天然气工程运维系统基于角色的访问控制，给景点管理员、游客使用，可将权限精确到按钮级别。|21|2023-09-07|
+|26|[yyzwz/s023](https://github.com/yyzwz/s023)|基于Vue+SpringBoot+MySQL的海南旅游推荐系统，基于协同推荐算法，包括用户网页和管理后台，包含景点类型模块、旅游景点模块、行程推荐模块、美食推荐模块、景点排名模块，还包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，天然气工程运维系统基于角色的访问控制，给景点管理员、游客使用，可将权限精确到按钮级别。|25|2023-09-07|
+|27|[lemon0910/lemon-vim](https://github.com/lemon0910/lemon-vim)|lemon's config for vim and neovim.|23|2023-12-14|
+|28|[Genki-S/dotfiles](https://github.com/Genki-S/dotfiles)|My lovely settings.|23|2024-01-20|
 |29|[modood/vimrc](https://github.com/modood/vimrc)|A shell script to deploy my vim configuration|20|2023-11-07|
 |30|[Karmenzind/vim-tmuxlike](https://github.com/Karmenzind/vim-tmuxlike)|A vim plugin that mimics the actions of tmux. Control buffers and tabs like tmux panes.|19|2023-12-02|
 |31|[gou4shi1/.vim](https://github.com/gou4shi1/.vim)|My Vim|15|2024-02-16|

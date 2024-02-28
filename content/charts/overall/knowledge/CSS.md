@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > CSS
-<sub>数据更新: 2024-02-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-02-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20971|2024-01-01|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|18371|2024-02-04|
+|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20972|2024-01-01|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|18376|2024-02-04|
 |3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8934|2024-02-22|
-|4|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5290|2024-01-25|
+|4|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5292|2024-01-25|
 |5|[thinkingjimmy/Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt)|Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!|4984|2023-09-17|
-|6|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4776|2024-01-18|
-|7|[QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks)|Some CSS tricks - 一些 CSS 常用样式|3925|2023-12-05|
+|6|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4777|2024-01-18|
+|7|[QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks)|Some CSS tricks - 一些 CSS 常用样式|3928|2023-12-05|
 |8|[lin-xin/blog](https://github.com/lin-xin/blog)|林鑫的个人博客，用于总结平时工作和学习中的经验。|1762|2024-01-20|
 |9|[leopardpan/leopardpan.github.io](https://github.com/leopardpan/leopardpan.github.io)|个人博客，看效果进入|1336|2023-09-06|
-|10|[wizardforcel/lcthw-zh](https://github.com/wizardforcel/lcthw-zh)|:book: 【译】笨办法学C|801|2023-10-31|
+|10|[wizardforcel/lcthw-zh](https://github.com/wizardforcel/lcthw-zh)|:book: 【译】笨办法学C|802|2023-10-31|
 |11|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|684|2024-02-09|
 |12|[jhao104/django-blog](https://github.com/jhao104/django-blog)|django搭建博客|420|2024-02-07|
-|13|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|374|2024-02-26|
+|13|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|374|2024-02-27|
 |14|[themagicalmammal/howtolinux](https://github.com/themagicalmammal/howtolinux)|A Webpage with tips, tricks and guides for Linux. (with Algolia Search)|345|2023-10-19|
-|15|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|328|2023-12-23|
+|15|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|329|2023-12-23|
 |16|[ruanyf/survivor](https://github.com/ruanyf/survivor)|博客文集《未来世界的幸存者》|328|2023-09-05|
 |17|[aalmiray/java-champions](https://github.com/aalmiray/java-champions)|A list of Java Champions|326|2024-02-26|
 |18|[apachecn/quant-learning](https://github.com/apachecn/quant-learning)|:books: Quant 教程整理|285|2024-01-12|
@@ -28,17 +28,17 @@
 |21|[cyddgh/obsidian-chinese-help](https://github.com/cyddgh/obsidian-chinese-help)|本文档是本人关于obsidian软件使用的心得汇总，用于obsidian群（QQ群号：774176839）的分享。|179|2023-09-15|
 |22|[MwumLi/book-refactoring2](https://github.com/MwumLi/book-refactoring2)|《重构 改善既有代码的设计第二版》中文版|170|2023-09-15|
 |23|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|168|2023-12-14|
-|24|[s5s5/CSS-Animations](https://github.com/s5s5/CSS-Animations)|一些在项目中学习、使用CSS的动画心得。与大家一起探讨CSS动画的What How Why。|137|2023-09-26|
+|24|[s5s5/CSS-Animations](https://github.com/s5s5/CSS-Animations)|一些在项目中学习、使用CSS的动画心得。与大家一起探讨CSS动画的What How Why。|136|2023-09-26|
 |25|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite 💡|123|2024-02-21|
 |26|[phpple/caddy2-cn-doc](https://github.com/phpple/caddy2-cn-doc)|Caddy 2的中文文档|117|2024-02-20|
-|27|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主打解析编码器内部逻辑和参数说明，从基础到全网没人讲的算法，没人画的图解，没人做的排版整理全都在此集齐；因此叫Ultimate Tutorial|107|2024-01-30|
+|27|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主打解析编码器内部逻辑和参数说明，从基础到全网没人讲的算法，没人画的图解，没人做的排版整理全都在此集齐；因此叫Ultimate Tutorial|108|2024-01-30|
 |28|[intro-nlp/intro-nlp.github.io](https://github.com/intro-nlp/intro-nlp.github.io)|《自然语言处理概论》  张奇、桂韬、黄萱菁著|103|2023-09-10|
 |29|[hangbale/photography-blog](https://github.com/hangbale/photography-blog)|photography blog generator - 摄影类静态博客生成器|91|2023-12-24|
 |30|[KawaiiZapic/Present](https://github.com/KawaiiZapic/Present)|一个简洁的个人主页,支持显示博客文章.|81|2024-02-14|
 |31|[malun666/aicoder_vip_doc](https://github.com/malun666/aicoder_vip_doc)|AICODER全栈VIP教程|63|2023-10-02|
-|32|[Anyway-FM/Anyway.Tab](https://github.com/Anyway-FM/Anyway.Tab)|把 Anyway.FM 官网《安妮薇看看》里的链接链接推荐显示在 Chrome 新建 Tab 上，同时推送新番的提醒|59|2023-11-16|
-|33|[Hlaohei/ckjdygc](https://github.com/Hlaohei/ckjdygc)|创客界的一根葱 代码分享|57|2023-12-09|
-|34|[Dreamer-Paul/Hingle](https://github.com/Dreamer-Paul/Hingle)|🎈 一个简洁大气，含夜间模式的 Hexo 博客主题|56|2024-02-09|
+|32|[Dreamer-Paul/Hingle](https://github.com/Dreamer-Paul/Hingle)|🎈 一个简洁大气，含夜间模式的 Hexo 博客主题|59|2024-02-09|
+|33|[Anyway-FM/Anyway.Tab](https://github.com/Anyway-FM/Anyway.Tab)|把 Anyway.FM 官网《安妮薇看看》里的链接链接推荐显示在 Chrome 新建 Tab 上，同时推送新番的提醒|59|2024-02-27|
+|34|[Hlaohei/ckjdygc](https://github.com/Hlaohei/ckjdygc)|创客界的一根葱 代码分享|57|2023-12-09|
 |35|[Theo-messi/Streaming-Media-Forest](https://github.com/Theo-messi/Streaming-Media-Forest)|流媒体森林 - 全方位流媒体 观影指南 引领您进入五彩斑斓的视听世界，并涵盖了 Netflix 、Disney+ 、Spotify会员 和 YouTube会员 的精彩领域|42|2023-11-26|
 |36|[zhheo/Wechat-Official-Account-Web](https://github.com/zhheo/Wechat-Official-Account-Web)|微信公众号的关注界面|40|2023-12-22|
 |37|[88825/wereadx](https://github.com/88825/wereadx)|微信读书辅助工具，可用于书籍下载及自动阅读、自动兑换体验卡等|34|2023-12-25|
@@ -61,19 +61,19 @@
 |54|[Fridolph/my-program](https://github.com/Fridolph/my-program)|作品和demo集，若你喜欢麻烦star+fork ...0(∩_∩)0... 仅供参考学习分享交流，谢谢|12|2024-01-15|
 |55|[nexmoe/bilidx](https://github.com/nexmoe/bilidx)|📕 哔哩哔哩大学，收集哔哩哔哩的学习资源|11|2023-10-15|
 |56|[WaterCalm/LinuxServerInChinese](https://github.com/WaterCalm/LinuxServerInChinese)|翻译LinuxServer.io文档为中文的gitbook|11|2024-02-21|
-|57|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|2024-02-26|
+|57|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|2024-02-27|
 |58|[rootsongjc/rpi-handbook](https://github.com/rootsongjc/rpi-handbook)|Raspberry Pi Handbook/树莓派实践手册 - https://jimmysong.io/rpi-handbook|10|2023-10-10|
-|59|[liu75675231/article-crawler](https://github.com/liu75675231/article-crawler)|文章爬虫，会每天都爬取一些有价值的官方文档的博客文章，以便于能得到第一手的更新，教程等信息|9|2024-02-25|
-|60|[SEC-CAFE/handbook](https://github.com/SEC-CAFE/handbook)|安全手册，企业安全实践、攻防与安全研究知识库|8|2023-12-25|
+|59|[liu75675231/article-crawler](https://github.com/liu75675231/article-crawler)|文章爬虫，会每天都爬取一些有价值的官方文档的博客文章，以便于能得到第一手的更新，教程等信息|9|2024-02-27|
+|60|[SEC-CAFE/handbook](https://github.com/SEC-CAFE/handbook)|安全手册，企业安全实践、攻防与安全研究知识库|8|2024-02-27|
 |61|[hefengbao/one](https://github.com/hefengbao/one)|一个简洁的博客、微博客。|8|2024-01-22|
 |62|[YSGStudyHards/EasySQLite](https://github.com/YSGStudyHards/EasySQLite)|七天.NET 8操作SQLite入门到实战详细教程|7|2023-11-27|
 |63|[StarfireLab/phishing](https://github.com/StarfireLab/phishing)|这是一个钓鱼网页，仅供学习参考。|7|2023-09-21|
 |64|[Hiroki-Sawada-y/Hiroki_Study](https://github.com/Hiroki-Sawada-y/Hiroki_Study)|个人学习笔记 obsidian|7|2023-12-05|
-|65|[BioMooc/txtBlog.py](https://github.com/BioMooc/txtBlog.py)|[知识管理]A simple yet powerful blog system for reading and organizing txt/markdown/html files, based on Python3 flask framework.|7|2023-09-09|
-|66|[GiaoGiaoCat/GiaoGiaoCat.github.io](https://github.com/GiaoGiaoCat/GiaoGiaoCat.github.io)|一点笔记|7|2024-02-06|
-|67|[chai2010/mdbook-go](https://github.com/chai2010/mdbook-go)|mdBook: Go语言迷你版本|6|2023-10-13|
-|68|[aihes/QuickContext](https://github.com/aihes/QuickContext)|使用智能右键优化您的网页浏览体验。从右键菜单中即时翻译单词、获取情境解释，并执行自定义操作。|6|2023-09-03|
-|69|[zino-rs/zino-docs-zh](https://github.com/zino-rs/zino-docs-zh)|Zino开发框架中文教程|6|2023-12-29|
+|65|[zino-rs/zino-docs-zh](https://github.com/zino-rs/zino-docs-zh)|Zino开发框架中文教程|7|2024-02-27|
+|66|[BioMooc/txtBlog.py](https://github.com/BioMooc/txtBlog.py)|[知识管理]A simple yet powerful blog system for reading and organizing txt/markdown/html files, based on Python3 flask framework.|7|2023-09-09|
+|67|[GiaoGiaoCat/GiaoGiaoCat.github.io](https://github.com/GiaoGiaoCat/GiaoGiaoCat.github.io)|一点笔记|7|2024-02-06|
+|68|[chai2010/mdbook-go](https://github.com/chai2010/mdbook-go)|mdBook: Go语言迷你版本|6|2023-10-13|
+|69|[aihes/QuickContext](https://github.com/aihes/QuickContext)|使用智能右键优化您的网页浏览体验。从右键菜单中即时翻译单词、获取情境解释，并执行自定义操作。|6|2023-09-03|
 |70|[RQYOU/Hazy-Moonlight](https://github.com/RQYOU/Hazy-Moonlight)|A theme for SiYuan. 一款清爽的思源笔记主题。|6|2023-12-17|
 |71|[achuanya/achuanya.github.io](https://github.com/achuanya/achuanya.github.io)|Hi，欢迎来到游钓四方的博客|6|2024-01-23|
 |72|[henson/blog](https://github.com/henson/blog)|个人博客，专注于Golang、Python、树莓派Raspberry Pi的开发和应用。|6|2023-10-26|
