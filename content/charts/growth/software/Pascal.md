@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2024-03-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -12,20 +12,20 @@
 |5|[digao-dalpiaz/Dam](https://github.com/digao-dalpiaz/Dam)|Delphi and Lazarus Message Dialogs with Formatted Text|120|0|2024-02-23|
 |6|[xenli/OneDelphi](https://github.com/xenli/OneDelphi)|OneDelphi是叫兽(FLM)QQ:378464060基于Delphi IDE开发的三层中间件，开源免费，支持MVC及传统DataSet框架，使用的是Mormot2的HTTP通讯。【OnePascal开源群】：814696487|35|0|2023-12-15|
 |7|[PassByYou888/ZNet](https://github.com/PassByYou888/ZNet)|ZNet is supported by future P2P VM, big data, cloud servers, and SAAS systems|48|0|2024-01-26|
-|8|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|545|0|2024-02-28|
+|8|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|546|0|2024-02-28|
 |9|[59079096/HCView-Pascal](https://github.com/59079096/HCView-Pascal)|A control similar to Word or WPS(一个类似word或wps用于文字排版相关功能的控件)|102|0|2023-09-11|
 |10|[hkoi/hkoi-solutions](https://github.com/hkoi/hkoi-solutions)|HKOI Final Event solutions|12|0|2024-02-28|
 |11|[ying32/liblcl](https://github.com/ying32/liblcl)|A common cross-platform GUI library, the core uses Lazarus LCL.|117|0|2023-12-27|
 |12|[ymofen/diocp-v5](https://github.com/ymofen/diocp-v5)|delphi iocp, http, websocket, ntrip|236|0|2024-02-22|
 |13|[gxlmyacc/sciter4d](https://github.com/gxlmyacc/sciter4d)|sciter4d (sciter for delphi) :  一个sciter的delphi封装库|43|0|2023-10-17|
 |14|[gxlmyacc/SYIPC](https://github.com/gxlmyacc/SYIPC)|一个Delphi实现的IPC通讯库，使用Window的消息机制实现的。|4|0|2023-10-10|
-|15|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker|91|0|2024-01-27|
+|15|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker|92|0|2024-01-27|
 |16|[digao-dalpiaz/DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|161|0|2024-02-29|
 |17|[cityboat888/OnePascal](https://github.com/cityboat888/OnePascal)|OnePascal简介: OneDelphi是基于Delphi IDE开发的三层中间件， oneLaz是基于Lazaus IDE开发的三层中间件， OneUniApp是基于HBuilderX IDE开发的多端合一app 中间件支持MVC及传统DataSet框架，这个版本是在源码的基础上(放弃mormot)使用Delphi-Cross-Socket作为HTTP通讯|5|0|2024-01-28|
-|18|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|313|0|2024-02-29|
-|19|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|250|0|2023-11-15|
+|18|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|313|0|2024-03-02|
+|19|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|251|0|2023-11-15|
 |20|[ying32/res2go-ide-plugin](https://github.com/ying32/res2go-ide-plugin)|res2go Lazarus IDE plug-in|29|0|2024-01-13|
-|21|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|438|0|2024-02-25|
+|21|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|438|0|2024-03-02|
 |22|[dmznlin/mini-soft](https://github.com/dmznlin/mini-soft)|用于管理日常开发的小型系统|3|0|2024-02-17|
 |23|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|46|0|2024-02-21|
 |24|[abcjingtong/HCView_Pascal](https://github.com/abcjingtong/HCView_Pascal)|一个类似word或wps用于文字排版相关功能的控件，有Delphi、C#、Html5、C++四个版本。|2|0|2024-01-22|
