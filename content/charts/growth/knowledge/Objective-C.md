@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Objective-C
-<sub>数据更新: 2024-03-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -20,7 +20,7 @@
 |13|[webersongao/DouMao_iOS](https://github.com/webersongao/DouMao_iOS)|wordpress博客移动iOS版，点击链接了解更多：|22|0|2024-02-26|
 |14|[Splendent/iOS-OSX-study-notes](https://github.com/Splendent/iOS-OSX-study-notes)|學習cocoa的瑣碎筆記|2|0|2023-09-21|
 |15|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|36|0|2024-02-29|
-|16|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|FFmpeg step by step tutorials for iOS/macOS developer. （适合零基础的 iOS/macOS 开发者学习FFmpeg API 和音视频渲染技术。演示了 OpenGL 和 Metal 等多种视频渲染方式，以及使用 AudioUnit 和 AudioQueue 渲染不同格式的音频。）|272|0|2024-01-15|
+|16|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|FFmpeg step by step tutorials for iOS/macOS developer. （适合零基础的 iOS/macOS 开发者学习FFmpeg API 和音视频渲染技术。演示了 OpenGL 和 Metal 等多种视频渲染方式，以及使用 AudioUnit 和 AudioQueue 渲染不同格式的音频。）|273|0|2024-01-15|
 |17|[Mhc-inc/MHC-Boke](https://github.com/Mhc-inc/MHC-Boke)|MHC博客|2|0|2023-09-10|
 |18|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|86|0|2024-02-23|
 

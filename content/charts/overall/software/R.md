@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2024-03-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1720|2024-02-28|
+|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1721|2024-02-28|
 |2|[BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)|Color palette package in R inspired by works at the Metropolitan Museum of Art in New York|1023|2023-09-30|
 |3|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|992|2024-02-19|
 |4|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|589|2024-02-05|
-|5|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|494|2024-02-25|
-|6|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|447|2024-02-29|
+|5|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|495|2024-03-03|
+|6|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|448|2024-02-29|
 |7|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|272|2023-12-12|
 |8|[wilkox/treemapify](https://github.com/wilkox/treemapify)|🌳 Draw treemaps in ggplot2|208|2023-10-17|
 |9|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|195|2023-11-23|
-|10|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|161|2024-03-02|
+|10|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|161|2024-03-03|
 |11|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|156|2023-09-14|
-|12|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|2024-03-02|
-|13|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|📦 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|143|2023-10-01|
+|12|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|145|2024-03-03|
+|13|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|📦 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|144|2023-10-01|
 |14|[benmarwick/ctv-archaeology](https://github.com/benmarwick/ctv-archaeology)|CRAN Task View: Archaeological Science|141|2024-02-29|
 |15|[psychbruce/ChineseNames](https://github.com/psychbruce/ChineseNames)|🀄 Chinese Name Database (1930-2008).|131|2023-09-27|
 |16|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|128|2024-03-01|
@@ -32,9 +32,9 @@
 |25|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|58|2024-02-28|
 |26|[koheiw/newsmap](https://github.com/koheiw/newsmap)|Semi-supervised algorithm for geographical document classification|56|2024-02-23|
 |27|[koheiw/LSX](https://github.com/koheiw/LSX)|Semi-supervised algorithm for document scaling|53|2024-03-02|
-|28|[CBIIT/LDlinkR](https://github.com/CBIIT/LDlinkR)|LDlinkR|44|2024-03-01|
-|29|[skgrange/rmweather](https://github.com/skgrange/rmweather)|Tools to Conduct Meteorological Normalisation on Air Quality Data|44|2023-11-21|
-|30|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|43|2024-01-29|
+|28|[skgrange/rmweather](https://github.com/skgrange/rmweather)|Tools to Conduct Meteorological Normalisation on Air Quality Data|44|2023-11-21|
+|29|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|43|2024-01-29|
+|30|[CBIIT/LDlinkR](https://github.com/CBIIT/LDlinkR)|LDlinkR|43|2024-03-01|
 |31|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |42|2024-01-21|
 |32|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|40|2024-02-27|
 |33|[mlampros/textTinyR](https://github.com/mlampros/textTinyR)|Text Processing for Small or Big Data Files in R|38|2023-12-05|
@@ -51,7 +51,7 @@
 |44|[sascha2schroeder/popEye](https://github.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|18|2024-01-03|
 |45|[IshidaMotohiro/TextMining](https://github.com/IshidaMotohiro/TextMining)|-|18|2023-11-02|
 |46|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|18|2024-02-16|
-|47|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|17|2024-02-28|
+|47|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|17|2024-03-03|
 |48|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|14|2024-01-29|
 |49|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|14|2024-02-26|
 |50|[Otoliths/SP2000](https://github.com/Otoliths/SP2000)|🐟Catalogue of Life toolkit for R|12|2023-11-29|

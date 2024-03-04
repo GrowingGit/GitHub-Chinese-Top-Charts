@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Dart
-<sub>数据更新: 2024-03-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[vito-go/mywords](https://github.com/vito-go/mywords)|背单词神器。 输入一个英语或双语文章的网址，本工具将自动提取文章中所有单词及其所在句子，并计算词汇总数。它还能去除重复的单词，并允许你排除那些你已经认识的单词。|66|4|2024-03-02|
+|1|[vito-go/mywords](https://github.com/vito-go/mywords)|背单词神器。 输入一个英语或双语文章的网址，本工具将自动提取文章中所有单词及其所在句子，并计算词汇总数。它还能去除重复的单词，并允许你排除那些你已经认识的单词。|66|4|2024-03-03|
 |2|[nightmare-space/speed_share](https://github.com/nightmare-space/speed_share)|Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.|822|1|2024-01-27|
-|3|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A full-featured immersion language learning suite for mobile.|695|1|2024-03-02|
+|3|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A full-featured immersion language learning suite for mobile.|696|1|2024-03-03|
 |4|[jayden320/flutter_shuqi](https://github.com/jayden320/flutter_shuqi)|高仿书旗小说 Flutter版，支持iOS、Android|2655|1|2023-12-18|
 |5|[Petterpx/FlutterQuickExample](https://github.com/Petterpx/FlutterQuickExample)|Flutter入门示例，对照着Flutter实战书籍写的一个demo。|6|0|2023-09-11|
 |6|[RxReader/tencent_kit](https://github.com/RxReader/tencent_kit)|Flutter版QQ登录/分享|232|0|2024-02-23|

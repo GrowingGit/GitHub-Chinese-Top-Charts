@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Groovy
-<sub>数据更新: 2024-03-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -10,8 +10,7 @@
 |3|[dqzboy/DevOps](https://github.com/dqzboy/DevOps)|DevOps. Make the project development and release simpler, easier and more efficient.|587|1|2024-02-25|
 |4|[bwcxyk/config_file](https://github.com/bwcxyk/config_file)|配置文件|3|0|2024-02-27|
 |5|[MystWeb/devops-library](https://github.com/MystWeb/devops-library)|Groovy Pipeline 共享库|7|0|2024-02-29|
-|6|[2017398956/AspectPlugin](https://github.com/2017398956/AspectPlugin)|aspect 自动集成插件|19|0|2023-09-02|
-|7|[running-libo/BuildCostPlugin](https://github.com/running-libo/BuildCostPlugin)|编译耗时统计插件|2|0|2023-11-23|
+|6|[running-libo/BuildCostPlugin](https://github.com/running-libo/BuildCostPlugin)|编译耗时统计插件|2|0|2023-11-23|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
