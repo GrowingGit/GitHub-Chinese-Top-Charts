@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Vim script
-<sub>数据更新: 2024-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20093|8|2024-02-19|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8515|2|2024-03-01|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8517|2|2024-03-01|
 |3|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1655|1|2024-02-22|
-|4|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1463|1|2023-11-14|
+|4|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1465|1|2023-11-14|
 |5|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1800|1|2024-02-24|
 |6|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|863|1|2023-12-11|
-|7|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4893|1|2023-11-16|
+|7|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4891|1|2023-11-16|
 |8|[ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)|vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files|193|0|2024-02-22|
 |9|[Yidadaa/Oh-My-Dotfiles](https://github.com/Yidadaa/Oh-My-Dotfiles)|一键配置linux环境，简单粗暴|6|0|2024-01-12|
 |10|[wkcn/MyVimConfig](https://github.com/wkcn/MyVimConfig)|我的Vim配置文件|4|0|2024-01-16|
@@ -19,7 +19,7 @@
 |12|[zweix123/win-config](https://github.com/zweix123/win-config)|让你的win机器有媲美Unix命令行的体验|4|0|2024-02-29|
 |13|[wandercn/go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf)|my vim conf for golang IDE and rust IDE|14|0|2023-11-02|
 |14|[Gerchart-GXT/myscripts](https://github.com/Gerchart-GXT/myscripts)|这里是本人写的一些有用的脚本|3|0|2024-01-08|
-|15|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|893|0|2024-03-03|
+|15|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|893|0|2024-03-04|
 |16|[yuesong-feng/EasyVim](https://github.com/yuesong-feng/EasyVim)|简单易用的vim配置|7|0|2023-11-11|
 |17|[terrytangyuan/dotfiles](https://github.com/terrytangyuan/dotfiles)|Personal bootstrapping dotfiles |8|0|2023-12-18|
 |18|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|882|0|2023-09-26|
@@ -56,15 +56,16 @@
 |49|[webeautiful/xiongfs](https://github.com/webeautiful/xiongfs)|-|3|0|2023-11-10|
 |50|[lemon0910/lemon-vim](https://github.com/lemon0910/lemon-vim)|lemon's config for vim and neovim.|23|0|2023-12-14|
 |51|[ruchee/vimrc](https://github.com/ruchee/vimrc)|Ruchee's Vim Config Files|416|0|2023-10-17|
-|52|[xiaodun/sf-mock](https://github.com/xiaodun/sf-mock)|前端mock接口解决方案|4|0|2024-01-05|
-|53|[modood/vimrc](https://github.com/modood/vimrc)|A shell script to deploy my vim configuration|20|0|2023-11-07|
-|54|[niming175/myVim](https://github.com/niming175/myVim)|我的vim配置|5|0|2024-02-04|
-|55|[Wujidadi/Ubuntu-RC](https://github.com/Wujidadi/Ubuntu-RC)|Ubuntu（其他 Unix/Linux 可能適用）環境中使用的 run commands|4|0|2023-12-11|
-|56|[sillybun/vim-repl](https://github.com/sillybun/vim-repl)|Best REPL environment for Vim|434|0|2024-01-16|
-|57|[chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast)|A very fast Vim repository for C/C++,Go,Python,Rust|74|0|2024-03-03|
-|58|[mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)|A vim 7.4+ plugin to generate table of contents for Markdown files.|589|0|2023-12-13|
-|59|[yyzwz/s030](https://github.com/yyzwz/s030)|基于Vue+SpringBoot+MySQL的厦门旅游电子商务预订系统包含景点类型模块、景点档案模块、景点评分模块、景点收藏模块、酒店模块、美食模块，拥有用户网页端和管理后台端，包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，厦门旅游电子商务预订系统基于角色的访问控制，给景点管理员、游客使用，可将权限精确到按钮级别。|5|0|2023-09-07|
-|60|[Moe-sushi/termux-neovim](https://github.com/Moe-sushi/termux-neovim)|Neovim config file of termux.|9|0|2024-01-23|
+|52|[yyzwz/s025](https://github.com/yyzwz/s025)|基于Vue+SpringBoot+MySQL的城市桥梁道路管理系统，支持管理人员动态维护城市桥梁道路数据，还包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，城市桥梁道路管理系统于角色的访问控制，给管理员、普通用户使用，可将权限精确到按钮级别，您可以自定义角色并分配权限，系统适合设计精确的权限约束需求。|3|0|2023-09-07|
+|53|[xiaodun/sf-mock](https://github.com/xiaodun/sf-mock)|前端mock接口解决方案|4|0|2024-01-05|
+|54|[modood/vimrc](https://github.com/modood/vimrc)|A shell script to deploy my vim configuration|20|0|2023-11-07|
+|55|[niming175/myVim](https://github.com/niming175/myVim)|我的vim配置|5|0|2024-02-04|
+|56|[Wujidadi/Ubuntu-RC](https://github.com/Wujidadi/Ubuntu-RC)|Ubuntu（其他 Unix/Linux 可能適用）環境中使用的 run commands|4|0|2023-12-11|
+|57|[sillybun/vim-repl](https://github.com/sillybun/vim-repl)|Best REPL environment for Vim|434|0|2024-01-16|
+|58|[chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast)|A very fast Vim repository for C/C++,Go,Python,Rust|74|0|2024-03-03|
+|59|[mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)|A vim 7.4+ plugin to generate table of contents for Markdown files.|589|0|2023-12-13|
+|60|[yyzwz/s030](https://github.com/yyzwz/s030)|基于Vue+SpringBoot+MySQL的厦门旅游电子商务预订系统包含景点类型模块、景点档案模块、景点评分模块、景点收藏模块、酒店模块、美食模块，拥有用户网页端和管理后台端，包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，厦门旅游电子商务预订系统基于角色的访问控制，给景点管理员、游客使用，可将权限精确到按钮级别。|5|0|2023-09-07|
+|61|[Moe-sushi/termux-neovim](https://github.com/Moe-sushi/termux-neovim)|Neovim config file of termux.|9|0|2024-01-23|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

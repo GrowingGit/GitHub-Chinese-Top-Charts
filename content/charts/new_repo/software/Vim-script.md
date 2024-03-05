@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Vim script
-<sub>数据更新: 2024-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -10,6 +10,7 @@
 |3|[andrewintw/rpi-video-sync-looper](https://github.com/andrewintw/rpi-video-sync-looper)|A video synchronization looping system built on Raspberry Pi. 一個運行於 Raspberry Pi 的影片同步循環播放系統|6|2023-12-04|2023-08-14|
 |4|[yyzwz/s030](https://github.com/yyzwz/s030)|基于Vue+SpringBoot+MySQL的厦门旅游电子商务预订系统包含景点类型模块、景点档案模块、景点评分模块、景点收藏模块、酒店模块、美食模块，拥有用户网页端和管理后台端，包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，厦门旅游电子商务预订系统基于角色的访问控制，给景点管理员、游客使用，可将权限精确到按钮级别。|5|2023-09-07|2023-09-07|
 |5|[Gerchart-GXT/myscripts](https://github.com/Gerchart-GXT/myscripts)|这里是本人写的一些有用的脚本|3|2024-01-08|2023-11-30|
+|6|[yyzwz/s025](https://github.com/yyzwz/s025)|基于Vue+SpringBoot+MySQL的城市桥梁道路管理系统，支持管理人员动态维护城市桥梁道路数据，还包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，城市桥梁道路管理系统于角色的访问控制，给管理员、普通用户使用，可将权限精确到按钮级别，您可以自定义角色并分配权限，系统适合设计精确的权限约束需求。|3|2023-09-07|2023-09-07|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

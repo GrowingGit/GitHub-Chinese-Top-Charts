@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Swift
-<sub>数据更新: 2024-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[mazzzystar/Queryable](https://github.com/mazzzystar/Queryable)|Run OpenAI's CLIP model on iOS to search photos.|2282|2024-02-07|2023-07-09|
+|1|[mazzzystar/Queryable](https://github.com/mazzzystar/Queryable)|Run OpenAI's CLIP model on iOS to search photos.|2285|2024-02-07|2023-07-09|
 |2|[thebarbican19/BatteryBoi](https://github.com/thebarbican19/BatteryBoi)|The battery app your Mac's been dreaming about behind your back.|806|2024-01-11|2023-08-08|
-|3|[guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm)|llama and other  large language models on iOS and MacOS offline using GGML library.|735|2024-03-03|2023-06-14|
-|4|[TopWidgets/SwingAnimation](https://github.com/TopWidgets/SwingAnimation)|小组件平移动画   Widget on the Move, A Playful Animation|695|2023-11-21|2023-08-21|
+|3|[guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm)|llama and other  large language models on iOS and MacOS offline using GGML library.|738|2024-03-04|2023-06-14|
+|4|[TopWidgets/SwingAnimation](https://github.com/TopWidgets/SwingAnimation)|小组件平移动画   Widget on the Move, A Playful Animation|697|2023-11-21|2023-08-21|
 |5|[ZhangDo/NeteaseTVDemo](https://github.com/ZhangDo/NeteaseTVDemo)|NeteaseTVDemo (Vibefy) - tvOS 客户端  |136|2024-02-20|2023-08-25|
 |6|[intsig171/SmartCodable](https://github.com/intsig171/SmartCodable)|SwiftCodable 是一个简单易用的数据解析库，基于 Swift 的 Codable 协议实现。它提供了强大的数据解析功能，并在解析失败时提供了良好的兼容性支持，并拥有优良的解析性能。参考了HandyJSON的对外API的实现，可以快速的替换HandyJSON。|85|2024-02-23|2023-09-28|
 |7|[Jdb156158/JbbAnimateWidget](https://github.com/Jdb156158/JbbAnimateWidget)|ios小组件动画效果调研|52|2023-09-26|2023-08-04|
 |8|[justaLoli/VPet-Mac](https://github.com/justaLoli/VPet-Mac)|虚拟桌宠模拟器的饭制Mac版（功能不全！）|29|2023-09-17|2023-09-01|
 |9|[Rogue24/AnimationPreviewer](https://github.com/Rogue24/AnimationPreviewer)|一个用于快速预览Lottie&SVGA的Mac小工具。|26|2023-11-22|2023-05-10|
-|10|[alibaba/aliyunpan-ios-sdk](https://github.com/alibaba/aliyunpan-ios-sdk)|阿里云盘 OpenSDK-iOS|19|2024-03-01|2023-12-06|
+|10|[alibaba/aliyunpan-ios-sdk](https://github.com/alibaba/aliyunpan-ios-sdk)|阿里云盘 OpenSDK-iOS|19|2024-03-04|2023-12-06|
 |11|[intsig171/AdapterSwift](https://github.com/intsig171/AdapterSwift)|SwiftUI精细化方案，针对不同的苹果手机机型缩放UI控件，让整体UI视觉效果一致。|18|2023-11-28|2023-11-28|
 |12|[Lakr233/Fix-GPS](https://github.com/Lakr233/Fix-GPS)|从一生足迹中读取位置数据并写入图片|16|2023-11-03|2023-11-03|
 |13|[intsig171/BTBubble](https://github.com/intsig171/BTBubble)|气泡，提示，Tips，Popup。一款基于Swift编写的气泡弹窗，可高度自定义。|15|2024-02-26|2023-12-18|

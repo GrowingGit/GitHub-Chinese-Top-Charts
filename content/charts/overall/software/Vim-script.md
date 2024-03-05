@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Vim script
-<sub>数据更新: 2024-03-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20093|2024-02-19|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8515|2024-03-01|
-|3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4893|2023-11-16|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8517|2024-03-01|
+|3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4891|2023-11-16|
 |4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1800|2024-02-24|
 |5|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1728|2023-10-06|
 |6|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1655|2024-02-22|
-|7|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1463|2023-11-14|
-|8|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|893|2024-03-03|
+|7|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1465|2023-11-14|
+|8|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|893|2024-03-04|
 |9|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|882|2023-09-26|
 |10|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|863|2023-12-11|
 |11|[mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)|A vim 7.4+ plugin to generate table of contents for Markdown files.|589|2023-12-13|
@@ -59,12 +59,13 @@
 |52|[xiaodun/sf-mock](https://github.com/xiaodun/sf-mock)|前端mock接口解决方案|4|2024-01-05|
 |53|[wkcn/MyVimConfig](https://github.com/wkcn/MyVimConfig)|我的Vim配置文件|4|2024-01-16|
 |54|[Gerchart-GXT/myscripts](https://github.com/Gerchart-GXT/myscripts)|这里是本人写的一些有用的脚本|3|2024-01-08|
-|55|[ZSaberLv0/ZFVimIM_pinyin](https://github.com/ZSaberLv0/ZFVimIM_pinyin)|vim拼音输入法 / pinyin for ZFVimIM|3|2024-01-12|
-|56|[listenerri/ri-vim](https://github.com/listenerri/ri-vim)|一份中文注释齐全的vim配置|3|2023-11-03|
-|57|[keminar/linux-tools](https://github.com/keminar/linux-tools)|系统安装,日常Shell工具|3|2024-01-05|
-|58|[webeautiful/xiongfs](https://github.com/webeautiful/xiongfs)|-|3|2023-11-10|
-|59|[crazyhulk/Vim](https://github.com/crazyhulk/Vim)|vim插件|2|2024-01-10|
-|60|[s-sasaki-0529/dotfiles](https://github.com/s-sasaki-0529/dotfiles)|個人用 .files|2|2023-09-30|
+|55|[yyzwz/s025](https://github.com/yyzwz/s025)|基于Vue+SpringBoot+MySQL的城市桥梁道路管理系统，支持管理人员动态维护城市桥梁道路数据，还包含系统自带的用户管理、部门管理、角色管理、菜单管理、日志管理、数据字典管理、文件管理、图表展示等基础模块，城市桥梁道路管理系统于角色的访问控制，给管理员、普通用户使用，可将权限精确到按钮级别，您可以自定义角色并分配权限，系统适合设计精确的权限约束需求。|3|2023-09-07|
+|56|[ZSaberLv0/ZFVimIM_pinyin](https://github.com/ZSaberLv0/ZFVimIM_pinyin)|vim拼音输入法 / pinyin for ZFVimIM|3|2024-01-12|
+|57|[listenerri/ri-vim](https://github.com/listenerri/ri-vim)|一份中文注释齐全的vim配置|3|2023-11-03|
+|58|[keminar/linux-tools](https://github.com/keminar/linux-tools)|系统安装,日常Shell工具|3|2024-01-05|
+|59|[webeautiful/xiongfs](https://github.com/webeautiful/xiongfs)|-|3|2023-11-10|
+|60|[crazyhulk/Vim](https://github.com/crazyhulk/Vim)|vim插件|2|2024-01-10|
+|61|[s-sasaki-0529/dotfiles](https://github.com/s-sasaki-0529/dotfiles)|個人用 .files|2|2023-09-30|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
