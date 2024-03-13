@@ -1,31 +1,31 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > C
-<sub>数据更新: 2024-03-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lizongying/my-tv](https://github.com/lizongying/my-tv)|我的电视 电视直播软件，安装即可使用|20099|2024-03-11|2023-12-04|
-|2|[karpathy/llama2.c](https://github.com/karpathy/llama2.c)|Inference Llama 2 in one file of pure C|14550|2024-03-08|2023-07-23|
-|3|[hrvach/deskhop](https://github.com/hrvach/deskhop)|Fast Desktop Switching Device|5485|2024-02-15|2023-12-24|
-|4|[Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna)|Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca|4115|2024-03-07|2023-03-23|
-|5|[CoretechR/OMOTE](https://github.com/CoretechR/OMOTE)|Open Source Remote Using ESP32 and LVGL|924|2024-03-11|2023-06-18|
-|6|[RQNG/WouoUI](https://github.com/RQNG/WouoUI)|模仿稚晖君MonoUI风格的超丝滑菜单，使用EC11旋转编码器控制。|709|2024-02-19|2023-04-02|
-|7|[yeyupiaoling/Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune)|Fine-tune the Whisper speech recognition model to support training without timestamp data, training with timestamp data, and training without speech data. Accelerate inference and support Web deployme ...|564|2024-02-06|2023-04-22|
+|1|[lizongying/my-tv](https://github.com/lizongying/my-tv)|我的电视 电视直播软件，安装即可使用|20404|2024-03-12|2023-12-04|
+|2|[karpathy/llama2.c](https://github.com/karpathy/llama2.c)|Inference Llama 2 in one file of pure C|14553|2024-03-08|2023-07-23|
+|3|[hrvach/deskhop](https://github.com/hrvach/deskhop)|Fast Desktop Switching Device|5487|2024-02-15|2023-12-24|
+|4|[Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna)|Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca|4117|2024-03-07|2023-03-23|
+|5|[CoretechR/OMOTE](https://github.com/CoretechR/OMOTE)|Open Source Remote Using ESP32 and LVGL|925|2024-03-11|2023-06-18|
+|6|[RQNG/WouoUI](https://github.com/RQNG/WouoUI)|模仿稚晖君MonoUI风格的超丝滑菜单，使用EC11旋转编码器控制。|710|2024-02-19|2023-04-02|
+|7|[yeyupiaoling/Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune)|Fine-tune the Whisper speech recognition model to support training without timestamp data, training with timestamp data, and training without speech data. Accelerate inference and support Web deployme ...|568|2024-02-06|2023-04-22|
 |8|[huahua132/skynet_fly](https://github.com/huahua132/skynet_fly)|基于云风的skynet，搭建开箱即用的微服务框架，提供优雅的服务热更新|386|2024-03-11|2023-05-27|
-|9|[TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box)|A toolbox for deep learning model deployment using C++ YoloX   YoloV7   YoloV8   Gan   OCR   MobileVit   Scrfd   MobileSAM|344|2023-10-23|2023-03-16|
-|10|[leafqycc/rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading)|A simple demo of yolov5s running on rk3588/3588s using c++ (about 142 frames). / 一个使用c++在rk3588/3588s上运行的yolov5s简单demo(142帧/s)。|278|2023-12-08|2023-05-05|
-|11|[libdriver/st7789](https://github.com/libdriver/st7789)|ST7789 full function driver library for general MCU and Linux.|242|2024-02-25|2023-06-05|
-|12|[P001water/yuze](https://github.com/P001water/yuze)|A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式，支持跨平台使用|239|2024-03-06|2024-01-13|
-|13|[RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)|chsrc  全平台命令行换源工具|224|2024-01-19|2023-09-03|
-|14|[zhenruyan/WSL-libre-linux-kernel](https://github.com/zhenruyan/WSL-libre-linux-kernel)| Installing a 100% libre(free) linux kernel for wsl,It is possible to celebrate freedom within a cell. 给WSL替换自由内核!!!|221|2024-03-11|2023-07-04|
-|15|[veo/nginx_shell](https://github.com/veo/nginx_shell)|nginx WebShell/内存马，更优雅的nignx backdoor|204|2024-01-04|2023-12-20|
+|9|[TalkUHulk/ai.deploy.box](https://github.com/TalkUHulk/ai.deploy.box)|A toolbox for deep learning model deployment using C++ YoloX   YoloV7   YoloV8   Gan   OCR   MobileVit   Scrfd   MobileSAM|346|2023-10-23|2023-03-16|
+|10|[leafqycc/rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading)|A simple demo of yolov5s running on rk3588/3588s using c++ (about 142 frames). / 一个使用c++在rk3588/3588s上运行的yolov5s简单demo(142帧/s)。|279|2023-12-08|2023-05-05|
+|11|[P001water/yuze](https://github.com/P001water/yuze)|A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式，支持跨平台使用|242|2024-03-06|2024-01-13|
+|12|[libdriver/st7789](https://github.com/libdriver/st7789)|ST7789 full function driver library for general MCU and Linux.|242|2024-02-25|2023-06-05|
+|13|[RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)|chsrc  全平台命令行换源工具|225|2024-01-19|2023-09-03|
+|14|[zhenruyan/WSL-libre-linux-kernel](https://github.com/zhenruyan/WSL-libre-linux-kernel)| Installing a 100% libre(free) linux kernel for wsl,It is possible to celebrate freedom within a cell. 给WSL替换自由内核!!!|221|2024-03-12|2023-07-04|
+|15|[veo/nginx_shell](https://github.com/veo/nginx_shell)|nginx WebShell/内存马，更优雅的nignx backdoor|205|2024-01-04|2023-12-20|
 |16|[4ra1n/code-encryptor](https://github.com/4ra1n/code-encryptor)|使用JNI加密字节码，通过JVMTI解密字节码以保护代码，支持自定义包名和密钥，使用魔法禁止黑客dump字节码|142|2024-01-17|2023-09-06|
 |17|[diylxy/LiClock](https://github.com/diylxy/LiClock)|一种兼具易用性与扩展性的多功能墨水屏天气时钟|121|2024-01-17|2023-10-02|
 |18|[jialeicui/open-lx01](https://github.com/jialeicui/open-lx01)|小爱音箱mini定制固件   Let the Xiao Ai Speaker Mini free|117|2024-02-17|2024-01-23|
 |19|[cutechip/TableLampController](https://github.com/cutechip/TableLampController)|一个可以背单词的台灯控制器|115|2024-01-08|2023-11-12|
 |20|[xuzeyu91/Avalonia-Assistant](https://github.com/xuzeyu91/Avalonia-Assistant)|基于.Net8+Avalonia+Semantic Kernel 打造一个桌面端的智能AI助理|81|2024-01-19|2024-01-08|
-|21|[onlyet/BetaVideoMonitorClient](https://github.com/onlyet/BetaVideoMonitorClient)|A video monitoring client based on Qt and FFmpeg.（基于Qt+FFmpeg的视频监控软件）|80|2023-10-08|2023-05-14|
+|21|[onlyet/BetaVideoMonitorClient](https://github.com/onlyet/BetaVideoMonitorClient)|A video monitoring client based on Qt and FFmpeg.（基于Qt+FFmpeg的视频监控软件）|81|2023-10-08|2023-05-14|
 |22|[paper-tei/smart_car](https://github.com/paper-tei/smart_car)|西南交通大学独轮组代码|70|2024-03-06|2023-07-25|
 |23|[kindawindytoday/M](https://github.com/kindawindytoday/M)|new dynamically-loading tool for "园什“|70|2024-01-14|2023-04-14|
 |24|[cqu20160901/yolov8_rknn_Cplusplus](https://github.com/cqu20160901/yolov8_rknn_Cplusplus)|yolov8 瑞芯微 rknn 板端 C++部署。|67|2024-01-12|2023-06-09|
