@@ -1,64 +1,64 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Shell
-<sub>数据更新: 2024-03-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)|Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)|20303|2024-03-01|2023-08-28|
+|1|[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)|Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)|20319|2024-03-01|2023-08-28|
 |2|[wjz304/rr](https://github.com/wjz304/rr)|Redpill Recovery (arpl-i18n)|3257|2023-11-26|2023-04-08|
 |3|[QiuChenlyOpenSource/InjectLib](https://github.com/QiuChenlyOpenSource/InjectLib)|基于Ruby编写的命令行注入版本|2808|2024-02-06|2023-06-09|
-|4|[TrionesType/zhuque](https://github.com/TrionesType/zhuque)|朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project|2449|2024-03-11|2023-08-21|
-|5|[thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker)|A Docker Container to easily run a Palworld dedicated server.|2297|2024-03-12|2024-01-19|
-|6|[233boy/Xray](https://github.com/233boy/Xray)|最好用的 Xray 一键安装脚本 & 管理脚本|988|2024-02-01|2023-05-07|
-|7|[Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup)|Linux最完整的Clash for Linux的备份仓库，完全可以使用！由Yizuko进行修复及维护|906|2024-02-28|2023-11-08|
-|8|[fscarmen/sing-box](https://github.com/fscarmen/sing-box)|Sing-box 全家桶 --- 一键多协议脚本|663|2024-03-12|2023-09-30|
-|9|[DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist)|小雅Alist的相关周边|662|2024-03-10|2024-01-05|
+|4|[TrionesType/zhuque](https://github.com/TrionesType/zhuque)|朱雀仿宋/朱雀宋朝/Zhuque Fangsong: An open-source Fansong typeface project|2450|2024-03-11|2023-08-21|
+|5|[thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker)|A Docker Container to easily run a Palworld dedicated server.|2298|2024-03-13|2024-01-19|
+|6|[233boy/Xray](https://github.com/233boy/Xray)|最好用的 Xray 一键安装脚本 & 管理脚本|990|2024-02-01|2023-05-07|
+|7|[Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup)|Linux最完整的Clash for Linux的备份仓库，完全可以使用！由Yizuko进行修复及维护|918|2024-02-28|2023-11-08|
+|8|[DDS-Derek/xiaoya-alist](https://github.com/DDS-Derek/xiaoya-alist)|小雅Alist的相关周边|683|2024-03-10|2024-01-05|
+|9|[fscarmen/sing-box](https://github.com/fscarmen/sing-box)|Sing-box 全家桶 --- 一键多协议脚本|668|2024-03-13|2023-09-30|
 |10|[notmarek/LanguageBreak](https://github.com/notmarek/LanguageBreak)|A kindle <=5.16.2.1.1 jailbreak|532|2023-12-04|2023-10-27|
-|11|[liusj5257/azurlane_anti_name](https://github.com/liusj5257/azurlane_anti_name)|碧蓝航线反和谐:过场图随机12张,皮肤预览,特触,敌我船名,誓约之戒 新增Zygisk模块,Lsposed模块|509|2023-10-17|2023-03-23|
+|11|[liusj5257/azurlane_anti_name](https://github.com/liusj5257/azurlane_anti_name)|碧蓝航线反和谐:过场图随机12张,皮肤预览,特触,敌我船名,誓约之戒 新增Zygisk模块,Lsposed模块|508|2023-10-17|2023-03-23|
 |12|[apernet/tcp-brutal](https://github.com/apernet/tcp-brutal)|-|501|2024-02-15|2023-11-01|
-|13|[sakarie9/DoL-Lyra](https://github.com/sakarie9/DoL-Lyra)|Degrees of Lewdity 整合|500|2024-03-11|2023-09-01|
+|13|[sakarie9/DoL-Lyra](https://github.com/sakarie9/DoL-Lyra)|Degrees of Lewdity 整合|501|2024-03-11|2023-09-01|
 |14|[kkkgo/PaoPaoDNS](https://github.com/kkkgo/PaoPaoDNS)|泡泡DNS是一个能一键部署递归DNS的docker镜像|455|2024-02-29|2023-04-06|
-|15|[i-abc/Speedtest](https://github.com/i-abc/Speedtest)|多功能测速脚本   Multi-functional speedtest script|412|2023-12-31|2023-09-03|
-|16|[flagify-com/OctoMation](https://github.com/flagify-com/OctoMation)|OctoMation是一款免费的，具有可视化拖拽功能的编排与自动化产品。通过精心编排的Playbook，OctoMation能够联动数百款安全、网络、IT和SaaS等产品的基础能力。其主要特点包括低代码剧本编排、自动化事件响应、标准化流程操作以及可视化过程监控。  借助OctoMation，运营团队能够开展7x24小时自动化事件响应，不仅可以大幅减少对人员的过度依赖，还能确保团队工作质量始终维持在 ...|384|2024-01-25|2023-09-30|
-|17|[fscarmen2/Argo-Nezha-Service-Container](https://github.com/fscarmen2/Argo-Nezha-Service-Container)|Nezha server over Argo tunnel 使用 Argo 隧道的哪吒服务端|384|2024-02-20|2023-04-08|
-|18|[cockroachai/cockroachai](https://github.com/cockroachai/cockroachai)|一个简单的小程序，用于账号共享。免费但暂不开源。|363|2024-03-01|2023-10-28|
-|19|[wukongdaily/tvhelper-docker](https://github.com/wukongdaily/tvhelper-docker)|让你使用电脑、NAS等一切能运行docker的设备变成盒子的ADB安装助手|318|2024-03-11|2024-02-25|
-|20|[seagullz4/hysteria2](https://github.com/seagullz4/hysteria2)|hysteria2一键安装精简版/hy2一键安装/hysteria2 install/نصب با یک کلیک hysteria2/祝大家万事如意,心想事成|318|2024-03-07|2023-09-14|
+|15|[i-abc/Speedtest](https://github.com/i-abc/Speedtest)|多功能测速脚本   Multi-functional speedtest script|413|2023-12-31|2023-09-03|
+|16|[fscarmen2/Argo-Nezha-Service-Container](https://github.com/fscarmen2/Argo-Nezha-Service-Container)|Nezha server over Argo tunnel 使用 Argo 隧道的哪吒服务端|386|2024-02-20|2023-04-08|
+|17|[flagify-com/OctoMation](https://github.com/flagify-com/OctoMation)|OctoMation是一款免费的，具有可视化拖拽功能的编排与自动化产品。通过精心编排的Playbook，OctoMation能够联动数百款安全、网络、IT和SaaS等产品的基础能力。其主要特点包括低代码剧本编排、自动化事件响应、标准化流程操作以及可视化过程监控。  借助OctoMation，运营团队能够开展7x24小时自动化事件响应，不仅可以大幅减少对人员的过度依赖，还能确保团队工作质量始终维持在 ...|384|2024-01-25|2023-09-30|
+|18|[cockroachai/cockroachai](https://github.com/cockroachai/cockroachai)|一个简单的小程序，用于账号共享。免费但暂不开源。|367|2024-03-01|2023-10-28|
+|19|[wukongdaily/tvhelper-docker](https://github.com/wukongdaily/tvhelper-docker)|让你使用电脑、NAS等一切能运行docker的设备变成盒子的ADB安装助手|325|2024-03-13|2024-02-25|
+|20|[seagullz4/hysteria2](https://github.com/seagullz4/hysteria2)|hysteria2一键安装精简版/hy2一键安装/hysteria2 install/نصب با یک کلیک hysteria2/祝大家万事如意,心想事成|319|2024-03-13|2023-09-14|
 |21|[zxcvos/Xray-script](https://github.com/zxcvos/Xray-script)|Xray-REALITY 管理脚本|287|2024-02-16|2023-03-15|
 |22|[2lifetop/Pal-Server-Install](https://github.com/2lifetop/Pal-Server-Install)|幻兽帕鲁服务端一键安装脚本|283|2024-02-07|2024-01-24|
-|23|[Mzdyl/LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install)|针对 LiteLoaderQQNT 的安装脚本|268|2024-03-11|2024-01-21|
-|24|[srcrs/MagicBox](https://github.com/srcrs/MagicBox)|一个基于chrome的自动执行定时任务，目前支持B站、v2ex、吾爱、hostloc等网站的签到|263|2023-11-29|2023-04-09|
-|25|[wukongdaily/tvhelper](https://github.com/wukongdaily/tvhelper)|遥控助手软路由版,适用于OpenWrt系统，包括iStoreOS。其主要作用是帮助安卓原生盒子,解决一些水土不服的小问题。|247|2024-03-10|2024-02-14|
-|26|[VIKINGYFY/OpenWRT-CI](https://github.com/VIKINGYFY/OpenWRT-CI)|云编译OpenWRT固件|195|2024-03-11|2023-03-19|
-|27|[xyhelper/chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy)|chatgpt-mirror-server快速部署库文件|194|2024-01-07|2023-05-29|
+|23|[Mzdyl/LiteLoaderQQNT_Install](https://github.com/Mzdyl/LiteLoaderQQNT_Install)|针对 LiteLoaderQQNT 的安装脚本|279|2024-03-13|2024-01-21|
+|24|[srcrs/MagicBox](https://github.com/srcrs/MagicBox)|一个基于chrome的自动执行定时任务，目前支持B站、v2ex、吾爱、hostloc等网站的签到|268|2023-11-29|2023-04-09|
+|25|[wukongdaily/tvhelper](https://github.com/wukongdaily/tvhelper)|遥控助手软路由版,适用于OpenWrt系统，包括iStoreOS。其主要作用是帮助安卓原生盒子,解决一些水土不服的小问题。|253|2024-03-10|2024-02-14|
+|26|[xyhelper/chatgpt-mirror-server-deploy](https://github.com/xyhelper/chatgpt-mirror-server-deploy)|chatgpt-mirror-server快速部署库文件|196|2024-01-07|2023-05-29|
+|27|[VIKINGYFY/OpenWRT-CI](https://github.com/VIKINGYFY/OpenWRT-CI)|云编译OpenWRT固件|196|2024-03-12|2023-03-19|
 |28|[Ridter/TorProxy](https://github.com/Ridter/TorProxy)|利用Tor搭建Socks5代理，动态切换IP|185|2023-11-08|2023-11-08|
 |29|[panyanyany/muchat-aio](https://github.com/panyanyany/muchat-aio)|团队版 ChatGPT Web 应用，多用户，免登录。适合公司、组织或小团体内部使用。Team version of ChatGPT web application- multi-user and no log-in required. Suitable for internal use in companies, organizations or small groups.|176|2023-10-24|2023-04-18|
 |30|[CikeyQi/QQsign_docs](https://github.com/CikeyQi/QQsign_docs)|在Koyeb上获取QQSign通过Unidbg|170|2024-02-01|2023-06-29|
-|31|[wukongdaily/diy-nas-onescript](https://github.com/wukongdaily/diy-nas-onescript)|这是一个适用于在debian系统上部署nas常用软件的脚本。它可以帮助用户快速安装想要的软件环境和docker应用。|144|2023-12-21|2023-11-30|
-|32|[xinlingduyu/build-openwrt](https://github.com/xinlingduyu/build-openwrt)|利用Actions在线云编译openwrt固件，适合官方源码，lede，lienol和immortalwrt源码，支持X86，电视盒子等众多设备！|131|2024-01-29|2023-04-06|
+|31|[wukongdaily/diy-nas-onescript](https://github.com/wukongdaily/diy-nas-onescript)|这是一个适用于在debian系统上部署nas常用软件的脚本。它可以帮助用户快速安装想要的软件环境和docker应用。|145|2023-12-21|2023-11-30|
+|32|[xinlingduyu/build-openwrt](https://github.com/xinlingduyu/build-openwrt)|利用Actions在线云编译openwrt固件，适合官方源码，lede，lienol和immortalwrt源码，支持X86，电视盒子等众多设备！|132|2024-01-29|2023-04-06|
 |33|[chenmozhijin/turboacc](https://github.com/chenmozhijin/turboacc)|一个适用于官方openwrt(22.03/23.05) firewall4的turboacc|130|2024-03-09|2023-03-25|
-|34|[RManLuo/FakePosition](https://github.com/RManLuo/FakePosition)|Fake position for IOS17 虚拟定位 支持IOS17|125|2024-02-19|2023-10-09|
+|34|[RManLuo/FakePosition](https://github.com/RManLuo/FakePosition)|Fake position for IOS17 虚拟定位 支持IOS17|126|2024-02-19|2023-10-09|
 |35|[LanYunDev/InjectLib_bak](https://github.com/LanYunDev/InjectLib_bak)|⚠️ 仅存放surge crack到Releases (随缘更新)|119|2024-01-07|2023-08-17|
-|36|[fscarmen/sba](https://github.com/fscarmen/sba)|Argo + Sing-box +  CDN for VPS one-click script. 一键脚本|113|2024-03-10|2023-10-21|
-|37|[Jiraiya8/cocopilot](https://github.com/Jiraiya8/cocopilot)|一个小工具的备份|107|2023-09-16|2023-09-16|
+|36|[fscarmen/sba](https://github.com/fscarmen/sba)|Argo + Sing-box +  CDN for VPS one-click script. 一键脚本|117|2024-03-10|2023-10-21|
+|37|[Jiraiya8/cocopilot](https://github.com/Jiraiya8/cocopilot)|一个小工具的备份|108|2023-09-16|2023-09-16|
 |38|[sublaim/clouddrive2](https://github.com/sublaim/clouddrive2)|clouddrive2 一键安装脚本|91|2024-03-11|2023-10-27|
-|39|[Yanyutin753/gpt4-copilot-java](https://github.com/Yanyutin753/gpt4-copilot-java)|一键部署专属于中转copilot gpt-4，cocopilot gpt-4，自定义 copilot回复流畅，支持高并发，小白也能快速使用！gpt4-copilot-java Transfer Copilot, Cocopilot, self-defined copilot, smooth response, supports high concurrency, supports one clic ...|84|2024-02-25|2024-01-29|
-|40|[lingeringsound/adblock_auto](https://github.com/lingeringsound/adblock_auto)|自动合并 Adblock 规则，用于网页广告拦截|79|2024-03-12|2023-03-30|
+|39|[Yanyutin753/gpt4-copilot-java](https://github.com/Yanyutin753/gpt4-copilot-java)|一键部署专属于中转copilot gpt-4，cocopilot gpt-4，自定义 copilot回复流畅，支持高并发，小白也能快速使用！gpt4-copilot-java Transfer Copilot, Cocopilot, self-defined copilot, smooth response, supports high concurrency, supports one clic ...|85|2024-02-25|2024-01-29|
+|40|[lingeringsound/adblock_auto](https://github.com/lingeringsound/adblock_auto)|自动合并 Adblock 规则，用于网页广告拦截|79|2024-03-13|2023-03-30|
 |41|[mylxsw/aidea-docker](https://github.com/mylxsw/aidea-docker)|本项目为 AIdea 项目的一键部署安装包，基于 docker compose。|67|2024-03-12|2023-11-29|
 |42|[i-abc/GB5](https://github.com/i-abc/GB5)|Geekbench 5 专测   A script for Geekbench 5 benchmarking|67|2024-01-30|2023-07-31|
 |43|[OneB1ank/zygisk-Tweaker](https://github.com/OneB1ank/zygisk-Tweaker)|zygisk实现的机型伪装和fps解锁模块|66|2024-01-03|2023-11-19|
 |44|[wy580477/sing-warp](https://github.com/wy580477/sing-warp)|基于 sing-box 核心的一键 WARP 脚本|62|2023-11-15|2023-06-22|
 |45|[ShiroNeri4u/Neribox](https://github.com/ShiroNeri4u/Neribox)|A magisk module with AList   一个围绕AList构建的Magisk模块|61|2023-11-10|2023-06-22|
-|46|[WGrape/sparrow](https://github.com/WGrape/sparrow)|🦜麻雀虽小五脏俱全🦜 🔨 一键启动多个服务环境的容器化编排工具 🔨 🏄🏻‍♂️ 享受一切顺利的快乐🏄🏻‍♂️ / A Docker tool for one-click startup of multiple services.|56|2024-03-10|2023-06-29|
+|46|[WGrape/sparrow](https://github.com/WGrape/sparrow)|🦜麻雀虽小五脏俱全🦜  🏄🏻‍♂️ 享受环境一切顺利的快乐🏄🏻‍♂️ 🌍所有环境统一规范管理🌍📦 超强环境打包管理器📦 🔨 一键快速启动多个服务环境的容器化编排工具 🔨 / A Docker tool for one-click startup of multiple services.|57|2024-03-13|2023-06-29|
 |47|[Lynn-Becky/v6_only](https://github.com/Lynn-Becky/v6_only)|一个在仅ipv6的系统上一键获得双栈访问能力的脚本|54|2024-02-24|2023-12-31|
-|48|[KoolCore/Proxmox_VE_Status](https://github.com/KoolCore/Proxmox_VE_Status)|开源 Proxmox VE 网页后台添加处理器、NVMe、SSD 的温度和负载信息的脚本工具。|53|2024-02-27|2023-11-12|
-|49|[wy580477/Alist-on-Glitch](https://github.com/wy580477/Alist-on-Glitch)|在 Glitch 免费服务上部署 Alist|53|2024-03-08|2023-04-21|
+|48|[wy580477/Alist-on-Glitch](https://github.com/wy580477/Alist-on-Glitch)|在 Glitch 免费服务上部署 Alist|54|2024-03-08|2023-04-21|
+|49|[KoolCore/Proxmox_VE_Status](https://github.com/KoolCore/Proxmox_VE_Status)|开源 Proxmox VE 网页后台添加处理器、NVMe、SSD 的温度和负载信息的脚本工具。|53|2024-02-27|2023-11-12|
 |50|[crazypeace/xray-vless-reality](https://github.com/crazypeace/xray-vless-reality)|Xray, VLESS_Reality模式 极简一键脚本|51|2024-02-18|2023-05-26|
 |51|[wanghongenpin/Magisk-ProxyPinCA](https://github.com/wanghongenpin/Magisk-ProxyPinCA)|Magisk模块ProxyPin系统证书|49|2024-02-06|2023-09-22|
 |52|[wy580477/Alist-on-PaaS](https://github.com/wy580477/Alist-on-PaaS)|在 PaaS 服务上部署 Alist 网盘文件列表，集成 Aria2 离线下载|49|2023-11-24|2023-03-31|
 |53|[dsadsadsss/java-wanju](https://github.com/dsadsadsss/java-wanju)|bbn部署xray|48|2024-02-28|2023-07-25|
-|54|[huangqian8/SwitchScript](https://github.com/huangqian8/SwitchScript)|大气层个人整合包生成脚本|45|2024-03-12|2023-04-14|
+|54|[huangqian8/SwitchScript](https://github.com/huangqian8/SwitchScript)|大气层个人整合包生成脚本|46|2024-03-13|2023-04-14|
 |55|[Fatfish588/Dataset_Generator_For_VITS](https://github.com/Fatfish588/Dataset_Generator_For_VITS)|基于达摩院视频切割技术的视频转换为短音频的vits数据集生成工具 A VITS Dataset Generation Tool for Converting Video to Short Audio Based on Damo Academy Video Cutting Technology|44|2024-01-17|2023-10-08|
 |56|[okxlin/docker-1panel](https://github.com/okxlin/docker-1panel)|Docker方式运行的1Panel；1Panel running in Docker|42|2024-02-02|2023-08-19|
 |57|[oneclickvirt/docker](https://github.com/oneclickvirt/docker)|通过Docker批量或单独开设NAT服务器(Bulk or individual NAT server provisioning via Docker)|42|2024-03-12|2023-04-28|
@@ -66,11 +66,11 @@
 |59|[taoky/icpcstrap](https://github.com/taoky/icpcstrap)|ICPC 2023 合肥站选手机器镜像制作脚本 |40|2023-12-02|2023-11-27|
 |60|[wy-luke/StableDiffusion-Installer-For-Mac](https://github.com/wy-luke/StableDiffusion-Installer-For-Mac)|Install Stable Diffusion on your Mac with one single command. 一条命令为你的 Mac 装上 Stable Diffusion|40|2023-11-20|2023-07-29|
 |61|[wangshuwen1107/skyeye](https://github.com/wangshuwen1107/skyeye)|APK扫描工具,APK反编译工具|40|2023-09-28|2023-04-12|
-|62|[dracon-china/istoreos-actions](https://github.com/dracon-china/istoreos-actions)|使用 GitHub Actions 云编译 iStore OS 固件|38|2024-03-12|2023-07-07|
+|62|[dracon-china/istoreos-actions](https://github.com/dracon-china/istoreos-actions)|使用 GitHub Actions 云编译 iStore OS 固件|38|2024-03-13|2023-07-07|
 |63|[deepin-community/deepin-rootfs](https://github.com/deepin-community/deepin-rootfs)|制作一个deepin的根文件系统|38|2024-02-26|2023-06-02|
-|64|[chenmozhijin/OpenWrt-K](https://github.com/chenmozhijin/OpenWrt-K)|基于OpenWrt官方源码的GitHub Actions云编译   GitHub Actions cloud compilation based on OpenWrt official source code |38|2024-03-12|2023-04-04|
+|64|[chenmozhijin/OpenWrt-K](https://github.com/chenmozhijin/OpenWrt-K)|基于OpenWrt官方源码的GitHub Actions云编译   GitHub Actions cloud compilation based on OpenWrt official source code |38|2024-03-13|2023-04-04|
 |65|[miaowmint/palworld](https://github.com/miaowmint/palworld)|帕鲁世界服务端一键安装脚本|37|2024-02-05|2024-01-24|
-|66|[debuggerx01/fcitx5_customizer](https://github.com/debuggerx01/fcitx5_customizer)|Fcitx5定制优化脚本|36|2024-02-28|2023-09-15|
+|66|[debuggerx01/fcitx5_customizer](https://github.com/debuggerx01/fcitx5_customizer)|Fcitx5定制优化脚本|37|2024-02-28|2023-09-15|
 |67|[Misaka-blog/juicity-script](https://github.com/Misaka-blog/juicity-script)|Juicity 协议一键部署脚本|34|2024-02-29|2023-08-21|
 |68|[guandasheng/TheBestAdrules](https://github.com/guandasheng/TheBestAdrules)|TheBestAdrules，适用于Adguard Home的去广告dns规则，由关圣云®整理上游优秀的规则，合并去重而来，集百家之所长，取其精华去其糟粕。 关圣云®官网https://dns1.top 官方微信群及QQ群见官网公布。 关圣云®DNS，一个人人可加入的公益去广告dns团队，目前拥有7条公益dns节点。 捐赠，或者提供服务器均可加入“关圣云®爱发电”团队。  由于目前网络上发布的规则 ...|32|2024-03-11|2023-12-30|
 |69|[xubiaolin/wireguard-onekey](https://github.com/xubiaolin/wireguard-onekey)|一键安装wireguard脚本|32|2023-11-05|2023-03-16|
