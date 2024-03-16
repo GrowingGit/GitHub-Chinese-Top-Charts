@@ -73,6 +73,7 @@
 |66|[xljiulang/DependencyInjection.Annotation](https://github.com/xljiulang/DependencyInjection.Annotation)|基于注解的服务自动查找与注册的DI扩展|40|2023-12-04|2023-08-16|
 |67|[WXRIW/Lyricify-Lyrics-Helper](https://github.com/WXRIW/Lyricify-Lyrics-Helper)|集成 Lyricify 所需的歌词相关功能|40|2024-02-26|2023-07-27|
 |68|[Chuyu-Team/MSBuildCppCrossToolset](https://github.com/Chuyu-Team/MSBuildCppCrossToolset)|基于MSBuild的C++跨平台工具集，让Linux、MacOS等也支持编译vcxproj。|34|2023-09-25|2023-04-16|
+|69|[trueai-org/mdrive](https://github.com/trueai-org/mdrive)|一个针对阿里云盘的开源同步和备份工具，支持将云盘挂载到本地。基于阿里云盘官方 API 授权，它实现多平台兼容，提供安全、自动化的数据管理方案。|33|2024-01-20|2024-03-16|
 |69|[XuToWei/ET-DynamicEvent](https://github.com/XuToWei/ET-DynamicEvent)|ET的动态事件扩展|33|2024-01-20|2023-03-22|
 |70|[xyh20180101/RomajiConverter.WinUI](https://github.com/xyh20180101/RomajiConverter.WinUI)|使用WinUI 3框架开发的Win11风格罗马音转换器|31|2024-01-11|2023-11-13|
 |71|[YaKun9/YYS-AutoHelpMe](https://github.com/YaKun9/YYS-AutoHelpMe)|阴阳师辅助脚本GUI客户端版本，基于.NET6+WinForm实现。|31|2023-11-22|2023-05-12|
