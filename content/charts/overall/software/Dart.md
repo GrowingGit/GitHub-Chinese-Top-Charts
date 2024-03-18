@@ -1,100 +1,100 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Dart
-<sub>数据更新: 2024-03-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[localsend/localsend](https://github.com/localsend/localsend)|An open-source cross-platform alternative to AirDrop|32477|2024-03-14|
-|2|[alibaba/flutter-go](https://github.com/alibaba/flutter-go)|flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档|23552|2023-12-11|
-|3|[CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter)|Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便 ...|14536|2024-03-05|
-|4|[cfug/dio](https://github.com/cfug/dio)|A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapter ...|12152|2024-03-15|
-|5|[GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)|A modern download manager that supports all platforms.  Built with Golang and Flutter.|11129|2024-03-12|
-|6|[kaina404/FlutterDouBan](https://github.com/kaina404/FlutterDouBan)|🔥🔥🔥Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉。（ https://img.xuvip.top/douyademo.mp4）|8490|2024-03-12|
+|1|[localsend/localsend](https://github.com/localsend/localsend)|An open-source cross-platform alternative to AirDrop|32607|2024-03-17|
+|2|[alibaba/flutter-go](https://github.com/alibaba/flutter-go)|flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档|23553|2023-12-11|
+|3|[CarGuo/gsy_github_app_flutter](https://github.com/CarGuo/gsy_github_app_flutter)|Flutter 超完整的开源项目，功能丰富，适合学习和日常使用。GSYGithubApp系列的优势：我们目前已经拥有Flutter、Weex、ReactNative、kotlin 四个版本。 功能齐全，项目框架内技术涉及面广，完成度高，持续维护，配套文章，适合全面学习，对比参考。跨平台的开源Github客户端App，更好的体验，更丰富的功能，旨在更好的日常管理和维护个人Github，提供更好更方便 ...|14538|2024-03-05|
+|4|[cfug/dio](https://github.com/cfug/dio)|A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapter ...|12154|2024-03-17|
+|5|[GopeedLab/gopeed](https://github.com/GopeedLab/gopeed)|A modern download manager that supports all platforms.  Built with Golang and Flutter.|11145|2024-03-12|
+|6|[kaina404/FlutterDouBan](https://github.com/kaina404/FlutterDouBan)|🔥🔥🔥Flutter豆瓣客户端,Awesome Flutter Project,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉。（ https://img.xuvip.top/douyademo.mp4）|8494|2024-03-12|
 |7|[simplezhli/flutter_deer](https://github.com/simplezhli/flutter_deer)|🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project (including integration testing and accessibility testing). Contains complete UI design drawings for a more realistic practic ...|7571|2024-02-19|
-|8|[toly1994328/FlutterUnit](https://github.com/toly1994328/FlutterUnit)|【Flutter 集录指南 App】The unity of flutter, The unity of coder.|7211|2024-03-08|
+|8|[toly1994328/FlutterUnit](https://github.com/toly1994328/FlutterUnit)|【Flutter 集录指南 App】The unity of flutter, The unity of coder.|7212|2024-03-08|
 |9|[alibaba/flutter_boost](https://github.com/alibaba/flutter_boost)|FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts|6785|2024-03-11|
-|10|[hiddify/hiddify-next](https://github.com/hiddify/hiddify-next)|Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.|6655|2024-03-15|
-|11|[Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter)|一个支持免代理直连及查看动图的第三方Pixiv flutter客户端|6297|2024-03-03|
-|12|[mylxsw/aidea](https://github.com/mylxsw/aidea)|AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。|5980|2024-03-16|
-|13|[niuhuan/pikapika](https://github.com/niuhuan/pikapika)|美观易用且无广告的漫画和游戏客户端，同时支持MacOS，Windows，Android，iOS。|5402|2023-11-17|
-|14|[rrousselGit/provider](https://github.com/rrousselGit/provider)|InheritedWidgets, but simple|5001|2024-03-08|
-|15|[wanghongenpin/network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)|Open source free packet capture software ProxyPin, supporting full platform systems, developed using the Flutter framework|4088|2024-03-12|
-|16|[xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)|简简单单的看直播|4000|2024-03-13|
-|17|[guozhigq/pilipala](https://github.com/guozhigq/pilipala)|PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。|3770|2024-03-16|
+|10|[hiddify/hiddify-next](https://github.com/hiddify/hiddify-next)|Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.|6693|2024-03-17|
+|11|[Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter)|一个支持免代理直连及查看动图的第三方Pixiv flutter客户端|6301|2024-03-17|
+|12|[mylxsw/aidea](https://github.com/mylxsw/aidea)|AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。|5981|2024-03-17|
+|13|[niuhuan/pikapika](https://github.com/niuhuan/pikapika)|美观易用且无广告的漫画和游戏客户端，同时支持MacOS，Windows，Android，iOS。|5408|2023-11-17|
+|14|[rrousselGit/provider](https://github.com/rrousselGit/provider)|InheritedWidgets, but simple|5002|2024-03-17|
+|15|[wanghongenpin/network_proxy_flutter](https://github.com/wanghongenpin/network_proxy_flutter)|Open source free packet capture software ProxyPin, supporting full platform systems, developed using the Flutter framework|4094|2024-03-12|
+|16|[xiaoyaocz/dart_simple_live](https://github.com/xiaoyaocz/dart_simple_live)|简简单单的看直播|4011|2024-03-13|
+|17|[guozhigq/pilipala](https://github.com/guozhigq/pilipala)|PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。|3793|2024-03-17|
 |18|[xuelongqy/flutter_easy_refresh](https://github.com/xuelongqy/flutter_easy_refresh)|A flutter widget that provides pull-down refresh and pull-up load.|3742|2024-03-09|
-|19|[OpenFlutter/flutter_screenutil](https://github.com/OpenFlutter/flutter_screenutil)|Flutter screen adaptation, font adaptation, get screen information|3739|2024-03-09|
-|20|[mulaRahul/keyviz](https://github.com/mulaRahul/keyviz)|Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.|3736|2024-02-29|
-|21|[niuhuan/jasmine](https://github.com/niuhuan/jasmine)|A comic browser，support Android / iOS / MacOS / Windows / Linux.|3074|2024-01-09|
-|22|[LianjiaTech/bruno](https://github.com/LianjiaTech/bruno)|An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)|3046|2024-02-20|
-|23|[OpenFlutter/fluwx](https://github.com/OpenFlutter/fluwx)|Flutter版微信SDK.WeChat SDK for flutter.|2982|2024-03-02|
-|24|[rrousselGit/flutter_hooks](https://github.com/rrousselGit/flutter_hooks)|React hooks for Flutter. Hooks are a new kind of object that manages a Widget life-cycles. They are used to increase code sharing between widgets and as a complete replacement for StatefulWidget.|2981|2024-03-04|
+|19|[mulaRahul/keyviz](https://github.com/mulaRahul/keyviz)|Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.|3739|2024-02-29|
+|20|[OpenFlutter/flutter_screenutil](https://github.com/OpenFlutter/flutter_screenutil)|Flutter screen adaptation, font adaptation, get screen information|3739|2024-03-09|
+|21|[niuhuan/jasmine](https://github.com/niuhuan/jasmine)|A comic browser，support Android / iOS / MacOS / Windows / Linux.|3076|2024-01-09|
+|22|[LianjiaTech/bruno](https://github.com/LianjiaTech/bruno)|An enterprise-class package of Flutter components for mobile applications. ( Bruno 是基于一整套设计体系的 Flutter 组件库。)|3048|2024-02-20|
+|23|[rrousselGit/flutter_hooks](https://github.com/rrousselGit/flutter_hooks)|React hooks for Flutter. Hooks are a new kind of object that manages a Widget life-cycles. They are used to increase code sharing between widgets and as a complete replacement for StatefulWidget.|2982|2024-03-04|
+|24|[OpenFlutter/fluwx](https://github.com/OpenFlutter/fluwx)|Flutter版微信SDK.WeChat SDK for flutter.|2982|2024-03-02|
 |25|[CarGuo/gsy_flutter_demo](https://github.com/CarGuo/gsy_flutter_demo)|Flutter 不同于 GSYGithubAppFlutter 完整项目，本项目将逐步完善各种 Flutter 独立例子，方便新手学习上手和小问题方案解决。  目前开始逐步补全完善，主要提供一些有用或者有趣的例子，如果你也有好例子，欢迎提交 PR 。|2934|2024-03-05|
 |26|[phoenixsky/fun_android_flutter](https://github.com/phoenixsky/fun_android_flutter)| 👿👿👿👿👿玩Android客户端Flutter版本。Provider的最佳实践.DarkMode、多色彩主题、国际化、切换字体、优美动画|2685|2023-11-26|
 |27|[peng8350/flutter_pulltorefresh](https://github.com/peng8350/flutter_pulltorefresh)|a widget provided to the flutter scroll component drop-down refresh and pull up load.|2674|2023-12-17|
-|28|[lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box)|ServerBox - server status & toolbox app using Flutter|2658|2024-03-16|
-|29|[bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui)|Implements Microsoft's WinUI3 in Flutter.|2643|2024-03-15|
-|30|[wgh136/PicaComic](https://github.com/wgh136/PicaComic)|A comic app built with Flutter, supporting multiple comic sources.|2572|2024-03-16|
+|28|[lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box)|ServerBox - server status & toolbox app using Flutter|2664|2024-03-16|
+|29|[bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui)|Implements Microsoft's WinUI3 in Flutter.|2645|2024-03-15|
+|30|[wgh136/PicaComic](https://github.com/wgh136/PicaComic)|A comic app built with Flutter, supporting multiple comic sources.|2585|2024-03-17|
 |31|[wuba/Fair](https://github.com/wuba/Fair)|A Flutter package used to update widget tree dynamically. Fair提供一整套Flutter动态化解决方案|2498|2024-03-12|
-|32|[miru-project/miru-app](https://github.com/miru-project/miru-app)|🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.|2459|2024-03-16|
-|33|[3003h/FEhViewer](https://github.com/3003h/FEhViewer)|An e-hentai/exhentai app make on flutter|2452|2024-03-07|
+|32|[miru-project/miru-app](https://github.com/miru-project/miru-app)|🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.|2467|2024-03-17|
+|33|[3003h/FEhViewer](https://github.com/3003h/FEhViewer)|An e-hentai/exhentai app make on flutter|2455|2024-03-07|
 |34|[fluttercandies/wechat_flutter](https://github.com/fluttercandies/wechat_flutter)|wechat_flutter is Flutter version WeChat, an excellent Flutter instant messaging IM open source library!|2432|2024-01-15|
-|35|[mobxjs/mobx.dart](https://github.com/mobxjs/mobx.dart)|MobX for the Dart language. Hassle-free, reactive state-management for your Dart and Flutter apps.|2346|2024-02-29|
-|36|[jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai)|A cross-platform app made for e-hentai & exhentai by Flutter|2115|2024-03-16|
+|35|[mobxjs/mobx.dart](https://github.com/mobxjs/mobx.dart)|MobX for the Dart language. Hassle-free, reactive state-management for your Dart and Flutter apps.|2347|2024-02-29|
+|36|[jiangtian616/JHenTai](https://github.com/jiangtian616/JHenTai)|A cross-platform app made for e-hentai & exhentai by Flutter|2120|2024-03-16|
 |37|[bytedance/flutter_ume](https://github.com/bytedance/flutter_ume)|UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance|1999|2024-02-19|
-|38|[rrousselGit/freezed](https://github.com/rrousselGit/freezed)|Code generation for immutable classes that has a simple syntax/API without compromising on the features.|1783|2024-03-15|
-|39|[mpflutter/mpflutter](https://github.com/mpflutter/mpflutter)|MPFlutter 是一个跨平台 Flutter 开发框架，可用于微信小程序以及 Web 应用开发。|1740|2024-03-10|
-|40|[saber-notes/saber](https://github.com/saber-notes/saber)|The cross-platform open-source app built for handwriting|1682|2024-03-15|
-|41|[xiaoyaocz/flutter_dmzj](https://github.com/xiaoyaocz/flutter_dmzj)|动漫之家Flutter客户端|1627|2024-01-08|
+|38|[rrousselGit/freezed](https://github.com/rrousselGit/freezed)|Code generation for immutable classes that has a simple syntax/API without compromising on the features.|1783|2024-03-17|
+|39|[mpflutter/mpflutter](https://github.com/mpflutter/mpflutter)|MPFlutter 是一个跨平台 Flutter 开发框架，可用于微信小程序以及 Web 应用开发。|1742|2024-03-17|
+|40|[saber-notes/saber](https://github.com/saber-notes/saber)|The cross-platform open-source app built for handwriting|1684|2024-03-15|
+|41|[xiaoyaocz/flutter_dmzj](https://github.com/xiaoyaocz/flutter_dmzj)|动漫之家Flutter客户端|1628|2024-01-08|
 |42|[befovy/fijkplayer](https://github.com/befovy/fijkplayer)|ijkplayer for flutter.  ijkplayer 的 flutter 封装。 Flutter video/audio player. Flutter media player plugin for android/iOS based on ijkplayer. fijkplayer 是基于 ijkplayer 封装的 flutter 媒体播放器，开箱即用，无需编译 ijkplay ...|1566|2024-02-02|
-|43|[boyan01/flutter-tetris](https://github.com/boyan01/flutter-tetris)|a tetris game powered by flutter. 使用flutter开发俄罗斯方块。|1548|2023-11-01|
+|43|[boyan01/flutter-tetris](https://github.com/boyan01/flutter-tetris)|a tetris game powered by flutter. 使用flutter开发俄罗斯方块。|1549|2023-11-01|
 |44|[pd4d10/git-touch](https://github.com/pd4d10/git-touch)|An open-source app for GitHub, GitLab, Bitbucket, Gitea, and Gitee(码云), built with Flutter|1485|2023-10-07|
 |45|[fluttercandies/flutter_wechat_assets_picker](https://github.com/fluttercandies/flutter_wechat_assets_picker)|An image picker (also with video and audio) for Flutter projects based on the WeChat's UI.|1409|2024-03-15|
 |46|[mabDc/eso](https://github.com/mabDc/eso)|亦搜，亦看，亦闻  manga&novel reader, audio&video player in one app developed by flutter|1396|2023-11-25|
-|47|[bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager)|A GUI to quickly manage your WSL2 instances|1294|2023-12-30|
+|47|[bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager)|A GUI to quickly manage your WSL2 instances|1299|2023-12-30|
 |48|[lijy91/biyi](https://github.com/lijy91/biyi)|Biyi (比译) is a convenient translation and dictionary app written in Flutter. |1261|2024-01-20|
-|49|[Xmarmalade/alisthelper](https://github.com/Xmarmalade/alisthelper)|Alist Helper is an application developed using Flutter, designed to simplify the use of the desktop version of alist. It can manage alist, allowing you to easily start and stop the alist program.|1257|2024-01-13|
+|49|[Xmarmalade/alisthelper](https://github.com/Xmarmalade/alisthelper)|Alist Helper is an application developed using Flutter, designed to simplify the use of the desktop version of alist. It can manage alist, allowing you to easily start and stop the alist program.|1258|2024-01-13|
 |50|[flutterchina/azlistview](https://github.com/flutterchina/azlistview)|A Flutter sticky headers & index ListView. Flutter 城市列表、联系人列表，索引&悬停。|1089|2024-03-08|
 |51|[fluttercandies/flutter_smart_dialog](https://github.com/fluttercandies/flutter_smart_dialog)|An elegant Flutter Dialog solution   一种更优雅的 Flutter Dialog 解决方案|990|2023-12-30|
-|52|[niuhuan/daisy](https://github.com/niuhuan/daisy)|美观易用且无广告的漫画和轻小说客户端, 同时支持MacOS，Windows，Android，iOS。类似动漫之家。|926|2023-11-03|
-|53|[LeetaoGoooo/RSSAid](https://github.com/LeetaoGoooo/RSSAid)|RSSAid is a complementary app for RSSHub built with Flutter   RSSAid 是一个由 Flutter 构建的 RSSHub 的辅助 App|887|2023-09-26|
+|52|[niuhuan/daisy](https://github.com/niuhuan/daisy)|美观易用且无广告的漫画和轻小说客户端, 同时支持MacOS，Windows，Android，iOS。类似动漫之家。|929|2023-11-03|
+|53|[LeetaoGoooo/RSSAid](https://github.com/LeetaoGoooo/RSSAid)|RSSAid is a complementary app for RSSHub built with Flutter   RSSAid 是一个由 Flutter 构建的 RSSHub 的辅助 App|889|2023-09-26|
 |54|[xuexiangjys/flutter_template](https://github.com/xuexiangjys/flutter_template)|The project of the empty template with Flutter has built the basic framework to realize the functions of internationalization, theme peeling, login and registration, etc.(Flutter空壳模板工程，已搭建基础框架，实现国际化、主 ...|882|2023-12-16|
 |55|[MMMzq/bot_toast](https://github.com/MMMzq/bot_toast)|A very easy-to-use flutter popup library. Including toast, loading, etc.|800|2023-09-19|
 |56|[media-kit/media-kit](https://github.com/media-kit/media-kit)|A cross-platform video player & audio player for Flutter & Dart.|797|2024-03-08|
-|57|[iotjin/jh_flutter_demo](https://github.com/iotjin/jh_flutter_demo)|flutter项目- 实现一些常用效果、封装通用组件和工具类|790|2024-03-12|
+|57|[iotjin/jh_flutter_demo](https://github.com/iotjin/jh_flutter_demo)|flutter项目- 实现一些常用效果、封装通用组件和工具类|791|2024-03-12|
 |58|[hamaluik/timecop](https://github.com/hamaluik/timecop)|A time tracking app that respects your privacy and the gets the job done without being fancy.|773|2024-02-07|
 |59|[jhomlala/catcher](https://github.com/jhomlala/catcher)|Flutter error catching & handling plugin. Handles and reports exceptions in your app!|770|2024-02-18|
 |60|[foxsofter/flutter_thrio](https://github.com/foxsofter/flutter_thrio)|flutter_thrio makes it easy and fast to add flutter to existing mobile applications, and provide a simple and consistent navigator APIs.|744|2024-02-29|
-|61|[AgoraIO-Extensions/Agora-Flutter-SDK](https://github.com/AgoraIO-Extensions/Agora-Flutter-SDK)|Flutter plugin of Agora RTC SDK for Android/iOS/macOS/Windows|712|2024-03-16|
+|61|[AgoraIO-Extensions/Agora-Flutter-SDK](https://github.com/AgoraIO-Extensions/Agora-Flutter-SDK)|Flutter plugin of Agora RTC SDK for Android/iOS/macOS/Windows|712|2024-03-17|
 |62|[leanflutter/flutter_distributor](https://github.com/leanflutter/flutter_distributor)|An all-in-one Flutter application packaging and distribution tool, providing you with a one-stop solution to meet various distribution needs.|683|2024-02-27|
-|63|[2697a/bujuan](https://github.com/2697a/bujuan)|Flutter移动端+桌面端三方网易云播放器|678|2024-03-06|
-|64|[niuhuan/wax](https://github.com/niuhuan/wax)|“绅士漫画”的客户端|667|2023-11-03|
-|65|[mapleafgo/clash-for-flutter](https://github.com/mapleafgo/clash-for-flutter)|Clash的桌面客户端，支持 windows、linux、macos|657|2024-01-31|
+|63|[2697a/bujuan](https://github.com/2697a/bujuan)|Flutter移动端+桌面端三方网易云播放器|682|2024-03-06|
+|64|[niuhuan/wax](https://github.com/niuhuan/wax)|“绅士漫画”的客户端|668|2023-11-03|
+|65|[mapleafgo/clash-for-flutter](https://github.com/mapleafgo/clash-for-flutter)|Clash的桌面客户端，支持 windows、linux、macos|659|2024-01-31|
 |66|[iota9star/mikan_flutter](https://github.com/iota9star/mikan_flutter)|Flutter 驱动的三方 蜜柑计划（https://mikanani.me） APP，:construction: 开发中...|651|2023-11-03|
-|67|[fluttercandies/flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager)|A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS.|629|2024-03-16|
+|67|[fluttercandies/flutter_photo_manager](https://github.com/fluttercandies/flutter_photo_manager)|A Flutter plugin that provides images, videos, and audio abstraction management APIs without interface integration, available on Android, iOS, and macOS.|628|2024-03-16|
 |68|[Realank/flutter_datetime_picker](https://github.com/Realank/flutter_datetime_picker)|a date time picker in flutter|600|2024-02-08|
-|69|[cairuoyu/flutter_admin](https://github.com/cairuoyu/flutter_admin)|Flutter Admin: 一个基于 Flutter 的后台管理系统、开发模板。A backend management system and development template based on Flutter|588|2023-10-20|
+|69|[cairuoyu/flutter_admin](https://github.com/cairuoyu/flutter_admin)|Flutter Admin: 一个基于 Flutter 的后台管理系统、开发模板。A backend management system and development template based on Flutter|589|2023-10-20|
 |70|[xdd666t/flutter_use](https://github.com/xdd666t/flutter_use)|some trick used by flutter     Flutter使用的一些骚操作|577|2023-12-30|
 |71|[Kuingsmile/PicHoro](https://github.com/Kuingsmile/PicHoro)|一款手机端云存储平台/图床管理和文件上传/下载工具，支持直接管理Webdav，Alist，SSH/SFTP，云服务器，兼容S3 API的平台，腾讯COS，阿里OSS，七牛云，又拍云，兰空图床，Imgur，SM.MS和github|567|2024-03-14|
-|72|[guozhigq/flutter_v2ex](https://github.com/guozhigq/flutter_v2ex)|使用flutter开发的v2ex客户端，支持Android和iOS设备。在Android 12+机型上支持Material You取色|558|2023-12-31|
+|72|[guozhigq/flutter_v2ex](https://github.com/guozhigq/flutter_v2ex)|使用flutter开发的v2ex客户端，支持Android和iOS设备。在Android 12+机型上支持Material You取色|559|2023-12-31|
 |73|[bravekingzhang/flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box)|Flutter开发的和ChatGPT聊天的App，全平台支持|524|2024-02-22|
-|74|[larryaasen/upgrader](https://github.com/larryaasen/upgrader)|A Flutter package for prompting users to upgrade when there is a newer version of the app in the store.|504|2024-02-29|
-|75|[alibaba/power_image](https://github.com/alibaba/power_image)|A powerful plugin that fully uses the native image library's ability to display images on the flutter side.|503|2023-10-16|
-|76|[nightmare-space/vscode_for_android](https://github.com/nightmare-space/vscode_for_android)|安卓本地使用vs code编辑器实现方案|503|2024-02-02|
+|74|[nightmare-space/vscode_for_android](https://github.com/nightmare-space/vscode_for_android)|安卓本地使用vs code编辑器实现方案|505|2024-02-02|
+|75|[larryaasen/upgrader](https://github.com/larryaasen/upgrader)|A Flutter package for prompting users to upgrade when there is a newer version of the app in the store.|504|2024-02-29|
+|76|[alibaba/power_image](https://github.com/alibaba/power_image)|A powerful plugin that fully uses the native image library's ability to display images on the flutter side.|503|2023-10-16|
 |77|[OpenFlutter/flutter_oktoast](https://github.com/OpenFlutter/flutter_oktoast)|Toast library for Flutter.|493|2023-11-17|
-|78|[iwrqk/iwrqk](https://github.com/iwrqk/iwrqk)|Unofficial Iwara Flutter Client|470|2024-02-23|
+|78|[iwrqk/iwrqk](https://github.com/iwrqk/iwrqk)|Unofficial Iwara Flutter Client|473|2024-02-23|
 |79|[YYFlutter/flutter-custom-dialog](https://github.com/YYFlutter/flutter-custom-dialog)|🚀🚀🚀 Semantic dialog|466|2024-02-21|
 |80|[fmtjava/Flutter_Eyepetizer](https://github.com/fmtjava/Flutter_Eyepetizer)|Flutter + 组件化实现的一款精美的仿开眼视频(Eyepetizer )跨平台App,适合入门,快速掌握Dart语言以及上手flutter开发(提供Kotlin、React Native、小程序版本 😁 ),希望和大家共同成长,喜欢的话，欢迎start或fork!|465|2024-03-02|
 |81|[Im-Kevin/cool_ui](https://github.com/Im-Kevin/cool_ui)|用flutter实现一些我认为好看的UI控件,有Popover,仿Weui的Toast,自定义键盘|458|2024-01-05|
 |82|[hackware1993/Flutter_ConstraintLayout](https://github.com/hackware1993/Flutter_ConstraintLayout)|A super powerful Stack, build flexible layouts with constraints. Similar to ConstraintLayout for Android and AutoLayout for iOS. But the code implementation is much more efficient, it has O(n) layout  ...|444|2023-11-08|
-|83|[lyming99/wenznote](https://github.com/lyming99/wenznote)|一款由 flutter 开发的笔记软件，支持电脑端和手机端。|435|2024-03-16|
+|83|[lyming99/wenznote](https://github.com/lyming99/wenznote)|一款由 flutter 开发的笔记软件，支持电脑端和手机端。|435|2024-03-17|
 |84|[jhflovehqy/flutter_bolg_manage](https://github.com/jhflovehqy/flutter_bolg_manage)|Flutter实战项目，采用Getx框架管理，遵循Material design设计风格，适合您实战参考或练手|435|2023-11-15|
 |85|[wewehao/flutter_chatgpt](https://github.com/wewehao/flutter_chatgpt)|Flutter ChatGPT APP. The chatgpt chat app implemented by flutter supports custom modes and contextual continuous dialogue. In addition, it supports admob advertisement configuration, accessing open sc ...|432|2024-03-06|
 |86|[AmosHuKe/Mood-Example](https://github.com/AmosHuKe/Mood-Example)|🐦 Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…|397|2024-03-10|
-|87|[nightmare-space/adb_kit](https://github.com/nightmare-space/adb_kit)|使用 Flutter 开发的 ADB GUI 客户端|395|2024-02-26|
-|88|[reqable/re-editor](https://github.com/reqable/re-editor)|Re-Editor is a powerful lightweight text and code editor widget.|380|2024-03-15|
-|89|[leetomlee123/book](https://github.com/leetomlee123/book)|笔趣阁源基于flutter的小说阅读app|378|2024-03-11|
-|90|[slang-i18n/slang](https://github.com/slang-i18n/slang)|Type-safe i18n for Dart and Flutter|377|2024-03-05|
+|87|[nightmare-space/adb_kit](https://github.com/nightmare-space/adb_kit)|使用 Flutter 开发的 ADB GUI 客户端|396|2024-02-26|
+|88|[reqable/re-editor](https://github.com/reqable/re-editor)|Re-Editor is a powerful lightweight text and code editor widget.|381|2024-03-15|
+|89|[slang-i18n/slang](https://github.com/slang-i18n/slang)|Type-safe i18n for Dart and Flutter|378|2024-03-17|
+|90|[leetomlee123/book](https://github.com/leetomlee123/book)|笔趣阁源基于flutter的小说阅读app|378|2024-03-11|
 |91|[project-violet/violet](https://github.com/project-violet/violet)|Flutter based Viewer App|374|2024-02-25|
 |92|[hanxu317317/city_pickers](https://github.com/hanxu317317/city_pickers)|flutter ios city_pickers|370|2023-12-12|
 |93|[TinoGuo/pin_input_text_field](https://github.com/TinoGuo/pin_input_text_field)|A textField widget to help display different style pin|363|2024-03-15|
@@ -105,25 +105,25 @@
 |98|[openimsdk/open-im-sdk-flutter](https://github.com/openimsdk/open-im-sdk-flutter)|IM SDK Flutter|338|2024-03-07|
 |99|[fluttercandies/flutter_wechat_camera_picker](https://github.com/fluttercandies/flutter_wechat_camera_picker)|A camera picker (take photos and videos) for Flutter projects based on WeChat's UI. It's a standalone module of wechat_assets_picker yet it can be run separately.|333|2024-02-27|
 |100|[BFWXKJGS/AlistClient](https://github.com/BFWXKJGS/AlistClient)|AList Client for iOS and Android. / 基于 AList api 开发的 Android 和 iOS 客户端|332|2024-01-22|
-|101|[xlist-io/xlist](https://github.com/xlist-io/xlist)|An all-in-one Alist client. / 一款多功能 Alist 客户端。|326|2024-02-21|
+|101|[xlist-io/xlist](https://github.com/xlist-io/xlist)|An all-in-one Alist client. / 一款多功能 Alist 客户端。|327|2024-02-21|
 |102|[luckysmg/flutter_swipe_action_cell](https://github.com/luckysmg/flutter_swipe_action_cell)|A flutter UI package provides a cell widget that has leading and trailing swipe action menu.|320|2023-11-21|
 |103|[fluttercandies/flutter_scrollview_observer](https://github.com/fluttercandies/flutter_scrollview_observer)|A widget for observing data related to the child widgets being displayed in a ScrollView. Maintainer: @LinXunFeng|314|2024-03-16|
 |104|[JonasWanke/timetable](https://github.com/JonasWanke/timetable)|📅 Customizable flutter calendar widget including day and week views|307|2024-01-16|
 |105|[zhouzaihang/flutter_hand_tracking_plugin](https://github.com/zhouzaihang/flutter_hand_tracking_plugin)|这是一个 Flutter Packge 以实现摄像头精确追踪并识别十指的运动路径/轨迹和手势动作, 且输出22个手部关键点以支持更多手势自定义. 基于这个包可以编写业务逻辑将手势信息实时转化为指令信息: 一二三四五, rock, spiderman...还可以对不同手势编写不同特效. 可用于短视频直播特效, 智能硬件等领域, 为人机互动带来更自然丰富的体验|303|2023-09-26|
 |106|[chaldea-center/chaldea](https://github.com/chaldea-center/chaldea)|Chaldea - Yet Another Material Planner and Battle Simulator for Fate/Grand Order aka FGO|284|2024-03-13|
 |107|[xuexiangjys/flutter_xupdate](https://github.com/xuexiangjys/flutter_xupdate)|A Flutter plugin for XUpdate(Android Version Update Library)|283|2023-12-15|
-|108|[asjqkkkk/markdown_widget](https://github.com/asjqkkkk/markdown_widget)|📖Rendering markdown by flutter！Welcome for pr and issue.|280|2024-03-16|
+|108|[asjqkkkk/markdown_widget](https://github.com/asjqkkkk/markdown_widget)|📖Rendering markdown by flutter！Welcome for pr and issue.|282|2024-03-16|
 |109|[niuhuan/pansy](https://github.com/niuhuan/pansy)|A illustration client. |270|2023-11-26|
-|110|[gstory0404/flutter_unionad](https://github.com/gstory0404/flutter_unionad)|字节跳动 穿山甲广告SDK Bytedance-UnionAD flutter版本插件|260|2024-01-22|
-|111|[Tencent/tdesign-flutter](https://github.com/Tencent/tdesign-flutter)|A Flutter UI components lib for TDesign.|259|2024-03-15|
+|110|[Tencent/tdesign-flutter](https://github.com/Tencent/tdesign-flutter)|A Flutter UI components lib for TDesign.|260|2024-03-15|
+|111|[gstory0404/flutter_unionad](https://github.com/gstory0404/flutter_unionad)|字节跳动 穿山甲广告SDK Bytedance-UnionAD flutter版本插件|260|2024-01-22|
 |112|[hui-z/image_gallery_saver](https://github.com/hui-z/image_gallery_saver)|flutter中用于保存图片到相册的Plugin|252|2024-03-11|
 |113|[softfatgay/flutter-netease](https://github.com/softfatgay/flutter-netease)|深度还原网易严选webApp，Flutter项目，接口为真实数据。项目已完善|249|2024-01-02|
 |114|[erosTeam/eros_n](https://github.com/erosTeam/eros_n)|An unofficial nhentai app.|234|2023-11-08|
 |115|[easemob/im_flutter_sdk](https://github.com/easemob/im_flutter_sdk)|环信im flutter sdk,  example中包含ui代码.|231|2024-03-07|
-|116|[TinoGuo/loading_indicator](https://github.com/TinoGuo/loading_indicator)|🚅Flutter out-of-the-box collection animations written in pure dart.|201|2024-03-15|
-|117|[tec8297729/flutter_flexible](https://github.com/tec8297729/flutter_flexible)|flutter脚手架，让你更专注UI层|198|2024-03-08|
-|118|[jing332/AListFlutter](https://github.com/jing332/AListFlutter)|AList 安卓版本，APK安装即用，无需Root或Termux。|197|2024-03-02|
-|119|[niuhuan/kobi](https://github.com/niuhuan/kobi)|拷贝漫画客户端|188|2024-02-23|
+|116|[jing332/AListFlutter](https://github.com/jing332/AListFlutter)|AList 安卓版本，APK安装即用，无需Root或Termux。|202|2024-03-02|
+|117|[TinoGuo/loading_indicator](https://github.com/TinoGuo/loading_indicator)|🚅Flutter out-of-the-box collection animations written in pure dart.|201|2024-03-15|
+|118|[tec8297729/flutter_flexible](https://github.com/tec8297729/flutter_flexible)|flutter脚手架，让你更专注UI层|199|2024-03-08|
+|119|[niuhuan/kobi](https://github.com/niuhuan/kobi)|拷贝漫画客户端|191|2024-02-23|
 |120|[Wolfteam/Shiori](https://github.com/Wolfteam/Shiori)|The app you need for Genshin Impact|183|2024-03-05|
 |121|[CoderTitan/mahuaPet](https://github.com/CoderTitan/mahuaPet)|Flutter跨平台开发的完整项目---麻花宠物, 一款记录宠物生活的APP|181|2023-12-18|
 |122|[BoxCatTeam/SRCat](https://github.com/BoxCatTeam/SRCat)|Honkai: Star Rail Toolbox   崩坏：星穹铁道工具箱|175|2024-02-15|
@@ -141,7 +141,7 @@
 |134|[xxNull-lsk/Copybook](https://github.com/xxNull-lsk/Copybook)|生成拼音、汉字、汉字字帖，支持笔顺|126|2023-09-30|
 |135|[jarryleo/watch_together](https://github.com/jarryleo/watch_together)|异地不同设备同屏观看视频项目|125|2023-09-23|
 |136|[coder-dongjiayi/MXLogger](https://github.com/coder-dongjiayi/MXLogger)|MXLogger 是基于mmap内存映射机制的跨平台日志库，支持AES CFB 128位加密，支持iOS Android Flutter。核心代码使用C/C++实现， Flutter端通过ffi调用，性能几乎与原生一致。 底层序列化使用Google开源的flat_buffers实现，高效稳定。|124|2024-02-26|
-|137|[6tail/lunar-flutter](https://github.com/6tail/lunar-flutter)|日历、公历(阳历)、农历(阴历、老黄历)、道历、佛历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.|122|2024-03-01|
+|137|[6tail/lunar-flutter](https://github.com/6tail/lunar-flutter)|日历、公历(阳历)、农历(阴历、老黄历)、道历、佛历，支持节假日、星座、儒略日、干支、生肖、节气、节日、彭祖百忌、每日宜忌、吉神宜趋凶煞宜忌、吉神(喜神/福神/财神/阳贵神/阴贵神)方位、胎神方位、冲煞、纳音、星宿、八字、五行、十神、建除十二值星、青龙名堂等十二神、黄道黑道日及吉凶等。lunar is a calendar library for Solar and Chinese Lunar.|122|2024-03-17|
 |138|[liujiakuoyx/leak_detector](https://github.com/liujiakuoyx/leak_detector)|flutter memory leak detector.|118|2024-01-18|
 |139|[WinWang/open_eye](https://github.com/WinWang/open_eye)|Flutter 开眼APP：整体项目架构基于Getx搭建，完成路由，依赖注入；网络请求框架基于Retrofit+Dio实现，配合官方JsonSerialize实现解析；封装项目页面多状态（加载中，成功，失败，空数据）；封装列表页面下拉刷新+上拉加载更多等，同时示范了多Base URL的使用示范和Flutter自定义绘图的示范；具体更多内容，请下载项目了解更多（感谢FlutterBlog(https ...|117|2023-12-02|
 |140|[LuckyLi706/flutter_mobile_command_tools](https://github.com/LuckyLi706/flutter_mobile_command_tools)|flutter写的桌面可视化操作android和ios的简单命令|113|2023-10-11|
@@ -152,7 +152,7 @@
 |145|[cdnbye/flutter-p2p-engine](https://github.com/cdnbye/flutter-p2p-engine)|Let your viewers become your unlimitedly scalable CDN.|100|2023-10-31|
 |146|[fluttercandies/flutter_tilt](https://github.com/fluttercandies/flutter_tilt)|👀 Easily apply tilt parallax hover effects for Flutter, which supports tilt, light, shadow effects, and gyroscope sensors   为 Flutter 轻松创建倾斜视差悬停效果，支持倾斜、光照、阴影效果和陀螺仪传感器|97|2024-03-13|
 |147|[Enough-Software/enough_mail](https://github.com/Enough-Software/enough_mail)|IMAP, POP3 and SMTP clients for Dart developers. Contains both low level as well as a high level API.|95|2024-02-25|
-|148|[Celechron/Celechron](https://github.com/Celechron/Celechron)|服务于浙大学生的时间管理器|93|2024-03-06|
+|148|[Celechron/Celechron](https://github.com/Celechron/Celechron)|服务于浙大学生的时间管理器|93|2024-03-17|
 |149|[zhaochengxiang/flutter_lychee](https://github.com/zhaochengxiang/flutter_lychee)|超完整的Flutter项目，功能丰富，适合学习和日常使用。|91|2024-02-23|
 |150|[zhaolongs/Flutter_Fai_Webview](https://github.com/zhaolongs/Flutter_Fai_Webview)|Flutter 加载 Html 插件，Flutter与JS的双向互调|90|2023-09-22|
 |151|[nano71/GlutAssistantN](https://github.com/nano71/GlutAssistantN)|桂林理工大学-空港校区(分校)-桂工助手N|88|2024-03-09|
@@ -171,12 +171,12 @@
 |164|[CaiJingLong/dart_image_size_getter](https://github.com/CaiJingLong/dart_image_size_getter)|Use dart file api to get image size, needn't use decode. just read the metadata.|64|2023-10-04|
 |165|[italianshen/flutter_today_news](https://github.com/italianshen/flutter_today_news)|高仿今日头条|61|2024-03-04|
 |166|[TencentCloud/TPNS-Flutter-Plugin](https://github.com/TencentCloud/TPNS-Flutter-Plugin)|-|60|2024-03-11|
-|167|[linyi102/anime_trace](https://github.com/linyi102/anime_trace)|漫迹：动漫清单软件，记录动漫计划和观看历史|57|2024-03-06|
-|168|[msterzhang/onelist_app](https://github.com/msterzhang/onelist_app)|onelist 客户端|55|2024-01-16|
-|169|[kfiross/flutter_holo_date_picker](https://github.com/kfiross/flutter_holo_date_picker)|A Flutter package of datepicker like Holo Theme in Android|55|2024-03-05|
+|167|[linyi102/anime_trace](https://github.com/linyi102/anime_trace)|漫迹：动漫清单软件，记录动漫计划和观看历史|57|2024-03-17|
+|168|[kfiross/flutter_holo_date_picker](https://github.com/kfiross/flutter_holo_date_picker)|A Flutter package of datepicker like Holo Theme in Android|56|2024-03-05|
+|169|[msterzhang/onelist_app](https://github.com/msterzhang/onelist_app)|onelist 客户端|55|2024-01-16|
 |170|[Montaro2017/bili_novel_packer](https://github.com/Montaro2017/bili_novel_packer)|轻小说打包器，通过获取哔哩轻小说网站内容，将其打包成EPUB格式，支持封面、插图、目录，支持分卷合并。|53|2024-03-13|
-|171|[FlutterPlayer/fplayer](https://github.com/FlutterPlayer/fplayer)|fplayer播放器|52|2023-11-07|
-|172|[clashcross/CrossApp](https://github.com/clashcross/CrossApp)|一款支持多种协议管理的跨平台客户端，可以运行于windows、Android、macOS、Linux等平台|51|2024-03-13|
+|171|[clashcross/CrossApp](https://github.com/clashcross/CrossApp)|一款支持多种协议管理的跨平台客户端，可以运行于windows、Android、macOS、Linux等平台|52|2024-03-13|
+|172|[FlutterPlayer/fplayer](https://github.com/FlutterPlayer/fplayer)|fplayer播放器|52|2023-11-07|
 |173|[Dough-su/bilibili_message](https://github.com/Dough-su/bilibili_message)|b站私信|51|2024-02-26|
 |174|[huhx/flutter_oss_aliyun](https://github.com/huhx/flutter_oss_aliyun)|阿里云oss sdk的flutter版本|51|2024-01-14|
 |175|[zegoim/zego-express-flutter-sdk](https://github.com/zegoim/zego-express-flutter-sdk)|🚀 ZEGO RTC SDK for Flutter|51|2023-12-08|
@@ -188,13 +188,13 @@
 |181|[shirne/chinese_chess](https://github.com/shirne/chinese_chess)|Chinese Chess game by Flutter|44|2023-11-01|
 |182|[happyme531/a5btool](https://github.com/happyme531/a5btool)|Rock5B工具箱|43|2023-11-23|
 |183|[gstory0404/flutter_tencentad](https://github.com/gstory0404/flutter_tencentad)|腾讯优量汇(广点通)广告 Flutter版本|43|2024-01-22|
-|184|[fluttercandies/fconsole](https://github.com/fluttercandies/fconsole)|一个用于调试的面板|42|2024-02-03|
-|185|[roomanl/famd](https://github.com/roomanl/famd)|flutter aria2 m3u8 downloader，使用flutter+aria2+m3u8开发的一个M3U8下载器。|40|2024-01-16|
-|186|[yleencc/pixiv-artvier](https://github.com/yleencc/pixiv-artvier)|A third-party app for pixiv. 一个第三方pixiv App。还在开发中...|40|2024-03-14|
-|187|[hhanh00/zwallet](https://github.com/hhanh00/zwallet)|Zcash and Ycash light shielded wallet|40|2024-03-08|
+|184|[hhanh00/zwallet](https://github.com/hhanh00/zwallet)|Zcash and Ycash light shielded wallet|42|2024-03-08|
+|185|[fluttercandies/fconsole](https://github.com/fluttercandies/fconsole)|一个用于调试的面板|42|2024-02-03|
+|186|[roomanl/famd](https://github.com/roomanl/famd)|flutter aria2 m3u8 downloader，使用flutter+aria2+m3u8开发的一个M3U8下载器。|41|2024-01-16|
+|187|[yleencc/pixiv-artvier](https://github.com/yleencc/pixiv-artvier)|A third-party app for pixiv. 一个第三方pixiv App。还在开发中...|41|2024-03-14|
 |188|[gooking/apifm-flutter](https://github.com/gooking/apifm-flutter)|Flutter 的云开发支持，无需服务器，无需开发接口和后台，开箱即用，轻松开发 Flutter|38|2024-02-02|
 |189|[flutterplugin/dio_log](https://github.com/flutterplugin/dio_log)|Dio网络请求库的log显示插件|38|2023-12-07|
-|190|[evan361425/flutter-pos-system](https://github.com/evan361425/flutter-pos-system)|開源的 Flutter 應用程式，希望和使用者一起建立一個好用的 POS 系統（點餐系統）。|37|2024-03-16|
+|190|[evan361425/flutter-pos-system](https://github.com/evan361425/flutter-pos-system)|開源的 Flutter 應用程式，希望和使用者一起建立一個好用的 POS 系統（點餐系統）。|37|2024-03-17|
 |191|[moxun33/vvibe](https://github.com/moxun33/vvibe)|直播观看软件 vvibe player|35|2023-10-29|
 |192|[gstory0404/flutter_universalad](https://github.com/gstory0404/flutter_universalad)|字节跳动穿山甲广告、腾讯优量汇(广点通)聚合广告插件 Flutter版本|35|2024-01-22|
 |193|[crackerli/coda-mobile-wallet](https://github.com/crackerli/coda-mobile-wallet)|A Mina mobile wallet developed by flutter, support both android and ios|34|2023-11-10|
@@ -204,7 +204,7 @@
 |197|[Muska-Ami/NyaLCF](https://github.com/Muska-Ami/NyaLCF)|NyaLCF - Nya LoCyanFrp! Launcher   乐青映射启动器|30|2024-03-14|
 |198|[gstory0404/GTAds](https://github.com/gstory0404/GTAds)|Flutter聚合广告插件GTAds,支持自定义广告插入,支持按需动态集成多个广告,目前支持字节穿山甲、百度百青藤、腾讯优量汇、sigmob、快手|30|2024-01-22|
 |199|[cpyczd/sex91porn](https://github.com/cpyczd/sex91porn)|91Porn 视屏爬取在线播放器|30|2023-10-08|
-|200|[windmaple/planestrike_flutter](https://github.com/windmaple/planestrike_flutter)|-|30|2023-09-16|
+|200|[zsakvo/Kakunin-Mobile](https://github.com/zsakvo/Kakunin-Mobile)|一个 Flutter 编写，支持云端备份的 MD3 风格二步验证工具|29|2023-12-07|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

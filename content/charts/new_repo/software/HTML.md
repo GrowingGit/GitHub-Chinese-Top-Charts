@@ -1,51 +1,51 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > HTML
-<sub>数据更新: 2024-03-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。|8663|2024-03-10|2023-05-03|
-|2|[MetaGLM/FinGLM](https://github.com/MetaGLM/FinGLM)|FinGLM: 致力于构建一个开放的、公益的、持久的金融大模型项目，利用开源开放来促进「AI+金融」。|1350|2023-11-29|2023-09-25|
-|3|[thunlp/WebCPM](https://github.com/thunlp/WebCPM)|Official codes for ACL 2023 paper "WebCPM: Interactive Web Search for Chinese Long-form Question Answering"|939|2023-11-25|2023-05-04|
-|4|[mawerty/Is-Prime](https://github.com/mawerty/Is-Prime)|O(1) Algorithm to check if number is prime that works in 95%+ cases.|686|2024-03-10|2023-04-08|
-|5|[bulianglin/psub](https://github.com/bulianglin/psub)|利用CF Worker搭建的反代订阅转换工具|599|2023-12-23|2023-10-17|
+|1|[adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai)|用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。|8669|2024-03-10|2023-05-03|
+|2|[MetaGLM/FinGLM](https://github.com/MetaGLM/FinGLM)|FinGLM: 致力于构建一个开放的、公益的、持久的金融大模型项目，利用开源开放来促进「AI+金融」。|1351|2023-11-29|2023-09-25|
+|3|[thunlp/WebCPM](https://github.com/thunlp/WebCPM)|Official codes for ACL 2023 paper "WebCPM: Interactive Web Search for Chinese Long-form Question Answering"|940|2023-11-25|2023-05-04|
+|4|[mawerty/Is-Prime](https://github.com/mawerty/Is-Prime)|O(1) Algorithm to check if number is prime that works in 95%+ cases.|687|2024-03-16|2023-04-08|
+|5|[bulianglin/psub](https://github.com/bulianglin/psub)|利用CF Worker搭建的反代订阅转换工具|609|2023-12-23|2023-10-17|
 |6|[openpilot-hub/devpilot-intellij](https://github.com/openpilot-hub/devpilot-intellij)|Your new coding buddy, designed exclusively for IntelliJ IDEA.|566|2024-02-20|2023-11-29|
-|7|[waityousea/xuniren](https://github.com/waityousea/xuniren)|-|472|2024-01-08|2023-04-21|
-|8|[Linux-CN/archive](https://github.com/Linux-CN/archive)|Linux.cn Archive|468|2024-03-06|2024-02-14|
+|7|[Linux-CN/archive](https://github.com/Linux-CN/archive)|Linux.cn Archive|472|2024-03-06|2024-02-14|
+|8|[waityousea/xuniren](https://github.com/waityousea/xuniren)|-|472|2024-01-08|2023-04-21|
 |9|[x-dr/tts](https://github.com/x-dr/tts)|微软azure文本转语音 音频下载|381|2024-01-19|2023-08-19|
 |10|[Sha1rholder/use-ChatGPT-in-GFW](https://github.com/Sha1rholder/use-ChatGPT-in-GFW)|在中国境内使用OpenAI服务的方法|331|2023-10-31|2023-04-17|
-|11|[favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp)|🤙 Easy replacement for LaTeX Beamer! 🥂 custom Marp templates with a selection of over a dozen themes|301|2024-02-27|2023-09-23|
+|11|[favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp)|🤙 Easy replacement for LaTeX Beamer! 🥂 custom Marp templates with a selection of over a dozen themes|302|2024-02-27|2023-09-23|
 |12|[guifaChild/text_to_vedio](https://github.com/guifaChild/text_to_vedio)|这是一个由文本直接生成视频的项目|234|2024-01-26|2023-06-12|
 |13|[Chisw/chenzhilong.chat](https://github.com/Chisw/chenzhilong.chat)|志龙啸天录|218|2024-02-19|2023-04-05|
-|14|[cphxj123/Dol-BJX-Ex](https://github.com/cphxj123/Dol-BJX-Ex)|dol北极星扩展|184|2023-12-09|2023-11-16|
+|14|[cphxj123/Dol-BJX-Ex](https://github.com/cphxj123/Dol-BJX-Ex)|dol北极星扩展|186|2023-12-09|2023-11-16|
 |15|[ddzipp/AutoAudit](https://github.com/ddzipp/AutoAudit)|AutoAudit—— the LLM for Cyber Security 网络安全大语言模型|184|2023-09-29|2023-06-27|
 |16|[fewismuch/react-playground](https://github.com/fewismuch/react-playground)|react在线代码编辑器，可实时运行react代码，支持动态引入自定义文件和第三方依赖包|181|2024-02-25|2023-10-09|
-|17|[Guyungy/damaihelper](https://github.com/Guyungy/damaihelper)|支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本|170|2024-03-04|2023-05-12|
+|17|[Guyungy/damaihelper](https://github.com/Guyungy/damaihelper)|支持大麦网，淘票票、缤玩岛等多个平台，演唱会演出抢票脚本|172|2024-03-04|2023-05-12|
 |18|[HT944/QRabbitPro](https://github.com/HT944/QRabbitPro)|新版登录方式|151|2024-03-09|2023-10-15|
-|19|[xyhelper/chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server)|基于chatgpt官网账号转接对外实现API服务|127|2024-03-03|2023-05-26|
+|19|[xyhelper/chatgpt-api-server](https://github.com/xyhelper/chatgpt-api-server)|基于chatgpt官网账号转接对外实现API服务|129|2024-03-03|2023-05-26|
 |20|[v03413/bepusdt](https://github.com/v03413/bepusdt)|一款更好用的个人USDT收款网关，兼容所有 Epusdt 插件，可无缝切换，支持交易所动态汇率、支持Docker一键部署；支持独角发卡 易支付 异次元发卡|108|2023-11-27|2023-10-09|
 |21|[kawika-git/wechatAPI](https://github.com/kawika-git/wechatAPI)|该项目提供了一套强大的微信 API 和 Hook 工具，旨在增强微信的可定制性和开放性，支持多种功能扩展和自定义应用。|98|2024-03-16|2023-11-09|
 |22|[netcccyun/toolbox](https://github.com/netcccyun/toolbox)|彩虹工具箱，一个在线工具箱|95|2023-11-24|2023-09-28|
 |23|[maotoumao/MusicFreeThemePacks](https://github.com/maotoumao/MusicFreeThemePacks)|MusicFreeDesktop版的主题包|90|2023-11-08|2023-07-22|
 |24|[TerraMours/TerraMours_Gpt_Web](https://github.com/TerraMours/TerraMours_Gpt_Web)|TerraMours实战项目，基于vue3.0+ts+naive UI+vite的ChatGPT项目前端。实现用户登陆和基于SK的多语言模型聊天、基于chatgpt和SD的多模型图片生成等功能。|87|2023-12-27|2023-06-12|
-|25|[ZYYO666/homepage](https://github.com/ZYYO666/homepage)|我的个人主页，homepage,个人引导页,简约主页,个人导航|80|2024-03-12|2024-01-11|
-|26|[fenxp/iptv](https://github.com/fenxp/iptv)|自动采集与互联网IPTV|75|2024-03-16|2023-12-06|
-|27|[geeeeeeeek/web_tool](https://github.com/geeeeeeeek/web_tool)|静态响应式网址导航网站，全静态html页面，一键部署安装。在线预览：https://geeeeeeeek.github.io/web_tool/|74|2024-02-08|2023-12-30|
-|28|[mundane799699/Downloads](https://github.com/mundane799699/Downloads)|一款可以下载抖音无水印视频/图片的安卓app|65|2024-01-17|2023-05-19|
-|29|[Jason-wam/Cat-Maven-2023](https://github.com/Jason-wam/Cat-Maven-2023)|资源猫用到的相关数据集|61|2024-02-28|2023-05-02|
-|30|[wy876/wiki](https://github.com/wy876/wiki)|漏洞文库 wiki.wy876.cn|60|2024-03-14|2023-12-31|
-|31|[Cp0204/CasaOS-AppStore-Play](https://github.com/Cp0204/CasaOS-AppStore-Play)|A not-so-serious CasaOS App Store. 一个不是很正经的 CasaOS 应用商店。|60|2024-02-27|2023-06-01|
-|32|[WishMelz/imgur](https://github.com/WishMelz/imgur)|基于imgur的web图片托管页面，即开即用  https://wishmelz.github.io/imgur|59|2024-01-16|2023-08-17|
-|33|[zhugezifang/ai_timeline](https://github.com/zhugezifang/ai_timeline)|AI时间线，产品地址：http://www.ai-timeline.top|58|2024-03-16|2024-03-11|
+|25|[ZYYO666/homepage](https://github.com/ZYYO666/homepage)|我的个人主页，homepage,个人引导页,简约主页,个人导航|83|2024-03-12|2024-01-11|
+|26|[zhugezifang/ai_timeline](https://github.com/zhugezifang/ai_timeline)|AI时间线，产品地址：http://www.ai-timeline.top|75|2024-03-17|2024-03-11|
+|27|[geeeeeeeek/web_tool](https://github.com/geeeeeeeek/web_tool)|静态响应式网址导航网站，全静态html页面，一键部署安装。在线预览：https://geeeeeeeek.github.io/web_tool/|75|2024-02-08|2023-12-30|
+|28|[fenxp/iptv](https://github.com/fenxp/iptv)|自动采集与互联网IPTV|75|2024-03-17|2023-12-06|
+|29|[mundane799699/Downloads](https://github.com/mundane799699/Downloads)|一款可以下载抖音无水印视频/图片的安卓app|65|2024-01-17|2023-05-19|
+|30|[Cp0204/CasaOS-AppStore-Play](https://github.com/Cp0204/CasaOS-AppStore-Play)|A not-so-serious CasaOS App Store. 一个不是很正经的 CasaOS 应用商店。|61|2024-03-17|2023-06-01|
+|31|[Jason-wam/Cat-Maven-2023](https://github.com/Jason-wam/Cat-Maven-2023)|资源猫用到的相关数据集|61|2024-02-28|2023-05-02|
+|32|[wy876/wiki](https://github.com/wy876/wiki)|漏洞文库 wiki.wy876.cn|60|2024-03-14|2023-12-31|
+|33|[WishMelz/imgur](https://github.com/WishMelz/imgur)|基于imgur的web图片托管页面，即开即用  https://wishmelz.github.io/imgur|60|2024-01-16|2023-08-17|
 |34|[sirpdboy/luci-app-chatgpt-web](https://github.com/sirpdboy/luci-app-chatgpt-web)|luci-app-chatgpt 在OPENWRT上实现ChatGPT项目，基于OpenAI API|55|2023-09-22|2023-05-14|
 |35|[AirboZH/halo-theme-chirpy](https://github.com/AirboZH/halo-theme-chirpy)|一个Halo生态，简约且功能丰富的技术博客主题。A minimal, responsive and feature-rich Halo theme for technical writing.|53|2024-03-13|2023-07-11|
 |36|[hzy24/ucas_marpit_slide](https://github.com/hzy24/ucas_marpit_slide)|果壳/国科大slide模板_Written by Marpit|51|2024-01-15|2024-01-13|
 |37|[AngelOver/ChatgptFreeAccount](https://github.com/AngelOver/ChatgptFreeAccount)|Chatgpt免费账号共享、账号共享、plus账号共享|49|2024-01-05|2023-05-06|
-|38|[fangkuia/XPTV](https://github.com/fangkuia/XPTV)|XPTV简单仓库|48|2024-03-15|2023-12-15|
+|38|[fangkuia/XPTV](https://github.com/fangkuia/XPTV)|XPTV简单仓库|48|2024-03-16|2023-12-15|
 |39|[web-abin/vue3-mpa](https://github.com/web-abin/vue3-mpa)|vue3多页面开箱即用脚手架，技术栈vite+vue3+ts+esint+prettier+stulelint+husky+lint-stage+commitlint |48|2024-03-01|2023-04-04|
 |40|[fanmingming/myphp](https://github.com/fanmingming/myphp)|30秒在Vercel构建自己的无服务器php环境并实现国内直连访问。|44|2024-02-23|2023-04-30|
-|41|[ShortX-Repo/ShortX](https://github.com/ShortX-Repo/ShortX)|这是ShortX版本发布与Issue Tracker仓库|36|2024-02-01|2023-07-22|
+|41|[ShortX-Repo/ShortX](https://github.com/ShortX-Repo/ShortX)|这是ShortX版本发布与Issue Tracker仓库|37|2024-02-01|2023-07-22|
 |42|[2881099/AdminBlazor](https://github.com/2881099/AdminBlazor)|AdminBlazor 是一款 Blazor Server SaaS 后台管理项目，支持 RABC 权限菜单/按钮，支持一对一、一对多、多对多代码生成 .razor 界面。  集成功能：菜单、角色、用户、定时任务、数据字典、租户  依赖组件：BootstrapBlazor、FreeSql|35|2024-02-26|2024-01-31|
 |43|[TheSmallHanCat/Better_clash-for-windows](https://github.com/TheSmallHanCat/Better_clash-for-windows)|Windows版clash美化项目|35|2023-11-10|2023-08-04|
 |44|[Jakevin/openai-workshop](https://github.com/Jakevin/openai-workshop)|這是一個整合OpenAI的練習專案，從text-davinci 到 最新的 Whisper 都有使用。This is an integration practice project that uses OpenAI's models from Text-Davinci to the latest Whisper.|34|2023-11-07|2023-03-31|

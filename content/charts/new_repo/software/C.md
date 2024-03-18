@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > C
-<sub>数据更新: 2024-03-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lizongying/my-tv](https://github.com/lizongying/my-tv)|我的电视 电视直播软件，安装即可使用|21316|2024-03-16|2023-12-04|
-|2|[karpathy/llama2.c](https://github.com/karpathy/llama2.c)|Inference Llama 2 in one file of pure C|14589|2024-03-13|2023-07-23|
-|3|[hrvach/deskhop](https://github.com/hrvach/deskhop)|Fast Desktop Switching Device|5605|2024-03-15|2023-12-24|
+|1|[lizongying/my-tv](https://github.com/lizongying/my-tv)|我的电视 电视直播软件，安装即可使用|21411|2024-03-17|2023-12-04|
+|2|[karpathy/llama2.c](https://github.com/karpathy/llama2.c)|Inference Llama 2 in one file of pure C|14605|2024-03-13|2023-07-23|
+|3|[hrvach/deskhop](https://github.com/hrvach/deskhop)|Fast Desktop Switching Device|5621|2024-03-15|2023-12-24|
 |4|[Facico/Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna)|Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca|4117|2024-03-07|2023-03-23|
-|5|[CoretechR/OMOTE](https://github.com/CoretechR/OMOTE)|Open Source Remote Using ESP32 and LVGL|927|2024-03-15|2023-06-18|
+|5|[CoretechR/OMOTE](https://github.com/CoretechR/OMOTE)|Open Source Remote Using ESP32 and LVGL|928|2024-03-16|2023-06-18|
 |6|[RQNG/WouoUI](https://github.com/RQNG/WouoUI)|模仿稚晖君MonoUI风格的超丝滑菜单，使用EC11旋转编码器控制。|711|2024-02-19|2023-04-02|
 |7|[yeyupiaoling/Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune)|Fine-tune the Whisper speech recognition model to support training without timestamp data, training with timestamp data, and training without speech data. Accelerate inference and support Web deployme ...|574|2024-02-06|2023-04-22|
 |8|[huahua132/skynet_fly](https://github.com/huahua132/skynet_fly)|基于云风的skynet，搭建开箱即用的微服务框架，提供优雅的服务热更新|386|2024-03-16|2023-05-27|
 |9|[leafqycc/rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading)|A simple demo of yolov5s running on rk3588/3588s using c++ (about 142 frames). / 一个使用c++在rk3588/3588s上运行的yolov5s简单demo(142帧/s)。|279|2023-12-08|2023-05-05|
 |10|[P001water/yuze](https://github.com/P001water/yuze)|A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式，支持跨平台使用|245|2024-03-06|2024-01-13|
 |11|[libdriver/st7789](https://github.com/libdriver/st7789)|ST7789 full function driver library for general MCU and Linux.|242|2024-02-25|2023-06-05|
-|12|[RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)|chsrc  全平台命令行换源工具|227|2024-01-19|2023-09-03|
-|13|[zhenruyan/WSL-libre-linux-kernel](https://github.com/zhenruyan/WSL-libre-linux-kernel)| Installing a 100% libre(free) linux kernel for wsl,It is possible to celebrate freedom within a cell. 给WSL替换自由内核!!!|221|2024-03-16|2023-07-04|
+|12|[RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)|chsrc  全平台命令行换源工具|228|2024-01-19|2023-09-03|
+|13|[zhenruyan/WSL-libre-linux-kernel](https://github.com/zhenruyan/WSL-libre-linux-kernel)| Installing a 100% libre(free) linux kernel for wsl,It is possible to celebrate freedom within a cell. 给WSL替换自由内核!!!|221|2024-03-17|2023-07-04|
 |14|[veo/nginx_shell](https://github.com/veo/nginx_shell)|nginx WebShell/内存马，更优雅的nignx backdoor|205|2024-01-04|2023-12-20|
 |15|[4ra1n/code-encryptor](https://github.com/4ra1n/code-encryptor)|使用JNI加密字节码，通过JVMTI解密字节码以保护代码，支持自定义包名和密钥，使用魔法禁止黑客dump字节码|143|2024-01-17|2023-09-06|
 |16|[diylxy/LiClock](https://github.com/diylxy/LiClock)|一种兼具易用性与扩展性的多功能墨水屏天气时钟|121|2024-01-17|2023-10-02|
