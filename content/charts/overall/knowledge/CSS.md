@@ -1,29 +1,29 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > CSS
-<sub>数据更新: 2024-03-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20977|2024-03-13|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|18531|2024-03-07|
-|3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8946|2024-03-15|
-|4|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5340|2024-03-15|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|18537|2024-03-07|
+|3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8947|2024-03-15|
+|4|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5342|2024-03-15|
 |5|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4784|2024-01-18|
-|6|[QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks)|Some CSS tricks - 一些 CSS 常用样式|3935|2023-12-05|
+|6|[QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks)|Some CSS tricks - 一些 CSS 常用样式|3934|2023-12-05|
 |7|[lin-xin/blog](https://github.com/lin-xin/blog)|林鑫的个人博客，用于总结平时工作和学习中的经验。|1765|2024-01-20|
 |8|[wizardforcel/lcthw-zh](https://github.com/wizardforcel/lcthw-zh)|:book: 【译】笨办法学C|805|2023-10-31|
 |9|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|684|2024-02-09|
 |10|[jhao104/django-blog](https://github.com/jhao104/django-blog)|django搭建博客|421|2024-02-07|
-|11|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|385|2024-03-19|
-|12|[themagicalmammal/howtolinux](https://github.com/themagicalmammal/howtolinux)|A Webpage with tips, tricks and guides for Linux. (with Algolia Search)|347|2023-10-19|
-|13|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development|342|2024-03-03|
+|11|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|385|2024-03-21|
+|12|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development|369|2024-03-03|
+|13|[themagicalmammal/howtolinux](https://github.com/themagicalmammal/howtolinux)|A Webpage with tips, tricks and guides for Linux. (with Algolia Search)|347|2023-10-19|
 |14|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|332|2023-12-23|
 |15|[aalmiray/java-champions](https://github.com/aalmiray/java-champions)|A list of Java Champions|328|2024-03-19|
 |16|[apachecn/quant-learning](https://github.com/apachecn/quant-learning)|:books: Quant 教程整理|289|2024-01-12|
 |17|[LychApe/DreamCat](https://github.com/LychApe/DreamCat)|DreamCat 是一个极简自适应博客主题,年轻人追梦良品!|274|2024-02-24|
 |18|[InterImm/InterImmBook](https://github.com/InterImm/InterImmBook)|:seedling: The Book of Interplanetary Civilization;星际移民之书. |200|2023-10-15|
-|19|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|174|2024-03-04|
+|19|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|173|2024-03-04|
 |20|[s5s5/CSS-Animations](https://github.com/s5s5/CSS-Animations)|一些在项目中学习、使用CSS的动画心得。与大家一起探讨CSS动画的What How Why。|136|2023-09-26|
 |21|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite 💡|126|2024-03-16|
 |22|[phpple/caddy2-cn-doc](https://github.com/phpple/caddy2-cn-doc)|Caddy 2的中文文档|117|2024-02-20|
@@ -45,11 +45,11 @@
 |38|[yanchunlan/SourceCodeSummary](https://github.com/yanchunlan/SourceCodeSummary)|个人笔记（编译/性能优化/framework/音视频/flutter）|23|2023-11-03|
 |39|[csfive/home](https://github.com/csfive/home)|🐭 计算机废物自学指北|18|2024-03-14|
 |40|[StarDustSheep/pink-room](https://github.com/StarDustSheep/pink-room)|一款思源笔记白天使用的粉色系主题|18|2024-02-09|
-|41|[fscdc/NKU-CS-FSC](https://github.com/fscdc/NKU-CS-FSC)|NKU CS的基本所有课程code和report(更新中)|17|2023-10-31|
-|42|[apachecn/SocialMediaMining-zh](https://github.com/apachecn/SocialMediaMining-zh)|社交媒体挖掘_翻译版|17|2023-12-05|
-|43|[choyy/Timeline-SY](https://github.com/choyy/Timeline-SY)|思源笔记时间线挂件|16|2023-12-14|
-|44|[MR-Addict/Doc-Share](https://github.com/MR-Addict/Doc-Share)|南京工业大学校大学生科协技术部电子组培训学习文档|16|2024-02-14|
-|45|[Monkfishare/Calibre](https://github.com/Monkfishare/Calibre)|The Economist epub/pdf 经济学人，周四晚12:00自动更新（https://monkfishare.github.io/2023）|15|2024-03-18|
+|41|[Monkfishare/Calibre](https://github.com/Monkfishare/Calibre)|The Economist epub/pdf 经济学人，周四晚12:00自动更新（https://monkfishare.github.io/2023）|17|2024-03-21|
+|42|[fscdc/NKU-CS-FSC](https://github.com/fscdc/NKU-CS-FSC)|NKU CS的基本所有课程code和report(更新中)|17|2023-10-31|
+|43|[apachecn/SocialMediaMining-zh](https://github.com/apachecn/SocialMediaMining-zh)|社交媒体挖掘_翻译版|17|2023-12-05|
+|44|[choyy/Timeline-SY](https://github.com/choyy/Timeline-SY)|思源笔记时间线挂件|16|2023-12-14|
+|45|[MR-Addict/Doc-Share](https://github.com/MR-Addict/Doc-Share)|南京工业大学校大学生科协技术部电子组培训学习文档|16|2024-02-14|
 |46|[Shelton786/NOIRNOAH-TranslatedintoChinese](https://github.com/Shelton786/NOIRNOAH-TranslatedintoChinese)|游戏：《NOIR：NOAH》简体中文汉化，由罗布恩农场汉化组汉化，转载请经过许可并标明出处！|15|2023-11-24|
 |47|[zjp-CN/translation](https://github.com/zjp-CN/translation)|翻译的博文|14|2024-03-20|
 |48|[5ime/hexo-theme-i](https://github.com/5ime/hexo-theme-i)|博客自用主题(二开|12|2023-12-31|
@@ -57,21 +57,23 @@
 |50|[nexmoe/bilidx](https://github.com/nexmoe/bilidx)|📕 哔哩哔哩大学，收集哔哩哔哩的学习资源|11|2023-10-15|
 |51|[WaterCalm/LinuxServerInChinese](https://github.com/WaterCalm/LinuxServerInChinese)|翻译LinuxServer.io文档为中文的gitbook|11|2024-02-21|
 |52|[xjq7/awesome-study](https://github.com/xjq7/awesome-study)|Awesome 网址、资源、工具、学习指南等收集库|11|2024-03-08|
-|53|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|2024-03-20|
+|53|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|2024-03-21|
 |54|[rootsongjc/rpi-handbook](https://github.com/rootsongjc/rpi-handbook)|Raspberry Pi Handbook/树莓派实践手册 - https://jimmysong.io/rpi-handbook|10|2023-10-10|
 |55|[hefengbao/one](https://github.com/hefengbao/one)|一个简洁的博客、微博客。|10|2024-01-22|
 |56|[SEC-CAFE/handbook](https://github.com/SEC-CAFE/handbook)|安全手册，企业安全实践、攻防与安全研究知识库|9|2024-03-01|
-|57|[liu75675231/article-crawler](https://github.com/liu75675231/article-crawler)|文章爬虫，会每天都爬取一些有价值的官方文档的博客文章，以便于能得到第一手的更新，教程等信息|9|2024-03-20|
+|57|[liu75675231/article-crawler](https://github.com/liu75675231/article-crawler)|文章爬虫，会每天都爬取一些有价值的官方文档的博客文章，以便于能得到第一手的更新，教程等信息|9|2024-03-21|
 |58|[zino-rs/zino-docs-zh](https://github.com/zino-rs/zino-docs-zh)|Zino开发框架中文教程|8|2024-03-11|
-|59|[YSGStudyHards/EasySQLite](https://github.com/YSGStudyHards/EasySQLite)|七天.NET 8操作SQLite入门到实战详细教程|7|2023-11-27|
-|60|[StarfireLab/phishing](https://github.com/StarfireLab/phishing)|这是一个钓鱼网页，仅供学习参考。|7|2023-09-21|
-|61|[Hiroki-Sawada-y/Hiroki_Study](https://github.com/Hiroki-Sawada-y/Hiroki_Study)|个人学习笔记 obsidian|7|2023-12-05|
-|62|[whidy/UnoCSS-Study-Examples](https://github.com/whidy/UnoCSS-Study-Examples)|自己学习UnoCSS，并准备进行内部前端团队内部分享的资料，包含了许多关于UnoCSS实践的思考|7|2024-01-16|
-|63|[GiaoGiaoCat/GiaoGiaoCat.github.io](https://github.com/GiaoGiaoCat/GiaoGiaoCat.github.io)|一点笔记|7|2024-03-06|
-|64|[chai2010/mdbook-go](https://github.com/chai2010/mdbook-go)|mdBook: Go语言迷你版本|6|2023-10-13|
-|65|[RQYOU/Hazy-Moonlight](https://github.com/RQYOU/Hazy-Moonlight)|A theme for SiYuan. 一款清爽的思源笔记主题。|6|2023-12-17|
-|66|[achuanya/achuanya.github.io](https://github.com/achuanya/achuanya.github.io)|Hi，欢迎来到游钓四方的博客|6|2024-01-23|
-|67|[henson/blog](https://github.com/henson/blog)|个人博客，专注于Golang、Python、树莓派Raspberry Pi的开发和应用。|6|2023-10-26|
+|59|[whidy/UnoCSS-Study-Examples](https://github.com/whidy/UnoCSS-Study-Examples)|自己学习UnoCSS，并准备进行内部前端团队内部分享的资料，包含了许多关于UnoCSS实践的思考|8|2024-01-16|
+|60|[WL2O2O/JavaU8G](https://github.com/WL2O2O/JavaU8G)|📚【Java面试通关秘籍】—— Java_Useful_8股文_Guide（听歌学Java），是备战Java面试与提升技术实力的一站式知识库。内容覆盖Java面试、算法、JavaSE、并发编程、JVM优化、MySQL、OS、中间件、微服务等核心知识点，并包含Spring全家桶及设计模式详解。欢迎关注、star，共同完善和分享！|7|2024-03-20|
+|61|[YSGStudyHards/EasySQLite](https://github.com/YSGStudyHards/EasySQLite)|七天.NET 8操作SQLite入门到实战详细教程|7|2023-11-27|
+|62|[StarfireLab/phishing](https://github.com/StarfireLab/phishing)|这是一个钓鱼网页，仅供学习参考。|7|2023-09-21|
+|63|[Hiroki-Sawada-y/Hiroki_Study](https://github.com/Hiroki-Sawada-y/Hiroki_Study)|个人学习笔记 obsidian|7|2023-12-05|
+|64|[GiaoGiaoCat/GiaoGiaoCat.github.io](https://github.com/GiaoGiaoCat/GiaoGiaoCat.github.io)|一点笔记|7|2024-03-06|
+|65|[chai2010/mdbook-go](https://github.com/chai2010/mdbook-go)|mdBook: Go语言迷你版本|6|2023-10-13|
+|66|[RQYOU/Hazy-Moonlight](https://github.com/RQYOU/Hazy-Moonlight)|A theme for SiYuan. 一款清爽的思源笔记主题。|6|2023-12-17|
+|67|[bosens-China/blog](https://github.com/bosens-China/blog)|个人写博客的地方|6|2024-03-06|
+|68|[achuanya/achuanya.github.io](https://github.com/achuanya/achuanya.github.io)|Hi，欢迎来到游钓四方的博客|6|2024-01-23|
+|69|[henson/blog](https://github.com/henson/blog)|个人博客，专注于Golang、Python、树莓派Raspberry Pi的开发和应用。|6|2023-10-26|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
