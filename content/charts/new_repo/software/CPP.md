@@ -1,40 +1,40 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > C++
-<sub>数据更新: 2024-03-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[chaitin/SafeLine](https://github.com/chaitin/SafeLine)|一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 A free WAF that is sufficiently simple, effective, and powerful. Utilizing industry-leading semantic engine detection technology, it opera ...|8245|2024-03-15|2023-04-12|
-|2|[ztxz16/fastllm](https://github.com/ztxz16/fastllm)|纯c++的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000+token / s，支持glm, llama, moss基座，手机端流畅运行|2930|2024-03-20|2023-05-13|
-|3|[InfpHub/Raptor](https://github.com/InfpHub/Raptor)|第三方阿里云盘桌面应用客户端|1324|2024-03-16|2024-02-12|
-|4|[Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)|Add custom effect to global system title bar, support win10 and win11.|1008|2024-03-10|2024-01-14|
-|5|[KtzeAbyss/Easy-Virtual-Display](https://github.com/KtzeAbyss/Easy-Virtual-Display)|Effortlessly create virtual displays in Windows, capable of supporting various resolutions and refresh rates, suitable for remote control or graphics card spoofing.在win中轻松创建支持多种分辨率和刷新率的虚拟显示器，可用于远程控制或显 ...|801|2024-03-15|2023-09-17|
-|6|[linuxdeepin/deepin-unioncode](https://github.com/linuxdeepin/deepin-unioncode)|IDE authored by deepin|793|2024-03-20|2023-06-29|
-|7|[myzxcg/RealBlindingEDR](https://github.com/myzxcg/RealBlindingEDR)|Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...|627|2024-03-13|2023-10-28|
-|8|[p0358/Fuck_off_EA_App](https://github.com/p0358/Fuck_off_EA_App)|Keep using Origin instead of EA App|626|2023-10-28|2023-06-23|
+|1|[chaitin/SafeLine](https://github.com/chaitin/SafeLine)|一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 A free WAF that is sufficiently simple, effective, and powerful. Utilizing industry-leading semantic engine detection technology, it opera ...|8268|2024-03-22|2023-04-12|
+|2|[ztxz16/fastllm](https://github.com/ztxz16/fastllm)|纯c++的全平台llm加速库，支持python调用，chatglm-6B级模型单卡可达10000+token / s，支持glm, llama, moss基座，手机端流畅运行|2942|2024-03-22|2023-05-13|
+|3|[InfpHub/Raptor](https://github.com/InfpHub/Raptor)|第三方阿里云盘桌面应用客户端|1344|2024-03-16|2024-02-12|
+|4|[Maplespe/DWMBlurGlass](https://github.com/Maplespe/DWMBlurGlass)|Add custom effect to global system title bar, support win10 and win11.|1015|2024-03-10|2024-01-14|
+|5|[KtzeAbyss/Easy-Virtual-Display](https://github.com/KtzeAbyss/Easy-Virtual-Display)|Effortlessly create virtual displays in Windows, capable of supporting various resolutions and refresh rates, suitable for remote control or graphics card spoofing.在win中轻松创建支持多种分辨率和刷新率的虚拟显示器，可用于远程控制或显 ...|815|2024-03-15|2023-09-17|
+|6|[linuxdeepin/deepin-unioncode](https://github.com/linuxdeepin/deepin-unioncode)|IDE authored by deepin|794|2024-03-22|2023-06-29|
+|7|[myzxcg/RealBlindingEDR](https://github.com/myzxcg/RealBlindingEDR)|Remove AV/EDR Kernel ObRegisterCallbacks、CmRegisterCallback、MiniFilter Callback、PsSetCreateProcessNotifyRoutine Callback、PsSetCreateThreadNotifyRoutine Callback、PsSetLoadImageNotifyRoutine Callback...|631|2024-03-13|2023-10-28|
+|8|[p0358/Fuck_off_EA_App](https://github.com/p0358/Fuck_off_EA_App)|Keep using Origin instead of EA App|630|2023-10-28|2023-06-23|
 |9|[MegEngine/InferLLM](https://github.com/MegEngine/InferLLM)|a lightweight LLM model inference framework|587|2023-10-10|2023-05-04|
 |10|[xland/ScreenCapture](https://github.com/xland/ScreenCapture)|A multifunctional screen capture program|371|2024-03-01|2023-04-08|
-|11|[DeployAI/nndeploy](https://github.com/DeployAI/nndeploy)|nndeploy is a cross-platform, high-performing, and straightforward AI model deployment framework. We strive to deliver a consistent and user-friendly experience across various inference framework in c ...|359|2024-03-20|2023-08-08|
+|11|[DeployAI/nndeploy](https://github.com/DeployAI/nndeploy)|nndeploy is a cross-platform, high-performing, and straightforward AI model deployment framework. We strive to deliver a consistent and user-friendly experience across various inference framework in c ...|361|2024-03-21|2023-08-08|
 |12|[snnxyss/In-Swor](https://github.com/snnxyss/In-Swor)|永久免杀加载器移步另一个项目https://github.com/snnxyss/new_in_swor 一个简单内网渗透工具免杀 目前免杀fscan,mimikatz,frp,elevationstation,bypassuac, 一键killAV 。请使用In-Swor(x64版本)360报毒qvm20请更换exe图标资源。|358|2023-12-21|2023-08-04|
-|13|[MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework)|基于图像识别的自动化黑盒测试框架   An automation black-box testing framework based on image recognition|349|2024-03-20|2023-04-24|
+|13|[MaaXYZ/MaaFramework](https://github.com/MaaXYZ/MaaFramework)|基于图像识别的自动化黑盒测试框架   An automation black-box testing framework based on image recognition|354|2024-03-22|2023-04-24|
 |14|[melon/qingwu-zimu](https://github.com/melon/qingwu-zimu)|青梧字幕是一款基于whisper的AI字幕提取工具|344|2024-03-14|2024-02-27|
 |15|[heyManNice/EasyMusic](https://github.com/heyManNice/EasyMusic)|这是一个致力于用C++和win32api打造的开源第三方网易云音乐。|333|2023-10-12|2023-10-01|
 |16|[huakunyang/SummerTTS](https://github.com/huakunyang/SummerTTS)|SummerTTS 是一个基于C++的独立编译的中文和英文语音合成项目，可以本地运行不需要网络，而且没有额外的依赖，一键编译完成即可用于中文和英文的语音合成。SummerTTS is a  standalone Chinese and English speech synthesis(TTS) project that has almost no dependency and could be e ...|320|2024-01-10|2023-04-20|
-|17|[losehu/uv-k5-firmware-custom](https://github.com/losehu/uv-k5-firmware-custom)|全功能泉盛UV-K5/K6固件 Quansheng UV-K5/K6 Firmware|303|2024-03-13|2023-11-30|
-|18|[alibaba/rtp-llm](https://github.com/alibaba/rtp-llm)|RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.|295|2024-03-19|2023-12-27|
+|17|[losehu/uv-k5-firmware-custom](https://github.com/losehu/uv-k5-firmware-custom)|全功能泉盛UV-K5/K6固件 Quansheng UV-K5/K6 Firmware|308|2024-03-13|2023-11-30|
+|18|[alibaba/rtp-llm](https://github.com/alibaba/rtp-llm)|RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.|300|2024-03-19|2023-12-27|
 |19|[MaaAssistantArknights/M9A](https://github.com/MaaAssistantArknights/M9A)|1999 小助手|280|2024-02-13|2023-05-20|
-|20|[Alan-CRL/Intelligent-Drawing-Teaching](https://github.com/Alan-CRL/Intelligent-Drawing-Teaching)|智绘教，适用于 Windows 的屏幕批注工具，高效批注和丰富功能，只为尽可能地提高课堂教学效率，适用于触摸屏设备和PC端。|219|2024-03-17|2023-09-20|
-|21|[pcb9382/FaceAlgorithm](https://github.com/pcb9382/FaceAlgorithm)|face detection   face recognition包含人脸检测(retinaface,yolov5face,yolov7face,yolov8face),人脸检测跟踪(ByteTracker)，人脸角度计算（Face_Angle）人脸矫正(Face_Aligner)，人脸识别(Arcface)，口罩检测(MaskRecognitiion)，年龄性别检测(Gender_age)，静默 ...|199|2024-03-04|2023-06-13|
-|22|[LiteLoaderQQNT/QQNTFileVerifyPatch](https://github.com/LiteLoaderQQNT/QQNTFileVerifyPatch)|逆他妈的QQNT Patch文件检测|196|2024-03-08|2023-12-12|
-|23|[RQNG/WOW-OS](https://github.com/RQNG/WOW-OS)|简易的拖影风格多级菜单系统，满足小设备功能设置和展示的基本需求|187|2024-03-07|2023-08-27|
-|24|[sunkafei/xcpc-algorithm-templates](https://github.com/sunkafei/xcpc-algorithm-templates)|XCPC/ICPC/CCPC 算法模板|167|2024-03-12|2023-07-12|
-|25|[BFEMCC/Qt-widget-Fancy_UI](https://github.com/BFEMCC/Qt-widget-Fancy_UI)|Fancy UI - C++/Qt widget UI Controls Built with C++ and tailored for Qt Widgets. Optimized for Qt6, ensuring compatibility with the latest Qt version.|140|2024-02-18|2023-08-30|
-|26|[xiaonian233/genshin-fps-unlock](https://github.com/xiaonian233/genshin-fps-unlock)|Genshin Impact Fps Unlock 原神帧率解锁|131|2024-03-13|2023-05-25|
-|27|[1461521844lijin/trt_yolo_video_pipeline](https://github.com/1461521844lijin/trt_yolo_video_pipeline)|TensorRT+YOLO系列的 多路 多卡 多实例 并行视频分析处理案例|126|2024-01-08|2023-06-18|
+|20|[Alan-CRL/Intelligent-Drawing-Teaching](https://github.com/Alan-CRL/Intelligent-Drawing-Teaching)|智绘教，适用于 Windows 的屏幕批注工具，高效批注和丰富功能，只为尽可能地提高课堂教学效率，适用于触摸屏设备和PC端。|219|2024-03-22|2023-09-20|
+|21|[LiteLoaderQQNT/QQNTFileVerifyPatch](https://github.com/LiteLoaderQQNT/QQNTFileVerifyPatch)|逆他妈的QQNT Patch文件检测|201|2024-03-21|2023-12-12|
+|22|[pcb9382/FaceAlgorithm](https://github.com/pcb9382/FaceAlgorithm)|face detection   face recognition包含人脸检测(retinaface,yolov5face,yolov7face,yolov8face),人脸检测跟踪(ByteTracker)，人脸角度计算（Face_Angle）人脸矫正(Face_Aligner)，人脸识别(Arcface)，口罩检测(MaskRecognitiion)，年龄性别检测(Gender_age)，静默 ...|199|2024-03-04|2023-06-13|
+|23|[RQNG/WOW-OS](https://github.com/RQNG/WOW-OS)|简易的拖影风格多级菜单系统，满足小设备功能设置和展示的基本需求|189|2024-03-07|2023-08-27|
+|24|[sunkafei/xcpc-algorithm-templates](https://github.com/sunkafei/xcpc-algorithm-templates)|XCPC/ICPC/CCPC 算法模板|183|2024-03-12|2023-07-12|
+|25|[BFEMCC/Qt-widget-Fancy_UI](https://github.com/BFEMCC/Qt-widget-Fancy_UI)|Fancy UI - C++/Qt widget UI Controls Built with C++ and tailored for Qt Widgets. Optimized for Qt6, ensuring compatibility with the latest Qt version.|141|2024-02-18|2023-08-30|
+|26|[xiaonian233/genshin-fps-unlock](https://github.com/xiaonian233/genshin-fps-unlock)|Genshin Impact Fps Unlock 原神帧率解锁|132|2024-03-13|2023-05-25|
+|27|[1461521844lijin/trt_yolo_video_pipeline](https://github.com/1461521844lijin/trt_yolo_video_pipeline)|TensorRT+YOLO系列的 多路 多卡 多实例 并行视频分析处理案例|127|2024-01-08|2023-06-18|
 |28|[sponsord/profanity-tron](https://github.com/sponsord/profanity-tron)| 🚀 波场（TRX）靓号生成器，利用 gpu 进行加速，代码开源，安全可靠。Tron(TRX) vanity address generator, use GPU, opensource, safety, enjoy.|126|2024-01-02|2023-04-25|
-|29|[EEEEhex/QQImpl](https://github.com/EEEEhex/QQImpl)|逆向调用QQ Mojo IPC与WeChat XPlugin|114|2024-01-19|2023-09-08|
-|30|[Joe1sn/S-inject](https://github.com/Joe1sn/S-inject)|支持x86/x64的DLL和Shellcode 的Windows注入的免杀工具|110|2024-03-08|2024-02-05|
+|29|[EEEEhex/QQImpl](https://github.com/EEEEhex/QQImpl)|逆向调用QQ Mojo IPC与WeChat XPlugin|116|2024-01-19|2023-09-08|
+|30|[Joe1sn/S-inject](https://github.com/Joe1sn/S-inject)|支持x86/x64的DLL和Shellcode 的Windows注入的免杀工具|113|2024-03-08|2024-02-05|
 |31|[pcb9382/PlateRecognition](https://github.com/pcb9382/PlateRecognition)|License-Plate-Recognition 支持12种车牌检测识别，包含yolov5,yolov7,yolov8车牌检测，车牌矫正，车牌识别等，准确率高达99.5% 还有车牌数据集提供下载|106|2024-03-04|2023-09-06|
 |32|[hiroi-sora/RapidOCR-json](https://github.com/hiroi-sora/RapidOCR-json)|OCR离线图片文字识别命令行windows程序，以JSON字符串形式输出结果，方便别的程序调用。基于 RapidOcrOnnx 。|96|2023-12-29|2023-04-29|
 |33|[1y0n/AVKiller](https://github.com/1y0n/AVKiller)|一种通过进程注入实现强制关闭部分杀软进程的方法（以360安全卫士和360杀毒为例）|92|2023-12-26|2023-12-19|
