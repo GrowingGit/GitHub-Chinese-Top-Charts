@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Assembly
-<sub>数据更新: 2024-03-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|56270|15|2024-03-10|
-|2|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6169|6|2024-03-22|
-|3|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10544|2|2024-03-22|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|56278|15|2024-03-10|
+|2|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6173|6|2024-03-23|
+|3|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10546|2|2024-03-22|
 |4|[KristianLi/Assembler_lab_homework](https://github.com/KristianLi/Assembler_lab_homework)|汇编作业|2|0|2023-12-21|
 |5|[Wokann/GBA_Cardcaptor_Sakura_SCdMG_chs](https://github.com/Wokann/GBA_Cardcaptor_Sakura_SCdMG_chs)|Chinese translation patch of GBA game "Cardcaptor Sakura - Sakura Card de Mini Game (Japan)" 魔卡少女樱-小樱牌的迷你游戏|4|0|2023-11-07|
 |6|[mengning/linuxkernel](https://github.com/mengning/linuxkernel)|操作系统导论教学资料、《庖丁解牛Linux内核》配套资料|253|0|2024-03-20|

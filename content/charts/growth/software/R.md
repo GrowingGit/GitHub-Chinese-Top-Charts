@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2024-03-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -24,7 +24,7 @@
 |17|[womeimingzi11/amapGeocode](https://github.com/womeimingzi11/amapGeocode)|An Interface to the AutoNavi Maps API Geocoding Services|11|0|2023-10-31|
 |18|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|274|0|2023-12-12|
 |19|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|453|0|2024-03-22|
-|20|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|515|0|2024-03-13|
+|20|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|517|0|2024-03-13|
 |21|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|95|0|2024-01-13|
 |22|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|19|0|2024-02-16|
 |23|[gesistsa/sweater](https://github.com/gesistsa/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|27|0|2023-11-10|
@@ -33,7 +33,7 @@
 |26|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |42|0|2024-01-21|
 |27|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|169|0|2024-03-11|
 |28|[koheiw/seededlda](https://github.com/koheiw/seededlda)|LDA for semisupervised topic modeling|62|0|2024-03-21|
-|29|[wu-yc/scMetabolism](https://github.com/wu-yc/scMetabolism)|Quantifying metabolism activity at the single-cell resolution|80|0|2024-02-08|
+|29|[wu-yc/scMetabolism](https://github.com/wu-yc/scMetabolism)|Quantifying metabolism activity at the single-cell resolution|81|0|2024-02-08|
 |30|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|156|0|2024-03-05|
 |31|[quanteda/readtext](https://github.com/quanteda/readtext)|an R package for reading text files|115|0|2024-02-27|
 |32|[lcpmgh/NPMCM](https://github.com/lcpmgh/NPMCM)|中国研究生数学建模竞赛获奖数据及可视化分析|11|0|2024-03-07|

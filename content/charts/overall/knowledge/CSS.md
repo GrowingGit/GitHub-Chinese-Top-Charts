@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > CSS
-<sub>数据更新: 2024-03-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20980|2024-03-13|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|18542|2024-03-07|
-|3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8947|2024-03-15|
-|4|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5344|2024-03-15|
+|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20981|2024-03-13|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|18546|2024-03-07|
+|3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8948|2024-03-15|
+|4|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5343|2024-03-15|
 |5|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4784|2024-01-18|
 |6|[QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks)|Some CSS tricks - 一些 CSS 常用样式|3934|2023-12-05|
 |7|[lin-xin/blog](https://github.com/lin-xin/blog)|林鑫的个人博客，用于总结平时工作和学习中的经验。|1765|2024-01-20|
 |8|[wizardforcel/lcthw-zh](https://github.com/wizardforcel/lcthw-zh)|:book: 【译】笨办法学C|805|2023-10-31|
-|9|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|684|2024-02-09|
-|10|[jhao104/django-blog](https://github.com/jhao104/django-blog)|django搭建博客|421|2024-02-07|
-|11|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development|407|2024-03-03|
-|12|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|385|2024-03-21|
-|13|[themagicalmammal/howtolinux](https://github.com/themagicalmammal/howtolinux)|A Webpage with tips, tricks and guides for Linux. (with Algolia Search)|347|2023-10-19|
+|9|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|685|2024-02-09|
+|10|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development|436|2024-03-03|
+|11|[jhao104/django-blog](https://github.com/jhao104/django-blog)|django搭建博客|420|2024-02-07|
+|12|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|385|2024-03-23|
+|13|[themagicalmammal/howtolinux](https://github.com/themagicalmammal/howtolinux)|A Webpage with tips, tricks and guides for Linux. (with Algolia Search)|346|2023-10-19|
 |14|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|332|2023-12-23|
 |15|[aalmiray/java-champions](https://github.com/aalmiray/java-champions)|A list of Java Champions|328|2024-03-19|
 |16|[apachecn/quant-learning](https://github.com/apachecn/quant-learning)|:books: Quant 教程整理|289|2024-01-12|
@@ -40,12 +40,12 @@
 |33|[Zh40Le1ZOOB/YaoNiangDeTianKong-Fix](https://github.com/Zh40Le1ZOOB/YaoNiangDeTianKong-Fix)|《药娘的天空》精修版|32|2023-12-19|
 |34|[lewton/bilibili-public](https://github.com/lewton/bilibili-public)|b站代码示例代码合集|31|2023-12-30|
 |35|[kujian/zanshang](https://github.com/kujian/zanshang)|仿知乎的赞赏|27|2023-10-25|
-|36|[piginzoo/finance-toolbox](https://github.com/piginzoo/finance-toolbox)|我的投资电子书|24|2023-12-29|
-|37|[meethigher/hexo-theme-starry](https://github.com/meethigher/hexo-theme-starry)|已被官方收录的hexo主题-Starry，采用ejs跟less开发。技术限制，目前还有很多优化未实现，学习ing。基于很多大佬开源的插件，感谢！|24|2024-02-06|
+|36|[meethigher/hexo-theme-starry](https://github.com/meethigher/hexo-theme-starry)|已被官方收录的hexo主题-Starry，采用ejs跟less开发。技术限制，目前还有很多优化未实现，学习ing。基于很多大佬开源的插件，感谢！|26|2024-02-06|
+|37|[piginzoo/finance-toolbox](https://github.com/piginzoo/finance-toolbox)|我的投资电子书|25|2023-12-29|
 |38|[yanchunlan/SourceCodeSummary](https://github.com/yanchunlan/SourceCodeSummary)|个人笔记（编译/性能优化/framework/音视频/flutter）|23|2023-11-03|
 |39|[csfive/home](https://github.com/csfive/home)|🐭 计算机废物自学指北|18|2024-03-14|
 |40|[StarDustSheep/pink-room](https://github.com/StarDustSheep/pink-room)|一款思源笔记白天使用的粉色系主题|18|2024-02-09|
-|41|[Monkfishare/Calibre](https://github.com/Monkfishare/Calibre)|The Economist epub/pdf 经济学人，周四晚12:00自动更新（https://monkfishare.github.io/2023）|17|2024-03-21|
+|41|[Monkfishare/Calibre](https://github.com/Monkfishare/Calibre)|The Economist epub/pdf 经济学人，周四晚12:00自动更新（https://monkfishare.github.io/2023）|17|2024-03-23|
 |42|[fscdc/NKU-CS-FSC](https://github.com/fscdc/NKU-CS-FSC)|NKU CS的基本所有课程code和report(更新中)|17|2023-10-31|
 |43|[apachecn/SocialMediaMining-zh](https://github.com/apachecn/SocialMediaMining-zh)|社交媒体挖掘_翻译版|17|2023-12-05|
 |44|[choyy/Timeline-SY](https://github.com/choyy/Timeline-SY)|思源笔记时间线挂件|16|2023-12-14|
@@ -57,11 +57,11 @@
 |50|[nexmoe/bilidx](https://github.com/nexmoe/bilidx)|📕 哔哩哔哩大学，收集哔哩哔哩的学习资源|11|2023-10-15|
 |51|[WaterCalm/LinuxServerInChinese](https://github.com/WaterCalm/LinuxServerInChinese)|翻译LinuxServer.io文档为中文的gitbook|11|2024-02-21|
 |52|[xjq7/awesome-study](https://github.com/xjq7/awesome-study)|Awesome 网址、资源、工具、学习指南等收集库|11|2024-03-08|
-|53|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|2024-03-22|
+|53|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|2024-03-23|
 |54|[rootsongjc/rpi-handbook](https://github.com/rootsongjc/rpi-handbook)|Raspberry Pi Handbook/树莓派实践手册 - https://jimmysong.io/rpi-handbook|10|2023-10-10|
 |55|[hefengbao/one](https://github.com/hefengbao/one)|一个简洁的博客、微博客。|10|2024-01-22|
 |56|[SEC-CAFE/handbook](https://github.com/SEC-CAFE/handbook)|安全手册，企业安全实践、攻防与安全研究知识库|9|2024-03-01|
-|57|[liu75675231/article-crawler](https://github.com/liu75675231/article-crawler)|文章爬虫，会每天都爬取一些有价值的官方文档的博客文章，以便于能得到第一手的更新，教程等信息|9|2024-03-22|
+|57|[liu75675231/article-crawler](https://github.com/liu75675231/article-crawler)|文章爬虫，会每天都爬取一些有价值的官方文档的博客文章，以便于能得到第一手的更新，教程等信息|9|2024-03-23|
 |58|[zino-rs/zino-docs-zh](https://github.com/zino-rs/zino-docs-zh)|Zino开发框架中文教程|8|2024-03-11|
 |59|[whidy/UnoCSS-Study-Examples](https://github.com/whidy/UnoCSS-Study-Examples)|自己学习UnoCSS，并准备进行内部前端团队内部分享的资料，包含了许多关于UnoCSS实践的思考|8|2024-01-16|
 |60|[WL2O2O/JavaU8G](https://github.com/WL2O2O/JavaU8G)|📚【Java面试通关秘籍】—— Java_Useful_8股文_Guide（听歌学Java），是备战Java面试与提升技术实力的一站式知识库。内容覆盖Java面试、算法、JavaSE、并发编程、JVM优化、MySQL、OS、中间件、微服务等核心知识点，并包含Spring全家桶及设计模式详解。欢迎关注、star，共同完善和分享！|7|2024-03-20|
