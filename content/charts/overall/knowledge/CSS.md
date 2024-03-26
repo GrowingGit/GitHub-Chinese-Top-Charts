@@ -1,31 +1,31 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > CSS
-<sub>数据更新: 2024-03-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20981|2024-03-13|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|18550|2024-03-07|
+|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|20980|2024-03-13|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|18558|2024-03-07|
 |3|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8948|2024-03-15|
-|4|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5344|2024-03-15|
+|4|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5348|2024-03-15|
 |5|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4784|2024-01-18|
-|6|[QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks)|Some CSS tricks - 一些 CSS 常用样式|3935|2023-12-05|
+|6|[QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks)|Some CSS tricks - 一些 CSS 常用样式|3936|2023-12-05|
 |7|[lin-xin/blog](https://github.com/lin-xin/blog)|林鑫的个人博客，用于总结平时工作和学习中的经验。|1765|2024-01-20|
 |8|[wizardforcel/lcthw-zh](https://github.com/wizardforcel/lcthw-zh)|:book: 【译】笨办法学C|805|2023-10-31|
-|9|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|685|2024-02-09|
-|10|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development|459|2024-03-03|
+|9|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|686|2024-02-09|
+|10|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development|490|2024-03-03|
 |11|[jhao104/django-blog](https://github.com/jhao104/django-blog)|django搭建博客|420|2024-02-07|
 |12|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|386|2024-03-24|
 |13|[themagicalmammal/howtolinux](https://github.com/themagicalmammal/howtolinux)|A Webpage with tips, tricks and guides for Linux. (with Algolia Search)|346|2023-10-19|
 |14|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|332|2023-12-23|
-|15|[aalmiray/java-champions](https://github.com/aalmiray/java-champions)|A list of Java Champions|328|2024-03-19|
+|15|[aalmiray/java-champions](https://github.com/aalmiray/java-champions)|A list of Java Champions|328|2024-03-25|
 |16|[apachecn/quant-learning](https://github.com/apachecn/quant-learning)|:books: Quant 教程整理|289|2024-01-12|
 |17|[LychApe/DreamCat](https://github.com/LychApe/DreamCat)|DreamCat 是一个极简自适应博客主题,年轻人追梦良品!|275|2024-02-24|
 |18|[InterImm/InterImmBook](https://github.com/InterImm/InterImmBook)|:seedling: The Book of Interplanetary Civilization;星际移民之书. |200|2023-10-15|
 |19|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|173|2024-03-04|
 |20|[s5s5/CSS-Animations](https://github.com/s5s5/CSS-Animations)|一些在项目中学习、使用CSS的动画心得。与大家一起探讨CSS动画的What How Why。|136|2023-09-26|
-|21|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite 💡|126|2024-03-16|
+|21|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite 💡|127|2024-03-16|
 |22|[phpple/caddy2-cn-doc](https://github.com/phpple/caddy2-cn-doc)|Caddy 2的中文文档|117|2024-02-20|
 |23|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主打解析编码器内部逻辑和参数说明，从基础到全网没人讲的算法，没人画的图解，没人做的排版整理全都在此集齐；因此叫Ultimate Tutorial|112|2024-01-30|
 |24|[hangbale/photography-blog](https://github.com/hangbale/photography-blog)|photography blog generator - 摄影类静态博客生成器|91|2023-12-24|
@@ -36,7 +36,7 @@
 |29|[Anyway-FM/Anyway.Tab](https://github.com/Anyway-FM/Anyway.Tab)|把 Anyway.FM 官网《安妮薇看看》里的链接链接推荐显示在 Chrome 新建 Tab 上，同时推送新番的提醒|59|2024-02-27|
 |30|[Theo-messi/Streaming-Media-Forest](https://github.com/Theo-messi/Streaming-Media-Forest)|流媒体森林 - 全方位流媒体 观影指南 引领您进入五彩斑斓的视听世界，并涵盖了 Netflix 、Disney+ 、Spotify会员 和 YouTube会员 的精彩领域|42|2023-11-26|
 |31|[zhheo/Wechat-Official-Account-Web](https://github.com/zhheo/Wechat-Official-Account-Web)|微信公众号的关注界面|41|2023-12-22|
-|32|[88825/wereadx](https://github.com/88825/wereadx)|微信读书辅助工具，可用于书籍下载及自动阅读、自动兑换体验卡等|38|2023-12-25|
+|32|[88825/wereadx](https://github.com/88825/wereadx)|微信读书辅助工具，可用于书籍下载及自动阅读、自动兑换体验卡等|39|2023-12-25|
 |33|[Zh40Le1ZOOB/YaoNiangDeTianKong-Fix](https://github.com/Zh40Le1ZOOB/YaoNiangDeTianKong-Fix)|《药娘的天空》精修版|32|2023-12-19|
 |34|[lewton/bilibili-public](https://github.com/lewton/bilibili-public)|b站代码示例代码合集|31|2023-12-30|
 |35|[kujian/zanshang](https://github.com/kujian/zanshang)|仿知乎的赞赏|27|2023-10-25|
@@ -45,10 +45,10 @@
 |38|[yanchunlan/SourceCodeSummary](https://github.com/yanchunlan/SourceCodeSummary)|个人笔记（编译/性能优化/framework/音视频/flutter）|23|2023-11-03|
 |39|[csfive/home](https://github.com/csfive/home)|🐭 计算机废物自学指北|18|2024-03-14|
 |40|[StarDustSheep/pink-room](https://github.com/StarDustSheep/pink-room)|一款思源笔记白天使用的粉色系主题|18|2024-02-09|
-|41|[Monkfishare/Calibre](https://github.com/Monkfishare/Calibre)|The Economist epub/pdf 经济学人，周四晚12:00自动更新（https://monkfishare.github.io/2023）|17|2024-03-23|
+|41|[Monkfishare/Calibre](https://github.com/Monkfishare/Calibre)|The Economist epub/pdf 经济学人，周四晚12:00自动更新（https://monkfishare.github.io/2023）|17|2024-03-25|
 |42|[fscdc/NKU-CS-FSC](https://github.com/fscdc/NKU-CS-FSC)|NKU CS的基本所有课程code和report(更新中)|17|2023-10-31|
-|43|[apachecn/SocialMediaMining-zh](https://github.com/apachecn/SocialMediaMining-zh)|社交媒体挖掘_翻译版|17|2023-12-05|
-|44|[choyy/Timeline-SY](https://github.com/choyy/Timeline-SY)|思源笔记时间线挂件|16|2023-12-14|
+|43|[choyy/Timeline-SY](https://github.com/choyy/Timeline-SY)|思源笔记时间线挂件|17|2023-12-14|
+|44|[apachecn/SocialMediaMining-zh](https://github.com/apachecn/SocialMediaMining-zh)|社交媒体挖掘_翻译版|17|2023-12-05|
 |45|[MR-Addict/Doc-Share](https://github.com/MR-Addict/Doc-Share)|南京工业大学校大学生科协技术部电子组培训学习文档|16|2024-02-14|
 |46|[Shelton786/NOIRNOAH-TranslatedintoChinese](https://github.com/Shelton786/NOIRNOAH-TranslatedintoChinese)|游戏：《NOIR：NOAH》简体中文汉化，由罗布恩农场汉化组汉化，转载请经过许可并标明出处！|15|2023-11-24|
 |47|[zjp-CN/translation](https://github.com/zjp-CN/translation)|翻译的博文|14|2024-03-20|
@@ -57,7 +57,7 @@
 |50|[nexmoe/bilidx](https://github.com/nexmoe/bilidx)|📕 哔哩哔哩大学，收集哔哩哔哩的学习资源|11|2023-10-15|
 |51|[WaterCalm/LinuxServerInChinese](https://github.com/WaterCalm/LinuxServerInChinese)|翻译LinuxServer.io文档为中文的gitbook|11|2024-02-21|
 |52|[xjq7/awesome-study](https://github.com/xjq7/awesome-study)|Awesome 网址、资源、工具、学习指南等收集库|11|2024-03-08|
-|53|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|2024-03-24|
+|53|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|2024-03-25|
 |54|[rootsongjc/rpi-handbook](https://github.com/rootsongjc/rpi-handbook)|Raspberry Pi Handbook/树莓派实践手册 - https://jimmysong.io/rpi-handbook|10|2023-10-10|
 |55|[hefengbao/one](https://github.com/hefengbao/one)|一个简洁的博客、微博客。|10|2024-01-22|
 |56|[SEC-CAFE/handbook](https://github.com/SEC-CAFE/handbook)|安全手册，企业安全实践、攻防与安全研究知识库|9|2024-03-01|
