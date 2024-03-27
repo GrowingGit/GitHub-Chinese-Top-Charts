@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2024-03-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[msfm2018/WinBarOS](https://github.com/msfm2018/WinBarOS)|效率软件 小工具大方便|15|0|2023-12-17|
 |2|[kewuaa/uestc_wifi_helper](https://github.com/kewuaa/uestc_wifi_helper)|电子科技大学（UESTC）校园网登录|18|0|2024-03-10|
-|3|[xenli/OneLazarus](https://github.com/xenli/OneLazarus)|OneLazarus是叫兽(FLM)QQ:378464060基于Lazarus IDE开发的三层中间件，开源免费，支持MVC及传统DataSet框架，使用的是Mormot2的HTTP通讯。【OnePascal开源群】：814696487|7|0|2023-12-13|
+|3|[xenli/OneLazarus](https://github.com/xenli/OneLazarus)|OneLazarus是叫兽(FLM)QQ:378464060基于Lazarus IDE开发的三层中间件，开源免费，支持MVC及传统DataSet框架，使用的是Mormot2的HTTP通讯。【OnePascal开源群】：814696487|8|0|2023-12-13|
 |4|[digao-dalpiaz/Dam](https://github.com/digao-dalpiaz/Dam)|Delphi and Lazarus Message Dialogs with Formatted Text|123|0|2024-03-25|
 |5|[xenli/OneDelphi](https://github.com/xenli/OneDelphi)|OneDelphi是叫兽(FLM)QQ:378464060基于Delphi IDE开发的三层中间件，开源免费，支持MVC及传统DataSet框架，使用的是Mormot2的HTTP通讯。【OnePascal开源群】：814696487|35|0|2023-12-15|
 |6|[PassByYou888/ZNet](https://github.com/PassByYou888/ZNet)|ZNet is supported by future P2P VM, big data, cloud servers, and SAAS systems|50|0|2024-03-15|
-|7|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|548|0|2024-03-24|
+|7|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|549|0|2024-03-26|
 |8|[hkoi/hkoi-solutions](https://github.com/hkoi/hkoi-solutions)|HKOI Final Event solutions|12|0|2024-02-28|
 |9|[ying32/liblcl](https://github.com/ying32/liblcl)|A common cross-platform GUI library, the core uses Lazarus LCL.|118|0|2023-12-27|
 |10|[ymofen/diocp-v5](https://github.com/ymofen/diocp-v5)|delphi iocp, http, websocket, ntrip|236|0|2024-02-22|

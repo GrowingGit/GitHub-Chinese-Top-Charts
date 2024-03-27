@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2024-03-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -13,8 +13,8 @@
 |6|[cocoaroger/SoundWavesView](https://github.com/cocoaroger/SoundWavesView)|模仿微信语音发送动效|6|2023-11-27|2023-11-27|
 |7|[zhYes/xiaomiShop](https://github.com/zhYes/xiaomiShop)|最新flutter3.x利用Getx框架结构空余时间仿写的小米商城|6|2023-12-01|2023-11-16|
 |8|[zhouxing5311/StickerViewer](https://github.com/zhouxing5311/StickerViewer)|微信表情查看器|5|2024-02-28|2024-02-27|
-|9|[evendevil66/alibc4](https://github.com/evendevil66/alibc4)|flutter阿里百川4.x插件|4|2023-12-09|2023-12-08|
-|10|[AlianBlank/io.sentry.unity](https://github.com/AlianBlank/io.sentry.unity)|从Sentry二次分发而来|4|2023-12-02|2023-12-02|
+|9|[AlianBlank/io.sentry.unity](https://github.com/AlianBlank/io.sentry.unity)|从Sentry二次分发而来|5|2023-12-02|2023-12-02|
+|10|[evendevil66/alibc4](https://github.com/evendevil66/alibc4)|flutter阿里百川4.x插件|4|2023-12-09|2023-12-08|
 |11|[GE-GAO-ZHAO/HuntingZombiesTool](https://github.com/GE-GAO-ZHAO/HuntingZombiesTool)|iOS OC野指针扑获工具|3|2024-03-07|2023-12-20|
 |12|[MyNameZhangXinMiao/TagView](https://github.com/MyNameZhangXinMiao/TagView)|仿京东、淘宝展开/收起标签,支持自定义且自动适应宽高. 高度自定义.标签试图|3|2023-11-08|2023-11-08|
 |13|[NSSONGMENG/LaunchOrganizer](https://github.com/NSSONGMENG/LaunchOrganizer)|iOS启动任务管理，方便构造启动保护策略。|3|2023-10-09|2023-08-07|

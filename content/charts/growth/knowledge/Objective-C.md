@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Objective-C
-<sub>数据更新: 2024-03-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[HeathWang/HWPanModal](https://github.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|1124|1|2023-11-23|
-|2|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2816|1|2024-03-25|
+|1|[HeathWang/HWPanModal](https://github.com/HeathWang/HWPanModal)|HWPanModal presents controller from bottom and drag to dismiss, high customize. iOS13 default modalPresentationStyle. 任意形式的底部弹框动画；头条、知乎、抖音弹出评论效果；地图浮层，iOS13 present默认模态效果。|1125|1|2023-11-23|
+|2|[pujiaxin33/JXPagingView](https://github.com/pujiaxin33/JXPagingView)|类似微博主页、简书主页等效果。多页面嵌套，既可以上下滑动，也可以左右滑动切换页面。支持HeaderView悬浮、支持下拉刷新、上拉加载更多。|2819|1|2024-03-25|
 |3|[ApesTalk/Epub](https://github.com/ApesTalk/Epub)|一步一步学习如何制作一个EPub电子书阅读器。How to make a EPub e-book reader step by step.|23|0|2023-10-23|
 |4|[FrizzleFur/DailyLearning](https://github.com/FrizzleFur/DailyLearning)|My Daily Learning~|57|0|2024-02-05|
 |5|[erduoniba/HDTranslateModule](https://github.com/erduoniba/HDTranslateModule)|iOS多语言解决方案大全：半自动化+特殊场景手动解决项目中的多语言问题|29|0|2024-01-22|
@@ -18,7 +18,7 @@
 |11|[lijingpei2016/Photic](https://github.com/lijingpei2016/Photic)|音视频学习demo|5|0|2024-01-21|
 |12|[webersongao/DMBlog_iOS](https://github.com/webersongao/DMBlog_iOS)|wordpress博客移动iOS版，点击链接了解更多：|22|0|2024-03-05|
 |13|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|36|0|2024-03-19|
-|14|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|FFmpeg step by step tutorials for iOS/macOS developer. （适合零基础的 iOS/macOS 开发者学习FFmpeg API 和音视频渲染技术。演示了 OpenGL 和 Metal 等多种视频渲染方式，以及使用 AudioUnit 和 AudioQueue 渲染不同格式的音频。）|276|0|2024-01-15|
+|14|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|FFmpeg step by step tutorials for iOS/macOS developer. （适合零基础的 iOS/macOS 开发者学习FFmpeg API 和音视频渲染技术。演示了 OpenGL 和 Metal 等多种视频渲染方式，以及使用 AudioUnit 和 AudioQueue 渲染不同格式的音频。）|278|0|2024-01-15|
 |15|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|86|0|2024-03-21|
 
 <div align="center">
