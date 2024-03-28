@@ -1,28 +1,28 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > CSS
-<sub>数据更新: 2024-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV)|📃 开箱即用的 Obsidian / Typora 简历|1062|2024-03-17|2024-03-05|
-|2|[Qihoo360/WatchAD2.0](https://github.com/Qihoo360/WatchAD2.0)|WatchAD2.0是一款针对域威胁的日志分析与监控系统|351|2024-01-17|2023-07-12|
+|1|[BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV)|📃 开箱即用的 Obsidian / Typora 简历|1123|2024-03-17|2024-03-05|
+|2|[Qihoo360/WatchAD2.0](https://github.com/Qihoo360/WatchAD2.0)|WatchAD2.0是一款针对域威胁的日志分析与监控系统|354|2024-01-17|2023-07-12|
 |3|[intro-llm/intro-llm.github.io](https://github.com/intro-llm/intro-llm.github.io)|website|297|2023-12-11|2023-06-16|
 |4|[wozulong/ChatGPTAuthHelper](https://github.com/wozulong/ChatGPTAuthHelper)|一个简单的Chrome插件，用来帮助你登录ChatGPT。|285|2023-11-30|2023-11-13|
 |5|[transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control)|maintained fork of ronggang/transmission-web-control|278|2024-03-07|2023-04-23|
-|6|[christorange/VerticalFox](https://github.com/christorange/VerticalFox)|Firefox theme with Edge like auto-hide vertical tab bar and minimalism design. Powerd by Sidebery. |259|2024-03-22|2023-04-05|
-|7|[hamster1963/HomeDash](https://github.com/hamster1963/HomeDash)|一个仪表盘|207|2024-03-26|2023-09-17|
-|8|[HappySimple/Typora-theme-Happysimple](https://github.com/HappySimple/Typora-theme-Happysimple)|一款自制的Markdown主题！|184|2023-12-23|2023-07-20|
+|6|[christorange/VerticalFox](https://github.com/christorange/VerticalFox)|Firefox theme with Edge like auto-hide vertical tab bar and minimalism design. Powerd by Sidebery. |260|2024-03-22|2023-04-05|
+|7|[hamster1963/HomeDash](https://github.com/hamster1963/HomeDash)|一个仪表盘|208|2024-03-27|2023-09-17|
+|8|[HappySimple/Typora-theme-Happysimple](https://github.com/HappySimple/Typora-theme-Happysimple)|一款自制的Markdown主题！|185|2023-12-23|2023-07-20|
 |9|[yong-s/alms](https://github.com/yong-s/alms)|7X24小时在线要饭🍚系统，欢迎👏各位老板打赏，打赏一分也是爱|167|2023-11-19|2023-06-28|
 |10|[MUKAPP/LiteLoaderQQNT-MSpring-Theme](https://github.com/MUKAPP/LiteLoaderQQNT-MSpring-Theme)|LiteLoaderQQNT 主题，优雅 · 粉粉 · 细致|163|2024-03-24|2023-06-09|
 |11|[shuhongfan/sl-express](https://github.com/shuhongfan/sl-express)|神领物流 黑马 物流项目 神领物流系统类似顺丰速运，是向C端用户提供快递服务的系统。竞品有：顺丰、中通、圆通、京东快递等。 项目产品主要有4端产品：  - 用户端：基于微信小程序开发，外部客户使用，可以寄件、查询物流信息等。 - 快递员端：基于安卓开发的手机APP，公司内部的快递员使用，可以接收取派件任务等。 - 司机端：基于安卓开发的手机APP，公司内部的司机使用，可以接收运输任务、上报位置信息 ...|138|2023-10-04|2023-09-04|
-|12|[ZYYO666/homepage](https://github.com/ZYYO666/homepage)|我的个人主页，homepage,个人引导页,简约主页,个人导航|117|2024-03-20|2024-01-11|
-|13|[vnyoon/web-magic](https://github.com/vnyoon/web-magic)|这个repo通过实际案例来演示如何运用HTML、CSS和JavaScript创建各种互动性、独特性、动感酷炫和视觉效果。|85|2023-12-22|2023-08-29|
+|12|[ZYYO666/homepage](https://github.com/ZYYO666/homepage)|我的个人主页，homepage,个人引导页,简约主页,个人导航|120|2024-03-20|2024-01-11|
+|13|[vnyoon/web-magic](https://github.com/vnyoon/web-magic)|这个repo通过实际案例来演示如何运用HTML、CSS和JavaScript创建各种互动性、独特性、动感酷炫和视觉效果。|86|2023-12-22|2023-08-29|
 |14|[Waite0603/Resume-vCard-Collection](https://github.com/Waite0603/Resume-vCard-Collection)|About Responsive Personal Portfolio Website Using HTML CSS and JavaScript with Light & Dark Theme Toggle, Web前端静态个人简历，网页个人简历模版，HTML&CSS制作个人简历, 个人作品集网站|74|2023-12-10|2023-09-30|
-|15|[rootknight/Miniflux-Theme-Reeder](https://github.com/rootknight/Miniflux-Theme-Reeder)|Miniflux v2 的自定义主题 miniflux-theme-reeder（仿 Reeder）|60|2024-03-22|2024-03-17|
+|15|[rootknight/Miniflux-Theme-Reeder](https://github.com/rootknight/Miniflux-Theme-Reeder)|Miniflux v2 的自定义主题 miniflux-theme-reeder（仿 Reeder）|59|2024-03-22|2024-03-17|
 |16|[HSSkyBoy/DOL-CheatExtend](https://github.com/HSSkyBoy/DOL-CheatExtend)|DOL Cheta Extend 欲都孤儿作弊扩展|55|2023-12-10|2023-11-19|
 |17|[xiaoxuan6/chatgpt-server](https://github.com/xiaoxuan6/chatgpt-server)|ChatGPT 在线免费网站|55|2024-03-24|2023-05-01|
-|18|[Meayair/Typecho-Theme-MeaWord](https://github.com/Meayair/Typecho-Theme-MeaWord)|一款体现文字美感的极简主题|44|2024-01-26|2023-12-22|
+|18|[Meayair/Typecho-Theme-MeaWord](https://github.com/Meayair/Typecho-Theme-MeaWord)|一款体现文字美感的极简主题|45|2024-01-26|2023-12-22|
 |19|[chris81605/Degrees-of-Lewdity_Cheat_Extended](https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended)|Degrees-of-Lewdity 作弊拓展MOD代碼|42|2024-01-15|2023-11-21|
 |20|[TopSea/Alive](https://github.com/TopSea/Alive)|Open source desk pet software that supports Live2d and MMD models.     支持 Live2d 和 MMD 模型的开源桌宠软件。|41|2024-02-21|2024-01-16|
 |21|[FE-Mars/bilibili-source](https://github.com/FE-Mars/bilibili-source)|上传B站视频的源码|37|2024-01-23|2023-09-10|
@@ -38,8 +38,8 @@
 |31|[mryqr-com/mry-frontend](https://github.com/mryqr-com/mry-frontend)|本代码库为码如云前端代码。码如云是一个基于二维码的一物一码管理平台，可以为每一件“物品”生成一个二维码，手机扫码即可查看物品信息并发起相关业务操作，操作内容可由你自己定义，典型的应用场景包括固定资产管理、设备巡检以及物品标签等。在技术上，码如云是一个无代码平台，全程采用DDD、整洁架构和事件驱动架构思想完成开发。|27|2024-02-27|2023-06-06|
 |32|[GamerNoTitle/CraftMon](https://github.com/GamerNoTitle/CraftMon)|A website that help you get Minecraft server status   一个用于显示Minecraft服务器在线信息及其他内容的网站|26|2023-09-28|2023-06-18|
 |33|[cgfeel/next.v2](https://github.com/cgfeel/next.v2)|按照NextJS英文官方文档，按照章节最小化复现|24|2024-03-04|2023-07-12|
-|34|[th8664484/spring-boot-onlyOffice](https://github.com/th8664484/spring-boot-onlyOffice)|springboot集成onlyOffice的实现。在参考网络上的资料结合自身实际情况总结，让集成oo方便快捷。 封装了oo服务的API和统一了配置。|23|2024-03-22|2023-08-06|
-|35|[codingroam/websocket-webrtc-chat](https://github.com/codingroam/websocket-webrtc-chat)|音视频通话，仿微信、QQ，利用springboot+websocket+webrtc-bootstrap5+H5+JQuery3.3实现，可自适应PC端和移动端，实现聊天功能和视频通话功能等|22|2023-12-13|2023-09-11|
+|34|[codingroam/websocket-webrtc-chat](https://github.com/codingroam/websocket-webrtc-chat)|音视频通话，仿微信、QQ，利用springboot+websocket+webrtc-bootstrap5+H5+JQuery3.3实现，可自适应PC端和移动端，实现聊天功能和视频通话功能等|23|2023-12-13|2023-09-11|
+|35|[th8664484/spring-boot-onlyOffice](https://github.com/th8664484/spring-boot-onlyOffice)|springboot集成onlyOffice的实现。在参考网络上的资料结合自身实际情况总结，让集成oo方便快捷。 封装了oo服务的API和统一了配置。|23|2024-03-22|2023-08-06|
 |36|[DuktigZhou/FirefoxCustomCSSConfig](https://github.com/DuktigZhou/FirefoxCustomCSSConfig)|使用 userChrome.css 对 Firefox 进行高度自定义的主题|21|2024-02-19|2024-02-18|
 |37|[maid-cat/PixelPlurk.css](https://github.com/maid-cat/PixelPlurk.css)|像素風格噗浪佈景|19|2024-02-08|2023-04-13|
 |38|[MiyakoLol/MomoTalkNTQQ-Theme](https://github.com/MiyakoLol/MomoTalkNTQQ-Theme)|基于LiteLoaderQQNT-Telegram-Theme修改的低仿Momotalk的QQNT主题|16|2024-03-02|2023-11-04|

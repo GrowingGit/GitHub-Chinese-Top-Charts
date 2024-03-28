@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Ruby
-<sub>数据更新: 2024-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |902|3|2024-03-17|
+|1|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |904|3|2024-03-17|
 |2|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6379|2|2024-03-26|
-|3|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|467|1|2024-03-24|
-|4|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3749|1|2024-03-25|
+|3|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|468|1|2024-03-24|
+|4|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3750|1|2024-03-25|
 |5|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3397|1|2024-03-24|
-|6|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2459|1|2023-11-02|
-|7|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1067|1|2024-03-24|
+|6|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2461|1|2023-11-02|
+|7|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1068|1|2024-03-24|
 |8|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|2172|1|2024-02-13|
-|9|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS and macOS apps|929|0|2024-03-26|
+|9|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用和 macOS 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS and macOS apps|936|0|2024-03-27|
 |10|[piotrmurach/strings](https://github.com/piotrmurach/strings)|A set of useful functions for transforming strings.|127|0|2024-03-09|
 |11|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|22|0|2024-03-10|
 |12|[test-kitchen/kitchen-azurerm](https://github.com/test-kitchen/kitchen-azurerm)|A driver for Test Kitchen that works with Azure Resource Manager|48|0|2023-12-01|
@@ -21,8 +21,8 @@
 |14|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|640|0|2024-03-26|
 |15|[petertseng/adventofcode-rb-2019](https://github.com/petertseng/adventofcode-rb-2019)|Solutions to https://adventofcode.com/2019 (complete)|15|0|2023-12-05|
 |16|[joshlarsen/aws-recon](https://github.com/joshlarsen/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|508|0|2023-11-10|
-|17|[samvera/hyrax](https://github.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|178|0|2024-03-26|
-|18|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|666|0|2024-03-03|
+|17|[samvera/hyrax](https://github.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|178|0|2024-03-27|
+|18|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|667|0|2024-03-03|
 |19|[FunnyWolf/vipermsf](https://github.com/FunnyWolf/vipermsf)|viper 自定义的msf|87|0|2024-03-20|
 |20|[icyleaf/wechat-bot](https://github.com/icyleaf/wechat-bot)|还不知道如何走向的微信机器人|8|0|2023-10-08|
 |21|[windwords/homebrew-vchewing](https://github.com/windwords/homebrew-vchewing)|homebrew-vchewing是一个用于安装/卸载威注音输入法的Homebrew Cask。|16|0|2024-03-07|
@@ -57,7 +57,7 @@
 |50|[Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese)|🀄️咱自己人的软件🏮咱自己人的仓库🧧|20|0|2024-03-26|
 |51|[ivaquero/legacy-homebrew-chinese](https://github.com/ivaquero/legacy-homebrew-chinese)|🀄 一个致力于服务国人的 Homebrew 🍺 第三方库|28|0|2023-12-12|
 |52|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|20|0|2023-12-17|
-|53|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|16|0|2024-03-25|
+|53|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|16|0|2024-03-26|
 |54|[infused/dbf](https://github.com/infused/dbf)|DBF is a small, fast Ruby library for reading dBase, xBase, Clipper, and FoxPro database files.|256|0|2024-01-23|
 |55|[jodeci/fortuna](https://github.com/jodeci/fortuna)|台灣公司專用薪資計算系統|13|0|2024-02-06|
 |56|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|722|0|2024-03-08|
@@ -76,10 +76,10 @@
 |69|[khiav223577/pluck_all](https://github.com/khiav223577/pluck_all)|A more efficient way to get data from database. Like #pluck method but return array of hashes instead.|101|0|2023-12-24|
 |70|[HugoHasenbein/redmine_more_previews](https://github.com/HugoHasenbein/redmine_more_previews)|Redmine plugin to preview various file types in redmine's preview pane|43|0|2024-03-16|
 |71|[DILA-edu/cbeta-metadata](https://github.com/DILA-edu/cbeta-metadata)|CBETA 的 目錄、部類、缺字、作譯者、朝代等 metadata.|10|0|2024-03-19|
-|72|[lairdubois/lairdubois-opencutlist-sketchup-extension](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension)|OpenCutList is a SketchUp Extension for automating the generation of cut lists for woodworking projects.|401|0|2024-03-26|
+|72|[lairdubois/lairdubois-opencutlist-sketchup-extension](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension)|OpenCutList is a SketchUp Extension for automating the generation of cut lists for woodworking projects.|402|0|2024-03-26|
 |73|[baidubce/bce-player-ios](https://github.com/baidubce/bce-player-ios)|-|18|0|2023-12-11|
 |74|[YunzheZJU/non-stop-story](https://github.com/YunzheZJU/non-stop-story)|Backend for holo-schedule on Rails.|24|0|2024-01-25|
-|75|[YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby)|A Ruby port of Puppeteer|262|0|2024-02-05|
+|75|[YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby)|A Ruby port of Puppeteer|263|0|2024-02-05|
 |76|[dblock/slack-gamebot](https://github.com/dblock/slack-gamebot)|Ping pong, chess, pool and other games bot for Slack.|129|0|2024-02-29|
 |77|[berkmancenter/namae](https://github.com/berkmancenter/namae)|Namae (名前) parses personal names and splits them into their component parts.|158|0|2024-01-10|
 |78|[refinery/refinerycms-i18n](https://github.com/refinery/refinerycms-i18n)|I18n logic for Refinery CMS|54|0|2024-02-21|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Perl
-<sub>数据更新: 2024-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -10,19 +10,19 @@
 |3|[wisdomfusion/qqwry.dat](https://github.com/wisdomfusion/qqwry.dat)|纯真IP地址数据库镜像，mirror of qqwry.dat|380|0|2023-12-03|
 |4|[zhy201810576/ETagCN](https://github.com/zhy201810576/ETagCN)|基于Difegue编写的E-Hentai插件进行改良，结合EhTagTranslation项目提供的数据库转换来自E-Hentai上的英文标签为中文标签。|40|0|2024-03-03|
 |5|[YanMing-lxb/YM-VSCode-Configurations-for-LaTeX](https://github.com/YanMing-lxb/YM-VSCode-Configurations-for-LaTeX)|一个可以让你轻松本地部署好LaTeX的项目|3|0|2024-03-09|
-|6|[isi-nlp/uroman](https://github.com/isi-nlp/uroman)|Universal Romanizer that can convert any unicode script to roman (latin) script|109|0|2024-03-19|
+|6|[isi-nlp/uroman](https://github.com/isi-nlp/uroman)|Universal Romanizer that can convert any unicode script to roman (latin) script|110|0|2024-03-19|
 |7|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|430|0|2024-03-20|
 |8|[TheBeastofwar/linuxhacker](https://github.com/TheBeastofwar/linuxhacker)|一款linux 内网渗透辅助工具|40|0|2024-01-31|
-|9|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|274|0|2024-03-26|
+|9|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|274|0|2024-03-27|
 |10|[webmin/authentic-theme](https://github.com/webmin/authentic-theme)|Official theme for the best server management panel of the 21st Century|940|0|2024-03-26|
 |11|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|66|0|2024-03-26|
 |12|[houseabsolute/DateTime.pm](https://github.com/houseabsolute/DateTime.pm)|A date and time object for Perl|46|0|2023-11-06|
 |13|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|301|0|2024-03-22|
-|14|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|387|0|2024-02-09|
+|14|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|388|0|2024-02-09|
 |15|[open-c3/open-c3](https://github.com/open-c3/open-c3)|自动化运维平台/CICD系统/发布系统/作业平台/监控系统/云监控/故障自愈/K8S集群管理/CMDB/公有云资源管理/工单系统/流程系统/成本优化|223|0|2024-03-25|
 |16|[hn/reolink-camera](https://github.com/hn/reolink-camera)|Reolink RLC-410-5MP IP camera reverse engineered technical details|135|0|2024-02-11|
 |17|[electricface/script-tool](https://github.com/electricface/script-tool)|简单的脚本工具|4|0|2023-11-14|
-|18|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1244|0|2024-02-12|
+|18|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1245|0|2024-02-12|
 |19|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|93|0|2024-03-18|
 |20|[esrrhs/pLua](https://github.com/esrrhs/pLua)|Lua 性能分析工具 Lua profiler tool like gperftools|82|0|2024-03-12|
 |21|[openresty/lua-tablepool](https://github.com/openresty/lua-tablepool)|Lua table recycling pools for LuaJIT|111|0|2023-11-23|

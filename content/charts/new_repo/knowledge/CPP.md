@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > C++
-<sub>数据更新: 2024-03-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[Mq-b/Loser-HomeWork](https://github.com/Mq-b/Loser-HomeWork)|卢瑟们的作业展示，答案讲解，以及一些C++知识|478|2024-03-24|2023-08-03|
-|2|[Mq-b/Modern-Cpp-templates-tutorial](https://github.com/Mq-b/Modern-Cpp-templates-tutorial)|现代C++模板教程|266|2024-03-23|2023-12-26|
-|3|[youngyangyang04/KVstorageBaseRaft-cpp](https://github.com/youngyangyang04/KVstorageBaseRaft-cpp)|【代码随想录知识星球】项目分享-基于Raft的k-v存储数据库|232|2024-03-19|2023-12-07|
+|2|[Mq-b/Modern-Cpp-templates-tutorial](https://github.com/Mq-b/Modern-Cpp-templates-tutorial)|现代C++模板教程|267|2024-03-23|2023-12-26|
+|3|[youngyangyang04/KVstorageBaseRaft-cpp](https://github.com/youngyangyang04/KVstorageBaseRaft-cpp)|【代码随想录知识星球】项目分享-基于Raft的k-v存储数据库|234|2024-03-19|2023-12-07|
 |4|[HITerltr/HIT-2022-Fall-Computer-Network](https://github.com/HITerltr/HIT-2022-Fall-Computer-Network)|哈尔滨工业大学2022秋季学期计算机网络课程实验、期末复习与相关MOOC资料|139|2024-03-09|2023-07-30|
 |5|[datawhalechina/smoothly-vslam](https://github.com/datawhalechina/smoothly-vslam)|VSLAM开源基础教程，各章节练习代码|120|2023-11-26|2023-06-05|
 |6|[1051727403/SHU-CS-Source-Share](https://github.com/1051727403/SHU-CS-Source-Share)|SHU-上大计算机资料分享汇总❤️❤️❤️|119|2024-02-11|2023-09-07|
