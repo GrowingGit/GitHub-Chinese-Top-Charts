@@ -1,43 +1,43 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Python
-<sub>数据更新: 2024-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)|小红书笔记   评论爬虫、抖音视频   评论爬虫、快手视频   评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫|10236|2024-03-26|2023-06-09|
-|2|[modelscope/facechain](https://github.com/modelscope/facechain)|FaceChain is a deep-learning toolchain for generating your Digital-Twin.|8167|2024-03-26|2023-08-10|
-|3|[01-ai/Yi](https://github.com/01-ai/Yi)|A series of large language models trained from scratch by developers @01-ai|6960|2024-03-27|2023-11-03|
-|4|[jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)|Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音|5098|2024-03-27|2023-10-02|
-|5|[EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt)|Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥|4945|2024-03-27|2023-04-03|
-|6|[liguodongiot/llm-action](https://github.com/liguodongiot/llm-action)|本项目旨在分享大模型相关技术原理以及实战经验。|4848|2024-03-27|2023-05-23|
-|7|[SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)|Repo for BenTsao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调|4168|2023-10-30|2023-03-31|
-|8|[baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2)|A series of large language models developed by Baichuan Intelligent Technology|3813|2024-02-26|2023-08-31|
-|9|[Luodian/Otter](https://github.com/Luodian/Otter)|🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.|3414|2024-03-05|2023-04-01|
-|10|[JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)|小红书链接提取/作品采集工具：提取账号发布、收藏、点赞作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！|3062|2024-03-10|2023-08-16|
-|11|[Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR)|SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild|3006|2024-03-25|2023-12-21|
-|12|[AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)|颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。|2956|2023-12-25|2023-10-24|
-|13|[X-D-Lab/LangChain-ChatGLM-Webui](https://github.com/X-D-Lab/LangChain-ChatGLM-Webui)|基于LangChain和ChatGLM-6B等系列LLM的针对本地知识库的自动问答|2886|2024-03-03|2023-04-10|
+|1|[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)|小红书笔记   评论爬虫、抖音视频   评论爬虫、快手视频   评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫|10285|2024-03-28|2023-06-09|
+|2|[modelscope/facechain](https://github.com/modelscope/facechain)|FaceChain is a deep-learning toolchain for generating your Digital-Twin.|8168|2024-03-26|2023-08-10|
+|3|[01-ai/Yi](https://github.com/01-ai/Yi)|A series of large language models trained from scratch by developers @01-ai|6968|2024-03-27|2023-11-03|
+|4|[jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)|Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音|5125|2024-03-27|2023-10-02|
+|5|[EwingYangs/awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt)|Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥|4949|2024-03-28|2023-04-03|
+|6|[liguodongiot/llm-action](https://github.com/liguodongiot/llm-action)|本项目旨在分享大模型相关技术原理以及实战经验。|4875|2024-03-27|2023-05-23|
+|7|[SCIR-HI/Huatuo-Llama-Med-Chinese](https://github.com/SCIR-HI/Huatuo-Llama-Med-Chinese)|Repo for BenTsao [original name: HuaTuo (华驼)], Instruction-tuning Large Language Models with Chinese Medical Knowledge. 本草（原名：华驼）模型仓库，基于中文医学知识的大语言模型指令微调|4171|2023-10-30|2023-03-31|
+|8|[baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2)|A series of large language models developed by Baichuan Intelligent Technology|3818|2024-02-26|2023-08-31|
+|9|[Luodian/Otter](https://github.com/Luodian/Otter)|🦦 Otter, a multi-modal model based on OpenFlamingo (open-sourced version of DeepMind's Flamingo), trained on MIMIC-IT and showcasing improved instruction-following and in-context learning ability.|3415|2024-03-05|2023-04-01|
+|10|[JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)|小红书链接提取/作品采集工具：提取账号发布、收藏、点赞作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！|3073|2024-03-10|2023-08-16|
+|11|[Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR)|SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild|3008|2024-03-25|2023-12-21|
+|12|[AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)|颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。|2959|2023-12-25|2023-10-24|
+|13|[X-D-Lab/LangChain-ChatGLM-Webui](https://github.com/X-D-Lab/LangChain-ChatGLM-Webui)|基于LangChain和ChatGLM-6B等系列LLM的针对本地知识库的自动问答|2888|2024-03-03|2023-04-10|
 |14|[OpenBMB/BMTools](https://github.com/OpenBMB/BMTools)|Tool Learning for Big Models, Open-Source Solutions of ChatGPT-Plugins|2820|2023-12-05|2023-03-31|
-|15|[Physton/sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one)|This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides auto ...|2376|2024-03-27|2023-05-08|
-|16|[malinkang/weread2notion](https://github.com/malinkang/weread2notion)|将微信读书划线同步到Notion|1657|2024-03-27|2023-04-17|
-|17|[chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)|A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。|1573|2024-03-23|2023-05-13|
+|15|[Physton/sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one)|This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides auto ...|2377|2024-03-28|2023-05-08|
+|16|[malinkang/weread2notion](https://github.com/malinkang/weread2notion)|将微信读书划线同步到Notion|1661|2024-03-28|2023-04-17|
+|17|[chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)|A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。|1576|2024-03-23|2023-05-13|
 |18|[WisdomShell/codeshell](https://github.com/WisdomShell/codeshell)|A series of code large language models developed by PKU-KCL|1515|2024-02-28|2023-09-22|
 |19|[invictus717/MetaTransformer](https://github.com/invictus717/MetaTransformer)|Meta-Transformer for Unified Multimodal Learning|1425|2023-12-05|2023-07-08|
-|20|[YangLing0818/RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster)|Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (PRG)|1376|2024-03-17|2024-01-22|
-|21|[SakuraLLM/Sakura-13B-Galgame](https://github.com/SakuraLLM/Sakura-13B-Galgame)|适配轻小说/Galgame的日中翻译大模型|1028|2024-03-17|2023-08-23|
-|22|[RiseInRose/MiniGPT-4-ZH](https://github.com/RiseInRose/MiniGPT-4-ZH)|MiniGPT-4 中文部署翻译 完善部署细节|832|2024-03-27|2023-04-19|
+|20|[YangLing0818/RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster)|Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (PRG)|1382|2024-03-17|2024-01-22|
+|21|[SakuraLLM/Sakura-13B-Galgame](https://github.com/SakuraLLM/Sakura-13B-Galgame)|适配轻小说/Galgame的日中翻译大模型|1032|2024-03-17|2023-08-23|
+|22|[RiseInRose/MiniGPT-4-ZH](https://github.com/RiseInRose/MiniGPT-4-ZH)|MiniGPT-4 中文部署翻译 完善部署细节|832|2024-03-28|2023-04-19|
 |23|[OrionStarAI/Orion](https://github.com/OrionStarAI/Orion)|Orion-14B is a family of models includes a 14B foundation LLM, and a series of models: a chat model, a long context model, a quantized model, a RAG fine-tuned model, and an Agent fine-tuned model. Ori ...|743|2024-03-26|2024-01-17|
-|24|[NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee)|一款Ai翻译工具，主要用来翻译RPG游戏。|733|2024-03-24|2023-04-14|
-|25|[ReaJason/xhs](https://github.com/ReaJason/xhs)|基于小红书 Web 端进行的请求封装。https://reajason.github.io/xhs/|703|2024-03-14|2023-04-03|
-|26|[cx2333-gt/GalTransl](https://github.com/cx2333-gt/GalTransl)|Automated translation solution for visual novels supporting GPT-3.5/GPT-4/Newbing/Sakura. 支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案|652|2024-03-20|2023-05-31|
-|27|[jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader)|抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！|629|2024-03-17|2023-05-25|
+|24|[NEKOparapa/AiNiee](https://github.com/NEKOparapa/AiNiee)|一款Ai翻译工具，主要用来翻译RPG游戏。|734|2024-03-24|2023-04-14|
+|25|[ReaJason/xhs](https://github.com/ReaJason/xhs)|基于小红书 Web 端进行的请求封装。https://reajason.github.io/xhs/|706|2024-03-14|2023-04-03|
+|26|[cx2333-gt/GalTransl](https://github.com/cx2333-gt/GalTransl)|Automated translation solution for visual novels supporting GPT-3.5/GPT-4/Newbing/Sakura. 支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案|657|2024-03-20|2023-05-31|
+|27|[jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader)|抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！|632|2024-03-28|2023-05-25|
 |28|[saveweb/review-2023](https://github.com/saveweb/review-2023)|二〇二三年的年终总结都写好了吗？|593|2024-03-08|2023-09-27|
-|29|[AGI-Edgerunners/LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)|A repo lists papers related to LLM based agent|533|2024-03-27|2023-05-31|
+|29|[AGI-Edgerunners/LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)|A repo lists papers related to LLM based agent|539|2024-03-27|2023-05-31|
 |30|[codefuse-ai/CodeFuse-DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model)|DevOps-Models is a series of industrial-first LLMs for theDevOps domain. Asking it for any question in the DevOps domain to get solution!|512|2024-01-23|2023-10-30|
 |31|[CjangCjengh/YakuYaku](https://github.com/CjangCjengh/YakuYaku)|翻译姬：致力于小众领域的机器翻译|503|2024-01-12|2023-08-12|
-|32|[cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS)|小红书爬虫，小红书笔记、主页、搜索爬取|493|2024-03-21|2023-08-08|
-|33|[AIDotNet/AntSK](https://github.com/AIDotNet/AntSK)|基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体|483|2024-03-27|2024-02-01|
+|32|[cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS)|小红书爬虫，小红书笔记、主页、搜索爬取|496|2024-03-21|2023-08-08|
+|33|[AIDotNet/AntSK](https://github.com/AIDotNet/AntSK)|基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体|494|2024-03-28|2024-02-01|
 |34|[yihong0618/epubhv](https://github.com/yihong0618/epubhv)|Make your epub books vertical or horizontal.|444|2024-01-05|2023-09-04|
 |35|[WangRongsheng/CareGPT](https://github.com/WangRongsheng/CareGPT)|🌞 CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展。Medical LLM, Open Source Driven for a Healthy Future.|442|2024-03-18|2023-08-13|
 |36|[wuji3/vision-classifier](https://github.com/wuji3/vision-classifier)|本仓库基于pytorch, 提供baseline用于图像分类任务，会持续维护，方便大家用于项目和竞赛，支持以下trick和module: sam, progressive learning, ohem, focal loss, cosine decay, label smooth, mixup, cutout, ema, mlt, amp等等|422|2023-12-08|2023-05-07|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[cs-chan/Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset)|Total Text Dataset. It consists of 1555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind.|721|2023-10-05|
 |3|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|531|2024-02-24|
 |4|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|223|2024-03-26|
-|5|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|203|2024-01-15|
+|5|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|204|2024-01-15|
 |6|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|175|2024-03-21|
 |7|[qwe14789cn/SP](https://github.com/qwe14789cn/SP)|信号处理工具箱|100|2023-11-02|
 |8|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP)|93|2024-03-27|
@@ -24,23 +24,23 @@
 |17|[ScottXjw/equalizer-code-FFE-DFE-VolterraFFEandDFE](https://github.com/ScottXjw/equalizer-code-FFE-DFE-VolterraFFEandDFE)|equalizer code|24|2023-12-29|
 |18|[yangbin-xd/UAV-positioning](https://github.com/yangbin-xd/UAV-positioning)|source code for IEEE IoTJ paper "Distributed and Collaborative Localization for Swarming UAVs"|23|2023-12-27|
 |19|[wuc567/Pattern-Mining](https://github.com/wuc567/Pattern-Mining)|序列模式挖掘相关研究|23|2023-10-09|
-|20|[xdjcl/DTW](https://github.com/xdjcl/DTW)|DTW算法的MATLAB实现|21|2023-12-26|
-|21|[deltaRing/mmwave_radar_1843_generate_point_cloud](https://github.com/deltaRing/mmwave_radar_1843_generate_point_cloud)|用1843AOPEVM生成点云 初步验证应该是对的，附赠数据一枚|20|2023-12-23|
-|22|[HansKing98/MATLAB-Image-Processing](https://github.com/HansKing98/MATLAB-Image-Processing)|数字图像处理（冈萨雷斯）|20|2024-01-19|
+|20|[HansKing98/MATLAB-Image-Processing](https://github.com/HansKing98/MATLAB-Image-Processing)|数字图像处理（冈萨雷斯）|22|2024-01-19|
+|21|[xdjcl/DTW](https://github.com/xdjcl/DTW)|DTW算法的MATLAB实现|21|2023-12-26|
+|22|[deltaRing/mmwave_radar_1843_generate_point_cloud](https://github.com/deltaRing/mmwave_radar_1843_generate_point_cloud)|用1843AOPEVM生成点云 初步验证应该是对的，附赠数据一枚|20|2023-12-23|
 |23|[curryqka/Cell-counting-GUI-MATLABGUI-](https://github.com/curryqka/Cell-counting-GUI-MATLABGUI-)|包含三大板块，图像变换，图像增强和细胞计数|18|2023-12-19|
 |24|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|17|2024-03-27|
 |25|[lnexenl/BeiDou_B1C](https://github.com/lnexenl/BeiDou_B1C)|BeiDou B1C Signal Generator and Catcher / 北斗B1C信号生成与捕获|16|2023-11-03|
 |26|[Xuerenbujianhua/3DPathplanning](https://github.com/Xuerenbujianhua/3DPathplanning)|基于栅格地图的无人机三维路径规划算法|15|2023-11-17|
 |27|[VG-TechCenter/Microgrid-Optimization-Dispatch-Model](https://github.com/VG-TechCenter/Microgrid-Optimization-Dispatch-Model)|微电网优化调度模型|14|2023-10-15|
-|28|[NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate)|络石机械臂动力学相关算法以及仿真|13|2023-11-13|
-|29|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|13|2024-03-27|
+|28|[NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate)|络石机械臂动力学相关算法以及仿真|14|2023-11-13|
+|29|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|13|2024-03-28|
 |30|[lunarwhite/which-digit-zh](https://github.com/lunarwhite/which-digit-zh)|Try BPNN on mnist. BP 神经网络识别中文数字|13|2023-12-09|
 |31|[jhu-dvrk/dvrk-gravity-compensation](https://github.com/jhu-dvrk/dvrk-gravity-compensation)|Matlab functions to identify MTM dynamic parameters, uses dvrk-ros/dvrk_matlab|13|2023-11-21|
 |32|[LZH20001220/HuaweiCup2023](https://github.com/LZH20001220/HuaweiCup2023)|华为杯第二十届中国研究生数学建模竞赛|12|2023-12-04|
 |33|[xkm79/digitalImageProcessing-lmh-ver](https://github.com/xkm79/digitalImageProcessing-lmh-ver)|数字图像处理实验 MATLAB |12|2023-10-25|
 |34|[Yuyu1997/TrajectoryTrackingControlofQuadrotorUAV](https://github.com/Yuyu1997/TrajectoryTrackingControlofQuadrotorUAV)|欧拉角、四元数、旋转矩阵，迂回现象，自抗扰控制|10|2024-03-06|
-|35|[Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset](https://github.com/Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset)|机械故障诊断公开数据集|9|2023-11-29|
-|36|[zhyantao/genetic-algo-for-shortest-path](https://github.com/zhyantao/genetic-algo-for-shortest-path)|遗传算法解决最短路径问题 (两个出发点)|9|2023-12-31|
+|35|[zhyantao/genetic-algo-for-shortest-path](https://github.com/zhyantao/genetic-algo-for-shortest-path)|遗传算法解决最短路径问题 (两个出发点)|10|2023-12-31|
+|36|[Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset](https://github.com/Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset)|机械故障诊断公开数据集|9|2023-11-29|
 |37|[yehuixie/system_identification](https://github.com/yehuixie/system_identification)|系统辨识课程代码|8|2023-11-11|
 |38|[BySpaces/Matlab-Pcode-to-Mcode](https://github.com/BySpaces/Matlab-Pcode-to-Mcode)|本软件可实现将MATLAB中Pcode加密的代码，恢复为原来的M文件。This software can restore the codes encrypted by Pcode in MATLAB to the original M file.|8|2023-12-06|
 |39|[asfhiolNick/NTU_TimeFrequencyAnalysis_201802](https://github.com/asfhiolNick/NTU_TimeFrequencyAnalysis_201802)|丁建均老師的"時頻分析和小波轉換"作業(TFW)|7|2024-01-18|
@@ -48,12 +48,12 @@
 |41|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|6|2024-03-25|
 |42|[JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net](https://github.com/JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net)|This repository is the open source code for our latest feasibility work: "Human Anomalous Gait Termination Recognition Via Through-the-Wall Radar Based on Micro-Doppler Corner Features and Non-Local M ...|6|2024-01-16|
 |43|[Lusenc/SkyrmionOpticalForce](https://github.com/Lusenc/SkyrmionOpticalForce)|该项目记录笔者科研过程中用到的算法函数，包括矢量场表示、瑞利粒子光学力的计算、特殊光束生成等内容|6|2023-11-16|
-|44|[deltaRing/UAV_Path_Search](https://github.com/deltaRing/UAV_Path_Search)|本工程将借助ESDF、TSDF、Dstar、B样条曲线、以及多项式路径来实现无人机路径规划|6|2023-12-19|
-|45|[linggm3/2023_CUMCM_National-First-Prize](https://github.com/linggm3/2023_CUMCM_National-First-Prize)|2023年高教社杯全国大学生数学建模竞赛-本科组全国一等奖-A题-定日镜场优化设计模型|5|2024-03-01|
-|46|[ChengleiX/Sliding_Mode_Control_simulink](https://github.com/ChengleiX/Sliding_Mode_Control_simulink)|matlab simulink仿真文件|5|2023-11-30|
-|47|[Lu-Anastasia/MATLAB](https://github.com/Lu-Anastasia/MATLAB)|信息光学数字实验室（matlab版）全代码|5|2023-11-28|
-|48|[dazhiwang233/matlab-implementation-of-BP-neural-networks](https://github.com/dazhiwang233/matlab-implementation-of-BP-neural-networks)|BP神经网络的matlab实现|5|2023-11-22|
-|49|[DreamChasingBoy/BoyLuc_in_CDUT](https://github.com/DreamChasingBoy/BoyLuc_in_CDUT)|在大学期间的一些课堂作业与实验报告，相对完整，仅供参考|5|2023-11-22|
+|44|[DreamChasingBoy/BoyLuc_in_CDUT](https://github.com/DreamChasingBoy/BoyLuc_in_CDUT)|在大学期间的一些课堂作业与实验报告，相对完整，仅供参考|6|2023-11-22|
+|45|[deltaRing/UAV_Path_Search](https://github.com/deltaRing/UAV_Path_Search)|本工程将借助ESDF、TSDF、Dstar、B样条曲线、以及多项式路径来实现无人机路径规划|6|2023-12-19|
+|46|[linggm3/2023_CUMCM_National-First-Prize](https://github.com/linggm3/2023_CUMCM_National-First-Prize)|2023年高教社杯全国大学生数学建模竞赛-本科组全国一等奖-A题-定日镜场优化设计模型|5|2024-03-01|
+|47|[ChengleiX/Sliding_Mode_Control_simulink](https://github.com/ChengleiX/Sliding_Mode_Control_simulink)|matlab simulink仿真文件|5|2023-11-30|
+|48|[Lu-Anastasia/MATLAB](https://github.com/Lu-Anastasia/MATLAB)|信息光学数字实验室（matlab版）全代码|5|2023-11-28|
+|49|[dazhiwang233/matlab-implementation-of-BP-neural-networks](https://github.com/dazhiwang233/matlab-implementation-of-BP-neural-networks)|BP神经网络的matlab实现|5|2023-11-22|
 |50|[Matthew-Lyu/Classic-Image-Processing-Analysis](https://github.com/Matthew-Lyu/Classic-Image-Processing-Analysis)|Classic image processing and analysis methods|5|2024-03-03|
 |51|[Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator](https://github.com/Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator)|针对解决轮式移动机械臂在复杂环境中执行灵巧作业的需求，开展了面向冗余轮式移动机械臂的考虑任务优先级的位形优化研究。首先建立了整机运动学模型，然后基于任务优先级框架开展了面向车-臂双轨迹跟踪、避奇异位形、避关节极限等多任务目标的位形优化的研究，最后进行了复杂工况仿真，验证了方法的有效性。|4|2024-03-13|
 |52|[linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge](https://github.com/linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge)|2022年深圳杯数学建模挑战赛-全国第二-B题-基于用电可靠性的配电网规划模型|4|2024-03-01|

@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Java
-<sub>数据更新: 2024-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|1829|2024-03-19|2023-08-07|
-|2|[Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool)|【更方便更安全的管理PandoraNext，更高速更丝滑的使用copilot GPT-4】通过手机端和电脑端使小白能快速部署属于自己的免费Open API中转站。tokensTool支持通过PandoraNext管理刷新所有token，支持分享，支持share_token，pool_token一键自定义放入oneapi。tokensTool全面支持PandoraNext部署方法且支持热部署，自定义 ...|1156|2024-03-15|2023-11-17|
-|3|[algorithmzuo/algorithm-journey](https://github.com/algorithmzuo/algorithm-journey)|算法通关课的代码和课件|634|2024-03-27|2023-08-03|
-|4|[jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)|Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，进阶表达式搜索，自定义SQL查询，字节码查看，命令行分析，使用简易RASP保护|532|2024-03-12|2023-10-07|
-|5|[ZhangBlossom/BlossomGateway](https://github.com/ZhangBlossom/BlossomGateway)|基于Netty、Nacos实现的网关以及RPC。学习完毕当前项目可以帮助你深入理解Netty。|221|2024-03-19|2023-10-23|
-|6|[jushahulian/java-go-python](https://github.com/jushahulian/java-go-python)|java，python，go,C,C++,C#,前端，数据库，大数据，人工智能，AIGC，ChatGPT，软件测试，网络安全/逆向，鸿蒙应用开发，Android等学习课程分享。更多课程请关注公众号：小凯助你学|199|2024-03-20|2023-12-29|
+|1|[blossom-editor/blossom](https://github.com/blossom-editor/blossom)|A markdown editor that you can deploy on your own servers to achieve cloud storage and device synchronization（支持私有部署的云端存储双链笔记软件）|1834|2024-03-19|2023-08-07|
+|2|[Yanyutin753/PandoraNext-TokensTool](https://github.com/Yanyutin753/PandoraNext-TokensTool)|【更方便更安全的管理PandoraNext，更高速更丝滑的使用copilot GPT-4】通过手机端和电脑端使小白能快速部署属于自己的免费Open API中转站。tokensTool支持通过PandoraNext管理刷新所有token，支持分享，支持share_token，pool_token一键自定义放入oneapi。tokensTool全面支持PandoraNext部署方法且支持热部署，自定义 ...|1158|2024-03-15|2023-11-17|
+|3|[algorithmzuo/algorithm-journey](https://github.com/algorithmzuo/algorithm-journey)|算法通关课的代码和课件|643|2024-03-28|2023-08-03|
+|4|[jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer)|Jar Analyzer - 一个JAR包分析工具，批量分析搜索，方法调用关系搜索，字符串搜索，Spring分析，CFG分析，JVM Stack Frame分析，远程分析Tomcat，进阶表达式搜索，自定义SQL查询，字节码查看，命令行分析，使用简易RASP保护|535|2024-03-12|2023-10-07|
+|5|[ZhangBlossom/BlossomGateway](https://github.com/ZhangBlossom/BlossomGateway)|基于Netty、Nacos实现的网关以及RPC。学习完毕当前项目可以帮助你深入理解Netty。|222|2024-03-19|2023-10-23|
+|6|[jushahulian/java-go-python](https://github.com/jushahulian/java-go-python)|java，python，go,C,C++,C#,前端，数据库，大数据，人工智能，AIGC，ChatGPT，软件测试，网络安全/逆向，鸿蒙应用开发，Android等学习课程分享。更多课程请关注公众号：小凯助你学|200|2024-03-20|2023-12-29|
 |7|[rawchen/FeishuBot](https://github.com/rawchen/FeishuBot)|飞书群聊/私聊ChatGPT机器人|164|2023-10-17|2023-07-26|
 |8|[futureai-write/future-ai-paper-write](https://github.com/futureai-write/future-ai-paper-write)|神笔AI论文写作助手是一个基于AI大模型的文本生成能力实现的论文写作工具，通过神笔AI写作可完成毕业论文、期刊论文、课程设计等多种格式的论文写作，同时支持生成超过11000字的超长文本，并引用真实的参考文献，从而轻松搞定论文写作！|160|2024-03-24|2024-03-21|
 |9|[meteorOSS/wechat-bc](https://github.com/meteorOSS/wechat-bc)|类似开发公众号一样，开发个人微信号|136|2024-03-25|2024-01-31|
-|10|[1321928757/Concurrent-MulThread](https://github.com/1321928757/Concurrent-MulThread)|多线程并发编程学习的实用代码片段分享，手写线程池更新中~|94|2024-03-27|2024-03-11|
+|10|[1321928757/Concurrent-MulThread](https://github.com/1321928757/Concurrent-MulThread)|多线程并发编程学习的实用代码片段分享，手写线程池更新中~|96|2024-03-28|2024-03-11|
 |11|[super117893344p/Select_Top_Quality_Project](https://github.com/super117893344p/Select_Top_Quality_Project)|精选涵盖互联网计算机领域所有类型的项目, 你想要的都在这里,通过源码学习, 希望你能够融会贯通,渐入佳境,步步高升,登峰造极,成为一名影响世界的程序员,开发属于自己的产品|71|2023-11-29|2023-11-26|
 |12|[CCCshengjiang/algorithm](https://github.com/CCCshengjiang/algorithm)|算法笔记和源代码|68|2023-12-30|2023-11-04|
 |13|[pacemrc/VulDebug](https://github.com/pacemrc/VulDebug)|Java漏洞调试分析集合|60|2024-01-18|2023-11-30|

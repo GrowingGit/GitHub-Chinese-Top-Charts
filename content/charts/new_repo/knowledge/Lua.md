@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Lua
-<sub>数据更新: 2024-03-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|477|2024-03-19|2023-09-16|
+|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|479|2024-03-19|2023-09-16|
 |2|[newObjectccc/newObjectccc.github.io](https://github.com/newObjectccc/newObjectccc.github.io)|一个分享文章和技术还有推荐的Repo~|11|2024-03-27|2023-11-29|
 |3|[LanbingIce/IsaacSocket-Mod](https://github.com/LanbingIce/IsaacSocket-Mod)|这是一个《以撒的结合》的Mod，可为其他mod提供操作剪贴板，连接WebSocket等接口|10|2024-03-15|2023-09-10|
-|4|[mamjun/DST-Sora](https://github.com/mamjun/DST-Sora)|《饥荒：联机版》里 穹妹的mod|7|2024-03-24|2023-04-02|
+|4|[mamjun/DST-Sora](https://github.com/mamjun/DST-Sora)|《饥荒：联机版》里 穹妹的mod|7|2024-03-28|2023-04-02|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
