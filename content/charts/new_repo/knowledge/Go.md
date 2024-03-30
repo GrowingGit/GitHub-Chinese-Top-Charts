@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Go
-<sub>数据更新: 2024-03-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-03-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,6 +9,7 @@
 |2|[ConnectAI-E/Feishu-Midjourney](https://github.com/ConnectAI-E/Feishu-Midjourney)|🍎 飞书 x midjourney = 你真正的创意伙伴|423|2023-12-06|2023-04-12|
 |3|[HuanMeng233/weread_downloader](https://github.com/HuanMeng233/weread_downloader)|学习|166|2023-12-20|2023-12-09|
 |4|[fasnow/idebug](https://github.com/fasnow/idebug)|企业微信、企业飞书接口调用工具。|125|2023-12-19|2023-06-06|
+|5|[GuGoOrg/GuGoTik](https://github.com/GuGoOrg/GuGoTik)|第六届字节跳动青训营后端进阶实战项目第一名，迷你抖音后端|93|2024-02-08|2023-07-27|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
