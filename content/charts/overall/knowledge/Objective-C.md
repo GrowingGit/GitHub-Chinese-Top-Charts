@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Objective-C
-<sub>数据更新: 2024-04-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -13,7 +13,7 @@
 |6|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|86|2024-03-21|
 |7|[FrizzleFur/DailyLearning](https://github.com/FrizzleFur/DailyLearning)|My Daily Learning~|57|2024-02-05|
 |8|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|37|2024-03-29|
-|9|[erduoniba/HDTranslateModule](https://github.com/erduoniba/HDTranslateModule)|iOS多语言解决方案大全：半自动化+特殊场景手动解决项目中的多语言问题|29|2024-01-22|
+|9|[erduoniba/HDTranslateModule](https://github.com/erduoniba/HDTranslateModule)|iOS多语言解决方案大全：半自动化+特殊场景手动解决项目中的多语言问题|30|2024-01-22|
 |10|[ApesTalk/Epub](https://github.com/ApesTalk/Epub)|一步一步学习如何制作一个EPub电子书阅读器。How to make a EPub e-book reader step by step.|23|2023-10-23|
 |11|[webersongao/DMBlog_iOS](https://github.com/webersongao/DMBlog_iOS)|wordpress博客移动iOS版，点击链接了解更多：|22|2024-03-05|
 |12|[aolan/iOS_Develop](https://github.com/aolan/iOS_Develop)|该文档都是日常开发过程中解决问题的经验总结。|11|2024-01-03|
