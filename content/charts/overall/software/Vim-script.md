@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Vim script
-<sub>数据更新: 2024-04-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20109|2024-02-19|
+|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20111|2024-04-04|
 |2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8549|2024-03-17|
 |3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4889|2023-11-16|
 |4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1812|2024-03-22|
 |5|[luochen1990/rainbow](https://github.com/luochen1990/rainbow)|Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.|1737|2023-10-06|
-|6|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1669|2024-02-22|
+|6|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1670|2024-02-22|
 |7|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1533|2024-03-25|
 |8|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|895|2024-04-03|
 |9|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|870|2023-12-11|
@@ -38,7 +38,7 @@
 |31|[gou4shi1/.vim](https://github.com/gou4shi1/.vim)|My Vim|15|2024-02-16|
 |32|[marslo/myvim](https://github.com/marslo/myvim)|My Vim configuratons |15|2024-01-17|
 |33|[wandercn/go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf)|my vim conf for golang IDE and rust IDE|14|2023-11-02|
-|34|[haopengmai/dianping](https://github.com/haopengmai/dianping)|黑马点评项目优化，新增消息队列RabbitMQ，令牌桶限流实现优惠券秒杀，用户登录限流(redis实现滑动窗口)等功能|11|2023-11-18|
+|34|[haopengmai/dianping](https://github.com/haopengmai/dianping)|黑马点评项目优化，新增消息队列RabbitMQ，令牌桶限流实现优惠券秒杀，用户登录限流(redis实现滑动窗口)等功能|12|2023-11-18|
 |35|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|11|2024-03-25|
 |36|[owner888/vimer](https://github.com/owner888/vimer)|vim editor|11|2024-02-29|
 |37|[Moe-sushi/termux-neovim](https://github.com/Moe-sushi/termux-neovim)|Neovim config file of termux.|9|2024-01-23|

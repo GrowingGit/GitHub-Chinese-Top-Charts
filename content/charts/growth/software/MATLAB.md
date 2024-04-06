@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-04-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2355|1|2024-01-15|
 |2|[yangbin-xd/UAV-positioning](https://github.com/yangbin-xd/UAV-positioning)|source code for IEEE IoTJ paper "Distributed and Collaborative Localization for Swarming UAVs"|23|0|2023-12-27|
 |3|[lnexenl/BeiDou_B1C](https://github.com/lnexenl/BeiDou_B1C)|BeiDou B1C Signal Generator and Catcher / 北斗B1C信号生成与捕获|17|0|2023-11-03|
-|4|[NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate)|络石机械臂动力学相关算法以及仿真|15|0|2023-11-13|
-|5|[linggm3/2023_CUMCM_National-First-Prize](https://github.com/linggm3/2023_CUMCM_National-First-Prize)|2023年高教社杯全国大学生数学建模竞赛-本科组全国一等奖-A题-定日镜场优化设计模型|5|0|2024-03-01|
-|6|[VG-TechCenter/Multi-objective-gray-wolf-optimization-algorithm](https://github.com/VG-TechCenter/Multi-objective-gray-wolf-optimization-algorithm)|多目标灰狼优化算法|3|0|2023-10-15|
-|7|[zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling](https://github.com/zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling)|华为杯研究生数学建模竞赛:历年来优化类代码(不定时更新，曾获一等奖)|31|0|2023-12-07|
-|8|[dong-hao/EM3DVP](https://github.com/dong-hao/EM3DVP)|EM3DVP: a Visual Package for 3D Geo-Electromagnetic modeling and inversion|47|0|2024-03-14|
-|9|[xdjcl/DTW](https://github.com/xdjcl/DTW)|DTW算法的MATLAB实现|21|0|2023-12-26|
-|10|[ChengleiX/Sliding_Mode_Control_simulink](https://github.com/ChengleiX/Sliding_Mode_Control_simulink)|matlab simulink仿真文件|5|0|2023-11-30|
-|11|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|6|0|2024-03-25|
-|12|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|205|0|2024-01-15|
-|13|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|17|0|2024-04-04|
-|14|[cs-chan/Total-Text-Dataset](https://github.com/cs-chan/Total-Text-Dataset)|Total Text Dataset. It consists of 1555 images with more than 3 different text orientations: Horizontal, Multi-Oriented, and Curved, one of a kind.|722|0|2023-10-05|
+|4|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment Part 2 - Spring 2024 （感谢云中先生在每次面临失败的时候，凭借直觉拯救我于水火之中）|3|0|2024-03-16|
+|5|[NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate)|络石机械臂动力学相关算法以及仿真|15|0|2023-11-13|
+|6|[linggm3/2023_CUMCM_National-First-Prize](https://github.com/linggm3/2023_CUMCM_National-First-Prize)|2023年高教社杯全国大学生数学建模竞赛-本科组全国一等奖-A题-定日镜场优化设计模型|5|0|2024-03-01|
+|7|[VG-TechCenter/Multi-objective-gray-wolf-optimization-algorithm](https://github.com/VG-TechCenter/Multi-objective-gray-wolf-optimization-algorithm)|多目标灰狼优化算法|3|0|2023-10-15|
+|8|[zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling](https://github.com/zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling)|华为杯研究生数学建模竞赛:历年来优化类代码(不定时更新，曾获一等奖)|31|0|2023-12-07|
+|9|[dong-hao/EM3DVP](https://github.com/dong-hao/EM3DVP)|EM3DVP: a Visual Package for 3D Geo-Electromagnetic modeling and inversion|47|0|2024-03-14|
+|10|[xdjcl/DTW](https://github.com/xdjcl/DTW)|DTW算法的MATLAB实现|21|0|2023-12-26|
+|11|[ChengleiX/Sliding_Mode_Control_simulink](https://github.com/ChengleiX/Sliding_Mode_Control_simulink)|matlab simulink仿真文件|5|0|2023-11-30|
+|12|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|6|0|2024-03-25|
+|13|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|205|0|2024-01-15|
+|14|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|17|0|2024-04-05|
 |15|[zhyantao/genetic-algo-for-shortest-path](https://github.com/zhyantao/genetic-algo-for-shortest-path)|遗传算法解决最短路径问题 (两个出发点)|10|0|2023-12-31|
 |16|[Lu-Anastasia/MATLAB](https://github.com/Lu-Anastasia/MATLAB)|信息光学数字实验室（matlab版）全代码|5|0|2023-11-28|
 |17|[deltaRing/mmwave_radar_1843_generate_point_cloud](https://github.com/deltaRing/mmwave_radar_1843_generate_point_cloud)|用1843AOPEVM生成点云 初步验证应该是对的，附赠数据一枚|20|0|2023-12-23|
@@ -31,7 +31,7 @@
 |24|[JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net](https://github.com/JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net)|This repository is the open source code for our latest feasibility work: "Human Anomalous Gait Termination Recognition Via Through-the-Wall Radar Based on Micro-Doppler Corner Features and Non-Local M ...|6|0|2024-01-16|
 |25|[jhu-dvrk/dvrk-gravity-compensation](https://github.com/jhu-dvrk/dvrk-gravity-compensation)|Matlab functions to identify MTM dynamic parameters, uses dvrk-ros/dvrk_matlab|13|0|2023-11-21|
 |26|[Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset](https://github.com/Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset)|机械故障诊断公开数据集|11|0|2023-11-29|
-|27|[brian09088/LEO-NTN](https://github.com/brian09088/LEO-NTN)|低軌衛星、非地面網路與相關通訊機制|3|0|2024-04-02|
+|27|[brian09088/LEO-NTN](https://github.com/brian09088/LEO-NTN)|低軌衛星、非地面網路與相關通訊機制|3|0|2024-04-05|
 |28|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|174|0|2024-03-21|
 |29|[Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator](https://github.com/Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator)|针对解决轮式移动机械臂在复杂环境中执行灵巧作业的需求，开展了面向冗余轮式移动机械臂的考虑任务优先级的位形优化研究。首先建立了整机运动学模型，然后基于任务优先级框架开展了面向车-臂双轨迹跟踪、避奇异位形、避关节极限等多任务目标的位形优化的研究，最后进行了复杂工况仿真，验证了方法的有效性。|4|0|2024-03-13|
 |30|[Lusenc/SkyrmionOpticalForce](https://github.com/Lusenc/SkyrmionOpticalForce)|该项目记录笔者科研过程中用到的算法函数，包括矢量场表示、瑞利粒子光学力的计算、特殊光束生成等内容|6|0|2023-11-16|

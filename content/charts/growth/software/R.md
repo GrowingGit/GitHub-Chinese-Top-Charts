@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2024-04-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1732|1|2024-04-04|
+|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1733|1|2024-04-05|
 |2|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|59|0|2024-02-28|
 |3|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|40|0|2024-02-27|
 |4|[skgrange/rmweather](https://github.com/skgrange/rmweather)|Tools to Conduct Meteorological Normalisation on Air Quality Data|44|0|2023-11-21|
@@ -32,7 +32,7 @@
 |25|[koheiw/newsmap](https://github.com/koheiw/newsmap)|Semi-supervised algorithm for geographical document classification|56|0|2024-03-30|
 |26|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |42|0|2024-01-21|
 |27|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|169|0|2024-03-11|
-|28|[koheiw/seededlda](https://github.com/koheiw/seededlda)|LDA for semisupervised topic modeling|62|0|2024-03-27|
+|28|[koheiw/seededlda](https://github.com/koheiw/seededlda)|LDA for semisupervised topic modeling|62|0|2024-04-05|
 |29|[wu-yc/scMetabolism](https://github.com/wu-yc/scMetabolism)|Quantifying metabolism activity at the single-cell resolution|85|0|2024-02-08|
 |30|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|156|0|2024-03-05|
 |31|[quanteda/readtext](https://github.com/quanteda/readtext)|an R package for reading text files|115|0|2024-02-27|
@@ -41,7 +41,7 @@
 |34|[davidycliao/legisTaiwan](https://github.com/davidycliao/legisTaiwan)|legisTaiwan: An Interface to Access Taiwan Legislative API in R 台灣立法院國會系統 API |22|0|2024-02-25|
 |35|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|72|0|2024-02-08|
 |36|[ShixiangWang/tinyscholar](https://github.com/ShixiangWang/tinyscholar)|A Tiny R Package to Get and Show Google Scholar Profile|8|0|2024-01-05|
-|37|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|166|0|2024-04-02|
+|37|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|167|0|2024-04-02|
 |38|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|197|0|2023-11-23|
 |39|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages; Book: https://lishensuo.github.io/UCSCXenaShiny_Book; App online: https://shiny.hiplot.cn/ucsc-xena-shiny/, http ...|83|0|2024-03-25|
 |40|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|45|0|2024-01-29|
@@ -49,12 +49,12 @@
 |42|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|79|0|2024-03-29|
 |43|[Otoliths/SP2000](https://github.com/Otoliths/SP2000)|🐟Catalogue of Life toolkit for R|12|0|2023-11-29|
 |44|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|591|0|2024-02-05|
-|45|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|998|0|2024-03-28|
+|45|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|999|0|2024-03-28|
 |46|[cjgeyer/foo](https://github.com/cjgeyer/foo)|A demo for a class|35|0|2024-01-23|
 |47|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|131|0|2024-03-13|
 |48|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|15|0|2024-02-26|
 |49|[zumbov2/deeplr](https://github.com/zumbov2/deeplr)|An R wrapper for the DeepL Translator API|36|0|2024-03-28|
-|50|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|14|0|2024-04-04|
+|50|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|14|0|2024-04-05|
 |51|[CBIIT/LDlinkR](https://github.com/CBIIT/LDlinkR)|LDlinkR|47|0|2024-04-04|
 |52|[caf-ifrit/forestat](https://github.com/caf-ifrit/forestat)|forestat: Forest Carbon Sequestration and Potential Productivity Calculation 森林碳汇计量和潜力计算|6|0|2024-02-20|
 |53|[Crazzy-Rabbit/Rscript-to-anaylise-and-visualize](https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize)|一些用于画图的R脚本|7|0|2024-03-19|
