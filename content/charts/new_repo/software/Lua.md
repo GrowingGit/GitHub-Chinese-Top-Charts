@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Lua
-<sub>数据更新: 2024-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[ejoy/vaststars](https://github.com/ejoy/vaststars)|A game demo for Ant engine|389|2024-04-03|2024-02-06|
 |2|[huahua132/skynet_fly](https://github.com/huahua132/skynet_fly)|基于云风的skynet，搭建开箱即用的微服务框架，提供优雅的服务热更新|389|2024-04-03|2023-05-27|
-|3|[AegirTech/ArkLights](https://github.com/AegirTech/ArkLights)|明日方舟速通 arknights|276|2024-02-02|2023-08-25|
+|3|[AegirTech/ArkLights](https://github.com/AegirTech/ArkLights)|明日方舟速通 arknights|277|2024-02-02|2023-08-25|
 |4|[Afool4U/Logi_purgatory_macro](https://github.com/Afool4U/Logi_purgatory_macro)|罗技G系列炼狱宏|195|2024-03-31|2023-08-04|
 |5|[boluokk/e7Helper](https://github.com/boluokk/e7Helper)|【EPIC】第七史诗多功能覆盖脚本(刷书签🍃，挂讨伐、后记、祭坛✌️，挂JJC等📛，多服务器支持📺，qq机器人消息通知📩)|96|2024-03-31|2023-09-09|
 |6|[kchen0x/rime-crane](https://github.com/kchen0x/rime-crane)|凇鹤拼音 —— Rime 简体中文输入法方案，整合了雾凇拼音和小鹤双拼/音形方案的拼音输入法。|92|2024-04-03|2023-04-27|
-|7|[x1ao4/plex-mpv](https://github.com/x1ao4/plex-mpv)|通过 lua 脚本调用 plex 桌面端 mpv 播放器的隐藏功能 / calling the hidden features of the plex desktop mpv player via lua scripts|54|2024-03-30|2023-06-01|
-|8|[geezmolycos/lizard-pet](https://github.com/geezmolycos/lizard-pet)|love2d 编写的桌宠，目前实现了一只飞龙，使用程序动态生成的动画，自然流畅（至少希望是这样）。|42|2024-04-02|2024-03-17|
-|9|[liyunfan1223/unbot-addon](https://github.com/liyunfan1223/unbot-addon)|基于 UnBot 插件修改的机器人控制插件，作为 AzerothCore 机器人模组的配套插件|35|2023-12-18|2023-05-29|
+|7|[x1ao4/plex-mpv](https://github.com/x1ao4/plex-mpv)|通过 lua 脚本调用 plex 桌面端 mpv 播放器的隐藏功能 / calling the hidden features of the plex desktop mpv player via lua scripts|54|2024-04-06|2023-06-01|
+|8|[geezmolycos/lizard-pet](https://github.com/geezmolycos/lizard-pet)|love2d 编写的桌宠，目前实现了一只飞龙，使用程序动态生成的动画，自然流畅（至少希望是这样）。|43|2024-04-02|2024-03-17|
+|9|[liyunfan1223/unbot-addon](https://github.com/liyunfan1223/unbot-addon)|基于 UnBot 插件修改的机器人控制插件，作为 AzerothCore 机器人模组的配套插件|36|2023-12-18|2023-05-29|
 |10|[HowcanoeWang/rime-lua-aux-code](https://github.com/HowcanoeWang/rime-lua-aux-code)|RIME输入法辅助码音形分离插件|28|2024-03-05|2023-10-14|
 |11|[hugh7007/xmjd6-rere](https://github.com/hugh7007/xmjd6-rere)|基于星空键道，拓展出来百万词库版本-星猫键道6|25|2024-04-03|2023-06-29|
 |12|[chenmozhijin/luci-app-socat](https://github.com/chenmozhijin/luci-app-socat)|同时兼容firewall3/4 的luci-app-socat|25|2023-11-19|2023-05-13|
@@ -31,8 +31,8 @@
 |24|[lost-melody/rime-smyh](https://github.com/lost-melody/rime-smyh)|吉旦餅：亂序字根，三碼定長，延遲頂字。|13|2024-04-01|2023-05-01|
 |25|[milkory/rsns-data](https://github.com/milkory/rsns-data)|雷索纳斯 游戏数据|11|2024-04-02|2024-03-12|
 |26|[amorphobia/rime-jiandao](https://github.com/amorphobia/rime-jiandao)|🌟️星空键道输入方案|11|2024-02-07|2023-06-30|
-|27|[shadow3aaa/fas-rs-extension-module-template](https://github.com/shadow3aaa/fas-rs-extension-module-template)|fas-rs插件的模板仓库。Template repository for fas-rs extension.|9|2024-03-02|2024-01-28|
-|28|[najoast/eluna_scripts](https://github.com/najoast/eluna_scripts)|魔兽世界Lua脚本。Lua scripts for WoW Eluna Lua Engine. |9|2024-03-10|2023-12-21|
+|27|[najoast/eluna_scripts](https://github.com/najoast/eluna_scripts)|魔兽世界Lua脚本。Lua scripts for WoW Eluna Lua Engine. |10|2024-03-10|2023-12-21|
+|28|[shadow3aaa/fas-rs-extension-module-template](https://github.com/shadow3aaa/fas-rs-extension-module-template)|fas-rs插件的模板仓库。Template repository for fas-rs extension.|9|2024-03-02|2024-01-28|
 |29|[wjlin0/cf-lua](https://github.com/wjlin0/cf-lua)|cf 鼠标宏|9|2023-11-26|2023-11-25|
 |30|[66hh/GF2ExiliumData](https://github.com/66hh/GF2ExiliumData)|某药丸游戏数据|9|2023-10-08|2023-10-08|
 |31|[Kicamon/im-switch.nvim](https://github.com/Kicamon/im-switch.nvim)|neovim的输入法自动切换插件，在写文档以及代码注释的时候可以自动帮忙切换输入法|9|2023-12-10|2023-08-04|

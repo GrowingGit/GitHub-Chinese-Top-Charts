@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2024-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[marlkiller/dylib_dobby_hook](https://github.com/marlkiller/dylib_dobby_hook)|该项目是一个集成了 Dobby Hook 框架的 macOS dylib 项目，通过使用 Dobby Hook 框架实现对应用程序的钩子函数，以实现跨平台破解软件的效果。|69|2024-04-05|2024-01-14|
+|1|[marlkiller/dylib_dobby_hook](https://github.com/marlkiller/dylib_dobby_hook)|该项目是一个集成了 Dobby Hook 框架的 macOS dylib 项目，通过使用 Dobby Hook 框架实现对应用程序的钩子函数，以实现跨平台破解软件的效果。|69|2024-04-06|2024-01-14|
 |2|[QiuChenlyOpenSource/SearchHexCodeInFile](https://github.com/QiuChenlyOpenSource/SearchHexCodeInFile)|编写，测试特征码在文件中的相对位置，以便注入绝对地址。|50|2024-03-15|2023-10-13|
 |3|[TangSengDaoDao/TangSengDaoDaoiOS](https://github.com/TangSengDaoDao/TangSengDaoDaoiOS)|唐僧叨叨即时通讯(im) iOS 端|23|2024-02-27|2023-07-06|
 |4|[hi-dhl/HarmonyPractice](https://github.com/hi-dhl/HarmonyPractice)|这个仓库主要用于演示 ArkTS 语法和 鸿蒙组件的使用，以及鸿蒙的实战项目|20|2024-01-28|2024-01-20|
@@ -28,8 +28,8 @@
 |21|[zhongaiyemaozi/ReadCardInformation](https://github.com/zhongaiyemaozi/ReadCardInformation)|通过OpenCV读取身份证/社保卡信息|2|2023-11-10|2023-10-20|
 |22|[dgyiheda/YUniMPSDK](https://github.com/dgyiheda/YUniMPSDK)|uniapp小程序SDK|2|2023-11-28|2023-09-14|
 |23|[oceanengine/bda_signal_sdk](https://github.com/oceanengine/bda_signal_sdk)|激活SDK-iOS|2|2024-01-23|2023-09-12|
-|24|[shijia2118/speech_xf](https://github.com/shijia2118/speech_xf)|这是一个Flutter插件，用于讯飞语音识别，支持Android和IOS.|2|2023-12-25|2023-04-30|
-|25|[niyongsheng/NYSWS](https://github.com/niyongsheng/NYSWS)|ios开箱即用脚手架🍭|2|2024-01-26|2023-04-23|
+|24|[shijia2118/speech_xf](https://github.com/shijia2118/speech_xf)|这是一个Flutter插件，用于讯飞语音识别，支持Android和IOS.|2|2024-03-19|2023-04-30|
+|25|[niyongsheng/NYSWS](https://github.com/niyongsheng/NYSWS)|ios开箱即用脚手架🍭|2|2024-02-07|2023-04-23|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

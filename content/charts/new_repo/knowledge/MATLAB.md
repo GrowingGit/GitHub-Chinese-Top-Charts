@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > MATLAB
-<sub>数据更新: 2024-04-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[luo0207/undergraduate_course_resources_AIA_HUSTER](https://github.com/luo0207/undergraduate_course_resources_AIA_HUSTER)|华中科技大学人工智能与自动化学院本科学习资料：课件、试卷、笔记、代码|25|2024-01-22|2023-04-22|
+|1|[luo0207/undergraduate_course_resources_AIA_HUSTER](https://github.com/luo0207/undergraduate_course_resources_AIA_HUSTER)|华中科技大学人工智能与自动化学院本科学习资料：课件、试卷、笔记、代码|26|2024-01-22|2023-04-22|
 |2|[StZhang-B/PKU-Millimeter-Wave-Radar-Tutorial](https://github.com/StZhang-B/PKU-Millimeter-Wave-Radar-Tutorial)|本项目是为了PKU大二学生本研轮转而创，内容包含了对毫米波雷达基础知识的总结、基于IWR1843的原始ADC数据处理、FMCW-MIMO毫米波雷达仿真、基于点云的人体追踪Demo、基于热力图的人体定位demo、手势识别demo和毫米波雷达生命体征检测Demo|12|2024-03-28|2024-03-11|
 |3|[casparji1018921/-Structured-Light-3D-Reconstruction-](https://github.com/casparji1018921/-Structured-Light-3D-Reconstruction-)|这个代码库存放了个人学习结构光三维重建的学习内容和代码，旨在分享和交流，帮助其他对该主题感兴趣的人。如有问题或建议，欢迎联系我！（This repository contains personal learning materials and code related to structured light 3D reconstruction, intended for sharing and c ...|12|2024-03-07|2023-04-12|
 |4|[guguguhy/ISAC](https://github.com/guguguhy/ISAC)|SEU SISE 毕业设计 ISAC通感一体化论文阅读与代码复现|9|2023-12-12|2023-11-29|
