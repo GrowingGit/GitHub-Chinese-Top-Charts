@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Objective-C
-<sub>数据更新: 2024-04-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -16,7 +16,7 @@
 |9|[erduoniba/HDTranslateModule](https://github.com/erduoniba/HDTranslateModule)|iOS多语言解决方案大全：半自动化+特殊场景手动解决项目中的多语言问题|30|2024-01-22|
 |10|[ApesTalk/Epub](https://github.com/ApesTalk/Epub)|一步一步学习如何制作一个EPub电子书阅读器。How to make a EPub e-book reader step by step.|23|2023-10-23|
 |11|[webersongao/DMBlog_iOS](https://github.com/webersongao/DMBlog_iOS)|wordpress博客移动iOS版，点击链接了解更多：|22|2024-03-05|
-|12|[aolan/iOS_Develop](https://github.com/aolan/iOS_Develop)|该文档都是日常开发过程中解决问题的经验总结。|11|2024-01-03|
+|12|[aolan/iOS_Develop](https://github.com/aolan/iOS_Develop)|该文档都是日常开发过程中解决问题的经验总结。|12|2024-01-03|
 |13|[nicolastinkl/Crach-haosexiansheng](https://github.com/nicolastinkl/Crach-haosexiansheng)|破解好色先生协议，编写协议抓取python脚本，以及批量获取数据和视频的核心技巧|5|2024-02-03|
 |14|[lijingpei2016/Photic](https://github.com/lijingpei2016/Photic)|音视频学习demo|5|2024-01-21|
 |15|[huangboju/Study](https://github.com/huangboju/Study)|一些学习的东西|4|2024-03-30|
