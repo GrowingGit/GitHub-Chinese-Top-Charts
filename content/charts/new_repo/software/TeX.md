@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2024-04-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[huangwb8/ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX)|中国科研常用LaTeX模板集|174|2024-03-08|2024-02-12|
+|1|[huangwb8/ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX)|中国科研常用LaTeX模板集|175|2024-03-08|2024-02-12|
 |2|[neumason/DLNU](https://github.com/neumason/DLNU)|大连民族大学研究生学位论文参考Latex和word模版，依据2023学校规范开发的相应Latex和word模板。|73|2024-03-10|2023-05-18|
-|3|[NemoYuan2008/SJTU-Thesis-Proposal](https://github.com/NemoYuan2008/SJTU-Thesis-Proposal)|上海交通大学开题报告LaTeX模板（非官方） Shanghai Jiao Tong University LaTeX Template for thesis proposal (unofficial)|44|2024-03-11|2023-12-03|
+|3|[NemoYuan2008/SJTU-Thesis-Proposal](https://github.com/NemoYuan2008/SJTU-Thesis-Proposal)|上海交通大学开题报告LaTeX模板（非官方） Shanghai Jiao Tong University LaTeX Template for thesis proposal (unofficial)|47|2024-03-11|2023-12-03|
 |4|[foocker/AIGC](https://github.com/foocker/AIGC)|扩散模型算法基础文档、训练、实验、部署等仓库|13|2024-03-10|2024-02-26|
-|5|[LeyuDame/LDMCM](https://github.com/LeyuDame/LDMCM)|基于EasyMCM改进的一个美赛LaTeX模板|11|2024-02-02|2024-01-05|
-|6|[Teddy-van-Jerry/seuthesis2024b](https://github.com/Teddy-van-Jerry/seuthesis2024b)|LaTeX Template of Southeast University Thesis for Class of 2024 Bachelors (东南大学 2024 届本科毕设 LaTeX 模板)|9|2024-04-07|2023-11-10|
+|5|[Teddy-van-Jerry/seuthesis2024b](https://github.com/Teddy-van-Jerry/seuthesis2024b)|LaTeX Template of Southeast University Thesis for Class of 2024 Bachelors (东南大学 2024 届本科毕设 LaTeX 模板)|12|2024-04-09|2023-11-10|
+|6|[LeyuDame/LDMCM](https://github.com/LeyuDame/LDMCM)|基于EasyMCM改进的一个美赛LaTeX模板|11|2024-02-02|2024-01-05|
 |7|[SeddonShen/NWPU_Latex_Template](https://github.com/SeddonShen/NWPU_Latex_Template)|Latex Template for Northwestern Polytechnical University(NWPU) Report|9|2023-10-16|2023-10-13|
 |8|[xiaobai-171/overleaf-latex-chinese-general-template](https://github.com/xiaobai-171/overleaf-latex-chinese-general-template)|一个overleaf latex中文通用模板，支持单栏双栏图、单栏双栏表、算法、代码，包含注释说明和例子，语法简单易懂|7|2024-01-24|2024-01-24|
 |9|[Trikim-Zhang/nudtpaper-undergraduate](https://github.com/Trikim-Zhang/nudtpaper-undergraduate)|本科毕设LaTeX模板|7|2024-01-17|2023-06-08|
