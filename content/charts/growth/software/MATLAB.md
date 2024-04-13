@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-04-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -11,7 +11,7 @@
 |4|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment Part 2 - Spring 2024 （感谢云中先生在每次面临失败的时候，凭借直觉拯救我于水火之中）|3|0|2024-03-16|
 |5|[NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate)|络石机械臂动力学相关算法以及仿真|15|0|2023-11-13|
 |6|[linggm3/2023_CUMCM_National-First-Prize](https://github.com/linggm3/2023_CUMCM_National-First-Prize)|2023年高教社杯全国大学生数学建模竞赛-本科组全国一等奖-A题-定日镜场优化设计模型|5|0|2024-03-01|
-|7|[VG-TechCenter/Multi-objective-gray-wolf-optimization-algorithm](https://github.com/VG-TechCenter/Multi-objective-gray-wolf-optimization-algorithm)|多目标灰狼优化算法|3|0|2023-10-15|
+|7|[VG-TechCenter/Multi-objective-gray-wolf-optimization-algorithm](https://github.com/VG-TechCenter/Multi-objective-gray-wolf-optimization-algorithm)|多目标灰狼优化算法|4|0|2023-10-15|
 |8|[zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling](https://github.com/zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling)|华为杯研究生数学建模竞赛:历年来优化类代码(不定时更新，曾获一等奖)|31|0|2023-12-07|
 |9|[dong-hao/EM3DVP](https://github.com/dong-hao/EM3DVP)|EM3DVP: a Visual Package for 3D Geo-Electromagnetic modeling and inversion|47|0|2024-03-14|
 |10|[xdjcl/DTW](https://github.com/xdjcl/DTW)|DTW算法的MATLAB实现|21|0|2023-12-26|
@@ -19,7 +19,7 @@
 |12|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|6|0|2024-03-25|
 |13|[ECheynet/SEIR](https://github.com/ECheynet/SEIR)|Generalized SEIR Epidemic Model (fitting and computation)|82|0|2024-04-11|
 |14|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|208|0|2024-01-15|
-|15|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|17|0|2024-04-11|
+|15|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|17|0|2024-04-12|
 |16|[zhyantao/genetic-algo-for-shortest-path](https://github.com/zhyantao/genetic-algo-for-shortest-path)|遗传算法解决最短路径问题 (两个出发点)|10|0|2023-12-31|
 |17|[Lu-Anastasia/MATLAB](https://github.com/Lu-Anastasia/MATLAB)|信息光学数字实验室（matlab版）全代码|5|0|2023-11-28|
 |18|[deltaRing/mmwave_radar_1843_generate_point_cloud](https://github.com/deltaRing/mmwave_radar_1843_generate_point_cloud)|用1843AOPEVM生成点云 初步验证应该是对的，附赠数据一枚|20|0|2023-12-23|
@@ -31,8 +31,8 @@
 |24|[linggm3/SYSU_Digital-Image-Processing](https://github.com/linggm3/SYSU_Digital-Image-Processing)|2023年中山大学计算机学院谢晓华老师的数图（数字图像处理）项目|3|0|2024-03-01|
 |25|[JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net](https://github.com/JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net)|This repository is the open source code for our latest feasibility work: "Human Anomalous Gait Termination Recognition Via Through-the-Wall Radar Based on Micro-Doppler Corner Features and Non-Local M ...|6|0|2024-01-16|
 |26|[jhu-dvrk/dvrk-gravity-compensation](https://github.com/jhu-dvrk/dvrk-gravity-compensation)|Matlab functions to identify MTM dynamic parameters, uses dvrk-ros/dvrk_matlab|13|0|2023-11-21|
-|27|[Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset](https://github.com/Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset)|机械故障诊断公开数据集|12|0|2023-11-29|
-|28|[brian09088/LEO-NTN](https://github.com/brian09088/LEO-NTN)|非地面網路(低軌衛星):相關通訊協定與機制|3|0|2024-04-08|
+|27|[Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset](https://github.com/Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset)|机械故障诊断公开数据集|13|0|2023-11-29|
+|28|[brian09088/LEO-NTN](https://github.com/brian09088/LEO-NTN)|非地面網路(低軌衛星):相關通訊協定與機制|4|0|2024-04-12|
 |29|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|175|0|2024-03-21|
 |30|[Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator](https://github.com/Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator)|针对解决轮式移动机械臂在复杂环境中执行灵巧作业的需求，开展了面向冗余轮式移动机械臂的考虑任务优先级的位形优化研究。首先建立了整机运动学模型，然后基于任务优先级框架开展了面向车-臂双轨迹跟踪、避奇异位形、避关节极限等多任务目标的位形优化的研究，最后进行了复杂工况仿真，验证了方法的有效性。|4|0|2024-03-13|
 |31|[Lusenc/SkyrmionOpticalForce](https://github.com/Lusenc/SkyrmionOpticalForce)|该项目记录笔者科研过程中用到的算法函数，包括矢量场表示、瑞利粒子光学力的计算、特殊光束生成等内容|6|0|2023-11-16|
@@ -66,18 +66,19 @@
 |59|[HansKing98/MATLAB-Image-Processing](https://github.com/HansKing98/MATLAB-Image-Processing)|数字图像处理（冈萨雷斯）|24|0|2024-01-19|
 |60|[himynameisfuego/SiTraNo](https://github.com/himynameisfuego/SiTraNo)|A MATLAB app for sines-transient-noise decomposition of audio signals.|33|0|2023-12-15|
 |61|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|13|0|2024-04-08|
-|62|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|234|0|2024-03-26|
+|62|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|235|0|2024-03-26|
 |63|[wong-cf/phase_revocery](https://github.com/wong-cf/phase_revocery)|相位恢复算法相关的几种算法，包括角谱迭代算法，GS算法，TTIE强度方程恢复算法，以及算法的结合。|8|0|2024-01-02|
 |64|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|539|0|2024-02-24|
-|65|[Dramwig/Optimization-Algorithms-Comparison](https://github.com/Dramwig/Optimization-Algorithms-Comparison)|比较和分析不同启发式算法（包括GA、CGWO、PSO和AOA）的收敛曲线，使用MATLAB编写|4|0|2024-01-13|
-|66|[WeisongZhao/Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|Official MATLAB implementation of the "Sparse deconvolution" -v1.0.3|66|0|2024-02-08|
-|67|[VG-TechCenter/Microgrid-Optimization-Dispatch-Model](https://github.com/VG-TechCenter/Microgrid-Optimization-Dispatch-Model)|微电网优化调度模型|16|0|2023-10-15|
-|68|[linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge](https://github.com/linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge)|2022年深圳杯数学建模挑战赛-全国第二-B题-基于用电可靠性的配电网规划模型|4|0|2024-03-01|
-|69|[mingsongli/acycle](https://github.com/mingsongli/acycle)|Acycle: Time-series analysis software for research and education|72|0|2024-03-20|
-|70|[PKU-HunterWu/LDPC-Encoder-Decoder](https://github.com/PKU-HunterWu/LDPC-Encoder-Decoder)|基于Matlab的LDPC编解码算法实现及LDPC码性能测试|39|0|2024-04-08|
-|71|[deltaRing/UAV_Path_Search](https://github.com/deltaRing/UAV_Path_Search)|本工程将借助ESDF、TSDF、Dstar、B样条曲线、以及多项式路径来实现无人机路径规划|6|0|2023-12-19|
-|72|[curryqka/Cell-counting-GUI-MATLABGUI-](https://github.com/curryqka/Cell-counting-GUI-MATLABGUI-)|包含三大板块，图像变换，图像增强和细胞计数|18|0|2023-12-19|
-|73|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP)|93|0|2024-04-09|
+|65|[AlterWL/Battery_SOC_Estimation](https://github.com/AlterWL/Battery_SOC_Estimation)|Battery state of charge estimation using kalman filter in Matlab|253|0|2024-04-12|
+|66|[Dramwig/Optimization-Algorithms-Comparison](https://github.com/Dramwig/Optimization-Algorithms-Comparison)|比较和分析不同启发式算法（包括GA、CGWO、PSO和AOA）的收敛曲线，使用MATLAB编写|4|0|2024-01-13|
+|67|[WeisongZhao/Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|Official MATLAB implementation of the "Sparse deconvolution" -v1.0.3|66|0|2024-02-08|
+|68|[VG-TechCenter/Microgrid-Optimization-Dispatch-Model](https://github.com/VG-TechCenter/Microgrid-Optimization-Dispatch-Model)|微电网优化调度模型|16|0|2023-10-15|
+|69|[linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge](https://github.com/linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge)|2022年深圳杯数学建模挑战赛-全国第二-B题-基于用电可靠性的配电网规划模型|4|0|2024-03-01|
+|70|[mingsongli/acycle](https://github.com/mingsongli/acycle)|Acycle: Time-series analysis software for research and education|72|0|2024-03-20|
+|71|[PKU-HunterWu/LDPC-Encoder-Decoder](https://github.com/PKU-HunterWu/LDPC-Encoder-Decoder)|基于Matlab的LDPC编解码算法实现及LDPC码性能测试|39|0|2024-04-08|
+|72|[deltaRing/UAV_Path_Search](https://github.com/deltaRing/UAV_Path_Search)|本工程将借助ESDF、TSDF、Dstar、B样条曲线、以及多项式路径来实现无人机路径规划|6|0|2023-12-19|
+|73|[curryqka/Cell-counting-GUI-MATLABGUI-](https://github.com/curryqka/Cell-counting-GUI-MATLABGUI-)|包含三大板块，图像变换，图像增强和细胞计数|18|0|2023-12-19|
+|74|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP)|93|0|2024-04-09|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

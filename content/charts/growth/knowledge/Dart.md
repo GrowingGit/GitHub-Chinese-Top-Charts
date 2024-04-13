@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Dart
-<sub>数据更新: 2024-04-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[vito-go/mywords](https://github.com/vito-go/mywords)|背单词神器。 输入一个英语或双语文章的网址，本工具将自动提取文章中所有单词及其所在句子，对文章单词进行去重、统计汇总。你可以过滤筛选只显示出你不认识的单词。重磅: 新增支持web版本，在线体验: http://vitogo.tpddns.cn:18960/|124|2|2024-04-11|
-|2|[nightmare-space/speed_share](https://github.com/nightmare-space/speed_share)|Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.|839|1|2024-01-27|
-|3|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A full-featured immersion language learning suite for mobile.|735|1|2024-03-08|
-|4|[jayden320/flutter_shuqi](https://github.com/jayden320/flutter_shuqi)|高仿书旗小说 Flutter版，支持iOS、Android|2677|1|2023-12-18|
+|1|[vito-go/mywords](https://github.com/vito-go/mywords)|背单词神器。 输入一个英语或双语文章的网址，本工具将自动提取文章中所有单词及其所在句子，对文章单词进行去重、统计汇总。你可以过滤筛选只显示出你不认识的单词。重磅: 新增支持web版本，在线体验: http://vitogo.tpddns.cn:18960/|125|2|2024-04-12|
+|2|[nightmare-space/speed_share](https://github.com/nightmare-space/speed_share)|Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.|840|1|2024-01-27|
+|3|[lrorpilla/jidoujisho](https://github.com/lrorpilla/jidoujisho)|A full-featured immersion language learning suite for mobile.|736|1|2024-03-08|
+|4|[jayden320/flutter_shuqi](https://github.com/jayden320/flutter_shuqi)|高仿书旗小说 Flutter版，支持iOS、Android|2678|1|2023-12-18|
 |5|[RxReader/tencent_kit](https://github.com/RxReader/tencent_kit)|Flutter版QQ登录/分享|234|0|2024-02-23|
 |6|[shaoting0730/Flutter_learn_demo](https://github.com/shaoting0730/Flutter_learn_demo)|Flutter_learn_demo  Flutter学习历程|195|0|2024-04-11|
 |7|[xiedong11/flutter_app](https://github.com/xiedong11/flutter_app)|Flutter进阶之旅专栏|97|0|2024-02-02|
@@ -21,11 +21,11 @@
 |14|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|104|0|2024-03-20|
 |15|[RxReader/wechat_kit](https://github.com/RxReader/wechat_kit)|Flutter版微信登录/分享/支付 SDK|670|0|2024-04-08|
 |16|[xiaoyaocz/flutter_cnblogs](https://github.com/xiaoyaocz/flutter_cnblogs)|博客园Flutter客户端|109|0|2023-12-07|
-|17|[cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet)|The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com|517|0|2024-04-11|
+|17|[cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet)|The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com|517|0|2024-04-12|
 |18|[lixp185/bookfx](https://github.com/lixp185/bookfx)|模拟书籍翻页效果|60|0|2023-12-07|
 |19|[githubityu/flutter_jdshop_mvvm](https://github.com/githubityu/flutter_jdshop_mvvm)|跟着大地老师学习的,模仿京东的一个实战项目，但是根据实际项目做了许多修改和优化|51|0|2024-01-03|
 |20|[xiaojia21190/ZY_Player_flutter](https://github.com/xiaojia21190/ZY_Player_flutter)|影视 漫画 小说 听书 |64|0|2024-03-07|
-|21|[shang1219178163/flutter_templet_project](https://github.com/shang1219178163/flutter_templet_project)| 个人模板项目, 包含组件使用示例、自定义组件封装、代码优化封装技巧。。。|41|0|2024-04-11|
+|21|[shang1219178163/flutter_templet_project](https://github.com/shang1219178163/flutter_templet_project)| 个人模板项目, 包含组件使用示例、自定义组件封装、代码优化封装技巧。。。|41|0|2024-04-12|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
