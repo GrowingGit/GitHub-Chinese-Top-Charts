@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Vim script
-<sub>数据更新: 2024-04-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20114|2024-04-04|
 |2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8557|2024-03-17|
 |3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4887|2023-11-16|
-|4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1815|2024-03-22|
-|5|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1675|2024-02-22|
+|4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1814|2024-03-22|
+|5|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1676|2024-02-22|
 |6|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1539|2024-04-07|
-|7|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|894|2024-04-12|
+|7|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|895|2024-04-12|
 |8|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|883|2024-04-07|
 |9|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|875|2023-12-11|
 |10|[bilibili/vim-vide](https://github.com/bilibili/vim-vide)|Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！|781|2024-04-10|
 |11|[mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)|A vim 7.4+ plugin to generate table of contents for Markdown files.|593|2024-04-12|
-|12|[SidOfc/mkdx](https://github.com/SidOfc/mkdx)|A vim plugin that adds some nice extra's for working with markdown documents|481|2023-10-16|
+|12|[SidOfc/mkdx](https://github.com/SidOfc/mkdx)|A vim plugin that adds some nice extra's for working with markdown documents|480|2023-10-16|
 |13|[lyokha/vim-xkbswitch](https://github.com/lyokha/vim-xkbswitch)|vim plugin for automatic keyboard layout switching in insert mode|471|2024-03-12|
 |14|[sillybun/vim-repl](https://github.com/sillybun/vim-repl)|Best REPL environment for Vim|434|2024-01-16|
 |15|[ruchee/vimrc](https://github.com/ruchee/vimrc)|Ruchee's Vim Config Files|416|2023-10-17|
@@ -39,7 +39,7 @@
 |32|[gou4shi1/.vim](https://github.com/gou4shi1/.vim)|My Vim|15|2024-04-09|
 |33|[marslo/myvim](https://github.com/marslo/myvim)|My Vim configuratons |15|2024-01-17|
 |34|[wandercn/go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf)|my vim conf for golang IDE and rust IDE|14|2023-11-02|
-|35|[haopengmai/dianping](https://github.com/haopengmai/dianping)|黑马点评项目优化，新增消息队列RabbitMQ，令牌桶限流实现优惠券秒杀，用户登录限流(redis实现滑动窗口)等功能|12|2023-11-18|
+|35|[haopengmai/dianping](https://github.com/haopengmai/dianping)|黑马点评项目优化，新增消息队列RabbitMQ，令牌桶限流实现优惠券秒杀，用户登录限流(redis实现滑动窗口)等功能|13|2023-11-18|
 |36|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|11|2024-03-25|
 |37|[owner888/vimer](https://github.com/owner888/vimer)|vim editor|11|2024-02-29|
 |38|[Moe-sushi/termux-neovim](https://github.com/Moe-sushi/termux-neovim)|Neovim config file of termux.|9|2024-01-23|

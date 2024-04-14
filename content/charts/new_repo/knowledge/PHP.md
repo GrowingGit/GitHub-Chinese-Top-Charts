@@ -1,18 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > PHP
-<sub>数据更新: 2024-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[pandora-next/deploy](https://github.com/pandora-next/deploy)|Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!|10953|2024-01-21|2023-11-11|
-|2|[easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0)|《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。|1924|2024-04-02|2024-03-27|
-|3|[ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF)|【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！|1672|2024-04-09|2023-04-16|
-|4|[codehub666/94list](https://github.com/codehub666/94list)|百度网盘分享链接分析渲染列表辅助下载开源程序|1546|2024-03-03|2023-08-20|
-|5|[ordylan/OrdylanNote](https://github.com/ordylan/OrdylanNote)|Welcome to ON, a php-based webpage notebook with a variety of games.|233|2023-12-24|2023-08-08|
-|6|[tsxcw/mtab](https://github.com/tsxcw/mtab)|Mtab书签导航程序 - 免费无广告的浏览器书签助手，多端同步、美观易用的在 线导航和书签工具，自主研发免费使用，帮助您高效管理 网页和应用，提升在线体验。|100|2024-04-04|2023-10-09|
-|7|[find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)|潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!|71|2024-04-09|2023-12-06|
-|8|[yixxqg2023/yixxqg](https://github.com/yixxqg2023/yixxqg)|易语言 学习强国 挂机 多账户 |38|2024-04-07|2023-04-14|
+|1|[pandora-next/deploy](https://github.com/pandora-next/deploy)|Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!|10967|2024-01-21|2023-11-11|
+|2|[easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0)|《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。|2004|2024-04-02|2024-03-27|
+|3|[ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF)|【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！|1682|2024-04-13|2023-04-16|
+|4|[codehub666/94list](https://github.com/codehub666/94list)|百度网盘分享链接分析渲染列表辅助下载开源程序|1579|2024-03-03|2023-08-20|
+|5|[ordylan/OrdylanNote](https://github.com/ordylan/OrdylanNote)|Welcome to ON, a php-based webpage notebook with a variety of games.|234|2023-12-24|2023-08-08|
+|6|[tsxcw/mtab](https://github.com/tsxcw/mtab)|Mtab书签导航程序 - 免费无广告的浏览器书签助手，多端同步、美观易用的在 线导航和书签工具，自主研发免费使用，帮助您高效管理 网页和应用，提升在线体验。|105|2024-04-04|2023-10-09|
+|7|[find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)|潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!|73|2024-04-13|2023-12-06|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

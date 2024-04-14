@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Dart
-<sub>数据更新: 2024-04-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[vito-go/mywords](https://github.com/vito-go/mywords)|背单词神器。 输入一个英语或双语文章的网址，本工具将自动提取文章中所有单词及其所在句子，对文章单词进行去重、统计汇总。你可以过滤筛选只显示出你不认识的单词。重磅: 新增支持web版本，在线体验: http://vitogo.tpddns.cn:18960/|124|2024-04-08|2024-02-17|
+|1|[vito-go/mywords](https://github.com/vito-go/mywords)|背单词神器。 输入一个英语或双语文章的网址，本工具将自动提取文章中所有单词及其所在句子，对文章单词进行去重、统计汇总。你可以过滤筛选只显示出你不认识的单词。重磅: 新增支持web版本，在线体验: http://vitogo.tpddns.cn:18960/|126|2024-04-13|2024-02-17|
 |2|[gvenusleo/lex-app](https://github.com/gvenusleo/lex-app)|划词翻译软件，使用 Flutter 开发，支持多个翻译模型|13|2024-03-04|2023-10-14|
-|3|[molihuan/HLVideoNote](https://github.com/molihuan/HLVideoNote)|"视频笔记"顾名思义，但不仅仅是视频笔记。"Video notes" are just as the name suggests, but they are more than just video notes.|6|2024-02-16|2023-10-01|
+|3|[molihuan/HLVideoNote](https://github.com/molihuan/HLVideoNote)|"视频笔记"顾名思义，但不仅仅是视频笔记。"Video notes" are just as the name suggests, but they are more than just video notes.|7|2024-02-16|2023-10-01|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

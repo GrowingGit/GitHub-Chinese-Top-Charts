@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Swift
-<sub>数据更新: 2024-04-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[mazzzystar/Queryable](https://github.com/mazzzystar/Queryable)|Run OpenAI's CLIP model on iOS to search photos.|2367|2024-03-16|2023-07-09|
-|2|[thebarbican19/BatteryBoi](https://github.com/thebarbican19/BatteryBoi)|The battery app your Mac's been dreaming about behind your back.|823|2024-01-11|2023-08-08|
+|2|[thebarbican19/BatteryBoi](https://github.com/thebarbican19/BatteryBoi)|The battery app your Mac's been dreaming about behind your back.|822|2024-01-11|2023-08-08|
 |3|[guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm)|llama and other  large language models on iOS and MacOS offline using GGML library.|814|2024-04-09|2023-06-14|
-|4|[TopWidgets/SwingAnimation](https://github.com/TopWidgets/SwingAnimation)|小组件平移动画   Widget on the Move, A Playful Animation|709|2023-11-21|2023-08-21|
-|5|[wudijimao/Inpaint-iOS](https://github.com/wudijimao/Inpaint-iOS)|A free and open-source inpainting app powered by coreml on iPhone / iPad / MacBook with M CPU.|268|2024-02-06|2023-12-15|
-|6|[lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery)|Get the battery level of all your devices on your Mac and put them on the Dock / Status Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!|262|2024-04-11|2024-02-11|
-|7|[ZhangDo/NeteaseTVDemo](https://github.com/ZhangDo/NeteaseTVDemo)|NeteaseTVDemo (Vibefy) - tvOS 客户端  |185|2024-03-24|2023-08-25|
+|4|[TopWidgets/SwingAnimation](https://github.com/TopWidgets/SwingAnimation)|小组件平移动画   Widget on the Move, A Playful Animation|710|2023-11-21|2023-08-21|
+|5|[lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery)|Get the battery level of all your devices on your Mac and put them on the Dock / Status Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!|274|2024-04-11|2024-02-11|
+|6|[wudijimao/Inpaint-iOS](https://github.com/wudijimao/Inpaint-iOS)|A free and open-source inpainting app powered by coreml on iPhone / iPad / MacBook with M CPU.|269|2024-02-06|2023-12-15|
+|7|[ZhangDo/NeteaseTVDemo](https://github.com/ZhangDo/NeteaseTVDemo)|NeteaseTVDemo (Vibefy) - tvOS 客户端  |186|2024-04-13|2023-08-25|
 |8|[intsig171/SmartCodable](https://github.com/intsig171/SmartCodable)|SmartCodable is a data parsing library based on Codable. It is simple to use, with robust compatibility being one of its main features. SmartCodable 是基于Codable实现的数据解析库。简单易用，强悍的兼容性是SmartCodable的主要特点。   ...|157|2024-04-12|2023-09-28|
 |9|[clashcross/CrossApp](https://github.com/clashcross/CrossApp)|一款支持多种协议管理的跨平台客户端，可以运行于windows、Android、macOS、Linux等平台|64|2024-04-01|2023-11-06|
 |10|[intsig171/AdapterSwift](https://github.com/intsig171/AdapterSwift)|SwiftUI精细化方案，针对不同的苹果手机机型缩放UI控件，让整体UI视觉效果一致。|27|2023-11-28|2023-11-28|
@@ -28,9 +28,10 @@
 |21|[Tyh2001/small-red-book](https://github.com/Tyh2001/small-red-book)|使用 SwiftUI 开发的小红书 IOS 原生手机 App。|7|2024-03-21|2024-03-13|
 |22|[qianlishun/TermiWatchWidget](https://github.com/qianlishun/TermiWatchWidget)|苹果手表自定义表盘，终端主题，Terminal Watch Widget Face for Apple Watch.|7|2024-04-03|2023-10-13|
 |23|[swiftdo/vapor-blog](https://github.com/swiftdo/vapor-blog)|Swift Vapor Blog（基于 Swift Vapor 的博客系统）|7|2024-01-18|2023-06-07|
-|24|[zjinhu/HUD](https://github.com/zjinhu/HUD)|SwiftUI实现的弹窗HUD，支持Loading，Progress，Success，Fail，Toast，Popup，支持自定义View|6|2023-11-23|2023-04-27|
-|25|[SwiftCommunityRes/CustomerTabBar-Swift](https://github.com/SwiftCommunityRes/CustomerTabBar-Swift)|Swift 自定义 Tab bar|5|2023-10-26|2023-10-26|
-|26|[TsinHzl/ZLCollectionLeftLayout](https://github.com/TsinHzl/ZLCollectionLeftLayout)|left aligned CollectionView layout. Written in Swift 自动左对齐collection cell的样式|5|2023-12-28|2023-09-14|
+|24|[LSX-s-Software/PaperPilotApp](https://github.com/LSX-s-Software/PaperPilotApp)|多平台多人协作文献管理软件。Multi-platform collaborative reference manager.|6|2023-12-15|2023-09-26|
+|25|[zjinhu/HUD](https://github.com/zjinhu/HUD)|SwiftUI实现的弹窗HUD，支持Loading，Progress，Success，Fail，Toast，Popup，支持自定义View|6|2023-11-23|2023-04-27|
+|26|[SwiftCommunityRes/CustomerTabBar-Swift](https://github.com/SwiftCommunityRes/CustomerTabBar-Swift)|Swift 自定义 Tab bar|5|2023-10-26|2023-10-26|
+|27|[TsinHzl/ZLCollectionLeftLayout](https://github.com/TsinHzl/ZLCollectionLeftLayout)|left aligned CollectionView layout. Written in Swift 自动左对齐collection cell的样式|5|2023-12-28|2023-09-14|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
