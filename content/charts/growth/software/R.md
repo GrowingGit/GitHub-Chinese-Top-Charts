@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2024-04-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -15,7 +15,7 @@
 |8|[MatthewSmith430/CompaniesHouse](https://github.com/MatthewSmith430/CompaniesHouse)|This package allows to extract data from the Companies House API and create interlocking directorates networks|25|0|2024-01-19|
 |9|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|18|0|2024-03-19|
 |10|[eco-hydro/phenofit](https://github.com/eco-hydro/phenofit)|R package: A state-of-the-art Vegetation Phenology extraction package, phenofit|67|0|2024-01-23|
-|11|[wilkox/treemapify](https://github.com/wilkox/treemapify)|🌳 Draw treemaps in ggplot2|210|0|2023-10-17|
+|11|[wilkox/treemapify](https://github.com/wilkox/treemapify)|🌳 Draw treemaps in ggplot2|210|0|2024-04-14|
 |12|[IshidaMotohiro/TextMining](https://github.com/IshidaMotohiro/TextMining)|-|18|0|2023-11-02|
 |13|[sascha2schroeder/popEye](https://github.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|20|0|2024-03-19|
 |14|[fragla/eq5d](https://github.com/fragla/eq5d)|-|20|0|2024-02-16|
@@ -42,7 +42,7 @@
 |35|[lcpmgh/NPMCM](https://github.com/lcpmgh/NPMCM)|中国研究生数学建模竞赛获奖数据及可视化分析|11|0|2024-03-07|
 |36|[evanliu3594/GenshinArtifactFarming](https://github.com/evanliu3594/GenshinArtifactFarming)|原神圣遗物狗粮路线规划装置   Planning tools for customizing your Artifact Farming Route in Genshin Impact|5|0|2023-12-27|
 |37|[davidycliao/legisTaiwan](https://github.com/davidycliao/legisTaiwan)|legisTaiwan: An Interface to Access Taiwan Legislative API in R 台灣立法院國會系統 API |22|0|2024-02-25|
-|38|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|72|0|2024-02-08|
+|38|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|73|0|2024-04-14|
 |39|[ShixiangWang/tinyscholar](https://github.com/ShixiangWang/tinyscholar)|A Tiny R Package to Get and Show Google Scholar Profile|8|0|2024-01-05|
 |40|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|170|0|2024-04-12|
 |41|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|198|0|2023-11-23|

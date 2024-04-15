@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > PHP
-<sub>数据更新: 2024-04-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[gptlink/gptlink](https://github.com/gptlink/gptlink)|10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能|2576|2024-03-27|2023-05-22|
-|2|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的高性能面板|604|2024-04-12|2023-11-14|
+|2|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的高性能面板|605|2024-04-14|2023-11-14|
 |3|[icewolf-sec/PerlinPuzzle-Webshell-PHP](https://github.com/icewolf-sec/PerlinPuzzle-Webshell-PHP)|使用分支对抗技术制作的PHP Webshell，截止2024年1月18日，共数十个查杀引擎免杀|230|2024-01-19|2024-01-19|
 |4|[chengxs1994/ChatGPT-SDImg-Web](https://github.com/chengxs1994/ChatGPT-SDImg-Web)|基于ChatGPT-Next-Web，集成SD webui AI绘图，实现注册登录，次数限制，充值，分享等功能|142|2024-01-03|2023-06-01|
 |5|[huhexian/2012-huhexian](https://github.com/huhexian/2012-huhexian)|一个基于 Twenty Twelve 修改的 WordPress 双栏文字主题|97|2023-12-30|2023-06-08|
-|6|[xiaoxuan6/SMSBombing](https://github.com/xiaoxuan6/SMSBombing)|短信轰炸|94|2024-04-13|2023-07-19|
-|7|[netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr)|彩虹聚合DNS管理系统|86|2024-04-03|2024-04-03|
+|6|[xiaoxuan6/SMSBombing](https://github.com/xiaoxuan6/SMSBombing)|短信轰炸|95|2024-04-14|2023-07-19|
+|7|[netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr)|彩虹聚合DNS管理系统|88|2024-04-03|2024-04-03|
 |8|[shijie1991/highker](https://github.com/shijie1991/highker)|基于 laravel 开发的一个 社区/社交 小程序|69|2023-11-27|2023-08-23|
 |9|[imiphp/imi-ai](https://github.com/imiphp/imi-ai)|imi-ai is a ChatGPT open source project based on PHP+Swoole+Vue, which can be deployed simply and quickly.（imi-ai 是一个基于 PHP+Swoole+Vue 的 ChatGPT 开源项目，可以简单快速部署。）|65|2024-04-06|2023-06-02|
 |10|[xy3xy3/VoiceChatgpt](https://github.com/xy3xy3/VoiceChatgpt)|使用语音与chatgpt对话，调用tts-1,whisper-1,gpt-3.5-turbo。Converse with ChatGPT using voice, calling upon TTS-1, Whisper-1, and GPT-3.5-turbo..|63|2023-11-24|2023-11-21|

@@ -1,38 +1,38 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Python
-<sub>数据更新: 2024-04-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)|小红书笔记   评论爬虫、抖音视频   评论爬虫、快手视频   评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫|12011|2024-04-13|2023-06-09|
-|2|[modelscope/facechain](https://github.com/modelscope/facechain)|FaceChain is a deep-learning toolchain for generating your Digital-Twin.|8261|2024-04-07|2023-08-10|
-|3|[01-ai/Yi](https://github.com/01-ai/Yi)|A series of large language models trained from scratch by developers @01-ai|7065|2024-04-10|2023-11-03|
-|4|[liguodongiot/llm-action](https://github.com/liguodongiot/llm-action)|本项目旨在分享大模型相关技术原理以及实战经验。|5774|2024-04-11|2023-05-23|
-|5|[jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)|Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音|5419|2024-04-11|2023-10-02|
-|6|[baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2)|A series of large language models developed by Baichuan Intelligent Technology|3883|2024-02-26|2023-08-31|
-|7|[JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)|小红书链接提取/作品采集工具：提取账号发布、收藏、点赞作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！|3222|2024-04-02|2023-08-16|
-|8|[Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR)|SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild|3210|2024-04-13|2023-12-21|
-|9|[AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)|颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。|2989|2023-12-25|2023-10-24|
+|1|[NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler)|小红书笔记   评论爬虫、抖音视频   评论爬虫、快手视频   评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫|12161|2024-04-14|2023-06-09|
+|2|[modelscope/facechain](https://github.com/modelscope/facechain)|FaceChain is a deep-learning toolchain for generating your Digital-Twin.|8265|2024-04-07|2023-08-10|
+|3|[01-ai/Yi](https://github.com/01-ai/Yi)|A series of large language models trained from scratch by developers @01-ai|7066|2024-04-10|2023-11-03|
+|4|[liguodongiot/llm-action](https://github.com/liguodongiot/llm-action)|本项目旨在分享大模型相关技术原理以及实战经验。|5793|2024-04-14|2023-05-23|
+|5|[jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans)|Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音|5432|2024-04-11|2023-10-02|
+|6|[baichuan-inc/Baichuan2](https://github.com/baichuan-inc/Baichuan2)|A series of large language models developed by Baichuan Intelligent Technology|3885|2024-02-26|2023-08-31|
+|7|[JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader)|小红书链接提取/作品采集工具：提取账号发布、收藏、点赞作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！|3235|2024-04-14|2023-08-16|
+|8|[Fanghua-Yu/SUPIR](https://github.com/Fanghua-Yu/SUPIR)|SUPIR aims at developing Practical Algorithms for Photo-Realistic Image Restoration In the Wild|3224|2024-04-13|2023-12-21|
+|9|[AnsonZnl/RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide)|颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。|2990|2023-12-25|2023-10-24|
 |10|[Physton/sd-webui-prompt-all-in-one](https://github.com/Physton/sd-webui-prompt-all-in-one)|This is an extension based on sd-webui, aimed at improving the user experience of the prompt/negative prompt input box. It has a more intuitive and powerful input interface function, and provides auto ...|2433|2024-04-10|2023-05-08|
-|11|[malinkang/weread2notion](https://github.com/malinkang/weread2notion)|将微信读书划线同步到Notion|1724|2024-04-12|2023-04-17|
-|12|[chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)|A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。|1609|2024-04-13|2023-05-13|
+|11|[malinkang/weread2notion](https://github.com/malinkang/weread2notion)|将微信读书划线同步到Notion|1727|2024-04-14|2023-04-17|
+|12|[chinesehuazhou/python-weekly](https://github.com/chinesehuazhou/python-weekly)|A free weekly newsletter featuring noteworthy articles, tutorials, open-source projects, podcasts, videos, trending topics, and more.Python 潮流周刊，分享文章、教程、开源项目、软件工具、播客和视频、热门话题等内容。|1610|2024-04-13|2023-05-13|
 |13|[WisdomShell/codeshell](https://github.com/WisdomShell/codeshell)|A series of code large language models developed by PKU-KCL|1544|2024-04-02|2023-09-22|
-|14|[invictus717/MetaTransformer](https://github.com/invictus717/MetaTransformer)|Meta-Transformer for Unified Multimodal Learning|1429|2023-12-05|2023-07-08|
-|15|[SakuraLLM/Sakura-13B-Galgame](https://github.com/SakuraLLM/Sakura-13B-Galgame)|适配轻小说/Galgame的日中翻译大模型|1148|2024-04-11|2023-08-23|
-|16|[RiseInRose/MiniGPT-4-ZH](https://github.com/RiseInRose/MiniGPT-4-ZH)|MiniGPT-4 中文部署翻译 完善部署细节|837|2024-04-13|2023-04-19|
+|14|[invictus717/MetaTransformer](https://github.com/invictus717/MetaTransformer)|Meta-Transformer for Unified Multimodal Learning|1430|2023-12-05|2023-07-08|
+|15|[SakuraLLM/Sakura-13B-Galgame](https://github.com/SakuraLLM/Sakura-13B-Galgame)|适配轻小说/Galgame的日中翻译大模型|1155|2024-04-11|2023-08-23|
+|16|[RiseInRose/MiniGPT-4-ZH](https://github.com/RiseInRose/MiniGPT-4-ZH)|MiniGPT-4 中文部署翻译 完善部署细节|837|2024-04-14|2023-04-19|
 |17|[OrionStarAI/Orion](https://github.com/OrionStarAI/Orion)|Orion-14B is a family of models includes a 14B foundation LLM, and a series of models: a chat model, a long context model, a quantized model, a RAG fine-tuned model, and an Agent fine-tuned model. Ori ...|748|2024-04-09|2024-01-17|
-|18|[xd2333/GalTransl](https://github.com/xd2333/GalTransl)|支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT-3.5/GPT-4/Newbing/Sakura|693|2024-04-04|2023-05-31|
-|19|[jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader)|抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！|674|2024-04-04|2023-05-25|
-|20|[NanmiCoder/CrawlerTutorial](https://github.com/NanmiCoder/CrawlerTutorial)|爬虫入门、爬虫进阶、高级爬虫|648|2024-04-12|2024-03-24|
+|18|[xd2333/GalTransl](https://github.com/xd2333/GalTransl)|支持GPT-3.5/GPT-4/Newbing/Sakura等大语言模型的Galgame自动化翻译解决方案  Automated translation solution for visual novels supporting GPT-3.5/GPT-4/Newbing/Sakura|694|2024-04-04|2023-05-31|
+|19|[jiji262/douyin-downloader](https://github.com/jiji262/douyin-downloader)|抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。免费！免费！免费！|675|2024-04-14|2023-05-25|
+|20|[NanmiCoder/CrawlerTutorial](https://github.com/NanmiCoder/CrawlerTutorial)|爬虫入门、爬虫进阶、高级爬虫|656|2024-04-12|2024-03-24|
 |21|[saveweb/review-2023](https://github.com/saveweb/review-2023)|二〇二三年的年终总结都写好了吗？|603|2024-04-04|2023-09-27|
-|22|[AGI-Edgerunners/LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)|A repo lists papers related to LLM based agent|597|2024-04-11|2023-05-31|
-|23|[AIDotNet/AntSK](https://github.com/AIDotNet/AntSK)|基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体|589|2024-04-13|2024-02-01|
+|22|[AGI-Edgerunners/LLM-Agents-Papers](https://github.com/AGI-Edgerunners/LLM-Agents-Papers)|A repo lists papers related to LLM based agent|600|2024-04-11|2023-05-31|
+|23|[AIDotNet/AntSK](https://github.com/AIDotNet/AntSK)|基于.Net8+AntBlazor+SemanticKernel 和KernelMemory 打造的AI知识库/智能体|592|2024-04-13|2024-02-01|
 |24|[cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS)|小红书爬虫，小红书笔记、主页、搜索爬取|530|2024-04-03|2023-08-08|
 |25|[codefuse-ai/CodeFuse-DevOps-Model](https://github.com/codefuse-ai/CodeFuse-DevOps-Model)|DevOps-Models is a series of industrial-first LLMs for theDevOps domain. Asking it for any question in the DevOps domain to get solution!|515|2024-01-23|2023-10-30|
-|26|[CjangCjengh/YakuYaku](https://github.com/CjangCjengh/YakuYaku)|翻译姬：致力于小众领域的机器翻译|513|2024-01-12|2023-08-12|
+|26|[CjangCjengh/YakuYaku](https://github.com/CjangCjengh/YakuYaku)|翻译姬：致力于小众领域的机器翻译|514|2024-01-12|2023-08-12|
 |27|[morsoli/llm-books](https://github.com/morsoli/llm-books)|利用LLM构建应用实践笔记|485|2024-04-12|2023-06-12|
-|28|[WangRongsheng/CareGPT](https://github.com/WangRongsheng/CareGPT)|🌞 CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展。Medical LLM, Open Source Driven for a Healthy Future.|476|2024-04-05|2023-08-13|
+|28|[WangRongsheng/CareGPT](https://github.com/WangRongsheng/CareGPT)|🌞 CareGPT (关怀GPT)是一个医疗大语言模型，同时它集合了数十个公开可用的医疗微调数据集和开放可用的医疗大语言模型，包含LLM的训练、测评、部署等以促进医疗LLM快速发展。Medical LLM, Open Source Driven for a Healthy Future.|478|2024-04-05|2023-08-13|
 |29|[yihong0618/epubhv](https://github.com/yihong0618/epubhv)|Make your epub books vertical or horizontal.|444|2024-01-05|2023-09-04|
 |30|[MasterYip/ChatPaper2Xmind](https://github.com/MasterYip/ChatPaper2Xmind)|论文XMind笔记生成工具，将论文pdf通过ChatGPT转换为带有图片和公式的简要XMind笔记，提高论文阅读效率。|422|2024-02-23|2023-07-21|
 |31|[jiji262/MediaCrawler-new](https://github.com/jiji262/MediaCrawler-new)|小红书笔记   评论爬虫、抖音视频   评论爬虫、快手视频   评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫|379|2024-04-04|2024-03-20|
