@@ -1,11 +1,10 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > R
-<sub>数据更新: 2024-04-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[caf-ifrit/forestat](https://github.com/caf-ifrit/forestat)|forestat: Forest Carbon Sequestration and Potential Productivity Calculation 森林碳汇计量和潜力计算|6|2024-02-20|2023-04-16|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

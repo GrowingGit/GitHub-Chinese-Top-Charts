@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2024-04-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -25,12 +25,13 @@
 |18|[Doctxing/phytex](https://github.com/Doctxing/phytex)|物理实验报告|3|2024-03-30|2024-03-22|
 |19|[yuchen1024/pkcbook](https://github.com/yuchen1024/pkcbook)|十四五规划教材-公钥密码学|3|2024-02-16|2024-02-16|
 |20|[AdaCoding123/Resume](https://github.com/AdaCoding123/Resume)|🌝软件工程师-latex简历模板，制作一份简洁优雅的程序员简历。star或fork后拿走~|3|2024-02-07|2024-01-12|
-|21|[yuchen1024/pkebook](https://github.com/yuchen1024/pkebook)|公钥加密设计方法|3|2024-02-16|2023-12-20|
-|22|[InnocentFIVE/LaTeX-Lecture-SPS-and-Duxing](https://github.com/InnocentFIVE/LaTeX-Lecture-SPS-and-Duxing)|2023 年 12 月 8 日讲稿|3|2023-12-09|2023-11-10|
-|23|[wennboo/HDU-opening-experimental-report](https://github.com/wennboo/HDU-opening-experimental-report)|旨在帮助杭州电子科技大学学生完成开题/实验/思政等latex模板，非官方模板，如若使用，后果自负！|3|2023-12-18|2023-10-31|
-|24|[wennboo/NSFC-concluding-report-latex](https://github.com/wennboo/NSFC-concluding-report-latex)|旨在帮助各位老师方便用latex完成基金结题报告的撰写。非官方模板，如若使用，后果自负！|3|2023-12-18|2023-10-31|
-|25|[wennboo/NSFC-application-report-latex](https://github.com/wennboo/NSFC-application-report-latex)|旨在帮助各位老师方便用latex完成国家自然科学基金的项目申请。非官方模板，如若使用，后果自负！！！|3|2023-12-18|2023-10-31|
-|26|[liyuxuan3003/DigitalIC](https://github.com/liyuxuan3003/DigitalIC)|数字集成电路LaTeX笔记|3|2023-11-06|2023-09-05|
+|21|[Tdzdele/CHINESE-JOURNAL-OF-COMPUTERS--Overleaf-Latex-Template](https://github.com/Tdzdele/CHINESE-JOURNAL-OF-COMPUTERS--Overleaf-Latex-Template)|计算机学报Latex模板，适配Overleaf，修复了官方模板Bug，调整了排版，输出观感同官方模板一致，导入即用。|3|2024-01-12|2024-01-02|
+|22|[yuchen1024/pkebook](https://github.com/yuchen1024/pkebook)|公钥加密设计方法|3|2024-02-16|2023-12-20|
+|23|[InnocentFIVE/LaTeX-Lecture-SPS-and-Duxing](https://github.com/InnocentFIVE/LaTeX-Lecture-SPS-and-Duxing)|2023 年 12 月 8 日讲稿|3|2023-12-09|2023-11-10|
+|24|[wennboo/HDU-opening-experimental-report](https://github.com/wennboo/HDU-opening-experimental-report)|旨在帮助杭州电子科技大学学生完成开题/实验/思政等latex模板，非官方模板，如若使用，后果自负！|3|2023-12-18|2023-10-31|
+|25|[wennboo/NSFC-concluding-report-latex](https://github.com/wennboo/NSFC-concluding-report-latex)|旨在帮助各位老师方便用latex完成基金结题报告的撰写。非官方模板，如若使用，后果自负！|3|2023-12-18|2023-10-31|
+|26|[wennboo/NSFC-application-report-latex](https://github.com/wennboo/NSFC-application-report-latex)|旨在帮助各位老师方便用latex完成国家自然科学基金的项目申请。非官方模板，如若使用，后果自负！！！|3|2023-12-18|2023-10-31|
+|27|[liyuxuan3003/DigitalIC](https://github.com/liyuxuan3003/DigitalIC)|数字集成电路LaTeX笔记|3|2023-11-06|2023-09-05|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

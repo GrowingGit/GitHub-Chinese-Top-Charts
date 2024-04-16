@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > CSS
-<sub>数据更新: 2024-04-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV)|📃 开箱即用的 Obsidian / Typora 简历|1398|2024-03-17|2024-03-05|
+|1|[BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV)|📃 开箱即用的 Obsidian / Typora 简历|1407|2024-03-17|2024-03-05|
 |2|[Qihoo360/WatchAD2.0](https://github.com/Qihoo360/WatchAD2.0)|WatchAD2.0是一款针对域威胁的日志分析与监控系统|359|2024-01-17|2023-07-12|
-|3|[intro-llm/intro-llm.github.io](https://github.com/intro-llm/intro-llm.github.io)|website|302|2023-12-11|2023-06-16|
-|4|[wozulong/ChatGPTAuthHelper](https://github.com/wozulong/ChatGPTAuthHelper)|一个简单的Chrome插件，用来帮助你登录ChatGPT。|287|2023-11-30|2023-11-13|
-|5|[transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control)|maintained fork of ronggang/transmission-web-control|282|2024-04-06|2023-04-23|
-|6|[hamster1963/HomeDash](https://github.com/hamster1963/HomeDash)|一个仪表盘|209|2024-04-12|2023-09-17|
+|3|[intro-llm/intro-llm.github.io](https://github.com/intro-llm/intro-llm.github.io)|website|303|2023-12-11|2023-06-16|
+|4|[wozulong/ChatGPTAuthHelper](https://github.com/wozulong/ChatGPTAuthHelper)|一个简单的Chrome插件，用来帮助你登录ChatGPT。|286|2023-11-30|2023-11-13|
+|5|[transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control)|maintained fork of ronggang/transmission-web-control|284|2024-04-06|2023-04-23|
+|6|[hamster1963/HomeDash](https://github.com/hamster1963/HomeDash)|一个仪表盘|209|2024-04-15|2023-09-17|
 |7|[HappySimple/Typora-theme-Happysimple](https://github.com/HappySimple/Typora-theme-Happysimple)|一款自制的Markdown主题！|195|2023-12-23|2023-07-20|
-|8|[MUKAPP/LiteLoaderQQNT-MSpring-Theme](https://github.com/MUKAPP/LiteLoaderQQNT-MSpring-Theme)|LiteLoaderQQNT 主题，优雅 · 粉粉 · 细致|175|2024-04-13|2023-06-09|
+|8|[MUKAPP/LiteLoaderQQNT-MSpring-Theme](https://github.com/MUKAPP/LiteLoaderQQNT-MSpring-Theme)|LiteLoaderQQNT 主题，优雅 · 粉粉 · 细致|176|2024-04-13|2023-06-09|
 |9|[yong-s/alms](https://github.com/yong-s/alms)|7X24小时在线要饭🍚系统，欢迎👏各位老板打赏，打赏一分也是爱|173|2024-04-12|2023-06-28|
-|10|[ZYYO666/homepage](https://github.com/ZYYO666/homepage)|我的个人主页，homepage,个人引导页,简约主页,个人导航|150|2024-04-07|2024-01-11|
-|11|[vnyoon/web-magic](https://github.com/vnyoon/web-magic)|这个repo通过实际案例来演示如何运用HTML、CSS和JavaScript创建各种互动性、独特性、动感酷炫和视觉效果。|90|2023-12-22|2023-08-29|
+|10|[ZYYO666/homepage](https://github.com/ZYYO666/homepage)|我的个人主页，homepage,个人引导页,简约主页,个人导航|151|2024-04-15|2024-01-11|
+|11|[vnyoon/web-magic](https://github.com/vnyoon/web-magic)|这个repo通过实际案例来演示如何运用HTML、CSS和JavaScript创建各种互动性、独特性、动感酷炫和视觉效果。|91|2023-12-22|2023-08-29|
 |12|[Waite0603/Resume-vCard-Collection](https://github.com/Waite0603/Resume-vCard-Collection)|About Responsive Personal Portfolio Website Using HTML CSS and JavaScript with Light & Dark Theme Toggle, Web前端静态个人简历，网页个人简历模版，HTML&CSS制作个人简历, 个人作品集网站|76|2023-12-10|2023-09-30|
 |13|[rootknight/Miniflux-Theme-Reeder](https://github.com/rootknight/Miniflux-Theme-Reeder)|Miniflux v2 的自定义主题 miniflux-theme-reeder（仿 Reeder）|68|2024-04-12|2024-03-17|
 |14|[HSSkyBoy/DOL-CheatExtend](https://github.com/HSSkyBoy/DOL-CheatExtend)|DOL Cheta Extend 欲都孤儿作弊扩展|58|2023-12-10|2023-11-19|
 |15|[xiaoxuan6/chatgpt-server](https://github.com/xiaoxuan6/chatgpt-server)|ChatGPT 在线免费网站|54|2024-04-14|2023-05-01|
 |16|[Meayair/Typecho-Theme-MeaWord](https://github.com/Meayair/Typecho-Theme-MeaWord)|一款体现文字美感的极简主题|49|2024-01-26|2023-12-22|
-|17|[sumruler/typora-theme-phycat](https://github.com/sumruler/typora-theme-phycat)|物理猫Typora主题|43|2024-04-06|2023-12-29|
+|17|[sumruler/typora-theme-phycat](https://github.com/sumruler/typora-theme-phycat)|物理猫Typora主题|45|2024-04-06|2023-12-29|
 |18|[chris81605/Degrees-of-Lewdity_Cheat_Extended](https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended)|Degrees-of-Lewdity 作弊拓展MOD代碼|43|2024-01-15|2023-11-21|
 |19|[TopSea/Alive](https://github.com/TopSea/Alive)|Open source desk pet software that supports Live2d and MMD models.     支持 Live2d 和 MMD 模型的开源桌宠软件。|41|2024-02-21|2024-01-16|
 |20|[roinli/zhny](https://github.com/roinli/zhny)|农业岛智慧农业系统Java版，基于Java+Vue+Uni-app开发，在微信公众号、小程序、H5移动端都能使用，代码开源，独立部署，二开很方便，能满足智慧农业气象站监控系统、智慧农业温棚监控系统、智慧农业高标准农田系统、智慧农业仓库系统、报表统计、智慧农业设备控制系统、设备物模型、大屏展示等多种经营需求，自用、做二开项目都很合适，MQTT、NETTY、EMQX。|39|2024-03-20|2023-10-05|
@@ -40,8 +40,8 @@
 |33|[codingroam/websocket-webrtc-chat](https://github.com/codingroam/websocket-webrtc-chat)|音视频通话，仿微信、QQ，利用springboot+websocket+webrtc-bootstrap5+H5+JQuery3.3实现，可自适应PC端和移动端，实现聊天功能和视频通话功能等|23|2023-12-13|2023-09-11|
 |34|[OnikayokoMaVie/MomoTalkNTQQ-Theme](https://github.com/OnikayokoMaVie/MomoTalkNTQQ-Theme)|基于LiteLoaderQQNT-Telegram-Theme修改的低仿Momotalk的QQNT主题|19|2024-03-02|2023-11-04|
 |35|[liuran001/Roaming-SIM](https://github.com/liuran001/Roaming-SIM)|有关漫游卡的一些内容|17|2024-04-10|2023-12-20|
-|36|[vhhgx/fontiny](https://github.com/vhhgx/fontiny)|一个基于fontmin的字体压缩工具|16|2023-11-09|2023-09-26|
-|37|[zhongyang219/RibbonUiFrame](https://github.com/zhongyang219/RibbonUiFrame)|这是一个界面框架模块，实现了Ribbon风格的样式，使用xml文件配置Ribbon标签页。此框架可以将Qt或MFC/Win32程序集成到同一个应用程序中。|16|2023-12-16|2023-08-27|
+|36|[zhongyang219/RibbonUiFrame](https://github.com/zhongyang219/RibbonUiFrame)|这是一个界面框架模块，实现了Ribbon风格的样式，使用xml文件配置Ribbon标签页。此框架可以将Qt或MFC/Win32程序集成到同一个应用程序中。|17|2023-12-16|2023-08-27|
+|37|[vhhgx/fontiny](https://github.com/vhhgx/fontiny)|一个基于fontmin的字体压缩工具|16|2023-11-09|2023-09-26|
 |38|[YuLin-Coder/No68TalentRecruitmentManagementSystem](https://github.com/YuLin-Coder/No68TalentRecruitmentManagementSystem)|基于springboot的人才招聘管理系统：前端jquery、easyui，后端 maven、springmvc、spring、jpa、hibernate，集成职位浏览、我的简历、投递简历、职位管理、公司管理等功能于一体的系统。|15|2023-12-23|2023-12-23|
 |39|[chengzhongxue/halo-theme-timeplus](https://github.com/chengzhongxue/halo-theme-timeplus)|移植自Typecho 社区中 的 TimePlus 主题，适配Halo2.x的TimePlus主题|15|2023-11-07|2023-08-15|
 |40|[telegeam/telegeam.github.io](https://github.com/telegeam/telegeam.github.io)|TG纸飞机群组 - Telegram频道导航【热门推荐】悄悄收集了6000+优质Telegram群组、频道和机器人，经过筛选，助您快速找到最合适的群组或频道！|15|2024-04-05|2023-08-15|
@@ -69,11 +69,11 @@
 |62|[hanyucd/vue3-mall-admin](https://github.com/hanyucd/vue3-mall-admin)|:fire: vue3 + vue-rouer4 + vuex4 + element-plus 搭建的商城PC后台管理|7|2023-12-15|2023-11-26|
 |63|[YuLin-Coder/No20CakeShoppingMallManagementSystem](https://github.com/YuLin-Coder/No20CakeShoppingMallManagementSystem)|基于ssm的蛋糕商城管理系统：前端jsp、jquery、bootstrap，后端 springmvc、spring、mybatis，系统分为用户和管理员，一个优雅简洁的商城系统，管理员在后台发布新的商品，用户浏览合适的商品加入购物车，在线支付下单|7|2023-11-23|2023-11-23|
 |64|[YuLin-Coder/No16StudentInformationManagementSystem](https://github.com/YuLin-Coder/No16StudentInformationManagementSystem)|学生信息管理系统：前端jsp、easyui、jquery，后端 servlet，系统角色分为：学生、老师、辅导员，一个可以让学生在电脑上选课、请假和查询成绩的系统|7|2023-11-20|2023-11-20|
-|65|[3546514206/Hexo.Github.IO](https://github.com/3546514206/Hexo.Github.IO)|个人博客系统|7|2024-04-12|2023-08-28|
-|66|[YuLin-Coder/No19SecondHandGoodsTradingOnCampusManagementSystem](https://github.com/YuLin-Coder/No19SecondHandGoodsTradingOnCampusManagementSystem)|基于ssh的校园二手物品交易管理系统：前端jsp、jquery、easyui，后端 struts、spring、hibernate，系统分为用户和管理员，用户可以在平台发布自己的二手物品，也可以购买别人发布的商品，支持在线付款和货到付款|6|2023-11-23|2023-11-23|
-|67|[EELL88/aurora](https://github.com/EELL88/aurora)|v2board前端|6|2024-03-05|2023-11-01|
-|68|[yhl452493373/frpc-panel](https://github.com/yhl452493373/frpc-panel)|frpc-panel 是 https://github.com/fatedier/frp 的一个客户端工具，用于更好的展示客户端信息，以及管理客户端代理信息。|6|2023-12-29|2023-09-26|
-|69|[zuiwuchang/xray-webui](https://github.com/zuiwuchang/xray-webui)|xray 的跨平臺 web ui|6|2024-03-01|2023-09-19|
+|65|[zuiwuchang/xray-webui](https://github.com/zuiwuchang/xray-webui)|xray 的跨平臺 web ui|7|2024-03-01|2023-09-19|
+|66|[3546514206/Hexo.Github.IO](https://github.com/3546514206/Hexo.Github.IO)|个人博客系统|7|2024-04-15|2023-08-28|
+|67|[YuLin-Coder/No19SecondHandGoodsTradingOnCampusManagementSystem](https://github.com/YuLin-Coder/No19SecondHandGoodsTradingOnCampusManagementSystem)|基于ssh的校园二手物品交易管理系统：前端jsp、jquery、easyui，后端 struts、spring、hibernate，系统分为用户和管理员，用户可以在平台发布自己的二手物品，也可以购买别人发布的商品，支持在线付款和货到付款|6|2023-11-23|2023-11-23|
+|68|[EELL88/aurora](https://github.com/EELL88/aurora)|v2board前端|6|2024-03-05|2023-11-01|
+|69|[yhl452493373/frpc-panel](https://github.com/yhl452493373/frpc-panel)|frpc-panel 是 https://github.com/fatedier/frp 的一个客户端工具，用于更好的展示客户端信息，以及管理客户端代理信息。|6|2023-12-29|2023-09-26|
 |70|[xiaoxiaocxyer/course](https://github.com/xiaoxiaocxyer/course)|基于SpringBoot的学生成绩管理系统，是一套多角色的成绩管理系统，包含了学生、老师、管理员三种角色。本系统主要包含了管理员对学生和老师管理、排课、成绩查询、课表查询等功能。本系统是一套前后端分离的系统，前端使用vue+elementui，后端使用springboot框架。数据库使用的是mysql数据库。 该系统功能完善，界面美观，非常适合作为毕设或者课程作业以及新手开发学习。|6|2024-02-27|2023-08-31|
 |71|[jszls65/amazon_stream](https://github.com/jszls65/amazon_stream)|Amazon Marketing Stream API 订阅, 亚马逊广告小时级别数据订阅, 亚马逊订单小时级别数据订阅|6|2023-12-12|2023-07-30|
 |72|[chenshinshi/toy](https://github.com/chenshinshi/toy)|向新版思源集市上传langzhou制作的toy主题并承担后期维护|6|2023-11-03|2023-06-27|
