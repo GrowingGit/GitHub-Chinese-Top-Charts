@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Pascal
-<sub>数据更新: 2024-04-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|556|2024-04-15|
+|1|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|557|2024-04-16|
 |2|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|452|2024-03-14|
 |3|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|324|2024-04-15|
 |4|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|254|2023-11-15|
@@ -25,7 +25,7 @@
 |18|[msfm2018/WinBarOS](https://github.com/msfm2018/WinBarOS)|objectdock mac toolbar 模仿 效率软件 小工具大方便|16|2024-03-29|
 |19|[hkoi/hkoi-solutions](https://github.com/hkoi/hkoi-solutions)|HKOI Final Event solutions|12|2024-02-28|
 |20|[xenli/OneLazarus](https://github.com/xenli/OneLazarus)|OneLazarus是叫兽(FLM)QQ:378464060基于Lazarus IDE开发的三层中间件，开源免费，支持MVC及传统DataSet框架，使用的是Mormot2的HTTP通讯。【OnePascal开源群】：814696487|8|2023-12-13|
-|21|[cityboat888/OnePascal](https://github.com/cityboat888/OnePascal)|OnePascal简介: OneDelphi是基于Delphi IDE开发的三层中间件， oneLaz是基于Lazaus IDE开发的三层中间件， OneUniApp是基于HBuilderX IDE开发的多端合一app 中间件支持MVC及传统DataSet框架，这个版本是在源码的基础上(放弃mormot)使用Delphi-Cross-Socket作为HTTP通讯|5|2024-04-05|
+|21|[cityboat888/OnePascal](https://github.com/cityboat888/OnePascal)|OnePascal简介: OneDelphi是基于Delphi IDE开发的三层中间件， oneLaz是基于Lazaus IDE开发的三层中间件， OneUniApp是基于HBuilderX IDE开发的多端合一app 中间件支持MVC及传统DataSet框架，这个版本是在源码的基础上(放弃mormot)使用Delphi-Cross-Socket作为HTTP通讯|5|2024-04-16|
 |22|[abcjingtong/HCView_Pascal](https://github.com/abcjingtong/HCView_Pascal)|一个类似word或wps用于文字排版相关功能的控件，有Delphi、C#、Html5、C++四个版本。|3|2024-04-15|
 |23|[dmznlin/mini-soft](https://github.com/dmznlin/mini-soft)|用于管理日常开发的小型系统|3|2024-03-13|
 
