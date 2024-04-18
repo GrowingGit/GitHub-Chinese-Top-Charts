@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Pascal
-<sub>数据更新: 2024-04-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -16,18 +16,17 @@
 |9|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker|97|2024-03-23|
 |10|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|52|2024-02-21|
 |11|[PassByYou888/ZNet](https://github.com/PassByYou888/ZNet)|ZNet is supported by future P2P VM, big data, cloud servers, and SAAS systems|51|2024-04-07|
-|12|[gxlmyacc/sciter4d](https://github.com/gxlmyacc/sciter4d)|sciter4d (sciter for delphi) :  一个sciter的delphi封装库|43|2023-10-17|
-|13|[xenli/OneDelphi](https://github.com/xenli/OneDelphi)|OneDelphi是叫兽(FLM)QQ:378464060基于Delphi IDE开发的三层中间件，开源免费，支持MVC及传统DataSet框架，使用的是Mormot2的HTTP通讯。【OnePascal开源群】：814696487|36|2023-12-15|
-|14|[terrylao/PascalContainer](https://github.com/terrylao/PascalContainer)|advanced data structure in Pascal, include  B-Tree,B+-Tree,B*-Tree,T-Tree,HashMap,priority queue,red-black-Tree,AVL-tree,Quad-Tree,SkipList,Sortable Single Linklist,Sort Function,LockFreeQueue,nth_ele ...|36|2024-01-19|
-|15|[ying32/res2go-ide-plugin](https://github.com/ying32/res2go-ide-plugin)|res2go Lazarus IDE plug-in|30|2024-01-13|
-|16|[huzgd/ezdml](https://github.com/huzgd/ezdml)|Lightweight data modeling and design tool (超轻量级的数据建模表结构设计工具)|24|2024-02-24|
-|17|[kewuaa/uestc_wifi_helper](https://github.com/kewuaa/uestc_wifi_helper)|电子科技大学（UESTC）校园网登录|18|2024-03-10|
-|18|[msfm2018/WinBarOS](https://github.com/msfm2018/WinBarOS)|objectdock mac toolbar 模仿 效率软件 小工具大方便|16|2024-03-29|
-|19|[hkoi/hkoi-solutions](https://github.com/hkoi/hkoi-solutions)|HKOI Final Event solutions|12|2024-02-28|
-|20|[xenli/OneLazarus](https://github.com/xenli/OneLazarus)|OneLazarus是叫兽(FLM)QQ:378464060基于Lazarus IDE开发的三层中间件，开源免费，支持MVC及传统DataSet框架，使用的是Mormot2的HTTP通讯。【OnePascal开源群】：814696487|8|2023-12-13|
-|21|[cityboat888/OnePascal](https://github.com/cityboat888/OnePascal)|OnePascal简介: OneDelphi是基于Delphi IDE开发的三层中间件， oneLaz是基于Lazaus IDE开发的三层中间件， OneUniApp是基于HBuilderX IDE开发的多端合一app 中间件支持MVC及传统DataSet框架，这个版本是在源码的基础上(放弃mormot)使用Delphi-Cross-Socket作为HTTP通讯|5|2024-04-16|
-|22|[abcjingtong/HCView_Pascal](https://github.com/abcjingtong/HCView_Pascal)|一个类似word或wps用于文字排版相关功能的控件，有Delphi、C#、Html5、C++四个版本。|3|2024-04-15|
-|23|[dmznlin/mini-soft](https://github.com/dmznlin/mini-soft)|用于管理日常开发的小型系统|3|2024-03-13|
+|12|[xenli/OneDelphi](https://github.com/xenli/OneDelphi)|OneDelphi是叫兽(FLM)QQ:378464060基于Delphi IDE开发的三层中间件，开源免费，支持MVC及传统DataSet框架，使用的是Mormot2的HTTP通讯。【OnePascal开源群】：814696487|36|2023-12-15|
+|13|[terrylao/PascalContainer](https://github.com/terrylao/PascalContainer)|advanced data structure in Pascal, include  B-Tree,B+-Tree,B*-Tree,T-Tree,HashMap,priority queue,red-black-Tree,AVL-tree,Quad-Tree,SkipList,Sortable Single Linklist,Sort Function,LockFreeQueue,nth_ele ...|36|2024-01-19|
+|14|[ying32/res2go-ide-plugin](https://github.com/ying32/res2go-ide-plugin)|res2go Lazarus IDE plug-in|30|2024-01-13|
+|15|[huzgd/ezdml](https://github.com/huzgd/ezdml)|Lightweight data modeling and design tool (超轻量级的数据建模表结构设计工具)|24|2024-02-24|
+|16|[kewuaa/uestc_wifi_helper](https://github.com/kewuaa/uestc_wifi_helper)|电子科技大学（UESTC）校园网登录|18|2024-03-10|
+|17|[msfm2018/WinBarOS](https://github.com/msfm2018/WinBarOS)|objectdock mac toolbar 模仿 效率软件 小工具大方便|16|2024-04-17|
+|18|[hkoi/hkoi-solutions](https://github.com/hkoi/hkoi-solutions)|HKOI Final Event solutions|12|2024-02-28|
+|19|[xenli/OneLazarus](https://github.com/xenli/OneLazarus)|OneLazarus是叫兽(FLM)QQ:378464060基于Lazarus IDE开发的三层中间件，开源免费，支持MVC及传统DataSet框架，使用的是Mormot2的HTTP通讯。【OnePascal开源群】：814696487|8|2023-12-13|
+|20|[cityboat888/OnePascal](https://github.com/cityboat888/OnePascal)|OnePascal简介: OneDelphi是基于Delphi IDE开发的三层中间件， oneLaz是基于Lazaus IDE开发的三层中间件， OneUniApp是基于HBuilderX IDE开发的多端合一app 中间件支持MVC及传统DataSet框架，这个版本是在源码的基础上(放弃mormot)使用Delphi-Cross-Socket作为HTTP通讯|5|2024-04-16|
+|21|[abcjingtong/HCView_Pascal](https://github.com/abcjingtong/HCView_Pascal)|一个类似word或wps用于文字排版相关功能的控件，有Delphi、C#、Html5、C++四个版本。|3|2024-04-15|
+|22|[dmznlin/mini-soft](https://github.com/dmznlin/mini-soft)|用于管理日常开发的小型系统|3|2024-03-13|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
