@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Lua
-<sub>数据更新: 2024-04-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|518|2|2024-04-16|
-|2|[Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)|《明日方舟》游戏数据|1293|1|2024-04-11|
-|3|[newObjectccc/newObjectccc.github.io](https://github.com/newObjectccc/newObjectccc.github.io)|一个分享文章和技术还有推荐的Repo~|11|0|2024-04-17|
+|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|520|2|2024-04-16|
+|2|[Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)|《明日方舟》游戏数据|1294|1|2024-04-18|
+|3|[newObjectccc/newObjectccc.github.io](https://github.com/newObjectccc/newObjectccc.github.io)|一个分享文章和技术还有推荐的Repo~|10|0|2024-04-17|
 |4|[JuanZoran/Trans.nvim](https://github.com/JuanZoran/Trans.nvim)|An awesome neovim plugin written by lua which can help translate English into Chinese 一个使用lua编写的neovim英文->中文[离线    在线]翻译插件, 还在施工中|110|0|2024-02-13|
 |5|[Yiklek/oh-my-rime](https://github.com/Yiklek/oh-my-rime)|rime 输入法集合|6|0|2023-11-04|
 |6|[max-ri/Guidelime](https://github.com/max-ri/Guidelime)|Guidelime: A WoW Classic addon for leveling guides with automatic progress updates|155|0|2023-12-19|
@@ -19,7 +19,7 @@
 |12|[LanbingIce/IsaacSocket-Mod](https://github.com/LanbingIce/IsaacSocket-Mod)|这是一个《以撒的结合》的Mod，可为其他mod提供操作剪贴板，连接WebSocket等接口|10|0|2024-03-15|
 |13|[zincPower/Lua_Study_2022](https://github.com/zincPower/Lua_Study_2022)|用于结合“江澎涌”公众号分享 Lua 知识点，形成知识体系|15|0|2023-11-24|
 |14|[generals-space/note-devops](https://github.com/generals-space/note-devops)|linux运维笔记|49|0|2024-04-15|
-|15|[mamjun/DST-Sora](https://github.com/mamjun/DST-Sora)|《饥荒：联机版》里 穹妹的mod|7|0|2024-04-09|
+|15|[mamjun/DST-Sora](https://github.com/mamjun/DST-Sora)|《饥荒：联机版》里 穹妹的mod|7|0|2024-04-17|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -1,25 +1,25 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > C
-<sub>数据更新: 2024-04-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lizongying/my-tv](https://github.com/lizongying/my-tv)|我的电视 电视直播软件，安装即可使用|24155|2024-04-03|2023-12-04|
-|2|[karpathy/llama2.c](https://github.com/karpathy/llama2.c)|Inference Llama 2 in one file of pure C|15628|2024-04-13|2023-07-23|
-|3|[hrvach/deskhop](https://github.com/hrvach/deskhop)|Fast Desktop Switching Device|5806|2024-04-15|2023-12-24|
-|4|[yeyupiaoling/Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune)|Fine-tune the Whisper speech recognition model to support training without timestamp data, training with timestamp data, and training without speech data. Accelerate inference and support Web deployme ...|613|2024-04-15|2023-04-22|
-|5|[wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly)|助力每一位RT队员，快速生成免杀木马|579|2024-04-17|2023-08-22|
-|6|[cnlohr/lolra](https://github.com/cnlohr/lolra)|Transmit LoRa Frames Without a Radio|514|2024-04-03|2024-03-25|
-|7|[leafqycc/rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading)|A simple demo of yolov5s running on rk3588/3588s using c++ (about 142 frames). / 一个使用c++在rk3588/3588s上运行的yolov5s简单demo(142帧/s)。|313|2024-04-09|2023-05-05|
-|8|[P001water/yuze](https://github.com/P001water/yuze)|A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式，支持跨平台使用|293|2024-03-06|2024-01-13|
+|1|[lizongying/my-tv](https://github.com/lizongying/my-tv)|我的电视 电视直播软件，安装即可使用|24228|2024-04-18|2023-12-04|
+|2|[karpathy/llama2.c](https://github.com/karpathy/llama2.c)|Inference Llama 2 in one file of pure C|15663|2024-04-13|2023-07-23|
+|3|[hrvach/deskhop](https://github.com/hrvach/deskhop)|Fast Desktop Switching Device|5808|2024-04-15|2023-12-24|
+|4|[yeyupiaoling/Whisper-Finetune](https://github.com/yeyupiaoling/Whisper-Finetune)|Fine-tune the Whisper speech recognition model to support training without timestamp data, training with timestamp data, and training without speech data. Accelerate inference and support Web deployme ...|618|2024-04-15|2023-04-22|
+|5|[wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly)|助力每一位RT队员，快速生成免杀木马|582|2024-04-17|2023-08-22|
+|6|[cnlohr/lolra](https://github.com/cnlohr/lolra)|Transmit LoRa Frames Without a Radio|516|2024-04-03|2024-03-25|
+|7|[leafqycc/rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading)|A simple demo of yolov5s running on rk3588/3588s using c++ (about 142 frames). / 一个使用c++在rk3588/3588s上运行的yolov5s简单demo(142帧/s)。|314|2024-04-09|2023-05-05|
+|8|[P001water/yuze](https://github.com/P001water/yuze)|A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式，支持跨平台使用|294|2024-03-06|2024-01-13|
 |9|[libdriver/st7789](https://github.com/libdriver/st7789)|ST7789 full function driver library for general MCU and Linux.|248|2024-02-25|2023-06-05|
-|10|[RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)|chsrc  全平台命令行换源工具|242|2024-01-19|2023-09-03|
-|11|[zhenruyan/WSL-libre-linux-kernel](https://github.com/zhenruyan/WSL-libre-linux-kernel)| Installing a 100% libre(free) linux kernel for wsl,It is possible to celebrate freedom within a cell. 给WSL替换自由内核!!!|222|2024-04-17|2023-07-04|
+|10|[RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)|chsrc  全平台命令行换源工具|242|2024-04-18|2023-09-03|
+|11|[zhenruyan/WSL-libre-linux-kernel](https://github.com/zhenruyan/WSL-libre-linux-kernel)| Installing a 100% libre(free) linux kernel for wsl,It is possible to celebrate freedom within a cell. 给WSL替换自由内核!!!|222|2024-04-18|2023-07-04|
 |12|[veo/nginx_shell](https://github.com/veo/nginx_shell)|nginx WebShell/内存马，更优雅的nignx backdoor|212|2024-01-04|2023-12-20|
 |13|[4ra1n/code-encryptor](https://github.com/4ra1n/code-encryptor)|使用JNI加密字节码，通过JVMTI解密字节码以保护代码，支持自定义包名和密钥，使用魔法禁止黑客dump字节码|149|2024-01-17|2023-09-06|
-|14|[jialeicui/open-lx01](https://github.com/jialeicui/open-lx01)|小爱音箱mini定制固件   Let the Xiao Ai Speaker Mini free|125|2024-04-14|2024-01-23|
-|15|[cutechip/TableLampController](https://github.com/cutechip/TableLampController)|一个可以背单词的台灯控制器|125|2024-04-15|2023-11-12|
+|14|[cutechip/TableLampController](https://github.com/cutechip/TableLampController)|一个可以背单词的台灯控制器|126|2024-04-15|2023-11-12|
+|15|[jialeicui/open-lx01](https://github.com/jialeicui/open-lx01)|小爱音箱mini定制固件   Let the Xiao Ai Speaker Mini free|125|2024-04-14|2024-01-23|
 |16|[diylxy/LiClock](https://github.com/diylxy/LiClock)|一种兼具易用性与扩展性的多功能墨水屏天气时钟|121|2024-01-17|2023-10-02|
 |17|[web3ToolBoxDev/toolBoxClient](https://github.com/web3ToolBoxDev/toolBoxClient)|一步一步编写web3工具——Step-by-Step Development of Web3 Tools|91|2024-04-11|2024-02-27|
 |18|[xuzeyu91/Avalonia-Assistant](https://github.com/xuzeyu91/Avalonia-Assistant)|基于.Net8+Avalonia+Semantic Kernel 打造一个桌面端的智能AI助理|81|2024-01-19|2024-01-08|
