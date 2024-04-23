@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Ruby
-<sub>数据更新: 2024-04-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6386|2024-04-11|
-|2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3754|2024-03-25|
-|3|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3400|2024-04-21|
-|4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2485|2023-11-02|
+|1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6388|2024-04-11|
+|2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3756|2024-03-25|
+|3|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3399|2024-04-22|
+|4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2487|2023-11-02|
 |5|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|2174|2024-04-11|
 |6|[thredded/thredded](https://github.com/thredded/thredded)|The best Rails forums engine ever.|1550|2024-04-07|
 |7|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1431|2024-04-19|
@@ -17,9 +17,9 @@
 |10|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1081|2024-04-21|
 |11|[huacnlee/rails-settings-cached](https://github.com/huacnlee/rails-settings-cached)|Global settings for your Rails application.|1034|2024-01-05|
 |12|[floere/phony](https://github.com/floere/phony)|E164 international phone number normalizing, splitting, formatting. |996|2024-02-15|
-|13|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps|993|2024-04-20|
-|14|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast citation reference parsing|966|2024-01-11|
-|15|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |942|2024-03-17|
+|13|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps|995|2024-04-20|
+|14|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast citation reference parsing|967|2024-01-11|
+|15|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |944|2024-03-17|
 |16|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|728|2024-03-08|
 |17|[huacnlee/rucaptcha](https://github.com/huacnlee/rucaptcha)|Captcha Gem for Rails, which generates captcha image by Rust.|686|2024-01-04|
 |18|[urbanadventurer/username-anarchy](https://github.com/urbanadventurer/username-anarchy)|Username tools for penetration testing|676|2024-02-28|
@@ -27,17 +27,17 @@
 |20|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|640|2024-04-20|
 |21|[diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter)|Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.|535|2023-10-30|
 |22|[joshlarsen/aws-recon](https://github.com/joshlarsen/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|510|2024-04-10|
-|23|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|506|2024-04-21|
+|23|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|508|2024-04-21|
 |24|[L-codes/pwcrack-framework](https://github.com/L-codes/pwcrack-framework)|Password Crack Framework|486|2024-02-25|
 |25|[lairdubois/lairdubois-opencutlist-sketchup-extension](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension)|OpenCutList is a SketchUp Extension for automating the generation of cut lists for woodworking projects.|407|2024-04-17|
-|26|[jpmobile/jpmobile](https://github.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|319|2024-04-16|
+|26|[jpmobile/jpmobile](https://github.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|319|2024-04-22|
 |27|[YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby)|A Ruby port of Puppeteer|268|2024-04-05|
 |28|[infused/dbf](https://github.com/infused/dbf)|DBF is a small, fast Ruby library for reading dBase, xBase, Clipper, and FoxPro database files.|257|2024-01-23|
 |29|[didww/credit_card_validations](https://github.com/didww/credit_card_validations)|:credit_card: ruby gem for validating credit card numbers, generating valid numbers, luhn checks|228|2023-10-30|
-|30|[samvera/hyrax](https://github.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|178|2024-04-19|
+|30|[samvera/hyrax](https://github.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|178|2024-04-22|
 |31|[bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD)|-|165|2024-04-18|
 |32|[rails-engine/audit-log](https://github.com/rails-engine/audit-log)|📑 Create audit logs into the database for user behaviors, including a web UI to query logs.|164|2023-12-04|
-|33|[berkmancenter/namae](https://github.com/berkmancenter/namae)|Namae (名前) parses personal names and splits them into their component parts.|158|2024-01-10|
+|33|[berkmancenter/namae](https://github.com/berkmancenter/namae)|Namae (名前) parses personal names and splits them into their component parts.|158|2024-04-22|
 |34|[inukshuk/bibtex-ruby](https://github.com/inukshuk/bibtex-ruby)|A BibTeX library, parser, and converter for Ruby.|153|2024-03-01|
 |35|[aliyun/aliyun-oss-ruby-sdk](https://github.com/aliyun/aliyun-oss-ruby-sdk)|Aliyun OSS SDK for Ruby|138|2023-12-12|
 |36|[huacnlee/activestorage-aliyun](https://github.com/huacnlee/activestorage-aliyun)|Wraps the Aliyun OSS as an Active Storage service. |130|2023-11-13|
@@ -45,14 +45,14 @@
 |38|[piotrmurach/strings](https://github.com/piotrmurach/strings)|A set of useful functions for transforming strings.|128|2024-03-09|
 |39|[khiav223577/pluck_all](https://github.com/khiav223577/pluck_all)|A more efficient way to get data from database. Like #pluck method but return array of hashes instead.|101|2023-12-24|
 |40|[inspec/inspec-azure](https://github.com/inspec/inspec-azure)|InSpec Azure Resource Pack|95|2024-03-26|
-|41|[FunnyWolf/vipermsf](https://github.com/FunnyWolf/vipermsf)|viper 自定义的msf|87|2024-04-21|
-|42|[icyleaf/hpr](https://github.com/icyleaf/hpr)|镜像任意 git 仓库到 gitlab 的同步工具，具有定时更新的功能|87|2024-04-19|
+|41|[FunnyWolf/vipermsf](https://github.com/FunnyWolf/vipermsf)|viper 自定义的msf|88|2024-04-21|
+|42|[icyleaf/hpr](https://github.com/icyleaf/hpr)|镜像任意 git 仓库到 gitlab 的同步工具，具有定时更新的功能|87|2024-04-22|
 |43|[kufu/kiji](https://github.com/kufu/kiji)|e-Gov 外部連携API 連携 gem|87|2024-02-15|
 |44|[etrex/kamigo](https://github.com/etrex/kamigo)|a chatbot framework based on rails|76|2023-10-23|
 |45|[brenes/stopwords-filter](https://github.com/brenes/stopwords-filter)|Project for filtering stopwords|75|2023-11-24|
 |46|[JerryChu/UnitTestParser](https://github.com/JerryChu/UnitTestParser)|单元测试数据解析脚本&工具，快速解析单元测试执行概况及各种维度的代码覆盖率。|63|2024-01-05|
 |47|[ankane/blingfire-ruby](https://github.com/ankane/blingfire-ruby)|High speed text tokenization for Ruby|62|2023-12-27|
-|48|[coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp)|☯️ CoderDojo Japan (@coderdojo-japan) official website developed by Ruby on Rails with @YassLab team. 💎|61|2024-04-10|
+|48|[coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp)|☯️ CoderDojo Japan (@coderdojo-japan) official website developed by Ruby on Rails with @YassLab team. 💎|61|2024-04-22|
 |49|[refinery/refinerycms-i18n](https://github.com/refinery/refinerycms-i18n)|I18n logic for Refinery CMS|54|2024-02-21|
 |50|[piotrmurach/strings-truncation](https://github.com/piotrmurach/strings-truncation)|Truncate strings with fullwidth characters and ANSI codes.|50|2024-03-12|
 |51|[test-kitchen/kitchen-azurerm](https://github.com/test-kitchen/kitchen-azurerm)|A driver for Test Kitchen that works with Azure Resource Manager|48|2023-12-01|
@@ -64,8 +64,8 @@
 |57|[pdcodeunder/cocoapods-ppbuild](https://github.com/pdcodeunder/cocoapods-ppbuild)|iOS pod库预编译静态库，提高编译速度|27|2024-01-17|
 |58|[SonicGarden/dekiru](https://github.com/SonicGarden/dekiru)|Usefull helper methods for Ruby on Rails|25|2024-04-19|
 |59|[YunzheZJU/non-stop-story](https://github.com/YunzheZJU/non-stop-story)|Backend for holo-schedule on Rails.|24|2024-01-25|
-|60|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|22|2024-03-10|
-|61|[Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese)|🀄️咱自己人的软件🏮咱自己人的仓库🧧|21|2024-04-21|
+|60|[Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese)|🀄️咱自己人的软件🏮咱自己人的仓库🧧|22|2024-04-22|
+|61|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|22|2024-03-10|
 |62|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|20|2023-12-17|
 |63|[baidubce/bce-player-ios](https://github.com/baidubce/bce-player-ios)|百度智能云iOS播放器SDK|18|2024-03-28|
 |64|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|17|2024-04-19|
