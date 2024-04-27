@@ -1,60 +1,60 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > JavaScript
-<sub>数据更新: 2024-04-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[openchatai/OpenChat](https://github.com/openchatai/OpenChat)|LLMs custom-chatbots console ⚡|5053|2024-02-27|2023-05-30|
-|2|[LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)|QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源|3876|2024-04-23|2023-05-27|
-|3|[OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)|🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation|3633|2024-03-24|2023-05-06|
-|4|[vanjs-org/van](https://github.com/vanjs-org/van)|🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.|3440|2024-04-12|2023-05-08|
-|5|[Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy)|chatgpt web, midjourney, gpts,tts, whisper,suno-v3 一套ui全搞定；同时支持  Web / PWA / Linux / Win / MacOS 平台|3269|2024-04-24|2023-11-19|
-|6|[yonggekkk/Cloudflare-workers-pages-vless](https://github.com/yonggekkk/Cloudflare-workers-pages-vless)|Cf-worker-pages-vless脚本，默认支持Chatgpt，支持workers与pages两种形式部署。CF优选域名、优选反代IP多平台一键脚本|2356|2024-04-24|2023-07-22|
-|7|[Script-Hub-Org/Script-Hub](https://github.com/Script-Hub-Org/Script-Hub)|Advanced Script Converter for QX, Loon, Surge, Stash, Egern, LanceX and Shadowrocket - 重写 & 规则集转换|1683|2024-04-21|2023-07-09|
-|8|[cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub)|这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器|1488|2024-04-24|2023-12-25|
-|9|[biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export)|Honkai: Star Rail Warp History Exporter|1400|2024-03-31|2023-05-01|
-|10|[huanghanzhilian/c-shopping](https://github.com/huanghanzhilian/c-shopping)|A beautiful shopping platform developed with Next.js, tailored for various devices including Desktop, Tablet, and Phone. 基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台|1395|2024-04-20|2023-11-23|
-|11|[qist/tvbox](https://github.com/qist/tvbox)|FongMi影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。|1126|2024-04-23|2023-08-29|
-|12|[obgnail/typora_plugin](https://github.com/obgnail/typora_plugin)|Typora plugin. feature enhancement tool   Typora 插件，功能增强工具|1063|2024-04-23|2023-06-25|
-|13|[yize8888/maotai](https://github.com/yize8888/maotai)|i茅台，葫芦娃预约脚本|1017|2024-03-13|2023-06-20|
-|14|[danni-cool/wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook)|http 请求驱动的微信机器人|895|2024-04-20|2023-09-19|
-|15|[monkeyWie/gopeed-extension-baiduwp](https://github.com/monkeyWie/gopeed-extension-baiduwp)|Gopeed 百度网盘下载扩展。|850|2024-03-29|2023-10-20|
-|16|[xiaopanglian/icefox](https://github.com/xiaopanglian/icefox)|Typecho微信朋友圈主题 icefox|724|2024-04-24|2023-07-31|
-|17|[AIGODLIKE/AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation)|A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc|719|2024-04-24|2023-08-15|
-|18|[Nolovenodie/emby-crx](https://github.com/Nolovenodie/emby-crx)|Emby 增强/美化 插件 (适用于 Chrome 内核浏览器 / EmbyServer)|707|2023-11-06|2023-05-01|
-|19|[cmliu/CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB)|这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接|685|2024-04-20|2024-02-23|
-|20|[shadowcz007/comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes)|Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS|678|2024-04-24|2023-10-18|
-|21|[fatwang2/search2ai](https://github.com/fatwang2/search2ai)|Help your LLMs online|609|2024-04-24|2023-12-18|
-|22|[quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos)|-|530|2024-04-03|2023-06-18|
-|23|[surfbryce/beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics)|Completely revolutionizes the Spotify Lyrics Experience by introducing Live Lyrics, Dynamic Backgrounds, and Immersive Views|526|2024-04-19|2023-05-16|
+|1|[openchatai/OpenChat](https://github.com/openchatai/OpenChat)|LLMs custom-chatbots console ⚡|5054|2024-02-27|2023-05-30|
+|2|[LiteLoaderQQNT/LiteLoaderQQNT](https://github.com/LiteLoaderQQNT/LiteLoaderQQNT)|QQNT 插件加载器：LiteLoaderQQNT —— 轻量 · 简洁 · 开源|3904|2024-04-23|2023-05-27|
+|3|[OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)|🤖 AgentVerse 🪐 is designed to facilitate the deployment of multiple LLM-based agents in various applications, which primarily provides two frameworks: task-solving and simulation|3646|2024-04-25|2023-05-06|
+|4|[vanjs-org/van](https://github.com/vanjs-org/van)|🍦 VanJS: World's smallest reactive UI framework. Incredibly Powerful, Insanely Small - Everyone can build a useful UI app in an hour.|3445|2024-04-12|2023-05-08|
+|5|[Dooy/chatgpt-web-midjourney-proxy](https://github.com/Dooy/chatgpt-web-midjourney-proxy)|chatgpt web, midjourney, gpts,tts, whisper,suno-v3 一套ui全搞定；同时支持  Web / PWA / Linux / Win / MacOS 平台|3294|2024-04-26|2023-11-19|
+|6|[yonggekkk/Cloudflare-workers-pages-vless](https://github.com/yonggekkk/Cloudflare-workers-pages-vless)|Cf-worker-pages-vless脚本，默认支持Chatgpt，支持workers与pages两种形式部署。CF优选域名、优选反代IP多平台一键脚本|2376|2024-04-24|2023-07-22|
+|7|[Script-Hub-Org/Script-Hub](https://github.com/Script-Hub-Org/Script-Hub)|Advanced Script Converter for QX, Loon, Surge, Stash, Egern, LanceX and Shadowrocket - 重写 & 规则集转换|1685|2024-04-21|2023-07-09|
+|8|[cmliu/WorkerVless2sub](https://github.com/cmliu/WorkerVless2sub)|这个是一个将 Cloudflare Workers - VLESS 搭配 自建优选域名 的 订阅生成器|1517|2024-04-26|2023-12-25|
+|9|[huanghanzhilian/c-shopping](https://github.com/huanghanzhilian/c-shopping)|A beautiful shopping platform developed with Next.js, tailored for various devices including Desktop, Tablet, and Phone. 基于Nextjs开发同时适配Desktop、Tablet、Phone多种设备的精美购物平台|1426|2024-04-20|2023-11-23|
+|10|[biuuu/star-rail-warp-export](https://github.com/biuuu/star-rail-warp-export)|Honkai: Star Rail Warp History Exporter|1399|2024-03-31|2023-05-01|
+|11|[qist/tvbox](https://github.com/qist/tvbox)|FongMi影视、tvbox配置文件，如果喜欢，请Fork自用。使用前请仔细阅读仓库说明，一旦使用将被视为你已了解。|1139|2024-04-25|2023-08-29|
+|12|[obgnail/typora_plugin](https://github.com/obgnail/typora_plugin)|Typora plugin. feature enhancement tool   Typora 插件，功能增强工具|1071|2024-04-26|2023-06-25|
+|13|[yize8888/maotai](https://github.com/yize8888/maotai)|i茅台，葫芦娃预约脚本|1021|2024-03-13|2023-06-20|
+|14|[danni-cool/wechatbot-webhook](https://github.com/danni-cool/wechatbot-webhook)|http 请求驱动的微信机器人|902|2024-04-20|2023-09-19|
+|15|[monkeyWie/gopeed-extension-baiduwp](https://github.com/monkeyWie/gopeed-extension-baiduwp)|Gopeed 百度网盘下载扩展。|857|2024-03-29|2023-10-20|
+|16|[xiaopanglian/icefox](https://github.com/xiaopanglian/icefox)|Typecho微信朋友圈主题 icefox|729|2024-04-25|2023-07-31|
+|17|[AIGODLIKE/AIGODLIKE-ComfyUI-Translation](https://github.com/AIGODLIKE/AIGODLIKE-ComfyUI-Translation)|A plugin for multilingual translation of ComfyUI，This plugin implements translation of resident menu bar/search bar/right-click context menu/node, etc|721|2024-04-26|2023-08-15|
+|18|[Nolovenodie/emby-crx](https://github.com/Nolovenodie/emby-crx)|Emby 增强/美化 插件 (适用于 Chrome 内核浏览器 / EmbyServer)|712|2023-11-06|2023-05-01|
+|19|[cmliu/CF-Workers-SUB](https://github.com/cmliu/CF-Workers-SUB)|这个是一个通过 Cloudflare Workers 搭建，将你任意节点与多个订阅汇聚成专属于你的订阅链接|702|2024-04-20|2024-02-23|
+|20|[fatwang2/search2ai](https://github.com/fatwang2/search2ai)|Help your LLMs online|697|2024-04-25|2023-12-18|
+|21|[shadowcz007/comfyui-mixlab-nodes](https://github.com/shadowcz007/comfyui-mixlab-nodes)|Workflow-to-APP、ScreenShare&FloatingVideo、GPT & 3D、SpeechRecognition&TTS|684|2024-04-25|2023-10-18|
+|22|[quanru/obsidian-example-lifeos](https://github.com/quanru/obsidian-example-lifeos)|-|531|2024-04-03|2023-06-18|
+|23|[surfbryce/beautiful-lyrics](https://github.com/surfbryce/beautiful-lyrics)|Completely revolutionizes the Spotify Lyrics Experience by introducing Live Lyrics, Dynamic Backgrounds, and Immersive Views|531|2024-04-19|2023-05-16|
 |24|[gitroomhq/awesome-opensource](https://github.com/gitroomhq/awesome-opensource)|Best open-source GitHub libraries voted by members 🎤|521|2024-01-02|2023-05-22|
-|25|[0xsongsu/dailytask](https://github.com/0xsongsu/dailytask)|每日签到任务|499|2024-04-09|2024-01-10|
-|26|[Misaka-blog/cf-wkrs-pages-vless](https://github.com/Misaka-blog/cf-wkrs-pages-vless)|在 CloudFlare Workers 或 Pages 部署 vless 节点，支持 Base64、Clash 及 Sing-box 配置文件订阅文件生成|499|2024-04-23|2023-07-29|
-|27|[mleoking/PromptAppGPT](https://github.com/mleoking/PromptAppGPT)|A rapid prompt app development framework based on GPT|465|2023-12-09|2023-05-28|
-|28|[huanghanzhilian/c-shopping-rn](https://github.com/huanghanzhilian/c-shopping-rn)|This is a complete App developed by React Native (Expo). It is a beautiful e-commerce shopping application. 这个是一个React Native(Expo) 开发的完整App应用，是一个精美的电商购物应用。|461|2024-04-20|2024-01-28|
-|29|[jinenge/tvbox](https://github.com/jinenge/tvbox)|TVBox(进恩哥版)，内置源，随时更新内置源，不必担心不能用|446|2024-02-10|2023-09-11|
-|30|[yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker)|运行在Cloudflare Worker上的RSS订阅生成器|425|2024-04-10|2023-10-08|
-|31|[hewang1an/StarRail-plugin](https://github.com/hewang1an/StarRail-plugin)|星穹铁道插件|415|2024-04-01|2023-05-01|
-|32|[qirenzhidao/tvbox18](https://github.com/qirenzhidao/tvbox18)|tvbox 影视tv 宝盒 接口|414|2024-04-23|2023-07-30|
-|33|[xiyuesaves/LiteLoaderQQNT-lite_tools](https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools)|LiteLoaderQQNT 插件 - 轻量工具箱 —— 轻量 · 优雅 · 高效|401|2024-04-24|2023-07-19|
-|34|[jason5ng32/OhEarningsCal](https://github.com/jason5ng32/OhEarningsCal)|使用日历软件订阅美股的财报日期|371|2024-04-24|2024-02-23|
-|35|[gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic)|支持 Android、iOS、macOS、Windows 平台的 Subsonic/Navidrome/Jellyfin/Emby/AudioStation 客户端。|371|2024-04-19|2023-06-12|
-|36|[cmliu/CF-Workers-TEXT2KV](https://github.com/cmliu/CF-Workers-TEXT2KV)|这个是一个通过 Cloudflare Workers 搭建，将文本文件存储到 Cloudflare Workers KV 键值存储中，并且可以通过 URL 请求读取或更新这些文本文件。|368|2024-04-14|2024-03-07|
-|37|[MuiseDestiny/zotero-figure](https://github.com/MuiseDestiny/zotero-figure)|一个基于 PDFFigure2 的 PDF 图表解析插件|360|2024-04-09|2023-05-31|
-|38|[liu673cn/box](https://github.com/liu673cn/box)|自用，勿宣传。|350|2024-04-24|2023-12-19|
-|39|[shifu-group/inpaint_wechat](https://github.com/shifu-group/inpaint_wechat)|《照片修复小小助手》是一款基于微信AI能力的微信小程序，实现了图片选定区域的消除修复功能，纯客户端实现，无服务端。Inpaint_wechat is a WeChat mini-program based on the WeChat AI capabilities, implementing the functionality of inpainting and repairing selecte ...|324|2024-01-31|2023-12-28|
-|40|[MetaLowCodeTeam/MetaLowCode](https://github.com/MetaLowCodeTeam/MetaLowCode)|MetaLowCode——美乐低代码，企业级全栈低代码开发平台。私有部署，源码交付。|322|2024-04-24|2023-11-22|
-|41|[KingRan/KR](https://github.com/KingRan/KR)|完整库，内部助力|317|2023-12-28|2023-07-27|
-|42|[Szymou/NNBS](https://github.com/Szymou/NNBS)|1.大麦：回流票监测(app通知、wx通知)、各类脚本、抢票消息、JJ20扫文识字搜答案；2.当前可用脚本：自动抢、多长次回流检测、单场次回流检测等|317|2023-11-22|2023-07-26|
+|25|[Misaka-blog/cf-wkrs-pages-vless](https://github.com/Misaka-blog/cf-wkrs-pages-vless)|在 CloudFlare Workers 或 Pages 部署 vless 节点，支持 Base64、Clash 及 Sing-box 配置文件订阅文件生成|512|2024-04-23|2023-07-29|
+|26|[0xsongsu/dailytask](https://github.com/0xsongsu/dailytask)|每日签到任务|500|2024-04-09|2024-01-10|
+|27|[huanghanzhilian/c-shopping-rn](https://github.com/huanghanzhilian/c-shopping-rn)|This is a complete App developed by React Native (Expo). It is a beautiful e-commerce shopping application. 这个是一个React Native(Expo) 开发的完整App应用，是一个精美的电商购物应用。|470|2024-04-20|2024-01-28|
+|28|[mleoking/PromptAppGPT](https://github.com/mleoking/PromptAppGPT)|A rapid prompt app development framework based on GPT|465|2023-12-09|2023-05-28|
+|29|[jinenge/tvbox](https://github.com/jinenge/tvbox)|TVBox(进恩哥版)，内置源，随时更新内置源，不必担心不能用|448|2024-02-10|2023-09-11|
+|30|[yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker)|运行在Cloudflare Worker上的RSS订阅生成器|428|2024-04-10|2023-10-08|
+|31|[qirenzhidao/tvbox18](https://github.com/qirenzhidao/tvbox18)|tvbox 影视tv 宝盒 接口|418|2024-04-23|2023-07-30|
+|32|[xiyuesaves/LiteLoaderQQNT-lite_tools](https://github.com/xiyuesaves/LiteLoaderQQNT-lite_tools)|LiteLoaderQQNT 插件 - 轻量工具箱 —— 轻量 · 优雅 · 高效|415|2024-04-26|2023-07-19|
+|33|[TsukinaKasumi/StarRail-plugin](https://github.com/TsukinaKasumi/StarRail-plugin)|星穹铁道插件|415|2024-04-25|2023-05-01|
+|34|[gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic)|支持 Android、iOS、macOS、Windows 平台的 Subsonic/Navidrome/Jellyfin/Emby/AudioStation 客户端。|378|2024-04-19|2023-06-12|
+|35|[cmliu/CF-Workers-TEXT2KV](https://github.com/cmliu/CF-Workers-TEXT2KV)|这个是一个通过 Cloudflare Workers 搭建，将文本文件存储到 Cloudflare Workers KV 键值存储中，并且可以通过 URL 请求读取或更新这些文本文件。|373|2024-04-14|2024-03-07|
+|36|[jason5ng32/OhEarningsCal](https://github.com/jason5ng32/OhEarningsCal)|使用日历软件订阅美股的财报日期|372|2024-04-26|2024-02-23|
+|37|[MuiseDestiny/zotero-figure](https://github.com/MuiseDestiny/zotero-figure)|一个基于 PDFFigure2 的 PDF 图表解析插件|361|2024-04-09|2023-05-31|
+|38|[liu673cn/box](https://github.com/liu673cn/box)|自用，勿宣传。|351|2024-04-26|2023-12-19|
+|39|[shifu-group/inpaint_wechat](https://github.com/shifu-group/inpaint_wechat)|《照片修复小小助手》是一款基于微信AI能力的微信小程序，实现了图片选定区域的消除修复功能，纯客户端实现，无服务端。Inpaint_wechat is a WeChat mini-program based on the WeChat AI capabilities, implementing the functionality of inpainting and repairing selecte ...|325|2024-01-31|2023-12-28|
+|40|[MetaLowCodeTeam/MetaLowCode](https://github.com/MetaLowCodeTeam/MetaLowCode)|MetaLowCode——美乐低代码，企业级全栈低代码开发平台。私有部署，源码交付。|322|2024-04-26|2023-11-22|
+|41|[Szymou/NNBS](https://github.com/Szymou/NNBS)|1.大麦：回流票监测(app通知、wx通知)、各类脚本、抢票消息、JJ20扫文识字搜答案；2.当前可用脚本：自动抢、多长次回流检测、单场次回流检测等|319|2023-11-22|2023-07-26|
+|42|[KingRan/KR](https://github.com/KingRan/KR)|完整库，内部助力|317|2023-12-28|2023-07-27|
 |43|[catsats/backpack_exchange](https://github.com/catsats/backpack_exchange)|backpack 刷交易量 JavaScript 刷市场所有的代币|311|2024-04-17|2024-02-17|
 |44|[gaboolic/nodejs-proxy](https://github.com/gaboolic/nodejs-proxy)|nodejs实现vless fork的同时帮我点点star|301|2023-10-29|2023-07-14|
-|45|[JasonGrass/auto-extension-manager](https://github.com/JasonGrass/auto-extension-manager)|a chrome extension manager where you can add rules|298|2024-04-03|2023-05-31|
-|46|[lxmusics/lx-music-api-server](https://github.com/lxmusics/lx-music-api-server)|LX Music 非官方测试接口服务器实现|296|2024-04-03|2023-10-27|
-|47|[vastxie/99AI](https://github.com/vastxie/99AI)|99AI 稳定版：基于 NineAI 二开的可商业化 AI Web 应用（免授权，无后门，支持快速部署）。目标 ALL-IN-CHAT|285|2024-04-22|2024-01-17|
-|48|[bnmgh1/NodeSandbox](https://github.com/bnmgh1/NodeSandbox)|Node补环境框架|267|2024-03-30|2024-03-11|
-|49|[liu-ziting/PetThoughts](https://github.com/liu-ziting/PetThoughts)|I know what your pet is thinking - gemini|267|2024-01-22|2024-01-03|
-|50|[fatwang2/coze2openai](https://github.com/fatwang2/coze2openai)|Turn Coze API into OpenAI|266|2024-04-24|2024-04-15|
+|45|[JasonGrass/auto-extension-manager](https://github.com/JasonGrass/auto-extension-manager)|a chrome extension manager where you can add rules|301|2024-04-03|2023-05-31|
+|46|[vastxie/99AI](https://github.com/vastxie/99AI)|99AI 稳定版：基于 NineAI 二开的可商业化 AI Web 应用（免授权，无后门，支持快速部署）。目标 ALL-IN-CHAT|296|2024-04-22|2024-01-17|
+|47|[lxmusics/lx-music-api-server](https://github.com/lxmusics/lx-music-api-server)|LX Music 非官方测试接口服务器实现|296|2024-04-03|2023-10-27|
+|48|[fatwang2/coze2openai](https://github.com/fatwang2/coze2openai)|Turn Coze API into OpenAI|277|2024-04-24|2024-04-15|
+|49|[bnmgh1/NodeSandbox](https://github.com/bnmgh1/NodeSandbox)|Node补环境框架|269|2024-03-30|2024-03-11|
+|50|[liu-ziting/PetThoughts](https://github.com/liu-ziting/PetThoughts)|I know what your pet is thinking - gemini|269|2024-01-22|2024-01-03|
 |51|[henryxrl/SimpleTextReader](https://github.com/henryxrl/SimpleTextReader)|SimpleTextReader is the online text reader that simulates the result of SimpleEpub2, providing a web-based reading experience.|266|2023-12-18|2023-07-10|
 |52|[ppz-pro/file-bridge](https://github.com/ppz-pro/file-bridge)|网页里的文件服务器|263|2023-11-24|2023-09-01|
 |53|[Huansheng1/my-qinglong-js](https://github.com/Huansheng1/my-qinglong-js)|-|239|2024-03-25|2023-05-31|
