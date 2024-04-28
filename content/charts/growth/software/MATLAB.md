@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-04-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -19,19 +19,19 @@
 |12|[xdjcl/DTW](https://github.com/xdjcl/DTW)|DTW算法的MATLAB实现|21|0|2023-12-26|
 |13|[ChengleiX/Sliding_Mode_Control_simulink](https://github.com/ChengleiX/Sliding_Mode_Control_simulink)|matlab simulink仿真文件|7|0|2023-11-30|
 |14|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|7|0|2024-03-25|
-|15|[ECheynet/SEIR](https://github.com/ECheynet/SEIR)|Generalized SEIR Epidemic Model (fitting and computation)|82|0|2024-04-11|
+|15|[ECheynet/SEIR](https://github.com/ECheynet/SEIR)|Generalized SEIR Epidemic Model (fitting and computation)|83|0|2024-04-11|
 |16|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|215|0|2024-01-15|
 |17|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|18|0|2024-04-26|
 |18|[chtld/Finite_Element_Method_Matlab](https://github.com/chtld/Finite_Element_Method_Matlab)|有限元方法的 matlab 实现，为了追求清晰通用，将会大大牺牲程序的效率。|32|0|2024-04-25|
 |19|[zhyantao/genetic-algo-for-shortest-path](https://github.com/zhyantao/genetic-algo-for-shortest-path)|遗传算法解决最短路径问题 (两个出发点)|11|0|2023-12-31|
 |20|[Lu-Anastasia/MATLAB](https://github.com/Lu-Anastasia/MATLAB)|信息光学数字实验室（matlab版）全代码|5|0|2023-11-28|
 |21|[deltaRing/mmwave_radar_1843_generate_point_cloud](https://github.com/deltaRing/mmwave_radar_1843_generate_point_cloud)|用1843AOPEVM生成点云 初步验证应该是对的，附赠数据一枚|22|0|2023-12-23|
-|22|[Xuerenbujianhua/3DPathplanning](https://github.com/Xuerenbujianhua/3DPathplanning)|基于栅格地图的无人机三维路径规划算法|25|0|2023-11-17|
+|22|[Xuerenbujianhua/3DPathplanning](https://github.com/Xuerenbujianhua/3DPathplanning)|基于栅格地图的无人机三维路径规划算法|26|0|2023-11-17|
 |23|[BySpaces/Matlab-Pcode-to-Mcode](https://github.com/BySpaces/Matlab-Pcode-to-Mcode)|本软件可实现将MATLAB中Pcode加密的代码，恢复为原来的M文件。This software can restore the codes encrypted by Pcode in MATLAB to the original M file.|10|0|2023-12-06|
-|24|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|0|2024-01-08|
+|24|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|0|2024-04-27|
 |25|[ScottXjw/equalizer-code-FFE-DFE-VolterraFFEandDFE](https://github.com/ScottXjw/equalizer-code-FFE-DFE-VolterraFFEandDFE)|equalizer code|25|0|2023-12-29|
 |26|[linggm3/SYSU_Digital-Image-Processing](https://github.com/linggm3/SYSU_Digital-Image-Processing)|2023年中山大学计算机学院谢晓华老师的数图（数字图像处理）项目|5|0|2024-03-01|
-|27|[JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net](https://github.com/JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net)|This repository is the open source code for our latest feasibility work: "Human Anomalous Gait Termination Recognition Via Through-the-Wall Radar Based on Micro-Doppler Corner Features and Non-Local M ...|6|0|2024-01-16|
+|27|[JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net](https://github.com/JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net)|This repository is the open source code for our latest feasibility work: "Human Anomalous Gait Termination Recognition Via Through-the-Wall Radar Based on Micro-Doppler Corner Features and Non-Local M ...|7|0|2024-01-16|
 |28|[jhu-dvrk/dvrk-gravity-compensation](https://github.com/jhu-dvrk/dvrk-gravity-compensation)|Matlab functions to identify MTM dynamic parameters, uses dvrk-ros/dvrk_matlab|13|0|2023-11-21|
 |29|[Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset](https://github.com/Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset)|机械故障诊断公开数据集|15|0|2023-11-29|
 |30|[brian09088/LEO-NTN](https://github.com/brian09088/LEO-NTN)|非地面網路(低軌衛星):相關通訊協定與機制|4|0|2024-04-24|
@@ -64,7 +64,7 @@
 |57|[AomanHao/Matlab-Image-Evaluate](https://github.com/AomanHao/Matlab-Image-Evaluate)|图像处理评价标准|4|0|2024-03-11|
 |58|[HansKing98/MATLAB-Image-Processing](https://github.com/HansKing98/MATLAB-Image-Processing)|数字图像处理（冈萨雷斯）|24|0|2024-01-19|
 |59|[himynameisfuego/SiTraNo](https://github.com/himynameisfuego/SiTraNo)|A MATLAB app for sines-transient-noise decomposition of audio signals.|33|0|2023-12-15|
-|60|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|14|0|2024-04-19|
+|60|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|14|0|2024-04-27|
 |61|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|259|0|2024-04-13|
 |62|[wong-cf/phase_revocery](https://github.com/wong-cf/phase_revocery)|相位恢复算法相关的几种算法，包括角谱迭代算法，GS算法，TTIE强度方程恢复算法，以及算法的结合。|8|0|2024-01-02|
 |63|[yuyuliangyu/matlab-vine-copula](https://github.com/yuyuliangyu/matlab-vine-copula)|这是一个用matlab编写的vine-copula|3|0|2024-02-28|

@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Lua
-<sub>数据更新: 2024-04-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)|《明日方舟》游戏数据|1297|2024-04-26|
-|2|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|526|2024-04-16|
+|1|[Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)|《明日方舟》游戏数据|1298|2024-04-27|
+|2|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|527|2024-04-16|
 |3|[openresty/lua-resty-lock](https://github.com/openresty/lua-resty-lock)|Simple nonblocking lock API for ngx_lua based on shared memory dictionaries|303|2023-11-23|
 |4|[max-ri/Guidelime](https://github.com/max-ri/Guidelime)|Guidelime: A WoW Classic addon for leveling guides with automatic progress updates|155|2023-12-19|
 |5|[LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes)|我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～|126|2024-03-27|

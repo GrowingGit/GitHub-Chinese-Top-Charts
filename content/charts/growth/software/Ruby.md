@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Ruby
-<sub>数据更新: 2024-04-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |948|2|2024-03-17|
+|1|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |949|2|2024-03-17|
 |2|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6390|2|2024-04-11|
-|3|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps|1001|1|2024-04-25|
-|4|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|512|1|2024-04-21|
+|3|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps|1001|1|2024-04-26|
+|4|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|513|1|2024-04-27|
 |5|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3757|1|2024-03-25|
 |6|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3398|1|2024-04-22|
-|7|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2493|1|2023-11-02|
-|8|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1085|1|2024-04-26|
+|7|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2495|1|2023-11-02|
+|8|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1085|1|2024-04-27|
 |9|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|2174|1|2024-04-11|
 |10|[piotrmurach/strings](https://github.com/piotrmurach/strings)|A set of useful functions for transforming strings.|128|0|2024-03-09|
 |11|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|22|0|2024-03-10|
 |12|[test-kitchen/kitchen-azurerm](https://github.com/test-kitchen/kitchen-azurerm)|A driver for Test Kitchen that works with Azure Resource Manager|48|0|2023-12-01|
 |13|[Ezviz-OpenBiz/SDK-iOS](https://github.com/Ezviz-OpenBiz/SDK-iOS)|Ezviz SDK，功能更强大的开发套件，可以实现预览、回放、配网、对讲、设备控制、oAuth授权等功能|13|0|2024-04-20|
-|14|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|640|0|2024-04-26|
+|14|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|641|0|2024-04-27|
 |15|[petertseng/adventofcode-rb-2019](https://github.com/petertseng/adventofcode-rb-2019)|Solutions to https://adventofcode.com/2019 (complete)|15|0|2023-12-05|
 |16|[joshlarsen/aws-recon](https://github.com/joshlarsen/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|510|0|2024-04-10|
 |17|[samvera/hyrax](https://github.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|178|0|2024-04-25|
@@ -27,7 +27,7 @@
 |20|[windwords/homebrew-vchewing](https://github.com/windwords/homebrew-vchewing)|homebrew-vchewing是一个用于安装/卸载威注音输入法的Homebrew Cask。|16|0|2024-04-06|
 |21|[L-codes/pwcrack-framework](https://github.com/L-codes/pwcrack-framework)|Password Crack Framework|486|0|2024-02-25|
 |22|[JerryChu/UnitTestParser](https://github.com/JerryChu/UnitTestParser)|单元测试数据解析脚本&工具，快速解析单元测试执行概况及各种维度的代码覆盖率。|63|0|2024-01-05|
-|23|[thredded/thredded](https://github.com/thredded/thredded)|The best Rails forums engine ever.|1550|0|2024-04-07|
+|23|[thredded/thredded](https://github.com/thredded/thredded)|The best Rails forums engine ever.|1549|0|2024-04-07|
 |24|[tdiary/tdiary-blogkit](https://github.com/tdiary/tdiary-blogkit)|more blogged for tDiary|13|0|2024-02-29|
 |25|[coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp)|☯️ CoderDojo Japan (@coderdojo-japan) official website developed by Ruby on Rails with @YassLab team. 💎|61|0|2024-04-22|
 |26|[pdcodeunder/cocoapods-ppbuild](https://github.com/pdcodeunder/cocoapods-ppbuild)|iOS pod库预编译静态库，提高编译速度|27|0|2024-01-17|
@@ -53,7 +53,7 @@
 |46|[Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese)|🀄️咱自己人的软件🏮咱自己人的仓库🧧|23|0|2024-04-24|
 |47|[ivaquero/legacy-homebrew-chinese](https://github.com/ivaquero/legacy-homebrew-chinese)|🀄 一个致力于服务国人的 Homebrew 🍺 第三方库|28|0|2023-12-12|
 |48|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|20|0|2023-12-17|
-|49|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|17|0|2024-04-25|
+|49|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|17|0|2024-04-26|
 |50|[infused/dbf](https://github.com/infused/dbf)|DBF is a small, fast Ruby library for reading dBase, xBase, Clipper, and FoxPro database files.|257|0|2024-04-25|
 |51|[jodeci/fortuna](https://github.com/jodeci/fortuna)|台灣公司專用薪資計算系統|13|0|2024-02-06|
 |52|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|729|0|2024-03-08|
@@ -62,11 +62,11 @@
 |55|[super-unprofessional-league/soccer-website-generator](https://github.com/super-unprofessional-league/soccer-website-generator)|超业余足球联赛网站生成器; Unprofessional soccer league website generator|12|0|2023-12-23|
 |56|[inukshuk/bibtex-ruby](https://github.com/inukshuk/bibtex-ruby)|A BibTeX library, parser, and converter for Ruby.|153|0|2024-03-01|
 |57|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1120|0|2024-04-26|
-|58|[huacnlee/rails-settings-cached](https://github.com/huacnlee/rails-settings-cached)|Global settings for your Rails application.|1034|0|2024-01-05|
+|58|[huacnlee/rails-settings-cached](https://github.com/huacnlee/rails-settings-cached)|Global settings for your Rails application.|1035|0|2024-01-05|
 |59|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1432|0|2024-04-19|
 |60|[rails-engine/audit-log](https://github.com/rails-engine/audit-log)|📑 Create audit logs into the database for user behaviors, including a web UI to query logs.|164|0|2023-12-04|
 |61|[icyleaf/hpr](https://github.com/icyleaf/hpr)|镜像任意 git 仓库到 gitlab 的同步工具，具有定时更新的功能|87|0|2024-04-26|
-|62|[urbanadventurer/username-anarchy](https://github.com/urbanadventurer/username-anarchy)|Username tools for penetration testing|678|0|2024-02-28|
+|62|[urbanadventurer/username-anarchy](https://github.com/urbanadventurer/username-anarchy)|Username tools for penetration testing|679|0|2024-02-28|
 |63|[khiav223577/pluck_all](https://github.com/khiav223577/pluck_all)|A more efficient way to get data from database. Like #pluck method but return array of hashes instead.|101|0|2023-12-24|
 |64|[HugoHasenbein/redmine_more_previews](https://github.com/HugoHasenbein/redmine_more_previews)|Redmine plugin to preview various file types in redmine's preview pane|46|0|2024-03-16|
 |65|[DILA-edu/cbeta-metadata](https://github.com/DILA-edu/cbeta-metadata)|CBETA 的 目錄、部類、缺字、作譯者、朝代等 metadata.|10|0|2024-04-23|

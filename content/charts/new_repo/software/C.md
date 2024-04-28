@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > C
-<sub>数据更新: 2024-04-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lizongying/my-tv](https://github.com/lizongying/my-tv)|我的电视 电视直播软件，安装即可使用|25225|2024-04-26|2023-12-04|
-|2|[karpathy/llama2.c](https://github.com/karpathy/llama2.c)|Inference Llama 2 in one file of pure C|15892|2024-04-26|2023-07-23|
-|3|[hrvach/deskhop](https://github.com/hrvach/deskhop)|Fast Desktop Switching Device|5826|2024-04-15|2023-12-24|
+|1|[lizongying/my-tv](https://github.com/lizongying/my-tv)|我的电视 电视直播软件，安装即可使用|25322|2024-04-27|2023-12-04|
+|2|[karpathy/llama2.c](https://github.com/karpathy/llama2.c)|Inference Llama 2 in one file of pure C|15907|2024-04-27|2023-07-23|
+|3|[hrvach/deskhop](https://github.com/hrvach/deskhop)|Fast Desktop Switching Device|5831|2024-04-15|2023-12-24|
 |4|[wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly)|助力每一位RT队员，快速生成免杀木马|589|2024-04-17|2023-08-22|
 |5|[cnlohr/lolra](https://github.com/cnlohr/lolra)|Transmit LoRa Frames Without a Radio|528|2024-04-03|2024-03-25|
 |6|[leafqycc/rknn-cpp-Multithreading](https://github.com/leafqycc/rknn-cpp-Multithreading)|A simple demo of yolov5s running on rk3588/3588s using c++ (about 142 frames). / 一个使用c++在rk3588/3588s上运行的yolov5s简单demo(142帧/s)。|322|2024-04-09|2023-05-05|
 |7|[P001water/yuze](https://github.com/P001water/yuze)|A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式，支持跨平台使用|298|2024-03-06|2024-01-13|
 |8|[libdriver/st7789](https://github.com/libdriver/st7789)|ST7789 full function driver library for general MCU and Linux.|248|2024-02-25|2023-06-05|
 |9|[RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)|chsrc  全平台命令行换源工具|246|2024-04-25|2023-09-03|
-|10|[zhenruyan/WSL-libre-linux-kernel](https://github.com/zhenruyan/WSL-libre-linux-kernel)| Installing a 100% libre(free) linux kernel for wsl,It is possible to celebrate freedom within a cell. 给WSL替换自由内核!!!|222|2024-04-26|2023-07-04|
+|10|[zhenruyan/WSL-libre-linux-kernel](https://github.com/zhenruyan/WSL-libre-linux-kernel)| Installing a 100% libre(free) linux kernel for wsl,It is possible to celebrate freedom within a cell. 给WSL替换自由内核!!!|222|2024-04-27|2023-07-04|
 |11|[veo/nginx_shell](https://github.com/veo/nginx_shell)|nginx WebShell/内存马，更优雅的nignx backdoor|215|2024-01-04|2023-12-20|
 |12|[4ra1n/code-encryptor](https://github.com/4ra1n/code-encryptor)|使用JNI加密字节码，通过JVMTI解密字节码以保护代码，支持自定义包名和密钥，使用魔法禁止黑客dump字节码|151|2024-01-17|2023-09-06|
 |13|[jialeicui/open-lx01](https://github.com/jialeicui/open-lx01)|小爱音箱mini定制固件   Let the Xiao Ai Speaker Mini free|128|2024-04-14|2024-01-23|

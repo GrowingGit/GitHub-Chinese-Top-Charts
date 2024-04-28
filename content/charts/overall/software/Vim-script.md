@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Vim script
-<sub>数据更新: 2024-04-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20124|2024-04-04|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8568|2024-04-23|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8570|2024-04-23|
 |3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4888|2023-11-16|
 |4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1820|2024-03-22|
 |5|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1676|2024-02-22|
@@ -29,9 +29,9 @@
 |22|[Meng-Xin/take-out](https://github.com/Meng-Xin/take-out)|苍穹外卖 Golang，一个规范化的Gin项目开发实例。|52|2024-03-17|
 |23|[qiqiboy/q-vim](https://github.com/qiqiboy/q-vim)|my vim config. 来自一个前端开发码农的vim配置方案|33|2023-11-27|
 |24|[Fechin/oh-my-vim](https://github.com/Fechin/oh-my-vim)|vim 私人配置|27|2024-01-31|
-|25|[lemon0910/lemon-vim](https://github.com/lemon0910/lemon-vim)|lemon's config for vim and neovim.|23|2024-03-28|
-|26|[Genki-S/dotfiles](https://github.com/Genki-S/dotfiles)|My lovely settings.|23|2024-04-04|
-|27|[haopengmai/dianping](https://github.com/haopengmai/dianping)|黑马点评项目优化，新增消息队列RabbitMQ，令牌桶限流实现优惠券秒杀，用户登录限流(redis实现滑动窗口)等功能|22|2023-11-18|
+|25|[haopengmai/dianping](https://github.com/haopengmai/dianping)|黑马点评项目优化，新增消息队列RabbitMQ，令牌桶限流实现优惠券秒杀，用户登录限流(redis实现滑动窗口)等功能|24|2023-11-18|
+|26|[lemon0910/lemon-vim](https://github.com/lemon0910/lemon-vim)|lemon's config for vim and neovim.|23|2024-03-28|
+|27|[Genki-S/dotfiles](https://github.com/Genki-S/dotfiles)|My lovely settings.|23|2024-04-04|
 |28|[lululxvi/oh-my-linux-apps](https://github.com/lululxvi/oh-my-linux-apps)|My list of essential Linux applications.|21|2024-03-12|
 |29|[modood/vimrc](https://github.com/modood/vimrc)|A shell script to deploy my vim configuration|20|2023-11-07|
 |30|[Karmenzind/vim-tmuxlike](https://github.com/Karmenzind/vim-tmuxlike)|A vim plugin that mimics the actions of tmux. Control buffers and tabs like tmux panes.|19|2023-12-02|

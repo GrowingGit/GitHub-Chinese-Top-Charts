@@ -1,32 +1,32 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Ruby
-<sub>数据更新: 2024-04-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6390|2024-04-11|
 |2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3757|2024-03-25|
 |3|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3398|2024-04-22|
-|4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2493|2023-11-02|
+|4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2495|2023-11-02|
 |5|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|2174|2024-04-11|
-|6|[thredded/thredded](https://github.com/thredded/thredded)|The best Rails forums engine ever.|1550|2024-04-07|
+|6|[thredded/thredded](https://github.com/thredded/thredded)|The best Rails forums engine ever.|1549|2024-04-07|
 |7|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1432|2024-04-19|
 |8|[Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1301|2024-01-04|
 |9|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1120|2024-04-26|
-|10|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1085|2024-04-26|
-|11|[huacnlee/rails-settings-cached](https://github.com/huacnlee/rails-settings-cached)|Global settings for your Rails application.|1034|2024-01-05|
-|12|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps|1001|2024-04-25|
+|10|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1085|2024-04-27|
+|11|[huacnlee/rails-settings-cached](https://github.com/huacnlee/rails-settings-cached)|Global settings for your Rails application.|1035|2024-01-05|
+|12|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps|1001|2024-04-26|
 |13|[floere/phony](https://github.com/floere/phony)|E164 international phone number normalizing, splitting, formatting. |995|2024-02-15|
 |14|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast citation reference parsing|968|2024-01-11|
-|15|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |948|2024-03-17|
+|15|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |949|2024-03-17|
 |16|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|729|2024-03-08|
 |17|[huacnlee/rucaptcha](https://github.com/huacnlee/rucaptcha)|Captcha Gem for Rails, which generates captcha image by Rust.|685|2024-01-04|
-|18|[urbanadventurer/username-anarchy](https://github.com/urbanadventurer/username-anarchy)|Username tools for penetration testing|678|2024-02-28|
+|18|[urbanadventurer/username-anarchy](https://github.com/urbanadventurer/username-anarchy)|Username tools for penetration testing|679|2024-02-28|
 |19|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|669|2024-04-26|
-|20|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|640|2024-04-26|
+|20|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|641|2024-04-27|
 |21|[diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter)|Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.|535|2023-10-30|
-|22|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|512|2024-04-21|
+|22|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|513|2024-04-27|
 |23|[joshlarsen/aws-recon](https://github.com/joshlarsen/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|510|2024-04-10|
 |24|[L-codes/pwcrack-framework](https://github.com/L-codes/pwcrack-framework)|Password Crack Framework|486|2024-02-25|
 |25|[lairdubois/lairdubois-opencutlist-sketchup-extension](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension)|OpenCutList is a SketchUp Extension for automating the generation of cut lists for woodworking projects.|407|2024-04-26|
@@ -68,7 +68,7 @@
 |61|[cyril/r_spec-clone.rb](https://github.com/cyril/r_spec-clone.rb)|A minimalist RSpec clone with all the essentials.|22|2024-03-01|
 |62|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|20|2023-12-17|
 |63|[baidubce/bce-player-ios](https://github.com/baidubce/bce-player-ios)|百度智能云iOS播放器SDK|18|2024-03-28|
-|64|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|17|2024-04-25|
+|64|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|17|2024-04-26|
 |65|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|17|2024-02-18|
 |66|[windwords/homebrew-vchewing](https://github.com/windwords/homebrew-vchewing)|homebrew-vchewing是一个用于安装/卸载威注音输入法的Homebrew Cask。|16|2024-04-06|
 |67|[petertseng/adventofcode-rb-2019](https://github.com/petertseng/adventofcode-rb-2019)|Solutions to https://adventofcode.com/2019 (complete)|15|2023-12-05|

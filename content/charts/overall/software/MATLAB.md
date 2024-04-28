@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-04-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -13,7 +13,7 @@
 |6|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|180|2024-03-21|
 |7|[qwe14789cn/SP](https://github.com/qwe14789cn/SP)|信号处理工具箱|104|2023-11-02|
 |8|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP)|97|2024-04-23|
-|9|[ECheynet/SEIR](https://github.com/ECheynet/SEIR)|Generalized SEIR Epidemic Model (fitting and computation)|82|2024-04-11|
+|9|[ECheynet/SEIR](https://github.com/ECheynet/SEIR)|Generalized SEIR Epidemic Model (fitting and computation)|83|2024-04-11|
 |10|[mingsongli/acycle](https://github.com/mingsongli/acycle)|Acycle: Time-series analysis software for research and education|73|2024-03-20|
 |11|[WeisongZhao/Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|Official MATLAB implementation of the "Sparse deconvolution" -v1.0.3|67|2024-02-08|
 |12|[AirChem/F0AM](https://github.com/AirChem/F0AM)|Framework for 0-D Atmospheric Modeling|60|2023-11-03|
@@ -23,7 +23,7 @@
 |16|[himynameisfuego/SiTraNo](https://github.com/himynameisfuego/SiTraNo)|A MATLAB app for sines-transient-noise decomposition of audio signals.|33|2023-12-15|
 |17|[chtld/Finite_Element_Method_Matlab](https://github.com/chtld/Finite_Element_Method_Matlab)|有限元方法的 matlab 实现，为了追求清晰通用，将会大大牺牲程序的效率。|32|2024-04-25|
 |18|[zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling](https://github.com/zhenhua-chen1/Postgraduate-Mathematical-Contest-in-Modelling)|华为杯研究生数学建模竞赛:历年来优化类代码(不定时更新，曾获一等奖)|31|2023-12-07|
-|19|[Xuerenbujianhua/3DPathplanning](https://github.com/Xuerenbujianhua/3DPathplanning)|基于栅格地图的无人机三维路径规划算法|25|2023-11-17|
+|19|[Xuerenbujianhua/3DPathplanning](https://github.com/Xuerenbujianhua/3DPathplanning)|基于栅格地图的无人机三维路径规划算法|26|2023-11-17|
 |20|[ScottXjw/equalizer-code-FFE-DFE-VolterraFFEandDFE](https://github.com/ScottXjw/equalizer-code-FFE-DFE-VolterraFFEandDFE)|equalizer code|25|2023-12-29|
 |21|[yangbin-xd/UAV-positioning](https://github.com/yangbin-xd/UAV-positioning)|source code for IEEE IoTJ paper "Distributed and Collaborative Localization for Swarming UAVs"|24|2023-12-27|
 |22|[HansKing98/MATLAB-Image-Processing](https://github.com/HansKing98/MATLAB-Image-Processing)|数字图像处理（冈萨雷斯）|24|2024-01-19|
@@ -35,7 +35,7 @@
 |28|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|18|2024-04-26|
 |29|[Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset](https://github.com/Tan-Qiyu/Mechanical_Fault_Diagnosis_Dataset)|机械故障诊断公开数据集|15|2023-11-29|
 |30|[NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate)|络石机械臂动力学相关算法以及仿真|15|2023-11-13|
-|31|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|14|2024-04-19|
+|31|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|14|2024-04-27|
 |32|[yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV](https://github.com/yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV)|欧拉角、四元数、旋转矩阵，迂回现象，自抗扰控制|13|2024-03-06|
 |33|[lunarwhite/which-digit-zh](https://github.com/lunarwhite/which-digit-zh)|Try BPNN on mnist. BP 神经网络识别中文数字|13|2023-12-09|
 |34|[jhu-dvrk/dvrk-gravity-compensation](https://github.com/jhu-dvrk/dvrk-gravity-compensation)|Matlab functions to identify MTM dynamic parameters, uses dvrk-ros/dvrk_matlab|13|2023-11-21|
@@ -51,10 +51,10 @@
 |44|[T990820/radar-communication-signal-waveform-generator](https://github.com/T990820/radar-communication-signal-waveform-generator)|本仓库的代码用于雷达/通信信号波形的仿真与时频分析|7|2024-04-11|
 |45|[ChengleiX/Sliding_Mode_Control_simulink](https://github.com/ChengleiX/Sliding_Mode_Control_simulink)|matlab simulink仿真文件|7|2023-11-30|
 |46|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|7|2024-03-25|
-|47|[Matthew-Lyu/Classic-Image-Processing-Analysis](https://github.com/Matthew-Lyu/Classic-Image-Processing-Analysis)|Classic image processing and analysis methods|7|2024-04-26|
-|48|[highskyno1/2users-CDMA-simulation](https://github.com/highskyno1/2users-CDMA-simulation)|基于MATLAB的直接序列扩频通信系统仿真|7|2024-04-15|
-|49|[fkby48/Image-Processing-by-DWT](https://github.com/fkby48/Image-Processing-by-DWT)|使用小波变换对图像进行处理，包括图像融合、图像降噪、图像压缩和图像隐藏（Using wavelet transform for image processing, including image fusion, image denoising, image compression, and image hiding）|6|2024-04-17|
-|50|[JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net](https://github.com/JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net)|This repository is the open source code for our latest feasibility work: "Human Anomalous Gait Termination Recognition Via Through-the-Wall Radar Based on Micro-Doppler Corner Features and Non-Local M ...|6|2024-01-16|
+|47|[JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net](https://github.com/JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net)|This repository is the open source code for our latest feasibility work: "Human Anomalous Gait Termination Recognition Via Through-the-Wall Radar Based on Micro-Doppler Corner Features and Non-Local M ...|7|2024-01-16|
+|48|[Matthew-Lyu/Classic-Image-Processing-Analysis](https://github.com/Matthew-Lyu/Classic-Image-Processing-Analysis)|Classic image processing and analysis methods|7|2024-04-26|
+|49|[highskyno1/2users-CDMA-simulation](https://github.com/highskyno1/2users-CDMA-simulation)|基于MATLAB的直接序列扩频通信系统仿真|7|2024-04-15|
+|50|[fkby48/Image-Processing-by-DWT](https://github.com/fkby48/Image-Processing-by-DWT)|使用小波变换对图像进行处理，包括图像融合、图像降噪、图像压缩和图像隐藏（Using wavelet transform for image processing, including image fusion, image denoising, image compression, and image hiding）|6|2024-04-17|
 |51|[Lusenc/SkyrmionOpticalForce](https://github.com/Lusenc/SkyrmionOpticalForce)|该项目记录笔者科研过程中用到的算法函数，包括矢量场表示、瑞利粒子光学力的计算、特殊光束生成等内容|6|2023-11-16|
 |52|[deltaRing/UAV_Path_Search](https://github.com/deltaRing/UAV_Path_Search)|本工程将借助ESDF、TSDF、Dstar、B样条曲线、以及多项式路径来实现无人机路径规划|6|2023-12-19|
 |53|[flyQQQHddd/pattern-recognition](https://github.com/flyQQQHddd/pattern-recognition)|模式识别|5|2024-04-11|
@@ -75,7 +75,7 @@
 |68|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|3|2024-04-26|
 |69|[Joe-Hall-Lee/hc_lzp](https://github.com/Joe-Hall-Lee/hc_lzp)|清风数学建模。|3|2024-02-05|
 |70|[INSofHUST/Distributed-Optimization](https://github.com/INSofHUST/Distributed-Optimization)|基于一致性的分布式优化算法样例。|3|2024-01-25|
-|71|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-01-08|
+|71|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-04-27|
 |72|[yuyuliangyu/matlab-vine-copula](https://github.com/yuyuliangyu/matlab-vine-copula)|这是一个用matlab编写的vine-copula|3|2024-02-28|
 |73|[HaoyuWang141/2022-MCM-A-Finalist](https://github.com/HaoyuWang141/2022-MCM-A-Finalist)|2022年数学建模美赛(MCM/ICM) A题 F奖|3|2024-02-28|
 |74|[Silver-Fang/Parallel-Computing](https://github.com/Silver-Fang/Parallel-Computing)|埃博拉酱的并行计算工具箱|3|2024-04-24|
