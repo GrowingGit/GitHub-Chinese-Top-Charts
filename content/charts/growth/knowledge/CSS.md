@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > CSS
-<sub>数据更新: 2024-04-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-04-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1135|8|2024-03-03|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|18848|7|2024-04-27|
-|3|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|21003|6|2024-04-24|
-|4|[rustx-labs/effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn)|Effective Rust 中文版|62|6|2024-04-24|
-|5|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5387|2|2024-04-26|
-|6|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8969|2|2024-04-09|
-|7|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4928|2|2024-01-18|
-|8|[QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks)|Some CSS tricks - 一些 CSS 常用样式|3951|2|2023-12-05|
+|1|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1137|8|2024-03-03|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|18857|7|2024-04-27|
+|3|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|21004|6|2024-04-24|
+|4|[rustx-labs/effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn)|Effective Rust 中文版|66|6|2024-04-28|
+|5|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5392|2|2024-04-28|
+|6|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8973|2|2024-04-09|
+|7|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4927|2|2024-01-18|
+|8|[QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks)|Some CSS tricks - 一些 CSS 常用样式|3954|2|2023-12-05|
 |9|[lin-xin/blog](https://github.com/lin-xin/blog)|林鑫的个人博客，用于总结平时工作和学习中的经验。|1769|1|2024-01-20|
 |10|[fuzhengwei/itstack-demo-netty](https://github.com/fuzhengwei/itstack-demo-netty)|微信公众号：bugstack虫洞栈   专注于原创开发专题案例。跟着案例学Netty，Netty4.x案例从简单入门到应用实战，全篇37章节优秀案例+实战源码[基础篇(13)、中级篇(13)、高级篇(3章+)、源码分析篇]，以上章节全部完成并不断持续更新中。欢迎关注公众号：bugstack虫洞栈   阅读专题文章+调试案例源码学习｛回复netty案例｝。|694|0|2024-04-16|
 |11|[LychApe/DreamCat](https://github.com/LychApe/DreamCat)|DreamCat 是一个极简自适应博客主题,年轻人追梦良品!|275|0|2024-02-24|
@@ -28,11 +28,11 @@
 |21|[leedom92/hexo-theme-leedom](https://github.com/leedom92/hexo-theme-leedom)|🎨「仿照尤雨溪博客的简洁的Hexo主题」A pure theme of Hexo like Evan You's blog|40|0|2024-04-14|
 |22|[YSGStudyHards/EasySQLite](https://github.com/YSGStudyHards/EasySQLite)|七天.NET 8操作SQLite入门到实战详细教程|7|0|2023-11-27|
 |23|[Dreamer-Paul/Hingle](https://github.com/Dreamer-Paul/Hingle)|🎈 一个简洁大气，含夜间模式的 Hexo 博客主题|60|0|2024-02-09|
-|24|[apachecn/quant-learning](https://github.com/apachecn/quant-learning)|:books: Quant 教程整理|301|0|2024-01-12|
+|24|[apachecn/quant-learning](https://github.com/apachecn/quant-learning)|:books: Quant 教程整理|302|0|2024-01-12|
 |25|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite 💡|129|0|2024-03-16|
-|26|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|0|2024-04-27|
+|26|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|0|2024-04-28|
 |27|[zino-rs/zino-docs-zh](https://github.com/zino-rs/zino-docs-zh)|Zino开发框架中文教程|8|0|2024-04-03|
-|28|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|367|0|2024-04-27|
+|28|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|368|0|2024-04-27|
 |29|[phpple/caddy2-cn-doc](https://github.com/phpple/caddy2-cn-doc)|Caddy 2的中文文档|117|0|2024-02-20|
 |30|[WaterCalm/LinuxServerInChinese](https://github.com/WaterCalm/LinuxServerInChinese)|翻译LinuxServer.io文档为中文的gitbook|11|0|2024-02-21|
 |31|[ybdt/ybdt.github.io](https://github.com/ybdt/ybdt.github.io)|个人博客：https://ybdt.me/|7|0|2024-04-18|
@@ -47,7 +47,7 @@
 |40|[wizardforcel/lcthw-zh](https://github.com/wizardforcel/lcthw-zh)|:book: 【译】笨办法学C|810|0|2023-10-31|
 |41|[lsils/lstools-showcase](https://github.com/lsils/lstools-showcase)|Showcase examples for EPFL logic synthesis libraries|159|0|2024-04-05|
 |42|[RQYOU/Hazy-Moonlight](https://github.com/RQYOU/Hazy-Moonlight)|A theme for SiYuan. 一款清爽的思源笔记主题。|6|0|2023-12-17|
-|43|[apachecn/SocialMediaMining-zh](https://github.com/apachecn/SocialMediaMining-zh)|社交媒体挖掘_翻译版|17|0|2023-12-05|
+|43|[apachecn/SocialMediaMining-zh](https://github.com/apachecn/SocialMediaMining-zh)|社交媒体挖掘_翻译版|18|0|2023-12-05|
 |44|[hangbale/photography-blog](https://github.com/hangbale/photography-blog)|photography blog generator - 摄影类静态博客生成器|94|0|2023-12-24|
 |45|[5ime/hexo-theme-i](https://github.com/5ime/hexo-theme-i)|博客自用主题(二开|12|0|2023-12-31|
 |46|[Theo-messi/Streaming-Media-Forest](https://github.com/Theo-messi/Streaming-Media-Forest)|流媒体森林 - 全方位流媒体 观影指南 引领您进入五彩斑斓的视听世界，并涵盖了 Netflix 、Disney+ 、Spotify会员 和 YouTube会员 的精彩领域|42|0|2023-11-26|
@@ -62,7 +62,7 @@
 |55|[meethigher/hexo-theme-starry](https://github.com/meethigher/hexo-theme-starry)|已被官方收录的hexo主题-Starry，采用ejs跟less开发。技术限制，目前还有很多优化未实现，学习ing。基于很多大佬开源的插件，感谢！|26|0|2024-04-08|
 |56|[Anyway-FM/Anyway.Tab](https://github.com/Anyway-FM/Anyway.Tab)|把 Anyway.FM 官网《安妮薇看看》里的链接链接推荐显示在 Chrome 新建 Tab 上，同时推送新番的提醒|59|0|2024-02-27|
 |57|[SEC-CAFE/handbook](https://github.com/SEC-CAFE/handbook)|安全手册，企业安全实践、攻防与安全研究知识库|10|0|2024-03-01|
-|58|[csfive/home](https://github.com/csfive/home)|🐭 计算机废物自学指北|18|0|2024-03-14|
+|58|[csfive/home](https://github.com/csfive/home)|🐭 计算机废物自学指北|19|0|2024-04-28|
 |59|[lululuting/tgbk](https://github.com/lululuting/tgbk)|挺哥博客|31|0|2024-04-11|
 |60|[hefengbao/one](https://github.com/hefengbao/one)|一个简洁的博客、微博客。|11|0|2024-03-26|
 |61|[Hlaohei/ckjdygc](https://github.com/Hlaohei/ckjdygc)|创客界的一根葱 代码分享|57|0|2023-12-09|
