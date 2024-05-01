@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Vim script
-<sub>数据更新: 2024-04-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20126|8|2024-04-04|
+|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20127|8|2024-04-04|
 |2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8573|2|2024-04-23|
-|3|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1677|1|2024-02-22|
+|3|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1680|1|2024-02-22|
 |4|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1546|1|2024-04-07|
 |5|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1820|1|2024-03-22|
 |6|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|877|1|2023-12-11|
@@ -21,13 +21,13 @@
 |14|[zweix123/win-config](https://github.com/zweix123/win-config)|让你的win机器有媲美Unix命令行的体验|4|0|2024-02-29|
 |15|[wandercn/go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf)|my vim conf for golang IDE and rust IDE|14|0|2023-11-02|
 |16|[Gerchart-GXT/myscripts](https://github.com/Gerchart-GXT/myscripts)|这里是本人写的一些有用的脚本|3|0|2024-01-08|
-|17|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|897|0|2024-04-18|
+|17|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|897|0|2024-04-30|
 |18|[yuesong-feng/EasyVim](https://github.com/yuesong-feng/EasyVim)|简单易用的vim配置|8|0|2023-11-11|
 |19|[terrytangyuan/dotfiles](https://github.com/terrytangyuan/dotfiles)|Personal bootstrapping dotfiles |7|0|2024-03-25|
 |20|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|884|0|2024-04-07|
 |21|[superproj/vimrc](https://github.com/superproj/vimrc)|我的 Go Vim IDE 配置（vimrc）|2|0|2024-01-31|
 |22|[ZSaberLv0/ZFVimIM_pinyin](https://github.com/ZSaberLv0/ZFVimIM_pinyin)|vim拼音输入法 / pinyin for ZFVimIM|3|0|2024-01-12|
-|23|[xu-chaojie/VIM](https://github.com/xu-chaojie/VIM)|精简vim配置，精简插件，只保留必要设置，并添加注释，不修改vim原有快捷键|8|0|2024-01-05|
+|23|[xu-chaojie/VIM](https://github.com/xu-chaojie/VIM)|精简vim配置，精简插件，只保留必要设置，并添加注释，不修改vim原有快捷键|8|0|2024-04-30|
 |24|[skywind3000/vim-dict](https://github.com/skywind3000/vim-dict)|没办法，被逼的，重新整理一个词典补全的数据库|57|0|2023-11-28|
 |25|[owner888/vimer](https://github.com/owner888/vimer)|vim editor|11|0|2024-02-29|
 |26|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|398|0|2024-04-15|
@@ -46,7 +46,7 @@
 |39|[LongYinStudio/dotfiles](https://github.com/LongYinStudio/dotfiles)|自己linux、macos的配置文件(zsh、(neo)vim等等)|2|0|2024-03-17|
 |40|[Genki-S/dotfiles](https://github.com/Genki-S/dotfiles)|My lovely settings.|23|0|2024-04-04|
 |41|[dofy/7th-vim](https://github.com/dofy/7th-vim)|安装简单，轻量、易用、高可配置性。 Lightweight & Customizable Vim configuration options.|99|0|2023-11-25|
-|42|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|11|0|2024-04-17|
+|42|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|11|0|2024-04-29|
 |43|[marslo/myvim](https://github.com/marslo/myvim)|My Vim configuratons |15|0|2024-01-17|
 |44|[cnsworder/dev_init](https://github.com/cnsworder/dev_init)|开发环境初始化 vim+emacs+python|9|0|2024-01-30|
 |45|[rongyi/dotfile](https://github.com/rongyi/dotfile)|zsh/tmux/vim/mplayer配置文件|5|0|2024-02-26|
