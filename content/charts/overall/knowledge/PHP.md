@@ -1,34 +1,34 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > PHP
-<sub>数据更新: 2024-05-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|Sample code for several design patterns in PHP 8.x|21710|2024-04-18|
-|2|[easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money)|程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate|16662|2024-03-28|
-|3|[pandora-next/deploy](https://github.com/pandora-next/deploy)|Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!|11021|2024-01-21|
+|1|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|Sample code for several design patterns in PHP 8.x|21708|2024-04-18|
+|2|[easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money)|程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate|16663|2024-03-28|
+|3|[pandora-next/deploy](https://github.com/pandora-next/deploy)|Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!|11020|2024-01-21|
 |4|[helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)|:octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）|9198|2024-03-16|
-|5|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|3408|2024-02-20|
-|6|[freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout)|FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)|2631|2024-04-26|
+|5|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|3409|2024-02-20|
+|6|[freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout)|FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)|2634|2024-04-26|
 |7|[orangetw/My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges)|Collection of CTF Web challenges I made|2595|2023-11-08|
-|8|[easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0)|《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。|2144|2024-04-02|
-|9|[ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF)|【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！|1759|2024-04-30|
-|10|[codehub666/94list](https://github.com/codehub666/94list)|百度网盘分享链接分析渲染列表辅助下载开源程序|1637|2024-03-03|
+|8|[easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0)|《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。|2145|2024-04-02|
+|9|[ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF)|【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！|1759|2024-05-01|
+|10|[codehub666/94list](https://github.com/codehub666/94list)|百度网盘分享链接分析渲染列表辅助下载开源程序|1642|2024-03-03|
 |11|[xianyunyh/PHP-Interview](https://github.com/xianyunyh/PHP-Interview)|This is the information I prepared for the PHP interview.The notes include PHP, MySql, Linux, etc.|1181|2024-03-08|
 |12|[xiebruce/PicUploader](https://github.com/xiebruce/PicUploader)|一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。|1165|2024-02-13|
 |13|[dedemao/weixinPay](https://github.com/dedemao/weixinPay)|微信支付单文件版。一个PHP文件搞定微信支付系列。包括原生支付（扫码支付），H5支付，公众号支付，现金红包、企业付款到零钱等。新增V3版。|1116|2024-04-29|
 |14|[opensource-socialnetwork/opensource-socialnetwork](https://github.com/opensource-socialnetwork/opensource-socialnetwork)|Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who s ...|1032|2024-04-24|
-|15|[zelon88/HRConvert2](https://github.com/zelon88/HRConvert2)|A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 86 file formats in 13 languages.|893|2024-04-29|
+|15|[zelon88/HRConvert2](https://github.com/zelon88/HRConvert2)|A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 86 file formats in 13 languages.|894|2024-04-29|
 |16|[zblogcn/zblogphp](https://github.com/zblogcn/zblogphp)|Z-BlogPHP博客程序|788|2024-04-30|
 |17|[oubingbing/wechatAlliance](https://github.com/oubingbing/wechatAlliance)|微信小程序--校园小情书后台源码，好玩的表白墙，告白墙。|699|2023-11-29|
-|18|[liaocp666/Jasmine](https://github.com/liaocp666/Jasmine)|A Typecho Theme. 一款 Typecho 主题。专为博客类网站开发，响应式设计，在移动端也有不错体验。主要使用白、灰、黑三种配色，整体简洁、精致、美观。|623|2024-04-11|
+|18|[liaocp666/Jasmine](https://github.com/liaocp666/Jasmine)|A Typecho Theme. 一款 Typecho 主题。专为博客类网站开发，响应式设计，在移动端也有不错体验。主要使用白、灰、黑三种配色，整体简洁、精致、美观。|625|2024-04-11|
 |19|[zhuige-com/jiangqie_kafei](https://github.com/zhuige-com/jiangqie_kafei)|酱茄小程序开源版，基于WordPress的微信小程序，适用于博客小程序和新闻资讯小程序。|563|2024-04-22|
 |20|[jiushill/note](https://github.com/jiushill/note)|记录自己写的工具和学习笔记|420|2023-12-14|
 |21|[storyflow/PHPer](https://github.com/storyflow/PHPer)|一个PHPer的升级之路|368|2023-11-02|
 |22|[mokeyjay/Pixiv-daily-ranking-widget](https://github.com/mokeyjay/Pixiv-daily-ranking-widget)|会自动更新的P站每日榜小挂件，适合放在博客侧边栏等地方 Pixiv daily ranking widget, automatically updates, suitable for blog sidebar, etc.|276|2023-12-23|
 |23|[ordylan/OrdylanNote](https://github.com/ordylan/OrdylanNote)|Welcome to ON, a php-based webpage notebook with a variety of games.|238|2023-12-24|
-|24|[5ime/images_spider](https://github.com/5ime/images_spider)|短视频图集图片去水印：快手,皮皮虾,最右,小红书,微博|236|2023-12-18|
+|24|[5ime/images_spider](https://github.com/5ime/images_spider)|短视频图集图片去水印：快手,皮皮虾,最右,小红书,微博|235|2023-12-18|
 |25|[Seevil/fantasy](https://github.com/Seevil/fantasy)|一款极简Typecho 博客主题|231|2023-11-07|
 |26|[changbin1997/MWordStar](https://github.com/changbin1997/MWordStar)|响应式双栏 Typecho 博客主题|197|2024-02-28|
 |27|[changbin1997/Facile](https://github.com/changbin1997/Facile)|一个简洁的 Typecho 博客主题|142|2024-04-10|
@@ -37,7 +37,7 @@
 |30|[tsxcw/mtab](https://github.com/tsxcw/mtab)|Mtab书签导航程序 - 免费无广告的浏览器书签助手，多端同步、美观易用的在 线导航和书签工具，自主研发免费使用，帮助您高效管理 网页和应用，提升在线体验。|121|2024-04-28|
 |31|[carefreezi/openai-nuxt3](https://github.com/carefreezi/openai-nuxt3)|仅供学习增加了敏感词检测|104|2023-11-28|
 |32|[code-lives/Pays](https://github.com/code-lives/Pays)|微信小程序、抖音小程序、百度小程序、支付宝小程序、快手小程序集合（支付、手机号解密、获取Token、模版消息、支付异步通知、退款、订单查询）|103|2024-02-19|
-|33|[find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)|潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!|78|2024-04-30|
+|33|[find-xposed-magisk/pandora-next](https://github.com/find-xposed-magisk/pandora-next)|潘多拉云 + 潘多拉服务器 + 共享聊天 + BackendAPI 代理 + Chat2API = 潘多拉下一个。新的GPT（Gizmo）UI，多合一！Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API = PandoraNext. New GPTs(Gizmo) UI, All in one!|79|2024-05-01|
 |34|[CodeIgniter-Chinese/codeigniter4-user-guide](https://github.com/CodeIgniter-Chinese/codeigniter4-user-guide)|CodeIgniter 4 Chinese User Guide - CodeIgniter 4 简体中文手册|78|2024-02-04|
 |35|[lcp0578/cheat-sheets](https://github.com/lcp0578/cheat-sheets)|:elephant: :elephant: my cheat sheets :memo: , Symfony, Go, Python, C++, GIS, Qt, MySQL, Twig, Doctrine, Nginx, ElasticSearch, TiDB, Linux etc.|73|2024-04-26|
 |36|[anhao/AL_lolimeow](https://github.com/anhao/AL_lolimeow)|Typecho博客 AL_lolimeow |68|2024-01-26|
