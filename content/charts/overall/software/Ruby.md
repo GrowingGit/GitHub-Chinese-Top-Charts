@@ -1,37 +1,37 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Ruby
-<sub>数据更新: 2024-05-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6392|2024-04-11|
+|1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6394|2024-04-11|
 |2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3758|2024-03-25|
 |3|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3398|2024-04-28|
-|4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2496|2024-04-30|
+|4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2497|2024-04-30|
 |5|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|2173|2024-04-11|
 |6|[thredded/thredded](https://github.com/thredded/thredded)|The best Rails forums engine ever.|1548|2024-04-07|
 |7|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1432|2024-04-19|
-|8|[Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1302|2024-01-04|
+|8|[Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1303|2024-01-04|
 |9|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1121|2024-04-26|
-|10|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1086|2024-05-01|
+|10|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1087|2024-05-02|
 |11|[huacnlee/rails-settings-cached](https://github.com/huacnlee/rails-settings-cached)|Global settings for your Rails application.|1035|2024-01-05|
-|12|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps|1004|2024-05-01|
+|12|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps|1005|2024-05-01|
 |13|[floere/phony](https://github.com/floere/phony)|E164 international phone number normalizing, splitting, formatting. |995|2024-02-15|
 |14|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast citation reference parsing|969|2024-01-11|
 |15|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |959|2024-03-17|
 |16|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|729|2024-03-08|
 |17|[huacnlee/rucaptcha](https://github.com/huacnlee/rucaptcha)|Captcha Gem for Rails, which generates captcha image by Rust.|687|2024-01-04|
-|18|[urbanadventurer/username-anarchy](https://github.com/urbanadventurer/username-anarchy)|Username tools for penetration testing|680|2024-02-28|
-|19|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|669|2024-04-28|
-|20|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|643|2024-05-01|
-|21|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|519|2024-05-01|
+|18|[urbanadventurer/username-anarchy](https://github.com/urbanadventurer/username-anarchy)|Username tools for penetration testing|681|2024-02-28|
+|19|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|668|2024-04-28|
+|20|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|643|2024-05-02|
+|21|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|521|2024-05-01|
 |22|[joshlarsen/aws-recon](https://github.com/joshlarsen/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|510|2024-04-10|
 |23|[L-codes/pwcrack-framework](https://github.com/L-codes/pwcrack-framework)|Password Crack Framework|486|2024-02-25|
-|24|[lairdubois/lairdubois-opencutlist-sketchup-extension](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension)|OpenCutList is a SketchUp Extension for automating the generation of cut lists for woodworking projects.|408|2024-05-01|
+|24|[lairdubois/lairdubois-opencutlist-sketchup-extension](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension)|OpenCutList is a SketchUp Extension for automating the generation of cut lists for woodworking projects.|408|2024-05-02|
 |25|[jpmobile/jpmobile](https://github.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|319|2024-04-28|
 |26|[YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby)|A Ruby port of Puppeteer|269|2024-04-05|
-|27|[infused/dbf](https://github.com/infused/dbf)|DBF is a small, fast Ruby library for reading dBase, xBase, Clipper, and FoxPro database files.|257|2024-04-25|
+|27|[infused/dbf](https://github.com/infused/dbf)|DBF is a small, fast Ruby library for reading dBase, xBase, Clipper, and FoxPro database files.|257|2024-05-02|
 |28|[samvera/hyrax](https://github.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|179|2024-04-25|
 |29|[bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD)|-|166|2024-04-30|
 |30|[rails-engine/audit-log](https://github.com/rails-engine/audit-log)|📑 Create audit logs into the database for user behaviors, including a web UI to query logs.|164|2023-12-04|
@@ -49,7 +49,7 @@
 |42|[brenes/stopwords-filter](https://github.com/brenes/stopwords-filter)|Project for filtering stopwords|75|2023-11-24|
 |43|[JerryChu/UnitTestParser](https://github.com/JerryChu/UnitTestParser)|单元测试数据解析脚本&工具，快速解析单元测试执行概况及各种维度的代码覆盖率。|63|2024-01-05|
 |44|[ankane/blingfire-ruby](https://github.com/ankane/blingfire-ruby)|High speed text tokenization for Ruby|62|2023-12-27|
-|45|[coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp)|☯️ CoderDojo Japan (@coderdojo-japan) official website developed by Ruby on Rails with @YassLab team. 💎|61|2024-04-22|
+|45|[coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp)|☯️ CoderDojo Japan (@coderdojo-japan) official website developed by Ruby on Rails with @YassLab team. 💎|61|2024-05-02|
 |46|[refinery/refinerycms-i18n](https://github.com/refinery/refinerycms-i18n)|I18n logic for Refinery CMS|54|2024-02-21|
 |47|[piotrmurach/strings-truncation](https://github.com/piotrmurach/strings-truncation)|Truncate strings with fullwidth characters and ANSI codes.|50|2024-03-12|
 |48|[test-kitchen/kitchen-azurerm](https://github.com/test-kitchen/kitchen-azurerm)|A driver for Test Kitchen that works with Azure Resource Manager|48|2023-12-01|
@@ -66,7 +66,7 @@
 |59|[cyril/r_spec-clone.rb](https://github.com/cyril/r_spec-clone.rb)|A minimalist RSpec clone with all the essentials.|22|2024-03-01|
 |60|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|20|2023-12-17|
 |61|[baidubce/bce-player-ios](https://github.com/baidubce/bce-player-ios)|百度智能云iOS播放器SDK|18|2024-03-28|
-|62|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|17|2024-04-30|
+|62|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|17|2024-05-02|
 |63|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|17|2024-02-18|
 |64|[windwords/homebrew-vchewing](https://github.com/windwords/homebrew-vchewing)|homebrew-vchewing是一个用于安装/卸载威注音输入法的Homebrew Cask。|16|2024-04-06|
 |65|[petertseng/adventofcode-rb-2019](https://github.com/petertseng/adventofcode-rb-2019)|Solutions to https://adventofcode.com/2019 (complete)|15|2023-12-05|

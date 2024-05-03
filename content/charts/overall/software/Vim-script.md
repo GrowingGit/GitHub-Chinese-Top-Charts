@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Vim script
-<sub>数据更新: 2024-05-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20129|2024-04-04|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8573|2024-04-23|
+|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20128|2024-04-04|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8575|2024-04-23|
 |3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4889|2023-11-16|
 |4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1820|2024-03-22|
-|5|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1681|2024-02-22|
+|5|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1683|2024-02-22|
 |6|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer.|1546|2024-04-07|
 |7|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|897|2024-04-30|
 |8|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|884|2024-04-07|
@@ -18,7 +18,7 @@
 |11|[mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)|A vim 7.4+ plugin to generate table of contents for Markdown files.|596|2024-04-15|
 |12|[lyokha/vim-xkbswitch](https://github.com/lyokha/vim-xkbswitch)|vim plugin for automatic keyboard layout switching in insert mode|473|2024-03-12|
 |13|[sillybun/vim-repl](https://github.com/sillybun/vim-repl)|Best REPL environment for Vim|434|2024-01-16|
-|14|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|398|2024-04-15|
+|14|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|399|2024-04-15|
 |15|[lilydjwg/dotvim](https://github.com/lilydjwg/dotvim)|My vim config|280|2024-03-31|
 |16|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|278|2024-04-21|
 |17|[ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)|vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files|198|2024-04-17|
@@ -36,7 +36,7 @@
 |29|[modood/vimrc](https://github.com/modood/vimrc)|A shell script to deploy my vim configuration|20|2023-11-07|
 |30|[Karmenzind/vim-tmuxlike](https://github.com/Karmenzind/vim-tmuxlike)|A vim plugin that mimics the actions of tmux. Control buffers and tabs like tmux panes.|19|2023-12-02|
 |31|[gou4shi1/.vim](https://github.com/gou4shi1/.vim)|My Vim|15|2024-04-09|
-|32|[marslo/myvim](https://github.com/marslo/myvim)|My Vim configuratons |15|2024-01-17|
+|32|[marslo/myvim](https://github.com/marslo/myvim)|My Vim configuratons |15|2024-05-02|
 |33|[wandercn/go-ide-vim.conf](https://github.com/wandercn/go-ide-vim.conf)|my vim conf for golang IDE and rust IDE|14|2023-11-02|
 |34|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|11|2024-04-29|
 |35|[owner888/vimer](https://github.com/owner888/vimer)|vim editor|11|2024-02-29|

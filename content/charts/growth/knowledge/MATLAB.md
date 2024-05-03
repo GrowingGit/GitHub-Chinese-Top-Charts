@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > MATLAB
-<sub>数据更新: 2024-05-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2185|3|2024-04-23|
-|2|[personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model)|数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法、现代的算法|2703|3|2023-12-01|
-|3|[LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning)|我的导航学习笔记，内容涵盖导航定位开源程序的源码解读 ( 包括：RTKLIB、GAMP、SoftGNSS、KF-GINS、ORB-SLAM3 等)、各种导航设备的使用方式、书籍讲义、博客翻译、开源项目梳理、常用网站记录、Linux/Vim/Git/ROS/VSCode 常用命令、以及我作为安理导航工程本科生对于导航学习的思考感悟；本仓库会长期更新，分享出来，希望有人用得上，也激励着自己坚持学下去； ...|450|2|2024-04-19|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2194|3|2024-04-23|
+|2|[personqianduixue/Math_Model](https://github.com/personqianduixue/Math_Model)|数学建模、美赛、美国大学生数学建模竞赛、全国大学生数学建模竞赛、华为杯研究生数学建模、国赛LaTeX模板、美赛LaTeX模板、mathorcup、电工杯、华中赛、APMCM、深圳杯、中青杯、华东杯、数维杯、东三省数学建模、认证杯、数学建模书籍、常用matlab算法、国赛评阅要点、软件模型算法汇总、智能算法、优化算法、现代的算法|2709|3|2023-12-01|
+|3|[LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning)|我的导航学习笔记，内容涵盖导航定位开源程序的源码解读 ( 包括：RTKLIB、GAMP、SoftGNSS、KF-GINS、ORB-SLAM3 等)、各种导航设备的使用方式、书籍讲义、博客翻译、开源项目梳理、常用网站记录、Linux/Vim/Git/ROS/VSCode 常用命令、以及我作为安理导航工程本科生对于导航学习的思考感悟；本仓库会长期更新，分享出来，希望有人用得上，也激励着自己坚持学下去； ...|455|2|2024-04-19|
 |4|[dick20/MCM-ICM](https://github.com/dick20/MCM-ICM)|2004-2020美赛O奖论文|1613|1|2024-04-09|
-|5|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1258|1|2024-03-22|
+|5|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1260|1|2024-03-22|
 |6|[kyiree/SuperEngineer](https://github.com/kyiree/SuperEngineer)|个人学习记录，目标超级工程师|29|0|2024-04-27|
 |7|[qxr777/NumericalAnalysis](https://github.com/qxr777/NumericalAnalysis)|计算机数值分析课程|87|0|2023-11-20|
 |8|[luo0207/undergraduate_course_resources_AIA_HUSTER](https://github.com/luo0207/undergraduate_course_resources_AIA_HUSTER)|华中科技大学人工智能与自动化学院本科学习资料：课件、试卷、笔记、代码|29|0|2024-01-22|
@@ -28,8 +28,7 @@
 |21|[highskyno1/MIMO_DOA](https://github.com/highskyno1/MIMO_DOA)|MIMO阵列信号来向DOA估计实现~含FOCUSS、OMP、贝叶斯学习(SBL)等稀疏重构法和常规、子空间法、空间平滑滤波法|8|0|2024-01-30|
 |22|[BiAn627191818/Array-signal-processing](https://github.com/BiAn627191818/Array-signal-processing)|张小飞阵列信号处理全书代码，基本跑通|6|0|2023-11-15|
 |23|[zhao-zhibo/INS](https://github.com/zhao-zhibo/INS)|惯导机械编排算法，以严恭敏的PSINS为基础，坐标系为东北天，可以完成武汉大学的机械编排课程作业|9|0|2024-03-12|
-|24|[Abner-fu/SMC](https://github.com/Abner-fu/SMC)|滑模控制相关论文及仿真复现|8|0|2023-10-31|
-|25|[denkywu/SAR-Synthetic-Aperture-Radar](https://github.com/denkywu/SAR-Synthetic-Aperture-Radar)|合成孔径雷达 相关。研究生期间学习 SAR/InSAR/PolSAR 相关的代码和总结，毕业后已经离开这个领域了。分享出来，仅此纪念。1）SAR: 成像算法，RD，CS，Radarsat-1数据成像处理。2）InSAR: 人造场景原始回波仿真、成像及干涉处理。包括平地场景和圆锥形场景。3）PolSAR: 极化定标算法，Whitt, PARC, Quegan, Ainsworth。详见 readme ...|637|0|2023-11-19|
+|24|[denkywu/SAR-Synthetic-Aperture-Radar](https://github.com/denkywu/SAR-Synthetic-Aperture-Radar)|合成孔径雷达 相关。研究生期间学习 SAR/InSAR/PolSAR 相关的代码和总结，毕业后已经离开这个领域了。分享出来，仅此纪念。1）SAR: 成像算法，RD，CS，Radarsat-1数据成像处理。2）InSAR: 人造场景原始回波仿真、成像及干涉处理。包括平地场景和圆锥形场景。3）PolSAR: 极化定标算法，Whitt, PARC, Quegan, Ainsworth。详见 readme ...|638|0|2023-11-19|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

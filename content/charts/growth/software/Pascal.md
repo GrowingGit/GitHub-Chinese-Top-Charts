@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2024-05-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -11,14 +11,14 @@
 |4|[digao-dalpiaz/Dam](https://github.com/digao-dalpiaz/Dam)|Delphi and Lazarus Message Dialogs with Formatted Text|127|0|2024-04-02|
 |5|[xenli/OneDelphi](https://github.com/xenli/OneDelphi)|OneDelphi是叫兽(FLM)QQ:378464060基于Delphi IDE开发的三层中间件，开源免费，支持MVC及传统DataSet框架，使用的是Mormot2的HTTP通讯。【OnePascal开源群】：814696487|36|0|2023-12-15|
 |6|[PassByYou888/ZNet](https://github.com/PassByYou888/ZNet)|ZNet is supported by future P2P VM, big data, cloud servers, and SAAS systems|51|0|2024-04-22|
-|7|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|560|0|2024-04-30|
+|7|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|560|0|2024-05-01|
 |8|[hkoi/hkoi-solutions](https://github.com/hkoi/hkoi-solutions)|HKOI Final Event solutions|12|0|2024-02-28|
 |9|[ying32/liblcl](https://github.com/ying32/liblcl)|A common cross-platform GUI library, the core uses Lazarus LCL.|121|0|2024-03-31|
 |10|[ymofen/diocp-v5](https://github.com/ymofen/diocp-v5)|delphi iocp, http, websocket, ntrip|236|0|2024-02-22|
 |11|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker|97|0|2024-03-23|
 |12|[digao-dalpiaz/DzHTMLText](https://github.com/digao-dalpiaz/DzHTMLText)|Delphi and Lazarus HTML Label component|172|0|2024-03-28|
 |13|[cityboat888/OnePascal](https://github.com/cityboat888/OnePascal)|OnePascal简介: OneDelphi是基于Delphi IDE开发的三层中间件， oneLaz是基于Lazaus IDE开发的三层中间件， OneUniApp是基于HBuilderX IDE开发的多端合一app 中间件支持MVC及传统DataSet框架，这个版本是在源码的基础上(放弃mormot)使用Delphi-Cross-Socket作为HTTP通讯|5|0|2024-04-16|
-|14|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|327|0|2024-04-30|
+|14|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|327|0|2024-05-01|
 |15|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|255|0|2023-11-15|
 |16|[ying32/res2go-ide-plugin](https://github.com/ying32/res2go-ide-plugin)|res2go Lazarus IDE plug-in|30|0|2024-01-13|
 |17|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|455|0|2024-03-14|

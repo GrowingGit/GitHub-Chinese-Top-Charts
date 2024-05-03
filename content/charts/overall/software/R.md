@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2024-05-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -13,7 +13,7 @@
 |6|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|274|2024-04-19|
 |7|[wilkox/treemapify](https://github.com/wilkox/treemapify)|🌳 Draw treemaps in ggplot2|210|2024-04-14|
 |8|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|198|2023-11-23|
-|9|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|172|2024-04-30|
+|9|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|172|2024-05-02|
 |10|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|169|2024-03-11|
 |11|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|158|2024-04-13|
 |12|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|146|2024-03-18|
