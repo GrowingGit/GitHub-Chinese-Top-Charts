@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Objective-C
-<sub>数据更新: 2024-05-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -12,16 +12,17 @@
 |5|[nicolastinkl/Crach-haosexiansheng](https://github.com/nicolastinkl/Crach-haosexiansheng)|破解好色先生协议，编写协议抓取python脚本，以及批量获取数据和视频的核心技巧|5|0|2024-02-03|
 |6|[tangtiancheng/DouYinComment](https://github.com/tangtiancheng/DouYinComment)|1.抖音视频转场动画,抖音左滑push进个人主页, 评论手势拖拽效果 , 视频播放, 边下边播, 预加载, TikTok 2.网易云iOS小组件,动态Widget,时钟组件,风扇组件,滚动照片组件, 帧动画小组件  3.铃声多多,上传铃声音频到库乐队(GarageBand) 4.微博主页、简书主页等。多页面嵌套列表分页滚动，上下滑动，左右滑动切换页面。类似TableView共用HeaderView ...|515|0|2024-02-28|
 |7|[aolan/iOS_Develop](https://github.com/aolan/iOS_Develop)|该文档都是日常开发过程中解决问题的经验总结。|12|0|2024-01-03|
-|8|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1701|0|2024-05-02|
-|9|[huangboju/Study](https://github.com/huangboju/Study)|一些学习的东西|4|0|2024-03-30|
-|10|[molon/MLLayout](https://github.com/molon/MLLayout)|Flexbox in Objective-C, using Facebook's css-layout.|251|0|2024-04-09|
-|11|[lijingpei2016/Photic](https://github.com/lijingpei2016/Photic)|音视频学习demo|5|0|2024-01-21|
-|12|[webersongao/DMBlog_iOS](https://github.com/webersongao/DMBlog_iOS)|wordpress博客移动iOS版，点击链接了解更多：|22|0|2024-03-05|
-|13|[zpfate/FlutterCookbook](https://github.com/zpfate/FlutterCookbook)|Flutter初学，各组件学习使用Demo|2|0|2024-04-09|
-|14|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|37|0|2024-04-28|
-|15|[GardenerYun/iOS--Note](https://github.com/GardenerYun/iOS--Note)|iOS研究笔记|11|0|2024-04-17|
-|16|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|FFmpeg step by step tutorials for iOS/macOS developer. （适合零基础的 iOS/macOS 开发者学习FFmpeg API 和音视频渲染技术。演示了 OpenGL 和 Metal 等多种视频渲染方式，以及使用 AudioUnit 和 AudioQueue 渲染不同格式的音频。）|278|0|2024-01-15|
-|17|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|87|0|2024-04-17|
+|8|[Alinto/sogo](https://github.com/Alinto/sogo)|SOGo is a very fast and scalable modern collaboration suite (groupware). It offers calendaring, address book management, and a full-featured Webmail client along with resource sharing and permission h ...|1701|0|2024-05-03|
+|9|[XLsn0w/XLsn0w](https://github.com/XLsn0w/XLsn0w)|🔥🔥🔥联系我:XLsn00w@gmail.com   微信公众号: Cydia   Cydia官方源: https://xlsn0w.github.io/tweaks/ 🔥🔥🔥|19|0|2024-05-03|
+|10|[huangboju/Study](https://github.com/huangboju/Study)|一些学习的东西|4|0|2024-03-30|
+|11|[molon/MLLayout](https://github.com/molon/MLLayout)|Flexbox in Objective-C, using Facebook's css-layout.|251|0|2024-04-09|
+|12|[lijingpei2016/Photic](https://github.com/lijingpei2016/Photic)|音视频学习demo|5|0|2024-01-21|
+|13|[webersongao/DMBlog_iOS](https://github.com/webersongao/DMBlog_iOS)|wordpress博客移动iOS版，点击链接了解更多：|22|0|2024-03-05|
+|14|[zpfate/FlutterCookbook](https://github.com/zpfate/FlutterCookbook)|Flutter初学，各组件学习使用Demo|2|0|2024-04-09|
+|15|[rongcloud/ios-ui-sdk-set](https://github.com/rongcloud/ios-ui-sdk-set)|融云 IM UI SDK 集合，包括各种 UI 组件|37|0|2024-04-28|
+|16|[GardenerYun/iOS--Note](https://github.com/GardenerYun/iOS--Note)|iOS研究笔记|11|0|2024-04-17|
+|17|[debugly/FFmpegTutorial](https://github.com/debugly/FFmpegTutorial)|FFmpeg step by step tutorials for iOS/macOS developer. （适合零基础的 iOS/macOS 开发者学习FFmpeg API 和音视频渲染技术。演示了 OpenGL 和 Metal 等多种视频渲染方式，以及使用 AudioUnit 和 AudioQueue 渲染不同格式的音频。）|278|0|2024-01-15|
+|18|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|87|0|2024-04-17|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
