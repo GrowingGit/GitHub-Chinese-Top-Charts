@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2024-05-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[TullyMonster/MendelRookie](https://github.com/TullyMonster/MendelRookie)|新手友好的孟德尔随机化项目|23|2|2024-04-26|
-|2|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1741|1|2024-04-26|
+|2|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1742|1|2024-04-26|
 |3|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|60|0|2024-04-22|
 |4|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|40|0|2024-02-27|
 |5|[skgrange/rmweather](https://github.com/skgrange/rmweather)|Tools to Conduct Meteorological Normalisation on Air Quality Data|44|0|2023-11-21|
@@ -32,7 +32,7 @@
 |25|[gesistsa/sweater](https://github.com/gesistsa/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|27|0|2023-11-10|
 |26|[mlampros/textTinyR](https://github.com/mlampros/textTinyR)|Text Processing for Small or Big Data Files in R|38|0|2023-12-05|
 |27|[koheiw/newsmap](https://github.com/koheiw/newsmap)|Semi-supervised algorithm for geographical document classification|56|0|2024-04-22|
-|28|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |42|0|2024-04-10|
+|28|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |42|0|2024-05-04|
 |29|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|169|0|2024-03-11|
 |30|[koheiw/seededlda](https://github.com/koheiw/seededlda)|LDA for semisupervised topic modeling|64|0|2024-04-23|
 |31|[wu-yc/scMetabolism](https://github.com/wu-yc/scMetabolism)|Quantifying metabolism activity at the single-cell resolution|89|0|2024-02-08|
@@ -43,10 +43,10 @@
 |36|[davidycliao/legisTaiwan](https://github.com/davidycliao/legisTaiwan)|legisTaiwan: An Interface to Access Taiwan Legislative API in R 台灣立法院國會系統 API |23|0|2024-02-25|
 |37|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|76|0|2024-04-16|
 |38|[ShixiangWang/tinyscholar](https://github.com/ShixiangWang/tinyscholar)|A Tiny R Package to Get and Show Google Scholar Profile|8|0|2024-01-05|
-|39|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|172|0|2024-05-03|
+|39|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|172|0|2024-05-04|
 |40|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|198|0|2023-11-23|
 |41|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/; Book: https://lishensuo.github.io/UCSCXenaShiny_Book; App online: https://shiny.hiplot.cn/ucsc-xena-shiny/, htt ...|83|0|2024-04-19|
-|42|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|45|0|2024-01-29|
+|42|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|46|0|2024-01-29|
 |43|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|146|0|2024-03-18|
 |44|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|81|0|2024-03-29|
 |45|[Otoliths/SP2000](https://github.com/Otoliths/SP2000)|🐟Catalogue of Life toolkit for R|12|0|2023-11-29|

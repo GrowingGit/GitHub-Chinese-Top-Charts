@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Ruby
-<sub>数据更新: 2024-05-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6395|2024-04-11|
-|2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3757|2024-03-25|
+|1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6395|2024-05-03|
+|2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3758|2024-05-04|
 |3|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3398|2024-05-03|
 |4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2501|2024-04-30|
 |5|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|2173|2024-04-11|
@@ -14,12 +14,12 @@
 |7|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1433|2024-04-19|
 |8|[Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1303|2024-01-04|
 |9|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1121|2024-04-26|
-|10|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1087|2024-05-02|
-|11|[huacnlee/rails-settings-cached](https://github.com/huacnlee/rails-settings-cached)|Global settings for your Rails application.|1036|2024-01-05|
+|10|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1088|2024-05-04|
+|11|[huacnlee/rails-settings-cached](https://github.com/huacnlee/rails-settings-cached)|Global settings for your Rails application.|1037|2024-01-05|
 |12|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps|1005|2024-05-01|
 |13|[floere/phony](https://github.com/floere/phony)|E164 international phone number normalizing, splitting, formatting. |995|2024-02-15|
-|14|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast citation reference parsing|969|2024-01-11|
-|15|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |962|2024-03-17|
+|14|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast citation reference parsing|970|2024-01-11|
+|15|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |963|2024-03-17|
 |16|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|729|2024-03-08|
 |17|[huacnlee/rucaptcha](https://github.com/huacnlee/rucaptcha)|Captcha Gem for Rails, which generates captcha image by Rust.|687|2024-01-04|
 |18|[urbanadventurer/username-anarchy](https://github.com/urbanadventurer/username-anarchy)|Username tools for penetration testing|681|2024-02-28|
@@ -61,24 +61,23 @@
 |54|[pdcodeunder/cocoapods-ppbuild](https://github.com/pdcodeunder/cocoapods-ppbuild)|iOS pod库预编译静态库，提高编译速度|27|2024-01-17|
 |55|[SonicGarden/dekiru](https://github.com/SonicGarden/dekiru)|Usefull helper methods for Ruby on Rails|25|2024-04-19|
 |56|[YunzheZJU/non-stop-story](https://github.com/YunzheZJU/non-stop-story)|Backend for holo-schedule on Rails.|24|2024-01-25|
-|57|[Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese)|🀄️咱自己人的软件🏮咱自己人的仓库🧧|23|2024-05-03|
+|57|[Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese)|🀄️咱自己人的软件🏮咱自己人的仓库🧧|23|2024-05-04|
 |58|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|22|2024-03-10|
 |59|[cyril/r_spec-clone.rb](https://github.com/cyril/r_spec-clone.rb)|A minimalist RSpec clone with all the essentials.|22|2024-03-01|
 |60|[work-design/rails_com](https://github.com/work-design/rails_com)|Rails Common Engine|20|2023-12-17|
 |61|[baidubce/bce-player-ios](https://github.com/baidubce/bce-player-ios)|百度智能云iOS播放器SDK|18|2024-03-28|
-|62|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|17|2024-05-02|
+|62|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|17|2024-05-03|
 |63|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|17|2024-02-18|
 |64|[windwords/homebrew-vchewing](https://github.com/windwords/homebrew-vchewing)|homebrew-vchewing是一个用于安装/卸载威注音输入法的Homebrew Cask。|16|2024-04-06|
 |65|[petertseng/adventofcode-rb-2019](https://github.com/petertseng/adventofcode-rb-2019)|Solutions to https://adventofcode.com/2019 (complete)|15|2023-12-05|
-|66|[OSMChina/OSMChina-Website](https://github.com/OSMChina/OSMChina-Website)|OpenStreetMap 中国社区|14|2023-11-03|
-|67|[aozorahack/aozora2html](https://github.com/aozorahack/aozora2html)|-|14|2024-02-02|
-|68|[jodeci/fortuna](https://github.com/jodeci/fortuna)|台灣公司專用薪資計算系統|13|2024-02-06|
-|69|[Ezviz-OpenBiz/SDK-iOS](https://github.com/Ezviz-OpenBiz/SDK-iOS)|Ezviz SDK，功能更强大的开发套件，可以实现预览、回放、配网、对讲、设备控制、oAuth授权等功能|13|2024-04-28|
-|70|[tdiary/tdiary-blogkit](https://github.com/tdiary/tdiary-blogkit)|more blogged for tDiary|13|2024-02-29|
-|71|[super-unprofessional-league/soccer-website-generator](https://github.com/super-unprofessional-league/soccer-website-generator)|超业余足球联赛网站生成器; Unprofessional soccer league website generator|12|2023-12-23|
-|72|[work-design/rails_wechat](https://github.com/work-design/rails_wechat)|Wechat for muilt account admin 微信 SDK 集大成者|10|2023-12-17|
-|73|[DILA-edu/cbeta-metadata](https://github.com/DILA-edu/cbeta-metadata)|CBETA 的 目錄、部類、缺字、作譯者、朝代等 metadata.|10|2024-04-23|
-|74|[crispgm/weekly](https://github.com/crispgm/weekly)|A personal curation of tech articles|9|2024-02-05|
+|66|[aozorahack/aozora2html](https://github.com/aozorahack/aozora2html)|-|14|2024-02-02|
+|67|[jodeci/fortuna](https://github.com/jodeci/fortuna)|台灣公司專用薪資計算系統|13|2024-02-06|
+|68|[Ezviz-OpenBiz/SDK-iOS](https://github.com/Ezviz-OpenBiz/SDK-iOS)|Ezviz SDK，功能更强大的开发套件，可以实现预览、回放、配网、对讲、设备控制、oAuth授权等功能|13|2024-04-28|
+|69|[tdiary/tdiary-blogkit](https://github.com/tdiary/tdiary-blogkit)|more blogged for tDiary|13|2024-02-29|
+|70|[super-unprofessional-league/soccer-website-generator](https://github.com/super-unprofessional-league/soccer-website-generator)|超业余足球联赛网站生成器; Unprofessional soccer league website generator|12|2023-12-23|
+|71|[work-design/rails_wechat](https://github.com/work-design/rails_wechat)|Wechat for muilt account admin 微信 SDK 集大成者|10|2023-12-17|
+|72|[DILA-edu/cbeta-metadata](https://github.com/DILA-edu/cbeta-metadata)|CBETA 的 目錄、部類、缺字、作譯者、朝代等 metadata.|10|2024-04-23|
+|73|[crispgm/weekly](https://github.com/crispgm/weekly)|A personal curation of tech articles|9|2024-02-05|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

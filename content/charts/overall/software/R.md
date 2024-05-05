@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2024-05-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1741|2024-04-26|
+|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1742|2024-04-26|
 |2|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|1009|2024-04-18|
 |3|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|593|2024-02-05|
 |4|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|573|2024-04-28|
@@ -13,7 +13,7 @@
 |6|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|274|2024-04-19|
 |7|[wilkox/treemapify](https://github.com/wilkox/treemapify)|🌳 Draw treemaps in ggplot2|210|2024-04-14|
 |8|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|198|2023-11-23|
-|9|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|172|2024-05-03|
+|9|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|172|2024-05-04|
 |10|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|169|2024-03-11|
 |11|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|158|2024-04-13|
 |12|[joachim-gassen/tidycovid19](https://github.com/joachim-gassen/tidycovid19)|{tidycovid19}: An R Package to Download, Tidy and Visualize Covid-19 Related Data|146|2024-03-18|
@@ -34,9 +34,9 @@
 |27|[koheiw/newsmap](https://github.com/koheiw/newsmap)|Semi-supervised algorithm for geographical document classification|56|2024-04-22|
 |28|[koheiw/LSX](https://github.com/koheiw/LSX)|Semi-supervised algorithm for document scaling|53|2024-03-05|
 |29|[CBIIT/LDlinkR](https://github.com/CBIIT/LDlinkR)|LDlinkR|51|2024-04-17|
-|30|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|45|2024-01-29|
+|30|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|46|2024-01-29|
 |31|[skgrange/rmweather](https://github.com/skgrange/rmweather)|Tools to Conduct Meteorological Normalisation on Air Quality Data|44|2023-11-21|
-|32|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |42|2024-04-10|
+|32|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |42|2024-05-04|
 |33|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|40|2024-02-27|
 |34|[mlampros/textTinyR](https://github.com/mlampros/textTinyR)|Text Processing for Small or Big Data Files in R|38|2023-12-05|
 |35|[zumbov2/deeplr](https://github.com/zumbov2/deeplr)|An R wrapper for the DeepL Translator API|36|2024-03-28|
