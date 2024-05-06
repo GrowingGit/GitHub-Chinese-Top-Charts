@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Go
-<sub>数据更新: 2024-05-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[HuanMeng233/weread_downloader](https://github.com/HuanMeng233/weread_downloader)|学习|183|2023-12-20|2023-12-09|
+|1|[HuanMeng233/weread_downloader](https://github.com/HuanMeng233/weread_downloader)|学习|184|2023-12-20|2023-12-09|
 |2|[Foleyzhao/lacerate](https://github.com/Foleyzhao/lacerate)|简单的静态博客生成器|145|2024-03-25|2024-03-12|
 |3|[fasnow/idebug](https://github.com/fasnow/idebug)|企业微信、企业飞书接口调用工具。|126|2023-12-19|2023-06-06|
 |4|[GuGoOrg/GuGoTik](https://github.com/GuGoOrg/GuGoTik)|第六届字节跳动青训营后端进阶实战项目第一名，迷你抖音后端|99|2024-02-08|2023-07-27|
