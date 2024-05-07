@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > TeX
-<sub>数据更新: 2024-05-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[bjut-swift/BJUT-Helper](https://github.com/bjut-swift/BJUT-Helper)|北京工业大学课程资源共享计划|62|2024-05-02|2023-05-30|
-|2|[xiaoweiChen/Learn-LLVM-17](https://github.com/xiaoweiChen/Learn-LLVM-17)|《Learn LLVM 17》的非专业个人翻译|57|2024-03-23|2024-02-28|
+|2|[xiaoweiChen/Learn-LLVM-17](https://github.com/xiaoweiChen/Learn-LLVM-17)|《Learn LLVM 17》的非专业个人翻译|58|2024-03-23|2024-02-28|
 |3|[xiaoweiChen/The-CXX-Library-Fourth-Edition-include-CXX23](https://github.com/xiaoweiChen/The-CXX-Library-Fourth-Edition-include-CXX23)|《The C++ Standard Library》的非专业个人翻译|46|2023-12-12|2023-12-08|
 |4|[Jimmy-L4/BUPTGraduateThesis](https://github.com/Jimmy-L4/BUPTGraduateThesis)|BUPTGraduateThesis提供北京邮电大学研究生学位论文LaTeX文档类，其符合北邮研究生院2014年11月发布的《关于研究生学位论文格式的统一要求》，目前已根据2017年标准修正格式、添加英文扉页，已根据2023年标准修正格式、添加答辩小组名单页，已根据2024年标准修正格式|25|2024-04-05|2023-05-13|
 |5|[Acwuld/LouAnalysis](https://github.com/Acwuld/LouAnalysis)|楼红卫老师《数学分析》的答案.|24|2024-05-04|2024-03-02|
@@ -14,7 +14,7 @@
 |7|[anlit75/CCU-Thesis-LaTeX-Template](https://github.com/anlit75/CCU-Thesis-LaTeX-Template)|Unofficial LaTeX templates for both master's thesis and doctoral dissertations at National Chung Cheng University. 國立中正大學碩博士論文LaTex模板|13|2024-05-03|2024-01-19|
 |8|[Latiyas/JNUThesis](https://github.com/Latiyas/JNUThesis)|暨南大学硕博士学位论文Overleaf模板|12|2024-04-11|2023-06-14|
 |9|[rockyzhz/latexdoc-chinese-translation](https://github.com/rockyzhz/latexdoc-chinese-translation)|LaTeX 文档中文翻译项目|11|2024-02-25|2023-12-05|
-|10|[AlfredLouis00/hanjaKoreanTextbook](https://github.com/AlfredLouis00/hanjaKoreanTextbook)|a korean textbook with hanja, based on the book 《韩国语教程》 by Yonsei University, Simplified Chinese edition.|10|2024-01-20|2023-11-27|
+|10|[AlfredLouis00/hanjaKoreanTextbook](https://github.com/AlfredLouis00/hanjaKoreanTextbook)|a korean textbook with hanja, based on the book 《韩国语教程》 by Yonsei University, Simplified Chinese edition.|11|2024-01-20|2023-11-27|
 |11|[wennboo/HDU-latex-template-for-master](https://github.com/wennboo/HDU-latex-template-for-master)|旨在帮助杭州电子科技大学硕博生使用 Latex完成学位论文撰写，非官方模板，如若使用，后果自负！|10|2024-04-14|2023-10-31|
 |12|[YanMing-lxb/SCI-LaTeX-Submission-Process-for-Elsevier](https://github.com/YanMing-lxb/SCI-LaTeX-Submission-Process-for-Elsevier)|自制的爱斯维尔期刊的LaTeX投稿工作流程模板|10|2023-12-24|2023-07-05|
 |13|[Icenowy/distro-adaptions-of-gpu-drivers](https://github.com/Icenowy/distro-adaptions-of-gpu-drivers)|演讲《GPU 驱动的发行版适配》|9|2024-03-18|2024-03-05|
@@ -28,16 +28,16 @@
 |21|[NorthSecond/SYSU_Latex_Template](https://github.com/NorthSecond/SYSU_Latex_Template)|适用于中大课程报告的一个简单小模板|7|2024-01-10|2024-01-02|
 |22|[wodemaster-NJUSE/NJUSE-BigDataAnalysis](https://github.com/wodemaster-NJUSE/NJUSE-BigDataAnalysis)|2023年NJUSE大数据分析课程作业|7|2024-01-12|2023-09-16|
 |23|[lavandejoey/ECUSTThesisLatex](https://github.com/lavandejoey/ECUSTThesisLatex)|华东理工大学本科生毕业论文Latex模板（xelatex/lualatex）|7|2024-01-21|2023-08-03|
-|24|[Jev0987/SZUThesis-2024](https://github.com/Jev0987/SZUThesis-2024)|2024深圳大学毕业论文latex模版|6|2024-02-19|2024-02-19|
-|25|[neuljh/NEU-undergraduate-thesis-LaTeX-template](https://github.com/neuljh/NEU-undergraduate-thesis-LaTeX-template)|这是基于东北大学本科毕业设计论文的LATEX版本|6|2024-02-12|2024-02-12|
-|26|[iamywang/whu-thesis-latex-template](https://github.com/iamywang/whu-thesis-latex-template)|武汉大学博士/硕士学位论文latex模板（包含插图索引、表格索引、中英文缩略语对照、主要符号表等，字体格式以及排版修正）|6|2024-04-23|2024-01-29|
-|27|[wyqy/TongjiThesis_Proto](https://github.com/wyqy/TongjiThesis_Proto)|同济大学硕博士论文 LaTeX 模板 Tongji-Thesis - 2024 修订|6|2024-05-05|2024-01-20|
-|28|[chenzl23/FZUThesis](https://github.com/chenzl23/FZUThesis)|福州大学博士研究生毕业论文Latex模板|6|2024-03-28|2023-10-17|
-|29|[ydchen0806/24ICM_E_O_Award_Paper_code](https://github.com/ydchen0806/24ICM_E_O_Award_Paper_code)|24美赛E题O奖冠名奖论文和源码|5|2024-05-03|2024-05-03|
-|30|[Andrew82106/MathorcupLatexTemplate](https://github.com/Andrew82106/MathorcupLatexTemplate)|MathorCup 论文Latex模版，可适配Overleaf，使用gbt7714引用文献|5|2024-04-16|2024-04-10|
-|31|[3000ye/dhuBachelor](https://github.com/3000ye/dhuBachelor)|东华大学学士毕业论文latex模板|5|2024-04-15|2023-10-12|
-|32|[YinFengQi/2023-2024_Fall-old](https://github.com/YinFengQi/2023-2024_Fall-old)|仓库已重建, 不再在此推送---个人的笔记|5|2024-02-04|2023-09-19|
-|33|[hereismg/MathematicalModelingEssayTemplate](https://github.com/hereismg/MathematicalModelingEssayTemplate)|全国大学生数学建模专用论文模板。|5|2023-11-05|2023-09-06|
+|24|[GhostCai/bjtu-thesis-dlc](https://github.com/GhostCai/bjtu-thesis-dlc)|BJTU论文latex模板的补充包，包含了2024年的诚信声明以及外文翻译模板|6|2024-04-27|2024-04-27|
+|25|[Jev0987/SZUThesis-2024](https://github.com/Jev0987/SZUThesis-2024)|2024深圳大学毕业论文latex模版|6|2024-02-19|2024-02-19|
+|26|[neuljh/NEU-undergraduate-thesis-LaTeX-template](https://github.com/neuljh/NEU-undergraduate-thesis-LaTeX-template)|这是基于东北大学本科毕业设计论文的LATEX版本|6|2024-02-12|2024-02-12|
+|27|[iamywang/whu-thesis-latex-template](https://github.com/iamywang/whu-thesis-latex-template)|武汉大学博士/硕士学位论文latex模板（包含插图索引、表格索引、中英文缩略语对照、主要符号表等，字体格式以及排版修正）|6|2024-04-23|2024-01-29|
+|28|[wyqy/TongjiThesis_Proto](https://github.com/wyqy/TongjiThesis_Proto)|同济大学硕博士论文 LaTeX 模板 Tongji-Thesis - 2024 修订|6|2024-05-05|2024-01-20|
+|29|[chenzl23/FZUThesis](https://github.com/chenzl23/FZUThesis)|福州大学博士研究生毕业论文Latex模板|6|2024-03-28|2023-10-17|
+|30|[ydchen0806/24ICM_E_O_Award_Paper_code](https://github.com/ydchen0806/24ICM_E_O_Award_Paper_code)|24美赛E题O奖冠名奖论文和源码|5|2024-05-03|2024-05-03|
+|31|[Andrew82106/MathorcupLatexTemplate](https://github.com/Andrew82106/MathorcupLatexTemplate)|MathorCup 论文Latex模版，可适配Overleaf，使用gbt7714引用文献|5|2024-04-16|2024-04-10|
+|32|[3000ye/dhuBachelor](https://github.com/3000ye/dhuBachelor)|东华大学学士毕业论文latex模板|5|2024-04-15|2023-10-12|
+|33|[YinFengQi/2023-2024_Fall-old](https://github.com/YinFengQi/2023-2024_Fall-old)|仓库已重建, 不再在此推送---个人的笔记|5|2024-02-04|2023-09-19|
 |34|[Itst00/APIO2021-monge](https://github.com/Itst00/APIO2021-monge)|APIO2021 中国区《决策单调性与四边形不等式》讲稿|5|2023-12-28|2023-06-14|
 |35|[Melmaphother/ustc-course-resources](https://github.com/Melmaphother/ustc-course-resources)|记录下我在ustc上过的课的课程资源|5|2024-02-26|2023-06-12|
 |36|[ErSanSan233/lecon-typo-translation](https://github.com/ErSanSan233/lecon-typo-translation)|《法文排版小课堂》中文译本|4|2024-03-29|2024-02-13|
