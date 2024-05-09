@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Assembly
-<sub>数据更新: 2024-05-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|56623|15|2024-04-25|
-|2|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6339|6|2024-05-06|
-|3|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10646|2|2024-05-04|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|56637|15|2024-04-25|
+|2|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6345|6|2024-05-07|
+|3|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10653|2|2024-05-07|
 |4|[KristianLi/Assembler_lab_homework](https://github.com/KristianLi/Assembler_lab_homework)|汇编作业|2|0|2023-12-21|
-|5|[Wokann/GBA_Cardcaptor_Sakura_SCdMG_chs](https://github.com/Wokann/GBA_Cardcaptor_Sakura_SCdMG_chs)|Chinese translation patch of GBA game "Cardcaptor Sakura - Sakura Card de Mini Game (Japan)" 魔卡少女樱-小樱牌的迷你游戏|4|0|2023-11-07|
-|6|[mengning/linuxkernel](https://github.com/mengning/linuxkernel)|操作系统导论教学资料、《庖丁解牛Linux内核》配套资料|254|0|2024-04-30|
-|7|[YuS1aN/zhenxun_bot_android_ui](https://github.com/YuS1aN/zhenxun_bot_android_ui)|绪山真寻Bot的Android管理后台|7|0|2024-04-01|
-|8|[STM32-base/STM32-base](https://github.com/STM32-base/STM32-base)|A simple start for any STM32 based project.|332|0|2024-01-18|
-|9|[Wokann/Pokemon_GBA_Font_Patch](https://github.com/Wokann/Pokemon_GBA_Font_Patch)|宝可梦3代GBA汉字字库补丁（增益优化版）|3|0|2024-01-31|
-|10|[VLSMB/CLANNAD-Side-Stories-Hook-Tool](https://github.com/VLSMB/CLANNAD-Side-Stories-Hook-Tool)|CLANNAD外传：被光守护着的坡道（CLANNAD Side Stories） PC汉化版|13|0|2023-11-10|
-|11|[bereal/AdventOfCode2020](https://github.com/bereal/AdventOfCode2020)|Solving Advent of Code 2020, each day in a different language|25|0|2023-12-09|
-|12|[DANNHIROAKI/XJTU-COMP400727-ICS](https://github.com/DANNHIROAKI/XJTU-COMP400727-ICS)|西安交通大学COMP400727计算机系统导论课程|3|0|2024-01-11|
-|13|[JannLeo/Summary-of-learning-experience](https://github.com/JannLeo/Summary-of-learning-experience)|This repository records the summary of my two stages of study as an undergraduate student in 深圳大学计算机科学与技术专业 and as a Master in Embedded Systems Engineering at the University of Leeds（利兹大学嵌入式系统工程专业研究生） ...|2|0|2024-05-06|
-|14|[tokai-student-rocket-project/H-58-Avionics](https://github.com/tokai-student-rocket-project/H-58-Avionics)|H-58搭載計器   2023年度 夏季 能代 NOGO|3|0|2023-11-13|
+|5|[mengning/linuxkernel](https://github.com/mengning/linuxkernel)|操作系统导论教学资料、《庖丁解牛Linux内核》配套资料|254|0|2024-04-30|
+|6|[YuS1aN/zhenxun_bot_android_ui](https://github.com/YuS1aN/zhenxun_bot_android_ui)|绪山真寻Bot的Android管理后台|7|0|2024-04-01|
+|7|[STM32-base/STM32-base](https://github.com/STM32-base/STM32-base)|A simple start for any STM32 based project.|331|0|2024-01-18|
+|8|[Wokann/Pokemon_GBA_Font_Patch](https://github.com/Wokann/Pokemon_GBA_Font_Patch)|宝可梦3代GBA汉字字库补丁（增益优化版）|3|0|2024-01-31|
+|9|[VLSMB/CLANNAD-Side-Stories-Hook-Tool](https://github.com/VLSMB/CLANNAD-Side-Stories-Hook-Tool)|CLANNAD外传：被光守护着的坡道（CLANNAD Side Stories） PC汉化版|13|0|2023-11-10|
+|10|[bereal/AdventOfCode2020](https://github.com/bereal/AdventOfCode2020)|Solving Advent of Code 2020, each day in a different language|25|0|2023-12-09|
+|11|[DANNHIROAKI/XJTU-COMP400727-ICS](https://github.com/DANNHIROAKI/XJTU-COMP400727-ICS)|西安交通大学COMP400727计算机系统导论课程|4|0|2024-01-11|
+|12|[JannLeo/Summary-of-learning-experience](https://github.com/JannLeo/Summary-of-learning-experience)|This repository records the summary of my two stages of study as an undergraduate student in 深圳大学计算机科学与技术专业 and as a Master in Embedded Systems Engineering at the University of Leeds（利兹大学嵌入式系统工程专业研究生） ...|2|0|2024-05-08|
+|13|[tokai-student-rocket-project/H-58-Avionics](https://github.com/tokai-student-rocket-project/H-58-Avionics)|H-58搭載計器   2023年度 夏季 能代 NOGO|3|0|2023-11-13|
+|14|[Z-H-Sun/tswBGM](https://github.com/Z-H-Sun/tswBGM)|Tower of the Sorcerer for Windows Background Music / 魔塔英文原版背景音乐|3|0|2024-04-01|
 |15|[yewentao256/CSAPP_15213](https://github.com/yewentao256/CSAPP_15213)|CMU CSAPP learning; 深入理解计算机系统|7|0|2024-01-14|
 |16|[leomil72/LM80C](https://github.com/leomil72/LM80C)|A Z80-based homebrew computer withTMS9918, AY-3-8910, Z80 CTC, Z80 PIO, and Z80 SIO|95|0|2024-01-13|
 |17|[DongshanPI/DongshanPI-D1s_BareMetal](https://github.com/DongshanPI/DongshanPI-D1s_BareMetal)|国产全志平头哥C906 RISC-V DongshanPI-D1s RV64GVC 裸机示例仓库！|8|0|2024-03-27|

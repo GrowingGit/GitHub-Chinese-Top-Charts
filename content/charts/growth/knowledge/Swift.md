@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Swift
-<sub>数据更新: 2024-05-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|14960|4|2024-01-18|
-|2|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|2216|3|2023-12-31|
-|3|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |5116|3|2024-02-17|
-|4|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|1487|1|2024-04-28|
+|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|14961|4|2024-01-18|
+|2|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|2218|3|2023-12-31|
+|3|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |5122|3|2024-02-17|
+|4|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|1488|1|2024-04-28|
 |5|[ZhongshanHuang/PoReader](https://github.com/ZhongshanHuang/PoReader)|本地小说阅读器，支持深色模式，Wifi传书，代码简洁有注释(local text reader, support dark modal, upload text by wifi)|56|0|2023-12-04|
 |6|[RicardoWesleyli/SwiftUI_Mastery](https://github.com/RicardoWesleyli/SwiftUI_Mastery)|What you might not believe is that this SwiftUI programming book was written by a product manager.|15|0|2024-02-16|
-|7|[crazypoo/PTools](https://github.com/crazypoo/PTools)|iOS开发工具小集合,不定期更新|32|0|2024-05-04|
+|7|[crazypoo/PTools](https://github.com/crazypoo/PTools)|iOS开发工具小集合,不定期更新|32|0|2024-05-08|
 |8|[Lakr233/myyearwithgit](https://github.com/Lakr233/myyearwithgit)|代码仓库年终总结报告。|227|0|2023-12-24|
 |9|[jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example)|SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。|412|0|2024-04-23|
 |10|[dyljqq/DJGithub](https://github.com/dyljqq/DJGithub)|纯Swift搭建的个人的Github客户端。里面也会本地收录一些日常开发中看的博客等。|22|0|2024-04-15|
@@ -30,7 +30,8 @@
 |23|[simplismvip/Ebook](https://github.com/simplismvip/Ebook)|使用Swift写的电纸书阅读器，目前支持epub、txt格式电子书。|16|0|2024-04-09|
 |24|[yungfan/iOS-BasedOnSwift](https://github.com/yungfan/iOS-BasedOnSwift)|iOS开发教程案例代码|35|0|2024-04-18|
 |25|[aruis/BookTime](https://github.com/aruis/BookTime)|做一个安静的读书人|14|0|2024-01-05|
-|26|[rztime/QuicklySwift](https://github.com/rztime/QuicklySwift)|swift 提高UI编写效率，常用方法集合|9|0|2024-04-15|
+|26|[BrightcoveOS/ios-player-samples](https://github.com/BrightcoveOS/ios-player-samples)|A collection of samples for the Brightcove Player SDK for iOS|87|0|2024-05-08|
+|27|[rztime/QuicklySwift](https://github.com/rztime/QuicklySwift)|swift 提高UI编写效率，常用方法集合|9|0|2024-04-15|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
