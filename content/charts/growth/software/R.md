@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2024-05-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[TullyMonster/MendelRookie](https://github.com/TullyMonster/MendelRookie)|新手友好的孟德尔随机化项目|31|2|2024-04-26|
+|1|[TullyMonster/MendelRookie](https://github.com/TullyMonster/MendelRookie)|新手友好的孟德尔随机化项目|33|2|2024-04-26|
 |2|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1743|1|2024-04-26|
 |3|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|60|0|2024-05-08|
 |4|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|40|0|2024-02-27|
@@ -14,7 +14,7 @@
 |7|[ropensci/restez](https://github.com/ropensci/restez)|:sleeping: :open_file_folder: Create and Query a Local Copy of GenBank in R|25|0|2024-04-19|
 |8|[koheiw/LSX](https://github.com/koheiw/LSX)|Semi-supervised algorithm for document scaling|54|0|2024-03-05|
 |9|[MatthewSmith430/CompaniesHouse](https://github.com/MatthewSmith430/CompaniesHouse)|This package allows to extract data from the Companies House API and create interlocking directorates networks|25|0|2024-01-19|
-|10|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|18|0|2024-03-19|
+|10|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|19|0|2024-03-19|
 |11|[eco-hydro/phenofit](https://github.com/eco-hydro/phenofit)|R package: A state-of-the-art Vegetation Phenology extraction package, phenofit|67|0|2024-01-23|
 |12|[wilkox/treemapify](https://github.com/wilkox/treemapify)|🌳 Draw treemaps in ggplot2|210|0|2024-04-14|
 |13|[sascha2schroeder/popEye](https://github.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|20|0|2024-05-01|
@@ -24,8 +24,8 @@
 |17|[ykang/gratis](https://github.com/ykang/gratis)|GRATIS: GeneRAting TIme Series with diverse and controllable characteristics|76|0|2024-04-08|
 |18|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|275|0|2024-04-19|
 |19|[ECMWFCode4Earth/UNSEEN-open](https://github.com/ECMWFCode4Earth/UNSEEN-open)|An open, reproducible and transferable workflow to assess and anticipate climate extremes beyond the observed record|16|0|2024-04-01|
-|20|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|466|0|2024-05-03|
-|21|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|579|0|2024-05-07|
+|20|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|467|0|2024-05-03|
+|21|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|580|0|2024-05-07|
 |22|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|98|0|2024-01-13|
 |23|[gee-hydro/gee_whittaker_kong2019_validation](https://github.com/gee-hydro/gee_whittaker_kong2019_validation)|Non-parametric weighted Whittaker smoothing|31|0|2024-04-11|
 |24|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|20|0|2024-02-16|
