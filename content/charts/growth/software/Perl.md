@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Perl
-<sub>数据更新: 2024-05-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -14,8 +14,8 @@
 |7|[isi-nlp/uroman](https://github.com/isi-nlp/uroman)|Universal Romanizer that can convert any unicode script to roman (latin) script|118|0|2024-04-23|
 |8|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|432|0|2024-05-01|
 |9|[TheBeastofwar/linuxhacker](https://github.com/TheBeastofwar/linuxhacker)|一款linux 内网渗透辅助工具|47|0|2024-01-31|
-|10|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|277|0|2024-05-10|
-|11|[webmin/authentic-theme](https://github.com/webmin/authentic-theme)|Official theme for the best server management panel of the 21st Century|941|0|2024-05-10|
+|10|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|277|0|2024-05-11|
+|11|[webmin/authentic-theme](https://github.com/webmin/authentic-theme)|Official theme for the best server management panel of the 21st Century|941|0|2024-05-11|
 |12|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|67|0|2024-03-30|
 |13|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|305|0|2024-04-08|
 |14|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|392|0|2024-02-09|
@@ -23,16 +23,17 @@
 |16|[g0v/people-in-news](https://github.com/g0v/people-in-news)|公眾人物新聞的追蹤|17|0|2024-05-04|
 |17|[hn/reolink-camera](https://github.com/hn/reolink-camera)|Reolink RLC-410-5MP IP camera reverse engineered technical details|138|0|2024-02-11|
 |18|[electricface/script-tool](https://github.com/electricface/script-tool)|简单的脚本工具|4|0|2023-11-14|
-|19|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1250|0|2024-02-12|
-|20|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|94|0|2024-05-10|
+|19|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1249|0|2024-02-12|
+|20|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|94|0|2024-05-11|
 |21|[esrrhs/pLua](https://github.com/esrrhs/pLua)|Lua 性能分析工具 Lua profiler tool like gperftools|83|0|2024-04-23|
 |22|[openresty/lua-tablepool](https://github.com/openresty/lua-tablepool)|Lua table recycling pools for LuaJIT|112|0|2023-11-23|
-|23|[Gilwyad/mailnesia.com](https://github.com/Gilwyad/mailnesia.com)|Anonymous Email in Seconds|100|0|2024-03-21|
-|24|[fimreal/dockerfiles](https://github.com/fimreal/dockerfiles)|容器化小工具|3|0|2024-01-22|
-|25|[Forensax/ExportDeletedFiles](https://github.com/Forensax/ExportDeletedFiles)|基于SleuthKit套件的删除文件恢复工具，支持恢复DD、E01、AFF镜像文件中NTFS系统的已删除文件|2|0|2024-03-05|
-|26|[jyi2ya/HUST-Chifan](https://github.com/jyi2ya/HUST-Chifan)|什么时候开饭？|6|0|2023-12-05|
-|27|[shangshanzhizhe/Work_flow_of_population_genetics](https://github.com/shangshanzhizhe/Work_flow_of_population_genetics)|整理常用的群体遗传学分析流程和脚本|80|0|2024-03-14|
-|28|[abbypan/deal_youtube_playlist](https://github.com/abbypan/deal_youtube_playlist)|批量下载youtube播放列表内容，并生成xspf播放列表|6|0|2023-12-16|
+|23|[gmd20/exercises](https://github.com/gmd20/exercises)|写过一些练习或者小工具，小代码片段等|4|0|2024-05-11|
+|24|[Gilwyad/mailnesia.com](https://github.com/Gilwyad/mailnesia.com)|Anonymous Email in Seconds|100|0|2024-03-21|
+|25|[fimreal/dockerfiles](https://github.com/fimreal/dockerfiles)|容器化小工具|3|0|2024-01-22|
+|26|[Forensax/ExportDeletedFiles](https://github.com/Forensax/ExportDeletedFiles)|基于SleuthKit套件的删除文件恢复工具，支持恢复DD、E01、AFF镜像文件中NTFS系统的已删除文件|2|0|2024-03-05|
+|27|[jyi2ya/HUST-Chifan](https://github.com/jyi2ya/HUST-Chifan)|什么时候开饭？|6|0|2023-12-05|
+|28|[shangshanzhizhe/Work_flow_of_population_genetics](https://github.com/shangshanzhizhe/Work_flow_of_population_genetics)|整理常用的群体遗传学分析流程和脚本|80|0|2024-03-14|
+|29|[abbypan/deal_youtube_playlist](https://github.com/abbypan/deal_youtube_playlist)|批量下载youtube播放列表内容，并生成xspf播放列表|6|0|2023-12-16|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
