@@ -1,68 +1,67 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Vim script
-<sub>数据更新: 2024-05-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20131|7|2024-04-04|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8591|2|2024-04-23|
-|3|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1687|1|2024-02-22|
+|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20128|7|2024-04-04|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8593|2|2024-04-23|
+|3|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1689|1|2024-02-22|
 |4|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer. 最实用的vim配置🔥|1552|1|2024-05-08|
-|5|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1820|1|2024-03-22|
+|5|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1820|1|2024-05-13|
 |6|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|882|1|2023-12-11|
-|7|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4888|1|2023-11-16|
+|7|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4889|1|2023-11-16|
 |8|[ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)|vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files|198|0|2024-04-17|
 |9|[bilibili/vim-vide](https://github.com/bilibili/vim-vide)|Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！|782|0|2024-04-20|
 |10|[Yidadaa/Oh-My-Dotfiles](https://github.com/Yidadaa/Oh-My-Dotfiles)|一键配置linux环境，简单粗暴|7|0|2024-01-12|
 |11|[yszou/env](https://github.com/yszou/env)|我平时使用的环境的配置文件|5|0|2024-05-08|
 |12|[wkcn/MyVimConfig](https://github.com/wkcn/MyVimConfig)|我的Vim配置文件|4|0|2024-01-16|
 |13|[anzhihe/Efficient-office](https://github.com/anzhihe/Efficient-office)|Alfred-Workflows，Vim，Script，Mac|57|0|2024-02-20|
-|14|[IammyselfYBX/.vim](https://github.com/IammyselfYBX/.vim)|我的(neo)vim配置|55|0|2024-04-29|
+|14|[IammyselfYBX/.vim](https://github.com/IammyselfYBX/.vim)|我的(neo)vim配置|53|0|2024-05-13|
 |15|[Hyvi/dotfiles](https://github.com/Hyvi/dotfiles)|vim配置|3|0|2023-12-06|
 |16|[zweix123/win-config](https://github.com/zweix123/win-config)|让你的win机器有媲美Unix命令行的体验|4|0|2024-02-29|
 |17|[Gerchart-GXT/myscripts](https://github.com/Gerchart-GXT/myscripts)|这里是本人写的一些有用的脚本|3|0|2024-01-08|
-|18|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|899|0|2024-05-11|
-|19|[yuesong-feng/EasyVim](https://github.com/yuesong-feng/EasyVim)|简单易用的vim配置|8|0|2023-11-11|
-|20|[terrytangyuan/dotfiles](https://github.com/terrytangyuan/dotfiles)|Personal bootstrapping dotfiles |7|0|2024-03-25|
-|21|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|889|0|2024-04-07|
-|22|[superproj/vimrc](https://github.com/superproj/vimrc)|我的 Go Vim IDE 配置（vimrc）|2|0|2024-01-31|
-|23|[ZSaberLv0/ZFVimIM_pinyin](https://github.com/ZSaberLv0/ZFVimIM_pinyin)|vim拼音输入法 / pinyin for ZFVimIM|3|0|2024-01-12|
-|24|[xu-chaojie/VIM](https://github.com/xu-chaojie/VIM)|精简vim配置，精简插件，只保留必要设置，并添加注释，不修改vim原有快捷键|8|0|2024-04-30|
-|25|[skywind3000/vim-dict](https://github.com/skywind3000/vim-dict)|没办法，被逼的，重新整理一个词典补全的数据库|57|0|2023-11-28|
-|26|[owner888/vimer](https://github.com/owner888/vimer)|vim editor|11|0|2024-02-29|
-|27|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|400|0|2024-04-15|
-|28|[Meng-Xin/take-out](https://github.com/Meng-Xin/take-out)|苍穹外卖 Golang，一个规范化的Gin项目开发实例。|52|0|2024-03-17|
-|29|[keminar/linux-tools](https://github.com/keminar/linux-tools)|系统安装,日常Shell工具|3|0|2024-01-05|
-|30|[feix760/yuan](https://github.com/feix760/yuan)|用户配置文件 vim|9|0|2023-12-20|
-|31|[haopengmai/dianping](https://github.com/haopengmai/dianping)|黑马点评项目优化，新增消息队列RabbitMQ，令牌桶限流实现优惠券秒杀，用户登录限流(redis实现滑动窗口)等功能|27|0|2023-11-18|
-|32|[qiqiboy/q-vim](https://github.com/qiqiboy/q-vim)|my vim config. 来自一个前端开发码农的vim配置方案|33|0|2023-11-27|
-|33|[lilydjwg/dotvim](https://github.com/lilydjwg/dotvim)|My vim config|280|0|2024-03-31|
-|34|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|277|0|2024-04-21|
-|35|[lululxvi/oh-my-linux-apps](https://github.com/lululxvi/oh-my-linux-apps)|My list of essential Linux applications.|21|0|2024-03-12|
-|36|[Fechin/oh-my-vim](https://github.com/Fechin/oh-my-vim)|vim 私人配置|27|0|2024-01-31|
-|37|[ZSaberLv0/ZFVimIM_pinyin_base](https://github.com/ZSaberLv0/ZFVimIM_pinyin_base)|vim拼音输入法 / pinyin for ZFVimIM|6|0|2024-02-22|
-|38|[andrewintw/rpi-video-sync-looper](https://github.com/andrewintw/rpi-video-sync-looper)|A video synchronization looping system built on Raspberry Pi. 一個運行於 Raspberry Pi 的影片同步循環播放系統|9|0|2023-12-04|
-|39|[LongYinStudio/dotfiles](https://github.com/LongYinStudio/dotfiles)|自己linux、macos的配置文件(zsh、(neo)vim等等)|2|0|2024-03-17|
-|40|[Genki-S/dotfiles](https://github.com/Genki-S/dotfiles)|My lovely settings.|23|0|2024-04-04|
-|41|[dofy/7th-vim](https://github.com/dofy/7th-vim)|安装简单，轻量、易用、高可配置性。 Lightweight & Customizable Vim configuration options.|102|0|2023-11-25|
-|42|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|11|0|2024-05-05|
-|43|[marslo/myvim](https://github.com/marslo/myvim)|My Vim configuratons |15|0|2024-05-02|
-|44|[cnsworder/dev_init](https://github.com/cnsworder/dev_init)|开发环境初始化 vim+emacs+python|9|0|2024-01-30|
-|45|[rongyi/dotfile](https://github.com/rongyi/dotfile)|zsh/tmux/vim/mplayer配置文件|5|0|2024-02-26|
-|46|[gou4shi1/.vim](https://github.com/gou4shi1/.vim)|My Vim|15|0|2024-04-09|
-|47|[Karmenzind/vim-tmuxlike](https://github.com/Karmenzind/vim-tmuxlike)|A vim plugin that mimics the actions of tmux. Control buffers and tabs like tmux panes.|19|0|2023-12-02|
-|48|[crazyhulk/Vim](https://github.com/crazyhulk/Vim)|vim插件|2|0|2024-04-17|
-|49|[webeautiful/xiongfs](https://github.com/webeautiful/xiongfs)|-|3|0|2024-03-12|
-|50|[lemon0910/lemon-vim](https://github.com/lemon0910/lemon-vim)|lemon's config for vim and neovim.|23|0|2024-03-28|
-|51|[xiaodun/sf-mock](https://github.com/xiaodun/sf-mock)|前端mock接口解决方案|4|0|2024-01-05|
-|52|[lyokha/vim-xkbswitch](https://github.com/lyokha/vim-xkbswitch)|vim plugin for automatic keyboard layout switching in insert mode|474|0|2024-03-12|
-|53|[niming175/myVim](https://github.com/niming175/myVim)|我的vim配置|5|0|2024-05-08|
-|54|[Wujidadi/Ubuntu-RC](https://github.com/Wujidadi/Ubuntu-RC)|Ubuntu（其他 Unix/Linux 可能適用）環境中使用的 run commands|4|0|2024-03-21|
-|55|[sillybun/vim-repl](https://github.com/sillybun/vim-repl)|Best REPL environment for Vim|435|0|2024-01-16|
-|56|[chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast)|A very fast Vim repository for C/C++,Go,Python,Rust|74|0|2024-05-09|
-|57|[mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)|A vim 7.4+ plugin to generate table of contents for Markdown files.|596|0|2024-04-15|
-|58|[Moe-sushi/termux-neovim](https://github.com/Moe-sushi/termux-neovim)|Neovim config file of termux.|9|0|2024-01-23|
+|18|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|900|0|2024-05-13|
+|19|[terrytangyuan/dotfiles](https://github.com/terrytangyuan/dotfiles)|Personal bootstrapping dotfiles |7|0|2024-03-25|
+|20|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|890|0|2024-05-13|
+|21|[superproj/vimrc](https://github.com/superproj/vimrc)|我的 Go Vim IDE 配置（vimrc）|2|0|2024-01-31|
+|22|[ZSaberLv0/ZFVimIM_pinyin](https://github.com/ZSaberLv0/ZFVimIM_pinyin)|vim拼音输入法 / pinyin for ZFVimIM|3|0|2024-01-12|
+|23|[xu-chaojie/VIM](https://github.com/xu-chaojie/VIM)|精简vim配置，精简插件，只保留必要设置，并添加注释，不修改vim原有快捷键|8|0|2024-04-30|
+|24|[skywind3000/vim-dict](https://github.com/skywind3000/vim-dict)|没办法，被逼的，重新整理一个词典补全的数据库|57|0|2023-11-28|
+|25|[owner888/vimer](https://github.com/owner888/vimer)|vim editor|11|0|2024-02-29|
+|26|[jayli/vim-easycomplete](https://github.com/jayli/vim-easycomplete)|杭州市余杭区最好用的 VIM/NVIM 代码补全插件|400|0|2024-04-15|
+|27|[Meng-Xin/take-out](https://github.com/Meng-Xin/take-out)|苍穹外卖 Golang，一个规范化的Gin项目开发实例。|52|0|2024-03-17|
+|28|[keminar/linux-tools](https://github.com/keminar/linux-tools)|系统安装,日常Shell工具|3|0|2024-01-05|
+|29|[feix760/yuan](https://github.com/feix760/yuan)|用户配置文件 vim|9|0|2023-12-20|
+|30|[haopengmai/dianping](https://github.com/haopengmai/dianping)|黑马点评项目优化，新增消息队列RabbitMQ，令牌桶限流实现优惠券秒杀，用户登录限流(redis实现滑动窗口)等功能|29|0|2023-11-18|
+|31|[qiqiboy/q-vim](https://github.com/qiqiboy/q-vim)|my vim config. 来自一个前端开发码农的vim配置方案|33|0|2023-11-27|
+|32|[lilydjwg/dotvim](https://github.com/lilydjwg/dotvim)|My vim config|280|0|2024-05-13|
+|33|[derekhe/msfs2020-google-map](https://github.com/derekhe/msfs2020-google-map)|Replace MSFS2020's bing map to google map|277|0|2024-04-21|
+|34|[lululxvi/oh-my-linux-apps](https://github.com/lululxvi/oh-my-linux-apps)|My list of essential Linux applications.|22|0|2024-03-12|
+|35|[Fechin/oh-my-vim](https://github.com/Fechin/oh-my-vim)|vim 私人配置|27|0|2024-01-31|
+|36|[ZSaberLv0/ZFVimIM_pinyin_base](https://github.com/ZSaberLv0/ZFVimIM_pinyin_base)|vim拼音输入法 / pinyin for ZFVimIM|6|0|2024-02-22|
+|37|[andrewintw/rpi-video-sync-looper](https://github.com/andrewintw/rpi-video-sync-looper)|A video synchronization looping system built on Raspberry Pi. 一個運行於 Raspberry Pi 的影片同步循環播放系統|9|0|2023-12-04|
+|38|[LongYinStudio/dotfiles](https://github.com/LongYinStudio/dotfiles)|自己linux、macos的配置文件(zsh、(neo)vim等等)|2|0|2024-03-17|
+|39|[Genki-S/dotfiles](https://github.com/Genki-S/dotfiles)|My lovely settings.|23|0|2024-04-04|
+|40|[dofy/7th-vim](https://github.com/dofy/7th-vim)|安装简单，轻量、易用、高可配置性。 Lightweight & Customizable Vim configuration options.|102|0|2023-11-25|
+|41|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|11|0|2024-05-05|
+|42|[marslo/myvim](https://github.com/marslo/myvim)|My Vim configuratons |15|0|2024-05-02|
+|43|[cnsworder/dev_init](https://github.com/cnsworder/dev_init)|开发环境初始化 vim+emacs+python|9|0|2024-01-30|
+|44|[rongyi/dotfile](https://github.com/rongyi/dotfile)|zsh/tmux/vim/mplayer配置文件|5|0|2024-02-26|
+|45|[gou4shi1/.vim](https://github.com/gou4shi1/.vim)|My Vim|15|0|2024-04-09|
+|46|[Karmenzind/vim-tmuxlike](https://github.com/Karmenzind/vim-tmuxlike)|A vim plugin that mimics the actions of tmux. Control buffers and tabs like tmux panes.|19|0|2023-12-02|
+|47|[crazyhulk/Vim](https://github.com/crazyhulk/Vim)|vim插件|2|0|2024-04-17|
+|48|[webeautiful/xiongfs](https://github.com/webeautiful/xiongfs)|-|3|0|2024-03-12|
+|49|[lemon0910/lemon-vim](https://github.com/lemon0910/lemon-vim)|lemon's config for vim and neovim.|23|0|2024-03-28|
+|50|[xiaodun/sf-mock](https://github.com/xiaodun/sf-mock)|前端mock接口解决方案|4|0|2024-01-05|
+|51|[lyokha/vim-xkbswitch](https://github.com/lyokha/vim-xkbswitch)|vim plugin for automatic keyboard layout switching in insert mode|474|0|2024-03-12|
+|52|[niming175/myVim](https://github.com/niming175/myVim)|我的vim配置|5|0|2024-05-08|
+|53|[Wujidadi/Ubuntu-RC](https://github.com/Wujidadi/Ubuntu-RC)|Ubuntu（其他 Unix/Linux 可能適用）環境中使用的 run commands|4|0|2024-03-21|
+|54|[sillybun/vim-repl](https://github.com/sillybun/vim-repl)|Best REPL environment for Vim|435|0|2024-01-16|
+|55|[chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast)|A very fast Vim repository for C/C++,Go,Python,Rust|74|0|2024-05-09|
+|56|[mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)|A vim 7.4+ plugin to generate table of contents for Markdown files.|597|0|2024-04-15|
+|57|[Moe-sushi/termux-neovim](https://github.com/Moe-sushi/termux-neovim)|Neovim config file of termux.|9|0|2024-01-23|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
