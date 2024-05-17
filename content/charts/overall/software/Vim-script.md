@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Vim script
-<sub>数据更新: 2024-05-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20126|2024-04-04|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8593|2024-04-23|
-|3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4889|2023-11-16|
+|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A community-driven modular vim/neovim distribution - The ultimate vimrc|20127|2024-04-04|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8591|2024-04-23|
+|3|[wklken/k-vim](https://github.com/wklken/k-vim)|vim配置|4890|2023-11-16|
 |4|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1819|2024-05-14|
 |5|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1691|2024-02-22|
-|6|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer. 最实用的vim配置🔥|1553|2024-05-08|
+|6|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer. 最实用的vim配置🔥|1555|2024-05-08|
 |7|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|900|2024-05-13|
 |8|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|890|2024-05-13|
 |9|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|882|2023-12-11|
@@ -26,11 +26,11 @@
 |19|[chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast)|A very fast Vim repository for C/C++,Go,Python,Rust|74|2024-05-09|
 |20|[skywind3000/vim-dict](https://github.com/skywind3000/vim-dict)|没办法，被逼的，重新整理一个词典补全的数据库|57|2023-11-28|
 |21|[anzhihe/Efficient-office](https://github.com/anzhihe/Efficient-office)|Alfred-Workflows，Vim，Script，Mac|57|2024-02-20|
-|22|[IammyselfYBX/.vim](https://github.com/IammyselfYBX/.vim)|我的(neo)vim配置|54|2024-05-15|
+|22|[IammyselfYBX/.vim](https://github.com/IammyselfYBX/.vim)|我的(neo)vim配置|56|2024-05-15|
 |23|[Meng-Xin/take-out](https://github.com/Meng-Xin/take-out)|苍穹外卖 Golang，一个规范化的Gin项目开发实例。|52|2024-03-17|
 |24|[apemost/vimrc](https://github.com/apemost/vimrc)|A simple but powerful vim configuration|40|2024-05-15|
-|25|[qiqiboy/q-vim](https://github.com/qiqiboy/q-vim)|my vim config. 来自一个前端开发码农的vim配置方案|33|2023-11-27|
-|26|[haopengmai/dianping](https://github.com/haopengmai/dianping)|黑马点评项目优化，新增消息队列RabbitMQ，令牌桶限流实现优惠券秒杀，用户登录限流(redis实现滑动窗口)等功能|31|2023-11-18|
+|25|[haopengmai/dianping](https://github.com/haopengmai/dianping)|黑马点评项目优化，新增消息队列RabbitMQ，令牌桶限流实现优惠券秒杀，用户登录限流(redis实现滑动窗口)等功能|34|2023-11-18|
+|26|[qiqiboy/q-vim](https://github.com/qiqiboy/q-vim)|my vim config. 来自一个前端开发码农的vim配置方案|33|2023-11-27|
 |27|[Fechin/oh-my-vim](https://github.com/Fechin/oh-my-vim)|vim 私人配置|27|2024-01-31|
 |28|[lemon0910/lemon-vim](https://github.com/lemon0910/lemon-vim)|lemon's config for vim and neovim.|23|2024-03-28|
 |29|[Genki-S/dotfiles](https://github.com/Genki-S/dotfiles)|My lovely settings.|23|2024-04-04|
@@ -38,9 +38,9 @@
 |31|[Karmenzind/vim-tmuxlike](https://github.com/Karmenzind/vim-tmuxlike)|A vim plugin that mimics the actions of tmux. Control buffers and tabs like tmux panes.|19|2023-12-02|
 |32|[gou4shi1/.vim](https://github.com/gou4shi1/.vim)|My Vim|15|2024-04-09|
 |33|[marslo/myvim](https://github.com/marslo/myvim)|My Vim configuratons |15|2024-05-02|
-|34|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|11|2024-05-05|
-|35|[owner888/vimer](https://github.com/owner888/vimer)|vim editor|11|2024-02-29|
-|36|[IammyselfYBX/vim-rainbow](https://github.com/IammyselfYBX/vim-rainbow)|彩虹效果的 Vim 插件|9|2024-05-15|
+|34|[IammyselfYBX/vim-rainbow](https://github.com/IammyselfYBX/vim-rainbow)|彩虹效果的 Vim 插件|11|2024-05-15|
+|35|[ikenox/dotfiles](https://github.com/ikenox/dotfiles)|my dotfiles|11|2024-05-05|
+|36|[owner888/vimer](https://github.com/owner888/vimer)|vim editor|11|2024-02-29|
 |37|[andrewintw/rpi-video-sync-looper](https://github.com/andrewintw/rpi-video-sync-looper)|A video synchronization looping system built on Raspberry Pi. 一個運行於 Raspberry Pi 的影片同步循環播放系統|9|2023-12-04|
 |38|[Moe-sushi/termux-neovim](https://github.com/Moe-sushi/termux-neovim)|Neovim config file of termux.|9|2024-01-23|
 |39|[feix760/yuan](https://github.com/feix760/yuan)|用户配置文件 vim|9|2023-12-20|
@@ -61,9 +61,10 @@
 |54|[keminar/linux-tools](https://github.com/keminar/linux-tools)|系统安装,日常Shell工具|3|2024-01-05|
 |55|[webeautiful/xiongfs](https://github.com/webeautiful/xiongfs)|-|3|2024-03-12|
 |56|[Hyvi/dotfiles](https://github.com/Hyvi/dotfiles)|vim配置|3|2023-12-06|
-|57|[superproj/vimrc](https://github.com/superproj/vimrc)|我的 Go Vim IDE 配置（vimrc）|2|2024-01-31|
-|58|[LongYinStudio/dotfiles](https://github.com/LongYinStudio/dotfiles)|自己linux、macos的配置文件(zsh、(neo)vim等等)|2|2024-03-17|
-|59|[crazyhulk/Vim](https://github.com/crazyhulk/Vim)|vim插件|2|2024-04-17|
+|57|[IammyselfYBX/termdebug](https://github.com/IammyselfYBX/termdebug)|vim终端调试|2|2024-05-13|
+|58|[superproj/vimrc](https://github.com/superproj/vimrc)|我的 Go Vim IDE 配置（vimrc）|2|2024-01-31|
+|59|[LongYinStudio/dotfiles](https://github.com/LongYinStudio/dotfiles)|自己linux、macos的配置文件(zsh、(neo)vim等等)|2|2024-03-17|
+|60|[crazyhulk/Vim](https://github.com/crazyhulk/Vim)|vim插件|2|2024-04-17|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
