@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > PHP
-<sub>数据更新: 2024-05-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[gptlink/gptlink](https://github.com/gptlink/gptlink)|10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能|2594|2024-03-27|2023-05-22|
-|2|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的高性能面板|894|2024-05-17|2023-11-14|
+|1|[gptlink/gptlink](https://github.com/gptlink/gptlink)|10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能|2595|2024-03-27|2023-05-22|
+|2|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的高性能面板|896|2024-05-17|2023-11-14|
 |3|[icewolf-sec/PerlinPuzzle-Webshell-PHP](https://github.com/icewolf-sec/PerlinPuzzle-Webshell-PHP)|使用分支对抗技术制作的PHP Webshell，截止2024年1月18日，共数十个查杀引擎免杀|236|2024-01-19|2024-01-19|
-|4|[xiaoxuan6/SMSBombing](https://github.com/xiaoxuan6/SMSBombing)|短信轰炸|198|2024-05-18|2023-07-19|
+|4|[xiaoxuan6/SMSBombing](https://github.com/xiaoxuan6/SMSBombing)|短信轰炸|203|2024-05-18|2023-07-19|
 |5|[netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr)|彩虹聚合DNS管理系统|168|2024-05-10|2024-04-03|
 |6|[chengxs1994/ChatGPT-SDImg-Web](https://github.com/chengxs1994/ChatGPT-SDImg-Web)|基于ChatGPT-Next-Web，集成SD webui AI绘图，实现注册登录，次数限制，充值，分享等功能|151|2024-01-03|2023-06-01|
 |7|[huhexian/2012-huhexian](https://github.com/huhexian/2012-huhexian)|一个基于 Twenty Twelve 修改的 WordPress 双栏文字主题|100|2023-12-30|2023-06-08|
@@ -25,17 +25,16 @@
 |18|[Hyizhou1/trx](https://github.com/Hyizhou1/trx)|tg机器人 trx兑换、能量租赁、trx闪兑自动回能量、商城、地址监听、会员24小时自助购买，TG验群机器人，TG引流机器人，TG算账机器人，TG代摇快三牛牛推机器人 -完整功能 https://t.me/hongsx|56|2024-04-23|2024-02-19|
 |19|[PearNoDec/DouYinParse](https://github.com/PearNoDec/DouYinParse)|抖音短视频去水印解析API - PHP|52|2024-02-28|2023-09-06|
 |20|[TGsuoyin/trx](https://github.com/TGsuoyin/trx)|TG机器人 波场TRON能量租赁机器人、TRX能量自助租赁、TRX兑换、自动回能量、商城、地址监听、会员24小时自助购买 -完整功能 https://t.me/trxdhV|47|2024-04-26|2024-01-20|
-|21|[Cassianvale/dujiaoka-mcq](https://github.com/Cassianvale/dujiaoka-mcq)|🦄 新版本独角数卡-优雅开源的自动售货系统|44|2023-11-23|2023-05-20|
-|22|[imjeff/wordpress-dear](https://github.com/imjeff/wordpress-dear)|WordPress 极极简主题 Dear，无 JS、CSS 文件载入，无分页，无评论，对程序极简优化。复刻 Bearblog 主题。|42|2023-12-13|2023-11-30|
-|23|[aazooo/zjmf-manger-decoded](https://github.com/aazooo/zjmf-manger-decoded)|魔方财务系统全解密版|42|2024-01-08|2023-08-25|
+|21|[imjeff/wordpress-dear](https://github.com/imjeff/wordpress-dear)|WordPress 极极简主题 Dear，无 JS、CSS 文件载入，无分页，无评论，对程序极简优化。复刻 Bearblog 主题。|42|2023-12-13|2023-11-30|
+|22|[aazooo/zjmf-manger-decoded](https://github.com/aazooo/zjmf-manger-decoded)|魔方财务系统全解密版|42|2024-01-08|2023-08-25|
+|23|[saithink/saiadmin](https://github.com/saithink/saiadmin)|SaiAdmin框架后端|41|2024-05-17|2024-01-20|
 |24|[airmb/airxyz](https://github.com/airmb/airxyz)|air.airxyz.xyz 空气面板 服务器运维监控 AppleID自动解锁 删除手机绑定 自动修改密码|41|2024-01-21|2023-07-23|
 |25|[whitebearcode/typecho-beargallery](https://github.com/whitebearcode/typecho-beargallery)|一款简洁优雅的Typecho摄影类相册主题|40|2024-04-14|2024-04-10|
-|26|[saithink/saiadmin](https://github.com/saithink/saiadmin)|SaiAdmin框架后端|40|2024-05-17|2024-01-20|
-|27|[ScarletDor/typecho_theme_sunny](https://github.com/ScarletDor/typecho_theme_sunny)|极致流畅的Typecho主题Sunny的开源版本|34|2023-11-26|2023-10-04|
-|28|[520yxl/Aliyundrive_Refresh_Token_php](https://github.com/520yxl/Aliyundrive_Refresh_Token_php)|根据阿里云盘开发者api获取Refresh Token|32|2024-01-02|2023-06-15|
-|29|[jrotty/Zevideo](https://github.com/jrotty/Zevideo)|Typecho开源视频主题|25|2024-01-05|2023-06-10|
-|30|[ycs77/ycsplayer](https://github.com/ycs77/ycsplayer)|線上影音點播包廂🖥️ 跟遠端的朋友們一起同步觀賞影片或聽歌~✨|21|2024-01-20|2023-08-15|
-|31|[lineim/fadetask](https://github.com/lineim/fadetask)|An open-source kanban project implemented using PHP and VUE2.  php(webman) + vue2 实现的开源看板项目。支持项目、看板、自定义字段、到期通知等特性。|19|2023-12-15|2023-11-14|
+|26|[ScarletDor/typecho_theme_sunny](https://github.com/ScarletDor/typecho_theme_sunny)|极致流畅的Typecho主题Sunny的开源版本|34|2023-11-26|2023-10-04|
+|27|[520yxl/Aliyundrive_Refresh_Token_php](https://github.com/520yxl/Aliyundrive_Refresh_Token_php)|根据阿里云盘开发者api获取Refresh Token|32|2024-01-02|2023-06-15|
+|28|[jrotty/Zevideo](https://github.com/jrotty/Zevideo)|Typecho开源视频主题|25|2024-01-05|2023-06-10|
+|29|[ycs77/ycsplayer](https://github.com/ycs77/ycsplayer)|線上影音點播包廂🖥️ 跟遠端的朋友們一起同步觀賞影片或聽歌~✨|21|2024-01-20|2023-08-15|
+|30|[lineim/fadetask](https://github.com/lineim/fadetask)|An open-source kanban project implemented using PHP and VUE2.  php(webman) + vue2 实现的开源看板项目。支持项目、看板、自定义字段、到期通知等特性。|19|2023-12-15|2023-11-14|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

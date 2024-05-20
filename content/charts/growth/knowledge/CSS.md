@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > CSS
-<sub>数据更新: 2024-05-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1190|7|2024-05-10|
-|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|19015|7|2024-05-17|
+|1|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1192|7|2024-05-10|
+|2|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|19019|7|2024-05-17|
 |3|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|21010|6|2024-04-24|
 |4|[rustx-labs/effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn)|Effective Rust 中文版|170|5|2024-05-16|
-|5|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5428|2|2024-05-14|
-|6|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8987|2|2024-04-09|
-|7|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4933|2|2024-01-18|
+|5|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5430|2|2024-05-14|
+|6|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|8988|2|2024-04-09|
+|7|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4936|2|2024-01-18|
 |8|[QiShaoXuan/css_tricks](https://github.com/QiShaoXuan/css_tricks)|Some CSS tricks - 一些 CSS 常用样式|3975|2|2023-12-05|
-|9|[lin-xin/blog](https://github.com/lin-xin/blog)|林鑫的个人博客，用于总结平时工作和学习中的经验。|1772|1|2024-01-20|
+|9|[lin-xin/blog](https://github.com/lin-xin/blog)|林鑫的个人博客，用于总结平时工作和学习中的经验。|1773|1|2024-01-20|
 |10|[fuzhengwei/itstack-demo-netty](https://github.com/fuzhengwei/itstack-demo-netty)|微信公众号：bugstack虫洞栈   专注于原创开发专题案例。跟着案例学Netty，Netty4.x案例从简单入门到应用实战，全篇37章节优秀案例+实战源码[基础篇(13)、中级篇(13)、高级篇(3章+)、源码分析篇]，以上章节全部完成并不断持续更新中。欢迎关注公众号：bugstack虫洞栈   阅读专题文章+调试案例源码学习｛回复netty案例｝。|699|0|2024-04-16|
 |11|[LychApe/DreamCat](https://github.com/LychApe/DreamCat)|DreamCat 是一个极简自适应博客主题,年轻人追梦良品!|275|0|2024-05-04|
 |12|[MR-Addict/Doc-Share](https://github.com/MR-Addict/Doc-Share)|南京工业大学校大学生科协技术部电子组培训学习文档|16|0|2024-02-14|
@@ -26,16 +26,16 @@
 |19|[StarDustSheep/pink-room](https://github.com/StarDustSheep/pink-room)|一款思源笔记白天使用的粉色系主题|17|0|2024-02-09|
 |20|[whidy/UnoCSS-Study-Examples](https://github.com/whidy/UnoCSS-Study-Examples)|自己学习UnoCSS，并准备进行内部前端团队内部分享的资料，包含了许多关于UnoCSS实践的思考|9|0|2024-01-16|
 |21|[lewton/bilibili-public](https://github.com/lewton/bilibili-public)|b站代码示例代码合集|37|0|2024-04-19|
-|22|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|686|0|2024-02-09|
+|22|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|687|0|2024-02-09|
 |23|[leedom92/hexo-theme-leedom](https://github.com/leedom92/hexo-theme-leedom)|🎨「仿照尤雨溪博客的简洁的Hexo主题」A pure theme of Hexo like Evan You's blog|39|0|2024-04-14|
 |24|[YSGStudyHards/EasySQLite](https://github.com/YSGStudyHards/EasySQLite)|七天.NET 8操作SQLite入门到实战详细教程|7|0|2023-11-27|
 |25|[Dreamer-Paul/Hingle](https://github.com/Dreamer-Paul/Hingle)|🎈 一个简洁大气，含夜间模式的 Hexo 博客主题|59|0|2024-02-09|
 |26|[apachecn/quant-learning](https://github.com/apachecn/quant-learning)|:books: Quant 教程整理|304|0|2024-01-12|
 |27|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite 💡|130|0|2024-05-02|
 |28|[mouday/coding-tree](https://github.com/mouday/coding-tree)|程序员工作、学习笔记|19|0|2024-05-07|
-|29|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|0|2024-05-18|
+|29|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|0|2024-05-19|
 |30|[zino-rs/zino-docs-zh](https://github.com/zino-rs/zino-docs-zh)|Zino开发框架中文教程|8|0|2024-04-03|
-|31|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|407|0|2024-05-12|
+|31|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|407|0|2024-05-19|
 |32|[phpple/caddy2-cn-doc](https://github.com/phpple/caddy2-cn-doc)|Caddy 2的中文文档|121|0|2024-02-20|
 |33|[WaterCalm/LinuxServerInChinese](https://github.com/WaterCalm/LinuxServerInChinese)|翻译LinuxServer.io文档为中文的gitbook|11|0|2024-02-21|
 |34|[ybdt/ybdt.github.io](https://github.com/ybdt/ybdt.github.io)|个人博客：https://ybdt.me/|7|0|2024-04-18|
@@ -63,7 +63,7 @@
 |56|[bosens-China/blog](https://github.com/bosens-China/blog)|个人写博客的地方|6|0|2024-05-11|
 |57|[meethigher/hexo-theme-starry](https://github.com/meethigher/hexo-theme-starry)|已被官方收录的hexo主题-Starry，采用ejs跟less开发。技术限制，目前还有很多优化未实现，学习ing。基于很多大佬开源的插件，感谢！|26|0|2024-04-08|
 |58|[Anyway-FM/Anyway.Tab](https://github.com/Anyway-FM/Anyway.Tab)|把 Anyway.FM 官网《安妮薇看看》里的链接链接推荐显示在 Chrome 新建 Tab 上，同时推送新番的提醒|59|0|2024-02-27|
-|59|[SEC-CAFE/handbook](https://github.com/SEC-CAFE/handbook)|安全手册，企业安全实践、攻防与安全研究知识库|13|0|2024-05-11|
+|59|[SEC-CAFE/handbook](https://github.com/SEC-CAFE/handbook)|安全手册，企业安全实践、攻防与安全研究知识库|14|0|2024-05-11|
 |60|[csfive/home](https://github.com/csfive/home)|🐭 计算机废物自学指北|19|0|2024-04-28|
 |61|[lululuting/tgbk](https://github.com/lululuting/tgbk)|挺哥博客|31|0|2024-04-11|
 |62|[hefengbao/one](https://github.com/hefengbao/one)|一个简洁的博客、微博客。|11|0|2024-03-26|

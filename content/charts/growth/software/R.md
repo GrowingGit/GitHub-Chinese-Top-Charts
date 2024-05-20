@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2024-05-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[TullyMonster/MendelRookie](https://github.com/TullyMonster/MendelRookie)|新手友好的孟德尔随机化项目|41|1|2024-04-26|
+|1|[TullyMonster/MendelRookie](https://github.com/TullyMonster/MendelRookie)|新手友好的孟德尔随机化项目|42|1|2024-04-26|
 |2|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1744|1|2024-05-16|
 |3|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|61|0|2024-05-14|
 |4|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|40|0|2024-02-27|
@@ -34,7 +34,7 @@
 |27|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |42|0|2024-05-04|
 |28|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|169|0|2024-03-11|
 |29|[koheiw/seededlda](https://github.com/koheiw/seededlda)|LDA for semisupervised topic modeling|66|0|2024-04-23|
-|30|[wu-yc/scMetabolism](https://github.com/wu-yc/scMetabolism)|Quantifying metabolism activity at the single-cell resolution|90|0|2024-02-08|
+|30|[wu-yc/scMetabolism](https://github.com/wu-yc/scMetabolism)|Quantifying metabolism activity at the single-cell resolution|91|0|2024-02-08|
 |31|[ShichenXie/scorecard](https://github.com/ShichenXie/scorecard)|Scorecard Development in R, 评分卡|158|0|2024-04-13|
 |32|[quanteda/readtext](https://github.com/quanteda/readtext)|an R package for reading text files|115|0|2024-02-27|
 |33|[lcpmgh/NPMCM](https://github.com/lcpmgh/NPMCM)|中国研究生数学建模竞赛获奖数据及可视化分析|11|0|2024-03-07|
@@ -50,7 +50,7 @@
 |43|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|81|0|2024-03-29|
 |44|[Otoliths/SP2000](https://github.com/Otoliths/SP2000)|🐟Catalogue of Life toolkit for R|12|0|2023-11-29|
 |45|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|593|0|2024-02-05|
-|46|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|1011|0|2024-05-13|
+|46|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|1011|0|2024-05-19|
 |47|[cjgeyer/foo](https://github.com/cjgeyer/foo)|A demo for a class|35|0|2024-01-23|
 |48|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|137|0|2024-05-12|
 |49|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|15|0|2024-04-29|

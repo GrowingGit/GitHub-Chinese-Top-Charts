@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Jupyter Notebook
-<sub>数据更新: 2024-05-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)|PhotoMaker|8378|2024-02-28|2023-12-06|
-|2|[OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)|MiniCPM-2B: An end-side LLM outperforms Llama2-13B.|3906|2024-04-30|2024-01-29|
-|3|[lyogavin/Anima](https://github.com/lyogavin/Anima)|33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU|3309|2024-05-12|2023-06-12|
-|4|[KevinWang676/Bark-Voice-Cloning](https://github.com/KevinWang676/Bark-Voice-Cloning)|Bark Voice Cloning and Voice Cloning for Chinese Speech|2396|2024-05-11|2023-06-11|
+|1|[TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)|PhotoMaker|8380|2024-02-28|2023-12-06|
+|2|[OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM)|MiniCPM-2B: An end-side LLM outperforms Llama2-13B.|3910|2024-04-30|2024-01-29|
+|3|[lyogavin/Anima](https://github.com/lyogavin/Anima)|33B Chinese LLM, DPO QLORA, 100K context, AirLLM 70B inference with single 4GB GPU|3310|2024-05-12|2023-06-12|
+|4|[KevinWang676/Bark-Voice-Cloning](https://github.com/KevinWang676/Bark-Voice-Cloning)|Bark Voice Cloning and Voice Cloning for Chinese Speech|2398|2024-05-11|2023-06-11|
 |5|[LC1332/Chat-Haruhi-Suzumiya](https://github.com/LC1332/Chat-Haruhi-Suzumiya)|Chat凉宫春日, An open sourced Role-Playing chatbot Cheng Li, Ziang Leng, and others.|1602|2024-04-04|2023-05-31|
-|6|[ytzfhqs/AAAMLP-CN](https://github.com/ytzfhqs/AAAMLP-CN)|Approaching (Almost) Any Machine Learning Problem中译版，在线文档地址：https://ytzfhqs.github.io/AAAMLP-CN/|1087|2024-03-08|2023-08-30|
-|7|[DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart)|A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.|866|2024-05-15|2023-07-17|
+|6|[ytzfhqs/AAAMLP-CN](https://github.com/ytzfhqs/AAAMLP-CN)|Approaching (Almost) Any Machine Learning Problem中译版，在线文档地址：https://ytzfhqs.github.io/AAAMLP-CN/|1090|2024-03-08|2023-08-30|
+|7|[DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart)|A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.|868|2024-05-15|2023-07-17|
 |8|[Maplemx/Agently](https://github.com/Maplemx/Agently)|[AI Agent Application Development Framework] - 🚀 Build AI agent native application in very few code 💬 Easy to interact with AI agent in code using structure data and chained-calls syntax 🧩 Enhance AI  ...|706|2024-05-17|2023-06-30|
 |9|[elroy93/12306spy](https://github.com/elroy93/12306spy)|12306查票, 找到一张能上车的票|572|2024-03-10|2024-02-06|
-|10|[AlexZhangji/Twitter-Insight-LLM](https://github.com/AlexZhangji/Twitter-Insight-LLM)|Twitter data scraping, embedding based image search and more.|526|2024-04-17|2024-03-05|
-|11|[jacket230/damai](https://github.com/jacket230/damai)|大麦抢票damai，piao，qiangpiao 余票监控，逆向破解，加密算法，frida，hook，https加解密，app端请求，演唱会，演出，猫眼，票星球pxq，纷玩岛fwd，周杰伦jay，林俊杰 JJ，王嘉尔，伍佰，邓紫棋，杭州，北京，上海，泉州 薛之谦，刘德华|467|2024-05-18|2024-01-27|
+|10|[AlexZhangji/Twitter-Insight-LLM](https://github.com/AlexZhangji/Twitter-Insight-LLM)|Twitter data scraping, embedding based image search and more.|527|2024-04-17|2024-03-05|
+|11|[jacket230/damai](https://github.com/jacket230/damai)|大麦抢票damai，piao，qiangpiao 余票监控，逆向破解，加密算法，frida，hook，https加解密，app端请求，演唱会，演出，猫眼，票星球pxq，纷玩岛fwd，周杰伦jay，林俊杰 JJ，王嘉尔，伍佰，邓紫棋，杭州，北京，上海，泉州 薛之谦，刘德华|469|2024-05-19|2024-01-27|
 |12|[PaddlePaddle/ERNIE-SDK](https://github.com/PaddlePaddle/ERNIE-SDK)|ERNIE Bot Agent is a Large Language Model (LLM) Agent Framework, powered by the advanced capabilities of ERNIE Bot and the platform resources of Baidu AI Studio.|310|2024-05-07|2023-08-30|
-|13|[Coobiw/MiniGPT4Qwen](https://github.com/Coobiw/MiniGPT4Qwen)|Personal Project: MPP-Qwen14B(Multimodal Pipeline Parallel-Qwen14B). Don't let the poverty limit your imagination! Train your own 14B LLaVA-like MLLM on RTX3090/4090 24GB.|252|2024-05-18|2023-10-24|
+|13|[Coobiw/MiniGPT4Qwen](https://github.com/Coobiw/MiniGPT4Qwen)|Personal Project: MPP-Qwen14B(Multimodal Pipeline Parallel-Qwen14B). Don't let the poverty limit your imagination! Train your own 14B LLaVA-like MLLM on RTX3090/4090 24GB.|253|2024-05-18|2023-10-24|
 |14|[baidubce/bce-qianfan-sdk](https://github.com/baidubce/bce-qianfan-sdk)|Provide best practices for LMOps, as well as elegant and convenient access to the features of the Qianfan MaaS Platform. (提供大模型工具链最佳实践，以及优雅且便捷地访问千帆大模型平台）|211|2024-04-15|2023-10-19|
 |15|[Glanvery/LLM-Travel](https://github.com/Glanvery/LLM-Travel)|欢迎来到 "LLM-travel" 仓库！探索大语言模型（LLM）的奥秘 🚀。致力于深入理解、探讨以及实现与大模型相关的各种技术、原理和应用。|198|2024-04-10|2023-10-02|
 |16|[blackinkkkxi/RAG_langchain](https://github.com/blackinkkkxi/RAG_langchain)|一个基于langchain实现RAG的简单示例|135|2024-04-13|2023-12-09|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-05-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -33,15 +33,16 @@
 |26|[linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge](https://github.com/linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge)|2022年深圳杯数学建模挑战赛-全国第二-B题-基于用电可靠性的配电网规划模型|4|2024-03-01|2024-03-01|
 |27|[Joe-Hall-Lee/hc_lzp](https://github.com/Joe-Hall-Lee/hc_lzp)|清风数学建模。|4|2024-02-05|2024-02-05|
 |28|[Lunite-Margatroid/DSP-DF-design](https://github.com/Lunite-Margatroid/DSP-DF-design)|matlab数字滤波器设计，代码实现。|4|2023-12-14|2023-10-25|
-|29|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|3|2024-04-26|2024-02-29|
-|30|[INSofHUST/Distributed-Optimization](https://github.com/INSofHUST/Distributed-Optimization)|基于一致性的分布式优化算法样例。|3|2024-01-25|2024-01-14|
-|31|[lsyanling/DLUT-Matrix-Numerical-Analysis](https://github.com/lsyanling/DLUT-Matrix-Numerical-Analysis)|大连理工大学矩阵与数值分析|3|2023-12-17|2023-12-17|
-|32|[BowerShi/stokes-multigrid](https://github.com/BowerShi/stokes-multigrid)|Final project @ Numerical Linear Algebra (数值代数) at Peking University - solving the Stokes equation using the MAC scheme and multigrid methods.|3|2023-12-02|2023-12-02|
-|33|[Septemc/MATLAB-I-NSGA2-Site-Selection](https://github.com/Septemc/MATLAB-I-NSGA2-Site-Selection)|使用多目标免疫遗传算法计算较简化海上救援选址问题|3|2023-12-28|2023-11-03|
-|34|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-04-27|2023-10-24|
-|35|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|2024-05-18|2023-10-08|
-|36|[yuyuliangyu/matlab-vine-copula](https://github.com/yuyuliangyu/matlab-vine-copula)|这是一个用matlab编写的vine-copula|3|2024-02-28|2023-09-17|
-|37|[SpartanB-312/MBD](https://github.com/SpartanB-312/MBD)|多体动力学，包括参考点坐标、铰链坐标（递推与半递推）、积分器、深度学习。|3|2024-01-22|2023-06-13|
+|29|[WeianHuang23/Dispersion-assisted_High-dimensional_Photodetector](https://github.com/WeianHuang23/Dispersion-assisted_High-dimensional_Photodetector)|数据集的创建|3|2024-04-03|2024-04-01|
+|30|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|3|2024-04-26|2024-02-29|
+|31|[INSofHUST/Distributed-Optimization](https://github.com/INSofHUST/Distributed-Optimization)|基于一致性的分布式优化算法样例。|3|2024-01-25|2024-01-14|
+|32|[lsyanling/DLUT-Matrix-Numerical-Analysis](https://github.com/lsyanling/DLUT-Matrix-Numerical-Analysis)|大连理工大学矩阵与数值分析|3|2023-12-17|2023-12-17|
+|33|[BowerShi/stokes-multigrid](https://github.com/BowerShi/stokes-multigrid)|Final project @ Numerical Linear Algebra (数值代数) at Peking University - solving the Stokes equation using the MAC scheme and multigrid methods.|3|2023-12-02|2023-12-02|
+|34|[Septemc/MATLAB-I-NSGA2-Site-Selection](https://github.com/Septemc/MATLAB-I-NSGA2-Site-Selection)|使用多目标免疫遗传算法计算较简化海上救援选址问题|3|2023-12-28|2023-11-03|
+|35|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-04-27|2023-10-24|
+|36|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|2024-05-18|2023-10-08|
+|37|[yuyuliangyu/matlab-vine-copula](https://github.com/yuyuliangyu/matlab-vine-copula)|这是一个用matlab编写的vine-copula|3|2024-02-28|2023-09-17|
+|38|[SpartanB-312/MBD](https://github.com/SpartanB-312/MBD)|多体动力学，包括参考点坐标、铰链坐标（递推与半递推）、积分器、深度学习。|3|2024-01-22|2023-06-13|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
