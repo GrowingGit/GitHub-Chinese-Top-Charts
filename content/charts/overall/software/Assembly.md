@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Assembly
-<sub>数据更新: 2024-05-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|56772|2024-04-25|
-|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10684|2024-05-17|
-|3|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6381|2024-05-20|
-|4|[STM32-base/STM32-base](https://github.com/STM32-base/STM32-base)|A simple start for any STM32 based project.|332|2024-01-18|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|56786|2024-04-25|
+|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10688|2024-05-17|
+|3|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6383|2024-05-21|
+|4|[STM32-base/STM32-base](https://github.com/STM32-base/STM32-base)|A simple start for any STM32 based project.|333|2024-01-18|
 |5|[mengning/linuxkernel](https://github.com/mengning/linuxkernel)|操作系统导论教学资料、《庖丁解牛Linux内核》配套资料|253|2024-04-30|
 |6|[leomil72/LM80C](https://github.com/leomil72/LM80C)|A Z80-based homebrew computer withTMS9918, AY-3-8910, Z80 CTC, Z80 PIO, and Z80 SIO|95|2024-01-13|
-|7|[zhuozhiyongde/Introduction-To-Computer-System-2023Fall-PKU](https://github.com/zhuozhiyongde/Introduction-To-Computer-System-2023Fall-PKU)|北京大学 2023 年秋计算机系统导论课程（ICS）作业、笔记、经验|49|2024-02-13|
-|8|[weipeng2k/hot-wind](https://github.com/weipeng2k/hot-wind)|技术杂文集|32|2024-04-20|
-|9|[bereal/AdventOfCode2020](https://github.com/bereal/AdventOfCode2020)|Solving Advent of Code 2020, each day in a different language|25|2023-12-09|
-|10|[flyleeee/noob_hust_cs_20](https://github.com/flyleeee/noob_hust_cs_20)|华中科技大学计算机学院20级实验报告/代码——汇编实验；机器学习；计算机系统基础；算法实验；游戏设计；组原；计算机网络；软件工程；数据库；计算机视觉；操作系统课设|15|2023-12-16|
-|11|[fzf404/MiniSystem](https://github.com/fzf404/MiniSystem)|💾 Nasm 汇编写操作系统|11|2024-04-24|
-|12|[DongshanPI/DongshanPI-D1s_BareMetal](https://github.com/DongshanPI/DongshanPI-D1s_BareMetal)|国产全志平头哥C906 RISC-V DongshanPI-D1s RV64GVC 裸机示例仓库！|9|2024-05-09|
-|13|[DANNHIROAKI/XJTU-COMP400727-ICS](https://github.com/DANNHIROAKI/XJTU-COMP400727-ICS)|西安交通大学COMP400727计算机系统导论课程|8|2024-05-13|
-|14|[program-spiritual/GAB](https://github.com/program-spiritual/GAB)|图解汇编基础 (graphical assembly basis)|8|2024-01-21|
-|15|[YuS1aN/zhenxun_bot_android_ui](https://github.com/YuS1aN/zhenxun_bot_android_ui)|绪山真寻Bot的Android管理后台|7|2024-04-01|
-|16|[yewentao256/CSAPP_15213](https://github.com/yewentao256/CSAPP_15213)|CMU CSAPP learning; 深入理解计算机系统|7|2024-01-14|
-|17|[Ayana-chan/XDU-SE-JZ_CourseDesign](https://github.com/Ayana-chan/XDU-SE-JZ_CourseDesign)|西安电子科技大学微机原理实验（计科），也叫计组课设（软工）。这里的代码是被刘博迫害后的产物，可读性高，功能到位，鲁棒性好|5|2023-11-20|
+|7|[team-s2/ctf_summer_courses](https://github.com/team-s2/ctf_summer_courses)|AAA - 短学期安全攻防实践开源仓库|71|2024-05-21|
+|8|[zhuozhiyongde/Introduction-To-Computer-System-2023Fall-PKU](https://github.com/zhuozhiyongde/Introduction-To-Computer-System-2023Fall-PKU)|北京大学 2023 年秋计算机系统导论课程（ICS）作业、笔记、经验|49|2024-02-13|
+|9|[weipeng2k/hot-wind](https://github.com/weipeng2k/hot-wind)|技术杂文集|32|2024-04-20|
+|10|[bereal/AdventOfCode2020](https://github.com/bereal/AdventOfCode2020)|Solving Advent of Code 2020, each day in a different language|25|2023-12-09|
+|11|[flyleeee/noob_hust_cs_20](https://github.com/flyleeee/noob_hust_cs_20)|华中科技大学计算机学院20级实验报告/代码——汇编实验；机器学习；计算机系统基础；算法实验；游戏设计；组原；计算机网络；软件工程；数据库；计算机视觉；操作系统课设|15|2023-12-16|
+|12|[fzf404/MiniSystem](https://github.com/fzf404/MiniSystem)|💾 Nasm 汇编写操作系统|11|2024-04-24|
+|13|[DANNHIROAKI/XJTU-COMP400727-ICS](https://github.com/DANNHIROAKI/XJTU-COMP400727-ICS)|西安交通大学COMP400727计算机系统导论课程|9|2024-05-13|
+|14|[DongshanPI/DongshanPI-D1s_BareMetal](https://github.com/DongshanPI/DongshanPI-D1s_BareMetal)|国产全志平头哥C906 RISC-V DongshanPI-D1s RV64GVC 裸机示例仓库！|9|2024-05-09|
+|15|[program-spiritual/GAB](https://github.com/program-spiritual/GAB)|图解汇编基础 (graphical assembly basis)|8|2024-01-21|
+|16|[YuS1aN/zhenxun_bot_android_ui](https://github.com/YuS1aN/zhenxun_bot_android_ui)|绪山真寻Bot的Android管理后台|7|2024-04-01|
+|17|[yewentao256/CSAPP_15213](https://github.com/yewentao256/CSAPP_15213)|CMU CSAPP learning; 深入理解计算机系统|7|2024-01-14|
 |18|[DANNHIROAKI/XJTU-COMP400627-OS](https://github.com/DANNHIROAKI/XJTU-COMP400627-OS)|西安交通大学COMP400627操作系统课程|4|2024-04-25|
 |19|[SnDream/rgbds-ws](https://github.com/SnDream/rgbds-ws)|Rgbds编译环境|3|2024-04-08|
 |20|[flwfdd/BIT-Run](https://github.com/flwfdd/BIT-Run)|北理润 - 大三上汇编小游戏大作业|3|2023-12-22|
