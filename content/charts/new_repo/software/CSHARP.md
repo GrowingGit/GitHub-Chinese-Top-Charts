@@ -1,38 +1,38 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > C#
-<sub>数据更新: 2024-05-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)|📦BetterGI · 更好的原神 - 自动拾取   自动剧情   全自动钓鱼(AI)   全自动七圣召唤   自动伐木   自动刷本 - UI Automation Testing Tools For Genshin Impact|3245|2024-05-24|2023-08-27|
-|2|[LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix)|Multi-Platform Package Manager for Stable Diffusion|2950|2024-05-10|2023-06-13|
-|3|[Danily07/Translumo](https://github.com/Danily07/Translumo)|Advanced real-time screen translator for games, hardcoded subtitles in videos, static text and etc.|2844|2024-04-10|2023-06-16|
-|4|[SuxueCode/WechatBakTool](https://github.com/SuxueCode/WechatBakTool)|基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。|2133|2024-04-20|2023-08-12|
-|5|[Richasy/Bili.Copilot](https://github.com/Richasy/Bili.Copilot)|哔哩哔哩用户的个人助理|1763|2024-05-16|2023-07-14|
-|6|[yaobiao131/downkyicore](https://github.com/yaobiao131/downkyicore)|哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。|942|2024-05-07|2023-11-25|
+|1|[babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact)|📦BetterGI · 更好的原神 - 自动拾取   自动剧情   全自动钓鱼(AI)   全自动七圣召唤   自动伐木   自动刷本 - UI Automation Testing Tools For Genshin Impact|3251|2024-05-25|2023-08-27|
+|2|[LykosAI/StabilityMatrix](https://github.com/LykosAI/StabilityMatrix)|Multi-Platform Package Manager for Stable Diffusion|2959|2024-05-10|2023-06-13|
+|3|[Danily07/Translumo](https://github.com/Danily07/Translumo)|Advanced real-time screen translator for games, hardcoded subtitles in videos, static text and etc.|2853|2024-04-10|2023-06-16|
+|4|[SuxueCode/WechatBakTool](https://github.com/SuxueCode/WechatBakTool)|基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。|2135|2024-04-20|2023-08-12|
+|5|[Richasy/Bili.Copilot](https://github.com/Richasy/Bili.Copilot)|哔哩哔哩用户的个人助理|1764|2024-05-16|2023-07-14|
+|6|[yaobiao131/downkyicore](https://github.com/yaobiao131/downkyicore)|哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。|947|2024-05-07|2023-11-25|
 |7|[lisongkun/HyggeImaotai](https://github.com/lisongkun/HyggeImaotai)|i茅台app接口自动化csharp wpf实现,挂机windows服务器每日自动预约,  (╯°□°）╯︵ ┻━┻ 预约启动！|609|2024-02-16|2023-07-08|
-|8|[stalomeow/StarRailNPRShader](https://github.com/stalomeow/StarRailNPRShader)|Fan-made shaders for Unity URP attempting to replicate the shading of Honkai: Star Rail.|447|2024-04-27|2023-08-06|
+|8|[stalomeow/StarRailNPRShader](https://github.com/stalomeow/StarRailNPRShader)|Fan-made shaders for Unity URP attempting to replicate the shading of Honkai: Star Rail.|448|2024-04-27|2023-08-06|
 |9|[wh0amitz/SharpADWS](https://github.com/wh0amitz/SharpADWS)|Active Directory reconnaissance and exploitation for Red Teams via the Active Directory Web Services (ADWS).|338|2024-03-19|2024-02-13|
-|10|[DeEpinGh0st/WindowsBaselineAssistant](https://github.com/DeEpinGh0st/WindowsBaselineAssistant)|Windows安全基线核查加固助手|315|2024-05-12|2024-01-03|
-|11|[jxlpzqc/TMSpeech](https://github.com/jxlpzqc/TMSpeech)|腾讯会议摸鱼工具|299|2024-05-24|2023-06-20|
+|10|[DeEpinGh0st/WindowsBaselineAssistant](https://github.com/DeEpinGh0st/WindowsBaselineAssistant)|Windows安全基线核查加固助手|319|2024-05-12|2024-01-03|
+|11|[jxlpzqc/TMSpeech](https://github.com/jxlpzqc/TMSpeech)|腾讯会议摸鱼工具|300|2024-05-24|2023-06-20|
 |12|[INotGreen/SharpThief](https://github.com/INotGreen/SharpThief)|一键提取exe的图标、嵌入图标、资源信息、版本信息、修改时间、数字签名，降低程序熵值|257|2024-03-19|2024-03-05|
-|13|[TippingGame/F8Framework](https://github.com/TippingGame/F8Framework)|F8 Framework是一个优雅，轻量，符合直觉的基于Unity引擎的Game Framework，组件围绕F8一键启动，框架整体遵循以极少的使用成本开发游戏。|250|2024-05-23|2023-12-10|
+|13|[TippingGame/F8Framework](https://github.com/TippingGame/F8Framework)|F8 Framework是一个优雅，轻量，符合直觉的基于Unity引擎的Game Framework，组件围绕F8一键启动，框架整体遵循以极少的使用成本开发游戏。|252|2024-05-25|2023-12-10|
 |14|[lele8/SharpDBeaver](https://github.com/lele8/SharpDBeaver)|DBeaver数据库密码解密工具|185|2023-11-29|2023-07-11|
 |15|[KirosHan/Palworld-server-protector-DotNet](https://github.com/KirosHan/Palworld-server-protector-DotNet)|Palworld幻兽帕鲁服务端守护+存档备份+内存监控+优雅重启+Rcon指令|177|2024-03-09|2024-01-26|
 |16|[AntdUI/AntdUI](https://github.com/AntdUI/AntdUI)|👚 基于 Ant Design 设计语言的 Winform 界面库|176|2024-05-22|2024-01-23|
-|17|[xh321/LiteLoaderQQNT-PatcherNFixer](https://github.com/xh321/LiteLoaderQQNT-PatcherNFixer)|LiteLoader QQNT 全自动修补和修复工具|156|2024-01-26|2023-09-01|
-|18|[Skierhou/UISystem](https://github.com/Skierhou/UISystem)|通用UGUI系统|147|2024-03-01|2023-10-27|
+|17|[xh321/LiteLoaderQQNT-PatcherNFixer](https://github.com/xh321/LiteLoaderQQNT-PatcherNFixer)|LiteLoader QQNT 全自动修补和修复工具|155|2024-01-26|2023-09-01|
+|18|[Skierhou/UISystem](https://github.com/Skierhou/UISystem)|通用UGUI系统|148|2024-03-01|2023-10-27|
 |19|[yaobus/SIPAM](https://github.com/yaobus/SIPAM)|IP地址分配管理系统|144|2024-04-09|2024-03-07|
-|20|[MaaXYZ/MBA](https://github.com/MaaXYZ/MBA)|BA 小助手|140|2024-04-19|2023-09-10|
+|20|[MaaXYZ/MBA](https://github.com/MaaXYZ/MBA)|BA 小助手|141|2024-04-19|2023-09-10|
 |21|[babalae/genius-invokation-auto-toy](https://github.com/babalae/genius-invokation-auto-toy)|🎲七圣召唤PVE全自动打牌   Auto Play Genius Invokation TCG|119|2023-12-03|2023-07-17|
 |22|[Bian-Sh/TinyRPC](https://github.com/Bian-Sh/TinyRPC)|为 Unity 准备的使用 TCP + JsonUtility + Task 实现的极简网络框架，支持 RPC 和常规消息收发。 A minimalist network framework implemented using TCP + JsonUtility + Task, supporting RPC and regular message communication for Unity.|113|2024-05-24|2023-09-30|
 |23|[xljiulang/CYarp](https://github.com/xljiulang/CYarp)|A reverse proxy toolkit to help you expose multiple local http servers behind a NAT or firewall to the internet|112|2024-05-08|2024-03-18|
 |24|[labbbirder/UnityInjection](https://github.com/labbbirder/UnityInjection)|Unity DLL注入，支持全平台，支持Mono和IL2CPP，支持注入引擎和用户DLL。可以实现AOP、装饰器等功能|110|2024-04-01|2023-06-12|
 |25|[yclown/ql_jd_cookie](https://github.com/yclown/ql_jd_cookie)|青龙面板京东cookie获取|108|2024-05-10|2023-12-22|
-|26|[NoSLoofah/Unity-Buff-System](https://github.com/NoSLoofah/Unity-Buff-System)|该项目是一个通用的Buff系统，旨在帮助Unity开发者轻松实现游戏中的Buff效果。该系统能够轻松集成到现有项目，你可以方便地添加、管理和应用自定义逻辑的Buff。|104|2024-05-11|2024-01-04|
+|26|[NoSLoofah/Unity-Buff-System](https://github.com/NoSLoofah/Unity-Buff-System)|该项目是一个通用的Buff系统，旨在帮助Unity开发者轻松实现游戏中的Buff效果。该系统能够轻松集成到现有项目，你可以方便地添加、管理和应用自定义逻辑的Buff。|105|2024-05-11|2024-01-04|
 |27|[Richasy/RichasyAssistant](https://github.com/Richasy/RichasyAssistant)|个人助理|103|2024-04-03|2023-11-02|
-|28|[stalomeow/DreamTicker](https://github.com/stalomeow/DreamTicker)|崩坏：星穹铁道 2.0 梦境迷钟，简单复刻。|90|2024-02-19|2024-02-15|
+|28|[stalomeow/DreamTicker](https://github.com/stalomeow/DreamTicker)|崩坏：星穹铁道 2.0 梦境迷钟，简单复刻。|91|2024-02-19|2024-02-15|
 |29|[Mangofang/BypassLoad](https://github.com/Mangofang/BypassLoad)|shellcode免杀加载器，过主流杀软|74|2024-03-11|2024-01-22|
 |30|[ancientElement/AE_SkillEditor_Plus](https://github.com/ancientElement/AE_SkillEditor_Plus)|AE_Skill_Editor的Plus版本|70|2024-05-18|2024-04-10|
 |31|[yaobus/EducationalAdministrationManagementSystem](https://github.com/yaobus/EducationalAdministrationManagementSystem)|教务管理系统（毕业论文实例）|70|2024-03-22|2024-03-22|
@@ -42,16 +42,16 @@
 |35|[sdcb/Sdcb.SparkDesk](https://github.com/sdcb/Sdcb.SparkDesk)|讯飞星火大模型非官方.NET SDK Xunfei's "Xinghuo" SparkDesk big model unofficial sdk for .NET|58|2024-03-09|2023-06-20|
 |36|[jzyong/ugk-server](https://github.com/jzyong/ugk-server)| 快节奏多人联网游戏Demo，UGK-Server：unity、go、kcp server 。 服务器使用微服务架构，服务器端游戏逻辑需要物理碰撞、寻路的使用Unity、C#开发，其他使用Go开发。 对应客户端ugk-client。 实现原理和腾讯合金弹头 如出一辙|56|2024-01-05|2023-07-24|
 |37|[zxbmmmmmmmmm/SkylineWeather](https://github.com/zxbmmmmmmmmm/SkylineWeather)|UWP Weather App|56|2024-05-05|2023-07-24|
-|38|[HelloWRC/ClassIsland](https://github.com/HelloWRC/ClassIsland)|一款适用于班级多媒体屏幕的课表的信息显示工具，可以一目了然地显示各种信息。|56|2024-05-24|2023-07-08|
+|38|[ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland)|一款适用于班级多媒体屏幕的课表的信息显示工具，可以一目了然地显示各种信息。|56|2024-05-25|2023-07-08|
 |39|[WXRIW/Lyricify-Lyrics-Helper](https://github.com/WXRIW/Lyricify-Lyrics-Helper)|集成 Lyricify 所需的歌词相关功能|55|2024-05-14|2023-07-27|
 |40|[wushuaihua520/BarrageGrab](https://github.com/wushuaihua520/BarrageGrab)|抖音快手bilibili直播弹幕wss直连，非系统代理方式，无需多开浏览器窗口|53|2024-05-21|2024-02-04|
 |41|[cloudinnng/PluginHub](https://github.com/cloudinnng/PluginHub)|PluginHub是一款用IMGUI编写、基于EditorWindow的Unity3D编辑器插件开发框架，并包含一些开箱即用的插件模块。PluginHub is an Unity3D editor plugin development framework based on EditorWindow written in IMGUI, and contains some out-of-the-box ...|53|2024-05-24|2023-09-21|
-|42|[snltty/cmonitor](https://github.com/snltty/cmonitor)|.NET7、.NET8、局域网监控，组网，其名曰 班长|53|2024-05-24|2023-09-14|
+|42|[snltty/cmonitor](https://github.com/snltty/cmonitor)|.NET7、.NET8、局域网监控，组网，其名曰 班长|53|2024-05-25|2023-09-14|
 |43|[mili-tan/Onllama.Tiny](https://github.com/mili-tan/Onllama.Tiny)|比简单更简单，通过 Ollama 不需要显卡轻松在你的电脑上运行 LLM。|51|2024-05-16|2024-03-19|
 |44|[labbbirder/DirectRetrieveAttribute](https://github.com/labbbirder/DirectRetrieveAttribute)|高效检索Attributes，高效检索子类，通过Attribute获取目标类型和成员|51|2024-04-01|2023-06-20|
 |45|[sdcb/Sdcb.DashScope](https://github.com/sdcb/Sdcb.DashScope)|为阿里云灵积模型服务DashScope开发的非官方.NET SDK|50|2024-02-03|2023-12-11|
 |46|[hedonghua/Cracker.CommandLine](https://github.com/hedonghua/Cracker.CommandLine)|纯手写命令行|49|2024-03-21|2024-03-21|
-|47|[nature2608/SuperFH](https://github.com/nature2608/SuperFH)|一键获取烽火光猫超密|47|2024-04-03|2023-12-04|
+|47|[nature2608/SuperFH](https://github.com/nature2608/SuperFH)|一键获取烽火光猫超密|48|2024-04-03|2023-12-04|
 |48|[xljiulang/DependencyInjection.Annotation](https://github.com/xljiulang/DependencyInjection.Annotation)|基于注解的服务自动查找与注册的DI扩展|41|2023-12-04|2023-08-16|
 |49|[xyh20180101/RomajiConverter.WinUI](https://github.com/xyh20180101/RomajiConverter.WinUI)|使用WinUI 3框架开发的Win11风格罗马音转换器|38|2024-04-06|2023-11-13|
 |50|[LorisYounger/VPet.ModMaker](https://github.com/LorisYounger/VPet.ModMaker)|虚拟桌宠模拟器 mod制作器|36|2024-04-01|2023-08-29|
