@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > C
-<sub>数据更新: 2024-05-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lizongying/my-tv](https://github.com/lizongying/my-tv)|我的电视 电视直播软件，安装即可使用|26802|2024-05-21|2023-12-04|
-|2|[karpathy/llama2.c](https://github.com/karpathy/llama2.c)|Inference Llama 2 in one file of pure C|16407|2024-05-12|2023-07-23|
-|3|[hrvach/deskhop](https://github.com/hrvach/deskhop)|Fast Desktop Switching Device|5895|2024-05-24|2023-12-24|
-|4|[wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly)|助力每一位RT队员，快速生成免杀木马|611|2024-04-17|2023-08-22|
-|5|[cnlohr/lolra](https://github.com/cnlohr/lolra)|Transmit LoRa Frames Without a Radio|560|2024-05-19|2024-03-25|
-|6|[web1n/wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak)|Flatpak 打包微信 Linux Universal 版|515|2024-05-05|2024-03-08|
+|1|[lizongying/my-tv](https://github.com/lizongying/my-tv)|我的电视 电视直播软件，安装即可使用|26842|2024-05-26|2023-12-04|
+|2|[karpathy/llama2.c](https://github.com/karpathy/llama2.c)|Inference Llama 2 in one file of pure C|16413|2024-05-12|2023-07-23|
+|3|[hrvach/deskhop](https://github.com/hrvach/deskhop)|Fast Desktop Switching Device|5894|2024-05-24|2023-12-24|
+|4|[wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly)|助力每一位RT队员，快速生成免杀木马|619|2024-04-17|2023-08-22|
+|5|[cnlohr/lolra](https://github.com/cnlohr/lolra)|Transmit LoRa Frames Without a Radio|561|2024-05-19|2024-03-25|
+|6|[web1n/wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak)|Flatpak 打包微信 Linux Universal 版|515|2024-05-26|2024-03-08|
 |7|[P001water/yuze](https://github.com/P001water/yuze)|A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式，支持跨平台使用|306|2024-03-06|2024-01-13|
 |8|[RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)|chsrc  全平台命令行换源工具|257|2024-05-25|2023-09-03|
 |9|[libdriver/st7789](https://github.com/libdriver/st7789)|ST7789 full function driver library for general MCU and Linux.|254|2024-02-25|2023-06-05|
-|10|[zhenruyan/WSL-libre-linux-kernel](https://github.com/zhenruyan/WSL-libre-linux-kernel)| Installing a 100% libre(free) linux kernel for wsl,It is possible to celebrate freedom within a cell. 给WSL替换自由内核!!!|223|2024-05-25|2023-07-04|
+|10|[zhenruyan/WSL-libre-linux-kernel](https://github.com/zhenruyan/WSL-libre-linux-kernel)| Installing a 100% libre(free) linux kernel for wsl,It is possible to celebrate freedom within a cell. 给WSL替换自由内核!!!|223|2024-05-26|2023-07-04|
 |11|[veo/nginx_shell](https://github.com/veo/nginx_shell)|nginx WebShell/内存马，更优雅的nignx backdoor|218|2024-01-04|2023-12-20|
 |12|[4ra1n/code-encryptor](https://github.com/4ra1n/code-encryptor)|该项目已集成到 https://github.com/jar-analyzer/jar-obfuscator 使用JNI加密字节码，通过JVMTI解密字节码以保护代码，支持自定义包名和密钥，使用魔法禁止黑客dump字节码|154|2024-05-14|2023-09-06|
 |13|[jialeicui/open-lx01](https://github.com/jialeicui/open-lx01)|小爱音箱mini定制固件   Let the Xiao Ai Speaker Mini free|134|2024-05-12|2024-01-23|
@@ -27,20 +27,19 @@
 |20|[lhdjply/f1c200s_library](https://github.com/lhdjply/f1c200s_library)|该项目是为全志 F1C100S/F1C200S 所编写的库函数，编写风格模仿 STM32 标准库，使得从 STM32 过来的人更容易上手。项目已经移植了 cherryusb、fatfs、lvgl、rt-thread。|73|2024-05-20|2023-12-04|
 |21|[cqu20160901/yolov8_rknn_Cplusplus](https://github.com/cqu20160901/yolov8_rknn_Cplusplus)|yolov8 瑞芯微 rknn 板端 C++部署。|73|2024-01-12|2023-06-09|
 |22|[baimao-box/Self-Defective-Program](https://github.com/baimao-box/Self-Defective-Program)|无Windows API的新型恶意程序：自缺陷程序利用堆栈溢出的隐匿稳定攻击技术研究，A new type of malicious program without Windows API|70|2024-05-10|2024-05-01|
-|23|[yanyuandi/7.5inch_Multifunctional_E-Paper](https://github.com/yanyuandi/7.5inch_Multifunctional_E-Paper)|7.5寸桌面多功能墨水屏-三色|69|2024-04-19|2023-05-27|
-|24|[Arius-Cr/wire_ext_blender_fix_ime](https://github.com/Arius-Cr/wire_ext_blender_fix_ime)|增强 Blender 对 Windows 平台上输入法的支持 / Enhance Blender's support for IME on the Windows|68|2024-05-25|2023-05-30|
-|25|[HOOK11/PUBG-DX](https://github.com/HOOK11/PUBG-DX)|PUBG 辅助|63|2024-02-26|2023-10-04|
-|26|[cbwang505/unicorn-whpx](https://github.com/cbwang505/unicorn-whpx)|跨平台模拟执行unicorn框架基于Qemu的TCG模式(Tiny Code Generator),以无硬件虚拟化支持方式实现全系统的虚拟化,支持跨平台和架构的CPU指令模拟,本文讨论是一款笔者的实验性项目采用Windows Hypervisor Platform虚拟机模式提供了另一种CPU指令的模拟方式,在保持原有unicorn导出接口不变的情况下,采用Hyper-v支持带硬件虚拟化支持的Win ...|62|2023-12-17|2023-12-16|
+|23|[Arius-Cr/wire_ext_blender_fix_ime](https://github.com/Arius-Cr/wire_ext_blender_fix_ime)|增强 Blender 对 Windows 平台上输入法的支持 / Enhance Blender's support for IME on the Windows|68|2024-05-25|2023-05-30|
+|24|[HOOK11/PUBG-DX](https://github.com/HOOK11/PUBG-DX)|PUBG 辅助|63|2024-02-26|2023-10-04|
+|25|[cbwang505/unicorn-whpx](https://github.com/cbwang505/unicorn-whpx)|跨平台模拟执行unicorn框架基于Qemu的TCG模式(Tiny Code Generator),以无硬件虚拟化支持方式实现全系统的虚拟化,支持跨平台和架构的CPU指令模拟,本文讨论是一款笔者的实验性项目采用Windows Hypervisor Platform虚拟机模式提供了另一种CPU指令的模拟方式,在保持原有unicorn导出接口不变的情况下,采用Hyper-v支持带硬件虚拟化支持的Win ...|62|2023-12-17|2023-12-16|
+|26|[gtxzsxxk/temu](https://github.com/gtxzsxxk/temu)|A portable RISC-V emulator working in instruction-interpreting way. Common SoC peripherals are emulated. Support running mainline Linux.   可移植的 RISC-V 解释执行模拟器。模拟了常见的SoC外设，并支持运行主线Linux。|60|2024-05-19|2023-10-24|
 |27|[Qingche9/ProcessRecord](https://github.com/Qingche9/ProcessRecord)|利用驱动进程回调记录电脑进程的创建与关闭|59|2024-04-12|2024-04-11|
-|28|[gtxzsxxk/temu](https://github.com/gtxzsxxk/temu)|A portable RISC-V emulator working in instruction-interpreting way. Common SoC peripherals are emulated. Support running mainline Linux.   可移植的 RISC-V 解释执行模拟器。模拟了常见的SoC外设，并支持运行主线Linux。|59|2024-05-19|2023-10-24|
-|29|[SenySunny/modbus_rt](https://github.com/SenySunny/modbus_rt)|一款纯C实现的跨平台modbus协议通信库|59|2024-05-08|2023-09-20|
-|30|[openfros/fros](https://github.com/openfros/fros)|打造一款企业级路由器系统|51|2024-01-13|2023-05-29|
-|31|[EasyAuthorize/TgPlus](https://github.com/EasyAuthorize/TgPlus)|Telegram略微增强模块|45|2023-12-25|2023-07-04|
-|32|[MRwangqi/PrivacyCheck](https://github.com/MRwangqi/PrivacyCheck)|隐私 api 调用检查全套方案|44|2024-02-19|2024-01-03|
-|33|[Sheep118/WouoUI-PageVersion](https://github.com/Sheep118/WouoUI-PageVersion)|这是一个改动自WouoUI的纯C语言，无依赖库，只适用于128*64OLED的代码框架，将WouoUI抽象出一部分统一的接口，以方便快速构建一个具有类似WouoUI风格的OLEDUI。|39|2024-03-06|2024-02-10|
-|34|[JFeng-Z/MultMenu](https://github.com/JFeng-Z/MultMenu)|这是用U8G2库写的一个适用于0.96寸OLED(SSD1306)屏幕的菜单，主控为STM32F103RCT6，采用I2C驱动...|37|2024-03-31|2023-06-30|
-|35|[tcc0lin/KernelModification](https://github.com/tcc0lin/KernelModification)|研究内核改机策略|28|2023-12-08|2023-08-14|
-|36|[Jeanhwea/xv6-course](https://github.com/Jeanhwea/xv6-course)|xv6 操作系统实践|24|2023-12-31|2023-10-29|
+|28|[SenySunny/modbus_rt](https://github.com/SenySunny/modbus_rt)|一款纯C实现的跨平台modbus协议通信库|59|2024-05-08|2023-09-20|
+|29|[openfros/fros](https://github.com/openfros/fros)|打造一款企业级路由器系统|51|2024-01-13|2023-05-29|
+|30|[EasyAuthorize/TgPlus](https://github.com/EasyAuthorize/TgPlus)|Telegram略微增强模块|45|2023-12-25|2023-07-04|
+|31|[MRwangqi/PrivacyCheck](https://github.com/MRwangqi/PrivacyCheck)|隐私 api 调用检查全套方案|44|2024-02-19|2024-01-03|
+|32|[Sheep118/WouoUI-PageVersion](https://github.com/Sheep118/WouoUI-PageVersion)|这是一个改动自WouoUI的纯C语言，无依赖库，只适用于128*64OLED的代码框架，将WouoUI抽象出一部分统一的接口，以方便快速构建一个具有类似WouoUI风格的OLEDUI。|39|2024-03-06|2024-02-10|
+|33|[JFeng-Z/MultMenu](https://github.com/JFeng-Z/MultMenu)|这是用U8G2库写的一个适用于0.96寸OLED(SSD1306)屏幕的菜单，主控为STM32F103RCT6，采用I2C驱动...|37|2024-03-31|2023-06-30|
+|34|[tcc0lin/KernelModification](https://github.com/tcc0lin/KernelModification)|研究内核改机策略|28|2023-12-08|2023-08-14|
+|35|[Jeanhwea/xv6-course](https://github.com/Jeanhwea/xv6-course)|xv6 操作系统实践|24|2023-12-31|2023-10-29|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > PHP
-<sub>数据更新: 2024-05-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的高性能面板|938|2024-05-24|2023-11-14|
-|2|[xiaoxuan6/SMSBombing](https://github.com/xiaoxuan6/SMSBombing)|短信轰炸|245|2024-05-22|2023-07-19|
+|1|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的高性能面板|940|2024-05-24|2023-11-14|
+|2|[xiaoxuan6/SMSBombing](https://github.com/xiaoxuan6/SMSBombing)|短信轰炸|254|2024-05-22|2023-07-19|
 |3|[icewolf-sec/PerlinPuzzle-Webshell-PHP](https://github.com/icewolf-sec/PerlinPuzzle-Webshell-PHP)|使用分支对抗技术制作的PHP Webshell，截止2024年1月18日，共数十个查杀引擎免杀|237|2024-01-19|2024-01-19|
 |4|[chengxs1994/ChatGPT-SDImg-Web](https://github.com/chengxs1994/ChatGPT-SDImg-Web)|基于ChatGPT-Next-Web，集成SD webui AI绘图，实现注册登录，次数限制，充值，分享等功能|151|2024-01-03|2023-06-01|
 |5|[huhexian/2012-huhexian](https://github.com/huhexian/2012-huhexian)|一个基于 Twenty Twelve 修改的 WordPress 双栏文字主题|100|2024-05-21|2023-06-08|
@@ -22,9 +22,9 @@
 |15|[poetbi/boaphp](https://github.com/poetbi/boaphp)|boaPHP是一款免费开源、灵活易用的配置式PHP框架，MVC设计模式，完全面向对象，易学易用、便于快速开发|57|2024-05-15|2023-10-08|
 |16|[PearNoDec/DouYinParse](https://github.com/PearNoDec/DouYinParse)|抖音短视频去水印解析API - PHP|52|2024-02-28|2023-09-06|
 |17|[TGsuoyin/trx](https://github.com/TGsuoyin/trx)|TG机器人 波场TRON能量租赁机器人、TRX能量自助租赁、TRX兑换、自动回能量、商城、地址监听、会员24小时自助购买 -完整功能 https://t.me/trxdhV|49|2024-04-26|2024-01-20|
-|18|[aazooo/zjmf-manger-decoded](https://github.com/aazooo/zjmf-manger-decoded)|魔方财务系统全解密版|43|2024-01-08|2023-08-25|
-|19|[imjeff/wordpress-dear](https://github.com/imjeff/wordpress-dear)|WordPress 极极简主题 Dear，无 JS、CSS 文件载入，无分页，无评论，对程序极简优化。复刻 Bearblog 主题。|42|2023-12-13|2023-11-30|
-|20|[netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr)|彩虹聚合DNS管理系统|41|2024-05-24|2024-04-03|
+|18|[netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr)|彩虹聚合DNS管理系统|43|2024-05-24|2024-04-03|
+|19|[aazooo/zjmf-manger-decoded](https://github.com/aazooo/zjmf-manger-decoded)|魔方财务系统全解密版|43|2024-01-08|2023-08-25|
+|20|[imjeff/wordpress-dear](https://github.com/imjeff/wordpress-dear)|WordPress 极极简主题 Dear，无 JS、CSS 文件载入，无分页，无评论，对程序极简优化。复刻 Bearblog 主题。|42|2023-12-13|2023-11-30|
 |21|[saithink/saiadmin](https://github.com/saithink/saiadmin)|SaiAdmin框架后端|41|2024-05-22|2024-01-20|
 |22|[airmb/airxyz](https://github.com/airmb/airxyz)|air.airxyz.xyz 空气面板 服务器运维监控 AppleID自动解锁 删除手机绑定 自动修改密码|41|2024-01-21|2023-07-23|
 |23|[whitebearcode/typecho-beargallery](https://github.com/whitebearcode/typecho-beargallery)|一款简洁优雅的Typecho摄影类相册主题|40|2024-04-14|2024-04-10|
