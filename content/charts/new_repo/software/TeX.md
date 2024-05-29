@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2024-05-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[huangwb8/ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX)|中国科研常用LaTeX模板集|199|2024-03-08|2024-02-12|
+|1|[huangwb8/ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX)|中国科研常用LaTeX模板集|202|2024-03-08|2024-02-12|
 |2|[NemoYuan2008/SJTU-Thesis-Proposal](https://github.com/NemoYuan2008/SJTU-Thesis-Proposal)|上海交通大学开题报告LaTeX模板（非官方） Shanghai Jiao Tong University LaTeX Template for thesis proposal (unofficial)|52|2024-05-10|2023-12-03|
 |3|[Teddy-van-Jerry/seuthesis2024b](https://github.com/Teddy-van-Jerry/seuthesis2024b)|LaTeX Template of Southeast University Thesis for Class of 2024 Bachelors (东南大学 2024 届本科毕设 LaTeX 模板)|25|2024-05-26|2023-11-10|
 |4|[jialinlvcn/LaTeX-NewTemplate-For-NPU-undergraduate-Thesis](https://github.com/jialinlvcn/LaTeX-NewTemplate-For-NPU-undergraduate-Thesis)|西北工业大学本科毕业设计新版本模板，根据https://github.com/polossk/LaTeX-Template-For-NPU-Thesis 进行了调整|14|2024-05-14|2023-06-30|

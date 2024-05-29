@@ -1,28 +1,28 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Perl
-<sub>数据更新: 2024-05-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|4609|2024-04-10|
+|1|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|4610|2024-04-10|
 |2|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1251|2024-05-27|
 |3|[webmin/authentic-theme](https://github.com/webmin/authentic-theme)|Official theme for the best server management panel of the 21st Century|941|2024-05-26|
 |4|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|433|2024-05-16|
 |5|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|392|2024-02-09|
 |6|[wisdomfusion/qqwry.dat](https://github.com/wisdomfusion/qqwry.dat)|纯真IP地址数据库镜像，mirror of qqwry.dat|386|2023-12-03|
 |7|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|306|2024-04-08|
-|8|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|277|2024-05-27|
+|8|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|277|2024-05-28|
 |9|[open-c3/open-c3](https://github.com/open-c3/open-c3)|自动化运维平台/CICD系统/发布系统/作业平台/监控系统/云监控/故障自愈/K8S集群管理/CMDB/公有云资源管理/工单系统/流程系统/成本优化|233|2024-04-19|
 |10|[hn/reolink-camera](https://github.com/hn/reolink-camera)|Reolink RLC-410-5MP IP camera reverse engineered technical details|138|2024-02-11|
-|11|[isi-nlp/uroman](https://github.com/isi-nlp/uroman)|Universal Romanizer that can convert any unicode script to roman (latin) script|120|2024-04-23|
+|11|[isi-nlp/uroman](https://github.com/isi-nlp/uroman)|Universal Romanizer that can convert any unicode script to roman (latin) script|122|2024-04-23|
 |12|[Gilwyad/mailnesia.com](https://github.com/Gilwyad/mailnesia.com)|Anonymous Email in Seconds|100|2024-03-21|
-|13|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|94|2024-05-27|
+|13|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|94|2024-05-28|
 |14|[esrrhs/pLua](https://github.com/esrrhs/pLua)|Lua 性能分析工具 Lua profiler tool like gperftools|83|2024-04-23|
-|15|[shangshanzhizhe/Work_flow_of_population_genetics](https://github.com/shangshanzhizhe/Work_flow_of_population_genetics)|整理常用的群体遗传学分析流程和脚本|81|2024-03-14|
+|15|[shangshanzhizhe/Work_flow_of_population_genetics](https://github.com/shangshanzhizhe/Work_flow_of_population_genetics)|整理常用的群体遗传学分析流程和脚本|82|2024-03-14|
 |16|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|67|2024-03-30|
-|17|[TheBeastofwar/linuxhacker](https://github.com/TheBeastofwar/linuxhacker)|一款linux 内网渗透辅助工具|47|2024-01-31|
-|18|[zhy201810576/ETagCN](https://github.com/zhy201810576/ETagCN)|基于Difegue编写的E-Hentai插件进行改良，结合EhTagTranslation项目提供的数据库转换来自E-Hentai上的英文标签为中文标签。|45|2024-03-03|
+|17|[TheBeastofwar/linuxhacker](https://github.com/TheBeastofwar/linuxhacker)|一款linux 内网渗透辅助工具|48|2024-01-31|
+|18|[zhy201810576/ETagCN](https://github.com/zhy201810576/ETagCN)|基于Difegue编写的E-Hentai插件进行改良，结合EhTagTranslation项目提供的数据库转换来自E-Hentai上的英文标签为中文标签。|46|2024-03-03|
 |19|[Yanstory/tpZHCNex](https://github.com/Yanstory/tpZHCNex)|thpatch zh-hans extra patches (Beta)|18|2024-05-04|
 |20|[g0v/people-in-news](https://github.com/g0v/people-in-news)|公眾人物新聞的追蹤|17|2024-05-04|
 |21|[YanMing-lxb/YM-VSCode-Configurations-for-LaTeX](https://github.com/YanMing-lxb/YM-VSCode-Configurations-for-LaTeX)|一个可以让你轻松本地部署好LaTeX的项目|7|2024-04-05|
