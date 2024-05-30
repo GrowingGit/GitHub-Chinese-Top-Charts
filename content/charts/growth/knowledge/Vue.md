@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Vue
-<sub>数据更新: 2024-05-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[wanglin2/mind-map](https://github.com/wanglin2/mind-map)|一个还算强大的Web思维导图。A relatively powerful web mind map.|4181|4|2024-05-28|
-|2|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|4265|3|2024-05-21|
-|3|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|4825|3|2024-05-21|
-|4|[hepengwei/visualization-collection-vue](https://github.com/hepengwei/visualization-collection-vue)|🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（Vue版本）|606|2|2024-04-26|
-|5|[inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|3452|2|2024-05-07|
-|6|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|1161|1|2024-05-27|
-|7|[fre123-com/fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)|FRE123 信息流项目，包含：全网热榜、技术热榜、技术文章、技术周刊等|120|1|2023-12-27|
-|8|[ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss)|:orange_book: 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、iCSS前端趣闻、字节前端、前端精读评论、前端食堂、前端从进阶到入院、淘系前端团队、张鑫旭博客、前端里、凹凸实验室|2317|1|2024-05-24|
-|9|[simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe)|LinguaCafe is a self-hosted software that helps language learners read foreign languages.|749|1|2024-05-28|
+|1|[wanglin2/mind-map](https://github.com/wanglin2/mind-map)|一个还算强大的Web思维导图。A relatively powerful web mind map.|4202|4|2024-05-29|
+|2|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|4267|3|2024-05-21|
+|3|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|4827|3|2024-05-21|
+|4|[hepengwei/visualization-collection-vue](https://github.com/hepengwei/visualization-collection-vue)|🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（Vue版本）|608|2|2024-04-26|
+|5|[inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|3456|2|2024-05-07|
+|6|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|1161|1|2024-05-29|
+|7|[fre123-com/fre123-info-flow](https://github.com/fre123-com/fre123-info-flow)|FRE123 信息流项目，包含：全网热榜、技术热榜、技术文章、技术周刊等|121|1|2023-12-27|
+|8|[ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss)|:orange_book: 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、iCSS前端趣闻、字节前端、前端精读评论、前端食堂、前端从进阶到入院、淘系前端团队、张鑫旭博客、前端里、凹凸实验室|2317|1|2024-05-29|
+|9|[simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe)|LinguaCafe is a self-hosted software that helps language learners read foreign languages.|750|1|2024-05-29|
 |10|[Sunnnner/wallhaven_rs](https://github.com/Sunnnner/wallhaven_rs)|Wallpapers图片下载器|9|1|2024-05-23|
 |11|[lcomplete/TechShare](https://github.com/lcomplete/TechShare)|🌟 分享效率方法 🪄、优质文章 📑、编程知识 🎹、实用工具 🛠️ 和有趣内容 😄。💌 当有重要的事情需要分享时会发送 newsletter。|770|1|2024-03-04|
-|12|[vant-ui/vant-demo](https://github.com/vant-ui/vant-demo)|Collection of vant demos.|1928|1|2024-03-24|
+|12|[vant-ui/vant-demo](https://github.com/vant-ui/vant-demo)|Collection of vant demos.|1929|1|2024-03-24|
 |13|[DrssXpro/waterfall-demo](https://github.com/DrssXpro/waterfall-demo)|Vue3 + TS：模仿小红书封装瀑布流组件|72|1|2024-05-23|
 |14|[a616567126/GPT-WEB-CLIENT](https://github.com/a616567126/GPT-WEB-CLIENT)|基于VUE2.0 聊天机器人！支持ChatGPT、Midjourney画图、flagstudio画图、sd画图，微信支付，支付宝支付，易支付，公众号引流，邮件注册，阿里云短信注册,后端代码地址：https://github.com/a616567126/GPT-WEB-JAVA  🔥|239|1|2024-03-11|
 |15|[aLittleDonkey/poetize-im-ui-vue3](https://github.com/aLittleDonkey/poetize-im-ui-vue3)|个人博客 聊天室，挑战最美博客，使用 SpringBoot 和 Vue 的个人网站|13|0|2024-05-03|
@@ -36,25 +36,25 @@
 |29|[11003/nuxtjs-blogvue](https://github.com/11003/nuxtjs-blogvue)|🍧 使用Nuxtjs搭建的自适应博客前台网站。而且，你也不用担心SEO的问题。|10|0|2024-04-20|
 |30|[boyyang-love/boyyang_blog](https://github.com/boyyang-love/boyyang_blog)|个人博客前端代码（vue3 + vite2 + typescript + pinia + naive-ui）|7|0|2024-01-31|
 |31|[nonhana/littleSharing-Frontend](https://github.com/nonhana/littleSharing-Frontend)|一个以Markdown为主要沟通形式的资源分享社区。Frontend：Vue3.0+Pinia+Vite+TypeScript+Element Plus|9|0|2024-03-29|
-|32|[imoyao/wiki](https://github.com/imoyao/wiki)|个人维基知识库|12|0|2024-05-24|
+|32|[imoyao/wiki](https://github.com/imoyao/wiki)|个人维基知识库|12|0|2024-05-29|
 |33|[Alickx/nuxt3-blog](https://github.com/Alickx/nuxt3-blog)|我的一个使用nuxt3构建的博客|7|0|2024-04-06|
 |34|[Fankekeke/travel_cos](https://github.com/Fankekeke/travel_cos)|基于SpringBoot + Vue的旅游住宿小程序 实现权限的分布控制，如管理员和民宿管理员，二则所能够操作的权限有质的区别。 实现控制前端页面的导航展示(添加，修改，删除，查询)。 实现景点的发布(添加，修改，删除，查询)。 实现旅游攻略的发布(添加，修改，删除，查询)。 实现民宿预定(添加，修改，删除，查询)。 实现民宿房间管理(添加，修改，删除，查询)。 订单统计，订单评价|31|0|2023-12-26|
-|35|[nice-people-frontend-community/nice-leetcode](https://github.com/nice-people-frontend-community/nice-leetcode)|好青年    leetcode 打卡群|38|0|2024-05-28|
+|35|[nice-people-frontend-community/nice-leetcode](https://github.com/nice-people-frontend-community/nice-leetcode)|好青年    leetcode 打卡群|38|0|2024-05-29|
 |36|[yubinCloud/notebook](https://github.com/yubinCloud/notebook)|学习笔记|4|0|2024-04-06|
 |37|[universe-st/noname-extensionManager](https://github.com/universe-st/noname-extensionManager)|无名杀《扩展管家》扩展，使用了vue特性。|4|0|2024-03-17|
 |38|[lucky131/Games](https://github.com/lucky131/Games)|vue小游戏合集|29|0|2024-05-12|
-|39|[WRXinYue/valaxy-theme-sakura](https://github.com/WRXinYue/valaxy-theme-sakura)|A two-dimensional style blog theme using the Valaxy framework, inspired by the WordPress Sakura theme (alpha) 使用 Valaxy 架构的二次元风格博客主题，灵感源自 WordPress 的 Sakura 主题|17|0|2024-05-23|
+|39|[WRXinYue/valaxy-theme-sakura](https://github.com/WRXinYue/valaxy-theme-sakura)|A two-dimensional style blog theme using the Valaxy framework, inspired by the WordPress Sakura theme (alpha) 使用 Valaxy 架构的二次元风格博客主题，灵感源自 WordPress 的 Sakura 主题|17|0|2024-05-29|
 |40|[laorange/paper-assistant](https://github.com/laorange/paper-assistant)|论文工具：文本复制工具 (智能删除空行空格乱码) |324|0|2024-01-24|
 |41|[PolarWS/Riceroll](https://github.com/PolarWS/Riceroll)|这是一个基于VUE和SSM的博客框架|6|0|2023-12-24|
 |42|[justorez/peppa](https://github.com/justorez/peppa)|🐷《挑战 52 天背完小猪佩奇》配套练习网站|4|0|2024-04-20|
 |43|[luoyunchong/lin-cms-vvlog](https://github.com/luoyunchong/lin-cms-vvlog)|增加了CMS博客的用户UI端|57|0|2024-05-26|
-|44|[wejectchen/Ginblog](https://github.com/wejectchen/Ginblog)|gin+vue+MySQL全栈制作一个博客|579|0|2024-01-27|
+|44|[wejectchen/Ginblog](https://github.com/wejectchen/Ginblog)|gin+vue+MySQL全栈制作一个博客|580|0|2024-01-27|
 |45|[yunyuyuan/nuxt2-blog](https://github.com/yunyuyuan/nuxt2-blog)|nuxt2旧博客|10|0|2024-03-13|
 |46|[open17/vitepress-theme-open17](https://github.com/open17/vitepress-theme-open17)|一款简单美观的博客主题,继承于vitepress默认主题|7|0|2024-05-11|
-|47|[KyleBing/map](https://github.com/KyleBing/map)|路书，路线规划，高德地图 api 示例，地图信息|47|0|2024-05-16|
+|47|[KyleBing/map](https://github.com/KyleBing/map)|路书，路线规划，高德地图 api 示例，地图信息|48|0|2024-05-16|
 |48|[galaxy-s10/nuxt-blog-client](https://github.com/galaxy-s10/nuxt-blog-client)|基于Nuxt2 + ElementUI 搭建的博客前台|47|0|2024-05-14|
 |49|[3fuyang/libre-testing](https://github.com/3fuyang/libre-testing)|2022 Software Testing course project, Tongji University. 同济大学软件测试课设|14|0|2024-05-21|
-|50|[cumt-robin/vue3-ts-blog-frontend](https://github.com/cumt-robin/vue3-ts-blog-frontend)|基于 vue3 + ts + ant-design-vue 的个人博客|130|0|2024-04-30|
+|50|[cumt-robin/vue3-ts-blog-frontend](https://github.com/cumt-robin/vue3-ts-blog-frontend)|基于 vue3 + ts + ant-design-vue 的个人博客|131|0|2024-05-29|
 |51|[airingursb/sophia](https://github.com/airingursb/sophia)|👩‍⚖️‍ Sophia：哲学知识共享社区（Built by Vue）|32|0|2023-12-15|
 |52|[kwonganding/KWebNote](https://github.com/kwonganding/KWebNote)|前端WEB学习笔记、练习Demo|11|0|2024-05-08|
 |53|[John-rong/Vmovie](https://github.com/John-rong/Vmovie)|电影网站制作（学习阶段），UI风格有点儿像Netflix|14|0|2024-04-08|
@@ -77,8 +77,8 @@
 |70|[ADKcodeXD/MMGC-frontend](https://github.com/ADKcodeXD/MMGC-frontend)|黄金祭MMGC，仅供MMGC使用，Nuxt3学习案例，官网前端。采用Nuxt3 正式版，支持国际化，封装fetch，采用了ElementPlus组件库。|17|0|2024-05-09|
 |71|[syh19/siyuan-plugin-task-list](https://github.com/syh19/siyuan-plugin-task-list)|思源笔记插件——汇总散落在整个工作空间的任务  Siyuan Note Plugin——Summarize tasks scattered throughout your workspace|22|0|2024-05-28|
 |72|[zhenquan321/vuePress-Blog](https://github.com/zhenquan321/vuePress-Blog)|🔥大前端进阶之道：前端性能优化，前端经典面试题，node面试题，webpack性能优化|26|0|2023-12-12|
-|73|[zerotrac/leetcode_problem_rating](https://github.com/zerotrac/leetcode_problem_rating)|Self-calculated rating of problems in leetcode weekly/biweekly contests.|445|0|2024-05-14|
-|74|[mo7cc/blog-source](https://github.com/mo7cc/blog-source)|https://blog.mo7.cc 博客开源源码|19|0|2024-05-28|
+|73|[zerotrac/leetcode_problem_rating](https://github.com/zerotrac/leetcode_problem_rating)|Self-calculated rating of problems in leetcode weekly/biweekly contests.|446|0|2024-05-14|
+|74|[mo7cc/blog-source](https://github.com/mo7cc/blog-source)|https://blog.mo7.cc 博客开源源码|19|0|2024-05-29|
 |75|[lpya/vue3-ts-vite-konvajs](https://github.com/lpya/vue3-ts-vite-konvajs)|vue3-ts-vite-konvajs是一个konvajs基础使用教程，它包含了矩形、圆、文本、多边形基本图形和常用的事件，并提供了项目实战案例|31|0|2024-04-04|
 |76|[PFCCLab/blog](https://github.com/PFCCLab/blog)|PFCC 社区博客|9|0|2024-04-26|
 |77|[XHXJ/json-GPT-translator](https://github.com/XHXJ/json-GPT-translator)|GPT-Translator 是一款前后端分离基于 OpenAI 的高效翻译软件。这个工具可以读取 JSON 和 Excel(zip) 文件，然后进行行翻译，并输出结果。|111|0|2024-04-18|
@@ -99,9 +99,9 @@
 |92|[ybz61/my-trip](https://github.com/ybz61/my-trip)|仿美团民宿；技术栈主要为Vue3+Vite4+Pinia+Vant3等；适合学习Vue3入门等；|8|0|2024-02-24|
 |93|[xiaozhao-66/xiaohongshu-Vue3](https://github.com/xiaozhao-66/xiaohongshu-Vue3)|一个仿照web端小红书的静态页面模板，使用vue3+ts，支持二次开发|10|0|2023-12-10|
 |94|[pea3nut/pea3nut-info](https://github.com/pea3nut/pea3nut-info)|网站“花生PeA的个人资料”（pea3nut.info）源码|17|0|2024-03-17|
-|95|[TongjiPetWelfareProject/DB_PetWelfare](https://github.com/TongjiPetWelfareProject/DB_PetWelfare)|同济大学数据库课程设计前端&数据库&文档——宠物救助中心 Pet Rescue Center  Foster&Adopt&Boards&Post&Bulletin&Employment|9|0|2024-04-22|
+|95|[TongjiPetWelfareProject/DB_PetWelfare](https://github.com/TongjiPetWelfareProject/DB_PetWelfare)|同济大学数据库课程设计前端&数据库&文档——宠物救助中心 Pet Rescue Center  Foster&Adopt&Boards&Post&Bulletin&Employment|10|0|2024-04-22|
 |96|[wangyupo/vue3-cookbook](https://github.com/wangyupo/vue3-cookbook)|vue3 组合式API、vuex、vue-router、axios、tailwindcss使用示例及代码展示，vue3 入门参考书，vue3 烹饪书 |52|0|2024-04-02|
-|97|[rymcu/nebula](https://github.com/rymcu/nebula)|nebula(星云)——一款现代化的知识社区前台项目，使用 Vue + NuxtJS + Element-UI 实现|117|0|2024-05-28|
+|97|[rymcu/nebula](https://github.com/rymcu/nebula)|nebula(星云)——一款现代化的知识社区前台项目，使用 Vue + NuxtJS + Element-UI 实现|118|0|2024-05-29|
 |98|[JULINJING/GeoCTAP](https://github.com/JULINJING/GeoCTAP)|武汉大学遥感信息工程学院2020级GIS工程设计与开发课程设计|5|0|2023-12-14|
 |99|[JACK-ZHANG-coming/frontEnd-all-knowledge](https://github.com/JACK-ZHANG-coming/frontEnd-all-knowledge)|个人前端知识集合汇总，计划囊括react、vue、typescript、js、css、html、前端面试题、设计模式、有趣的前端demo等|13|0|2024-05-27|
 |100|[OToNaShiAKi/material-douden-tool](https://github.com/OToNaShiAKi/material-douden-tool)|采用 微拟物 FUI & Material 设计的向 bilibili 直播间发送 Vtuber 翻译、歌词的弹幕同传工具|52|0|2024-02-28|
@@ -113,7 +113,7 @@
 |106|[JDArmy/BREAK](https://github.com/JDArmy/BREAK)|业务风险枚举与规避知识框架（Business Risk Enumeration & Avoidance Kownledge）|259|0|2024-04-03|
 |107|[youngyangyang04/element-ui](https://github.com/youngyangyang04/element-ui)|【代码随想录知识星球】项目分享-ui组件库|7|0|2024-03-04|
 |108|[qq919006380/notes](https://github.com/qq919006380/notes)|个人网站/笔记|8|0|2024-05-03|
-|109|[aLittleDonkey/poetize-ui-vue2](https://github.com/aLittleDonkey/poetize-ui-vue2)|个人博客 聊天室，挑战最美博客，使用 SpringBoot 和 Vue 的个人网站|49|0|2024-05-03|
+|109|[aLittleDonkey/poetize-ui-vue2](https://github.com/aLittleDonkey/poetize-ui-vue2)|个人博客 聊天室，挑战最美博客，使用 SpringBoot 和 Vue 的个人网站|50|0|2024-05-03|
 |110|[Himmeltala/cnblogs-theme-bleu](https://github.com/Himmeltala/cnblogs-theme-bleu)|【博客园主题皮肤】基于 Vite+Vue3+TS 构建的一款博客园皮肤。|7|0|2024-02-05|
 |111|[open17/vuepress-theme-qbook](https://github.com/open17/vuepress-theme-qbook)|🍉一个美观的VuePress博客&文档主题 |7|0|2024-04-10|
 |112|[galaxy-s10/vue3-blog-admin](https://github.com/galaxy-s10/vue3-blog-admin)|基于Vue3 + Webpack5 + Typescript 搭建的博客后台|32|0|2024-05-08|
@@ -132,7 +132,7 @@
 |125|[alexwjj/alexwjj.github.io](https://github.com/alexwjj/alexwjj.github.io)|基于vuePress的博客，定期分享前端知识，求star|207|0|2024-03-27|
 |126|[XPoet/vue-webpack-todoapp](https://github.com/XPoet/vue-webpack-todoapp)|:notebook_with_decorative_cover:vue + webpack打造todo应用|188|0|2024-05-13|
 |127|[Lionad-Morotar/blog](https://github.com/Lionad-Morotar/blog)|仿生狮子的个人博客，写点代码以及，胡说八道|33|0|2024-05-27|
-|128|[izhichao/vitepress-theme-minimalism](https://github.com/izhichao/vitepress-theme-minimalism)|A Minimalist VitePress Blog Theme   一个极简的 VitePress 博客主题|9|0|2024-05-22|
+|128|[izhichao/vitepress-theme-minimalism](https://github.com/izhichao/vitepress-theme-minimalism)|A Minimalist VitePress Blog Theme   一个极简的 VitePress 博客主题|10|0|2024-05-22|
 |129|[flaribbit/vitepress-theme-sakura](https://github.com/flaribbit/vitepress-theme-sakura)|A lovely blog theme for vitepress. 可爱又轻量的二次元博客主题！大概是隔壁 wordpress sakura 主题的移植吧|99|0|2024-02-06|
 |130|[wangrongding/frontend-park](https://github.com/wangrongding/frontend-park)|🌸这是一个有趣的前端趣味知识公园~该项目是我平时捣鼓前端相关技术的一些案例集合。【涵盖：（Tensorflow.js-姿态识别，人脸识别），(WebRTC-音视频通话，录屏，虚拟背景，信令服务器)，（Threejs-太阳系，3D 动画），（图片处理-千图成像，图片压缩，画板），（隐写术-文本隐写加密，图片隐写加密）等等...】|495|0|2024-03-10|
 |131|[daixu-cn/Blog](https://github.com/daixu-cn/Blog)|个人简约博客，响应式布局兼容多端；支持多主题；黑暗模式；QQ、GitHub、Google快捷登录；搭配Node后端，整站部署。具体查看 Readme 完整文档。|4|0|2024-04-28|

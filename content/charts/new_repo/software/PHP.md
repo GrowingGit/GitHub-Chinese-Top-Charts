@@ -1,28 +1,28 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > PHP
-<sub>数据更新: 2024-05-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-05-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的高性能面板|946|2024-05-28|2023-11-14|
-|2|[xiaoxuan6/SMSBombing](https://github.com/xiaoxuan6/SMSBombing)|短信轰炸|264|2024-05-27|2023-07-19|
+|1|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的高性能面板|996|2024-05-29|2023-11-14|
+|2|[xiaoxuan6/SMSBombing](https://github.com/xiaoxuan6/SMSBombing)|短信轰炸|269|2024-05-29|2023-07-19|
 |3|[icewolf-sec/PerlinPuzzle-Webshell-PHP](https://github.com/icewolf-sec/PerlinPuzzle-Webshell-PHP)|使用分支对抗技术制作的PHP Webshell，截止2024年1月18日，共数十个查杀引擎免杀|237|2024-01-19|2024-01-19|
 |4|[chengxs1994/ChatGPT-SDImg-Web](https://github.com/chengxs1994/ChatGPT-SDImg-Web)|基于ChatGPT-Next-Web，集成SD webui AI绘图，实现注册登录，次数限制，充值，分享等功能|151|2024-01-03|2023-06-01|
 |5|[huhexian/2012-huhexian](https://github.com/huhexian/2012-huhexian)|一个基于 Twenty Twelve 修改的 WordPress 双栏文字主题|100|2024-05-21|2023-06-08|
 |6|[imiphp/imi-ai](https://github.com/imiphp/imi-ai)|imi-ai is a ChatGPT open source project based on PHP+Swoole+Vue, which can be deployed simply and quickly.（imi-ai 是一个基于 PHP+Swoole+Vue 的 ChatGPT 开源项目，可以简单快速部署。）|70|2024-04-20|2023-06-02|
-|7|[iranee/qnap-zerotier](https://github.com/iranee/qnap-zerotier)|ZeroTier For QNAP with WebUI|66|2024-04-11|2024-02-25|
+|7|[iranee/qnap-zerotier](https://github.com/iranee/qnap-zerotier)|ZeroTier For QNAP with WebUI|68|2024-04-11|2024-02-25|
 |8|[chenggx/douyin-parse-danmu](https://github.com/chenggx/douyin-parse-danmu)|抖音直播弹幕抓取|66|2023-12-30|2023-09-26|
-|9|[v5star/rustdesk-api](https://github.com/v5star/rustdesk-api)|rustdesk地址薄服务接口，自己架设后，可以方便的管理自己设备ID以及密码|65|2024-05-17|2023-08-26|
-|10|[zjkal/mysql-helper](https://github.com/zjkal/mysql-helper)|一个便捷的MySQL导入导出的助手类库。 a mysql import and export helper library.|64|2024-04-19|2023-09-01|
+|9|[zjkal/mysql-helper](https://github.com/zjkal/mysql-helper)|一个便捷的MySQL导入导出的助手类库。 a mysql import and export helper library.|64|2024-04-19|2023-09-01|
+|10|[v5star/rustdesk-api](https://github.com/v5star/rustdesk-api)|rustdesk地址薄服务接口，自己架设后，可以方便的管理自己设备ID以及密码|64|2024-05-17|2023-08-26|
 |11|[webman-php/midjourney-proxy](https://github.com/webman-php/midjourney-proxy)|全功能Midjourney Discord代理，支持Midjourney所有功能，稳定，免费|63|2024-05-17|2024-03-12|
 |12|[Hyizhou1/trx](https://github.com/Hyizhou1/trx)|tg机器人 trx兑换、能量租赁、trx闪兑自动回能量、商城、地址监听、会员24小时自助购买，TG验群机器人，TG引流机器人，TG算账机器人，TG代摇快三牛牛推机器人 -完整功能 https://t.me/hongsx|57|2024-05-23|2024-02-19|
 |13|[poetbi/boaphp](https://github.com/poetbi/boaphp)|boaPHP是一款免费开源、灵活易用的配置式PHP框架，MVC设计模式，完全面向对象，易学易用、便于快速开发|57|2024-05-15|2023-10-08|
-|14|[PearNoDec/DouYinParse](https://github.com/PearNoDec/DouYinParse)|抖音短视频去水印解析API - PHP|52|2024-02-28|2023-09-06|
-|15|[netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr)|彩虹聚合DNS管理系统|51|2024-05-24|2024-04-03|
+|14|[netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr)|彩虹聚合DNS管理系统|53|2024-05-24|2024-04-03|
+|15|[PearNoDec/DouYinParse](https://github.com/PearNoDec/DouYinParse)|抖音短视频去水印解析API - PHP|53|2024-02-28|2023-09-06|
 |16|[TGsuoyin/trx](https://github.com/TGsuoyin/trx)|TG机器人 波场TRON能量租赁机器人、TRX能量自助租赁、TRX兑换、自动回能量、商城、地址监听、会员24小时自助购买 -完整功能 https://t.me/trxdhV|49|2024-04-26|2024-01-20|
 |17|[aazooo/zjmf-manger-decoded](https://github.com/aazooo/zjmf-manger-decoded)|魔方财务系统全解密版|43|2024-01-08|2023-08-25|
-|18|[saithink/saiadmin](https://github.com/saithink/saiadmin)|SaiAdmin框架后端|42|2024-05-27|2024-01-20|
+|18|[saithink/saiadmin](https://github.com/saithink/saiadmin)|SaiAdmin框架后端|42|2024-05-29|2024-01-20|
 |19|[imjeff/wordpress-dear](https://github.com/imjeff/wordpress-dear)|WordPress 极极简主题 Dear，无 JS、CSS 文件载入，无分页，无评论，对程序极简优化。复刻 Bearblog 主题。|42|2023-12-13|2023-11-30|
 |20|[airmb/airxyz](https://github.com/airmb/airxyz)|air.airxyz.xyz 空气面板 服务器运维监控 AppleID自动解锁 删除手机绑定 自动修改密码|42|2024-01-21|2023-07-23|
 |21|[whitebearcode/typecho-beargallery](https://github.com/whitebearcode/typecho-beargallery)|一款简洁优雅的Typecho摄影类相册主题|40|2024-04-14|2024-04-10|
