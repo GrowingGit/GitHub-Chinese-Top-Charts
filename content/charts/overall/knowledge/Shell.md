@@ -1,62 +1,62 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Shell
-<sub>数据更新: 2024-05-31&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-06-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)|程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).|60577|2024-05-19|
+|1|[Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook)|程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).|60589|2024-05-19|
 |2|[shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist)|:see_no_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞|28524|2024-04-16|
-|3|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|25585|2024-02-26|
-|4|[rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)|Kubernetes中文指南/云原生应用架构实战手册|10983|2024-05-02|
-|5|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|8856|2024-05-23|
-|6|[charlax/engineering-management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|7343|2024-05-20|
-|7|[edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines)|A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more|6816|2024-05-25|
-|8|[gonglei007/GameDevMind](https://github.com/gonglei007/GameDevMind)|最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。|4530|2024-02-19|
-|9|[wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial)|Bash 教程|4177|2024-05-28|
+|3|[dwmkerr/hacker-laws](https://github.com/dwmkerr/hacker-laws)|💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws|25588|2024-02-26|
+|4|[rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook)|Kubernetes中文指南/云原生应用架构实战手册|10985|2024-05-31|
+|5|[daliansky/Hackintosh](https://github.com/daliansky/Hackintosh)|Hackintosh long-term maintenance model EFI and installation tutorial|8857|2024-05-23|
+|6|[charlax/engineering-management](https://github.com/charlax/engineering-management)|A collection of inspiring resources related to engineering management and tech leadership|7344|2024-05-20|
+|7|[edoardottt/awesome-hacker-search-engines](https://github.com/edoardottt/awesome-hacker-search-engines)|A curated list of awesome search engines useful during Penetration testing, Vulnerability assessments, Red/Blue Team operations, Bug Bounty and more|6825|2024-05-25|
+|8|[gonglei007/GameDevMind](https://github.com/gonglei007/GameDevMind)|最全面的游戏开发技术图谱。帮助游戏开发者们在已知问题上节省时间，省出更多的精力投入到更有创造性的工作中去。|4533|2024-02-19|
+|9|[wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial)|Bash 教程|4178|2024-05-28|
 |10|[apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh)|Pytorch 中文文档|4059|2024-05-28|
 |11|[wangdoc/javascript-tutorial](https://github.com/wangdoc/javascript-tutorial)|JavaScript 教程 https://wangdoc.com/javascript|3857|2024-05-04|
-|12|[fengyuhetao/shell](https://github.com/fengyuhetao/shell)|Linux命令行与shell脚本编程大全案例|3793|2024-04-25|
-|13|[wslutilities/wslu](https://github.com/wslutilities/wslu)|A collection of utilities for Windows Subsystem for Linux|3241|2024-04-10|
-|14|[tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)|An awesome & curated list of best LLMOps tools for developers|3211|2024-05-24|
-|15|[neargle/my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)|:atom: [WIP] 整理过去的分享，从零开始的Kubernetes攻防 🧐|2802|2024-05-06|
-|16|[Cats-Team/AdRules](https://github.com/Cats-Team/AdRules)|List for blocking ads in the Chinese region|2565|2024-05-30|
+|12|[fengyuhetao/shell](https://github.com/fengyuhetao/shell)|Linux命令行与shell脚本编程大全案例|3794|2024-04-25|
+|13|[wslutilities/wslu](https://github.com/wslutilities/wslu)|A collection of utilities for Windows Subsystem for Linux|3244|2024-04-10|
+|14|[tensorchord/Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps)|An awesome & curated list of best LLMOps tools for developers|3217|2024-05-24|
+|15|[neargle/my-re0-k8s-security](https://github.com/neargle/my-re0-k8s-security)|:atom: [WIP] 整理过去的分享，从零开始的Kubernetes攻防 🧐|2801|2024-05-06|
+|16|[Cats-Team/AdRules](https://github.com/Cats-Team/AdRules)|List for blocking ads in the Chinese region|2565|2024-05-31|
 |17|[LCTT/TranslateProject](https://github.com/LCTT/TranslateProject)|Linux中国翻译项目|2220|2024-04-09|
-|18|[pingcap/docs-cn](https://github.com/pingcap/docs-cn)|TiDB/TiKV/PD 中文文档|1802|2024-05-30|
-|19|[WindrunnerMax/EveryDay](https://github.com/WindrunnerMax/EveryDay)|前端基础 个人博客 学习笔记|1676|2024-05-27|
+|18|[pingcap/docs-cn](https://github.com/pingcap/docs-cn)|TiDB/TiKV/PD 中文文档|1802|2024-05-31|
+|19|[WindrunnerMax/EveryDay](https://github.com/WindrunnerMax/EveryDay)|前端基础 个人博客 学习笔记|1677|2024-05-31|
 |20|[overmind1980/oeasy-python-tutorial](https://github.com/overmind1980/oeasy-python-tutorial)|良心的 Python 教程，面向零基础初学者简明易懂的 Python3 入门基础课程。在linux+vim生产力环境下，从浅入深，从简单程序学到网络爬虫。可以配合蓝桥云上实验环境操作。|1664|2024-04-01|
 |21|[discourse/discourse_docker](https://github.com/discourse/discourse_docker)|A Docker image for Discourse|1634|2024-05-30|
-|22|[zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial)|后端 （Java Golang）全栈知识架构体系总结|1566|2024-03-27|
+|22|[zhonghuasheng/Tutorial](https://github.com/zhonghuasheng/Tutorial)|后端 （Java Golang）全栈知识架构体系总结|1567|2024-03-27|
 |23|[studygolang/GCTT](https://github.com/studygolang/GCTT)|GCTT Go中文网翻译组。|1385|2024-05-28|
 |24|[bollwarm/SecToolSet](https://github.com/bollwarm/SecToolSet)|The security tool(project) Set from github。github安全项目工具集合 |1214|2024-05-28|
 |25|[vmayoral/ros-robotics-companies](https://github.com/vmayoral/ros-robotics-companies)|A list of robotics companies using the Robot Operating System (ROS and ROS 2). |1168|2024-03-14|
 |26|[the0demiurge/CharlesScripts](https://github.com/the0demiurge/CharlesScripts)|My awesome scripts for Arch Linux or Ubuntu Gnome latest LTS or MacBook.|1022|2024-04-22|
 |27|[wangdoc/es6-tutorial](https://github.com/wangdoc/es6-tutorial)|一本开源的 JavaScript 语言教程，全面介绍 ECMAScript 6 新引入的语法特性。|993|2024-05-22|
-|28|[dunwu/blog](https://github.com/dunwu/blog)|:dart: 钝悟的博客|822|2024-04-26|
-|29|[qichengzx/gopher-reading-list-zh_CN](https://github.com/qichengzx/gopher-reading-list-zh_CN)|Golang中文博客文章阅读列表|678|2024-03-09|
+|28|[dunwu/blog](https://github.com/dunwu/blog)|:dart: 钝悟的博客|824|2024-04-26|
+|29|[qichengzx/gopher-reading-list-zh_CN](https://github.com/qichengzx/gopher-reading-list-zh_CN)|Golang中文博客文章阅读列表|679|2024-03-09|
 |30|[colourful987/bytedance-alibaba-interview](https://github.com/colourful987/bytedance-alibaba-interview)|阿里、字节 一套高效的iOS面试题解答|642|2024-01-27|
-|31|[ruochuan12/blog](https://github.com/ruochuan12/blog)|若川的博客—撰写了学习源码整体架构系列30余篇。组织了源码共读活动，每周一起学习200行左右的源码，加我微信 ruochuan02 参与。|559|2024-05-28|
-|32|[Esonhugh/Attack_Code](https://github.com/Esonhugh/Attack_Code)|文章 Attack Code 的详细全文。安全和开发总是具有伴生属性，尤其是云的安全方向，本篇文章是希望能帮助到读者的云安全入门材料。Full text of the article Attack Code. Security and development always have concomitant attributes, and this is especially true with t ...|529|2024-02-29|
-|33|[httpsok/httpsok](https://github.com/httpsok/httpsok)|🔥🔥🔥 一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书 自动续期，SSL 证书自动更新，https证书管理,https证书管理,免费证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt|525|2024-05-27|
+|31|[ruochuan12/blog](https://github.com/ruochuan12/blog)|若川的博客—撰写了学习源码整体架构系列30余篇。组织了源码共读活动，每周一起学习200行左右的源码，加我微信 ruochuan02 参与。|560|2024-05-31|
+|32|[httpsok/httpsok](https://github.com/httpsok/httpsok)|🔥🔥🔥 一行命令，轻松搞定SSL证书自动续期。 SSL泛域名证书，SSL证书管理，SSL证书 自动续期，SSL 证书自动更新，https证书管理,https证书管理,免费证书,TLS证书自动续签,nginx证书自动续期工具，nginx证书管理。从此告别Let's Encrypt|536|2024-05-27|
+|33|[Esonhugh/Attack_Code](https://github.com/Esonhugh/Attack_Code)|文章 Attack Code 的详细全文。安全和开发总是具有伴生属性，尤其是云的安全方向，本篇文章是希望能帮助到读者的云安全入门材料。Full text of the article Attack Code. Security and development always have concomitant attributes, and this is especially true with t ...|528|2024-02-29|
 |34|[zq99299/note-book](https://github.com/zq99299/note-book)|新笔记本，java、git、elasticsearch、mycat、设计模式、gradle、vue， 等 。vuepress 构建的 Markdown 笔记。|503|2024-05-24|
 |35|[vxiaov/vClash](https://github.com/vxiaov/vClash)|Clash插件 for Koolshare系列梅林、官方改版，适用于380/384/386/388版本固件啦。安装即用(内置免费代理订阅源)。|475|2024-05-30|
-|36|[yuyicai/update-kube-cert](https://github.com/yuyicai/update-kube-cert)|K8s 集群证书过期处理，更新 kubeadm 生成的证书有效期为 10 年。支持全部版本。|474|2024-05-15|
+|36|[yuyicai/update-kube-cert](https://github.com/yuyicai/update-kube-cert)|K8s 集群证书过期处理，更新 kubeadm 生成的证书有效期为 10 年。支持全部版本。|475|2024-05-15|
 |37|[cdk8s/cdk8s-team-style](https://github.com/cdk8s/cdk8s-team-style)|寻找志同道合的人，引发自身的思考|457|2024-05-25|
-|38|[SpaceLearner/Awesome-DynamicGraphLearning](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)|Awesome papers about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs).|451|2024-05-28|
+|38|[SpaceLearner/Awesome-DynamicGraphLearning](https://github.com/SpaceLearner/Awesome-DynamicGraphLearning)|Awesome papers about machine learning (deep learning) on dynamic (temporal) graphs (networks / knowledge graphs).|453|2024-05-28|
 |39|[weijiew/everystep](https://github.com/weijiew/everystep)|🚀 写点笔记、踩坑记录|401|2024-03-17|
 |40|[jgsrty/jgsrty.github.io](https://github.com/jgsrty/jgsrty.github.io)|:sunny: 英语学习 :feet: 项目预览：https://jgsrty.github.io 国内访问：https://rtyxmd.gitee.io|368|2024-05-23|
 |41|[wangtunan/blog](https://github.com/wangtunan/blog)|:memo: 记录个人博客，见证成长之路  https://wangtunan.github.io/blog/|359|2024-05-20|
-|42|[rentianyu/Ad-set-hosts](https://github.com/rentianyu/Ad-set-hosts)|集合多个去广告hosts并去重|331|2024-05-30|
+|42|[rentianyu/Ad-set-hosts](https://github.com/rentianyu/Ad-set-hosts)|集合多个去广告hosts并去重|331|2024-05-31|
 |43|[maravento/blackweb](https://github.com/maravento/blackweb)|Domains Blacklist for Squid-Cache|329|2024-05-13|
 |44|[llwslc/grammar-club](https://github.com/llwslc/grammar-club)|《语法俱乐部》- 旋元佑|319|2024-04-07|
 |45|[binghe001/BingheGuide](https://github.com/binghe001/BingheGuide)|🔥🔥🔥 📚 本代码库是作者冰河多年从事互联网大厂开发、架构的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容、底层原理、架构知识、渗透技术。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！|310|2024-05-26|
 |46|[wangdoc/html-tutorial](https://github.com/wangdoc/html-tutorial)|HTML 语言教程|284|2023-12-05|
 |47|[phodal/dx-book](https://github.com/phodal/dx-book)|《开发者体验：探索与重塑》电子书。book of research and refactoring in developer experience (WIP)|282|2024-02-24|
-|48|[kejilion/sh](https://github.com/kejilion/sh)|分享定制化的shell脚本！|267|2024-05-30|
+|48|[kejilion/sh](https://github.com/kejilion/sh)|分享定制化的shell脚本！|269|2024-05-31|
 |49|[imarvinle/CSGuide](https://github.com/imarvinle/CSGuide)|🔥 计算机学习路线，包括科班、非科班、Web、全栈、C++、Java、System等|265|2024-04-07|
 |50|[crazypeace/naive](https://github.com/crazypeace/naive)|NaïveProxy极简一键脚本。自动申请证书。可自定义端口。可与CaddyV2前置的VLESS/Vmess梯子并存。|223|2024-04-28|
 |51|[wangdoc/webapi-tutorial](https://github.com/wangdoc/webapi-tutorial)|Web API 教程|218|2024-05-20|
-|52|[liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource)|LLM全栈优质资源汇总|208|2024-04-29|
+|52|[liguodongiot/llm-resource](https://github.com/liguodongiot/llm-resource)|LLM全栈优质资源汇总|209|2024-04-29|
 |53|[tinyclub/cloud-lab](https://github.com/tinyclub/cloud-lab)|Docker based Cloud Lab Center, with noVNC and Gateone attachable LXDE Desktop and SSH Terminal. 本项目作者发布了《360° 剖析 Linux ELF》视频课程，欢迎订阅：https://www.cctalk.com/m/group/88089283|205|2024-04-28|
 |54|[justjavac/certbot-dns-aliyun](https://github.com/justjavac/certbot-dns-aliyun)|阿里云 DNS 的 certbot 插件，用来解决阿里云 DNS 不能自动为通配符证书续期的问题|187|2024-04-02|
 |55|[laubonghaudoi/Chinese_Rime](https://github.com/laubonghaudoi/Chinese_Rime)|收集非普通話漢語和古漢語的中州韻輸入法拼音方案 Collection of phonetic spelling schemas for Sinitic languages and dialects|180|2024-05-19|
@@ -93,7 +93,7 @@
 |86|[zjutjsj1004/python](https://github.com/zjutjsj1004/python)|python学习（基本语法，爬虫，Web）|45|2024-01-12|
 |87|[AndSonder/space.keter.top](https://github.com/AndSonder/space.keter.top)|这里是sonder的有点又没有太多用的笔记本   “一个人只有不停的写作，才不会被人海淹没”  你可以通过这个链接来访问网页版：https://space.keter.top|44|2024-04-10|
 |88|[tower1229/frontend-weekly](https://github.com/tower1229/frontend-weekly)|前端周刊，给前端同学准备的每周1小时阅读清单|43|2024-04-08|
-|89|[Lynricsy/HyperADRules](https://github.com/Lynricsy/HyperADRules)|HyperADRules，一个集合众家之长的、强力去广告的规则|42|2024-05-30|
+|89|[Lynricsy/HyperADRules](https://github.com/Lynricsy/HyperADRules)|HyperADRules，一个集合众家之长的、强力去广告的规则|42|2024-05-31|
 |90|[shidahuilang/SS-SSR-TG-iptables-bt](https://github.com/shidahuilang/SS-SSR-TG-iptables-bt)|节点全集合一键脚本搭建|41|2024-01-18|
 |91|[afosne/DNS-Unlock](https://github.com/afosne/DNS-Unlock)|加速网络解析速度，解锁Netflix、hulu、disney、YouTube、telegram，Instagram，Facebook等网页|40|2024-05-08|
 |92|[shang1219178163/EfficientWork](https://github.com/shang1219178163/EfficientWork)|iOS自动化之路 - 😺效率工作，快乐生活|40|2024-05-28|
