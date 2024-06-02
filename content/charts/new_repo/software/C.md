@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > C
-<sub>数据更新: 2024-06-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-06-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lizongying/my-tv](https://github.com/lizongying/my-tv)|我的电视 电视直播软件，安装即可使用|27049|2024-05-31|2023-12-04|
-|2|[karpathy/llama2.c](https://github.com/karpathy/llama2.c)|Inference Llama 2 in one file of pure C|16469|2024-05-29|2023-07-23|
-|3|[hrvach/deskhop](https://github.com/hrvach/deskhop)|Fast Desktop Switching Device|5908|2024-05-24|2023-12-24|
-|4|[OpenNJet/OpenNJet](https://github.com/OpenNJet/OpenNJet)|-|1168|2024-05-06|2024-04-02|
+|1|[lizongying/my-tv](https://github.com/lizongying/my-tv)|我的电视 电视直播软件，安装即可使用|27107|2024-05-31|2023-12-04|
+|2|[karpathy/llama2.c](https://github.com/karpathy/llama2.c)|Inference Llama 2 in one file of pure C|16472|2024-05-29|2023-07-23|
+|3|[hrvach/deskhop](https://github.com/hrvach/deskhop)|Fast Desktop Switching Device|5911|2024-05-24|2023-12-24|
+|4|[OpenNJet/OpenNJet](https://github.com/OpenNJet/OpenNJet)|-|1170|2024-05-06|2024-04-02|
 |5|[wangfly-me/LoaderFly](https://github.com/wangfly-me/LoaderFly)|助力每一位RT队员，快速生成免杀木马|633|2024-04-17|2023-08-22|
-|6|[cnlohr/lolra](https://github.com/cnlohr/lolra)|Transmit LoRa Frames Without a Radio|566|2024-05-19|2024-03-25|
+|6|[cnlohr/lolra](https://github.com/cnlohr/lolra)|Transmit LoRa Frames Without a Radio|567|2024-05-19|2024-03-25|
 |7|[web1n/wechat-universal-flatpak](https://github.com/web1n/wechat-universal-flatpak)|Flatpak 打包微信 Linux Universal 版|528|2024-05-26|2024-03-08|
-|8|[RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)|chsrc  全平台命令行换源工具|324|2024-05-25|2023-09-03|
+|8|[RubyMetric/chsrc](https://github.com/RubyMetric/chsrc)|chsrc  全平台命令行换源工具|334|2024-05-25|2023-09-03|
 |9|[P001water/yuze](https://github.com/P001water/yuze)|A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式，支持跨平台使用|306|2024-03-06|2024-01-13|
 |10|[libdriver/st7789](https://github.com/libdriver/st7789)|ST7789 full function driver library for general MCU and Linux.|256|2024-02-25|2023-06-05|
-|11|[zhenruyan/WSL-libre-linux-kernel](https://github.com/zhenruyan/WSL-libre-linux-kernel)| Installing a 100% libre(free) linux kernel for wsl,It is possible to celebrate freedom within a cell. 给WSL替换自由内核!!!|223|2024-05-31|2023-07-04|
+|11|[zhenruyan/WSL-libre-linux-kernel](https://github.com/zhenruyan/WSL-libre-linux-kernel)| Installing a 100% libre(free) linux kernel for wsl,It is possible to celebrate freedom within a cell. 给WSL替换自由内核!!!|223|2024-06-01|2023-07-04|
 |12|[veo/nginx_shell](https://github.com/veo/nginx_shell)|nginx WebShell/内存马，更优雅的nignx backdoor|219|2024-01-04|2023-12-20|
 |13|[4ra1n/code-encryptor](https://github.com/4ra1n/code-encryptor)|该项目已集成到 https://github.com/jar-analyzer/jar-obfuscator 使用JNI加密字节码，通过JVMTI解密字节码以保护代码，支持自定义包名和密钥，使用魔法禁止黑客dump字节码|154|2024-05-14|2023-09-06|
 |14|[cutechip/TableLampController](https://github.com/cutechip/TableLampController)|一个可以背单词的台灯控制器|134|2024-04-15|2023-11-12|
@@ -23,7 +23,7 @@
 |16|[web3ToolBoxDev/toolBoxClient](https://github.com/web3ToolBoxDev/toolBoxClient)|一步一步编写web3工具——Step-by-Step Development of Web3 Tools|127|2024-04-25|2024-02-27|
 |17|[diylxy/LiClock](https://github.com/diylxy/LiClock)|一种兼具易用性与扩展性的多功能墨水屏天气时钟|121|2024-01-17|2023-10-02|
 |18|[xuzeyu91/Avalonia-Assistant](https://github.com/xuzeyu91/Avalonia-Assistant)|基于.Net8+Avalonia+Semantic Kernel 打造一个桌面端的智能AI助理|81|2024-01-19|2024-01-08|
-|19|[lhdjply/f1c200s_library](https://github.com/lhdjply/f1c200s_library)|该项目是为全志 F1C100S/F1C200S 所编写的库函数，编写风格模仿 STM32 标准库，使得从 STM32 过来的人更容易上手。项目已经移植了 cherryusb、fatfs、lvgl、rt-thread。|79|2024-05-20|2023-12-04|
+|19|[lhdjply/f1c200s_library](https://github.com/lhdjply/f1c200s_library)|该项目是为全志 F1C100S/F1C200S 所编写的库函数，编写风格模仿 STM32 标准库，使得从 STM32 过来的人更容易上手。项目已经移植了 cherryusb、fatfs、lvgl、rt-thread。|80|2024-05-20|2023-12-04|
 |20|[paper-tei/smart_car](https://github.com/paper-tei/smart_car)|西南交通大学独轮组代码|79|2024-03-06|2023-07-25|
 |21|[fake-rick/caw-bms](https://github.com/fake-rick/caw-bms)|锂电池管理系统|77|2024-02-19|2023-12-23|
 |22|[baimao-box/Self-Defective-Program](https://github.com/baimao-box/Self-Defective-Program)|无Windows API的新型恶意程序：自缺陷程序利用堆栈溢出的隐匿稳定攻击技术研究，A new type of malicious program without Windows API|76|2024-05-10|2024-05-01|
