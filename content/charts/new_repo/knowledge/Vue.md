@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2024-06-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-06-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -17,7 +17,7 @@
 |10|[WRXinYue/valaxy-theme-sakura](https://github.com/WRXinYue/valaxy-theme-sakura)|A two-dimensional style blog theme using the Valaxy framework, inspired by the WordPress Sakura theme (alpha) 使用 Valaxy 架构的二次元风格博客主题，灵感源自 WordPress 的 Sakura 主题|18|2024-05-31|2024-01-10|
 |11|[3529/fish-book](https://github.com/3529/fish-book)|fish-book 是一款可以隐蔽式阅读小说的工具(摸鱼)，基于 electron、vue2、vuex、element-ui、electron-store.  |14|2024-03-17|2023-07-01|
 |12|[yaoyaochil/WeyUI](https://github.com/yaoyaochil/WeyUI)| WeyUI是一款基于微信公众号、微信小程序、企业微信管理高度封装的UI组件库，帮助开发者更快速完成页面开发工作|12|2023-12-21|2023-09-24|
-|13|[Alittfre/vitepress-theme-bluearchive](https://github.com/Alittfre/vitepress-theme-bluearchive)|Blue Archive主题博客，基于VitePress，绝赞画饼中|10|2024-05-31|2024-04-17|
+|13|[Alittfre/vitepress-theme-bluearchive](https://github.com/Alittfre/vitepress-theme-bluearchive)|Blue Archive主题博客，基于VitePress，绝赞画饼中|11|2024-05-31|2024-04-17|
 |14|[xiaozhao-66/xiaohongshu-Vue3](https://github.com/xiaozhao-66/xiaohongshu-Vue3)|一个仿照web端小红书的静态页面模板，使用vue3+ts，支持二次开发|10|2023-12-10|2023-12-10|
 |15|[izhichao/vitepress-theme-minimalism](https://github.com/izhichao/vitepress-theme-minimalism)|A Minimalist VitePress Blog Theme   一个极简的 VitePress 博客主题|10|2024-05-22|2023-09-14|
 |16|[Sunnnner/wallhaven_rs](https://github.com/Sunnnner/wallhaven_rs)|Wallpapers图片下载器|9|2024-05-23|2024-05-21|
