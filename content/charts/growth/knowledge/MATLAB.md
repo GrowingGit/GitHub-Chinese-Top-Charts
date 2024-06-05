@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > MATLAB
-<sub>数据更新: 2024-06-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-06-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2345|4|2024-05-15|
-|2|[LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning)|我的导航学习笔记，内容涵盖导航定位开源程序的源码解读 ( 包括：RTKLIB、GAMP、GINav、Ginan、PSINS、SoftGNSS、KF-GINS、ORB-SLAM3、GICI-Lib 等)、各种导航设备的使用方式、书籍讲义、博客翻译、开源项目梳理、常用网站记录、Linux/Vim/Git/ROS/VSCode 常用命令；本仓库会长期更新，分享出来，跟大家做个交流，也激励着自己坚持学下去 ...|566|2|2024-06-01|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2352|4|2024-05-15|
+|2|[LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning)|我的导航学习笔记，内容涵盖导航定位开源程序的源码解读 ( 包括：RTKLIB、GAMP、GINav、Ginan、PSINS、SoftGNSS、KF-GINS、ORB-SLAM3、GICI-Lib 等)、各种导航设备的使用方式、书籍讲义、博客翻译、开源项目梳理、常用网站记录、Linux/Vim/Git/ROS/VSCode 常用命令；本仓库会长期更新，分享出来，跟大家做个交流，也激励着自己坚持学下去 ...|578|2|2024-06-01|
 |3|[dick20/MCM-ICM](https://github.com/dick20/MCM-ICM)|2004-2020美赛O奖论文|1614|1|2024-04-09|
-|4|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1306|1|2024-03-22|
+|4|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1309|1|2024-03-22|
 |5|[kyiree/SuperEngineer](https://github.com/kyiree/SuperEngineer)|个人学习记录|30|0|2024-06-02|
-|6|[luo0207/undergraduate_course_resources_AIA_HUSTER](https://github.com/luo0207/undergraduate_course_resources_AIA_HUSTER)|华中科技大学人工智能与自动化学院本科学习资料：课件、试卷、笔记、代码|45|0|2024-01-22|
+|6|[luo0207/undergraduate_course_resources_AIA_HUSTER](https://github.com/luo0207/undergraduate_course_resources_AIA_HUSTER)|华中科技大学人工智能与自动化学院本科学习资料：课件、试卷、笔记、代码|46|0|2024-01-22|
 |7|[kerenfu/JLDCF](https://github.com/kerenfu/JLDCF)|Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection"|75|0|2024-04-06|
 |8|[casparji1018921/-Structured-Light-3D-Reconstruction-](https://github.com/casparji1018921/-Structured-Light-3D-Reconstruction-)|这个代码库存放了个人学习结构光三维重建的学习内容和代码，旨在分享和交流，帮助其他对该主题感兴趣的人。如有问题或建议，欢迎联系我！（This repository contains personal learning materials and code related to structured light 3D reconstruction, intended for sharing and c ...|13|0|2024-03-07|
 |9|[xuaikun/summary](https://github.com/xuaikun/summary)|总结相关经验|5|0|2024-04-11|
