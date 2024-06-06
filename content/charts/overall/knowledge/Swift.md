@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Swift
-<sub>数据更新: 2024-06-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-06-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|14975|2024-06-02|
+|1|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|14977|2024-06-02|
 |2|[SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)|A handy collection of more than 500 native Swift extensions to boost your productivity.|13715|2024-05-17|
-|3|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |5153|2024-02-17|
+|3|[Jinxiansen/SwiftUI](https://github.com/Jinxiansen/SwiftUI)|`SwiftUI` Framework  Learning and Usage Guide. 🚀 |5154|2024-02-17|
 |4|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|2228|2023-12-31|
 |5|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|1502|2024-06-04|
 |6|[rlxone/Equinox](https://github.com/rlxone/Equinox)|🌇 🌃  Create dynamic wallpapers for macOS.|1071|2024-03-24|
 |7|[JmoVxia/CLDemo](https://github.com/JmoVxia/CLDemo)|记录平时博客中的Demo，持续更新|471|2024-04-01|
-|8|[jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example)|SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。|423|2024-04-23|
+|8|[jaywcjlove/swiftui-example](https://github.com/jaywcjlove/swiftui-example)|SwiftUI 示例，技巧和技术集合，帮助我构建应用程序，解决问题以及了解SwiftUI的实际工作方式。|424|2024-04-23|
 |9|[RickeyBoy/Rickey-iOS-Notes](https://github.com/RickeyBoy/Rickey-iOS-Notes)|一些笔记和收获，README 就是目录|378|2024-04-28|
 |10|[even-cheng/ECSigner](https://github.com/even-cheng/ECSigner)|iOS签名Mac客户端，iPhone客户端，网页签名，一键签名，网络地址直签，多文件同步签，自动区分企业签名和个人证书，一键Assets.car生成、解压导出和替换,自动注册设备并更新下载签名证书和签名文件进行签名，支持动态库注入。支持最新iOS15，并向下兼容。|240|2023-12-25|
 |11|[Lakr233/myyearwithgit](https://github.com/Lakr233/myyearwithgit)|代码仓库年终总结报告。|223|2023-12-24|
@@ -29,7 +29,7 @@
 |22|[simplismvip/Ebook](https://github.com/simplismvip/Ebook)|使用Swift写的电纸书阅读器，目前支持epub、txt格式电子书。|16|2024-04-09|
 |23|[SurveyCake/webhook](https://github.com/SurveyCake/webhook)|How to use SurveyCake webhook|16|2024-01-23|
 |24|[RicardoWesleyli/SwiftUI_Mastery](https://github.com/RicardoWesleyli/SwiftUI_Mastery)|What you might not believe is that this SwiftUI programming book was written by a product manager.|15|2024-02-16|
-|25|[aruis/BookTime](https://github.com/aruis/BookTime)|做一个安静的读书人|14|2024-01-05|
+|25|[aruis/BookTime](https://github.com/aruis/BookTime)|做一个安静的读书人|14|2024-06-05|
 |26|[rztime/QuicklySwift](https://github.com/rztime/QuicklySwift)|swift 提高UI编写效率，常用方法集合|10|2024-05-24|
 |27|[DamonHu/DDUtils](https://github.com/DamonHu/DDUtils)|DDUtils is a collection of commonly used features, developed based on Swift, that can be quickly implemented on iOS devices.|8|2024-05-28|
 

@@ -1,28 +1,28 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Dart
-<sub>数据更新: 2024-06-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-06-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[mylxsw/aidea](https://github.com/mylxsw/aidea)|AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。|6200|2024-05-28|2023-08-30|
-|2|[jing332/AListFlutter](https://github.com/jing332/AListFlutter)|AList 安卓版本，APK安装即用，无需Root或Termux。|684|2024-05-28|2024-01-14|
+|1|[mylxsw/aidea](https://github.com/mylxsw/aidea)|AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。|6198|2024-05-28|2023-08-30|
+|2|[jing332/AListFlutter](https://github.com/jing332/AListFlutter)|AList 安卓版本，APK安装即用，无需Root或Termux。|686|2024-05-28|2024-01-14|
 |3|[lyming99/wenznote](https://github.com/lyming99/wenznote)|一款由 flutter 开发的笔记软件，支持电脑端和手机端。|476|2024-05-29|2024-01-17|
-|4|[Predidit/oneAnime](https://github.com/Predidit/oneAnime)|一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范。|454|2024-06-04|2024-03-12|
-|5|[reqable/re-editor](https://github.com/reqable/re-editor)|Re-Editor is a powerful lightweight text and code editor widget.|431|2024-05-17|2024-02-05|
+|4|[Predidit/oneAnime](https://github.com/Predidit/oneAnime)|一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范。|457|2024-06-04|2024-03-12|
+|5|[reqable/re-editor](https://github.com/reqable/re-editor)|Re-Editor is a powerful lightweight text and code editor widget.|432|2024-05-17|2024-02-05|
 |6|[ChatBot-All/chatbot-app](https://github.com/ChatBot-All/chatbot-app)|"ChatBot" mobile private ChatGPT application, supporting GPT,  Gemini Pro & Ollama models.  拥有自己的移动端 ChatGPT/Gemini 应用。|409|2024-05-28|2024-04-27|
 |7|[doraemonkeys/WindSend](https://github.com/doraemonkeys/WindSend)|Quickly and securely sync clipboard, transfer files and directories between devices. 快速安全的同步剪切板，传输文件或文件夹|380|2024-06-04|2023-06-21|
-|8|[Tencent/tdesign-flutter](https://github.com/Tencent/tdesign-flutter)|A Flutter UI components lib for TDesign.|374|2024-05-31|2023-11-28|
-|9|[niuhuan/kobi](https://github.com/niuhuan/kobi)|拷贝漫画客户端|265|2024-06-04|2023-11-07|
+|8|[Tencent/tdesign-flutter](https://github.com/Tencent/tdesign-flutter)|A Flutter UI components lib for TDesign.|376|2024-06-05|2023-11-28|
+|9|[niuhuan/kobi](https://github.com/niuhuan/kobi)|拷贝漫画客户端|266|2024-06-04|2023-11-07|
 |10|[Ferry-200/coriander_player](https://github.com/Ferry-200/coriander_player)|Windows端本地音乐播放器，使用Material You配色。Dart (Flutter) + Rust (lofty, windows-rs) + C (bass lib) 多语言项目。绝赞开发中。|137|2024-05-18|2024-02-20|
 |11|[fluttercandies/flutter_tilt](https://github.com/fluttercandies/flutter_tilt)|👀 Easily apply tilt parallax hover effects for Flutter, which supports tilt, light, shadow effects, and gyroscope sensors   为 Flutter 轻松创建倾斜视差悬停效果，支持倾斜、光照、阴影效果和陀螺仪传感器|128|2024-05-14|2023-07-06|
-|12|[ExpTechTW/DPIP](https://github.com/ExpTechTW/DPIP)|Disaster Prevention Information Platform (防災資訊平台)|120|2024-06-04|2023-08-04|
+|12|[ExpTechTW/DPIP](https://github.com/ExpTechTW/DPIP)|Disaster Prevention Information Platform (防災資訊平台)|120|2024-06-05|2023-08-04|
 |13|[Celechron/Celechron](https://github.com/Celechron/Celechron)|服务于浙大学生的时间管理器|103|2024-05-14|2024-01-21|
 |14|[Cc-Edit/CcClipApp](https://github.com/Cc-Edit/CcClipApp)|2023-12 最新  -  使用 Flutter 实现音视频编辑项目 App，Flutter学习上手项目，前端上手Flutter项目，好看的 Flutter 模板，好看的 Flutter 闪屏页，如有帮助还请Star 支持一下 😊|90|2023-12-15|2023-11-30|
-|15|[canxin121/app_rhyme](https://github.com/canxin121/app_rhyme)|使用Flutter和Rust构建的开源免费音乐软件|66|2024-06-04|2024-04-30|
-|16|[msterzhang/onelist_app](https://github.com/msterzhang/onelist_app)|onelist 客户端|60|2024-01-16|2023-08-03|
+|15|[canxin121/app_rhyme](https://github.com/canxin121/app_rhyme)|使用Flutter和Rust构建的开源免费音乐软件|74|2024-06-04|2024-04-30|
+|16|[msterzhang/onelist_app](https://github.com/msterzhang/onelist_app)|onelist 客户端|61|2024-01-16|2023-08-03|
 |17|[easybangumiorg/EasyMyGo](https://github.com/easybangumiorg/EasyMyGo)|吃素食吃的！MyGo!!!!! 团队使用 Flutter 开发的多源动画、小说、漫画软件！这个工程师太卖力了！|59|2024-04-18|2024-03-08|
-|18|[Predidit/Kazumi](https://github.com/Predidit/Kazumi)|基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。|47|2024-05-29|2024-05-09|
+|18|[Predidit/Kazumi](https://github.com/Predidit/Kazumi)|基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。|47|2024-06-05|2024-05-09|
 |19|[Dough-su/bilibili_message](https://github.com/Dough-su/bilibili_message)|b站私信|45|2024-02-26|2023-09-20|
 |20|[yaoxieyoulei/my_tv](https://github.com/yaoxieyoulei/my_tv)|使用Flutter开发的电视直播软件|43|2024-04-21|2024-03-30|
 |21|[roomanl/famd](https://github.com/roomanl/famd)|flutter aria2 m3u8 downloader，使用flutter+aria2+m3u8开发的一个M3U8下载器。|42|2024-05-24|2023-09-14|
@@ -62,7 +62,7 @@
 |55|[zeqinjie/tw_queue](https://github.com/zeqinjie/tw_queue)|Queue component|7|2024-01-31|2023-08-24|
 |56|[FutoTan/mai2_revive](https://github.com/FutoTan/mai2_revive)|Mai 批复活   MaiMai 逃离小黑屋|6|2024-05-09|2024-04-27|
 |57|[Sjj1024/flutter_windows](https://github.com/Sjj1024/flutter_windows)|一个跨平台的flutter开发模板，使用流行的get来管理路由，使用getx来管理数据状态，并且配置了国际化支持。使用dio来管理网络请求， 使用shared_preferences实现本地临时数据存储，并且实现了全局loading效果，可以支持快速开发使用|6|2024-04-19|2024-01-11|
-|58|[find-xposed-magisk/adb_kit_nightmare](https://github.com/find-xposed-magisk/adb_kit_nightmare)|An ADB GUI client developed using Flutter. 使用 Flutter 开发的 ADB GUI 客户端|6|2024-06-04|2023-12-25|
+|58|[find-xposed-magisk/adb_kit_nightmare](https://github.com/find-xposed-magisk/adb_kit_nightmare)|An ADB GUI client developed using Flutter. 使用 Flutter 开发的 ADB GUI 客户端|6|2024-06-05|2023-12-25|
 |59|[licheng1013/admin-flutter](https://github.com/licheng1013/admin-flutter)|一个开源的flutter后台项目！|6|2024-05-14|2023-12-15|
 |60|[coolight7/my_lyric](https://github.com/coolight7/my_lyric)|flutter/dart lyric(.lrc) encode/decode. lrc 歌词解析、编码|6|2024-01-01|2023-11-15|
 |61|[maodaisuki/jlptgrammar](https://github.com/maodaisuki/jlptgrammar)|一款简洁的日本语文法应用|6|2023-12-08|2023-10-22|

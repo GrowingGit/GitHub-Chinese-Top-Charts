@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2024-06-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-06-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -14,7 +14,7 @@
 |7|[wangyupo/v3s](https://github.com/wangyupo/v3s)|Vue3 + Vite5 + Vue Router + Pinia + Element Plus 搭建的后台管理模版，配合VSCode插件v3s snippets，助力业务快速开发。|29|2024-05-27|2023-07-26|
 |8|[syh19/siyuan-plugin-task-list](https://github.com/syh19/siyuan-plugin-task-list)|思源笔记插件——汇总散落在整个工作空间的任务  Siyuan Note Plugin——Summarize tasks scattered throughout your workspace|22|2024-06-03|2024-03-23|
 |9|[DrssXpro/virtualwaterfall-demo](https://github.com/DrssXpro/virtualwaterfall-demo)|Vue3+TS：实现小红书瀑布流虚拟列表组件|18|2024-01-26|2024-01-26|
-|10|[WRXinYue/valaxy-theme-sakura](https://github.com/WRXinYue/valaxy-theme-sakura)|A two-dimensional style blog theme using the Valaxy framework, inspired by the WordPress Sakura theme (alpha) 使用 Valaxy 架构的二次元风格博客主题，灵感源自 WordPress 的 Sakura 主题|18|2024-06-04|2024-01-10|
+|10|[WRXinYue/valaxy-theme-sakura](https://github.com/WRXinYue/valaxy-theme-sakura)|A two-dimensional style blog theme using the Valaxy framework, inspired by the WordPress Sakura theme (alpha) 使用 Valaxy 架构的二次元风格博客主题，灵感源自 WordPress 的 Sakura 主题|18|2024-06-05|2024-01-10|
 |11|[3529/fish-book](https://github.com/3529/fish-book)|fish-book 是一款可以隐蔽式阅读小说的工具(摸鱼)，基于 electron、vue2、vuex、element-ui、electron-store.  |14|2024-03-17|2023-07-01|
 |12|[yaoyaochil/WeyUI](https://github.com/yaoyaochil/WeyUI)| WeyUI是一款基于微信公众号、微信小程序、企业微信管理高度封装的UI组件库，帮助开发者更快速完成页面开发工作|12|2023-12-21|2023-09-24|
 |13|[Alittfre/vitepress-theme-bluearchive](https://github.com/Alittfre/vitepress-theme-bluearchive)|Blue Archive主题博客，基于VitePress，绝赞画饼中|11|2024-05-31|2024-04-17|
@@ -25,7 +25,7 @@
 |18|[nonhana/littleSharing-Frontend](https://github.com/nonhana/littleSharing-Frontend)|一个以Markdown为主要沟通形式的资源分享社区。Frontend：Vue3.0+Pinia+Vite+TypeScript+Element Plus|9|2024-03-29|2023-09-14|
 |19|[open17/vitepress-theme-open17](https://github.com/open17/vitepress-theme-open17)|一款简单美观的博客主题,继承于vitepress默认主题|8|2024-05-11|2024-03-22|
 |20|[ybz61/my-trip](https://github.com/ybz61/my-trip)|仿美团民宿；技术栈主要为Vue3+Vite4+Pinia+Vant3等；适合学习Vue3入门等；|8|2024-02-24|2023-10-11|
-|21|[web-abin/abinWeb](https://github.com/web-abin/abinWeb)|前端阿彬的站点。 各种工具的配置枚举列表； 各种好用的工具汇总； 一些小游戏，特效|8|2024-05-31|2023-06-12|
+|21|[web-abin/abinWeb](https://github.com/web-abin/abinWeb)|前端阿彬的站点。 各种工具的配置枚举列表； 各种好用的工具汇总； 一些小游戏，特效|8|2024-06-05|2023-06-12|
 |22|[milkory/anita-terminal](https://github.com/milkory/anita-terminal)|阿妮塔终端 / 雷索纳斯 资料整合站|7|2024-05-09|2024-03-25|
 |23|[BrackRat/BrBlog](https://github.com/BrackRat/BrBlog)|优雅至上的个人博客。 Nuxt3 全栈博客|7|2024-04-24|2024-02-15|
 |24|[youngyangyang04/element-ui](https://github.com/youngyangyang04/element-ui)|【代码随想录知识星球】项目分享-ui组件库|7|2024-03-04|2024-01-17|

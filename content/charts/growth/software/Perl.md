@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Perl
-<sub>数据更新: 2024-06-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-06-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -13,8 +13,8 @@
 |6|[isi-nlp/uroman](https://github.com/isi-nlp/uroman)|Universal Romanizer that can convert any unicode script to roman (latin) script|124|0|2024-04-23|
 |7|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|434|0|2024-06-04|
 |8|[TheBeastofwar/linuxhacker](https://github.com/TheBeastofwar/linuxhacker)|一款linux 内网渗透辅助工具|61|0|2024-01-31|
-|9|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|277|0|2024-06-04|
-|10|[webmin/authentic-theme](https://github.com/webmin/authentic-theme)|Official theme for the best server management panel of the 21st Century|941|0|2024-06-03|
+|9|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|277|0|2024-06-05|
+|10|[webmin/authentic-theme](https://github.com/webmin/authentic-theme)|Official theme for the best server management panel of the 21st Century|941|0|2024-06-04|
 |11|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|68|0|2024-05-29|
 |12|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|307|0|2024-04-08|
 |13|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|393|0|2024-02-09|
@@ -22,15 +22,14 @@
 |15|[g0v/people-in-news](https://github.com/g0v/people-in-news)|公眾人物新聞的追蹤|17|0|2024-05-04|
 |16|[hn/reolink-camera](https://github.com/hn/reolink-camera)|Reolink RLC-410-5MP IP camera reverse engineered technical details|138|0|2024-02-11|
 |17|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1251|0|2024-06-02|
-|18|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|94|0|2024-06-04|
+|18|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|94|0|2024-06-05|
 |19|[esrrhs/pLua](https://github.com/esrrhs/pLua)|Lua 性能分析工具 Lua profiler tool like gperftools|83|0|2024-04-23|
 |20|[gmd20/exercises](https://github.com/gmd20/exercises)|写过一些练习或者小工具，小代码片段等|4|0|2024-05-31|
 |21|[Gilwyad/mailnesia.com](https://github.com/Gilwyad/mailnesia.com)|Anonymous Email in Seconds|102|0|2024-03-21|
 |22|[fimreal/dockerfiles](https://github.com/fimreal/dockerfiles)|容器化小工具|3|0|2024-01-22|
 |23|[Forensax/ExportDeletedFiles](https://github.com/Forensax/ExportDeletedFiles)|基于SleuthKit套件的删除文件恢复工具，支持恢复DD、E01、AFF镜像文件中NTFS系统的已删除文件|2|0|2024-03-05|
-|24|[jyi2ya/HUST-Chifan](https://github.com/jyi2ya/HUST-Chifan)|什么时候开饭？|6|0|2023-12-05|
-|25|[shangshanzhizhe/Work_flow_of_population_genetics](https://github.com/shangshanzhizhe/Work_flow_of_population_genetics)|整理常用的群体遗传学分析流程和脚本|83|0|2024-05-30|
-|26|[abbypan/deal_youtube_playlist](https://github.com/abbypan/deal_youtube_playlist)|批量下载youtube播放列表内容，并生成xspf播放列表|7|0|2023-12-16|
+|24|[shangshanzhizhe/Work_flow_of_population_genetics](https://github.com/shangshanzhizhe/Work_flow_of_population_genetics)|整理常用的群体遗传学分析流程和脚本|83|0|2024-05-30|
+|25|[abbypan/deal_youtube_playlist](https://github.com/abbypan/deal_youtube_playlist)|批量下载youtube播放列表内容，并生成xspf播放列表|7|0|2023-12-16|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
