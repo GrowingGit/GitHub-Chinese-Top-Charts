@@ -1,55 +1,55 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Kotlin
-<sub>数据更新: 2024-06-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-06-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[gkd-kit/gkd](https://github.com/gkd-kit/gkd)|基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用   An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules|16932|2024-06-06|2023-07-04|
-|2|[bmax121/APatch](https://github.com/bmax121/APatch)|The patching of Android kernel and Android system|3223|2024-06-07|2023-08-21|
-|3|[hefengbao/jingmo](https://github.com/hefengbao/jingmo)|『京墨』开源的中华文化宝典 APP，诗（词）文（名句）、汉字、成语、词语、歇后语、绕口令、传统节日、传统色、节气、人物等。|1406|2024-06-07|2023-08-24|
-|4|[bggRGjQaUbCoE/c001apk](https://github.com/bggRGjQaUbCoE/c001apk)|fake coolapk|862|2024-05-08|2023-12-18|
+|1|[gkd-kit/gkd](https://github.com/gkd-kit/gkd)|基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用   An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules|16943|2024-06-06|2023-07-04|
+|2|[bmax121/APatch](https://github.com/bmax121/APatch)|The patching of Android kernel and Android system|3229|2024-06-08|2023-08-21|
+|3|[hefengbao/jingmo](https://github.com/hefengbao/jingmo)|『京墨』开源的中华文化宝典 APP，诗（词）文（名句）、汉字、成语、词语、歇后语、绕口令、传统节日、传统色、节气、人物等。|1406|2024-06-08|2023-08-24|
+|4|[bggRGjQaUbCoE/c001apk](https://github.com/bggRGjQaUbCoE/c001apk)|fake coolapk|864|2024-05-08|2023-12-18|
 |5|[CofbroTeam/Doraemon](https://github.com/CofbroTeam/Doraemon)|⭐ ⭐ ⭐不止签到！更有一键同步作业功能！⭐ ⭐ ⭐ UI友好的安卓-Android移动端学习通签到助手，支持普通签到，扫码签到，图片签到，二维码签到，定位签到，签到码签到，手势签到，作业提醒：push通知，短信通知！！|640|2024-04-29|2023-09-26|
-|6|[Cateners/tiny_computer](https://github.com/Cateners/tiny_computer)|Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.|595|2024-05-31|2023-08-29|
-|7|[mgz0227/legado-Harmony](https://github.com/mgz0227/legado-Harmony)|开源阅读鸿蒙版仓库|557|2024-06-07|2024-04-17|
+|6|[Cateners/tiny_computer](https://github.com/Cateners/tiny_computer)|Click-to-run debian 12 xfce on android for Chinese users, with fcitx pinyin input method and some useful packages preinstalled. No termux required.|598|2024-05-31|2023-08-29|
+|7|[mgz0227/legado-Harmony](https://github.com/mgz0227/legado-Harmony)|开源阅读鸿蒙版仓库|565|2024-06-07|2024-04-17|
 |8|[YuKongA/Updater](https://github.com/YuKongA/Updater)|[App] Get HyperOS/MIUI recovery ROM update info|515|2024-06-07|2023-12-05|
-|9|[lizongying/my-tv-0](https://github.com/lizongying/my-tv-0)|电视网络视频播放软件，可以自定义视频源|510|2024-05-19|2024-03-07|
+|9|[lizongying/my-tv-0](https://github.com/lizongying/my-tv-0)|电视网络视频播放软件，可以自定义视频源|513|2024-05-19|2024-03-07|
 |10|[xihan123/SignHook](https://github.com/xihan123/SignHook)|这是一个简单的签名校验通杀模块|433|2024-06-06|2023-06-20|
 |11|[jing332/AlistAndroid](https://github.com/jing332/AlistAndroid)|AList 安卓版本，APK安装即用，无需Root或Termux。|429|2024-01-16|2023-08-12|
-|12|[xiaoyvyv/bangumi](https://github.com/xiaoyvyv/bangumi)|Bangumi for Android - A full-featured unofficial android native application for the bangumi.tv|359|2024-05-06|2023-11-24|
-|13|[hua0512/stream-rec](https://github.com/hua0512/stream-rec)|Automatic streaming record tool. 虎牙/抖音/斗鱼/Twitch/PandaTV直播，弹幕自动录制|340|2024-06-06|2024-02-11|
-|14|[zhanghai/Untracker](https://github.com/zhanghai/Untracker)|App to help you remove tracking information before sharing links|312|2024-05-22|2023-10-24|
-|15|[FlyJingFish/AndroidAOP](https://github.com/FlyJingFish/AndroidAOP)|🔥🔥🔥AndroidAOP 是专属于 Android 端 Aop 框架，只需一个注解就可以请求权限、切换线程、禁止多点、一次监测所有点击事件、监测生命周期等等，没有使用 AspectJ，也可以定制出属于你的 Aop 代码|268|2024-06-07|2023-11-22|
+|12|[xiaoyvyv/bangumi](https://github.com/xiaoyvyv/bangumi)|Bangumi for Android - A full-featured unofficial android native application for the bangumi.tv|362|2024-05-06|2023-11-24|
+|13|[hua0512/stream-rec](https://github.com/hua0512/stream-rec)|Automatic streaming record tool. 虎牙/抖音/斗鱼/Twitch/PandaTV直播，弹幕自动录制|340|2024-06-08|2024-02-11|
+|14|[zhanghai/Untracker](https://github.com/zhanghai/Untracker)|App to help you remove tracking information before sharing links|313|2024-05-22|2023-10-24|
+|15|[FlyJingFish/AndroidAOP](https://github.com/FlyJingFish/AndroidAOP)|🔥🔥🔥AndroidAOP 是专属于 Android 端 Aop 框架，只需一个注解就可以请求权限、切换线程、禁止多点、一次监测所有点击事件、监测生命周期等等，没有使用 AspectJ，也可以定制出属于你的 Aop 代码|269|2024-06-07|2023-11-22|
 |16|[MrXiaoM/Overflow](https://github.com/MrXiaoM/Overflow)|替换 mirai 实现为 Onebot 以进行无缝迁移|235|2024-05-31|2023-10-12|
-|17|[Greatwallcorner/TV-Multiplatform](https://github.com/Greatwallcorner/TV-Multiplatform)|基于fonmi/TV项目的， 简单桌面版本实现。|232|2024-06-07|2024-03-30|
+|17|[Greatwallcorner/TV-Multiplatform](https://github.com/Greatwallcorner/TV-Multiplatform)|基于fonmi/TV项目的， 简单桌面版本实现。|233|2024-06-08|2024-03-30|
 |18|[lihangleo2/ViewPager2Demo](https://github.com/lihangleo2/ViewPager2Demo)|关于封装ViewPager2的FragmentStateAdapter的封装，以最简单的方式实现抖音列表的上下加载，画廊效果，以及ViewPager2的各种封装|230|2024-03-26|2023-09-02|
 |19|[iiheng/VCAMSX](https://github.com/iiheng/VCAMSX)|安卓虚拟摄像头|208|2024-05-21|2023-11-18|
 |20|[greyovo/PicQuery](https://github.com/greyovo/PicQuery)|🔍 Search local images with natural language on Android, powered by OpenAI's CLIP model.  /  在 Android 上用自然语言搜索本地图片 (基于 OpenAI 的 CLIP 模型)|197|2024-05-03|2023-08-10|
-|21|[BinTianqi/OwnDroid](https://github.com/BinTianqi/OwnDroid)|使用Device owner管理你的安卓设备。Manage your device with Device owner privilege|185|2024-06-05|2024-01-13|
+|21|[BinTianqi/OwnDroid](https://github.com/BinTianqi/OwnDroid)|使用Device owner管理你的安卓设备。Manage your device with Device owner privilege|188|2024-06-05|2024-01-13|
 |22|[unit-mesh/chocolate-factory](https://github.com/unit-mesh/chocolate-factory)|Chocolate Factory is a cutting-edge LLM toolkit designed to empower you in creating your very own AI assistant.Chocolate Factory 是一款开源的 LLM 应用开发框架，旨在帮助您轻松打造强大的软件开发 SDLC + LLM 生成助手。无论您是需要生成前端页面、后端 API、 ...|178|2024-03-30|2023-08-29|
 |23|[sky130/MiWu](https://github.com/sky130/MiWu)|第三方手表版米家「米屋」|126|2024-05-31|2023-08-18|
-|24|[Moriafly/SaltUI](https://github.com/Moriafly/SaltUI)|SaltUI（UI for Salt Player） 是提取自椒盐音乐的 UI 风格组件，用以快速生成椒盐音乐风格用户界面|116|2024-06-05|2023-07-09|
+|24|[Moriafly/SaltUI](https://github.com/Moriafly/SaltUI)|SaltUI（UI for Salt Player） 是提取自椒盐音乐的 UI 风格组件，用以快速生成椒盐音乐风格用户界面|117|2024-06-05|2023-07-09|
 |25|[Potato-66/SimpleTV](https://github.com/Potato-66/SimpleTV)|观看电视直播软件，打开即看，直播源定期维护更新|112|2024-05-26|2024-03-10|
-|26|[ven-coder/Assists](https://github.com/ven-coder/Assists)|Android无障碍服务（AccessibilityService）开发框架，Android自动化脚本框架，快速开发复杂自动化任务、远程协助、监听等|108|2024-06-07|2023-07-23|
+|26|[ven-coder/Assists](https://github.com/ven-coder/Assists)|Android无障碍服务（AccessibilityService）开发框架，Android自动化脚本框架，快速开发复杂自动化任务、远程协助、监听等|108|2024-06-08|2023-07-23|
 |27|[lumyuan/yohub-desktop](https://github.com/lumyuan/yohub-desktop)|优画工具箱桌面版，一个现代化UI设计的Android设备玩机工具箱（Windows端）|106|2023-12-27|2023-10-31|
 |28|[jixiaoyong/ApkSigner](https://github.com/jixiaoyong/ApkSigner)|An Android Apk Sign Tool   一个Android Apk签名工具|95|2024-06-06|2023-08-18|
-|29|[Winnie0408/LocalMusicHelper](https://github.com/Winnie0408/LocalMusicHelper)|将您保存在网易云音乐、QQ音乐等在线音乐平台的歌单数据，转换成本项目支持的本地音乐播放器（如Salt Player、APlayer、Poweramp等）可识别的歌单格式，完成歌单的导入操作，方便您快速从在线音乐平台迁移歌单到本地音乐播放器。Quickly migrate your playlists from online music platforms to local music player ...|92|2024-06-05|2023-12-11|
+|29|[Winnie0408/LocalMusicHelper](https://github.com/Winnie0408/LocalMusicHelper)|将您保存在网易云音乐、QQ音乐等在线音乐平台的歌单数据，转换成本项目支持的本地音乐播放器（如Salt Player、APlayer、Poweramp等）可识别的歌单格式，完成歌单的导入操作，方便您快速从在线音乐平台迁移歌单到本地音乐播放器。Quickly migrate your playlists from online music platforms to local music player ...|94|2024-06-05|2023-12-11|
 |30|[wangdaye078/AntiZhaPian](https://github.com/wangdaye078/AntiZhaPian)|伪反诈中心，最好别用，后果自负。|89|2024-02-19|2023-11-07|
 |31|[0cococ/MagicHands](https://github.com/0cococ/MagicHands)|Android自动化测试框架|87|2024-06-03|2023-06-17|
-|32|[lanlinju/Anime](https://github.com/lanlinju/Anime)|基于樱花动漫网站数据的一个简洁的播放动漫的App，使用Compose进行开发|79|2024-05-06|2023-11-27|
+|32|[lanlinju/Anime](https://github.com/lanlinju/Anime)|基于樱花动漫网站数据的一个简洁的播放动漫的App，使用Compose进行开发|81|2024-05-06|2023-11-27|
 |33|[kongxiaojun/EasyFloat](https://github.com/kongxiaojun/EasyFloat)|原作者不维护了，fork后维护，请star此库。🔥 EasyFloat：浮窗从未如此简单（Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）|77|2024-03-14|2023-11-15|
-|34|[Xposed-Modules-Repo/com.wangyiheng.vcamsx](https://github.com/Xposed-Modules-Repo/com.wangyiheng.vcamsx)|安卓虚拟摄像头|76|2024-05-21|2023-12-11|
-|35|[pwh-pwh/fuck_shake](https://github.com/pwh-pwh/fuck_shake)|屏蔽摇一摇广告|76|2024-02-02|2023-09-09|
-|36|[lavender-projects/lavsource-bilibili](https://github.com/lavender-projects/lavsource-bilibili)|供Lavender使用的bilibili数据源|73|2024-05-18|2024-01-11|
-|37|[easybangumiorg/CommunityExtension](https://github.com/easybangumiorg/CommunityExtension)|纯纯看番社区插件|72|2024-06-01|2024-01-28|
+|34|[lavender-projects/lavsource-bilibili](https://github.com/lavender-projects/lavsource-bilibili)|供Lavender使用的bilibili数据源|76|2024-05-18|2024-01-11|
+|35|[Xposed-Modules-Repo/com.wangyiheng.vcamsx](https://github.com/Xposed-Modules-Repo/com.wangyiheng.vcamsx)|安卓虚拟摄像头|76|2024-05-21|2023-12-11|
+|36|[pwh-pwh/fuck_shake](https://github.com/pwh-pwh/fuck_shake)|屏蔽摇一摇广告|76|2024-02-02|2023-09-09|
+|37|[easybangumiorg/CommunityExtension](https://github.com/easybangumiorg/CommunityExtension)|纯纯看番社区插件|73|2024-06-01|2024-01-28|
 |38|[ssttkkl/mahjong-utils-app](https://github.com/ssttkkl/mahjong-utils-app)|Riichi Mahjong Calculator App (for Android, iOS, Desktop, Web, based on Compose Multiplatform)|69|2024-03-11|2023-12-13|
-|39|[jenly1314/UltraSwipeRefresh](https://github.com/jenly1314/UltraSwipeRefresh)| :surfer: 一个可带来极致体验的Compose刷新组件；支持下拉刷新和上拉加载，可完美替代官方的SwipeRefresh；并且支持的功能更多，可扩展性更强。|66|2024-06-02|2023-12-03|
-|40|[yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android)|使用Android原生开发的电视直播软件|62|2024-06-03|2024-04-10|
+|39|[jenly1314/UltraSwipeRefresh](https://github.com/jenly1314/UltraSwipeRefresh)| :surfer: 一个可带来极致体验的Compose刷新组件；支持下拉刷新和上拉加载，可完美替代官方的SwipeRefresh；并且支持的功能更多，可扩展性更强。|67|2024-06-02|2023-12-03|
+|40|[yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android)|使用Android原生开发的电视直播软件|63|2024-06-03|2024-04-10|
 |41|[flben233/TyuShare](https://github.com/flben233/TyuShare)|互联两台电脑，让两台电脑用起来更加顺手|62|2023-12-31|2023-08-20|
-|42|[nichem/textbook](https://github.com/nichem/textbook)|搜索 查看 下载 中小学教材|57|2023-12-10|2023-12-07|
+|42|[nichem/textbook](https://github.com/nichem/textbook)|搜索 查看 下载 中小学教材|56|2023-12-10|2023-12-07|
 |43|[LazyIonEs/AndroidToolKit](https://github.com/LazyIonEs/AndroidToolKit)|Desktop tools for Android developers, supports Windows and Mac|54|2024-05-31|2024-02-27|
 |44|[ludoven/OnlyTV-For-TV](https://github.com/ludoven/OnlyTV-For-TV)|A comprehensive film and television application designed for Android TV, covering rich resources such as IPTV, live broadcasts, short videos, movies and TV series, providing a comprehensive entertainm ...|52|2024-05-16|2023-11-09|
-|45|[leavesCZY/Trace](https://github.com/leavesCZY/Trace)|一个 Android 字节码插桩库|51|2024-03-18|2023-07-30|
+|45|[leavesCZY/Trace](https://github.com/leavesCZY/Trace)|一个 Android 字节码插桩库|52|2024-03-18|2023-07-30|
 |46|[HappyMax0/FCMPushViewer](https://github.com/HappyMax0/FCMPushViewer)|此APP可以查看用户安装的应用及系统应用中，哪些应用支持谷歌FCM推送，并且可以调出FCM系统日志页面，可以查看FCM连接状态及应用推送记录。|50|2024-06-05|2023-10-05|
 |47|[KarinJS/kritor-kotlin](https://github.com/KarinJS/kritor-kotlin)|kritor 的 kotlin 实现|46|2024-03-21|2024-03-01|
 |48|[Suzhelan/TXHook](https://github.com/Suzhelan/TXHook)|腾讯QQ协议分析工具|45|2024-05-31|2024-01-26|
@@ -57,11 +57,11 @@
 |50|[10miaomiao/bili-down-out](https://github.com/10miaomiao/bili-down-out)|哔哩哔哩缓存导出工具|43|2024-03-14|2023-10-25|
 |51|[NBXXF/gson_plugin](https://github.com/NBXXF/gson_plugin)|Gson加速器 自动生成typeadapter,无反射,提高速度平均10倍以上,最快的json解析方式 code-gen|42|2023-12-26|2023-12-03|
 |52|[ShortX-Repo/ShortX-Files](https://github.com/ShortX-Repo/ShortX-Files)|这是ShortX的在线指令数据仓库|39|2024-03-29|2023-07-18|
-|53|[lizongying/my-tv-1](https://github.com/lizongying/my-tv-1)|电视网络视频播放软件，支持播放网页视频。|36|2024-05-27|2024-05-12|
+|53|[lizongying/my-tv-1](https://github.com/lizongying/my-tv-1)|电视网络视频播放软件，支持播放网页视频。|37|2024-05-27|2024-05-12|
 |54|[ZXHHYJ/StarMusic](https://github.com/ZXHHYJ/StarMusic)|使用Android Compose开发的音乐播放器|31|2024-01-11|2023-08-07|
 |55|[EB-wilson/TooManyItems](https://github.com/EB-wilson/TooManyItems)|一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息|30|2024-06-04|2023-11-05|
-|56|[diyigemt/arona-reborn](https://github.com/diyigemt/arona-reborn)|万一成了呢|28|2024-06-05|2023-10-17|
-|57|[trueWangSyutung/Dynamic-Notification-for-HyperOS](https://github.com/trueWangSyutung/Dynamic-Notification-for-HyperOS)|灵动通知增强|27|2024-03-05|2024-02-09|
+|56|[trueWangSyutung/Dynamic-Notification-for-HyperOS](https://github.com/trueWangSyutung/Dynamic-Notification-for-HyperOS)|灵动通知增强|28|2024-03-05|2024-02-09|
+|57|[diyigemt/arona-reborn](https://github.com/diyigemt/arona-reborn)|万一成了呢|28|2024-06-05|2023-10-17|
 |58|[wuyr/jdwp-injector-for-android](https://github.com/wuyr/jdwp-injector-for-android)|借助adb协议+jwdp协议在Android端实现基于debugger的代码注入工具|27|2024-05-10|2024-02-03|
 |59|[SakuyaCN/Godot4-TapTap-SDK](https://github.com/SakuyaCN/Godot4-TapTap-SDK)|适用于Godot4.2+的taptap sdk|27|2024-01-15|2024-01-09|
 |60|[dora4/dview-skins](https://github.com/dora4/dview-skins)|一款好用的Android换肤框架|27|2024-05-01|2023-07-15|
@@ -93,19 +93,19 @@
 |86|[EspoirX/Bumblebee](https://github.com/EspoirX/Bumblebee)|基于 有限状态机 和 Flow 的 WebSocket 封装，Socket 部分 用 OkHttp 实现。 1. 支持 Flow 2. Socket 的状态由状态机管理，自动处理重连等逻辑 3. Socket 部分默认由 OKHttp 实现  4. 使用简单，跟你使用 Retrofit 差不多|12|2024-05-30|2024-02-26|
 |87|[fuusy/ResCompressPlugin](https://github.com/fuusy/ResCompressPlugin)|包体积优化，资源去重&&资源压缩plugin，https://juejin.cn/post/7322156566413000742|12|2024-01-18|2024-01-09|
 |88|[pwh-pwh/sparkapidesk](https://github.com/pwh-pwh/sparkapidesk)|讯飞星火api桌面客户端|12|2024-02-23|2023-11-24|
-|89|[leo94666/RTCPlayer](https://github.com/leo94666/RTCPlayer)|一个基于Android客户端的的RTC播放器|11|2024-06-04|2024-06-04|
-|90|[MrXiaoM/Krigacy](https://github.com/MrXiaoM/Krigacy)|Kritor Legacy - Onebot 转接模块 (WIP)|11|2024-05-20|2024-03-27|
-|91|[CoderKuo/TabooLib-Initializr](https://github.com/CoderKuo/TabooLib-Initializr)|TabooLib模板生成器|11|2024-04-03|2024-03-13|
-|92|[wilinz/SourceCodeDocxGeneratorCompose](https://github.com/wilinz/SourceCodeDocxGeneratorCompose)|自动生成软著申请所需的项目源代码Word文档|11|2024-01-22|2024-01-21|
-|93|[zanjie1999/workdayAlarmClockAndroid](https://github.com/zanjie1999/workdayAlarmClockAndroid)|工作咩闹钟 workdayAlarmClockGo的Android服务端 用于播放声音 因为Android下没有像sox那样的命令行播放器 兼命令行音乐播放器|11|2024-06-04|2023-07-04|
-|94|[ThinkerLu/gaea-exposure-detect](https://github.com/ThinkerLu/gaea-exposure-detect)|Android曝光检测|10|2024-03-26|2024-03-26|
-|95|[leihaogit/leitt](https://github.com/leihaogit/leitt)|一款仿李跳跳的开屏跳广告软件。|10|2024-05-29|2024-02-19|
-|96|[Rexwe/RexweCent](https://github.com/Rexwe/RexweCent)|Rexwe 中的第三方微信客户端。|10|2024-02-10|2024-02-02|
-|97|[buffcow/Hyper5GSwitch](https://github.com/buffcow/Hyper5GSwitch)|在移动网络面板中添加 5G 开关，仅适用于支持5G网络并搭载 HyperOS 的设备|10|2023-12-30|2023-11-30|
-|98|[kymjs/TheRouterIdeaPlugin](https://github.com/kymjs/TheRouterIdeaPlugin)|TheRouter 路由跳转IDE插件|10|2023-12-26|2023-10-05|
-|99|[founchoo/GongYun-for-Android](https://github.com/founchoo/GongYun-for-Android)|GongYun - Campus helper for HBUT 工韵 - 湖北工业大学校园助手|10|2024-02-02|2023-09-21|
-|100|[master-lzh/PiPixiv](https://github.com/master-lzh/PiPixiv)|一个使用Jetpack Compose开发的第三方Pixiv客户端，支持国内直连|10|2024-05-30|2023-06-20|
-|101|[Nitsuya/AADisplay](https://github.com/Nitsuya/AADisplay)|让Android Auto显示任意应用, 基于VirtualDisplay的套娃方案|9|2024-05-29|2024-05-28|
+|89|[master-lzh/PiPixiv](https://github.com/master-lzh/PiPixiv)|一个使用Jetpack Compose开发的第三方Pixiv客户端，支持国内直连|12|2024-06-08|2023-06-20|
+|90|[leo94666/RTCPlayer](https://github.com/leo94666/RTCPlayer)|一个基于Android客户端的的RTC播放器|11|2024-06-04|2024-06-04|
+|91|[MrXiaoM/Krigacy](https://github.com/MrXiaoM/Krigacy)|Kritor Legacy - Onebot 转接模块 (WIP)|11|2024-05-20|2024-03-27|
+|92|[CoderKuo/TabooLib-Initializr](https://github.com/CoderKuo/TabooLib-Initializr)|TabooLib模板生成器|11|2024-04-03|2024-03-13|
+|93|[wilinz/SourceCodeDocxGeneratorCompose](https://github.com/wilinz/SourceCodeDocxGeneratorCompose)|自动生成软著申请所需的项目源代码Word文档|11|2024-01-22|2024-01-21|
+|94|[zanjie1999/workdayAlarmClockAndroid](https://github.com/zanjie1999/workdayAlarmClockAndroid)|工作咩闹钟 workdayAlarmClockGo的Android服务端 用于播放声音 因为Android下没有像sox那样的命令行播放器 兼命令行音乐播放器|11|2024-06-04|2023-07-04|
+|95|[Nitsuya/AADisplay](https://github.com/Nitsuya/AADisplay)|让Android Auto显示任意应用, 基于VirtualDisplay的套娃方案|10|2024-05-29|2024-05-28|
+|96|[ThinkerLu/gaea-exposure-detect](https://github.com/ThinkerLu/gaea-exposure-detect)|Android曝光检测|10|2024-03-26|2024-03-26|
+|97|[leihaogit/leitt](https://github.com/leihaogit/leitt)|一款仿李跳跳的开屏跳广告软件。|10|2024-05-29|2024-02-19|
+|98|[Rexwe/RexweCent](https://github.com/Rexwe/RexweCent)|Rexwe 中的第三方微信客户端。|10|2024-02-10|2024-02-02|
+|99|[buffcow/Hyper5GSwitch](https://github.com/buffcow/Hyper5GSwitch)|在移动网络面板中添加 5G 开关，仅适用于支持5G网络并搭载 HyperOS 的设备|10|2023-12-30|2023-11-30|
+|100|[kymjs/TheRouterIdeaPlugin](https://github.com/kymjs/TheRouterIdeaPlugin)|TheRouter 路由跳转IDE插件|10|2023-12-26|2023-10-05|
+|101|[founchoo/GongYun-for-Android](https://github.com/founchoo/GongYun-for-Android)|GongYun - Campus helper for HBUT 工韵 - 湖北工业大学校园助手|10|2024-02-02|2023-09-21|
 |102|[HdShare/HookGG](https://github.com/HdShare/HookGG)|基于Xposed的GG修改器模块|9|2024-05-21|2024-05-04|
 |103|[idea007/demo-robot](https://github.com/idea007/demo-robot)|一个基于属性动画的机器人|9|2024-03-22|2024-03-18|
 |104|[QCuncle/nowinnews](https://github.com/QCuncle/nowinnews)|一个聚合热门网站热榜的安卓应用.     an Android app gathering hot lists from popular websites.|9|2024-04-27|2024-03-07|
