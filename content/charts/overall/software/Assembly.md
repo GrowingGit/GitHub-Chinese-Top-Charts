@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Assembly
-<sub>数据更新: 2024-06-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-06-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|56895|2024-04-25|
-|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10731|2024-06-10|
-|3|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6446|2024-06-12|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|56900|2024-04-25|
+|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10735|2024-06-10|
+|3|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6449|2024-06-12|
 |4|[STM32-base/STM32-base](https://github.com/STM32-base/STM32-base)|A simple start for any STM32 based project.|336|2024-01-18|
 |5|[mengning/linuxkernel](https://github.com/mengning/linuxkernel)|操作系统导论教学资料、《庖丁解牛Linux内核》配套资料|255|2024-04-30|
 |6|[leomil72/LM80C](https://github.com/leomil72/LM80C)|A Z80-based homebrew computer withTMS9918, AY-3-8910, Z80 CTC, Z80 PIO, and Z80 SIO|95|2024-01-13|
@@ -15,7 +15,7 @@
 |8|[zhuozhiyongde/Introduction-To-Computer-System-2023Fall-PKU](https://github.com/zhuozhiyongde/Introduction-To-Computer-System-2023Fall-PKU)|北京大学 2023 年秋计算机系统导论课程（ICS）作业、笔记、经验|53|2024-02-13|
 |9|[weipeng2k/hot-wind](https://github.com/weipeng2k/hot-wind)|技术杂文集|32|2024-04-20|
 |10|[cccbook/sejs](https://github.com/cccbook/sejs)|軟體工程 -- 以 node.js 為例|27|2024-03-25|
-|11|[flyleeee/noob_hust_cs_20](https://github.com/flyleeee/noob_hust_cs_20)|华中科技大学计算机学院20级实验报告/代码——汇编实验；机器学习；计算机系统基础；算法实验；游戏设计；组原；计算机网络；软件工程；数据库；计算机视觉；操作系统课设|16|2023-12-16|
+|11|[flyleeee/noob_hust_cs_20](https://github.com/flyleeee/noob_hust_cs_20)|华中科技大学计算机学院20级实验报告/代码——汇编实验；机器学习；计算机系统基础；算法实验；游戏设计；组原；计算机网络；软件工程；数据库；计算机视觉；操作系统课设|17|2023-12-16|
 |12|[ThuryW/ZJU-ISEE](https://github.com/ThuryW/ZJU-ISEE)|ZJU-ISEE 微电子|11|2024-06-12|
 |13|[fzf404/MiniSystem](https://github.com/fzf404/MiniSystem)|💾 Nasm 汇编写操作系统|11|2024-04-24|
 |14|[DongshanPI/DongshanPI-D1s_BareMetal](https://github.com/DongshanPI/DongshanPI-D1s_BareMetal)|国产全志平头哥C906 RISC-V DongshanPI-D1s RV64GVC 裸机示例仓库！|9|2024-05-09|

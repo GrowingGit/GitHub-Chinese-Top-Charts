@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2024-06-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-06-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -23,9 +23,8 @@
 |16|[gzx543097079/AppStorePrivacyInfo](https://github.com/gzx543097079/AppStorePrivacyInfo)|解决部分已经不在维护的SDK的隐私清单问题|2|2024-05-28|2024-04-29|
 |17|[AeolusZane/rn-swift-demo](https://github.com/AeolusZane/rn-swift-demo)|RN-Swift混合开发，覆盖大部分开发需求。包含RN使用Swift组件，RN和Swift组件相互通信，RN更新Swift组件状态、Swift更新RN组件状态|2|2024-04-27|2024-03-20|
 |18|[taosiqi/oh-mfa](https://github.com/taosiqi/oh-mfa)|鸿蒙版本 mfa 二次验证码（基于OpenHarmony api10）|2|2024-03-04|2024-02-05|
-|19|[wukongyang/SVGAPlayer-rn](https://github.com/wukongyang/SVGAPlayer-rn)|react native 使用svga动画，支持android、ios|2|2023-12-13|2023-12-09|
-|20|[xiaopengLOVEcode/WeShare](https://github.com/xiaopengLOVEcode/WeShare)|一个传输工具|2|2023-12-26|2023-11-07|
-|21|[oceanengine/bda_signal_sdk](https://github.com/oceanengine/bda_signal_sdk)|激活SDK-iOS|2|2024-01-23|2023-09-12|
+|19|[xiaopengLOVEcode/WeShare](https://github.com/xiaopengLOVEcode/WeShare)|一个传输工具|2|2023-12-26|2023-11-07|
+|20|[oceanengine/bda_signal_sdk](https://github.com/oceanengine/bda_signal_sdk)|激活SDK-iOS|2|2024-01-23|2023-09-12|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
