@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > CSS
-<sub>数据更新: 2024-06-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-06-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|19217|7|2024-05-23|
-|2|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1242|6|2024-05-10|
+|2|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1243|6|2024-05-10|
 |3|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|21015|6|2024-04-24|
 |4|[rustx-labs/effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn)|Effective Rust 中文版|170|3|2024-05-16|
-|5|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5469|2|2024-05-29|
-|6|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|9007|2|2024-06-18|
+|5|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5470|2|2024-05-29|
+|6|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|9006|2|2024-06-18|
 |7|[cssanimation/css-animation-101](https://github.com/cssanimation/css-animation-101)|Learn how to bring animation to your web projects|4954|2|2024-01-18|
 |8|[wflac/theme-Mego](https://github.com/wflac/theme-Mego)|一款基于 Halo 的简约时尚的原创卡片式博客主题，炫酷的个人展示图，拥有 Banner 展示位、通知、侧边小卡片。|14|1|2024-06-06|
 |9|[lin-xin/blog](https://github.com/lin-xin/blog)|林鑫的个人博客，用于总结平时工作和学习中的经验。|1777|1|2024-01-20|
@@ -23,7 +23,7 @@
 |16|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|189|0|2024-06-01|
 |17|[Hiroki-Sawada-y/Hiroki_Study](https://github.com/Hiroki-Sawada-y/Hiroki_Study)|个人学习笔记 obsidian|11|0|2024-05-27|
 |18|[weijiyang/weijiyang.github.io](https://github.com/weijiyang/weijiyang.github.io)|:stuck_out_tongue: 个人简历 & 博客|29|0|2024-05-12|
-|19|[calebman/girlfriend-gift-collection](https://github.com/calebman/girlfriend-gift-collection)|送给女朋友的礼物合集，生日/情人节/纪念日等，程序员的创意。|275|0|2024-06-20|
+|19|[calebman/girlfriend-gift-collection](https://github.com/calebman/girlfriend-gift-collection)|送给女朋友的礼物合集，生日/情人节/纪念日等，程序员的创意。|276|0|2024-06-20|
 |20|[StarDustSheep/pink-room](https://github.com/StarDustSheep/pink-room)|一款思源笔记白天使用的粉色系主题|17|0|2024-02-09|
 |21|[whidy/UnoCSS-Study-Examples](https://github.com/whidy/UnoCSS-Study-Examples)|自己学习UnoCSS，并准备进行内部前端团队内部分享的资料，包含了许多关于UnoCSS实践的思考|10|0|2024-01-16|
 |22|[lewton/bilibili-public](https://github.com/lewton/bilibili-public)|b站代码示例代码合集|40|0|2024-04-19|
@@ -34,10 +34,10 @@
 |27|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite 💡|133|0|2024-05-02|
 |28|[missing-semester-zh-Hant/missing-semester-zh-Hant.github.io](https://github.com/missing-semester-zh-Hant/missing-semester-zh-Hant.github.io)|Traditional Chinese translation of course "The Missing Semester of Your CS Education"|55|0|2024-05-10|
 |29|[mouday/coding-tree](https://github.com/mouday/coding-tree)|程序员工作、学习笔记|19|0|2024-06-21|
-|30|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|0|2024-06-21|
+|30|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|10|0|2024-06-22|
 |31|[zino-rs/zino-docs-zh](https://github.com/zino-rs/zino-docs-zh)|Zino开发框架中文教程|8|0|2024-04-03|
 |32|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|410|0|2024-05-19|
-|33|[phpple/caddy2-cn-doc](https://github.com/phpple/caddy2-cn-doc)|Caddy 2的中文文档|126|0|2024-02-20|
+|33|[phpple/caddy2-cn-doc](https://github.com/phpple/caddy2-cn-doc)|Caddy 2的中文文档|127|0|2024-02-20|
 |34|[WaterCalm/LinuxServerInChinese](https://github.com/WaterCalm/LinuxServerInChinese)|翻译LinuxServer.io文档为中文的gitbook|11|0|2024-02-21|
 |35|[ybdt/ybdt.github.io](https://github.com/ybdt/ybdt.github.io)|个人博客：https://ybdt.me/|7|0|2024-04-18|
 |36|[jhao104/django-blog](https://github.com/jhao104/django-blog)|django搭建博客|423|0|2024-02-07|
@@ -49,7 +49,7 @@
 |42|[88825/wereadx](https://github.com/88825/wereadx)|微信读书辅助工具，可用于书籍下载及自动阅读、自动兑换体验卡等|55|0|2023-12-25|
 |43|[zjp-CN/translation](https://github.com/zjp-CN/translation)|翻译的博文|14|0|2024-05-22|
 |44|[lsils/lstools-showcase](https://github.com/lsils/lstools-showcase)|Showcase examples for EPFL logic synthesis libraries|170|0|2024-04-05|
-|45|[wangyang0210/cnblogs-theme](https://github.com/wangyang0210/cnblogs-theme)|博客园皮肤|118|0|2024-06-21|
+|45|[wangyang0210/cnblogs-theme](https://github.com/wangyang0210/cnblogs-theme)|博客园皮肤|118|0|2024-06-22|
 |46|[hangbale/photography-blog](https://github.com/hangbale/photography-blog)|photography blog generator - 摄影类静态博客生成器|95|0|2023-12-24|
 |47|[5ime/hexo-theme-i](https://github.com/5ime/hexo-theme-i)|博客自用主题|13|0|2023-12-31|
 |48|[Monkfishare/Calibre](https://github.com/Monkfishare/Calibre)|The Economist epub/pdf 经济学人，周四晚12:00自动更新（https://monkfishare.github.io/2023）|28|0|2024-04-03|
@@ -59,7 +59,7 @@
 |52|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|399|0|2024-06-21|
 |53|[Bytedesk/bytedesk](https://github.com/Bytedesk/bytedesk)|open source ai customer service system，alternative to slack + zendesk + chatpdf。企业IM + 在线客服 + AI助手，打造开源版企业微信/钉钉/飞书|25|0|2024-04-03|
 |54|[bosens-China/blog](https://github.com/bosens-China/blog)|个人写博客的地方|7|0|2024-06-20|
-|55|[meethigher/hexo-theme-starry](https://github.com/meethigher/hexo-theme-starry)|已被官方收录的hexo主题-Starry，采用ejs跟less开发。技术限制，目前还有很多优化未实现，学习ing。基于很多大佬开源的插件，感谢！|26|0|2024-06-13|
+|55|[meethigher/hexo-theme-starry](https://github.com/meethigher/hexo-theme-starry)|已被官方收录的hexo主题-Starry，采用ejs跟less开发。技术限制，目前还有很多优化未实现，学习ing。基于很多大佬开源的插件，感谢！|26|0|2024-06-22|
 |56|[Anyway-FM/Anyway.Tab](https://github.com/Anyway-FM/Anyway.Tab)|把 Anyway.FM 官网《安妮薇看看》里的链接链接推荐显示在 Chrome 新建 Tab 上，同时推送新番的提醒|59|0|2024-02-27|
 |57|[SEC-CAFE/handbook](https://github.com/SEC-CAFE/handbook)|安全手册，企业安全实践、攻防与安全研究知识库|18|0|2024-06-12|
 |58|[qiwihui/blog](https://github.com/qiwihui/blog)|技术和思考，基于issues|43|0|2024-05-26|
@@ -70,9 +70,8 @@
 |63|[xunlutzp/xunlutzp.github.io](https://github.com/xunlutzp/xunlutzp.github.io)|《寻路桐梓坡》全文及GitBook网页|59|0|2024-06-16|
 |64|[KawaiiZapic/Present](https://github.com/KawaiiZapic/Present)|一个简洁的个人主页,支持显示博客文章.|86|0|2024-02-14|
 |65|[xjq7/awesome-study](https://github.com/xjq7/awesome-study)|Awesome 、资源、工具、技术自媒体、博客、学习指南、面试指北等收集库|12|0|2024-05-24|
-|66|[zhheo/Wechat-Official-Account-Web](https://github.com/zhheo/Wechat-Official-Account-Web)|微信公众号的关注界面|53|0|2023-12-22|
-|67|[wyj0605/douban_library](https://github.com/wyj0605/douban_library)|浏览豆瓣网时自动查询图书馆的图书信息。|60|0|2024-06-21|
-|68|[chuhemiao/wiki.bsatoshi.blockchain](https://github.com/chuhemiao/wiki.bsatoshi.blockchain)|区块链开发、炒币最全的入门文档，炒币我们是认真的。|49|0|2024-03-27|
+|66|[wyj0605/douban_library](https://github.com/wyj0605/douban_library)|浏览豆瓣网时自动查询图书馆的图书信息。|60|0|2024-06-21|
+|67|[chuhemiao/wiki.bsatoshi.blockchain](https://github.com/chuhemiao/wiki.bsatoshi.blockchain)|区块链开发、炒币最全的入门文档，炒币我们是认真的。|49|0|2024-03-27|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

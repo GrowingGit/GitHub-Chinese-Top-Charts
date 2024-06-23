@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-06-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-06-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2402|2024-01-15|
-|2|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|681|2024-05-28|
-|3|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|563|2024-02-24|
+|2|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|682|2024-05-28|
+|3|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|564|2024-02-24|
 |4|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|308|2024-04-13|
-|5|[AlterWL/Battery_SOC_Estimation](https://github.com/AlterWL/Battery_SOC_Estimation)|Battery state of charge estimation using kalman filter in Matlab|280|2024-04-12|
+|5|[AlterWL/Battery_SOC_Estimation](https://github.com/AlterWL/Battery_SOC_Estimation)|Battery state of charge estimation using kalman filter in Matlab|281|2024-04-12|
 |6|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|220|2024-01-15|
 |7|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|184|2024-06-15|
 |8|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP): A MATLAB Optimization Platform for Evolutionary Multitasking|105|2024-06-21|
@@ -25,7 +25,7 @@
 |18|[thinszx/WiFi-CSI-gait-recognition](https://github.com/thinszx/WiFi-CSI-gait-recognition)|通过WiFi信号的信道状态信息（Channel State Information, CSI）进行步态特征提取，进而实现用户识别|28|2024-06-03|
 |19|[ScottXjw/equalizer-code-FFE-DFE-VolterraFFEandDFE](https://github.com/ScottXjw/equalizer-code-FFE-DFE-VolterraFFEandDFE)|equalizer code|28|2023-12-29|
 |20|[yangbin-xd/UAV-positioning](https://github.com/yangbin-xd/UAV-positioning)|source code for IEEE IoTJ paper "Distributed and Collaborative Localization for Swarming UAVs"|27|2023-12-27|
-|21|[HansKing98/MATLAB-Image-Processing](https://github.com/HansKing98/MATLAB-Image-Processing)|数字图像处理（冈萨雷斯）|26|2024-01-19|
+|21|[HansKing98/MATLAB-Image-Processing](https://github.com/HansKing98/MATLAB-Image-Processing)|数字图像处理（冈萨雷斯）|27|2024-01-19|
 |22|[wuc567/Pattern-Mining](https://github.com/wuc567/Pattern-Mining)|序列模式挖掘相关研究|25|2024-06-17|
 |23|[FMOTs/FMOT_matlab](https://github.com/FMOTs/FMOT_matlab)|FMOT的matlab基础开发版本|24|2024-06-12|
 |24|[xdjcl/DTW](https://github.com/xdjcl/DTW)|DTW算法的MATLAB实现|22|2023-12-26|
@@ -47,10 +47,10 @@
 |40|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|9|2024-03-25|
 |41|[iChunyu/iChunyu.github.io](https://github.com/iChunyu/iChunyu.github.io)|某春雨的后花园|9|2024-06-03|
 |42|[Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator](https://github.com/Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator)|针对解决轮式移动机械臂在复杂环境中执行灵巧作业的需求，开展了面向冗余轮式移动机械臂的考虑任务优先级的位形优化研究。首先建立了整机运动学模型，然后基于任务优先级框架开展了面向车-臂双轨迹跟踪、避奇异位形、避关节极限等多任务目标的位形优化的研究，最后进行了复杂工况仿真，验证了方法的有效性。|8|2024-03-13|
-|43|[highskyno1/2users-CDMA-simulation](https://github.com/highskyno1/2users-CDMA-simulation)|基于MATLAB的直接序列扩频通信系统仿真|8|2024-04-15|
-|44|[asfhiolNick/NTU_TimeFrequencyAnalysis_201802](https://github.com/asfhiolNick/NTU_TimeFrequencyAnalysis_201802)|丁建均老師的"時頻分析和小波轉換"作業(TFW)|8|2024-01-18|
-|45|[WeianHuang23/Dispersion-assisted_High-dimensional_Photodetector](https://github.com/WeianHuang23/Dispersion-assisted_High-dimensional_Photodetector)|数据集的创建|7|2024-04-03|
-|46|[linggm3/2023_CUMCM_National-First-Prize](https://github.com/linggm3/2023_CUMCM_National-First-Prize)|2023年高教社杯全国大学生数学建模竞赛-本科组全国一等奖-A题-定日镜场优化设计模型|7|2024-03-01|
+|43|[linggm3/2023_CUMCM_National-First-Prize](https://github.com/linggm3/2023_CUMCM_National-First-Prize)|2023年高教社杯全国大学生数学建模竞赛-本科组全国一等奖-A题-定日镜场优化设计模型|8|2024-03-01|
+|44|[highskyno1/2users-CDMA-simulation](https://github.com/highskyno1/2users-CDMA-simulation)|基于MATLAB的直接序列扩频通信系统仿真|8|2024-04-15|
+|45|[asfhiolNick/NTU_TimeFrequencyAnalysis_201802](https://github.com/asfhiolNick/NTU_TimeFrequencyAnalysis_201802)|丁建均老師的"時頻分析和小波轉換"作業(TFW)|8|2024-01-18|
+|46|[WeianHuang23/Dispersion-assisted_High-dimensional_Photodetector](https://github.com/WeianHuang23/Dispersion-assisted_High-dimensional_Photodetector)|数据集的创建|7|2024-04-03|
 |47|[Matthew-Lyu/Classic-Image-Processing-Analysis](https://github.com/Matthew-Lyu/Classic-Image-Processing-Analysis)|Classic image processing and analysis methods|7|2024-06-01|
 |48|[flyQQQHddd/pattern-recognition](https://github.com/flyQQQHddd/pattern-recognition)|模式识别|6|2024-04-11|
 |49|[linggm3/SYSU_Digital-Image-Processing](https://github.com/linggm3/SYSU_Digital-Image-Processing)|2023年中山大学计算机学院谢晓华老师的数图（数字图像处理）项目|6|2024-03-01|
