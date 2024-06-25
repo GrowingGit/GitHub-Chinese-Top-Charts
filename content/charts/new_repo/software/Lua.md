@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Lua
-<sub>数据更新: 2024-06-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-06-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[ejoy/vaststars](https://github.com/ejoy/vaststars)|A game demo for Ant engine|552|2024-06-17|2024-02-06|
 |2|[AegirTech/ArkLights](https://github.com/AegirTech/ArkLights)|明日方舟速通 arknights|332|2024-05-25|2023-08-25|
 |3|[Afool4U/Logi_purgatory_macro](https://github.com/Afool4U/Logi_purgatory_macro)|罗技G系列炼狱宏|199|2024-03-31|2023-08-04|
-|4|[gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma)|墨奇音形，打造最强双拼辅助码rime输入方案。基于雾凇词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，辅助码支持墨奇码（原创拆分开源支持4万字）、自然码部首辅、小鹤音形（鹤形辅），支持整句/字词输入。不认识的字可以笔画、部件拆字、仓颉码反查。支持aw、aj模式输入英文、日文，支持双拼并击输入、emoji、快符、日期、大写数字、计算器等高级功能。雾凇鹤 雾凇自然 墨奇码 墨奇音形|188|2024-06-21|2024-01-25|
+|4|[gaboolic/rime-shuangpin-fuzhuma](https://github.com/gaboolic/rime-shuangpin-fuzhuma)|墨奇音形，打造最强双拼辅助码rime输入方案。基于雾凇词库，支持小鹤双拼、自然码双拼、搜狗双拼、微软双拼等多种双拼，辅助码支持墨奇码（原创拆分开源支持4万字）、自然码部首辅、小鹤音形（鹤形辅），支持整句/字词输入。不认识的字可以笔画、部件拆字、仓颉码反查。支持aw、aj模式输入英文、日文，支持双拼并击输入、emoji、快符、日期、大写数字、计算器等高级功能。雾凇鹤 雾凇自然 墨奇码 墨奇音形|190|2024-06-21|2024-01-25|
 |5|[boluokk/e7Helper](https://github.com/boluokk/e7Helper)|【EPIC】第七史诗多功能覆盖脚本(刷书签🍃，挂讨伐、后记、祭坛✌️，挂JJC等📛，多服务器支持📺，qq机器人消息通知📩)|127|2024-06-10|2023-09-09|
 |6|[HowcanoeWang/rime-lua-aux-code](https://github.com/HowcanoeWang/rime-lua-aux-code)|RIME输入法辅助码音形分离插件|50|2024-05-28|2023-10-14|
 |7|[geezmolycos/lizard-pet](https://github.com/geezmolycos/lizard-pet)|love2d 编写的桌宠，目前实现了一只飞龙，使用程序动态生成的动画，自然流畅（至少希望是这样）。|47|2024-05-16|2024-03-17|
