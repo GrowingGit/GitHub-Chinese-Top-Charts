@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning)|我的导航学习笔记，内容涵盖导航定位开源程序的源码解读 ( 包括：RTKLIB、GAMP、GINav、Ginan、PSINS、SoftGNSS、KF-GINS、ORB-SLAM3、GICI-Lib 等)、各种导航设备的使用方式、书籍讲义、博客翻译、开源项目梳理、常用网站记录、Linux/Vim/Git/ROS/VSCode 常用命令；本仓库会长期更新，分享出来，跟大家做个交流，也激励着自己坚持学下去 ...|653|2024-06-12|2023-08-08|
+|1|[LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning)|我的导航学习笔记，内容涵盖导航定位开源程序的源码解读 ( 包括：RTKLIB、GAMP、GINav、Ginan、PSINS、SoftGNSS、KF-GINS、ORB-SLAM3、GICI-Lib 等)、各种导航设备的使用方式、书籍讲义、博客翻译、开源项目梳理、常用网站记录、Linux/Vim/Git/ROS/VSCode 常用命令；本仓库会长期更新，分享出来，跟大家做个交流，也激励着自己坚持学下去 ...|654|2024-06-12|2023-08-08|
 |2|[kyiree/SuperEngineer](https://github.com/kyiree/SuperEngineer)|个人学习记录|31|2024-06-18|2024-02-15|
 |3|[StZhang-B/PKU-Millimeter-Wave-Radar-Tutorial](https://github.com/StZhang-B/PKU-Millimeter-Wave-Radar-Tutorial)|本项目是为了PKU & BJTU大二学生本研轮转而创，内容包含了对毫米波雷达基础知识的总结、基于IWR1843的原始ADC数据处理、FMCW-MIMO毫米波雷达仿真、基于点云的人体追踪Demo、基于热力图的人体定位demo、手势识别demo和毫米波雷达生命体征检测Demo|20|2024-04-25|2024-03-11|
 |4|[LiZhengXiao99/INS_Course_Matlab](https://github.com/LiZhengXiao99/INS_Course_Matlab)|安徽理工大学惯性导航课程设计，实现导航级 IMU 的标定、对准、递推；额外写了 PSINS 的对准和递推的主函数，跟严老师的结果做对比。|14|2024-06-12|2024-06-10|
@@ -14,6 +14,7 @@
 |7|[Z-G-Zhou/PUMA560-kinematics-and-trajectory_planning](https://github.com/Z-G-Zhou/PUMA560-kinematics-and-trajectory_planning)|本项目为归档项目包，不再更新维护，该项目可作为机器人相关专业的本科生和研究生进行学习和参考的资料。 项目首先对PUMA560机械臂的基本结构和参数进行了介绍，对其运动学特性进行了分析并给出了正逆运动学的完整算法。其次，建立了PUMA560的三维模型，制作了机器人的URDF网格可视化文件，并在Simulink中开发了机械臂的可视化仿真框架。最后，分别基于关节空间和笛卡尔空间对机械臂进行了轨迹规划并在 ...|10|2024-03-13|2024-03-13|
 |8|[fangrxkami/AWR1243](https://github.com/fangrxkami/AWR1243)|用于记录分享AWR1243+DCA1000的使用方法|6|2024-02-04|2024-02-01|
 |9|[WZRforcontrol/YSU_JY_B_ks](https://github.com/WZRforcontrol/YSU_JY_B_ks)|YSU机械原理B课程设计(方案二)|3|2024-06-25|2024-06-22|
+|10|[Git-BoHu/Beauty-of-Control-Systems-Notebook](https://github.com/Git-BoHu/Beauty-of-Control-Systems-Notebook)|记录在Bilibili上关注UP主DR_CAN的视频教程以及相关书籍课程的学习笔记。|3|2024-04-26|2024-04-02|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

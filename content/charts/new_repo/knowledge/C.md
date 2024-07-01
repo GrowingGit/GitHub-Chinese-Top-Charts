@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[OracleNep/Nday-Exploit-Plan](https://github.com/OracleNep/Nday-Exploit-Plan)|历史漏洞的细节以及利用方法汇总收集|85|2024-05-14|2024-02-11|
+|1|[OracleNep/Nday-Exploit-Plan](https://github.com/OracleNep/Nday-Exploit-Plan)|历史漏洞的细节以及利用方法汇总收集|86|2024-05-14|2024-02-11|
 |2|[yssickjgd/robowalker_train](https://github.com/yssickjgd/robowalker_train)|中国科大RoboMaster电控培训系列代码|72|2024-02-17|2023-08-04|
 
 <div align="center">

@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lcpmgh/colors](https://github.com/lcpmgh/colors)|学术期刊配色推荐器|16|2024-04-06|2024-04-05|
+|1|[lcpmgh/colors](https://github.com/lcpmgh/colors)|学术期刊配色推荐器|17|2024-04-06|2024-04-05|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

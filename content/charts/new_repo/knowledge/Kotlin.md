@@ -6,7 +6,7 @@
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)|有手就会 《构建你自己的 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。|492|2024-05-22|2023-12-25|
-|2|[open-toys-controller/open-DGLAB-controller](https://github.com/open-toys-controller/open-DGLAB-controller)|郊狼3.0 API网络控制器. 支持任意编程语言. 郊狼socket控制器开发教程|44|2024-05-27|2024-03-12|
+|2|[open-toys-controller/open-DGLAB-controller](https://github.com/open-toys-controller/open-DGLAB-controller)|郊狼3.0 API网络控制器. 支持任意编程语言. 郊狼socket控制器开发教程|45|2024-05-27|2024-03-12|
 |3|[WaitFme/BiliBiliAndYou](https://github.com/WaitFme/BiliBiliAndYou)|借鉴学习BiliYou，哔哩等优秀作品。个人学习Compose UI的练习作品|20|2024-03-14|2023-07-17|
 |4|[xiaowine/DSP](https://github.com/xiaowine/DSP)|一个SharedPreferences和XSharedPreferences的封装库|9|2024-06-17|2023-09-30|
 

@@ -6,8 +6,8 @@
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[cncases/cases](https://github.com/cncases/cases)|中国裁判文书网本地搜索|535|2024-06-24|2024-01-14|
-|2|[Borber/Tran](https://github.com/Borber/Tran)|简洁, 快速, 划词翻译|456|2024-06-29|2023-11-09|
-|3|[PeiPei233/zju-learning-assistant](https://github.com/PeiPei233/zju-learning-assistant)|帮你快速下载所有课件😋|203|2024-06-26|2023-11-25|
+|2|[Borber/Tran](https://github.com/Borber/Tran)|简洁, 快速, 划词翻译|457|2024-06-29|2023-11-09|
+|3|[PeiPei233/zju-learning-assistant](https://github.com/PeiPei233/zju-learning-assistant)|帮你快速下载所有课件😋|203|2024-06-30|2023-11-25|
 |4|[zeyios/weread-pc](https://github.com/zeyios/weread-pc)|基于pake打包的微信读书项目，优化字体、背景颜色、阅读区域。|51|2024-02-16|2023-11-07|
 
 <div align="center">

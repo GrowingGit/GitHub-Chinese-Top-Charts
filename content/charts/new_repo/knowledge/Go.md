@@ -5,10 +5,10 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[danmuking/DiTing-Go](https://github.com/danmuking/DiTing-Go)|欢迎来到 DiTing！这是一个简单、轻量级的即时通讯（IM）开源项目，采用 Go 编写，严格遵守互联网开发标准。致力于为初学者提供一个友好、易于上手的 IM 解决方案，让你可以轻松入门并开始构建自己的即时通讯应用。|188|2024-05-28|2024-03-30|
+|1|[danmuking/DiTing-Go](https://github.com/danmuking/DiTing-Go)|欢迎来到 DiTing！这是一个简单、轻量级的即时通讯（IM）开源项目，采用 Go 编写，严格遵守互联网开发标准。致力于为初学者提供一个友好、易于上手的 IM 解决方案，让你可以轻松入门并开始构建自己的即时通讯应用。|187|2024-05-28|2024-03-30|
 |2|[Foleyzhao/lacerate](https://github.com/Foleyzhao/lacerate)|简单的静态博客生成器|181|2024-03-25|2024-03-12|
 |3|[GuGoOrg/GuGoTik](https://github.com/GuGoOrg/GuGoTik)|第六届字节跳动青训营后端进阶实战项目第一名，迷你抖音后端|120|2024-02-08|2023-07-27|
-|4|[ecodeclub/webook](https://github.com/ecodeclub/webook)|一个八股文面试网站，哈哈哈|99|2024-06-27|2023-07-10|
+|4|[ecodeclub/webook](https://github.com/ecodeclub/webook)|一个八股文面试网站，哈哈哈|99|2024-06-30|2023-07-10|
 |5|[Verthandii/palworld-go](https://github.com/Verthandii/palworld-go)|《幻兽帕鲁》私服启动器|63|2024-02-04|2024-01-25|
 
 <div align="center">

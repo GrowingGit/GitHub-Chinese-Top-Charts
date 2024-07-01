@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)|An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器|1062|2024-06-29|2024-03-28|
+|1|[Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)|An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器|1079|2024-06-29|2024-03-28|
 |2|[vito-go/mywords](https://github.com/vito-go/mywords)|背单词神器。 输入一个英语或双语文章的网址，本工具将自动提取文章中所有单词及其所在句子，对文章单词进行去重、统计汇总。你可以过滤筛选只显示出你不认识的单词。|151|2024-04-29|2024-02-17|
 |3|[molihuan/HLVideoNote](https://github.com/molihuan/HLVideoNote)|"视频笔记"顾名思义，但不仅仅是视频笔记。"Video notes" are just as the name suggests, but they are more than just video notes.|17|2024-05-24|2023-10-01|
 |4|[gvenusleo/lex-app](https://github.com/gvenusleo/lex-app)|划词翻译软件，使用 Flutter 开发，支持多个翻译模型|13|2024-06-06|2023-10-14|

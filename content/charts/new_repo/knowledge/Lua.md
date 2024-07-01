@@ -5,7 +5,7 @@
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|649|2024-06-27|2023-09-16|
+|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|651|2024-06-27|2023-09-16|
 |2|[newObjectccc/newObjectccc.github.io](https://github.com/newObjectccc/newObjectccc.github.io)|一个分享文章和技术还有推荐的Repo~|12|2024-05-20|2023-11-29|
 |3|[LanbingIce/IsaacSocket-Mod](https://github.com/LanbingIce/IsaacSocket-Mod)|这是一个《以撒的结合》的Mod，可为其他mod提供操作剪贴板，连接WebSocket等接口|9|2024-03-15|2023-09-10|
 |4|[Tsinswreng/rime-TswG](https://github.com/Tsinswreng/rime-TswG)|rime輸入法lua腳本及方案分享|6|2024-05-06|2024-02-29|
