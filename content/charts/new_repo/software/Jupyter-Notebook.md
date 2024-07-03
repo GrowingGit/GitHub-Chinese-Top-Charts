@@ -1,26 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Jupyter Notebook
-<sub>数据更新: 2024-07-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)|PhotoMaker|8618|2024-02-28|2023-12-06|
-|2|[Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)|A Blazing Fast AI Gateway. Route to 200+ LLMs with 1 fast & friendly API.|5129|2024-07-01|2023-08-23|
-|3|[ytzfhqs/AAAMLP-CN](https://github.com/ytzfhqs/AAAMLP-CN)|Approaching (Almost) Any Machine Learning Problem中译版，在线文档地址：https://ytzfhqs.github.io/AAAMLP-CN/|1138|2024-03-08|2023-08-30|
-|4|[DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart)|A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.|957|2024-05-31|2023-07-17|
-|5|[jacket230/damai](https://github.com/jacket230/damai)|大麦抢票damai，piao，qiangpiao 余票监控，逆向破解，加密算法，frida，hook，https加解密，app端请求，演唱会，演出，猫眼，票星球pxq，纷玩岛fwd，周杰伦jay，林俊杰 JJ，王嘉尔，伍佰，邓紫棋，杭州，北京，上海，泉州 薛之谦，刘德华，千人q群即将满员，不设二群。|625|2024-06-30|2024-01-27|
-|6|[elroy93/12306spy](https://github.com/elroy93/12306spy)|12306查票, 找到一张能上车的票|579|2024-03-10|2024-02-06|
+|1|[TencentARC/PhotoMaker](https://github.com/TencentARC/PhotoMaker)|PhotoMaker|8624|2024-02-28|2023-12-06|
+|2|[Portkey-AI/gateway](https://github.com/Portkey-AI/gateway)|A Blazing Fast AI Gateway. Route to 200+ LLMs with 1 fast & friendly API.|5148|2024-07-02|2023-08-23|
+|3|[ytzfhqs/AAAMLP-CN](https://github.com/ytzfhqs/AAAMLP-CN)|Approaching (Almost) Any Machine Learning Problem中译版，在线文档地址：https://ytzfhqs.github.io/AAAMLP-CN/|1139|2024-03-08|2023-08-30|
+|4|[DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart)|A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications.|962|2024-05-31|2023-07-17|
+|5|[jacket230/damai](https://github.com/jacket230/damai)|大麦抢票damai，piao，qiangpiao 余票监控，逆向破解，加密算法，frida，hook，https加解密，app端请求，演唱会，演出，猫眼，票星球pxq，纷玩岛fwd，周杰伦jay，林俊杰 JJ，王嘉尔，伍佰，邓紫棋，杭州，北京，上海，泉州 薛之谦，刘德华，千人q群即将满员，不设二群。|628|2024-06-30|2024-01-27|
+|6|[elroy93/12306spy](https://github.com/elroy93/12306spy)|12306查票, 找到一张能上车的票|580|2024-03-10|2024-02-06|
 |7|[AlexZhangji/Twitter-Insight-LLM](https://github.com/AlexZhangji/Twitter-Insight-LLM)|Twitter data scraping, embedding based image search and more.|542|2024-04-17|2024-03-05|
-|8|[PaddlePaddle/ERNIE-SDK](https://github.com/PaddlePaddle/ERNIE-SDK)|ERNIE Bot Agent is a Large Language Model (LLM) Agent Framework, powered by the advanced capabilities of ERNIE Bot and the platform resources of Baidu AI Studio.|324|2024-06-25|2023-08-30|
-|9|[Coobiw/MiniGPT4Qwen](https://github.com/Coobiw/MiniGPT4Qwen)|Personal Project: MPP-Qwen14B & MPP-Qwen-Next(Multimodal Pipeline Parallel based on Qwen-LM). Support [video/image/multi-image] {sft/conversations}. Don't let the poverty limit your imagination! Train ...|288|2024-06-27|2023-10-24|
+|8|[PaddlePaddle/ERNIE-SDK](https://github.com/PaddlePaddle/ERNIE-SDK)|ERNIE Bot Agent is a Large Language Model (LLM) Agent Framework, powered by the advanced capabilities of ERNIE Bot and the platform resources of Baidu AI Studio.|324|2024-07-02|2023-08-30|
+|9|[Coobiw/MiniGPT4Qwen](https://github.com/Coobiw/MiniGPT4Qwen)|Personal Project: MPP-Qwen14B & MPP-Qwen-Next(Multimodal Pipeline Parallel based on Qwen-LM). Support [video/image/multi-image] {sft/conversations}. Don't let the poverty limit your imagination! Train ...|291|2024-07-02|2023-10-24|
 |10|[TommyZihao/vlm_arm](https://github.com/TommyZihao/vlm_arm)|机械臂+大模型+多模态=人机协作具身智能体|282|2024-05-27|2024-05-23|
-|11|[baidubce/bce-qianfan-sdk](https://github.com/baidubce/bce-qianfan-sdk)|Provide best practices for LMOps, as well as elegant and convenient access to the features of the Qianfan MaaS Platform. (提供大模型工具链最佳实践，以及优雅且便捷地访问千帆大模型平台）|259|2024-07-01|2023-10-19|
+|11|[baidubce/bce-qianfan-sdk](https://github.com/baidubce/bce-qianfan-sdk)|Provide best practices for LMOps, as well as elegant and convenient access to the features of the Qianfan MaaS Platform. (提供大模型工具链最佳实践，以及优雅且便捷地访问千帆大模型平台）|262|2024-07-02|2023-10-19|
 |12|[Glanvery/LLM-Travel](https://github.com/Glanvery/LLM-Travel)|欢迎来到 "LLM-travel" 仓库！探索大语言模型（LLM）的奥秘 🚀。致力于深入理解、探讨以及实现与大模型相关的各种技术、原理和应用。|221|2024-04-10|2023-10-02|
-|13|[solidglue/Recommender_System](https://github.com/solidglue/Recommender_System)|推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。Comprehensively introduced the theory of industrial recommender system, how to trainning mod ...|187|2024-05-20|2024-02-29|
+|13|[solidglue/Recommender_System](https://github.com/solidglue/Recommender_System)|推荐系统入门指南，全面介绍了工业级推荐系统的理论知识（王树森推荐系统公开课-基于小红书的场景讲解工业界真实的推荐系统），如何基于TensorFlow2训练模型，如何实现高性能、高并发、高可用的Golang推理微服务。Comprehensively introduced the theory of industrial recommender system, how to trainning mod ...|188|2024-05-20|2024-02-29|
 |14|[Tongyi-EconML/FinQwen](https://github.com/Tongyi-EconML/FinQwen)|FinQwen: 致力于构建一个开放、稳定、高质量的金融大模型项目，基于大模型搭建金融场景智能问答系统，利用开源开放来促进「AI+金融」。|184|2024-06-11|2024-01-02|
-|15|[blackinkkkxi/RAG_langchain](https://github.com/blackinkkkxi/RAG_langchain)|一个基于langchain实现RAG的简单示例|173|2024-05-20|2023-12-09|
-|16|[percent4/embedding_rerank_retrieval](https://github.com/percent4/embedding_rerank_retrieval)|本项目是针对RAG中的Retrieve阶段的召回技术及算法效果所做评估实验。使用主体框架为LlamaIndex.|117|2024-06-20|2023-12-28|
+|15|[blackinkkkxi/RAG_langchain](https://github.com/blackinkkkxi/RAG_langchain)|一个基于langchain实现RAG的简单示例|181|2024-05-20|2023-12-09|
+|16|[percent4/embedding_rerank_retrieval](https://github.com/percent4/embedding_rerank_retrieval)|本项目是针对RAG中的Retrieve阶段的召回技术及算法效果所做评估实验。使用主体框架为LlamaIndex.|118|2024-06-20|2023-12-28|
 |17|[solidglue/DNN_for_YouTube_Recommendations](https://github.com/solidglue/DNN_for_YouTube_Recommendations)|YouTube推荐系统深度学习召回排序算法, Deep Neural Networks for YouTube Recommendations. YouTubeDNN.|99|2024-05-21|2024-03-04|
 |18|[KMnO4-zx/TinyAgent](https://github.com/KMnO4-zx/TinyAgent)|基于ReAct手搓一个Agent Demo|86|2024-04-29|2024-03-30|
 |19|[Tony607/Cybergear](https://github.com/Tony607/Cybergear)|小米微电机Cybergear上手开发|70|2024-02-24|2023-09-02|
@@ -29,16 +29,16 @@
 |22|[dxcf123/UCAS_DeepLearning_homework](https://github.com/dxcf123/UCAS_DeepLearning_homework)|国科大深度学习作业 2024 春|54|2024-06-28|2024-04-22|
 |23|[Zenobia000/iSpan_python-DA-cookbooks](https://github.com/Zenobia000/iSpan_python-DA-cookbooks)|資策會_python data analysis |51|2024-06-27|2023-10-18|
 |24|[teash1rt/resume-analysis-system](https://github.com/teash1rt/resume-analysis-system)|智能简历解析系统，支持多维度信息提取|51|2024-06-30|2023-07-05|
-|25|[huangjia2019/ai-in-practice](https://github.com/huangjia2019/ai-in-practice)|极客时间 AI原生基础实战课|49|2024-06-28|2023-09-04|
-|26|[kevin-meng/HuggingfaceDownloadShare](https://github.com/kevin-meng/HuggingfaceDownloadShare)|中国如何下载huggingface 模型并共享链接|48|2024-04-06|2023-09-10|
-|27|[honeyandme/RAGQnASystem](https://github.com/honeyandme/RAGQnASystem)|本项目设计了一个基于 RAG 与大模型技术的医疗问答系统，利用 DiseaseKG 数据集与 Neo4j 构  建知识图谱，结合 BERT 的命名实体识别和 34b 大模型的意图识别，通过精确的知识检索和问答生成，  提升系统在医疗咨询中的性能，解决大模型在医疗领域应用的可靠性问题。|47|2024-05-21|2024-05-16|
-|28|[phbst/tinyRAG](https://github.com/phbst/tinyRAG)|RAG兴趣小组，全手写的一个RAG应用。Langchain的大部分库会很方便，但是你不一定理解其中原理，所以代码尽可能展现基本算法，主打理解RAG的原理|44|2024-06-03|2024-03-21|
+|25|[honeyandme/RAGQnASystem](https://github.com/honeyandme/RAGQnASystem)|本项目设计了一个基于 RAG 与大模型技术的医疗问答系统，利用 DiseaseKG 数据集与 Neo4j 构  建知识图谱，结合 BERT 的命名实体识别和 34b 大模型的意图识别，通过精确的知识检索和问答生成，  提升系统在医疗咨询中的性能，解决大模型在医疗领域应用的可靠性问题。|49|2024-05-21|2024-05-16|
+|26|[huangjia2019/ai-in-practice](https://github.com/huangjia2019/ai-in-practice)|极客时间 AI原生基础实战课|49|2024-06-28|2023-09-04|
+|27|[kevin-meng/HuggingfaceDownloadShare](https://github.com/kevin-meng/HuggingfaceDownloadShare)|中国如何下载huggingface 模型并共享链接|48|2024-04-06|2023-09-10|
+|28|[phbst/tinyRAG](https://github.com/phbst/tinyRAG)|RAG兴趣小组，全手写的一个RAG应用。Langchain的大部分库会很方便，但是你不一定理解其中原理，所以代码尽可能展现基本算法，主打理解RAG的原理|47|2024-06-03|2024-03-21|
 |29|[TavinWang/Machine-Learning](https://github.com/TavinWang/Machine-Learning)|机器学习算法实现及实战|44|2024-02-27|2024-02-27|
 |30|[owenliang/qwen-sft](https://github.com/owenliang/qwen-sft)|通义千问 SFT试验|43|2024-01-06|2023-12-31|
-|31|[arcstep/langchain_zhipuai](https://github.com/arcstep/langchain_zhipuai)|为了兼容Langchain，根据zhipu官方HTTP的API重新实现的Python SDK|41|2024-06-28|2024-02-20|
-|32|[Zeyi-Lin/LLM-Finetune](https://github.com/Zeyi-Lin/LLM-Finetune)|大语言模型微调，Qwen2、GLM4指令微调|40|2024-06-21|2024-06-10|
+|31|[Zeyi-Lin/LLM-Finetune](https://github.com/Zeyi-Lin/LLM-Finetune)|大语言模型微调，Qwen2、GLM4指令微调|41|2024-06-21|2024-06-10|
+|32|[arcstep/langchain_zhipuai](https://github.com/arcstep/langchain_zhipuai)|为了兼容Langchain，根据zhipu官方HTTP的API重新实现的Python SDK|41|2024-06-28|2024-02-20|
 |33|[STRUGGLE1999/LangChain-ChatGLM3](https://github.com/STRUGGLE1999/LangChain-ChatGLM3)|学习ChatGLM3模型和LangChain框架的架构与核心功能，并基于LangChain+ChatGLM3实现本地知识库问答。|39|2024-01-30|2023-12-31|
-|34|[yunsuxiaozi/AI-and-competition](https://github.com/yunsuxiaozi/AI-and-competition)|这里用来存储做人工智能项目的代码和参加数据挖掘比赛的代码|32|2024-07-01|2024-03-09|
+|34|[yunsuxiaozi/AI-and-competition](https://github.com/yunsuxiaozi/AI-and-competition)|这里用来存储做人工智能项目的代码和参加数据挖掘比赛的代码|35|2024-07-01|2024-03-09|
 |35|[ddm3114/CRNN](https://github.com/ddm3114/CRNN)|通过RPN with FPN以及CRNN进行车牌检测和识别|32|2024-04-10|2024-01-03|
 |36|[roberthsu2003/__2024_05_05_sunday__](https://github.com/roberthsu2003/__2024_05_05_sunday__)|AI 人工智慧開發入門_python|29|2024-06-30|2024-05-05|
 |37|[roberthsu2003/__113_gov_ai_web__2024_4_27__](https://github.com/roberthsu2003/__113_gov_ai_web__2024_4_27__)|113上-新北-打造AI物聯網數據與Web動態網頁圖表顯示整合實作班|27|2024-06-29|2024-05-04|
