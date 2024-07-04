@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-07-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -18,32 +18,31 @@
 |11|[JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net](https://github.com/JoeyBGOfficial/Through-the-Wall-Radar-Human-Activity-Recognition-Based-on-M-D-Corner-Feature-and-Non-Local-Net)|This repository is the open source code for our latest feasibility work: "Human Anomalous Gait Termination Recognition Via Through-the-Wall Radar Based on Micro-Doppler Corner Features and Non-Local M ...|10|2024-01-16|2023-10-24|
 |12|[Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator](https://github.com/Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator)|针对解决轮式移动机械臂在复杂环境中执行灵巧作业的需求，开展了面向冗余轮式移动机械臂的考虑任务优先级的位形优化研究。首先建立了整机运动学模型，然后基于任务优先级框架开展了面向车-臂双轨迹跟踪、避奇异位形、避关节极限等多任务目标的位形优化的研究，最后进行了复杂工况仿真，验证了方法的有效性。|9|2024-03-13|2024-03-13|
 |13|[linggm3/2023_CUMCM_National-First-Prize](https://github.com/linggm3/2023_CUMCM_National-First-Prize)|2023年高教社杯全国大学生数学建模竞赛-本科组全国一等奖-A题-定日镜场优化设计模型|9|2024-03-01|2024-03-01|
-|14|[wong-cf/phase_revocery](https://github.com/wong-cf/phase_revocery)|相位恢复算法相关的几种算法，包括角谱迭代算法，GS算法，TTIE强度方程恢复算法，以及算法的结合。|9|2024-01-02|2024-01-02|
-|15|[Dramwig/Optimization-Algorithms-Comparison](https://github.com/Dramwig/Optimization-Algorithms-Comparison)|比较和分析不同启发式算法（包括GA、CGWO、PSO和AOA）的收敛曲线，使用MATLAB编写|9|2024-01-13|2023-12-06|
-|16|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|9|2024-03-25|2023-10-25|
-|17|[flyQQQHddd/pattern-recognition](https://github.com/flyQQQHddd/pattern-recognition)|模式识别|6|2024-04-11|2024-04-11|
-|18|[linggm3/SYSU_Digital-Image-Processing](https://github.com/linggm3/SYSU_Digital-Image-Processing)|2023年中山大学计算机学院谢晓华老师的数图（数字图像处理）项目|6|2024-03-01|2024-03-01|
-|19|[Aitherqwq/dsp_integrate_e_demo](https://github.com/Aitherqwq/dsp_integrate_e_demo)|数字信号处理大作业，语音处理|6|2024-03-16|2023-12-30|
-|20|[Nome2s/InSARFilter](https://github.com/Nome2s/InSARFilter)|InSAR 中经典滤波算法的实现（MATLAB & Python）|6|2024-05-01|2023-08-07|
-|21|[Trist-wood/Digital-image-processing-system](https://github.com/Trist-wood/Digital-image-processing-system)|本系统基于MATLAB 的图像处理工具箱和图形用户界面(GUI)设计与实现，构建了一个面向对象且高度可视化的图像处理操作系统，该系统实现了图像增强、图像变换、图像滤波、图像分割、边缘检测等内容|5|2024-05-25|2024-05-25|
-|22|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|5|2024-05-23|2024-03-11|
-|23|[Joe-Hall-Lee/hc_lzp](https://github.com/Joe-Hall-Lee/hc_lzp)|清风数学建模。|5|2024-02-05|2024-02-05|
-|24|[highskyno1/SAR_imaging_with_RD_CS_wk](https://github.com/highskyno1/SAR_imaging_with_RD_CS_wk)|基于RD、CS和ωk算法的合成孔径雷达成像算法原理与实现|5|2024-02-04|2024-02-04|
-|25|[Maaaaark001/Easy_DPD](https://github.com/Maaaaark001/Easy_DPD)|简易的DPD算法示例|5|2024-06-27|2023-10-12|
-|26|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Uav track collaborative planning based on pso algorithm/基于pso算法的无人机航迹协同规划|4|2024-06-24|2024-06-23|
-|27|[TkungAI/AMBD-CGE](https://github.com/TkungAI/AMBD-CGE)|基于MBD（Model-Based Design，基于模型的设计）代码生成样例。|4|2024-04-14|2024-04-04|
-|28|[linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge](https://github.com/linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge)|2022年深圳杯数学建模挑战赛-全国第二-B题-基于用电可靠性的配电网规划模型|4|2024-03-01|2024-03-01|
-|29|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|4|2024-06-05|2024-02-29|
-|30|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|3|2024-05-23|2024-05-23|
-|31|[123RoBin0819/Sea-clutter](https://github.com/123RoBin0819/Sea-clutter)|海杂波|3|2024-05-17|2024-05-17|
-|32|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|3|2024-05-21|2024-05-06|
-|33|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|2024-05-29|2024-04-20|
-|34|[Sunshine00001/-matlab-](https://github.com/Sunshine00001/-matlab-)|（1）设置车辆参数及其他车辆信息。 （2）系统应该能够根据输入的车辆和停车位信息，自动生成最佳路径规划方案。 （3）考虑到实际应用场景，系统应能够处理不同路况、停车位大小和停车要求等多种情况。 （4）仿真与分析，对所得结果的有效性进行验证。 （5）系统应该具备一定的健壮性和鲁棒性，能够处理异常情况并给出合理的解决方案。 （6）完善平行泊车路径规划程序，通过设计GUI界面展示泊车路径规划。|3|2024-04-08|2024-04-08|
-|35|[mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM](https://github.com/mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM)|基于BO-LSTM的黄金股价预测分析 |3|2024-03-10|2024-03-10|
-|36|[INSofHUST/Distributed-Optimization](https://github.com/INSofHUST/Distributed-Optimization)|基于一致性的分布式优化算法样例。|3|2024-01-25|2024-01-14|
-|37|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-06-17|2023-10-24|
-|38|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|2024-06-22|2023-10-08|
-|39|[yuyuliangyu/matlab-vine-copula](https://github.com/yuyuliangyu/matlab-vine-copula)|这是一个用matlab编写的vine-copula|3|2024-02-28|2023-09-17|
+|14|[Dramwig/Optimization-Algorithms-Comparison](https://github.com/Dramwig/Optimization-Algorithms-Comparison)|比较和分析不同启发式算法（包括GA、CGWO、PSO和AOA）的收敛曲线，使用MATLAB编写|9|2024-01-13|2023-12-06|
+|15|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|9|2024-03-25|2023-10-25|
+|16|[flyQQQHddd/pattern-recognition](https://github.com/flyQQQHddd/pattern-recognition)|模式识别|6|2024-04-11|2024-04-11|
+|17|[linggm3/SYSU_Digital-Image-Processing](https://github.com/linggm3/SYSU_Digital-Image-Processing)|2023年中山大学计算机学院谢晓华老师的数图（数字图像处理）项目|6|2024-03-01|2024-03-01|
+|18|[Aitherqwq/dsp_integrate_e_demo](https://github.com/Aitherqwq/dsp_integrate_e_demo)|数字信号处理大作业，语音处理|6|2024-03-16|2023-12-30|
+|19|[Nome2s/InSARFilter](https://github.com/Nome2s/InSARFilter)|InSAR 中经典滤波算法的实现（MATLAB & Python）|6|2024-05-01|2023-08-07|
+|20|[Trist-wood/Digital-image-processing-system](https://github.com/Trist-wood/Digital-image-processing-system)|本系统基于MATLAB 的图像处理工具箱和图形用户界面(GUI)设计与实现，构建了一个面向对象且高度可视化的图像处理操作系统，该系统实现了图像增强、图像变换、图像滤波、图像分割、边缘检测等内容|5|2024-05-25|2024-05-25|
+|21|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|5|2024-05-23|2024-03-11|
+|22|[Joe-Hall-Lee/hc_lzp](https://github.com/Joe-Hall-Lee/hc_lzp)|清风数学建模。|5|2024-02-05|2024-02-05|
+|23|[highskyno1/SAR_imaging_with_RD_CS_wk](https://github.com/highskyno1/SAR_imaging_with_RD_CS_wk)|基于RD、CS和ωk算法的合成孔径雷达成像算法原理与实现|5|2024-02-04|2024-02-04|
+|24|[Maaaaark001/Easy_DPD](https://github.com/Maaaaark001/Easy_DPD)|简易的DPD算法示例|5|2024-06-27|2023-10-12|
+|25|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Uav track collaborative planning based on pso algorithm/基于pso算法的无人机航迹协同规划|4|2024-06-24|2024-06-23|
+|26|[TkungAI/AMBD-CGE](https://github.com/TkungAI/AMBD-CGE)|基于MBD（Model-Based Design，基于模型的设计）代码生成样例。|4|2024-04-14|2024-04-04|
+|27|[linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge](https://github.com/linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge)|2022年深圳杯数学建模挑战赛-全国第二-B题-基于用电可靠性的配电网规划模型|4|2024-03-01|2024-03-01|
+|28|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|4|2024-06-05|2024-02-29|
+|29|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|3|2024-05-23|2024-05-23|
+|30|[123RoBin0819/Sea-clutter](https://github.com/123RoBin0819/Sea-clutter)|海杂波|3|2024-05-17|2024-05-17|
+|31|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|3|2024-05-21|2024-05-06|
+|32|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|2024-05-29|2024-04-20|
+|33|[Sunshine00001/-matlab-](https://github.com/Sunshine00001/-matlab-)|（1）设置车辆参数及其他车辆信息。 （2）系统应该能够根据输入的车辆和停车位信息，自动生成最佳路径规划方案。 （3）考虑到实际应用场景，系统应能够处理不同路况、停车位大小和停车要求等多种情况。 （4）仿真与分析，对所得结果的有效性进行验证。 （5）系统应该具备一定的健壮性和鲁棒性，能够处理异常情况并给出合理的解决方案。 （6）完善平行泊车路径规划程序，通过设计GUI界面展示泊车路径规划。|3|2024-04-08|2024-04-08|
+|34|[mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM](https://github.com/mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM)|基于BO-LSTM的黄金股价预测分析 |3|2024-03-10|2024-03-10|
+|35|[INSofHUST/Distributed-Optimization](https://github.com/INSofHUST/Distributed-Optimization)|基于一致性的分布式优化算法样例。|3|2024-01-25|2024-01-14|
+|36|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-06-17|2023-10-24|
+|37|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|2024-06-22|2023-10-08|
+|38|[yuyuliangyu/matlab-vine-copula](https://github.com/yuyuliangyu/matlab-vine-copula)|这是一个用matlab编写的vine-copula|3|2024-02-28|2023-09-17|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
