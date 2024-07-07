@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > C#
-<sub>数据更新: 2024-07-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
 |1|[wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher)|PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等|8857|10|2024-06-21|
-|2|[YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)|🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、常见面试题、面试须知、简历模板、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。|5732|4|2024-07-04|
+|2|[YSGStudyHards/DotNetGuide](https://github.com/YSGStudyHards/DotNetGuide)|🌈【C#/.NET/.NET Core学习、工作、面试指南】记录、收集和总结C#/.NET/.NET Core基础知识、学习路线、开发实战、编程技巧练习、学习视频、文章、书籍、项目框架、社区组织、开发必备工具、常见面试题、面试须知、简历模板、以及自己在学习和工作中的一些微薄见解。希望能和大家一起学习，共同进步。如果本知识库能为您提供帮助，别忘了给予支持哦(关注、点赞、分享)💖。|5740|4|2024-07-06|
 |3|[unity3d-jp/Project_TCC](https://github.com/unity3d-jp/Project_TCC)|TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.|490|3|2024-04-30|
-|4|[StarfireLab/SharpWeb](https://github.com/StarfireLab/SharpWeb)|一个浏览器数据（密码 历史记录 Cookie 书签 下载记录）的导出工具，支持主流浏览器。|463|2|2024-06-13|
+|4|[StarfireLab/SharpWeb](https://github.com/StarfireLab/SharpWeb)|一个浏览器数据（密码 历史记录 Cookie 书签 下载记录）的导出工具，支持主流浏览器。|464|2|2024-06-13|
 |5|[TheAlgorithms/C-Sharp](https://github.com/TheAlgorithms/C-Sharp)|All algorithms implemented in C#.|6727|2|2024-05-20|
-|6|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 8.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|4914|2|2024-07-03|
+|6|[anjoy8/Blog.Core](https://github.com/anjoy8/Blog.Core)|💖 ASP.NET Core 8.0 全家桶教程，前后端分离后端接口，vue教程姊妹篇，官方文档：|4915|2|2024-07-03|
 |7|[2881099/FreeRedis](https://github.com/2881099/FreeRedis)|🦄 FreeRedis is .NET40+ redis client. supports cluster, sentinel, master-slave, pub-sub, lua, pipeline, transaction, streams, client-side-caching, and pooling.|897|1|2024-07-02|
-|8|[dotnetcore/sharding-core](https://github.com/dotnetcore/sharding-core)|high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵|1117|1|2024-05-28|
-|9|[ldqk/ImageSearch](https://github.com/ldqk/ImageSearch)|基于.NET8的本地硬盘千万级图库以图搜图案例Demo和图片exif信息移除小工具分享|711|1|2024-05-09|
-|10|[ks233/ja-learner](https://github.com/ks233/ja-learner)|📖简易日语学习 / 视觉小说阅读辅助工具|589|1|2024-03-10|
-|11|[nearby-sharing/android](https://github.com/nearby-sharing/android)|Share files between android and PC via the Windows 10 / 11 built-in sharing functionality (Project Rome)|647|1|2024-06-04|
+|8|[dotnetcore/sharding-core](https://github.com/dotnetcore/sharding-core)|high performance lightweight solution for efcore sharding table and sharding database support read-write-separation .一款ef-core下高性能、轻量级针对分表分库读写分离的解决方案，具有零依赖、零学习成本、零业务代码入侵|1119|1|2024-05-28|
+|9|[ldqk/ImageSearch](https://github.com/ldqk/ImageSearch)|基于.NET8的本地硬盘千万级图库以图搜图案例Demo和图片exif信息移除小工具分享|713|1|2024-07-06|
+|10|[ks233/ja-learner](https://github.com/ks233/ja-learner)|📖简易日语学习 / 视觉小说阅读辅助工具|590|1|2024-03-10|
+|11|[nearby-sharing/android](https://github.com/nearby-sharing/android)|Share files between android and PC via the Windows 10 / 11 built-in sharing functionality (Project Rome)|648|1|2024-06-04|
 |12|[jasonhua95/awesome-dotnet-core](https://github.com/jasonhua95/awesome-dotnet-core)|.NET Core库、工具、框架和软件的中文收录大全。 内容包括：库、工具、框架、模板引擎、身份认证、数据库、ORM框架、图片处理、文本处理、机器学习、日志、代码分析、教程等。|1921|1|2024-06-14|
-|13|[HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer)|仅供学习交流使用   第三方网易云音乐播放器   A Netease Cloud Music Player|860|1|2024-07-05|
-|14|[TastSong/GameProgrammerStudyNotes](https://github.com/TastSong/GameProgrammerStudyNotes)|游戏开发学习笔记|165|0|2024-07-04|
+|13|[HyPlayer/HyPlayer](https://github.com/HyPlayer/HyPlayer)|仅供学习交流使用   第三方网易云音乐播放器   A Netease Cloud Music Player|861|1|2024-07-06|
+|14|[TastSong/GameProgrammerStudyNotes](https://github.com/TastSong/GameProgrammerStudyNotes)|游戏开发学习笔记|166|0|2024-07-04|
 |15|[Awbugl/ProjectGenesis](https://github.com/Awbugl/ProjectGenesis)|构建真实宇宙，撰写创世之书。  Construct Real Universe. Then leave a GenesisBook.|29|0|2024-01-09|
 |16|[qedsd/TheGuideToTheNewEden](https://github.com/qedsd/TheGuideToTheNewEden)|新伊甸漫游指南|34|0|2024-04-05|
 |17|[MarsonShine/Books](https://github.com/MarsonShine/Books)|读书笔记|22|0|2024-01-25|
@@ -30,25 +30,24 @@
 |23|[239573049/FastGateway](https://github.com/239573049/FastGateway)|FastGateway 一个超级简单方便的网关，基于Kestrel+Yarp实现的网关。 支持动态配置路由，支持动态配置集群，支持动态配置HTTPS证书，无需重启即可使用。|42|0|2024-04-03|
 |24|[MingsonZheng/Personal-Learning-Library](https://github.com/MingsonZheng/Personal-Learning-Library)|个人学习笔记仓库（.NET、k8s、Go、微服务、云原生）🐮🍺|63|0|2024-03-03|
 |25|[kkbruce/AspNetCore-Practice](https://github.com/kkbruce/AspNetCore-Practice)|ASP.NET Core 專案練習集合，ASP.NET Core Practice Projects|114|0|2024-01-17|
-|26|[WeihanLi/DesignPatterns](https://github.com/WeihanLi/DesignPatterns)|DesignPatterns samples by CSharp《大话设计模式》 中设计模式总结/C#(.NET)代码|142|0|2024-01-05|
-|27|[Liu233w/acm-statistics](https://github.com/Liu233w/acm-statistics)|An online tool (crawler) to analyze users performance in online judges (coding competition websites). Supported OJ: POJ, HDU, HYSBZ, CodeForces, UVA, ICPC Live Archive, FZU, SPOJ, Timus (URAL), LeetCo ...|144|0|2024-07-02|
-|28|[lwwhb/CustomRenderPipelineTutorials](https://github.com/lwwhb/CustomRenderPipelineTutorials)|Unity6的自定义渲染管线教程|55|0|2024-06-27|
-|29|[STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)|用于白板一体机的桌面部件，有小黑板（布置作业）、启动台、课程表|57|0|2024-06-11|
-|30|[yanglr/wpf_in-depth_explanation](https://github.com/yanglr/wpf_in-depth_explanation)|《深入浅出WPF》相关资源(Code、视频、课件、公开课等)|78|0|2024-05-13|
-|31|[N0I0C0K/PowerTranslator](https://github.com/N0I0C0K/PowerTranslator)|一个 PowerToys Run 的翻译插件/a translate plugin for PowerToys Run|348|0|2024-05-26|
-|32|[taecg/ShaderReference](https://github.com/taecg/ShaderReference)|针对Unity的Shader参考大全|264|0|2024-06-27|
-|33|[AtmoOmen/DailyRoutines](https://github.com/AtmoOmen/DailyRoutines)|Dalamud 插件 Daily Routines - 自动化小工具/易用性改动合集|75|0|2024-07-05|
-|34|[lindexi/lindexi_gd](https://github.com/lindexi/lindexi_gd)|博客用到的代码|172|0|2024-07-05|
-|35|[Xzonn/PokemonChineseTranslationRevise](https://github.com/Xzonn/PokemonChineseTranslationRevise)|《宝可梦》第四世代汉化修正|83|0|2024-05-23|
-|36|[luoyunchong/lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore)|😃A simple and practical CMS implemented by .NET + FreeSql；前后端分离、Docker部署、OAtuh2授权登录、自动化部署DevOps、自动同步至Gitee、代码生成器、仿掘金专栏|791|0|2024-05-28|
-|37|[CnGal/CnGalWebSite](https://github.com/CnGal/CnGalWebSite)|CnGal是一个非营利性的，立志于收集整理国内制作组创作的中文Galgame/AVG的介绍、攻略、评测、感想等内容的资料性质的网站。|97|0|2024-07-02|
-|38|[DigitalPlatform/chord](https://github.com/DigitalPlatform/chord)|新一代分布式图书馆软件|27|0|2024-01-12|
-|39|[zLulus/NotePractice](https://github.com/zLulus/NotePractice)|My_Note 笔记练习demo|220|0|2024-06-19|
-|40|[XIU2/UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool)|📃 UAC 白名单小工具！|483|0|2024-03-03|
-|41|[anjoy8/BCVP.Net8](https://github.com/anjoy8/BCVP.Net8)|ASP.NET8.0入口与实战系列视频教程 配合代码|85|0|2024-04-15|
-|42|[BlueHtml/Note163Checkin](https://github.com/BlueHtml/Note163Checkin)|基于Github Actions的有道云笔记每日签到|21|0|2024-01-26|
-|43|[ALI1416/ScreenShare](https://github.com/ALI1416/ScreenShare)|Local Network Screen Share 局域网屏幕共享|49|0|2024-01-29|
-|44|[chutianshu1981/AwesomeUnityTutorial](https://github.com/chutianshu1981/AwesomeUnityTutorial)|精选官方高质量教程作为入门学习内容，选择最优学习路线，让学习过程“如丝般顺滑”；力求做全网最易学，知识最全面的游戏开发教程。Select the official high-quality tutorials as the introductory learning content, choose the best learning route to make the learning proce ...|180|0|2024-06-22|
+|26|[Liu233w/acm-statistics](https://github.com/Liu233w/acm-statistics)|An online tool (crawler) to analyze users performance in online judges (coding competition websites). Supported OJ: POJ, HDU, HYSBZ, CodeForces, UVA, ICPC Live Archive, FZU, SPOJ, Timus (URAL), LeetCo ...|144|0|2024-07-02|
+|27|[lwwhb/CustomRenderPipelineTutorials](https://github.com/lwwhb/CustomRenderPipelineTutorials)|Unity6的自定义渲染管线教程|56|0|2024-06-27|
+|28|[STBBRD/ZongziTEK-Blackboard-Sticker](https://github.com/STBBRD/ZongziTEK-Blackboard-Sticker)|用于白板一体机的桌面部件，有小黑板（布置作业）、启动台、课程表|58|0|2024-06-11|
+|29|[yanglr/wpf_in-depth_explanation](https://github.com/yanglr/wpf_in-depth_explanation)|《深入浅出WPF》相关资源(Code、视频、课件、公开课等)|78|0|2024-05-13|
+|30|[N0I0C0K/PowerTranslator](https://github.com/N0I0C0K/PowerTranslator)|一个 PowerToys Run 的翻译插件/a translate plugin for PowerToys Run|350|0|2024-05-26|
+|31|[taecg/ShaderReference](https://github.com/taecg/ShaderReference)|针对Unity的Shader参考大全|264|0|2024-06-27|
+|32|[AtmoOmen/DailyRoutines](https://github.com/AtmoOmen/DailyRoutines)|Dalamud 插件 Daily Routines - 自动化小工具/易用性改动合集|76|0|2024-07-06|
+|33|[lindexi/lindexi_gd](https://github.com/lindexi/lindexi_gd)|博客用到的代码|172|0|2024-07-06|
+|34|[Xzonn/PokemonChineseTranslationRevise](https://github.com/Xzonn/PokemonChineseTranslationRevise)|《宝可梦》第四世代汉化修正|83|0|2024-05-23|
+|35|[luoyunchong/lin-cms-dotnetcore](https://github.com/luoyunchong/lin-cms-dotnetcore)|😃A simple and practical CMS implemented by .NET + FreeSql；前后端分离、Docker部署、OAtuh2授权登录、自动化部署DevOps、自动同步至Gitee、代码生成器、仿掘金专栏|791|0|2024-05-28|
+|36|[CnGal/CnGalWebSite](https://github.com/CnGal/CnGalWebSite)|CnGal是一个非营利性的，立志于收集整理国内制作组创作的中文Galgame/AVG的介绍、攻略、评测、感想等内容的资料性质的网站。|97|0|2024-07-05|
+|37|[DigitalPlatform/chord](https://github.com/DigitalPlatform/chord)|新一代分布式图书馆软件|27|0|2024-01-12|
+|38|[zLulus/NotePractice](https://github.com/zLulus/NotePractice)|My_Note 笔记练习demo|220|0|2024-06-19|
+|39|[XIU2/UACWhitelistTool](https://github.com/XIU2/UACWhitelistTool)|📃 UAC 白名单小工具！|484|0|2024-03-03|
+|40|[anjoy8/BCVP.Net8](https://github.com/anjoy8/BCVP.Net8)|ASP.NET8.0入口与实战系列视频教程 配合代码|85|0|2024-04-15|
+|41|[BlueHtml/Note163Checkin](https://github.com/BlueHtml/Note163Checkin)|基于Github Actions的有道云笔记每日签到|21|0|2024-01-26|
+|42|[ALI1416/ScreenShare](https://github.com/ALI1416/ScreenShare)|Local Network Screen Share 局域网屏幕共享|49|0|2024-01-29|
+|43|[chutianshu1981/AwesomeUnityTutorial](https://github.com/chutianshu1981/AwesomeUnityTutorial)|精选官方高质量教程作为入门学习内容，选择最优学习路线，让学习过程“如丝般顺滑”；力求做全网最易学，知识最全面的游戏开发教程。Select the official high-quality tutorials as the introductory learning content, choose the best learning route to make the learning proce ...|180|0|2024-06-22|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

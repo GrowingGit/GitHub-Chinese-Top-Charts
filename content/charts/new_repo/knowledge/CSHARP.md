@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > C#
-<sub>数据更新: 2024-07-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[unity3d-jp/Project_TCC](https://github.com/unity3d-jp/Project_TCC)|TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.|490|2024-04-30|2024-02-08|
-|2|[StarfireLab/SharpWeb](https://github.com/StarfireLab/SharpWeb)|一个浏览器数据（密码 历史记录 Cookie 书签 下载记录）的导出工具，支持主流浏览器。|463|2024-06-13|2023-10-09|
+|2|[StarfireLab/SharpWeb](https://github.com/StarfireLab/SharpWeb)|一个浏览器数据（密码 历史记录 Cookie 书签 下载记录）的导出工具，支持主流浏览器。|464|2024-06-13|2023-10-09|
 |3|[anjoy8/BCVP.Net8](https://github.com/anjoy8/BCVP.Net8)|ASP.NET8.0入口与实战系列视频教程 配合代码|85|2024-04-15|2023-12-10|
-|4|[AtmoOmen/DailyRoutines](https://github.com/AtmoOmen/DailyRoutines)|Dalamud 插件 Daily Routines - 自动化小工具/易用性改动合集|75|2024-07-05|2024-01-14|
-|5|[lwwhb/CustomRenderPipelineTutorials](https://github.com/lwwhb/CustomRenderPipelineTutorials)|Unity6的自定义渲染管线教程|55|2024-06-27|2023-12-29|
+|4|[AtmoOmen/DailyRoutines](https://github.com/AtmoOmen/DailyRoutines)|Dalamud 插件 Daily Routines - 自动化小工具/易用性改动合集|76|2024-07-06|2024-01-14|
+|5|[lwwhb/CustomRenderPipelineTutorials](https://github.com/lwwhb/CustomRenderPipelineTutorials)|Unity6的自定义渲染管线教程|56|2024-06-27|2023-12-29|
 |6|[239573049/FastGateway](https://github.com/239573049/FastGateway)|FastGateway 一个超级简单方便的网关，基于Kestrel+Yarp实现的网关。 支持动态配置路由，支持动态配置集群，支持动态配置HTTPS证书，无需重启即可使用。|42|2024-04-03|2024-01-21|
 
 <div align="center">
