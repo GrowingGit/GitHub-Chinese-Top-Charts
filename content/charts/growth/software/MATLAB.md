@@ -1,24 +1,24 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-07-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[YunYang255/intelligent-method-for-digital-control](https://github.com/YunYang255/intelligent-method-for-digital-control)|用matlab完成了可以读取dxf文件然后生成相关的加工代码的功能,还可以输入加工代码(.txt)生成相关的加工路线(2D和3D),程序还可以监控刀具和胚料是否干涉以及刀具的加工状态|14|1|2024-06-09|
-|2|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2407|1|2024-01-15|
-|3|[FMOTs/FMOT_matlab](https://github.com/FMOTs/FMOT_matlab)|FMOT的matlab基础开发版本|24|1|2024-06-12|
-|4|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|698|1|2024-05-28|
-|5|[TkungAI/AMBD-CGE](https://github.com/TkungAI/AMBD-CGE)|基于MBD（Model-Based Design，基于模型的设计）代码生成样例。|4|0|2024-04-14|
-|6|[highskyno1/SAR_imaging_with_RD_CS_wk](https://github.com/highskyno1/SAR_imaging_with_RD_CS_wk)|基于RD、CS和ωk算法的合成孔径雷达成像算法原理与实现|5|0|2024-02-04|
-|7|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|3|0|2024-05-21|
-|8|[Joe-Hall-Lee/hc_lzp](https://github.com/Joe-Hall-Lee/hc_lzp)|清风数学建模。|5|0|2024-02-05|
-|9|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|5|0|2024-05-23|
-|10|[NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate)|络石机械臂动力学相关算法以及仿真|17|0|2024-05-03|
-|11|[linggm3/2023_CUMCM_National-First-Prize](https://github.com/linggm3/2023_CUMCM_National-First-Prize)|2023年高教社杯全国大学生数学建模竞赛-本科组全国一等奖-A题-定日镜场优化设计模型|9|0|2024-03-01|
-|12|[thinszx/WiFi-CSI-gait-recognition](https://github.com/thinszx/WiFi-CSI-gait-recognition)|通过WiFi信号的信道状态信息（Channel State Information, CSI）进行步态特征提取，进而实现用户识别|28|0|2024-06-03|
-|13|[highskyno1/2users-CDMA-simulation](https://github.com/highskyno1/2users-CDMA-simulation)|基于MATLAB的直接序列扩频通信系统仿真|8|0|2024-04-15|
-|14|[dong-hao/EM3DVP](https://github.com/dong-hao/EM3DVP)|EM3DVP: a Visual Package for 3D Geo-Electromagnetic modeling and inversion|49|0|2024-06-03|
+|1|[googollee/eviltransform](https://github.com/googollee/eviltransform)|Transport coordinate between earth(WGS-84) and mars in china(GCJ-02).|2407|1|2024-01-15|
+|2|[FMOTs/FMOT_matlab](https://github.com/FMOTs/FMOT_matlab)|FMOT的matlab基础开发版本|24|1|2024-06-12|
+|3|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|698|1|2024-05-28|
+|4|[TkungAI/AMBD-CGE](https://github.com/TkungAI/AMBD-CGE)|基于MBD（Model-Based Design，基于模型的设计）代码生成样例。|4|0|2024-04-14|
+|5|[highskyno1/SAR_imaging_with_RD_CS_wk](https://github.com/highskyno1/SAR_imaging_with_RD_CS_wk)|基于RD、CS和ωk算法的合成孔径雷达成像算法原理与实现|5|0|2024-02-04|
+|6|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|3|0|2024-05-21|
+|7|[Joe-Hall-Lee/hc_lzp](https://github.com/Joe-Hall-Lee/hc_lzp)|清风数学建模。|5|0|2024-02-05|
+|8|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|5|0|2024-05-23|
+|9|[NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate)|络石机械臂动力学相关算法以及仿真|17|0|2024-05-03|
+|10|[linggm3/2023_CUMCM_National-First-Prize](https://github.com/linggm3/2023_CUMCM_National-First-Prize)|2023年高教社杯全国大学生数学建模竞赛-本科组全国一等奖-A题-定日镜场优化设计模型|10|0|2024-03-01|
+|11|[thinszx/WiFi-CSI-gait-recognition](https://github.com/thinszx/WiFi-CSI-gait-recognition)|通过WiFi信号的信道状态信息（Channel State Information, CSI）进行步态特征提取，进而实现用户识别|29|0|2024-06-03|
+|12|[highskyno1/2users-CDMA-simulation](https://github.com/highskyno1/2users-CDMA-simulation)|基于MATLAB的直接序列扩频通信系统仿真|8|0|2024-04-15|
+|13|[dong-hao/EM3DVP](https://github.com/dong-hao/EM3DVP)|EM3DVP: a Visual Package for 3D Geo-Electromagnetic modeling and inversion|49|0|2024-06-03|
+|14|[YunYang255/intelligent-method-for-digital-control](https://github.com/YunYang255/intelligent-method-for-digital-control)|用matlab完成了可以读取dxf文件然后生成相关的加工代码的功能,还可以输入加工代码(.txt)生成相关的加工路线(2D和3D),程序还可以监控刀具和胚料是否干涉以及刀具的加工状态|14|0|2024-06-09|
 |15|[chenwy1020/Partial-differential-equation-experiments](https://github.com/chenwy1020/Partial-differential-equation-experiments)|偏微分方程实验课的文件|4|0|2024-03-22|
 |16|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|9|0|2024-03-25|
 |17|[ECheynet/SEIR](https://github.com/ECheynet/SEIR)|Generalized SEIR Epidemic Model (fitting and computation)|83|0|2024-04-11|
@@ -40,7 +40,7 @@
 |33|[Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator](https://github.com/Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator)|针对解决轮式移动机械臂在复杂环境中执行灵巧作业的需求，开展了面向冗余轮式移动机械臂的考虑任务优先级的位形优化研究。首先建立了整机运动学模型，然后基于任务优先级框架开展了面向车-臂双轨迹跟踪、避奇异位形、避关节极限等多任务目标的位形优化的研究，最后进行了复杂工况仿真，验证了方法的有效性。|9|0|2024-03-13|
 |34|[Aitherqwq/dsp_integrate_e_demo](https://github.com/Aitherqwq/dsp_integrate_e_demo)|数字信号处理大作业，语音处理|6|0|2024-03-16|
 |35|[Trist-wood/Digital-image-processing-system](https://github.com/Trist-wood/Digital-image-processing-system)|本系统基于MATLAB 的图像处理工具箱和图形用户界面(GUI)设计与实现，构建了一个面向对象且高度可视化的图像处理操作系统，该系统实现了图像增强、图像变换、图像滤波、图像分割、边缘检测等内容|5|0|2024-05-25|
-|36|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|4|0|2024-06-05|
+|36|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|5|0|2024-06-05|
 |37|[iChunyu/iChunyu.github.io](https://github.com/iChunyu/iChunyu.github.io)|某春雨的后花园|9|0|2024-06-23|
 |38|[autodotua/my_roms_tools](https://github.com/autodotua/my_roms_tools)|基于MATLAB的ROMS预处理、后处理工具包|10|0|2024-07-06|
 |39|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|0|2024-05-29|
@@ -55,7 +55,7 @@
 |48|[LeonYew-SWPU/VLPR-Based-On-MATLAB](https://github.com/LeonYew-SWPU/VLPR-Based-On-MATLAB)|基于 MATLAB 的车牌识别系统，数字图像处理期末大作业。|12|0|2024-05-06|
 |49|[AI-Tianlong/SSVEP-BCI-OpenBCI](https://github.com/AI-Tianlong/SSVEP-BCI-OpenBCI)|基于OpenBCI（Bciduino）完成的SSVEP项目，包括刺激器、信号实时传输、以及基于FFT的脑电信号分类、蓝牙小车的脑电控制|65|0|2024-05-06|
 |50|[wuc567/Pattern-Mining](https://github.com/wuc567/Pattern-Mining)|序列模式挖掘相关研究|26|0|2024-06-17|
-|51|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Uav track collaborative planning based on pso algorithm/基于pso算法的无人机航迹协同规划|4|0|2024-06-24|
+|51|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Uav track collaborative planning based on pso algorithm/基于pso算法的无人机航迹协同规划|5|0|2024-06-24|
 |52|[asfhiolNick/NTU_TimeFrequencyAnalysis_201802](https://github.com/asfhiolNick/NTU_TimeFrequencyAnalysis_201802)|丁建均老師的"時頻分析和小波轉換"作業(TFW)|8|0|2024-01-18|
 |53|[Nome2s/InSARFilter](https://github.com/Nome2s/InSARFilter)|InSAR 中经典滤波算法的实现（MATLAB & Python）|6|0|2024-05-01|
 |54|[T990820/radar-communication-signal-waveform-generator](https://github.com/T990820/radar-communication-signal-waveform-generator)|本仓库的代码用于雷达/通信信号波形的仿真与时频分析|15|0|2024-06-21|
@@ -74,7 +74,7 @@
 |67|[mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM](https://github.com/mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM)|基于BO-LSTM的黄金股价预测分析 |3|0|2024-03-10|
 |68|[linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge](https://github.com/linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge)|2022年深圳杯数学建模挑战赛-全国第二-B题-基于用电可靠性的配电网规划模型|4|0|2024-03-01|
 |69|[mingsongli/acycle](https://github.com/mingsongli/acycle)|Acycle: Time-series analysis software for research and education|75|0|2024-03-20|
-|70|[PKU-HunterWu/LDPC-Encoder-Decoder](https://github.com/PKU-HunterWu/LDPC-Encoder-Decoder)|基于Matlab的LDPC编解码算法实现及LDPC码性能测试|51|0|2024-06-20|
+|70|[PKU-HunterWu/LDPC-Encoder-Decoder](https://github.com/PKU-HunterWu/LDPC-Encoder-Decoder)|基于Matlab的LDPC编解码算法实现及LDPC码性能测试|52|0|2024-06-20|
 |71|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP): A MATLAB Optimization Platform for Evolutionary Multitasking|108|0|2024-06-24|
 
 <div align="center">

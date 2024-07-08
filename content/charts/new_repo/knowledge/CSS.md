@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > CSS
-<sub>数据更新: 2024-07-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[rustx-labs/effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn)|Effective Rust 中文版|170|2024-05-16|2024-04-18|
 |3|[wyj0605/douban_library](https://github.com/wyj0605/douban_library)|豆瓣读书插件，自动查询图书馆的图书借阅信息。|60|2024-06-24|2024-02-07|
 |4|[lewton/bilibili-public](https://github.com/lewton/bilibili-public)|b站代码示例代码合集|42|2024-04-19|2023-08-16|
-|5|[Alanrk/hexo-theme-onenote](https://github.com/Alanrk/hexo-theme-onenote)|专注于提供良好的阅读体验的hexo博客主题|33|2024-06-21|2024-06-16|
+|5|[Alanrk/hexo-theme-onenote](https://github.com/Alanrk/hexo-theme-onenote)|专注于提供良好的阅读体验的hexo博客主题|32|2024-06-21|2024-06-16|
 |6|[huzhicheng/fengzheng-blog](https://github.com/huzhicheng/fengzheng-blog)|一款简介的个人博客模板，使用 Hugo + Markdown |31|2024-06-25|2024-06-25|
 |7|[Monkfishare/Calibre](https://github.com/Monkfishare/Calibre)|The Economist epub/pdf 经济学人，周四晚12:00自动更新（https://monkfishare.github.io/2023）|30|2024-04-03|2024-01-01|
 |8|[Bytedesk/bytedesk](https://github.com/Bytedesk/bytedesk)|open source ai customer service system，alternative to slack + zendesk + chatpdf。企业IM + 在线客服 + AI助手，打造开源版企业微信/钉钉/飞书|25|2024-04-03|2023-10-12|

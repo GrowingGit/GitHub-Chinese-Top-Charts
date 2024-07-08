@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2024-07-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[Theo-Messi/Theo-Docs](https://github.com/Theo-Messi/Theo-Docs)|流媒体森林 - 全方位流媒体 观影指南 引领您进入五彩斑斓的视听世界，并涵盖了 Netflix 、Disney+ 、Spotify会员 和 YouTube会员 的精彩领域/日常记录/青龙面板/ESXI/OpenWrt/VPS指南/银河录像局/奈飞小铺-爱合租/FlyingBird/Bridge The Wise/阿里云盘/影视资源|299|2024-07-06|2023-09-19|
+|1|[Theo-Messi/Theo-Docs](https://github.com/Theo-Messi/Theo-Docs)|流媒体森林 - 全方位流媒体 观影指南 引领您进入五彩斑斓的视听世界，并涵盖了 Netflix 、Disney+ 、Spotify会员 和 YouTube会员 的精彩领域/日常记录/青龙面板/ESXI/OpenWrt/VPS指南/银河录像局/奈飞小铺-爱合租/FlyingBird/Bridge The Wise/阿里云盘/影视资源|300|2024-07-07|2023-09-19|
 |2|[DrssXpro/waterfall-demo](https://github.com/DrssXpro/waterfall-demo)|Vue3 + TS：模仿小红书封装瀑布流组件|83|2024-05-23|2024-01-11|
 |3|[open17/vuepress-theme-easy-book](https://github.com/open17/vuepress-theme-easy-book)|一款美观,知识库向的vuepress主题🌠|35|2024-01-31|2023-09-14|
 |4|[wangyupo/v3s](https://github.com/wangyupo/v3s)|Vue3 + Vite5 + Vue Router + Pinia + Element Plus 搭建的后台管理模版，配合VSCode插件v3s snippets，助力业务快速开发。|33|2024-07-01|2023-07-26|
 |5|[nolebase/integrations](https://github.com/nolebase/integrations)|A collection of diverse documentation engineering tools   多元化的文档工程工具合集|30|2024-03-25|2023-08-23|
-|6|[bitporo/EasySend](https://github.com/bitporo/EasySend)|✨⚡️EasySend is a software that can share messages and files in LAN.  Only need open it on the host device, other devices use browser receive messages and files(局域网共享文本文件小工具，仅需一端安装，其余端使用浏览器即可)|26|2024-07-04|2024-06-10|
+|6|[bitporo/EasySend](https://github.com/bitporo/EasySend)|✨⚡️EasySend is a software that can share messages and files in LAN.  Only need open it on the host device, other devices use browser receive messages and files(局域网共享文本文件小工具，仅需一端安装，其余端使用浏览器即可)|26|2024-07-07|2024-06-10|
 |7|[syh19/siyuan-plugin-task-list](https://github.com/syh19/siyuan-plugin-task-list)|思源笔记插件——任务列表：汇总散落在整个工作空间的任务  Siyuan Note Plugin——Task List: Summarize tasks scattered throughout your workspace|24|2024-07-02|2024-03-23|
-|8|[DrssXpro/virtualwaterfall-demo](https://github.com/DrssXpro/virtualwaterfall-demo)|Vue3+TS：实现小红书瀑布流虚拟列表组件|19|2024-01-26|2024-01-26|
-|9|[youshandefeiyang/tools](https://github.com/youshandefeiyang/tools)|直播/点播工具集合|18|2024-06-30|2024-06-30|
+|8|[DrssXpro/virtualwaterfall-demo](https://github.com/DrssXpro/virtualwaterfall-demo)|Vue3+TS：实现小红书瀑布流虚拟列表组件|20|2024-01-26|2024-01-26|
+|9|[youshandefeiyang/tools](https://github.com/youshandefeiyang/tools)|直播/点播工具集合|17|2024-06-30|2024-06-30|
 |10|[izhichao/vitepress-theme-minimalism](https://github.com/izhichao/vitepress-theme-minimalism)|A Minimalist VitePress Blog Theme   一个极简的 VitePress 博客主题|15|2024-06-29|2023-09-14|
 |11|[Alittfre/vitepress-theme-bluearchive](https://github.com/Alittfre/vitepress-theme-bluearchive)|Blue Archive主题博客，基于VitePress，绝赞画饼中|13|2024-06-27|2024-04-17|
 |12|[youngyangyang04/element-ui](https://github.com/youngyangyang04/element-ui)|【代码随想录知识星球】项目分享-ui组件库|12|2024-03-04|2024-01-17|
