@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2024-07-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1758|2024-07-05|
 |2|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|1017|2024-07-02|
-|3|[haozhu233/kableExtra](https://github.com/haozhu233/kableExtra)|Construct Complex Table with knitr::kable() + pipe. |680|2024-07-03|
+|3|[haozhu233/kableExtra](https://github.com/haozhu233/kableExtra)|Construct Complex Table with knitr::kable() + pipe. |680|2024-07-09|
 |4|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|598|2024-07-06|
 |5|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|593|2024-02-05|
 |6|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|487|2024-07-02|
@@ -25,7 +25,7 @@
 |18|[wu-yc/scMetabolism](https://github.com/wu-yc/scMetabolism)|Quantifying metabolism activity at the single-cell resolution|95|2024-02-08|
 |19|[hope-data-science/tidyfst](https://github.com/hope-data-science/tidyfst)|Tidy Verbs for Fast Data Manipulation|95|2024-06-14|
 |20|[chuiqin/irGSEA](https://github.com/chuiqin/irGSEA)|The integration of single cell rank-based gene set enrichment analysis|92|2024-06-13|
-|21|[TullyMonster/MendelRookie](https://github.com/TullyMonster/MendelRookie)|新手友好的孟德尔随机化项目|87|2024-04-26|
+|21|[TullyMonster/MendelRookie](https://github.com/TullyMonster/MendelRookie)|新手友好的孟德尔随机化项目|90|2024-04-26|
 |22|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/; Book: https://lishensuo.github.io/UCSCXenaShiny_Book; App online: https://shiny.hiplot.cn/ucsc-xena-shiny/, htt ...|83|2024-07-08|
 |23|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|76|2024-06-03|
 |24|[ykang/gratis](https://github.com/ykang/gratis)|GRATIS: GeneRAting TIme Series with diverse and controllable characteristics|76|2024-04-08|
@@ -38,7 +38,7 @@
 |31|[CBIIT/LDlinkR](https://github.com/CBIIT/LDlinkR)|LDlinkR|53|2024-04-17|
 |32|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|51|2024-07-02|
 |33|[skgrange/rmweather](https://github.com/skgrange/rmweather)|Tools to Conduct Meteorological Normalisation on Air Quality Data|45|2024-06-05|
-|34|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |43|2024-07-08|
+|34|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |43|2024-07-09|
 |35|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|40|2024-06-17|
 |36|[majianthu/copent](https://github.com/majianthu/copent)|R package for estimating copula entropy (mutual information), transfer entropy (conditional mutual information), and the statistic for multivariate normality test and two-sample test|39|2024-06-07|
 |37|[zumbov2/deeplr](https://github.com/zumbov2/deeplr)|An R wrapper for the DeepL Translator API|37|2024-03-28|
@@ -53,7 +53,7 @@
 |46|[Detlew/PowerTOST](https://github.com/Detlew/PowerTOST)|Power and Sample Size for (Bio)Equivalence Studies|20|2024-03-19|
 |47|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|20|2024-02-16|
 |48|[ECMWFCode4Earth/UNSEEN-open](https://github.com/ECMWFCode4Earth/UNSEEN-open)|An open, reproducible and transferable workflow to assess and anticipate climate extremes beyond the observed record|17|2024-04-01|
-|49|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|15|2024-07-08|
+|49|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|15|2024-07-09|
 |50|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|15|2024-04-29|
 |51|[Crazzy-Rabbit/Rscript-to-anaylise-and-visualize](https://github.com/Crazzy-Rabbit/Rscript-to-anaylise-and-visualize)|一些用于画图的R脚本|11|2024-05-28|
 |52|[lcpmgh/NPMCM](https://github.com/lcpmgh/NPMCM)|中国研究生数学建模竞赛获奖数据及可视化分析|11|2024-03-07|

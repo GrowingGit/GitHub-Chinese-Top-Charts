@@ -1,15 +1,15 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > MATLAB
-<sub>数据更新: 2024-07-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2524|2024-07-07|
-|2|[dick20/MCM-ICM](https://github.com/dick20/MCM-ICM)|2004-2020美赛O奖论文|1612|2024-04-09|
-|3|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1343|2024-03-22|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2541|2024-07-08|
+|2|[dick20/MCM-ICM](https://github.com/dick20/MCM-ICM)|2004-2020美赛O奖论文|1611|2024-04-09|
+|3|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1346|2024-03-22|
 |4|[scruel/Notes-ML-AndrewNg](https://github.com/scruel/Notes-ML-AndrewNg)|Coursera吴恩达机器学习课程笔记及资源整理|443|2024-03-18|
-|5|[LZ-CH/Exposure_Correction-pytorch](https://github.com/LZ-CH/Exposure_Correction-pytorch)|CVPR2021 Learning Multi-Scale Photo Exposure Correction论文的非官方pytorch代码|119|2024-05-14|
+|5|[LZ-CH/Exposure_Correction-pytorch](https://github.com/LZ-CH/Exposure_Correction-pytorch)|CVPR2021 Learning Multi-Scale Photo Exposure Correction论文的非官方pytorch代码|121|2024-05-14|
 |6|[kerenfu/JLDCF](https://github.com/kerenfu/JLDCF)|Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection"|76|2024-04-06|
 |7|[luo0207/undergraduate_course_resources_AIA_HUSTER](https://github.com/luo0207/undergraduate_course_resources_AIA_HUSTER)|华中科技大学人工智能与自动化学院本科学习资料：课件、试卷、笔记、代码|48|2024-01-22|
 |8|[kyiree/SuperEngineer](https://github.com/kyiree/SuperEngineer)|个人学习记录|31|2024-06-18|
@@ -26,6 +26,7 @@
 |19|[xuaikun/summary](https://github.com/xuaikun/summary)|总结相关经验|6|2024-04-11|
 |20|[WZRforcontrol/YSU_JY_B_ks](https://github.com/WZRforcontrol/YSU_JY_B_ks)|YSU机械原理B课程设计(方案二)|3|2024-07-06|
 |21|[Git-BoHu/Beauty-of-Control-Systems-Notebook](https://github.com/Git-BoHu/Beauty-of-Control-Systems-Notebook)|记录在Bilibili上关注UP主DR_CAN的视频教程以及相关书籍课程的学习笔记。|3|2024-04-26|
+|22|[vectorZeng/CUG_Automation](https://github.com/vectorZeng/CUG_Automation)|中国地质大学 （武汉） 自动化专业 课程资料共享|3|2024-07-09|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
