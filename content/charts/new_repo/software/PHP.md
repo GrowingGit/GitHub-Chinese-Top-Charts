@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > PHP
-<sub>数据更新: 2024-07-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的高性能面板|1400|2024-07-05|2023-11-14|
-|2|[HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events)|Open-source event management and ticket selling platform 🎟️|690|2024-07-13|2023-10-24|
+|1|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的高性能面板|1405|2024-07-05|2023-11-14|
+|2|[HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events)|Open-source event management and ticket selling platform 🎟️|696|2024-07-14|2023-10-24|
 |3|[xiaoxuan6/SMSBombing](https://github.com/xiaoxuan6/SMSBombing)|短信轰炸|607|2024-07-03|2023-07-19|
 |4|[misaka19008/PerlinPuzzle-Webshell-PHP](https://github.com/misaka19008/PerlinPuzzle-Webshell-PHP)|使用分支对抗技术制作的PHP Webshell，截止2024年1月18日，共数十个查杀引擎免杀|246|2024-01-19|2024-01-19|
-|5|[netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr)|彩虹聚合DNS管理系统|140|2024-07-07|2024-04-03|
+|5|[netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr)|彩虹聚合DNS管理系统|142|2024-07-07|2024-04-03|
 |6|[webman-php/midjourney-proxy](https://github.com/webman-php/midjourney-proxy)|全功能Midjourney Discord代理，支持Midjourney所有功能，稳定，免费|82|2024-05-17|2024-03-12|
 |7|[iranee/qnap-zerotier](https://github.com/iranee/qnap-zerotier)|ZeroTier For QNAP with WebUI|77|2024-04-11|2024-02-25|
-|8|[v5star/rustdesk-api](https://github.com/v5star/rustdesk-api)|rustdesk地址薄服务接口，自己架设后，可以方便的管理自己设备ID以及密码|75|2024-06-02|2023-08-26|
-|9|[innocms/innocms](https://github.com/innocms/innocms)|Innovative Content Management System.  QQ交流群: 960062283|75|2024-06-30|2023-08-08|
-|10|[chenggx/douyin-parse-danmu](https://github.com/chenggx/douyin-parse-danmu)|抖音直播弹幕抓取|74|2024-06-28|2023-09-26|
+|8|[v5star/rustdesk-api](https://github.com/v5star/rustdesk-api)|rustdesk地址薄服务接口，自己架设后，可以方便的管理自己设备ID以及密码|76|2024-06-02|2023-08-26|
+|9|[chenggx/douyin-parse-danmu](https://github.com/chenggx/douyin-parse-danmu)|抖音直播弹幕抓取|75|2024-06-28|2023-09-26|
+|10|[innocms/innocms](https://github.com/innocms/innocms)|Innovative Content Management System.  QQ交流群: 960062283|75|2024-06-30|2023-08-08|
 |11|[zjkal/mysql-helper](https://github.com/zjkal/mysql-helper)|一个便捷的MySQL导入导出的助手类库。 a mysql import and export helper library.|66|2024-06-14|2023-09-01|
 |12|[saithink/saiadmin](https://github.com/saithink/saiadmin)|SaiAdmin框架后端|62|2024-07-05|2024-01-20|
 |13|[Hyizhou1/trx](https://github.com/Hyizhou1/trx)|tg机器人 trx兑换、能量租赁、trx闪兑自动回能量、商城、地址监听、会员24小时自助购买，TG验群机器人，TG引流机器人，TG算账机器人，TG代摇快三牛牛推机器人 -完整功能 https://t.me/hongsx|58|2024-05-23|2024-02-19|

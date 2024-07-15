@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Dart
-<sub>数据更新: 2024-07-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[mylxsw/aidea](https://github.com/mylxsw/aidea)|AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。|6299|2024-07-12|2023-08-30|
-|2|[chen08209/FlClash](https://github.com/chen08209/FlClash)|A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.|1946|2024-07-13|2023-08-15|
-|3|[Predidit/Kazumi](https://github.com/Predidit/Kazumi)|基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。|1086|2024-07-13|2024-05-09|
+|1|[mylxsw/aidea](https://github.com/mylxsw/aidea)|AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。|6302|2024-07-12|2023-08-30|
+|2|[chen08209/FlClash](https://github.com/chen08209/FlClash)|A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.|1974|2024-07-13|2023-08-15|
+|3|[Predidit/Kazumi](https://github.com/Predidit/Kazumi)|基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。|1116|2024-07-14|2024-05-09|
 |4|[jing332/AListFlutter](https://github.com/jing332/AListFlutter)|AList 安卓版本，APK安装即用，无需Root或Termux。|799|2024-05-28|2024-01-14|
-|5|[Predidit/oneAnime](https://github.com/Predidit/oneAnime)|一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范。|636|2024-07-13|2024-03-12|
-|6|[kangpeiqin/bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)|A cross-platform（Win / MacOS） BiliBili Video downloader   一款基于 Flutter 开发的桌面端 B 站视频下载器|592|2024-06-25|2024-06-13|
+|5|[Predidit/oneAnime](https://github.com/Predidit/oneAnime)|一款简洁清爽无广告的看番软件。 一款带弹幕的 anime1 第三方客户端，界面符合 Material You 规范。|639|2024-07-14|2024-03-12|
+|6|[kangpeiqin/bilivideo_down](https://github.com/kangpeiqin/bilivideo_down)|A cross-platform（Win / MacOS） BiliBili Video downloader   一款基于 Flutter 开发的桌面端 B 站视频下载器|594|2024-06-25|2024-06-13|
 |7|[lyming99/wenznote](https://github.com/lyming99/wenznote)|一款由 flutter 开发的笔记软件，支持电脑端和手机端。|490|2024-05-29|2024-01-17|
 |8|[reqable/re-editor](https://github.com/reqable/re-editor)|Re-Editor is a powerful lightweight text and code editor widget.|447|2024-07-10|2024-02-05|
 |9|[Tencent/tdesign-flutter](https://github.com/Tencent/tdesign-flutter)|A Flutter UI components lib for TDesign.|440|2024-07-12|2023-11-28|
 |10|[ChatBot-All/chatbot-app](https://github.com/ChatBot-All/chatbot-app)|"ChatBot" mobile private ChatGPT application, supporting GPT,  Gemini Pro & Ollama models.  拥有自己的移动端 ChatGPT/Gemini 应用。|409|2024-05-28|2024-04-27|
 |11|[canxin121/app_rhyme](https://github.com/canxin121/app_rhyme)|使用Flutter和Rust构建的开源免费音乐软件|367|2024-07-13|2024-04-30|
-|12|[niuhuan/kobi](https://github.com/niuhuan/kobi)|拷贝漫画客户端|314|2024-06-27|2023-11-07|
-|13|[Ferry-200/coriander_player](https://github.com/Ferry-200/coriander_player)|Windows端本地音乐播放器，使用Material You配色。Dart (Flutter) + Rust (lofty, windows-rs) + C (bass lib) 多语言项目。绝赞开发中。|164|2024-06-22|2024-02-20|
-|14|[ExpTechTW/DPIP](https://github.com/ExpTechTW/DPIP)|Disaster Prevention Information Platform (防災資訊平台)|126|2024-07-13|2023-08-04|
-|15|[Celechron/Celechron](https://github.com/Celechron/Celechron)|服务于浙大学生的时间管理器|118|2024-07-13|2024-01-21|
-|16|[yaoxieyoulei/my_tv](https://github.com/yaoxieyoulei/my_tv)|使用Flutter开发的电视直播软件|78|2024-04-21|2024-03-30|
-|17|[easybangumiorg/EasyMyGo](https://github.com/easybangumiorg/EasyMyGo)|吃素食吃的！MyGo!!!!! 团队使用 Flutter 开发的多源动画、小说、漫画软件！这个工程师太卖力了！|64|2024-04-18|2024-03-08|
+|12|[niuhuan/kobi](https://github.com/niuhuan/kobi)|拷贝漫画客户端|315|2024-06-27|2023-11-07|
+|13|[Ferry-200/coriander_player](https://github.com/Ferry-200/coriander_player)|Windows端本地音乐播放器，使用Material You配色。Dart (Flutter) + Rust (lofty, windows-rs) + C (bass lib) 多语言项目。绝赞开发中。|165|2024-06-22|2024-02-20|
+|14|[ExpTechTW/DPIP](https://github.com/ExpTechTW/DPIP)|Disaster Prevention Information Platform (防災資訊平台)|126|2024-07-14|2023-08-04|
+|15|[Celechron/Celechron](https://github.com/Celechron/Celechron)|服务于浙大学生的时间管理器|118|2024-07-14|2024-01-21|
+|16|[yaoxieyoulei/my_tv](https://github.com/yaoxieyoulei/my_tv)|使用Flutter开发的电视直播软件|80|2024-04-21|2024-03-30|
+|17|[easybangumiorg/EasyMyGo](https://github.com/easybangumiorg/EasyMyGo)|吃素食吃的！MyGo!!!!! 团队使用 Flutter 开发的多源动画、小说、漫画软件！这个工程师太卖力了！|63|2024-04-18|2024-03-08|
 |18|[msterzhang/onelist_app](https://github.com/msterzhang/onelist_app)|onelist 客户端|62|2024-01-16|2023-08-03|
 |19|[Predidit/BiliNeo](https://github.com/Predidit/BiliNeo)|又一个第三方 Bilibili 客户端，支持 Android/Windows/Linux |47|2024-05-23|2024-02-24|
 |20|[Muska-Ami/NyaLCF](https://github.com/Muska-Ami/NyaLCF)|NyaLCF - Nya LoCyanFrp! Launcher   乐青映射启动器|45|2024-06-30|2023-11-05|
@@ -62,7 +62,7 @@
 |55|[DaQinShgy/flutter_game](https://github.com/DaQinShgy/flutter_game)|基于Flutter flame 游戏引擎开发的俄罗斯方块、超级马里奥游戏。Tetris, SuperMario game based on the Flutter flame game engine.|8|2024-06-24|2023-09-08|
 |56|[944095635/guyhub](https://github.com/944095635/guyhub)|丐帮 （男人 - 社区）|7|2024-06-03|2024-03-25|
 |57|[Sjj1024/flutter_windows](https://github.com/Sjj1024/flutter_windows)|一个跨平台的flutter开发模板，使用流行的get来管理路由，使用getx来管理数据状态，并且配置了国际化支持。使用dio来管理网络请求， 使用shared_preferences实现本地临时数据存储，并且实现了全局loading效果，可以支持快速开发使用|7|2024-04-19|2024-01-11|
-|58|[find-xposed-magisk/adb_kit_nightmare](https://github.com/find-xposed-magisk/adb_kit_nightmare)|An ADB GUI client developed using Flutter. 使用 Flutter 开发的 ADB GUI 客户端|7|2024-07-13|2023-12-25|
+|58|[find-xposed-magisk/adb_kit_nightmare](https://github.com/find-xposed-magisk/adb_kit_nightmare)|An ADB GUI client developed using Flutter. 使用 Flutter 开发的 ADB GUI 客户端|7|2024-07-14|2023-12-25|
 |59|[licheng1013/admin-flutter](https://github.com/licheng1013/admin-flutter)|一个开源的flutter后台项目！|7|2024-06-18|2023-12-15|
 |60|[2754LM/oj_helper](https://github.com/2754LM/oj_helper)|一款帮助你查询各大oj信息的应用。|6|2024-07-13|2024-06-17|
 |61|[FutoTan/mai2_revive](https://github.com/FutoTan/mai2_revive)|Mai 批复活   MaiMai 逃离小黑屋|6|2024-05-09|2024-04-27|
