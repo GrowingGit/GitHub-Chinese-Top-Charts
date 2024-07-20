@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Dart
-<sub>数据更新: 2024-07-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[huangruiLearn/flutter_hrlweibo](https://github.com/huangruiLearn/flutter_hrlweibo)|Flutter仿微博客户端,  包含首页、视频、发现、消息(仿微博聊界面)及个人中心模块|2777|2024-05-22|
-|2|[Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)|An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器|1257|2024-07-12|
-|3|[nightmare-space/speed_share](https://github.com/nightmare-space/speed_share)|Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.|859|2024-07-17|
+|2|[Anxcye/anx-reader](https://github.com/Anxcye/anx-reader)|An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器|1269|2024-07-19|
+|3|[nightmare-space/speed_share](https://github.com/nightmare-space/speed_share)|Speed Share is a highly available file sharing terminal on LAN(local area network) like airdrop developed by flutter framework.|859|2024-07-19|
 |4|[arianneorpilla/jidoujisho](https://github.com/arianneorpilla/jidoujisho)|A full-featured immersion language learning suite for mobile.|818|2024-07-03|
-|5|[RxReader/wechat_kit](https://github.com/RxReader/wechat_kit)|Flutter版微信登录/分享/支付 SDK|701|2024-04-08|
-|6|[cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet)|The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com|589|2024-07-18|
+|5|[RxReader/wechat_kit](https://github.com/RxReader/wechat_kit)|Flutter版微信登录/分享/支付 SDK|702|2024-04-08|
+|6|[cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet)|The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com|589|2024-07-19|
 |7|[RxReader/tencent_kit](https://github.com/RxReader/tencent_kit)|Flutter版QQ登录/分享|236|2024-02-23|
 |8|[shaoting0730/Flutter_learn_demo](https://github.com/shaoting0730/Flutter_learn_demo)|Flutter_learn_demo  Flutter学习历程|213|2024-07-06|
-|9|[vito-go/mywords](https://github.com/vito-go/mywords)|背单词神器。 输入一个英语或双语文章的网址，本工具将自动提取文章中所有单词及其所在句子，对文章单词进行去重、统计汇总。你可以过滤筛选只显示出你不认识的单词。|159|2024-04-29|
+|9|[vito-go/mywords](https://github.com/vito-go/mywords)|背单词神器。 输入一个英语或双语文章的网址，本工具将自动提取文章中所有单词及其所在句子，对文章单词进行去重、统计汇总。你可以过滤筛选只显示出你不认识的单词。|160|2024-04-29|
 |10|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|111|2024-07-02|
 |11|[xiedong11/flutter_app](https://github.com/xiedong11/flutter_app)|Flutter进阶之旅专栏|100|2024-02-02|
 |12|[xiaojia21190/ZY_Player_flutter](https://github.com/xiaojia21190/ZY_Player_flutter)|影视 漫画 小说 听书 |69|2024-03-07|
