@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > CSS
-<sub>数据更新: 2024-07-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|21021|2024-04-24|
-|2|[hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)|经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新|20023|2024-07-20|
-|3|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|19360|2024-07-20|
-|4|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|9029|2024-07-01|
-|5|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5506|2024-07-21|
+|2|[hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)|经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新|20039|2024-07-20|
+|3|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|19362|2024-07-20|
+|4|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|9028|2024-07-01|
+|5|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5506|2024-07-22|
 |6|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|3352|2024-06-16|
-|7|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1278|2024-05-10|
+|7|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1279|2024-05-10|
 |8|[fuzhengwei/itstack-demo-netty](https://github.com/fuzhengwei/itstack-demo-netty)|微信公众号：bugstack虫洞栈   专注于原创开发专题案例。跟着案例学Netty，Netty4.x案例从简单入门到应用实战，全篇37章节优秀案例+实战源码[基础篇(13)、中级篇(13)、高级篇(3章+)、源码分析篇]，以上章节全部完成并不断持续更新中。欢迎关注公众号：bugstack虫洞栈   阅读专题文章+调试案例源码学习｛回复netty案例｝。|703|2024-04-16|
 |9|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|695|2024-07-16|
-|10|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |552|2024-07-21|
+|10|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |556|2024-07-22|
 |11|[jhao104/django-blog](https://github.com/jhao104/django-blog)|django搭建博客|424|2024-02-07|
 |12|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|411|2024-05-19|
-|13|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|404|2024-07-19|
+|13|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|404|2024-07-22|
 |14|[aalmiray/java-champions](https://github.com/aalmiray/java-champions)|A list of Java Champions|337|2024-07-16|
 |15|[calebman/girlfriend-gift-collection](https://github.com/calebman/girlfriend-gift-collection)|送给女朋友的礼物合集，生日/情人节/纪念日等，程序员的创意。|282|2024-06-20|
 |16|[LychApe/DreamCat](https://github.com/LychApe/DreamCat)|DreamCat 是一个极简自适应博客主题,年轻人追梦良品!|278|2024-05-04|
@@ -55,7 +55,7 @@
 |48|[Fridolph/my-program](https://github.com/Fridolph/my-program)|作品和demo集，若你喜欢麻烦star+fork ...0(∩_∩)0... 仅供参考学习分享交流，谢谢|14|2024-06-23|
 |49|[Hiroki-Sawada-y/Hiroki_Study](https://github.com/Hiroki-Sawada-y/Hiroki_Study)|个人学习笔记 obsidian|13|2024-05-27|
 |50|[xjq7/awesome-study](https://github.com/xjq7/awesome-study)|Awesome 、资源、工具、技术自媒体、博客、学习指南、面试指北等收集库|13|2024-05-24|
-|51|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|12|2024-07-21|
+|51|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|12|2024-07-22|
 |52|[WaterCalm/LinuxServerInChinese](https://github.com/WaterCalm/LinuxServerInChinese)|翻译LinuxServer.io文档为中文的gitbook|11|2024-02-21|
 |53|[hefengbao/one](https://github.com/hefengbao/one)|一个简洁的博客、微博客。|11|2024-06-17|
 |54|[zino-rs/zino-docs-zh](https://github.com/zino-rs/zino-docs-zh)|Zino开发框架中文教程|8|2024-04-03|
