@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Assembly
-<sub>数据更新: 2024-07-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2158|1|2024-07-17|
+|1|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2159|1|2024-07-17|
 |2|[team-s2/summer_course_2023](https://github.com/team-s2/summer_course_2023)|AAA - 2023 短学期安全攻防实践开源仓库（已整合入 ctf_summer_courses）|34|0|2024-05-21|
 |3|[ZJUIntl-share/zjuintl-icicles](https://github.com/ZJUIntl-share/zjuintl-icicles)|浙大国际校区课程攻略共享计划|13|0|2024-06-09|
 |4|[NekoSilverFox/Assembly](https://github.com/NekoSilverFox/Assembly)|⚡ 亲手编写实现基于王爽老师《汇编语言》的300个汇编程序例程   Implementation of 300 assembly program examples based on "Assembly Language" |235|0|2024-02-10|
@@ -15,7 +15,6 @@
 |8|[William-Seven/Collected-study-materials-from-BUPT](https://github.com/William-Seven/Collected-study-materials-from-BUPT)|（bupt本科）本人报告+收集资料+个人指北，持续更新，欢迎⭐|11|0|2024-07-20|
 |9|[dekrt/Reports](https://github.com/dekrt/Reports)|HUST SSE Courses Reports   华科软件学院课程报告|14|0|2024-02-09|
 |10|[susudebug/XMU_Assembly](https://github.com/susudebug/XMU_Assembly)|厦门大学信息学院计科汇编资料|3|0|2024-06-07|
-|11|[Molotovgirl1/NKUCS_Assembly-Language-and-Reverse-Engineering](https://github.com/Molotovgirl1/NKUCS_Assembly-Language-and-Reverse-Engineering)|南开大学汇编语言与逆向技术课程的作业和代码|4|0|2024-01-21|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

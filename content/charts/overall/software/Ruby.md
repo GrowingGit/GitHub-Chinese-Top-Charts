@@ -1,27 +1,27 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Ruby
-<sub>数据更新: 2024-07-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6443|2024-07-12|
 |2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3775|2024-06-26|
 |3|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3399|2024-07-21|
-|4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2561|2024-04-30|
+|4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2563|2024-04-30|
 |5|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|2180|2024-07-18|
 |6|[thredded/thredded](https://github.com/thredded/thredded)|The best Rails forums engine ever.|1554|2024-07-21|
-|7|[remote-jp/remote-in-japan](https://github.com/remote-jp/remote-in-japan)|Tech companies in Japan that hire remote workers.|1485|2024-07-20|
-|8|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1451|2024-07-22|
+|7|[remote-jp/remote-in-japan](https://github.com/remote-jp/remote-in-japan)|Tech companies in Japan that hire remote workers.|1486|2024-07-20|
+|8|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1452|2024-07-23|
 |9|[Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1306|2024-06-03|
-|10|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1130|2024-06-23|
-|11|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |1115|2024-06-15|
+|10|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1131|2024-06-23|
+|11|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |1116|2024-06-15|
 |12|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1115|2024-07-14|
-|13|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps|1051|2024-07-19|
+|13|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps|1052|2024-07-23|
 |14|[PGYER/fir-cli](https://github.com/PGYER/fir-cli)|fir.im(betaqr.com) command-line interface|1049|2024-06-12|
 |15|[floere/phony](https://github.com/floere/phony)|E164 international phone number normalizing, splitting, formatting. |1002|2024-02-15|
-|16|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|737|2024-07-03|
-|17|[urbanadventurer/username-anarchy](https://github.com/urbanadventurer/username-anarchy)|Username tools for penetration testing|737|2024-07-06|
+|16|[urbanadventurer/username-anarchy](https://github.com/urbanadventurer/username-anarchy)|Username tools for penetration testing|738|2024-07-06|
+|17|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|737|2024-07-03|
 |18|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|670|2024-04-28|
 |19|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|645|2024-07-14|
 |20|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|629|2024-07-11|
@@ -55,17 +55,17 @@
 |48|[piotrmurach/strings-truncation](https://github.com/piotrmurach/strings-truncation)|Truncate strings with fullwidth characters and ANSI codes.|50|2024-03-12|
 |49|[test-kitchen/kitchen-azurerm](https://github.com/test-kitchen/kitchen-azurerm)|A driver for Test Kitchen that works with Azure Resource Manager|48|2024-06-21|
 |50|[HugoHasenbein/redmine_more_previews](https://github.com/HugoHasenbein/redmine_more_previews)|Redmine plugin to preview various file types in redmine's preview pane|46|2024-03-16|
-|51|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|41|2024-07-22|
+|51|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|41|2024-07-23|
 |52|[Tabll/gemnasium-db](https://github.com/Tabll/gemnasium-db)|GitLab 依赖项扫描的咨询数据库，每天17:00自动更新|41|2024-06-22|
-|53|[Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese)|🀄️咱自己人的软件🏮咱自己人的仓库🧧|27|2024-07-22|
+|53|[Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese)|🀄️咱自己人的软件🏮咱自己人的仓库🧧|27|2024-07-23|
 |54|[mika-cn/maoxian-assistant](https://github.com/mika-cn/maoxian-assistant)|-|27|2024-05-20|
 |55|[SonicGarden/dekiru](https://github.com/SonicGarden/dekiru)|Usefull helper methods for Ruby on Rails|26|2024-04-19|
-|56|[YunzheZJU/non-stop-story](https://github.com/YunzheZJU/non-stop-story)|Backend for holo-schedule on Rails.|24|2024-07-13|
+|56|[YunzheZJU/non-stop-story](https://github.com/YunzheZJU/non-stop-story)|Backend for holo-schedule on Rails.|24|2024-07-23|
 |57|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|22|2024-07-19|
 |58|[cyril/r_spec-clone.rb](https://github.com/cyril/r_spec-clone.rb)|A minimalist RSpec clone with all the essentials.|22|2024-06-21|
 |59|[baidubce/bce-player-ios](https://github.com/baidubce/bce-player-ios)|百度智能云iOS播放器SDK|18|2024-03-28|
 |60|[windwords/homebrew-vchewing](https://github.com/windwords/homebrew-vchewing)|homebrew-vchewing是一个用于安装/卸载威注音输入法的Homebrew Cask。|17|2024-07-07|
-|61|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|17|2024-07-19|
+|61|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|17|2024-07-22|
 |62|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|17|2024-05-08|
 |63|[aozorahack/aozora2html](https://github.com/aozorahack/aozora2html)|-|14|2024-02-02|
 |64|[jodeci/fortuna](https://github.com/jodeci/fortuna)|台灣公司專用薪資計算系統|13|2024-06-13|
