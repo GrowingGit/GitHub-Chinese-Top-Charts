@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Kotlin
-<sub>数据更新: 2024-07-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[gedoor/legado](https://github.com/gedoor/legado)|Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|26469|14|2024-07-23|
-|2|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)| 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.|7102|7|2024-07-04|
-|3|[hectorqin/reader](https://github.com/hectorqin/reader)|阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建|7485|7|2024-06-08|
-|4|[unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)|《AI 研发提效：构建 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。|505|2|2024-07-05|
-|5|[xihan123/QDReadHook](https://github.com/xihan123/QDReadHook)|起点阅读自定义增强 Xp 模块,愿大家都有一个愉快的看书体验|690|1|2024-07-22|
-|6|[open-toys-controller/open-DGLAB-controller](https://github.com/open-toys-controller/open-DGLAB-controller)|郊狼3.0 API网络控制器. 支持任意编程语言. 郊狼socket控制器开发教程|49|0|2024-05-27|
+|1|[gedoor/legado](https://github.com/gedoor/legado)|Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。|26507|14|2024-07-24|
+|2|[skydoves/android-developer-roadmap](https://github.com/skydoves/android-developer-roadmap)| 🗺 The Android Developer Roadmap offers comprehensive learning paths to help you understand Android ecosystems.|7104|7|2024-07-04|
+|3|[hectorqin/reader](https://github.com/hectorqin/reader)|阅读3服务器版，桌面端，iOS可用。后端 Kotlin + Spring Boot + Vert.x + Coroutine ；前端 Vue.js + Element。麻烦点点star，关注一下公众号【假装大佬】❗️  Demo服务器由于未备案已被关停，建议自行搭建|7492|7|2024-06-08|
+|4|[unit-mesh/build-your-ai-coding-assistant](https://github.com/unit-mesh/build-your-ai-coding-assistant)|《AI 研发提效：构建 AI 辅助编码助手》 —— 介绍如何 DIY 一个端到端（从 IDE  插件、模型选型、数据集构建到模型微调）的 AI 辅助编程工具，类似于 GitHub Copilot、JetBrains AI Assistant、AutoDev 等。|504|2|2024-07-05|
+|5|[xihan123/QDReadHook](https://github.com/xihan123/QDReadHook)|起点阅读自定义增强 Xp 模块,愿大家都有一个愉快的看书体验|691|1|2024-07-24|
+|6|[open-toys-controller/open-DGLAB-controller](https://github.com/open-toys-controller/open-DGLAB-controller)|郊狼3.0 API网络控制器. 支持任意编程语言. 郊狼socket控制器开发教程|50|0|2024-05-27|
 |7|[Gao-hao-nan/MVVM](https://github.com/Gao-hao-nan/MVVM)|基于 模块化+Kotlin+协程+Retrofit+Jetpack+MVVM 架构.能提供大家学习如何从0到1打造一个符合[大型Android项目的架构模式]|39|0|2024-07-12|
 |8|[bytebeats/polyglot](https://github.com/bytebeats/polyglot)|一个 Intellij 插件项目, 当工程需要支持多语言时, 本插件能够帮助你省去在浏览器或者翻译软件与你的项目之间来回切换的麻烦. 插件是第一生产力啊! Polyglot: to translate different languages with different translators! An Intellij platform plugin project.If your project ...|9|0|2024-05-08|
-|9|[hsicen/HencoderPlus](https://github.com/hsicen/HencoderPlus)|扔物线Hencoder plus系列课程 |71|0|2024-07-19|
+|9|[hsicen/HencoderPlus](https://github.com/hsicen/HencoderPlus)|扔物线Hencoder plus系列课程 |71|0|2024-07-24|
 |10|[MskTmi/Bh3-ElysianRealm-Strategy](https://github.com/MskTmi/Bh3-ElysianRealm-Strategy)|基于Mirai-Console的QQ机器人崩坏3往世乐土攻略插件|16|0|2024-05-28|
 |11|[androidmalin/AndroidComponentPlugin](https://github.com/androidmalin/AndroidComponentPlugin)|Android上简单实现四大组件的插件化，供学习使用|456|0|2024-07-06|
 |12|[dora4/dora_samples](https://github.com/dora4/dora_samples)|https://github.com/dora4/dora 的使用教程。|17|0|2024-07-09|
