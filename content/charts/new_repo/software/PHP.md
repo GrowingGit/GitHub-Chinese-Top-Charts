@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > PHP
-<sub>数据更新: 2024-07-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的高性能面板|1460|2024-07-23|2023-11-14|
-|2|[HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events)|Open-source event management and ticket selling platform 🎟️|767|2024-07-24|2023-10-24|
-|3|[netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr)|彩虹聚合DNS管理系统|162|2024-07-07|2024-04-03|
+|1|[cedar2025/Xboard](https://github.com/cedar2025/Xboard)|基于V2board二次开发支持新协议新特性的高性能面板|1465|2024-07-23|2023-11-14|
+|2|[HiEventsDev/Hi.Events](https://github.com/HiEventsDev/Hi.Events)|Open-source event management and ticket selling platform 🎟️|768|2024-07-24|2023-10-24|
+|3|[netcccyun/dnsmgr](https://github.com/netcccyun/dnsmgr)|彩虹聚合DNS管理系统|165|2024-07-25|2024-04-03|
 |4|[webman-php/midjourney-proxy](https://github.com/webman-php/midjourney-proxy)|全功能Midjourney Discord代理，支持Midjourney所有功能，稳定，免费|86|2024-05-17|2024-03-12|
 |5|[v5star/rustdesk-api](https://github.com/v5star/rustdesk-api)|rustdesk地址薄服务接口，自己架设后，可以方便的管理自己设备ID以及密码|78|2024-07-23|2023-08-26|
 |6|[iranee/qnap-zerotier](https://github.com/iranee/qnap-zerotier)|ZeroTier For QNAP with WebUI|77|2024-04-11|2024-02-25|

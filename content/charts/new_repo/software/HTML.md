@@ -1,47 +1,47 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > HTML
-<sub>数据更新: 2024-07-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[MetaGLM/FinGLM](https://github.com/MetaGLM/FinGLM)|FinGLM: 致力于构建一个开放的、公益的、持久的金融大模型项目，利用开源开放来促进「AI+金融」。|1627|2024-05-08|2023-09-25|
-|2|[bulianglin/psub](https://github.com/bulianglin/psub)|利用CF Worker搭建的反代订阅转换工具|1043|2024-06-28|2023-10-17|
-|3|[wintermute-cell/magick.css](https://github.com/wintermute-cell/magick.css)|magically playful, yet simple styling. all in one file.|908|2024-06-01|2024-03-22|
-|4|[Linux-CN/archive](https://github.com/Linux-CN/archive)|Linux.cn Archive|643|2024-06-19|2024-02-14|
-|5|[openpilot-hub/devpilot-intellij](https://github.com/openpilot-hub/devpilot-intellij)|Your new coding buddy, designed exclusively for IntelliJ IDEA.|593|2024-07-24|2023-11-29|
+|1|[MetaGLM/FinGLM](https://github.com/MetaGLM/FinGLM)|FinGLM: 致力于构建一个开放的、公益的、持久的金融大模型项目，利用开源开放来促进「AI+金融」。|1629|2024-05-08|2023-09-25|
+|2|[bulianglin/psub](https://github.com/bulianglin/psub)|利用CF Worker搭建的反代订阅转换工具|1046|2024-06-28|2023-10-17|
+|3|[wintermute-cell/magick.css](https://github.com/wintermute-cell/magick.css)|magically playful, yet simple styling. all in one file.|910|2024-06-01|2024-03-22|
+|4|[Linux-CN/archive](https://github.com/Linux-CN/archive)|Linux.cn Archive|644|2024-06-19|2024-02-14|
+|5|[openpilot-hub/devpilot-intellij](https://github.com/openpilot-hub/devpilot-intellij)|Your new coding buddy, designed exclusively for IntelliJ IDEA.|594|2024-07-25|2023-11-29|
 |6|[favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp)|🤙 Easy replacement for LaTeX Beamer! 🥂 custom Marp templates with a selection of over a dozen themes|419|2024-05-29|2023-09-23|
 |7|[Putarku/MoviePilot-Help](https://github.com/Putarku/MoviePilot-Help)|MoviePilot配置及使用过程的中的常见问题|307|2024-07-17|2023-10-09|
 |8|[xyhelper/chatgpt-share-server](https://github.com/xyhelper/chatgpt-share-server)|-|274|2024-06-01|2024-01-01|
 |9|[wangwc18/mygoFlaskProject](https://github.com/wangwc18/mygoFlaskProject)|记录mygo在b站下架前的样子|246|2024-06-26|2023-10-10|
-|10|[wy876/wiki](https://github.com/wy876/wiki)|漏洞文库 wiki.wy876.cn|229|2024-07-20|2023-12-31|
+|10|[wy876/wiki](https://github.com/wy876/wiki)|漏洞文库 wiki.wy876.cn|233|2024-07-20|2023-12-31|
 |11|[zhugezifang/ai_timeline](https://github.com/zhugezifang/ai_timeline)|AI时间线，产品地址：http://www.ai-timeline.top|228|2024-03-28|2024-03-11|
 |12|[fewismuch/react-playground](https://github.com/fewismuch/react-playground)|react在线代码编辑器，可实时运行react代码，支持动态引入自定义文件和第三方依赖包|210|2024-02-25|2023-10-09|
 |13|[geeeeeeeek/web_tool](https://github.com/geeeeeeeek/web_tool)|静态响应式网址导航网站，全静态html页面，一键部署安装。在线预览：https://geeeeeeeek.github.io/web_tool/|199|2024-07-07|2023-12-30|
 |14|[netcccyun/toolbox](https://github.com/netcccyun/toolbox)|彩虹工具箱，一个在线工具箱|170|2024-07-07|2023-09-28|
-|15|[fenxp/iptv](https://github.com/fenxp/iptv)|自动采集与互联网IPTV|156|2024-07-24|2023-12-06|
+|15|[fenxp/iptv](https://github.com/fenxp/iptv)|自动采集与互联网IPTV|156|2024-07-25|2023-12-06|
 |16|[HT944/QRabbitPro](https://github.com/HT944/QRabbitPro)|新版登录方式|151|2024-03-09|2023-10-15|
 |17|[0-RTT/telegraph](https://github.com/0-RTT/telegraph)|基于telegraph的图床，图片大于5MB自动压缩|127|2024-05-21|2024-03-24|
 |18|[realnoob007/ChatGPT-Share-Web](https://github.com/realnoob007/ChatGPT-Share-Web)|一个基于ChatGPT-Share开发的商业版镜像站，包含完整用户系统，对接ChatGPT官网全部功能，支付系统，以及管理员后台面板|125|2024-06-20|2024-02-17|
-|19|[kangyiwen/TTSlist](https://github.com/kangyiwen/TTSlist)|10000 chatTTS voices ！chatTTS 音色库，再也不为音色抽卡烦恼啦。这是我第一个项目，熬夜龟速生产10000条音色并上传Github，给点鼓励呗哈！主域名：https://www.TTSlist.com  备用：http://ttslist.aiqbh.com/ |110|2024-07-18|2024-06-06|
-|20|[v3ucn/live2d-TTS-LLM-GPT-SoVITS-Vtuber](https://github.com/v3ucn/live2d-TTS-LLM-GPT-SoVITS-Vtuber)|低成本的简单基于live2d TTS文字转语音和大模型聊天的直播解决方案|104|2024-07-04|2024-05-22|
-|21|[terobox/poixe](https://github.com/terobox/poixe)|Platform of Open Intelligence eXperiences for Everyone. 面向所有人的开放智能体验平台，一站式AI对话工具聚合|103|2024-06-13|2024-06-12|
-|22|[MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)|基于CloudFlare和Telegraph的免费图床，本仓库基于https://github.com/cf-pages/Telegraph-Image ，是原项目的优化重制版。开源、清晰、美观、动画丝滑、玩法多样！|100|2024-07-24|2024-07-19|
-|23|[SoftMeng/comfy-flow-api](https://github.com/SoftMeng/comfy-flow-api)|对ComfyUI的API进行的一层封装，并提供了微信小程序授权的API|100|2024-05-28|2023-12-18|
-|24|[svipwing/make-website](https://github.com/svipwing/make-website)|助你快速开发网页！让世界上没有难做的网页！|91|2024-07-20|2023-07-31|
+|19|[kangyiwen/TTSlist](https://github.com/kangyiwen/TTSlist)|10000 chatTTS voices ！chatTTS 音色库，再也不为音色抽卡烦恼啦。这是我第一个项目，熬夜龟速生产10000条音色并上传Github，给点鼓励呗哈！主域名：https://www.TTSlist.com  备用：http://ttslist.aiqbh.com/ |111|2024-07-18|2024-06-06|
+|20|[svipwing/make-website](https://github.com/svipwing/make-website)|助你快速开发网页！让世界上没有难做的网页！|105|2024-07-25|2023-07-31|
+|21|[v3ucn/live2d-TTS-LLM-GPT-SoVITS-Vtuber](https://github.com/v3ucn/live2d-TTS-LLM-GPT-SoVITS-Vtuber)|低成本的简单基于live2d TTS文字转语音和大模型聊天的直播解决方案|104|2024-07-04|2024-05-22|
+|22|[terobox/poixe](https://github.com/terobox/poixe)|Platform of Open Intelligence eXperiences for Everyone. 面向所有人的开放智能体验平台，一站式AI对话工具聚合|103|2024-06-13|2024-06-12|
+|23|[MarSeventh/CloudFlare-ImgBed](https://github.com/MarSeventh/CloudFlare-ImgBed)|基于CloudFlare和Telegraph的免费图床，本仓库基于https://github.com/cf-pages/Telegraph-Image ，是原项目的优化重制版。开源、清晰、美观、动画丝滑、玩法多样！|102|2024-07-25|2024-07-19|
+|24|[SoftMeng/comfy-flow-api](https://github.com/SoftMeng/comfy-flow-api)|对ComfyUI的API进行的一层封装，并提供了微信小程序授权的API|101|2024-05-28|2023-12-18|
 |25|[2740908911/Pilot-Web](https://github.com/2740908911/Pilot-Web)|Pilot-Web：一款基于PythonFlask框架开发的前后端分离式渗透测试&漏洞挖掘Web靶场，内置WP与知识库的集成式教学靶场。|89|2024-06-17|2024-03-08|
 |26|[createkk/openclash_router_configs](https://github.com/createkk/openclash_router_configs)|OpenClash Meta内核配置示例|87|2024-05-30|2023-11-18|
 |27|[wozulong/openai-images-edits](https://github.com/wozulong/openai-images-edits)|旨在打造一个使用 OpenAI 图片编辑API（或Chat2API）来让AI编辑图片的服务。|73|2024-04-12|2024-04-09|
-|28|[liquan-0108/retry-cdn](https://github.com/liquan-0108/retry-cdn)|CDN主域名不可访问时自动切换备用域名|73|2024-07-15|2024-03-19|
+|28|[liquan-0108/retry-cdn](https://github.com/liquan-0108/retry-cdn)|CDN主域名不可访问时自动切换备用域名|71|2024-07-15|2024-03-19|
 |29|[WizisCool/Nezha-Traffic-Alarm-Generator](https://github.com/WizisCool/Nezha-Traffic-Alarm-Generator)|哪吒面板流量警告规则生成器|69|2024-04-25|2024-04-25|
-|30|[jianjianai/ms-copilot-play](https://github.com/jianjianai/ms-copilot-play)|Cloudflare Worker 的 Microsoft Copilot 加速服务。Microsoft Copilot 是基于 OpenAI GPT-4 的强大 AI 并且能够使用 Bing 搜索来解答问题。简单部署即可在国内高速访问原滋原味的 Microsoft Copilot 的几乎全部功能，聊天，笔记本，插件，图像生成，分享等等..|59|2024-07-03|2024-05-30|
+|30|[jianjianai/ms-copilot-play](https://github.com/jianjianai/ms-copilot-play)|Cloudflare Worker 的 Microsoft Copilot 加速服务。Microsoft Copilot 是基于 OpenAI GPT-4 的强大 AI 并且能够使用 Bing 搜索来解答问题。简单部署即可在国内高速访问原滋原味的 Microsoft Copilot 的几乎全部功能，聊天，笔记本，插件，图像生成，分享等等..|60|2024-07-03|2024-05-30|
 |31|[fangkuia/XPTV](https://github.com/fangkuia/XPTV)|XPTV简单仓库|58|2024-03-30|2023-12-15|
 |32|[xiaolidan00/my-earth](https://github.com/xiaolidan00/my-earth)|用three.js实现各种炫酷效果|52|2024-07-03|2023-09-08|
-|33|[2881099/AdminBlazor](https://github.com/2881099/AdminBlazor)|AdminBlazor 是一款 Blazor Server SaaS 后台管理项目，支持 RABC 权限菜单/按钮，支持一对一、一对多、多对多代码生成 .razor 界面。  集成功能：菜单、角色、用户、定时任务、数据字典、租户  依赖组件：BootstrapBlazor、FreeSql|50|2024-07-16|2024-01-31|
-|34|[lonlie/openai-chatgpt-billing](https://github.com/lonlie/openai-chatgpt-billing)|实现免登录查询OpenAI ChatGPT用量及余额，包含前端html页面和后端的主要逻辑，简洁高效，可以自己部署实现。 支持通过key(格式：sk-xxx)或者session key(格式：sees-xxx)查询。同时适用于共享大号额度查询的场景，可以查询指定用户公共ID(user_public_id或user_id，格式：user-xxx)的用量情况。 支持指定日期用量查询。 查询结果包含：剩 ...|39|2024-06-08|2023-12-12|
+|33|[2881099/AdminBlazor](https://github.com/2881099/AdminBlazor)|AdminBlazor 是一款 Blazor Server SaaS 后台管理项目，支持 RABC 权限菜单/按钮，支持一对一、一对多、多对多代码生成 .razor 界面。  集成功能：菜单、角色、用户、定时任务、数据字典、租户  依赖组件：BootstrapBlazor、FreeSql|51|2024-07-16|2024-01-31|
+|34|[lonlie/openai-chatgpt-billing](https://github.com/lonlie/openai-chatgpt-billing)|实现免登录查询OpenAI ChatGPT用量及余额，包含前端html页面和后端的主要逻辑，简洁高效，可以自己部署实现。 支持通过key(格式：sk-xxx)或者session key(格式：sees-xxx)查询。同时适用于共享大号额度查询的场景，可以查询指定用户公共ID(user_public_id或user_id，格式：user-xxx)的用量情况。 支持指定日期用量查询。 查询结果包含：剩 ...|40|2024-06-08|2023-12-12|
 |35|[czl0325/football_frontend](https://github.com/czl0325/football_frontend)|一个自己写的足球比赛预测代码，通过大数据匹配亚盘历史相同赔率相同水位的比赛，来得出赢盘或者输盘的结果。目前持续测试中。|38|2024-07-24|2023-11-15|
-|36|[hacker-frok/LiteLoaderQQNT-Plugin-Brevity-btn](https://github.com/hacker-frok/LiteLoaderQQNT-Plugin-Brevity-btn)|本插件隐藏QQNT侧栏部位，并在顶部添加快速显示/隐藏按钮，带来纯纯的聊天模式|34|2024-01-31|2024-01-20|
-|37|[KID-1912/tiptap-appmsg-editor](https://github.com/KID-1912/tiptap-appmsg-editor)|基于 tiptap 搭建的微信公众号编辑器示例，支持排版后复制到微信公众平台，支持开发者自己开发样式库、模板库作为内容插入；如 135Editor、壹伴等；Based on tiptap built WeChat public number editor example, support layout after copying to the WeChat public platform, sup ...|34|2024-04-20|2023-11-27|
+|36|[KID-1912/tiptap-appmsg-editor](https://github.com/KID-1912/tiptap-appmsg-editor)|基于 tiptap 搭建的微信公众号编辑器示例，支持排版后复制到微信公众平台，支持开发者自己开发样式库、模板库作为内容插入；如 135Editor、壹伴等；Based on tiptap built WeChat public number editor example, support layout after copying to the WeChat public platform, sup ...|35|2024-04-20|2023-11-27|
+|37|[hacker-frok/LiteLoaderQQNT-Plugin-Brevity-btn](https://github.com/hacker-frok/LiteLoaderQQNT-Plugin-Brevity-btn)|本插件隐藏QQNT侧栏部位，并在顶部添加快速显示/隐藏按钮，带来纯纯的聊天模式|34|2024-01-31|2024-01-20|
 |38|[DeathKael/airtest_uitest](https://github.com/DeathKael/airtest_uitest)|Airtest UItest 测试框架，支持单设备、多设备运行airtest脚本|31|2024-07-17|2024-07-17|
 |39|[chengzhongxue/halo-theme-fluid](https://github.com/chengzhongxue/halo-theme-fluid)|🌊 一款 Material Design 风格的 Halo 主题 / An elegant Material-Design theme for Halo |31|2024-06-27|2024-04-15|
 |40|[kanadeblisst00/aardio-extlibs](https://github.com/kanadeblisst00/aardio-extlibs)|我自己写的一些aardio扩展库，主要是Python和爬虫方面|30|2024-05-02|2024-03-30|

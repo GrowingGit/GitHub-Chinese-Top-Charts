@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2024-07-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -21,7 +21,7 @@
 |14|[volcengine/VeLiveQuickStartDemo](https://github.com/volcengine/VeLiveQuickStartDemo)|VeLiveQuickStartDemo 基于 TTSDK 直播 SDK 开发，目前接入了基础、高级、互动三大功能模块。提供示例参考代码，后续会持续迭代。 |5|2024-04-26|2023-07-31|
 |15|[GE-GAO-ZHAO/HuntingZombiesTool](https://github.com/GE-GAO-ZHAO/HuntingZombiesTool)|iOS OC野指针扑获工具|4|2024-03-07|2023-12-20|
 |16|[gzx543097079/AppStorePrivacyInfo](https://github.com/gzx543097079/AppStorePrivacyInfo)|解决部分已经不在维护的SDK的隐私清单问题|3|2024-05-28|2024-04-29|
-|17|[F-JH/weworklocation](https://github.com/F-JH/weworklocation)|企业微信修改定位|3|2024-06-11|2024-03-04|
+|17|[F-JH/weworklocation](https://github.com/F-JH/weworklocation)|企业微信修改定位|3|2024-07-25|2024-03-04|
 |18|[oceanengine/bda_signal_sdk](https://github.com/oceanengine/bda_signal_sdk)|激活SDK-iOS|3|2024-04-26|2023-09-12|
 |19|[dosedo/BLVideoPlayer](https://github.com/dosedo/BLVideoPlayer)|BLVideoPlayer是一款swift实现的、具有亮度调节、音量调节、拖动快进、横竖屏切换以及竖屏时上下滑动切换视频的功能，代码封装在framework中，方便调用|3|2024-07-04|2023-09-03|
 |20|[QuintGao/GKLivePhotoManager](https://github.com/QuintGao/GKLivePhotoManager)|livePhoto处理工具类|2|2024-07-02|2024-06-27|
