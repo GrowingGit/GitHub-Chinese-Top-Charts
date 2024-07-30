@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > MATLAB
-<sub>数据更新: 2024-07-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2643|4|2024-07-16|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|2653|4|2024-07-16|
 |2|[dick20/MCM-ICM](https://github.com/dick20/MCM-ICM)|2004-2020美赛O奖论文|1629|1|2024-04-09|
-|3|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1359|1|2024-07-27|
+|3|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1362|1|2024-07-27|
 |4|[kyiree/SuperEngineer](https://github.com/kyiree/SuperEngineer)|个人学习记录|31|0|2024-07-18|
 |5|[infinity-07/Numerical-analysis-code](https://github.com/infinity-07/Numerical-analysis-code)|使用MATLAB实现数值分析课程的算法|16|0|2024-07-10|
 |6|[kerenfu/JLDCF](https://github.com/kerenfu/JLDCF)|Code for CVPR-2020 paper "JL-DCF: Joint Learning and Densely-Cooperative Fusion Framework for RGB-D Salient Object Detection"|77|0|2024-04-06|

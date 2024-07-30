@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Perl
-<sub>数据更新: 2024-07-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -14,11 +14,11 @@
 |7|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|436|0|2024-07-25|
 |8|[TheBeastofwar/linuxhacker](https://github.com/TheBeastofwar/linuxhacker)|一款linux 内网渗透辅助工具|63|0|2024-01-31|
 |9|[kbnote/slowsql-analysis](https://github.com/kbnote/slowsql-analysis)|分析mysql的慢查询可视化分析|7|0|2024-04-16|
-|10|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|279|0|2024-07-27|
-|11|[webmin/authentic-theme](https://github.com/webmin/authentic-theme)|Official theme for the best server management panel of the 21st Century|949|0|2024-07-25|
+|10|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|279|0|2024-07-29|
+|11|[webmin/authentic-theme](https://github.com/webmin/authentic-theme)|Official theme for the best server management panel of the 21st Century|950|0|2024-07-28|
 |12|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|68|0|2024-06-14|
 |13|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|308|0|2024-06-12|
-|14|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|395|0|2024-02-09|
+|14|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|396|0|2024-02-09|
 |15|[g0v/people-in-news](https://github.com/g0v/people-in-news)|公眾人物新聞的追蹤|17|0|2024-05-04|
 |16|[hn/reolink-camera](https://github.com/hn/reolink-camera)|Reolink RLC-410-5MP IP camera reverse engineered technical details|141|0|2024-02-11|
 |17|[YoseR1cho/steamcommunity_302_V12.0.4](https://github.com/YoseR1cho/steamcommunity_302_V12.0.4)|集成多种功能steam工具箱 支持github加速|2|0|2024-07-12|

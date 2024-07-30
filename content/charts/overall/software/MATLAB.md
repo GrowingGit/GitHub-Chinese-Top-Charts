@@ -1,19 +1,19 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-07-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-07-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10249|2024-07-16|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10257|2024-07-16|
 |2|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|715|2024-05-28|
 |3|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|569|2024-02-24|
-|4|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|332|2024-04-13|
+|4|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|333|2024-04-13|
 |5|[AlterWL/Battery_SOC_Estimation](https://github.com/AlterWL/Battery_SOC_Estimation)|Battery state of charge estimation using kalman filter in Matlab|286|2024-04-12|
 |6|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|222|2024-07-06|
 |7|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|191|2024-06-15|
 |8|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP): A MATLAB Optimization Platform for Evolutionary Multitasking|109|2024-07-20|
-|9|[sjtu-jq/Image-registration](https://github.com/sjtu-jq/Image-registration)|Registration for power equipment infrared and visible images|86|2024-06-10|
+|9|[sjtu-jq/Image-registration](https://github.com/sjtu-jq/Image-registration)|Registration for power equipment infrared and visible images|87|2024-06-10|
 |10|[ECheynet/SEIR](https://github.com/ECheynet/SEIR)|Generalized SEIR Epidemic Model (fitting and computation)|84|2024-04-11|
 |11|[mingsongli/acycle](https://github.com/mingsongli/acycle)|Acycle: Time-series analysis software for research and education|75|2024-03-20|
 |12|[WeisongZhao/Sparse-SIM](https://github.com/WeisongZhao/Sparse-SIM)|Official MATLAB implementation of the "Sparse deconvolution" -v1.0.3|74|2024-02-08|
@@ -33,7 +33,7 @@
 |26|[T990820/radar-communication-signal-waveform-generator](https://github.com/T990820/radar-communication-signal-waveform-generator)|本仓库的代码用于雷达/通信信号波形的仿真与时频分析|15|2024-06-21|
 |27|[YunYang255/intelligent-method-for-digital-control](https://github.com/YunYang255/intelligent-method-for-digital-control)|用matlab完成了可以读取dxf文件然后生成相关的加工代码的功能,还可以输入加工代码(.txt)生成相关的加工路线(2D和3D),程序还可以监控刀具和胚料是否干涉以及刀具的加工状态|14|2024-06-09|
 |28|[brian09088/NB-IoT-support-for-NTN](https://github.com/brian09088/NB-IoT-support-for-NTN)|5G NB-IoT support NTN 非地面網路(衛星通訊)|14|2024-07-22|
-|29|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|13|2024-07-27|
+|29|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|13|2024-07-29|
 |30|[LeonYew-SWPU/VLPR-Based-On-MATLAB](https://github.com/LeonYew-SWPU/VLPR-Based-On-MATLAB)|基于 MATLAB 的车牌识别系统，数字图像处理期末大作业。|12|2024-05-06|
 |31|[vectorZeng/hzbmmc2024-B](https://github.com/vectorZeng/hzbmmc2024-B)|2024年华中杯数学建模比赛 B题 使用行车轨迹估计交通信号灯周期问题|12|2024-06-06|
 |32|[fkby48/Image-Processing-by-DWT](https://github.com/fkby48/Image-Processing-by-DWT)|使用小波变换对图像进行处理，包括图像融合、图像降噪、图像压缩和图像隐藏（Using wavelet transform for image processing, including image fusion, image denoising, image compression, and image hiding）|12|2024-05-13|
@@ -41,13 +41,13 @@
 |34|[autodotua/my_roms_tools](https://github.com/autodotua/my_roms_tools)|基于MATLAB的ROMS预处理、后处理工具包|11|2024-07-06|
 |35|[zhyantao/GA-shortest_path](https://github.com/zhyantao/GA-shortest_path)|遗传算法解决最短路径问题（两个出发点）|11|2024-07-04|
 |36|[WeianHuang23/Dispersion-assisted_High-dimensional_Photodetector](https://github.com/WeianHuang23/Dispersion-assisted_High-dimensional_Photodetector)|数据集的创建|10|2024-04-03|
-|37|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Uav track collaborative planning based on pso algorithm/基于pso算法的无人机航迹协同规划|9|2024-07-09|
-|38|[Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator](https://github.com/Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator)|针对解决轮式移动机械臂在复杂环境中执行灵巧作业的需求，开展了面向冗余轮式移动机械臂的考虑任务优先级的位形优化研究。首先建立了整机运动学模型，然后基于任务优先级框架开展了面向车-臂双轨迹跟踪、避奇异位形、避关节极限等多任务目标的位形优化的研究，最后进行了复杂工况仿真，验证了方法的有效性。|9|2024-03-13|
+|37|[Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator](https://github.com/Z-G-Zhou/Modelling-and-Motion-Planning-Research-of-Wheeled-Mobile-Manipulator)|针对解决轮式移动机械臂在复杂环境中执行灵巧作业的需求，开展了面向冗余轮式移动机械臂的考虑任务优先级的位形优化研究。首先建立了整机运动学模型，然后基于任务优先级框架开展了面向车-臂双轨迹跟踪、避奇异位形、避关节极限等多任务目标的位形优化的研究，最后进行了复杂工况仿真，验证了方法的有效性。|10|2024-03-13|
+|38|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Uav track collaborative planning based on pso algorithm/基于pso算法的无人机航迹协同规划|9|2024-07-09|
 |39|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|9|2024-03-25|
 |40|[iChunyu/iChunyu.github.io](https://github.com/iChunyu/iChunyu.github.io)|某春雨的后花园|9|2024-07-18|
 |41|[highskyno1/2users-CDMA-simulation](https://github.com/highskyno1/2users-CDMA-simulation)|基于MATLAB的直接序列扩频通信系统仿真|8|2024-04-15|
 |42|[Joe-Hall-Lee/hc_lzp](https://github.com/Joe-Hall-Lee/hc_lzp)|清风数学建模。|7|2024-02-05|
-|43|[Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis](https://github.com/Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis)|数字图像处理方法和分析|7|2024-07-14|
+|43|[Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis](https://github.com/Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis)|数字图像处理分析方法Code repository for digital image processing methods|7|2024-07-14|
 |44|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|2024-07-23|
 |45|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|6|2024-05-21|
 |46|[flyQQQHddd/pattern-recognition](https://github.com/flyQQQHddd/pattern-recognition)|模式识别|6|2024-04-11|
