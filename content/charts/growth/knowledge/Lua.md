@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Lua
-<sub>数据更新: 2024-07-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|817|3|2024-06-27|
+|1|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|822|3|2024-06-27|
 |2|[Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)|《明日方舟》游戏数据|1362|1|2024-07-25|
 |3|[newObjectccc/newObjectccc.github.io](https://github.com/newObjectccc/newObjectccc.github.io)|一个分享文章和技术还有推荐的Repo~|12|0|2024-07-20|
 |4|[JuanZoran/Trans.nvim](https://github.com/JuanZoran/Trans.nvim)|An awesome neovim plugin written by lua which can help translate English into Chinese 一个使用lua编写的neovim英文->中文[离线    在线]翻译插件, 还在施工中|116|0|2024-04-21|
@@ -18,7 +18,7 @@
 |11|[l549349545/MeetingStone_Happy](https://github.com/l549349545/MeetingStone_Happy)|魔兽世界集合石插件修改版|11|0|2024-05-09|
 |12|[LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes)|我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～|131|0|2024-07-18|
 |13|[LanbingIce/IsaacSocket-Mod](https://github.com/LanbingIce/IsaacSocket-Mod)|这是一个《以撒的结合》的Mod，可为其他mod提供操作剪贴板，连接WebSocket等接口|9|0|2024-03-15|
-|14|[JealousCat/GGMod](https://github.com/JealousCat/GGMod)|提供GameGuardian的MOD教程和代码，如luajava库、修复os.execute函数、完善String库、添加Canvas等。|69|0|2024-07-04|
+|14|[JealousCat/GGMod](https://github.com/JealousCat/GGMod)|提供GameGuardian的MOD教程和代码，如luajava库、修复os.execute函数、完善String库、添加Canvas等。|71|0|2024-07-04|
 |15|[k8scat/lua-resty-feishu-auth](https://github.com/k8scat/lua-resty-feishu-auth)|适用于 OpenResty / ngx_lua 的基于飞书组织架构的登录认证|38|0|2024-05-08|
 |16|[generals-space/note-devops](https://github.com/generals-space/note-devops)|linux运维笔记|58|0|2024-07-25|
 |17|[mamjun/DST-Sora](https://github.com/mamjun/DST-Sora)|《饥荒：联机版》里 穹妹的mod|8|0|2024-07-16|
