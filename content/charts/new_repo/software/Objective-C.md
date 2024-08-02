@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2024-08-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -14,8 +14,8 @@
 |7|[zhouxing5311/StickerViewer](https://github.com/zhouxing5311/StickerViewer)|微信表情查看器|11|2024-02-28|2024-02-27|
 |8|[zmfflying/ZWKURLHandler](https://github.com/zmfflying/ZWKURLHandler)|WKWebView秒开demo|9|2024-04-20|2023-09-12|
 |9|[YuAYuyyy/YKBLock-For-iPA](https://github.com/YuAYuyyy/YKBLock-For-iPA)|udid网络验证源码，后台部分加密。弹窗源码全开源|8|2024-04-15|2024-04-10|
-|10|[iHongRen/UITextView-html-demo](https://github.com/iHongRen/UITextView-html-demo)|UITextView 加载 HTML 文本字符串的一些优化和注意事项 Demo|5|2024-04-24|2024-04-21|
-|11|[long-zuyang/Lenovo-R9000P2021H-Hackintosh](https://github.com/long-zuyang/Lenovo-R9000P2021H-Hackintosh)|拯救者R9000P2021H黑苹果EFI|5|2024-06-19|2024-04-03|
+|10|[long-zuyang/Lenovo-R9000P2021H-Hackintosh](https://github.com/long-zuyang/Lenovo-R9000P2021H-Hackintosh)|拯救者R9000P2021H黑苹果EFI|7|2024-06-19|2024-04-03|
+|11|[iHongRen/UITextView-html-demo](https://github.com/iHongRen/UITextView-html-demo)|UITextView 加载 HTML 文本字符串的一些优化和注意事项 Demo|5|2024-04-24|2024-04-21|
 |12|[Allen0828/AAEngine](https://github.com/Allen0828/AAEngine)|Metal 展示全景地图、3D模型、简单游戏等|5|2024-05-12|2024-03-25|
 |13|[GE-GAO-ZHAO/HuntingZombiesTool](https://github.com/GE-GAO-ZHAO/HuntingZombiesTool)|iOS OC野指针扑获工具|4|2024-03-07|2023-12-20|
 |14|[XLsnQw/MonkeyTweakDev](https://github.com/XLsnQw/MonkeyTweakDev)|MonkeyDev Tweak 支持最新无根越狱 Theos开发|3|2024-07-27|2024-07-26|

@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Groovy
-<sub>数据更新: 2024-08-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|3096|2024-07-25|
+|1|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|3098|2024-07-25|
 |2|[qq549631030/AndroidJunkCode](https://github.com/qq549631030/AndroidJunkCode)|Android马甲包生成垃圾代码插件|1043|2024-03-07|
 |3|[ihub-pub/plugins](https://github.com/ihub-pub/plugins)|A set of Gradle plug-ins that greatly simplify project management / 一套极大简化项目管理的Gradle插件集|743|2024-07-28|
 |4|[dqzboy/DevOps](https://github.com/dqzboy/DevOps)|DevOps. Make the project development and release simpler, easier and more efficient.|617|2024-07-09|
@@ -15,7 +15,7 @@
 |8|[guolong123/manci](https://github.com/guolong123/manci)|一个 Jenkins library 库，轻松集成实现各个代码平台的 CI/CD 流程|8|2024-05-17|
 |9|[YaokunLee/Router](https://github.com/YaokunLee/Router)|自定义路由框架，APT+字节码插桩实现组件自动注册，支持参数解析、路由总表文档生成|3|2024-03-02|
 |10|[bwcxyk/config_file](https://github.com/bwcxyk/config_file)|配置文件|3|2024-07-09|
-|11|[cuiliang0302/spring-boot-demo](https://github.com/cuiliang0302/spring-boot-demo)|最简单的springboot项目，用于测试java项目CICD功能。|2|2024-07-31|
+|11|[cuiliang0302/spring-boot-demo](https://github.com/cuiliang0302/spring-boot-demo)|最简单的springboot项目，用于测试java项目CICD功能。|2|2024-08-01|
 |12|[StarPixel-Team/PCL-Client](https://github.com/StarPixel-Team/PCL-Client)|服务器 PCL 客户端|2|2024-07-01|
 
 <div align="center">
