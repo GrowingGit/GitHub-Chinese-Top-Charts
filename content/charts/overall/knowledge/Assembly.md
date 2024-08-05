@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Assembly
-<sub>数据更新: 2024-08-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2164|2024-07-17|
+|1|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2166|2024-07-17|
 |2|[NekoSilverFox/Assembly](https://github.com/NekoSilverFox/Assembly)|⚡ 亲手编写实现基于王爽老师《汇编语言》的300个汇编程序例程   Implementation of 300 assembly program examples based on "Assembly Language" |237|2024-02-10|
 |3|[web1992/read](https://github.com/web1992/read)|学习笔记 dubbo,rocketmq 源码解析|50|2024-07-26|
 |4|[team-s2/summer_course_2023](https://github.com/team-s2/summer_course_2023)|AAA - 2023 短学期安全攻防实践开源仓库（已整合入 ctf_summer_courses）|34|2024-05-21|
