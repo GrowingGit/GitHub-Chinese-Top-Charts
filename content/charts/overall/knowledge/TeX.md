@@ -1,40 +1,40 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > TeX
-<sub>数据更新: 2024-08-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[soulmachine/leetcode](https://github.com/soulmachine/leetcode)|LeetCode题解，151道题完整版。|11251|2024-07-10|
 |2|[liuxinyu95/AlgoXY](https://github.com/liuxinyu95/AlgoXY)|Book of Elementary Functional Algorithms and Data structures|6029|2024-06-13|
-|3|[openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)|《Machine Learning Systems: Design and Implementation》- Chinese Version|3879|2024-04-13|
+|3|[openmlsys/openmlsys-zh](https://github.com/openmlsys/openmlsys-zh)|《Machine Learning Systems: Design and Implementation》- Chinese Version|3883|2024-04-13|
 |4|[sjtug/SJTUThesis](https://github.com/sjtug/SJTUThesis)|上海交通大学 LaTeX 论文模板   Shanghai Jiao Tong University LaTeX Thesis Template|3277|2024-07-18|
 |5|[careywyr/UnderstandingDeepLearning-ZH-CN](https://github.com/careywyr/UnderstandingDeepLearning-ZH-CN)|UnderstandingDeepLearing中文翻译|2242|2024-07-21|
-|6|[the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)|Host repository for The Turing Way: a how to guide for reproducible data science|1852|2024-08-02|
-|7|[hithesis/hithesis](https://github.com/hithesis/hithesis)|嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板|1615|2024-07-29|
+|6|[the-turing-way/the-turing-way](https://github.com/the-turing-way/the-turing-way)|Host repository for The Turing Way: a how to guide for reproducible data science|1851|2024-08-05|
+|7|[hithesis/hithesis](https://github.com/hithesis/hithesis)|嗨！thesis！哈尔滨工业大学毕业论文LaTeX模板|1616|2024-07-29|
 |8|[huangzworks/redisbook](https://github.com/huangzworks/redisbook)|《Redis 设计与实现》（网络版）的书稿源码|1504|2024-05-01|
 |9|[datawhalechina/key-book](https://github.com/datawhalechina/key-book)|《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。|1444|2024-07-15|
 |10|[bdebye/thesisuestc](https://github.com/bdebye/thesisuestc)|ThesisUESTC-电子科技大学毕业论文模板|1334|2024-07-15|
-|11|[kanition/pbrtbook](https://github.com/kanition/pbrtbook)|pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation|1021|2024-08-03|
+|11|[kanition/pbrtbook](https://github.com/kanition/pbrtbook)|pbrt 中文整合翻译 基于物理的渲染：从理论到实现 Physically Based Rendering: From Theory To Implementation|1022|2024-08-03|
 |12|[moesoha/debian-media-box](https://github.com/moesoha/debian-media-box)|“Debian 小药盒”，一个用来包装 Debian 安装介质的盒子设计和介绍用的说明书。|1013|2024-05-15|
 |13|[whutug/whu-thesis](https://github.com/whutug/whu-thesis)|:memo: 武汉大学毕业论文 LaTeX 模版 2024|913|2024-06-07|
 |14|[fangcun010/VulkanTutorialCN](https://github.com/fangcun010/VulkanTutorialCN)|Vulkan中文教程|631|2024-06-23|
 |15|[fcampelo/EC-Bestiary](https://github.com/fcampelo/EC-Bestiary)|A bestiary of evolutionary, swarm and other metaphor-based algorithms|589|2024-04-25|
 |16|[Cactus-proj/A-Philosophy-of-Software-Design-zh](https://github.com/Cactus-proj/A-Philosophy-of-Software-Design-zh)|A Philosophy of Software Design 《软件设计的哲学》中文翻译 |558|2024-08-01|
 |17|[MeouSker77/ProgrammingRust](https://github.com/MeouSker77/ProgrammingRust)|本书为《Programming Rust - Fast, Safe Systems Development》第2版的个人中文翻译，仅供学习和交流使用，如有侵权请联系作者删除|549|2024-07-03|
-|18|[SYSU-SCC/sysu-thesis](https://github.com/SYSU-SCC/sysu-thesis)|中山大学 LaTeX 论文项目模板|531|2024-05-10|
+|18|[SYSU-SCC/sysu-thesis](https://github.com/SYSU-SCC/sysu-thesis)|中山大学 LaTeX 论文项目模板|532|2024-05-10|
 |19|[nju-lug/NJUThesis](https://github.com/nju-lug/NJUThesis)|南京大学学位论文模板|440|2024-05-08|
 |20|[wenweili/AlJabr-1](https://github.com/wenweili/AlJabr-1)|Methods in Algebra (Volume 1): A Chinese textbook on Algebra|366|2024-06-17|
 |21|[NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis](https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis)|西北工业大学硕博学位论文模版   Yet Another Thesis Template for Northwestern Polytechnical University|348|2024-07-16|
 |22|[tinoryj/UESTC-Thesis-Latex-Template](https://github.com/tinoryj/UESTC-Thesis-Latex-Template)|UESTC Thesis Latex Template 2023. It fully supports the latest format specification in 2023, supports independent symbol table, abbreviation table, and complete and fully customizable Academic/Profess ...|344|2024-03-18|
 |23|[njuHan/njuthesis-nju-thesis-template](https://github.com/njuHan/njuthesis-nju-thesis-template)|南京大学学位论文(本科/硕士/博士)，毕业论文LaTeX模板|335|2024-02-28|
-|24|[mengchaoheng/SCUT_thesis](https://github.com/mengchaoheng/SCUT_thesis)|华南理工大学硕博士学位论文LaTeX模板。Latex templates for the thesis of South China University of Technology|281|2024-05-27|
-|25|[SHI-Yu-Zhe/awesome-agi-cocosci](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci)|An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.|271|2024-08-02|
+|24|[mengchaoheng/SCUT_thesis](https://github.com/mengchaoheng/SCUT_thesis)|华南理工大学硕博士学位论文LaTeX模板。Latex templates for the thesis of South China University of Technology|282|2024-05-27|
+|25|[SHI-Yu-Zhe/awesome-agi-cocosci](https://github.com/SHI-Yu-Zhe/awesome-agi-cocosci)|An awesome & curated list for Artificial General Intelligence, an emerging inter-discipline field that combines artificial intelligence and computational cognitive sciences.|271|2024-08-05|
 |26|[iydon/sustechthesis](https://github.com/iydon/sustechthesis)|南方科技大学本科生毕业论文 LaTeX 模板|226|2024-06-05|
 |27|[chianjin/outline-of-mechanics](https://github.com/chianjin/outline-of-mechanics)|《力学概论》LaTeX 重排版|224|2024-05-09|
 |28|[YangLaTeX/hitszthesis](https://github.com/YangLaTeX/hitszthesis)|A dissertation template for Harbin Institute of Technology, ShenZhen (HITSZ), including bachelor, master and doctor dissertations.|224|2024-05-26|
-|29|[obster-y/XJTU-thesis](https://github.com/obster-y/XJTU-thesis)|西安交通大学学位论文模板（LaTeX）（适用硕士、博士学位）An official LaTeX template for Xi'an Jiaotong University degree thesis (Chinese and English)|218|2024-07-26|
-|30|[sikouhjw/gdutthesis](https://github.com/sikouhjw/gdutthesis)|广东工业大学 LaTeX 论文模板|217|2024-03-26|
+|29|[sikouhjw/gdutthesis](https://github.com/sikouhjw/gdutthesis)|广东工业大学 LaTeX 论文模板|218|2024-03-26|
+|30|[obster-y/XJTU-thesis](https://github.com/obster-y/XJTU-thesis)|西安交通大学学位论文模板（LaTeX）（适用硕士、博士学位）An official LaTeX template for Xi'an Jiaotong University degree thesis (Chinese and English)|218|2024-07-26|
 |31|[scnu/scnuthesis](https://github.com/scnu/scnuthesis)|符合华南师范大学硕士/博士学位论文格式要求的LaTeX模板。|215|2024-04-16|
 |32|[Aetf/xjtuthesis](https://github.com/Aetf/xjtuthesis)| 使用 LaTeX 排版学位论文！适用于西安交通大学学生|198|2024-07-09|
 |33|[SUSTech-CRA/sustech-master-thesis](https://github.com/SUSTech-CRA/sustech-master-thesis)|南方科技大学研究生学位论文LaTeX模板|189|2024-06-30|
@@ -42,18 +42,18 @@
 |35|[YuZhang/cryptography](https://github.com/YuZhang/cryptography)|Cryptography course slides at Harbin Institute of Technology|170|2024-05-07|
 |36|[zoam/xmu-thesis-grd](https://github.com/zoam/xmu-thesis-grd)|厦门大学研究生学位论文 LaTeX 模板|158|2024-03-05|
 |37|[TouchFishPioneer/SEU-master-thesis](https://github.com/TouchFishPioneer/SEU-master-thesis)|东南大学硕士研究生学位论文LaTeX模板|156|2024-04-22|
-|38|[hantang/latex-templates](https://github.com/hantang/latex-templates)|A collection of awesome LaTeX Thesis/Dissertation templates and beyond! （LaTeX / Word / Typst / Markdown 格式的学位论文、演示文稿、报告、项目申请书、简历、书籍等模板收藏）|151|2024-08-01|
+|38|[hantang/latex-templates](https://github.com/hantang/latex-templates)|A collection of awesome LaTeX Thesis/Dissertation templates and beyond! （LaTeX / Word / Typst / Markdown 格式的学位论文、演示文稿、报告、项目申请书、简历、书籍等模板收藏）|152|2024-08-05|
 |39|[shuosc/SHU-Bachelor-Thesis-OSC](https://github.com/shuosc/SHU-Bachelor-Thesis-OSC)|上海大学本科生毕业论文latex模板-开源社区版本。|149|2024-05-29|
 |40|[CSUcse/CSUthesis](https://github.com/CSUcse/CSUthesis)|中南大学研究生学位论文LaTex模版（博士和硕士）|145|2024-03-06|
-|41|[Reanon/SEUThesisLatexTemplate](https://github.com/Reanon/SEUThesisLatexTemplate)|东南大学 硕士毕业论文 Latex 模版 网络空间安全学院|129|2024-04-18|
-|42|[XinzeZhang/HUST-PhD-Thesis-Latex](https://github.com/XinzeZhang/HUST-PhD-Thesis-Latex)|华中科技大学博士毕业论文Latex模板|129|2024-06-03|
+|41|[Reanon/SEUThesisLatexTemplate](https://github.com/Reanon/SEUThesisLatexTemplate)|东南大学 硕士毕业论文 Latex 模版 网络空间安全学院|131|2024-04-18|
+|42|[XinzeZhang/HUST-PhD-Thesis-Latex](https://github.com/XinzeZhang/HUST-PhD-Thesis-Latex)|华中科技大学博士毕业论文Latex模板|130|2024-06-03|
 |43|[NewFuture/NKThesis](https://github.com/NewFuture/NKThesis)|南开大学硕士毕业论文/博士论文模板 (Latex Template for Nankai University)|127|2024-06-05|
 |44|[yuhldr/LZUThesis2020](https://github.com/yuhldr/LZUThesis2020)|兰州大学2023毕业论文LaTex模板：本科生、研究生两个模板|126|2024-05-06|
 |45|[shuyong/study-notes-math](https://github.com/shuyong/study-notes-math)|读书笔记-数学|114|2024-04-26|
 |46|[NominHanggai/szaboqc](https://github.com/NominHanggai/szaboqc)|《现代量子化学》汉化版|107|2024-07-08|
 |47|[Hsins/NTU-Thesis-LaTeX-Template](https://github.com/Hsins/NTU-Thesis-LaTeX-Template)|🎓 Unofficial LaTeX templates for your graduate thesis (both master's theses and doctoral dissertations) at National Taiwan University. 國立臺灣大學碩博士學位論文 LaTeX 模板|106|2024-07-01|
 |48|[chianjin/zhvt-classic](https://github.com/chianjin/zhvt-classic)|中文线装书排版|97|2024-06-09|
-|49|[GuangLun2000/COMAP-MCM-2024](https://github.com/GuangLun2000/COMAP-MCM-2024)|蔡汉霖的数模美赛材料合集 COMAP MCM/ICM 2024|89|2024-02-07|
+|49|[GuangLun2000/COMAP-MCM-2024](https://github.com/GuangLun2000/COMAP-MCM-2024)|数模美赛材料合集 COMAP MCM/ICM 2024|89|2024-08-05|
 |50|[Tr0py/NKU-thesis-template-2020](https://github.com/Tr0py/NKU-thesis-template-2020)|南开大学毕业论文模板 Nankai University Thesis Template  https://tr0py.github.io/NKU-thesis-template-2020/|87|2024-06-01|
 |51|[xiaoweiChen/Learn-LLVM-17](https://github.com/xiaoweiChen/Learn-LLVM-17)|《Learn LLVM 17》的非专业个人翻译|86|2024-06-13|
 |52|[SuikaXhq/seu-bachelor-thesis-2022](https://github.com/SuikaXhq/seu-bachelor-thesis-2022)|东南大学本科毕业设计（论文）模版|83|2024-03-09|
@@ -69,7 +69,7 @@
 |62|[wenweili/Modulform](https://github.com/wenweili/Modulform)|Introduction to Modular Forms: A Chinese textbook about modular forms|60|2024-06-11|
 |63|[DansYU/SeuThesiY](https://github.com/DansYU/SeuThesiY)|用于排版东南大学硕博学位论文的LaTeX模板|60|2024-07-01|
 |64|[hnuthesis/hnuthesis](https://github.com/hnuthesis/hnuthesis)|湖南大学硕士学位论文 LaTeX 模板|58|2024-06-04|
-|65|[ShevonKuan/SCUT-thesis](https://github.com/ShevonKuan/SCUT-thesis)|(更新于2024年) 华南理工大学 LaTeX 论文模板项目，star一下嘛~(☆▽☆)，应该是最完善也是最容易使用的华工本科生论文模板了|55|2024-05-24|
+|65|[ShevonKuan/SCUT-thesis](https://github.com/ShevonKuan/SCUT-thesis)|(更新于2024年) 华南理工大学 LaTeX 论文模板项目，star一下嘛~(☆▽☆)，应该是最完善也是最容易使用的华工本科生论文模板了|56|2024-05-24|
 |66|[wenbindu/ThinkPython2-CN](https://github.com/wenbindu/ThinkPython2-CN)|《ThinkPython2》中文译本|55|2024-06-17|
 |67|[1FCENdoge/SYSUThesis](https://github.com/1FCENdoge/SYSUThesis)|中山大学研究生学位论文LaTeX模板（试用）|54|2024-05-31|
 |68|[BlueFisher/shuthesis](https://github.com/BlueFisher/shuthesis)|上海大学硕博学位论文 LaTeX 模板 Thesis Template for Shanghai University|54|2024-04-28|
@@ -82,7 +82,7 @@
 |75|[neardws/My-Doctoral-Dissertation](https://github.com/neardws/My-Doctoral-Dissertation)|重庆大学博士学位论文LaTex模版，支持2023年格式要求|42|2024-03-30|
 |76|[ydchen0806/24ICM_E_O_Award_Paper_code](https://github.com/ydchen0806/24ICM_E_O_Award_Paper_code)|2024 MCM/ICM Problem E Outstanding Winner INFORMS Prize paper and source code (24美赛E题O奖冠名奖论文和源码)|38|2024-07-23|
 |77|[langsci/langscibook](https://github.com/langsci/langscibook)|LaTeX class and additions for typesetting books|34|2024-05-28|
-|78|[Jimmy-L4/BUPTGraduateThesis](https://github.com/Jimmy-L4/BUPTGraduateThesis)|BUPTGraduateThesis提供北京邮电大学研究生学位论文LaTeX文档类，其符合北邮研究生院2014年11月发布的《关于研究生学位论文格式的统一要求》，目前已根据2017年标准修正格式、添加英文扉页，已根据2023年标准修正格式、添加答辩小组名单页，已根据2024年标准修正格式|31|2024-07-17|
+|78|[Jimmy-L4/BUPTGraduateThesis](https://github.com/Jimmy-L4/BUPTGraduateThesis)|BUPTGraduateThesis提供北京邮电大学研究生学位论文LaTeX文档类，其符合北邮研究生院2014年11月发布的《关于研究生学位论文格式的统一要求》，目前已根据2017年标准修正格式、添加英文扉页，已根据2023年标准修正格式、添加答辩小组名单页，已根据2024年标准修正格式|32|2024-07-17|
 |79|[Yixf-Education/course_Statistics_Story](https://github.com/Yixf-Education/course_Statistics_Story)|天津医科大学，本科选修课，《故事中的统计学》课程资料|31|2024-03-04|
 |80|[Acwuld/LouAnalysis](https://github.com/Acwuld/LouAnalysis)|楼红卫老师《数学分析》的答案.|28|2024-07-02|
 |81|[shadowofgost/sudathesis-soochow-university-latex-template](https://github.com/shadowofgost/sudathesis-soochow-university-latex-template)|Naive LaTex Template For Soochow University Thesis 苏州大学Latex 模板，适用于本科生、硕士生和博士生毕业论文以及日常论文写作|28|2024-06-11|
@@ -90,13 +90,13 @@
 |83|[MobtgZhang/sues-thesis](https://github.com/MobtgZhang/sues-thesis)|上海工程技术大学硕士学位论文模板|27|2024-06-08|
 |84|[Jin-bao/NCU-thesis](https://github.com/Jin-bao/NCU-thesis)|南昌大学学位（毕业）论文 LaTeX 模板|26|2024-06-09|
 |85|[iihciyekub/MUST-Thesis](https://github.com/iihciyekub/MUST-Thesis)|latex-template: 澳门科技大学,硕士or博士毕业论文模版|26|2024-04-25|
-|86|[KaiserKatze/mathematical-notes](https://github.com/KaiserKatze/mathematical-notes)|数学笔记|25|2024-08-04|
+|86|[KaiserKatze/mathematical-notes](https://github.com/KaiserKatze/mathematical-notes)|数学笔记|25|2024-08-05|
 |87|[YunYouJun/cucthesis](https://github.com/YunYouJun/cucthesis)|CUC 硕士毕业论文 LaTeX 模版 |25|2024-06-14|
 |88|[Jinwen-XU/minimalist](https://github.com/Jinwen-XU/minimalist)|Write your articles or books in a simple and clear way|25|2024-03-01|
 |89|[Sakura-shem/JLUThesis](https://github.com/Sakura-shem/JLUThesis)|吉林大学 通信工程学院 本科毕业论文 Latex模板 2023|24|2024-04-24|
 |90|[davyxx3/hhu-thesis-bachelor](https://github.com/davyxx3/hhu-thesis-bachelor)|河海大学本科毕业论文LaTeX模板（理工科）【2024年更新】|24|2024-06-21|
-|91|[Jinwen-XU/colorist](https://github.com/Jinwen-XU/colorist)|Write your articles or books in a colorful way|23|2024-02-26|
-|92|[rockyzhz/latexdoc-chinese-translation](https://github.com/rockyzhz/latexdoc-chinese-translation)|LaTeX 文档中文翻译项目|22|2024-02-25|
+|91|[rockyzhz/latexdoc-chinese-translation](https://github.com/rockyzhz/latexdoc-chinese-translation)|LaTeX 文档中文翻译项目|23|2024-02-25|
+|92|[Jinwen-XU/colorist](https://github.com/Jinwen-XU/colorist)|Write your articles or books in a colorful way|23|2024-02-26|
 |93|[irenier/sysuthesis](https://github.com/irenier/sysuthesis)|中山大学本科生毕业论文 LaTeX 模板|22|2024-05-26|
 |94|[bjut-swift/BJUTLATEX](https://github.com/bjut-swift/BJUTLATEX)|北京工业大学硕士研究生学位 LATEX 论文模版(学术型硕士)|22|2024-03-25|
 |95|[xkwxdyy/CCNUthesis](https://github.com/xkwxdyy/CCNUthesis)|（非官方）华中师范大学毕业论文（设计）模版|22|2024-05-02|
@@ -113,8 +113,8 @@
 |106|[wenjin1997/zkp-learning](https://github.com/wenjin1997/zkp-learning)|记录学习零知识证明(Zero-Knowledge Proof)笔记及过程。|16|2024-05-08|
 |107|[WHUZBF/My_notes](https://github.com/WHUZBF/My_notes)|物理笔记Latex源码|16|2024-03-19|
 |108|[iotang/linux_tutorials_for_brand_new_oiers](https://github.com/iotang/linux_tutorials_for_brand_new_oiers)|Linux Tutorials for Brand New Oiers   给信息组学弟学妹的 Linux 入门手把手教程|16|2024-05-07|
-|109|[anlit75/CCU-Thesis-LaTeX-Template](https://github.com/anlit75/CCU-Thesis-LaTeX-Template)|Unofficial LaTeX templates for both master's thesis and doctoral dissertations at National Chung Cheng University. 國立中正大學碩博士論文LaTex模板|14|2024-05-03|
-|110|[Sophie10001b/swjtuThesisV3.0](https://github.com/Sophie10001b/swjtuThesisV3.0)|V3.0 LaTeX Template for PhD/MA Thesis of Southwest Jiaotong University (SWJTU) / 西南交通大学研究生学位论文LaTeX模板(V3.0)|14|2024-07-27|
+|109|[Sophie10001b/swjtuThesisV3.0](https://github.com/Sophie10001b/swjtuThesisV3.0)|V3.0 LaTeX Template for PhD/MA Thesis of Southwest Jiaotong University (SWJTU) / 西南交通大学研究生学位论文LaTeX模板(V3.0)|15|2024-07-27|
+|110|[anlit75/CCU-Thesis-LaTeX-Template](https://github.com/anlit75/CCU-Thesis-LaTeX-Template)|Unofficial LaTeX templates for both master's thesis and doctoral dissertations at National Chung Cheng University. 國立中正大學碩博士論文LaTex模板|14|2024-05-03|
 |111|[Astro-Lee/YNU-thesis-bachelor](https://github.com/Astro-Lee/YNU-thesis-bachelor)|云南大学本科学生毕业论文 (设计) LaTeX 模板|14|2024-06-13|
 |112|[andy123t/shnuthesis](https://github.com/andy123t/shnuthesis)|上海师范大学研究生毕业论文 LaTeX 模板 LaTeX Thesis Template for SHNU|14|2024-04-12|
 |113|[wang-q/lecture-slides](https://github.com/wang-q/lecture-slides)|Slides for my course "General Biology".|14|2024-06-16|
@@ -145,27 +145,27 @@
 |138|[quanfan-zi/Latex-Paper-Templates](https://github.com/quanfan-zi/Latex-Paper-Templates)|根据2024年毕业论文（设计）格式要求设计过的Latex论文模板|7|2024-03-14|
 |139|[xmlu/hduthesis](https://github.com/xmlu/hduthesis)|杭州电子科技大学硕士学位论文LaTeX模版|7|2024-03-15|
 |140|[yufree/hjhbb](https://github.com/yufree/hjhbb)|公众号 环境黑板报 的文章存档|7|2024-08-02|
-|141|[zcyeee/HNU_LaTeX_Template](https://github.com/zcyeee/HNU_LaTeX_Template)|湖南大学课程论文LaTeX模板|6|2024-07-14|
-|142|[wLUOw/Introduction_to_Multivariate_Functions](https://github.com/wLUOw/Introduction_to_Multivariate_Functions)|自己总结的多元函数入门攻略，分为上和下。主要讲述高等数学多元函数基本概念及它们之间的关系，附带例题和不常见的反例|6|2024-04-14|
-|143|[kangxiatao/CSUSTthesis](https://github.com/kangxiatao/CSUSTthesis)|长沙理工大学硕博学位论文 LaTeX 模板|6|2024-03-04|
-|144|[ilhikki/hott-book-zh](https://github.com/ilhikki/hott-book-zh)|《The HoTT Book》 中文翻译|6|2024-05-25|
-|145|[Yi-ran-Nian-Hua/Matrix-Theory](https://github.com/Yi-ran-Nian-Hua/Matrix-Theory)|电子科技大学《矩阵理论》复习笔记|5|2024-07-11|
-|146|[kelvin0207/NUDT-Template](https://github.com/kelvin0207/NUDT-Template)|国防科大论文通用模板|5|2024-05-16|
-|147|[CIOT-Group/Fuck_2024_MCM-ICM](https://github.com/CIOT-Group/Fuck_2024_MCM-ICM)|2024美国大学生数学建模竞赛（队号#2409529, Problem E）相关比赛资料开源仓库|5|2024-05-03|
-|148|[liuqi6777/ructhesis](https://github.com/liuqi6777/ructhesis)|中国人民大学本科毕业论文（设计）LaTeX模板|5|2024-04-17|
-|149|[Andrew82106/MathorcupLatexTemplate](https://github.com/Andrew82106/MathorcupLatexTemplate)|MathorCup 论文Latex模版，可适配Overleaf，使用gbt7714引用文献|5|2024-04-16|
-|150|[H-Hyunmin/ISEE_Course_Materials](https://github.com/H-Hyunmin/ISEE_Course_Materials)|ISEE相关课程的资料|5|2024-06-28|
-|151|[ErSanSan233/lecon-typo-translation](https://github.com/ErSanSan233/lecon-typo-translation)|《法文排版小课堂》中文译本|5|2024-03-29|
+|141|[ErSanSan233/lecon-typo-translation](https://github.com/ErSanSan233/lecon-typo-translation)|《法文排版小课堂》中文译本|6|2024-03-29|
+|142|[zcyeee/HNU_LaTeX_Template](https://github.com/zcyeee/HNU_LaTeX_Template)|湖南大学课程论文LaTeX模板|6|2024-07-14|
+|143|[wLUOw/Introduction_to_Multivariate_Functions](https://github.com/wLUOw/Introduction_to_Multivariate_Functions)|自己总结的多元函数入门攻略，分为上和下。主要讲述高等数学多元函数基本概念及它们之间的关系，附带例题和不常见的反例|6|2024-04-14|
+|144|[kangxiatao/CSUSTthesis](https://github.com/kangxiatao/CSUSTthesis)|长沙理工大学硕博学位论文 LaTeX 模板|6|2024-03-04|
+|145|[ilhikki/hott-book-zh](https://github.com/ilhikki/hott-book-zh)|《The HoTT Book》 中文翻译|6|2024-05-25|
+|146|[Yi-ran-Nian-Hua/Matrix-Theory](https://github.com/Yi-ran-Nian-Hua/Matrix-Theory)|电子科技大学《矩阵理论》复习笔记|5|2024-07-11|
+|147|[kelvin0207/NUDT-Template](https://github.com/kelvin0207/NUDT-Template)|国防科大论文通用模板|5|2024-05-16|
+|148|[CIOT-Group/Fuck_2024_MCM-ICM](https://github.com/CIOT-Group/Fuck_2024_MCM-ICM)|2024美国大学生数学建模竞赛（队号#2409529, Problem E）相关比赛资料开源仓库|5|2024-05-03|
+|149|[liuqi6777/ructhesis](https://github.com/liuqi6777/ructhesis)|中国人民大学本科毕业论文（设计）LaTeX模板|5|2024-04-17|
+|150|[Andrew82106/MathorcupLatexTemplate](https://github.com/Andrew82106/MathorcupLatexTemplate)|MathorCup 论文Latex模版，可适配Overleaf，使用gbt7714引用文献|5|2024-04-16|
+|151|[H-Hyunmin/ISEE_Course_Materials](https://github.com/H-Hyunmin/ISEE_Course_Materials)|ISEE相关课程的资料|5|2024-06-28|
 |152|[WeiViming/gzhu-thesis](https://github.com/WeiViming/gzhu-thesis)|广州大学研究生学位论文非官方模板|5|2024-06-30|
 |153|[3000ye/dhuBachelor](https://github.com/3000ye/dhuBachelor)|东华大学学士毕业论文latex模板|5|2024-06-16|
-|154|[YinFengQi/2023-2024_Fall-old](https://github.com/YinFengQi/2023-2024_Fall-old)|仓库已重建, 不再在此推送---个人的笔记|5|2024-02-04|
-|155|[Poker-sang/Notes](https://github.com/Poker-sang/Notes)|高中以来所有的学习笔记|5|2024-08-02|
-|156|[andy123t/zhbook](https://github.com/andy123t/zhbook)|zhbook 中文书籍 LaTeX 模板|5|2024-02-27|
-|157|[blanche07/ecust-master-thesis-latex](https://github.com/blanche07/ecust-master-thesis-latex)|华东理工大学硕士学位论文Latex模板|4|2024-06-04|
-|158|[SeaHI-Robot/SUSTechThesis2024MEE](https://github.com/SeaHI-Robot/SUSTechThesis2024MEE)|南方科技大学本科生毕业论文 LaTeX 模板 - 2024非官方机械系模板|4|2024-06-21|
-|159|[ChambersXDU/xduts_demo](https://github.com/ChambersXDU/xduts_demo)|提供一份稍完整的xduts参考示例，供西电学子入门xduts使用|4|2024-04-17|
-|160|[yinguoweiOvO/CQUThesis_20242024](https://github.com/yinguoweiOvO/CQUThesis_20242024)|重庆大学毕业论文Latex模板（修改版）|4|2024-03-31|
-|161|[Mikachu2333/sdsmu_welcome_tex](https://github.com/Mikachu2333/sdsmu_welcome_tex)|《山东第二医科大学指南》Latex版本，生活手册与新生指南一体化｜原docx版本由“山东第二医科大学频道”接手更新，属于本文的分叉（Fork）关系，互不干扰。|4|2024-08-04|
+|154|[Poker-sang/Notes](https://github.com/Poker-sang/Notes)|高中以来所有的学习笔记|5|2024-08-02|
+|155|[andy123t/zhbook](https://github.com/andy123t/zhbook)|zhbook 中文书籍 LaTeX 模板|5|2024-02-27|
+|156|[blanche07/ecust-master-thesis-latex](https://github.com/blanche07/ecust-master-thesis-latex)|华东理工大学硕士学位论文Latex模板|4|2024-06-04|
+|157|[SeaHI-Robot/SUSTechThesis2024MEE](https://github.com/SeaHI-Robot/SUSTechThesis2024MEE)|南方科技大学本科生毕业论文 LaTeX 模板 - 2024非官方机械系模板|4|2024-06-21|
+|158|[ChambersXDU/xduts_demo](https://github.com/ChambersXDU/xduts_demo)|提供一份稍完整的xduts参考示例，供西电学子入门xduts使用|4|2024-04-17|
+|159|[yinguoweiOvO/CQUThesis_20242024](https://github.com/yinguoweiOvO/CQUThesis_20242024)|重庆大学毕业论文Latex模板（修改版）|4|2024-03-31|
+|160|[Mikachu2333/sdsmu_welcome_tex](https://github.com/Mikachu2333/sdsmu_welcome_tex)|《山东第二医科大学指南》Latex版本，生活手册与新生指南一体化｜原docx版本由“山东第二医科大学频道”接手更新，属于本文的分叉（Fork）关系，互不干扰。|4|2024-08-05|
+|161|[cppHusky/cppHusky-cpp-Tutorial](https://github.com/cppHusky/cppHusky-cpp-Tutorial)|C++哈氏教程|4|2024-02-08|
 |162|[MobtgZhang/sues-mm](https://github.com/MobtgZhang/sues-mm)|上海工程技术大学校级数学建模竞赛论文模板|4|2024-05-02|
 |163|[ReichtumQian/NotesOnAdvancedAlgebra](https://github.com/ReichtumQian/NotesOnAdvancedAlgebra)|高等代数中文笔记|4|2024-03-20|
 |164|[XiangyunHuang/msg2nd](https://github.com/XiangyunHuang/msg2nd)|:book: 现代统计图形（第二版） Modern Statistical Graphics (Second Edition)|4|2024-07-02|
@@ -179,14 +179,13 @@
 |172|[gufandf/MC-text2book](https://github.com/gufandf/MC-text2book)|将大量文本转为我的世界中的成书，支持修改书名与署名。|3|2024-04-05|
 |173|[Trikim-Zhang/Principles-and-Practice-of-Artificial-Intelligence](https://github.com/Trikim-Zhang/Principles-and-Practice-of-Artificial-Intelligence)|nudt人工智能原理与实践复习资料|3|2024-07-27|
 |174|[LeoJhonSong/UCAS-Dissertation](https://github.com/LeoJhonSong/UCAS-Dissertation)|国科大硕士/博士学位论文LeTeX模板, 以《中国科学院大学研究生学位论文撰写规范指导意见》(校发学位字[2022]40号, 附件1) 作为撰写要求|3|2024-07-24|
-|175|[cppHusky/cppHusky-cpp-Tutorial](https://github.com/cppHusky/cppHusky-cpp-Tutorial)|C++哈氏教程|3|2024-02-08|
-|176|[ZhihengNing/LaTex-template](https://github.com/ZhihengNing/LaTex-template)|自用LaTex模板，主要用来编写数学解答及书写论文|3|2024-06-03|
-|177|[shinyypig/HFUT-Thesis](https://github.com/shinyypig/HFUT-Thesis)|合肥工业大学本科毕业设计论文模版|3|2024-07-05|
-|178|[dutLQG/DUT-LyX](https://github.com/dutLQG/DUT-LyX)|大连理工大学博士硕士学位论文LyX/LaTeX模板|3|2024-06-09|
-|179|[boa-z/SUEP-Course](https://github.com/boa-z/SUEP-Course)|上海电力大学 电子与信息工程学院 课程共享 本科|3|2024-07-13|
-|180|[andy123t/shnubachelor](https://github.com/andy123t/shnubachelor)|上海师范大学本科毕业论文 LaTeX 模板|3|2024-02-28|
-|181|[ReichtumQian/NotesOnMathematicalAnalysis](https://github.com/ReichtumQian/NotesOnMathematicalAnalysis)|数学分析中文笔记|3|2024-03-20|
-|182|[GasinAn/ForNotes](https://github.com/GasinAn/ForNotes)|Fortran 笔记|3|2024-08-04|
+|175|[ZhihengNing/LaTex-template](https://github.com/ZhihengNing/LaTex-template)|自用LaTex模板，主要用来编写数学解答及书写论文|3|2024-06-03|
+|176|[shinyypig/HFUT-Thesis](https://github.com/shinyypig/HFUT-Thesis)|合肥工业大学本科毕业设计论文模版|3|2024-07-05|
+|177|[dutLQG/DUT-LyX](https://github.com/dutLQG/DUT-LyX)|大连理工大学博士硕士学位论文LyX/LaTeX模板|3|2024-06-09|
+|178|[boa-z/SUEP-Course](https://github.com/boa-z/SUEP-Course)|上海电力大学 电子与信息工程学院 课程共享 本科|3|2024-07-13|
+|179|[andy123t/shnubachelor](https://github.com/andy123t/shnubachelor)|上海师范大学本科毕业论文 LaTeX 模板|3|2024-02-28|
+|180|[ReichtumQian/NotesOnMathematicalAnalysis](https://github.com/ReichtumQian/NotesOnMathematicalAnalysis)|数学分析中文笔记|3|2024-03-20|
+|181|[GasinAn/ForNotes](https://github.com/GasinAn/ForNotes)|Fortran 笔记|3|2024-08-04|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

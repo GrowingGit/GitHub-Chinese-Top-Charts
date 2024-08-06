@@ -1,21 +1,21 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Perl
-<sub>数据更新: 2024-08-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[jlord/git-it-electron](https://github.com/jlord/git-it-electron)|:computer: :mortar_board: Git-it is a (Mac, Win, Linux) Desktop App for Learning Git and GitHub|4643|2024-04-10|
-|2|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1257|2024-06-02|
+|2|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1258|2024-06-02|
 |3|[webmin/authentic-theme](https://github.com/webmin/authentic-theme)|Official theme for the best server management panel of the 21st Century|950|2024-08-04|
-|4|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|437|2024-07-25|
+|4|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|437|2024-08-05|
 |5|[thibaultcha/lua-resty-mlcache](https://github.com/thibaultcha/lua-resty-mlcache)|Layered caching library for OpenResty|396|2024-02-09|
 |6|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|309|2024-06-12|
-|7|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|279|2024-08-04|
+|7|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|279|2024-08-05|
 |8|[hn/reolink-camera](https://github.com/hn/reolink-camera)|Reolink RLC-410-5MP IP camera reverse engineered technical details|140|2024-02-11|
-|9|[isi-nlp/uroman](https://github.com/isi-nlp/uroman)|Universal Romanizer that can convert any unicode script to roman (latin) script|134|2024-07-26|
+|9|[isi-nlp/uroman](https://github.com/isi-nlp/uroman)|Universal Romanizer that can convert any unicode script to roman (latin) script|135|2024-07-26|
 |10|[Gilwyad/mailnesia.com](https://github.com/Gilwyad/mailnesia.com)|Anonymous Email in Seconds|102|2024-07-26|
-|11|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|95|2024-08-04|
+|11|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|95|2024-08-05|
 |12|[esrrhs/pLua](https://github.com/esrrhs/pLua)|Lua 性能分析工具 Lua profiler tool like gperftools|88|2024-04-23|
 |13|[shangshanzhizhe/Work_flow_of_population_genetics](https://github.com/shangshanzhizhe/Work_flow_of_population_genetics)|整理常用的群体遗传学分析流程和脚本|87|2024-05-30|
 |14|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|68|2024-06-14|

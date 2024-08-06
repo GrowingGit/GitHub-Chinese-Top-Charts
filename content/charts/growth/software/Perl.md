@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Perl
-<sub>数据更新: 2024-08-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -10,10 +10,10 @@
 |3|[zhy201810576/ETagCN](https://github.com/zhy201810576/ETagCN)|基于Difegue编写的E-Hentai插件进行改良，结合EhTagTranslation项目提供的数据库转换来自E-Hentai上的英文标签为中文标签。|53|0|2024-06-17|
 |4|[abbypan/Novel-Robot](https://github.com/abbypan/Novel-Robot)|download novel / forum thread, 小说/论坛下载器|5|0|2024-04-28|
 |5|[YanMing-lxb/YM-VSCode-Configurations-for-LaTeX](https://github.com/YanMing-lxb/YM-VSCode-Configurations-for-LaTeX)|一个可以让你轻松本地部署好LaTeX的项目|8|0|2024-04-05|
-|6|[isi-nlp/uroman](https://github.com/isi-nlp/uroman)|Universal Romanizer that can convert any unicode script to roman (latin) script|134|0|2024-07-26|
-|7|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|437|0|2024-07-25|
+|6|[isi-nlp/uroman](https://github.com/isi-nlp/uroman)|Universal Romanizer that can convert any unicode script to roman (latin) script|135|0|2024-07-26|
+|7|[openresty/test-nginx](https://github.com/openresty/test-nginx)|Data-driven test scaffold for Nginx C module and OpenResty Lua library development|437|0|2024-08-05|
 |8|[kbnote/slowsql-analysis](https://github.com/kbnote/slowsql-analysis)|分析mysql的慢查询可视化分析|7|0|2024-04-16|
-|9|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|279|0|2024-08-04|
+|9|[apache/spamassassin](https://github.com/apache/spamassassin)|Read-only mirror of Apache SpamAssassin. Submit patches to https://bz.apache.org/SpamAssassin/. Do not send pull requests|279|0|2024-08-05|
 |10|[webmin/authentic-theme](https://github.com/webmin/authentic-theme)|Official theme for the best server management panel of the 21st Century|950|0|2024-08-04|
 |11|[szabgab/perlmaven.com](https://github.com/szabgab/perlmaven.com)|The source files of the Perl Maven articles|68|0|2024-06-14|
 |12|[ko-ichi-h/khcoder](https://github.com/ko-ichi-h/khcoder)|KH Coder: for Quantitative Content Analysis or Text Mining|309|0|2024-06-12|
@@ -21,8 +21,8 @@
 |14|[g0v/people-in-news](https://github.com/g0v/people-in-news)|公眾人物新聞的追蹤|17|0|2024-05-04|
 |15|[hn/reolink-camera](https://github.com/hn/reolink-camera)|Reolink RLC-410-5MP IP camera reverse engineered technical details|140|0|2024-02-11|
 |16|[YoseR1cho/steamcommunity_302_V12.0.4](https://github.com/YoseR1cho/steamcommunity_302_V12.0.4)|集成多种功能steam工具箱 支持github加速|2|0|2024-07-12|
-|17|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1257|0|2024-06-02|
-|18|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|95|0|2024-08-04|
+|17|[OpenKore/openkore](https://github.com/OpenKore/openkore)|A free/open source client and automation tool for Ragnarok Online|1258|0|2024-06-02|
+|18|[duckduckgo/duckduckgo-locales](https://github.com/duckduckgo/duckduckgo-locales)|Translation files for duckduckgo.com|95|0|2024-08-05|
 |19|[esrrhs/pLua](https://github.com/esrrhs/pLua)|Lua 性能分析工具 Lua profiler tool like gperftools|88|0|2024-04-23|
 |20|[gmd20/exercises](https://github.com/gmd20/exercises)|写过一些练习或者小工具，小代码片段等|4|0|2024-05-31|
 |21|[Gilwyad/mailnesia.com](https://github.com/Gilwyad/mailnesia.com)|Anonymous Email in Seconds|102|0|2024-07-26|

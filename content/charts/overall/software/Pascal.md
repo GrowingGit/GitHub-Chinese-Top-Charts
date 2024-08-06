@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Pascal
-<sub>数据更新: 2024-08-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -22,7 +22,7 @@
 |15|[msfm2018/WinBarDock](https://github.com/msfm2018/WinBarDock)|模仿 MacOSX Dock 效率软件   打造国产 ObjectDock|18|2024-07-28|
 |16|[hkoi/hkoi-solutions](https://github.com/hkoi/hkoi-solutions)|HKOI Final Event solutions|12|2024-02-28|
 |17|[cityboat888/OnePascal](https://github.com/cityboat888/OnePascal)|OnePascal简介: OneDelphi是基于Delphi IDE开发的三层中间件， oneLaz是基于Lazaus IDE开发的三层中间件， OneUniApp是基于HBuilderX IDE开发的多端合一app 中间件支持MVC及传统DataSet框架，这个版本是在源码的基础上(放弃mormot)使用Delphi-Cross-Socket作为HTTP通讯|5|2024-04-16|
-|18|[abcjingtong/HCView_Pascal](https://github.com/abcjingtong/HCView_Pascal)|一个类似word或wps用于文字排版相关功能的控件，有Delphi、C#、Html5、C++四个版本。|5|2024-07-01|
+|18|[abcjingtong/HCView_Pascal](https://github.com/abcjingtong/HCView_Pascal)|一个类似word或wps用于文字排版相关功能的控件，有Delphi、C#、Html5、C++四个版本。|5|2024-08-05|
 |19|[axpokl/display](https://github.com/axpokl/display)|Display单元库|5|2024-06-28|
 |20|[dmznlin/mini-soft](https://github.com/dmznlin/mini-soft)|用于管理日常开发的小型系统|4|2024-04-19|
 |21|[szlbz/DataSetDelta](https://github.com/szlbz/DataSetDelta)|为lazarus增加类似delphi TClientDataSet的Delta功能|2|2024-07-06|
