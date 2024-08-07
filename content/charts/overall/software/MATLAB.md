@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-08-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10315|2024-08-05|
-|2|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|721|2024-05-28|
-|3|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|570|2024-02-24|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10325|2024-08-05|
+|2|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|722|2024-05-28|
+|3|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|571|2024-02-24|
 |4|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|335|2024-04-13|
 |5|[AlterWL/Battery_SOC_Estimation](https://github.com/AlterWL/Battery_SOC_Estimation)|Battery state of charge estimation using kalman filter in Matlab|290|2024-04-12|
-|6|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|225|2024-07-06|
+|6|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|226|2024-08-06|
 |7|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|195|2024-06-15|
 |8|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP): A MATLAB Optimization Platform for Evolutionary Multitasking|110|2024-07-30|
 |9|[sjtu-jq/Image-registration](https://github.com/sjtu-jq/Image-registration)|Registration for power equipment infrared and visible images|87|2024-06-10|
@@ -22,12 +22,12 @@
 |15|[dong-hao/EM3DVP](https://github.com/dong-hao/EM3DVP)|EM3DVP: a Visual Package for 3D Geo-Electromagnetic modeling and inversion|51|2024-07-17|
 |16|[SeveNOlogy7/SimMoLFil](https://github.com/SeveNOlogy7/SimMoLFil)|A mode-locked fiber laser simulator 锁模光纤激光器仿真|48|2024-06-25|
 |17|[chtld/Finite_Element_Method_Matlab](https://github.com/chtld/Finite_Element_Method_Matlab)|有限元方法的 matlab 实现，为了追求清晰通用，将会大大牺牲程序的效率。|44|2024-04-25|
-|18|[deltaRing/mmwave_radar_1843_generate_point_cloud](https://github.com/deltaRing/mmwave_radar_1843_generate_point_cloud)|用1843AOPEVM生成点云 初步验证应该是对的，附赠数据一枚|29|2024-06-05|
+|18|[deltaRing/mmwave_radar_1843_generate_point_cloud](https://github.com/deltaRing/mmwave_radar_1843_generate_point_cloud)|用1843AOPEVM生成点云 初步验证应该是对的，附赠数据一枚|30|2024-06-05|
 |19|[thinszx/WiFi-CSI-gait-recognition](https://github.com/thinszx/WiFi-CSI-gait-recognition)|通过WiFi信号的信道状态信息（Channel State Information, CSI）进行步态特征提取，进而实现用户识别|29|2024-06-03|
-|20|[wuc567/Pattern-Mining](https://github.com/wuc567/Pattern-Mining)|序列模式挖掘相关研究|26|2024-07-11|
+|20|[wuc567/Pattern-Mining](https://github.com/wuc567/Pattern-Mining)|序列模式挖掘相关研究|27|2024-07-11|
 |21|[FMOTs/FMOT_matlab](https://github.com/FMOTs/FMOT_matlab)|FMOT的matlab基础开发版本|25|2024-06-12|
 |22|[kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration](https://github.com/kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration)|GNSS和INS深组合的尝试，在GNSS_SDR和PSINS基础上组合得到|20|2024-07-31|
-|23|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|19|2024-08-05|
+|23|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|19|2024-08-06|
 |24|[NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate](https://github.com/NEUer02/Dynamic_Parameter_Identification_for_Rokae_xMate)|络石机械臂动力学相关算法以及仿真|18|2024-05-03|
 |25|[yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV](https://github.com/yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV)|欧拉角、四元数、旋转矩阵，迂回现象，自抗扰控制|18|2024-03-06|
 |26|[T990820/radar-communication-signal-waveform-generator](https://github.com/T990820/radar-communication-signal-waveform-generator)|本仓库的代码用于雷达/通信信号波形的仿真与时频分析|15|2024-06-21|
@@ -45,38 +45,37 @@
 |38|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Uav track collaborative planning based on pso algorithm/基于pso算法的无人机航迹协同规划|9|2024-07-09|
 |39|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|9|2024-03-25|
 |40|[iChunyu/iChunyu.github.io](https://github.com/iChunyu/iChunyu.github.io)|某春雨的后花园|9|2024-07-18|
-|41|[Joe-Hall-Lee/sxjmqf](https://github.com/Joe-Hall-Lee/sxjmqf)|数学建模清风。|8|2024-02-05|
-|42|[highskyno1/2users-CDMA-simulation](https://github.com/highskyno1/2users-CDMA-simulation)|基于MATLAB的直接序列扩频通信系统仿真|8|2024-04-15|
-|43|[linggm3/SYSU_Digital-Image-Processing](https://github.com/linggm3/SYSU_Digital-Image-Processing)|2023年中山大学计算机学院谢晓华老师的数图（数字图像处理）项目|7|2024-03-01|
-|44|[Aitherqwq/dsp_integrate_e_demo](https://github.com/Aitherqwq/dsp_integrate_e_demo)|数字信号处理大作业，语音处理|7|2024-03-16|
-|45|[Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis](https://github.com/Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis)|数字图像处理分析方法Code repository for digital image processing methods|7|2024-07-14|
-|46|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|2024-07-30|
-|47|[Trist-wood/Digital-image-processing-system](https://github.com/Trist-wood/Digital-image-processing-system)|本系统基于MATLAB 的图像处理工具箱和图形用户界面(GUI)设计与实现，构建了一个面向对象且高度可视化的图像处理操作系统，该系统实现了图像增强、图像变换、图像滤波、图像分割、边缘检测等内容|6|2024-05-25|
-|48|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|6|2024-05-21|
-|49|[flyQQQHddd/pattern-recognition](https://github.com/flyQQQHddd/pattern-recognition)|模式识别|6|2024-04-11|
-|50|[Nome2s/InSARFilter](https://github.com/Nome2s/InSARFilter)|InSAR 中经典滤波算法的实现（MATLAB & Python）|6|2024-05-01|
-|51|[123RoBin0819/Sea-clutter](https://github.com/123RoBin0819/Sea-clutter)|海杂波|5|2024-05-17|
-|52|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|5|2024-05-23|
-|53|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|5|2024-07-26|
-|54|[Maaaaark001/Easy_DPD](https://github.com/Maaaaark001/Easy_DPD)|简易的DPD算法示例|5|2024-06-27|
-|55|[AomanHao/Matlab-Image-Evaluate](https://github.com/AomanHao/Matlab-Image-Evaluate)|图像处理评价标准|5|2024-03-11|
-|56|[TkungAI/AMBD-CGE](https://github.com/TkungAI/AMBD-CGE)|基于MBD（Model-Based Design，基于模型的设计）代码生成样例。|4|2024-04-14|
-|57|[SJY411/ADRC-control-system-of-highly-dynamic-aircraft](https://github.com/SJY411/ADRC-control-system-of-highly-dynamic-aircraft)|本项目对于高动态飞行器过载控制系统，提出了基于角加速度反馈的自动驾驶仪设计方案，并设计了自抗扰控制系统。|4|2024-03-25|
-|58|[linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge](https://github.com/linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge)|2022年深圳杯数学建模挑战赛-全国第二-B题-基于用电可靠性的配电网规划模型|4|2024-03-01|
-|59|[chenwy1020/Partial-differential-equation-experiments](https://github.com/chenwy1020/Partial-differential-equation-experiments)|偏微分方程实验课的文件|4|2024-03-22|
-|60|[Silver-Fang/Parallel-Computing](https://github.com/Silver-Fang/Parallel-Computing)|埃博拉酱的并行计算工具箱|4|2024-07-25|
-|61|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|3|2024-05-23|
-|62|[ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP](https://github.com/ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP)|基于ADP算法求解微电网实时经济调度问题|3|2024-05-10|
-|63|[zhangyonggang316/ZLG_USBCAN_Simuink](https://github.com/zhangyonggang316/ZLG_USBCAN_Simuink)|创建了周立功USBCAN设备的驱动库，simulink模型可以直接添加模块，驱动硬件进行can报文的收发。|3|2024-04-28|
-|64|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|2024-05-29|
-|65|[Sunshine00001/-matlab-](https://github.com/Sunshine00001/-matlab-)|（1）设置车辆参数及其他车辆信息。 （2）系统应该能够根据输入的车辆和停车位信息，自动生成最佳路径规划方案。 （3）考虑到实际应用场景，系统应能够处理不同路况、停车位大小和停车要求等多种情况。 （4）仿真与分析，对所得结果的有效性进行验证。 （5）系统应该具备一定的健壮性和鲁棒性，能够处理异常情况并给出合理的解决方案。 （6）完善平行泊车路径规划程序，通过设计GUI界面展示泊车路径规划。|3|2024-04-08|
-|66|[DuRen1126/ECG_DeepClassfication](https://github.com/DuRen1126/ECG_DeepClassfication)|基于机器学习的心电分析疲劳检测方法研究|3|2024-03-31|
-|67|[mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM](https://github.com/mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM)|基于BO-LSTM的黄金股价预测分析 |3|2024-03-10|
-|68|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|2024-07-16|
-|69|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-06-17|
-|70|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|2024-07-30|
-|71|[yuyuliangyu/matlab-vine-copula](https://github.com/yuyuliangyu/matlab-vine-copula)|这是一个用matlab编写的vine-copula|3|2024-02-28|
-|72|[HaoyuWang141/2022-MCM-A-Finalist](https://github.com/HaoyuWang141/2022-MCM-A-Finalist)|2022年数学建模美赛(MCM/ICM) A题 F奖|3|2024-02-28|
+|41|[highskyno1/2users-CDMA-simulation](https://github.com/highskyno1/2users-CDMA-simulation)|基于MATLAB的直接序列扩频通信系统仿真|8|2024-04-15|
+|42|[linggm3/SYSU_Digital-Image-Processing](https://github.com/linggm3/SYSU_Digital-Image-Processing)|2023年中山大学计算机学院谢晓华老师的数图（数字图像处理）项目|7|2024-03-01|
+|43|[Aitherqwq/dsp_integrate_e_demo](https://github.com/Aitherqwq/dsp_integrate_e_demo)|数字信号处理大作业，语音处理|7|2024-03-16|
+|44|[Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis](https://github.com/Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis)|数字图像处理分析方法Code repository for digital image processing methods|7|2024-07-14|
+|45|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|2024-08-06|
+|46|[Trist-wood/Digital-image-processing-system](https://github.com/Trist-wood/Digital-image-processing-system)|本系统基于MATLAB 的图像处理工具箱和图形用户界面(GUI)设计与实现，构建了一个面向对象且高度可视化的图像处理操作系统，该系统实现了图像增强、图像变换、图像滤波、图像分割、边缘检测等内容|6|2024-05-25|
+|47|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|6|2024-05-21|
+|48|[flyQQQHddd/pattern-recognition](https://github.com/flyQQQHddd/pattern-recognition)|模式识别|6|2024-04-11|
+|49|[Nome2s/InSARFilter](https://github.com/Nome2s/InSARFilter)|InSAR 中经典滤波算法的实现（MATLAB & Python）|6|2024-05-01|
+|50|[123RoBin0819/Sea-clutter](https://github.com/123RoBin0819/Sea-clutter)|海杂波|5|2024-05-17|
+|51|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|5|2024-05-23|
+|52|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|5|2024-07-26|
+|53|[Maaaaark001/Easy_DPD](https://github.com/Maaaaark001/Easy_DPD)|简易的DPD算法示例|5|2024-06-27|
+|54|[AomanHao/Matlab-Image-Evaluate](https://github.com/AomanHao/Matlab-Image-Evaluate)|图像处理评价标准|5|2024-03-11|
+|55|[TkungAI/AMBD-CGE](https://github.com/TkungAI/AMBD-CGE)|基于MBD（Model-Based Design，基于模型的设计）代码生成样例。|4|2024-04-14|
+|56|[SJY411/ADRC-control-system-of-highly-dynamic-aircraft](https://github.com/SJY411/ADRC-control-system-of-highly-dynamic-aircraft)|本项目对于高动态飞行器过载控制系统，提出了基于角加速度反馈的自动驾驶仪设计方案，并设计了自抗扰控制系统。|4|2024-03-25|
+|57|[linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge](https://github.com/linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge)|2022年深圳杯数学建模挑战赛-全国第二-B题-基于用电可靠性的配电网规划模型|4|2024-03-01|
+|58|[chenwy1020/Partial-differential-equation-experiments](https://github.com/chenwy1020/Partial-differential-equation-experiments)|偏微分方程实验课的文件|4|2024-03-22|
+|59|[Silver-Fang/Parallel-Computing](https://github.com/Silver-Fang/Parallel-Computing)|埃博拉酱的并行计算工具箱|4|2024-07-25|
+|60|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|3|2024-05-23|
+|61|[ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP](https://github.com/ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP)|基于ADP算法求解微电网实时经济调度问题|3|2024-05-10|
+|62|[zhangyonggang316/ZLG_USBCAN_Simuink](https://github.com/zhangyonggang316/ZLG_USBCAN_Simuink)|创建了周立功USBCAN设备的驱动库，simulink模型可以直接添加模块，驱动硬件进行can报文的收发。|3|2024-04-28|
+|63|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|2024-05-29|
+|64|[Sunshine00001/-matlab-](https://github.com/Sunshine00001/-matlab-)|（1）设置车辆参数及其他车辆信息。 （2）系统应该能够根据输入的车辆和停车位信息，自动生成最佳路径规划方案。 （3）考虑到实际应用场景，系统应能够处理不同路况、停车位大小和停车要求等多种情况。 （4）仿真与分析，对所得结果的有效性进行验证。 （5）系统应该具备一定的健壮性和鲁棒性，能够处理异常情况并给出合理的解决方案。 （6）完善平行泊车路径规划程序，通过设计GUI界面展示泊车路径规划。|3|2024-04-08|
+|65|[DuRen1126/ECG_DeepClassfication](https://github.com/DuRen1126/ECG_DeepClassfication)|基于机器学习的心电分析疲劳检测方法研究|3|2024-03-31|
+|66|[mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM](https://github.com/mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM)|基于BO-LSTM的黄金股价预测分析 |3|2024-03-10|
+|67|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|2024-07-16|
+|68|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-06-17|
+|69|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|2024-07-30|
+|70|[yuyuliangyu/matlab-vine-copula](https://github.com/yuyuliangyu/matlab-vine-copula)|这是一个用matlab编写的vine-copula|3|2024-02-28|
+|71|[HaoyuWang141/2022-MCM-A-Finalist](https://github.com/HaoyuWang141/2022-MCM-A-Finalist)|2022年数学建模美赛(MCM/ICM) A题 F奖|3|2024-02-28|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

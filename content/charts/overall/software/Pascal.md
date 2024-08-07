@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Pascal
-<sub>数据更新: 2024-08-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -15,7 +15,7 @@
 |8|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker|114|2024-05-09|
 |9|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|54|2024-06-21|
 |10|[PassByYou888/ZNet](https://github.com/PassByYou888/ZNet)|ZNet is supported by future P2P VM, big data, cloud servers, and SAAS systems|53|2024-07-11|
-|11|[huzgd/ezdml](https://github.com/huzgd/ezdml)|Lightweight data modeling and design tool (超轻量级的数据建模表结构设计工具)|40|2024-07-13|
+|11|[huzgd/ezdml](https://github.com/huzgd/ezdml)|Lightweight data modeling and design tool (超轻量级的数据建模表结构设计工具)|41|2024-07-13|
 |12|[xenli/OneDelphi](https://github.com/xenli/OneDelphi)|OneDelphi是叫兽(FLM)QQ:378464060基于Delphi IDE开发的三层中间件，开源免费，支持MVC及传统DataSet框架，使用的是Mormot2的HTTP通讯。【OnePascal开源群】：814696487|38|2024-05-08|
 |13|[terrylao/PascalContainer](https://github.com/terrylao/PascalContainer)|advanced data structure in Pascal, include  B-Tree,B+-Tree,B*-Tree,T-Tree,HashMap,priority queue,red-black-Tree,AVL-tree,Quad-Tree,SkipList,Sortable Single Linklist,Sort Function,LockFreeQueue,nth_ele ...|38|2024-06-25|
 |14|[kewuaa/uestc_wifi_helper](https://github.com/kewuaa/uestc_wifi_helper)|电子科技大学（UESTC）校园网登录|19|2024-03-10|
