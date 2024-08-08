@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Assembly
-<sub>数据更新: 2024-08-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2169|2024-07-17|
+|1|[0xAX/asm](https://github.com/0xAX/asm)|Learning assembly for Linux x86_64|2172|2024-07-17|
 |2|[NekoSilverFox/Assembly](https://github.com/NekoSilverFox/Assembly)|⚡ 亲手编写实现基于王爽老师《汇编语言》的300个汇编程序例程   Implementation of 300 assembly program examples based on "Assembly Language" |238|2024-02-10|
 |3|[web1992/read](https://github.com/web1992/read)|学习笔记 dubbo,rocketmq 源码解析|50|2024-07-26|
 |4|[team-s2/summer_course_2023](https://github.com/team-s2/summer_course_2023)|AAA - 2023 短学期安全攻防实践开源仓库（已整合入 ctf_summer_courses）|34|2024-05-21|
@@ -15,7 +15,7 @@
 |8|[YMahmoudnia/Windows-PE-Definitive-Guide](https://github.com/YMahmoudnia/Windows-PE-Definitive-Guide)|Rewriting the Chinese book Windows PE权威指南 in Persian.|4|2024-06-14|
 |9|[susudebug/XMU_Assembly](https://github.com/susudebug/XMU_Assembly)|厦门大学信息学院计科汇编资料|3|2024-06-07|
 |10|[Tim-xiaofan/win32asm-learn](https://github.com/Tim-xiaofan/win32asm-learn)|win32汇编语言学习|3|2024-05-15|
-|11|[XuShaohua/intro-to-rust](https://github.com/XuShaohua/intro-to-rust)|Introduction to Rust - 建立 Rust 的知识体系, 理清难点.|2|2024-08-05|
+|11|[XuShaohua/intro-to-rust](https://github.com/XuShaohua/intro-to-rust)|Introduction to Rust - 建立 Rust 的知识体系, 理清难点.|2|2024-08-07|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
