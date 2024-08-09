@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Assembly
-<sub>数据更新: 2024-08-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-09&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -15,7 +15,7 @@
 |8|[YMahmoudnia/Windows-PE-Definitive-Guide](https://github.com/YMahmoudnia/Windows-PE-Definitive-Guide)|Rewriting the Chinese book Windows PE权威指南 in Persian.|4|2024-06-14|
 |9|[susudebug/XMU_Assembly](https://github.com/susudebug/XMU_Assembly)|厦门大学信息学院计科汇编资料|3|2024-06-07|
 |10|[Tim-xiaofan/win32asm-learn](https://github.com/Tim-xiaofan/win32asm-learn)|win32汇编语言学习|3|2024-05-15|
-|11|[XuShaohua/intro-to-rust](https://github.com/XuShaohua/intro-to-rust)|Introduction to Rust - 建立 Rust 的知识体系, 理清难点.|2|2024-08-07|
+|11|[XuShaohua/intro-to-rust](https://github.com/XuShaohua/intro-to-rust)|Introduction to Rust - 建立 Rust 的知识体系, 理清难点.|2|2024-08-08|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
