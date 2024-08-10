@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2024-08-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -10,7 +10,7 @@
 |3|[marlkiller/mac_patch_helper](https://github.com/marlkiller/mac_patch_helper)|一个随心所欲的 macOS Patch 工具类|18|2024-07-11|2024-04-09|
 |4|[Mrzxd/ShortVideo](https://github.com/Mrzxd/ShortVideo)|A powerful iOS short video SDK tool that considers various mobile phone performance, memory usage optimization, loading efficiency optimization, reducing CPU usage, optimizing pre loaded videos throug ...|18|2024-03-30|2024-03-26|
 |5|[iHongRen/CXYWebScript](https://github.com/iHongRen/CXYWebScript)|简化 iOS App 与 H5 交互，H5在调用时不用区分Android还是iOS，直接调用方法 window.App.onSayHello('Hello')|15|2024-04-30|2024-04-10|
-|6|[zhouxing5311/StickerViewer](https://github.com/zhouxing5311/StickerViewer)|微信表情查看器|11|2024-02-28|2024-02-27|
+|6|[zhouxing5311/StickerViewer](https://github.com/zhouxing5311/StickerViewer)|微信表情查看器|12|2024-02-28|2024-02-27|
 |7|[zmfflying/ZWKURLHandler](https://github.com/zmfflying/ZWKURLHandler)|WKWebView秒开demo|9|2024-04-20|2023-09-12|
 |8|[YuAYuyyy/YKBLock-For-iPA](https://github.com/YuAYuyyy/YKBLock-For-iPA)|udid网络验证源码，后台部分加密。弹窗源码全开源|8|2024-04-15|2024-04-10|
 |9|[long-zuyang/Lenovo-R9000P2021H-Hackintosh](https://github.com/long-zuyang/Lenovo-R9000P2021H-Hackintosh)|拯救者R9000P2021H黑苹果EFI|7|2024-06-19|2024-04-03|
@@ -23,7 +23,7 @@
 |16|[oceanengine/bda_signal_sdk](https://github.com/oceanengine/bda_signal_sdk)|激活SDK-iOS|3|2024-04-26|2023-09-12|
 |17|[dosedo/BLVideoPlayer](https://github.com/dosedo/BLVideoPlayer)|BLVideoPlayer是一款swift实现的、具有亮度调节、音量调节、拖动快进、横竖屏切换以及竖屏时上下滑动切换视频的功能，代码封装在framework中，方便调用|3|2024-07-04|2023-09-03|
 |18|[QuintGao/GKLivePhotoManager](https://github.com/QuintGao/GKLivePhotoManager)|livePhoto处理工具类|2|2024-07-02|2024-06-27|
-|19|[CocoaJiang/XJButton](https://github.com/CocoaJiang/XJButton)|一个解放你所有烦恼的Button 支持链式调用，支持渐变+各个方向的圆角，支持block回调事件，支持图片和文字的距离调整，支持增加点击范围，支持内边距|2|2024-08-07|2024-06-19|
+|19|[CocoaJiang/XJButton](https://github.com/CocoaJiang/XJButton)|一个解放你所有烦恼的Button 支持链式调用，支持渐变+各个方向的圆角，支持block回调事件，支持图片和文字的距离调整，支持增加点击范围，支持内边距|2|2024-08-09|2024-06-19|
 |20|[MediaBox-AUIKits/AUIShortEpisode](https://github.com/MediaBox-AUIKits/AUIShortEpisode)|阿里云 · AUI Kits 短剧播放场景|2|2024-07-04|2024-05-13|
 |21|[acodeworker/VoiceAnimation](https://github.com/acodeworker/VoiceAnimation)|仿文心一言语音动效|2|2024-04-17|2024-04-17|
 |22|[dvlpCrack/CQAppPassword_dylib](https://github.com/dvlpCrack/CQAppPassword_dylib)|一个进入app需要密码的动态库|2|2024-04-11|2024-04-10|
