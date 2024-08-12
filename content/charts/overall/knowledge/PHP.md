@@ -1,29 +1,29 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > PHP
-<sub>数据更新: 2024-08-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|Sample code for several design patterns in PHP 8.x|21805|2024-06-11|
+|1|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|Sample code for several design patterns in PHP 8.x|21806|2024-06-11|
 |2|[easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money)|程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate|16852|2024-03-28|
 |3|[helloqingfeng/Awsome-Front-End-learning-resource](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource)|:octocat:GitHub最全的前端资源汇总仓库（包括前端学习、开发资源、求职面试等）|9332|2024-03-16|
-|4|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|3498|2024-02-20|
-|5|[freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout)|FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)|2823|2024-08-08|
-|6|[easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0)|《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。|2672|2024-07-19|
+|4|[mashirozx/sakura](https://github.com/mashirozx/sakura)|A Wonderful WordPress Theme: 樱花庄的白猫博客主题|3501|2024-02-20|
+|5|[freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout)|FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)|2826|2024-08-11|
+|6|[easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0)|《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。|2673|2024-07-19|
 |7|[wususu/effective-resourses](https://github.com/wususu/effective-resourses)| :book:学习资源整合|2641|2024-05-29|
-|8|[ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF)|【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！|2004|2024-08-10|
+|8|[ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF)|【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！|2005|2024-08-11|
 |9|[codehub666/94list](https://github.com/codehub666/94list)|百度网盘分享链接分析渲染列表辅助下载开源程序|1766|2024-08-02|
 |10|[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)|A list of ICs and IPs for AI, Machine Learning and Deep Learning.|1620|2024-06-05|
-|11|[a3vilc0de/PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict)|渗透测试工作中经常使用的字典集合|1521|2024-07-27|
+|11|[a3vilc0de/PentesterSpecialDict](https://github.com/a3vilc0de/PentesterSpecialDict)|渗透测试工作中经常使用的字典集合|1522|2024-07-27|
 |12|[xiebruce/PicUploader](https://github.com/xiebruce/PicUploader)|一个还不错的图床工具，支持Mac/Win/Linux服务器、支持压缩后上传、添加图片或文字水印、多文件同时上传、同时上传到多个云、右击任意文件上传、快捷键上传剪贴板截图、Web版上传、支持作为Mweb/Typora发布图片接口、作为PicGo/ShareX/uPic等的自定义图床，支持在服务器上部署作为图床接口，支持上传任意格式文件。|1183|2024-02-13|
 |13|[xianyunyh/PHP-Interview](https://github.com/xianyunyh/PHP-Interview)|This is the information I prepared for the PHP interview.The notes include PHP, MySql, Linux, etc.|1183|2024-03-08|
 |14|[dedemao/weixinPay](https://github.com/dedemao/weixinPay)|微信支付单文件版。一个PHP文件搞定微信支付系列。包括原生支付（扫码支付），H5支付，公众号支付，现金红包、企业付款到零钱等。新增V3版。|1148|2024-04-29|
 |15|[opensource-socialnetwork/opensource-socialnetwork](https://github.com/opensource-socialnetwork/opensource-socialnetwork)|Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who s ...|1059|2024-07-07|
 |16|[zelon88/HRConvert2](https://github.com/zelon88/HRConvert2)|A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 445 file formats in 13 languages.|989|2024-06-11|
-|17|[zblogcn/zblogphp](https://github.com/zblogcn/zblogphp)|Z-BlogPHP博客程序|803|2024-08-03|
-|18|[liaocp666/Jasmine](https://github.com/liaocp666/Jasmine)|A Typecho Theme. 一款 Typecho 主题。专为博客类网站开发，响应式设计，在移动端也有不错体验。主要使用白、灰、黑三种配色，整体简洁、精致、美观。|656|2024-07-25|
-|19|[zhuige-com/jiangqie_kafei](https://github.com/zhuige-com/jiangqie_kafei)|酱茄小程序开源版，基于WordPress的微信小程序，适用于博客小程序和新闻资讯小程序。|575|2024-07-17|
+|17|[zblogcn/zblogphp](https://github.com/zblogcn/zblogphp)|Z-BlogPHP博客程序|802|2024-08-03|
+|18|[liaocp666/Jasmine](https://github.com/liaocp666/Jasmine)|A Typecho Theme. 一款 Typecho 主题。专为博客类网站开发，响应式设计，在移动端也有不错体验。主要使用白、灰、黑三种配色，整体简洁、精致、美观。|655|2024-07-25|
+|19|[zhuige-com/jiangqie_kafei](https://github.com/zhuige-com/jiangqie_kafei)|酱茄小程序开源版，基于WordPress的微信小程序，适用于博客小程序和新闻资讯小程序。|576|2024-07-17|
 |20|[yeszao/fastphp](https://github.com/yeszao/fastphp)|最简洁易懂的PHP MVC框架入门教程|315|2024-05-28|
 |21|[ordylan/OrdylanNote](https://github.com/ordylan/OrdylanNote)|Welcome to ON, a php-based webpage notebook with a variety of games.|258|2024-08-04|
 |22|[lu2ker/PHP-Code](https://github.com/lu2ker/PHP-Code)|通过ThinkPHP框架学习PHP代码审计|233|2024-06-19|

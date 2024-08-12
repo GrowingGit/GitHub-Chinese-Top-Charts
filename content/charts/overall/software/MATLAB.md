@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-08-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -10,9 +10,9 @@
 |3|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|571|2024-02-24|
 |4|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|337|2024-04-13|
 |5|[AlterWL/Battery_SOC_Estimation](https://github.com/AlterWL/Battery_SOC_Estimation)|Battery state of charge estimation using kalman filter in Matlab|291|2024-04-12|
-|6|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|227|2024-08-09|
+|6|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|227|2024-08-11|
 |7|[lyc102/ifem](https://github.com/lyc102/ifem)|iFEM is a MATLAB software package containing robust, efficient, and easy-following codes for the main building blocks of adaptive finite element methods on unstructured simplicial grids in both two an ...|195|2024-06-15|
-|8|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP): A MATLAB Optimization Platform for Evolutionary Multitasking|110|2024-07-30|
+|8|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP): A MATLAB Optimization Platform for Evolutionary Multitasking|111|2024-08-11|
 |9|[sjtu-jq/Image-registration](https://github.com/sjtu-jq/Image-registration)|Registration for power equipment infrared and visible images|87|2024-06-10|
 |10|[ECheynet/SEIR](https://github.com/ECheynet/SEIR)|Generalized SEIR Epidemic Model (fitting and computation)|84|2024-04-11|
 |11|[mingsongli/acycle](https://github.com/mingsongli/acycle)|Acycle: Time-series analysis software for research and education|76|2024-03-20|
@@ -32,7 +32,7 @@
 |25|[T990820/radar-communication-signal-waveform-generator](https://github.com/T990820/radar-communication-signal-waveform-generator)|本仓库的代码用于雷达/通信信号波形的仿真与时频分析|15|2024-06-21|
 |26|[YunYang255/intelligent-method-for-digital-control](https://github.com/YunYang255/intelligent-method-for-digital-control)|用matlab完成了可以读取dxf文件然后生成相关的加工代码的功能,还可以输入加工代码(.txt)生成相关的加工路线(2D和3D),程序还可以监控刀具和胚料是否干涉以及刀具的加工状态|14|2024-06-09|
 |27|[brian09088/NB-IoT-support-for-NTN](https://github.com/brian09088/NB-IoT-support-for-NTN)|5G NB-IoT support NTN 非地面網路(衛星通訊)|14|2024-07-22|
-|28|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|13|2024-08-08|
+|28|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|13|2024-08-11|
 |29|[LeonYew-SWPU/VLPR-Based-On-MATLAB](https://github.com/LeonYew-SWPU/VLPR-Based-On-MATLAB)|基于 MATLAB 的车牌识别系统，数字图像处理期末大作业。|12|2024-05-06|
 |30|[fkby48/Image-Processing-by-DWT](https://github.com/fkby48/Image-Processing-by-DWT)|使用小波变换对图像进行处理，包括图像融合、图像降噪、图像压缩和图像隐藏（Using wavelet transform for image processing, including image fusion, image denoising, image compression, and image hiding）|12|2024-05-13|
 |31|[linggm3/2023_CUMCM_National-First-Prize](https://github.com/linggm3/2023_CUMCM_National-First-Prize)|2023年高教社杯全国大学生数学建模竞赛-本科组全国一等奖-A题-定日镜场优化设计模型|11|2024-03-01|
@@ -65,18 +65,20 @@
 |58|[yuyuliangyu/matlab-vine-copula](https://github.com/yuyuliangyu/matlab-vine-copula)|这是一个用matlab编写的vine-copula|4|2024-02-28|
 |59|[chenwy1020/Partial-differential-equation-experiments](https://github.com/chenwy1020/Partial-differential-equation-experiments)|偏微分方程实验课的文件|4|2024-03-22|
 |60|[Silver-Fang/Parallel-Computing](https://github.com/Silver-Fang/Parallel-Computing)|埃博拉酱的并行计算工具箱|4|2024-07-25|
-|61|[nextpilot/nextpilot-simulink-toolbox](https://github.com/nextpilot/nextpilot-simulink-toolbox)|一套基于MATLAB/Simulink飞控系统开发工具箱|3|2024-08-05|
-|62|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|3|2024-05-23|
-|63|[ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP](https://github.com/ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP)|基于ADP算法求解微电网实时经济调度问题|3|2024-05-10|
-|64|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|2024-05-29|
-|65|[Sunshine00001/-matlab-](https://github.com/Sunshine00001/-matlab-)|（1）设置车辆参数及其他车辆信息。 （2）系统应该能够根据输入的车辆和停车位信息，自动生成最佳路径规划方案。 （3）考虑到实际应用场景，系统应能够处理不同路况、停车位大小和停车要求等多种情况。 （4）仿真与分析，对所得结果的有效性进行验证。 （5）系统应该具备一定的健壮性和鲁棒性，能够处理异常情况并给出合理的解决方案。 （6）完善平行泊车路径规划程序，通过设计GUI界面展示泊车路径规划。|3|2024-04-08|
-|66|[DuRen1126/ECG_DeepClassfication](https://github.com/DuRen1126/ECG_DeepClassfication)|基于机器学习的心电分析疲劳检测方法研究|3|2024-03-31|
-|67|[mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM](https://github.com/mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM)|基于BO-LSTM的黄金股价预测分析 |3|2024-03-10|
-|68|[XDUgaile/2024ICM_D](https://github.com/XDUgaile/2024ICM_D)|2024美赛 ICM D题|3|2024-05-04|
-|69|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|2024-07-16|
-|70|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-06-17|
-|71|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|2024-07-30|
-|72|[HaoyuWang141/2022-MCM-A-Finalist](https://github.com/HaoyuWang141/2022-MCM-A-Finalist)|2022年数学建模美赛(MCM/ICM) A题 F奖|3|2024-02-28|
+|61|[LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data](https://github.com/LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data)|高密度电法原始数据平滑Matlab程序|3|2024-08-11|
+|62|[nextpilot/nextpilot-simulink-toolbox](https://github.com/nextpilot/nextpilot-simulink-toolbox)|一套基于MATLAB/Simulink飞控系统开发工具箱|3|2024-08-05|
+|63|[pigeonLCY/2023CUMCM](https://github.com/pigeonLCY/2023CUMCM)|基于计算几何的海域地形分析及多波束测深优化模型|3|2024-06-05|
+|64|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|3|2024-05-23|
+|65|[ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP](https://github.com/ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP)|基于ADP算法求解微电网实时经济调度问题|3|2024-05-10|
+|66|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|2024-05-29|
+|67|[Sunshine00001/-matlab-](https://github.com/Sunshine00001/-matlab-)|（1）设置车辆参数及其他车辆信息。 （2）系统应该能够根据输入的车辆和停车位信息，自动生成最佳路径规划方案。 （3）考虑到实际应用场景，系统应能够处理不同路况、停车位大小和停车要求等多种情况。 （4）仿真与分析，对所得结果的有效性进行验证。 （5）系统应该具备一定的健壮性和鲁棒性，能够处理异常情况并给出合理的解决方案。 （6）完善平行泊车路径规划程序，通过设计GUI界面展示泊车路径规划。|3|2024-04-08|
+|68|[DuRen1126/ECG_DeepClassfication](https://github.com/DuRen1126/ECG_DeepClassfication)|基于机器学习的心电分析疲劳检测方法研究|3|2024-03-31|
+|69|[mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM](https://github.com/mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM)|基于BO-LSTM的黄金股价预测分析 |3|2024-03-10|
+|70|[XDUgaile/2024ICM_D](https://github.com/XDUgaile/2024ICM_D)|2024美赛 ICM D题|3|2024-05-04|
+|71|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|2024-07-16|
+|72|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-06-17|
+|73|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|2024-07-30|
+|74|[HaoyuWang141/2022-MCM-A-Finalist](https://github.com/HaoyuWang141/2022-MCM-A-Finalist)|2022年数学建模美赛(MCM/ICM) A题 F奖|3|2024-02-28|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

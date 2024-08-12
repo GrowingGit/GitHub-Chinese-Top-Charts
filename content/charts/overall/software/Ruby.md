@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Ruby
-<sub>数据更新: 2024-08-11&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6454|2024-08-08|
-|2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3783|2024-08-02|
-|3|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3401|2024-08-04|
+|1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6456|2024-08-10|
+|2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3784|2024-08-02|
+|3|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3401|2024-08-11|
 |4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2576|2024-04-30|
 |5|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|2181|2024-08-02|
 |6|[thredded/thredded](https://github.com/thredded/thredded)|The best Rails forums engine ever.|1554|2024-07-21|
-|7|[remote-jp/remote-in-japan](https://github.com/remote-jp/remote-in-japan)|Tech companies in Japan that hire remote workers.|1489|2024-08-09|
+|7|[remote-jp/remote-in-japan](https://github.com/remote-jp/remote-in-japan)|Tech companies in Japan that hire remote workers.|1490|2024-08-09|
 |8|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1455|2024-08-04|
 |9|[Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1308|2024-06-03|
 |10|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |1144|2024-06-15|
@@ -20,11 +20,11 @@
 |13|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps|1055|2024-08-10|
 |14|[PGYER/fir-cli](https://github.com/PGYER/fir-cli)|fir.im(betaqr.com) command-line interface|1049|2024-06-12|
 |15|[floere/phony](https://github.com/floere/phony)|E164 international phone number normalizing, splitting, formatting. |1003|2024-08-07|
-|16|[urbanadventurer/username-anarchy](https://github.com/urbanadventurer/username-anarchy)|Username tools for penetration testing|756|2024-08-01|
+|16|[urbanadventurer/username-anarchy](https://github.com/urbanadventurer/username-anarchy)|Username tools for penetration testing|757|2024-08-01|
 |17|[podigee/device_detector](https://github.com/podigee/device_detector)|DeviceDetector is a precise and fast user agent parser and device detector written in Ruby|740|2024-07-03|
 |18|[twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb)|Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.|669|2024-04-28|
-|19|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|645|2024-08-02|
-|20|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|640|2024-08-04|
+|19|[Cute-Dress/Dress](https://github.com/Cute-Dress/Dress)|好耶 是女装   备份·接受PR|645|2024-08-04|
+|20|[daqing/rabel](https://github.com/daqing/rabel)|An open-source web forum built on the Ruby on Rails framework.|645|2024-08-02|
 |21|[winezer0/whatweb-plus](https://github.com/winezer0/whatweb-plus)|whatweb 增强版  8000+插件（提供windows可执行文件）|587|2024-05-08|
 |22|[diasks2/pragmatic_segmenter](https://github.com/diasks2/pragmatic_segmenter)|Pragmatic Segmenter is a rule-based sentence boundary detection gem that works out-of-the-box across many languages.|539|2024-06-11|
 |23|[joshlarsen/aws-recon](https://github.com/joshlarsen/aws-recon)|Multi-threaded AWS inventory collection tool with a focus on security-relevant resources and metadata.|516|2024-04-10|
@@ -33,7 +33,7 @@
 |26|[lairdubois/lairdubois-opencutlist-sketchup-extension](https://github.com/lairdubois/lairdubois-opencutlist-sketchup-extension)|OpenCutList is a SketchUp Extension for automating the generation of cut lists for woodworking projects.|419|2024-08-07|
 |27|[dbkangaroo/kangaroo](https://github.com/dbkangaroo/kangaroo)|DBKangaroo's official repo for issue tracker and I18N|350|2024-06-11|
 |28|[jpmobile/jpmobile](https://github.com/jpmobile/jpmobile)|A Rails plugin for Japanese mobile-phones|319|2024-08-10|
-|29|[YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby)|A Ruby port of Puppeteer|277|2024-04-05|
+|29|[YusukeIwaki/puppeteer-ruby](https://github.com/YusukeIwaki/puppeteer-ruby)|A Ruby port of Puppeteer|277|2024-08-11|
 |30|[mifunetoshiro/kanjium](https://github.com/mifunetoshiro/kanjium)|The ultimate kanji resource|275|2024-06-16|
 |31|[infused/dbf](https://github.com/infused/dbf)|DBF is a small, fast Ruby library for reading dBase, xBase, Clipper, and FoxPro database files.|260|2024-05-02|
 |32|[didww/credit_card_validations](https://github.com/didww/credit_card_validations)|:credit_card: ruby gem for validating credit card numbers, generating valid numbers, luhn checks|229|2024-08-10|
@@ -59,7 +59,7 @@
 |52|[HugoHasenbein/redmine_more_previews](https://github.com/HugoHasenbein/redmine_more_previews)|Redmine plugin to preview various file types in redmine's preview pane|46|2024-03-16|
 |53|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|42|2024-08-08|
 |54|[Tabll/gemnasium-db](https://github.com/Tabll/gemnasium-db)|GitLab 依赖项扫描的咨询数据库，每天17:00自动更新|41|2024-08-03|
-|55|[Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese)|🀄️咱自己人的软件🏮咱自己人的仓库🧧|32|2024-08-10|
+|55|[Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese)|🀄️咱自己人的软件🏮咱自己人的仓库🧧|32|2024-08-11|
 |56|[cxr0715/cocoapods-TSPodfileTimeWatch](https://github.com/cxr0715/cocoapods-TSPodfileTimeWatch)|统计podfile每个pod的下载耗时|29|2024-08-02|
 |57|[pdcodeunder/cocoapods-ppbuild](https://github.com/pdcodeunder/cocoapods-ppbuild)|iOS pod库预编译静态库，提高编译速度|28|2024-08-02|
 |58|[mika-cn/maoxian-assistant](https://github.com/mika-cn/maoxian-assistant)|-|27|2024-05-20|
