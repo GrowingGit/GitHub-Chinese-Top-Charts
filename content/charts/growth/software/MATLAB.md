@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-08-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10329|295|2024-08-05|
-|2|[LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data](https://github.com/LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data)|高密度电法原始数据平滑Matlab程序|3|2|2024-08-11|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10331|287|2024-08-05|
+|2|[LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data](https://github.com/LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data)|高密度电法原始数据平滑Matlab程序|3|1|2024-08-11|
 |3|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|723|1|2024-05-28|
 |4|[TkungAI/AMBD-CGE](https://github.com/TkungAI/AMBD-CGE)|基于MBD（Model-Based Design，基于模型的设计）代码生成样例。|5|0|2024-04-14|
 |5|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|6|0|2024-05-21|
@@ -21,8 +21,8 @@
 |14|[chenwy1020/Partial-differential-equation-experiments](https://github.com/chenwy1020/Partial-differential-equation-experiments)|偏微分方程实验课的文件|4|0|2024-03-22|
 |15|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|9|0|2024-03-25|
 |16|[ECheynet/SEIR](https://github.com/ECheynet/SEIR)|Generalized SEIR Epidemic Model (fitting and computation)|84|0|2024-04-11|
-|17|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|227|0|2024-08-11|
-|18|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|19|0|2024-08-09|
+|17|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|227|0|2024-08-12|
+|18|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|19|0|2024-08-12|
 |19|[chtld/Finite_Element_Method_Matlab](https://github.com/chtld/Finite_Element_Method_Matlab)|有限元方法的 matlab 实现，为了追求清晰通用，将会大大牺牲程序的效率。|44|0|2024-04-25|
 |20|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|0|2024-07-16|
 |21|[zhyantao/GA-shortest_path](https://github.com/zhyantao/GA-shortest_path)|遗传算法解决最短路径问题（两个出发点）|11|0|2024-07-04|

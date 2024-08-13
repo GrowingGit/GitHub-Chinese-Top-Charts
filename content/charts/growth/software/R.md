@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2024-08-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[TullyMonster/MendelRookie](https://github.com/TullyMonster/MendelRookie)|新手友好的孟德尔随机化项目|117|1|2024-04-26|
+|1|[TullyMonster/MendelRookie](https://github.com/TullyMonster/MendelRookie)|新手友好的孟德尔随机化项目|118|1|2024-04-26|
 |2|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1765|1|2024-07-22|
 |3|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|64|0|2024-07-02|
 |4|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|40|0|2024-06-17|
@@ -29,7 +29,7 @@
 |22|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|604|0|2024-07-30|
 |23|[gee-hydro/gee_whittaker_kong2019_validation](https://github.com/gee-hydro/gee_whittaker_kong2019_validation)|Non-parametric weighted Whittaker smoothing|32|0|2024-04-11|
 |24|[l-ramirez-lopez/resemble](https://github.com/l-ramirez-lopez/resemble)|resemble is an R package which implements functions dedicated to non-linear modelling of complex spectroscopy data|20|0|2024-02-16|
-|25|[gesistsa/sweater](https://github.com/gesistsa/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|27|0|2024-06-19|
+|25|[gesistsa/sweater](https://github.com/gesistsa/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|27|0|2024-08-12|
 |26|[koheiw/newsmap](https://github.com/koheiw/newsmap)|Semi-supervised algorithm for geographical document classification|58|0|2024-06-11|
 |27|[atmoschem/vein](https://github.com/atmoschem/vein)| R+Fortran+OpenMP package to estimate Vehicular Emissions INventories VEIN. |43|0|2024-07-24|
 |28|[nanxstats/liftr](https://github.com/nanxstats/liftr)|🐳 Containerize R Markdown documents for continuous reproducibility|170|0|2024-03-11|
@@ -41,7 +41,7 @@
 |34|[davidycliao/legisTaiwan](https://github.com/davidycliao/legisTaiwan)|legisTaiwan: An Interface to Access Taiwan Legislative API in R 台灣立法院國會系統 API |23|0|2024-02-25|
 |35|[haozhu233/kableExtra](https://github.com/haozhu233/kableExtra)|Construct Complex Table with knitr::kable() + pipe. |684|0|2024-07-10|
 |36|[Merck/r2rtf](https://github.com/Merck/r2rtf)|Easily Create Production-Ready Rich Text Format (RTF) Table and Figure|76|0|2024-07-24|
-|37|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|188|0|2024-08-11|
+|37|[ChiLiubio/microeco](https://github.com/ChiLiubio/microeco)|An R package for data analysis in microbial community ecology|188|0|2024-08-12|
 |38|[vincentarelbundock/WDI](https://github.com/vincentarelbundock/WDI)|R package to download World Bank data|205|0|2024-08-11|
 |39|[openbiox/UCSCXenaShiny](https://github.com/openbiox/UCSCXenaShiny)|📊 An R package for interactively exploring UCSC Xena https://xenabrowser.net/datapages/; Book: https://lishensuo.github.io/UCSCXenaShiny_Book; App online: https://shiny.hiplot.cn/ucsc-xena-shiny/, htt ...|84|0|2024-08-07|
 |40|[sstoeckl/crypto2](https://github.com/sstoeckl/crypto2)|Cryptocurrency Market Data|53|0|2024-07-02|
@@ -55,7 +55,7 @@
 |48|[psychbruce/bruceR](https://github.com/psychbruce/bruceR)|📦 BRoadly Useful Convenient and Efficient R functions that BRing Users Concise and Elegant R data analyses.|158|0|2024-06-16|
 |49|[ShixiangWang/sigminer](https://github.com/ShixiangWang/sigminer)|🌲 An easy-to-use and scalable toolkit for genomic alteration signature (a.k.a. mutational signature) analysis and visualization in R https://shixiangwang.github.io/sigminer/reference/index.html|140|0|2024-08-04|
 |50|[reconhub/epicontacts](https://github.com/reconhub/epicontacts)|Handling, Visualisation and Analysis of Epidemiological Contacts|15|0|2024-04-29|
-|51|[zumbov2/deeplr](https://github.com/zumbov2/deeplr)|An R wrapper for the DeepL Translator API|39|0|2024-03-28|
+|51|[zumbov2/deeplr](https://github.com/zumbov2/deeplr)|An R wrapper for the DeepL Translator API|40|0|2024-03-28|
 |52|[seroanalytics/serosolver](https://github.com/seroanalytics/serosolver)|Inference framework for serological data|16|0|2024-07-30|
 |53|[CBIIT/LDlinkR](https://github.com/CBIIT/LDlinkR)|LDlinkR|53|0|2024-04-17|
 |54|[caf-ifrit/forestat](https://github.com/caf-ifrit/forestat)|forestat: Forest Carbon Sequestration and Potential Productivity Calculation 森林碳汇计量和潜力计算|10|0|2024-02-20|

@@ -1,38 +1,38 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Jupyter Notebook
-<sub>数据更新: 2024-08-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[01-ai/Yi](https://github.com/01-ai/Yi)|A series of large language models trained from scratch by developers @01-ai|7548|2024-08-09|2023-11-03|
-|2|[datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)|《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程|7152|2024-08-09|2023-11-16|
-|3|[datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe)|本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/|4067|2024-08-10|2023-10-29|
+|1|[01-ai/Yi](https://github.com/01-ai/Yi)|A series of large language models trained from scratch by developers @01-ai|7550|2024-08-09|2023-11-03|
+|2|[datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)|《开源大模型食用指南》基于Linux环境快速部署开源大模型，更适合中国宝宝的部署教程|7172|2024-08-09|2023-11-16|
+|3|[datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe)|本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/|4079|2024-08-12|2023-10-29|
 |4|[YangLing0818/RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster)|[ICML 2024] Mastering Text-to-Image Diffusion: Recaptioning, Planning, and Generating with Multimodal LLMs (PRG)|1630|2024-07-31|2024-01-22|
-|5|[huggingface/cookbook](https://github.com/huggingface/cookbook)|Open-source AI cookbook|1554|2024-08-09|2023-11-24|
-|6|[microsoft/Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook)|This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) availab ...|1525|2024-08-10|2024-05-07|
-|7|[WTFAcademy/WTF-zk](https://github.com/WTFAcademy/WTF-zk)|零知识证明入门教程。Comprehensive Zero-Knowledge Proofs Tutorial. #zk #WIP|1405|2024-08-07|2023-11-29|
+|5|[huggingface/cookbook](https://github.com/huggingface/cookbook)|Open-source AI cookbook|1556|2024-08-12|2023-11-24|
+|6|[microsoft/Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook)|This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) availab ...|1529|2024-08-12|2024-05-07|
+|7|[WTFAcademy/WTF-zk](https://github.com/WTFAcademy/WTF-zk)|零知识证明入门教程。Comprehensive Zero-Knowledge Proofs Tutorial. #zk #WIP|1411|2024-08-12|2023-11-29|
 |8|[MetaGLM/glm-cookbook](https://github.com/MetaGLM/glm-cookbook)|Examples and guides for using the GLM APIs|688|2024-08-08|2024-01-22|
 |9|[charent/Phi2-mini-Chinese](https://github.com/charent/Phi2-mini-Chinese)|Phi2-Chinese-0.2B 从0开始训练自己的Phi2中文小模型，支持接入langchain加载本地知识库做检索增强生成RAG。Training your own Phi2 small chat model from scratch.|450|2024-07-11|2023-12-22|
-|10|[DjangoPeng/LLM-quickstart](https://github.com/DjangoPeng/LLM-quickstart)|Quick Start for Large Language Models (Theoretical Learning and Practical Fine-tuning) 大语言模型快速入门（理论学习与微调实战）|417|2024-07-09|2023-12-11|
-|11|[wdndev/llama3-from-scratch-zh](https://github.com/wdndev/llama3-from-scratch-zh)|从零实现一个 llama3 中文版|350|2024-06-12|2024-05-23|
+|10|[DjangoPeng/LLM-quickstart](https://github.com/DjangoPeng/LLM-quickstart)|Quick Start for Large Language Models (Theoretical Learning and Practical Fine-tuning) 大语言模型快速入门（理论学习与微调实战）|418|2024-07-09|2023-12-11|
+|11|[wdndev/llama3-from-scratch-zh](https://github.com/wdndev/llama3-from-scratch-zh)|从零实现一个 llama3 中文版|352|2024-06-12|2024-05-23|
 |12|[libukai/Awesome-ChatTTS](https://github.com/libukai/Awesome-ChatTTS)|官方推荐的 ChatTTS 最佳入门指南，整理和汇总了常见问题和相关资源|339|2024-06-19|2024-06-05|
-|13|[ArronAI007/Awesome-AGI](https://github.com/ArronAI007/Awesome-AGI)|AGI资料汇总学习（主要包括LLM和AIGC），持续更新......|252|2024-07-22|2023-08-22|
-|14|[WengLean/hands-on-research-tutorial](https://github.com/WengLean/hands-on-research-tutorial)|《动手做科研》面向科研初学者，一步一步地展示如何入门人工智能科研|144|2024-08-04|2024-05-07|
-|15|[aceliuchanghong/FAQ_Of_LLM_Interview](https://github.com/aceliuchanghong/FAQ_Of_LLM_Interview)|大模型算法岗面试题(含答案):常见问题和概念解析 "大模型面试题"、"算法岗面试"、"面试常见问题"、"大模型算法面试"、"大模型应用基础"|129|2024-07-31|2024-03-13|
-|16|[HEUOpenResource/heu-icicles](https://github.com/HEUOpenResource/heu-icicles)|哈尔滨工程大学课程攻略共享计划|127|2024-08-02|2024-04-13|
+|13|[ArronAI007/Awesome-AGI](https://github.com/ArronAI007/Awesome-AGI)|AGI资料汇总学习（主要包括LLM和AIGC），持续更新......|254|2024-07-22|2023-08-22|
+|14|[WengLean/hands-on-research-tutorial](https://github.com/WengLean/hands-on-research-tutorial)|《动手做科研》面向科研初学者，一步一步地展示如何入门人工智能科研|145|2024-08-12|2024-05-07|
+|15|[aceliuchanghong/FAQ_Of_LLM_Interview](https://github.com/aceliuchanghong/FAQ_Of_LLM_Interview)|大模型算法岗面试题(含答案):常见问题和概念解析 "大模型面试题"、"算法岗面试"、"面试常见问题"、"大模型算法面试"、"大模型应用基础"|131|2024-07-31|2024-03-13|
+|16|[HEUOpenResource/heu-icicles](https://github.com/HEUOpenResource/heu-icicles)|哈尔滨工程大学课程攻略共享计划|128|2024-08-02|2024-04-13|
 |17|[buluslee/DT-AI](https://github.com/buluslee/DT-AI)|这是DT-AI的学习路线开源版本，欢迎大家享用！对新手友好|126|2024-05-06|2023-08-17|
 |18|[huangjia2019/ai-agents](https://github.com/huangjia2019/ai-agents)|异步图书 大模型应用开发 动手做AI Agent|120|2024-07-04|2024-05-10|
-|19|[princepride/scratch-pytorch-step-by-step](https://github.com/princepride/scratch-pytorch-step-by-step)|教你只用最基本的python语法和numpy一步步实现深度学习框架|114|2024-08-02|2024-01-02|
-|20|[GenTang/regression2chatgpt](https://github.com/GenTang/regression2chatgpt)|《解构大语言模型：从线性回归到通用人工智能》配套代码|110|2024-08-02|2023-12-07|
+|19|[princepride/scratch-pytorch-step-by-step](https://github.com/princepride/scratch-pytorch-step-by-step)|教你只用最基本的python语法和numpy一步步实现深度学习框架|115|2024-08-02|2024-01-02|
+|20|[GenTang/regression2chatgpt](https://github.com/GenTang/regression2chatgpt)|《解构大语言模型：从线性回归到通用人工智能》配套代码|111|2024-08-02|2023-12-07|
 |21|[solidglue/Machine_Learning_Sklearn_Examples](https://github.com/solidglue/Machine_Learning_Sklearn_Examples)|机器学习Sklearn入门指南。Machine Learning Sklearn API and Examples with Python3 and Jupyter Notebook.|105|2024-05-20|2024-02-28|
 |22|[solidglue/Deep_Learning_TensorFlow2_Examples](https://github.com/solidglue/Deep_Learning_TensorFlow2_Examples)|深度学习TensorFlow2入门指南。Deep Learning TensorFlow2  API and Examples with Python3 and Jupyter Notebook.|95|2024-05-20|2024-02-27|
 |23|[Mxoder/LLM-from-scratch](https://github.com/Mxoder/LLM-from-scratch)|一些 LLM 方面的从零复现笔记|94|2024-06-09|2024-04-29|
-|24|[cfcys/nanoGPT-Tutorial-CN](https://github.com/cfcys/nanoGPT-Tutorial-CN)|更友好的nanoGPT的中文教程|70|2024-05-17|2024-04-22|
-|25|[XiaShan1227/GNN-Tutorial](https://github.com/XiaShan1227/GNN-Tutorial)|B站GNN教程资料|70|2024-04-11|2024-01-14|
-|26|[lgy0404/d2l-2023](https://github.com/lgy0404/d2l-2023)|✔️（持续更新）李沐 【动手学深度学习v2 PyTorch版】课程学习笔记，更正了AccumulateMore笔记的部分错误，从更加初级的角度做了部分内容补充|64|2024-05-10|2023-08-15|
+|24|[cfcys/nanoGPT-Tutorial-CN](https://github.com/cfcys/nanoGPT-Tutorial-CN)|更友好的nanoGPT的中文教程|71|2024-05-17|2024-04-22|
+|25|[XiaShan1227/GNN-Tutorial](https://github.com/XiaShan1227/GNN-Tutorial)|B站GNN教程资料|71|2024-04-11|2024-01-14|
+|26|[lgy0404/d2l-2023](https://github.com/lgy0404/d2l-2023)|✔️（持续更新）李沐 【动手学深度学习v2 PyTorch版】课程学习笔记，更正了AccumulateMore笔记的部分错误，从更加初级的角度做了部分内容补充|65|2024-05-10|2023-08-15|
 |27|[datawhalechina/zishu](https://github.com/datawhalechina/zishu)|wow-fullstack，令人惊叹的全栈开发教程|63|2024-07-06|2023-12-28|
-|28|[qianniucity/llm_notebooks](https://github.com/qianniucity/llm_notebooks)|AI 应用示例合集|47|2024-06-03|2024-04-25|
+|28|[qianniucity/llm_notebooks](https://github.com/qianniucity/llm_notebooks)|AI 应用示例合集|48|2024-06-03|2024-04-25|
 |29|[RealKai42/langchainjs-juejin](https://github.com/RealKai42/langchainjs-juejin)|从前端到 AI：langchain.js 入门和实战|43|2024-05-17|2024-04-25|
 |30|[windmaple/Gemma-Chinese-instruction-tuning](https://github.com/windmaple/Gemma-Chinese-instruction-tuning)|演示Gemma中文指令微调的教程|43|2024-02-26|2024-02-25|
 |31|[HITSZ-OpenAuto/PHYS1002](https://github.com/HITSZ-OpenAuto/PHYS1002)|HITSZ 大学物理实验 实验报告、数据处理及绘图程序等资料|41|2024-07-13|2023-10-02|

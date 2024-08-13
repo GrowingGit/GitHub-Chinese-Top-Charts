@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > CSS
-<sub>数据更新: 2024-08-12&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV)|📃 开箱即用的 Obsidian / Typora 简历|2502|2024-07-03|2024-03-05|
-|2|[ZYYO666/homepage](https://github.com/ZYYO666/homepage)|我的个人主页，homepage,个人引导页,简约主页,个人导航|280|2024-06-29|2024-01-11|
-|3|[shuhongfan/sl-express](https://github.com/shuhongfan/sl-express)|神领物流 黑马 物流项目 神领物流系统类似顺丰速运，是向C端用户提供快递服务的系统。竞品有：顺丰、中通、圆通、京东快递等。 项目产品主要有4端产品：  - 用户端：基于微信小程序开发，外部客户使用，可以寄件、查询物流信息等。 - 快递员端：基于安卓开发的手机APP，公司内部的快递员使用，可以接收取派件任务等。 - 司机端：基于安卓开发的手机APP，公司内部的司机使用，可以接收运输任务、上报位置信息 ...|261|2024-06-26|2023-09-04|
-|4|[Dalufishe/palserver-GUI](https://github.com/Dalufishe/palserver-GUI)|GUI support, one-click Palworld dedicated server management tool. 可視化界面，一鍵式帕魯 (Palworld) 伺服器建立、管理工具。|260|2024-08-08|2024-02-03|
+|1|[BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV)|📃 开箱即用的 Obsidian / Typora 简历|2507|2024-07-03|2024-03-05|
+|2|[ZYYO666/homepage](https://github.com/ZYYO666/homepage)|我的个人主页，homepage,个人引导页,简约主页,个人导航|284|2024-06-29|2024-01-11|
+|3|[Dalufishe/palserver-GUI](https://github.com/Dalufishe/palserver-GUI)|GUI support, one-click Palworld dedicated server management tool. 可視化界面，一鍵式帕魯 (Palworld) 伺服器建立、管理工具。|260|2024-08-12|2024-02-03|
+|4|[shuhongfan/sl-express](https://github.com/shuhongfan/sl-express)|神领物流 黑马 物流项目 神领物流系统类似顺丰速运，是向C端用户提供快递服务的系统。竞品有：顺丰、中通、圆通、京东快递等。 项目产品主要有4端产品：  - 用户端：基于微信小程序开发，外部客户使用，可以寄件、查询物流信息等。 - 快递员端：基于安卓开发的手机APP，公司内部的快递员使用，可以接收取派件任务等。 - 司机端：基于安卓开发的手机APP，公司内部的司机使用，可以接收运输任务、上报位置信息 ...|260|2024-06-26|2023-09-04|
 |5|[hamster1963/HomeDash](https://github.com/hamster1963/HomeDash)|一个仪表盘|208|2024-04-29|2023-09-17|
-|6|[chenzhen7/cz-blog](https://github.com/chenzhen7/cz-blog)|基于springboot + Thymeleaf + vue开发的 个人博客系统，包含前台和后台管理页面，（采用标准的架构设计；代码简洁、高效无冗余；注释详细易阅读），自适应手机端和电脑端，界面简洁美观，功能完善。可用做毕设、实习项目、练手项目|138|2024-08-10|2024-02-11|
+|6|[chenzhen7/cz-blog](https://github.com/chenzhen7/cz-blog)|基于springboot + Thymeleaf + vue开发的 个人博客系统，包含前台和后台管理页面，（采用标准的架构设计；代码简洁、高效无冗余；注释详细易阅读），自适应手机端和电脑端，界面简洁美观，功能完善。可用做毕设、实习项目、练手项目|140|2024-08-10|2024-02-11|
 |7|[sumruler/typora-theme-phycat](https://github.com/sumruler/typora-theme-phycat)|物理猫Typora主题|104|2024-07-26|2023-12-29|
 |8|[rootknight/Miniflux-Theme-Reeder](https://github.com/rootknight/Miniflux-Theme-Reeder)|Miniflux v2 的自定义主题 miniflux-theme-reeder（仿 Reeder）|98|2024-07-22|2024-03-17|
 |9|[roinli/HZ-AgroOS-cloud](https://github.com/roinli/HZ-AgroOS-cloud)|农业岛智慧农业系统Java版，基于Java+Vue+Uni-app开发，在微信公众号、小程序、H5移动端都能使用，代码开源，独立部署，二开很方便，能满足智慧农业气象站监控系统、智慧农业温棚监控系统、智慧农业高标准农田系统、智慧农业仓库系统、报表统计、智慧农业设备控制系统、设备物模型、大屏展示等多种经营需求，自用、做二开项目都很合适，MQTT、NETTY、EMQX。|78|2024-07-31|2023-10-05|
-|10|[juehackr/comfyui_fk_server](https://github.com/juehackr/comfyui_fk_server)|Comfyui万能翻译插件（不再需要添加各种节点,直接在原有节点上加入翻译功能），让comfyui任意长文本输入框支持中文输入并自动翻译/同时加入报错翻译功能（调用百度翻译），实现翻译自由！同时接入AI大模型实现提示词润色功能，  其它插件功能，请看插件介绍|74|2024-07-24|2024-06-14|
-|11|[chris81605/Degrees-of-Lewdity_Cheat_Extended](https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended)|Degrees-of-Lewdity 作弊拓展MOD代碼|68|2024-06-29|2023-11-21|
-|12|[Meayair/Typecho-Theme-MeaWord](https://github.com/Meayair/Typecho-Theme-MeaWord)|一款体现文字美感的极简主题|59|2024-06-04|2023-12-22|
+|10|[juehackr/comfyui_fk_server](https://github.com/juehackr/comfyui_fk_server)|Comfyui万能翻译插件（不再需要添加各种节点,直接在原有节点上加入翻译功能），让comfyui任意长文本输入框支持中文输入并自动翻译/同时加入报错翻译功能（调用百度翻译），实现翻译自由！同时接入AI大模型实现提示词润色功能，  其它插件功能，请看插件介绍|75|2024-08-12|2024-06-14|
+|11|[chris81605/Degrees-of-Lewdity_Cheat_Extended](https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended)|Degrees-of-Lewdity 作弊拓展MOD代碼|70|2024-06-29|2023-11-21|
+|12|[Meayair/Typecho-Theme-MeaWord](https://github.com/Meayair/Typecho-Theme-MeaWord)|一款体现文字美感的极简主题|60|2024-06-04|2023-12-22|
 |13|[kenyon-wong/docs](https://github.com/kenyon-wong/docs)|互联网数字垃圾回收专用废纸篓|59|2024-04-24|2023-11-02|
 |14|[OnikayokoMaVie/MomoTalkNTQQ-Theme](https://github.com/OnikayokoMaVie/MomoTalkNTQQ-Theme)|基于LiteLoaderQQNT-Telegram-Theme修改的低仿Momotalk的QQNT主题|42|2024-05-17|2023-11-04|
 |15|[XiaoNieGPT/unraid-theme](https://github.com/XiaoNieGPT/unraid-theme)|专治强迫症|41|2024-08-10|2024-04-15|
@@ -28,9 +28,9 @@
 |21|[liuran001/Roaming-SIM](https://github.com/liuran001/Roaming-SIM)|有关漫游卡的一些内容|32|2024-08-09|2023-12-20|
 |22|[telegeam/telegeam.github.io](https://github.com/telegeam/telegeam.github.io)|TG纸飞机群组 - Telegram频道导航【热门推荐】悄悄收集了6000+优质Telegram群组、频道和机器人，经过筛选，助您快速找到最合适的群组或频道！|32|2024-08-11|2023-08-15|
 |23|[zhongyang219/RibbonUiFrame](https://github.com/zhongyang219/RibbonUiFrame)|这是一个界面框架模块，实现了Ribbon风格的样式，使用xml文件配置Ribbon标签页。此框架可以将Qt或MFC/Win32程序集成到同一个应用程序中。|31|2024-06-30|2023-08-27|
-|24|[lifejwang11/SayOrder](https://github.com/lifejwang11/SayOrder)|基于easyAi实现的轻量级智能客服助手|30|2024-08-09|2024-03-21|
-|25|[Monkfishare/Calibre](https://github.com/Monkfishare/Calibre)|The Economist epub/pdf 经济学人，周四晚12:00自动更新|30|2024-04-03|2024-01-01|
-|26|[clashcross/AuroraForV2board](https://github.com/clashcross/AuroraForV2board)|Aurora For V2board 前后端分离部署，以及白嫖部署到cloudflare Workers|29|2024-04-03|2024-04-03|
+|24|[clashcross/AuroraForV2board](https://github.com/clashcross/AuroraForV2board)|Aurora For V2board 前后端分离部署，以及白嫖部署到cloudflare Workers|30|2024-04-03|2024-04-03|
+|25|[lifejwang11/SayOrder](https://github.com/lifejwang11/SayOrder)|基于easyAi实现的轻量级智能客服助手|30|2024-08-09|2024-03-21|
+|26|[Monkfishare/Calibre](https://github.com/Monkfishare/Calibre)|The Economist epub/pdf 经济学人，周四晚12:00自动更新|30|2024-04-03|2024-01-01|
 |27|[saithink/saiadmin-vue](https://github.com/saithink/saiadmin-vue)|SaiAdmin前端代码|28|2024-08-09|2024-01-18|
 |28|[VincentAzz/FirefoxCustomCSSConfig](https://github.com/VincentAzz/FirefoxCustomCSSConfig)|使用 userChrome.css 对 Firefox 进行高度自定义的主题|25|2024-04-02|2024-02-18|
 |29|[FirstUI/FirstUI-uvue](https://github.com/FirstUI/FirstUI-uvue)|FirstUI（unix）组件库，一款适配 uni-app x 的轻量、简洁、高效、全面的移动端组件库。(FirstUI (unix) component library is a lightweight, concise, efficient, and comprehensive mobile component library that is compatible with uni app x ...|21|2024-04-08|2024-01-09|
@@ -60,6 +60,10 @@
 |53|[FurryNovel/Reader](https://github.com/FurryNovel/Reader)|本项目是FurryNovel.com的前端项目|7|2024-05-14|2024-01-30|
 |54|[IShiraiKurokoI/DLUTToolBox-electron](https://github.com/IShiraiKurokoI/DLUTToolBox-electron)|DLUTToolBox全新Electron版，支持Windows、Linux、Mac OS|7|2024-05-31|2023-11-15|
 |55|[3546514206/Hexo.Github.IO](https://github.com/3546514206/Hexo.Github.IO)|个人博客系统:https://3546514206.github.io/|7|2024-07-30|2023-08-28|
+|56|[gamebe521/gamebe521.github.io](https://github.com/gamebe521/gamebe521.github.io)|游戏贝永久发布页|6|2024-07-16|2024-06-23|
+|57|[HynDuf/nixos-conf](https://github.com/HynDuf/nixos-conf)|夜 - 🌸 Yoru 🌙   My NixOS home |6|2024-08-05|2024-06-05|
+|58|[lengyibai/wztj](https://github.com/lengyibai/wztj)|🌈王者荣耀图鉴部署👾|6|2024-08-11|2024-05-22|
+|59|[xiaoshame/script](https://github.com/xiaoshame/script)|日常脚本|6|2024-07-24|2023-11-08|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
