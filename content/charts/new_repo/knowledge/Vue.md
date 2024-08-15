@@ -1,26 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2024-08-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[TyCoding/langchat](https://github.com/TyCoding/langchat)|LangChat: Java LLMs/AI Project, Supports Multi AI Providers( OpenAI / Gemini / Ollama / Azure / 智谱 / 阿里通义大模型 / 百度千帆大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用|286|2024-08-12|2024-02-08|
+|1|[TyCoding/langchat](https://github.com/TyCoding/langchat)|LangChat: Java LLMs/AI Project, Supports Multi AI Providers( OpenAI / Gemini / Ollama / Azure / 智谱 / 阿里通义大模型 / 百度千帆大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用|294|2024-08-12|2024-02-08|
 |2|[DrssXpro/waterfall-demo](https://github.com/DrssXpro/waterfall-demo)|Vue3 + TS：模仿小红书封装瀑布流组件|92|2024-05-23|2024-01-11|
 |3|[Theo-Messi/xx.theojs.cn](https://github.com/Theo-Messi/xx.theojs.cn)|玄学宝典 - 中华传统五术书籍(山医命相卜)/传世经典著作|76|2024-08-01|2023-10-18|
 |4|[bitporo/EasySend](https://github.com/bitporo/EasySend)|✨⚡️EasySend is a software that can share messages and files in LAN.  Only need open it on the host device, other devices use browser receive messages and files(局域网共享文本文件小工具，仅需一端安装，其余端使用浏览器即可)|44|2024-07-21|2024-06-10|
 |5|[Natrium0521/Firefly](https://github.com/Natrium0521/Firefly)|《崩坏：星穹铁道》流萤工具箱——成就管理、跃迁记录|41|2024-08-13|2024-03-03|
-|6|[fantastic-mobile/basic](https://github.com/fantastic-mobile/basic)|⭐⭐⭐⭐⭐ 一款自成一派的移动端 H5 框架，支持多款 UI 组件库，基于 Vue3 。移动端, H5, vant, 手机端, mobile, 模板, 商城, 微信公众号|39|2024-08-13|2024-05-29|
+|6|[fantastic-mobile/basic](https://github.com/fantastic-mobile/basic)|⭐⭐⭐⭐⭐ 一款自成一派的移动端 H5 框架，支持多款 UI 组件库，基于 Vue3 。移动端, H5, vant, 手机端, mobile, 模板, 商城, 微信公众号|40|2024-08-14|2024-05-29|
 |7|[youshandefeiyang/tools](https://github.com/youshandefeiyang/tools)|直播/点播工具集合|30|2024-06-30|2024-06-30|
 |8|[nolebase/integrations](https://github.com/nolebase/integrations)|A collection of diverse documentation engineering tools   多元化的文档工程工具合集|30|2024-03-25|2023-08-23|
 |9|[syh19/siyuan-plugin-task-list](https://github.com/syh19/siyuan-plugin-task-list)|思源笔记插件——任务列表：汇总散落在整个工作空间的任务  Siyuan Note Plugin——Task List: Summarize tasks scattered throughout your workspace|26|2024-08-09|2024-03-23|
 |10|[izhichao/vitepress-theme-minimalism](https://github.com/izhichao/vitepress-theme-minimalism)|A Minimalist VitePress Blog Theme   一个极简的 VitePress 博客主题|23|2024-08-08|2023-09-14|
 |11|[DrssXpro/virtualwaterfall-demo](https://github.com/DrssXpro/virtualwaterfall-demo)|Vue3+TS：实现小红书瀑布流虚拟列表组件|22|2024-07-14|2024-01-26|
-|12|[Alittfre/vitepress-theme-bluearchive](https://github.com/Alittfre/vitepress-theme-bluearchive)|Blue Archive主题博客，基于VitePress，绝赞画饼中|16|2024-07-17|2024-04-17|
+|12|[Alittfre/vitepress-theme-bluearchive](https://github.com/Alittfre/vitepress-theme-bluearchive)|Blue Archive主题博客，基于VitePress，绝赞画饼中|17|2024-07-17|2024-04-17|
 |13|[youngyangyang04/element-ui](https://github.com/youngyangyang04/element-ui)|【代码随想录知识星球】项目分享-ui组件库|16|2024-03-04|2024-01-17|
 |14|[jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter)|微信公众号文章导出工具，100%还原原文样式|14|2024-07-30|2024-07-17|
-|15|[opendidi/mind](https://github.com/opendidi/mind)|🔥🔥🔥 web(组态图，拓扑图，拓扑，脑图，思维导图)可视化编辑器|12|2024-07-13|2024-04-01|
-|16|[open17/vitepress-theme-open17](https://github.com/open17/vitepress-theme-open17)|一款简单美观的博客主题,继承于vitepress默认主题|12|2024-08-13|2024-03-22|
+|15|[open17/vitepress-theme-open17](https://github.com/open17/vitepress-theme-open17)|一款简单美观的博客主题,继承于vitepress默认主题|13|2024-08-13|2024-03-22|
+|16|[opendidi/mind](https://github.com/opendidi/mind)|🔥🔥🔥 web(组态图，拓扑图，拓扑，脑图，思维导图)可视化编辑器|12|2024-07-13|2024-04-01|
 |17|[yaoyaochil/WeyUI](https://github.com/yaoyaochil/WeyUI)| WeyUI是一款基于微信公众号、微信小程序、企业微信管理高度封装的UI组件库，帮助开发者更快速完成页面开发工作|12|2024-07-29|2023-09-24|
 |18|[X-X-X-X-X-X-X-X-X-X-X-X-X/Bookmark](https://github.com/X-X-X-X-X-X-X-X-X-X-X-X-X/Bookmark)|Edge/Chrome书签插件，让书签变得再次好用|12|2024-08-06|2023-09-18|
 |19|[Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft)|craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务|11|2024-08-12|2024-04-19|
@@ -48,7 +48,7 @@
 |41|[xfxaiagent/xfxai](https://github.com/xfxaiagent/xfxai)|小飞侠AI解决方案, AI办公, AI辅助, PPT转化, 生产力, 工作流程, 文档处理, 设计和演示应用, 工作效率, 任务管理, 项目管理, 办公自动化, 创意展现, 智能日程管理, 数据驱动决策, 效率提升, 创新工作方案, 实战案例分享, 优化工作流, 提高工作效率, 智能技术应用|4|2024-06-21|2024-05-31|
 |42|[course-dasheng/geektime-vue-course](https://github.com/course-dasheng/geektime-vue-course)|极客时间玩转vue课件|4|2024-07-10|2024-05-24|
 |43|[Azure12355/Medical-QASystem-front-end](https://github.com/Azure12355/Medical-QASystem-front-end)|基于Neo4j的医疗知识图谱的智能问答-Vue前端界面|4|2024-05-21|2024-05-21|
-|44|[Arcticn/KeyBlog](https://github.com/Arcticn/KeyBlog)|A blog website made with ASP .Net core + Vue.js 使用 ASP .Net core + Vue.js 编写的前后端分离的博客网站|4|2024-07-09|2024-05-19|
+|44|[Arcticn/KeyBlog](https://github.com/Arcticn/KeyBlog)|A blog website made with ASP .Net core + Vue.js 使用 ASP .Net core + Vue.js 编写的前后端分离的博客网站|4|2024-08-13|2024-05-19|
 |45|[Theo-Messi/share.theojs.cn](https://github.com/Theo-Messi/share.theojs.cn)|阿里云盘资源分享 - 热门资源/电视剧/电影/综艺/动漫/大陆/日本/韩国/欧美|4|2024-08-12|2024-05-08|
 |46|[universe-st/noname-extensionManager](https://github.com/universe-st/noname-extensionManager)|无名杀《扩展管家》扩展，使用了vue特性。|4|2024-03-17|2024-03-17|
 |47|[justorez/peppa](https://github.com/justorez/peppa)|🐷《挑战 52 天背完小猪佩奇》配套练习网站|4|2024-04-20|2024-02-11|

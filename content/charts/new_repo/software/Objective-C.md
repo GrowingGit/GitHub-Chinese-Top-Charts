@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2024-08-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[marlkiller/dylib_dobby_hook](https://github.com/marlkiller/dylib_dobby_hook)|这是一个集成了 Dobby Hook 框架的 macOS dylib 项目，通过使用 Dobby Hook 框架来对软件进行辅助增强的操作。Dobby Hook 框架可以帮助实现钩子函数，从而在软件中注入自定义代码，拓展软件功能和提升用户体验。|206|2024-08-11|2024-01-14|
+|1|[marlkiller/dylib_dobby_hook](https://github.com/marlkiller/dylib_dobby_hook)|这是一个集成了 Dobby Hook 框架的 macOS dylib 项目，通过使用 Dobby Hook 框架来对软件进行辅助增强的操作。Dobby Hook 框架可以帮助实现钩子函数，从而在软件中注入自定义代码，拓展软件功能和提升用户体验。|209|2024-08-11|2024-01-14|
 |2|[QiuChenlyOpenSource/SearchHexCodeInFile](https://github.com/QiuChenlyOpenSource/SearchHexCodeInFile)|编写，测试特征码在文件中的相对位置，以便注入绝对地址。|53|2024-03-15|2023-10-13|
 |3|[marlkiller/mac_patch_helper](https://github.com/marlkiller/mac_patch_helper)|一个随心所欲的 macOS Patch 工具类|18|2024-07-11|2024-04-09|
 |4|[Mrzxd/ShortVideo](https://github.com/Mrzxd/ShortVideo)|A powerful iOS short video SDK tool that considers various mobile phone performance, memory usage optimization, loading efficiency optimization, reducing CPU usage, optimizing pre loaded videos throug ...|18|2024-03-30|2024-03-26|
