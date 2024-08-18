@@ -1,16 +1,16 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > C#
-<sub>数据更新: 2024-08-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[StarfireLab/SharpWeb](https://github.com/StarfireLab/SharpWeb)|一个浏览器数据（密码 历史记录 Cookie 书签 下载记录）的导出工具，支持主流浏览器。|529|2024-07-15|2023-10-09|
-|2|[unity3d-jp/Project_TCC](https://github.com/unity3d-jp/Project_TCC)|TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.|506|2024-04-30|2024-02-08|
-|3|[anjoy8/BCVP.Net8](https://github.com/anjoy8/BCVP.Net8)|ASP.NET8.0入口与实战系列视频教程 配合代码|93|2024-04-15|2023-12-10|
+|1|[StarfireLab/SharpWeb](https://github.com/StarfireLab/SharpWeb)|一个浏览器数据（密码 历史记录 Cookie 书签 下载记录）的导出工具，支持主流浏览器。|528|2024-07-15|2023-10-09|
+|2|[unity3d-jp/Project_TCC](https://github.com/unity3d-jp/Project_TCC)|TCC stands for Tiny Character Controller. TCC is the best way to make your own game. This repository contains all packages and examples for TCC projects.|507|2024-04-30|2024-02-08|
+|3|[anjoy8/BCVP.Net8](https://github.com/anjoy8/BCVP.Net8)|ASP.NET8.0入口与实战系列视频教程 配合代码|95|2024-04-15|2023-12-10|
 |4|[AtmoOmen/DailyRoutines](https://github.com/AtmoOmen/DailyRoutines)|Dalamud 插件 Daily Routines - 自动化小工具/易用性改动合集|76|2024-07-09|2024-01-14|
-|5|[jxq1997216/AITranslator](https://github.com/jxq1997216/AITranslator)|使用大语言模型来翻译MTool导出的待翻译文件的图像化UI软件|64|2024-08-05|2024-05-18|
-|6|[lwwhb/CustomRenderPipelineTutorials](https://github.com/lwwhb/CustomRenderPipelineTutorials)|Unity6的自定义渲染管线教程|61|2024-06-27|2023-12-29|
+|5|[jxq1997216/AITranslator](https://github.com/jxq1997216/AITranslator)|使用大语言模型来翻译MTool导出的待翻译文件的图像化UI软件|66|2024-08-05|2024-05-18|
+|6|[lwwhb/CustomRenderPipelineTutorials](https://github.com/lwwhb/CustomRenderPipelineTutorials)|Unity6的自定义渲染管线教程|61|2024-08-16|2023-12-29|
 |7|[239573049/FastGateway](https://github.com/239573049/FastGateway)|FastGateway 一个超级简单方便的网关，基于Kestrel+Yarp实现的网关。 支持动态配置路由，支持动态配置集群，支持动态配置HTTPS证书，无需重启即可使用。|42|2024-04-03|2024-01-21|
 
 <div align="center">

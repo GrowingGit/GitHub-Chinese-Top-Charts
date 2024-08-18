@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Ruby
-<sub>数据更新: 2024-08-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[ankane/searchkick](https://github.com/ankane/searchkick)|Intelligent search made easy|6464|2024-08-10|
 |2|[ruby-china/homeland](https://github.com/ruby-china/homeland)|:circus_tent: An open source forum/community system based on Rails, developed based on Ruby China.|3788|2024-08-02|
 |3|[sketchplugins/plugin-directory](https://github.com/sketchplugins/plugin-directory)|Official Sketch Plugin directory|3400|2024-08-11|
-|4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2577|2024-04-30|
+|4|[w181496/Web-CTF-Cheatsheet](https://github.com/w181496/Web-CTF-Cheatsheet)|Web CTF CheatSheet 🐈|2580|2024-04-30|
 |5|[rpush/rpush](https://github.com/rpush/rpush)|The push notification service for Ruby.|2181|2024-08-02|
 |6|[thredded/thredded](https://github.com/thredded/thredded)|The best Rails forums engine ever.|1554|2024-07-21|
 |7|[remote-jp/remote-in-japan](https://github.com/remote-jp/remote-in-japan)|Tech companies in Japan that hire remote workers.|1491|2024-08-09|
 |8|[ifmeorg/ifme](https://github.com/ifmeorg/ifme)|Free, open source mental health communication web app to share experiences with loved ones|1454|2024-08-04|
 |9|[Eric-Guo/wechat](https://github.com/Eric-Guo/wechat)|API, command and message handling for WeChat in Rails|1309|2024-08-15|
-|10|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |1150|2024-06-15|
+|10|[Mark24Code/rime-auto-deploy](https://github.com/Mark24Code/rime-auto-deploy)|Rime输入法安装脚本，让一切更轻松。Make using Rime easy. |1152|2024-06-15|
 |11|[asciidoctor/asciidoctor-pdf](https://github.com/asciidoctor/asciidoctor-pdf)|:page_with_curl: Asciidoctor PDF: A native PDF converter for AsciiDoc based on Asciidoctor and Prawn, written entirely in Ruby.|1132|2024-08-09|
 |12|[bridgetownrb/bridgetown](https://github.com/bridgetownrb/bridgetown)|A next-generation progressive site generator & fullstack framework, powered by Ruby|1124|2024-08-06|
-|13|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps|1055|2024-08-13|
+|13|[tryzealot/zealot](https://github.com/tryzealot/zealot)|开源自部署移动应用、 macOS、Linux 和 Windows 应用分发平台，提供 iOS、Android SDK、fastlane 等丰富组件库   Self-hosted Beta App Distribution for Android, iOS, macOS, Linux and Windows apps|1056|2024-08-13|
 |14|[PGYER/fir-cli](https://github.com/PGYER/fir-cli)|fir.im(betaqr.com) command-line interface|1049|2024-06-12|
 |15|[inukshuk/anystyle](https://github.com/inukshuk/anystyle)|Fast citation reference parsing|1014|2024-08-14|
 |16|[floere/phony](https://github.com/floere/phony)|E164 international phone number normalizing, splitting, formatting. |1004|2024-08-16|
@@ -39,7 +39,7 @@
 |32|[infused/dbf](https://github.com/infused/dbf)|DBF is a small, fast Ruby library for reading dBase, xBase, Clipper, and FoxPro database files.|260|2024-05-02|
 |33|[didww/credit_card_validations](https://github.com/didww/credit_card_validations)|:credit_card: ruby gem for validating credit card numbers, generating valid numbers, luhn checks|229|2024-08-10|
 |34|[kenn/active_flag](https://github.com/kenn/active_flag)|Bit array for ActiveRecord|188|2024-05-21|
-|35|[samvera/hyrax](https://github.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|183|2024-08-15|
+|35|[samvera/hyrax](https://github.com/samvera/hyrax)|Hyrax is a Ruby on Rails Engine built by the Samvera community. Hyrax provides a foundation for creating many different digital repository applications.|183|2024-08-16|
 |36|[bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD)|-|170|2024-08-15|
 |37|[berkmancenter/namae](https://github.com/berkmancenter/namae)|Namae (名前) parses personal names and splits them into their component parts.|159|2024-04-22|
 |38|[inukshuk/bibtex-ruby](https://github.com/inukshuk/bibtex-ruby)|A BibTeX library, parser, and converter for Ruby.|153|2024-03-01|
@@ -52,24 +52,24 @@
 |45|[iPermanent/rubyTools](https://github.com/iPermanent/rubyTools)|日常使用ruby脚本|89|2024-05-09|
 |46|[merongivian/negasonic](https://github.com/merongivian/negasonic)|This ain't Sonic Pi, but it works on the browser: https://negasonic.onrender.com/|88|2024-05-18|
 |47|[ankane/blingfire-ruby](https://github.com/ankane/blingfire-ruby)|High speed text tokenization for Ruby|64|2024-07-27|
-|48|[coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp)|☯️ CoderDojo Japan (@coderdojo-japan) official website developed by Ruby on Rails with @YassLab team. 💎|62|2024-08-12|
+|48|[coderdojo-japan/coderdojo.jp](https://github.com/coderdojo-japan/coderdojo.jp)|☯️ CoderDojo Japan (@coderdojo-japan) official website developed by Ruby on Rails with @YassLab team. 💎|62|2024-08-17|
 |49|[refinery/refinerycms-i18n](https://github.com/refinery/refinerycms-i18n)|I18n logic for Refinery CMS|54|2024-02-21|
 |50|[piotrmurach/strings-truncation](https://github.com/piotrmurach/strings-truncation)|Truncate strings with fullwidth characters and ANSI codes.|50|2024-03-12|
 |51|[test-kitchen/kitchen-azurerm](https://github.com/test-kitchen/kitchen-azurerm)|A driver for Test Kitchen that works with Azure Resource Manager|48|2024-06-21|
 |52|[HugoHasenbein/redmine_more_previews](https://github.com/HugoHasenbein/redmine_more_previews)|Redmine plugin to preview various file types in redmine's preview pane|46|2024-03-16|
 |53|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|42|2024-08-08|
 |54|[Tabll/gemnasium-db](https://github.com/Tabll/gemnasium-db)|GitLab 依赖项扫描的咨询数据库，每天17:00自动更新|41|2024-08-03|
-|55|[Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese)|🀄️咱自己人的软件🏮咱自己人的仓库🧧|35|2024-08-13|
+|55|[Brewforge/homebrew-chinese](https://github.com/Brewforge/homebrew-chinese)|🀄️咱自己人的软件🏮咱自己人的仓库🧧|35|2024-08-17|
 |56|[cxr0715/cocoapods-TSPodfileTimeWatch](https://github.com/cxr0715/cocoapods-TSPodfileTimeWatch)|统计podfile每个pod的下载耗时|29|2024-08-02|
 |57|[pdcodeunder/cocoapods-ppbuild](https://github.com/pdcodeunder/cocoapods-ppbuild)|iOS pod库预编译静态库，提高编译速度|28|2024-08-02|
 |58|[mika-cn/maoxian-assistant](https://github.com/mika-cn/maoxian-assistant)|-|27|2024-05-20|
 |59|[SonicGarden/dekiru](https://github.com/SonicGarden/dekiru)|Usefull helper methods for Ruby on Rails|26|2024-08-14|
 |60|[YunzheZJU/non-stop-story](https://github.com/YunzheZJU/non-stop-story)|Backend for holo-schedule on Rails.|24|2024-07-23|
-|61|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|22|2024-07-19|
+|61|[OneEyedEagle/EAGLE-RGSS3](https://github.com/OneEyedEagle/EAGLE-RGSS3)|老鹰的脚本小巢|22|2024-08-17|
 |62|[cyril/r_spec-clone.rb](https://github.com/cyril/r_spec-clone.rb)|A minimalist RSpec clone with all the essentials.|22|2024-08-02|
 |63|[windwords/homebrew-vchewing](https://github.com/windwords/homebrew-vchewing)|homebrew-vchewing是一个用于安装/卸载威注音输入法的Homebrew Cask。|19|2024-07-07|
 |64|[baidubce/bce-player-ios](https://github.com/baidubce/bce-player-ios)|百度智能云iOS播放器SDK|18|2024-03-28|
-|65|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|17|2024-08-15|
+|65|[mitakarb/beerkeeper](https://github.com/mitakarb/beerkeeper)|（仮）|17|2024-08-16|
 |66|[work-design/work.design](https://github.com/work-design/work.design)|Work Design 开源版本 Full feature & Modular work manage app|17|2024-05-08|
 |67|[jodeci/fortuna](https://github.com/jodeci/fortuna)|台灣公司專用薪資計算系統|13|2024-06-13|
 |68|[Ezviz-OpenBiz/SDK-iOS](https://github.com/Ezviz-OpenBiz/SDK-iOS)|Ezviz SDK，功能更强大的开发套件，可以实现预览、回放、配网、对讲、设备控制、oAuth授权等功能|13|2024-08-14|
@@ -77,7 +77,7 @@
 |70|[DILA-edu/cbeta-metadata](https://github.com/DILA-edu/cbeta-metadata)|CBETA 的 目錄、部類、缺字、作譯者、朝代等 metadata.|12|2024-07-22|
 |71|[super-unprofessional-league/soccer-website-generator](https://github.com/super-unprofessional-league/soccer-website-generator)|超业余足球联赛网站生成器; Unprofessional soccer league website generator|11|2024-08-01|
 |72|[crispgm/weekly](https://github.com/crispgm/weekly)|A personal curation of tech articles|9|2024-08-02|
-|73|[lzwme/homebrew-cn](https://github.com/lzwme/homebrew-cn)|适合中国大陆用户使用的 Homebrew 应用代理镜像库|8|2024-08-16|
+|73|[lzwme/homebrew-cn](https://github.com/lzwme/homebrew-cn)|适合中国大陆用户使用的 Homebrew 应用代理镜像库|8|2024-08-17|
 |74|[tryzealot/fastlane-plugin-zealot](https://github.com/tryzealot/fastlane-plugin-zealot)|上传移动应用（iPhone、Android）到 Zealot 自建 App 分发系统   fastlane-plugin-zealot provides upload app, debug_file and version check actions to zealot|8|2024-05-28|
 
 <div align="center">
