@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-08-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-19&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10345|2024-08-05|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10344|2024-08-05|
 |2|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|727|2024-08-16|
 |3|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|571|2024-02-24|
 |4|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|338|2024-04-13|
@@ -33,10 +33,10 @@
 |26|[T990820/radar-communication-signal-waveform-generator](https://github.com/T990820/radar-communication-signal-waveform-generator)|本仓库的代码用于雷达/通信信号波形的仿真与时频分析|15|2024-06-21|
 |27|[brian09088/NB-IoT-support-for-NTN](https://github.com/brian09088/NB-IoT-support-for-NTN)|5G NB-IoT support NTN 非地面網路(衛星通訊)|15|2024-07-22|
 |28|[YunYang255/intelligent-method-for-digital-control](https://github.com/YunYang255/intelligent-method-for-digital-control)|用matlab完成了可以读取dxf文件然后生成相关的加工代码的功能,还可以输入加工代码(.txt)生成相关的加工路线(2D和3D),程序还可以监控刀具和胚料是否干涉以及刀具的加工状态|14|2024-06-09|
-|29|[fkby48/Image-Processing-by-DWT](https://github.com/fkby48/Image-Processing-by-DWT)|使用小波变换对图像进行处理，包括图像融合、图像降噪、图像压缩和图像隐藏（Using wavelet transform for image processing, including image fusion, image denoising, image compression, and image hiding）|13|2024-05-13|
-|30|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|13|2024-08-17|
-|31|[LeonYew-SWPU/VLPR-Based-On-MATLAB](https://github.com/LeonYew-SWPU/VLPR-Based-On-MATLAB)|基于 MATLAB 的车牌识别系统，数字图像处理期末大作业。|12|2024-05-06|
-|32|[linggm3/2023_CUMCM_National-First-Prize](https://github.com/linggm3/2023_CUMCM_National-First-Prize)|2023年高教社杯全国大学生数学建模竞赛-本科组全国一等奖-A题-定日镜场优化设计模型|12|2024-03-01|
+|29|[linggm3/2023_CUMCM_National-First-Prize](https://github.com/linggm3/2023_CUMCM_National-First-Prize)|2023年高教社杯全国大学生数学建模竞赛-本科组全国一等奖-A题-定日镜场优化设计模型|14|2024-03-01|
+|30|[fkby48/Image-Processing-by-DWT](https://github.com/fkby48/Image-Processing-by-DWT)|使用小波变换对图像进行处理，包括图像融合、图像降噪、图像压缩和图像隐藏（Using wavelet transform for image processing, including image fusion, image denoising, image compression, and image hiding）|13|2024-05-13|
+|31|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|13|2024-08-17|
+|32|[LeonYew-SWPU/VLPR-Based-On-MATLAB](https://github.com/LeonYew-SWPU/VLPR-Based-On-MATLAB)|基于 MATLAB 的车牌识别系统，数字图像处理期末大作业。|12|2024-05-06|
 |33|[autodotua/my_roms_tools](https://github.com/autodotua/my_roms_tools)|基于MATLAB的ROMS预处理、后处理工具包|11|2024-07-06|
 |34|[zhyantao/GA-shortest_path](https://github.com/zhyantao/GA-shortest_path)|遗传算法解决最短路径问题（两个出发点）|11|2024-07-04|
 |35|[vectorZeng/hzbmmc2024-B](https://github.com/vectorZeng/hzbmmc2024-B)|2024年华中杯数学建模比赛 B题 使用行车轨迹估计交通信号灯周期问题|10|2024-06-06|
