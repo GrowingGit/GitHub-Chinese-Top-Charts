@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Vim script
-<sub>数据更新: 2024-08-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A modular Vim/Neovim configuration|20193|7|2024-08-15|
-|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8699|2|2024-08-15|
-|3|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1726|1|2024-02-22|
+|1|[SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim)|A modular Vim/Neovim configuration|20192|7|2024-08-15|
+|2|[vimwiki/vimwiki](https://github.com/vimwiki/vimwiki)|Personal Wiki for Vim|8701|2|2024-08-15|
+|3|[mashirozx/Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx)|P站（Pixiv）的正确打开方式|1727|1|2024-02-22|
 |4|[mattn/emmet-vim](https://github.com/mattn/emmet-vim)|emmet for vim: http://emmet.io/|6399|1|2024-08-10|
 |5|[youngyangyang04/PowerVim](https://github.com/youngyangyang04/PowerVim)|Make your vim more power and much easer. 最实用的vim配置🔥|1591|1|2024-05-08|
-|6|[theniceboy/nvim](https://github.com/theniceboy/nvim)|The Ultimate NeoVim Config for Colemak Users|1996|1|2024-07-31|
+|6|[theniceboy/nvim](https://github.com/theniceboy/nvim)|The Ultimate NeoVim Config for Colemak Users|1997|1|2024-07-31|
 |7|[skywind3000/asyncrun.vim](https://github.com/skywind3000/asyncrun.vim)|:rocket: Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!|1840|1|2024-08-07|
-|8|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|902|1|2024-06-18|
+|8|[skywind3000/asynctasks.vim](https://github.com/skywind3000/asynctasks.vim)|:rocket: Modern Task System for Project Building, Testing and Deploying !!|902|1|2024-08-20|
 |9|[chxuan/vimplus](https://github.com/chxuan/vimplus)|:rocket:An automatic configuration program for vim|3896|1|2024-06-05|
 |10|[IammyselfYBX/vim-rainbow](https://github.com/IammyselfYBX/vim-rainbow)|彩虹效果的 Vim 插件|15|0|2024-05-15|
 |11|[ZSaberLv0/ZFVimIM](https://github.com/ZSaberLv0/ZFVimIM)|vim输入法 / Vim Input Method by pure vim script, support: user word, dynamic word priority, cloud db files|204|0|2024-08-16|
@@ -22,7 +22,7 @@
 |15|[IammyselfYBX/.vim](https://github.com/IammyselfYBX/.vim)|我的(neo)vim配置|54|0|2024-07-27|
 |16|[Hyvi/dotfiles](https://github.com/Hyvi/dotfiles)|vim配置|3|0|2024-07-20|
 |17|[zweix123/win-config](https://github.com/zweix123/win-config)|让你的win机器有媲美Unix命令行的体验|4|0|2024-02-29|
-|18|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|906|0|2024-08-19|
+|18|[skywind3000/vim](https://github.com/skywind3000/vim)|Personal Vim Profile|906|0|2024-08-20|
 |19|[axiaoxin/my-vimrc](https://github.com/axiaoxin/my-vimrc)|VIM configuration file: used to write Golang, Python, Markdown, etc. with VIM on macOS|153|0|2024-08-09|
 |20|[terrytangyuan/dotfiles](https://github.com/terrytangyuan/dotfiles)|Personal bootstrapping dotfiles |7|0|2024-08-07|
 |21|[skywind3000/vim-init](https://github.com/skywind3000/vim-init)|轻量级 Vim 配置框架，全中文注释|903|0|2024-07-26|
@@ -59,7 +59,7 @@
 |52|[lyokha/vim-xkbswitch](https://github.com/lyokha/vim-xkbswitch)|vim plugin for automatic keyboard layout switching in insert mode|477|0|2024-06-19|
 |53|[niming175/myVim](https://github.com/niming175/myVim)|我的vim配置|5|0|2024-05-08|
 |54|[Wujidadi/Ubuntu-RC](https://github.com/Wujidadi/Ubuntu-RC)|Ubuntu（其他 Unix/Linux 可能適用）環境中使用的 run commands|4|0|2024-03-21|
-|55|[chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast)|A very fast Vim repository for C/C++,Go,Python,Rust|83|0|2024-08-11|
+|55|[chenxuan520/vim-fast](https://github.com/chenxuan520/vim-fast)|A very fast Vim repository for C/C++,Go,Python,Rust|83|0|2024-08-20|
 |56|[mzlogin/vim-markdown-toc](https://github.com/mzlogin/vim-markdown-toc)|A vim 7.4+ plugin to generate table of contents for Markdown files.|605|0|2024-07-08|
 
 <div align="center">

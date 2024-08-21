@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2024-08-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -12,7 +12,7 @@
 |5|[foocker/AIGC](https://github.com/foocker/AIGC)|扩散模型算法基础文档、训练、实验、部署等仓库|13|2024-03-10|2024-02-26|
 |6|[Thysrael/GreenParkBeamerTheme](https://github.com/Thysrael/GreenParkBeamerTheme)|北京航空航天大学 BUAA LaTeX Beamer 非官方主题|11|2024-07-26|2024-06-12|
 |7|[mimicji/Bilingual-Resume-Template](https://github.com/mimicji/Bilingual-Resume-Template)|Bilingual Resume Template in Latex. 中英双语Latex简历模板|9|2024-06-04|2024-06-03|
-|8|[ymx10086/HUST-2022-DATA_STRUCTURES](https://github.com/ymx10086/HUST-2022-DATA_STRUCTURES)|2021级HUST数据结构实验及实验报告|9|2024-04-17|2024-04-17|
+|8|[ymx10086/HUST-2022-DATA_STRUCTURES](https://github.com/ymx10086/HUST-2022-DATA_STRUCTURES)|2021级HUST数据结构实验及实验报告|8|2024-04-17|2024-04-17|
 |9|[Cresc3ntRose/NUAA_IoT_Assignment](https://github.com/Cresc3ntRose/NUAA_IoT_Assignment)|这个仓库用于储存我个人的课内作业|7|2024-06-29|2024-04-10|
 |10|[ajsadhotmail/2024-China-Gaokao-Math](https://github.com/ajsadhotmail/2024-China-Gaokao-Math)|The repository includes the math paper of Chinese National College Entrance Exam (Gaokao).  本仓库包含了中国2024年高考的数学试卷 (新高考I卷).  |6|2024-06-08|2024-06-08|
 |11|[Guanyu-Li/Defense-Reporting-ppt](https://github.com/Guanyu-Li/Defense-Reporting-ppt)|答辩ppt模板（吉林大学数学学院）Defence ppt Template|6|2024-07-21|2024-05-31|
@@ -25,17 +25,17 @@
 |18|[Rosyrain/BilibiliDownloadVideo](https://github.com/Rosyrain/BilibiliDownloadVideo)|下载B站视频到本地(包含高清视频的下载)|5|2024-04-04|2024-03-30|
 |19|[Casta-mere/LaTeX-GraduationTemplate](https://github.com/Casta-mere/LaTeX-GraduationTemplate)|浙江理工大学计算机科学与技术学院毕设模板|5|2024-05-10|2024-01-23|
 |20|[dgsyrc/Analysis-of-Signals-and-Linear-Systems](https://github.com/dgsyrc/Analysis-of-Signals-and-Linear-Systems)|信号与线性系统分析笔记，基于高等教育出版社《信号与线性系统分析》第5版, 吴大正 等著|4|2024-07-01|2024-06-15|
-|21|[MinmusLin/Minmus_Operating_System_in_Rust](https://github.com/MinmusLin/Minmus_Operating_System_in_Rust)|MinmusOS: The design and implementation of an operating system based on Rust language. MinmusOS: 基于 Rust 语言的操作系统的设计与实现. (2024年同济大学操作系统课程设计课程项目)|4|2024-08-17|2024-05-04|
+|21|[MinmusLin/Minmus_Operating_System_in_Rust](https://github.com/MinmusLin/Minmus_Operating_System_in_Rust)|MinmusOS: The design and implementation of an operating system based on Rust language. MinmusOS: 基于 Rust 语言的操作系统的设计与实现. (2024年同济大学操作系统课程设计课程项目)|4|2024-08-18|2024-05-04|
 |22|[CSW33/NPU-CV](https://github.com/CSW33/NPU-CV)|一个西工大latex简历模板，设计基于某个祖传word模板改的，大量注释。|4|2024-05-07|2024-05-03|
-|23|[WQT1123/University-Presentation-Beamer](https://github.com/WQT1123/University-Presentation-Beamer)|大学Latex答辩模版，当前包含川大、哈工大、中科大。|4|2024-07-22|2024-02-28|
-|24|[hfyjq/Void_Chain](https://github.com/hfyjq/Void_Chain)|轻量化加密程序示例，可拓展更多///Lightweight encryption program example, can expand more components|4|2024-02-24|2024-02-02|
-|25|[DianRobot/DianRobot.github.io](https://github.com/DianRobot/DianRobot.github.io)|Diangroup Robotics Lab实验室主页|3|2024-07-25|2024-07-03|
-|26|[24bit-xjkp/NuaaExam](https://github.com/24bit-xjkp/NuaaExam)|南京航空航天大学高清试卷|3|2024-07-15|2024-06-27|
-|27|[Trikim-Zhang/Advanced-Numerical-Analysis](https://github.com/Trikim-Zhang/Advanced-Numerical-Analysis)|nudt高等数值分析|3|2024-07-27|2024-06-21|
-|28|[Trikim-Zhang/Theory-and-Algorithms-of-Numerical-Optimization](https://github.com/Trikim-Zhang/Theory-and-Algorithms-of-Numerical-Optimization)|nudt数值最优化算法与应用|3|2024-07-27|2024-06-09|
-|29|[DumzGW/-WayfinderSaveEditor-python-](https://github.com/DumzGW/-WayfinderSaveEditor-python-)|对Wayfinder的存档进行修改，已添加角色修改功能|3|2024-06-10|2024-06-04|
-|30|[wenjin1997/zkHackerHouse-binius](https://github.com/wenjin1997/zkHackerHouse-binius)|在zkHackerHouse@苏州 期间，对binius进行的主题研究。|3|2024-05-21|2024-05-15|
-|31|[M0rtzz/zzu-resume-template](https://github.com/M0rtzz/zzu-resume-template)|郑州大学LaTeX简历模板|3|2024-07-21|2024-04-19|
+|23|[M0rtzz/zzu-resume-template](https://github.com/M0rtzz/zzu-resume-template)|郑州大学LaTeX简历模板|4|2024-07-21|2024-04-19|
+|24|[WQT1123/University-Presentation-Beamer](https://github.com/WQT1123/University-Presentation-Beamer)|大学Latex答辩模版，当前包含川大、哈工大、中科大。|4|2024-07-22|2024-02-28|
+|25|[hfyjq/Void_Chain](https://github.com/hfyjq/Void_Chain)|轻量化加密程序示例，可拓展更多///Lightweight encryption program example, can expand more components|4|2024-02-24|2024-02-02|
+|26|[DianRobot/DianRobot.github.io](https://github.com/DianRobot/DianRobot.github.io)|Diangroup Robotics Lab实验室主页|3|2024-07-25|2024-07-03|
+|27|[24bit-xjkp/NuaaExam](https://github.com/24bit-xjkp/NuaaExam)|南京航空航天大学高清试卷|3|2024-07-15|2024-06-27|
+|28|[Trikim-Zhang/Advanced-Numerical-Analysis](https://github.com/Trikim-Zhang/Advanced-Numerical-Analysis)|nudt高等数值分析|3|2024-07-27|2024-06-21|
+|29|[Trikim-Zhang/Theory-and-Algorithms-of-Numerical-Optimization](https://github.com/Trikim-Zhang/Theory-and-Algorithms-of-Numerical-Optimization)|nudt数值最优化算法与应用|3|2024-07-27|2024-06-09|
+|30|[DumzGW/-WayfinderSaveEditor-python-](https://github.com/DumzGW/-WayfinderSaveEditor-python-)|对Wayfinder的存档进行修改，已添加角色修改功能|3|2024-06-10|2024-06-04|
+|31|[wenjin1997/zkHackerHouse-binius](https://github.com/wenjin1997/zkHackerHouse-binius)|在zkHackerHouse@苏州 期间，对binius进行的主题研究。|3|2024-05-21|2024-05-15|
 |32|[GFCYqw/Fengrubei_LaTeX_Template](https://github.com/GFCYqw/Fengrubei_LaTeX_Template)|北京航空航天大学“冯如杯”竞赛 LaTeX 模板。This is a template for Fengru cup contest(Fengrubei), written in Latex.|3|2024-05-18|2024-04-06|
 |33|[xubenshan/dtcup](https://github.com/xubenshan/dtcup)|整理第十届大唐杯真题及答案|3|2024-03-31|2024-03-29|
 |34|[Smera1d0/SDU-LaTeX-Template](https://github.com/Smera1d0/SDU-LaTeX-Template)|山东大学实验报告模板，使用LaTeX编写|3|2024-03-24|2024-03-23|

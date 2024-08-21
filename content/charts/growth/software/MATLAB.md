@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-08-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10344|241|2024-08-05|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10349|235|2024-08-05|
 |2|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|729|1|2024-08-16|
 |3|[TkungAI/AMBD-CGE](https://github.com/TkungAI/AMBD-CGE)|基于MBD（Model-Based Design，基于模型的设计）代码生成样例。|5|0|2024-04-14|
 |4|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|6|0|2024-05-21|
@@ -21,14 +21,14 @@
 |14|[chenwy1020/Partial-differential-equation-experiments](https://github.com/chenwy1020/Partial-differential-equation-experiments)|偏微分方程实验课的文件|4|0|2024-03-22|
 |15|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|9|0|2024-03-25|
 |16|[ECheynet/SEIR](https://github.com/ECheynet/SEIR)|Generalized SEIR Epidemic Model (fitting and computation)|84|0|2024-04-11|
-|17|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|228|0|2024-08-14|
-|18|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|19|0|2024-08-16|
+|17|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|228|0|2024-08-20|
+|18|[PollyNET/Pollynet_Processing_Chain](https://github.com/PollyNET/Pollynet_Processing_Chain)|NRT lidar data processing program for multiwavelength polarization Raman lidar network (PollyNET)|19|0|2024-08-20|
 |19|[chtld/Finite_Element_Method_Matlab](https://github.com/chtld/Finite_Element_Method_Matlab)|有限元方法的 matlab 实现，为了追求清晰通用，将会大大牺牲程序的效率。|46|0|2024-04-25|
 |20|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|0|2024-07-16|
 |21|[zhyantao/GA-shortest_path](https://github.com/zhyantao/GA-shortest_path)|遗传算法解决最短路径问题（两个出发点）|11|0|2024-07-04|
 |22|[123RoBin0819/Sea-clutter](https://github.com/123RoBin0819/Sea-clutter)|海杂波|6|0|2024-05-17|
 |23|[vectorZeng/hzbmmc2024-B](https://github.com/vectorZeng/hzbmmc2024-B)|2024年华中杯数学建模比赛 B题 使用行车轨迹估计交通信号灯周期问题|10|0|2024-06-06|
-|24|[deltaRing/mmwave_radar_1843_generate_point_cloud](https://github.com/deltaRing/mmwave_radar_1843_generate_point_cloud)|用1843AOPEVM生成点云 初步验证应该是对的，附赠数据一枚|30|0|2024-06-05|
+|24|[deltaRing/mmwave_radar_1843_generate_point_cloud](https://github.com/deltaRing/mmwave_radar_1843_generate_point_cloud)|用1843AOPEVM生成点云 初步验证应该是对的，附赠数据一枚|31|0|2024-06-05|
 |25|[nextpilot/nextpilot-simulink-toolbox](https://github.com/nextpilot/nextpilot-simulink-toolbox)|一套基于MATLAB/Simulink飞控系统开发工具箱|3|0|2024-08-05|
 |26|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|0|2024-07-30|
 |27|[ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP](https://github.com/ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP)|基于ADP算法求解微电网实时经济调度问题|4|0|2024-05-10|
@@ -52,37 +52,38 @@
 |45|[sjtu-jq/Image-registration](https://github.com/sjtu-jq/Image-registration)|Registration for power equipment infrared and visible images|87|0|2024-06-10|
 |46|[fkby48/Image-Processing-by-DWT](https://github.com/fkby48/Image-Processing-by-DWT)|使用小波变换对图像进行处理，包括图像融合、图像降噪、图像压缩和图像隐藏（Using wavelet transform for image processing, including image fusion, image denoising, image compression, and image hiding）|13|0|2024-05-13|
 |47|[flyQQQHddd/pattern-recognition](https://github.com/flyQQQHddd/pattern-recognition)|模式识别|6|0|2024-04-11|
-|48|[Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis](https://github.com/Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis)|数字图像处理分析方法Code repository for digital image processing methods|7|0|2024-07-14|
-|49|[yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV](https://github.com/yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV)|欧拉角、四元数、旋转矩阵，迂回现象，自抗扰控制|18|0|2024-03-06|
-|50|[SJY411/ADRC-control-system-of-highly-dynamic-aircraft](https://github.com/SJY411/ADRC-control-system-of-highly-dynamic-aircraft)|本项目对于高动态飞行器过载控制系统，提出了基于角加速度反馈的自动驾驶仪设计方案，并设计了自抗扰控制系统。|5|0|2024-03-25|
-|51|[SeveNOlogy7/SimMoLFil](https://github.com/SeveNOlogy7/SimMoLFil)|A mode-locked fiber laser simulator 锁模光纤激光器仿真|48|0|2024-06-25|
-|52|[LeonYew-SWPU/VLPR-Based-On-MATLAB](https://github.com/LeonYew-SWPU/VLPR-Based-On-MATLAB)|基于 MATLAB 的车牌识别系统，数字图像处理期末大作业。|12|0|2024-05-06|
-|53|[DuRen1126/ECG_DeepClassfication](https://github.com/DuRen1126/ECG_DeepClassfication)|基于机器学习的心电分析疲劳检测方法研究|3|0|2024-03-31|
-|54|[AI-Tianlong/SSVEP-BCI-OpenBCI](https://github.com/AI-Tianlong/SSVEP-BCI-OpenBCI)|基于OpenBCI（Bciduino）完成的SSVEP项目，包括刺激器、信号实时传输、以及基于FFT的脑电信号分类、蓝牙小车的脑电控制|71|0|2024-05-06|
-|55|[SJY411/Unmanned-aircraft-control-system-for-Boeing747](https://github.com/SJY411/Unmanned-aircraft-control-system-for-Boeing747)|本工作以大型民用客机波音747-100为研究对象，建立了自动飞行控制系统的整体数学模型，并对飞行过程进行综合数字仿真。This work takes the large civil airliner Boeing 747-100 as the research object, establishes an overall mathematical model of the automatic fl ...|3|0|2024-03-26|
-|56|[wuc567/Pattern-Mining](https://github.com/wuc567/Pattern-Mining)|序列模式挖掘相关研究|27|0|2024-07-11|
-|57|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Uav track collaborative planning based on pso algorithm/基于pso算法的无人机航迹协同规划|9|0|2024-07-09|
-|58|[Nome2s/InSARFilter](https://github.com/Nome2s/InSARFilter)|InSAR 中经典滤波算法的实现（MATLAB & Python）|7|0|2024-05-01|
-|59|[FMOTs/FMOT_matlab](https://github.com/FMOTs/FMOT_matlab)|FMOT的matlab基础开发版本|26|0|2024-06-12|
-|60|[T990820/radar-communication-signal-waveform-generator](https://github.com/T990820/radar-communication-signal-waveform-generator)|本仓库的代码用于雷达/通信信号波形的仿真与时频分析|15|0|2024-06-21|
-|61|[AomanHao/Matlab-Image-Evaluate](https://github.com/AomanHao/Matlab-Image-Evaluate)|图像处理评价标准|6|0|2024-03-11|
-|62|[kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration](https://github.com/kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration)|GNSS和INS深组合的尝试，在GNSS_SDR和PSINS基础上组合得到|21|0|2024-07-31|
-|63|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|13|0|2024-08-19|
-|64|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|338|0|2024-04-13|
-|65|[WeianHuang23/Dispersion-assisted_High-dimensional_Photodetector](https://github.com/WeianHuang23/Dispersion-assisted_High-dimensional_Photodetector)|数据集的创建|10|0|2024-04-03|
-|66|[XDUgaile/2024ICM_D](https://github.com/XDUgaile/2024ICM_D)|2024美赛 ICM D题|3|0|2024-05-04|
-|67|[yuyuliangyu/matlab-vine-copula](https://github.com/yuyuliangyu/matlab-vine-copula)|这是一个用matlab编写的vine-copula|4|0|2024-02-28|
-|68|[Sunshine00001/-matlab-](https://github.com/Sunshine00001/-matlab-)|（1）设置车辆参数及其他车辆信息。 （2）系统应该能够根据输入的车辆和停车位信息，自动生成最佳路径规划方案。 （3）考虑到实际应用场景，系统应能够处理不同路况、停车位大小和停车要求等多种情况。 （4）仿真与分析，对所得结果的有效性进行验证。 （5）系统应该具备一定的健壮性和鲁棒性，能够处理异常情况并给出合理的解决方案。 （6）完善平行泊车路径规划程序，通过设计GUI界面展示泊车路径规划。|3|0|2024-04-08|
-|69|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|571|0|2024-02-24|
-|70|[AlterWL/Battery_SOC_Estimation](https://github.com/AlterWL/Battery_SOC_Estimation)|Battery state of charge estimation using kalman filter in Matlab|292|0|2024-04-12|
-|71|[mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM](https://github.com/mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM)|基于BO-LSTM的黄金股价预测分析 |3|0|2024-03-10|
-|72|[linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge](https://github.com/linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge)|2022年深圳杯数学建模挑战赛-全国第二-B题-基于用电可靠性的配电网规划模型|4|0|2024-03-01|
-|73|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|0|2024-08-14|
-|74|[mingsongli/acycle](https://github.com/mingsongli/acycle)|Acycle: Time-series analysis software for research and education|76|0|2024-03-20|
-|75|[kon9chun/ParameterIdentification_and_FOMe](https://github.com/kon9chun/ParameterIdentification_and_FOMe)|FOM参数辨识及其改进模型|3|0|2024-07-02|
-|76|[PKU-HunterWu/LDPC-Encoder-Decoder](https://github.com/PKU-HunterWu/LDPC-Encoder-Decoder)|基于Matlab的LDPC编解码算法实现及LDPC码性能测试|55|0|2024-06-20|
-|77|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP): A MATLAB Optimization Platform for Evolutionary Multitasking|113|0|2024-08-11|
-|78|[pigeonLCY/2023CUMCM](https://github.com/pigeonLCY/2023CUMCM)|基于计算几何的海域地形分析及多波束测深优化模型|3|0|2024-06-05|
+|48|[Seafood-SIMIT/fwnn-matlab](https://github.com/Seafood-SIMIT/fwnn-matlab)|Implementation of Fuzzy Wavelet Neural Network in Matlab and Evaluation of Target Threat /模糊小波神经网络的Matlab实现以及目标威胁评估|31|0|2024-08-20|
+|49|[Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis](https://github.com/Matthew-Lyu/Digital-Image-Processing-Methods-and-Analysis)|数字图像处理分析方法Code repository for digital image processing methods|7|0|2024-07-14|
+|50|[yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV](https://github.com/yuyu-shi/TrajectoryTrackingControlofQuadrotorUAV)|欧拉角、四元数、旋转矩阵，迂回现象，自抗扰控制|18|0|2024-03-06|
+|51|[SJY411/ADRC-control-system-of-highly-dynamic-aircraft](https://github.com/SJY411/ADRC-control-system-of-highly-dynamic-aircraft)|本项目对于高动态飞行器过载控制系统，提出了基于角加速度反馈的自动驾驶仪设计方案，并设计了自抗扰控制系统。|5|0|2024-03-25|
+|52|[SeveNOlogy7/SimMoLFil](https://github.com/SeveNOlogy7/SimMoLFil)|A mode-locked fiber laser simulator 锁模光纤激光器仿真|48|0|2024-06-25|
+|53|[LeonYew-SWPU/VLPR-Based-On-MATLAB](https://github.com/LeonYew-SWPU/VLPR-Based-On-MATLAB)|基于 MATLAB 的车牌识别系统，数字图像处理期末大作业。|12|0|2024-05-06|
+|54|[DuRen1126/ECG_DeepClassfication](https://github.com/DuRen1126/ECG_DeepClassfication)|基于机器学习的心电分析疲劳检测方法研究|3|0|2024-03-31|
+|55|[AI-Tianlong/SSVEP-BCI-OpenBCI](https://github.com/AI-Tianlong/SSVEP-BCI-OpenBCI)|基于OpenBCI（Bciduino）完成的SSVEP项目，包括刺激器、信号实时传输、以及基于FFT的脑电信号分类、蓝牙小车的脑电控制|71|0|2024-05-06|
+|56|[SJY411/Unmanned-aircraft-control-system-for-Boeing747](https://github.com/SJY411/Unmanned-aircraft-control-system-for-Boeing747)|本工作以大型民用客机波音747-100为研究对象，建立了自动飞行控制系统的整体数学模型，并对飞行过程进行综合数字仿真。This work takes the large civil airliner Boeing 747-100 as the research object, establishes an overall mathematical model of the automatic fl ...|3|0|2024-03-26|
+|57|[wuc567/Pattern-Mining](https://github.com/wuc567/Pattern-Mining)|序列模式挖掘相关研究|27|0|2024-07-11|
+|58|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Uav track collaborative planning based on pso algorithm/基于pso算法的无人机航迹协同规划|9|0|2024-07-09|
+|59|[Nome2s/InSARFilter](https://github.com/Nome2s/InSARFilter)|InSAR 中经典滤波算法的实现（MATLAB & Python）|7|0|2024-05-01|
+|60|[FMOTs/FMOT_matlab](https://github.com/FMOTs/FMOT_matlab)|FMOT的matlab基础开发版本|26|0|2024-06-12|
+|61|[T990820/radar-communication-signal-waveform-generator](https://github.com/T990820/radar-communication-signal-waveform-generator)|本仓库的代码用于雷达/通信信号波形的仿真与时频分析|15|0|2024-06-21|
+|62|[AomanHao/Matlab-Image-Evaluate](https://github.com/AomanHao/Matlab-Image-Evaluate)|图像处理评价标准|6|0|2024-03-11|
+|63|[kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration](https://github.com/kongtian-SiBu/ZCJ_GNSSINS_DeepIntegration)|GNSS和INS深组合的尝试，在GNSS_SDR和PSINS基础上组合得到|21|0|2024-07-31|
+|64|[Silver-Fang/MATLAB-Extension](https://github.com/Silver-Fang/MATLAB-Extension)|埃博拉酱的MATLAB扩展|13|0|2024-08-19|
+|65|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|338|0|2024-04-13|
+|66|[WeianHuang23/Dispersion-assisted_High-dimensional_Photodetector](https://github.com/WeianHuang23/Dispersion-assisted_High-dimensional_Photodetector)|数据集的创建|10|0|2024-04-03|
+|67|[XDUgaile/2024ICM_D](https://github.com/XDUgaile/2024ICM_D)|2024美赛 ICM D题|3|0|2024-05-04|
+|68|[yuyuliangyu/matlab-vine-copula](https://github.com/yuyuliangyu/matlab-vine-copula)|这是一个用matlab编写的vine-copula|4|0|2024-02-28|
+|69|[Sunshine00001/-matlab-](https://github.com/Sunshine00001/-matlab-)|（1）设置车辆参数及其他车辆信息。 （2）系统应该能够根据输入的车辆和停车位信息，自动生成最佳路径规划方案。 （3）考虑到实际应用场景，系统应能够处理不同路况、停车位大小和停车要求等多种情况。 （4）仿真与分析，对所得结果的有效性进行验证。 （5）系统应该具备一定的健壮性和鲁棒性，能够处理异常情况并给出合理的解决方案。 （6）完善平行泊车路径规划程序，通过设计GUI界面展示泊车路径规划。|3|0|2024-04-08|
+|70|[rodralez/NaveGo](https://github.com/rodralez/NaveGo)|NaveGo: an open-source MATLAB/GNU Octave toolbox for processing integrated navigation systems and performing inertial sensors analysis.|572|0|2024-02-24|
+|71|[AlterWL/Battery_SOC_Estimation](https://github.com/AlterWL/Battery_SOC_Estimation)|Battery state of charge estimation using kalman filter in Matlab|292|0|2024-04-12|
+|72|[mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM](https://github.com/mmmmyyyyxxxx/Gold-stock-price-forecast-analysis-based-on-BO-LSTM)|基于BO-LSTM的黄金股价预测分析 |3|0|2024-03-10|
+|73|[linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge](https://github.com/linggm3/2022_Shenzhen-Cup-Mathematical-Modeling-Challenge)|2022年深圳杯数学建模挑战赛-全国第二-B题-基于用电可靠性的配电网规划模型|4|0|2024-03-01|
+|74|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|0|2024-08-14|
+|75|[mingsongli/acycle](https://github.com/mingsongli/acycle)|Acycle: Time-series analysis software for research and education|76|0|2024-03-20|
+|76|[kon9chun/ParameterIdentification_and_FOMe](https://github.com/kon9chun/ParameterIdentification_and_FOMe)|FOM参数辨识及其改进模型|3|0|2024-07-02|
+|77|[PKU-HunterWu/LDPC-Encoder-Decoder](https://github.com/PKU-HunterWu/LDPC-Encoder-Decoder)|基于Matlab的LDPC编解码算法实现及LDPC码性能测试|55|0|2024-06-20|
+|78|[intLyc/MTO-Platform](https://github.com/intLyc/MTO-Platform)|Multitask Optimization Platform (MToP): A MATLAB Optimization Platform for Evolutionary Multitasking|113|0|2024-08-11|
+|79|[pigeonLCY/2023CUMCM](https://github.com/pigeonLCY/2023CUMCM)|基于计算几何的海域地形分析及多波束测深优化模型|3|0|2024-06-05|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

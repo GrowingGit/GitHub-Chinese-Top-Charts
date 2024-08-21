@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Pascal
-<sub>数据更新: 2024-08-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -21,7 +21,7 @@
 |14|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|335|0|2024-08-19|
 |15|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|482|0|2024-07-19|
 |16|[dmznlin/mini-soft](https://github.com/dmznlin/mini-soft)|用于管理日常开发的小型系统|4|0|2024-04-19|
-|17|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|55|0|2024-06-21|
+|17|[DelphiTeacher/OrangeFreeSDK](https://github.com/DelphiTeacher/OrangeFreeSDK)|免费的三方SDK|56|0|2024-06-21|
 |18|[abcjingtong/HCView_Pascal](https://github.com/abcjingtong/HCView_Pascal)|一个类似word或wps用于文字排版相关功能的控件，有Delphi、C#、Html5、C++四个版本。|5|0|2024-08-05|
 |19|[huzgd/ezdml](https://github.com/huzgd/ezdml)|Lightweight data modeling and design tool (超轻量级的数据建模表结构设计工具)|41|0|2024-08-11|
 |20|[szlbz/DataSetDelta](https://github.com/szlbz/DataSetDelta)|为lazarus增加类似delphi TClientDataSet的Delta功能|2|0|2024-08-17|

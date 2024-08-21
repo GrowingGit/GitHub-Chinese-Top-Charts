@@ -1,26 +1,26 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > CSS
-<sub>数据更新: 2024-08-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|21044|2024-08-19|
-|2|[hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)|经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新|20541|2024-08-16|
-|3|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|19465|2024-08-07|
-|4|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|9038|2024-07-01|
-|5|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5540|2024-08-15|
+|1|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|21043|2024-08-20|
+|2|[hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)|经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新|20550|2024-08-16|
+|3|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|19468|2024-08-07|
+|4|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|9037|2024-07-01|
+|5|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5542|2024-08-15|
 |6|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|3360|2024-06-16|
-|7|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1305|2024-05-10|
-|8|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |907|2024-08-14|
+|7|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1306|2024-05-10|
+|8|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |920|2024-08-14|
 |9|[fuzhengwei/itstack-demo-netty](https://github.com/fuzhengwei/itstack-demo-netty)|微信公众号：bugstack虫洞栈   专注于原创开发专题案例。跟着案例学Netty，Netty4.x案例从简单入门到应用实战，全篇37章节优秀案例+实战源码[基础篇(13)、中级篇(13)、高级篇(3章+)、源码分析篇]，以上章节全部完成并不断持续更新中。欢迎关注公众号：bugstack虫洞栈   阅读专题文章+调试案例源码学习｛回复netty案例｝。|707|2024-04-16|
-|10|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|698|2024-08-10|
-|11|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|415|2024-05-19|
-|12|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|407|2024-08-07|
+|10|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|699|2024-08-10|
+|11|[mulingyuer/Typecho_Theme_JJ](https://github.com/mulingyuer/Typecho_Theme_JJ)|Typecho主题-《JJ》高仿掘金，支持Typecho 1.2版本|416|2024-05-19|
+|12|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|408|2024-08-07|
 |13|[aalmiray/java-champions](https://github.com/aalmiray/java-champions)|A list of Java Champions|344|2024-08-08|
 |14|[calebman/girlfriend-gift-collection](https://github.com/calebman/girlfriend-gift-collection)|送给女朋友的礼物合集，生日/情人节/纪念日等，程序员的创意。|292|2024-06-20|
 |15|[LychApe/DreamCat](https://github.com/LychApe/DreamCat)|DreamCat 是一个极简自适应博客主题,年轻人追梦良品!|280|2024-08-04|
-|16|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|202|2024-06-01|
+|16|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|201|2024-06-01|
 |17|[lsils/lstools-showcase](https://github.com/lsils/lstools-showcase)|Showcase examples for EPFL logic synthesis libraries|175|2024-04-05|
 |18|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite 💡|136|2024-05-02|
 |19|[phpple/caddy2-cn-doc](https://github.com/phpple/caddy2-cn-doc)|Caddy 2的中文文档|133|2024-02-20|
@@ -51,19 +51,20 @@
 |44|[xjq7/awesome-study](https://github.com/xjq7/awesome-study)|Awesome 、资源、工具、技术自媒体、博客、学习指南、面试指北等收集库|14|2024-05-24|
 |45|[Fridolph/my-program](https://github.com/Fridolph/my-program)|作品和demo集，若你喜欢麻烦star+fork ...0(∩_∩)0... 仅供参考学习分享交流，谢谢|14|2024-06-23|
 |46|[Hiroki-Sawada-y/Hiroki_Study](https://github.com/Hiroki-Sawada-y/Hiroki_Study)|个人学习笔记 obsidian|13|2024-05-27|
-|47|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|12|2024-08-19|
+|47|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|12|2024-08-20|
 |48|[WaterCalm/LinuxServerInChinese](https://github.com/WaterCalm/LinuxServerInChinese)|翻译LinuxServer.io文档为中文的gitbook|11|2024-02-21|
 |49|[hanzhichao/qaschool](https://github.com/hanzhichao/qaschool)|[原创]基于django的一款文本教程网站（类似菜鸟教程）|11|2024-08-19|
 |50|[epoch-lab/cuit-guide](https://github.com/epoch-lab/cuit-guide)|CUIT 指南|10|2024-08-16|
-|51|[zino-rs/zino-docs-zh](https://github.com/zino-rs/zino-docs-zh)|Zino开发框架中文教程|8|2024-04-03|
-|52|[liu75675231/article-crawler](https://github.com/liu75675231/article-crawler)|文章爬虫，会每天都爬取一些有价值的官方文档的博客文章，以便于能得到第一手的更新，教程等信息|8|2024-08-17|
-|53|[rongyi/note](https://github.com/rongyi/note)|个人学习笔记|8|2024-07-26|
-|54|[WL2O2O/JavaU8G](https://github.com/WL2O2O/JavaU8G)|📚【Java面试通关秘籍】—— Java_Useful_8股文_Guide（听歌学Java），是备战Java面试与提升技术实力的一站式知识库。内容覆盖Java面试、算法、JavaSE、并发编程、JVM优化、MySQL、OS、中间件、微服务等核心知识点，并包含Spring全家桶及设计模式详解。欢迎关注、star，共同完善和分享！|7|2024-06-12|
-|55|[mirabilite-s-kingdom/Shared-Wardrobe](https://github.com/mirabilite-s-kingdom/Shared-Wardrobe)|数据库课程设计 Shared Wardrobe共享衣橱|7|2024-07-19|
-|56|[ybdt/ybdt.github.io](https://github.com/ybdt/ybdt.github.io)|个人博客：https://ybdt.me/|7|2024-04-18|
-|57|[GiaoGiaoCat/GiaoGiaoCat.github.io](https://github.com/GiaoGiaoCat/GiaoGiaoCat.github.io)|一点笔记|7|2024-08-02|
-|58|[document-translate/volta](https://github.com/document-translate/volta)|volta 简体中文版文档|6|2024-05-17|
-|59|[bosens-China/blog](https://github.com/bosens-China/blog)|个人写博客的地方|6|2024-07-25|
+|51|[open-spaced-repetition/anki-manual-zh-CN](https://github.com/open-spaced-repetition/anki-manual-zh-CN)|Anki 用户手册（中文翻译）|8|2024-08-20|
+|52|[zino-rs/zino-docs-zh](https://github.com/zino-rs/zino-docs-zh)|Zino开发框架中文教程|8|2024-04-03|
+|53|[liu75675231/article-crawler](https://github.com/liu75675231/article-crawler)|文章爬虫，会每天都爬取一些有价值的官方文档的博客文章，以便于能得到第一手的更新，教程等信息|8|2024-08-20|
+|54|[rongyi/note](https://github.com/rongyi/note)|个人学习笔记|8|2024-07-26|
+|55|[WL2O2O/JavaU8G](https://github.com/WL2O2O/JavaU8G)|📚【Java面试通关秘籍】—— Java_Useful_8股文_Guide（听歌学Java），是备战Java面试与提升技术实力的一站式知识库。内容覆盖Java面试、算法、JavaSE、并发编程、JVM优化、MySQL、OS、中间件、微服务等核心知识点，并包含Spring全家桶及设计模式详解。欢迎关注、star，共同完善和分享！|7|2024-06-12|
+|56|[mirabilite-s-kingdom/Shared-Wardrobe](https://github.com/mirabilite-s-kingdom/Shared-Wardrobe)|数据库课程设计 Shared Wardrobe共享衣橱|7|2024-07-19|
+|57|[ybdt/ybdt.github.io](https://github.com/ybdt/ybdt.github.io)|个人博客：https://ybdt.me/|7|2024-04-18|
+|58|[GiaoGiaoCat/GiaoGiaoCat.github.io](https://github.com/GiaoGiaoCat/GiaoGiaoCat.github.io)|一点笔记|7|2024-08-02|
+|59|[document-translate/volta](https://github.com/document-translate/volta)|volta 简体中文版文档|6|2024-05-17|
+|60|[bosens-China/blog](https://github.com/bosens-China/blog)|个人写博客的地方|6|2024-07-25|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
