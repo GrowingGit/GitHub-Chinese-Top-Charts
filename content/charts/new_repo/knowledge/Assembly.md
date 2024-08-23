@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Assembly
-<sub>数据更新: 2024-08-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
 |1|[ZJUIntl-share/zjuintl-icicles](https://github.com/ZJUIntl-share/zjuintl-icicles)|浙大国际校区课程攻略共享计划|13|2024-06-09|2024-01-15|
 |2|[William-Seven/Collected-study-materials-from-BUPT](https://github.com/William-Seven/Collected-study-materials-from-BUPT)|（bupt本科）本人报告+收集资料+个人指北，持续更新，欢迎⭐|13|2024-07-28|2023-10-23|
-|3|[YMahmoudnia/Windows-PE-Definitive-Guide](https://github.com/YMahmoudnia/Windows-PE-Definitive-Guide)|Rewriting the Chinese book Windows PE权威指南 in Persian.|4|2024-06-14|2024-06-14|
+|3|[YMahmoudnia/Windows-PE-Definitive-Guide](https://github.com/YMahmoudnia/Windows-PE-Definitive-Guide)|Rewriting the Chinese book Windows PE权威指南 in Persian.|5|2024-06-14|2024-06-14|
 |4|[CuB3y0nd/assembly.rip](https://github.com/CuB3y0nd/assembly.rip)|李忠《x86 汇编语言：从实模式到保护模式》（第二版）检测点及章节习题 + pwndbg 速查手册|3|2024-03-24|2024-02-19|
 |5|[susudebug/XMU_Assembly](https://github.com/susudebug/XMU_Assembly)|厦门大学信息学院计科汇编资料|3|2024-06-07|2023-12-22|
 
