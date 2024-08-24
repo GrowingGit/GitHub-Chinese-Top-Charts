@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Vim script
-<sub>数据更新: 2024-08-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|10352|4|2024-07-06|
+|1|[wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn)|Vim 从入门到精通|10355|4|2024-07-06|
 |2|[kenshin912/Note](https://github.com/kenshin912/Note)|私人笔记|3|0|2024-07-19|
 |3|[wsdjeg/ChineseLinter.vim](https://github.com/wsdjeg/ChineseLinter.vim)|中文文档语言规范检查工具|37|0|2024-03-09|
 |4|[bujnlc8/vim-translator](https://github.com/bujnlc8/vim-translator)|一个有用的翻译vim插件, 提供有道和百度两种选择,既能查英文也能查中文。|10|0|2024-08-09|

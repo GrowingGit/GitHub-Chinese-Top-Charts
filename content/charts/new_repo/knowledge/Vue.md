@@ -1,18 +1,18 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2024-08-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[TyCoding/langchat](https://github.com/TyCoding/langchat)|LangChat: Java LLMs/AI Project, Supports Multi AI Providers( OpenAI / Gemini / Ollama / Azure / 智谱 / 阿里通义大模型 / 百度千帆大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用|316|2024-08-22|2024-02-08|
-|2|[jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter)|微信公众号文章导出工具，100%还原原文样式|183|2024-08-22|2024-07-17|
+|1|[TyCoding/langchat](https://github.com/TyCoding/langchat)|LangChat: Java LLMs/AI Project, Supports Multi AI Providers( OpenAI / Gemini / Ollama / Azure / 智谱 / 阿里通义大模型 / 百度千帆大模型), Java生态下AI大模型产品解决方案，快速构建企业级AI知识库、AI机器人应用|318|2024-08-23|2024-02-08|
+|2|[jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter)|微信公众号文章导出工具，100%还原原文样式|238|2024-08-23|2024-07-17|
 |3|[DrssXpro/waterfall-demo](https://github.com/DrssXpro/waterfall-demo)|Vue3 + TS：模仿小红书封装瀑布流组件|93|2024-05-23|2024-01-11|
 |4|[Theo-Messi/xx.theojs.cn](https://github.com/Theo-Messi/xx.theojs.cn)|玄学宝典 - 中华传统五术书籍(山医命相卜)/传世经典著作|76|2024-08-01|2023-10-18|
-|5|[fantastic-mobile/basic](https://github.com/fantastic-mobile/basic)|⭐⭐⭐⭐⭐ 一款自成一派的移动端 H5 框架，支持多款 UI 组件库，基于 Vue3 。移动端, H5, vant, 手机端, mobile, 模板, 商城, 微信公众号|49|2024-08-22|2024-05-29|
+|5|[fantastic-mobile/basic](https://github.com/fantastic-mobile/basic)|⭐⭐⭐⭐⭐ 一款自成一派的移动端 H5 框架，支持多款 UI 组件库，基于 Vue3 。移动端, H5, vant, 手机端, mobile, 模板, 商城, 微信公众号|51|2024-08-22|2024-05-29|
 |6|[bitporo/EasySend](https://github.com/bitporo/EasySend)|✨⚡️EasySend is a software that can share messages and files in LAN.  Only need open it on the host device, other devices use browser receive messages and files(局域网共享文本文件小工具，仅需一端安装，其余端使用浏览器即可)|47|2024-07-21|2024-06-10|
-|7|[Natrium0521/Firefly](https://github.com/Natrium0521/Firefly)|《崩坏：星穹铁道》流萤工具箱——成就管理、跃迁记录|41|2024-08-16|2024-03-03|
-|8|[Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft)|craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务|34|2024-08-21|2024-04-19|
+|7|[Natrium0521/Firefly](https://github.com/Natrium0521/Firefly)|《崩坏：星穹铁道》流萤工具箱——成就管理、跃迁记录|41|2024-08-23|2024-03-03|
+|8|[Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft)|craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务|37|2024-08-21|2024-04-19|
 |9|[youshandefeiyang/tools](https://github.com/youshandefeiyang/tools)|直播/点播工具集合|30|2024-06-30|2024-06-30|
 |10|[syh19/siyuan-plugin-task-list](https://github.com/syh19/siyuan-plugin-task-list)|思源笔记插件——任务列表：汇总散落在整个工作空间的任务  Siyuan Note Plugin——Task List: Summarize tasks scattered throughout your workspace|27|2024-08-17|2024-03-23|
 |11|[izhichao/vitepress-theme-minimalism](https://github.com/izhichao/vitepress-theme-minimalism)|A Minimalist VitePress Blog Theme   一个极简的 VitePress 博客主题|23|2024-08-08|2023-09-14|
@@ -36,15 +36,15 @@
 |29|[Slumhee/Web002VUE-01_vuebasictutorials](https://github.com/Slumhee/Web002VUE-01_vuebasictutorials)|Code and text version of the tutorial on Vue Framework, InkkaPlumChannel.   InkkaPlum频道的Vue框架教程的代码和文字版教程。|7|2024-06-10|2024-06-10|
 |30|[milkory/anita-terminal](https://github.com/milkory/anita-terminal)|阿妮塔终端 / 雷索纳斯 资料整合站|7|2024-06-22|2024-03-25|
 |31|[KikoStar123/webgis_srtp](https://github.com/KikoStar123/webgis_srtp)|时空知识图谱SRTP项目Webgis前端|7|2024-08-20|2024-01-28|
-|32|[BoyangL1/redbook](https://github.com/BoyangL1/redbook)|Vue3仿照小红书界面|5|2024-04-18|2024-04-05|
-|33|[Cookiesukaze/bianlian](https://github.com/Cookiesukaze/bianlian)|AI视频翻译   AI Video Translation|5|2024-05-29|2023-12-09|
-|34|[enson0131/vitePress-blob](https://github.com/enson0131/vitePress-blob)|个人博客|5|2024-06-13|2023-09-15|
-|35|[JiaosSir/kesou-search](https://github.com/JiaosSir/kesou-search)|一个简约美观的搜索页，支持多种搜索集合（支持明亮暗黑模式切换），您可以在下方网址体验本项目|4|2024-07-27|2024-07-27|
-|36|[SoJer1012/tauri-knote](https://github.com/SoJer1012/tauri-knote)|tauri+vue3+vite+naiveui，tauri开发桌面版笔记本+行程计划提醒|4|2024-07-17|2024-07-17|
-|37|[tangshuang/chattts-newer](https://github.com/tangshuang/chattts-newer)|ChatTTS Newer是专为想要使用ChatTTS的新手准备的入门工具|4|2024-07-11|2024-07-09|
-|38|[wf0/monaco-editor-translate](https://github.com/wf0/monaco-editor-translate)|monaco editor 译文（中文学习文档）|4|2024-08-10|2024-06-21|
-|39|[xfxaiagent/xfxai](https://github.com/xfxaiagent/xfxai)|小飞侠AI解决方案, AI办公, AI辅助, PPT转化, 生产力, 工作流程, 文档处理, 设计和演示应用, 工作效率, 任务管理, 项目管理, 办公自动化, 创意展现, 智能日程管理, 数据驱动决策, 效率提升, 创新工作方案, 实战案例分享, 优化工作流, 提高工作效率, 智能技术应用|4|2024-06-21|2024-05-31|
-|40|[course-dasheng/geektime-vue-course](https://github.com/course-dasheng/geektime-vue-course)|极客时间玩转vue课件|4|2024-07-10|2024-05-24|
+|32|[course-dasheng/geektime-vue-course](https://github.com/course-dasheng/geektime-vue-course)|极客时间玩转vue课件|5|2024-07-10|2024-05-24|
+|33|[BoyangL1/redbook](https://github.com/BoyangL1/redbook)|Vue3仿照小红书界面|5|2024-04-18|2024-04-05|
+|34|[Cookiesukaze/bianlian](https://github.com/Cookiesukaze/bianlian)|AI视频翻译   AI Video Translation|5|2024-05-29|2023-12-09|
+|35|[enson0131/vitePress-blob](https://github.com/enson0131/vitePress-blob)|个人博客|5|2024-06-13|2023-09-15|
+|36|[JiaosSir/kesou-search](https://github.com/JiaosSir/kesou-search)|一个简约美观的搜索页，支持多种搜索集合（支持明亮暗黑模式切换），您可以在下方网址体验本项目|4|2024-07-27|2024-07-27|
+|37|[SoJer1012/tauri-knote](https://github.com/SoJer1012/tauri-knote)|tauri+vue3+vite+naiveui，tauri开发桌面版笔记本+行程计划提醒|4|2024-07-17|2024-07-17|
+|38|[tangshuang/chattts-newer](https://github.com/tangshuang/chattts-newer)|ChatTTS Newer是专为想要使用ChatTTS的新手准备的入门工具|4|2024-07-11|2024-07-09|
+|39|[wf0/monaco-editor-translate](https://github.com/wf0/monaco-editor-translate)|monaco editor 译文（中文学习文档）|4|2024-08-10|2024-06-21|
+|40|[xfxaiagent/xfxai](https://github.com/xfxaiagent/xfxai)|小飞侠AI解决方案, AI办公, AI辅助, PPT转化, 生产力, 工作流程, 文档处理, 设计和演示应用, 工作效率, 任务管理, 项目管理, 办公自动化, 创意展现, 智能日程管理, 数据驱动决策, 效率提升, 创新工作方案, 实战案例分享, 优化工作流, 提高工作效率, 智能技术应用|4|2024-06-21|2024-05-31|
 |41|[Azure12355/Medical-QASystem-front-end](https://github.com/Azure12355/Medical-QASystem-front-end)|基于Neo4j的医疗知识图谱的智能问答-Vue前端界面|4|2024-05-21|2024-05-21|
 |42|[Arcticn/KeyBlog](https://github.com/Arcticn/KeyBlog)|A blog website made with ASP .Net core + Vue.js 使用 ASP .Net core + Vue.js 编写的前后端分离的博客网站|4|2024-08-13|2024-05-19|
 |43|[Theo-Messi/share.theojs.cn](https://github.com/Theo-Messi/share.theojs.cn)|阿里云盘资源分享 - 热门资源/电视剧/电影/综艺/动漫/大陆/日本/韩国/欧美|4|2024-08-12|2024-05-08|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-08-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-24&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -19,11 +19,11 @@
 |12|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Uav track collaborative planning based on pso algorithm/基于pso算法的无人机航迹协同规划|9|2024-07-09|2024-06-23|
 |13|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|9|2024-03-25|2023-10-25|
 |14|[Trist-wood/Digital-image-processing-system](https://github.com/Trist-wood/Digital-image-processing-system)|本系统基于MATLAB 的图像处理工具箱和图形用户界面(GUI)设计与实现，构建了一个面向对象且高度可视化的图像处理操作系统，该系统实现了图像增强、图像变换、图像滤波、图像分割、边缘检测等内容|7|2024-05-25|2024-05-25|
-|15|[linggm3/SYSU_Digital-Image-Processing](https://github.com/linggm3/SYSU_Digital-Image-Processing)|2023年中山大学计算机学院谢晓华老师的数图（数字图像处理）项目|7|2024-03-01|2024-03-01|
-|16|[Aitherqwq/dsp_integrate_e_demo](https://github.com/Aitherqwq/dsp_integrate_e_demo)|数字信号处理大作业，语音处理|7|2024-03-16|2023-12-30|
-|17|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|2024-08-14|2024-06-02|
-|18|[123RoBin0819/Sea-clutter](https://github.com/123RoBin0819/Sea-clutter)|海杂波|6|2024-05-17|2024-05-17|
-|19|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|6|2024-05-21|2024-05-06|
+|15|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|7|2024-05-21|2024-05-06|
+|16|[linggm3/SYSU_Digital-Image-Processing](https://github.com/linggm3/SYSU_Digital-Image-Processing)|2023年中山大学计算机学院谢晓华老师的数图（数字图像处理）项目|7|2024-03-01|2024-03-01|
+|17|[Aitherqwq/dsp_integrate_e_demo](https://github.com/Aitherqwq/dsp_integrate_e_demo)|数字信号处理大作业，语音处理|7|2024-03-16|2023-12-30|
+|18|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|2024-08-14|2024-06-02|
+|19|[123RoBin0819/Sea-clutter](https://github.com/123RoBin0819/Sea-clutter)|海杂波|6|2024-05-17|2024-05-17|
 |20|[flyQQQHddd/pattern-recognition](https://github.com/flyQQQHddd/pattern-recognition)|模式识别|6|2024-04-11|2024-04-11|
 |21|[TkungAI/AMBD-CGE](https://github.com/TkungAI/AMBD-CGE)|基于MBD（Model-Based Design，基于模型的设计）代码生成样例。|5|2024-04-14|2024-04-04|
 |22|[SJY411/ADRC-control-system-of-highly-dynamic-aircraft](https://github.com/SJY411/ADRC-control-system-of-highly-dynamic-aircraft)|本项目对于高动态飞行器过载控制系统，提出了基于角加速度反馈的自动驾驶仪设计方案，并设计了自抗扰控制系统。|5|2024-03-25|2024-03-25|
