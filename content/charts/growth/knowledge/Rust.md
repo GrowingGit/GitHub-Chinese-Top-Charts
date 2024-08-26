@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Rust
-<sub>数据更新: 2024-08-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|269621|136|2024-08-18|
-|2|[sunface/rust-course](https://github.com/sunface/rust-course)|“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book |24635|11|2024-08-20|
-|3|[johnlui/PPHC](https://github.com/johnlui/PPHC)|📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com|3712|7|2024-07-23|
-|4|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)|Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.|11872|5|2024-08-19|
+|1|[996icu/996.ICU](https://github.com/996icu/996.ICU)|Repo for counting stars and contributing. Press F to pay respect to glorious developers.|269623|136|2024-08-18|
+|2|[sunface/rust-course](https://github.com/sunface/rust-course)|“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book |24641|11|2024-08-20|
+|3|[johnlui/PPHC](https://github.com/johnlui/PPHC)|📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com|3714|7|2024-07-23|
+|4|[sunface/rust-by-practice](https://github.com/sunface/rust-by-practice)|Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.|11874|5|2024-08-19|
 |5|[analysis-tools-dev/static-analysis](https://github.com/analysis-tools-dev/static-analysis)|⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality.|13142|4|2024-08-19|
-|6|[cncases/cases](https://github.com/cncases/cases)|中国裁判文书网本地搜索|562|3|2024-08-23|
-|7|[rust-boom/rust-boom](https://github.com/rust-boom/rust-boom)|Awesome Rust (Rust 资源   学习   书 ). 💥|1227|2|2024-08-24|
-|8|[QMHTMY/RustBook](https://github.com/QMHTMY/RustBook)|A book about Rust Data Structures and Algorithms.|2449|2|2024-07-21|
-|9|[alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns)|Magical Rust patterns laid out and simplified|1126|2|2024-05-11|
-|10|[Borber/Tran](https://github.com/Borber/Tran)|简洁, 快速, 划词翻译|488|2|2024-08-23|
+|6|[cncases/cases](https://github.com/cncases/cases)|中国裁判文书网本地搜索|562|2|2024-08-23|
+|7|[rust-boom/rust-boom](https://github.com/rust-boom/rust-boom)|Awesome Rust (Rust 资源   学习   书 ). 💥|1229|2|2024-08-24|
+|8|[QMHTMY/RustBook](https://github.com/QMHTMY/RustBook)|A book about Rust Data Structures and Algorithms.|2450|2|2024-07-21|
+|9|[alexpusch/rust-magic-patterns](https://github.com/alexpusch/rust-magic-patterns)|Magical Rust patterns laid out and simplified|1127|2|2024-05-11|
+|10|[Borber/Tran](https://github.com/Borber/Tran)|简洁, 快速, 划词翻译|489|2|2024-08-25|
 |11|[sotrh/learn-wgpu](https://github.com/sotrh/learn-wgpu)|Guide for using gfx-rs's wgpu library.|1469|1|2024-08-18|
 |12|[PeiPei233/zju-learning-assistant](https://github.com/PeiPei233/zju-learning-assistant)|帮你快速下载所有课件😋|205|1|2024-06-30|
 |13|[WuBingzheng/build-lua-in-rust](https://github.com/WuBingzheng/build-lua-in-rust)|《用Rust实现Lua解释器》 / _Build a Lua Interpreter in Rust_|659|1|2024-03-25|
