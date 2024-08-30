@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Pascal
-<sub>数据更新: 2024-08-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-08-30&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -19,12 +19,11 @@
 |12|[terrylao/PascalContainer](https://github.com/terrylao/PascalContainer)|advanced data structure in Pascal, include  B-Tree,B+-Tree,B*-Tree,T-Tree,HashMap,priority queue,red-black-Tree,AVL-tree,Quad-Tree,SkipList,Sortable Single Linklist,Sort Function,LockFreeQueue,nth_ele ...|38|2024-06-25|
 |13|[kewuaa/uestc_wifi_helper](https://github.com/kewuaa/uestc_wifi_helper)|电子科技大学（UESTC）校园网登录|20|2024-03-10|
 |14|[msfm2018/WinBarDock](https://github.com/msfm2018/WinBarDock)|模仿 MacOSX Dock 效率软件   打造国产 ObjectDock|18|2024-07-28|
-|15|[hkoi/hkoi-solutions](https://github.com/hkoi/hkoi-solutions)|HKOI Final Event solutions|12|2024-02-28|
-|16|[cityboat888/OnePascal](https://github.com/cityboat888/OnePascal)|OnePascal简介: OneDelphi是基于Delphi IDE开发的三层中间件， oneLaz是基于Lazaus IDE开发的三层中间件， OneUniApp是基于HBuilderX IDE开发的多端合一app 中间件支持MVC及传统DataSet框架，这个版本是在源码的基础上(放弃mormot)使用Delphi-Cross-Socket作为HTTP通讯|5|2024-04-16|
-|17|[abcjingtong/HCView_Pascal](https://github.com/abcjingtong/HCView_Pascal)|一个类似word或wps用于文字排版相关功能的控件，有Delphi、C#、Html5、C++四个版本。|5|2024-08-05|
-|18|[axpokl/display](https://github.com/axpokl/display)|Display单元库|5|2024-06-28|
-|19|[dmznlin/mini-soft](https://github.com/dmznlin/mini-soft)|用于管理日常开发的小型系统|4|2024-04-19|
-|20|[szlbz/DataSetDelta](https://github.com/szlbz/DataSetDelta)|为lazarus增加类似delphi TClientDataSet的Delta功能|2|2024-08-17|
+|15|[cityboat888/OnePascal](https://github.com/cityboat888/OnePascal)|OnePascal简介: OneDelphi是基于Delphi IDE开发的三层中间件， oneLaz是基于Lazaus IDE开发的三层中间件， OneUniApp是基于HBuilderX IDE开发的多端合一app 中间件支持MVC及传统DataSet框架，这个版本是在源码的基础上(放弃mormot)使用Delphi-Cross-Socket作为HTTP通讯|5|2024-04-16|
+|16|[abcjingtong/HCView_Pascal](https://github.com/abcjingtong/HCView_Pascal)|一个类似word或wps用于文字排版相关功能的控件，有Delphi、C#、Html5、C++四个版本。|5|2024-08-05|
+|17|[axpokl/display](https://github.com/axpokl/display)|Display单元库|5|2024-06-28|
+|18|[dmznlin/mini-soft](https://github.com/dmznlin/mini-soft)|用于管理日常开发的小型系统|4|2024-04-19|
+|19|[szlbz/DataSetDelta](https://github.com/szlbz/DataSetDelta)|为lazarus增加类似delphi TClientDataSet的Delta功能|2|2024-08-17|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
