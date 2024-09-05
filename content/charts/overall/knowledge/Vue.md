@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Vue
-<sub>数据更新: 2024-09-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|4920|2024-05-21|
+|1|[shfshanyue/Daily-Question](https://github.com/shfshanyue/Daily-Question)|互联网大厂内推及大厂面经整理，并且每天一道面试题推送。每天五分钟，半年大厂中|4921|2024-05-21|
 |2|[xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing)|🚀一款简洁高效的VuePress知识管理&博客(blog)主题|4446|2024-08-02|
 |3|[inoutcode/ethereum_book](https://github.com/inoutcode/ethereum_book)|精通以太坊 （中文版）|3547|2024-05-07|
-|4|[ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss)|:orange_book: 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、iCSS前端趣闻、字节前端、前端精读评论、前端食堂、前端从进阶到入院、淘系前端团队、张鑫旭博客、前端里、凹凸实验室|2418|2024-09-03|
+|4|[ChanceYu/front-end-rss](https://github.com/ChanceYu/front-end-rss)|:orange_book: 根据 RSS 订阅源抓取最新前端技术文章，来源：Node Weekly、JavaScript Weekly、前端早读课、前端大全、前端之巅、前端之神、前端技术优选、程序员成长指北、iCSS前端趣闻、字节前端、前端精读评论、前端食堂、前端从进阶到入院、淘系前端团队、张鑫旭博客、前端里、凹凸实验室|2420|2024-09-03|
 |5|[vant-ui/vant-demo](https://github.com/vant-ui/vant-demo)|Collection of vant demos.|1957|2024-06-16|
-|6|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|1196|2024-09-03|
-|7|[simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe)|LinguaCafe is a self-hosted software that helps language learners read foreign languages.|842|2024-09-02|
+|6|[vuejs-translations/docs-zh-cn](https://github.com/vuejs-translations/docs-zh-cn)|Vue 文档官方中文翻译 ｜ Official Chinese translation for Vue docs|1196|2024-09-04|
+|7|[simjanos-dev/LinguaCafe](https://github.com/simjanos-dev/LinguaCafe)|LinguaCafe is a self-hosted software that helps language learners read foreign languages.|845|2024-09-03|
 |8|[hepengwei/visualization-collection-vue](https://github.com/hepengwei/visualization-collection-vue)|🌈 一个专注于前端视觉效果的集合应用，包含CSS动效、Canvas动画、Three.js3D、人工智能应用等上百个案例（Vue版本）|692|2024-04-26|
 |9|[wangrongding/frontend-park](https://github.com/wangrongding/frontend-park)|🌸这是一个有趣的前端趣味知识公园~该项目是我平时捣鼓前端相关技术的一些案例集合。【涵盖：（Tensorflow.js-姿态识别，人脸识别），(WebRTC-音视频通话，录屏，虚拟背景，信令服务器)，（Threejs-太阳系，3D 动画），（图片处理-千图成像，图片压缩，画板），（隐写术-文本隐写加密，图片隐写加密）等等...】|527|2024-08-21|
 |10|[zerotrac/leetcode_problem_rating](https://github.com/zerotrac/leetcode_problem_rating)|Self-calculated rating of problems in leetcode weekly/biweekly contests.|479|2024-08-27|
@@ -29,7 +29,7 @@
 |22|[rymcu/nebula](https://github.com/rymcu/nebula)|nebula(星云)——一款现代化的知识社区前台项目，使用 Vue + NuxtJS + Element-UI 实现|125|2024-08-12|
 |23|[XHXJ/json-GPT-translator](https://github.com/XHXJ/json-GPT-translator)|GPT-Translator 是一款前后端分离基于 OpenAI 的高效翻译软件。这个工具可以读取 JSON 和 Excel(zip) 文件，然后进行行翻译，并输出结果。|122|2024-04-18|
 |24|[sweida/vue-blog-index](https://github.com/sweida/vue-blog-index)|laravel+vue 个人博客，项目地址：https://www.golang365.top|115|2024-06-18|
-|25|[huangyuanyin/hyy-vue3-mindMap](https://github.com/huangyuanyin/hyy-vue3-mindMap)|一个基于 Vue3.2 +ElementPlus的思维导图|99|2024-06-04|
+|25|[huangyuanyin/hyy-vue3-mindMap](https://github.com/huangyuanyin/hyy-vue3-mindMap)|一个基于 Vue3.2 +ElementPlus的思维导图|100|2024-06-04|
 |26|[DrssXpro/waterfall-demo](https://github.com/DrssXpro/waterfall-demo)|Vue3 + TS：模仿小红书封装瀑布流组件|95|2024-05-23|
 |27|[aLittleDonkey/poetize-ui-vue2](https://github.com/aLittleDonkey/poetize-ui-vue2)|个人博客 聊天室，挑战最美博客，使用 SpringBoot 和 Vue 的个人网站|92|2024-07-05|
 |28|[BuptStEve/blog](https://github.com/BuptStEve/blog)|✍️ StEve Young 的个人博客|83|2024-06-28|
@@ -38,8 +38,8 @@
 |31|[xishandong/Vue3_web_redbook](https://github.com/xishandong/Vue3_web_redbook)|仿小红书前端设计的网页|76|2024-07-11|
 |32|[fengziye/Gblog](https://github.com/fengziye/Gblog)|一款nice的基于 vue 的博客模板|75|2024-04-08|
 |33|[Renovamen/Fishmail](https://github.com/Renovamen/Fishmail)|奇怪的摸鱼工具增加了：装作在 Gmail 上查邮件的样子看知乎摸鱼，从而降低我上班摸鱼时的不安全感|69|2024-04-29|
-|34|[luoyunchong/lin-cms-vvlog](https://github.com/luoyunchong/lin-cms-vvlog)|增加了CMS博客的用户UI端|58|2024-07-13|
-|35|[fantastic-mobile/basic](https://github.com/fantastic-mobile/basic)|⭐⭐⭐⭐⭐ 一款自成一派的移动端 H5 框架，支持多款 UI 组件库，基于 Vue3 。移动端, H5, vant, 手机端, mobile, 模板, 商城, 微信公众号|57|2024-09-01|
+|34|[fantastic-mobile/basic](https://github.com/fantastic-mobile/basic)|⭐⭐⭐⭐⭐ 一款自成一派的移动端 H5 框架，支持多款 UI 组件库，基于 Vue3 。移动端, H5, vant, 手机端, mobile, 模板, 商城, 微信公众号|58|2024-09-01|
+|35|[luoyunchong/lin-cms-vvlog](https://github.com/luoyunchong/lin-cms-vvlog)|增加了CMS博客的用户UI端|58|2024-07-13|
 |36|[bitporo/EasySend](https://github.com/bitporo/EasySend)|✨⚡️EasySend is a software that can share messages and files in LAN.  Only need open it on the host device, other devices use browser receive messages and files(局域网共享文本文件小工具，仅需一端安装，其余端使用浏览器即可)|52|2024-09-01|
 |37|[Yakima-Teng/memo](https://github.com/Yakima-Teng/memo)|👻 以写书的方式撰写的技术博客，以便内容更有结构性。记录了WEB编程常用的知识点。有单页版、多页版、PDF版，并且提供了安卓、Windows等客户端。支持暗黑模式。|52|2024-07-29|
 |38|[galaxy-s10/nuxt-blog-client](https://github.com/galaxy-s10/nuxt-blog-client)|基于Nuxt2 + ElementUI 搭建的博客前台|51|2024-06-01|
@@ -49,10 +49,10 @@
 |42|[opensource-f2f/website](https://github.com/opensource-f2f/website)|《开源面对面》官网|44|2024-03-16|
 |43|[Natrium0521/Firefly](https://github.com/Natrium0521/Firefly)|《崩坏：星穹铁道》流萤工具箱——成就管理、跃迁记录|42|2024-08-30|
 |44|[lpya/vue3-ts-vite-konvajs](https://github.com/lpya/vue3-ts-vite-konvajs)|vue3-ts-vite-konvajs是一个konvajs基础使用教程，它包含了矩形、圆、文本、多边形基本图形和常用的事件，并提供了项目实战案例|42|2024-06-05|
-|45|[nice-people-frontend-community/nice-leetcode](https://github.com/nice-people-frontend-community/nice-leetcode)|好青年    leetcode 打卡群|39|2024-09-03|
-|46|[pdsuwwz/hoc-element-table](https://github.com/pdsuwwz/hoc-element-table)|📦  基于 Vue3 + Webpack5 + Element Plus Table 二次构建表格组件，开箱即用 A Vue 3.x Table Component built on Webpack 5 该组件库可供学习、参考和用于二次开发|38|2024-09-03|
-|47|[wangyupo/v3s](https://github.com/wangyupo/v3s)|基于 Vue3、Vite5、Vue Router、Pinia 和 Element Plus 构建的高效后台管理模板。结合 VSCode 插件 v3s snippets，助力快速开发业务应用。|36|2024-08-12|
-|48|[Lionad-Morotar/blog](https://github.com/Lionad-Morotar/blog)|仿生狮子的个人博客，写点代码以及，胡说八道|35|2024-09-03|
+|45|[nice-people-frontend-community/nice-leetcode](https://github.com/nice-people-frontend-community/nice-leetcode)|好青年    leetcode 打卡群|39|2024-09-04|
+|46|[pdsuwwz/hoc-element-table](https://github.com/pdsuwwz/hoc-element-table)|📦  基于 Vue3 + Webpack5 + Element Plus Table 二次构建表格组件，开箱即用 A Vue 3.x Table Component built on Webpack 5 该组件库可供学习、参考和用于二次开发|38|2024-09-04|
+|47|[wangyupo/v3s](https://github.com/wangyupo/v3s)|基于 Vue3、Vite5、Vue Router、Pinia 和 Element Plus 构建的高效后台管理模板。结合 VSCode 插件 v3s snippets，助力快速开发业务应用。|37|2024-08-12|
+|48|[Lionad-Morotar/blog](https://github.com/Lionad-Morotar/blog)|仿生狮子的个人博客，写点代码以及，胡说八道|35|2024-09-04|
 |49|[Fankekeke/travel_cos](https://github.com/Fankekeke/travel_cos)|基于SpringBoot + Vue的旅游住宿小程序 实现权限的分布控制，如管理员和民宿管理员，二则所能够操作的权限有质的区别。 实现控制前端页面的导航展示(添加，修改，删除，查询)。 实现景点的发布(添加，修改，删除，查询)。 实现旅游攻略的发布(添加，修改，删除，查询)。 实现民宿预定(添加，修改，删除，查询)。 实现民宿房间管理(添加，修改，删除，查询)。 订单统计，订单评价|33|2024-07-16|
 |50|[galaxy-s10/vue3-blog-admin](https://github.com/galaxy-s10/vue3-blog-admin)|基于Vue3 + Webpack5 + Typescript 搭建的博客后台|33|2024-08-13|
 |51|[youshandefeiyang/tools](https://github.com/youshandefeiyang/tools)|直播/点播工具集合|31|2024-06-30|
@@ -70,7 +70,7 @@
 |63|[ADKcodeXD/MMGC-frontend](https://github.com/ADKcodeXD/MMGC-frontend)|黄金祭MMGC，仅供MMGC使用，Nuxt3学习案例，官网前端。采用Nuxt3 正式版，支持国际化，封装fetch，采用了ElementPlus组件库。|19|2024-05-09|
 |64|[liuzhenghe30265/d3-vue-visualization](https://github.com/liuzhenghe30265/d3-vue-visualization)|知识图谱可视化，前端 vue.js + d3.js|19|2024-03-14|
 |65|[hellowoody/web-lesson](https://github.com/hellowoody/web-lesson)|web前端学习|19|2024-08-30|
-|66|[qizhenshuai/qs-mpvue-wxparse](https://github.com/qizhenshuai/qs-mpvue-wxparse)|基于mpvue富文本，适用于各个公众号文章编辑器生成的富文本。|19|2024-03-05|
+|66|[bianchenglequ/chat2KnowL](https://github.com/bianchenglequ/chat2KnowL)|知识文档问答，用大模型与文档对话，提供Al分析、阅读、问答工具，助你快速了解文档内容。|18|2024-09-04|
 |67|[lfb/vue-blog-admin](https://github.com/lfb/vue-blog-admin)|基于 Vue.js + Element-UI 实现的博客管理后台|18|2024-08-26|
 |68|[3fuyang/libre-testing](https://github.com/3fuyang/libre-testing)|2022 Software Testing course project, Tongji University. 同济大学软件测试课设|18|2024-05-21|
 |69|[pea3nut/pea3nut-info](https://github.com/pea3nut/pea3nut-info)|网站“花生PeA的个人资料”（pea3nut.info）源码|18|2024-06-22|
@@ -99,7 +99,7 @@
 |92|[mcwenzai/vue3-ts-blog](https://github.com/mcwenzai/vue3-ts-blog)|最新vue3+typescript编写的高性能博客前端|10|2024-06-20|
 |93|[yunyuyuan/nuxt2-blog](https://github.com/yunyuyuan/nuxt2-blog)|nuxt2旧博客|10|2024-03-13|
 |94|[Sunnnner/wallhaven_rs](https://github.com/Sunnnner/wallhaven_rs)|Wallpapers图片下载器|9|2024-05-23|
-|95|[EITSxiaozhai/FastApi_Blog](https://github.com/EITSxiaozhai/FastApi_Blog)|一个Fastap+VUE的前后端异步分离博客项目-采用了Docker自动部署|9|2024-09-03|
+|95|[EITSxiaozhai/FastApi_Blog](https://github.com/EITSxiaozhai/FastApi_Blog)|一个Fastap+VUE的前后端异步分离博客项目-采用了Docker自动部署|9|2024-09-04|
 |96|[nonhana/littleSharing-Frontend](https://github.com/nonhana/littleSharing-Frontend)|一个以Markdown为主要沟通形式的资源分享社区。Frontend：Vue3.0+Pinia+Vite+TypeScript+Element Plus|9|2024-07-22|
 |97|[DearWQ/vue-week-calendar](https://github.com/DearWQ/vue-week-calendar)|这是一个周日历，可进行排课展示，类似课程表显示|9|2024-07-03|
 |98|[QianShi-ffg/qianshi-blog2x](https://github.com/QianShi-ffg/qianshi-blog2x)|博客2.0 基于vite + vue3 + pinia + vue-router4 + ts|9|2024-06-04|
@@ -140,15 +140,16 @@
 |133|[Theo-Messi/share.theojs.cn](https://github.com/Theo-Messi/share.theojs.cn)|阿里云盘资源分享 - 热门资源/电视剧/电影/综艺/动漫/大陆/日本/韩国/欧美|4|2024-08-12|
 |134|[universe-st/noname-extensionManager](https://github.com/universe-st/noname-extensionManager)|无名杀《扩展管家》扩展，使用了vue特性。|4|2024-03-17|
 |135|[justorez/peppa](https://github.com/justorez/peppa)|🐷《挑战 52 天背完小猪佩奇》配套练习网站|4|2024-04-20|
-|136|[Coooolfan/UniBoard](https://github.com/Coooolfan/UniBoard)|个人介绍，导航页、笔记、短链、文件分享。Profile、Note、ShortURL、FileSharing……|4|2024-08-26|
-|137|[daixu-cn/Blog](https://github.com/daixu-cn/Blog)|个人简约博客，响应式布局兼容多端；支持多主题；黑暗模式；QQ、GitHub、Google快捷登录；搭配Node后端，整站部署。具体查看 Readme 完整文档。|4|2024-08-07|
-|138|[xp-bear/ChatXP](https://github.com/xp-bear/ChatXP)|ChatXP是人工智能技术驱动的自然语言处理工具，它能够通过理解和学习人类的语言来进行对话，还能根据聊天的上下文进行互动，真正像人类一样来聊天交流|4|2024-03-31|
-|139|[TracyRay-cxr/PersonalBolg](https://github.com/TracyRay-cxr/PersonalBolg)|前后端分离的个人博客网站|4|2024-04-05|
-|140|[shuigedeng/taotao-cloud-ui](https://github.com/shuigedeng/taotao-cloud-ui)|微服务开发脚手架,包括大数据模块、微服务模块、前端模块。基于Spring Cloud Alibaba的微服务架构。提供技术框架的基础能力的封装，减少开发工作，只关注业务,包含了工作以来的工作总结和技术沉淀|4|2024-08-31|
-|141|[lianginx/lianginx.github.io](https://github.com/lianginx/lianginx.github.io)|🧑🏻‍💻 一名菜鸟前端工程师的技术博客 & 日常笔记✏️ 希望文章能解决你的问题|4|2024-05-07|
-|142|[yubinCloud/notebook](https://github.com/yubinCloud/notebook)|学习笔记|4|2024-04-06|
-|143|[LuckRain7/MyBlog](https://github.com/LuckRain7/MyBlog)|😊 LuckRain7 自整理的资源博客 -  基于 VuePress|4|2024-08-09|
-|144|[facexl/vuepress-theme-easyBlog](https://github.com/facexl/vuepress-theme-easyBlog)|提供vuepress的博客主题 |4|2024-07-14|
+|136|[CoderXiaoShi/master-talk](https://github.com/CoderXiaoShi/master-talk)|master-talk 大佬说|4|2024-09-03|
+|137|[Coooolfan/UniBoard](https://github.com/Coooolfan/UniBoard)|个人介绍，导航页、笔记、短链、文件分享。Profile、Note、ShortURL、FileSharing……|4|2024-08-26|
+|138|[daixu-cn/Blog](https://github.com/daixu-cn/Blog)|个人简约博客，响应式布局兼容多端；支持多主题；黑暗模式；QQ、GitHub、Google快捷登录；搭配Node后端，整站部署。具体查看 Readme 完整文档。|4|2024-08-07|
+|139|[xp-bear/ChatXP](https://github.com/xp-bear/ChatXP)|ChatXP是人工智能技术驱动的自然语言处理工具，它能够通过理解和学习人类的语言来进行对话，还能根据聊天的上下文进行互动，真正像人类一样来聊天交流|4|2024-03-31|
+|140|[TracyRay-cxr/PersonalBolg](https://github.com/TracyRay-cxr/PersonalBolg)|前后端分离的个人博客网站|4|2024-04-05|
+|141|[shuigedeng/taotao-cloud-ui](https://github.com/shuigedeng/taotao-cloud-ui)|微服务开发脚手架,包括大数据模块、微服务模块、前端模块。基于Spring Cloud Alibaba的微服务架构。提供技术框架的基础能力的封装，减少开发工作，只关注业务,包含了工作以来的工作总结和技术沉淀|4|2024-08-31|
+|142|[lianginx/lianginx.github.io](https://github.com/lianginx/lianginx.github.io)|🧑🏻‍💻 一名菜鸟前端工程师的技术博客 & 日常笔记✏️ 希望文章能解决你的问题|4|2024-05-07|
+|143|[yubinCloud/notebook](https://github.com/yubinCloud/notebook)|学习笔记|4|2024-04-06|
+|144|[LuckRain7/MyBlog](https://github.com/LuckRain7/MyBlog)|😊 LuckRain7 自整理的资源博客 -  基于 VuePress|4|2024-08-09|
+|145|[facexl/vuepress-theme-easyBlog](https://github.com/facexl/vuepress-theme-easyBlog)|提供vuepress的博客主题 |4|2024-07-14|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
