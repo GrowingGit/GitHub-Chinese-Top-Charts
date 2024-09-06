@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Groovy
-<sub>数据更新: 2024-09-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|3122|2024-07-25|
+|1|[kezong/fat-aar-android](https://github.com/kezong/fat-aar-android)|A gradle plugin that merge dependencies into the final aar file works with AGP 3.+|3121|2024-07-25|
 |2|[qq549631030/AndroidJunkCode](https://github.com/qq549631030/AndroidJunkCode)|Android马甲包生成垃圾代码插件|1067|2024-03-07|
 |3|[ihub-pub/plugins](https://github.com/ihub-pub/plugins)|A set of Gradle plug-ins that greatly simplify project management / 一套极大简化项目管理的Gradle插件集|743|2024-09-03|
 |4|[dqzboy/DevOps](https://github.com/dqzboy/DevOps)|DevOps. Make the project development and release simpler, easier and more efficient.|616|2024-07-09|
