@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2024-09-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1768|2024-07-22|
+|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1769|2024-07-22|
 |2|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|1029|2024-08-28|
 |3|[haozhu233/kableExtra](https://github.com/haozhu233/kableExtra)|Construct Complex Table with knitr::kable() + pipe. |688|2024-07-10|
-|4|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|612|2024-09-07|
+|4|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|613|2024-09-07|
 |5|[DiskFrame/disk.frame](https://github.com/DiskFrame/disk.frame)|Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data|594|2024-09-10|
 |6|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|500|2024-07-02|
 |7|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|279|2024-04-19|
@@ -57,6 +57,7 @@
 |50|[ayueme/machine_learning_base_r](https://github.com/ayueme/machine_learning_base_r)|R语言实战机器学习|11|2024-09-11|
 |51|[dazamora/DWBmodelUN](https://github.com/dazamora/DWBmodelUN)|R native implementation of the Dynamic Water Balance hydrologic model in a monthly time step |9|2024-07-11|
 |52|[Hong-Kong-Districts-Info/hktrafficcollisions](https://github.com/Hong-Kong-Districts-Info/hktrafficcollisions)|Shiny app dashboard of HK traffic collisions that result in injury.   香港車禍傷亡資料庫：利用互動地圖和儀表版，將香港車禍位置和相關數據可視化。|7|2024-09-11|
+|53|[johnlcd/CIRCScan](https://github.com/johnlcd/CIRCScan)|Toolkit for circRNA prediction by machine learning|6|2024-09-13|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
