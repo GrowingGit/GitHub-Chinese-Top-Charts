@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Kotlin
-<sub>数据更新: 2024-09-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,7 +9,7 @@
 |2|[Xigong93/XiaoZhuan](https://github.com/Xigong93/XiaoZhuan)|《小篆传包》一键上传Apk到多个应用市场，开源，免费|89|2024-07-18|2024-06-04|
 |3|[open-toys-controller/open-DGLAB-controller](https://github.com/open-toys-controller/open-DGLAB-controller)|郊狼3.0 API网络控制器. 支持任意编程语言. 郊狼socket控制器开发教程|69|2024-05-27|2024-03-12|
 |4|[Gao-hao-nan/MVVM](https://github.com/Gao-hao-nan/MVVM)|基于 模块化+Kotlin+协程+Retrofit+Jetpack+MVVM 架构.能提供大家学习如何从0到1打造一个符合[大型Android项目的架构模式]|46|2024-07-12|2023-09-19|
-|5|[Loren-Moon/RedBookComposeDemo](https://github.com/Loren-Moon/RedBookComposeDemo)|仿照iOS版小红书写的简单demo|30|2024-08-25|2024-08-25|
+|5|[Loren-Moon/RedBookComposeDemo](https://github.com/Loren-Moon/RedBookComposeDemo)|仿照iOS版小红书写的简单demo|31|2024-08-25|2024-08-25|
 |6|[rengwuxian/CourseCoroutines](https://github.com/rengwuxian/CourseCoroutines)|《Kotlin 协程完全教程》的配套源码：rengwuxian.com/kc|11|2024-09-02|2024-06-27|
 |7|[soloong/ComposeLearning](https://github.com/soloong/ComposeLearning)|Compose  学习|11|2024-07-20|2024-04-22|
 |8|[xiaowine/DSP](https://github.com/xiaowine/DSP)|一个SharedPreferences和XSharedPreferences的封装库|10|2024-06-17|2023-09-30|

@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-09-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -12,17 +12,17 @@
 |5|[YunYang255/intelligent-method-for-digital-control](https://github.com/YunYang255/intelligent-method-for-digital-control)|用matlab完成了可以读取dxf文件然后生成相关的加工代码的功能,还可以输入加工代码(.txt)生成相关的加工路线(2D和3D),程序还可以监控刀具和胚料是否干涉以及刀具的加工状态|14|2024-06-09|2024-06-09|
 |6|[Joe-Hall-Lee/sxjmqf](https://github.com/Joe-Hall-Lee/sxjmqf)|数学建模清风。|13|2024-09-05|2024-02-05|
 |7|[LeonYew-SWPU/VLPR-Based-On-MATLAB](https://github.com/LeonYew-SWPU/VLPR-Based-On-MATLAB)|基于 MATLAB 的车牌识别系统，数字图像处理期末大作业。|12|2024-05-06|2024-05-04|
-|8|[autodotua/my_roms_tools](https://github.com/autodotua/my_roms_tools)|基于MATLAB的ROMS预处理、后处理工具包；MATLAB-based pre-processing and post-processing toolkit for ROMS (Regional Ocean Modeling System)|12|2024-07-06|2023-11-21|
+|8|[autodotua/my_roms_tools](https://github.com/autodotua/my_roms_tools)|基于MATLAB的ROMS预处理、后处理工具包；MATLAB-based pre-processing and post-processing toolkit for ROMS (Regional Ocean Modeling System)|12|2024-09-13|2023-11-21|
 |9|[vectorZeng/hzbmmc2024-B](https://github.com/vectorZeng/hzbmmc2024-B)|2024年华中杯数学建模比赛 B题 使用行车轨迹估计交通信号灯周期问题|10|2024-06-06|2024-04-21|
 |10|[WeianHuang23/Dispersion-assisted_High-dimensional_Photodetector](https://github.com/WeianHuang23/Dispersion-assisted_High-dimensional_Photodetector)|数据集的创建|10|2024-04-03|2024-04-01|
 |11|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Uav track collaborative planning based on pso algorithm/基于pso算法的无人机航迹协同规划|9|2024-07-09|2024-06-23|
 |12|[qiaosuobutouche/Watermarking-system](https://github.com/qiaosuobutouche/Watermarking-system)|基于DWT和DCT的鲁棒图像水印系统|9|2024-03-25|2023-10-25|
 |13|[Trist-wood/Digital-image-processing-system](https://github.com/Trist-wood/Digital-image-processing-system)|本系统基于MATLAB 的图像处理工具箱和图形用户界面(GUI)设计与实现，构建了一个面向对象且高度可视化的图像处理操作系统，该系统实现了图像增强、图像变换、图像滤波、图像分割、边缘检测等内容|7|2024-05-25|2024-05-25|
-|14|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|7|2024-05-21|2024-05-06|
-|15|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|7|2024-07-26|2024-02-29|
-|16|[Aitherqwq/dsp_integrate_e_demo](https://github.com/Aitherqwq/dsp_integrate_e_demo)|数字信号处理大作业，语音处理|7|2024-03-16|2023-12-30|
-|17|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|2024-08-14|2024-06-02|
-|18|[123RoBin0819/Sea-clutter](https://github.com/123RoBin0819/Sea-clutter)|海杂波|6|2024-05-17|2024-05-17|
+|14|[123RoBin0819/Sea-clutter](https://github.com/123RoBin0819/Sea-clutter)|海杂波|7|2024-05-17|2024-05-17|
+|15|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|7|2024-05-21|2024-05-06|
+|16|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|7|2024-07-26|2024-02-29|
+|17|[Aitherqwq/dsp_integrate_e_demo](https://github.com/Aitherqwq/dsp_integrate_e_demo)|数字信号处理大作业，语音处理|7|2024-03-16|2023-12-30|
+|18|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|2024-08-14|2024-06-02|
 |19|[flyQQQHddd/pattern-recognition](https://github.com/flyQQQHddd/pattern-recognition)|模式识别|6|2024-04-11|2024-04-11|
 |20|[Maaaaark001/Easy_DPD](https://github.com/Maaaaark001/Easy_DPD)|简易的DPD算法示例|6|2024-06-27|2023-10-12|
 |21|[TkungAI/AMBD-CGE](https://github.com/TkungAI/AMBD-CGE)|基于MBD（Model-Based Design，基于模型的设计）代码生成样例。|5|2024-04-14|2024-04-04|
@@ -35,7 +35,7 @@
 |28|[LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data](https://github.com/LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data)|高密度电法原始数据平滑Matlab程序|3|2024-08-11|2024-08-10|
 |29|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|3|2024-07-08|2024-07-08|
 |30|[K-N-Xiang/OpenISP-MATLAB](https://github.com/K-N-Xiang/OpenISP-MATLAB)|用MATLAB写的ISP Pipeline|3|2024-07-19|2024-07-04|
-|31|[nextpilot/nextpilot-simulink-toolbox](https://github.com/nextpilot/nextpilot-simulink-toolbox)|一套基于MATLAB/Simulink飞控系统开发工具箱|3|2024-08-05|2024-06-20|
+|31|[nextpilot/nextpilot-simulink-toolbox](https://github.com/nextpilot/nextpilot-simulink-toolbox)|一套基于MATLAB/Simulink飞控系统开发工具箱|3|2024-09-13|2024-06-20|
 |32|[pigeonLCY/2023CUMCM](https://github.com/pigeonLCY/2023CUMCM)|基于计算几何的海域地形分析及多波束测深优化模型|3|2024-06-05|2024-06-05|
 |33|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|2024-05-29|2024-04-20|
 |34|[Sunshine00001/-matlab-](https://github.com/Sunshine00001/-matlab-)|（1）设置车辆参数及其他车辆信息。 （2）系统应该能够根据输入的车辆和停车位信息，自动生成最佳路径规划方案。 （3）考虑到实际应用场景，系统应能够处理不同路况、停车位大小和停车要求等多种情况。 （4）仿真与分析，对所得结果的有效性进行验证。 （5）系统应该具备一定的健壮性和鲁棒性，能够处理异常情况并给出合理的解决方案。 （6）完善平行泊车路径规划程序，通过设计GUI界面展示泊车路径规划。|3|2024-04-08|2024-04-08|

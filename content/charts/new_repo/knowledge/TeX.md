@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > TeX
-<sub>数据更新: 2024-09-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -9,13 +9,13 @@
 |2|[xiaoweiChen/Learn-LLVM-17](https://github.com/xiaoweiChen/Learn-LLVM-17)|《Learn LLVM 17》的非专业个人翻译|105|2024-09-03|2024-02-28|
 |3|[xiaoweiChen/The-CXX-Library-Fourth-Edition-include-CXX23](https://github.com/xiaoweiChen/The-CXX-Library-Fourth-Edition-include-CXX23)|《The C++ Standard Library》的非专业个人翻译|56|2024-05-08|2023-12-08|
 |4|[ydchen0806/24ICM_E_O_Award_Paper_code](https://github.com/ydchen0806/24ICM_E_O_Award_Paper_code)|2024 MCM/ICM Problem E Outstanding Winner INFORMS Prize paper and source code (24美赛E题O奖冠名奖论文和源码)|39|2024-07-23|2024-05-03|
-|5|[xiaobai-171/overleaf-latex-chinese-english-general-template](https://github.com/xiaobai-171/overleaf-latex-chinese-english-general-template)|一个overleaf latex中英文通用模板，元素丰富，适合latex入门；An Overleaf LaTeX Chinese and English universal template, rich in elements, suitable for getting started with LaTeX;|33|2024-09-04|2024-01-24|
+|5|[xiaobai-171/overleaf-latex-chinese-english-general-template](https://github.com/xiaobai-171/overleaf-latex-chinese-english-general-template)|一个overleaf latex中英文通用模板，元素丰富，适合latex入门；An Overleaf LaTeX Chinese and English universal template, rich in elements, suitable for getting started with LaTeX;|32|2024-09-14|2024-01-24|
 |6|[xiaoweiChen/Clang-Compiler-Frontend](https://github.com/xiaoweiChen/Clang-Compiler-Frontend)|《Clang Compiler Frontend》的非专业个人翻译|31|2024-08-10|2024-08-10|
 |7|[Acwuld/LouAnalysis](https://github.com/Acwuld/LouAnalysis)|楼红卫老师《数学分析》的答案.|30|2024-09-01|2024-03-02|
-|8|[wyqy/TongjiThesis_Proto](https://github.com/wyqy/TongjiThesis_Proto)|同济大学硕博士论文 LaTeX 模板 Tongji-Thesis - 2024 修订|28|2024-08-29|2024-01-20|
-|9|[xiaoweiChen/Modern-CMake-for-Cpp-2ed](https://github.com/xiaoweiChen/Modern-CMake-for-Cpp-2ed)|《Modern CMake for C++  - Second Edition》的非专业个人翻译|26|2024-09-11|2024-09-07|
+|8|[xiaoweiChen/Modern-CMake-for-Cpp-2ed](https://github.com/xiaoweiChen/Modern-CMake-for-Cpp-2ed)|《Modern CMake for C++  - Second Edition》的非专业个人翻译|28|2024-09-11|2024-09-07|
+|9|[wyqy/TongjiThesis_Proto](https://github.com/wyqy/TongjiThesis_Proto)|同济大学硕博士论文 LaTeX 模板 Tongji-Thesis - 2024 修订|28|2024-08-29|2024-01-20|
 |10|[xiaoweiChen/Professional-cpp-6ed](https://github.com/xiaoweiChen/Professional-cpp-6ed)|《Professional C++ - 6th Edition》的非专业个人翻译|24|2024-08-06|2024-06-09|
-|11|[oyoycr/els-cas-templates](https://github.com/oyoycr/els-cas-templates)|Elsevier latex template 'els-cas-templates'（爱思唯尔期刊-latex双栏版本）|23|2024-04-28|2024-04-28|
+|11|[oyoycr/els-cas-templates](https://github.com/oyoycr/els-cas-templates)|Elsevier latex template 'els-cas-templates'（爱思唯尔期刊-latex双栏版本）|24|2024-04-28|2024-04-28|
 |12|[GZIC-OpenFutureTech/OpenFutureTech](https://github.com/GZIC-OpenFutureTech/OpenFutureTech)|华南理工大学国际校区未来技术学院课程攻略   Guidance for courses in Campus of Future Technology, Guangzhou International Campus (GZIC), SCUT.|20|2024-08-04|2024-05-01|
 |13|[geezhu/Category-A-Textbook](https://github.com/geezhu/Category-A-Textbook)|中国80年代甲种本教科书|19|2024-08-11|2024-08-07|
 |14|[latexstudio/GB-T-7713.2-2022](https://github.com/latexstudio/GB-T-7713.2-2022)|LaTeX 排版学术论文编写规则(国家标准GB/T 7713.2—2022)|17|2024-03-25|2024-03-25|
@@ -30,26 +30,26 @@
 |23|[wennboo/HDU-latex-template-for-master](https://github.com/wennboo/HDU-latex-template-for-master)|旨在帮助杭州电子科技大学硕博生使用 Latex完成学位论文撰写，非官方模板，如若使用，后果自负！|9|2024-04-14|2023-10-31|
 |24|[chenzl23/FZUThesis](https://github.com/chenzl23/FZUThesis)|福州大学博士研究生毕业论文Latex模板|9|2024-05-27|2023-10-17|
 |25|[xiaowen1124/Numerical-Analysis-](https://github.com/xiaowen1124/Numerical-Analysis-)|数值分析课程作业题、习题及补充（复习练习版）|8|2024-08-26|2024-08-26|
-|26|[quanfan-zi/Latex-Paper-Templates](https://github.com/quanfan-zi/Latex-Paper-Templates)|根据2024年毕业论文（设计）格式要求设计过的Latex论文模板|7|2024-03-14|2024-03-14|
-|27|[ErSanSan233/lecon-typo-translation](https://github.com/ErSanSan233/lecon-typo-translation)|《法文排版小课堂》中文译本|7|2024-03-29|2024-02-13|
-|28|[zcyeee/HNU_LaTeX_Template](https://github.com/zcyeee/HNU_LaTeX_Template)|湖南大学课程论文LaTeX模板|7|2024-07-14|2024-01-15|
-|29|[tanzhijir-04/2024-ShenzhenCup-MathModeling](https://github.com/tanzhijir-04/2024-ShenzhenCup-MathModeling)|本仓库包含我在 2024 年深圳杯数学建模竞赛中使用的代码文件和 PDF 论文。内容包括所有用于数据分析、仿真和最终算法的脚本，以及详细描述方法和结果的综合报告。|6|2024-07-28|2024-07-28|
-|30|[Yi-ran-Nian-Hua/Matrix-Theory](https://github.com/Yi-ran-Nian-Hua/Matrix-Theory)|电子科技大学《矩阵理论》复习笔记|6|2024-07-11|2024-05-25|
+|26|[ErSanSan233/lecon-typo-translation](https://github.com/ErSanSan233/lecon-typo-translation)|《法文排版小课堂》中文译本|7|2024-03-29|2024-02-13|
+|27|[zcyeee/HNU_LaTeX_Template](https://github.com/zcyeee/HNU_LaTeX_Template)|湖南大学课程论文LaTeX模板|7|2024-07-14|2024-01-15|
+|28|[tanzhijir-04/2024-ShenzhenCup-MathModeling](https://github.com/tanzhijir-04/2024-ShenzhenCup-MathModeling)|本仓库包含我在 2024 年深圳杯数学建模竞赛中使用的代码文件和 PDF 论文。内容包括所有用于数据分析、仿真和最终算法的脚本，以及详细描述方法和结果的综合报告。|6|2024-07-28|2024-07-28|
+|29|[Yi-ran-Nian-Hua/Matrix-Theory](https://github.com/Yi-ran-Nian-Hua/Matrix-Theory)|电子科技大学《矩阵理论》复习笔记|6|2024-07-11|2024-05-25|
+|30|[CIOT-Group/Fuck_2024_MCM-ICM](https://github.com/CIOT-Group/Fuck_2024_MCM-ICM)|2024美国大学生数学建模竞赛（队号#2409529, Problem E）相关比赛资料开源仓库|6|2024-05-03|2024-05-03|
 |31|[H-Hyunmin/ISEE_Course_Materials](https://github.com/H-Hyunmin/ISEE_Course_Materials)|ISEE相关课程的资料|6|2024-06-28|2024-02-22|
 |32|[kelvin0207/NUDT-Template](https://github.com/kelvin0207/NUDT-Template)|国防科大论文通用模板|5|2024-05-16|2024-05-16|
-|33|[CIOT-Group/Fuck_2024_MCM-ICM](https://github.com/CIOT-Group/Fuck_2024_MCM-ICM)|2024美国大学生数学建模竞赛（队号#2409529, Problem E）相关比赛资料开源仓库|5|2024-05-03|2024-05-03|
-|34|[liuqi6777/ructhesis](https://github.com/liuqi6777/ructhesis)|中国人民大学本科毕业论文（设计）LaTeX模板|5|2024-04-17|2024-04-16|
-|35|[Andrew82106/MathorcupLatexTemplate](https://github.com/Andrew82106/MathorcupLatexTemplate)|MathorCup 论文Latex模版，可适配Overleaf，使用gbt7714引用文献|5|2024-04-16|2024-04-10|
-|36|[WeiViming/gzhu-thesis](https://github.com/WeiViming/gzhu-thesis)|广州大学研究生学位论文非官方模板|5|2024-06-30|2023-11-08|
-|37|[boa-z/SUEP-Course](https://github.com/boa-z/SUEP-Course)|上海电力大学 电子与信息工程学院 课程共享 本科|5|2024-09-08|2023-10-19|
-|38|[3000ye/dhuBachelor](https://github.com/3000ye/dhuBachelor)|东华大学学士毕业论文latex模板|5|2024-06-16|2023-10-12|
-|39|[blanche07/ecust-master-thesis-latex](https://github.com/blanche07/ecust-master-thesis-latex)|华东理工大学硕士学位论文Latex模板|4|2024-06-04|2024-05-28|
-|40|[SeaHI-Robot/SUSTechThesis2024MEE](https://github.com/SeaHI-Robot/SUSTechThesis2024MEE)|南方科技大学本科生毕业论文 LaTeX 模板 - 2024非官方机械系模板|4|2024-06-21|2024-05-10|
-|41|[ChambersXDU/xduts_demo](https://github.com/ChambersXDU/xduts_demo)|提供一份稍完整的xduts参考示例，供西电学子入门xduts使用|4|2024-04-17|2024-04-16|
-|42|[yinguoweiOvO/CQUThesis_20242024](https://github.com/yinguoweiOvO/CQUThesis_20242024)|重庆大学毕业论文Latex模板（修改版）|4|2024-03-31|2024-03-22|
-|43|[Mikachu2333/sdsmu_welcome_tex](https://github.com/Mikachu2333/sdsmu_welcome_tex)|《山东第二医科大学指南》Latex版本，生活手册与新生指南一体化｜原docx版本由“山东第二医科大学频道”接手更新，属于本文的分叉（Fork）关系，互不干扰。|4|2024-09-07|2024-03-21|
-|44|[LeoJhonSong/UCAS-Dissertation](https://github.com/LeoJhonSong/UCAS-Dissertation)|国科大硕士/博士学位论文LeTeX模板, 以《中国科学院大学研究生学位论文撰写规范指导意见》(校发学位字[2022]40号, 附件1) 作为撰写要求|4|2024-07-24|2024-01-15|
-|45|[Hypotenuse-legs/Weekly-Knowledge-Tips-DLUT](https://github.com/Hypotenuse-legs/Weekly-Knowledge-Tips-DLUT)|这是大连理工大学电计2203班的「知识小料」系列，一般在每个教学周更新一期。|3|2024-07-19|2024-07-18|
+|33|[liuqi6777/ructhesis](https://github.com/liuqi6777/ructhesis)|中国人民大学本科毕业论文（设计）LaTeX模板|5|2024-04-17|2024-04-16|
+|34|[Andrew82106/MathorcupLatexTemplate](https://github.com/Andrew82106/MathorcupLatexTemplate)|MathorCup 论文Latex模版，可适配Overleaf，使用gbt7714引用文献|5|2024-04-16|2024-04-10|
+|35|[WeiViming/gzhu-thesis](https://github.com/WeiViming/gzhu-thesis)|广州大学研究生学位论文非官方模板|5|2024-06-30|2023-11-08|
+|36|[boa-z/SUEP-Course](https://github.com/boa-z/SUEP-Course)|上海电力大学 电子与信息工程学院 课程共享 本科|5|2024-09-08|2023-10-19|
+|37|[3000ye/dhuBachelor](https://github.com/3000ye/dhuBachelor)|东华大学学士毕业论文latex模板|5|2024-06-16|2023-10-12|
+|38|[blanche07/ecust-master-thesis-latex](https://github.com/blanche07/ecust-master-thesis-latex)|华东理工大学硕士学位论文Latex模板|4|2024-06-04|2024-05-28|
+|39|[SeaHI-Robot/SUSTechThesis2024MEE](https://github.com/SeaHI-Robot/SUSTechThesis2024MEE)|南方科技大学本科生毕业论文 LaTeX 模板 - 2024非官方机械系模板|4|2024-06-21|2024-05-10|
+|40|[ChambersXDU/xduts_demo](https://github.com/ChambersXDU/xduts_demo)|提供一份稍完整的xduts参考示例，供西电学子入门xduts使用|4|2024-04-17|2024-04-16|
+|41|[yinguoweiOvO/CQUThesis_20242024](https://github.com/yinguoweiOvO/CQUThesis_20242024)|重庆大学毕业论文Latex模板（修改版）|4|2024-03-31|2024-03-22|
+|42|[Mikachu2333/sdsmu_welcome_tex](https://github.com/Mikachu2333/sdsmu_welcome_tex)|《山东第二医科大学指南》Latex版本，生活手册与新生指南一体化｜原docx版本由“山东第二医科大学频道”接手更新，属于本文的分叉（Fork）关系，互不干扰。|4|2024-09-07|2024-03-21|
+|43|[LeoJhonSong/UCAS-Dissertation](https://github.com/LeoJhonSong/UCAS-Dissertation)|国科大硕士/博士学位论文LeTeX模板, 以《中国科学院大学研究生学位论文撰写规范指导意见》(校发学位字[2022]40号, 附件1) 作为撰写要求|4|2024-07-24|2024-01-15|
+|44|[Hypotenuse-legs/Weekly-Knowledge-Tips-DLUT](https://github.com/Hypotenuse-legs/Weekly-Knowledge-Tips-DLUT)|这是大连理工大学电计2203班的「知识小料」系列，一般在每个教学周更新一期。|3|2024-07-19|2024-07-18|
+|45|[weyumm/-Mathematical-Modeling-Awareness-Guide-](https://github.com/weyumm/-Mathematical-Modeling-Awareness-Guide-)|【数学建模觉迷录】记录我从学习数学建模到参加各种建模竞赛的数据集、代码、论文。(A record of my datasets, code, and papers from learning mathematical modeling to participating in various modeling competitions.)|3|2024-07-30|2024-07-15|
 |46|[Hl-W/TongjiThesis_modified](https://github.com/Hl-W/TongjiThesis_modified)|同济大学硕博士论文 LaTeX 模板的修改版，根据2024年格式要求修改|3|2024-05-21|2024-05-21|
 |47|[Stolorzs/ZafuTemplatePublic](https://github.com/Stolorzs/ZafuTemplatePublic)|浙江农林大学风景园林与建筑学院本科生毕业设计说明书（或毕业论文）的LateX模板|3|2024-06-19|2024-05-20|
 |48|[OceanPresentChao/JLU-SE-Thesis-Template](https://github.com/OceanPresentChao/JLU-SE-Thesis-Template)|吉林大学 软件学院 本科毕业论文 Latex模板|3|2024-06-02|2024-05-13|

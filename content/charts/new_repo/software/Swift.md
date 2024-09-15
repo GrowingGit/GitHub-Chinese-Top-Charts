@@ -1,23 +1,23 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Swift
-<sub>数据更新: 2024-09-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)|A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具|4110|2024-08-15|2024-04-21|
-|2|[Lakr233/Asspp](https://github.com/Lakr233/Asspp)|The App Store for your multi-account eco system.|1557|2024-09-01|2024-07-12|
-|3|[jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub)|A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data|1248|2024-09-09|2024-02-22|
-|4|[wibus-wee/InjectGUI](https://github.com/wibus-wee/InjectGUI)|macOS Integrated Injection Framework (GUI version)|1133|2024-09-12|2024-07-19|
-|5|[lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery)|Get the battery usage of all your devices on your Mac and put them on the Dock / Menu Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!|1131|2024-08-09|2024-02-11|
-|6|[netdcy/FlowVision](https://github.com/netdcy/FlowVision)|Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.|483|2024-09-05|2024-06-07|
-|7|[lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer)|Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具|482|2024-08-09|2024-07-18|
-|8|[intsig171/SmartCodable](https://github.com/intsig171/SmartCodable)|SmartCodable is a data parsing library based on Codable. It is simple to use, with robust compatibility being one of its main features. SmartCodable 是基于Codable实现的数据解析库。简单易用，强悍的兼容性是SmartCodable的主要特点。   ...|361|2024-09-03|2023-09-28|
-|9|[AnimacX/AnimacX](https://github.com/AnimacX/AnimacX)|（弹弹Play MacOS/iOS版）一款可以追番的弹幕视频播放器。原生支持M/intel系列芯片，实现了大部分Window端功能。新增支持iOS系统。|121|2024-09-12|2024-02-26|
-|10|[caol64/wenyan](https://github.com/caol64/wenyan)|Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。|109|2024-09-06|2024-08-22|
-|11|[wyqACoffer/DynamicWidget](https://github.com/wyqACoffer/DynamicWidget)|灵动组件（小组件、实时活动）|106|2024-07-31|2023-10-23|
+|1|[lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder)|A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具|4121|2024-08-15|2024-04-21|
+|2|[Lakr233/Asspp](https://github.com/Lakr233/Asspp)|The App Store for your multi-account eco system.|1560|2024-09-01|2024-07-12|
+|3|[jaywcjlove/DevHub](https://github.com/jaywcjlove/DevHub)|A feature-rich offline application, is meticulously crafted to support developers in their daily tasks while ensuring the utmost security of their data|1269|2024-09-09|2024-02-22|
+|4|[wibus-wee/InjectGUI](https://github.com/wibus-wee/InjectGUI)|macOS Integrated Injection Framework (GUI version)|1138|2024-09-12|2024-07-19|
+|5|[lihaoyun6/AirBattery](https://github.com/lihaoyun6/AirBattery)|Get the battery usage of all your devices on your Mac and put them on the Dock / Menu Bar / Widget! && 在Mac上获取你所有设备的电量信息并显示在Dock / 状态栏 / 小组件上!|1135|2024-08-09|2024-02-11|
+|6|[netdcy/FlowVision](https://github.com/netdcy/FlowVision)|Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.|485|2024-09-05|2024-06-07|
+|7|[lihaoyun6/Logoer](https://github.com/lihaoyun6/Logoer)|Change the style of the Apple logo in macOS menu bar / 更换macOS菜单栏苹果Logo样式的小工具|483|2024-08-09|2024-07-18|
+|8|[intsig171/SmartCodable](https://github.com/intsig171/SmartCodable)|SmartCodable is a data parsing library based on Codable. It is simple to use, with robust compatibility being one of its main features. SmartCodable 是基于Codable实现的数据解析库。简单易用，强悍的兼容性是SmartCodable的主要特点。   ...|363|2024-09-03|2023-09-28|
+|9|[caol64/wenyan](https://github.com/caol64/wenyan)|Markdown文章排版美化工具，支持微信公众号、今日头条、知乎等平台。|236|2024-09-13|2024-08-22|
+|10|[AnimacX/AnimacX](https://github.com/AnimacX/AnimacX)|（弹弹Play MacOS/iOS版）一款可以追番的弹幕视频播放器。原生支持M/intel系列芯片，实现了大部分Window端功能。新增支持iOS系统。|122|2024-09-14|2024-02-26|
+|11|[wyqACoffer/DynamicWidget](https://github.com/wyqACoffer/DynamicWidget)|灵动组件（小组件、实时活动）|107|2024-07-31|2023-10-23|
 |12|[clashcross/CrossApp](https://github.com/clashcross/CrossApp)|一款支持多种协议管理的跨平台客户端，可以运行于windows、Android、macOS、Linux等平台|67|2024-04-01|2023-11-06|
-|13|[sakeven/Selected](https://github.com/sakeven/Selected)|A Mac tool that allows various operations on selected text.|48|2024-09-09|2024-03-16|
+|13|[sakeven/Selected](https://github.com/sakeven/Selected)|A Mac tool that allows various operations on selected text.|49|2024-09-09|2024-03-16|
 |14|[JmoVxia/CLPopoverManager](https://github.com/JmoVxia/CLPopoverManager)|自定义弹窗管理工具|38|2024-06-14|2024-06-14|
 |15|[alibaba/aliyunpan-ios-sdk](https://github.com/alibaba/aliyunpan-ios-sdk)|阿里云盘 OpenSDK-iOS|38|2024-08-06|2023-12-06|
 |16|[lihaoyun6/Pixboard](https://github.com/lihaoyun6/Pixboard)|A retro display emulator for Mac / 在 macOS 桌面上模拟各种复古显示设备|33|2024-04-10|2024-04-10|
@@ -29,13 +29,12 @@
 |22|[qianlishun/TermiWatchWidget](https://github.com/qianlishun/TermiWatchWidget)|苹果手表自定义表盘，终端主题，Terminal Watch Widget Face for Apple Watch.|18|2024-09-06|2023-10-13|
 |23|[Tyh2001/small-red-book](https://github.com/Tyh2001/small-red-book)|使用 SwiftUI 开发的小红书 IOS 原生手机 App。|17|2024-04-17|2024-03-13|
 |24|[namesubai/WidgetFilmView](https://github.com/namesubai/WidgetFilmView)|实现TopWidgets iOS小组件电影级别的流畅动画|16|2024-07-22|2024-06-25|
-|25|[LittleSweet-Z/Ocode](https://github.com/LittleSweet-Z/Ocode)|iOS 代码混淆工具、iOS混淆助手，免费使用，支持 Object-C 、 Swift，解决4.3问题|9|2024-08-08|2024-05-27|
+|25|[LittleSweet-Z/Ocode](https://github.com/LittleSweet-Z/Ocode)|iOS 代码混淆工具、iOS混淆助手，免费使用，支持 Object-C 、 Swift，解决4.3问题|11|2024-09-14|2024-05-27|
 |26|[ctkqiang/YanJiAI](https://github.com/ctkqiang/YanJiAI)|眼迹AI是一套集成了面部识别和物体检测功能的系统，它能够实时监控环境并在检测到危险情况时自动向服务器发送警报，从而迅速通知当局应对风险。对于司机而言，时常面临乘客可能实施抢劫或其他不当行为的潜在威胁。通过在您的手机或行车记录仪上部署这一AI系统，不仅能提供即时的安全保障，还能在关键时刻为您节省宝贵的求助时间，确保您能在第一时间获得必要的帮助。|8|2024-06-12|2024-05-13|
-|27|[TsinHzl/ZLCollectionLeftLayout](https://github.com/TsinHzl/ZLCollectionLeftLayout)|left aligned CollectionView layout. Written in Swift 自动左对齐collection cell的样式|7|2024-05-25|2023-09-14|
-|28|[XanderXu/RealityGlitchArt](https://github.com/XanderXu/RealityGlitchArt)|GlitchArt:适用 Apple Vision Pro 的故障艺术，Shader Graph|6|2024-07-14|2024-06-23|
-|29|[Zyf893549897/SwiftRouter](https://github.com/Zyf893549897/SwiftRouter)|基于URLNavigator封装，路由解决方案，备注清晰使用简单全面|6|2024-05-29|2024-05-27|
-|30|[CofficLab/Cisum_SwiftUI](https://github.com/CofficLab/Cisum_SwiftUI)|Apple 平台的音乐播放器|6|2024-08-01|2024-03-23|
-|31|[Zyf893549897/UseWCDB](https://github.com/Zyf893549897/UseWCDB)|WCDB的简单使用，数据库便捷操作，增删改查基本用法|5|2024-09-05|2024-06-20|
+|27|[XanderXu/RealityGlitchArt](https://github.com/XanderXu/RealityGlitchArt)|GlitchArt:适用 Apple Vision Pro 的故障艺术，Shader Graph|6|2024-07-14|2024-06-23|
+|28|[Zyf893549897/SwiftRouter](https://github.com/Zyf893549897/SwiftRouter)|基于URLNavigator封装，路由解决方案，备注清晰使用简单全面|6|2024-05-29|2024-05-27|
+|29|[CofficLab/Cisum_SwiftUI](https://github.com/CofficLab/Cisum_SwiftUI)|Apple 平台的音乐播放器|6|2024-08-01|2024-03-23|
+|30|[Zyf893549897/UseWCDB](https://github.com/Zyf893549897/UseWCDB)|WCDB的简单使用，数据库便捷操作，增删改查基本用法|5|2024-09-05|2024-06-20|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

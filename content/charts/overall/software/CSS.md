@@ -1,42 +1,42 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > CSS
-<sub>数据更新: 2024-09-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|19015|2024-03-16|
-|2|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|9554|2024-08-28|
-|3|[kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)|🕶️ Awesome stuff for Obsidian|6623|2024-04-06|
-|4|[WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io)|❤️静态响应式网址导航网站 - webstack.cc|6295|2024-05-04|
+|1|[you-dont-need/You-Dont-Need-JavaScript](https://github.com/you-dont-need/You-Dont-Need-JavaScript)|CSS is powerful, you can do a lot of things without JS.|19016|2024-03-16|
+|2|[IBM/plex](https://github.com/IBM/plex)|The package of IBM’s typeface, IBM Plex.|9558|2024-08-28|
+|3|[kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)|🕶️ Awesome stuff for Obsidian|6630|2024-04-06|
+|4|[WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io)|❤️静态响应式网址导航网站 - webstack.cc|6296|2024-05-04|
 |5|[missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)|the CS missing semester Chinese version|6145|2024-09-01|
-|6|[ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control)|一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.|4591|2024-04-09|
+|6|[ronggang/transmission-web-control](https://github.com/ronggang/transmission-web-control)|一个 Transmission 浏览器管理界面。Transmission Web Control is a custom web UI.|4592|2024-04-09|
 |7|[LiangJunrong/document-library](https://github.com/LiangJunrong/document-library)|jsliang 的文档库. 里面包含了个人撰写的所有前端文章，例如 Vue、React,、ECharts、微信小程序、算法、数据结构等……|3893|2024-04-09|
 |8|[guaguaguaxia/weekly_report](https://github.com/guaguaguaxia/weekly_report)|简单描述工作内容，帮你生成完整周报|3153|2024-05-27|
-|9|[liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)|十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark|2889|2024-07-11|
-|10|[BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV)|📃 开箱即用的 Obsidian / Typora 简历|2629|2024-08-18|
+|9|[liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme)|十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark|2891|2024-07-11|
+|10|[BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV)|📃 开箱即用的 Markdown 简历，支持 VSCode / Obsidian / Typora|2634|2024-09-14|
 |11|[nicejade/markdown-online-editor](https://github.com/nicejade/markdown-online-editor)|📝基于 Vue、Vditor，所构建的在线 Markdown 编辑器，支持流程图、甘特图、时序图、任务列表、HTML 自动转换为 Markdown 等功能；🎉新增「所见即所得」编辑模式。https://niceshare.site/|2556|2024-08-06|
-|12|[moshowgame/SpringBootCodeGenerator](https://github.com/moshowgame/SpringBootCodeGenerator)|又名大狼狗代码生成器，基于SpringBoot2+Freemarker的JAVA代码生成器，以释放双手为目的，支持mysql/oracle/pgsql三大数据库， 用DDL-SQL语句生成JPA/JdbcTemplate/Mybatis/MybatisPlus/BeetlSQL等相关代码.|1973|2024-09-06|
-|13|[shen-yu/hexo-theme-ayer](https://github.com/shen-yu/hexo-theme-ayer)|一个干净优雅的hexo主题 A clean and elegant theme for Hexo.  🐋|1807|2024-08-24|
+|12|[moshowgame/SpringBootCodeGenerator](https://github.com/moshowgame/SpringBootCodeGenerator)|又名大狼狗代码生成器，基于SpringBoot2+Freemarker的JAVA代码生成器，以释放双手为目的，支持mysql/oracle/pgsql三大数据库， 用DDL-SQL语句生成JPA/JdbcTemplate/Mybatis/MybatisPlus/BeetlSQL等相关代码.|1972|2024-09-06|
+|13|[shen-yu/hexo-theme-ayer](https://github.com/shen-yu/hexo-theme-ayer)|一个干净优雅的hexo主题 A clean and elegant theme for Hexo.  🐋|1808|2024-08-24|
 |14|[apachecn/.github](https://github.com/apachecn/.github)|ApacheCN  开源组织：公告、介绍、成员、活动、交流方式|1723|2024-08-12|
 |15|[theme-nexmoe/hexo-theme-nexmoe](https://github.com/theme-nexmoe/hexo-theme-nexmoe)|🔥 A special Hexo theme focusing on pictures and images. Images tell stories, and Nexmoe makes them more vivid.|1639|2024-09-13|
 |16|[phalapi/phalapi](https://github.com/phalapi/phalapi)|PhalApi开源接口框架，简称π框架，一个轻量级PHP开源接口框架，专注于接口服务开发。接口，从简单开始！|1566|2024-03-16|
 |17|[yihui/xaringan](https://github.com/yihui/xaringan)|Presentation Ninja 幻灯忍者 · 写轮眼|1494|2024-03-23|
-|18|[Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage)|A dashboard for your obsidian vault.|1475|2024-08-29|
+|18|[Rainbell129/Obsidian-Homepage](https://github.com/Rainbell129/Obsidian-Homepage)|A dashboard for your obsidian vault.|1476|2024-08-29|
 |19|[progit/progit2-zh](https://github.com/progit/progit2-zh)|-|1438|2024-08-21|
 |20|[arterli/CmsWing](https://github.com/arterli/CmsWing)|一款基于Egg.js(为企业级框架和应用而生)、Sequelize和GraphQL，功能强大的（PC端,手机端和微信公众平台）电子商务平台及CMS建站系统|1346|2024-04-26|
 |21|[PKM-er/Blue-Topaz_Obsidian-css](https://github.com/PKM-er/Blue-Topaz_Obsidian-css)|A blue theme for Obsidian. |1148|2024-07-15|
-|22|[stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles)|不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  https://docker.ioiox.com|988|2024-08-19|
+|22|[stilleshan/dockerfiles](https://github.com/stilleshan/dockerfiles)|不定期收集,整理和编写常用优秀软件和服务的 Dockerfile 文件.  https://docker.ioiox.com|989|2024-08-19|
 |23|[lovefc/china_school_badge](https://github.com/lovefc/china_school_badge)|全国高校校徽字体图标库|918|2024-08-10|
 |24|[hraban/tomono](https://github.com/hraban/tomono)|Multi- To Mono-repository merge|844|2024-08-15|
 |25|[LIlGG/halo-theme-sakura](https://github.com/LIlGG/halo-theme-sakura)|Halo 版本的樱花🌸主题|787|2024-09-05|
 |26|[zhaohuabing/hugo-theme-cleanwhite](https://github.com/zhaohuabing/hugo-theme-cleanwhite)|A clean, elegant blog theme for hugo|705|2024-06-24|
-|27|[TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial)|-|656|2024-08-22|
+|27|[TieBaMma/InstallTutorial](https://github.com/TieBaMma/InstallTutorial)|-|657|2024-08-22|
 |28|[nicehorse06/se-job](https://github.com/nicehorse06/se-job)|Software Engineer Job Note，讓新手從0到1入門，有1到100的成長能力|632|2024-09-12|
 |29|[SukkaW/hexo-theme-suka](https://github.com/SukkaW/hexo-theme-suka)|🎨Modern, powerful and simple theme for Hexo.|613|2024-03-19|
 |30|[yaoyao-liu/minimal-light](https://github.com/yaoyao-liu/minimal-light)|A simple and elegant Jekyll theme for an academic personal homepage|605|2024-09-04|
-|31|[imfing/hextra](https://github.com/imfing/hextra)|🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites|570|2024-09-12|
-|32|[chengzhongxue/halo-theme-hao](https://github.com/chengzhongxue/halo-theme-hao)|-|565|2024-08-30|
+|31|[imfing/hextra](https://github.com/imfing/hextra)|🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites|571|2024-09-14|
+|32|[chengzhongxue/halo-theme-hao](https://github.com/chengzhongxue/halo-theme-hao)|-|564|2024-08-30|
 |33|[Tokinx/Wing](https://github.com/Tokinx/Wing)|Simple, smooth, data-driven, responsive WordPress theme|563|2024-07-22|
 |34|[MeiK2333/github-style](https://github.com/MeiK2333/github-style)|-|557|2024-09-04|
 |35|[cryptoapi/Payment-Gateway](https://github.com/cryptoapi/Payment-Gateway)|Bitcoin/Altcoins PHP Payment Class. It supports Bitcoin BitcoinCash DASH Dogecoin Litecoin Reddcoin Feathercoin Vertcoin Potcoin Speedcoin. Install GoUrl php script - bitcoin api payment gateway on yo ...|521|2024-05-06|
@@ -45,35 +45,35 @@
 |38|[suruibuas/eui](https://github.com/suruibuas/eui)|eui（原eadmin） - 极致用户体验与极简开发并存的开箱即用的后台UI框架，预览版账号：eui，密码：888888|503|2024-09-05|
 |39|[GuangLun2000/GuangLun2000.github.io](https://github.com/GuangLun2000/GuangLun2000.github.io)|(Minimalism Style) Powered by Jekyll, based on the Minimal Mistakes theme and Jason Ansel's website|496|2024-08-03|
 |40|[paul-hammant/tbd](https://github.com/paul-hammant/tbd)|Source for TrunkBasedDevelopment.com|495|2024-07-03|
-|41|[christorange/VerticalFox](https://github.com/christorange/VerticalFox)|Firefox theme with Edge like auto-hide vertical tab bar and minimalism design. Powerd by Sidebery. |415|2024-08-11|
+|41|[christorange/VerticalFox](https://github.com/christorange/VerticalFox)|Firefox theme with Edge like auto-hide vertical tab bar and minimalism design. Powerd by Sidebery. |416|2024-08-11|
 |42|[BobCoderS9/SSPanel-Metron](https://github.com/BobCoderS9/SSPanel-Metron)|SSPanel-Metron主题，目前由@Bobs9维护开发中。|410|2024-08-13|
 |43|[idawnlight/typecho-theme-material](https://github.com/idawnlight/typecho-theme-material)|[LTS] Material Design theme for typecho.|396|2024-09-10|
-|44|[YiNNx/typora-theme-lapis](https://github.com/YiNNx/typora-theme-lapis)|🖊️ A clean Typora theme in blue tones|387|2024-09-06|
+|44|[YiNNx/typora-theme-lapis](https://github.com/YiNNx/typora-theme-lapis)|🖊️ A clean Typora theme in blue tones|388|2024-09-06|
 |45|[liuhuanyong/liuhuanyong.github.io](https://github.com/liuhuanyong/liuhuanyong.github.io)|面向中文自然语言处理的六十余类实践项目及学习索引，涵盖语言资源构建、社会计算、自然语言处理组件、知识图谱、事理图谱、知识抽取、情感分析、深度学习等几个学习主题。包括作者个人简介、学习心得、语言资源、工业落地系统等，是供自然语言处理入门学习者的一个较为全面的学习资源，欢迎大家使用，并提出批评意见。|377|2024-08-08|
-|46|[hzsrc/webpack-theme-color-replacer](https://github.com/hzsrc/webpack-theme-color-replacer)|A runtime dynamic theme color replacement plugin for webpack.|376|2024-08-30|
+|46|[hzsrc/webpack-theme-color-replacer](https://github.com/hzsrc/webpack-theme-color-replacer)|A runtime dynamic theme color replacement plugin for webpack.|375|2024-08-30|
 |47|[xiangjianan/lks](https://github.com/xiangjianan/lks)|-|372|2024-07-14|
 |48|[MellowCo/unocss-preset-weapp](https://github.com/MellowCo/unocss-preset-weapp)|unocss preset for wechat miniprogram，unocss小程序预设，在 taro uniapp 原生小程序 中使用unocss|371|2024-09-09|
 |49|[opensec-cn/conote-community](https://github.com/opensec-cn/conote-community)|Conote 综合安全测试平台社区版。|368|2024-08-15|
 |50|[c10342/player](https://github.com/c10342/player)|electron-vue音视频播放器|367|2024-05-01|
-|51|[g1eny0ung/hugo-theme-dream](https://github.com/g1eny0ung/hugo-theme-dream)|🌱 A Hugo theme named Dream.|321|2024-09-13|
+|51|[g1eny0ung/hugo-theme-dream](https://github.com/g1eny0ung/hugo-theme-dream)|🌱 A Hugo theme named Dream.|321|2024-09-14|
 |52|[We-Hack-Studio/nuts](https://github.com/We-Hack-Studio/nuts)|坚果量化 - 数字货币量化交易系统。|317|2024-03-23|
-|53|[ZYYO666/homepage](https://github.com/ZYYO666/homepage)|我的个人主页，homepage,个人引导页,简约主页,个人导航|306|2024-09-05|
+|53|[ZYYO666/homepage](https://github.com/ZYYO666/homepage)|我的个人主页，homepage,个人引导页,简约主页,个人导航|306|2024-09-14|
 |54|[tovifun/VivalArc](https://github.com/tovifun/VivalArc)|With just a few tweaks, you can give Vivaldi that cool Arc vibe|302|2024-08-17|
 |55|[m2kar/m2kar.github.io](https://github.com/m2kar/m2kar.github.io)|M2kar的个人主页|302|2024-04-28|
-|56|[summerblue/administrator](https://github.com/summerblue/administrator)|a fork from Frozennode/Administrator|290|2024-08-07|
-|57|[MUKAPP/LiteLoaderQQNT-MSpring-Theme](https://github.com/MUKAPP/LiteLoaderQQNT-MSpring-Theme)|LiteLoaderQQNT 主题，优雅 · 粉粉 · 细致|289|2024-08-25|
-|58|[shuhongfan/sl-express](https://github.com/shuhongfan/sl-express)|神领物流 黑马 物流项目 神领物流系统类似顺丰速运，是向C端用户提供快递服务的系统。竞品有：顺丰、中通、圆通、京东快递等。 项目产品主要有4端产品：  - 用户端：基于微信小程序开发，外部客户使用，可以寄件、查询物流信息等。 - 快递员端：基于安卓开发的手机APP，公司内部的快递员使用，可以接收取派件任务等。 - 司机端：基于安卓开发的手机APP，公司内部的司机使用，可以接收运输任务、上报位置信息 ...|280|2024-06-26|
+|56|[MUKAPP/LiteLoaderQQNT-MSpring-Theme](https://github.com/MUKAPP/LiteLoaderQQNT-MSpring-Theme)|LiteLoaderQQNT 主题，优雅 · 粉粉 · 细致|290|2024-08-25|
+|57|[summerblue/administrator](https://github.com/summerblue/administrator)|a fork from Frozennode/Administrator|290|2024-08-07|
+|58|[shuhongfan/sl-express](https://github.com/shuhongfan/sl-express)|神领物流 黑马 物流项目 神领物流系统类似顺丰速运，是向C端用户提供快递服务的系统。竞品有：顺丰、中通、圆通、京东快递等。 项目产品主要有4端产品：  - 用户端：基于微信小程序开发，外部客户使用，可以寄件、查询物流信息等。 - 快递员端：基于安卓开发的手机APP，公司内部的快递员使用，可以接收取派件任务等。 - 司机端：基于安卓开发的手机APP，公司内部的司机使用，可以接收运输任务、上报位置信息 ...|281|2024-06-26|
 |59|[transmission-web-control/transmission-web-control](https://github.com/transmission-web-control/transmission-web-control)|maintained fork of ronggang/transmission-web-control|280|2024-04-20|
-|60|[zhheo/HeoMusic](https://github.com/zhheo/HeoMusic)|一个基于Aplayer和MetingJS的静态音乐播放器|275|2024-06-20|
-|61|[hakadao/bilibili-simple-home](https://github.com/hakadao/bilibili-simple-home)|A search engine style for bilibili home page   b站仿搜索引擎样式首页风格|275|2024-06-23|
+|60|[hakadao/bilibili-simple-home](https://github.com/hakadao/bilibili-simple-home)|A search engine style for bilibili home page   b站仿搜索引擎样式首页风格|275|2024-06-23|
+|61|[zhheo/HeoMusic](https://github.com/zhheo/HeoMusic)|一个基于Aplayer和MetingJS的静态音乐播放器|274|2024-06-20|
 |62|[sysprog21/cpumemory-zhtw](https://github.com/sysprog21/cpumemory-zhtw)|Traditional Chinese translation of "What Every Programmer Should Know About Memory"|273|2024-07-05|
 |63|[oldinaction/ChatGPT-MP](https://github.com/oldinaction/ChatGPT-MP)|（**AI落地接单中，欢迎咨询**）基于ChatGPT实现的微信小程序，适配H5和WEB端。包含前后端，支持打字效果输出流式输出，支持AI聊天次数限制，支持分享增加次数等功能。|272|2024-04-29|
 |64|[qr-merger/merger](https://github.com/qr-merger/merger)|Lightweight, Integrated QR Code Payment Interface -  https://qr.huangxin.org|267|2024-04-27|
 |65|[Dalufishe/palserver-GUI](https://github.com/Dalufishe/palserver-GUI)|GUI support, one-click Palworld dedicated server management tool. 可視化界面，一鍵式帕魯 (Palworld) 伺服器建立、管理工具。|262|2024-08-15|
-|66|[MLNLP-World/MyArxiv](https://github.com/MLNLP-World/MyArxiv)|Arxiv个性化定制化模版，实现对特定领域的相关内容、作者与学术会议的有效跟进。|243|2024-09-13|
+|66|[MLNLP-World/MyArxiv](https://github.com/MLNLP-World/MyArxiv)|Arxiv个性化定制化模版，实现对特定领域的相关内容、作者与学术会议的有效跟进。|243|2024-09-14|
 |67|[bukun/TorCMS](https://github.com/bukun/TorCMS)|Flexible, extensible web CMS framework built on Tornado.|218|2024-08-13|
 |68|[tangkunyin/hexo-theme-jsimple](https://github.com/tangkunyin/hexo-theme-jsimple)|Simple three columns theme for Hexo.Inspired by JianShu.com|212|2024-08-14|
-|69|[hamster1963/HomeDash](https://github.com/hamster1963/HomeDash)|一个仪表盘|210|2024-04-29|
+|69|[hamster1963/HomeDash](https://github.com/hamster1963/HomeDash)|一个仪表盘|211|2024-04-29|
 |70|[AyagawaSeirin/homepage](https://github.com/AyagawaSeirin/homepage)|开坑我的个人主页|200|2024-03-26|
 |71|[colonelpanic8/dotfiles](https://github.com/colonelpanic8/dotfiles)|Configuration files for XMonad, Emacs, NixOS, Taffybar and more.|193|2024-09-07|
 |72|[realzsan3/alms](https://github.com/realzsan3/alms)|7X24小时在线要饭🍚系统，欢迎👏各位老板打赏，打赏一分也是爱|183|2024-09-07|
@@ -90,65 +90,65 @@
 |83|[uu6/llxhq](https://github.com/uu6/llxhq)|流量消耗器,流量消失器,多线程消耗流量,消耗定向流量,流量杀手|124|2024-08-05|
 |84|[ZhongFuCheng3y/austin-admin](https://github.com/ZhongFuCheng3y/austin-admin)|消息推送平台前端项目🔥依赖低代码平台Amis|120|2024-05-28|
 |85|[sumruler/typora-theme-phycat](https://github.com/sumruler/typora-theme-phycat)|物理猫Typora主题|118|2024-09-09|
-|86|[guqing/halo-theme-higan](https://github.com/guqing/halo-theme-higan)|halo主题名彼岸，生死为此岸，涅槃为彼岸；有苦无乐为此岸，无苦无乐为彼岸...它代表着对一切美好的精神追求，也代表着生生不息的轮回亦如本主题分黑白两色，阴极阳至，向死而生。|117|2024-09-02|
-|87|[sunyctf/css-effects](https://github.com/sunyctf/css-effects)|⭐ 前端css特效，持续更新。喜欢的话就Star一下吧！|116|2024-05-12|
-|88|[zhuozhiyongde/PKU-Art](https://github.com/zhuozhiyongde/PKU-Art)|一个北大教学网的美化样式|116|2024-08-17|
-|89|[xinlei3166/vitepress-demo](https://github.com/xinlei3166/vitepress-demo)|使用 Vitepress 搭建组件库文档站点。|116|2024-04-01|
+|86|[guqing/halo-theme-higan](https://github.com/guqing/halo-theme-higan)|halo主题名彼岸，生死为此岸，涅槃为彼岸；有苦无乐为此岸，无苦无乐为彼岸...它代表着对一切美好的精神追求，也代表着生生不息的轮回亦如本主题分黑白两色，阴极阳至，向死而生。|118|2024-09-02|
+|87|[xinlei3166/vitepress-demo](https://github.com/xinlei3166/vitepress-demo)|使用 Vitepress 搭建组件库文档站点。|117|2024-04-01|
+|88|[sunyctf/css-effects](https://github.com/sunyctf/css-effects)|⭐ 前端css特效，持续更新。喜欢的话就Star一下吧！|116|2024-05-12|
+|89|[zhuozhiyongde/PKU-Art](https://github.com/zhuozhiyongde/PKU-Art)|一个北大教学网的美化样式|116|2024-08-17|
 |90|[AJLoveChina/loveBalloon](https://github.com/AJLoveChina/loveBalloon)|:balloon:塞纳河畔，左岸的咖啡。告白气球，说出心里的小九九。https://ajlovechina.github.io/loveBalloon/.|116|2024-07-03|
 |91|[Sight-wcg/layui-theme-dark](https://github.com/Sight-wcg/layui-theme-dark)|layui 暗色主题|112|2024-08-27|
-|92|[rootknight/Miniflux-Theme-Reeder](https://github.com/rootknight/Miniflux-Theme-Reeder)|Miniflux v2 的自定义主题 miniflux-theme-reeder（仿 Reeder）|105|2024-07-22|
-|93|[juehackr/comfyui_fk_server](https://github.com/juehackr/comfyui_fk_server)|Comfyui万能翻译插件（不再需要添加各种节点,直接在原有节点上加入翻译功能），让comfyui任意长文本输入框支持中文输入并自动翻译/同时加入报错翻译功能（调用百度翻译），实现翻译自由！同时接入AI大模型实现提示词润色功能，  其它插件功能，请看插件介绍|104|2024-08-22|
-|94|[royc01/notion-theme](https://github.com/royc01/notion-theme)|notion复刻|104|2024-09-07|
-|95|[PlexPt/chatgpt-online-springboot](https://github.com/PlexPt/chatgpt-online-springboot)|chatgpt online demo for springboot. 带前端界面的chatgpt springboot 示例.|100|2024-08-22|
+|92|[juehackr/comfyui_fk_server](https://github.com/juehackr/comfyui_fk_server)|Comfyui万能翻译插件（不再需要添加各种节点,直接在原有节点上加入翻译功能），让comfyui任意长文本输入框支持中文输入并自动翻译/同时加入报错翻译功能（调用百度翻译），实现翻译自由！同时接入AI大模型实现提示词润色功能，  其它插件功能，请看插件介绍|105|2024-08-22|
+|93|[rootknight/Miniflux-Theme-Reeder](https://github.com/rootknight/Miniflux-Theme-Reeder)|Miniflux v2 的自定义主题 miniflux-theme-reeder（仿 Reeder）|105|2024-07-22|
+|94|[royc01/notion-theme](https://github.com/royc01/notion-theme)|notion复刻|104|2024-09-14|
+|95|[PlexPt/chatgpt-online-springboot](https://github.com/PlexPt/chatgpt-online-springboot)|chatgpt online demo for springboot. 带前端界面的chatgpt springboot 示例.|101|2024-09-13|
 |96|[qihaiyan/ng-boot-oauth](https://github.com/qihaiyan/ng-boot-oauth)|oauth2 demo with angularjs and springboot|99|2024-08-28|
 |97|[sirpdboy/luci-theme-kucat](https://github.com/sirpdboy/luci-theme-kucat)|kucat酷猫主题（JS版支持官方23.05分支）：以酷为美，因动而生。 带5种快捷键的工具栏。 基本无BUG，适应目前已经所有插件. 针对手机等做了大量优化. 有配套的主题设置工具，可调节快捷键、背景图片、颜色多种方案可供选择。|98|2024-08-01|
 |98|[aliyun/cloud-design](https://github.com/aliyun/cloud-design)|阿里云前端组件库，由专有云&公有云前端团队共建|97|2024-09-04|
 |99|[hacker-ankit/NoDevFee-mining](https://github.com/hacker-ankit/NoDevFee-mining)|Next Generation NoDevfee mining for Cryptocurrency  - /下一代反抽水挖矿软件|92|2024-09-04|
 |100|[roinli/HZ-AgroOS-cloud](https://github.com/roinli/HZ-AgroOS-cloud)|农业岛智慧农业系统Java版，基于Java+Vue+Uni-app开发，在微信公众号、小程序、H5移动端都能使用，代码开源，独立部署，二开很方便，能满足智慧农业气象站监控系统、智慧农业温棚监控系统、智慧农业高标准农田系统、智慧农业仓库系统、报表统计、智慧农业设备控制系统、设备物模型、大屏展示等多种经营需求，自用、做二开项目都很合适，MQTT、NETTY、EMQX。|89|2024-07-31|
-|101|[apache/skywalking-website](https://github.com/apache/skywalking-website)|Apache SkyWalking Website|89|2024-09-13|
+|101|[apache/skywalking-website](https://github.com/apache/skywalking-website)|Apache SkyWalking Website|89|2024-09-14|
 |102|[JadeVane/Allure](https://github.com/JadeVane/Allure)|A more beautiful and simple theme for trilium|85|2024-09-06|
 |103|[qmk/qmk.fm_old](https://github.com/qmk/qmk.fm_old)|The website-side of qmk_firmware! The compiled binaries are generated automatically on every push to the main repo|83|2024-07-09|
-|104|[HSSkyBoy/DOL-CheatExtend](https://github.com/HSSkyBoy/DOL-CheatExtend)|DOL Cheta Extend 欲都孤儿作弊扩展|79|2024-09-08|
-|105|[cpython666/AwesomeWeb](https://github.com/cpython666/AwesomeWeb)|前端小项目功能插件|79|2024-07-16|
+|104|[cpython666/AwesomeWeb](https://github.com/cpython666/AwesomeWeb)|前端小项目功能插件|79|2024-07-16|
+|105|[HSSkyBoy/DOL-CheatExtend](https://github.com/HSSkyBoy/DOL-CheatExtend)|DOL Cheta Extend 欲都孤儿作弊扩展|78|2024-09-08|
 |106|[TomBener/pandoc-templates](https://github.com/TomBener/pandoc-templates)|Pandoc templates to convert Markdown files to DOCX, PDF and HTML for academic writing, especially for Chinese writing.|77|2024-06-29|
 |107|[wangyouworld/AdminLTE_CN](https://github.com/wangyouworld/AdminLTE_CN)|AdminLTE 文档本地化|76|2024-09-12|
 |108|[chris81605/Degrees-of-Lewdity_Cheat_Extended](https://github.com/chris81605/Degrees-of-Lewdity_Cheat_Extended)|Degrees-of-Lewdity 作弊拓展MOD代碼|74|2024-06-29|
-|109|[willard-yuan/willard-yuan.github.io](https://github.com/willard-yuan/willard-yuan.github.io)|💎 Yong's Homepage|70|2024-03-20|
-|110|[Firestar-Reimu/Arch-and-Manjaro-KDE-Installation](https://github.com/Firestar-Reimu/Arch-and-Manjaro-KDE-Installation)|安装 Arch/Manjaro Linux + KDE Plasma + Windows 11 双系统的指南|66|2024-09-03|
-|111|[Meayair/Typecho-Theme-MeaWord](https://github.com/Meayair/Typecho-Theme-MeaWord)|一款体现文字美感的极简主题|62|2024-06-04|
-|112|[thiszhangyong/axureresource](https://github.com/thiszhangyong/axureresource)|私人Axure收集资源库|62|2024-06-02|
-|113|[duolabmeng6/pro-api](https://github.com/duolabmeng6/pro-api)|统一管理大模型API的项目，统一转换为 OpenAI 格式，调用多个后端服务，|59|2024-09-12|
+|109|[duolabmeng6/pro-api](https://github.com/duolabmeng6/pro-api)|Unified management of projects with large model APIs, unified conversion to OpenAI format, calling multiple backend services, OpenAI, Anthropic, Gemini, Vertex, Cloudflare, DeepBricks, OpenRouter, etc ...|70|2024-09-14|
+|110|[willard-yuan/willard-yuan.github.io](https://github.com/willard-yuan/willard-yuan.github.io)|💎 Yong's Homepage|70|2024-03-20|
+|111|[Firestar-Reimu/Arch-and-Manjaro-KDE-Installation](https://github.com/Firestar-Reimu/Arch-and-Manjaro-KDE-Installation)|安装 Arch/Manjaro Linux + KDE Plasma + Windows 11 双系统的指南|66|2024-09-03|
+|112|[thiszhangyong/axureresource](https://github.com/thiszhangyong/axureresource)|私人Axure收集资源库|63|2024-06-02|
+|113|[Meayair/Typecho-Theme-MeaWord](https://github.com/Meayair/Typecho-Theme-MeaWord)|一款体现文字美感的极简主题|62|2024-06-04|
 |114|[kenyon-wong/docs](https://github.com/kenyon-wong/docs)|互联网数字垃圾回收专用废纸篓|59|2024-04-24|
 |115|[smallyunet/hexo-theme-yinwang](https://github.com/smallyunet/hexo-theme-yinwang)|Hexo blog theme, Wang Yin’s blog theme, yinwang.org style.|59|2024-08-12|
 |116|[red/docs](https://github.com/red/docs)|Red-related user documentation repository|58|2024-05-03|
 |117|[lvming6816077/report-monitor](https://github.com/lvming6816077/report-monitor)|【Report Monitor】一款完整、高性能、高可用的打点监控和统计平台|57|2024-06-12|
 |118|[xiaoxuan6/chatgpt-server](https://github.com/xiaoxuan6/chatgpt-server)|ChatGPT 在线免费网站|56|2024-09-08|
-|119|[Project-Gutenberg/Pincong-data](https://github.com/Project-Gutenberg/Pincong-data)|品葱精选，看翻车新闻|56|2024-09-13|
-|120|[fritx/wxchangba](https://github.com/fritx/wxchangba)|微信唱吧: 基于node.js和微信jssdk的校园轻应用|56|2024-08-07|
-|121|[WuKongSecurity/SpiderBOX](https://github.com/WuKongSecurity/SpiderBOX)|SpiderBox - 虫盒 - 爬虫逆向资源导航站|54|2024-09-09|
-|122|[stick-i/markdown-resume-template](https://github.com/stick-i/markdown-resume-template)|Markdown简历模板，非常适合程序员的一份简历模板！如果对你有帮助的话，不要忘了点个star噢~|53|2024-06-23|
+|119|[Project-Gutenberg/Pincong-data](https://github.com/Project-Gutenberg/Pincong-data)|品葱精选，看翻车新闻|56|2024-09-14|
+|120|[fritx/wxchangba](https://github.com/fritx/wxchangba)|微信唱吧: 基于node.js和微信jssdk的校园轻应用|56|2024-09-14|
+|121|[stick-i/markdown-resume-template](https://github.com/stick-i/markdown-resume-template)|Markdown简历模板，非常适合程序员的一份简历模板！如果对你有帮助的话，不要忘了点个star噢~|55|2024-06-23|
+|122|[WuKongSecurity/SpiderBOX](https://github.com/WuKongSecurity/SpiderBOX)|SpiderBox - 虫盒 - 爬虫逆向资源导航站|54|2024-09-09|
 |123|[PyChina/weekly](https://github.com/PyChina/weekly)|Pelican as static blog for http://weekly.pychina.org|53|2024-09-09|
 |124|[Dejavu-Tech/EP-Admin](https://github.com/Dejavu-Tech/EP-Admin)|EP 吃货星球 社区团购后端/CMS 5.x|51|2024-05-07|
 |125|[actions-cool/cool](https://github.com/actions-cool/cool)|😎 Cool is over. 酷就完事了。https://actions-cool.github.io/cool/|47|2024-09-13|
 |126|[silianpan/Seal-UniPlugin-Demo](https://github.com/silianpan/Seal-UniPlugin-Demo)|跨平台Office文档、图片在线预览，音视频播放原生插件Seal-OfficeOnline【非X5离线、组件嵌入、水印、WPS预览编辑】。百度OCR文字识别、证卡识别、票据识别原生插件Seal-OCR。百度语音在线识别原生插件Seal-VoiceASR。|47|2024-09-10|
-|127|[XiaoNieGPT/unraid-theme](https://github.com/XiaoNieGPT/unraid-theme)|专治强迫症|45|2024-09-09|
-|128|[JiyuShao/taro-dynamic-import-weapp](https://github.com/JiyuShao/taro-dynamic-import-weapp)|Taro 3.0 小程序动态加载|45|2024-08-09|
-|129|[dolyw/ViewGenerator](https://github.com/dolyw/ViewGenerator)|可视化DIY模板代码生成系统|45|2024-05-16|
-|130|[saithink/saiadmin-vue](https://github.com/saithink/saiadmin-vue)|SaiAdmin前端代码|44|2024-09-13|
+|127|[saithink/saiadmin-vue](https://github.com/saithink/saiadmin-vue)|SaiAdmin前端代码|46|2024-09-14|
+|128|[XiaoNieGPT/unraid-theme](https://github.com/XiaoNieGPT/unraid-theme)|专治强迫症|45|2024-09-09|
+|129|[JiyuShao/taro-dynamic-import-weapp](https://github.com/JiyuShao/taro-dynamic-import-weapp)|Taro 3.0 小程序动态加载|45|2024-08-09|
+|130|[dolyw/ViewGenerator](https://github.com/dolyw/ViewGenerator)|可视化DIY模板代码生成系统|45|2024-05-16|
 |131|[OnikayokoMaVie/MomoTalkNTQQ-Theme](https://github.com/OnikayokoMaVie/MomoTalkNTQQ-Theme)|基于LiteLoaderQQNT-Telegram-Theme修改的低仿Momotalk的QQNT主题|44|2024-05-17|
-|132|[menglike/bug_search](https://github.com/menglike/bug_search)|一款免费开源的漏洞情报系统|44|2024-07-18|
-|133|[terwer/siyuan-plugin-blog](https://github.com/terwer/siyuan-plugin-blog)|The notion like sharing feature you've always dreamed of is here, too 您梦寐以求的类 notion 分享功能，这里也有|44|2024-09-13|
-|134|[BlueSkyCaps/CoolNetBlog](https://github.com/BlueSkyCaps/CoolNetBlog)|使用c#/asp.net core 6的轻量级、简洁、跨平台的博客框架 博客系统。A lightweight, concise, and fast blogging framework using c# asp.net core 6.|44|2024-08-12|
-|135|[UPay-USDT/USDT-Payment-Gateway](https://github.com/UPay-USDT/USDT-Payment-Gateway)|UPay - USDT Payment Gateway (USDT 收款支付网关)|43|2024-06-04|
-|136|[GamerNoTitle/Valora](https://github.com/GamerNoTitle/Valora)|VLR (Valora) is a website that can help you check your VALORANT daily store/night market/accessory store without opening the game or downloading an APP   瓦罗兰特商店查询，无需安装任何软件即可帮助你查询每日商店、夜市和配件商店的网页|43|2024-08-13|
-|137|[houlangs/Newlangs4](https://github.com/houlangs/Newlangs4)|厚浪开发的新一代二级域名系统|42|2024-08-10|
-|138|[EasyOC/EasyOC](https://github.com/EasyOC/EasyOC)|EasyOC 是一个基于OrchardCore 的低代码SPA 服务端开发框架 ,前端项目 https://github.com/EasyOC/easyoc-amis-admin|42|2024-03-20|
-|139|[qjyn1314/authorization-life](https://github.com/qjyn1314/authorization-life)|spring-authorization-server 与  spring-security + springboot + nacos 深度整合示例。|40|2024-09-07|
-|140|[redhat123456/hexo-theme-MiHoYo](https://github.com/redhat123456/hexo-theme-MiHoYo)|一款致力于开发出MiHoYo一系列风格的hexo主题|40|2024-04-29|
-|141|[rpsh/letter.getpodcast.xyz](https://github.com/rpsh/letter.getpodcast.xyz)|任听播客通讯|40|2024-09-05|
-|142|[pengbotao/itopic.go](https://github.com/pengbotao/itopic.go)|基于Golang+Markdown的博客系统|40|2024-09-08|
-|143|[LoCyan-Team/LoCyanFrpPanel](https://github.com/LoCyan-Team/LoCyanFrpPanel)|LoCyanFrp 新管理面板   Powered by NaiveUI|39|2024-09-13|
-|144|[ImGoodBai/GoodWeBot](https://github.com/ImGoodBai/GoodWeBot)|全RPA技术实现完全合规，下载一键免安装运行，已接入coze等主流AI，使用超级简便的AI微信机器人|38|2024-09-12|
+|132|[GamerNoTitle/Valora](https://github.com/GamerNoTitle/Valora)|VLR (Valora) is a website that can help you check your VALORANT daily store/night market/accessory store without opening the game or downloading an APP   瓦罗兰特商店查询，无需安装任何软件即可帮助你查询每日商店、夜市和配件商店的网页|44|2024-08-13|
+|133|[menglike/bug_search](https://github.com/menglike/bug_search)|一款免费开源的漏洞情报系统|44|2024-07-18|
+|134|[terwer/siyuan-plugin-blog](https://github.com/terwer/siyuan-plugin-blog)|The notion like sharing feature you've always dreamed of is here, too 您梦寐以求的类 notion 分享功能，这里也有|44|2024-09-13|
+|135|[BlueSkyCaps/CoolNetBlog](https://github.com/BlueSkyCaps/CoolNetBlog)|使用c#/asp.net core 6的轻量级、简洁、跨平台的博客框架 博客系统。A lightweight, concise, and fast blogging framework using c# asp.net core 6.|44|2024-08-12|
+|136|[ImGoodBai/GoodWeBot](https://github.com/ImGoodBai/GoodWeBot)|全RPA技术实现完全合规，下载一键免安装运行，已接入coze等主流AI，使用超级简便的AI微信机器人|43|2024-09-14|
+|137|[UPay-USDT/USDT-Payment-Gateway](https://github.com/UPay-USDT/USDT-Payment-Gateway)|UPay - USDT Payment Gateway (USDT 收款支付网关)|43|2024-06-04|
+|138|[houlangs/Newlangs4](https://github.com/houlangs/Newlangs4)|厚浪开发的新一代二级域名系统|42|2024-08-10|
+|139|[EasyOC/EasyOC](https://github.com/EasyOC/EasyOC)|EasyOC 是一个基于OrchardCore 的低代码SPA 服务端开发框架 ,前端项目 https://github.com/EasyOC/easyoc-amis-admin|42|2024-03-20|
+|140|[qjyn1314/authorization-life](https://github.com/qjyn1314/authorization-life)|spring-authorization-server 与  spring-security + springboot + nacos 深度整合示例。|40|2024-09-07|
+|141|[redhat123456/hexo-theme-MiHoYo](https://github.com/redhat123456/hexo-theme-MiHoYo)|一款致力于开发出MiHoYo一系列风格的hexo主题|40|2024-04-29|
+|142|[rpsh/letter.getpodcast.xyz](https://github.com/rpsh/letter.getpodcast.xyz)|任听播客通讯|40|2024-09-05|
+|143|[pengbotao/itopic.go](https://github.com/pengbotao/itopic.go)|基于Golang+Markdown的博客系统|40|2024-09-08|
+|144|[LoCyan-Team/LoCyanFrpPanel](https://github.com/LoCyan-Team/LoCyanFrpPanel)|LoCyanFrp 新管理面板   Powered by NaiveUI|39|2024-09-14|
 |145|[akkva/gwfox](https://github.com/akkva/gwfox)|果味🦊皮...|38|2024-09-03|
 |146|[telegeam/telegeam.github.io](https://github.com/telegeam/telegeam.github.io)|TG纸飞机群组 - Telegram频道导航【热门推荐】悄悄收集了6000+优质Telegram群组、频道和机器人，经过筛选，助您快速找到最合适的群组或频道！|38|2024-08-11|
 |147|[clashcross/AuroraForV2board](https://github.com/clashcross/AuroraForV2board)|Aurora For V2board 前后端分离部署，以及白嫖部署到cloudflare Workers|37|2024-04-03|
@@ -192,7 +192,7 @@
 |185|[wangdoc/loppo-theme-wangdoc](https://github.com/wangdoc/loppo-theme-wangdoc)|Wangdoc 文档页面的默认主题|19|2024-05-28|
 |186|[xwcoder/xwcoder.github.com](https://github.com/xwcoder/xwcoder.github.com)|personal blog|19|2024-06-24|
 |187|[AnnonaOrg/tgfaka](https://github.com/AnnonaOrg/tgfaka)|加密货币USDT发卡机器人，带web后台|18|2024-09-10|
-|188|[HegeKen/MRData](https://github.com/HegeKen/MRData)|MIUIROMS Data    MIUI官方ROM仓库的数据|18|2024-09-13|
+|188|[HegeKen/MRData](https://github.com/HegeKen/MRData)|MIUIROMS Data    MIUI官方ROM仓库的数据|18|2024-09-14|
 |189|[lengain/BanbdAdForSafari](https://github.com/lengain/BanbdAdForSafari)|Safari过滤百度搜索广告插件|18|2024-03-19|
 |190|[itorr/only.kyoani.cn](https://github.com/itorr/only.kyoani.cn)|京阿尼Only|17|2024-06-20|
 |191|[dlzmoe/meteor](https://github.com/dlzmoe/meteor)|极简hugo主题。|17|2024-08-12|

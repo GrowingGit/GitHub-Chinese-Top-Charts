@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2024-09-13&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -28,7 +28,7 @@
 |21|[CSW33/NPU-CV](https://github.com/CSW33/NPU-CV)|一个西工大latex简历模板，设计基于某个祖传word模板改的，大量注释。|4|2024-05-07|2024-05-03|
 |22|[WQT1123/University-Presentation-Beamer](https://github.com/WQT1123/University-Presentation-Beamer)|大学Latex答辩模版，当前包含川大、哈工大、中科大。|4|2024-07-22|2024-02-28|
 |23|[Theigrams/quick-LaTeX](https://github.com/Theigrams/quick-LaTeX)|一个快速上手的中文 LaTeX 模板|4|2024-04-02|2023-12-29|
-|24|[flaribbit/lyrics](https://github.com/flaribbit/lyrics)|收集了一些我喜欢的歌曲的歌词|3|2024-09-10|2024-09-08|
+|24|[flaribbit/lyrics](https://github.com/flaribbit/lyrics)|收集了一些我喜欢的歌曲的歌词|3|2024-09-13|2024-09-08|
 |25|[EmpyreanHYR/MCM-Latex-template](https://github.com/EmpyreanHYR/MCM-Latex-template)|自用整理出的MCM数学建模美赛LaTex模板|3|2024-08-22|2024-08-22|
 |26|[EmpyreanHYR/CUMCM-Latex-template](https://github.com/EmpyreanHYR/CUMCM-Latex-template)|自用整理出的CUMCM数学建模国赛LaTex模板|3|2024-08-31|2024-08-22|
 |27|[DianRobot/DianRobot.github.io](https://github.com/DianRobot/DianRobot.github.io)|Diangroup Robotics Lab实验室主页|3|2024-07-25|2024-07-03|

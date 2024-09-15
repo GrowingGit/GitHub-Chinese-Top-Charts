@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-09-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|2024-08-05|
-|2|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|758|2024-08-30|
+|2|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|760|2024-08-30|
 |3|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|350|2024-04-13|
 |4|[AlterWL/Battery_SOC_Estimation](https://github.com/AlterWL/Battery_SOC_Estimation)|Battery state of charge estimation using kalman filter in Matlab|299|2024-04-12|
 |5|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|232|2024-09-13|

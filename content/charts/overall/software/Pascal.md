@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Pascal
-<sub>数据更新: 2024-09-14&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -17,7 +17,7 @@
 |10|[huzgd/ezdml](https://github.com/huzgd/ezdml)|Lightweight data modeling and design tool (超轻量级的数据建模表结构设计工具)|44|2024-08-11|
 |11|[xenli/OneDelphi](https://github.com/xenli/OneDelphi)|OneDelphi是叫兽(FLM)QQ:378464060基于Delphi IDE开发的三层中间件，开源免费，支持MVC及传统DataSet框架，使用的是Mormot2的HTTP通讯。【OnePascal开源群】：814696487|39|2024-05-08|
 |12|[terrylao/PascalContainer](https://github.com/terrylao/PascalContainer)|advanced data structure in Pascal, include  B-Tree,B+-Tree,B*-Tree,T-Tree,HashMap,priority queue,red-black-Tree,AVL-tree,Quad-Tree,SkipList,Sortable Single Linklist,Sort Function,LockFreeQueue,nth_ele ...|38|2024-06-25|
-|13|[msfm2018/WinBarDock](https://github.com/msfm2018/WinBarDock)|模仿 MacOSX Dock 效率软件   打造国产 ObjectDock 桌面助手|18|2024-08-31|
+|13|[msfm2018/WinBarDock](https://github.com/msfm2018/WinBarDock)|模仿 MacOSX Dock 效率软件   打造国产 ObjectDock 桌面助手|18|2024-09-14|
 |14|[abcjingtong/HCView_Pascal](https://github.com/abcjingtong/HCView_Pascal)|一个类似word或wps用于文字排版相关功能的控件，有Delphi、C#、Html5、C++四个版本。|7|2024-08-05|
 |15|[cityboat888/OnePascal](https://github.com/cityboat888/OnePascal)|OnePascal简介: OneDelphi是基于Delphi IDE开发的三层中间件， oneLaz是基于Lazaus IDE开发的三层中间件， OneUniApp是基于HBuilderX IDE开发的多端合一app 中间件支持MVC及传统DataSet框架，这个版本是在源码的基础上(放弃mormot)使用Delphi-Cross-Socket作为HTTP通讯|5|2024-04-16|
 |16|[axpokl/display](https://github.com/axpokl/display)|Display单元库|5|2024-06-28|
