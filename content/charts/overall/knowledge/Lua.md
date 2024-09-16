@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > Lua
-<sub>数据更新: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)|《明日方舟》游戏数据|1380|2024-09-10|
-|2|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|1006|2024-08-10|
+|1|[Kengxxiao/ArknightsGameData](https://github.com/Kengxxiao/ArknightsGameData)|《明日方舟》游戏数据|1381|2024-09-10|
+|2|[kawre/leetcode.nvim](https://github.com/kawre/leetcode.nvim)|A Neovim plugin enabling you to solve LeetCode problems.|1009|2024-08-10|
 |3|[openresty/lua-resty-lock](https://github.com/openresty/lua-resty-lock)|Simple nonblocking lock API for ngx_lua based on shared memory dictionaries|304|2024-08-17|
 |4|[max-ri/Guidelime](https://github.com/max-ri/Guidelime)|Guidelime: A WoW Classic addon for leveling guides with automatic progress updates|156|2024-07-12|
 |5|[LintaoAmons/CoolStuffes](https://github.com/LintaoAmons/CoolStuffes)|我的分享放这里了，大家随便拿去用啊，记得给个星星就行啦～|136|2024-08-26|
@@ -17,7 +17,7 @@
 |10|[generals-space/note-devops](https://github.com/generals-space/note-devops)|linux运维笔记|58|2024-07-25|
 |11|[k8scat/lua-resty-feishu-auth](https://github.com/k8scat/lua-resty-feishu-auth)|适用于 OpenResty / ngx_lua 的基于飞书组织架构的登录认证|38|2024-05-08|
 |12|[MsLGXC/GTA-StandAIO](https://github.com/MsLGXC/GTA-StandAIO)|GTAV Stand Mod Menu的All In One多位一体合集储存库,包含了stand的大量优秀脚本、汉化，同时也是MsLGXC线上画质模组的唯一更新地址|28|2024-06-26|
-|13|[l549349545/MeetingStone_Happy](https://github.com/l549349545/MeetingStone_Happy)|魔兽世界集合石插件修改版|14|2024-09-08|
+|13|[l549349545/MeetingStone_Happy](https://github.com/l549349545/MeetingStone_Happy)|魔兽世界集合石插件修改版|14|2024-09-15|
 |14|[newObjectccc/newObjectccc.github.io](https://github.com/newObjectccc/newObjectccc.github.io)|一个分享文章和技术还有推荐的Repo~|12|2024-08-31|
 |15|[Yiklek/oh-my-rime](https://github.com/Yiklek/oh-my-rime)|rime 输入法集合|10|2024-08-16|
 |16|[mamjun/DST-Sora](https://github.com/mamjun/DST-Sora)|《饥荒：联机版》里 穹妹的mod|8|2024-09-08|

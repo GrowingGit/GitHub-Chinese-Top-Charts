@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > MATLAB
-<sub>数据更新: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|3392|4|2024-09-14|
+|1|[MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)|This is the homepage of a new book entitled "Mathematical Foundations of Reinforcement Learning."|3402|4|2024-09-14|
 |2|[LuchengCai/Batch-DRT-transformation-processing-of-EIS-data-based-on-MATLAB](https://github.com/LuchengCai/Batch-DRT-transformation-processing-of-EIS-data-based-on-MATLAB)|该项目需将多个eis数据（包含频率、实部、虚部）汇总到一个excel表格中（每个sheet一份数据），可将多个eis数据批量转化为DRT图谱。|5|1|2024-09-07|
 |3|[dick20/MCM-ICM](https://github.com/dick20/MCM-ICM)|2004-2020美赛O奖论文|1633|1|2024-04-09|
 |4|[dawnlh/awesome-low-light-image-enhancement](https://github.com/dawnlh/awesome-low-light-image-enhancement)|This is a resouce list for low light image enhancement|1416|1|2024-07-27|
@@ -21,7 +21,7 @@
 |14|[vectorZeng/CUG_Automation](https://github.com/vectorZeng/CUG_Automation)|中国地质大学 （武汉） 自动化专业 课程资料共享|4|0|2024-09-12|
 |15|[Teddy-Liao/Beauty-of-Control-using-Matlab](https://github.com/Teddy-Liao/Beauty-of-Control-using-Matlab)|复制了《控制之美卷2》书籍提供的Octave源代码，并用Matlab进行部分复现。|18|0|2024-05-31|
 |16|[scruel/Notes-ML-AndrewNg](https://github.com/scruel/Notes-ML-AndrewNg)|Coursera吴恩达机器学习课程笔记及资源整理|463|0|2024-03-18|
-|17|[bhu619/Beauty-of-Control-Systems-Notebook](https://github.com/bhu619/Beauty-of-Control-Systems-Notebook)|记录在Bilibili上关注UP主DR_CAN的视频教程以及相关书籍课程的学习笔记。|7|0|2024-09-14|
+|17|[bhu619/Beauty-of-Control-Systems-Notebook](https://github.com/bhu619/Beauty-of-Control-Systems-Notebook)|记录在Bilibili上关注UP主DR_CAN的视频教程以及相关书籍课程的学习笔记。|8|0|2024-09-14|
 |18|[pipimamaoyuan/XJTU-automation-undergraduate-all-Learning-Materials-](https://github.com/pipimamaoyuan/XJTU-automation-undergraduate-all-Learning-Materials-)|西安交通大学自动化专业本科生学习资料 XJTU automation undergraduate all Learning Materials|4|0|2024-08-15|
 |19|[ZHANG-JiXiang/ECOOT-cec2017](https://github.com/ZHANG-JiXiang/ECOOT-cec2017)|论文“增强型白骨顶鸡优化算法及其应用”的代码，实验与COA、PSO、WOA、BOA、AEO、HHO、AVOA七种群智能算法进行比较|13|0|2024-07-01|
 |20|[LZ-CH/Exposure_Correction-pytorch](https://github.com/LZ-CH/Exposure_Correction-pytorch)|CVPR2021 Learning Multi-Scale Photo Exposure Correction论文的非官方pytorch代码|125|0|2024-05-14|

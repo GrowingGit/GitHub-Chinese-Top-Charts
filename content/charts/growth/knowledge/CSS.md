@@ -1,28 +1,28 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > CSS
-<sub>数据更新: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)|经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新|20842|26|2024-09-13|
-|2|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |1092|12|2024-08-14|
-|3|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|19534|7|2024-08-07|
+|1|[hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)|经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新|20851|26|2024-09-13|
+|2|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |1097|12|2024-08-14|
+|3|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|19532|7|2024-08-07|
 |4|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|21053|6|2024-09-11|
 |5|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1329|5|2024-05-10|
-|6|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5575|2|2024-09-11|
-|7|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|9046|2|2024-07-01|
-|8|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|3368|1|2024-06-16|
+|6|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5577|2|2024-09-11|
+|7|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|9047|2|2024-07-01|
+|8|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|3367|1|2024-06-16|
 |9|[LaneDu/Knowledge-Brain](https://github.com/LaneDu/Knowledge-Brain)|思源笔记主题 Knowledge Brain 寓意知识大脑|19|0|2024-09-02|
 |10|[wflac/theme-Mego](https://github.com/wflac/theme-Mego)|一款基于 Halo 的简约时尚的原创卡片式博客主题，炫酷的个人展示图，拥有 Banner 展示位、通知、侧边小卡片。|14|0|2024-06-06|
 |11|[fuzhengwei/itstack-demo-netty](https://github.com/fuzhengwei/itstack-demo-netty)|微信公众号：bugstack虫洞栈   专注于原创开发专题案例。跟着案例学Netty，Netty4.x案例从简单入门到应用实战，全篇37章节优秀案例+实战源码[基础篇(13)、中级篇(13)、高级篇(3章+)、源码分析篇]，以上章节全部完成并不断持续更新中。欢迎关注公众号：bugstack虫洞栈   阅读专题文章+调试案例源码学习｛回复netty案例｝。|708|0|2024-04-16|
 |12|[Alanrk/hexo-theme-onenote](https://github.com/Alanrk/hexo-theme-onenote)|专注于提供良好的阅读体验的hexo博客主题|37|0|2024-07-15|
-|13|[LychApe/DreamCat](https://github.com/LychApe/DreamCat)|DreamCat 是一个极简自适应博客主题,年轻人追梦良品!|279|0|2024-08-04|
+|13|[LychApe/DreamCat](https://github.com/LychApe/DreamCat)|DreamCat 是一个极简自适应博客主题,年轻人追梦良品!|277|0|2024-08-04|
 |14|[MR-Addict/Doc-Share](https://github.com/MR-Addict/Doc-Share)|南京工业大学校大学生科协技术部电子组培训学习文档|16|0|2024-07-24|
 |15|[yanchunlan/SourceCodeSummary](https://github.com/yanchunlan/SourceCodeSummary)|个人笔记（编译/性能优化/framework/音视频/flutter）|25|0|2024-04-17|
-|16|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|203|0|2024-06-01|
+|16|[teedoc/teedoc](https://github.com/teedoc/teedoc)|wiki and multi docs friendly static document site generator(doc generator), convert markdown and jupyter notebook to html website. wiki 和多文档友好的静态文档网站生成工具|202|0|2024-06-01|
 |17|[Hiroki-Sawada-y/Hiroki_Study](https://github.com/Hiroki-Sawada-y/Hiroki_Study)|个人学习笔记 obsidian|13|0|2024-05-27|
-|18|[hanzhichao/qaschool](https://github.com/hanzhichao/qaschool)|[原创]基于django的一款文本教程网站（类似菜鸟教程）|11|0|2024-08-19|
+|18|[hanzhichao/qaschool](https://github.com/hanzhichao/qaschool)|[原创]基于django的一款文本教程网站（类似菜鸟教程）|12|0|2024-08-19|
 |19|[weijiyang/weijiyang.github.io](https://github.com/weijiyang/weijiyang.github.io)|:stuck_out_tongue: 个人简历 & 博客|29|0|2024-05-12|
 |20|[calebman/girlfriend-gift-collection](https://github.com/calebman/girlfriend-gift-collection)|送给女朋友的礼物合集，生日/情人节/纪念日等，程序员的创意。|297|0|2024-06-20|
 |21|[xupsh/pp4fpgas-cn](https://github.com/xupsh/pp4fpgas-cn)|中文版 Parallel Programming for FPGAs|691|0|2024-08-21|
@@ -30,15 +30,15 @@
 |23|[Dreamer-Paul/Single](https://github.com/Dreamer-Paul/Single)|🎈 一个简洁大气，含夜间模式的 Typecho 博客主题|703|0|2024-08-10|
 |24|[leedom92/hexo-theme-leedom](https://github.com/leedom92/hexo-theme-leedom)|🎨「仿照尤雨溪博客的简洁的Hexo主题」A pure theme of Hexo like Evan You's blog|43|0|2024-04-14|
 |25|[Dreamer-Paul/Hingle](https://github.com/Dreamer-Paul/Hingle)|🎈 一个简洁大气，含夜间模式的 Hexo 博客主题|66|0|2024-09-02|
-|26|[andy6804tw/crazyai-ml](https://github.com/andy6804tw/crazyai-ml)|全民瘋AI系列 [經典機器學習]|154|0|2024-09-04|
+|26|[andy6804tw/crazyai-ml](https://github.com/andy6804tw/crazyai-ml)|全民瘋AI系列 [經典機器學習]|154|0|2024-09-15|
 |27|[jtpio/p5-notebook](https://github.com/jtpio/p5-notebook)|A Jupyter Notebook environment for p5.js kernels running in the browser, powered by JupyterLite 💡|138|0|2024-05-02|
 |28|[document-translate/volta](https://github.com/document-translate/volta)|volta 简体中文版文档|8|0|2024-05-17|
 |29|[missing-semester-zh-Hant/missing-semester-zh-Hant.github.io](https://github.com/missing-semester-zh-Hant/missing-semester-zh-Hant.github.io)|Traditional Chinese translation of course "The Missing Semester of Your CS Education"|56|0|2024-07-09|
 |30|[mouday/coding-tree](https://github.com/mouday/coding-tree)|程序员工作、学习笔记|20|0|2024-08-07|
 |31|[dianhsu/blog](https://github.com/dianhsu/blog)|dianhsu的博客源码|6|0|2024-08-07|
-|32|[ZGQ-inc/source](https://github.com/ZGQ-inc/source)|:package:个人搜集   书源、图源、订阅源、规则、直播源、各种源 大型整合|394|0|2024-09-04|
+|32|[ZGQ-inc/source](https://github.com/ZGQ-inc/source)|:package:个人搜集   书源、图源、订阅源、规则、直播源、各种源 大型整合|408|0|2024-09-04|
 |33|[huzhicheng/fengzheng-blog](https://github.com/huzhicheng/fengzheng-blog)|一款简介的个人博客模板，使用 Hugo + Markdown |36|0|2024-06-25|
-|34|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|12|0|2024-09-14|
+|34|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|12|0|2024-09-15|
 |35|[KinnariyaMamaTanha/aiTour](https://github.com/KinnariyaMamaTanha/aiTour)|AI 学习之旅|15|0|2024-09-12|
 |36|[xukaiyyds/domain-name](https://github.com/xukaiyyds/domain-name)|一个简约的顶级国际域名证书模板。|6|0|2024-09-08|
 |37|[zino-rs/zino-docs-zh](https://github.com/zino-rs/zino-docs-zh)|Zino开发框架中文教程|8|0|2024-04-03|
@@ -51,9 +51,9 @@
 |44|[zjp-CN/translation](https://github.com/zjp-CN/translation)|翻译的 Rust 博文|14|0|2024-05-22|
 |45|[openanolis/whitebook-shangmi](https://github.com/openanolis/whitebook-shangmi)|商用密码技术最佳实践白皮书|25|0|2024-08-06|
 |46|[lsils/lstools-showcase](https://github.com/lsils/lstools-showcase)|Showcase examples for EPFL logic synthesis libraries|176|0|2024-04-05|
-|47|[epoch-lab/cuit-guide](https://github.com/epoch-lab/cuit-guide)|CUIT 指南|11|0|2024-09-14|
+|47|[epoch-lab/cuit-guide](https://github.com/epoch-lab/cuit-guide)|CUIT 指南|11|0|2024-09-15|
 |48|[open-spaced-repetition/anki-manual-zh-CN](https://github.com/open-spaced-repetition/anki-manual-zh-CN)|Anki 用户手册（中文翻译）|10|0|2024-09-10|
-|49|[Sophomoresty/typora-theme-Jinxiu](https://github.com/Sophomoresty/typora-theme-Jinxiu)|锦绣红 Typora 模板：大学生课程论文与日常写作的好帮手|6|0|2024-08-28|
+|49|[Sophomoresty/typora-theme-Jinxiu](https://github.com/Sophomoresty/typora-theme-Jinxiu)|锦绣红 Typora 模板：大学生课程论文与日常写作的好帮手|7|0|2024-08-28|
 |50|[wangyang0210/cnblogs-theme](https://github.com/wangyang0210/cnblogs-theme)|博客园皮肤|119|0|2024-08-31|
 |51|[Azure/OCPCHINATECH](https://github.com/Azure/OCPCHINATECH)|OCPOpenHack is a lab gallery on Azure Services for China partners. Pls join in us to learn Azure and to learn Microsoft.|59|0|2024-08-26|
 |52|[xiamuguizhi/Chronicle](https://github.com/xiamuguizhi/Chronicle)|【易语言】Chronicle静态博客生成器|7|0|2024-08-25|
@@ -64,7 +64,7 @@
 |57|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|411|0|2024-09-14|
 |58|[bosens-China/blog](https://github.com/bosens-China/blog)|个人写博客的地方|6|0|2024-09-06|
 |59|[meethigher/hexo-theme-starry](https://github.com/meethigher/hexo-theme-starry)|已被官方收录的hexo主题-Starry，采用ejs跟less开发。技术限制，目前还有很多优化未实现，学习ing。基于很多大佬开源的插件，感谢！|26|0|2024-07-21|
-|60|[SEC-CAFE/handbook](https://github.com/SEC-CAFE/handbook)|安全手册，企业安全实践、攻防与安全研究知识库|20|0|2024-07-10|
+|60|[SEC-CAFE/handbook](https://github.com/SEC-CAFE/handbook)|安全手册，企业安全实践、攻防与安全研究知识库|21|0|2024-07-10|
 |61|[qiwihui/blog](https://github.com/qiwihui/blog)|技术和思考，基于issues|43|0|2024-08-18|
 |62|[csfive/home](https://github.com/csfive/home)|🐭 计算机废物自学指北|19|0|2024-04-28|
 |63|[lululuting/tgbk](https://github.com/lululuting/tgbk)|挺哥博客|31|0|2024-05-20|
