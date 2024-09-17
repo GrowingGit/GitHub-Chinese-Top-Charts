@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -18,17 +18,16 @@
 |11|[JayChou202302/BRCBoxInputView](https://github.com/JayChou202302/BRCBoxInputView)|BRCBoxInputView is a customizable input view that supports various text input customizations and conforms to the UITextInput protocol. 一个基于 UITextInput 协议的验证码输入组件，功能强大，支持高度自定义 ，v1.2.0 支持 SwiftUI|3|2024-09-10|2024-07-05|
 |12|[CocoaJiang/XJButton](https://github.com/CocoaJiang/XJButton)|一个解放你所有烦恼的Button 支持链式调用，支持渐变+各个方向的圆角，支持block回调事件，支持图片和文字的距离调整，支持增加点击范围，支持内边距|3|2024-08-12|2024-06-19|
 |13|[gzx543097079/AppStorePrivacyInfo](https://github.com/gzx543097079/AppStorePrivacyInfo)|解决部分已经不在维护的SDK的隐私清单问题|3|2024-05-28|2024-04-29|
-|14|[huangchangweng/HLVideoCache](https://github.com/huangchangweng/HLVideoCache)|对KTVHTTPCache进行封装，实现视频边下边播，实现列表视频秒开|3|2024-03-16|2024-03-16|
-|15|[F-JH/weworklocation](https://github.com/F-JH/weworklocation)|企业微信修改定位|3|2024-07-25|2024-03-04|
-|16|[vampire-locker/iOS-Tools-OC](https://github.com/vampire-locker/iOS-Tools-OC)|iOS 常用的工具类|2|2024-09-05|2024-08-20|
-|17|[EricMoin/R9000P2021-AMD5800H-Hackintosh](https://github.com/EricMoin/R9000P2021-AMD5800H-Hackintosh)|黑苹果EFI文件|2|2024-07-23|2024-07-23|
-|18|[QuintGao/GKLivePhotoManager](https://github.com/QuintGao/GKLivePhotoManager)|livePhoto处理工具类|2|2024-09-14|2024-06-27|
-|19|[295060456/JobsOCBaseConfigDemo](https://github.com/295060456/JobsOCBaseConfigDemo)|iOS.OC靶场项目|2|2024-09-13|2024-05-11|
-|20|[acodeworker/VoiceAnimation](https://github.com/acodeworker/VoiceAnimation)|仿文心一言语音动效|2|2024-04-17|2024-04-17|
-|21|[dvlpCrack/CQAppPassword_dylib](https://github.com/dvlpCrack/CQAppPassword_dylib)|一个进入app需要密码的动态库|2|2024-04-11|2024-04-10|
-|22|[AeolusZane/rn-swift-demo](https://github.com/AeolusZane/rn-swift-demo)|RN-Swift混合开发，覆盖大部分开发需求。包含RN使用Swift组件，RN和Swift组件相互通信，RN更新Swift组件状态、Swift更新RN组件状态|2|2024-04-27|2024-03-20|
-|23|[CodeGather/fusion_auth](https://github.com/CodeGather/fusion_auth)|Flutter阿里云号码认证的融合认证|2|2024-06-30|2023-11-28|
-|24|[OuterCloud/TestAppForIOS](https://github.com/OuterCloud/TestAppForIOS)|该项目用来展示用例信息收集库的使用方法|2|2024-07-30|2023-10-30|
+|14|[F-JH/weworklocation](https://github.com/F-JH/weworklocation)|企业微信修改定位|3|2024-07-25|2024-03-04|
+|15|[vampire-locker/iOS-Tools-OC](https://github.com/vampire-locker/iOS-Tools-OC)|iOS 常用的工具类|2|2024-09-05|2024-08-20|
+|16|[EricMoin/R9000P2021-AMD5800H-Hackintosh](https://github.com/EricMoin/R9000P2021-AMD5800H-Hackintosh)|黑苹果EFI文件|2|2024-07-23|2024-07-23|
+|17|[QuintGao/GKLivePhotoManager](https://github.com/QuintGao/GKLivePhotoManager)|livePhoto处理工具类|2|2024-09-14|2024-06-27|
+|18|[295060456/JobsOCBaseConfigDemo](https://github.com/295060456/JobsOCBaseConfigDemo)|iOS.OC靶场项目|2|2024-09-16|2024-05-11|
+|19|[acodeworker/VoiceAnimation](https://github.com/acodeworker/VoiceAnimation)|仿文心一言语音动效|2|2024-04-17|2024-04-17|
+|20|[dvlpCrack/CQAppPassword_dylib](https://github.com/dvlpCrack/CQAppPassword_dylib)|一个进入app需要密码的动态库|2|2024-04-11|2024-04-10|
+|21|[AeolusZane/rn-swift-demo](https://github.com/AeolusZane/rn-swift-demo)|RN-Swift混合开发，覆盖大部分开发需求。包含RN使用Swift组件，RN和Swift组件相互通信，RN更新Swift组件状态、Swift更新RN组件状态|2|2024-04-27|2024-03-20|
+|22|[CodeGather/fusion_auth](https://github.com/CodeGather/fusion_auth)|Flutter阿里云号码认证的融合认证|2|2024-06-30|2023-11-28|
+|23|[OuterCloud/TestAppForIOS](https://github.com/OuterCloud/TestAppForIOS)|该项目用来展示用例信息收集库的使用方法|2|2024-07-30|2023-10-30|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

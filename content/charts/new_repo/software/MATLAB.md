@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-09-15&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -21,30 +21,29 @@
 |14|[123RoBin0819/Sea-clutter](https://github.com/123RoBin0819/Sea-clutter)|海杂波|7|2024-05-17|2024-05-17|
 |15|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|7|2024-05-21|2024-05-06|
 |16|[HelioAB/CableSSB-zh](https://github.com/HelioAB/CableSSB-zh)|提供了一个专为桥梁工程设计的通用框架，它能够支持创建包括斜拉桥、悬索桥、斜拉-悬索协作体系桥梁在内的几乎所有类型的缆索承重桥梁的物理模型，并可以将其导入到ANSYS中进行有限元分析。基于MATLAB编写，本框架旨在为桥梁工程师和研究人员提供一个强大、灵活的工具，以促进缆索承重桥梁的分析和研究。|7|2024-07-26|2024-02-29|
-|17|[Aitherqwq/dsp_integrate_e_demo](https://github.com/Aitherqwq/dsp_integrate_e_demo)|数字信号处理大作业，语音处理|7|2024-03-16|2023-12-30|
-|18|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|2024-08-14|2024-06-02|
-|19|[flyQQQHddd/pattern-recognition](https://github.com/flyQQQHddd/pattern-recognition)|模式识别|6|2024-04-11|2024-04-11|
-|20|[Maaaaark001/Easy_DPD](https://github.com/Maaaaark001/Easy_DPD)|简易的DPD算法示例|6|2024-06-27|2023-10-12|
-|21|[TkungAI/AMBD-CGE](https://github.com/TkungAI/AMBD-CGE)|基于MBD（Model-Based Design，基于模型的设计）代码生成样例。|5|2024-04-14|2024-04-04|
-|22|[SJY411/ADRC-control-system-of-highly-dynamic-aircraft](https://github.com/SJY411/ADRC-control-system-of-highly-dynamic-aircraft)|本项目对于高动态飞行器过载控制系统，提出了基于角加速度反馈的自动驾驶仪设计方案，并设计了自抗扰控制系统。|5|2024-03-25|2024-03-25|
-|23|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|5|2024-09-04|2024-03-11|
-|24|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|4|2024-05-23|2024-05-23|
-|25|[ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP](https://github.com/ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP)|基于ADP算法求解微电网实时经济调度问题|4|2024-05-10|2024-05-10|
-|26|[zhangyonggang316/ZLG_USBCAN_Simuink](https://github.com/zhangyonggang316/ZLG_USBCAN_Simuink)|创建了周立功USBCAN设备的驱动库，simulink模型可以直接添加模块，驱动硬件进行can报文的收发。|4|2024-04-28|2024-04-26|
-|27|[SJY411/Unmanned-aircraft-control-system-for-Boeing747](https://github.com/SJY411/Unmanned-aircraft-control-system-for-Boeing747)|本工作以大型民用客机波音747-100为研究对象，建立了自动飞行控制系统的整体数学模型，并对飞行过程进行综合数字仿真。This work takes the large civil airliner Boeing 747-100 as the research object, establishes an overall mathematical model of the automatic fl ...|4|2024-03-26|2024-03-26|
-|28|[LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data](https://github.com/LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data)|高密度电法原始数据平滑Matlab程序|3|2024-08-11|2024-08-10|
-|29|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|3|2024-07-08|2024-07-08|
-|30|[K-N-Xiang/OpenISP-MATLAB](https://github.com/K-N-Xiang/OpenISP-MATLAB)|用MATLAB写的ISP Pipeline|3|2024-07-19|2024-07-04|
-|31|[nextpilot/nextpilot-simulink-toolbox](https://github.com/nextpilot/nextpilot-simulink-toolbox)|一套基于MATLAB/Simulink飞控系统开发工具箱|3|2024-09-13|2024-06-20|
-|32|[pigeonLCY/2023CUMCM](https://github.com/pigeonLCY/2023CUMCM)|基于计算几何的海域地形分析及多波束测深优化模型|3|2024-06-05|2024-06-05|
-|33|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|2024-05-29|2024-04-20|
-|34|[Sunshine00001/-matlab-](https://github.com/Sunshine00001/-matlab-)|（1）设置车辆参数及其他车辆信息。 （2）系统应该能够根据输入的车辆和停车位信息，自动生成最佳路径规划方案。 （3）考虑到实际应用场景，系统应能够处理不同路况、停车位大小和停车要求等多种情况。 （4）仿真与分析，对所得结果的有效性进行验证。 （5）系统应该具备一定的健壮性和鲁棒性，能够处理异常情况并给出合理的解决方案。 （6）完善平行泊车路径规划程序，通过设计GUI界面展示泊车路径规划。|3|2024-04-08|2024-04-08|
-|35|[DuRen1126/ECG_DeepClassfication](https://github.com/DuRen1126/ECG_DeepClassfication)|基于机器学习的心电分析疲劳检测方法研究|3|2024-03-31|2024-03-31|
-|36|[kon9chun/ParameterIdentification_and_FOMe](https://github.com/kon9chun/ParameterIdentification_and_FOMe)|FOM参数辨识及其改进模型|3|2024-07-02|2024-02-21|
-|37|[XDUgaile/2024ICM_D](https://github.com/XDUgaile/2024ICM_D)|2024美赛 ICM D题|3|2024-05-04|2024-02-02|
-|38|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|2024-07-16|2023-12-15|
-|39|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-06-17|2023-10-24|
-|40|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|2024-07-30|2023-10-08|
+|17|[deltaRing/multi_mmwave_radar_tracking_multi_targets](https://github.com/deltaRing/multi_mmwave_radar_tracking_multi_targets)|多毫米波雷达跟踪多目标|6|2024-08-14|2024-06-02|
+|18|[flyQQQHddd/pattern-recognition](https://github.com/flyQQQHddd/pattern-recognition)|模式识别|6|2024-04-11|2024-04-11|
+|19|[Maaaaark001/Easy_DPD](https://github.com/Maaaaark001/Easy_DPD)|简易的DPD算法示例|6|2024-06-27|2023-10-12|
+|20|[TkungAI/AMBD-CGE](https://github.com/TkungAI/AMBD-CGE)|基于MBD（Model-Based Design，基于模型的设计）代码生成样例。|5|2024-04-14|2024-04-04|
+|21|[SJY411/ADRC-control-system-of-highly-dynamic-aircraft](https://github.com/SJY411/ADRC-control-system-of-highly-dynamic-aircraft)|本项目对于高动态飞行器过载控制系统，提出了基于角加速度反馈的自动驾驶仪设计方案，并设计了自抗扰控制系统。|5|2024-03-25|2024-03-25|
+|22|[0ce38a2b/Predictive-Control-Quadcopter](https://github.com/0ce38a2b/Predictive-Control-Quadcopter)|Predictive Control Core Assignment  - Spring 2024 Imperial College London|5|2024-09-04|2024-03-11|
+|23|[Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN](https://github.com/Heavyapples/Generate-three-classification-vibration-signals-and-train-them-with-CNN)|本项目是一个由我个人开发的matlab深度学习项目，生成了三种不同类型的波形信号并构建了一个数据集，使用STFT计算信号的时频图，构建并训练了一个简单的CNN用于分类信号类型，测试了训练好的模型，并通过CAM可视化模型的决策区域。|4|2024-05-23|2024-05-23|
+|24|[ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP](https://github.com/ElbertSwan/Microgrid-real-time-economic-dispatch-with-ADP)|基于ADP算法求解微电网实时经济调度问题|4|2024-05-10|2024-05-10|
+|25|[zhangyonggang316/ZLG_USBCAN_Simuink](https://github.com/zhangyonggang316/ZLG_USBCAN_Simuink)|创建了周立功USBCAN设备的驱动库，simulink模型可以直接添加模块，驱动硬件进行can报文的收发。|4|2024-04-28|2024-04-26|
+|26|[SJY411/Unmanned-aircraft-control-system-for-Boeing747](https://github.com/SJY411/Unmanned-aircraft-control-system-for-Boeing747)|本工作以大型民用客机波音747-100为研究对象，建立了自动飞行控制系统的整体数学模型，并对飞行过程进行综合数字仿真。This work takes the large civil airliner Boeing 747-100 as the research object, establishes an overall mathematical model of the automatic fl ...|4|2024-03-26|2024-03-26|
+|27|[LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data](https://github.com/LZT1945/MATLAB-smoothing-software-for-high-density-electrical-data)|高密度电法原始数据平滑Matlab程序|3|2024-08-11|2024-08-10|
+|28|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|3|2024-07-08|2024-07-08|
+|29|[K-N-Xiang/OpenISP-MATLAB](https://github.com/K-N-Xiang/OpenISP-MATLAB)|用MATLAB写的ISP Pipeline|3|2024-07-19|2024-07-04|
+|30|[nextpilot/nextpilot-simulink-toolbox](https://github.com/nextpilot/nextpilot-simulink-toolbox)|一套基于MATLAB/Simulink飞控系统开发工具箱|3|2024-09-13|2024-06-20|
+|31|[pigeonLCY/2023CUMCM](https://github.com/pigeonLCY/2023CUMCM)|基于计算几何的海域地形分析及多波束测深优化模型|3|2024-06-05|2024-06-05|
+|32|[SAKURA-CAT/water-tank](https://github.com/SAKURA-CAT/water-tank)|基于Matlab的单水箱液位的模糊控制系统设计|3|2024-05-29|2024-04-20|
+|33|[Sunshine00001/-matlab-](https://github.com/Sunshine00001/-matlab-)|（1）设置车辆参数及其他车辆信息。 （2）系统应该能够根据输入的车辆和停车位信息，自动生成最佳路径规划方案。 （3）考虑到实际应用场景，系统应能够处理不同路况、停车位大小和停车要求等多种情况。 （4）仿真与分析，对所得结果的有效性进行验证。 （5）系统应该具备一定的健壮性和鲁棒性，能够处理异常情况并给出合理的解决方案。 （6）完善平行泊车路径规划程序，通过设计GUI界面展示泊车路径规划。|3|2024-04-08|2024-04-08|
+|34|[DuRen1126/ECG_DeepClassfication](https://github.com/DuRen1126/ECG_DeepClassfication)|基于机器学习的心电分析疲劳检测方法研究|3|2024-03-31|2024-03-31|
+|35|[kon9chun/ParameterIdentification_and_FOMe](https://github.com/kon9chun/ParameterIdentification_and_FOMe)|FOM参数辨识及其改进模型|3|2024-07-02|2024-02-21|
+|36|[XDUgaile/2024ICM_D](https://github.com/XDUgaile/2024ICM_D)|2024美赛 ICM D题|3|2024-05-04|2024-02-02|
+|37|[wanyun-yang-2002/Information-Hiding-and-Digital-Watermark](https://github.com/wanyun-yang-2002/Information-Hiding-and-Digital-Watermark)|Practice of Information Hiding and Digital Watermark 信息隐藏与数字水印实验|3|2024-07-16|2023-12-15|
+|38|[Chang-huilin/Multispectral](https://github.com/Chang-huilin/Multispectral)|多光谱成像技术|3|2024-06-17|2023-10-24|
+|39|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|2024-07-30|2023-10-08|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

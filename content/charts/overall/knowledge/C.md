@@ -1,28 +1,28 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > C
-<sub>数据更新: 2024-09-16&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|7680|2024-06-14|
+|1|[miloyip/json-tutorial](https://github.com/miloyip/json-tutorial)|从零开始的 JSON 库教程|7681|2024-06-14|
 |2|[firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One)|CTF竞赛权威指南|4085|2024-07-27|
 |3|[ming1016/study](https://github.com/ming1016/study)|学习记录|3867|2024-09-12|
-|4|[cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide)|A bare metal programming guide (ARM microcontrollers)|3063|2024-09-05|
-|5|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|2486|2024-08-12|
-|6|[eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)|eBPF Developer Tutorial: Learning eBPF Step by Step with Examples|2378|2024-09-09|
+|4|[cpq/bare-metal-programming-guide](https://github.com/cpq/bare-metal-programming-guide)|A bare metal programming guide (ARM microcontrollers)|3108|2024-09-05|
+|5|[gatieme/LDD-LinuxDeviceDrivers](https://github.com/gatieme/LDD-LinuxDeviceDrivers)|Linux内核与设备驱动程序学习笔记|2487|2024-08-12|
+|6|[eunomia-bpf/bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial)|eBPF Developer Tutorial: Learning eBPF Step by Step with Examples|2381|2024-09-09|
 |7|[0voice/ffmpeg_develop_doc](https://github.com/0voice/ffmpeg_develop_doc)|2023年，最新音视频学习资料整理，项目（调试可用），ffmpeg命令手册，文章，编解码论文，视频讲解，面试题全套资料|1882|2024-05-20|
 |8|[0voice/algorithm-structure](https://github.com/0voice/algorithm-structure)|2021年最新总结 500个常用数据结构，算法，算法导论，面试常用，大厂高级工程师整理总结|1837|2024-05-20|
 |9|[xinntao/Real-ESRGAN-ncnn-vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan)|NCNN implementation of Real-ESRGAN. Real-ESRGAN aims at developing Practical Algorithms for General Image Restoration.|1451|2024-05-10|
 |10|[feiskyer/sdn-handbook](https://github.com/feiskyer/sdn-handbook)|SDN网络指南（SDN Handbook）|1373|2024-04-30|
-|11|[wuxx/nanoDAP](https://github.com/wuxx/nanoDAP)|建议大家star此仓库，仓库会持续更新。由于部分淘宝卖家“借鉴”实验室出品的nanoDAP详情描述和资料，请大家认准实验室官方链接|1129|2024-04-12|
-|12|[larryli/PuTTY](https://github.com/larryli/PuTTY)|PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。|1129|2024-05-30|
+|11|[wuxx/nanoDAP](https://github.com/wuxx/nanoDAP)|建议大家star此仓库，仓库会持续更新。由于部分淘宝卖家“借鉴”实验室出品的nanoDAP详情描述和资料，请大家认准实验室官方链接|1131|2024-04-12|
+|12|[larryli/PuTTY](https://github.com/larryli/PuTTY)|PuTTY 中文版，原 http://code.google.com/p/puttycn 项目。|1130|2024-05-30|
 |13|[agile6v/awesome-nginx](https://github.com/agile6v/awesome-nginx)|A curated list of awesome Nginx distributions, 3rd party modules, Active developers, etc. :octocat:  |1125|2024-09-12|
 |14|[FantasticLBP/knowledge-kit](https://github.com/FantasticLBP/knowledge-kit)|iOS、Web前端、后端、数据库、计算机网络、设计模式经验总结|879|2024-07-25|
 |15|[plctlab/riscv-operating-system-mooc](https://github.com/plctlab/riscv-operating-system-mooc)|《从头写一个RISC-V OS》课程配套的资源|867|2024-06-06|
-|16|[Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)|LILYGO LoRa Series examples|639|2024-08-23|
+|16|[Xinyuan-LilyGO/LilyGo-LoRa-Series](https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series)|LILYGO LoRa Series examples|640|2024-08-23|
 |17|[LearningOS/os-lectures](https://github.com/LearningOS/os-lectures)|2024年春季OS课程Slides|629|2024-09-11|
-|18|[linuxkerneltravel/lmp](https://github.com/linuxkerneltravel/lmp)|LMP provides an eBPF Supermarket for developers, including eBPF tools, open-source projects based on eBPF, eBPF learning materials, Linux kernel learning materials, and more.|589|2024-09-14|
+|18|[linuxkerneltravel/lmp](https://github.com/linuxkerneltravel/lmp)|LMP provides an eBPF Supermarket for developers, including eBPF tools, open-source projects based on eBPF, eBPF learning materials, Linux kernel learning materials, and more.|590|2024-09-14|
 |19|[hardenedlinux/linux-exploit-development-tutorial](https://github.com/hardenedlinux/linux-exploit-development-tutorial)|a series tutorial for linux exploit development to newbie.|552|2024-04-12|
 |20|[alejoseb/Modbus-STM32-HAL-FreeRTOS](https://github.com/alejoseb/Modbus-STM32-HAL-FreeRTOS)|Modbus TCP and  RTU,  Master and Slave for STM32 using Cube HAL and FreeRTOS|539|2024-08-01|
 |21|[chankeh/net-lenrning-reference](https://github.com/chankeh/net-lenrning-reference)|TCP/IP网络编程笔记|462|2024-08-02|
@@ -39,9 +39,9 @@
 |32|[zjutjh/zjut-icicles](https://github.com/zjutjh/zjut-icicles)|浙江工业大学课程攻略共享计划|219|2024-08-09|
 |33|[Staok/ARM-Linux-Study](https://github.com/Staok/ARM-Linux-Study)|ARM Linux 的学习历程。包括应用、驱动、设备树，GCC, Make, CMake, Bash, Vim, Git 等等大集合内容。文章遵守 CC BY NC SA 4.0 协议。|215|2024-07-20|
 |34|[HDU-Course/H-HDU](https://github.com/HDU-Course/H-HDU)|分享在杭电的一些期末复习资料，主要课程有C语言，数据结构，计组，计网，密码学，网络安全等|208|2024-06-22|
-|35|[zhangboyang/PAL3patch](https://github.com/zhangboyang/PAL3patch)|《仙剑奇侠传三》《仙剑奇侠传三外传·问情篇》分辨率补丁|194|2024-09-04|
-|36|[lkml-likexu/kde](https://github.com/lkml-likexu/kde)|记录我的内核成长贡献之路。IMO, fork or clone this repo would be very stupid.  If you have any questions, just send me an email.|190|2024-09-05|
-|37|[TenMoons/AHU-CS-Repository](https://github.com/TenMoons/AHU-CS-Repository)|安徽大学(AHU)计算机科学与技术学院学习资料汇总|187|2024-07-16|
+|35|[zhangboyang/PAL3patch](https://github.com/zhangboyang/PAL3patch)|《仙剑奇侠传三》《仙剑奇侠传三外传·问情篇》分辨率补丁|195|2024-09-04|
+|36|[lkml-likexu/kde](https://github.com/lkml-likexu/kde)|记录我的内核成长贡献之路。IMO, fork or clone this repo would be very stupid.  If you have any questions, just send me an email.|189|2024-09-05|
+|37|[TenMoons/AHU-CS-Repository](https://github.com/TenMoons/AHU-CS-Repository)|安徽大学(AHU)计算机科学与技术学院学习资料汇总|188|2024-07-16|
 |38|[sunxvming/navmesh](https://github.com/sunxvming/navmesh)|导航网格寻路C++实现版(入门版)|166|2024-06-11|
 |39|[luguanxing/Kernel-Driver](https://github.com/luguanxing/Kernel-Driver)|学习Windows内核驱动编程 Learn Windows kernel driver programming.|149|2024-08-27|
 |40|[Charmve/Practicum4ECE](https://github.com/Charmve/Practicum4ECE)|「一名普通电子信息本科生的项目实践管理」将大学阶段的实训内容，按照专业课程设计（包括上机实验、课程设计、下学年的毕业设计等）、竞赛项目、科创项目、小型编程项目这四个门类进行整理汇总。|141|2024-05-27|
