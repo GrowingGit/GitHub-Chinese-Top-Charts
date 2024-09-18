@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 资料类 > PHP
-<sub>数据更新: 2024-09-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[DesignPatternsPHP/DesignPatternsPHP](https://github.com/DesignPatternsPHP/DesignPatternsPHP)|Sample code for several design patterns in PHP 8.x|21833|2024-06-11|
 |2|[easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money)|程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate|16900|2024-03-28|
 |3|[Hanson/vbot](https://github.com/Hanson/vbot)|微信，企微，机器人，企业微信，企微机器人，微信机器人，小红书，美团，美团爬虫，聚合聊天，RPA，协议，hook，逆向，群发，自动回复，chatgpt，API对接，稳定防封全语言通用，企业定制/SCRM/SAAS专用|3997|2024-08-26|
-|4|[freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout)|FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)|2904|2024-09-13|
-|5|[easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0)|《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。|2777|2024-07-19|
-|6|[wususu/effective-resourses](https://github.com/wususu/effective-resourses)| :book:学习资源整合|2652|2024-05-29|
-|7|[ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF)|【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！|2106|2024-09-16|
-|8|[codehub666/94list](https://github.com/codehub666/94list)|百度网盘分享链接分析渲染列表辅助下载开源程序|1812|2024-08-02|
-|9|[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)|A list of ICs and IPs for AI, Machine Learning and Deep Learning.|1631|2024-06-05|
-|10|[evilc0deooo/PentesterSpecialDict](https://github.com/evilc0deooo/PentesterSpecialDict)|构建并优化高效的渗透测试字典集合，以提升网络安全从业人员的测试效率和效果。|1537|2024-07-27|
+|4|[freescout-help-desk/freescout](https://github.com/freescout-help-desk/freescout)|FreeScout — Free self-hosted help desk & shared mailbox (Zendesk / Help Scout alternative)|2906|2024-09-13|
+|5|[easychen/one-person-businesses-methodology-v2.0](https://github.com/easychen/one-person-businesses-methodology-v2.0)|《一人企业方法论》第二版，也适合做其他副业（比如自媒体、电商、数字商品）的非技术人群。|2778|2024-07-19|
+|6|[wususu/effective-resourses](https://github.com/wususu/effective-resourses)| :book:学习资源整合|2653|2024-05-29|
+|7|[ProbiusOfficial/Hello-CTF](https://github.com/ProbiusOfficial/Hello-CTF)|【Hello CTF】题目配套，免费开源的CTF入门教程，针对0基础新手编写，同时兼顾信息差的填补，对各阶段的CTFer都友好的开源教程，致力于CTF和网络安全的开源生态！|2110|2024-09-17|
+|8|[codehub666/94list](https://github.com/codehub666/94list)|百度网盘分享链接分析渲染列表辅助下载开源程序|1811|2024-08-02|
+|9|[basicmi/AI-Chip](https://github.com/basicmi/AI-Chip)|A list of ICs and IPs for AI, Machine Learning and Deep Learning.|1632|2024-06-05|
+|10|[evilc0deooo/PentesterSpecialDict](https://github.com/evilc0deooo/PentesterSpecialDict)|构建并优化高效的渗透测试字典集合，以提升网络安全从业人员的测试效率和效果。|1538|2024-07-27|
 |11|[dedemao/weixinPay](https://github.com/dedemao/weixinPay)|微信支付单文件版。一个PHP文件搞定微信支付系列。包括原生支付（扫码支付），H5支付，公众号支付，现金红包、企业付款到零钱等。新增V3版。|1156|2024-04-29|
-|12|[zelon88/HRConvert2](https://github.com/zelon88/HRConvert2)|A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 445 file formats in 13 languages.|1063|2024-06-11|
+|12|[zelon88/HRConvert2](https://github.com/zelon88/HRConvert2)|A self-hosted, drag-and-drop & nosql file conversion server & share tool that supports 445 file formats in 13 languages.|1064|2024-06-11|
 |13|[opensource-socialnetwork/opensource-socialnetwork](https://github.com/opensource-socialnetwork/opensource-socialnetwork)|Open Source Social Network (OSSN) is a social networking software written in PHP. It allows you to make a social networking website and helps your members build social relationships, with people who s ...|1063|2024-07-07|
 |14|[duoergun0729/1book](https://github.com/duoergun0729/1book)|《Web安全之机器学习入门》|893|2024-08-29|
 |15|[zblogcn/zblogphp](https://github.com/zblogcn/zblogphp)|Z-BlogPHP博客程序|811|2024-08-27|

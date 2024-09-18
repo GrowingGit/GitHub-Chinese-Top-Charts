@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Dart
-<sub>数据更新: 2024-09-17&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-18&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -19,7 +19,7 @@
 |12|[Kelfvin/JianTi](https://github.com/Kelfvin/JianTi)|一个刷题软件|27|0|2024-06-20|
 |13|[Daniel-Ioannou/flutter_country_picker](https://github.com/Daniel-Ioannou/flutter_country_picker)|A flutter package to select a country from a list of countries.|120|0|2024-08-16|
 |14|[RxReader/wechat_kit](https://github.com/RxReader/wechat_kit)|Flutter版微信登录/分享/支付 SDK|712|0|2024-04-08|
-|15|[cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet)|The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com|635|0|2024-09-16|
+|15|[cake-tech/cake_wallet](https://github.com/cake-tech/cake_wallet)|The open source repository for Cake Wallet, a noncustodial multi-currency wallet, and Monero.com, a noncustodial Monero-only wallet. Need help? Check out https://guides.cakewallet.com|637|0|2024-09-17|
 |16|[fluttercandies/flutter_learning_tests](https://github.com/fluttercandies/flutter_learning_tests)|学习 Flutter 路上的点滴及小测~|17|0|2024-06-24|
 |17|[xiaojia21190/ZY_Player_flutter](https://github.com/xiaojia21190/ZY_Player_flutter)|影视 漫画 小说 听书 |75|0|2024-09-14|
 |18|[shang1219178163/flutter_templet_project](https://github.com/shang1219178163/flutter_templet_project)| 个人模板项目, 包含组件使用示例、自定义组件封装、代码优化封装技巧。。。|69|0|2024-09-15|
