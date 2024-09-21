@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Swift
-<sub>数据更新: 2024-09-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop)|Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop|1389|19|2024-08-23|
-|2|[jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator)|"Copybook Generator" is a powerful copybook generation tool designed to meet the writing practice needs of different users.|857|9|2024-09-19|
-|3|[SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)|A handy collection of more than 500 native Swift extensions to boost your productivity.|13969|5|2024-09-10|
-|4|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|15104|4|2024-08-03|
+|1|[Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop)|Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop|1390|18|2024-08-23|
+|2|[jaywcjlove/copybook-generator](https://github.com/jaywcjlove/copybook-generator)|"Copybook Generator" is a powerful copybook generation tool designed to meet the writing practice needs of different users.|861|9|2024-09-19|
+|3|[SwifterSwift/SwifterSwift](https://github.com/SwifterSwift/SwifterSwift)|A handy collection of more than 500 native Swift extensions to boost your productivity.|13970|5|2024-09-10|
+|4|[ochococo/Design-Patterns-In-Swift](https://github.com/ochococo/Design-Patterns-In-Swift)|📖 Design Patterns implemented in Swift 5.0|15105|4|2024-08-03|
 |5|[RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook)|中华人民共和国法律手册|2266|2|2024-07-12|
 |6|[TortugaPower/BookPlayer](https://github.com/TortugaPower/BookPlayer)|Player for your DRM-free audiobooks|1609|1|2024-09-18|
 |7|[rlxone/Equinox](https://github.com/rlxone/Equinox)|🌇 🌃  Create dynamic wallpapers for macOS.|1169|1|2024-09-10|
@@ -22,7 +22,7 @@
 |15|[yujon/ipa-mac-builder](https://github.com/yujon/ipa-mac-builder)|对ipa进行ios证书重签名并安装/导出ipa|28|0|2024-08-23|
 |16|[fatbobman/BlogCodes](https://github.com/fatbobman/BlogCodes)|【肘子的Swift笔记】博文中的代码汇总|96|0|2024-04-02|
 |17|[starainDou/DDYDayly](https://github.com/starainDou/DDYDayly)|iOS每天学点知识。文章，博客，开源库，Demo，软件，插件，工具...好记性不如烂笔头，最怕有时候看到过类似知识点就是想不起来在哪里看过。。。|50|0|2024-03-29|
-|18|[reers/ReerKit](https://github.com/reers/ReerKit)|Swift 基础库. A collection of Swift extensions and utilities.|22|0|2024-09-10|
+|18|[reers/ReerKit](https://github.com/reers/ReerKit)|Swift 基础库. A collection of Swift extensions and utilities.|22|0|2024-09-20|
 |19|[JmoVxia/CLDemo](https://github.com/JmoVxia/CLDemo)|记录平时博客中的Demo，持续更新|487|0|2024-08-27|
 |20|[DamonHu/DDUtils](https://github.com/DamonHu/DDUtils)|DDUtils is a collection of commonly used features, developed based on Swift, that can be quickly implemented on iOS devices.|8|0|2024-05-28|
 |21|[simplismvip/Ebook](https://github.com/simplismvip/Ebook)|使用Swift写的电纸书阅读器，目前支持epub、txt格式电子书。|20|0|2024-04-09|

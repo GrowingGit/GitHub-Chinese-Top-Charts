@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Assembly
-<sub>数据更新: 2024-09-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|57530|15|2024-07-11|
-|2|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6749|6|2024-09-13|
-|3|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10922|2|2024-08-20|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|57535|15|2024-07-11|
+|2|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6753|6|2024-09-13|
+|3|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10928|2|2024-08-20|
 |4|[wujin1989/coroutine-context-switch](https://github.com/wujin1989/coroutine-context-switch)|一个协程的上下文切换代码，支持windows，linux，macosx(intel)。macosx(aarch64)后续会支持|10|0|2024-07-18|
 |5|[Yiipu/HUST-HardwareDesign-RISCv](https://github.com/Yiipu/HUST-HardwareDesign-RISCv)|HUST-2023秋-硬件设计综合训练|6|0|2024-09-13|
 |6|[Lazy-Tag/ICS-labs](https://github.com/Lazy-Tag/ICS-labs)|RUC 2022-2023 ICS系列实验|6|0|2024-08-02|
@@ -34,10 +34,10 @@
 |27|[DANNHIROAKI/XJTU-COMP400627-OS](https://github.com/DANNHIROAKI/XJTU-COMP400627-OS)|西安交通大学COMP400627操作系统课程|11|0|2024-04-25|
 |28|[weipeng2k/hot-wind](https://github.com/weipeng2k/hot-wind)|技术杂文集|33|0|2024-09-11|
 |29|[MrAMS/Nagi](https://github.com/MrAMS/Nagi)|基于difftest改进的CPU敏捷开发框架（nscscc2024）|5|0|2024-09-06|
-|30|[Yaochenger/RvBacktrace](https://github.com/Yaochenger/RvBacktrace)|RISC-V 极简栈回溯组件|10|0|2024-09-19|
+|30|[Yaochenger/RvBacktrace](https://github.com/Yaochenger/RvBacktrace)|RISC-V 极简栈回溯组件|10|0|2024-09-20|
 |31|[SnDream/rgbds-ws](https://github.com/SnDream/rgbds-ws)|Rgbds编译环境|3|0|2024-04-08|
 |32|[arttnba3/OS_Kernel_Learning](https://github.com/arttnba3/OS_Kernel_Learning)|为我自己准备的 OS 大作业：从零开始写一个操作系统内核|5|0|2024-06-17|
-|33|[zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU](https://github.com/zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU)|北京大学 2023 年秋计算机系统导论课程（ICS）作业、笔记、经验|109|0|2024-09-04|
+|33|[zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU](https://github.com/zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU)|北京大学 2023 年秋计算机系统导论课程（ICS）作业、笔记、经验|111|0|2024-09-04|
 |34|[Jerry-Terrasse/HITSZ-COMP2012-LAB](https://github.com/Jerry-Terrasse/HITSZ-COMP2012-LAB)|计算机设计与实践（2023夏季）   哈工大（深圳）|3|0|2024-08-30|
 |35|[Ethylene9160/IoTAGV](https://github.com/Ethylene9160/IoTAGV)|车车通信接口。|4|0|2024-09-08|
 

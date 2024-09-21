@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2024-09-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -28,25 +28,25 @@
 |21|[berries-tart/HUST-Principles-of-Imperative-Computation](https://github.com/berries-tart/HUST-Principles-of-Imperative-Computation)|华中科技大学2022级命令式计算原理|4|2024-05-28|2024-05-28|
 |22|[MinmusLin/Minmus_Operating_System_in_Rust](https://github.com/MinmusLin/Minmus_Operating_System_in_Rust)|MinmusOS: The design and implementation of an operating system based on Rust language. MinmusOS: 基于 Rust 语言的操作系统的设计与实现. (2024年同济大学操作系统课程设计课程项目)|4|2024-08-27|2024-05-04|
 |23|[WQT1123/University-Presentation-Beamer](https://github.com/WQT1123/University-Presentation-Beamer)|大学Latex答辩模版，当前包含川大、哈工大、中科大。|4|2024-07-22|2024-02-28|
-|24|[Theigrams/quick-LaTeX](https://github.com/Theigrams/quick-LaTeX)|一个快速上手的中文 LaTeX 模板|4|2024-04-02|2023-12-29|
-|25|[flaribbit/lyrics](https://github.com/flaribbit/lyrics)|收集了一些我喜欢的歌曲的歌词|3|2024-09-19|2024-09-08|
-|26|[EmpyreanHYR/MCM-Latex-template](https://github.com/EmpyreanHYR/MCM-Latex-template)|自用整理出的MCM数学建模美赛LaTex模板|3|2024-08-22|2024-08-22|
-|27|[EmpyreanHYR/CUMCM-Latex-template](https://github.com/EmpyreanHYR/CUMCM-Latex-template)|自用整理出的CUMCM数学建模国赛LaTex模板|3|2024-08-31|2024-08-22|
-|28|[DianRobot/DianRobot.github.io](https://github.com/DianRobot/DianRobot.github.io)|Diangroup Robotics Lab实验室主页|3|2024-07-25|2024-07-03|
-|29|[24bit-xjkp/NuaaExam](https://github.com/24bit-xjkp/NuaaExam)|南京航空航天大学高清试卷|3|2024-07-15|2024-06-27|
-|30|[Trikim-Zhang/Advanced-Numerical-Analysis](https://github.com/Trikim-Zhang/Advanced-Numerical-Analysis)|nudt高等数值分析|3|2024-07-27|2024-06-21|
-|31|[Trikim-Zhang/Theory-and-Algorithms-of-Numerical-Optimization](https://github.com/Trikim-Zhang/Theory-and-Algorithms-of-Numerical-Optimization)|nudt数值最优化算法与应用|3|2024-07-27|2024-06-09|
-|32|[DumzGW/-WayfinderSaveEditor-python-](https://github.com/DumzGW/-WayfinderSaveEditor-python-)|对Wayfinder的存档进行修改，已添加角色修改功能|3|2024-06-10|2024-06-04|
-|33|[wenjin1997/zkHackerHouse-binius](https://github.com/wenjin1997/zkHackerHouse-binius)|在zkHackerHouse@苏州 期间，对binius进行的主题研究。|3|2024-05-21|2024-05-15|
-|34|[gbs0856/NTUT-Thesis](https://github.com/gbs0856/NTUT-Thesis)|國立臺北科技大學碩博士論文XeLaTeX模板|3|2024-04-24|2024-04-24|
-|35|[GFCYqw/Fengrubei_LaTeX_Template](https://github.com/GFCYqw/Fengrubei_LaTeX_Template)|北京航空航天大学“冯如杯”竞赛 LaTeX 模板。This is a template for Fengru cup contest(Fengrubei), written in Latex.|3|2024-05-18|2024-04-06|
-|36|[xubenshan/dtcup](https://github.com/xubenshan/dtcup)|整理第十届大唐杯真题及答案|3|2024-03-31|2024-03-29|
-|37|[Smera1d0/SDU-LaTeX-Template](https://github.com/Smera1d0/SDU-LaTeX-Template)|山东大学实验报告模板，使用LaTeX编写|3|2024-03-24|2024-03-23|
-|38|[out-of-order55/resume](https://github.com/out-of-order55/resume)|这是一个简单的简历模板|3|2024-03-23|2024-03-23|
-|39|[jinqKing/SZU-Physics-Experiment-Report-LaTeX-Module](https://github.com/jinqKing/SZU-Physics-Experiment-Report-LaTeX-Module)|深大大物实验报告LaTeX模版|3|2024-04-24|2024-03-22|
-|40|[Doctxing/phytex](https://github.com/Doctxing/phytex)|物理实验报告|3|2024-06-10|2024-03-22|
-|41|[Aegis1863/wust_beamer](https://github.com/Aegis1863/wust_beamer)|武汉科技大学 latex beamer模板|3|2024-07-12|2024-01-14|
-|42|[HGAQ/Physical-Chemistry-Experiment](https://github.com/HGAQ/Physical-Chemistry-Experiment)|2023-fall-Physical-Chemistry-Experiment-物理化学实验|3|2024-09-12|2024-01-14|
+|24|[HGAQ/Physical-Chemistry-Experiment](https://github.com/HGAQ/Physical-Chemistry-Experiment)|2023-fall-Physical-Chemistry-Experiment-物理化学实验|4|2024-09-12|2024-01-14|
+|25|[Theigrams/quick-LaTeX](https://github.com/Theigrams/quick-LaTeX)|一个快速上手的中文 LaTeX 模板|4|2024-04-02|2023-12-29|
+|26|[flaribbit/lyrics](https://github.com/flaribbit/lyrics)|收集了一些我喜欢的歌曲的歌词|3|2024-09-19|2024-09-08|
+|27|[EmpyreanHYR/MCM-Latex-template](https://github.com/EmpyreanHYR/MCM-Latex-template)|自用整理出的MCM数学建模美赛LaTex模板|3|2024-08-22|2024-08-22|
+|28|[EmpyreanHYR/CUMCM-Latex-template](https://github.com/EmpyreanHYR/CUMCM-Latex-template)|自用整理出的CUMCM数学建模国赛LaTex模板|3|2024-08-31|2024-08-22|
+|29|[DianRobot/DianRobot.github.io](https://github.com/DianRobot/DianRobot.github.io)|Diangroup Robotics Lab实验室主页|3|2024-07-25|2024-07-03|
+|30|[24bit-xjkp/NuaaExam](https://github.com/24bit-xjkp/NuaaExam)|南京航空航天大学高清试卷|3|2024-07-15|2024-06-27|
+|31|[Trikim-Zhang/Advanced-Numerical-Analysis](https://github.com/Trikim-Zhang/Advanced-Numerical-Analysis)|nudt高等数值分析|3|2024-07-27|2024-06-21|
+|32|[Trikim-Zhang/Theory-and-Algorithms-of-Numerical-Optimization](https://github.com/Trikim-Zhang/Theory-and-Algorithms-of-Numerical-Optimization)|nudt数值最优化算法与应用|3|2024-07-27|2024-06-09|
+|33|[DumzGW/-WayfinderSaveEditor-python-](https://github.com/DumzGW/-WayfinderSaveEditor-python-)|对Wayfinder的存档进行修改，已添加角色修改功能|3|2024-06-10|2024-06-04|
+|34|[wenjin1997/zkHackerHouse-binius](https://github.com/wenjin1997/zkHackerHouse-binius)|在zkHackerHouse@苏州 期间，对binius进行的主题研究。|3|2024-05-21|2024-05-15|
+|35|[gbs0856/NTUT-Thesis](https://github.com/gbs0856/NTUT-Thesis)|國立臺北科技大學碩博士論文XeLaTeX模板|3|2024-04-24|2024-04-24|
+|36|[GFCYqw/Fengrubei_LaTeX_Template](https://github.com/GFCYqw/Fengrubei_LaTeX_Template)|北京航空航天大学“冯如杯”竞赛 LaTeX 模板。This is a template for Fengru cup contest(Fengrubei), written in Latex.|3|2024-05-18|2024-04-06|
+|37|[xubenshan/dtcup](https://github.com/xubenshan/dtcup)|整理第十届大唐杯真题及答案|3|2024-03-31|2024-03-29|
+|38|[Smera1d0/SDU-LaTeX-Template](https://github.com/Smera1d0/SDU-LaTeX-Template)|山东大学实验报告模板，使用LaTeX编写|3|2024-03-24|2024-03-23|
+|39|[out-of-order55/resume](https://github.com/out-of-order55/resume)|这是一个简单的简历模板|3|2024-03-23|2024-03-23|
+|40|[jinqKing/SZU-Physics-Experiment-Report-LaTeX-Module](https://github.com/jinqKing/SZU-Physics-Experiment-Report-LaTeX-Module)|深大大物实验报告LaTeX模版|3|2024-04-24|2024-03-22|
+|41|[Doctxing/phytex](https://github.com/Doctxing/phytex)|物理实验报告|3|2024-06-10|2024-03-22|
+|42|[Aegis1863/wust_beamer](https://github.com/Aegis1863/wust_beamer)|武汉科技大学 latex beamer模板|3|2024-07-12|2024-01-14|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

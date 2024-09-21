@@ -1,22 +1,22 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2024-09-20&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-21&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter)|微信公众号文章导出工具，100%还原原文样式|543|2024-09-19|2024-07-17|
-|2|[srsng/cozy-reader](https://github.com/srsng/cozy-reader)|一款轻量的阅读软件，仅支持ePub格式电子书。 基于Rust+tauri+Vue3|106|2024-09-17|2024-08-12|
+|1|[jooooock/wechat-article-exporter](https://github.com/jooooock/wechat-article-exporter)|微信公众号文章导出工具，100%还原原文样式|549|2024-09-20|2024-07-17|
+|2|[srsng/cozy-reader](https://github.com/srsng/cozy-reader)|一款轻量的阅读软件，仅支持ePub格式电子书。 基于Rust+tauri+Vue3|109|2024-09-17|2024-08-12|
 |3|[DrssXpro/waterfall-demo](https://github.com/DrssXpro/waterfall-demo)|Vue3 + TS：模仿小红书封装瀑布流组件|100|2024-05-23|2024-01-11|
 |4|[Theo-Messi/xx.theojs.cn](https://github.com/Theo-Messi/xx.theojs.cn)|玄学宝典 - 中华传统五术书籍(山医命相卜)/传世经典著作|76|2024-08-01|2023-10-18|
 |5|[fantastic-mobile/basic](https://github.com/fantastic-mobile/basic)|⭐⭐⭐⭐⭐ 一款自成一派的移动端 H5 框架，支持多款 UI 组件库，基于 Vue3 。移动端, H5, vant, 手机端, mobile, 模板, 商城, 微信公众号|67|2024-09-19|2024-05-29|
-|6|[bitporo/EasySend](https://github.com/bitporo/EasySend)|✨⚡️EasySend is a software that can share messages and files in LAN.  Only need open it on the host device, other devices use browser receive messages and files(局域网共享文本文件小工具，仅需一端安装，其余端使用浏览器即可)|52|2024-09-01|2024-06-10|
-|7|[Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft)|craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务|50|2024-09-16|2024-04-19|
-|8|[Natrium0521/Firefly](https://github.com/Natrium0521/Firefly)|《崩坏：星穹铁道》流萤工具箱——成就管理、跃迁记录|45|2024-09-10|2024-03-03|
+|6|[bitporo/EasySend](https://github.com/bitporo/EasySend)|✨⚡️EasySend is a software that can share messages and files in LAN.  Only need open it on the host device, other devices use browser receive messages and files(局域网共享文本文件小工具，仅需一端安装，其余端使用浏览器即可)|53|2024-09-01|2024-06-10|
+|7|[Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft)|craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务|51|2024-09-16|2024-04-19|
+|8|[Natrium0521/Firefly](https://github.com/Natrium0521/Firefly)|《崩坏：星穹铁道》流萤工具箱——成就管理、跃迁记录|45|2024-09-20|2024-03-03|
 |9|[youshandefeiyang/tools](https://github.com/youshandefeiyang/tools)|直播/点播工具集合|31|2024-06-30|2024-06-30|
 |10|[syh19/siyuan-plugin-task-list](https://github.com/syh19/siyuan-plugin-task-list)|思源笔记插件——任务列表：汇总散落在整个工作空间的任务  Siyuan Note Plugin——Task List: Summarize tasks scattered throughout your workspace|27|2024-09-19|2024-03-23|
 |11|[DrssXpro/virtualwaterfall-demo](https://github.com/DrssXpro/virtualwaterfall-demo)|Vue3+TS：实现小红书瀑布流虚拟列表组件|23|2024-07-14|2024-01-26|
-|12|[opendidi/mind](https://github.com/opendidi/mind)|🔥🔥🔥 Vue3(Web组态图，拓扑图，拓扑，脑图，思维导图)可视化编辑器🔨|19|2024-07-13|2024-04-01|
+|12|[opendidi/mind](https://github.com/opendidi/mind)|🔥🔥🔥 Vue3(Web组态图，拓扑图，拓扑，脑图，思维导图)可视化编辑器🔨|20|2024-07-13|2024-04-01|
 |13|[bianchenglequ/chat2KnowL](https://github.com/bianchenglequ/chat2KnowL)|知识文档问答，用大模型与文档对话，提供Al分析、阅读、问答工具，助你快速了解文档内容。|18|2024-09-04|2023-12-20|
 |14|[Alittfre/vitepress-theme-bluearchive](https://github.com/Alittfre/vitepress-theme-bluearchive)|Blue Archive主题博客，基于VitePress，绝赞画饼中|17|2024-07-17|2024-04-17|
 |15|[open17/vitepress-theme-open17](https://github.com/open17/vitepress-theme-open17)|一款简单美观的博客主题,继承于vitepress默认主题|16|2024-09-02|2024-03-22|
@@ -32,11 +32,11 @@
 |25|[milkory/anita-terminal](https://github.com/milkory/anita-terminal)|阿妮塔终端 / 雷索纳斯 资料整合站|7|2024-06-22|2024-03-25|
 |26|[BrackRat/BrBlog](https://github.com/BrackRat/BrBlog)|优雅至上的个人博客。 Nuxt3 全栈博客|7|2024-07-06|2024-02-15|
 |27|[CoderXiaoShi/master-talk](https://github.com/CoderXiaoShi/master-talk)|master-talk 大佬说|7|2024-09-03|2024-02-05|
-|28|[KikoStar123/webgis_srtp](https://github.com/KikoStar123/webgis_srtp)|时空知识图谱SRTP项目Webgis前端|7|2024-09-19|2024-01-28|
+|28|[KikoStar123/webgis_srtp](https://github.com/KikoStar123/webgis_srtp)|时空知识图谱SRTP项目Webgis前端|7|2024-09-20|2024-01-28|
 |29|[ooahz/z2-blog-nuxt](https://github.com/ooahz/z2-blog-nuxt)|Nuxt3+Vue3+TS——采用前沿技术栈的现代化响应式博客项目|6|2024-09-17|2024-07-27|
 |30|[wf0/monaco-editor-translate](https://github.com/wf0/monaco-editor-translate)|monaco editor 译文（中文学习文档）|6|2024-08-10|2024-06-21|
 |31|[course-dasheng/geektime-vue-course](https://github.com/course-dasheng/geektime-vue-course)|极客时间玩转vue课件|6|2024-07-10|2024-05-24|
-|32|[zhcndoc/elysia](https://github.com/zhcndoc/elysia)|Elysia 中文文档|6|2024-09-19|2024-04-20|
+|32|[zhcndoc/elysia](https://github.com/zhcndoc/elysia)|Elysia 中文文档|6|2024-09-20|2024-04-20|
 |33|[shuhongfan/atguigu_vue3](https://github.com/shuhongfan/atguigu_vue3)|尚硅谷Vue3入门到实战，最新版vue3+TypeScript前端开发教程  禹神YYDS，千万播放新版Vue3教程来了！ 基于Vue3的setup语法糖讲解，全程采用TypeScript+组合式API编码，贴心准备TypeScript快速上手笔记！带你快速上手纯血版Vue3！|5|2024-08-13|2024-08-13|
 |34|[xfxdesk/xfxai](https://github.com/xfxdesk/xfxai)|小飞侠AI解决方案, AI办公, AI辅助, PPT转化, 生产力, 工作流程, 文档处理, 设计和演示应用, 工作效率, 任务管理, 项目管理, 办公自动化, 创意展现, 智能日程管理, 数据驱动决策, 效率提升, 创新工作方案, 实战案例分享, 优化工作流, 提高工作效率, 智能技术应用|5|2024-06-21|2024-05-31|
 |35|[Azure12355/Medical-QASystem-front-end](https://github.com/Azure12355/Medical-QASystem-front-end)|基于Neo4j的医疗知识图谱的智能问答-Vue前端界面|5|2024-05-21|2024-05-21|
