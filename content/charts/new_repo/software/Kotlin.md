@@ -1,52 +1,52 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Kotlin
-<sub>数据更新: 2024-09-22&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android)|使用Android原生开发的电视直播软件|4474|2024-09-13|2024-04-10|
-|2|[lizongying/my-tv-0](https://github.com/lizongying/my-tv-0)|電視網絡視頻播放軟件，可以自定義視頻源|1638|2024-09-10|2024-03-07|
-|3|[bggRGjQaUbCoE/c001apk](https://github.com/bggRGjQaUbCoE/c001apk)|fake coolapk|991|2024-05-08|2023-12-18|
+|1|[yaoxieyoulei/mytv-android](https://github.com/yaoxieyoulei/mytv-android)|使用Android原生开发的电视直播软件|4677|2024-09-13|2024-04-10|
+|2|[lizongying/my-tv-0](https://github.com/lizongying/my-tv-0)|電視網絡視頻播放軟件，可以自定義視頻源|1649|2024-09-10|2024-03-07|
+|3|[bggRGjQaUbCoE/c001apk](https://github.com/bggRGjQaUbCoE/c001apk)|fake coolapk|992|2024-05-08|2023-12-18|
 |4|[mgz0227/legado-Harmony](https://github.com/mgz0227/legado-Harmony)|开源阅读鸿蒙版仓库|909|2024-09-10|2024-04-17|
-|5|[CofbroTeam/Doraemon](https://github.com/CofbroTeam/Doraemon)|⭐ ⭐ ⭐不止签到！更有一键同步作业功能！⭐ ⭐ ⭐ UI友好的安卓-Android移动端学习通签到助手，支持普通签到，扫码签到，图片签到，二维码签到，定位签到，签到码签到，手势签到，作业提醒：push通知，短信通知！！|694|2024-08-20|2023-09-26|
-|6|[CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop)|Universal Pasteboard Across Devices|692|2024-09-21|2023-11-16|
+|5|[CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop)|Universal Pasteboard Across Devices|705|2024-09-22|2023-11-16|
+|6|[CofbroTeam/Doraemon](https://github.com/CofbroTeam/Doraemon)|⭐ ⭐ ⭐不止签到！更有一键同步作业功能！⭐ ⭐ ⭐ UI友好的安卓-Android移动端学习通签到助手，支持普通签到，扫码签到，图片签到，二维码签到，定位签到，签到码签到，手势签到，作业提醒：push通知，短信通知！！|694|2024-08-20|2023-09-26|
 |7|[YuKongA/Updater](https://github.com/YuKongA/Updater)|[App] Get HyperOS/MIUI recovery ROM update info|523|2024-07-18|2023-12-05|
-|8|[xiaoyvyv/bangumi](https://github.com/xiaoyvyv/bangumi)|Bangumi for Android - A full-featured unofficial android native application for the bangumi.tv|520|2024-08-03|2023-11-24|
-|9|[hua0512/stream-rec](https://github.com/hua0512/stream-rec)|Automatic streaming record tool. 虎牙/抖音/斗鱼/Twitch/PandaTV直播，弹幕自动录制|508|2024-09-19|2024-02-11|
-|10|[Greatwallcorner/TV-Multiplatform](https://github.com/Greatwallcorner/TV-Multiplatform)|基于fonmi/TV项目的， 简单桌面版本实现。|403|2024-09-16|2024-03-30|
-|11|[zhanghai/Untracker](https://github.com/zhanghai/Untracker)|App to help you remove tracking information before sharing links|345|2024-09-19|2023-10-24|
+|8|[xiaoyvyv/bangumi](https://github.com/xiaoyvyv/bangumi)|Bangumi for Android - A full-featured unofficial android native application for the bangumi.tv|521|2024-08-03|2023-11-24|
+|9|[hua0512/stream-rec](https://github.com/hua0512/stream-rec)|Automatic streaming record tool. 虎牙/抖音/斗鱼/Twitch/PandaTV直播，弹幕自动录制|510|2024-09-22|2024-02-11|
+|10|[Greatwallcorner/TV-Multiplatform](https://github.com/Greatwallcorner/TV-Multiplatform)|基于fonmi/TV项目的， 简单桌面版本实现。|404|2024-09-16|2024-03-30|
+|11|[zhanghai/Untracker](https://github.com/zhanghai/Untracker)|App to help you remove tracking information before sharing links|346|2024-09-19|2023-10-24|
 |12|[BinTianqi/OwnDroid](https://github.com/BinTianqi/OwnDroid)|Own your Android! 使用Device owner管理你的安卓设备。Manage your device with Device owner privilege|340|2024-09-08|2024-01-13|
-|13|[MrXiaoM/Overflow](https://github.com/MrXiaoM/Overflow)|替换 mirai 实现为 Onebot 以进行无缝迁移|314|2024-09-18|2023-10-12|
+|13|[MrXiaoM/Overflow](https://github.com/MrXiaoM/Overflow)|替换 mirai 实现为 Onebot 以进行无缝迁移|315|2024-09-18|2023-10-12|
 |14|[iiheng/VCAMSX](https://github.com/iiheng/VCAMSX)|安卓虚拟摄像头|276|2024-08-16|2023-11-18|
 |15|[wgllss/WXDynamicPlugin](https://github.com/wgllss/WXDynamicPlugin)|自研零反射，零HooK,全动态化，插件化框架，全网唯一结合启动优化的插件化架构，适合小，中，大型项目均可的插件化架构|270|2024-09-19|2024-05-25|
-|16|[gurecn/YuyanIme](https://github.com/gurecn/YuyanIme)|雨燕拼音输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法|254|2024-09-20|2024-05-24|
-|17|[lanlinju/Anime](https://github.com/lanlinju/Anime)|基于樱花动漫网站数据的一个简洁的播放动漫的App，支持弹幕，使用Compose进行开发|251|2024-09-21|2023-11-27|
+|16|[gurecn/YuyanIme](https://github.com/gurecn/YuyanIme)|雨燕拼音输入法-一款基于Rime定制开发的九键、全拼、双拼、手写、火星文等方案、支持悬浮、单手、数字行等键盘模式的中文输入法|257|2024-09-20|2024-05-24|
+|17|[lanlinju/Anime](https://github.com/lanlinju/Anime)|基于樱花动漫网站数据的一个简洁的播放动漫的App，支持弹幕，使用Compose进行开发|252|2024-09-21|2023-11-27|
 |18|[Potato-66/SimpleTV](https://github.com/Potato-66/SimpleTV)|观看电视直播软件，打开即看，直播源定期维护更新|222|2024-08-16|2024-03-10|
-|19|[XJ-Up/quickupload](https://github.com/XJ-Up/quickupload)|A framework written purely in Kotlin, encapsulating OkHttp, designed to help developers easily and quickly implement upload functionality. 纯 kotlin编写  ，Okhttp封装，一个让开发者轻松快速完成上传功能的框架 |180|2024-08-08|2024-05-29|
+|19|[XJ-Up/quickupload](https://github.com/XJ-Up/quickupload)|A framework written purely in Kotlin, encapsulating OkHttp, designed to help developers easily and quickly implement upload functionality. 纯 kotlin编写  ，Okhttp封装，一个让开发者轻松快速完成上传功能的框架 |181|2024-08-08|2024-05-29|
 |20|[Yricky/abcde](https://github.com/Yricky/abcde)|openHarmony逆向工具包|145|2024-09-12|2024-05-11|
 |21|[Winnie0408/LocalMusicHelper](https://github.com/Winnie0408/LocalMusicHelper)|将您保存在网易云音乐、QQ音乐等在线音乐平台的歌单数据，转换成本项目支持的本地音乐播放器（如Salt Player、APlayer、Poweramp等）可识别的歌单格式，完成歌单的导入操作，方便您快速从在线音乐平台迁移歌单到本地音乐播放器。Quickly migrate your playlists from online music platforms to local music player ...|145|2024-08-29|2023-12-11|
 |22|[easybangumiorg/CommunityExtension](https://github.com/easybangumiorg/CommunityExtension)|纯纯看番社区插件|140|2024-06-09|2024-01-28|
 |23|[jenly1314/UltraSwipeRefresh](https://github.com/jenly1314/UltraSwipeRefresh)| :surfer: 一个可带来极致体验的Compose刷新组件；支持下拉刷新和上拉加载，可完美替代官方的SwipeRefresh；并且支持的功能更多，可扩展性更强。|136|2024-08-18|2023-12-03|
 |24|[MarsZone/Embodied](https://github.com/MarsZone/Embodied)|Build you own Social Apps like facebook twitter etc. 使用kotlin和React来搭建一个社交apps，类似小红书，微博|132|2024-07-18|2024-03-13|
-|25|[phodal/shire](https://github.com/phodal/shire)|Shire - AI Coding Agent Language (编程智能体语言), which can enables communication between an LLM and control IDE for automated programming.|121|2024-09-20|2024-05-31|
+|25|[phodal/shire](https://github.com/phodal/shire)|Shire - AI Coding Agent Language (编程智能体语言), which can enables communication between an LLM and control IDE for automated programming.|123|2024-09-22|2024-05-31|
 |26|[Xposed-Modules-Repo/com.wangyiheng.vcamsx](https://github.com/Xposed-Modules-Repo/com.wangyiheng.vcamsx)|安卓虚拟摄像头|120|2024-06-22|2023-12-11|
 |27|[lizongying/my-tv-1](https://github.com/lizongying/my-tv-1)|电视网络视频播放软件，支持播放网页视频。|106|2024-05-27|2024-05-12|
-|28|[laomuji666/Quickly-Use-Jetpack-Compose](https://github.com/laomuji666/Quickly-Use-Jetpack-Compose)|简单易用的 Jetpack Compose 快速开发框架,以Compose的方式实现功能.|95|2024-09-14|2024-08-19|
+|28|[laomuji666/Quickly-Use-Jetpack-Compose](https://github.com/laomuji666/Quickly-Use-Jetpack-Compose)|简单易用的 Jetpack Compose 快速开发框架,以Compose的方式实现功能.|96|2024-09-14|2024-08-19|
 |29|[LazyIonEs/AndroidToolKit](https://github.com/LazyIonEs/AndroidToolKit)|适用于安卓开发的桌面工具，支持 Windows、Mac 和 Linux 🎉|93|2024-08-19|2024-02-27|
-|30|[laoxinH/crosscore-mod-manager](https://github.com/laoxinH/crosscore-mod-manager)|MOD实验室：一个游戏mod管理工具，支持管理大多数二游的MOD，例如交错战线、碧蓝航线、碧蓝档案的魔改以及mod管理，一键开启备份还原，mod预览等|91|2024-09-21|2024-05-15|
+|30|[laoxinH/crosscore-mod-manager](https://github.com/laoxinH/crosscore-mod-manager)|MOD实验室：一个游戏mod管理工具，支持管理大多数二游的MOD，例如交错战线、碧蓝航线、碧蓝档案的魔改以及mod管理，一键开启备份还原，mod预览等|91|2024-09-22|2024-05-15|
 |31|[HappyMax0/FCMPushViewer](https://github.com/HappyMax0/FCMPushViewer)|此APP可以查看用户安装的应用及系统应用中，哪些应用支持谷歌FCM推送，并且可以调出FCM系统日志页面，可以查看FCM连接状态及应用推送记录。|82|2024-09-08|2023-10-05|
 |32|[ssttkkl/mahjong-utils-app](https://github.com/ssttkkl/mahjong-utils-app)|Riichi Mahjong Calculator App (for Android, iOS, Desktop, Web, based on Compose Multiplatform)|79|2024-09-20|2023-12-13|
 |33|[lavender-projects/lavsource-bilibili](https://github.com/lavender-projects/lavsource-bilibili)|供Lavender使用的bilibili数据源|78|2024-06-23|2024-01-11|
 |34|[HdShare/HookGG](https://github.com/HdShare/HookGG)|基于Xposed的Hook GameGuardian模块|70|2024-08-14|2024-05-04|
-|35|[10miaomiao/bili-down-out](https://github.com/10miaomiao/bili-down-out)|哔哩哔哩缓存导出工具|60|2024-07-19|2023-10-25|
+|35|[10miaomiao/bili-down-out](https://github.com/10miaomiao/bili-down-out)|哔哩哔哩缓存导出工具|61|2024-07-19|2023-10-25|
 |36|[Suzhelan/TXHook](https://github.com/Suzhelan/TXHook)|腾讯QQ协议分析工具|58|2024-05-31|2024-01-26|
 |37|[ludoven/OnlyTV-For-TV](https://github.com/ludoven/OnlyTV-For-TV)|A comprehensive film and television application designed for Android TV, covering rich resources such as IPTV, live broadcasts, short videos, movies and TV series, providing a comprehensive entertainm ...|58|2024-05-16|2023-11-09|
 |38|[GSQZ/TuneFree-for-Android](https://github.com/GSQZ/TuneFree-for-Android)|一款基于Dso music二次开发的网易云音乐第三方播放器|54|2024-06-18|2024-06-17|
 |39|[Nitsuya/AADisplay](https://github.com/Nitsuya/AADisplay)|让Android Auto显示任意应用, 基于VirtualDisplay的套娃方案|48|2024-09-20|2024-05-28|
 |40|[YuKongA/MediaControl-BlurBg](https://github.com/YuKongA/MediaControl-BlurBg)|[Xposed] 将 HyperOS 的媒体通知背景替换为高级材质|48|2024-09-15|2024-02-03|
-|41|[sandyz987/XVirtualCamera](https://github.com/sandyz987/XVirtualCamera)|Xposed虚拟摄像头，适用于Android9.0+;   Xposed virtual camera, available for Android 9.0+|44|2024-09-18|2023-11-27|
-|42|[EB-wilson/TooManyItems](https://github.com/EB-wilson/TooManyItems)|一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息|41|2024-06-09|2023-11-05|
+|41|[sandyz987/XVirtualCamera](https://github.com/sandyz987/XVirtualCamera)|Xposed虚拟摄像头，适用于Android9.0+;   Xposed virtual camera, available for Android 9.0+|45|2024-09-18|2023-11-27|
+|42|[EB-wilson/TooManyItems](https://github.com/EB-wilson/TooManyItems)|一个辅助mod，为您提供快速检索材料，单位，建筑和矿物等的生产与采集引导信息|41|2024-09-22|2023-11-05|
 |43|[EspoirX/Bumblebee](https://github.com/EspoirX/Bumblebee)|基于 有限状态机 和 Flow 的 WebSocket 封装，Socket 部分 用 OkHttp 实现。 1. 支持 Flow 2. Socket 的状态由状态机管理，自动处理重连等逻辑 3. Socket 部分默认由 OKHttp 实现  4. 使用简单，跟你使用 Retrofit 差不多|37|2024-05-30|2024-02-26|
 |44|[wuyr/jdwp-injector-for-android](https://github.com/wuyr/jdwp-injector-for-android)|借助adb协议+jdwp协议在Android端实现基于debugger的代码注入工具|33|2024-08-13|2024-02-03|
 |45|[SetoSkins/SetoHook](https://github.com/SetoSkins/SetoHook)|一个用于Hook小米系统的工具类App|31|2024-08-02|2023-10-20|
