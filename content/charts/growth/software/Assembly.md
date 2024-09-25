@@ -1,17 +1,17 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > Assembly
-<sub>数据更新: 2024-09-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|57538|15|2024-07-11|
-|2|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6754|6|2024-09-13|
-|3|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10929|2|2024-08-20|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|57547|15|2024-07-11|
+|2|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6758|6|2024-09-23|
+|3|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10930|2|2024-08-20|
 |4|[wujin1989/coroutine-context-switch](https://github.com/wujin1989/coroutine-context-switch)|一个协程的上下文切换代码，支持windows，linux，macosx(intel)。macosx(aarch64)后续会支持|10|0|2024-07-18|
 |5|[Yiipu/HUST-HardwareDesign-RISCv](https://github.com/Yiipu/HUST-HardwareDesign-RISCv)|HUST-2023秋-硬件设计综合训练|6|0|2024-09-13|
 |6|[Lazy-Tag/ICS-labs](https://github.com/Lazy-Tag/ICS-labs)|RUC 2022-2023 ICS系列实验|6|0|2024-08-02|
-|7|[mengning/linuxkernel](https://github.com/mengning/linuxkernel)|操作系统导论教学资料、《庖丁解牛Linux内核》配套资料|264|0|2024-07-20|
+|7|[mengning/linuxkernel](https://github.com/mengning/linuxkernel)|操作系统导论教学资料、《庖丁解牛Linux内核》配套资料|265|0|2024-07-20|
 |8|[YuS1aN/zhenxun_bot_android_ui](https://github.com/YuS1aN/zhenxun_bot_android_ui)|绪山真寻Bot的Android管理后台|10|0|2024-09-08|
 |9|[Wokann/Pokemon_GBA_Font_Patch](https://github.com/Wokann/Pokemon_GBA_Font_Patch)|宝可梦3代GBA汉字字库补丁（增益优化版）|4|0|2024-07-15|
 |10|[GEJXD/xv6-labs-2021](https://github.com/GEJXD/xv6-labs-2021)|MIT 6.S081 实验代码|3|0|2024-09-03|
@@ -23,23 +23,22 @@
 |16|[thu-cs-lab/supervisor-la32r](https://github.com/thu-cs-lab/supervisor-la32r)|LoongArch 32 Reduced 监控程序|6|0|2024-06-30|
 |17|[QingShi1834/njuse-oslab](https://github.com/QingShi1834/njuse-oslab)|软院大二的操作系统的四个lab|3|0|2024-04-12|
 |18|[Z-H-Sun/tswBGM](https://github.com/Z-H-Sun/tswBGM)|Tower of the Sorcerer for Windows Background Music / 魔塔英文原版背景音乐|3|0|2024-04-01|
-|19|[cccbook/sejs](https://github.com/cccbook/sejs)|軟體工程 -- 以 node.js 為例|27|0|2024-03-25|
-|20|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|44|0|2024-09-09|
-|21|[skyboooox/HomoOS](https://github.com/skyboooox/HomoOS)|宏萌-自主研发国内微内核跨平台操作系统|9|0|2024-06-28|
-|22|[Z-H-Sun/tswSL](https://github.com/Z-H-Sun/tswSL)|Tower of the Sorcerer for Windows SaveLoad / 魔塔英文原版快捷临时存读档|2|0|2024-04-01|
-|23|[chenjunfu2/Gluttonous_snake-asm](https://github.com/chenjunfu2/Gluttonous_snake-asm)|8086汇编版本贪吃蛇|3|0|2024-08-19|
-|24|[DongshanPI/DongshanPI-D1s_BareMetal](https://github.com/DongshanPI/DongshanPI-D1s_BareMetal)|国产全志平头哥C906 RISC-V DongshanPI-D1s RV64GVC 裸机示例仓库！|11|0|2024-05-09|
-|25|[fzf404/MiniSystem](https://github.com/fzf404/MiniSystem)|💾 Nasm 汇编写操作系统|12|0|2024-04-24|
-|26|[Leaf-1037/RISCV-CPU-Pipeline-HUST](https://github.com/Leaf-1037/RISCV-CPU-Pipeline-HUST)|五段流水线CPU，包含重定向、历史分支表等优化|2|0|2024-04-13|
-|27|[DANNHIROAKI/XJTU-COMP400627-OS](https://github.com/DANNHIROAKI/XJTU-COMP400627-OS)|西安交通大学COMP400627操作系统课程|11|0|2024-04-25|
-|28|[weipeng2k/hot-wind](https://github.com/weipeng2k/hot-wind)|技术杂文集|33|0|2024-09-11|
-|29|[MrAMS/Nagi](https://github.com/MrAMS/Nagi)|基于difftest改进的CPU敏捷开发框架（nscscc2024）|5|0|2024-09-06|
-|30|[Yaochenger/RvBacktrace](https://github.com/Yaochenger/RvBacktrace)|RISC-V 极简栈回溯组件|10|0|2024-09-20|
-|31|[SnDream/rgbds-ws](https://github.com/SnDream/rgbds-ws)|Rgbds编译环境|3|0|2024-04-08|
-|32|[arttnba3/OS_Kernel_Learning](https://github.com/arttnba3/OS_Kernel_Learning)|为我自己准备的 OS 大作业：从零开始写一个操作系统内核|5|0|2024-06-17|
-|33|[zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU](https://github.com/zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU)|北京大学 2023 年秋计算机系统导论课程（ICS）作业、笔记、经验|111|0|2024-09-04|
-|34|[Jerry-Terrasse/HITSZ-COMP2012-LAB](https://github.com/Jerry-Terrasse/HITSZ-COMP2012-LAB)|计算机设计与实践（2023夏季）   哈工大（深圳）|3|0|2024-08-30|
-|35|[Ethylene9160/IoTAGV](https://github.com/Ethylene9160/IoTAGV)|车车通信接口。|4|0|2024-09-08|
+|19|[Z-H-Sun/tswKai](https://github.com/Z-H-Sun/tswKai)|Tower of the Sorcerer for Windows Kai (改): Modifier of game variables and improvement of game experience|45|0|2024-09-09|
+|20|[skyboooox/HomoOS](https://github.com/skyboooox/HomoOS)|宏萌-自主研发国内微内核跨平台操作系统|9|0|2024-06-28|
+|21|[Z-H-Sun/tswSL](https://github.com/Z-H-Sun/tswSL)|Tower of the Sorcerer for Windows SaveLoad / 魔塔英文原版快捷临时存读档|2|0|2024-04-01|
+|22|[chenjunfu2/Gluttonous_snake-asm](https://github.com/chenjunfu2/Gluttonous_snake-asm)|8086汇编版本贪吃蛇|3|0|2024-08-19|
+|23|[DongshanPI/DongshanPI-D1s_BareMetal](https://github.com/DongshanPI/DongshanPI-D1s_BareMetal)|国产全志平头哥C906 RISC-V DongshanPI-D1s RV64GVC 裸机示例仓库！|11|0|2024-05-09|
+|24|[fzf404/MiniSystem](https://github.com/fzf404/MiniSystem)|💾 Nasm 汇编写操作系统|12|0|2024-04-24|
+|25|[Leaf-1037/RISCV-CPU-Pipeline-HUST](https://github.com/Leaf-1037/RISCV-CPU-Pipeline-HUST)|五段流水线CPU，包含重定向、历史分支表等优化|2|0|2024-04-13|
+|26|[DANNHIROAKI/XJTU-COMP400627-OS](https://github.com/DANNHIROAKI/XJTU-COMP400627-OS)|西安交通大学COMP400627操作系统课程|11|0|2024-04-25|
+|27|[weipeng2k/hot-wind](https://github.com/weipeng2k/hot-wind)|技术杂文集|33|0|2024-09-11|
+|28|[MrAMS/Nagi](https://github.com/MrAMS/Nagi)|基于difftest改进的CPU敏捷开发框架（nscscc2024）|5|0|2024-09-06|
+|29|[Yaochenger/RvBacktrace](https://github.com/Yaochenger/RvBacktrace)|RISC-V 极简栈回溯组件|10|0|2024-09-24|
+|30|[SnDream/rgbds-ws](https://github.com/SnDream/rgbds-ws)|Rgbds编译环境|3|0|2024-04-08|
+|31|[arttnba3/OS_Kernel_Learning](https://github.com/arttnba3/OS_Kernel_Learning)|为我自己准备的 OS 大作业：从零开始写一个操作系统内核|5|0|2024-06-17|
+|32|[zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU](https://github.com/zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU)|北京大学 2023 年秋计算机系统导论课程（ICS）作业、笔记、经验|112|0|2024-09-04|
+|33|[Jerry-Terrasse/HITSZ-COMP2012-LAB](https://github.com/Jerry-Terrasse/HITSZ-COMP2012-LAB)|计算机设计与实践（2023夏季）   哈工大（深圳）|3|0|2024-08-30|
+|34|[Ethylene9160/IoTAGV](https://github.com/Ethylene9160/IoTAGV)|车车通信接口。|4|0|2024-09-08|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>

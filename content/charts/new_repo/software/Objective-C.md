@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > Objective-C
-<sub>数据更新: 2024-09-23&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[marlkiller/dylib_dobby_hook](https://github.com/marlkiller/dylib_dobby_hook)|这是一个集成了 Dobby Hook 框架的 macOS dylib 项目，通过使用 Dobby Hook 框架来对软件进行辅助增强的操作。Dobby Hook 框架可以帮助实现钩子函数，从而在软件中注入自定义代码，拓展软件功能和提升用户体验。|224|2024-09-21|2024-01-14|
+|1|[marlkiller/dylib_dobby_hook](https://github.com/marlkiller/dylib_dobby_hook)|这是一个集成了 Dobby Hook 框架的 macOS dylib 项目，通过使用 Dobby Hook 框架来对软件进行辅助增强的操作。Dobby Hook 框架可以帮助实现钩子函数，从而在软件中注入自定义代码，拓展软件功能和提升用户体验。|225|2024-09-23|2024-01-14|
 |2|[Mrzxd/ShortVideo](https://github.com/Mrzxd/ShortVideo)|A powerful iOS short video SDK tool that considers various mobile phone performance, memory usage optimization, loading efficiency optimization, reducing CPU usage, optimizing pre loaded videos throug ...|19|2024-03-30|2024-03-26|
 |3|[iHongRen/CXYWebScript](https://github.com/iHongRen/CXYWebScript)|简化 iOS App 与 H5 交互，H5在调用时不用区分Android还是iOS，直接调用方法 window.App.onSayHello('Hello')|18|2024-04-30|2024-04-10|
 |4|[marlkiller/mac_patch_helper](https://github.com/marlkiller/mac_patch_helper)|一个随心所欲的 macOS Patch 工具类|18|2024-07-11|2024-04-09|
@@ -22,7 +22,7 @@
 |15|[vampire-locker/iOS-Tools-OC](https://github.com/vampire-locker/iOS-Tools-OC)|iOS 常用的工具类|2|2024-09-05|2024-08-20|
 |16|[EricMoin/R9000P2021-AMD5800H-Hackintosh](https://github.com/EricMoin/R9000P2021-AMD5800H-Hackintosh)|黑苹果EFI文件|2|2024-07-23|2024-07-23|
 |17|[QuintGao/GKLivePhotoManager](https://github.com/QuintGao/GKLivePhotoManager)|livePhoto处理工具类|2|2024-09-14|2024-06-27|
-|18|[295060456/JobsOCBaseConfigDemo](https://github.com/295060456/JobsOCBaseConfigDemo)|iOS.OC靶场项目|2|2024-09-22|2024-05-11|
+|18|[295060456/JobsOCBaseConfigDemo](https://github.com/295060456/JobsOCBaseConfigDemo)|iOS.OC靶场项目|2|2024-09-24|2024-05-11|
 |19|[acodeworker/VoiceAnimation](https://github.com/acodeworker/VoiceAnimation)|仿文心一言语音动效|2|2024-04-17|2024-04-17|
 |20|[dvlpCrack/CQAppPassword_dylib](https://github.com/dvlpCrack/CQAppPassword_dylib)|一个进入app需要密码的动态库|2|2024-04-11|2024-04-10|
 |21|[AeolusZane/rn-swift-demo](https://github.com/AeolusZane/rn-swift-demo)|RN-Swift混合开发，覆盖大部分开发需求。包含RN使用Swift组件，RN和Swift组件相互通信，RN更新Swift组件状态、Swift更新RN组件状态|2|2024-09-21|2024-03-20|
