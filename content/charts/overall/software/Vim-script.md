@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Vim script
-<sub>数据更新: 2024-09-25&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-26&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
@@ -53,7 +53,7 @@
 |46|[yszou/env](https://github.com/yszou/env)|我平时使用的环境的配置文件|5|2024-05-08|
 |47|[DavidAlphaFox/.dotfiles](https://github.com/DavidAlphaFox/.dotfiles)|主要命令行工作配置|4|2024-09-19|
 |48|[alantop0720/system_config](https://github.com/alantop0720/system_config)|常用的系统配置文件|3|2024-08-11|
-|49|[ZSaberLv0/ZFVimIM_pinyin](https://github.com/ZSaberLv0/ZFVimIM_pinyin)|vim拼音输入法 / pinyin for ZFVimIM|3|2024-09-24|
+|49|[ZSaberLv0/ZFVimIM_pinyin](https://github.com/ZSaberLv0/ZFVimIM_pinyin)|vim拼音输入法 / pinyin for ZFVimIM|3|2024-09-25|
 |50|[listenerri/ri-vim](https://github.com/listenerri/ri-vim)|一份中文注释齐全的vim配置|3|2024-05-25|
 |51|[webeautiful/xiongfs](https://github.com/webeautiful/xiongfs)|-|3|2024-07-23|
 |52|[Hyvi/dotfiles](https://github.com/Hyvi/dotfiles)|vim配置|3|2024-08-25|
