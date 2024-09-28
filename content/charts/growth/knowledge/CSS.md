@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > CSS
-<sub>数据更新: 2024-09-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)|经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新|21203|26|2024-09-20|
-|2|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |1161|11|2024-08-14|
-|3|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|19565|7|2024-08-07|
-|4|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|21056|6|2024-09-25|
+|1|[hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks)|经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新|21223|26|2024-09-26|
+|2|[Pintree-io/pintree](https://github.com/Pintree-io/pintree)|An intuitive tool for managing and exporting your local bookmarks into a shareable website. |1167|11|2024-08-14|
+|3|[chokcoco/iCSS](https://github.com/chokcoco/iCSS)|不止于 CSS|19568|7|2024-08-07|
+|4|[SwiftGGTeam/the-swift-programming-language-in-chinese](https://github.com/SwiftGGTeam/the-swift-programming-language-in-chinese)|中文版 Apple 官方 Swift 教程《The Swift Programming Language》|21057|6|2024-09-25|
 |5|[datawhalechina/hugging-multi-agent](https://github.com/datawhalechina/hugging-multi-agent)|A tutorial based on MetaGPT to quickly help you understand the concept of agent and muti-agent and get started with coding development. 基于MetaGPT的多智能体入门与开发教程|1332|5|2024-05-10|
-|6|[tangxiaoqi-tangxiao/PintreeNewTab](https://github.com/tangxiaoqi-tangxiao/PintreeNewTab)|用于管理书签|16|4|2024-09-26|
-|7|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5600|2|2024-09-21|
+|6|[tangxiaoqi-tangxiao/PintreeNewTab](https://github.com/tangxiaoqi-tangxiao/PintreeNewTab)|用于管理书签|23|5|2024-09-26|
+|7|[LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)|http://learnopengl.com 系列教程的简体中文翻译|5606|2|2024-09-21|
 |8|[codeguy/php-the-right-way](https://github.com/codeguy/php-the-right-way)|An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web|9047|2|2024-07-01|
-|9|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|3370|1|2024-06-16|
-|10|[ZGQ-inc/source](https://github.com/ZGQ-inc/source)|:package:个人搜集   书源、图源、订阅源、规则、直播源、各种源 大型整合|622|1|2024-09-17|
+|9|[billie66/TLCL](https://github.com/billie66/TLCL)|《快乐的 Linux 命令行》|3371|1|2024-06-16|
+|10|[ZGQ-inc/source](https://github.com/ZGQ-inc/source)|:package:个人搜集   书源、图源、订阅源、规则、直播源、各种源 大型整合|626|1|2024-09-17|
 |11|[LaneDu/Knowledge-Brain](https://github.com/LaneDu/Knowledge-Brain)|思源笔记主题 Knowledge Brain 寓意知识大脑|19|0|2024-09-02|
 |12|[wflac/theme-Mego](https://github.com/wflac/theme-Mego)|一款基于 Halo 的简约时尚的原创卡片式博客主题，炫酷的个人展示图，拥有 Banner 展示位、通知、侧边小卡片。|14|0|2024-06-06|
 |13|[fuzhengwei/itstack-demo-netty](https://github.com/fuzhengwei/itstack-demo-netty)|微信公众号：bugstack虫洞栈   专注于原创开发专题案例。跟着案例学Netty，Netty4.x案例从简单入门到应用实战，全篇37章节优秀案例+实战源码[基础篇(13)、中级篇(13)、高级篇(3章+)、源码分析篇]，以上章节全部完成并不断持续更新中。欢迎关注公众号：bugstack虫洞栈   阅读专题文章+调试案例源码学习｛回复netty案例｝。|708|0|2024-09-19|
@@ -39,7 +39,7 @@
 |32|[mouday/coding-tree](https://github.com/mouday/coding-tree)|程序员工作、学习笔记|20|0|2024-08-07|
 |33|[dianhsu/blog](https://github.com/dianhsu/blog)|dianhsu的博客源码|6|0|2024-08-07|
 |34|[huzhicheng/fengzheng-blog](https://github.com/huzhicheng/fengzheng-blog)|一款简介的个人博客模板，使用 Hugo + Markdown |37|0|2024-06-25|
-|35|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|12|0|2024-09-26|
+|35|[Bin4xin/bin4xin.github.io](https://github.com/Bin4xin/bin4xin.github.io)|© 哨兵博客 V3 Power by Bin4xin   Jekyll   Github Action.|12|0|2024-09-27|
 |36|[KinnariyaMamaTanha/aiTour](https://github.com/KinnariyaMamaTanha/aiTour)|AI 学习之旅|16|0|2024-09-25|
 |37|[xukaiyyds/domain-name](https://github.com/xukaiyyds/domain-name)|一个简约的顶级国际域名证书模板。|6|0|2024-09-08|
 |38|[zino-rs/zino-docs-zh](https://github.com/zino-rs/zino-docs-zh)|Zino开发框架中文教程|8|0|2024-04-03|
@@ -50,7 +50,7 @@
 |43|[aalmiray/java-champions](https://github.com/aalmiray/java-champions)|A list of Java Champions|350|0|2024-09-20|
 |44|[rongyi/note](https://github.com/rongyi/note)|个人学习笔记|8|0|2024-07-26|
 |45|[Fridolph/my-program](https://github.com/Fridolph/my-program)|作品和demo集，若你喜欢麻烦star+fork ...0(∩_∩)0... 仅供参考学习分享交流，谢谢|14|0|2024-06-23|
-|46|[rurumuri/ysuse-2022](https://github.com/rurumuri/ysuse-2022)|燕山大学信息科学与工程学院软件工程系课程项目、代码和相关文档资料|11|0|2024-09-26|
+|46|[rurumuri/ysuse-2022](https://github.com/rurumuri/ysuse-2022)|2022 YSU-SE / 燕山大学信息科学与工程学院软件工程系课程项目、代码和相关资料|11|0|2024-09-26|
 |47|[zjp-CN/translation](https://github.com/zjp-CN/translation)|翻译的 Rust 博文|14|0|2024-05-22|
 |48|[openanolis/whitebook-shangmi](https://github.com/openanolis/whitebook-shangmi)|商用密码技术最佳实践白皮书|25|0|2024-08-06|
 |49|[lsils/lstools-showcase](https://github.com/lsils/lstools-showcase)|Showcase examples for EPFL logic synthesis libraries|178|0|2024-04-05|
@@ -61,7 +61,7 @@
 |54|[Azure/OCPCHINATECH](https://github.com/Azure/OCPCHINATECH)|OCPOpenHack is a lab gallery on Azure Services for China partners. Pls join in us to learn Azure and to learn Microsoft.|59|0|2024-08-26|
 |55|[xiamuguizhi/Chronicle](https://github.com/xiamuguizhi/Chronicle)|【易语言】Chronicle静态博客生成器|7|0|2024-08-25|
 |56|[mirabilite-s-kingdom/Shared-Wardrobe](https://github.com/mirabilite-s-kingdom/Shared-Wardrobe)|数据库课程设计 Shared Wardrobe共享衣橱|7|0|2024-07-19|
-|57|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主打解析编码器内部逻辑和参数说明，从基础到全网没人讲的算法，没人画的图解，没人做的排版整理全都在此集齐；因此叫Ultimate Tutorial|130|0|2024-05-31|
+|57|[iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial](https://github.com/iAvoe/x264-x265-QAAC-ffprobe-Ultimatetutorial)|主打解析编码器内部逻辑和参数说明，从基础到全网没人讲的算法，没人画的图解，没人做的排版整理全都在此集齐；因此叫Ultimate Tutorial|131|0|2024-05-31|
 |58|[WL2O2O/JavaU8G](https://github.com/WL2O2O/JavaU8G)|📚【Java面试通关秘籍】—— Java_Useful_8股文_Guide（听歌学Java），是备战Java面试与提升技术实力的一站式知识库。内容覆盖Java面试、算法、JavaSE、并发编程、JVM优化、MySQL、OS、中间件、微服务等核心知识点，并包含Spring全家桶及设计模式详解。欢迎关注、star，共同完善和分享！|7|0|2024-06-12|
 |59|[liu75675231/article-crawler](https://github.com/liu75675231/article-crawler)|文章爬虫，会每天都爬取一些有价值的官方文档的博客文章，以便于能得到第一手的更新，教程等信息|8|0|2024-08-21|
 |60|[dhjddcn/halo-theme-butterfly](https://github.com/dhjddcn/halo-theme-butterfly)|一个Halo博客主题，Butterfly 🦋|412|0|2024-09-26|
