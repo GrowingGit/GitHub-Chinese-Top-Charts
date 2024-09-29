@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-09-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|127|2024-08-05|
-|2|[spaceemperor01/Reed-Solomen-MATLAB](https://github.com/spaceemperor01/Reed-Solomen-MATLAB)|A Matlab implementation of Reed Solomen (RS code) for any length and gf order 任意长度和有限域阶数的里德所罗门码MATLAB实现|3|2|2024-09-26|
-|3|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|774|1|2024-09-26|
+|1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|125|2024-08-05|
+|2|[spaceemperor01/Reed-Solomen-MATLAB](https://github.com/spaceemperor01/Reed-Solomen-MATLAB)|A Matlab implementation of Reed Solomen (RS code) for any length and gf order 任意长度和有限域阶数的里德所罗门码MATLAB实现|3|1|2024-09-26|
+|3|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|775|1|2024-09-26|
 |4|[LuoQingju/Carbon-Emission-Flow](https://github.com/LuoQingju/Carbon-Emission-Flow)|复现论文《电力系统碳排放流的计算方法初探》。周天睿,康重庆,徐乾耀,等.电力系统碳排放流的计算方法初探[J].电力系统自动化,2012,36(11):44-49.|4|0|2024-07-08|
 |5|[TkungAI/AMBD-CGE](https://github.com/TkungAI/AMBD-CGE)|基于MBD（Model-Based Design，基于模型的设计）代码生成样例。|6|0|2024-04-14|
 |6|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|7|0|2024-05-21|
@@ -59,7 +59,7 @@
 |52|[LeonYew-SWPU/VLPR-Based-On-MATLAB](https://github.com/LeonYew-SWPU/VLPR-Based-On-MATLAB)|基于 MATLAB 的车牌识别系统，数字图像处理期末大作业。|12|0|2024-05-06|
 |53|[JingkeTAN/Genetic-algorithm-with-MILP](https://github.com/JingkeTAN/Genetic-algorithm-with-MILP)|遗传算法解决带时间窗的混合整数非线性规划问题（MILP）|3|0|2024-05-25|
 |54|[DuRen1126/ECG_DeepClassfication](https://github.com/DuRen1126/ECG_DeepClassfication)|基于机器学习的心电分析疲劳检测方法研究|3|0|2024-03-31|
-|55|[AI-Tianlong/SSVEP-BCI-OpenBCI](https://github.com/AI-Tianlong/SSVEP-BCI-OpenBCI)|基于OpenBCI（Bciduino）完成的SSVEP项目，包括刺激器、信号实时传输、以及基于FFT的脑电信号分类、蓝牙小车的脑电控制|74|0|2024-05-06|
+|55|[AI-Tianlong/SSVEP-BCI-OpenBCI](https://github.com/AI-Tianlong/SSVEP-BCI-OpenBCI)|基于OpenBCI（Bciduino）完成的SSVEP项目，包括刺激器、信号实时传输、以及基于FFT的脑电信号分类、蓝牙小车的脑电控制|75|0|2024-05-06|
 |56|[wuc567/Pattern-Mining](https://github.com/wuc567/Pattern-Mining)|序列模式挖掘相关研究|28|0|2024-07-11|
 |57|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Uav track collaborative planning based on pso algorithm/基于pso算法的无人机航迹协同规划|9|0|2024-07-09|
 |58|[EXPSIN/StroboscopicPhotography](https://github.com/EXPSIN/StroboscopicPhotography)|基于视频提取频闪照片的MATLAB脚本|3|0|2024-09-14|

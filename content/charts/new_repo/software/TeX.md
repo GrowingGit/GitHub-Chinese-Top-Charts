@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2024-09-27&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -10,7 +10,7 @@
 |3|[404-NOTFOUND-Coder/UESTC--report--template](https://github.com/404-NOTFOUND-Coder/UESTC--report--template)|适用于UESTC各种实验报告latex模板|15|2024-06-27|2024-03-31|
 |4|[Thysrael/GreenParkBeamerTheme](https://github.com/Thysrael/GreenParkBeamerTheme)|北京航空航天大学 BUAA LaTeX Beamer 非官方主题|12|2024-07-26|2024-06-12|
 |5|[mimicji/Bilingual-Resume-Template](https://github.com/mimicji/Bilingual-Resume-Template)|Bilingual Resume Template in Latex. 中英双语Latex简历模板|10|2024-06-04|2024-06-03|
-|6|[berries-tart/HUST-Principles-of-Imperative-Computation](https://github.com/berries-tart/HUST-Principles-of-Imperative-Computation)|华中科技大学2022级命令式计算原理|8|2024-05-28|2024-05-28|
+|6|[berries-tart/HUST-Principles-of-Imperative-Computation](https://github.com/berries-tart/HUST-Principles-of-Imperative-Computation)|华中科技大学2022级命令式计算原理|9|2024-05-28|2024-05-28|
 |7|[ymx10086/HUST-2022-DATA_STRUCTURES](https://github.com/ymx10086/HUST-2022-DATA_STRUCTURES)|2021级HUST数据结构实验及实验报告|8|2024-04-17|2024-04-17|
 |8|[ajsadhotmail/2024-China-Gaokao-Math](https://github.com/ajsadhotmail/2024-China-Gaokao-Math)|The repository includes the math paper of Chinese National College Entrance Exam (Gaokao).  本仓库包含了中国2024年高考的数学试卷 (新高考I卷).  |7|2024-06-08|2024-06-08|
 |9|[Cresc3ntRose/NUAA_IoT_Assignment](https://github.com/Cresc3ntRose/NUAA_IoT_Assignment)|这个仓库用于储存我个人的课内作业|7|2024-06-29|2024-04-10|
@@ -32,7 +32,7 @@
 |25|[WQT1123/University-Presentation-Beamer](https://github.com/WQT1123/University-Presentation-Beamer)|大学Latex答辩模版，当前包含川大、哈工大、中科大。|4|2024-07-22|2024-02-28|
 |26|[HGAQ/Physical-Chemistry-Experiment](https://github.com/HGAQ/Physical-Chemistry-Experiment)|2023-fall-Physical-Chemistry-Experiment-物理化学实验|4|2024-09-12|2024-01-14|
 |27|[Theigrams/quick-LaTeX](https://github.com/Theigrams/quick-LaTeX)|一个快速上手的中文 LaTeX 模板|4|2024-04-02|2023-12-29|
-|28|[flaribbit/lyrics](https://github.com/flaribbit/lyrics)|收集了一些我喜欢的歌曲的歌词|3|2024-09-25|2024-09-08|
+|28|[flaribbit/lyrics](https://github.com/flaribbit/lyrics)|收集了一些我喜欢的歌曲的歌词|3|2024-09-28|2024-09-08|
 |29|[EmpyreanHYR/MCM-Latex-template](https://github.com/EmpyreanHYR/MCM-Latex-template)|自用整理出的MCM数学建模美赛LaTex模板|3|2024-08-22|2024-08-22|
 |30|[EmpyreanHYR/CUMCM-Latex-template](https://github.com/EmpyreanHYR/CUMCM-Latex-template)|自用整理出的CUMCM数学建模国赛LaTex模板|3|2024-08-31|2024-08-22|
 |31|[DianRobot/DianRobot.github.io](https://github.com/DianRobot/DianRobot.github.io)|Diangroup Robotics Lab实验室主页|3|2024-07-25|2024-07-03|

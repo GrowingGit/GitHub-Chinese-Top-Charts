@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 软件类 > R
-<sub>数据更新: 2024-09-28&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-09-29&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
-|1|[TullyMonster/MendelRookie](https://github.com/TullyMonster/MendelRookie)|新手友好的孟德尔随机化项目|136|1|2024-04-26|
-|2|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1774|1|2024-09-18|
+|1|[TullyMonster/MendelRookie](https://github.com/TullyMonster/MendelRookie)|新手友好的孟德尔随机化项目|137|1|2024-04-26|
+|2|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1775|1|2024-09-18|
 |3|[ropensci/comtradr](https://github.com/ropensci/comtradr)|Functions for Interacting with the UN Comtrade API|64|0|2024-09-24|
 |4|[jokergoo/HilbertCurve](https://github.com/jokergoo/HilbertCurve)|Visualize genomic data by Hilbert curve|40|0|2024-09-12|
 |5|[skgrange/rmweather](https://github.com/skgrange/rmweather)|Tools to Conduct Meteorological Normalisation on Air Quality Data|46|0|2024-06-05|
@@ -24,7 +24,7 @@
 |17|[ykang/gratis](https://github.com/ykang/gratis)|GRATIS: GeneRAting TIme Series with diverse and controllable characteristics|76|0|2024-04-08|
 |18|[HenrikBengtsson/progressr](https://github.com/HenrikBengtsson/progressr)|三 R package: An Inclusive, Unifying API for Progress Updates|280|0|2024-04-19|
 |19|[ECMWFCode4Earth/UNSEEN-open](https://github.com/ECMWFCode4Earth/UNSEEN-open)|An open, reproducible and transferable workflow to assess and anticipate climate extremes beyond the observed record|17|0|2024-04-01|
-|20|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|500|0|2024-07-02|
+|20|[massimoaria/bibliometrix](https://github.com/massimoaria/bibliometrix)|An R-tool for comprehensive science mapping analysis. A package for quantitative research in scientometrics and bibliometrics.|501|0|2024-07-02|
 |21|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|619|0|2024-09-07|
 |22|[ropensci/UCSCXenaTools](https://github.com/ropensci/UCSCXenaTools)|:package: An R package for accessing genomics data from UCSC Xena platform, from cancer multi-omics to single-cell RNA-seq https://cran.r-project.org/web/packages/UCSCXenaTools/|102|0|2024-08-29|
 |23|[gee-hydro/gee_whittaker_kong2019_validation](https://github.com/gee-hydro/gee_whittaker_kong2019_validation)|Non-parametric weighted Whittaker smoothing|33|0|2024-04-11|
