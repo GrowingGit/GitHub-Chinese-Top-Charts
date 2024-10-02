@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Pascal
-<sub>数据更新: 2024-10-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|572|2024-09-27|
+|1|[cnpack/cnwizards](https://github.com/cnpack/cnwizards)|CnPack IDE Wizards|572|2024-10-01|
 |2|[LongDirtyAnimAlf/fpcupdeluxe](https://github.com/LongDirtyAnimAlf/fpcupdeluxe)|A GUI based installer for FPC and Lazarus|488|2024-09-27|
-|3|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|336|2024-09-27|
+|3|[cnpack/cnvcl](https://github.com/cnpack/cnvcl)|CnPack VCL Components|336|2024-10-01|
 |4|[yangyxd/FMXUI](https://github.com/yangyxd/FMXUI)|FMX跨平台基础UI库|262|2024-09-21|
 |5|[digao-dalpiaz/Dam](https://github.com/digao-dalpiaz/Dam)|Delphi and Lazarus Message Dialogs with Formatted Text|136|2024-04-02|
 |6|[artem78/AutoScreenshot](https://github.com/artem78/AutoScreenshot)|Automatic screenshot maker|121|2024-05-09|

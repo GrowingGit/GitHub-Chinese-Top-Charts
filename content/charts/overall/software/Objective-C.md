@@ -1,20 +1,20 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Objective-C
-<sub>数据更新: 2024-10-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-02&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)|微信小助手|14077|2024-06-09|
-|2|[Instagram/IGListKit](https://github.com/Instagram/IGListKit)|A data-driven UICollectionView framework for building fast and flexible lists.|12858|2024-09-17|
+|1|[TKkk-iOSer/WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)|微信小助手|14078|2024-06-09|
+|2|[Instagram/IGListKit](https://github.com/Instagram/IGListKit)|A data-driven UICollectionView framework for building fast and flexible lists.|12859|2024-09-17|
 |3|[sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS)|A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨|11150|2024-08-01|
 |4|[ibireme/YYText](https://github.com/ibireme/YYText)|Powerful text framework for iOS to display and edit rich text.|8849|2024-07-16|
-|5|[banchichen/TZImagePickerController](https://github.com/banchichen/TZImagePickerController)|一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。  A clone of UIImagePickerController, support picking multiple photos、original photo、video, also allow preview photo and video, support iOS6+|8056|2024-08-14|
+|5|[banchichen/TZImagePickerController](https://github.com/banchichen/TZImagePickerController)|一个支持多选、选原图和视频的图片选择器，同时有预览、裁剪功能，支持iOS6+。  A clone of UIImagePickerController, support picking multiple photos、original photo、video, also allow preview photo and video, support iOS6+|8057|2024-08-14|
 |6|[MatthewYork/DateTools](https://github.com/MatthewYork/DateTools)|Dates and times made easy in iOS|7220|2024-08-21|
-|7|[Tencent/QMUI_iOS](https://github.com/Tencent/QMUI_iOS)|QMUI iOS——致力于提高项目 UI 开发效率的解决方案|7085|2024-09-21|
+|7|[Tencent/QMUI_iOS](https://github.com/Tencent/QMUI_iOS)|QMUI iOS——致力于提高项目 UI 开发效率的解决方案|7084|2024-09-21|
 |8|[renzifeng/ZFPlayer](https://github.com/renzifeng/ZFPlayer)|Support customization of any player SDK and control layer(支持定制任何播放器SDK和控制层)|7061|2024-05-24|
-|9|[tisfeng/Easydict](https://github.com/tisfeng/Easydict)|一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t ...|7016|2024-09-29|
-|10|[pujiaxin33/JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)|A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|6085|2024-08-07|
+|9|[tisfeng/Easydict](https://github.com/tisfeng/Easydict)|一个简洁优雅的词典翻译 macOS App。开箱即用，支持离线 OCR 识别，支持有道词典，🍎 苹果系统词典，🍎 苹果系统翻译，OpenAI，Gemini，DeepL，Google，Bing，腾讯，百度，阿里，小牛，彩云和火山翻译。A concise and elegant Dictionary and Translator macOS App for looking up words and t ...|7017|2024-09-29|
+|10|[pujiaxin33/JXCategoryView](https://github.com/pujiaxin33/JXCategoryView)|A powerful and easy to use category view (segmentedcontrol, segmentview, pagingview, pagerview, pagecontrol) (腾讯新闻、今日头条、QQ音乐、网易云音乐、京东、爱奇艺、腾讯视频、淘宝、天猫、简书、微博等所有主流APP分类切换滚动视图)|6086|2024-08-07|
 |11|[JackJiang2011/MobileIMSDK](https://github.com/JackJiang2011/MobileIMSDK)|一个原创多端IM通信层框架，轻量级、高度提炼，历经10年、久经考验。可能是市面上唯一同时支持UDP+TCP+WebSocket三种协议的同类开源框架，支持 iOS、Android、Java、H5、小程序、Uniapp，服务端基于Netty。|5480|2024-06-29|
 |12|[Tencent/lemon-cleaner](https://github.com/Tencent/lemon-cleaner)|腾讯柠檬清理是针对macOS系统专属制定的清理工具。主要功能包括重复文件和相似照片的识别、软件的定制化垃圾扫描、可视化的全盘空间分析、内存释放、浏览器隐私清理以及设备实时状态的监控等。重点聚焦清理功能，对上百款软件提供定制化的清理方案，提供专业的清理建议，帮助用户轻松完成一键式清理。|5420|2024-07-16|
 |13|[AAChartModel/AAChartKit](https://github.com/AAChartModel/AAChartKit)|📈📊🚀🚀🚀An elegant modern declarative data visualization chart framework for iOS, iPadOS and macOS. Extremely powerful, supports line, spline, area, areaspline, column, bar, pie, scatter, angular gauges, ...|4719|2024-08-28|
@@ -32,7 +32,7 @@
 |25|[12207480/TYCyclePagerView](https://github.com/12207480/TYCyclePagerView)|a simple and usefull cycle pager view ,and auto scroll banner view(轮播图) ,include pageControl for iOS,support Objective-C and swift|1794|2024-04-10|
 |26|[ibireme/YYImage](https://github.com/ibireme/YYImage)|Image framework for iOS to display/encode/decode animated WebP, APNG, GIF, and more.|1762|2024-06-27|
 |27|[zhenglibao/FlexLib](https://github.com/zhenglibao/FlexLib)|FlexLib是一个基于flexbox模型，使用xml文件进行界面布局的框架，融合了web快速布局的能力，让iOS界面开发像写网页一样简单快速|1679|2024-09-11|
-|28|[wuba/WBBlades](https://github.com/wuba/WBBlades)|Mach-O based ObjC & Swift useless classes, useless protocols, useless resources detection, packet size analysis, point-to-point crash resolution.基于Mach-O的ObjC & Swift无用类、无用协议、无用资源检测，包大小分析，点对点崩溃解析。|1543|2024-08-05|
+|28|[wuba/WBBlades](https://github.com/wuba/WBBlades)|Mach-O based ObjC & Swift useless classes, useless protocols, useless resources detection, packet size analysis, point-to-point crash resolution.基于Mach-O的ObjC & Swift无用类、无用协议、无用资源检测，包大小分析，点对点崩溃解析。|1544|2024-08-05|
 |29|[QuintGao/GKPageScrollView](https://github.com/QuintGao/GKPageScrollView)|iOS类似微博、抖音、网易云等个人详情页滑动嵌套效果|1528|2024-07-25|
 |30|[rugarciap/Turbo-Boost-Switcher](https://github.com/rugarciap/Turbo-Boost-Switcher)|Turbo Boost disabler / enable app for Mac OS X|1482|2024-05-13|
 |31|[sinaweibosdk/weibo_ios_sdk](https://github.com/sinaweibosdk/weibo_ios_sdk)|新浪微博 IOS SDK|1445|2024-09-25|
@@ -46,7 +46,7 @@
 |39|[YPLiang19/Mango](https://github.com/YPLiang19/Mango)|MangoFix is a DSL which syntax is very similar to Objective-C，MangoFix is also an iOS  App hotfix SDK. You can use MangoFix method replace any Objective-C or Swift method.|1174|2024-06-02|
 |40|[wildfirechat/ios-chat](https://github.com/wildfirechat/ios-chat)|即时通讯，聊天，野火IM iOS客户端|1159|2024-09-28|
 |41|[LiteAVSDK/Player_iOS](https://github.com/LiteAVSDK/Player_iOS)|Super player for iOS...|1112|2024-09-10|
-|42|[LoSenTrad/LSTPopView](https://github.com/LoSenTrad/LSTPopView)|(重构开发中,swift版本同步进行)LSTPopView iOS万能弹窗 (QQ群:1045568246 微信:a_LSTKit)|1042|2024-08-13|
+|42|[LoSenTrad/LSTPopView](https://github.com/LoSenTrad/LSTPopView)|(重构开发中,swift版本同步进行)LSTPopView iOS万能弹窗 (QQ群:1045568246 微信:a_LSTKit)|1043|2024-08-13|
 |43|[eleme/Stinger](https://github.com/eleme/Stinger)|Stinger is a high-efficiency library with great compatibility, for aop in Objective-C,  using libffi instead of Objective-C message forwarding. It is 20+ times faster than the Aspects, from message-se ...|996|2024-04-26|
 |44|[vitoziv/VIMediaCache](https://github.com/vitoziv/VIMediaCache)|Cache media file while play media using AVPlayer|968|2024-05-21|
 |45|[Rogue24/JPImageresizerView](https://github.com/Rogue24/JPImageresizerView)|一个专门裁剪图片、GIF、视频的轮子😋 简单易用、功能丰富☕️（高自由度的参数设定、支持旋转和镜像翻转、蒙版、压缩等），能满足绝大部分裁剪的需求。|929|2024-08-24|
@@ -72,12 +72,12 @@
 |65|[pili-engineering/PLShortVideoKit](https://github.com/pili-engineering/PLShortVideoKit)|PLShortVideoKit 是七牛推出的一款适用于 iOS 平台的短视频 SDK，提供了包括美颜、滤镜、水印、断点录制、分段回删、视频编辑、混音特效、视频剪辑、本地转码、视频上传在内的多种功能，支持高度定制以及二次开发。|447|2024-04-30|
 |66|[qiniu/objc-sdk](https://github.com/qiniu/objc-sdk)|Qiniu Resource (Cloud) Storage Objective-C SDK for Mac/iOS|435|2024-08-05|
 |67|[aliyun/alicloud-ios-demo](https://github.com/aliyun/alicloud-ios-demo)|Demos for AMS iOS SDKs|431|2024-09-26|
-|68|[BlinkID/blinkid-ios](https://github.com/BlinkID/blinkid-ios)|Everything you need to add AI-driven ID scanning into your native iOS app.|385|2024-09-09|
+|68|[BlinkID/blinkid-ios](https://github.com/BlinkID/blinkid-ios)|Everything you need to add AI-driven ID scanning into your native iOS app.|385|2024-10-01|
 |69|[LuKane/KNPhotoBrowser](https://github.com/LuKane/KNPhotoBrowser)|图片浏览器(本地和网络) ,视频浏览器 (本地和网络), 无耦合性,自定义控件,资源路径保存和获取,  完美适配 iPhone 以及 iPad ,屏幕旋转功能.|373|2024-04-04|
 |70|[januslo/react-native-bluetooth-escpos-printer](https://github.com/januslo/react-native-bluetooth-escpos-printer)|React-Native plugin for the bluetooth ESC/POS & TSC printers.|367|2024-07-16|
 |71|[doushiDev/ds_ios](https://github.com/doushiDev/ds_ios)|逗视iOS客户端|354|2024-09-09|
 |72|[muzipiao/GMObjC](https://github.com/muzipiao/GMObjC)|SM2/SM3/SM4/ECDH crypto library based on OpenSSL.|347|2024-07-04|
-|73|[jiaxiaogang/he4o](https://github.com/jiaxiaogang/he4o)|螺旋熵减系统|321|2024-09-30|
+|73|[jiaxiaogang/he4o](https://github.com/jiaxiaogang/he4o)|螺旋熵减系统|321|2024-10-01|
 |74|[ripperhe/Debugo](https://github.com/ripperhe/Debugo)|一个可能有点用的 iOS 调试工具~|306|2024-07-30|
 |75|[Faceunity/FULiveDemo](https://github.com/Faceunity/FULiveDemo)|Faceunity 面部跟踪和虚拟道具 SDK 在 iOS 平台中的集成 Demo|302|2024-07-30|
 |76|[PZXforXcode/PZXCodeTextField](https://github.com/PZXforXcode/PZXCodeTextField)|Support Swift & OC A segmented verification code or password input control, you can customize the size and input bits and select the border color.  /一个按格分割的验证码或者密码输入控件，可以自定义大小和输入位数以及选中边框颜色等。|275|2024-09-29|
@@ -95,7 +95,7 @@
 |88|[CodeGather/flutter_ali_auth](https://github.com/CodeGather/flutter_ali_auth)|阿里云一键登录，提供接近原生的参数配置，自定义UI界面，配置效果详见实例演示图片，如果插件对你有帮助请帮忙点亮你的小星星予以支持。|154|2024-09-06|
 |89|[TencentCloud/httpdns-sdk-ios](https://github.com/TencentCloud/httpdns-sdk-ios)|智营防劫持SDK|150|2024-09-23|
 |90|[liangdahong/AMLeaksFinder](https://github.com/liangdahong/AMLeaksFinder)|A small tool for automatically detecting the [controller, view memory leak] in the project.  一款用于自动检测项目中【控制器内存泄漏，View 内存泄漏】的小工具，支持 ObjC，Swift。|145|2024-04-20|
-|91|[jiaxiaogang/HELIX_THEORY](https://github.com/jiaxiaogang/HELIX_THEORY)|螺旋熵减理论|137|2024-09-29|
+|91|[jiaxiaogang/HELIX_THEORY](https://github.com/jiaxiaogang/HELIX_THEORY)|螺旋熵减理论|137|2024-10-01|
 |92|[Roen-Ro/RRViewControllerExtension](https://github.com/Roen-Ro/RRViewControllerExtension)| UINavigationBar appearance management, memory leak detection, convenient UIViewController property and methods|134|2024-09-20|
 |93|[summer20140803/TDFScreenDebugger](https://github.com/summer20140803/TDFScreenDebugger)|真机桌面级调试工具。拥有实时阅读API日志、系统日志，自动化捕获崩溃、App性能分析、野指针排查、内存泄漏与循环引用检测等多项真机调试必备功能。|131|2024-05-26|
 |94|[changsanjiang/SJBaseVideoPlayer](https://github.com/changsanjiang/SJBaseVideoPlayer)|video player. rotation, volume, brightness, rate, play, pause, stop, seekToTime, present.|128|2024-05-20|
@@ -105,7 +105,7 @@
 |98|[jpush/jverify-flutter-plugin](https://github.com/jpush/jverify-flutter-plugin)|JPush's officially supported Flutter plugin (Android & iOS). 极光推送官方支持的 Flutter 插件（Android & iOS）。|117|2024-08-19|
 |99|[d2rivendell/LHWatermark](https://github.com/d2rivendell/LHWatermark)|Add a digital watermark to image。给图片加上数字(盲)水印|117|2024-07-25|
 |100|[Meiqia/MeiqiaSDK-iOS](https://github.com/Meiqia/MeiqiaSDK-iOS)|美洽 iOS SDK 3.9.17 面向开发者的 Demo。|112|2024-05-08|
-|101|[daipeihust/DPScrollNumberLabel](https://github.com/daipeihust/DPScrollNumberLabel)|🔥 A label extension for iOS📱, It display numbers and when you change the number it has a real logic animation.🌟|110|2024-05-27|
+|101|[daipeihust/DPScrollNumberLabel](https://github.com/daipeihust/DPScrollNumberLabel)|🔥 A label extension for iOS📱, It display numbers and when you change the number it has a real logic animation.🌟|111|2024-05-27|
 |102|[xuuhan/HXPhotoBrowser](https://github.com/xuuhan/HXPhotoBrowser)|📷 Photo browser that simulates progressive loading 可以模拟渐进式加载的图片浏览器|92|2024-07-01|
 |103|[growingio/growingio-sdk-ios-autotracker](https://github.com/growingio/growingio-sdk-ios-autotracker)|GrowingIO Analytics SDK for iOS/macOS/tvOS/watchOS/visionOS.|90|2024-09-30|
 |104|[lyandy/Linked_Order_Analyze](https://github.com/lyandy/Linked_Order_Analyze)|二进制重排 线下量化预分析工具|88|2024-05-07|
@@ -147,9 +147,9 @@
 |140|[netless-io/Whiteboard-iOS](https://github.com/netless-io/Whiteboard-iOS)|Whiteboard|30|2024-09-30|
 |141|[GDTMobSDK/GDTMobSDK-iOS](https://github.com/GDTMobSDK/GDTMobSDK-iOS)|优量汇（广点通）官方-sdk-demo - iOS 标准版|30|2024-07-27|
 |142|[GetuiLaboratory/getui-sdk-ios-cocoapods](https://github.com/GetuiLaboratory/getui-sdk-ios-cocoapods)|个推官方提供的推送SDK CocoaPods 集成库（iOS平台 ）|30|2024-09-09|
-|143|[QuintGao/GKVideoScrollView](https://github.com/QuintGao/GKVideoScrollView)|iOS仿抖音等上下滑动切换视图，使用方式类似UITableView，支持不同cell切换|29|2024-04-25|
-|144|[itenfay/DYFAuthIDAndGestureLock](https://github.com/itenfay/DYFAuthIDAndGestureLock)|手势密码解锁和 TouchID (指纹) / FaceID(面容) 解锁，代码简洁高效。(Gesture passcode unlocking and TouchID (fingerprint) / FaceID (facial features) unlocking.)|29|2024-06-16|
-|145|[DargonLee/LookinRootless](https://github.com/DargonLee/LookinRootless)|基于 Dopamine 无根越狱实现的插件，该插件可以调试 iOS 的 UI 界面|28|2024-09-27|
+|143|[DargonLee/LookinRootless](https://github.com/DargonLee/LookinRootless)|基于 Dopamine 无根越狱实现的插件，该插件可以调试 iOS 的 UI 界面|29|2024-09-27|
+|144|[QuintGao/GKVideoScrollView](https://github.com/QuintGao/GKVideoScrollView)|iOS仿抖音等上下滑动切换视图，使用方式类似UITableView，支持不同cell切换|29|2024-04-25|
+|145|[itenfay/DYFAuthIDAndGestureLock](https://github.com/itenfay/DYFAuthIDAndGestureLock)|手势密码解锁和 TouchID (指纹) / FaceID(面容) 解锁，代码简洁高效。(Gesture passcode unlocking and TouchID (fingerprint) / FaceID (facial features) unlocking.)|29|2024-06-16|
 |146|[DNSPod/httpdns-sdk-ios](https://github.com/DNSPod/httpdns-sdk-ios)|iOS 平台 httpdns sdk 源码|28|2024-08-12|
 |147|[BlackStarLang/BSFramework](https://github.com/BlackStarLang/BSFramework)|多功能 framework，持续集成中。已开发pod组件：图片、视频选择器、图片视频预览控件、自定义相机：拍照+拍摄 ，3D轮播图 + iOS功能点学习（如 runloop、runtime、多线程、AutoreleasePool、DynamicBehavior 等等)|28|2024-06-26|
 |148|[netease-kit/NECallKit](https://github.com/netease-kit/NECallKit)|实现呼叫、接听、挂断能力，应用于语音、视频通话场景|27|2024-06-13|
