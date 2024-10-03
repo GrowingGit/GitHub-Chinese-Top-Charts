@@ -1,14 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > R
-<sub>数据更新: 2024-10-01&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-03&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[lcpmgh/colors](https://github.com/lcpmgh/colors)|学术期刊配色推荐器|43|2024-04-06|2024-04-05|
+|1|[lcpmgh/colors](https://github.com/lcpmgh/colors)|学术期刊配色推荐器|44|2024-10-02|2024-04-05|
 |2|[YangXiao311/WeChat_subscription](https://github.com/YangXiao311/WeChat_subscription)|用于提供微信公众号“xy要加油鸭”所使用的数据及代码。The data and code used for the WeChat public account 'xy要加油鸭'.|7|2024-09-28|2024-08-27|
-|3|[ayueme/R_beginners](https://github.com/ayueme/R_beginners)|医学生R语言零基础入门|7|2024-07-27|2024-05-06|
-|4|[Lin-zikai/GWAS](https://github.com/Lin-zikai/GWAS)|SMR的笔记|6|2024-05-06|2024-01-30|
+|3|[Lin-zikai/GWAS](https://github.com/Lin-zikai/GWAS)|SMR的笔记|6|2024-05-06|2024-01-30|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
