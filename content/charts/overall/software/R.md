@@ -1,11 +1,11 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > R
-<sub>数据更新: 2024-10-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1776|2024-09-18|
+|1|[dreamRs/esquisse](https://github.com/dreamRs/esquisse)|RStudio add-in to make plots interactively with ggplot2|1777|2024-09-18|
 |2|[stan-dev/rstan](https://github.com/stan-dev/rstan)|RStan, the R interface to Stan|1035|2024-10-02|
 |3|[haozhu233/kableExtra](https://github.com/haozhu233/kableExtra)|Construct Complex Table with knitr::kable() + pipe. |688|2024-07-10|
 |4|[erikgahner/PolData](https://github.com/erikgahner/PolData)|A dataset with political datasets|621|2024-09-07|
@@ -45,7 +45,7 @@
 |38|[tianshu129/foqat](https://github.com/tianshu129/foqat)|Field observation quick analysis toolkit|33|2024-09-27|
 |39|[gee-hydro/gee_whittaker_kong2019_validation](https://github.com/gee-hydro/gee_whittaker_kong2019_validation)|Non-parametric weighted Whittaker smoothing|33|2024-04-11|
 |40|[gesistsa/sweater](https://github.com/gesistsa/sweater)|👚 Speedy Word Embedding Association Test & Extras using R|27|2024-08-12|
-|41|[kevinwang09/learningtower](https://github.com/kevinwang09/learningtower)|Easily accessible PISA data|26|2024-10-03|
+|41|[kevinwang09/learningtower](https://github.com/kevinwang09/learningtower)|Easily accessible PISA data|26|2024-10-04|
 |42|[ropensci/restez](https://github.com/ropensci/restez)|:sleeping: :open_file_folder: Create and Query a Local Copy of GenBank in R|25|2024-04-19|
 |43|[sascha2schroeder/popEye](https://github.com/sascha2schroeder/popEye)|An R package to analyze eye-tracking data from reading experiments|22|2024-08-21|
 |44|[fragla/eq5d](https://github.com/fragla/eq5d)|-|21|2024-09-09|

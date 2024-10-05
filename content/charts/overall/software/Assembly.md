@@ -1,13 +1,13 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > Assembly
-<sub>数据更新: 2024-10-04&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-05&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
-|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|57580|2024-07-11|
-|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10941|2024-08-20|
-|3|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6789|2024-09-23|
+|1|[chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)|Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.|57584|2024-07-11|
+|2|[leachim6/hello-world](https://github.com/leachim6/hello-world)|Hello world in every computer language.  Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!|10945|2024-08-20|
+|3|[bytedance/sonic](https://github.com/bytedance/sonic)|A blazingly fast JSON serializing & deserializing library|6791|2024-09-23|
 |4|[mengning/linuxkernel](https://github.com/mengning/linuxkernel)|操作系统导论教学资料、《庖丁解牛Linux内核》配套资料|265|2024-07-20|
 |5|[zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU](https://github.com/zhuozhiyongde/Introduction-to-Computer-System-2023Fall-PKU)|北京大学 2023 年秋计算机系统导论课程（ICS）作业、笔记、经验|119|2024-09-04|
 |6|[team-s2/ctf_summer_courses](https://github.com/team-s2/ctf_summer_courses)|AAA - 短学期安全攻防实践开源仓库|88|2024-07-25|
@@ -16,9 +16,9 @@
 |9|[ThuryW/ZJU-ISEE](https://github.com/ThuryW/ZJU-ISEE)|ZJU-ISEE 微电子 个人存档|15|2024-06-12|
 |10|[fzf404/MiniSystem](https://github.com/fzf404/MiniSystem)|💾 Nasm 汇编写操作系统|12|2024-04-24|
 |11|[DANNHIROAKI/XJTU-COMP400627-OS](https://github.com/DANNHIROAKI/XJTU-COMP400627-OS)|西安交通大学COMP400627操作系统课程|11|2024-04-25|
-|12|[DongshanPI/DongshanPI-D1s_BareMetal](https://github.com/DongshanPI/DongshanPI-D1s_BareMetal)|国产全志平头哥C906 RISC-V DongshanPI-D1s RV64GVC 裸机示例仓库！|11|2024-05-09|
-|13|[Yaochenger/RvBacktrace](https://github.com/Yaochenger/RvBacktrace)|RISC-V 极简栈回溯组件|10|2024-09-24|
-|14|[YuS1aN/zhenxun_bot_android_ui](https://github.com/YuS1aN/zhenxun_bot_android_ui)|绪山真寻Bot的Android管理后台|10|2024-09-08|
+|12|[YuS1aN/zhenxun_bot_android_ui](https://github.com/YuS1aN/zhenxun_bot_android_ui)|绪山真寻Bot的Android管理后台|11|2024-09-08|
+|13|[DongshanPI/DongshanPI-D1s_BareMetal](https://github.com/DongshanPI/DongshanPI-D1s_BareMetal)|国产全志平头哥C906 RISC-V DongshanPI-D1s RV64GVC 裸机示例仓库！|11|2024-05-09|
+|14|[Yaochenger/RvBacktrace](https://github.com/Yaochenger/RvBacktrace)|RISC-V 极简栈回溯组件|10|2024-09-24|
 |15|[wujin1989/coroutine-context-switch](https://github.com/wujin1989/coroutine-context-switch)|一个协程的上下文切换代码，支持windows，linux，macosx(intel)。macosx(aarch64)后续会支持|10|2024-07-18|
 |16|[skyboooox/HomoOS](https://github.com/skyboooox/HomoOS)|宏萌-自主研发国内微内核跨平台操作系统|9|2024-06-28|
 |17|[Wokann/Pokemon_GBA_Font_Patch](https://github.com/Wokann/Pokemon_GBA_Font_Patch)|宝可梦3代GBA汉字字库补丁（增益优化版）|7|2024-07-15|
