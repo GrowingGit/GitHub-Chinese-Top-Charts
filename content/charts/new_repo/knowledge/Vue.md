@@ -1,14 +1,14 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 资料类 > Vue
-<sub>数据更新: 2024-10-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
-|1|[srsng/cozy-reader](https://github.com/srsng/cozy-reader)|一款轻量的阅读软件，仅支持ePub格式电子书。 基于Rust+tauri+Vue3|134|2024-10-05|2024-08-12|
+|1|[srsng/cozy-reader](https://github.com/srsng/cozy-reader)|一款轻量的阅读软件，仅支持ePub格式电子书。 基于Rust+tauri+Vue3|136|2024-10-06|2024-08-12|
 |2|[DrssXpro/waterfall-demo](https://github.com/DrssXpro/waterfall-demo)|Vue3 + TS：模仿小红书封装瀑布流组件|102|2024-05-23|2024-01-11|
-|3|[Theo-Messi/xx.theojs.cn](https://github.com/Theo-Messi/xx.theojs.cn)|玄学宝典 - 中华传统五术书籍(山医命相卜)/传世经典著作|76|2024-08-01|2023-10-18|
-|4|[fantastic-mobile/basic](https://github.com/fantastic-mobile/basic)|⭐⭐⭐⭐⭐ 一款自成一派的移动端 H5 框架，支持多款 UI 组件库，基于 Vue3 。移动端, H5, vant, 手机端, mobile, 模板, 商城, 微信公众号|75|2024-10-02|2024-05-29|
+|3|[fantastic-mobile/basic](https://github.com/fantastic-mobile/basic)|⭐⭐⭐⭐⭐ 一款自成一派的移动端 H5 框架，支持多款 UI 组件库，基于 Vue3 。移动端, H5, vant, 手机端, mobile, 模板, 商城, 微信公众号|76|2024-10-02|2024-05-29|
+|4|[Theo-Messi/xx.theojs.cn](https://github.com/Theo-Messi/xx.theojs.cn)|玄学宝典 - 中华传统五术书籍(山医命相卜)/传世经典著作|76|2024-08-01|2023-10-18|
 |5|[bitporo/EasySend](https://github.com/bitporo/EasySend)|✨⚡️EasySend is a software that can share messages and files in LAN.  Only need open it on the host device, other devices use browser receive messages and files(局域网共享文本文件小工具，仅需一端安装，其余端使用浏览器即可)|62|2024-09-23|2024-06-10|
 |6|[Colin-XKL/FeedCraft](https://github.com/Colin-XKL/FeedCraft)|craft your feed at ease! 轻量级rss中间件, 提取全文, 翻译、摘要一站式服务|51|2024-10-02|2024-04-19|
 |7|[Natrium0521/Firefly](https://github.com/Natrium0521/Firefly)|《崩坏：星穹铁道》流萤工具箱——成就管理、跃迁记录|44|2024-09-20|2024-03-03|
@@ -26,17 +26,17 @@
 |19|[shuhongfan/atguigu_vue3](https://github.com/shuhongfan/atguigu_vue3)|尚硅谷Vue3入门到实战，最新版vue3+TypeScript前端开发教程  禹神YYDS，千万播放新版Vue3教程来了！ 基于Vue3的setup语法糖讲解，全程采用TypeScript+组合式API编码，贴心准备TypeScript快速上手笔记！带你快速上手纯血版Vue3！|10|2024-08-13|2024-08-13|
 |20|[fangyuan99/douyin-AI-wenan](https://github.com/fangyuan99/douyin-AI-wenan)|Douyin AI Wenan 是一个基于Vue 3和coze的智能文案处理工作流。  它能够自动修正从抖音视频中提取的文本,处理同音字错误,并优化标点符号使用。  获取到修正文本之后,可以推送到Memos在线备忘录，方便后续继续学习。|10|2024-09-09|2024-07-28|
 |21|[Sunnnner/wallhaven_rs](https://github.com/Sunnnner/wallhaven_rs)|Wallpapers图片下载器|9|2024-05-23|2024-05-21|
-|22|[EITSxiaozhai/FastApi_Blog](https://github.com/EITSxiaozhai/FastApi_Blog)|一个Fastap+VUE的前后端异步分离博客项目-采用了Docker自动部署|9|2024-09-21|2023-10-31|
+|22|[EITSxiaozhai/FastApi_Blog](https://github.com/EITSxiaozhai/FastApi_Blog)|一个Fastap+VUE的前后端异步分离博客项目-采用了Docker自动部署|9|2024-10-06|2023-10-31|
 |23|[LiHongyao/vite-vue-template](https://github.com/LiHongyao/vite-vue-template)|基于Vite5.0 + TypeScript + Vant4 搭建的H5、公众号、生活号模板|8|2024-08-06|2023-11-18|
 |24|[PFCCLab/blog](https://github.com/PFCCLab/blog)|PFCC 社区博客|8|2024-09-29|2023-10-24|
 |25|[ooahz/z2-blog-nuxt](https://github.com/ooahz/z2-blog-nuxt)|Nuxt3+Vue3+TS——采用前沿技术栈的现代化响应式博客项目|7|2024-09-30|2024-07-27|
 |26|[wf0/monaco-editor-translate](https://github.com/wf0/monaco-editor-translate)|monaco editor 译文（中文学习文档）|7|2024-09-24|2024-06-21|
-|27|[milkory/anita-terminal](https://github.com/milkory/anita-terminal)|阿妮塔终端 / 雷索纳斯 资料整合站|7|2024-06-22|2024-03-25|
-|28|[BrackRat/BrBlog](https://github.com/BrackRat/BrBlog)|优雅至上的个人博客。 Nuxt3 全栈博客|7|2024-07-06|2024-02-15|
-|29|[CoderXiaoShi/master-talk](https://github.com/CoderXiaoShi/master-talk)|master-talk 大佬说|7|2024-09-03|2024-02-05|
-|30|[KikoStar123/webgis_srtp](https://github.com/KikoStar123/webgis_srtp)|时空知识图谱SRTP项目Webgis前端|7|2024-09-22|2024-01-28|
-|31|[course-dasheng/geektime-vue-course](https://github.com/course-dasheng/geektime-vue-course)|极客时间玩转vue课件|6|2024-07-10|2024-05-24|
-|32|[zhcndoc/elysia](https://github.com/zhcndoc/elysia)|Elysia 中文文档|6|2024-10-05|2024-04-20|
+|27|[zhcndoc/elysia](https://github.com/zhcndoc/elysia)|Elysia 中文文档|7|2024-10-05|2024-04-20|
+|28|[milkory/anita-terminal](https://github.com/milkory/anita-terminal)|阿妮塔终端 / 雷索纳斯 资料整合站|7|2024-06-22|2024-03-25|
+|29|[BrackRat/BrBlog](https://github.com/BrackRat/BrBlog)|优雅至上的个人博客。 Nuxt3 全栈博客|7|2024-07-06|2024-02-15|
+|30|[CoderXiaoShi/master-talk](https://github.com/CoderXiaoShi/master-talk)|master-talk 大佬说|7|2024-09-03|2024-02-05|
+|31|[KikoStar123/webgis_srtp](https://github.com/KikoStar123/webgis_srtp)|时空知识图谱SRTP项目Webgis前端|7|2024-09-22|2024-01-28|
+|32|[course-dasheng/geektime-vue-course](https://github.com/course-dasheng/geektime-vue-course)|极客时间玩转vue课件|6|2024-07-10|2024-05-24|
 |33|[wushanglang/ppenglish](https://github.com/wushanglang/ppenglish)|双语外刊阅读 + AI翻译（四六级、考研）|5|2024-08-31|2024-08-05|
 |34|[xfxdesk/xfxai](https://github.com/xfxdesk/xfxai)|小飞侠AI解决方案, AI办公, AI辅助, PPT转化, 生产力, 工作流程, 文档处理, 设计和演示应用, 工作效率, 任务管理, 项目管理, 办公自动化, 创意展现, 智能日程管理, 数据驱动决策, 效率提升, 创新工作方案, 实战案例分享, 优化工作流, 提高工作效率, 智能技术应用|5|2024-06-21|2024-05-31|
 |35|[Azure12355/Medical-QASystem-front-end](https://github.com/Azure12355/Medical-QASystem-front-end)|基于Neo4j的医疗知识图谱的智能问答-Vue前端界面|5|2024-05-21|2024-05-21|

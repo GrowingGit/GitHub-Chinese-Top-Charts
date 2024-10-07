@@ -1,12 +1,12 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文总榜 > 软件类 > MATLAB
-<sub>数据更新: 2024-10-06&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|
 |:-|:-|:-|:-|:-|
 |1|[ShiArthur03/ShiArthur03](https://github.com/ShiArthur03/ShiArthur03)|-|10382|2024-08-05|
-|2|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|781|2024-09-26|
+|2|[Linfeng-Tang/Image-Fusion](https://github.com/Linfeng-Tang/Image-Fusion)|Deep Learning-based Image Fusion: A Survey|782|2024-09-26|
 |3|[zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning](https://github.com/zhaohaojie1998/Grey-Wolf-Optimizer-for-Path-Planning)|灰狼优化算法(GWO)路径规划/轨迹规划/轨迹优化、多智能体/多无人机航迹规划|365|2024-04-13|
 |4|[AlterWL/Battery_SOC_Estimation](https://github.com/AlterWL/Battery_SOC_Estimation)|Battery state of charge estimation using kalman filter in Matlab|302|2024-04-12|
 |5|[yandld/nav_matlab](https://github.com/yandld/nav_matlab)|基于的matlab导航科学计算库|235|2024-09-30|
@@ -41,7 +41,7 @@
 |34|[vectorZeng/hzbmmc2024-B](https://github.com/vectorZeng/hzbmmc2024-B)|2024年华中杯数学建模比赛 B题 使用行车轨迹估计交通信号灯周期问题|10|2024-06-06|
 |35|[coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm](https://github.com/coollingomg/Uav-track-collaborative-planning-based-on-pso-algorithm)|Uav track collaborative planning based on pso algorithm/基于pso算法的无人机航迹协同规划|9|2024-07-09|
 |36|[highskyno1/2users-CDMA-simulation](https://github.com/highskyno1/2users-CDMA-simulation)|基于MATLAB的直接序列扩频通信系统仿真|9|2024-04-15|
-|37|[iChunyu/iChunyu.github.io](https://github.com/iChunyu/iChunyu.github.io)|某春雨的后花园|9|2024-07-18|
+|37|[iChunyu/iChunyu.github.io](https://github.com/iChunyu/iChunyu.github.io)|某春雨的后花园|9|2024-10-06|
 |38|[Trist-wood/Digital-image-processing-system](https://github.com/Trist-wood/Digital-image-processing-system)|本系统基于MATLAB 的图像处理工具箱和图形用户界面(GUI)设计与实现，构建了一个面向对象且高度可视化的图像处理操作系统，该系统实现了图像增强、图像变换、图像滤波、图像分割、边缘检测等内容|7|2024-05-25|
 |39|[123RoBin0819/Sea-clutter](https://github.com/123RoBin0819/Sea-clutter)|海杂波|7|2024-05-17|
 |40|[Aleiluo/My-Mathematical-Modeling](https://github.com/Aleiluo/My-Mathematical-Modeling)|本人备战、参加数学建模竞赛的图片和代码|7|2024-05-21|
@@ -78,9 +78,10 @@
 |71|[Chang-huilin/MyMasterLearning](https://github.com/Chang-huilin/MyMasterLearning)|一些光谱与图像的读取，处理，和算法|3|2024-07-30|
 |72|[zawudui/-](https://github.com/zawudui/-)|用于存放李某人公开的数据处理代码，包括脑电数据分析、统计等|3|2024-04-17|
 |73|[WanXiaoLong1/GNSS](https://github.com/WanXiaoLong1/GNSS)|广播星历进行卫星位置计算、O文件N文件的读取、广播星历精度评定|3|2024-05-23|
-|74|[luwang103004/matlab-interference-simulation](https://github.com/luwang103004/matlab-interference-simulation)|第一个学期做的matlab仿真模拟和GS算法|3|2024-08-31|
-|75|[Freeman449s/DCT-and-DWT-Based-Image-Protection](https://github.com/Freeman449s/DCT-and-DWT-Based-Image-Protection)|基于DCT和DWT的图像篡改保护程序，检测图像在传输等过程中是否遭到了篡改。|3|2024-09-22|
-|76|[ZhiDongRen/FP_interfermeter](https://github.com/ZhiDongRen/FP_interfermeter)|1、FP干涉仪 2、基于matlab _安装matlab包即可体验 3、打开matlab工具，点击 (安装App)--选中(FP_interferometer.mlappinstall)并点击安装即可 4、GUI界面包含多种参数可调干涉仪 |3|2024-09-04|
+|74|[wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model](https://github.com/wangxiaolei0721/Continuous_and_discrete_grey_Fourier_model)|王小雷, 谢乃明. 考虑季节性特征的灰色傅里叶模型及其应用[J]. 系统工程理论与实践, 2022: 1-14.|3|2024-09-28|
+|75|[luwang103004/matlab-interference-simulation](https://github.com/luwang103004/matlab-interference-simulation)|第一个学期做的matlab仿真模拟和GS算法|3|2024-08-31|
+|76|[Freeman449s/DCT-and-DWT-Based-Image-Protection](https://github.com/Freeman449s/DCT-and-DWT-Based-Image-Protection)|基于DCT和DWT的图像篡改保护程序，检测图像在传输等过程中是否遭到了篡改。|3|2024-09-22|
+|77|[ZhiDongRen/FP_interfermeter](https://github.com/ZhiDongRen/FP_interfermeter)|1、FP干涉仪 2、基于matlab _安装matlab包即可体验 3、打开matlab工具，点击 (安装App)--选中(FP_interferometer.mlappinstall)并点击安装即可 4、GUI界面包含多种参数可调干涉仪 |3|2024-09-04|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
