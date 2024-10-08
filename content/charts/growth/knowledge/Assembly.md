@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文增速榜 > 资料类 > Assembly
-<sub>数据更新: 2024-10-07&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Average daily growth|Updated|
 |:-|:-|:-|:-|:-|:-|
@@ -15,7 +15,7 @@
 |8|[William-Seven/Collected-study-materials-from-BUPT](https://github.com/William-Seven/Collected-study-materials-from-BUPT)|（bupt本科）本人报告+收集资料+个人指北，持续更新，欢迎⭐|17|0|2024-07-28|
 |9|[susudebug/XMU_Assembly](https://github.com/susudebug/XMU_Assembly)|厦门大学信息学院计科汇编资料|3|0|2024-06-07|
 |10|[XuShaohua/intro-to-rust](https://github.com/XuShaohua/intro-to-rust)|Introduction to Rust - 建立 Rust 的知识体系, 理清难点.|2|0|2024-08-08|
-|11|[MinmusLin/Assembly_Language_Course_Assignments](https://github.com/MinmusLin/Assembly_Language_Course_Assignments)|A collection of my assembly language course assignments. 2024年同济大学汇编语言课程作业合集.|2|0|2024-09-24|
+|11|[MinmusLin/Assembly_Language_Course_Assignments](https://github.com/MinmusLin/Assembly_Language_Course_Assignments)|A collection of my assembly language course assignments. 2024年同济大学汇编语言课程作业合集.|2|0|2024-10-07|
 
 <div align="center">
     <p><sub>↓ -- 感谢读者 -- ↓</sub></p>
