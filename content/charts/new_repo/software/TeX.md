@@ -1,7 +1,7 @@
 <a href="https://github.com/GrowingGit/GitHub-Chinese-Top-Charts#github中文排行榜">返回目录</a> • <a href="/content/docs/feedback.md">问题反馈</a>
 
 # 中文新秀榜 > 软件类 > TeX
-<sub>数据更新: 2024-10-08&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
+<sub>数据更新: 2024-10-10&nbsp;&nbsp;&nbsp;/&nbsp;&nbsp;&nbsp;温馨提示：中文项目泛指「文档母语为中文」OR「含有中文翻译」的项目，通常在项目的「readme/wiki/官网」可以找到</sub>
 
 |#|Repository|Description|Stars|Updated|Created|
 |:-|:-|:-|:-|:-|:-|
@@ -14,11 +14,11 @@
 |7|[ymx10086/HUST-2022-DATA_STRUCTURES](https://github.com/ymx10086/HUST-2022-DATA_STRUCTURES)|2021级HUST数据结构实验及实验报告|8|2024-04-17|2024-04-17|
 |8|[ajsadhotmail/2024-China-Gaokao-Math](https://github.com/ajsadhotmail/2024-China-Gaokao-Math)|The repository includes the math paper of Chinese National College Entrance Exam (Gaokao).  本仓库包含了中国2024年高考的数学试卷 (新高考I卷).  |7|2024-06-08|2024-06-08|
 |9|[Cresc3ntRose/NUAA_IoT_Assignment](https://github.com/Cresc3ntRose/NUAA_IoT_Assignment)|这个仓库用于储存我个人的课内作业|7|2024-06-29|2024-04-10|
-|10|[Guanyu-Li/Defense-Reporting-ppt](https://github.com/Guanyu-Li/Defense-Reporting-ppt)|答辩ppt模板（吉林大学数学学院）Defence ppt Template|6|2024-07-21|2024-05-31|
-|11|[flyQQQHddd/temp-of-report](https://github.com/flyQQQHddd/temp-of-report)|WHURS实习报告LaTex模板|6|2024-09-18|2024-05-21|
-|12|[CSW33/NPU-CV](https://github.com/CSW33/NPU-CV)|一个西工大latex简历模板，设计基于某个祖传word模板改的，大量注释。|6|2024-05-07|2024-05-03|
-|13|[wenjin1997/zkHackerHouse-binius](https://github.com/wenjin1997/zkHackerHouse-binius)|在zkHackerHouse@苏州 期间，对binius进行的主题研究。|6|2024-05-03|2024-04-15|
-|14|[GALVINLAI/gpt2md_math](https://github.com/GALVINLAI/gpt2md_math)|修正chatpgt粘贴的数学公式，以在常用的md编辑器（Obsidian，Typora等）中正常显示|5|2024-07-09|2024-06-16|
+|10|[GALVINLAI/gpt2md_math](https://github.com/GALVINLAI/gpt2md_math)|修正chatpgt粘贴的数学公式，以在常用的md编辑器（Obsidian，Typora等）中正常显示|6|2024-07-09|2024-06-16|
+|11|[Guanyu-Li/Defense-Reporting-ppt](https://github.com/Guanyu-Li/Defense-Reporting-ppt)|答辩ppt模板（吉林大学数学学院）Defence ppt Template|6|2024-07-21|2024-05-31|
+|12|[flyQQQHddd/temp-of-report](https://github.com/flyQQQHddd/temp-of-report)|WHURS实习报告LaTex模板|6|2024-09-18|2024-05-21|
+|13|[CSW33/NPU-CV](https://github.com/CSW33/NPU-CV)|一个西工大latex简历模板，设计基于某个祖传word模板改的，大量注释。|6|2024-05-07|2024-05-03|
+|14|[wenjin1997/zkHackerHouse-binius](https://github.com/wenjin1997/zkHackerHouse-binius)|在zkHackerHouse@苏州 期间，对binius进行的主题研究。|6|2024-05-03|2024-04-15|
 |15|[dgsyrc/Analysis-of-Signals-and-Linear-Systems](https://github.com/dgsyrc/Analysis-of-Signals-and-Linear-Systems)|信号与线性系统分析笔记，基于高等教育出版社《信号与线性系统分析》第5版, 吴大正 等著|5|2024-07-01|2024-06-15|
 |16|[MinmusLin/Minmus_Operating_System_in_Rust](https://github.com/MinmusLin/Minmus_Operating_System_in_Rust)|MinmusOS: The design and implementation of an operating system based on Rust language. MinmusOS: 基于 Rust 语言的操作系统的设计与实现. (2024年同济大学操作系统课程设计课程项目)|5|2024-09-23|2024-05-04|
 |17|[LeyuDame/BNUslides](https://github.com/LeyuDame/BNUslides)|北师大Beamer模板|5|2024-04-22|2024-04-20|
